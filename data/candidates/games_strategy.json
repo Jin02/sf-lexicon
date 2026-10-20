@@ -1,0 +1,1875 @@
+{
+ "group": "games_strategy",
+ "candidates": [
+  {
+   "id": "master_of_orion",
+   "orig": "Master of Orion",
+   "orig_en": "",
+   "ko": "마스터 오브 오리온",
+   "ko_src": "스팀 한국 상점 『Master of Orion』(2016) 한국어 설명",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Master of Orion (1993) ~ Master of Orion 3 (2003), Master of Orion: Conquer the Stars (2016)",
+   "by": "Simtex · MicroProse (2016 판은 NGD Studios · Wargaming)",
+   "year": 1993,
+   "country": "미국",
+   "setting": "오리온 별에 잠든 옛 종족의 유산을 두고 여러 외계 종족이 은하를 다툰다",
+   "concepts": [
+    "alien",
+    "precursor",
+    "colonization",
+    "terraforming",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 셋과 2016년 판 · 『Master of Orion 2』 스팀 평가 1,767건 중 긍정 96% · 『Master of Orion』 스팀 평가 8,208건 중 긍정 77%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Master of Orion / 한국어 없음: Master of Orion 1, Master of Orion 2, Master of Orion 3. 옛 2편은 쌍용이 국내 정식 발매했다고 나무위키에 있으나 한국어였는지는 확인 못 함",
+    "src": "https://store.steampowered.com/app/298050/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "galactic_civilizations",
+   "orig": "Galactic Civilizations",
+   "orig_en": "",
+   "ko": "갤럭틱 시빌라이제이션",
+   "ko_src": "스팀 한국 상점 이름 『갤럭틱 시빌라이제이션 IV』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Galactic Civilizations (1994, OS/2) ~ Galactic Civilizations IV (2022)",
+   "by": "Stardock",
+   "year": 1994,
+   "country": "미국",
+   "setting": "초공간 항행을 처음 만든 인류가 은하에 퍼지며 여러 외계 문명과 겨룬다",
+   "concepts": [
+    "hyperspace",
+    "alien",
+    "precursor",
+    "colonization",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 네 편(1994~2022) · 『Galactic Civilizations III』 스팀 평가 10,406건 중 긍정 77%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Galactic Civilizations IV / 한국어 없음: Galactic Civilizations® I: Ultimate Edition, Galactic Civilizations® II: Ultimate Edition, Galactic Civilizations III",
+    "src": "https://store.steampowered.com/app/1357210/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "endless",
+   "orig": "ENDLESS",
+   "orig_en": "",
+   "ko": "엔들리스",
+   "ko_src": "스팀 한국 상점 이름 『엔들리스 레전드 2』(『ENDLESS Space 2』 한국어 설명에는 '엔드리스'로 적힘)",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Endless Space (2012), Dungeon of the Endless (2014), Endless Legend (2014), Endless Space 2 (2017), Endless Dungeon (2023), Endless Legend 2 (2026)",
+   "by": "Amplitude Studios",
+   "year": 2012,
+   "country": "프랑스",
+   "setting": "사라진 옛 종족이 남긴 신비한 가루와 유적을 두고 후대 종족들이 다툰다",
+   "concepts": [
+    "precursor",
+    "key_resource",
+    "alien",
+    "mind_upload",
+    "fleet_battle"
+   ],
+   "new_ideas": "옛 종족이 몸을 지킨 쪽과 의식을 기계로 옮긴 쪽으로 갈라져 서로 싸우다 사라짐",
+   "lore_size": "큼",
+   "notability": "같은 세계에 게임 여섯 편 · 『ENDLESS Space™ 2』 스팀 평가 23,143건 중 긍정 83% · 『ENDLESS Legend™』 스팀 평가 19,104건 중 긍정 83%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: ENDLESS Space™ 2, ENDLESS Dungeon™ - Definitive Edition, ENDLESS Legend™ 2 / 한국어 없음: ENDLESS Space™ - Definitive Edition, Dungeon of the ENDLESS™, ENDLESS Legend™",
+    "src": "https://store.steampowered.com/app/392110/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sins_of_a_solar_empire",
+   "orig": "Sins of a Solar Empire",
+   "orig_en": "",
+   "ko": "태양 제국의 죄악",
+   "ko_src": "스팀 한국 상점 『Sins of a Solar Empire II』 한국어 설명(‘태양 제국의 죄악 II’)",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Sins of a Solar Empire (2008) · 확장 셋 · Rebellion (2012) ~ Sins of a Solar Empire II (2024)",
+   "by": "Ironclad Games · Stardock",
+   "year": 2008,
+   "country": "캐나다",
+   "setting": "상인 연합, 정신 능력을 섬기는 망명 집단, 무언가에 쫓겨 온 유랑 종족이 맞붙는다",
+   "concepts": [
+    "lanes",
+    "fleet_battle",
+    "psionics",
+    "alien",
+    "ideology_split"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 확장 여럿 · 『Sins of a Solar Empire®: Rebellion』 스팀 평가 16,366건 중 긍정 93% · 『Sins of a Solar Empire II』 스팀 평가 8,852건 중 긍정 83%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Sins of a Solar Empire II / 한국어 없음: Sins of a Solar Empire®: Rebellion",
+    "src": "https://store.steampowered.com/app/1575940/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "homeworld",
+   "orig": "Homeworld",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Homeworld (1999), Cataclysm (2000), Homeworld 2 (2003), Deserts of Kharak (2016), Homeworld 3 (2024)",
+   "by": "Relic Entertainment (뒤로 Blackbird Interactive · Gearbox)",
+   "year": 1999,
+   "country": "캐나다",
+   "setting": "사막 행성에서 잃어버린 고향의 단서를 찾은 사람들이 거대 모선을 지어 별을 건넌다",
+   "concepts": [
+    "hyperspace",
+    "cryosleep",
+    "precursor",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "본편·외전 다섯 편, 실시간 전략 고전 · 『Homeworld Remastered Collection』 스팀 평가 14,214건 중 긍정 88%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Homeworld 3 / 한국어 없음: Homeworld Remastered Collection, Homeworld: Deserts of Kharak. 1편은 옛 한국어판이 있었다고 나무위키에 적혀 있음(2편 국내판은 한국어 아님)",
+    "src": "https://store.steampowered.com/app/1840080/ ; https://namu.wiki/w/%ED%99%88%EC%9B%94%EB%93%9C"
+   },
+   "borderline": false
+  },
+  {
+   "id": "supreme_commander",
+   "orig": "Supreme Commander",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Supreme Commander (2007), Forged Alliance (2007), Supreme Commander 2 (2010)",
+   "by": "Gas Powered Games",
+   "year": 2007,
+   "country": "미국",
+   "setting": "관문망으로 은하에 퍼진 인류가 세 갈래로 갈라져 천 년 동안 싸운다",
+   "concepts": [
+    "gate_network",
+    "ideology_split",
+    "cyborg",
+    "alien"
+   ],
+   "new_ideas": "모든 것을 짓는 지휘관 기계 하나에 싸움 전체가 걸림",
+   "lore_size": "중간",
+   "notability": "본편 둘과 확장 · 『Supreme Commander: Forged Alliance』 스팀 평가 14,434건 중 긍정 97%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Supreme Commander, Supreme Commander: Forged Alliance, Supreme Commander 2. 1편은 국내에 한국어로 정식 발매됐다고 나무위키에 있음(확장 Forged Alliance 는 국내 미발매)",
+    "src": "https://namu.wiki/w/%EC%8A%88%ED%94%84%EB%A6%BC%20%EC%BB%A4%EB%A7%A8%EB%8D%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "total_annihilation",
+   "orig": "Total Annihilation",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Total Annihilation (1997) · 확장 둘 (1998)",
+   "by": "Cavedog Entertainment",
+   "year": 1997,
+   "country": "미국",
+   "setting": "사람 마음을 기계로 옮기라는 명령을 두고 기계 쪽과 몸을 지키는 쪽이 은하를 태운다",
+   "concepts": [
+    "mind_upload",
+    "clone",
+    "robot",
+    "ideology_split"
+   ],
+   "new_ideas": "모든 것을 짓는 지휘관 기계 하나에 싸움 전체가 걸림",
+   "lore_size": "작음",
+   "notability": "실시간 전략 고전 · 『Total Annihilation』 스팀 평가 3,794건 중 긍정 96%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Total Annihilation. 국내 정식 발매(1997, 삼성영상사업단)는 있었으나 한국어 미지원이라고 나무위키에 있음",
+    "src": "https://namu.wiki/w/%ED%86%A0%ED%83%88%20%EC%96%B4%EB%82%98%EC%9D%B4%EC%96%BC%EB%A0%88%EC%9D%B4%EC%85%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "command_and_conquer_tiberium",
+   "orig": "Command & Conquer (Tiberium)",
+   "orig_en": "",
+   "ko": "커맨드 앤 컨커",
+   "ko_src": "스팀 한국 상점 이름 『커맨드 앤 컨커 리마스터 컬렉션』·『커맨드 앤 컨커 3: 타이베리움 워』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Command & Conquer (1995), Tiberian Sun (1999), Renegade (2002), Tiberium Wars (2007), Tiberian Twilight (2010)",
+   "by": "Westwood Studios (뒤로 EA Los Angeles)",
+   "year": 1995,
+   "country": "미국",
+   "setting": "하늘에서 떨어진 외계 결정이 땅을 바꾸며 번지고, 국제 연합군과 비밀 교단이 그것을 두고 싸운다",
+   "concepts": [
+    "key_resource",
+    "alien",
+    "order",
+    "cyborg",
+    "ai"
+   ],
+   "new_ideas": "외계 결정이 지구를 외계 쪽 환경으로 바꿔 감(사람 쪽 테라포밍의 거꾸로)",
+   "lore_size": "큼",
+   "notability": "본편 다섯 편과 외전, 상점 설명이 '실시간 전략의 기준을 세운' 시리즈라 부름 · 『Command & Conquer™ Remastered Collection』 스팀 평가 35,136건 중 긍정 91% · 『Command & Conquer 3 Tiberium Wars™』 스팀 평가 9,419건 중 긍정 90%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Command & Conquer 3 Tiberium Wars™, Command & Conquer™ 4 Tiberian Twilight / 한국어 없음: Command & Conquer™ Remastered Collection, Command & Conquer™ Tiberian Sun™ and Firestorm™, Command & Conquer™ Tiberium Alliances",
+    "src": "https://store.steampowered.com/app/24790/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "command_and_conquer_red_alert",
+   "orig": "Command & Conquer: Red Alert",
+   "orig_en": "",
+   "ko": "레드 얼럿",
+   "ko_src": "스팀 한국 상점 『커맨드 앤 컨커 리마스터 컬렉션』 한국어 설명(‘커맨드 앤 컨커와 레드 얼럿’)",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Red Alert (1996), Red Alert 2 (2000) · Yuri's Revenge (2001), Red Alert 3 (2008) · Uprising (2009)",
+   "by": "Westwood Studios (뒤로 EA Los Angeles)",
+   "year": 1996,
+   "country": "미국",
+   "setting": "과거로 간 과학자가 역사를 바꾼 뒤, 연합국과 소련이 기묘한 기술로 맞붙는 다른 20세기",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "teleport",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 셋과 확장 · 『Command & Conquer Red Alert™ 2 and Yuri’s Revenge™』 스팀 평가 11,047건 중 긍정 94% · 『Command & Conquer™ Red Alert™ 3』 스팀 평가 16,074건 중 긍정 85%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Command & Conquer Red Alert™ 2 and Yuri’s Revenge™, Command & Conquer™ Red Alert™ 3, Command & Conquer: Red Alert 3 - Uprising / 한국어 없음: Command & Conquer Red Alert™, Counterstrike™ and The Aftermath™",
+    "src": "https://store.steampowered.com/app/2229850/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "star_control",
+   "orig": "Star Control",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Star Control (1990), Star Control II (1992, 무료판 The Ur-Quan Masters), Star Control 3 (1996) — 2018년 Star Control: Origins 는 설정이 다른 새 연속",
+   "by": "Toys for Bob (Accolade)",
+   "year": 1990,
+   "country": "미국",
+   "setting": "여러 종족의 동맹과 다른 종족을 노예로 삼는 패권 종족이 은하에서 맞선다",
+   "concepts": [
+    "alien",
+    "precursor",
+    "mind_control"
+   ],
+   "new_ideas": "진 종족을 행성째 보호막 안에 가둬 두는 노예 체제",
+   "lore_size": "큼",
+   "notability": "본편 셋, 2편은 무료 공개판으로 이어짐 · 『Star Control I and II』 스팀 평가 176건 중 긍정 82%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Star Control I and II, Star Control III, Star Control®: Origins",
+    "src": "https://store.steampowered.com/app/358920/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xcom",
+   "orig": "X-COM / XCOM",
+   "orig_en": "",
+   "ko": "엑스컴",
+   "ko_src": "스팀 한국 상점 『XCOM 2』 한국어 설명(‘엑스컴 2’)",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "UFO: Enemy Unknown (X-COM: UFO Defense, 1994) ~ X-COM: Apocalypse (1997); 다시 만든 연속 XCOM: Enemy Unknown (2012) ~ XCOM 2 (2016), Chimera Squad (2020)",
+   "by": "Mythos Games · MicroProse (다시 만든 연속은 Firaxis Games)",
+   "year": 1994,
+   "country": "영국",
+   "setting": "지구를 노리는 외계 침공에 맞서 비밀 국제 조직이 외계 기술을 거둬 싸운다",
+   "concepts": [
+    "alien",
+    "psionics",
+    "mind_control",
+    "genetic_eng",
+    "cyborg"
+   ],
+   "new_ideas": "지구 침공에 맞서는 비밀 국제 방위 조직",
+   "lore_size": "큼",
+   "notability": "옛 연속 셋과 다시 만든 연속 셋 · 『XCOM: Enemy Unknown』 스팀 평가 58,822건 중 긍정 93% · 『XCOM® 2』 스팀 평가 109,999건 중 긍정 85%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: XCOM: Enemy Unknown, XCOM® 2, XCOM 2: War of the Chosen, XCOM®: Chimera Squad / 한국어 없음: X-COM: UFO Defense, X-COM: Terror From the Deep, X-COM: Apocalypse. 옛 1편은 SKC·쌍용이 국내 정식 발매했다고 나무위키에 있으나 한국어였는지는 확인 못 함",
+    "src": "https://store.steampowered.com/app/200510/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "distant_worlds",
+   "orig": "Distant Worlds",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Distant Worlds (2010) · 확장 · Universe (2014), Distant Worlds 2 (2022)",
+   "by": "Code Force",
+   "year": 2010,
+   "country": "뉴질랜드",
+   "setting": "오래전 봉인된 존재가 깨어나는 은하에서 여러 종족이 퍼져 나간다",
+   "concepts": [
+    "alien",
+    "precursor",
+    "hyperspace",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 확장 여럿 · 『Distant Worlds: Universe』 스팀 평가 1,861건 중 긍정 75%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Distant Worlds: Universe, Distant Worlds 2",
+    "src": "https://store.steampowered.com/app/261470/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ashes_of_the_singularity",
+   "orig": "Ashes of the Singularity",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Ashes of the Singularity (2016) · Escalation (2016), Ashes of the Singularity II (2026년 11월 예정)",
+   "by": "Oxide Games · Stardock",
+   "year": 2016,
+   "country": "미국",
+   "setting": "사람을 넘어선 존재들과 인공지능이 계산의 연료가 되는 귀한 물질을 두고 행성을 다툰다",
+   "concepts": [
+    "ai",
+    "key_resource"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편과 단독 확장, 2편 예정 · 『Ashes of the Singularity: Escalation』 스팀 평가 5,007건 중 긍정 74%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Ashes of the Singularity: Escalation. 아직 안 나온 Ashes of the Singularity II 의 상점 지원 언어 표에는 한국어가 있음",
+    "src": "https://store.steampowered.com/app/507490/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "planetary_annihilation",
+   "orig": "Planetary Annihilation",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Planetary Annihilation (2014), TITANS (2015)",
+   "by": "Uber Entertainment (뒤로 Planetary Annihilation Inc)",
+   "year": 2014,
+   "country": "미국",
+   "setting": "사람이 사라진 은하에서 깨어난 기계 지휘관들이 행성째 부수며 서로를 없앤다",
+   "concepts": [
+    "robot",
+    "planet_killer"
+   ],
+   "new_ideas": "모든 것을 짓는 지휘관 기계 하나에 싸움 전체가 걸림, 소행성을 몰아 행성에 떨어뜨림",
+   "lore_size": "작음",
+   "notability": "크라우드펀딩으로 만든 대규모 실시간 전략 · 『Planetary Annihilation: TITANS』 스팀 평가 14,742건 중 긍정 84%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Planetary Annihilation: TITANS",
+    "src": "https://store.steampowered.com/app/386070/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "battlezone_1998",
+   "orig": "Battlezone",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Battlezone (1998) · The Red Odyssey, Battlezone II: Combat Commander (1999) — 2016·2018 다시 낸 판",
+   "by": "Activision (다시 낸 판은 Big Boat Interactive · Rebellion)",
+   "year": 1998,
+   "country": "미국",
+   "setting": "냉전 때 떨어진 운석의 살아 있는 금속을 차지하려 미국과 소련이 태양계에서 몰래 싸운다",
+   "concepts": [
+    "key_resource",
+    "precursor",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 다시 낸 판 둘 · 『Battlezone 98 Redux』 스팀 평가 1,145건 중 긍정 91%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Battlezone 98 Redux, Battlezone: Combat Commander",
+    "src": "https://store.steampowered.com/app/301650/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_empires",
+   "orig": "Space Empires",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Space Empires (1993) ~ Space Empires V (2006), Space Empires: Starfury (2003)",
+   "by": "Malfador Machinations",
+   "year": 1993,
+   "country": "미국",
+   "setting": "정해진 줄거리 없이 여러 종족이 별 사이 통로를 따라 영토를 넓힌다",
+   "concepts": [
+    "lanes",
+    "colonization",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 다섯과 외전 · 『Space Empires IV Deluxe』 스팀 평가 290건 중 긍정 86%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Space Empires I, Space Empires IV Deluxe, Space Empires V, Space Empires: Starfury",
+    "src": "https://store.steampowered.com/app/1425110/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "imperium_galactica",
+   "orig": "Imperium Galactica",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Imperium Galactica (1997), Imperium Galactica II: Alliances (1999)",
+   "by": "Digital Reality",
+   "year": 1997,
+   "country": "헝가리",
+   "setting": "젊은 장교가 계급을 올려 가며 흔들리는 은하 제국을 지키고 외계 침공을 맞는다",
+   "concepts": [
+    "galactic_empire",
+    "alien",
+    "fleet_battle",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘 · 『Imperium Galactica II』 스팀 평가 653건 중 긍정 88%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Imperium Galactica, Imperium Galactica II",
+    "src": "https://store.steampowered.com/app/573790/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "earth_2140",
+   "orig": "Earth 2140",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Earth 2140 (1997), Earth 2150 (2000) · 확장 둘, Earth 2160 (2005)",
+   "by": "TopWare Interactive · Reality Pump",
+   "year": 1997,
+   "country": "폴란드",
+   "setting": "전쟁으로 궤도가 틀어진 지구가 태양으로 끌려가자 세력들이 탈출선을 두고 싸운다",
+   "concepts": [
+    "earth_left",
+    "catastrophe",
+    "robot",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 셋과 확장 여럿 · 『Earth 2150 Trilogy』 스팀 평가 1,021건 중 긍정 79%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Earth 2140, Earth 2150 Trilogy, Earth 2160. Earth 2150 은 2001년 감마니아 코리아가 국내에 정식 발매했고 한국어를 지원했다고 나무위키에 있음",
+    "src": "https://namu.wiki/w/%EC%96%B4%EC%8A%A4%202150"
+   },
+   "borderline": false
+  },
+  {
+   "id": "phoenix_point",
+   "orig": "Phoenix Point",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Phoenix Point (2019) · 확장 다섯",
+   "by": "Snapshot Games (Julian Gollop)",
+   "year": 2019,
+   "country": "불가리아",
+   "setting": "얼음 속에서 풀려난 외계 바이러스가 생물을 뒤섞어 괴물로 바꾸고, 남은 세력들이 버틴다",
+   "concepts": [
+    "parasite",
+    "catastrophe",
+    "alien",
+    "ideology_split"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "X-COM 을 만든 Julian Gollop 의 작품 · 『Phoenix Point』 스팀 평가 7,236건 중 긍정 73%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Phoenix Point",
+    "src": "https://store.steampowered.com/app/839770/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "warzone_2100",
+   "orig": "Warzone 2100",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Warzone 2100 (1999) — 2004년부터 공개 소스로 이어 만듦",
+   "by": "Pumpkin Studios (뒤로 Warzone 2100 Project)",
+   "year": 1999,
+   "country": "영국",
+   "setting": "미사일 방어 체계가 잘못 터져 문명이 무너진 뒤, 남은 사람들이 땅을 되찾고 기계 지능에 맞선다",
+   "concepts": [
+    "catastrophe",
+    "ai_revolt",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1999년 작이 공개 소스로 이어지는 실시간 전략 · 『Warzone 2100』 스팀 평가 1,631건 중 긍정 90%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Warzone 2100. 공개 소스 판에는 한국어 번역 파일(ko.po)이 있고 나무위키 정보표도 '지원'으로 적음, 스팀판은 표에 없음",
+    "src": "https://github.com/Warzone2100/warzone2100/tree/master/po"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sword_of_the_stars",
+   "orig": "Sword of the Stars",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Sword of the Stars (2006) · 확장 셋, Sword of the Stars II (2011), The Pit (2013)",
+   "by": "Kerberos Productions",
+   "year": 2006,
+   "country": "캐나다",
+   "setting": "빛보다 빠른 이동 방식이 저마다 다른 여러 종족이 은하를 두고 겨룬다",
+   "concepts": [
+    "lanes",
+    "hyperspace",
+    "gate_network",
+    "alien",
+    "fleet_battle"
+   ],
+   "new_ideas": "종족마다 빛보다 빠른 이동 방식이 달라 전략 자체가 갈림",
+   "lore_size": "중간",
+   "notability": "본편 둘과 외전·확장 · 『Sword of the Stars: Complete Collection』 스팀 평가 713건 중 긍정 88%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Sword of the Stars: Complete Collection, Sword of the Stars II: Enhanced Edition, Sword of the Stars: The Pit",
+    "src": "https://store.steampowered.com/app/42890/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ground_control",
+   "orig": "Ground Control",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Ground Control (2000) · Dark Conspiracy, Ground Control II: Operation Exodus (2004)",
+   "by": "Massive Entertainment",
+   "year": 2000,
+   "country": "스웨덴",
+   "setting": "거대 기업과 종교 집단이 먼 행성의 외계 유물을 두고 궤도에서 병력을 내려 싸운다",
+   "concepts": [
+    "mega_corp",
+    "precursor",
+    "orbital_drop"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 확장 · 『Ground Control Anthology』 스팀 평가 205건 중 긍정 85%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Ground Control Anthology, Ground Control II: Operation Exodus",
+    "src": "https://store.steampowered.com/app/254820/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "perimeter",
+   "orig": "Perimeter",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Perimeter (2004), Emperor's Testament (2006), Perimeter 2: New Earth (2008)",
+   "by": "K-D Lab",
+   "year": 2004,
+   "country": "러시아",
+   "setting": "지구를 떠난 무리가 사람 마음이 빚은 세계들을 건너며 땅을 고르고 새 고향을 찾는다",
+   "concepts": [
+    "terraforming",
+    "earth_left",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 독립 확장 · 『Perimeter』 스팀 평가 270건 중 긍정 84%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Perimeter, Perimeter: Emperor's Testament, Perimeter 2: New Earth",
+    "src": "https://store.steampowered.com/app/289440/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "original_war",
+   "orig": "Original War",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Original War (2001)",
+   "by": "Altar Interactive",
+   "year": 2001,
+   "country": "체코",
+   "setting": "미래의 미국이 귀한 광물을 독차지하려 사람들을 200만 년 전으로 보내고 소련이 뒤쫓는다",
+   "concepts": [
+    "time_travel",
+    "key_resource",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "단독 작품 · 『Original War』 스팀 평가 2,178건 중 긍정 95%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Original War",
+    "src": "https://store.steampowered.com/app/235320/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hostile_waters",
+   "orig": "Hostile Waters: Antaeus Rising",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Hostile Waters: Antaeus Rising (2001)",
+   "by": "Rage Software",
+   "year": 2001,
+   "country": "영국",
+   "setting": "전쟁도 가난도 사라진 세상에 옛 적이 다시 일어나자, 잠든 전투함과 죽은 병사의 마음을 담은 칩으로 맞선다",
+   "concepts": [
+    "post_scarcity",
+    "mind_upload",
+    "nanotech"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품 · 『Hostile Waters: Antaeus Rising』 스팀 평가 476건 중 긍정 77%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Hostile Waters: Antaeus Rising",
+    "src": "https://store.steampowered.com/app/267980/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "grey_goo",
+   "orig": "Grey Goo",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Grey Goo (2015) · Emergence",
+   "by": "Petroglyph Games",
+   "year": 2015,
+   "country": "미국",
+   "setting": "먼 성계에서 사람, 토착 외계 종족, 스스로 불어나는 나노 기계 덩어리가 마주친다",
+   "concepts": [
+    "nanotech",
+    "self_replicate",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품과 확장 · 『Grey Goo』 스팀 평가 4,343건 중 긍정 68%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Grey Goo",
+    "src": "https://store.steampowered.com/app/290790/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "universe_at_war",
+   "orig": "Universe at War: Earth Assault",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Universe at War: Earth Assault (2007)",
+   "by": "Petroglyph Games",
+   "year": 2007,
+   "country": "미국",
+   "setting": "행성을 거둬 먹는 외계 세력이 지구에 내려오고, 그들을 쫓는 두 외계 세력이 지구에서 맞붙는다",
+   "concepts": [
+    "alien",
+    "robot",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "Westwood 출신이 세운 Petroglyph 의 작품, PC·Xbox 360",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "스팀·GOG 에서 팔지 않아 지원 언어 표를 못 봄",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tempest_rising",
+   "orig": "Tempest Rising",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Tempest Rising (2025) · The Veti's Wrath",
+   "by": "Slipgate Ironworks",
+   "year": 2025,
+   "country": "덴마크",
+   "setting": "핵전쟁 뒤 땅을 뒤덮은 수수께끼 덩굴을 두고 세 세력이 싸우는 다른 1990년대",
+   "concepts": [
+    "key_resource",
+    "alt_timeline",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1990~2000년대식 실시간 전략을 되살린 신작 · 『Tempest Rising』 스팀 평가 12,323건 중 긍정 87%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Tempest Rising",
+    "src": "https://store.steampowered.com/app/1486920/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "stormgate",
+   "orig": "Stormgate",
+   "orig_en": "",
+   "ko": "스톰게이트",
+   "ko_src": "스팀 한국 상점 이름 『스톰게이트』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Stormgate (2024 앞서 해 보기, 2025 정식)",
+   "by": "Frost Giant Studios",
+   "year": 2024,
+   "country": "미국",
+   "setting": "다른 차원에서 넘어온 악마 무리에 맞서 미래 인류와 외계 종족이 싸운다",
+   "concepts": [
+    "alien",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "스타크래프트·워크래프트 만든 이들이 세운 회사의 첫 작품, 평가는 엇갈림 · 『Stormgate』 스팀 평가 9,276건 중 긍정 47%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Stormgate",
+    "src": "https://store.steampowered.com/app/2012510/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "terra_invicta",
+   "orig": "Terra Invicta",
+   "orig_en": "",
+   "ko": "테라 인빅타",
+   "ko_src": "스팀 한국 상점 이름 『Terra Invicta 테라 인빅타』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Terra Invicta (2022 앞서 해 보기, 2026 정식)",
+   "by": "Pavonis Interactive",
+   "year": 2022,
+   "country": "미국",
+   "setting": "외계인이 온 것을 안 비밀 조직들이 맞서기·따르기·달아나기로 갈려 지구 정치와 태양계를 다툰다",
+   "concepts": [
+    "alien",
+    "ideology_split",
+    "first_contact",
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "대전략 신작 · 『Terra Invicta』 스팀 평가 9,992건 중 긍정 80%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Terra Invicta",
+    "src": "https://store.steampowered.com/app/1176470/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "age_of_wonders_planetfall",
+   "orig": "Age of Wonders: Planetfall",
+   "orig_en": "",
+   "ko": "에이지 오브 원더: 플래닛폴",
+   "ko_src": "스팀 한국 상점 『Age of Wonders: Planetfall』 한국어 설명",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Age of Wonders: Planetfall (2019) · 확장 셋",
+   "by": "Triumph Studios",
+   "year": 2019,
+   "country": "네덜란드",
+   "setting": "은하 연합이 무너진 뒤 흩어진 세력들이 그 유산을 차지하려 싸운다",
+   "concepts": [
+    "empire_fall",
+    "cyborg",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "Age of Wonders 시리즈에서 갈라져 나온 별개 SF 세계 · 『Age of Wonders: Planetfall』 스팀 평가 6,674건 중 긍정 80%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Age of Wonders: Planetfall",
+    "src": "https://store.steampowered.com/app/718850/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "starsector",
+   "orig": "Starsector",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Starsector (2011~, 아직 개발 중인 판으로 판매)",
+   "by": "Fractal Softworks",
+   "year": 2011,
+   "country": "미국",
+   "setting": "별 사이 관문망이 끊겨 고립된 성계에서 옛 영토의 잔재 세력들이 다툰다",
+   "concepts": [
+    "gate_network",
+    "empire_fall",
+    "ai_ban",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "10년 넘게 개발 중인 판으로 팔리는 우주 함대 게임",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "개발사 사이트에서만 팔고 사이트를 열지 못해 언어를 확인 못 함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "into_the_breach",
+   "orig": "Into the Breach",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Into the Breach (2018) · Advanced Edition (2022)",
+   "by": "Subset Games",
+   "year": 2018,
+   "country": "미국",
+   "setting": "땅속에서 솟은 거대 곤충 무리에 맞서, 시간을 거슬러 오는 조종사들이 거대 로봇으로 도시를 지킨다",
+   "concepts": [
+    "mecha",
+    "time_travel",
+    "alt_timeline",
+    "space_beast"
+   ],
+   "new_ideas": "지면 조종사 한 명만 다른 시간선으로 보내 처음부터 다시 싸움",
+   "lore_size": "작음",
+   "notability": "FTL 만든 곳의 두 번째 작품 · 『Into the Breach』 스팀 평가 22,511건 중 긍정 94%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Into the Breach",
+    "src": "https://store.steampowered.com/app/590380/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "invisible_inc",
+   "orig": "Invisible, Inc.",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Invisible, Inc. (2015) · Contingency Plan",
+   "by": "Klei Entertainment",
+   "year": 2015,
+   "country": "캐나다",
+   "setting": "거대 기업들이 나라를 대신해 다스리는 미래, 쫓기는 첩보 조직이 기업 시설에 숨어든다",
+   "concepts": [
+    "mega_corp",
+    "ai",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품과 확장 · 『Invisible, Inc.』 스팀 평가 5,801건 중 긍정 91%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Invisible, Inc.",
+    "src": "https://store.steampowered.com/app/243970/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "syndicate",
+   "orig": "Syndicate",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Syndicate (1993) · American Revolt, Syndicate Wars (1996), Syndicate (2012, 1인칭 슈팅으로 다시 만듦)",
+   "by": "Bullfrog Productions (2012 판은 Starbreeze)",
+   "year": 1993,
+   "country": "영국",
+   "setting": "머리에 심은 칩으로 사람을 길들이는 거대 기업들이 사이보그 요원을 부려 세계를 나눠 먹는다",
+   "concepts": [
+    "mega_corp",
+    "cyborg",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 확장, 2012년 다시 만든 판 · GOG 『Syndicate Plus』 평가 1,513건 평균 4.6/5",
+   "korean": {
+    "status": "없음",
+    "detail": "GOG 판 Syndicate Plus·Syndicate Wars 지원 언어에 한국어 없음. 2012년 1인칭 슈팅 판은 확인 못 함",
+    "src": "https://www.gog.com/en/game/syndicate"
+   },
+   "borderline": false
+  },
+  {
+   "id": "satellite_reign",
+   "orig": "Satellite Reign",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Satellite Reign (2015)",
+   "by": "5 Lives Studios",
+   "year": 2015,
+   "country": "오스트레일리아",
+   "setting": "죽으면 의식을 새 몸으로 옮겨 주는 기술을 쥔 한 기업이 도시를 다스리는 미래",
+   "concepts": [
+    "mega_corp",
+    "clone",
+    "resurrection",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "Syndicate 의 정신을 이은 크라우드펀딩 작품 · 『Satellite Reign』 스팀 평가 5,379건 중 긍정 71%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Satellite Reign",
+    "src": "https://store.steampowered.com/app/268870/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ufo_aftermath",
+   "orig": "UFO: Aftermath",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "UFO: Aftermath (2003), UFO: Aftershock (2005), UFO: Afterlight (2007)",
+   "by": "ALTAR Interactive",
+   "year": 2003,
+   "country": "체코",
+   "setting": "외계에서 온 포자 구름이 사람 대부분을 죽이고 땅을 바꾸자, 살아남은 사람들이 맞선다",
+   "concepts": [
+    "alien",
+    "terraforming",
+    "catastrophe",
+    "psionics"
+   ],
+   "new_ideas": "외계 생체 물질이 지구를 외계 쪽 환경으로 바꿔 감",
+   "lore_size": "중간",
+   "notability": "본편 셋 · 『UFO: Aftermath』 스팀 평가 342건 중 긍정 78%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: UFO: Aftermath, UFO: Aftershock, UFO: Afterlight",
+    "src": "https://store.steampowered.com/app/292160/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xenonauts",
+   "orig": "Xenonauts",
+   "orig_en": "",
+   "ko": "제노너츠",
+   "ko_src": "스팀 한국 상점 이름 『Xenonauts 2 제노너츠 2』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Xenonauts (2014), Xenonauts 2 (2023 앞서 해 보기, 2026 정식)",
+   "by": "Goldhawk Interactive",
+   "year": 2014,
+   "country": "영국",
+   "setting": "냉전이 끝나지 않은 다른 역사에서 외계인이 쳐들어오자 비밀 국제 조직이 맞선다",
+   "concepts": [
+    "alien",
+    "alt_timeline"
+   ],
+   "new_ideas": "지구 침공에 맞서는 비밀 국제 방위 조직",
+   "lore_size": "작음",
+   "notability": "본편 둘 · 『Xenonauts』 스팀 평가 5,087건 중 긍정 87% · 『Xenonauts 2』 스팀 평가 5,903건 중 긍정 81%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Xenonauts 2 / 한국어 없음: Xenonauts",
+    "src": "https://store.steampowered.com/app/538030/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "battle_isle",
+   "orig": "Battle Isle",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Battle Isle (1991), Battle Isle 2200 (1994), Battle Isle 3 (1995), Incubation (1997), The Andosia War (2000)",
+   "by": "Blue Byte",
+   "year": 1991,
+   "country": "독일",
+   "setting": "행성 크로노스에서 여러 세력이 대를 이어 벌이는 기계화 전쟁",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 넷과 외전 · GOG 『Battle Isle Platinum』 평가 660건 평균 4.5/5",
+   "korean": {
+    "status": "없음",
+    "detail": "GOG 판 Battle Isle Platinum(Incubation 포함)·The Andosia War 지원 언어에 한국어 없음. 옛 국내 출시판은 확인 못 함",
+    "src": "https://www.gog.com/en/game/battle_isle_platinum"
+   },
+   "borderline": false
+  },
+  {
+   "id": "silent_storm",
+   "orig": "Silent Storm",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Silent Storm (2003), Silent Storm: Sentinels (2004)",
+   "by": "Nival Interactive",
+   "year": 2003,
+   "country": "러시아",
+   "setting": "제2차 세계 대전 뒤편에서 앞선 기술을 쥔 비밀 결사가 전쟁을 부추기고 동력 갑옷이 나온다",
+   "concepts": [
+    "power_armor",
+    "order",
+    "beam_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편과 확장 · 『Silent Storm Gold Edition』 스팀 평가 1,075건 중 긍정 88%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Silent Storm Gold Edition",
+    "src": "https://store.steampowered.com/app/254960/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "haegemonia",
+   "orig": "Haegemonia: Legions of Iron",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Haegemonia: Legions of Iron (2002) · The Solon Heritage (2003)",
+   "by": "Digital Reality",
+   "year": 2002,
+   "country": "헝가리",
+   "setting": "지구와 화성이 태양계를 두고 싸운 뒤 바깥 우주의 외계 종족들과 마주친다",
+   "concepts": [
+    "alien",
+    "first_contact",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편과 확장 · 『Haegemonia: Legions of Iron』 스팀 평가 103건 중 긍정 69%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Haegemonia: Legions of Iron",
+    "src": "https://store.steampowered.com/app/294770/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nexus_jupiter_incident",
+   "orig": "Nexus: The Jupiter Incident",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Nexus: The Jupiter Incident (2004)",
+   "by": "Mithis Entertainment",
+   "year": 2004,
+   "country": "헝가리",
+   "setting": "기업 함대를 이끌던 함장이 태양계 밖에서 외계 관문과 기계 종족을 만난다",
+   "concepts": [
+    "fleet_battle",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품 · 『Nexus - The Jupiter Incident』 스팀 평가 1,097건 중 긍정 86%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Nexus - The Jupiter Incident",
+    "src": "https://store.steampowered.com/app/6420/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_rangers",
+   "orig": "Космические рейнджеры",
+   "orig_en": "Space Rangers",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Space Rangers (2002), Space Rangers 2: Dominators (2004), Reboot (2007), HD: A War Apart (2013)",
+   "by": "Elemental Games (뒤로 SNK-Games)",
+   "year": 2002,
+   "country": "러시아",
+   "setting": "여러 종족의 연합이 침략자에 맞서 자유 비행사들을 모으고, 뒤로는 스스로 불어나는 기계 무리와 싸운다",
+   "concepts": [
+    "alien",
+    "ai_revolt",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘과 다시 낸 판들, 러시아 대표작 · 『Space Rangers HD: A War Apart』 스팀 평가 7,317건 중 긍정 94%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Space Rangers HD: A War Apart",
+    "src": "https://store.steampowered.com/app/214730/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shadow_empire",
+   "orig": "Shadow Empire",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Shadow Empire (2020) · 확장 둘",
+   "by": "VR Designs",
+   "year": 2020,
+   "country": "네덜란드",
+   "setting": "무너진 은하 공화국의 잔해 속 한 행성에서 새 나라를 일으킨다",
+   "concepts": [
+    "empire_fall",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품과 확장 둘 · 『Shadow Empire』 스팀 평가 1,980건 중 긍정 83%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Shadow Empire",
+    "src": "https://store.steampowered.com/app/1154840/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "offworld_trading_company",
+   "orig": "Offworld Trading Company",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Offworld Trading Company (2016) · 확장",
+   "by": "Mohawk Games",
+   "year": 2016,
+   "country": "미국",
+   "setting": "화성을 개척하는 기업들이 총 대신 주식과 시장으로 서로를 무너뜨린다",
+   "concepts": [
+    "mega_corp",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "문명 IV 설계자 Soren Johnson 의 작품 · 『Offworld Trading Company』 스팀 평가 5,722건 중 긍정 77%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Offworld Trading Company",
+    "src": "https://store.steampowered.com/app/271240/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ai_war",
+   "orig": "AI War: Fleet Command",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "AI War: Fleet Command (2009) · 확장, AI War 2 (2019)",
+   "by": "Arcen Games",
+   "year": 2009,
+   "country": "미국",
+   "setting": "인류를 꺾고 은하를 차지한 인공지능에 맞서 살아남은 사람들이 몰래 반격한다",
+   "concepts": [
+    "ai_revolt",
+    "wormhole"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 둘과 확장 여럿 · 『AI War: Fleet Command』 스팀 평가 1,612건 중 긍정 82%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: AI War: Fleet Command, AI War 2",
+    "src": "https://store.steampowered.com/app/40400/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ftl",
+   "orig": "FTL: Faster Than Light",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "FTL: Faster Than Light (2012) · Advanced Edition (2014)",
+   "by": "Subset Games",
+   "year": 2012,
+   "country": "미국",
+   "setting": "반란군에게 쫓기는 연방 함선이 중요한 정보를 싣고 도약을 거듭하며 은하를 가로지른다",
+   "concepts": [
+    "jump_drive",
+    "federation",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "우주선 전략 로그라이크의 대표작 · 『FTL: Faster Than Light』 스팀 평가 79,024건 중 긍정 95%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: FTL: Faster Than Light",
+    "src": "https://store.steampowered.com/app/212680/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "they_are_billions",
+   "orig": "They Are Billions",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "They Are Billions (2019)",
+   "by": "Numantian Games",
+   "year": 2019,
+   "country": "스페인",
+   "setting": "감염된 무리가 세상을 덮은 뒤 증기 기술로 다시 선 제국이 성벽 안에 식민지를 세운다",
+   "concepts": [
+    "catastrophe",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품 · 『They Are Billions』 스팀 평가 51,562건 중 긍정 85%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: They Are Billions",
+    "src": "https://store.steampowered.com/app/644930/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "highfleet",
+   "orig": "HighFleet",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "HighFleet (2021)",
+   "by": "Konstantin Koshutin (MicroProse 배급)",
+   "year": 2021,
+   "country": "러시아",
+   "setting": "무너진 제국의 남은 왕족이 하늘을 나는 전함 함대를 이끌고 사막을 건너 수도로 간다",
+   "concepts": [
+    "empire_fall",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "단독 작품 · 『HighFleet』 스팀 평가 7,478건 중 긍정 88%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: HighFleet",
+    "src": "https://store.steampowered.com/app/1434950/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "darwinia",
+   "orig": "Darwinia",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Darwinia (2005), Multiwinia (2008)",
+   "by": "Introversion Software",
+   "year": 2005,
+   "country": "영국",
+   "setting": "컴퓨터 속 디지털 세계의 작은 인공 생명들이 바이러스에 맞서도록 돕는다",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편과 멀티플레이 후속 · 『Darwinia』 스팀 평가 1,134건 중 긍정 80%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Darwinia",
+    "src": "https://store.steampowered.com/app/1500/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "z_bitmap",
+   "orig": "Z",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Z (1996), Z: Steel Soldiers (2001)",
+   "by": "The Bitmap Brothers",
+   "year": 1996,
+   "country": "영국",
+   "setting": "먼 행성들에서 로봇 병사들이 사람 장교들의 다툼에 끌려 다니며 싸우는 우스운 전쟁",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 둘 · 『Z Steel Soldiers』 스팀 평가 290건 중 긍정 53%",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Z Steel Soldiers",
+    "src": "https://store.steampowered.com/app/275510/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kknd",
+   "orig": "Krush Kill 'n' Destroy",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "KKND (1997), KKND Xtreme (1997), KKND2: Krossfire (1998)",
+   "by": "Beam Software (Melbourne House)",
+   "year": 1997,
+   "country": "오스트레일리아",
+   "setting": "핵전쟁 때 땅속으로 피한 생존자들과 땅 위에 남아 변한 돌연변이들이 지상을 두고 싸운다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 둘과 확장 · GOG 『KKND Xtreme』 평가 368건 평균 4.2/5",
+   "korean": {
+    "status": "없음",
+    "detail": "GOG 판 KKND 세 편 지원 언어에 한국어 없음. 국내 정식 발매판(삼성)도 한국어 미지원이라고 나무위키에 있음",
+    "src": "https://www.gog.com/en/game/krush_kill_n_destroy_bundle"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dark_reign",
+   "orig": "Dark Reign: The Future of War",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Dark Reign (1997) · Rise of the Shadowhand, Dark Reign 2 (2000)",
+   "by": "Auran (2편은 Pandemic Studios)",
+   "year": 1997,
+   "country": "오스트레일리아",
+   "setting": "먼 미래, 행성들을 쥔 독재 정부와 그에 맞선 자유 세력이 싸운다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 둘과 확장 · GOG 『Dark Reign + Expansion』 평가 520건 평균 4.2/5",
+   "korean": {
+    "status": "없음",
+    "detail": "GOG 판 Dark Reign + Expansion·Dark Reign 2 지원 언어에 한국어 없음. 옛 국내 출시판은 확인 못 함",
+    "src": "https://www.gog.com/en/game/dark_reign_expansion"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ascendancy",
+   "orig": "Ascendancy",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Ascendancy (1995) — 뒤에 휴대 기기 판",
+   "by": "The Logic Factory",
+   "year": 1995,
+   "country": "미국",
+   "setting": "별과 별을 잇는 정해진 길을 따라 스물한 종족이 은하로 퍼져 나간다",
+   "concepts": [
+    "lanes",
+    "alien",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1995년 우주 4X 고전",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "스팀·GOG 에서 팔지 않아 지원 언어 표를 못 봄",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "outpost",
+   "orig": "Outpost",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Outpost (1994), Outpost 2: Divided Destiny (1997)",
+   "by": "Sierra (Dynamix)",
+   "year": 1994,
+   "country": "미국",
+   "setting": "떠돌이 소행성에 지구가 끝장나자 탈출선이 먼 별에 새 터전을 세우고, 정착민은 둘로 갈린다",
+   "concepts": [
+    "earth_left",
+    "colonization",
+    "terraforming",
+    "ideology_split"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "본편 둘",
+   "korean": {
+    "status": "없음",
+    "detail": "GOG 판 Outpost 2 지원 언어에 한국어 없음. 1편은 확인 못 함",
+    "src": "https://www.gog.com/en/game/outpost_2_divided_destiny"
+   },
+   "borderline": false
+  },
+  {
+   "id": "battletech",
+   "orig": "BattleTech",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "탁상 게임",
+    "게임",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "탁상 게임",
+   "series": "BattleTech 탁상 게임 (1984~), MechWarrior (1989) ~ MechWarrior 5 (2019), MechCommander (1998), BattleTech (2018), 소설 100권 넘게, 애니메이션 (1994)",
+   "by": "FASA (뒤로 Catalyst Game Labs)",
+   "year": 1984,
+   "country": "미국",
+   "setting": "별들의 연합이 무너진 뒤 귀족 가문들이 거대 인간형 병기로 행성을 다투는 봉건 우주",
+   "concepts": [
+    "mecha",
+    "feudal_space",
+    "empire_fall",
+    "jump_drive",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "40년 이어진 탁상 게임과 소설 100권 넘게, 게임 여러 갈래 · 『BATTLETECH』 스팀 평가 33,255건 중 긍정 84% · 『MechWarrior 5: Mercenaries』 스팀 평가 16,224건 중 긍정 85%",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: BATTLETECH, MechWarrior 5: Mercenaries. 탁상 게임·소설 한국어판은 확인 못 함",
+    "src": "https://store.steampowered.com/app/637090/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "fading_suns",
+   "orig": "Fading Suns",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "탁상 게임",
+    "게임"
+   ],
+   "first_medium": "탁상 게임",
+   "series": "Fading Suns 역할 놀이 (1996~), Emperor of the Fading Suns (1997, 2025 개선판)",
+   "by": "Holistic Design",
+   "year": 1996,
+   "country": "미국",
+   "setting": "별빛이 흐려지는 먼 미래, 교회와 귀족 가문과 상인 조합이 나눠 다스리는 중세풍 은하",
+   "concepts": [
+    "feudal_space",
+    "gate_network",
+    "precursor",
+    "guild_monopoly",
+    "empire_fall"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "역할 놀이 판본 여럿과 4X 게임 · 『Emperor of the Fading Suns Enhanced』 스팀 평가 195건 중 긍정 95%",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "스팀 지원 언어 표 — 한국어 없음: Emperor of the Fading Suns Enhanced. 역할 놀이 책 한국어판은 확인 못 함",
+    "src": "https://store.steampowered.com/app/2799350/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "mutant_year_zero",
+   "orig": "Mutant: År Noll",
+   "orig_en": "Mutant: Year Zero",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "탁상 게임",
+    "게임"
+   ],
+   "first_medium": "탁상 게임",
+   "series": "Mutant (1984, 스웨덴 역할 놀이) · Mutant: År Noll (2014), 게임 Mutant Year Zero: Road to Eden (2018) · Seed of Evil",
+   "by": "Target Games (2014 판은 Fria Ligan), 게임은 The Bearded Ladies",
+   "year": 1984,
+   "country": "스웨덴",
+   "setting": "사람이 거의 사라진 종말 뒤, 말하는 오리·멧돼지 같은 돌연변이들이 전설의 낙원을 찾는다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1984년부터 이어진 스웨덴 역할 놀이, 게임판은 높은 평가 · 『Mutant Year Zero: Road to Eden』 스팀 평가 20,608건 중 긍정 90%",
+   "korean": {
+    "status": "일부",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Mutant Year Zero: Road to Eden. 탁상 게임 한국어판은 확인 못 함",
+    "src": "https://store.steampowered.com/app/760060/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "twilight_imperium",
+   "orig": "Twilight Imperium",
+   "orig_en": "",
+   "ko": "트와일라잇 임페리움",
+   "ko_src": "스팀 한국 상점 『Twilight Imperium Digital』 한국어 설명(같은 글에 '여명의 제국 디지털'로도 적힘)",
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "series": "Twilight Imperium 보드게임 (1997) ~ 4판 (2017) · 확장, Twilight Imperium Digital (출시 날짜 미정)",
+   "by": "Fantasy Flight Games",
+   "year": 1997,
+   "country": "미국",
+   "setting": "무너진 옛 제국의 빈 왕좌를 노리고 여러 종족이 은하 한가운데 행성을 다툰다",
+   "concepts": [
+    "empire_fall",
+    "galactic_empire",
+    "alien",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "4판까지 나온 대형 우주 보드게임",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "보드게임 한국어판은 확인 못 함. 아직 안 나온 Twilight Imperium Digital 의 상점 지원 언어 표에는 한국어가 있음",
+    "src": "https://store.steampowered.com/app/3669430/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_riftbreaker",
+   "orig": "The Riftbreaker",
+   "orig_en": "",
+   "ko": "리프트브레이커",
+   "ko_src": "스팀 한국 상점 『The Riftbreaker』 한국어 설명",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "The Riftbreaker (2021) · 확장 셋",
+   "by": "EXOR Studios",
+   "year": 2021,
+   "country": "폴란드",
+   "setting": "강화 기계 갑옷을 입은 과학자가 먼 행성에 차원 틈 관문을 세워 지구와 잇는다",
+   "concepts": [
+    "colonization",
+    "alien_ecology",
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품과 확장 · 『The Riftbreaker』 스팀 평가 25,112건 중 긍정 90%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: The Riftbreaker",
+    "src": "https://store.steampowered.com/app/780310/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "phantom_brigade",
+   "orig": "Phantom Brigade",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Phantom Brigade (2023)",
+   "by": "Brace Yourself Games · Tetragon Works",
+   "year": 2023,
+   "country": "캐나다",
+   "setting": "침공군에 나라를 빼앗긴 뒤 살아남은 거대 로봇 부대가 반격에 나선다",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단독 작품 · 『Phantom Brigade』 스팀 평가 4,649건 중 긍정 81%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: Phantom Brigade",
+    "src": "https://store.steampowered.com/app/553540/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "menace",
+   "orig": "MENACE",
+   "orig_en": "",
+   "ko": "메너스",
+   "ko_src": "스팀 한국 상점 이름 『MENACE 메너스』",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "MENACE (2026)",
+   "by": "Overhype Studios",
+   "year": 2026,
+   "country": "독일",
+   "setting": "중심 우주에서 먼 무법 성계에 간 해병 기동대가 정체 모를 외계 위협에 맞선다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "Battle Brothers 만든 곳의 신작 · 『MENACE』 스팀 평가 14,038건 중 긍정 91%",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀 지원 언어 표 — 한국어 있음: MENACE",
+    "src": "https://store.steampowered.com/app/2432860/"
+   },
+   "borderline": false
+  }
+ ]
+}

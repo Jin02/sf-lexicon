@@ -1,0 +1,3072 @@
+{
+  "group": "drama",
+  "candidates": [
+    {
+      "id": "doctor_who",
+      "orig": "Doctor Who",
+      "orig_en": "",
+      "ko": "닥터 후",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/dagteo-hu-2023",
+      "media": [
+        "드라마",
+        "영화",
+        "소설",
+        "만화",
+        "게임",
+        "애니메이션",
+        "탁상 게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Doctor Who (1963–1989, 1996 TV 영화, 2005–), Torchwood, The Sarah Jane Adventures, Class, 1960년대 극장판 두 편",
+      "by": "BBC (Sydney Newman, C. E. Webber, Donald Wilson)",
+      "year": 1963,
+      "country": "영국",
+      "setting": "죽을 때마다 몸을 바꿔 되살아나는 외계인 박사가 시간 여행 배로 과거·미래·먼 별을 돈다.",
+      "concepts": [
+        "time_travel",
+        "alien",
+        "cyborg",
+        "alt_timeline",
+        "translator"
+      ],
+      "new_ideas": "죽을 때 몸과 성격을 통째로 바꿔 다시 태어나기 · 안이 바깥보다 큰 배",
+      "lore_size": "큼",
+      "notability": "2006년 기네스 세계 기록에 '가장 오래 방영된 SF 텔레비전 드라마'로 오름(당시 43년·723편).",
+      "notability_src": "https://www.sliceofscifi.com/2006/09/29/the-debate-is-over-doctor-who-guinness-winner/",
+      "korean": {
+        "status": "있음",
+        "detail": "2005년 새 시리즈는 웨이브(13시즌)·왓챠(1시즌), 2023년 이후 시리즈는 디즈니+(2시즌)·웨이브에서 '닥터 후'로 스트리밍 중(JustWatch 한국 https://www.justwatch.com/kr/TV-프로그램/dagteo-hu). 2006년 9월 FOX채널 월·화 밤 방영(경기일보 https://www.kyeonggi.com/article/200609050198997). 1963년 고전판과 1996년 TV 영화는 지금 한국 스트리밍 없음. 옛 방영 제목 『후박사의 모험』(1977 KBS, 한국어 위키백과 https://ko.wikipedia.org/wiki/닥터_후 — 위키 기록만).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/dagteo-hu-2023"
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_dwarf",
+      "orig": "Red Dwarf",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Red Dwarf (1988–1999, 2009–2020), 소설 네 권",
+      "by": "Rob Grant, Doug Naylor (BBC)",
+      "year": 1988,
+      "country": "영국",
+      "setting": "300만 년 동안 멈춰 있다 깨어난 마지막 사람이 홀로그램 동료·인조인간과 빈 광산선을 떠돈다.",
+      "concepts": [
+        "cryosleep",
+        "hologram",
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "6기 'Gunmen of the Apocalypse' 편이 1994년 국제 에미상(대중 예술 부문)을 받음.",
+      "notability_src": "https://reddwarf.co.uk/about/accolades/",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 작품 쪽은 있으나 한국어 제목 없이 'Red Dwarf' 로만 나오고 볼 곳이 없음. 옛 방영 기록은 찾지 못함(웹 검색 한도가 차서 한국어 기사 검색을 더 못 함).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/red-dwarf"
+      },
+      "borderline": false
+    },
+    {
+      "id": "blakes_7",
+      "orig": "Blake's 7",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Blake's 7 (1978–1981)",
+      "by": "Terry Nation (BBC)",
+      "year": 1978,
+      "country": "영국",
+      "setting": "억압적인 지구 정부에 맞선 탈옥수들이 훔친 외계 우주선을 타고 저항을 이어 간다.",
+      "concepts": [
+        "teleport",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "4기 52편(1978–1981, BBC1). 영국 평균 시청자 900만 명, 일부 편은 1,000만 명을 넘음.",
+      "notability_src": "https://en.wikipedia.org/wiki/Blake%27s_7",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 'Blake's 7'(1978)이 한국어 제목 없이 나오고 볼 곳 없음. 옛 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=Blake's 7"
+      },
+      "borderline": false
+    },
+    {
+      "id": "black_mirror",
+      "orig": "Black Mirror",
+      "orig_en": "",
+      "ko": "블랙 미러",
+      "ko_src": "https://www.netflix.com/kr/title/70264888",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Black Mirror (2011– ), Bandersnatch (2018) — 편마다 세계가 따로",
+      "by": "Charlie Brooker (Channel 4 → Netflix)",
+      "year": 2011,
+      "country": "영국",
+      "setting": "가까운 미래의 기술이 사람과 사회를 어떻게 일그러뜨리는지 한 편씩 따로 그리는 연작.",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "android",
+        "robot"
+      ],
+      "new_ideas": "본 것을 모두 녹화해 되돌려 보는 눈 · 서로 매기는 점수로 사는 사회",
+      "lore_size": "작음",
+      "notability": "에미상 텔레비전 영화 부문을 3년 잇달아 받음(2017 'San Junipero', 2018 'USS Callister', 2019 'Bandersnatch').",
+      "notability_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Black_Mirror",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국에서 '블랙 미러' 7시즌 전부 공개 중.",
+        "src": "https://www.netflix.com/kr/title/70264888"
+      },
+      "borderline": false
+    },
+    {
+      "id": "quatermass",
+      "orig": "The Quatermass Experiment",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "Quatermass 연작 (BBC 1953, 1955, 1958–59; ITV 1979), BBC Four 리메이크 (2005), Hammer 영화판",
+      "by": "Nigel Kneale (BBC)",
+      "year": 1953,
+      "country": "영국",
+      "setting": "영국 로켓 계획을 이끄는 퀘이터매스 교수가 우주에서 온 생명과 그 흔적에 맞선다.",
+      "concepts": [
+        "alien",
+        "parasite",
+        "uplift"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1953년 BBC 6편 생방송 연속극. 영국 성인 시청자용으로 처음 쓴 SF 텔레비전 작품으로 꼽힘(남은 것은 2편뿐).",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Quatermass_Experiment",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "텔레비전 본편의 한국 공개 흔적은 못 찾음. JustWatch 한국에는 Hammer 영화판 『쿼터매스 2』(1957)가 Artiflix(정액)·Plex(광고 무료)로 올라 있으나 한국어 자막이 있는지는 확인 못 함. 다른 영화판 『쿼터매스 엑스페리먼트』(1955)·『쿼터매스 앤 더 핏』(1967)은 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/%EC%98%81%ED%99%94/kweoteomaeseu-2"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_1999",
+      "orig": "Space: 1999",
+      "orig_en": "",
+      "ko": "우주대모험 1999",
+      "ko_src": "https://ko.wikipedia.org/wiki/우주대모험_1999",
+      "media": [
+        "드라마",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Space: 1999 (1975–1977)",
+      "by": "Gerry Anderson, Sylvia Anderson (ITC)",
+      "year": 1975,
+      "country": "영국",
+      "setting": "핵폐기물 폭발로 궤도를 벗어난 달이 기지 사람들을 태운 채 우주를 떠돈다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "궤도를 벗어나 떠도는 달",
+      "lore_size": "중간",
+      "notability": "2기(1975–1977). 당시 영국 텔레비전 시리즈 가운데 제작비가 가장 많이 든 작품(합계 680만 파운드).",
+      "notability_src": "https://en.wikipedia.org/wiki/Space:_1999",
+      "korean": {
+        "status": "있음",
+        "detail": "한국어 위키백과에 TBC 동양방송(1976–77)·KBS(1978–79)·MBC(1981–82) 주말 방영 기록이 있음. 위키 기록만이고 출처 표시가 없으며 문장도 서로 어긋남(다시 확인 필요). JustWatch 한국에는 볼 곳 없음.",
+        "src": "https://ko.wikipedia.org/wiki/우주대모험_1999"
+      },
+      "borderline": false
+    },
+    {
+      "id": "thunderbirds",
+      "orig": "Thunderbirds",
+      "orig_en": "",
+      "ko": "썬더버드",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/thunderbirds",
+      "media": [
+        "드라마",
+        "영화",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Thunderbirds (1965–66, 인형극), 극장판 (1966, 1968), 실사 영화 (2004), Thunderbirds Are Go (2015–2020)",
+      "by": "Gerry Anderson, Sylvia Anderson (AP Films / ITC)",
+      "year": 1965,
+      "country": "영국",
+      "setting": "외딴섬에 숨은 한 집안이 첨단 구조선과 우주 정거장으로 세계의 재난 현장을 돕는 근미래.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2기 32편(1965–66). 1966년 영국 왕립텔레비전협회 은메달을 받음.",
+      "notability_src": "https://en.wikipedia.org/wiki/Thunderbirds_(TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "2004년 실사 영화 『썬더버드』만 티빙에서 스트리밍 중(https://justwatch.com/kr/%EC%98%81%ED%99%94/sseondeobeodeu). 1965년 인형극 원작은 JustWatch 한국에 '썬더버드 (1965)'로 있으나 볼 곳 없음, Thunderbirds Are Go(2015)도 볼 곳 없음. 한국 옛 방영 제목은 확인 못 함(한국어 위키백과 문서 '선더버드 (텔레비전 프로그램)'에도 한국 방영 기록 없음).",
+        "src": "https://justwatch.com/kr/%EC%98%81%ED%99%94/sseondeobeodeu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ufo_1970",
+      "orig": "UFO",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "UFO (1970–1971)",
+      "by": "Gerry Anderson, Sylvia Anderson, Reg Hill (Century 21 / ITC)",
+      "year": 1970,
+      "country": "영국",
+      "setting": "외계인이 몰래 사람을 잡아가는 1980년대, 비밀 조직이 달 기지와 요격기로 막아선다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1기 26편(1970–71, ITV).",
+      "notability_src": "https://en.wikipedia.org/wiki/UFO_(British_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어 위키백과 문서 'UFO (드라마)'에도 한국 방영 기록 없음. JustWatch 한국 검색에서 이 작품을 찾지 못함.",
+        "src": "https://ko.wikipedia.org/wiki/UFO_(드라마)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_prisoner",
+      "orig": "The Prisoner",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "The Prisoner (1967–68), 리메이크 (2009)",
+      "by": "Patrick McGoohan (ITC)",
+      "year": 1967,
+      "country": "영국",
+      "setting": "그만둔 비밀 요원이 정체 모를 '마을'에 갇혀 감시와 세뇌에 맞선다.",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "17편(1967–68). 마지막 편 'Fall Out' 이 1969년 휴고상 후보, 2002년 Prometheus 명예의 전당에 오름.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Prisoner",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 1967년판·2009년판 모두 한국어 제목 없이 나오고 볼 곳 없음. 옛 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=The Prisoner"
+      },
+      "borderline": true
+    },
+    {
+      "id": "survivors",
+      "orig": "Survivors",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Survivors (1975–1977), 리메이크 (2008–2010)",
+      "by": "Terry Nation (BBC)",
+      "year": 1975,
+      "country": "영국",
+      "setting": "전염병으로 인류 대부분이 죽은 뒤, 살아남은 사람들이 공동체를 다시 일군다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "3기 38편(1975–1977, BBC1).",
+      "notability_src": "https://en.wikipedia.org/wiki/Survivors_(1975_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 1975년판('Survivors')과 2008년판('생존자들' 표기)이 있으나 둘 다 볼 곳 없음. 옛 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=Survivors"
+      },
+      "borderline": false
+    },
+    {
+      "id": "primeval",
+      "orig": "Primeval",
+      "orig_en": "",
+      "ko": "프라이미벌: 원시의 습격",
+      "ko_src": "https://www.tenasia.co.kr/article/2020012117164",
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Primeval (2007–2011), Primeval: New World (2012–13)",
+      "by": "Tim Haines, Adrian Hodges (Impossible Pictures, ITV)",
+      "year": 2007,
+      "country": "영국",
+      "setting": "시간의 틈이 열려 옛 생물이 지금으로 넘어오고, 연구 팀이 그 틈을 쫓는다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "5기 36편(2007–2011, 1~4기 ITV·5기 Watch). 첫 방송 시청자 670만 명.",
+      "notability_src": "https://en.wikipedia.org/wiki/Primeval_(TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "2009년 3월 채널CGV 가 『프라이미벌: 원시의 습격』 시즌 1·2 를 방영(텐아시아 기사). 한국어 위키백과에는 KBS 2TV 가 2007년부터 시즌 1~3 을 더빙 방영하고 시즌 4·5 는 안 했다고 적혀 있음(위키 기록만, https://ko.wikipedia.org/wiki/프라이미벌). 지금 본편은 JustWatch 한국에서 '프라이미벌'로 볼 곳 없음, 『프라이미벌: 뉴 월드』는 왓챠에서 스트리밍 중(https://www.justwatch.com/kr/TV-프로그램/peuraimibeol-nyuweoldeu).",
+        "src": "https://www.tenasia.co.kr/article/2020012117164"
+      },
+      "borderline": false
+    },
+    {
+      "id": "akta_manniskor",
+      "orig": "Äkta människor",
+      "orig_en": "Real Humans",
+      "ko": "리얼 휴먼",
+      "ko_src": "https://ko.wikipedia.org/wiki/리얼_휴먼",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Äkta människor (2012–2014), 영국 리메이크 Humans (2015–2018)",
+      "by": "Lars Lundström (SVT)",
+      "year": 2012,
+      "country": "스웨덴",
+      "setting": "사람과 똑같이 생긴 일꾼 로봇이 집집마다 쓰이고, 그중 몇이 스스로 생각하기 시작한다.",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2기 20편(2012–2014, SVT). 2013년까지 한국을 포함해 약 50개국에 팔림.",
+      "notability_src": "https://en.wikipedia.org/wiki/Real_Humans",
+      "korean": {
+        "status": "있음",
+        "detail": "스웨덴 원작 『리얼 휴먼』은 2013년 3월 23일~5월 25일 KBS 2TV 토요일 밤 방영(한국어 위키백과 — 위키 기록만, 영어 위키백과에도 한국에 팔렸다고 나옴). 영국 리메이크 『휴먼스』는 웨이브·왓챠에서 3시즌 스트리밍 중(https://www.justwatch.com/kr/TV-프로그램/hyumeonseu). 『리얼 휴먼』은 지금 한국 스트리밍 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/hyumeonseu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_lazarus_project",
+      "orig": "The Lazarus Project",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Lazarus Project (2022–2023)",
+      "by": "Joe Barton (Sky)",
+      "year": 2022,
+      "country": "영국",
+      "setting": "세계가 망할 때마다 시간을 정해진 날로 되감는 비밀 조직과, 그 기억을 지닌 요원들.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2기 16편(2022–2023, Sky Max). 2022년 영국 왕립텔레비전협회 크래프트·디자인상 특수효과상, 2024년 영국 아카데미 TV상 남우주연 후보(Paapa Essiedu).",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Lazarus_Project_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '라자루스 프로젝트'(2022, 2시즌) 표기가 있으나 '대한민국에서 스트리밍할 수 없습니다'. 예전에 한국에서 공개됐는지는 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/the-lazarus-project-2022"
+      },
+      "borderline": false
+    },
+    {
+      "id": "max_headroom",
+      "orig": "Max Headroom",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Max Headroom: 20 Minutes into the Future (1985), Max Headroom (1987–88)",
+      "by": "George Stone, Annabel Jankel, Rocky Morton (Chrysalis / Channel 4 → ABC)",
+      "year": 1985,
+      "country": "영국",
+      "setting": "방송사가 세상을 쥔 가까운 미래, 기자의 머릿속을 옮겨 만든 컴퓨터 진행자가 나타난다.",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 시리즈 14편(1987–88, 1편은 방영 안 됨). 1987년 에미상(크리에이티브 아츠) 미술·음향 편집·음향 믹싱 3개 부문 수상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Max_Headroom_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 1985년 TV 영화·1987년 ABC 시리즈가 한국어 제목 없이 나오고 볼 곳 없음. 옛 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=Max Headroom"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_tomorrow_people",
+      "orig": "The Tomorrow People",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Tomorrow People (1973–1979, 1992–95), 미국 리메이크 (2013–14)",
+      "by": "Roger Price (Thames / ITV)",
+      "year": 1973,
+      "country": "영국",
+      "setting": "다음 단계로 진화해 텔레파시와 순간 이동을 쓰게 된 젊은이들이 숨어서 서로를 지킨다.",
+      "concepts": [
+        "next_human",
+        "telepathy",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "원작 8기 68편(1973–1979, Thames Television 제작·ITV). 1992–95년 부활판 3기 25편.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Tomorrow_People",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 2013년 CW 리메이크가 '투모로우 피플'로 있으나 볼 곳 없음. 1973년 영국 원작·1992년 부활판도 볼 곳 없음. 예전 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=The Tomorrow People"
+      },
+      "borderline": false
+    },
+    {
+      "id": "raumpatrouille_orion",
+      "orig": "Raumpatrouille – Die phantastischen Abenteuer des Raumschiffes Orion",
+      "orig_en": "Space Patrol Orion",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "Raumpatrouille (1966, 7편), 극장 편집판 (2003)",
+      "by": "Rolf Honold, Hans Gottschalk (Bavaria / WDR·ARD)",
+      "year": 1966,
+      "country": "서독",
+      "setting": "바다 밑에 도시를 지은 미래, 우주 순찰선 오리온 호가 외계 세력 '개구리'와 맞선다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "서독 첫 SF 텔레비전 시리즈(1966, 7편). 시청률이 최고 56% 까지 나옴.",
+      "notability_src": "https://en.wikipedia.org/wiki/Raumpatrouille_Orion",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국 검색에 'Space Patrol'(1966)로 나오고 볼 곳 없음. 한국 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=Raumpatrouille"
+      },
+      "borderline": false
+    },
+    {
+      "id": "el_ministerio_del_tiempo",
+      "orig": "El Ministerio del Tiempo",
+      "orig_en": "The Ministry of Time",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "El Ministerio del Tiempo (2015–2020)",
+      "by": "Javier Olivares, Pablo Olivares (TVE)",
+      "year": 2015,
+      "country": "스페인",
+      "setting": "스페인 정부의 비밀 부처가 시간의 문을 지키며 역사가 바뀌지 않게 요원을 보낸다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "4기 42편(2015–2020, TVE La 1). 2015년 Premios Ondas 최우수 스페인 시리즈상.",
+      "notability_src": "https://en.wikipedia.org/wiki/El_ministerio_del_tiempo",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 한국어 제목 없이 있고 볼 곳 없음(https://www.justwatch.com/kr/TV-프로그램/the-ministry-of-time). 한국어 위키백과 문서 이름은 '엘 미니스테리오 델 티엠포'(음역, 공개 제목 아님). 3기는 넷플릭스가 스페인 밖 해외 방영권을 샀으나 한국에서 나왔는지는 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/the-ministry-of-time"
+      },
+      "borderline": false
+    },
+    {
+      "id": "beforeigners",
+      "orig": "Fremvandrerne",
+      "orig_en": "Beforeigners",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Fremvandrerne (2019–2022)",
+      "by": "Anne Bjørnstad, Eilif Skodvin (HBO Europe → HBO Max)",
+      "year": 2019,
+      "country": "노르웨이",
+      "setting": "옛 시대 사람들이 바다에서 떠올라 오늘의 오슬로로 몰려와 이민자로 사는 세상.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "HBO 북유럽 채널이 만든 첫 노르웨이어 시리즈, 2020년 노르웨이 Gullruten 최우수 드라마 후보.",
+      "notability_src": "https://en.wikipedia.org/wiki/Beforeigners",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '비포리너스'(2019, 노르웨이) 표기가 있으나 '대한민국에서 스트리밍할 수 없습니다'. 왓챠피디아에도 '비포리너스' 항목이 있으나 볼 곳 표시는 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/beforeigners"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_rain",
+      "orig": "The Rain",
+      "orig_en": "",
+      "ko": "레인",
+      "ko_src": "https://www.netflix.com/kr/title/80154610",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Rain (2018–2020)",
+      "by": "Jannik Tai Mosholt, Esben Toft Jacobsen, Christian Potalivo (Netflix)",
+      "year": 2018,
+      "country": "덴마크",
+      "setting": "비에 섞인 바이러스가 사람을 죽인 뒤, 지하 벙커에서 나온 남매가 무너진 북유럽을 헤맨다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "3기 20편(2018–2020, 넷플릭스).",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Rain_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국에서 '레인' 3시즌 전부 공개 중.",
+        "src": "https://www.netflix.com/kr/title/80154610"
+      },
+      "borderline": false
+    },
+    {
+      "id": "into_the_night",
+      "orig": "Into the Night",
+      "orig_en": "",
+      "ko": "어둠 속으로",
+      "ko_src": "https://www.netflix.com/kr/title/81008221",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설 Starość aksolotla (2015, 영어판 The Old Axolotl)에서 착상한 Netflix 드라마 Into the Night (2020–2021), 튀르키예 곁가지 Yakamoz S-245 (2022)",
+      "by": "Jacek Dukaj (소설); Jason George (Netflix)",
+      "year": 2015,
+      "country": "폴란드·벨기에",
+      "setting": "햇빛을 받으면 사람이 죽는 재앙이 오자, 납치된 여객기가 밤을 따라 서쪽으로 날아간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "넷플릭스의 첫 벨기에 오리지널 시리즈. 2기 12편(2020–2021).",
+      "notability_src": "https://en.wikipedia.org/wiki/Into_the_Night_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국에서 '어둠 속으로' 2시즌 공개 중.",
+        "src": "https://www.netflix.com/kr/title/81008221"
+      },
+      "borderline": false
+    },
+    {
+      "id": "twilight_zone",
+      "orig": "The Twilight Zone",
+      "orig_en": "",
+      "ko": "환상특급",
+      "ko_src": "https://www.inews24.com/view/1309834",
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "The Twilight Zone (1959–1964, 1985–89, 2002–03, 2019–20), 극장판 (1983) — 편마다 세계가 따로",
+      "by": "Rod Serling (CBS)",
+      "year": 1959,
+      "country": "미국",
+      "setting": "편마다 다른 세상에서, 평범한 사람이 이상한 일과 마주쳐 반전을 겪는 연작.",
+      "concepts": [
+        "alien",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "CBS 에서 1959~64년 5시즌 156편 방영, 휴고상 극 부문을 1960·1961·1962년 세 해 내리 받음",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "2019년 새판이 웨이브에서 『환상특급: 트와일라잇 존』이라는 제목으로 2020년 10월 23일(시즌 1)과 30일(시즌 2)에 공개됐다(아이뉴스24 2020-10-23). 1980년대 첫 부활판(1985~89)은 KBS 에서 방영됐다는 기록이 있으나 위키 기록만(한국어 위키백과 『환상특급』). 1959년 원작은 JustWatch 한국에 『오리지날 환상특급』이라는 이름만 있고 볼 곳이 없으며, 옛 방영 기록은 못 찾음. 지금(2026-10-19) JustWatch 한국 기준으로 원작·2019판 모두 볼 곳 없음. 지금 OTT 제목은 없어서 ko 는 웨이브 공개 제목의 앞 이름을 씀.",
+        "src": "https://www.inews24.com/view/1309834"
+      },
+      "borderline": true
+    },
+    {
+      "id": "outer_limits",
+      "orig": "The Outer Limits",
+      "orig_en": "",
+      "ko": "제3의 눈",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/the-outer-limits",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Outer Limits (1963–65, 1995–2002) — 편마다 세계가 따로",
+      "by": "Leslie Stevens (ABC)",
+      "year": 1963,
+      "country": "미국",
+      "setting": "편마다 외계 생명·과학 실험·미래 기술이 낳은 사건을 따로 다루는 연작.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 에서 1963~65년 2시즌 49편, 할런 엘리슨이 쓴 편 「Demon with a Glass Hand」가 미국 작가조합상을 받음",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Outer_Limits_(1963_TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "1995년 새판이 KBS 2TV 에서 1995년 11월 6일~1996년 4월 29일 월요일 밤, 1997년 9월 15일~1998년 5월 4일 월요일 자정 무렵에 『제3의 눈』으로 방영됐다는 기록(위키 기록만, 한국어 위키백과 『제3의 눈 (1995년 드라마)』). 한국일보 2018-01-12 기사가 이 시리즈를 『외부 한계(The Outer Limits·제3의 눈)』로 적어 한국 제목을 뒷받침함. 1963년 원작의 한국 공개는 확인 못 함. 지금 JustWatch 한국에는 볼 곳 없음.",
+        "src": "https://ko.wikipedia.org/wiki/제3의_눈_(1995년_드라마)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lost_in_space",
+      "orig": "Lost in Space",
+      "orig_en": "",
+      "ko": "로스트 인 스페이스",
+      "ko_src": "https://www.netflix.com/kr/title/80104198",
+      "media": [
+        "드라마",
+        "영화",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Lost in Space (1965–68), 영화 (1998), Netflix (2018–2021)",
+      "by": "Irwin Allen (CBS)",
+      "year": 1965,
+      "country": "미국",
+      "setting": "지구를 떠나 개척 행성으로 가던 로빈슨 가족이 길을 잃고 낯선 별들을 떠돈다.",
+      "concepts": [
+        "robot",
+        "colonization",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "CBS 에서 1965~68년 3시즌 83편, 1966년과 1968년 에미상 후보",
+      "notability_src": "https://en.wikipedia.org/wiki/Lost_in_Space",
+      "korean": {
+        "status": "일부",
+        "detail": "2018~2021년 넷플릭스판이 넷플릭스 한국에 『로스트 인 스페이스』 3시즌으로 있음. 1998년 영화도 같은 제목으로 왓챠에서 볼 수 있음(JustWatch 한국, 2026-10-19). 1965년 원작은 한국어 위키백과에 일본 방영 제목 『우주가족 로빈슨』으로 알려졌다고만 적혀 있고, 한국 방영 기록은 못 찾음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/lost-in-space"
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_tunnel",
+      "orig": "The Time Tunnel",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Time Tunnel (1966–67)",
+      "by": "Irwin Allen (ABC)",
+      "year": 1966,
+      "country": "미국",
+      "setting": "비밀 연구소의 시간 터널 실험에 휘말린 두 과학자가 역사 속 사건들로 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 에서 1966~67년 1시즌 30편, 1967년 에미상 촬영 부문(특수 촬영 효과) 수상",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Time_Tunnel",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. 한국어 위키백과에 문서가 없고, JustWatch 한국에는 원제 『The Time Tunnel』로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=time%20tunnel"
+      },
+      "borderline": false
+    },
+    {
+      "id": "six_million_dollar_man",
+      "orig": "The Six Million Dollar Man",
+      "orig_en": "",
+      "ko": "6백만불의 사나이",
+      "ko_src": "https://www.justwatch.com/kr/검색?q=six%20million%20dollar%20man",
+      "media": [
+        "소설",
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "소설 Cyborg (1972), The Six Million Dollar Man (1973–78), The Bionic Woman (1976–78), Bionic Woman (2007)",
+      "by": "Martin Caidin (소설), Harve Bennett (ABC)",
+      "year": 1972,
+      "country": "미국",
+      "setting": "사고로 몸을 잃은 우주 비행사가 기계 팔다리와 눈으로 되살아나 정부 요원이 된다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 에서 1973~78년, 1973년 텔레비전 영화 3편과 5시즌 99편, 1976년 갈래 시리즈 The Bionic Woman 을 낳음",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man",
+      "korean": {
+        "status": "있음",
+        "detail": "외화 시리즈로 방영돼 큰 인기를 끌었고 아이들이 흉내 내다 다치는 일까지 있었다고 한국일보 2015-10-03 칼럼이 적음. 방송사와 해는 위키 기록만: 동양방송(TBC) 1976년 7월 9일~1978년 7월 12일 104회, 1988년 10월~1990년 초 KBS 가 새로 더빙해 다시 방영(한국어 위키백과 『6백만 달러의 사나이』). 갈래 시리즈 The Bionic Woman 은 MBC 에서 1976~78년 『특수공작원 소머즈』로 방영(위키 기록만, 한국어 위키백과 『바이오닉 우먼』), JustWatch 한국 이름은 『소머즈』. 2007년 리메이크 Bionic Woman 은 JustWatch 한국에 『바이오닉 우먼』 이름만 있고 공개 기록 못 찾음. 지금 볼 곳 없음.",
+        "src": "https://www.hankookilbo.com/News/Read/201510031082332840"
+      },
+      "borderline": false
+    },
+    {
+      "id": "man_from_atlantis",
+      "orig": "Man from Atlantis",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "텔레비전 영화 4편 (1977), Man from Atlantis (1977–78)",
+      "by": "Mayo Simon, Herbert F. Solow (NBC)",
+      "year": 1977,
+      "country": "미국",
+      "setting": "물속에서 숨 쉬는 수수께끼의 사내가 해양 연구소와 함께 바닷속 사건을 푼다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "NBC 에서 1977년 텔레비전 영화 4편, 이어 1977~78년 시리즈 13편",
+      "notability_src": "https://en.wikipedia.org/wiki/Man_from_Atlantis",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. 한국어 위키백과 문서 이름은 『아틀란티스에서 온 사나이』지만 한국 방영 이야기는 없음. JustWatch 한국에는 원제로만 있고 볼 곳 없음.",
+        "src": "https://ko.wikipedia.org/wiki/아틀란티스에서_온_사나이"
+      },
+      "borderline": true
+    },
+    {
+      "id": "battlestar_galactica",
+      "orig": "Battlestar Galactica",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "영화",
+        "소설",
+        "만화",
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Battlestar Galactica (1978–79), Galactica 1980, 새 판 (2003 미니시리즈, 2004–2009), Caprica (2010), Blood & Chrome (2012)",
+      "by": "Glen A. Larson (ABC); 새 판 Ronald D. Moore",
+      "year": 1978,
+      "country": "미국",
+      "setting": "만든 기계 사일론에게 고향 별들을 잃은 인류가 마지막 함대로 전설의 지구를 찾는다.",
+      "concepts": [
+        "ai_revolt",
+        "android",
+        "mind_upload",
+        "jump_drive",
+        "fleet_battle",
+        "cycle",
+        "prophecy"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "2004년판이 피버디상을 받고 에미상 후보 19번 가운데 3번(시각 효과·음향 편집) 수상",
+      "notability_src": "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "옛판(1978)·새판(2003·2004~2009) 모두 한국 방영·OTT 공개 기록을 못 찾음. 영화진흥위원회 영화정보에 1978년판 영화 『배틀스타 갈락티카』(124분, 한국어 줄거리)와 2007년 『배틀스타 갤럭티카 : 레이저』가 올라 있으나 개봉일·등급 기록이 비어 있어 공개 방식을 알 수 없음. JustWatch 한국 이름은 『배틀스타 갤럭티카』, 지금 볼 곳 없음.",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19788055"
+      },
+      "borderline": false
+    },
+    {
+      "id": "v_1983",
+      "orig": "V",
+      "orig_en": "",
+      "ko": "브이",
+      "ko_src": "https://www.seoul.co.kr/news/life/2010/03/22/20100322023007",
+      "media": [
+        "드라마",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "V (1983 미니시리즈), V: The Final Battle (1984), V: The Series (1984–85), 리메이크 V (2009–2011)",
+      "by": "Kenneth Johnson (NBC)",
+      "year": 1983,
+      "country": "미국",
+      "setting": "친구를 자처하고 찾아온 파충류 외계인의 속셈을 알아챈 사람들이 저항군을 꾸린다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1983년 NBC 2부작 미니시리즈 1부가 그 주 시청률 2위, 텔레비전 시청자 약 40% 를 모음",
+      "notability_src": "https://en.wikipedia.org/wiki/V_(1983_miniseries)",
+      "korean": {
+        "status": "있음",
+        "detail": "옛판: 1985년 KBS 2TV 에서 처음 방영(서울신문 2010-05-27). 1985년 여름 첫 시즌 5부작(1983 미니시리즈와 The Final Battle 을 하나로 묶음), 같은 해 가을 19부작 시리즈가 방송됨(경향신문 2010-05-29). 새판(2009~2011 ABC): 채널CGV 가 2010년 4월 2일부터 금요일 밤 11시에 『브이』로 방영(서울신문 2010-03-22), 이어 원작도 2010년 6월 7일부터 채널CGV 에서 다시 방송. 지금 JustWatch 한국에는 『브이』(2009), 『브이: 오리지널 2부작』(1983) 이름만 있고 볼 곳 없음.",
+        "src": "https://www.seoul.co.kr/news/life/2010/05/27/20100527022019"
+      },
+      "borderline": false
+    },
+    {
+      "id": "knight_rider",
+      "orig": "Knight Rider",
+      "orig_en": "",
+      "ko": "전격Z작전",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/jeongyeogzjagjeon",
+      "media": [
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Knight Rider (1982–86), 리메이크 (2008–09)",
+      "by": "Glen A. Larson (NBC)",
+      "year": 1982,
+      "country": "미국",
+      "setting": "말하는 인공지능 자동차와 요원이 재단의 일을 맡아 악당을 쫓는다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "NBC 에서 1982~86년 4시즌 90편",
+      "notability_src": "https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "옛판은 KBS 2TV 에서 1985~1987년 『전격 Z작전』으로 방영(위키 기록만, 한국어 위키백과 『전격 Z작전』). 2008년 리메이크는 케이블 영화 채널 OCN 이 2009년 10월 9일부터 『전격Z작전』으로 방영(경향신문 2009-10-12). 지금 JustWatch 한국에는 『전격Z작전』 이름만 있고 볼 곳 없음.",
+        "src": "https://www.khan.co.kr/article/200910120955072"
+      },
+      "borderline": true
+    },
+    {
+      "id": "quantum_leap",
+      "orig": "Quantum Leap",
+      "orig_en": "",
+      "ko": "광속인간 샘",
+      "ko_src": "https://storicha.in/stori/view/R9Ij98R5c9I",
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Quantum Leap (1989–1993), 속편 (2022–2024)",
+      "by": "Donald P. Bellisario (NBC)",
+      "year": 1989,
+      "country": "미국",
+      "setting": "시간 실험에 실패한 과학자가 남의 몸에 들어가 과거를 오가며 잘못된 일을 바로잡는다.",
+      "concepts": [
+        "time_travel",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "NBC 에서 1989~93년 5시즌 97편, 골든글로브 2번(1990 딘 스톡웰 조연, 1992 스콧 바쿨라 주연)",
+      "notability_src": "https://en.wikipedia.org/wiki/Quantum_Leap_(1989_TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "『광속인간 샘』이라는 제목으로 한국에서 방영됐다고 SF 평론가 박상준의 글이 적음(스토리체인). 방송사·해는 위키 기록만: KBS2 1989년 9월~1990년 7월, MBC 1990년 9월~1991년 7월, SBS 개국 특집으로 1991년 12월 15일부터 시즌 1(한국어 위키백과 『광속인간 샘』). 시즌 3 첫 두 편이 『사선을 넘어』라는 제목으로 비디오 출시(같은 글, 출시사 CIC). 2022~2024 속편은 JustWatch 한국에 원제로만 있고 공개 기록 못 찾음. 지금 볼 곳 없음.",
+        "src": "https://storicha.in/stori/view/R9Ij98R5c9I"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_x_files",
+      "orig": "The X-Files",
+      "orig_en": "",
+      "ko": "엑스파일",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/egseupail",
+      "media": [
+        "드라마",
+        "영화",
+        "소설",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "The X-Files (1993–2002, 2016–2018), 영화 (1998, 2008)",
+      "by": "Chris Carter (Fox)",
+      "year": 1993,
+      "country": "미국",
+      "setting": "연방 수사국 두 요원이 외계인 음모와 설명 안 되는 사건을 쫓는다.",
+      "concepts": [
+        "alien",
+        "parasite",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "2002년까지 미국 지상파에서 가장 오래 이어 방송한 SF 시리즈, 11시즌 218편",
+      "notability_src": "https://en.wikipedia.org/wiki/The_X-Files",
+      "korean": {
+        "status": "있음",
+        "detail": "KBS 2TV 에서 1994년 10월 30일 처음 방송, 9시즌 202편을 내보내고 2002년 10월 25일 「진실」 2부로 끝냄(한국일보 2002-10-11). 2016년 시즌 10 은 케이블 캐치온으로 옮겨 방송, KBS 더빙 성우가 다시 맡음(경향신문 2016-02-16). 지금 디즈니+ 에 11시즌 전부, 왓챠에 1시즌(JustWatch 한국, 2026-10-19). 영화 1998 『엑스 파일: 미래와의 전쟁』, 2008 『엑스 파일: 나는 믿고 싶다』도 디즈니+ 에 있음.",
+        "src": "https://www.hankookilbo.com/news/article/200210110017949572"
+      },
+      "borderline": true
+    },
+    {
+      "id": "babylon_5",
+      "orig": "Babylon 5",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "애니메이션",
+        "소설",
+        "만화",
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Babylon 5 (1993–1998), 텔레비전 영화들, Crusade (1999), 애니메이션 영화 The Road Home (2023)",
+      "by": "J. Michael Straczynski (PTEN → TNT)",
+      "year": 1993,
+      "country": "미국",
+      "setting": "큰 전쟁 뒤 여러 종족이 함께 쓰는 우주 정거장에서, 오래된 종족들의 싸움이 다시 움튼다.",
+      "concepts": [
+        "habitat",
+        "gate_network",
+        "hyperspace",
+        "telepathy",
+        "alien",
+        "precursor",
+        "godlike",
+        "fleet_battle",
+        "prophecy"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "휴고상 극 부문을 1996년(「The Coming of Shadows」)과 1997년(「Severed Dreams」) 두 번 받음",
+      "notability_src": "https://en.wikipedia.org/wiki/Babylon_5",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. JustWatch 한국에 『전함 바빌론』이라는 이름이 붙어 있으나 볼 곳이 없고 그 이름의 출처도 확인 못 함. 한국어 위키백과 『바빌론 5』에도 한국 이야기 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/babylon-5"
+      },
+      "borderline": false
+    },
+    {
+      "id": "seaquest_dsv",
+      "orig": "seaQuest DSV",
+      "orig_en": "",
+      "ko": "해저 군단",
+      "ko_src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19938266",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "seaQuest DSV (1993–1996)",
+      "by": "Rockne S. O'Bannon (NBC, Amblin)",
+      "year": 1993,
+      "country": "미국",
+      "setting": "바다 밑을 개척하는 가까운 미래, 첨단 잠수함이 바다의 평화를 지킨다.",
+      "concepts": [
+        "translator"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "NBC 에서 1993~96년 3시즌 57편, 1994년 에미상 주제 음악 부문(존 데브니) 수상",
+      "notability_src": "https://en.wikipedia.org/wiki/SeaQuest_DSV",
+      "korean": {
+        "status": "일부",
+        "detail": "일부 편이 『해저 군단』이라는 제목으로 비디오 출시됐다는 기록(위키 기록, 한국어 위키백과 『시퀘스트 DSV』). 영화진흥위원회 영화정보에도 『해저 군단』(SeaQuest DSV, 1993)이 한국어 줄거리와 함께 올라 있으나 출시 해·회사는 비어 있음. 텔레비전 방영 기록은 못 찾음. JustWatch 한국에는 원제로만 있고 볼 곳 없음.",
+        "src": "https://ko.wikipedia.org/wiki/시퀘스트_DSV"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sliders",
+      "orig": "Sliders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Sliders (1995–2000)",
+      "by": "Tracy Tormé, Robert K. Weiss (Fox → Sci Fi)",
+      "year": 1995,
+      "country": "미국",
+      "setting": "다른 세계로 건너가는 장치를 만든 대학원생과 일행이 집으로 가는 길을 잃고 평행 세계를 떠돈다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1995~2000년 5시즌 88편(Fox 1~3시즌, Sci Fi 4~5시즌)",
+      "notability_src": "https://en.wikipedia.org/wiki/Sliders_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. 한국어 위키백과에 문서가 없고 JustWatch 한국에는 원제 『Sliders』로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/sliders"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_above_and_beyond",
+      "orig": "Space: Above and Beyond",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Space: Above and Beyond (1995–96)",
+      "by": "Glen Morgan, James Wong (Fox)",
+      "year": 1995,
+      "country": "미국",
+      "setting": "외계 종족과 전쟁이 터진 2063년, 해병대 우주 비행대가 전선으로 나간다.",
+      "concepts": [
+        "alien",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Fox 에서 1995~96년 1시즌 23편, 1996년 에미상 후보 2개(특수 시각 효과, 음악)",
+      "notability_src": "https://en.wikipedia.org/wiki/Space:_Above_and_Beyond",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. 한국어 위키백과 문서 없음, JustWatch 한국에는 원제로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=space%20above%20and%20beyond"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stargate",
+      "orig": "Stargate",
+      "orig_en": "",
+      "ko": "스타게이트",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/seutageiteu-sg-1",
+      "media": [
+        "영화",
+        "드라마",
+        "애니메이션",
+        "소설",
+        "만화",
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "영화",
+      "series": "영화 (1994), Stargate SG-1 (1997–2007), Atlantis (2004–09), Universe (2009–11), Origins (2018), 애니메이션 Infinity (2002–03)",
+      "by": "Roland Emmerich, Dean Devlin; 드라마 Brad Wright, Jonathan Glassner",
+      "year": 1994,
+      "country": "미국",
+      "setting": "고대 외계 유물인 고리 모양 문으로 먼 별을 오가며, 신을 사칭하는 기생 외계인과 맞선다.",
+      "concepts": [
+        "gate_network",
+        "wormhole",
+        "parasite",
+        "ascension",
+        "precursor",
+        "self_replicate",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영화가 세계에서 1억 9,660만 달러를 벌었고, 드라마 SG-1 은 1997~2007년 10시즌 214편",
+      "notability_src": "https://en.wikipedia.org/wiki/Stargate_SG-1",
+      "korean": {
+        "status": "있음",
+        "detail": "드라마 『스타게이트 SG-1』 10시즌이 지금 아마존 프라임 비디오 한국에 있음(JustWatch 한국, 2026-10-19). 1994년 영화는 『스타게이트』로, KBS 가 1996년 8월 15일 더빙 방영했다는 기록이 있으나 위키 기록만(한국어 위키백과 『스타게이트 (영화)』), 극장 개봉일은 확인 못 함, 지금 볼 곳 없음. 영화진흥위원회 영화정보에 SG-1 편들이 『스타게이트: 리플리컨트의 습격』 같은 이름으로 올라 있어 비디오로도 나온 듯하나 출시 해는 비어 있음. 아틀란티스·유니버스는 JustWatch 한국에 이름만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/seutageiteu-sg-1"
+      },
+      "borderline": false
+    },
+    {
+      "id": "earth_final_conflict",
+      "orig": "Gene Roddenberry's Earth: Final Conflict",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Earth: Final Conflict (1997–2002)",
+      "by": "Gene Roddenberry 착상, Majel Barrett Roddenberry 제작",
+      "year": 1997,
+      "country": "캐나다·미국",
+      "setting": "좋은 뜻을 내세우며 지구에 온 외계 종족의 숨은 뜻을 사람들이 캐낸다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1997~2002년 방송 연합 판매로 5시즌 110편",
+      "notability_src": "https://en.wikipedia.org/wiki/Earth:_Final_Conflict",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. JustWatch 한국에는 원제로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=earth%20final%20conflict"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lexx",
+      "orig": "Lexx",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Lexx (1997–2002)",
+      "by": "Paul Donovan, Lex Gigeroff, Jeffrey Hirschfield",
+      "year": 1997,
+      "country": "캐나다·독일·영국",
+      "setting": "별 하나를 부술 수 있는 살아 있는 곤충 모양 우주선을 얼떨결에 얻은 낙오자들의 방랑.",
+      "concepts": [
+        "planet_killer"
+      ],
+      "new_ideas": "살아 있는 생물인 우주선",
+      "lore_size": "중간",
+      "notability": "1997~2002년 4시즌 61편(첫 시즌은 텔레비전 영화 4편)",
+      "notability_src": "https://en.wikipedia.org/wiki/Lexx",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. 한국어 위키백과 문서 없음, JustWatch 한국에는 원제로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=lexx"
+      },
+      "borderline": false
+    },
+    {
+      "id": "farscape",
+      "orig": "Farscape",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Farscape (1999–2003), The Peacekeeper Wars (2004)",
+      "by": "Rockne S. O'Bannon (Sci Fi, Jim Henson Company)",
+      "year": 1999,
+      "country": "미국·오스트레일리아",
+      "setting": "웜홀 실험 중 먼 은하로 빨려 간 우주 비행사가 살아 있는 우주선에서 탈주자들과 지낸다.",
+      "concepts": [
+        "wormhole",
+        "alien",
+        "translator"
+      ],
+      "new_ideas": "살아 있는 생물인 우주선",
+      "lore_size": "큼",
+      "notability": "새턴상 최우수 케이블·방송 연합 시리즈를 2000~2002년에 3번 받음",
+      "notability_src": "https://en.wikipedia.org/wiki/Farscape",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영 기록을 못 찾음. JustWatch 한국은 『파스케이프』 4시즌이 Plex 에서 광고 보며 무료로 나온다고 적지만, 한국어 자막이 있는지 확인 못 함(Plex 작품 쪽은 열리지 않음). 한국어 위키백과 『파스케이프』에도 한국 이야기 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/farscape"
+      },
+      "borderline": false
+    },
+    {
+      "id": "andromeda",
+      "orig": "Gene Roddenberry's Andromeda",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Andromeda (2000–2005)",
+      "by": "Gene Roddenberry 착상, Robert Hewitt Wolfe 개발",
+      "year": 2000,
+      "country": "캐나다·미국",
+      "setting": "은하 연합이 무너진 지 300년 뒤 깨어난 함장이 옛 연합을 되살리려 한다.",
+      "concepts": [
+        "federation",
+        "empire_fall",
+        "navigator",
+        "ai",
+        "android",
+        "time_dilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2000~2005년 5시즌 110편, 상 후보 39번에 18번 수상",
+      "notability_src": "https://en.wikipedia.org/wiki/Andromeda_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영·발매 기록을 못 찾음. JustWatch 한국에 『안드로메다』 이름만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/andromeda"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark_angel",
+      "orig": "Dark Angel",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "소설",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Dark Angel (2000–2002)",
+      "by": "James Cameron, Charles H. Eglee (Fox)",
+      "year": 2000,
+      "country": "미국",
+      "setting": "전자기 폭탄으로 문명이 주저앉은 미국, 유전자 설계로 만든 병사 소녀가 숨어 산다.",
+      "concepts": [
+        "genetic_eng",
+        "super_soldier",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2000–2002년 Fox 2시즌 43편. 피플스 초이스상 새 드라마 부문 수상, 제시카 알바 새턴상 TV 여우주연상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Dark_Angel_(American_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '다크 엔젤'(2000)로 올라 있으나 지금 볼 곳 없음. 옛 방영·영상물 기록은 못 찾음(웹 검색 한도가 다 차서 더 찾지 못함).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/dakeu-enjel"
+      },
+      "borderline": false
+    },
+    {
+      "id": "firefly",
+      "orig": "Firefly",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "영화",
+        "만화",
+        "소설",
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Firefly (2002), 영화 Serenity (2005), 만화·소설",
+      "by": "Joss Whedon (Fox)",
+      "year": 2002,
+      "country": "미국",
+      "setting": "지구를 떠나 새 항성계에 정착한 인류, 연합 정부 바깥을 떠도는 낡은 화물선 선원들.",
+      "concepts": [
+        "earth_left",
+        "terraforming",
+        "colonization",
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2002년 Fox, 만든 14편 가운데 11편만 방영하고 끝남. 2003년 에미상 시리즈 특수 시각효과상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Firefly_(TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "영화 『세레니티』(2005)만 확인: 지금 웨이브에서 대여·구매(JustWatch 한국). 드라마 본편은 JustWatch 한국에 '파이어플라이'로 올라 있으나 볼 곳 없고, 옛 방영·DVD 기록도 못 찾음. 영화의 국내 극장 개봉 여부는 확인 못 함(Box Office Mojo 해외 개봉 목록에 한국 없음).",
+        "src": "https://www.justwatch.com/kr/영화/serenity"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lost",
+      "orig": "Lost",
+      "orig_en": "",
+      "ko": "로스트",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/lost",
+      "media": [
+        "드라마",
+        "게임",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "Lost (2004–2010)",
+      "by": "J. J. Abrams, Damon Lindelof, Jeffrey Lieber (ABC)",
+      "year": 2004,
+      "country": "미국",
+      "setting": "여객기가 떨어진 외딴섬에서 생존자들이 섬의 비밀과 옛 연구 조직의 흔적을 마주한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2004–2010년 ABC 6시즌 121편. 2005년 에미상 드라마 작품상, 2006년 골든글로브 드라마 작품상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "지금 디즈니+에서 6시즌 전부 볼 수 있음(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/lost"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_4400",
+      "orig": "The 4400",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "The 4400 (2004–2007), 4400 (2021–22)",
+      "by": "Scott Peters, René Echevarria (USA Network)",
+      "year": 2004,
+      "country": "미국",
+      "setting": "수십 년 동안 사라졌던 4400명이 한꺼번에 돌아오고, 그들에게 초능력이 생긴다.",
+      "concepts": [
+        "time_travel",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2004–2007년 USA Network 4시즌 44편(첫 시즌은 5편짜리 미니시리즈). 세 번째 시즌 첫 편 420만 명.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_4400",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '4400'(2004)과 '4400'(2021)이 한국어 제목 없이 올라 있고 둘 다 볼 곳 없음. 옛 방영 기록은 못 찾음.",
+        "src": "https://www.justwatch.com/kr/검색?q=the%204400"
+      },
+      "borderline": false
+    },
+    {
+      "id": "heroes",
+      "orig": "Heroes",
+      "orig_en": "",
+      "ko": "히어로즈",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/hieorojeu",
+      "media": [
+        "드라마",
+        "만화",
+        "소설",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Heroes (2006–2010), Heroes Reborn (2015–16)",
+      "by": "Tim Kring (NBC)",
+      "year": 2006,
+      "country": "미국",
+      "setting": "평범한 사람들이 저마다 초능력에 눈뜨고, 다가올 대재앙을 막으려 엮인다.",
+      "concepts": [
+        "psionics",
+        "precognition",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2006–2010년 NBC 4시즌 78편. 2007년 TCA상 올해의 프로그램.",
+      "notability_src": "https://en.wikipedia.org/wiki/Heroes_(American_TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "지금 넷플릭스 4시즌, 왓챠 2시즌(JustWatch 한국). 옛 방영: SBS 더빙 방영, 시즌 1은 2008년 1월 5일~5월 31일(한국어 위키백과, 위키 기록만). 『히어로즈 리본』(2015)은 JustWatch 한국에 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=heroes"
+      },
+      "borderline": true
+    },
+    {
+      "id": "eureka",
+      "orig": "Eureka",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Eureka (2006–2012)",
+      "by": "Andrew Cosby, Jaime Paglia (Sci Fi)",
+      "year": 2006,
+      "country": "미국",
+      "setting": "천재 과학자들만 모여 사는 비밀 마을에서 실험 사고를 보안관이 수습한다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2006–2012년 Sci Fi(2009년부터 Syfy) 5시즌 77편. 첫 편 410만 명으로 당시 채널 14년 역사상 가장 높은 시리즈 첫 방송.",
+      "notability_src": "https://en.wikipedia.org/wiki/Eureka_(2006_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '유레카'(2006)로 올라 있으나 볼 곳 없음. 한국어 위키백과에도 국내 방영 기록 없음. 옛 방영 기록은 못 찾음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/eureka"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fringe",
+      "orig": "Fringe",
+      "orig_en": "",
+      "ko": "프린지",
+      "ko_src": "https://www.osen.co.kr/article/G1109328572",
+      "media": [
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Fringe (2008–2013)",
+      "by": "J. J. Abrams, Alex Kurtzman, Roberto Orci (Fox)",
+      "year": 2008,
+      "country": "미국",
+      "setting": "연방 수사국 특수팀이 설명 안 되는 과학 사건을 쫓다가 평행 우주와의 충돌에 이른다.",
+      "concepts": [
+        "alt_timeline",
+        "psionics",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2008–2013년 Fox 5시즌 100편.",
+      "notability_src": "https://en.wikipedia.org/wiki/Fringe_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "캐치온플러스가 '프린지 4'(시즌 4)를 2011년 12월 16일부터 매주 금요일 오전 11시에 방송(OSEN 2011년 12월 8일 기사). 다른 시즌의 방영은 이번에 확인 못 함. 지금은 JustWatch 한국에 볼 곳 없음.",
+        "src": "https://www.osen.co.kr/article/G1109328572"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dollhouse",
+      "orig": "Dollhouse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Dollhouse (2009–2010)",
+      "by": "Joss Whedon (Fox)",
+      "year": 2009,
+      "country": "미국",
+      "setting": "사람의 기억을 지우고 원하는 인격을 심어 빌려주는 비밀 시설.",
+      "concepts": [
+        "mind_upload",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2009–2010년 Fox 2시즌 26편(방영 안 된 두 편 포함). 시즌 1 DVD 첫 주 6만 2천 장 넘게 팔림.",
+      "notability_src": "https://en.wikipedia.org/wiki/Dollhouse_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '인형의 집'(2009)으로 올라 있으나 볼 곳 없음. 옛 방영 기록은 못 찾음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/dolhauseu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "falling_skies",
+      "orig": "Falling Skies",
+      "orig_en": "",
+      "ko": "폴링 스카이",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/falling-skies",
+      "media": [
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Falling Skies (2011–2015)",
+      "by": "Robert Rodat (TNT)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "외계 침공으로 인류 대부분이 죽은 뒤, 보스턴의 생존자들이 저항군을 꾸린다.",
+      "concepts": [
+        "alien",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2011–2015년 TNT 5시즌 52편. 첫 방송 590만 명으로 그해 케이블 새 시리즈 가운데 가장 큰 출발.",
+      "notability_src": "https://en.wikipedia.org/wiki/Falling_Skies",
+      "korean": {
+        "status": "있음",
+        "detail": "지금 넷플릭스에서 5시즌(JustWatch 한국, 시즌 1 쪽에도 넷플릭스 10편). 옛 방영: KBS 2TV(한국어 위키백과 '대한민국 방영' 칸, 해는 없음 — 위키 기록만).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/falling-skies/시즌-1"
+      },
+      "borderline": false
+    },
+    {
+      "id": "terra_nova",
+      "orig": "Terra Nova",
+      "orig_en": "",
+      "ko": "테라노바",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/tera-noba",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Terra Nova (2011)",
+      "by": "Kelly Marcel, Craig Silverstein (Fox)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "망가진 2149년의 지구를 떠나, 시간의 틈으로 공룡 시대에 정착지를 세운다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline",
+        "colonization",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2011년 Fox 1시즌 13편, 스티븐 스필버그 제작 총괄. 2011년 시각효과협회상 TV 시리즈 시각효과상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Terra_Nova_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "지금 디즈니+에서 1시즌(JustWatch 한국). 옛 방영 제목 『테라 노바: 생존의 시대』 — 채널 CGV 2011년 11월 18일 첫 방송, 매주 금요일 밤 10시(OSEN 2011년 12월 8일 기사 https://www.osen.co.kr/article/G1109328572).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/tera-noba"
+      },
+      "borderline": false
+    },
+    {
+      "id": "person_of_interest",
+      "orig": "Person of Interest",
+      "orig_en": "",
+      "ko": "퍼슨 오브 인터레스트",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/peoseun-obeu-inteoreseuteu",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Person of Interest (2011–2016)",
+      "by": "Jonathan Nolan (CBS)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "온갖 감시 자료로 범죄를 내다보는 인공지능을 만든 이와 전직 요원이 사람을 구한다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2011–2016년 CBS 5시즌 103편. 피플스 초이스상 새 드라마(2012), 범죄 드라마(2016).",
+      "notability_src": "https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "왓챠에서 스트리밍했다는 기록(한국어 위키백과 '한국에서는 현재 왓챠에서 스트리밍 서비스를 제공하고 있다' — 위키 기록만). 지금 JustWatch 한국에는 볼 곳 없음.",
+        "src": "https://ko.wikipedia.org/wiki/퍼슨_오브_인터레스트"
+      },
+      "borderline": true
+    },
+    {
+      "id": "revolution",
+      "orig": "Revolution",
+      "orig_en": "",
+      "ko": "레볼루션",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/rebolrusyeon",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Revolution (2012–2014)",
+      "by": "Eric Kripke (NBC)",
+      "year": 2012,
+      "country": "미국",
+      "setting": "어느 날 지구의 모든 전기가 꺼진 지 15년, 무너진 미국에서 그 까닭을 찾아 나선다.",
+      "concepts": [
+        "nanotech",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2012–2014년 NBC 2시즌 42편. 첫 편 1,165만 명, 새턴상 방송 TV 시리즈(Hannibal 과 공동).",
+      "notability_src": "https://en.wikipedia.org/wiki/Revolution_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "지금 왓챠에서 2시즌(JustWatch 한국). 시즌별 20편·22편이라 이 작품(2012 NBC)임을 맞춰 봄.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/rebolrusyeon"
+      },
+      "borderline": false
+    },
+    {
+      "id": "continuum",
+      "orig": "Continuum",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Continuum (2012–2015)",
+      "by": "Simon Barry (Showcase)",
+      "year": 2012,
+      "country": "캐나다",
+      "setting": "기업들이 다스리는 2077년에서 테러범들과 함께 2012년으로 떨어진 경찰.",
+      "concepts": [
+        "time_travel",
+        "mega_corp",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2012–2015년 Showcase 4시즌 42편. 레오상 최우수 드라마 시리즈 2013년·2014년.",
+      "notability_src": "https://en.wikipedia.org/wiki/Continuum_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '컨티넘'(2012, 캐나다)으로 올라 있으나 볼 곳 없음. 한국어 위키백과에도 국내 방영 기록 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/continuum"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orphan_black",
+      "orig": "Orphan Black",
+      "orig_en": "",
+      "ko": "오펀 블랙",
+      "ko_src": "https://ko.wikipedia.org/wiki/오펀_블랙",
+      "media": [
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "Orphan Black (2013–2017), Orphan Black: Echoes (2024)",
+      "by": "Graeme Manson, John Fawcett (Space / BBC America)",
+      "year": 2013,
+      "country": "캐나다",
+      "setting": "자기와 똑같이 생긴 여자의 죽음을 본 주인공이 자신이 복제 인간 실험의 하나임을 알게 된다.",
+      "concepts": [
+        "clone",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2013–2017년 5시즌 50편. 2013년 피버디상, 타티아나 마슬라니 2016년 에미상 드라마 여우주연상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Orphan_Black",
+      "korean": {
+        "status": "있음",
+        "detail": "KBS 2TV 방영(한국어 위키백과 '대한민국에서는 KBS 2TV에서 방영되었다' — 위키 기록만. 위키에 KBS '오펀 블랙 2' 누리집 주소 http://www.kbs.co.kr/drama/orphanblack2/ 가 있으나 열리지 않음). 몇 시즌까지 방영했는지는 확인 못 함. 지금 JustWatch 한국에는 볼 곳 없음. Orphan Black: Echoes 는 확인 안 함.",
+        "src": "https://ko.wikipedia.org/wiki/오펀_블랙"
+      },
+      "borderline": false
+    },
+    {
+      "id": "defiance",
+      "orig": "Defiance",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Defiance (2013–2015)와 같은 해 나온 온라인 게임 Defiance (2013)",
+      "by": "Rockne S. O'Bannon, Kevin Murphy, Michael Taylor (Syfy); 게임 Trion Worlds",
+      "year": 2013,
+      "country": "미국",
+      "setting": "외계 종족들이 지구에 내려앉아 땅이 뒤바뀐 뒤, 사람과 외계인이 함께 사는 변경 도시.",
+      "concepts": [
+        "alien",
+        "terraforming",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2013–2015년 Syfy 3시즌 39편. 같은 세계의 온라인 게임(Trion Worlds)이 2013년 4월 2일, 드라마가 4월 15일에 나옴.",
+      "notability_src": "https://en.wikipedia.org/wiki/Defiance_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국·한국어 위키백과에 '디파이언스'(2013)로 올라 있으나 볼 곳 없고 방영 기록도 못 찾음. 게임: Steam 쪽 지원 언어는 영어·프랑스어·독일어뿐(한국어 없음), 지금은 Steam 에서 팔지 않음. 게임 서버는 2021년 4월 29일 닫힘.",
+        "src": "https://www.justwatch.com/kr/검색?q=디파이언스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "almost_human",
+      "orig": "Almost Human",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Almost Human (2013–2014)",
+      "by": "J. H. Wyman (Fox)",
+      "year": 2013,
+      "country": "미국",
+      "setting": "범죄가 넘치는 2048년, 사람 경찰과 감정을 지닌 인조인간 경찰이 짝을 이룬다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2013–2014년 Fox 1시즌 13편, J. J. Abrams 제작 총괄. 에미상 특수·시각효과 후보 1회.",
+      "notability_src": "https://en.wikipedia.org/wiki/Almost_Human_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '올모스트 휴먼'(2013)으로 올라 있으나 볼 곳 없음. 옛 방영 기록은 못 찾음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/olmoseuteu-hyumeon"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_100",
+      "orig": "The 100",
+      "orig_en": "",
+      "ko": "원헌드레드",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/the-100",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설 The 100 (2013–2016), 드라마 The 100 (2014–2020)",
+      "by": "Kass Morgan (소설), Jason Rothenberg (The CW)",
+      "year": 2013,
+      "country": "미국",
+      "setting": "핵전쟁 97년 뒤, 우주 정거장에 살던 인류가 젊은 죄수 100명을 땅으로 내려보낸다.",
+      "concepts": [
+        "habitat",
+        "catastrophe",
+        "ai_revolt",
+        "mind_upload",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2014–2020년 The CW 7시즌 100편. 2015년 새턴상 청소년 시리즈.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_100_(TV_series)",
+      "korean": {
+        "status": "일부",
+        "detail": "JustWatch 한국 검색 결과 칸에는 왓챠·티빙 '3시즌'으로 찍혀 있으나, 작품 쪽과 시즌 1 쪽은 '대한민국에서 스트리밍할 수 없습니다'. 예전에 3시즌까지 있었던 흔적으로 보이나 확정은 못 함. 소설 한국어 번역판: 교보문고 '카스 모건' 검색에 책이 없어 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/검색?q=the%20100"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sense8",
+      "orig": "Sense8",
+      "orig_en": "",
+      "ko": "센스8",
+      "ko_src": "https://www.netflix.com/kr/title/80025744",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Sense8 (2015–2018)",
+      "by": "Lana Wachowski, Lilly Wachowski, J. Michael Straczynski (Netflix)",
+      "year": 2015,
+      "country": "미국",
+      "setting": "세계 곳곳의 낯선 여덟 사람이 마음과 감각이 이어진 채로 깨어난다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2015–2018년 넷플릭스 2시즌 24편(마지막 편은 2018년 특별편). GLAAD 미디어상 드라마 시리즈(시즌 1).",
+      "notability_src": "https://en.wikipedia.org/wiki/Sense8",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 오리지널, 한국 넷플릭스에 2시즌.",
+        "src": "https://www.netflix.com/kr/title/80025744"
+      },
+      "borderline": true
+    },
+    {
+      "id": "killjoys",
+      "orig": "Killjoys",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Killjoys (2015–2019)",
+      "by": "Michelle Lovretta (Space / Syfy)",
+      "year": 2015,
+      "country": "캐나다",
+      "setting": "한 회사가 다스리는 네 행성계를 누비는 현상금 사냥꾼 셋.",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2015–2019년 Space 5시즌 50편, Syfy 공동 제작.",
+      "notability_src": "https://en.wikipedia.org/wiki/Killjoys_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '킬조이스: 스페이스 바운티 헌터스'(2015)로 올라 있으나 볼 곳 없음. 한국어 위키백과에도 국내 방영 기록 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/killjoys"
+      },
+      "borderline": false
+    },
+    {
+      "id": "colony",
+      "orig": "Colony",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": "",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Colony (2016–2018)",
+      "by": "Carlton Cuse, Ryan J. Condal (USA Network)",
+      "year": 2016,
+      "country": "미국",
+      "setting": "외계 세력이 점령한 로스앤젤레스, 장벽 안에서 협력과 저항 사이를 오가는 가족.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2016–2018년 USA Network 3시즌 36편. 새턴상 SF TV 시리즈 후보 2016~2018년 세 해 잇달아.",
+      "notability_src": "https://en.wikipedia.org/wiki/Colony_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '콜로니'(2016)로 올라 있으나 볼 곳 없음. 한국어 위키백과에도 국내 방영 기록 없음.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/kolroni"
+      },
+      "borderline": false
+    },
+    {
+      "id": "westworld",
+      "orig": "Westworld",
+      "orig_en": "",
+      "ko": "웨스트월드",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/weseuteuweoldeu",
+      "media": [
+        "영화",
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "영화 Westworld (1973), Futureworld (1976), 드라마 Beyond Westworld (1980), HBO Westworld (2016–2022)",
+      "by": "Michael Crichton (영화); Jonathan Nolan, Lisa Joy (HBO)",
+      "year": 1973,
+      "country": "미국",
+      "setting": "사람과 똑같은 인조인간이 손님을 맞는 놀이공원에서, 인조인간들이 스스로를 깨닫는다.",
+      "concepts": [
+        "android",
+        "ai_revolt",
+        "mind_upload",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "HBO에서 2016~2022년 네 시즌 36편 방영, 메이브 역 탠디 뉴턴이 2018년 에미상 드라마 여우조연상을 받음.",
+      "notability_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Thandiwe_Newton",
+      "korean": {
+        "status": "있음",
+        "detail": "HBO 드라마판이 2025년 봄 쿠팡플레이에서 HBO 작품을 들여올 때 함께 나왔다(SBS연예뉴스 2025-04-04 기사). 왓챠피디아도 시즌 4 볼 곳을 쿠팡플레이로 적었다. 다만 2026-10-19 JustWatch 한국은 지금 볼 곳이 없다고 나온다. 2016~2022년 첫 방영 당시 국내 방영 기록은 못 찾음. 1973년 영화는 『이색지대』로 소개됨(한국어 위키백과 기록만, 국내 개봉일은 확인 못 함).",
+        "src": "https://v.daum.net/v/8yUOFFdzTb"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stranger_things",
+      "orig": "Stranger Things",
+      "orig_en": "",
+      "ko": "기묘한 이야기",
+      "ko_src": "https://www.netflix.com/kr/title/80057281",
+      "media": [
+        "드라마",
+        "소설",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "Stranger Things (2016–2025)",
+      "by": "The Duffer Brothers (Netflix)",
+      "year": 2016,
+      "country": "미국",
+      "setting": "1980년대 시골 마을, 비밀 연구소가 연 틈으로 뒤집힌 다른 세계의 괴물이 넘어온다.",
+      "concepts": [
+        "alt_timeline",
+        "psionics",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "시즌 4가 공개 28일 만에 11억 5천만 시간 시청되어, 넷플릭스에서 10억 시간을 넘긴 두 번째 작품이자 첫 영어 시리즈가 됨(2022).",
+      "notability_src": "https://www.engadget.com/netflix-stranger-things-1-billion-hours-viewed-044914966.html",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 오리지널로 한국 넷플릭스에 다섯 시즌 모두 있다.",
+        "src": "https://www.netflix.com/kr/title/80057281"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_oa",
+      "orig": "The OA",
+      "orig_en": "",
+      "ko": "OA",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/the-oa",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The OA (2016–2019)",
+      "by": "Brit Marling, Zal Batmanglij (Netflix)",
+      "year": 2016,
+      "country": "미국",
+      "setting": "7년 만에 돌아온 여자가 눈먼 몸이 나은 채 나타나, 죽음 너머 다른 차원을 건넌 이야기를 한다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "넷플릭스가 2016년과 2019년에 두 파트 16편을 낸 뒤 2019년 8월 끝냄. 팬들이 이어 달라며 운동을 벌인 것으로 알려짐.",
+      "notability_src": "https://empireonline.com/movies/news/netflix-cancels-the-oa-after-two-seasons",
+      "korean": {
+        "status": "있음",
+        "detail": "한국 넷플릭스에 『OA』라는 제목으로 두 파트(시즌)가 있다. 넷플릭스 한국 페이지도 제목을 'OA'로 적는다.",
+        "src": "https://www.netflix.com/kr/title/80044950"
+      },
+      "borderline": true
+    },
+    {
+      "id": "travelers",
+      "orig": "Travelers",
+      "orig_en": "",
+      "ko": "시간여행자",
+      "ko_src": "https://www.netflix.com/kr/title/80105699",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Travelers (2016–2018)",
+      "by": "Brad Wright (Showcase / Netflix)",
+      "year": 2016,
+      "country": "캐나다·미국",
+      "setting": "망한 미래에서 의식만 지금 사람 몸에 들어온 요원들이 인공지능의 지휘로 미래를 바꾼다.",
+      "concepts": [
+        "time_travel",
+        "ai",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2016년 캐나다 Showcase 에서 시작해 넷플릭스로 넘어가 세 시즌 34편을 냈고, 2019년 2월 끝남.",
+      "notability_src": "https://en.wikipedia.org/wiki/Travelers_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "한국 넷플릭스에 『시간여행자』라는 제목으로 세 시즌이 있다(JustWatch 한국도 같음).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/travelers"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark",
+      "orig": "Dark",
+      "orig_en": "",
+      "ko": "다크",
+      "ko_src": "https://www.netflix.com/kr/title/80100172",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Dark (2017–2020)",
+      "by": "Baran bo Odar, Jantje Friese (Netflix)",
+      "year": 2017,
+      "country": "독일",
+      "setting": "독일 작은 마을에서 33년마다 엮이는 네 집안이 시간의 고리 속 원인과 결과를 쫓는다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "독일 배경의 첫 넷플릭스 제작물로, 2017~2020년 세 시즌 26편(10·8·8)을 냄.",
+      "notability_src": "https://www.netzwelt.de/serien/dark/index.html",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 오리지널로 한국 넷플릭스에 세 시즌이 있다.",
+        "src": "https://www.netflix.com/kr/title/80100172"
+      },
+      "borderline": false
+    },
+    {
+      "id": "counterpart",
+      "orig": "Counterpart",
+      "orig_en": "",
+      "ko": "카운터파트",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/kaunteopateu",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Counterpart (2017–2019)",
+      "by": "Justin Marks (Starz)",
+      "year": 2017,
+      "country": "미국",
+      "setting": "베를린 지하의 비밀 통로로 이어진 두 평행 세계, 다른 삶을 산 같은 사람이 마주친다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "미국 Starz 에서 2017~2019년 두 시즌 20편(시즌마다 10편)을 냄.",
+      "notability_src": "https://www.justwatch.com/kr/TV-프로그램/kaunteopateu",
+      "korean": {
+        "status": "있음",
+        "detail": "왓챠에서 정액으로 볼 수 있다(JustWatch 한국, 두 시즌). 케이블 AXN 이 2024년 2월 '국내 최초 방영'을 한다고 알림(스포츠경향 2024-01-23).",
+        "src": "https://sports.khan.co.kr/article/202401230348003"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_orville",
+      "orig": "The Orville",
+      "orig_en": "",
+      "ko": "오빌",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/obil",
+      "media": [
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "The Orville (2017–2022)",
+      "by": "Seth MacFarlane (Fox → Hulu)",
+      "year": 2017,
+      "country": "미국",
+      "setting": "25세기 행성 연합의 중간급 탐사선 선원들이 겪는 임무와 일상.",
+      "concepts": [
+        "federation",
+        "alien",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Fox 에서 두 시즌을 낸 뒤 시즌 3은 'The Orville: New Horizons' 라는 이름으로 2022년 Hulu 에서 10편을 냄.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Orville_season_3",
+      "korean": {
+        "status": "있음",
+        "detail": "한국 디즈니+에 세 시즌이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/obil"
+      },
+      "borderline": false
+    },
+    {
+      "id": "altered_carbon",
+      "orig": "Altered Carbon",
+      "orig_en": "",
+      "ko": "얼터드 카본",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/eolteodeu-kabon",
+      "media": [
+        "소설",
+        "드라마",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "소설 3부작 (2002–2005), Netflix 드라마 (2018–2020), 애니메이션 Resleeved (2020)",
+      "by": "Richard K. Morgan (소설); Laeta Kalogridis (Netflix)",
+      "year": 2002,
+      "country": "영국",
+      "setting": "마음을 목뒤 장치에 담아 몸을 갈아 끼우며 사는 미래, 부자는 죽지 않는다.",
+      "concepts": [
+        "mind_upload",
+        "longevity",
+        "precursor",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "원작 소설(2002)이 2003년 필립 K. 딕 상을 받음. 넷플릭스 드라마는 2018·2020년 두 시즌 18편.",
+      "notability_src": "https://en.wikipedia.org/wiki/Altered_Carbon",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 드라마 두 시즌이 한국 넷플릭스에 있다. 소설은 황금가지에서 『얼터드 카본 1·2』(1부만, 2권)로 나왔다(리디북스 표기: 세트 2008-08-30, 낱권 2013-03-08 — 날짜 표기가 엇갈림). 애니메이션은 2019년 발표 기사에서 『얼터드 카본: 리슬리브』로 소개됨(넷플릭스 한국 페이지로는 확인 못 함).",
+        "src": "https://ridibooks.com/books/111015576"
+      },
+      "borderline": false
+    },
+    {
+      "id": "raised_by_wolves",
+      "orig": "Raised by Wolves",
+      "orig_en": "",
+      "ko": "레이즈드 바이 울브스",
+      "ko_src": "https://isplus.com/article/view/isp202210120027",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Raised by Wolves (2020–2022)",
+      "by": "Aaron Guzikowski (HBO Max)",
+      "year": 2020,
+      "country": "미국",
+      "setting": "전쟁으로 망한 지구를 떠나 낯선 행성에 내린 두 인조인간이 사람 아이들을 기른다.",
+      "concepts": [
+        "android",
+        "colonization",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "HBO Max 에서 2020~2022년 두 시즌을 내고 끝났으며, 리들리 스콧이 첫 두 편을 연출함.",
+      "notability_src": "https://slashfilm.com/1658433/how-watch-raised-by-wolves-after-max-removal",
+      "korean": {
+        "status": "있음",
+        "detail": "웨이브가 2022년 10월 두 시즌(10편·8편)을 처음 공개함(일간스포츠). 2026-10-19 JustWatch 한국은 지금 볼 곳이 없다고 나온다.",
+        "src": "https://isplus.com/article/view/isp202210120027"
+      },
+      "borderline": false
+    },
+    {
+      "id": "devs",
+      "orig": "Devs",
+      "orig_en": "",
+      "ko": "데브스",
+      "ko_src": "https://www.insight.co.kr/news/305123",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Devs (2020)",
+      "by": "Alex Garland (FX on Hulu)",
+      "year": 2020,
+      "country": "미국",
+      "setting": "기술 기업의 비밀 연구팀이 과거와 미래를 그대로 그려 내는 양자 컴퓨터를 만든다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "모든 일이 정해져 있다고 보고 과거·미래를 그대로 재구성하는 계산기",
+      "lore_size": "작음",
+      "notability": "FX on Hulu 에서 2020년 3~4월 8편 방영, 2020년 에미상 촬영·음향·시각효과 부문 후보에 오름.",
+      "notability_src": "https://en.wikipedia.org/wiki/Devs_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "왓챠가 2020-09-23 8부작 전편을 공개하고 2021년 2월까지 독점으로 먼저 보여 줌(인사이트 기사). 2026-10-19 JustWatch 한국은 지금 볼 곳이 없다고 나온다.",
+        "src": "https://www.insight.co.kr/news/305123"
+      },
+      "borderline": false
+    },
+    {
+      "id": "upload",
+      "orig": "Upload",
+      "orig_en": "",
+      "ko": "업로드",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/upload",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Upload (2020–2025)",
+      "by": "Greg Daniels (Prime Video)",
+      "year": 2020,
+      "country": "미국",
+      "setting": "죽기 전에 마음을 가상 낙원으로 옮기는 2030년대, 돈에 따라 저승살이가 갈린다.",
+      "concepts": [
+        "mind_upload",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "프라임 비디오에서 2020~2025년 네 시즌 29편을 냈고, 시즌 4(4편)가 2025-08-25 마지막으로 나옴.",
+      "notability_src": "https://en.wikipedia.org/wiki/Upload_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "프라임 비디오 한국에 네 시즌이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/upload"
+      },
+      "borderline": false
+    },
+    {
+      "id": "for_all_mankind",
+      "orig": "For All Mankind",
+      "orig_en": "",
+      "ko": "포 올 맨카인드",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/po-ol-maenkaindeu",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "For All Mankind (2019– )",
+      "by": "Ronald D. Moore, Matt Wolpert, Ben Nedivi (Apple TV+)",
+      "year": 2019,
+      "country": "미국",
+      "setting": "소련이 먼저 달에 내린 다른 역사, 우주 경쟁이 끝나지 않고 달·화성 개척으로 이어진다.",
+      "concepts": [
+        "alt_timeline",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2019년 애플TV+ 에서 시작해 2026년까지 다섯 시즌 50편, 여섯째 시즌이 마지막으로 정해졌고 곁가지 Star City 가 2026-05-29 나옴.",
+      "notability_src": "https://en.wikipedia.org/wiki/For_All_Mankind_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 와 티빙에 다섯 시즌이 있다(JustWatch 한국, 제목은 작은따옴표를 붙여 '포 올 맨카인드' 로 표기). 곁가지 Star City 의 한국 공개는 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/po-ol-maenkaindeu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "see",
+      "orig": "See",
+      "orig_en": "",
+      "ko": "어둠의 나날",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/ssi",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "See (2019–2022)",
+      "by": "Steven Knight (Apple TV+)",
+      "year": 2019,
+      "country": "미국",
+      "setting": "바이러스로 인류가 시력을 잃은 지 수백 년, 눈이 보이는 아이들이 태어난다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애플TV+ 에서 2019~2022년 세 시즌 24편을 냈고, 2022년 시각효과협회(VES) 상을 받음.",
+      "notability_src": "https://en.wikipedia.org/wiki/See_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 와 티빙에 세 시즌이 『어둠의 나날』이라는 제목으로 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/ssi"
+      },
+      "borderline": false
+    },
+    {
+      "id": "invasion_2021",
+      "orig": "Invasion",
+      "orig_en": "",
+      "ko": "인베이션",
+      "ko_src": "https://justwatch.com/kr/TV-프로그램/invasion",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Invasion (2021– )",
+      "by": "Simon Kinberg, David Weil (Apple TV+)",
+      "year": 2021,
+      "country": "미국",
+      "setting": "외계 침공이 시작된 지구 곳곳에서 평범한 사람들이 저마다 겪는 날들.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애플TV+ 에서 2021·2023·2025년 세 시즌 30편, 영어·일본어·페르시아어가 섞인 여러 말 드라마.",
+      "notability_src": "https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 와 티빙에 세 시즌이 있다(JustWatch 한국).",
+        "src": "https://justwatch.com/kr/TV-프로그램/invasion"
+      },
+      "borderline": false
+    },
+    {
+      "id": "severance",
+      "orig": "Severance",
+      "orig_en": "",
+      "ko": "세브란스: 단절",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/severance",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Severance (2022– )",
+      "by": "Dan Erickson (Apple TV+)",
+      "year": 2022,
+      "country": "미국",
+      "setting": "회사에서의 기억과 바깥 삶의 기억을 수술로 나눈 직원들이 정체 모를 일을 한다.",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "일하는 나와 사는 나의 기억을 수술로 둘로 가르기",
+      "lore_size": "작음",
+      "notability": "두 시즌 19편(2022·2025)으로 에미상 10개를 받음(2025년 브릿 로어 여우주연상 등).",
+      "notability_src": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 와 티빙에 두 시즌이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/severance"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silo",
+      "orig": "Silo",
+      "orig_en": "",
+      "ko": "지하창고 사일로의 비밀",
+      "ko_src": "https://tv.apple.com/kr/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설 Silo 3부작 (Wool 2011, Shift, Dust), Apple TV+ 드라마 Silo (2023– )",
+      "by": "Hugh Howey (소설); Graham Yost (Apple TV+)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "바깥이 독으로 덮였다는 세상, 땅속 144층 원통에서 규칙에 묶여 사는 사람들.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애플TV+ 에서 2023년 시작, 2026년 시즌 3까지 냈고 시즌 4(2027)로 끝내기로 정해짐. 2024년 영국 아카데미 TV 기술상 음악·미술 두 부문 수상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Silo_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 한국이 『지하창고 사일로의 비밀』이라는 제목으로 내고 있고, 티빙에도 있다(JustWatch 한국). 소설 Wool 은 시공사에서 『울 1·2』(이수현 옮김, 2023)로 나옴(교보문고). Shift·Dust 번역판은 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/ul"
+      },
+      "borderline": false
+    },
+    {
+      "id": "murderbot",
+      "orig": "The Murderbot Diaries",
+      "orig_en": "",
+      "ko": "머더봇 다이어리",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/meodeobos-daieori-murderbot",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설 The Murderbot Diaries (2017– ), Apple TV+ 드라마 Murderbot (2025– )",
+      "by": "Martha Wells (소설); Chris Weitz, Paul Weitz (Apple TV+)",
+      "year": 2017,
+      "country": "미국",
+      "setting": "스스로 통제를 풀어 버린 경비용 인조인간이 몰래 연속극을 보며 사람들을 지킨다.",
+      "concepts": [
+        "android",
+        "ai",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "첫 권 All Systems Red(2017)가 2018년 휴고상·네뷸러상 중편 부문을 받음. 드라마는 2025년 첫 시즌 10편, 시즌 2 확정.",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Murderbot_Diaries",
+      "korean": {
+        "status": "있음",
+        "detail": "드라마는 애플TV+ 와 티빙에 『머더봇 다이어리』라는 제목으로 있다(JustWatch 한국). 소설은 알마에서 『머더봇 다이어리: 시스템 통제불능』, 『머더봇 다이어리: 인공 상태』 등으로 나옴(주간경향 2020-12 칼럼).",
+        "src": "https://weekly.khan.co.kr/article/202012041423441"
+      },
+      "borderline": false
+    },
+    {
+      "id": "pluribus",
+      "orig": "Pluribus",
+      "orig_en": "",
+      "ko": "플루리부스: 행복의 시대",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/pluribus",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Pluribus (2025– )",
+      "by": "Vince Gilligan (Apple TV+)",
+      "year": 2025,
+      "country": "미국",
+      "setting": "우주에서 온 신호로 퍼진 것이 인류를 하나의 행복한 마음으로 묶고, 몇 사람만 남는다.",
+      "concepts": [
+        "merge",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2025-11-07 첫 두 편이 애플TV 드라마 첫 공개 시청 기록을 깼고, 에미상 여섯 개(리아 시혼 여우주연상 포함)와 피버디상을 받음.",
+      "notability_src": "https://en.wikipedia.org/wiki/Pluribus_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "애플TV+ 와 티빙에 첫 시즌 9편이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/pluribus"
+      },
+      "borderline": false
+    },
+    {
+      "id": "paradise_2025",
+      "orig": "Paradise",
+      "orig_en": "",
+      "ko": "파라다이스",
+      "ko_src": "https://justwatch.com/kr/TV-프로그램/paradise-2025",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Paradise (2025– )",
+      "by": "Dan Fogelman (Hulu)",
+      "year": 2025,
+      "country": "미국",
+      "setting": "대재앙 뒤 땅속에 지은 도시에서 대통령 살해 사건을 경호원이 파헤친다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Hulu 에서 2025·2026년 두 시즌 16편, 세 번째 시즌이 마지막으로 정해짐. 에미상 후보 11개, 셰일린 우들리가 게스트 여우상 수상.",
+      "notability_src": "https://en.wikipedia.org/wiki/Paradise_(2025_TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국에 두 시즌이 있다(JustWatch 한국). 미국 밖에서는 디즈니+ 가 맡음.",
+        "src": "https://justwatch.com/kr/TV-프로그램/paradise-2025"
+      },
+      "borderline": true
+    },
+    {
+      "id": "netflix_1899",
+      "orig": "1899",
+      "orig_en": "",
+      "ko": "1899",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/1899",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "1899 (2022)",
+      "by": "Baran bo Odar, Jantje Friese (Netflix)",
+      "year": 2022,
+      "country": "독일",
+      "setting": "1899년 유럽에서 미국으로 가던 이민선이 실종된 배를 만나며 현실이 흔들린다.",
+      "concepts": [],
+      "new_ideas": "가상 현실 속에 갇힌 세계",
+      "lore_size": "작음",
+      "notability": "2022-11-17 한 시즌 8편을 내고 2023-01-02 끝남. 제작비 6천만 유로 이상으로 가장 비싼 독일 드라마로 알려짐.",
+      "notability_src": "https://en.wikipedia.org/wiki/1899_(TV_series)",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 오리지널로 한국 넷플릭스에 한 시즌 8편이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/1899"
+      },
+      "borderline": true
+    },
+    {
+      "id": "three_percent",
+      "orig": "3%",
+      "orig_en": "",
+      "ko": "3%",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/3",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "3% (2016–2020)",
+      "by": "Pedro Aguilera (Netflix)",
+      "year": 2016,
+      "country": "브라질",
+      "setting": "가난한 본토 젊은이 가운데 3%만 시험으로 골라 풍요로운 섬으로 보내는 미래 브라질.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "넷플릭스의 첫 포르투갈어 오리지널 시리즈로, 2016~2020년 네 시즌 33편을 냄.",
+      "notability_src": "https://en.wikipedia.org/wiki/3%25",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 오리지널로 한국 넷플릭스에 네 시즌이 있다(JustWatch 한국).",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/3"
+      },
+      "borderline": false
+    },
+    {
+      "id": "better_than_us",
+      "orig": "Лучше, чем люди",
+      "orig_en": "Better Than Us",
+      "ko": "그녀, 안드로이드",
+      "ko_src": "https://www.themoviedb.org/tv/84380?language=ko-KR",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Лучше, чем люди (2018–2019, 한 시즌)",
+      "by": "Andrey Junkovsky, Aleksandr Dagan, Aleksandr Kessel (Channel One / Start)",
+      "year": 2018,
+      "country": "러시아",
+      "setting": "가정용 인조인간이 흔한 가까운 미래 모스크바, 규칙을 따르지 않는 인조인간 하나가 한 가족을 지킨다.",
+      "concepts": [
+        "android",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한 시즌 16편(2018-11~2019-03), 넷플릭스가 오리지널로 내놓은 첫 러시아 드라마로 소개됨.",
+      "notability_src": "https://en.wikipedia.org/wiki/Better_than_Us",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스가 2019-08-16 러시아·중국을 뺀 지역에 오리지널로 냄(영어 위키백과). 한국어 제목 『그녀, 안드로이드』는 TMDB 한국어판과 JustWatch 한국 검색에서 확인. 2026-10-19 JustWatch 한국은 지금 볼 곳이 없다고 나온다. 넷플릭스 한국 페이지 자체는 못 찾음.",
+        "src": "https://en.wikipedia.org/wiki/Better_than_Us"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ultraman",
+      "orig": "ウルトラマン",
+      "orig_en": "Ultraman",
+      "ko": "울트라맨",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/ulteuramaenz",
+      "media": [
+        "드라마",
+        "영화",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "ウルトラQ (1966), ウルトラマン (1966)부터 이어지는 울트라 시리즈, 극장판, 애니메이션",
+      "by": "円谷プロダクション (円谷英二)",
+      "year": 1966,
+      "country": "일본",
+      "setting": "지구에 온 빛의 거인과 과학 특수대가 괴수와 침략 외계인에 맞선다.",
+      "concepts": [
+        "alien",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1966년부터 이어진 울트라 시리즈, 2013년 기네스 세계 기록에 '가장 많은 파생 시리즈'로 오름",
+      "notability_src": "https://en.wikipedia.org/wiki/Ultraman",
+      "korean": {
+        "status": "일부",
+        "detail": "실사 『울트라맨Z』(2020)가 왓챠·티빙에서 정식 스트리밍, 넷플릭스 애니메이션 『울트라맨』(2019–2023)은 한국어 자막. 옛 시리즈의 국내 방영 기록은 확인 못 함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/ulteuramaenz"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kamen_rider",
+      "orig": "仮面ライダー",
+      "orig_en": "Kamen Rider",
+      "ko": "가면라이더",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/gamyeonraideo-bildeu",
+      "media": [
+        "드라마",
+        "영화",
+        "만화",
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "드라마",
+      "series": "仮面ライダー (1971)부터 이어지는 쇼와·헤이세이·레이와 시리즈, 극장판 — 작품마다 세계가 대개 따로",
+      "by": "石ノ森章太郎, 東映",
+      "year": 1971,
+      "country": "일본",
+      "setting": "악의 조직에 몸을 개조당한 젊은이가 그 힘으로 조직에 맞선다. 작품마다 세계가 바뀐다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1971년부터 텔레비전 시리즈 36편이 이어졌고 37번째가 2026년 9월 시작",
+      "notability_src": "https://en.wikipedia.org/wiki/Kamen_Rider",
+      "korean": {
+        "status": "일부",
+        "detail": "『가면라이더 빌드』가 애니원·애니박스에서 2019년 방영(위키 기록), 지금 왓챠·티빙에서 정식 스트리밍. 극장판 『아기토』·『류우키』 2007년 국내 방영(위키 기록). 시리즈 전체의 국내 방영은 확인 못 함.",
+        "src": "https://ko.wikipedia.org/wiki/가면라이더_빌드"
+      },
+      "borderline": true
+    },
+    {
+      "id": "super_sentai",
+      "orig": "スーパー戦隊シリーズ",
+      "orig_en": "Super Sentai",
+      "ko": "파워레인저",
+      "ko_src": "https://www.sidae.com/article/2015070117328037759",
+      "media": [
+        "드라마",
+        "영화",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "秘密戦隊ゴレンジャー (1975)부터 해마다 한 편, 미국판 Power Rangers (1993– ) — 작품마다 세계가 대개 따로",
+      "by": "石ノ森章太郎 (처음 두 편), 東映",
+      "year": 1975,
+      "country": "일본",
+      "setting": "색깔별 강화복을 입은 전사들이 합체 거대 로봇으로 침략자와 싸운다. 해마다 새 세계.",
+      "concepts": [
+        "mecha",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1975년 『비밀전대 고레인저』부터 49편, 50주년작을 끝으로 2026년 초 끝남(2025년 보도)",
+      "notability_src": "https://www.wikitree.co.kr/articles/1092839",
+      "korean": {
+        "status": "일부",
+        "detail": "1990년대 비디오·지상파(KBS 『무적 파워레인저』 1994, SBS 『지오레인저』 1998 등)부터 2000년대 이후 케이블 더빙 『파워레인저 ○○』로 여러 편 방영(위키 기록). 2015년 『파워레인저 트레인포스』 애니원·애니박스 국내 첫 방영 기사.",
+        "src": "https://www.sidae.com/article/2015070117328037759"
+      },
+      "borderline": true
+    },
+    {
+      "id": "metal_hero",
+      "orig": "宇宙刑事ギャバン",
+      "orig_en": "Space Sheriff Gavan",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "宇宙刑事ギャバン (1982)과 우주 형사 3부작, 메탈 히어로 시리즈 (1982–1999), 극장판 (2012)",
+      "by": "東映",
+      "year": 1982,
+      "country": "일본",
+      "setting": "은하 연방 경찰에서 지구로 온 우주 형사가 전투 갑옷을 입고 범죄 조직과 맞선다.",
+      "concepts": [
+        "power_armor",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1982년부터 1999년까지 17년 동안 TV 아사히에서 이어진 시리즈",
+      "notability_src": "https://ko.wikipedia.org/wiki/메탈_히어로_시리즈",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영·비디오 기록을 찾지 못함(한국어 위키백과 문서에도 국내 기록 없음).",
+        "src": "https://ko.wikipedia.org/wiki/메탈_히어로_시리즈"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silent_sea",
+      "orig": "고요의 바다",
+      "orig_en": "The Silent Sea",
+      "ko": "고요의 바다",
+      "ko_src": "https://about.netflix.com/ko/news/see-whats-next-korea-2021",
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "단편 영화 『고요의 바다』 (2014), Netflix 시리즈 (2021)",
+      "by": "최항용 (연출·원작 단편), 박은교 (극본)",
+      "year": 2014,
+      "country": "한국",
+      "setting": "물이 바닥난 미래, 버려진 달 기지로 간 대원들이 그곳에 숨은 물의 비밀을 마주한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "닿으면 스스로 불어나는 물",
+      "lore_size": "작음",
+      "notability": "공개 직후 넷플릭스 전 세계 순위 7위, 한국 1위·미국·캐나다 5위(플릭스 패트롤 집계 보도)",
+      "notability_src": "https://view.asiae.co.kr/article/2021122610365676264",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "넷플릭스 오리지널 시리즈, 2021년 12월 24일 공개. 원작은 최항용 감독의 2014년 같은 이름 단편(미쟝센단편영화제).",
+        "src": "https://view.asiae.co.kr/article/2021122610365676264"
+      },
+      "borderline": false
+    },
+    {
+      "id": "circle_kr",
+      "orig": "써클: 이어진 두 세계",
+      "orig_en": "Circle",
+      "ko": "써클: 이어진 두 세계",
+      "ko_src": "https://www.justwatch.com/kr/TV-프로그램/sseokeul",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "써클: 이어진 두 세계 (2017)",
+      "by": "민진기 (연출), 김진희·유혜미·류문상·박은미 (극본), tvN",
+      "year": 2017,
+      "country": "한국",
+      "setting": "2017년의 외계 소녀 사건과, 감정을 통제당하는 2037년의 미래 도시가 한 줄로 이어진다.",
+      "concepts": [
+        "alien",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "국내 안방극장에서 처음으로 'SF 장르'를 내세운 드라마로 소개됨(2017 보도)",
+      "notability_src": "https://weekly.khan.co.kr/article/201705221623131",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "tvN 2017년 5월 22일~6월 27일, 12부작.",
+        "src": "https://www.tenasia.co.kr/article/2017052262344"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sf8",
+      "orig": "SF8",
+      "orig_en": "",
+      "ko": "SF8",
+      "ko_src": "https://www.tenasia.co.kr/article/2020070872144",
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "SF8 (2020) — 감독 8명의 40분짜리 8편, 편마다 세계가 따로",
+      "by": "MBC·웨이브·한국영화감독조합 (크리에이터 민규동)",
+      "year": 2020,
+      "country": "한국",
+      "setting": "가까운 미래의 인공지능·가상 현실·로봇을 다룬 감독 여덟 명의 따로따로 이야기.",
+      "concepts": [
+        "ai",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "MBC·웨이브·한국영화감독조합이 함께 만든 감독 8명의 SF 연작, 영화제·OTT·TV에 함께 공개",
+      "notability_src": "https://www.xportsnews.com/article/1312495",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "웨이브 2020년 7월 10일 먼저 공개, 8월부터 MBC 방송(40분짜리 8편).",
+        "src": "https://www.tenasia.co.kr/article/2020070872144"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sisyphus",
+      "orig": "시지프스: the myth",
+      "orig_en": "Sisyphus: The Myth",
+      "ko": "시지프스: the myth",
+      "ko_src": "https://www.tenasia.co.kr/article/2021040965114",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "시지프스: the myth (2021)",
+      "by": "진혁 (연출), 이제인·전찬호 (극본), JTBC",
+      "year": 2021,
+      "country": "한국",
+      "setting": "핵전쟁으로 망한 미래에서 몰래 건너오는 사람들과, 그 비밀을 쫓는 천재 공학자.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "JTBC 수목드라마(2021), 첫 회 5%대 시청률로 출발해 4.4%로 끝남(보도)",
+      "notability_src": "https://www.tenasia.co.kr/article/2021040965114",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "JTBC 수목드라마, 2021년 2월 17일 첫 방송, 4월 종영.",
+        "src": "https://www.tenasia.co.kr/article/2021040965114"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alice_kr",
+      "orig": "앨리스",
+      "orig_en": "Alice",
+      "ko": "앨리스",
+      "ko_src": "https://www.tenasia.co.kr/article/2020082996564",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "앨리스 (2020)",
+      "by": "백수찬 (연출), 김규원·강철규·김가영 (극본), SBS",
+      "year": 2020,
+      "country": "한국",
+      "setting": "2050년의 시간 여행 기술이 낳은 사건들이 지금의 형사와 물리학자의 삶에 얽힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "최종회 수도권 시청률 9.8%로 동시간대 1위(닐슨코리아 보도)",
+      "notability_src": "https://www.tenasia.co.kr/article/2020102553574",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "SBS 금토드라마, 2020년 8월 28일~10월 24일.",
+        "src": "https://www.tenasia.co.kr/article/2020082996564"
+      },
+      "borderline": false
+    },
+    {
+      "id": "grid_kr",
+      "orig": "그리드",
+      "orig_en": "Grid",
+      "ko": "그리드",
+      "ko_src": "https://news.tf.co.kr/read/ogmeta/1913458.htm",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "그리드 (2022)",
+      "by": "리건·박철환 (연출), 이수연 (극본), 디즈니+",
+      "year": 2022,
+      "country": "한국",
+      "setting": "태양풍을 막는 방어막을 남기고 사라진 수수께끼의 존재를 쫓는, 시간을 넘나드는 추적극.",
+      "concepts": [
+        "time_travel",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "디즈니+ 한국 오리지널 첫 장르물로 소개된 10부작(2022)",
+      "notability_src": "https://news.tf.co.kr/read/ogmeta/1913458.htm",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "디즈니+ 오리지널, 2022년 2월 16일부터 10부 공개.",
+        "src": "https://news.tf.co.kr/read/ogmeta/1913458.htm"
+      },
+      "borderline": false
+    },
+    {
+      "id": "are_you_human_too",
+      "orig": "너도 인간이니?",
+      "orig_en": "Are You Human?",
+      "ko": "너도 인간이니?",
+      "ko_src": "https://www.justwatch.com/kr/검색?q=너도 인간이니",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "너도 인간이니? (2018)",
+      "by": "차영훈 (연출), 조정주 (극본), KBS2",
+      "year": 2018,
+      "country": "한국",
+      "setting": "사라진 재벌 3세를 꼭 닮게 만든 인공지능 로봇이 그 자리를 대신한다.",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "지상파 KBS2 월화극으로 방영된 인공지능 로봇 이야기(2018)",
+      "notability_src": "https://news.tf.co.kr/read/ogmeta/1730187.htm",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "KBS2 월화드라마, 2018년 6월 4일 첫 방송.",
+        "src": "https://news.tf.co.kr/read/ogmeta/1730187.htm"
+      },
+      "borderline": false
+    },
+    {
+      "id": "luca_kr",
+      "orig": "루카: 더 비기닝",
+      "orig_en": "L.U.C.A.: The Beginning",
+      "ko": "루카: 더 비기닝",
+      "ko_src": "https://www.dailian.co.kr/news/view/959302/",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "루카: 더 비기닝 (2021)",
+      "by": "김홍선 (연출), 천성일 (극본), tvN",
+      "year": 2021,
+      "country": "한국",
+      "setting": "유전자를 조작해 만든 남자가 정체 모를 조직에 쫓기며 제 탄생의 비밀을 캔다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "tvN 사전 제작 월화극(2021), 유전학과 인간 진화를 소재로 삼음",
+      "notability_src": "https://www.dailian.co.kr/news/view/975024/",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "tvN 월화드라마, 2021년 2월 1일 첫 방송(사전 제작).",
+        "src": "https://www.dailian.co.kr/news/view/959302/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dominant_species",
+      "orig": "지배종",
+      "orig_en": "Blood Free",
+      "ko": "지배종",
+      "ko_src": "https://news.tf.co.kr/read/ogmeta/2089280.htm",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "지배종 (2024)",
+      "by": "박철환 (연출), 이수연 (극본), 디즈니+",
+      "year": 2024,
+      "country": "한국",
+      "setting": "인공 배양육이 식탁을 바꾼 가까운 미래, 생명공학 기업 대표를 둘러싼 음모.",
+      "concepts": [],
+      "new_ideas": "가축 대신 길러 낸 고기와 장기",
+      "lore_size": "작음",
+      "notability": "국내 시리즈로는 처음 인공 배양육을 소재로 삼은 작품으로 소개됨",
+      "notability_src": "https://www.wikitree.co.kr/articles/935725",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "디즈니+ 오리지널, 2024년 4월 10일~5월 8일, 10부.",
+        "src": "https://www.fnnews.com/news/202405131056120318"
+      },
+      "borderline": true
+    },
+    {
+      "id": "a_for_andromeda",
+      "orig": "A for Andromeda",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "A for Andromeda (1961), 속편 The Andromeda Breakthrough (1962), 소설판 (1962), 리메이크 (RAI 1971, BBC 2006)",
+      "by": "Fred Hoyle, John Elliot (BBC)",
+      "year": 1961,
+      "country": "영국",
+      "setting": "안드로메다 은하에서 온 신호대로 만든 컴퓨터가 살아 있는 여자를 지어내라고 지시한다.",
+      "concepts": [
+        "alien",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "BBC 1961년 7부작, 속편(1962)과 소설판이 나오고 RAI(1971)·BBC(2006)가 다시 만듦",
+      "notability_src": "https://en.wikipedia.org/wiki/A_for_Andromeda",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영·발매 기록을 찾지 못함(웹 검색 한도가 다 차 더 찾지 못함).",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "utopia_uk",
+      "orig": "Utopia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Utopia (2013–2014), 미국 리메이크 (2020)",
+      "by": "Dennis Kelly (Channel 4)",
+      "year": 2013,
+      "country": "영국",
+      "setting": "재앙을 맞혀 온 만화의 속편 원고를 손에 넣은 사람들이 인류를 줄이려는 비밀 조직에 쫓긴다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2014년 국제 에미상 드라마 시리즈상, 2기 12편(2013–2014)",
+      "notability_src": "https://en.wikipedia.org/wiki/Utopia_(British_TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 '유토피아'(2013, 영국)로 올라 있으나 볼 곳 없음. 예전 공개 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/yutopia-2013"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_invaders",
+      "orig": "The Invaders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "The Invaders (1967–68), 미니시리즈 (1995)",
+      "by": "Larry Cohen (ABC, Quinn Martin 제작)",
+      "year": 1967,
+      "country": "미국",
+      "setting": "사람으로 꾸민 외계인들이 몰래 지구를 차지하는 것을 본 건축가가 홀로 이를 알리려 떠돈다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 1967–68년 2시즌 43편, 1995년 미니시리즈로 다시 만들어짐",
+      "notability_src": "https://en.wikipedia.org/wiki/The_Invaders",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 원제로만 있고 볼 곳 없음. 옛 방영 기록은 찾지 못함.",
+        "src": "https://www.justwatch.com/kr/검색?q=The Invaders"
+      },
+      "borderline": false
+    },
+    {
+      "id": "el_barco",
+      "orig": "El barco",
+      "orig_en": "The Boat",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "El barco (2011–2013)",
+      "by": "Álex Pina, Iván Escobar (Antena 3)",
+      "year": 2011,
+      "country": "스페인",
+      "setting": "입자 가속기 사고로 땅 대부분이 물에 잠긴 뒤, 실습선 한 척의 선원과 학생들이 바다를 떠돈다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Antena 3 2011–2013년 3시즌 43편, 첫 편 시청자 476만 명",
+      "notability_src": "https://en.wikipedia.org/wiki/El_Barco_(TV_series)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "JustWatch 한국에 'The Boat'(2011)로만 있고 볼 곳 없음.",
+        "src": "https://www.justwatch.com/kr/검색?q=El barco"
+      },
+      "borderline": false
+    }
+  ]
+}

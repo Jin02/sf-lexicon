@@ -1,0 +1,3913 @@
+{
+  "group": "novels_modern",
+  "candidates": [
+    {
+      "id": "sprawl",
+      "orig": "Sprawl trilogy",
+      "orig_en": "",
+      "ko": "뉴로맨서",
+      "ko_src": "첫 권 한국어판 제목(시리즈 이름 번역은 못 찾음) — 알라딘, 황금가지 2005",
+      "media": [
+        "소설",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "Neuromancer (1984) · Count Zero (1986) · Mona Lisa Overdrive (1988), 단편 「Johnny Mnemonic」 「Burning Chrome」, 영화 Johnny Mnemonic (1995), 게임 Neuromancer (1988)",
+      "by": "William Gibson",
+      "year": 1984,
+      "country": "미국·캐나다",
+      "setting": "거대 기업이 다스리는 근미래, 해커가 뇌를 가상 공간에 꽂아 드나든다",
+      "concepts": [
+        "cyborg",
+        "ai",
+        "mega_corp",
+        "mind_upload",
+        "habitat"
+      ],
+      "new_ideas": "뇌를 직접 이어 들어가는 가상 공간(사이버스페이스)",
+      "lore_size": "중간",
+      "notability": "『Neuromancer』가 휴고·네뷸러·필립 K. 딕상을 함께 받음(1985), 사이버펑크의 출발점으로 꼽힘",
+      "korean": {
+        "status": "있음",
+        "detail": "세 권 모두 황금가지 환상문학전집: 『뉴로맨서』(2005), 『카운트 제로』(2012), 『모나 리자 오버드라이브』(2016). 『뉴로맨서』 옛 판: 청담사(1992), 열음사(1996).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=566115"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jackpot",
+      "orig": "Jackpot trilogy",
+      "orig_en": "",
+      "ko": "페리퍼럴",
+      "ko_src": "알라딘 — 허블 2024",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "The Peripheral (2014) · Agency (2020), 드라마 The Peripheral (2022)",
+      "by": "William Gibson",
+      "year": 2014,
+      "country": "미국·캐나다",
+      "setting": "재앙 뒤의 먼 미래가 과거와 통신해 원격 몸으로 사람을 부린다",
+      "concepts": [
+        "alt_timeline",
+        "catastrophe",
+        "nanotech"
+      ],
+      "new_ideas": "멀리서 조종하는 대리 몸(페리퍼럴)",
+      "lore_size": "중간",
+      "notability": "아마존 프라임 드라마(2022), 『뉴로맨서』 작가의 최근 연작",
+      "korean": {
+        "status": "일부",
+        "detail": "『페리퍼럴』 1·2(허블 워프 시리즈 7, 2024). 『Agency』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=350724154"
+      },
+      "borderline": false
+    },
+    {
+      "id": "culture",
+      "orig": "Culture",
+      "orig_en": "",
+      "ko": "컬처 시리즈",
+      "ko_src": "열린책들 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Consider Phlebas (1987) ~ The Hydrogen Sonata (2012), 장편 10권과 단편",
+      "by": "Iain M. Banks",
+      "year": 1987,
+      "country": "영국",
+      "setting": "인공지능 '마인드'가 이끄는 모자람 없는 은하 문명이 남의 문명에 몰래 손댄다",
+      "concepts": [
+        "ai",
+        "post_scarcity",
+        "ringworld",
+        "habitat",
+        "hyperspace",
+        "genetic_eng",
+        "ascension",
+        "alien"
+      ],
+      "new_ideas": "앞선 문명이 남의 문명에 몰래 손대는 일을 맡은 부서(특수 상황) — 개입하지 않는 원칙의 반대",
+      "lore_size": "큼",
+      "notability": "장편 10권으로 이어진 스페이스 오페라 연작(1987~2012)",
+      "korean": {
+        "status": "일부",
+        "detail": "열린책들 '컬처 시리즈' 1·2: 『플레바스를 생각하라』(2007), 『게임의 명수』(2011). 나머지 8권은 못 찾음. 같은 작가의 『대수학자』(2010)는 컬처가 아닌 다른 세계.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1009860"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hyperion_cantos",
+      "orig": "Hyperion Cantos",
+      "orig_en": "",
+      "ko": "히페리온",
+      "ko_src": "알라딘 — 열린책들 2009",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Hyperion (1989) · The Fall of Hyperion (1990) · Endymion (1996) · The Rise of Endymion (1997)",
+      "by": "Dan Simmons",
+      "year": 1989,
+      "country": "미국",
+      "setting": "시간을 거슬러 오는 무덤과 괴물 슈라이크를 향해 순례자 일곱이 떠나는 인류 연방 말기",
+      "concepts": [
+        "time_travel",
+        "ai",
+        "ai_revolt",
+        "gate_network",
+        "time_dilation",
+        "ftl_comm",
+        "resurrection",
+        "parasite",
+        "spacers",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『Hyperion』 휴고상(1990), 『The Fall of Hyperion』 로커스상(1991)",
+      "korean": {
+        "status": "일부",
+        "detail": "『히페리온』(2009), 『히페리온의 몰락』(2011) 열린책들. 『엔디미온』 두 권은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4462468"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ilium",
+      "orig": "Ilium / Olympos",
+      "orig_en": "",
+      "ko": "일리움",
+      "ko_src": "알라딘 — 베가북스 2007",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Ilium (2003) · Olympos (2005)",
+      "by": "Dan Simmons",
+      "year": 2003,
+      "country": "미국",
+      "setting": "후기 인류가 그리스 신 노릇을 하며 화성에서 트로이 전쟁을 다시 벌인다",
+      "concepts": [
+        "teleport",
+        "alt_timeline",
+        "longevity",
+        "terraforming",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Ilium』 로커스 SF상(2004)",
+      "korean": {
+        "status": "있음",
+        "detail": "『일리움』(2007), 『올림포스』(2009) 베가북스.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=989964"
+      },
+      "borderline": false
+    },
+    {
+      "id": "revelation_space",
+      "orig": "Revelation Space",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Revelation Space (2000) · Chasm City (2001) · Redemption Ark (2002) · Absolution Gap (2003) 외 장편·단편",
+      "by": "Alastair Reynolds",
+      "year": 2000,
+      "country": "영국",
+      "setting": "빛보다 빠른 길이 없는 은하, 사라진 문명들과 그들을 지운 기계의 흔적이 깨어난다",
+      "concepts": [
+        "sublight",
+        "time_dilation",
+        "cryosleep",
+        "nanotech",
+        "cyborg",
+        "merge",
+        "precursor",
+        "great_filter"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『Chasm City』 영국 SF 협회상(2001), 장편 여섯 권 넘게 이어진 연작",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 레이놀즈 책은 『대전환』(원제 Eversion, 푸른숲 2025)뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%A8%EB%9F%AC%EC%8A%A4%ED%85%8C%EC%96%B4%20%EB%A0%88%EC%9D%B4%EB%86%80%EC%A6%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "zones_of_thought",
+      "orig": "Zones of Thought",
+      "orig_en": "",
+      "ko": "심연 위의 불길",
+      "ko_src": "번역된 권의 제목 — 알라딘, 행복한책읽기 2011",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Fire Upon the Deep (1992) · A Deepness in the Sky (1999) · The Children of the Sky (2011)",
+      "by": "Vernor Vinge",
+      "year": 1992,
+      "country": "미국",
+      "setting": "은하 안 자리마다 생각과 기술의 한계가 달라, 바깥 가장자리일수록 신 같은 지성이 산다",
+      "concepts": [
+        "ftl",
+        "ftl_comm",
+        "hive_mind",
+        "godlike",
+        "ascension",
+        "ai"
+      ],
+      "new_ideas": "은하 중심에서 멀어질수록 빛보다 빠른 이동과 높은 지능이 가능해지는 '생각의 지대'",
+      "lore_size": "큼",
+      "notability": "『A Fire Upon the Deep』(1993), 『A Deepness in the Sky』(2000) 휴고상",
+      "korean": {
+        "status": "일부",
+        "detail": "『심연 위의 불길』 1·2(행복한책읽기 SF 총서 18, 2011·2012). 나머지 두 권은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8648843"
+      },
+      "borderline": false
+    },
+    {
+      "id": "commonwealth_hamilton",
+      "orig": "Commonwealth Universe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Misspent Youth (2002), Pandora's Star (2004) · Judas Unchained (2005), Void 3부작 (2007~2010), Chronicle of the Fallers (2014~2015)",
+      "by": "Peter F. Hamilton",
+      "year": 2004,
+      "country": "영국",
+      "setting": "기차가 웜홀을 지나 행성들을 잇는 인류 연합이 별을 가둔 장벽 너머의 적과 맞닥뜨린다",
+      "concepts": [
+        "wormhole",
+        "dyson",
+        "longevity",
+        "resurrection",
+        "mind_upload",
+        "hive_mind",
+        "ai",
+        "ascension"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "장편 8권으로 이어진 연작(앞 이야기 2002 포함)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음(원제 Pandora's Star, 작가 '피터 해밀턴'·'피터 F. 해밀턴').",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Pandora%27s%20Star"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nights_dawn",
+      "orig": "The Night's Dawn Trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Reality Dysfunction (1996) · The Neutronium Alchemist (1997) · The Naked God (1999)",
+      "by": "Peter F. Hamilton",
+      "year": 1996,
+      "country": "영국",
+      "setting": "살아 있는 우주선과 거주지를 기르는 인류 앞에 죽은 이들의 넋이 돌아와 산 몸을 빼앗는다",
+      "concepts": [
+        "jump_drive",
+        "habitat",
+        "telepathy",
+        "genetic_eng",
+        "other_realm",
+        "resurrection",
+        "mind_control"
+      ],
+      "new_ideas": "생체 기술로 기른 살아 있는 우주선과 거주지",
+      "lore_size": "큼",
+      "notability": "권마다 천 쪽 안팎인 스페이스 오페라 3부작",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음(원제 The Reality Dysfunction).",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20Reality%20Dysfunction"
+      },
+      "borderline": false
+    },
+    {
+      "id": "uplift",
+      "orig": "Uplift Universe",
+      "orig_en": "",
+      "ko": "스타타이드 라이징",
+      "ko_src": "번역된 권의 제목 — 알라딘, 열린책들 2015",
+      "media": [
+        "소설",
+        "탁상 게임"
+      ],
+      "first_medium": "소설",
+      "series": "Sundiver (1980) · Startide Rising (1983) · The Uplift War (1987) · Brightness Reef 3부작 (1995~1998), GURPS Uplift",
+      "by": "David Brin",
+      "year": 1980,
+      "country": "미국",
+      "setting": "모든 종족이 윗 종족에게 지성을 받아 빚을 지는 은하에 인류가 홀로 나타난다",
+      "concepts": [
+        "uplift",
+        "alien",
+        "precursor",
+        "hyperspace",
+        "genetic_eng"
+      ],
+      "new_ideas": "지성을 끌어올려 준 윗 종족을 아랫 종족이 오래 섬겨야 하는 후견 제도",
+      "lore_size": "큼",
+      "notability": "『Startide Rising』 휴고·네뷸러(1984), 『The Uplift War』 휴고(1988)",
+      "korean": {
+        "status": "일부",
+        "detail": "『스타타이드 라이징』 1·2(열린책들 2015)만 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=72378743"
+      },
+      "borderline": false
+    },
+    {
+      "id": "vorkosigan",
+      "orig": "Vorkosigan Saga",
+      "orig_en": "",
+      "ko": "마일즈 보르코시건 시리즈",
+      "ko_src": "씨앗을뿌리는사람 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "탁상 게임"
+      ],
+      "first_medium": "소설",
+      "series": "Shards of Honor (1986) ~ Gentleman Jole and the Red Queen (2016), 장편·중편 20편 안팎, GURPS Vorkosigan",
+      "by": "Lois McMaster Bujold",
+      "year": 1986,
+      "country": "미국",
+      "setting": "웜홀로 이어진 행성들, 군인 귀족 나라 바라야의 몸 약한 귀족 아들이 활약한다",
+      "concepts": [
+        "wormhole",
+        "navigator",
+        "feudal_space",
+        "genetic_eng",
+        "clone",
+        "resurrection"
+      ],
+      "new_ideas": "몸 밖에서 아이를 길러 낳는 인공 자궁",
+      "lore_size": "큼",
+      "notability": "휴고 장편상 세 번(『The Vor Game』 『Barrayar』 『Mirror Dance』), 휴고 시리즈상(2017)",
+      "korean": {
+        "status": "일부",
+        "detail": "씨앗을뿌리는사람 '마일즈 보르코시건 시리즈' 1~10권(2013~2015, 『명예의 조각들』 ~ 『메모리』). 앞서 행복한책읽기가 『마일즈의 전쟁』(2007)·『보르 게임』(2008)을 냄. 뒤쪽 권들은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28907911"
+      },
+      "borderline": false
+    },
+    {
+      "id": "honorverse",
+      "orig": "Honor Harrington (Honorverse)",
+      "orig_en": "",
+      "ko": "아너 해링턴 시리즈",
+      "ko_src": "행복한책읽기 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "On Basilisk Station (1993) ~, 본편 14권과 곁가지 연작, 만화 Tales of Honor",
+      "by": "David Weber",
+      "year": 1993,
+      "country": "미국",
+      "setting": "초공간 띠를 타는 함대들이 범선 시대 해전처럼 맞붙고, 여자 함장 아너가 왕국을 지킨다",
+      "concepts": [
+        "hyperspace",
+        "fleet_battle",
+        "energy_shield",
+        "beam_weapon",
+        "longevity",
+        "telepathy",
+        "wormhole",
+        "feudal_space"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "본편 14권에 곁가지 연작이 붙은 밀리터리 SF 대표 연작",
+      "korean": {
+        "status": "일부",
+        "detail": "『바실리스크 스테이션』(폴라북스 미래의 문학 6, 2014), 『여왕 폐하의 해군』(행복한책읽기 2016), 『순양전함 나이키』(행복한책읽기, 아너 해링턴 시리즈 3, 2019).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=38436842"
+      },
+      "borderline": false
+    },
+    {
+      "id": "imperial_radch",
+      "orig": "Imperial Radch",
+      "orig_en": "",
+      "ko": "라드츠 제국 시리즈",
+      "ko_src": "아작 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Ancillary Justice (2013) · Ancillary Sword (2014) · Ancillary Mercy (2015), 같은 세계 Provenance (2017) · Translation State (2023)",
+      "by": "Ann Leckie",
+      "year": 2013,
+      "country": "미국",
+      "setting": "죽은 몸에 배의 인공지능을 심어 부리는 제국, 몸 수천 개로 나뉜 황제가 스스로와 싸운다",
+      "concepts": [
+        "ai",
+        "galactic_empire",
+        "gate_network",
+        "alien",
+        "hive_mind"
+      ],
+      "new_ideas": "주검에 함선 인공지능을 나눠 심어 부리는 병사(보조체)",
+      "lore_size": "중간",
+      "notability": "『Ancillary Justice』가 휴고·네뷸러·아서 C. 클라크·로커스·영국 SF 협회상을 모두 받음(2014)",
+      "korean": {
+        "status": "일부",
+        "detail": "아작: 『사소한 정의』(2016), 『사소한 칼』(2017), 『사소한 자비』(2018), 같은 세계 『사소한 기원』(2020). 『Translation State』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=136584752"
+      },
+      "borderline": false
+    },
+    {
+      "id": "teixcalaan",
+      "orig": "Teixcalaan",
+      "orig_en": "",
+      "ko": "테익스칼란 제국",
+      "ko_src": "황금가지 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Memory Called Empire (2019) · A Desolation Called Peace (2021)",
+      "by": "Arkady Martine",
+      "year": 2019,
+      "country": "미국",
+      "setting": "앞선 이의 기억을 머리에 심어 잇는 작은 정거장의 대사가 시와 의례의 제국 수도에 온다",
+      "concepts": [
+        "galactic_empire",
+        "mind_upload",
+        "gate_network",
+        "alien",
+        "hive_mind",
+        "first_contact"
+      ],
+      "new_ideas": "앞 사람의 기억과 성격을 기계에 담아 뒷사람 머리에 심는 '이마고'",
+      "lore_size": "중간",
+      "notability": "두 권 모두 휴고 장편상(2020, 2022)",
+      "korean": {
+        "status": "있음",
+        "detail": "『제국이란 이름의 기억』, 『평화란 이름의 폐허』 황금가지(2025, 작가 표기 '아케이디 마틴').",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367929918"
+      },
+      "borderline": false
+    },
+    {
+      "id": "children_of_time",
+      "orig": "Children of Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Children of Time (2015) · Children of Ruin (2019) · Children of Memory (2022) 외",
+      "by": "Adrian Tchaikovsky",
+      "year": 2015,
+      "country": "영국",
+      "setting": "지성 끌어올리기 실험이 빗나가 거미가 문명을 이룬 행성에 지구의 마지막 방주가 닿는다",
+      "concepts": [
+        "uplift",
+        "terraforming",
+        "ark",
+        "cryosleep",
+        "sublight",
+        "ai",
+        "catastrophe",
+        "earth_left",
+        "golden_age"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "아서 C. 클라크상(2016)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 차이콥스키 책은 『에일리언 클레이』(문학수첩 2025), 『휴먼, 어디에 있나요?』(원제 Service Model, 엘리 2026)뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Children%20of%20Time"
+      },
+      "borderline": false
+    },
+    {
+      "id": "murderbot",
+      "orig": "The Murderbot Diaries",
+      "orig_en": "",
+      "ko": "머더봇 다이어리",
+      "ko_src": "알라딘 — 알마 2019",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "All Systems Red (2017) ~, 중편·장편 7권 넘게, 드라마 Murderbot (2025)",
+      "by": "Martha Wells",
+      "year": 2017,
+      "country": "미국",
+      "setting": "통제 장치를 몰래 풀어 버린 경비 기계가 기업 세계에서 사람을 지키며 드라마나 보려 한다",
+      "concepts": [
+        "ai",
+        "cyborg",
+        "mega_corp",
+        "wormhole"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『All Systems Red』 휴고·네뷸러 중편상(2018), 『Network Effect』 휴고·네뷸러 장편상, 애플 TV+ 드라마(2025)",
+      "korean": {
+        "status": "일부",
+        "detail": "알마 FoP 시리즈로 중편 넷: 『시스템 통제불능』(2019), 『인공 상태』(2020), 『로그 프로토콜』(2020), 『탈출 전략』(2021). 장편 『Network Effect』부터는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=208915664"
+      },
+      "borderline": false
+    },
+    {
+      "id": "firefall",
+      "orig": "Firefall (Blindsight)",
+      "orig_en": "",
+      "ko": "블라인드 사이트",
+      "ko_src": "알라딘 — 이지북 2011",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Blindsight (2006) · Echopraxia (2014)",
+      "by": "Peter Watts",
+      "year": 2006,
+      "country": "캐나다",
+      "setting": "태양계 끝에 나타난 외계 신호를 쫓아, 몸을 고친 사람들과 되살린 흡혈귀 인류가 나선다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "genetic_eng",
+        "cyborg"
+      ],
+      "new_ideas": "의식 없이도 지능은 있을 수 있다는 생각; 유전자로 되살린 옛 인류 흡혈귀",
+      "lore_size": "중간",
+      "notability": "휴고상 장편 후보(2007), 하드 SF 대표작으로 꼽힘",
+      "korean": {
+        "status": "일부",
+        "detail": "『블라인드 사이트』(이지북 퍼즐 픽션 4, 2011). 『Echopraxia』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8791994"
+      },
+      "borderline": false
+    },
+    {
+      "id": "snow_crash",
+      "orig": "Snow Crash",
+      "orig_en": "",
+      "ko": "스노 크래시",
+      "ko_src": "알라딘 — 문학세계사 2021",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Snow Crash (1992)",
+      "by": "Neal Stephenson",
+      "year": 1992,
+      "country": "미국",
+      "setting": "나라가 쪼개져 기업들이 다스리는 미국, 가상 세계에 뇌를 망가뜨리는 바이러스가 돈다",
+      "concepts": [
+        "mega_corp",
+        "mind_control"
+      ],
+      "new_ideas": "가상 세계 '메타버스'와 그 안의 아바타; 뇌에 바로 먹히는 언어 바이러스",
+      "lore_size": "중간",
+      "notability": "'메타버스'라는 말을 퍼뜨린 소설로 꼽힘",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 문학세계사(2021). 옛 판: 새와물고기 『스노우 크래쉬』(1996), 대교북스캔 『스노크래시』(2008).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273063555"
+      },
+      "borderline": false
+    },
+    {
+      "id": "diamond_age",
+      "orig": "The Diamond Age",
+      "orig_en": "",
+      "ko": "다이아몬드 시대",
+      "ko_src": "알라딘 — 시공사 2003",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Diamond Age (1995)",
+      "by": "Neal Stephenson",
+      "year": 1995,
+      "country": "미국",
+      "setting": "나노 기계가 무엇이든 찍어 내는 시대, 귀족 아이를 위해 만든 배움의 책이 가난한 소녀 손에 들어간다",
+      "concepts": [
+        "nanotech"
+      ],
+      "new_ideas": "아이를 가르치며 함께 자라는 대화형 그림책",
+      "lore_size": "중간",
+      "notability": "휴고·로커스상(1996)",
+      "korean": {
+        "status": "있음",
+        "detail": "시공사 그리폰 북스 1(2003).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=439925"
+      },
+      "borderline": false
+    },
+    {
+      "id": "seveneves",
+      "orig": "Seveneves",
+      "orig_en": "",
+      "ko": "세븐이브스",
+      "ko_src": "알라딘 — 북레시피 2018",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Seveneves (2015)",
+      "by": "Neal Stephenson",
+      "year": 2015,
+      "country": "미국",
+      "setting": "달이 부서져 지구가 곧 불탈 운명, 우주로 피한 인류는 여자 일곱만 남고 5천 년 뒤를 맞는다",
+      "concepts": [
+        "catastrophe",
+        "earth_left",
+        "ark",
+        "habitat",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 장편 후보(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "북레시피(2018) 세 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143289270"
+      },
+      "borderline": false
+    },
+    {
+      "id": "quarantine_egan",
+      "orig": "Quarantine",
+      "orig_en": "",
+      "ko": "쿼런틴",
+      "ko_src": "알라딘 — 허블 2022",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Quarantine (1992)",
+      "by": "Greg Egan",
+      "year": 1992,
+      "country": "오스트레일리아",
+      "setting": "태양계가 정체 모를 껍질에 갇힌 근미래, 사람이 지켜보는 일이 우주를 바꾼다는 비밀이 드러난다",
+      "concepts": [
+        "alien",
+        "nanotech"
+      ],
+      "new_ideas": "사람이 지켜보는 순간 여러 가능성이 하나로 접힌다는 양자 관측 설정",
+      "lore_size": "작음",
+      "notability": "에건의 첫 하드 SF 장편, 한국어판이 두 출판사에서 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 허블 워프 시리즈 4(2022). 옛 판: 행복한책읽기 SF 총서 4(2003).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307210299"
+      },
+      "borderline": false
+    },
+    {
+      "id": "permutation_city",
+      "orig": "Permutation City",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Permutation City (1994)",
+      "by": "Greg Egan",
+      "year": 1994,
+      "country": "오스트레일리아",
+      "setting": "컴퓨터 속으로 옮긴 사람의 사본들이 계산만으로 끝없이 이어지는 우주를 만든다",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "흩어진 계산도 하나의 의식으로 이어진다는 '먼지 이론'",
+      "lore_size": "중간",
+      "notability": "존 W. 캠벨 기념상(1995)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 에건 장편은 『쿼런틴』만 나옴(단편집 『내가 행복한 이유』 『대여금고』 등은 따로).",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Permutation%20City"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_trilogy",
+      "orig": "Mars trilogy",
+      "orig_en": "",
+      "ko": "붉은 화성",
+      "ko_src": "번역된 권의 제목 — 알라딘, 불새 2016",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Red Mars (1992) · Green Mars (1993) · Blue Mars (1996), 단편집 The Martians (1999)",
+      "by": "Kim Stanley Robinson",
+      "year": 1992,
+      "country": "미국",
+      "setting": "첫 이주민 백 명이 화성을 사람 살 곳으로 바꾸며 지구와 기업에 맞서 2백 년을 산다",
+      "concepts": [
+        "terraforming",
+        "colonization",
+        "longevity",
+        "space_elevator",
+        "mega_corp",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『Red Mars』 네뷸러(1993), 『Green Mars』(1994)·『Blue Mars』(1997) 휴고",
+      "korean": {
+        "status": "일부",
+        "detail": "『붉은 화성』 1(불새 과학소설 걸작선 15, 2016)만 찾음. 그 뒤 권은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920769"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ministry_for_the_future",
+      "orig": "The Ministry for the Future",
+      "orig_en": "",
+      "ko": "미래부",
+      "ko_src": "알라딘 — 필로소픽 2026",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Ministry for the Future (2020)",
+      "by": "Kim Stanley Robinson",
+      "year": 2020,
+      "country": "미국",
+      "setting": "폭염으로 수백만이 죽은 뒤, 미래 세대를 대신하는 국제 기구가 기후를 되돌리려 싸운다",
+      "concepts": [],
+      "new_ideas": "줄인 탄소만큼 받는 돈, 빙하 밑 물을 퍼내 녹는 속도를 늦추는 지구 공학",
+      "lore_size": "작음",
+      "notability": "출간 뒤 기후 소설 대표작으로 널리 거론",
+      "korean": {
+        "status": "있음",
+        "detail": "『미래부』 1·2(필로소픽 2026).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=394101112"
+      },
+      "borderline": true
+    },
+    {
+      "id": "takeshi_kovacs",
+      "orig": "Takeshi Kovacs (Altered Carbon)",
+      "orig_en": "",
+      "ko": "얼터드 카본",
+      "ko_src": "알라딘 — 황금가지 2008",
+      "media": [
+        "소설",
+        "드라마",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "Altered Carbon (2002) · Broken Angels (2003) · Woken Furies (2005), 드라마 (2018~2020), 애니메이션 Resleeved (2020)",
+      "by": "Richard K. Morgan",
+      "year": 2002,
+      "country": "영국",
+      "setting": "의식을 목뒤 저장 장치에 담아 몸만 갈아 끼우는 시대, 부자는 죽지 않는다",
+      "concepts": [
+        "mind_upload",
+        "longevity",
+        "clone",
+        "precursor",
+        "ftl_comm",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "필립 K. 딕상(2003), 넷플릭스 드라마(2018~2020)",
+      "korean": {
+        "status": "일부",
+        "detail": "『얼터드 카본』 1·2(황금가지 밀리언셀러 클럽 88·89, 2008). 뒤의 두 권은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2546469"
+      },
+      "borderline": false
+    },
+    {
+      "id": "old_mans_war",
+      "orig": "Old Man's War",
+      "orig_en": "",
+      "ko": "노인의 전쟁",
+      "ko_src": "알라딘 — 샘터 2009",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Old Man's War (2005) ~ The End of All Things (2015), 6권",
+      "by": "John Scalzi",
+      "year": 2005,
+      "country": "미국",
+      "setting": "일흔다섯 살 노인들이 젊은 새 몸으로 옮겨 우주 개척지를 지키는 군대에 들어간다",
+      "concepts": [
+        "mind_upload",
+        "genetic_eng",
+        "super_soldier",
+        "alien",
+        "jump_drive",
+        "colonization",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 장편 후보(2006), 여섯 권 연작",
+      "korean": {
+        "status": "있음",
+        "detail": "샘터 외국소설선: 『노인의 전쟁』(2009), 『유령여단』(2010), 『마지막 행성』(2011), 『조이 이야기』(2012), 『휴먼 디비전』(2013), 『모든 것의 종말』(2016).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3105184"
+      },
+      "borderline": false
+    },
+    {
+      "id": "interdependency",
+      "orig": "The Interdependency",
+      "orig_en": "",
+      "ko": "상호의존성단 시리즈",
+      "ko_src": "구픽 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Collapsing Empire (2017) · The Consuming Fire (2018) · The Last Emperox (2020)",
+      "by": "John Scalzi",
+      "year": 2017,
+      "country": "미국",
+      "setting": "별 사이를 잇던 흐름이 끊겨 가며, 서로 기대어 살던 성간 제국이 무너질 날을 맞는다",
+      "concepts": [
+        "lanes",
+        "galactic_empire",
+        "empire_fall",
+        "guild_monopoly"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『The Collapsing Empire』 로커스상(2018), 휴고 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "구픽: 『무너지는 제국』(2018), 『타오르는 화염』(2019), 『마지막 황제』(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=142189148"
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_rising",
+      "orig": "Red Rising",
+      "orig_en": "",
+      "ko": "레드 라이징",
+      "ko_src": "알라딘 — 황금가지 2015",
+      "media": [
+        "소설",
+        "탁상 게임"
+      ],
+      "first_medium": "소설",
+      "series": "Red Rising (2014) · Golden Son (2015) · Morning Star (2016) · Iron Gold (2018) ~, 보드게임 (2019)",
+      "by": "Pierce Brown",
+      "year": 2014,
+      "country": "미국",
+      "setting": "빛깔로 계급을 나눈 화성 사회, 땅속 광부 소년이 지배층 금빛으로 몸을 바꿔 숨어든다",
+      "concepts": [
+        "terraforming",
+        "genetic_eng",
+        "feudal_space",
+        "blade_return",
+        "orbital_drop",
+        "power_armor",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "여섯 권 넘게 이어진 베스트셀러 연작, 보드게임(2019)",
+      "korean": {
+        "status": "일부",
+        "detail": "황금가지가 첫 3부작을 냄: 『레드 라이징』(2015), 『골든 선』(2016), 『모닝 스타』(2017). 『Iron Gold』부터는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71313692"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_martian",
+      "orig": "The Martian",
+      "orig_en": "",
+      "ko": "마션",
+      "ko_src": "알라딘 — 알에이치코리아 2015",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Martian (2011), 영화 (2015)",
+      "by": "Andy Weir",
+      "year": 2011,
+      "country": "미국",
+      "setting": "모래폭풍에 홀로 남겨진 우주인이 과학으로 화성에서 버티며 구조를 기다린다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "리들리 스콧 영화(2015)",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아(2015, 스페셜 에디션 2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=56869333"
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_hail_mary",
+      "orig": "Project Hail Mary",
+      "orig_en": "",
+      "ko": "프로젝트 헤일메리",
+      "ko_src": "알라딘 — 알에이치코리아 2021",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Project Hail Mary (2021), 영화 (2026)",
+      "by": "Andy Weir",
+      "year": 2021,
+      "country": "미국",
+      "setting": "해를 갉아먹는 미생물을 막으러 홀로 깨어난 우주인이 먼 별에서 외계 기술자를 만난다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "time_dilation",
+        "sublight",
+        "cryosleep",
+        "translator"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 장편 후보(2022), 영화(2026)",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270454373"
+      },
+      "borderline": false
+    },
+    {
+      "id": "artemis_weir",
+      "orig": "Artemis",
+      "orig_en": "",
+      "ko": "아르테미스",
+      "ko_src": "알라딘 — 알에이치코리아 2017",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Artemis (2017)",
+      "by": "Andy Weir",
+      "year": 2017,
+      "country": "미국",
+      "setting": "달에 세운 첫 도시에서 밀수꾼 여자가 도시를 흔드는 음모에 휘말린다",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "『마션』 작가의 두 번째 장편, 한국에서 '앤디 위어 우주 3부작'으로 묶여 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아(2017, 특별판 2026).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=124205866"
+      },
+      "borderline": false
+    },
+    {
+      "id": "story_of_your_life",
+      "orig": "Story of Your Life",
+      "orig_en": "",
+      "ko": "당신 인생의 이야기",
+      "ko_src": "알라딘 — 엘리 2016",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "중편 「Story of Your Life」 (1998), 영화 Arrival (2016)",
+      "by": "Ted Chiang",
+      "year": 1998,
+      "country": "미국",
+      "setting": "외계 언어를 배운 언어학자가 시간을 한꺼번에 보는 눈을 얻는다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "precognition"
+      ],
+      "new_ideas": "배운 언어가 시간을 느끼는 방식을 바꾼다는 생각",
+      "lore_size": "작음",
+      "notability": "네뷸러·스터전상, 드니 빌뇌브 영화 『Arrival』(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "단편집 『당신 인생의 이야기』(엘리 2016, 양장 2020). 옛 판: 행복한책읽기 작가선집 1(2004).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=94018615"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wayfarers",
+      "orig": "Wayfarers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Long Way to a Small, Angry Planet (2014) ~ The Galaxy, and the Ground Within (2021), 4권",
+      "by": "Becky Chambers",
+      "year": 2014,
+      "country": "미국",
+      "setting": "웜홀 길을 뚫는 작은 배 사람들, 여러 종족의 은하 연합 속에서 지구를 떠나 온 인류의 일상",
+      "concepts": [
+        "alien",
+        "wormhole",
+        "federation",
+        "ai",
+        "spacers",
+        "earth_left",
+        "generation_ship"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고 시리즈상(2019)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 체임버스 책은 '수도승과 로봇' 연작뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B2%A0%ED%82%A4%20%EC%B2%B4%EC%9E%84%EB%B2%84%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "monk_and_robot",
+      "orig": "Monk & Robot",
+      "orig_en": "",
+      "ko": "수도승과 로봇 시리즈",
+      "ko_src": "황금가지 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Psalm for the Wild-Built (2021) · A Prayer for the Crown-Shy (2022)",
+      "by": "Becky Chambers",
+      "year": 2021,
+      "country": "미국",
+      "setting": "깨어난 로봇들이 사람 곁을 떠난 지 수백 년, 차 끓이는 수도승이 숲에서 로봇을 만난다",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1권 휴고 중편상(2022), 2권 로커스상",
+      "korean": {
+        "status": "있음",
+        "detail": "『야생 조립체에 바치는 찬가』, 『수관 기피를 위한 기도』 황금가지(2024).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=339544141"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silo",
+      "orig": "Silo (Wool)",
+      "orig_en": "",
+      "ko": "사일로 연대기",
+      "ko_src": "시공사 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Wool (2011) · Shift (2013) · Dust (2013), 드라마 Silo (2023~)",
+      "by": "Hugh Howey",
+      "year": 2011,
+      "country": "미국",
+      "setting": "바깥 공기가 독이 된 세상, 사람들은 땅속 수십 층 굴인 사일로에서 대를 잇는다",
+      "concepts": [
+        "catastrophe",
+        "ark",
+        "nanotech",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "전자책 자가 출판으로 시작해 크게 팔림, 애플 TV+ 드라마(2023~)",
+      "korean": {
+        "status": "있음",
+        "detail": "시공사: 『울』 1·2(2013), '사일로 연대기' 울·시프트·더스트 6권(2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315686401"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hunger_games",
+      "orig": "The Hunger Games",
+      "orig_en": "",
+      "ko": "헝거 게임",
+      "ko_src": "알라딘 — 북폴리오 2009",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Hunger Games (2008) ~ Sunrise on the Reaping (2025), 5권, 영화 (2012~2023)",
+      "by": "Suzanne Collins",
+      "year": 2008,
+      "country": "미국",
+      "setting": "무너진 북아메리카 위의 독재국, 해마다 구역마다 뽑힌 아이들이 죽을 때까지 싸운다",
+      "concepts": [
+        "genetic_eng",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "세계적 베스트셀러, 영화 다섯 편(2012~2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "북폴리오: 『헝거 게임』(2009), 『캣칭 파이어』(2010), 『모킹제이』(2011), 『노래하는 새와 뱀의 발라드』(2020), 『헝거 게임: 50번째 추첨의 날』(2026).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4825450"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ready_player_one",
+      "orig": "Ready Player One",
+      "orig_en": "",
+      "ko": "레디 플레이어 원",
+      "ko_src": "알라딘 — 에이콘출판 2015",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Ready Player One (2011) · Ready Player Two (2020), 영화 (2018)",
+      "by": "Ernest Cline",
+      "year": 2011,
+      "country": "미국",
+      "setting": "망가진 2045년, 모두가 사는 가상 세계에 숨은 유산을 두고 게이머와 거대 기업이 다툰다",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "온 세상이 들어가 사는 가상 현실 세계(오아시스)",
+      "lore_size": "중간",
+      "notability": "스필버그 영화(2018)",
+      "korean": {
+        "status": "있음",
+        "detail": "에이콘출판: 『레디 플레이어 원』(2015), 『레디 플레이어 투』(2024).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=56749866"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alliance_union",
+      "orig": "Alliance–Union",
+      "orig_en": "",
+      "ko": "유니언-동맹",
+      "ko_src": "열린책들 판 시리즈 이름('유니언-동맹 소설') — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Downbelow Station (1981), Merchanter's Luck (1982), Cyteen (1988) 등 장편 20여 권 (1976~)",
+      "by": "C. J. Cherryh",
+      "year": 1976,
+      "country": "미국",
+      "setting": "지구 회사와 떨어져 나간 식민지 연합, 그 사이 상인 함선 사람들이 우주 정거장을 두고 맞선다",
+      "concepts": [
+        "clone",
+        "genetic_eng",
+        "spacers",
+        "alien",
+        "mega_corp",
+        "fleet_battle"
+      ],
+      "new_ideas": "기억과 성격을 테이프로 새겨 길러 낸 사람(아지)",
+      "lore_size": "큼",
+      "notability": "『Downbelow Station』(1982)·『Cyteen』(1989) 휴고상",
+      "korean": {
+        "status": "일부",
+        "detail": "『다운빌로 스테이션』 1·2(열린책들 2018)만 찾음. 첫 작품이 1976년이라 1980년 이전 갈래와 겹침.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848"
+      },
+      "borderline": false
+    },
+    {
+      "id": "foreigner_cherryh",
+      "orig": "Foreigner",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Foreigner (1994) ~, 20권 넘게",
+      "by": "C. J. Cherryh",
+      "year": 1994,
+      "country": "미국",
+      "setting": "길 잃은 이주선 사람들이 외계 종족의 땅에 얹혀 살고, 통역관 한 사람이 둘을 잇는다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1994년부터 20권 넘게 이어진 연작",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 체리 책은 『다운빌로 스테이션』뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=C.%20J.%20%EC%B2%B4%EB%A6%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jurassic_park",
+      "orig": "Jurassic Park",
+      "orig_en": "",
+      "ko": "쥬라기 공원",
+      "ko_src": "알라딘 — 김영사 1991",
+      "media": [
+        "소설",
+        "영화",
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "Jurassic Park (1990) · The Lost World (1995), 영화 연작 (1993~), 게임·애니메이션",
+      "by": "Michael Crichton",
+      "year": 1990,
+      "country": "미국",
+      "setting": "옛 피에서 뽑은 유전자로 공룡을 되살린 섬 공원이 무너진다",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스필버그 영화(1993)로 시작한 영화 연작",
+      "korean": {
+        "status": "있음",
+        "detail": "김영사: 『쥬라기 공원』 1·2(1991), 『잃어버린 세계』 1·2(1995).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=136835"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sphere_crichton",
+      "orig": "Sphere",
+      "orig_en": "",
+      "ko": "스피어",
+      "ko_src": "알라딘 — 인간사랑 1992",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Sphere (1987), 영화 (1998)",
+      "by": "Michael Crichton",
+      "year": 1987,
+      "country": "미국",
+      "setting": "바다 밑에 3백 년 가라앉은 우주선 속 구슬이 사람의 생각을 현실로 만든다",
+      "concepts": [
+        "alien",
+        "time_travel",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(1998)",
+      "korean": {
+        "status": "있음",
+        "detail": "인간사랑·현대정보문화사(1992). 새 판은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86640"
+      },
+      "borderline": false
+    },
+    {
+      "id": "timeline_crichton",
+      "orig": "Timeline",
+      "orig_en": "",
+      "ko": "타임라인",
+      "ko_src": "알라딘 — 김영사 2000",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Timeline (1999), 영화 (2003)",
+      "by": "Michael Crichton",
+      "year": 1999,
+      "country": "미국",
+      "setting": "양자 기술로 14세기 프랑스에 건너간 학자들이 돌아올 길을 잃는다",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(2003)",
+      "korean": {
+        "status": "있음",
+        "detail": "김영사(2000) 두 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241882"
+      },
+      "borderline": false
+    },
+    {
+      "id": "maddaddam",
+      "orig": "MaddAddam",
+      "orig_en": "",
+      "ko": "미친 아담 3부작",
+      "ko_src": "민음사 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Oryx and Crake (2003) · The Year of the Flood (2009) · MaddAddam (2013)",
+      "by": "Margaret Atwood",
+      "year": 2003,
+      "country": "캐나다",
+      "setting": "유전자 기업들이 판치던 세상이 만들어진 역병에 쓸려 가고, 새로 설계된 사람들이 남는다",
+      "concepts": [
+        "genetic_eng",
+        "catastrophe",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Oryx and Crake』 부커상 최종 후보(2003)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 민음사 『오릭스와 크레이크』·『홍수의 해』·『미친 아담』(2019). 옛 판: 『인간 종말 리포트』 1·2(민음사 2008).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=211671056"
+      },
+      "borderline": true
+    },
+    {
+      "id": "handmaids_tale",
+      "orig": "The Handmaid's Tale",
+      "orig_en": "",
+      "ko": "시녀 이야기",
+      "ko_src": "알라딘 — 황금가지 2002",
+      "media": [
+        "소설",
+        "영화",
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "The Handmaid's Tale (1985) · The Testaments (2019), 영화 (1990), 드라마 (2017~2025), 그래픽 노블 (2019)",
+      "by": "Margaret Atwood",
+      "year": 1985,
+      "country": "캐나다",
+      "setting": "아이가 드물어진 미국을 신정 국가가 차지하고, 아이 낳을 여자를 '시녀'로 부린다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "첫 아서 C. 클라크상(1987), 『The Testaments』 부커상(2019), 드라마(2017~2025)",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지: 『시녀 이야기』(2002, 특별판 2017, 리커버 2018), 『증언들』(2020), 그래픽 노블(2019). 옛 판: 문학사상사(1990).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367736"
+      },
+      "borderline": true
+    },
+    {
+      "id": "never_let_me_go",
+      "orig": "Never Let Me Go",
+      "orig_en": "",
+      "ko": "나를 보내지 마",
+      "ko_src": "알라딘 — 민음사 2009",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Never Let Me Go (2005), 영화 (2010), 일본 드라마 (2016)",
+      "by": "Kazuo Ishiguro",
+      "year": 2005,
+      "country": "영국",
+      "setting": "장기를 내주려고 길러지는 복제 아이들이 외딴 기숙 학교에서 자란다",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "부커상 최종 후보(2005), 영화(2010)",
+      "korean": {
+        "status": "있음",
+        "detail": "민음사 모던 클래식(2009), 새 판(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270045283"
+      },
+      "borderline": false
+    },
+    {
+      "id": "klara_and_the_sun",
+      "orig": "Klara and the Sun",
+      "orig_en": "",
+      "ko": "클라라와 태양",
+      "ko_src": "알라딘 — 민음사 2021",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Klara and the Sun (2021)",
+      "by": "Kazuo Ishiguro",
+      "year": 2021,
+      "country": "영국",
+      "setting": "유전자를 고친 아이들 곁에 붙이는 인공 친구 로봇이 해를 믿으며 아픈 소녀를 지킨다",
+      "concepts": [
+        "ai",
+        "android",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "노벨 문학상 받은 뒤 첫 장편, 부커상 1차 후보(2021)",
+      "korean": {
+        "status": "있음",
+        "detail": "민음사(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=267220169"
+      },
+      "borderline": false
+    },
+    {
+      "id": "station_eleven",
+      "orig": "Station Eleven",
+      "orig_en": "",
+      "ko": "스테이션 일레븐",
+      "ko_src": "알라딘 — 북로드 2016",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Station Eleven (2014), 드라마 (2021)",
+      "by": "Emily St. John Mandel",
+      "year": 2014,
+      "country": "캐나다",
+      "setting": "독감이 인류 대부분을 쓸어 간 20년 뒤, 떠돌이 극단이 셰익스피어를 무대에 올린다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아서 C. 클라크상(2015), HBO 맥스 드라마(2021)",
+      "korean": {
+        "status": "있음",
+        "detail": "북로드 스토리콜렉터 45(2016).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86905721"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sea_of_tranquility",
+      "orig": "Sea of Tranquility",
+      "orig_en": "",
+      "ko": "고요의 바다에서",
+      "ko_src": "알라딘 — 열린책들 2024",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Sea of Tranquility (2022)",
+      "by": "Emily St. John Mandel",
+      "year": 2022,
+      "country": "캐나다",
+      "setting": "달 이주지의 시간 조사관이 서로 다른 시대에 같은 이상한 순간을 겪은 사람들을 쫓는다",
+      "concepts": [
+        "time_travel",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "『스테이션 일레븐』 작가의 시간 여행 장편(인물이 앞 작품들과 이어짐)",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들(2024).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343122478"
+      },
+      "borderline": false
+    },
+    {
+      "id": "windup_girl",
+      "orig": "The Windup Girl",
+      "orig_en": "",
+      "ko": "와인드업 걸",
+      "ko_src": "알라딘 — 다른 2011",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Windup Girl (2009)",
+      "by": "Paolo Bacigalupi",
+      "year": 2009,
+      "country": "미국",
+      "setting": "석유가 끊기고 유전자 역병이 휩쓴 뒤의 방콕, 곡물 기업과 만들어진 여자 인간이 얽힌다",
+      "concepts": [
+        "genetic_eng",
+        "mega_corp",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고·네뷸러(2010)",
+      "korean": {
+        "status": "있음",
+        "detail": "다른(2011).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12978888"
+      },
+      "borderline": false
+    },
+    {
+      "id": "broken_earth",
+      "orig": "The Broken Earth",
+      "orig_en": "",
+      "ko": "부서진 대지 3부작",
+      "ko_src": "황금가지 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Fifth Season (2015) · The Obelisk Gate (2016) · The Stone Sky (2017)",
+      "by": "N. K. Jemisin",
+      "year": 2015,
+      "country": "미국",
+      "setting": "몇백 년마다 땅이 뒤집혀 문명이 쓸려 가는 대륙, 땅을 다루는 사람들이 갇혀 부려진다",
+      "concepts": [
+        "catastrophe",
+        "cycle",
+        "living_planet",
+        "psionics",
+        "golden_age",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "세 권 모두 휴고 장편상(2016~2018)",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지: 『다섯 번째 계절』(2019), 『오벨리스크의 문』(2019), 『석조 하늘』(2020).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179475282"
+      },
+      "borderline": true
+    },
+    {
+      "id": "new_sun",
+      "orig": "The Book of the New Sun",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Shadow of the Torturer (1980) ~ The Citadel of the Autarch (1983), The Urth of the New Sun (1987)",
+      "by": "Gene Wolfe",
+      "year": 1980,
+      "country": "미국",
+      "setting": "해가 꺼져 가는 먼 미래 지구, 쫓겨난 고문관 견습생이 걷는 길",
+      "concepts": [
+        "golden_age",
+        "techno_religion",
+        "time_travel",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『The Claw of the Conciliator』 네뷸러(1981), 『The Shadow of the Torturer』 세계 환상 문학상(1981)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 울프 책은 『케르베로스의 다섯 번째 머리』(불새 2016)뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Gene%20Wolfe"
+      },
+      "borderline": true
+    },
+    {
+      "id": "heechee",
+      "orig": "Heechee Saga",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "Gateway (1977) · Beyond the Blue Event Horizon (1980) · Heechee Rendezvous (1984) ~ The Boy Who Would Live Forever (2004), 게임 Frederik Pohl's Gateway (1992)",
+      "by": "Frederik Pohl",
+      "year": 1977,
+      "country": "미국",
+      "setting": "사라진 외계 종족이 남긴 우주선을 타면 어디로 갈지 모른 채 떠나는 탐사 도박",
+      "concepts": [
+        "precursor",
+        "alien",
+        "mind_upload",
+        "fermi"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Gateway』 휴고·네뷸러·캠벨 기념상(1978)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 폴 책은 『우주 상인』(불새 2014, 콘블루스 공저)뿐. 첫 권이 1977년이라 1980년 이전 갈래와 겹침.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%94%84%EB%A0%88%EB%93%9C%EB%A6%AD%20%ED%8F%B4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "accelerando",
+      "orig": "Accelerando",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Accelerando (2005)",
+      "by": "Charles Stross",
+      "year": 2005,
+      "country": "영국",
+      "setting": "기술 특이점이 오는 세 세대 동안, 태양계 행성들이 계산 기계로 뜯겨 나간다",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "dyson",
+        "nanotech",
+        "self_replicate"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "로커스상(2006), 휴고 후보",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 스트로스 책은 『유리감옥』(원제 Glasshouse, 아작 2016)뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B0%B0%EC%8A%A4%20%EC%8A%A4%ED%8A%B8%EB%A1%9C%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "xenogenesis",
+      "orig": "Xenogenesis (Lilith's Brood)",
+      "orig_en": "",
+      "ko": "새벽",
+      "ko_src": "번역된 권의 제목 — 알라딘, 허블 2026",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Dawn (1987) · Adulthood Rites (1988) · Imago (1989)",
+      "by": "Octavia E. Butler",
+      "year": 1987,
+      "country": "미국",
+      "setting": "핵전쟁 뒤 살아남은 인류를 외계 종족이 구해 주는 대신 유전자를 섞자고 한다",
+      "concepts": [
+        "alien",
+        "genetic_eng",
+        "catastrophe",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "버틀러의 대표 연작, 한국어판 2026년 시작",
+      "korean": {
+        "status": "일부",
+        "detail": "『새벽』(허블 워프 시리즈 10, 2026)만 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=383846806"
+      },
+      "borderline": false
+    },
+    {
+      "id": "earthseed",
+      "orig": "Earthseed (Parable)",
+      "orig_en": "",
+      "ko": "씨앗을 뿌리는 사람의 우화",
+      "ko_src": "알라딘 — 비채 2022",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Parable of the Sower (1993) · Parable of the Talents (1998)",
+      "by": "Octavia E. Butler",
+      "year": 1993,
+      "country": "미국",
+      "setting": "기후와 사회가 무너진 2020년대 미국, 남의 아픔을 함께 느끼는 소녀가 새 믿음을 세운다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "남의 고통을 제 몸으로 느끼는 '과잉 공감'",
+      "lore_size": "중간",
+      "notability": "『Parable of the Talents』 네뷸러(1999)",
+      "korean": {
+        "status": "있음",
+        "detail": "비채: 『씨앗을 뿌리는 사람의 우화』(2022), 『은총을 받은 사람의 우화』(2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292291057"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_giver",
+      "orig": "The Giver Quartet",
+      "orig_en": "",
+      "ko": "기억 전달자",
+      "ko_src": "알라딘 — 비룡소 2007",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Giver (1993) · Gathering Blue (2000) · Messenger (2004) · Son (2012), 영화 (2014)",
+      "by": "Lois Lowry",
+      "year": 1993,
+      "country": "미국",
+      "setting": "감정과 빛깔과 기억을 지운 한결같은 마을, 소년이 홀로 옛 기억을 물려받는다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "뉴베리상(1994), 영화(2014)",
+      "korean": {
+        "status": "있음",
+        "detail": "비룡소 블루픽션: 『기억 전달자』(2007, 개정판 2024), 4부작 세트(『파랑 채집가』 『메신저』 『태양의 아들』).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337103419"
+      },
+      "borderline": true
+    },
+    {
+      "id": "divergent",
+      "orig": "Divergent",
+      "orig_en": "",
+      "ko": "다이버전트",
+      "ko_src": "알라딘 — 은행나무 2013",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Divergent (2011) · Insurgent (2012) · Allegiant (2013) · Four (2014), 영화 (2014~2016)",
+      "by": "Veronica Roth",
+      "year": 2011,
+      "country": "미국",
+      "setting": "성격에 따라 다섯 분파로 나뉘어 사는 미래 시카고, 어디에도 맞지 않는 소녀가 비밀을 쫓는다",
+      "concepts": [
+        "genetic_eng",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영화 세 편(2014~2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "은행나무: 『다이버전트』(2013), 『인서전트』(2014), 『얼리전트』(2014), 『포』(2015).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=29216837"
+      },
+      "borderline": true
+    },
+    {
+      "id": "maze_runner",
+      "orig": "The Maze Runner",
+      "orig_en": "",
+      "ko": "메이즈 러너",
+      "ko_src": "알라딘 — 문학수첩 2012",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Maze Runner (2009) ~ The Fever Code (2016), Crank Palace (2020), 영화 (2014~2018)",
+      "by": "James Dashner",
+      "year": 2009,
+      "country": "미국",
+      "setting": "기억을 지운 아이들이 움직이는 거대 미로 한가운데 갇혀 빠져나갈 길을 찾는다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영화 세 편(2014~2018)",
+      "korean": {
+        "status": "있음",
+        "detail": "문학수첩: 『메이즈 러너』 『스코치 트라이얼』(2012), 『데스 큐어』(2014), 『킬 오더』(2015), 『피버 코드』(2017), 『크랭크 팰리스』(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17681894"
+      },
+      "borderline": false
+    },
+    {
+      "id": "flashforward",
+      "orig": "Flashforward",
+      "orig_en": "",
+      "ko": "플래쉬포워드",
+      "ko_src": "알라딘 — 미래인 2010",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Flashforward (1999), 드라마 FlashForward (2009)",
+      "by": "Robert J. Sawyer",
+      "year": 1999,
+      "country": "캐나다",
+      "setting": "입자 가속 실험 중 온 인류가 2분 동안 21년 뒤 미래를 엿본다",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "ABC 드라마(2009)",
+      "korean": {
+        "status": "있음",
+        "detail": "미래인(2010).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6849054"
+      },
+      "borderline": false
+    },
+    {
+      "id": "neanderthal_parallax",
+      "orig": "The Neanderthal Parallax",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Hominids (2002) · Humans (2003) · Hybrids (2003)",
+      "by": "Robert J. Sawyer",
+      "year": 2002,
+      "country": "캐나다",
+      "setting": "네안데르탈인이 살아남아 문명을 이룬 평행 지구와 우리 지구가 이어진다",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Hominids』 휴고상(2003)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 소여 책은 『멸종』 『플래쉬포워드』 『공룡과 춤을』뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A1%9C%EB%B2%84%ED%8A%B8%20J.%20%EC%86%8C%EC%97%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oxford_time_travel",
+      "orig": "Oxford Time Travel",
+      "orig_en": "",
+      "ko": "옥스퍼드 시간 여행 시리즈",
+      "ko_src": "아작 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Fire Watch (1982) · Doomsday Book (1992) · To Say Nothing of the Dog (1998) · Blackout / All Clear (2010)",
+      "by": "Connie Willis",
+      "year": 1982,
+      "country": "미국",
+      "setting": "옥스퍼드 역사학자들이 시간 여행으로 과거를 직접 보러 가지만 일이 자꾸 꼬인다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "「Fire Watch」 『Doomsday Book』 『To Say Nothing of the Dog』 『Blackout/All Clear』가 모두 휴고상",
+      "korean": {
+        "status": "있음",
+        "detail": "아작이 장편 넷을 모두 냄: 『둠즈데이북』(2018), 『개는 말할 것도 없고』, 『등화관제』, 『올클리어』(2019), 합본판(2026).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=134003622"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark_matter_crouch",
+      "orig": "Dark Matter",
+      "orig_en": "",
+      "ko": "30일의 밤",
+      "ko_src": "알라딘 — 푸른숲 2022(원제 Dark Matter)",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Dark Matter (2016), 드라마 (2024)",
+      "by": "Blake Crouch",
+      "year": 2016,
+      "country": "미국",
+      "setting": "다른 선택을 한 나에게 납치돼 끝없는 평행 세계를 헤매는 물리학자",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애플 TV+ 드라마(2024)",
+      "korean": {
+        "status": "있음",
+        "detail": "『30일의 밤』(푸른숲 2022, 원제 Dark Matter).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301059185"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wayward_pines",
+      "orig": "Wayward Pines",
+      "orig_en": "",
+      "ko": "웨이워드파인즈 시리즈",
+      "ko_src": "오퍼스프레스 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Pines (2012) · Wayward (2013) · The Last Town (2014), 드라마 (2015~2016)",
+      "by": "Blake Crouch",
+      "year": 2012,
+      "country": "미국",
+      "setting": "벗어날 수 없는 산골 마을의 비밀은 긴 잠 끝에 깨어난 먼 미래였다",
+      "concepts": [
+        "cryosleep",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "폭스 드라마(2015~2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "오퍼스프레스: 『파인즈』(2014), 『웨이워드』(2015), 『라스트 타운』(2016).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=46790276"
+      },
+      "borderline": false
+    },
+    {
+      "id": "locked_tomb",
+      "orig": "The Locked Tomb",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Gideon the Ninth (2019) · Harrow the Ninth (2020) · Nona the Ninth (2022) ~",
+      "by": "Tamsyn Muir",
+      "year": 2019,
+      "country": "뉴질랜드",
+      "setting": "죽지 않는 황제가 다스리는 아홉 가문의 행성들, 뼈와 피로 부리는 사령술사와 기사들이 겨룬다",
+      "concepts": [
+        "resurrection",
+        "galactic_empire",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Gideon the Ninth』 로커스 첫 장편상(2020), 휴고 후보",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Gideon%20the%20Ninth"
+      },
+      "borderline": true
+    },
+    {
+      "id": "little_brother",
+      "orig": "Little Brother",
+      "orig_en": "",
+      "ko": "리틀 브라더",
+      "ko_src": "알라딘 — 아작 2015",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Little Brother (2008) · Homeland (2013) · Attack Surface (2020)",
+      "by": "Cory Doctorow",
+      "year": 2008,
+      "country": "캐나다",
+      "setting": "테러 뒤 감시 국가가 된 샌프란시스코, 고등학생 해커가 기술로 맞선다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "프로메테우스상(2009), 휴고 후보",
+      "korean": {
+        "status": "일부",
+        "detail": "아작: 『리틀 브라더』(2015), 『홈랜드』(2017)(작가 표기 '코리 닥터로'). 『Attack Surface』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=68473404"
+      },
+      "borderline": true
+    },
+    {
+      "id": "southern_reach",
+      "orig": "Southern Reach",
+      "orig_en": "",
+      "ko": "서던 리치 시리즈",
+      "ko_src": "황금가지 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Annihilation (2014) · Authority (2014) · Acceptance (2014) · Absolution (2024), 영화 Annihilation (2018)",
+      "by": "Jeff VanderMeer",
+      "year": 2014,
+      "country": "미국",
+      "setting": "바닷가 한 지역이 알 수 없는 힘에 갇혀 생명을 바꿔 놓고, 탐사대가 차례로 들어간다",
+      "concepts": [
+        "alien",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Annihilation』 네뷸러(2014), 영화(2018)",
+      "korean": {
+        "status": "일부",
+        "detail": "황금가지: 『소멸의 땅』 『경계 기관』 『빛의 세계』(2017). 『Absolution』은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=112467337"
+      },
+      "borderline": true
+    },
+    {
+      "id": "embassytown",
+      "orig": "Embassytown",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Embassytown (2011)",
+      "by": "China Miéville",
+      "year": 2011,
+      "country": "영국",
+      "setting": "두 입으로 동시에 말하고 거짓말을 못 하는 외계 종족 곁의 인류 도시, 새 대사가 그 말을 흔든다",
+      "concepts": [
+        "alien",
+        "clone",
+        "colonization",
+        "hyperspace"
+      ],
+      "new_ideas": "말과 뜻이 떨어질 수 없어 거짓말을 못 하는 외계 언어",
+      "lore_size": "중간",
+      "notability": "로커스 SF상(2012)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 미에빌 책은 『이중 도시』 『바스라그 연대기』 『언런던』 『쥐의 왕』뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B0%A8%EC%9D%B4%EB%82%98%20%EB%AF%B8%EC%97%90%EB%B9%8C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "xeelee",
+      "orig": "Xeelee Sequence",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Raft (1991) ~, 장편·단편 수십 편",
+      "by": "Stephen Baxter",
+      "year": 1991,
+      "country": "영국",
+      "setting": "수백만 년에 걸쳐 인류가 은하로 퍼져, 우주를 고쳐 쓰는 초월 종족 질리와 싸운다",
+      "concepts": [
+        "alien",
+        "wormhole",
+        "megastructure",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "백스터의 대표 연작, 장편·단편이 수십 편",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 백스터 장편은 『타임십』(폴라북스 2013)·『안티 아이스』(시공사 2003)뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%8A%A4%ED%8B%B0%EB%B8%90%20%EB%B0%B1%EC%8A%A4%ED%84%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_sparrow",
+      "orig": "The Sparrow",
+      "orig_en": "",
+      "ko": "스패로",
+      "ko_src": "알라딘 — 황금가지 2013",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Sparrow (1996) · Children of God (1998)",
+      "by": "Mary Doria Russell",
+      "year": 1996,
+      "country": "미국",
+      "setting": "외계의 노래를 들은 예수회가 먼 행성에 선교단을 보내고, 단 한 사람만 돌아온다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "time_dilation",
+        "sublight"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "아서 C. 클라크상(1998)",
+      "korean": {
+        "status": "일부",
+        "detail": "새 판: 『스패로』(황금가지 2013, 2022). 옛 판: 『영혼의 빛』 1·2(황금가지 1997, 원제 The Sparrow). 『Children of God』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294971729"
+      },
+      "borderline": false
+    },
+    {
+      "id": "machineries_of_empire",
+      "orig": "The Machineries of Empire",
+      "orig_en": "",
+      "ko": "나인폭스 갬빗 3부작",
+      "ko_src": "허블 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Ninefox Gambit (2016) · Raven Stratagem (2017) · Revenant Gun (2018)",
+      "by": "Yoon Ha Lee",
+      "year": 2016,
+      "country": "미국",
+      "setting": "모두가 같은 달력을 따라야 기술이 돌아가는 제국, 죽은 장군의 넋을 머리에 품은 대위가 싸운다",
+      "concepts": [
+        "galactic_empire",
+        "physics_weapon",
+        "mind_upload",
+        "fleet_battle"
+      ],
+      "new_ideas": "다 함께 지키는 달력이 물리 법칙처럼 기술을 움직이는 '역법'",
+      "lore_size": "중간",
+      "notability": "『Ninefox Gambit』 로커스 첫 장편상(2017), 휴고·네뷸러 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "허블: 『나인폭스 갬빗』(2019), 2·3권(2020)(작가 표기 '이윤하').",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=200643725"
+      },
+      "borderline": false
+    },
+    {
+      "id": "binti",
+      "orig": "Binti",
+      "orig_en": "",
+      "ko": "빈티",
+      "ko_src": "알라딘 — 알마 2019",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Binti (2015) · Home (2017) · The Night Masquerade (2018)",
+      "by": "Nnedi Okorafor",
+      "year": 2015,
+      "country": "미국",
+      "setting": "고향을 떠나 은하 대학으로 가는 소녀가 배를 덮친 외계 종족과 마주한다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고·네뷸러 중편상(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "알마 FoP 시리즈: 『빈티: 오치제를 바른 소녀』(2019), 『빈티: 지구로 돌아온 소녀』(2021), 『빈티: 밤의 가장꾼』(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=215026184"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bobiverse",
+      "orig": "Bobiverse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "We Are Legion (We Are Bob) (2016) ~, 5권",
+      "by": "Dennis E. Taylor",
+      "year": 2016,
+      "country": "캐나다",
+      "setting": "죽은 개발자의 의식을 실은 탐사선이 스스로를 복제하며 은하로 퍼진다",
+      "concepts": [
+        "mind_upload",
+        "self_replicate",
+        "colonization",
+        "alien",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "오디오북으로 크게 팔린 연작, 2016년부터 다섯 권",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=We%20Are%20Legion"
+      },
+      "borderline": false
+    },
+    {
+      "id": "arc_of_a_scythe",
+      "orig": "Arc of a Scythe",
+      "orig_en": "",
+      "ko": "수확자 시리즈",
+      "ko_src": "열린책들 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Scythe (2016) · Thunderhead (2018) · The Toll (2019)",
+      "by": "Neal Shusterman",
+      "year": 2016,
+      "country": "미국",
+      "setting": "인공지능이 다스려 죽음과 가난이 사라진 세상, 사람 수를 맞추려 수확자만이 사람을 죽인다",
+      "concepts": [
+        "ai",
+        "longevity",
+        "resurrection",
+        "post_scarcity",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "마이클 L. 프린츠 아너상(2017)",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들: 『수확자』 『선더헤드』 『종소리』(2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=310336717"
+      },
+      "borderline": false
+    },
+    {
+      "id": "unwind",
+      "orig": "Unwind Dystology",
+      "orig_en": "",
+      "ko": "언와인드 디스톨로지",
+      "ko_src": "열린책들 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Unwind (2007) · UnWholly (2012) · UnSouled (2013) · UnDivided (2014)",
+      "by": "Neal Shusterman",
+      "year": 2007,
+      "country": "미국",
+      "setting": "열세 살에서 열여덟 살 사이 아이를 몸째 나눠 장기로 쓰는 것이 허락된 미국",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네 권 연작, 같은 작가의 『수확자』와 함께 한국어판이 다시 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 열린책들 '언와인드 디스톨로지' 4권(2025). 옛 판: 『분해되는 아이들』(정글짐북스 2013, 원제 Unwind).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367047677"
+      },
+      "borderline": true
+    },
+    {
+      "id": "schismatrix",
+      "orig": "Shaper/Mechanist (Schismatrix)",
+      "orig_en": "",
+      "ko": "스키즈매트릭스",
+      "ko_src": "알라딘 — 시공사 2003",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Schismatrix (1985), 단편 연작",
+      "by": "Bruce Sterling",
+      "year": 1985,
+      "country": "미국",
+      "setting": "몸을 유전자로 고친 쪽과 기계로 바꾼 쪽으로 갈린 인류가 태양계 거주지들에서 겨룬다",
+      "concepts": [
+        "genetic_eng",
+        "cyborg",
+        "habitat",
+        "ideology_split",
+        "alien",
+        "spacers",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "사이버펑크 운동을 이끈 스털링의 대표 장편",
+      "korean": {
+        "status": "있음",
+        "detail": "시공사 그리폰 북스 6(2003).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=429642"
+      },
+      "borderline": false
+    },
+    {
+      "id": "blood_music",
+      "orig": "Blood Music",
+      "orig_en": "",
+      "ko": "블러드 뮤직",
+      "ko_src": "알라딘 — 늘벗 1992",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Blood Music (1985, 같은 이름 중편 1983)",
+      "by": "Greg Bear",
+      "year": 1985,
+      "country": "미국",
+      "setting": "몸속 세포를 지능 있게 고친 실험이 퍼져 사람과 세상을 하나로 녹여 버린다",
+      "concepts": [
+        "genetic_eng",
+        "merge"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "원작 중편이 휴고·네뷸러(1984)",
+      "korean": {
+        "status": "있음",
+        "detail": "옛 판만 찾음: 『블러드뮤직』(움직이는책 1992), 『블러드 뮤직』(늘벗 1992). 새 판은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65018"
+      },
+      "borderline": false
+    },
+    {
+      "id": "forge_of_god",
+      "orig": "The Forge of God",
+      "orig_en": "",
+      "ko": "신의 용광로",
+      "ko_src": "알라딘 — 미소 2004",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Forge of God (1987) · Anvil of Stars (1992)",
+      "by": "Greg Bear",
+      "year": 1987,
+      "country": "미국",
+      "setting": "외계 기계가 지구를 부수러 오고, 다른 외계 기계가 사람 몇을 건져 방주에 싣는다",
+      "concepts": [
+        "planet_killer",
+        "self_replicate",
+        "ark",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고·네뷸러 장편 후보(1988)",
+      "korean": {
+        "status": "일부",
+        "detail": "『신의 용광로』 상·하(미소 2004, 원제 The Forge of God). 『Anvil of Stars』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=451321"
+      },
+      "borderline": false
+    },
+    {
+      "id": "darwins_radio",
+      "orig": "Darwin's Radio",
+      "orig_en": "",
+      "ko": "다윈의 라디오",
+      "ko_src": "알라딘 — 시공사 2007",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Darwin's Radio (1999) · Darwin's Children (2003)",
+      "by": "Greg Bear",
+      "year": 1999,
+      "country": "미국",
+      "setting": "사람 유전자 속에 잠들어 있던 바이러스가 깨어나 아이들을 새 사람 종으로 태어나게 한다",
+      "concepts": [
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상(2000)",
+      "korean": {
+        "status": "일부",
+        "detail": "『다윈의 라디오』(시공사 2007). 『Darwin's Children』은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=910111"
+      },
+      "borderline": false
+    },
+    {
+      "id": "quantum_thief",
+      "orig": "Jean le Flambeur (The Quantum Thief)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Quantum Thief (2010) · The Fractal Prince (2012) · The Causal Angel (2014)",
+      "by": "Hannu Rajaniemi",
+      "year": 2010,
+      "country": "핀란드",
+      "setting": "의식을 복제해 부리는 먼 미래 태양계, 감옥에서 빼낸 도둑이 화성 도시에 숨은 기억을 훔친다",
+      "concepts": [
+        "mind_upload",
+        "nanotech",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "로커스 첫 장편상(2011)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20Quantum%20Thief"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metro_2033",
+      "orig": "Метро 2033",
+      "orig_en": "Metro 2033",
+      "ko": "메트로 2033",
+      "ko_src": "알라딘 — 제우미디어 2010",
+      "media": [
+        "소설",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "Метро 2033 (2005) · 2034 (2009) · 2035 (2015), 다른 작가들의 '메트로 2033 유니버스', 게임 연작 (2010~)",
+      "by": "Dmitry Glukhovsky",
+      "year": 2005,
+      "country": "러시아",
+      "setting": "핵전쟁 뒤 모스크바 지하철역마다 작은 나라를 세운 사람들이 괴물과 어둠에 맞선다",
+      "concepts": [
+        "catastrophe",
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "게임 『Metro 2033』(2010)으로 시작한 게임 연작, 여러 작가가 잇는 공유 세계",
+      "korean": {
+        "status": "일부",
+        "detail": "제우미디어: 『메트로 2033』(2010), 『메트로 2034』(2011), '메트로 2033 유니버스' 몇 권(2014~2016). 『2035』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6897942"
+      },
+      "borderline": false
+    },
+    {
+      "id": "papillon_des_etoiles",
+      "orig": "Le Papillon des étoiles",
+      "orig_en": "",
+      "ko": "파피용",
+      "ko_src": "알라딘 — 열린책들 2023",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Le Papillon des étoiles (2006)",
+      "by": "Bernard Werber",
+      "year": 2006,
+      "country": "프랑스",
+      "setting": "망가진 지구를 떠나 빛 돛 우주선에 14만 명이 타고 천 년 넘게 새 행성으로 간다",
+      "concepts": [
+        "generation_ship",
+        "earth_left",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국에서 양장·반양장·새 판으로 거듭 나옴(2007~2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들(반양장 2007, 양장 2008, 새 판 2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329522138"
+      },
+      "borderline": false
+    },
+    {
+      "id": "troisieme_humanite",
+      "orig": "Troisième Humanité",
+      "orig_en": "",
+      "ko": "제3인류",
+      "ko_src": "알라딘 — 열린책들 2013",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Troisième Humanité (2012) · Les Micro-humains (2013) · La Voix de la Terre (2014)",
+      "by": "Bernard Werber",
+      "year": 2012,
+      "country": "프랑스",
+      "setting": "재앙을 앞둔 인류가 작게 만든 새 사람을 낳고, 지구는 스스로 말을 걸어온다",
+      "concepts": [
+        "genetic_eng",
+        "living_planet"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "한국어판 여섯 권(2013~2016), 세 권으로 다시 냄(2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들 여섯 권(2013~2016), 세 권 새 판(2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=32136853"
+      },
+      "borderline": false
+    },
+    {
+      "id": "thanatonautes",
+      "orig": "Les Thanatonautes",
+      "orig_en": "",
+      "ko": "타나토노트",
+      "ko_src": "알라딘 — 열린책들 2000",
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "Les Thanatonautes (1994) · L'Empire des anges (2000)",
+      "by": "Bernard Werber",
+      "year": 1994,
+      "country": "프랑스",
+      "setting": "과학자들이 몸을 잠시 죽였다 살리며 죽음 너머 세계를 지도로 그린다",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "한국어판이 1994년부터 거듭 나옴, 만화판도 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들: 상·하(1994), 양장 1·2(2000), 새 판(2026), 『만화 타나토노트』.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=248422"
+      },
+      "borderline": true
+    },
+    {
+      "id": "der_schwarm",
+      "orig": "Der Schwarm",
+      "orig_en": "The Swarm",
+      "ko": "변종",
+      "ko_src": "알라딘 — 김영사 2011(원제 Der Schwarm)",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Der Schwarm (2004), 드라마 (2023)",
+      "by": "Frank Schätzing",
+      "year": 2004,
+      "country": "독일",
+      "setting": "깊은 바다의 단세포 군체 지성이 사람의 바다 더럽히기에 맞서 공격해 온다",
+      "concepts": [
+        "alien",
+        "hive_mind",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "독일에서 크게 팔린 장편, 유럽 합작 드라마(2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "『변종』 1·2(김영사 2011).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8678374"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jesus_video",
+      "orig": "Das Jesus Video",
+      "orig_en": "",
+      "ko": "지저스 비디오",
+      "ko_src": "알라딘 — 화니북스 2005(원제 Das Jesus Video)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Das Jesus Video (1998)",
+      "by": "Andreas Eschbach",
+      "year": 1998,
+      "country": "독일",
+      "setting": "이스라엘 발굴지의 2천 년 된 무덤에서 비디오카메라 설명서가 나온다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "쿠르트 라스비츠상(1999)",
+      "korean": {
+        "status": "있음",
+        "detail": "화니북스(2005) 세 권(작가 표기 '안드레아스 에쉬바흐').",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=575723"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mortal_engines",
+      "orig": "Mortal Engines Quartet",
+      "orig_en": "",
+      "ko": "견인 도시 연대기",
+      "ko_src": "부키 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Mortal Engines (2001) ~ A Darkling Plain (2006), 앞 이야기 Fever Crumb 연작, 영화 (2018)",
+      "by": "Philip Reeve",
+      "year": 2001,
+      "country": "영국",
+      "setting": "육십 분 전쟁 뒤, 바퀴 달린 도시들이 땅을 굴러다니며 작은 도시를 잡아먹는다",
+      "concepts": [
+        "catastrophe",
+        "cyborg",
+        "resurrection",
+        "golden_age"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네슬레 스마티스 금상(2002), 영화(2018)",
+      "korean": {
+        "status": "일부",
+        "detail": "부키: 『모털 엔진』(2010, 2018), 『사냥꾼의 현상금』(2010), 『악마의 무기』(2010), 『황혼의 들판』(2011) — 본편 넷 모두. 앞 이야기 연작은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=174551863"
+      },
+      "borderline": false
+    },
+    {
+      "id": "chaos_walking",
+      "orig": "Chaos Walking",
+      "orig_en": "",
+      "ko": "카오스 워킹",
+      "ko_src": "알라딘 — 문학수첩 2021",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Knife of Never Letting Go (2008) · The Ask and the Answer (2009) · Monsters of Men (2010), 영화 (2021)",
+      "by": "Patrick Ness",
+      "year": 2008,
+      "country": "영국",
+      "setting": "남자들의 생각이 소리로 다 들리는 개척 행성, 여자가 없는 마을의 소년이 처음 소녀를 만난다",
+      "concepts": [
+        "colonization",
+        "telepathy",
+        "alien",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『Monsters of Men』 카네기상(2011), 영화(2021)",
+      "korean": {
+        "status": "있음",
+        "detail": "문학수첩: 새 판 1~3(2021). 옛 판(2010~2012).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265488555"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lunar_chronicles",
+      "orig": "The Lunar Chronicles",
+      "orig_en": "",
+      "ko": "신더",
+      "ko_src": "첫 권 한국어판 제목 — 알라딘, 북로드 2013",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Cinder (2012) · Scarlet (2013) · Cress (2014) · Winter (2015), Fairest (2015)",
+      "by": "Marissa Meyer",
+      "year": 2012,
+      "country": "미국",
+      "setting": "옛이야기를 미래로 옮긴 세계, 사이보그 신데렐라가 달 왕국의 여왕과 역병에 맞선다",
+      "concepts": [
+        "cyborg",
+        "android",
+        "colonization",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "다섯 권으로 이어진 베스트셀러 연작",
+      "korean": {
+        "status": "있음",
+        "detail": "북로드 스토리콜렉터: 『신더』 『스칼렛』(2013), 『크레스』(2014), 『윈터』(2016), 『레바나』(2017).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30711035"
+      },
+      "borderline": false
+    },
+    {
+      "id": "uglies",
+      "orig": "Uglies",
+      "orig_en": "",
+      "ko": "어글리 시리즈",
+      "ko_src": "문학수첩 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Uglies (2005) · Pretties (2005) · Specials (2006) · Extras (2007), Impostors 연작 (2018~), 영화 (2024)",
+      "by": "Scott Westerfeld",
+      "year": 2005,
+      "country": "미국",
+      "setting": "열여섯 살이면 모두 수술로 예뻐지는 미래 도시, 수술에 숨은 비밀을 안 소녀가 달아난다",
+      "concepts": [
+        "mind_control",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "넷플릭스 영화(2024)",
+      "korean": {
+        "status": "일부",
+        "detail": "문학수첩: 『어글리』 『프리티』 『스페셜』(2009). 『Extras』와 뒤 연작은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4245932"
+      },
+      "borderline": false
+    },
+    {
+      "id": "contact_sagan",
+      "orig": "Contact",
+      "orig_en": "",
+      "ko": "콘택트",
+      "ko_src": "알라딘 — 사이언스북스 2001",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Contact (1985), 영화 (1997)",
+      "by": "Carl Sagan",
+      "year": 1985,
+      "country": "미국",
+      "setting": "직녀성에서 온 신호 속 설계도로 기계를 지어 다섯 사람이 우주 저편으로 간다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "wormhole"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "로버트 저메키스 영화(1997)",
+      "korean": {
+        "status": "있음",
+        "detail": "사이언스북스(2001) 두 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309099"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_road",
+      "orig": "The Road",
+      "orig_en": "",
+      "ko": "로드",
+      "ko_src": "알라딘 — 문학동네 2008",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Road (2006), 영화 (2009)",
+      "by": "Cormac McCarthy",
+      "year": 2006,
+      "country": "미국",
+      "setting": "까닭 모를 재앙으로 잿빛이 된 땅을 아버지와 아들이 남쪽 바다로 걷는다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "퓰리처상(2007), 영화(2009)",
+      "korean": {
+        "status": "있음",
+        "detail": "문학동네(2008).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2188422"
+      },
+      "borderline": true
+    },
+    {
+      "id": "children_of_men",
+      "orig": "The Children of Men",
+      "orig_en": "",
+      "ko": "사람의 아이들",
+      "ko_src": "알라딘 — 아작 2019",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Children of Men (1992), 영화 Children of Men (2006)",
+      "by": "P. D. James",
+      "year": 1992,
+      "country": "영국",
+      "setting": "25년째 아기가 하나도 태어나지 않는 영국, 독재 아래 마지막 희망이 나타난다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "알폰소 쿠아론 영화(2006)",
+      "korean": {
+        "status": "있음",
+        "detail": "아작(2019).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=184157754"
+      },
+      "borderline": true
+    },
+    {
+      "id": "machines_like_me",
+      "orig": "Machines Like Me",
+      "orig_en": "",
+      "ko": "나 같은 기계들",
+      "ko_src": "알라딘 — 문학동네 2023",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Machines Like Me (2019)",
+      "by": "Ian McEwan",
+      "year": 2019,
+      "country": "영국",
+      "setting": "튜링이 살아 있어 기술이 앞서간 1980년대 영국, 젊은이가 사람을 닮은 기계를 산다",
+      "concepts": [
+        "android",
+        "ai",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "부커상 수상 작가 매큐언의 장편",
+      "korean": {
+        "status": "있음",
+        "detail": "문학동네(2023).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322487544"
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_travelers_wife",
+      "orig": "The Time Traveler's Wife",
+      "orig_en": "",
+      "ko": "시간 여행자의 아내",
+      "ko_src": "알라딘 — 살림 2009",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "The Time Traveler's Wife (2003), 영화 (2009), 드라마 (2022)",
+      "by": "Audrey Niffenegger",
+      "year": 2003,
+      "country": "미국",
+      "setting": "몸이 제멋대로 시간을 건너뛰는 남자와, 그를 어릴 때부터 만나 온 아내의 사랑",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(2009), HBO 드라마(2022)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 살림(2009, 특별판 2010). 옛 판: 미토스북스(2006).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4410086"
+      },
+      "borderline": true
+    },
+    {
+      "id": "replay_grimwood",
+      "orig": "Replay",
+      "orig_en": "",
+      "ko": "다시 한 번 리플레이",
+      "ko_src": "알라딘 — 노블마인 2009",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Replay (1986)",
+      "by": "Ken Grimwood",
+      "year": 1986,
+      "country": "미국",
+      "setting": "마흔세 살에 죽은 남자가 기억을 지닌 채 젊은 날로 거듭 돌아가 삶을 다시 산다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "세계 환상 문학상(1988)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 『다시 한 번 리플레이』(노블마인 2009). 옛 판: 『리플레이』 1·2(프리미엄북스 1996).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4375728"
+      },
+      "borderline": true
+    },
+    {
+      "id": "harry_august",
+      "orig": "The First Fifteen Lives of Harry August",
+      "orig_en": "",
+      "ko": "해리 오거스트의 열다섯 번째 삶",
+      "ko_src": "알라딘 — 반타 2025",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The First Fifteen Lives of Harry August (2014)",
+      "by": "Claire North",
+      "year": 2014,
+      "country": "영국",
+      "setting": "죽으면 기억을 지닌 채 같은 해에 다시 태어나는 사람들이 세상의 끝을 막으려 한다",
+      "concepts": [
+        "time_travel",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "존 W. 캠벨 기념상(2015)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 반타(2025). 옛 판: 미래인(2018).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375388386"
+      },
+      "borderline": true
+    },
+    {
+      "id": "eleven_22_63",
+      "orig": "11/22/63",
+      "orig_en": "",
+      "ko": "11/22/63",
+      "ko_src": "알라딘 — 황금가지 2012",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "11/22/63 (2011), 드라마 (2016)",
+      "by": "Stephen King",
+      "year": 2011,
+      "country": "미국",
+      "setting": "식당 창고의 시간 구멍으로 1958년에 간 교사가 케네디 암살을 막으려 한다",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "훌루 드라마(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지(2012) 두 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20645917"
+      },
+      "borderline": false
+    },
+    {
+      "id": "running_man",
+      "orig": "The Running Man",
+      "orig_en": "",
+      "ko": "러닝 맨",
+      "ko_src": "알라딘 — 황금가지 2025",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Running Man (1982, 리처드 바크만 이름), 영화 (1987, 2025)",
+      "by": "Stephen King (Richard Bachman)",
+      "year": 1982,
+      "country": "미국",
+      "setting": "가난이 판치는 미래, 사람 사냥 방송에 나간 남자가 30일을 살아남으려 달아난다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 두 편(1987, 2025)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 『러닝 맨』(황금가지 2025). 옛 판: 리처드 바크만 『헌터』(어진소리 1994, 원제 The Running Man).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=372309146"
+      },
+      "borderline": true
+    },
+    {
+      "id": "world_war_z",
+      "orig": "World War Z",
+      "orig_en": "",
+      "ko": "세계대전 Z",
+      "ko_src": "알라딘 — 황금가지 2008",
+      "media": [
+        "소설",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "World War Z (2006), 영화 (2013), 게임 (2019)",
+      "by": "Max Brooks",
+      "year": 2006,
+      "country": "미국",
+      "setting": "좀비 전쟁이 끝난 뒤, 살아남은 사람들의 증언을 모아 엮은 기록",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영화(2013), 게임(2019)",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지 밀리언셀러 클럽 84(2008), 외전 단편집(2012).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2252408"
+      },
+      "borderline": true
+    },
+    {
+      "id": "girl_with_all_the_gifts",
+      "orig": "The Girl with All the Gifts",
+      "orig_en": "",
+      "ko": "멜라니",
+      "ko_src": "알라딘 — 은행나무 2016(원제 The Girl with All the Gifts)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Girl with All the Gifts (2014) · The Boy on the Bridge (2017), 영화 (2016)",
+      "by": "M. R. Carey",
+      "year": 2014,
+      "country": "영국",
+      "setting": "곰팡이가 사람을 굶주린 짐승으로 바꾼 뒤, 감염된 채 생각하는 아이들이 자란다",
+      "concepts": [
+        "parasite",
+        "catastrophe",
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(2016)",
+      "korean": {
+        "status": "일부",
+        "detail": "『멜라니』(은행나무 2016). 『The Boy on the Bridge』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=95243460"
+      },
+      "borderline": true
+    },
+    {
+      "id": "animorphs",
+      "orig": "Animorphs",
+      "orig_en": "",
+      "ko": "애니모프",
+      "ko_src": "알라딘 — 황금가지 2001",
+      "media": [
+        "소설",
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "The Invasion (1996) ~ The Beginning (2001), 본편 54권, 드라마 (1998), 그래픽 노블 (2020~)",
+      "by": "K. A. Applegate",
+      "year": 1996,
+      "country": "미국",
+      "setting": "몸속에 들어가 사람을 부리는 외계 민달팽이에 맞서, 동물로 변하는 힘을 받은 아이들이 싸운다",
+      "concepts": [
+        "alien",
+        "parasite",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "본편 54권, TV 드라마(1998)",
+      "korean": {
+        "status": "일부",
+        "detail": "황금가지 1~5권(2001)만 찾음(작가 표기 '캐서린 A. 애플게이트').",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287454"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lady_astronaut",
+      "orig": "Lady Astronaut",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Calculating Stars (2018) · The Fated Sky (2018) · The Relentless Moon (2020)",
+      "by": "Mary Robinette Kowal",
+      "year": 2018,
+      "country": "미국",
+      "setting": "1952년 운석이 떨어져 지구가 살 수 없게 될 운명, 인류가 서둘러 우주로 나가는 다른 역사",
+      "concepts": [
+        "catastrophe",
+        "colonization",
+        "alt_timeline",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "『The Calculating Stars』 휴고·네뷸러·로커스(2019)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20Calculating%20Stars"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spin_wilson",
+      "orig": "Spin",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Spin (2005) · Axis (2007) · Vortex (2011)",
+      "by": "Robert Charles Wilson",
+      "year": 2005,
+      "country": "캐나다",
+      "setting": "어느 밤 별이 사라지고, 지구가 바깥에서 1년에 1억 년씩 흐르는 막에 갇힌다",
+      "concepts": [
+        "time_dilation",
+        "terraforming",
+        "longevity",
+        "godlike",
+        "gate_network"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상(2006)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A1%9C%EB%B2%84%ED%8A%B8%20%EC%B0%B0%EC%8A%A4%20%EC%9C%8C%EC%8A%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "long_earth",
+      "orig": "The Long Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Long Earth (2012) ~ The Long Cosmos (2016), 5권",
+      "by": "Terry Pratchett · Stephen Baxter",
+      "year": 2012,
+      "country": "영국",
+      "setting": "옆걸음 한 번으로 사람 없는 다른 지구로 건너갈 수 있게 되자 인류가 끝없는 지구들로 퍼진다",
+      "concepts": [
+        "alt_timeline",
+        "colonization",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "프래쳇·백스터가 함께 쓴 다섯 권 연작",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20Long%20Earth"
+      },
+      "borderline": false
+    },
+    {
+      "id": "helliconia",
+      "orig": "Helliconia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Helliconia Spring (1982) · Helliconia Summer (1983) · Helliconia Winter (1985)",
+      "by": "Brian Aldiss",
+      "year": 1982,
+      "country": "영국",
+      "setting": "한 해가 수천 년인 행성, 긴 겨울과 여름을 따라 문명이 일어서고 무너지기를 거듭한다",
+      "concepts": [
+        "alien_ecology",
+        "cycle",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『Helliconia Spring』 영국 SF 협회상·캠벨 기념상(1983)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%20%EC%98%AC%EB%94%94%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hitchhikers_guide",
+      "orig": "The Hitchhiker's Guide to the Galaxy",
+      "orig_en": "",
+      "ko": "은하수를 여행하는 히치하이커를 위한 안내서",
+      "ko_src": "알라딘 — 책세상 2004",
+      "media": [
+        "소설",
+        "드라마",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "드라마",
+      "series": "라디오 드라마 (1978), 소설 5권 (1979~1992)과 오언 콜퍼의 6권 (2009), TV 드라마 (1981), 게임 (1984), 영화 (2005)",
+      "by": "Douglas Adams",
+      "year": 1978,
+      "country": "영국",
+      "setting": "우회로를 내려고 지구가 철거된 날, 지구인 하나가 외계인 친구와 엉뚱한 은하를 떠돈다",
+      "concepts": [
+        "planet_killer",
+        "translator",
+        "alien",
+        "ai",
+        "megastructure"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "라디오·TV·영화·게임으로 이어진 영국 SF 코미디의 대표작",
+      "korean": {
+        "status": "있음",
+        "detail": "책세상 메피스토 1~5(2004~2005), 6권(2009), 합본. 옛 판: 새와물고기(1995~1996).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=532986"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cloud_atlas",
+      "orig": "Cloud Atlas",
+      "orig_en": "",
+      "ko": "클라우드 아틀라스",
+      "ko_src": "알라딘 — 문학동네 2010",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Cloud Atlas (2004), 영화 (2012)",
+      "by": "David Mitchell",
+      "year": 2004,
+      "country": "영국",
+      "setting": "19세기 바다에서 먼 미래의 무너진 섬까지, 여섯 시대의 이야기가 겹겹이 이어진다",
+      "concepts": [
+        "clone",
+        "catastrophe",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "부커상 최종 후보(2004), 영화(2012)",
+      "korean": {
+        "status": "있음",
+        "detail": "문학동네(2010) 두 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8134034"
+      },
+      "borderline": true
+    },
+    {
+      "id": "wild_cards",
+      "orig": "Wild Cards",
+      "orig_en": "",
+      "ko": "와일드카드",
+      "ko_src": "알라딘 — 은행나무 2021",
+      "media": [
+        "소설",
+        "만화",
+        "탁상 게임"
+      ],
+      "first_medium": "소설",
+      "series": "Wild Cards (1987) ~, 여러 작가가 함께 쓴 연작 30권 넘게, 만화·GURPS 자료집",
+      "by": "George R. R. Martin 엮음 외",
+      "year": 1987,
+      "country": "미국",
+      "setting": "1946년 외계인이 퍼뜨린 바이러스로 소수가 초능력을, 다수가 기형을 얻은 뒤의 다른 역사",
+      "concepts": [
+        "alien",
+        "psionics",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1987년부터 30권 넘게 이어진 공유 세계 연작",
+      "korean": {
+        "status": "일부",
+        "detail": "『와일드카드』 1·2(은행나무 2021)만 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277483920"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_host",
+      "orig": "The Host",
+      "orig_en": "",
+      "ko": "호스트",
+      "ko_src": "알라딘 — 알에이치코리아 2009(원제 The Host)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Host (2008), 영화 (2013)",
+      "by": "Stephenie Meyer",
+      "year": 2008,
+      "country": "미국",
+      "setting": "몸속에 들어가 사람을 대신 사는 외계 혼에게 몸을 빼앗긴 여자가 끝까지 남아 버틴다",
+      "concepts": [
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(2013)",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아 판타스틱 픽션 블루(2009) 두 권.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3010216"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fifth_wave",
+      "orig": "The 5th Wave",
+      "orig_en": "",
+      "ko": "제5침공",
+      "ko_src": "알라딘 — 알에이치코리아 2016",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The 5th Wave (2013) · The Infinite Sea (2014) · The Last Star (2016), 영화 (2016)",
+      "by": "Rick Yancey",
+      "year": 2013,
+      "country": "미국",
+      "setting": "외계 침공이 다섯 차례 물결처럼 밀려와, 사람이 사람을 믿을 수 없게 된 지구",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아: 『피프스 웨이브』(2015)를 『제5침공』(2016)으로 다시 냄, 『무한의 바다』(2015), 『마지막 별』(2018).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920398"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lorien_legacies",
+      "orig": "Lorien Legacies",
+      "orig_en": "",
+      "ko": "로리언레거시 시리즈",
+      "ko_src": "세계사 판 시리즈 이름 — 알라딘",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "I Am Number Four (2010) ~ United as One (2016), 본편 7권, 영화 (2011)",
+      "by": "Pittacus Lore (James Frey · Jobie Hughes)",
+      "year": 2010,
+      "country": "미국",
+      "setting": "멸망한 행성에서 온 아이 아홉이 지구에 숨어 힘을 깨우며 쫓아온 적과 싸운다",
+      "concepts": [
+        "alien",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영화 『I Am Number Four』(2011)",
+      "korean": {
+        "status": "일부",
+        "detail": "세계사 『아이 엠 넘버 포』 1~6권(2011~2018). 7권은 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8496263"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_power",
+      "orig": "The Power",
+      "orig_en": "",
+      "ko": "파워",
+      "ko_src": "알라딘 — 민음사 2020",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "The Power (2016), 드라마 (2023)",
+      "by": "Naomi Alderman",
+      "year": 2016,
+      "country": "영국",
+      "setting": "어느 날 젊은 여자들 손에서 전기를 쏘는 힘이 깨어나 세상의 힘 관계가 뒤집힌다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "여성 소설상(2017), 아마존 드라마(2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "민음사(2020).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233729332"
+      },
+      "borderline": true
+    },
+    {
+      "id": "galapagos",
+      "orig": "Galápagos",
+      "orig_en": "",
+      "ko": "갈라파고스",
+      "ko_src": "알라딘 — F(에프) 2019",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Galápagos (1985)",
+      "by": "Kurt Vonnegut",
+      "year": 1985,
+      "country": "미국",
+      "setting": "병으로 인류가 아이를 못 낳게 된 뒤, 섬에 남은 몇 사람이 백만 년 뒤 물개 같은 종으로 바뀐다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국어판 세 번(1997, 2003, 2019)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: F(에프) 모던 클래식(2019). 옛 판: 세계인(1997), 아이필드(2003).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207173446"
+      },
+      "borderline": false
+    },
+    {
+      "id": "speed_of_dark",
+      "orig": "The Speed of Dark",
+      "orig_en": "",
+      "ko": "어둠의 속도",
+      "ko_src": "알라딘 — 푸른숲 2021",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Speed of Dark (2002)",
+      "by": "Elizabeth Moon",
+      "year": 2002,
+      "country": "미국",
+      "setting": "자폐를 고치는 새 치료가 나오자, 자폐인 남자가 지금의 자기를 버릴지 고민한다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상(2003)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 푸른숲(2021). 옛 판: 북스피어(2007).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=282034537"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ministry_of_time",
+      "orig": "The Ministry of Time",
+      "orig_en": "",
+      "ko": "시간관리국",
+      "ko_src": "알라딘 — 비채 2026",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Ministry of Time (2024)",
+      "by": "Kaliane Bradley",
+      "year": 2024,
+      "country": "영국",
+      "setting": "근미래 영국 정부가 과거에서 죽기 직전의 사람들을 데려와 지금에 적응시키는 실험을 한다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2024년 출간 뒤 영미권 베스트셀러",
+      "korean": {
+        "status": "있음",
+        "detail": "비채(2026).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387271734"
+      },
+      "borderline": false
+    },
+    {
+      "id": "all_the_birds_in_the_sky",
+      "orig": "All the Birds in the Sky",
+      "orig_en": "",
+      "ko": "하늘의 모든 새들",
+      "ko_src": "알라딘 — 허블 2025",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "All the Birds in the Sky (2016)",
+      "by": "Charlie Jane Anders",
+      "year": 2016,
+      "country": "미국",
+      "setting": "마녀 소녀와 과학 소년이 자라, 무너져 가는 세계를 마법과 기계로 각자 구하려 한다",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상(2016)",
+      "korean": {
+        "status": "있음",
+        "detail": "허블(2025).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371134991"
+      },
+      "borderline": true
+    },
+    {
+      "id": "iron_widow",
+      "orig": "Iron Widow",
+      "orig_en": "",
+      "ko": "아이언 위도우",
+      "ko_src": "알라딘 — 아르테 2023",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Iron Widow (2021) · Heavenly Tyrant (2024)",
+      "by": "Xiran Jay Zhao",
+      "year": 2021,
+      "country": "캐나다",
+      "setting": "중국 옛 왕조를 닮은 세계, 남녀가 짝지어 마음으로 모는 거대 기계로 외계 괴물과 싸운다",
+      "concepts": [
+        "mecha",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "뉴욕 타임스 베스트셀러 1위에 오른 데뷔작",
+      "korean": {
+        "status": "일부",
+        "detail": "『아이언 위도우: 죽음을 삼킨 여자』 1·2(아르테 2023). 『Heavenly Tyrant』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313589994"
+      },
+      "borderline": false
+    },
+    {
+      "id": "redshirts",
+      "orig": "Redshirts",
+      "orig_en": "",
+      "ko": "레드셔츠",
+      "ko_src": "알라딘 — 폴라북스 2014",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Redshirts (2012)",
+      "by": "John Scalzi",
+      "year": 2012,
+      "country": "미국",
+      "setting": "원정을 나갈 때마다 하급 선원만 죽는 우주선, 선원들이 자기들이 드라마 속 인물임을 알아챈다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상(2013)",
+      "korean": {
+        "status": "있음",
+        "detail": "폴라북스(현대문학, 2014).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45495575"
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_war",
+      "orig": "This Is How You Lose the Time War",
+      "orig_en": "",
+      "ko": "당신들은 이렇게 시간 전쟁에서 패배한다",
+      "ko_src": "알라딘 — 황금가지 2021",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "This Is How You Lose the Time War (2019)",
+      "by": "Amal El-Mohtar · Max Gladstone",
+      "year": 2019,
+      "country": "캐나다·미국",
+      "setting": "시간을 오가며 싸우는 두 세력의 요원이 서로에게 편지를 남기다 사랑에 빠진다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고·네뷸러·로커스 중편상(2020)",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지(2021).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=316730846"
+      },
+      "borderline": false
+    },
+    {
+      "id": "battlefield_earth",
+      "orig": "Battlefield Earth",
+      "orig_en": "",
+      "ko": "배틀필드",
+      "ko_src": "알라딘 — 자음과모음 2000",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Battlefield Earth (1982), 영화 (2000)",
+      "by": "L. Ron Hubbard",
+      "year": 1982,
+      "country": "미국",
+      "setting": "외계 종족에게 정복된 지 천 년, 살아남은 사람들이 지구를 되찾으려 한다",
+      "concepts": [
+        "alien",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "베스트셀러, 영화(2000)",
+      "korean": {
+        "status": "있음",
+        "detail": "새 판: 『배틀필드』 1~6(자음과모음 2000). 옛 판: 『지구전선』 등(나경문화 1991~1992).",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=238238"
+      },
+      "borderline": false
+    },
+    {
+      "id": "polity_asher",
+      "orig": "Polity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Gridlinked (2001) ~, 장편 20권 안팎",
+      "by": "Neal Asher",
+      "year": 2001,
+      "country": "영국",
+      "setting": "인공지능들이 다스리는 인류 연합이 순간 이동 문으로 별들을 잇고, 옛 외계 유물과 싸운다",
+      "concepts": [
+        "ai",
+        "gate_network",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "2001년부터 장편 20권 안팎으로 이어진 연작",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Gridlinked"
+      },
+      "borderline": false
+    },
+    {
+      "id": "snow_queen_vinge",
+      "orig": "The Snow Queen (Tiamat)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Snow Queen (1980) · World's End (1984) · The Summer Queen (1991) · Tangled Up in Blue (2000)",
+      "by": "Joan D. Vinge",
+      "year": 1980,
+      "country": "미국",
+      "setting": "150년마다 겨울 여왕과 여름 여왕이 바뀌는 행성, 늙지 않게 하는 바다 생물을 노리는 제국",
+      "concepts": [
+        "clone",
+        "longevity",
+        "wormhole",
+        "cycle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상(1981)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=The%20Snow%20Queen%20Vinge"
+      },
+      "borderline": false
+    },
+    {
+      "id": "timescape",
+      "orig": "Timescape",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Timescape (1980)",
+      "by": "Gregory Benford",
+      "year": 1980,
+      "country": "미국",
+      "setting": "환경 재앙을 맞은 1998년의 과학자들이 빛보다 빠른 입자로 1962년에 경고를 보낸다",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상(1980), 캠벨 기념상(1981)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Timescape"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rainbows_end",
+      "orig": "Rainbows End",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Rainbows End (2006)",
+      "by": "Vernor Vinge",
+      "year": 2006,
+      "country": "미국",
+      "setting": "치매에서 깨어난 시인이 입는 컴퓨터와 덧입힌 현실이 일상이 된 근미래를 다시 배운다",
+      "concepts": [
+        "longevity",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상(2007)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 빈지 책은 『심연 위의 불길』뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Rainbows%20End"
+      },
+      "borderline": false
+    },
+    {
+      "id": "forever_peace",
+      "orig": "Forever Peace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Forever Peace (1997)",
+      "by": "Joe Haldeman",
+      "year": 1997,
+      "country": "미국",
+      "setting": "원격 전투 로봇에 뇌를 이은 병사들이 서로의 마음을 나누다 전쟁을 끝낼 길을 찾는다",
+      "concepts": [
+        "robot",
+        "merge"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고·네뷸러·캠벨 기념상(1998)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "원제로는 안 나옴. 작가 이름으로 찾으면 『영원한 전쟁』 외에 『사이버 섹스』(예문 1997)가 나오는데 원제를 확인 못 함.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%A1%B0%20%ED%99%80%EB%93%9C%EB%A8%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "some_desperate_glory",
+      "orig": "Some Desperate Glory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Some Desperate Glory (2023)",
+      "by": "Emily Tesh",
+      "year": 2023,
+      "country": "영국",
+      "setting": "외계 종족이 지구를 부순 뒤, 마지막 인류 정거장에서 복수를 위해 길러진 소녀가 진실을 본다",
+      "concepts": [
+        "planet_killer",
+        "super_soldier",
+        "alien",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상(2024)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=Some%20Desperate%20Glory"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ksr_2312",
+      "orig": "2312",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "2312 (2012)",
+      "by": "Kim Stanley Robinson",
+      "year": 2012,
+      "country": "미국",
+      "setting": "소행성 속을 파내 숲과 바다를 담은 2312년 태양계, 수성 도시의 예술가가 음모를 쫓는다",
+      "concepts": [
+        "habitat",
+        "terraforming",
+        "ai",
+        "longevity",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상(2012)",
+      "korean": {
+        "status": "없음",
+        "detail": "알라딘에서 원제와 작가 이름으로 찾았으나 한국어판이 나오지 않음. 로빈슨 책은 『붉은 화성』 『쌀과 소금의 시대』 『미래부』뿐.",
+        "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%82%B4%20%EC%8A%A4%ED%83%A0%EB%A6%AC%20%EB%A1%9C%EB%B9%88%EC%8A%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "robopocalypse",
+      "orig": "Robopocalypse",
+      "orig_en": "",
+      "ko": "로보포칼립스",
+      "ko_src": "알라딘 — 문학수첩 2011",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Robopocalypse (2011) · Robogenesis (2014)",
+      "by": "Daniel H. Wilson",
+      "year": 2011,
+      "country": "미국",
+      "setting": "깨어난 인공지능이 온 세상 기계를 부려 인류를 치고, 살아남은 이들이 맞서 싸운다",
+      "concepts": [
+        "ai_revolt",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "출간 무렵 스필버그 영화화가 발표됨(만들어지지 않음)",
+      "korean": {
+        "status": "일부",
+        "detail": "『로보포칼립스』(문학수첩 2011). 『Robogenesis』는 못 찾음.",
+        "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=14171221"
+      },
+      "borderline": false
+    }
+  ]
+}

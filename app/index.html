@@ -1,0 +1,672 @@
+<title>SF 개념 사전</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@500;700&family=IBM+Plex+Sans+KR:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* 배치: 위에 붙는 차림표 하나 + 가운데 한 단(최대 72rem). 개념 쪽은 작품을 나온 해 순서로 늘어놓아 한 생각이 시대를 따라 변하는 것을 보인다. */
+:root {
+  --paper: #f1f3f6;
+  --panel: #ffffff;
+  --ink: #161e2c;
+  --ink-2: #4a5466;
+  --ink-3: #747d8f;
+  --rule: #d6dce5;
+  --accent: #2b45c4;
+  --accent-soft: #e4e9fb;
+  --ok: #1d7448;
+  --ok-soft: #e1f2e8;
+  --warn: #87650d;
+  --warn-soft: #f6eed6;
+  --mute-soft: #eceef2;
+  --cell: #2b45c4;
+  --font-display: "Hahmlet", "Noto Serif KR", "Batang", serif;
+  --font-body: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "Consolas", monospace;
+  --step--1: 0.8125rem;
+  --step-0: 0.9375rem;
+  --step-1: 1.0625rem;
+  --step-2: 1.375rem;
+  --step-3: 1.875rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0d121b; --panel: #141b27; --ink: #dfe5ee; --ink-2: #a3adbe; --ink-3: #7a8497;
+    --rule: #263042; --accent: #93a5ff; --accent-soft: #1d2648;
+    --ok: #63c996; --ok-soft: #14301f; --warn: #dcb75c; --warn-soft: #33290f; --mute-soft: #1b2230;
+    --cell: #93a5ff; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0d121b; --panel: #141b27; --ink: #dfe5ee; --ink-2: #a3adbe; --ink-3: #7a8497;
+  --rule: #263042; --accent: #93a5ff; --accent-soft: #1d2648;
+  --ok: #63c996; --ok-soft: #14301f; --warn: #dcb75c; --warn-soft: #33290f; --mute-soft: #1b2230;
+  --cell: #93a5ff; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: var(--step-0); line-height: 1.65;
+  word-break: keep-all; overflow-wrap: anywhere;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 700; line-height: 1.3; text-wrap: balance; margin: 0; }
+
+.bar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--paper); border-bottom: 1px solid var(--rule);
+}
+.wrap { max-width: 72rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.bar .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.25rem; padding-block: 0.6rem; }
+.brand { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); color: var(--ink); white-space: nowrap; }
+.brand:hover { text-decoration: none; }
+.nav { display: flex; gap: 0.25rem; }
+.nav a { padding: 0.25rem 0.6rem; border-radius: 999px; color: var(--ink-2); font-weight: 500; }
+.nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent); }
+.nav a:hover { text-decoration: none; color: var(--ink); }
+.tools { display: flex; gap: 0.5rem; align-items: center; margin-left: auto; flex: 1 1 14rem; justify-content: flex-end; min-width: 0; }
+#q {
+  flex: 1 1 10rem; min-width: 0; max-width: 20rem; font: inherit; color: var(--ink);
+  background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 0.3rem 0.6rem;
+}
+.toggle { display: inline-flex; gap: 0.35rem; align-items: center; color: var(--ink-2); font-size: var(--step--1); white-space: nowrap; cursor: pointer; }
+
+main.wrap { padding-block: 1.75rem 4rem; }
+.lead { color: var(--ink-2); max-width: 44rem; margin: 0.5rem 0 0; }
+.eyebrow { font-size: var(--step--1); letter-spacing: 0.04em; color: var(--ink-3); }
+.mono { font-family: var(--font-mono); }
+
+/* 개념 목록 */
+.cats { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 21rem), 1fr)); gap: 1.75rem 2.25rem; margin-top: 2rem; }
+.cat h2 { font-size: var(--step-1); display: flex; align-items: baseline; gap: 0.5rem; }
+.cat h2 small { font-family: var(--font-body); font-weight: 400; font-size: var(--step--1); color: var(--ink-3); }
+.cat ul { list-style: none; margin: 0.5rem 0 0; padding: 0; border-top: 1px solid var(--rule); }
+.cat li a { display: grid; grid-template-columns: 1fr auto; gap: 0.75rem; padding: 0.4rem 0; border-bottom: 1px solid var(--rule); color: var(--ink); }
+.cat li a:hover { text-decoration: none; background: var(--accent-soft); }
+.cat li.child a { padding-left: 1rem; color: var(--ink-2); }
+.cat li.child a > span:first-child::before { content: "└ "; color: var(--ink-3); }
+.cat li.empty a { color: var(--ink-3); }
+.count { font-size: var(--step--1); color: var(--ink-3); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.cat li a:hover .count { color: var(--accent); }
+
+/* 개념 쪽 */
+.crumb { font-size: var(--step--1); color: var(--ink-3); display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.head h1 { font-size: var(--step-3); margin-top: 0.35rem; }
+.head .en { font-family: var(--font-mono); color: var(--ink-3); font-size: var(--step--1); margin-top: 0.15rem; }
+.def { font-size: var(--step-1); margin: 1rem 0 0.25rem; max-width: 44rem; }
+.note { color: var(--ink-2); max-width: 44rem; margin: 0; }
+.rel { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr)); gap: 0.75rem; margin-top: 1.5rem; }
+.rel-box { border: 1px solid var(--rule); border-radius: 8px; padding: 0.75rem 1rem; background: var(--panel); min-width: 0; }
+.rel-box h3 { font-family: var(--font-body); font-size: var(--step--1); font-weight: 600; color: var(--ink-3); letter-spacing: 0.04em; margin-bottom: 0.35rem; }
+.rel-box ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.45rem; }
+.rel-box li span { display: block; color: var(--ink-2); font-size: var(--step--1); line-height: 1.5; }
+
+.section-title { font-size: var(--step-2); margin: 2.5rem 0 0.25rem; }
+.section-sub { color: var(--ink-3); font-size: var(--step--1); margin: 0 0 1rem; }
+.timeline { display: grid; gap: 0; border-left: 2px solid var(--rule); margin-left: 0.4rem; }
+.tl-item { position: relative; padding: 0 0 1.5rem 1.5rem; min-width: 0; }
+.tl-item::before { content: ""; position: absolute; left: -0.42rem; top: 0.45rem; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: var(--paper); border: 2px solid var(--accent); }
+.tl-work { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.6rem; }
+.tl-work .year { font-family: var(--font-mono); font-size: var(--step--1); color: var(--accent); font-variant-numeric: tabular-nums; }
+.tl-work a.wname { font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); color: var(--ink); }
+.media { font-size: 0.72rem; color: var(--ink-3); border: 1px solid var(--rule); border-radius: 4px; padding: 0 0.3rem; line-height: 1.5; }
+
+.terms { display: grid; gap: 0.6rem; margin-top: 0.5rem; }
+.term { background: var(--panel); border: 1px solid var(--rule); border-radius: 8px; padding: 0.75rem 1rem; min-width: 0; }
+.t-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.2rem 0.6rem; }
+.t-ko { font-weight: 600; font-size: var(--step-1); }
+.t-orig { font-family: var(--font-mono); font-size: var(--step--1); color: var(--ink-3); }
+.badge { font-size: 0.72rem; border-radius: 4px; padding: 0 0.35rem; line-height: 1.6; white-space: nowrap; cursor: help; }
+.b-src { background: var(--ok-soft); color: var(--ok); }
+.b-2nd { background: var(--warn-soft); color: var(--warn); }
+.b-ours { background: var(--mute-soft); color: var(--ink-3); }
+.kind { font-size: 0.72rem; color: var(--ink-3); }
+.t-one { margin: 0.3rem 0 0; }
+.t-note { margin: 0.3rem 0 0; color: var(--ink-2); font-size: var(--step--1); line-height: 1.6; }
+.t-one.hide, .t-note.hide, .t-ko.hide, .t-orig.hide { filter: blur(5px); cursor: pointer; user-select: none; }
+.t-one.hide:hover, .t-note.hide:hover, .t-ko.hide:hover, .t-orig.hide:hover { filter: blur(4px); }
+.spoil-tag { font-size: 0.72rem; color: var(--warn); }
+.alt { font-size: var(--step--1); color: var(--ink-3); margin: 0.3rem 0 0; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem; }
+.chip { font-size: 0.75rem; border: 1px solid var(--rule); border-radius: 999px; padding: 0.05rem 0.55rem; color: var(--ink-2); background: var(--paper); }
+.chip:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
+.chip.via { border-style: dashed; }
+
+/* 작품 목록 */
+.works { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); gap: 0.75rem; margin-top: 1.75rem; }
+.wcard { display: grid; gap: 0.3rem; align-content: start; background: var(--panel); border: 1px solid var(--rule); border-radius: 8px; padding: 0.9rem 1rem; color: var(--ink); min-width: 0; }
+.wcard:hover { text-decoration: none; border-color: var(--accent); }
+.wcard h2 { font-size: var(--step-1); }
+.wcard .meta { display: flex; flex-wrap: wrap; gap: 0.3rem 0.5rem; align-items: center; color: var(--ink-3); font-size: var(--step--1); }
+.wcard p { margin: 0; color: var(--ink-2); font-size: var(--step--1); }
+.wcard .nums { font-size: var(--step--1); color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.wcard.pending { opacity: 0.55; }
+
+/* 작품 쪽 */
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 0.25rem 1rem; margin: 1rem 0 0; font-size: var(--step--1); max-width: 44rem; }
+.facts dt { color: var(--ink-3); }
+.facts dd { margin: 0; color: var(--ink-2); }
+.kind-title { font-size: var(--step-1); margin: 2rem 0 0.5rem; display: flex; gap: 0.5rem; align-items: baseline; }
+.lore-link { display: inline-block; margin-top: 1rem; font-size: var(--step-0); border: 1px solid var(--accent); border-radius: 999px; padding: 0.3rem 0.9rem; background: var(--accent-soft); }
+.lore-link:hover { text-decoration: none; }
+.l-meta { margin: 0.25rem 0 0; font-size: 0.75rem; color: var(--ink-3); }
+.l-rev { margin: 0.35rem 0 0; font-size: var(--step--1); color: var(--ink); }
+.l-rev b { font-weight: 600; color: var(--ink-3); margin-right: 0.3rem; }
+.term.lore .t-note { font-size: var(--step-0); line-height: 1.7; }
+.term.flash { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+.kind-title small { font-family: var(--font-body); font-weight: 400; font-size: var(--step--1); color: var(--ink-3); }
+
+/* 한눈에 */
+.grid-wrap { overflow-x: auto; margin-top: 1.5rem; border: 1px solid var(--rule); border-radius: 8px; background: var(--panel); }
+table.matrix { border-collapse: separate; border-spacing: 0; font-size: var(--step--1); }
+.matrix th, .matrix td { border-bottom: 1px solid var(--rule); padding: 0; }
+.matrix thead th { position: sticky; top: 0; background: var(--panel); z-index: 2; vertical-align: bottom; }
+.matrix thead th.w { height: 8.5rem; width: 2.1rem; }
+.matrix thead th.w a { display: block; writing-mode: vertical-rl; transform: rotate(180deg); padding: 0.5rem 0.4rem; color: var(--ink-2); white-space: nowrap; margin: 0 auto; }
+.matrix thead th.w a:hover { color: var(--accent); }
+.matrix th.c { position: sticky; left: 0; background: var(--panel); z-index: 1; text-align: left; font-weight: 400; min-width: 9.5rem; max-width: 12rem; border-right: 1px solid var(--rule); }
+.matrix thead th.c { z-index: 3; }
+.matrix th.c a { display: block; padding: 0.3rem 0.6rem; color: var(--ink); line-height: 1.35; }
+.matrix tr.child th.c a { padding-left: 1.3rem; color: var(--ink-2); }
+.matrix tr.cat th { background: var(--paper); text-align: left; padding: 0.45rem 0.6rem; font-family: var(--font-display); font-weight: 700; position: sticky; left: 0; }
+.matrix td { text-align: center; width: 2.1rem; }
+.matrix td a { display: flex; align-items: center; justify-content: center; height: 1.9rem; }
+.dot { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 2px; background: var(--cell); }
+.dot.via { background: transparent; border: 1.5px solid var(--cell); }
+.matrix tr.empty th.c a { color: var(--ink-3); }
+.legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; color: var(--ink-3); font-size: var(--step--1); margin-top: 0.75rem; align-items: center; }
+.legend span { display: inline-flex; gap: 0.35rem; align-items: center; }
+
+/* 찾기 */
+.results { display: grid; gap: 0.6rem; margin-top: 1.25rem; }
+.res-concept { display: block; background: var(--panel); border: 1px solid var(--rule); border-radius: 8px; padding: 0.7rem 1rem; color: var(--ink); }
+.res-concept:hover { text-decoration: none; border-color: var(--accent); }
+.res-concept b { font-family: var(--font-display); }
+.res-concept span { display: block; color: var(--ink-2); font-size: var(--step--1); }
+.res-work { font-size: var(--step--1); color: var(--ink-3); }
+
+/* 찾은 세계 */
+.filters { display: grid; gap: 0.5rem; margin-top: 1.25rem; }
+.frow { display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+.frow > span { font-size: var(--step--1); color: var(--ink-3); min-width: 4.5rem; }
+.fchip { font: inherit; font-size: var(--step--1); border: 1px solid var(--rule); background: var(--panel); color: var(--ink-2); border-radius: 999px; padding: 0.1rem 0.65rem; cursor: pointer; }
+.fchip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.wlist { list-style: none; margin: 1rem 0 0; padding: 0; border-top: 1px solid var(--rule); }
+.wlist li { display: grid; grid-template-columns: 3.2rem 1fr; gap: 0.15rem 0.75rem; padding: 0.55rem 0; border-bottom: 1px solid var(--rule); }
+.wlist .wy { font-family: var(--font-mono); font-size: var(--step--1); color: var(--ink-3); font-variant-numeric: tabular-nums; padding-top: 0.1rem; }
+.wlist .wb { min-width: 0; }
+.wlist .wt { display: flex; flex-wrap: wrap; gap: 0.2rem 0.5rem; align-items: baseline; }
+.wlist .wt b { font-weight: 600; }
+.wlist .wo { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-3); }
+.wlist p { margin: 0.15rem 0 0; font-size: var(--step--1); color: var(--ink-2); }
+.kb { font-size: 0.72rem; border-radius: 4px; padding: 0 0.35rem; line-height: 1.6; white-space: nowrap; background: var(--mute-soft); color: var(--ink-3); }
+.kb.k-yes { background: var(--ok-soft); color: var(--ok); }
+.kb.k-part { background: var(--warn-soft); color: var(--warn); }
+.more { font: inherit; margin-top: 0.75rem; border: 1px solid var(--rule); background: var(--panel); color: var(--accent); border-radius: 6px; padding: 0.35rem 0.9rem; cursor: pointer; }
+details.others { margin-top: 2rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+details.others summary { cursor: pointer; font-family: var(--font-display); font-weight: 700; font-size: var(--step-1); }
+details.others summary small { font-family: var(--font-body); font-weight: 400; font-size: var(--step--1); color: var(--ink-3); }
+
+footer { color: var(--ink-3); font-size: var(--step--1); border-top: 1px solid var(--rule); }
+footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
+.empty-note { color: var(--ink-3); margin-top: 1rem; }
+
+@media (max-width: 640px) {
+  .head h1 { font-size: var(--step-2); }
+  .tools { flex-basis: 100%; justify-content: stretch; }
+  #q { max-width: none; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="brand" href="#concepts">SF 개념 사전</a>
+    <nav class="nav" aria-label="차림표">
+      <a href="#concepts" data-nav="concepts">개념</a>
+      <a href="#works" data-nav="works">작품</a>
+      <a href="#grid" data-nav="grid">한눈에</a>
+      <a href="#worlds" data-nav="worlds">찾은 세계</a>
+    </nav>
+    <div class="tools">
+      <input id="q" type="search" placeholder="개념·용어 찾기 (한글·원어)" autocomplete="off" aria-label="찾기">
+      <label class="toggle" for="spoil"><input id="spoil" type="checkbox"> 줄거리 누설 보기</label>
+    </div>
+  </div>
+</header>
+<main class="wrap" id="view"></main>
+<footer><div class="wrap" id="foot"></div></footer>
+
+<script id="data" type="application/json">/*DATA*/</script>
+<script>
+(function () {
+  "use strict";
+  var D = JSON.parse(document.getElementById("data").textContent);
+  var C = new Map(), W = new Map(), CAT = new Map();
+  D.categories.forEach(function (c) { CAT.set(c.id, c); });
+  D.concepts.forEach(function (c) { C.set(c.id, c); });
+  D.works.forEach(function (w) { W.set(w.id, w); });
+
+  // 아래 개념
+  var KIDS = new Map();
+  D.concepts.forEach(function (c) {
+    if (c.parent) { if (!KIDS.has(c.parent)) KIDS.set(c.parent, []); KIDS.get(c.parent).push(c.id); }
+  });
+  function descendants(id) {
+    var out = [id], i = 0;
+    for (i = 0; i < out.length; i++) { (KIDS.get(out[i]) || []).forEach(function (k) { out.push(k); }); }
+    return out;
+  }
+  // 비슷한 개념은 한쪽에만 적혀 있으니 양쪽으로 편다
+  var SIM = new Map();
+  D.concepts.forEach(function (c) {
+    (c.similar || []).forEach(function (s) {
+      if (!SIM.has(c.id)) SIM.set(c.id, []);
+      if (!SIM.has(s.id)) SIM.set(s.id, []);
+      SIM.get(c.id).push({ id: s.id, how: s.how });
+      SIM.get(s.id).push({ id: c.id, how: s.how });
+    });
+  });
+  // 개념 → 용어 (직접 단 것)
+  var BYC = new Map();
+  D.terms.forEach(function (t) {
+    (t.concepts || []).forEach(function (cid) {
+      if (!BYC.has(cid)) BYC.set(cid, []);
+      BYC.get(cid).push(t);
+    });
+  });
+  var TBYW = new Map();
+  D.terms.forEach(function (t) { if (!TBYW.has(t.work)) TBYW.set(t.work, []); TBYW.get(t.work).push(t); });
+  // 로어 조각 — 작품이 이야기로 들려주는 것(불가사의 글, 유물·유적, 사건 이야기 …)
+  var LORE = D.lore || [], LBYW = new Map(), LBYT = new Map(), LBYC = new Map();
+  LORE.forEach(function (x) {
+    if (!LBYW.has(x.work)) LBYW.set(x.work, []); LBYW.get(x.work).push(x);
+    (x.terms || []).forEach(function (t) { var k = x.work + "/" + t; if (!LBYT.has(k)) LBYT.set(k, []); LBYT.get(k).push(x); });
+    (x.concepts || []).forEach(function (c) { if (!LBYC.has(c)) LBYC.set(c, []); LBYC.get(c).push(x); });
+  });
+  var WORKS = D.works.slice().sort(function (a, b) { return a.year - b.year || a.ko.localeCompare(b.ko, "ko"); });
+
+  function termsUnder(cid) {
+    var out = [];
+    descendants(cid).forEach(function (d) { (BYC.get(d) || []).forEach(function (t) { out.push({ t: t, via: d === cid ? null : d }); }); });
+    return out;
+  }
+  function worksUnder(cid) {
+    var s = new Set();
+    termsUnder(cid).forEach(function (x) { s.add(x.t.work); });
+    return s;
+  }
+
+  var spoil = false;
+  try { spoil = localStorage.getItem("sf-spoil") === "1"; } catch (e) {}
+  var spoilBox = document.getElementById("spoil");
+  spoilBox.checked = spoil;
+  spoilBox.addEventListener("change", function () {
+    spoil = spoilBox.checked;
+    try { localStorage.setItem("sf-spoil", spoil ? "1" : "0"); } catch (e) {}
+    render();
+  });
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (ch) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch];
+    });
+  }
+  function cLink(id, cls) {
+    var c = C.get(id);
+    return '<a class="' + (cls || "") + '" href="#c-' + esc(id) + '">' + esc(c ? c.ko : id) + "</a>";
+  }
+  function badge(t) {
+    // 줄거리 누설 용어는 근거 글에도 누설이 섞일 수 있어, 누설 보기를 켰을 때만 근거를 보인다
+    var src = t.ko_src && (!t.spoiler || spoil) ? " · " + t.ko_src : "";
+    if (t.ko_status === "공식" && t.ko_check === "원자료") return '<span class="badge b-src" title="정식 한국어판에서 직접 확인' + esc(src) + '">공식</span>';
+    if (t.ko_status === "공식") return '<span class="badge b-2nd" title="정식판 표기라고 전하는 자료로 확인' + esc(src) + '">공식 · 2차 자료</span>';
+    return '<span class="badge b-ours" title="정식 한국어 표기를 찾지 못해 우리가 적은 표기' + esc(src) + '">우리 표기</span>';
+  }
+  function termCard(t, opts) {
+    opts = opts || {};
+    var h = '<article class="term" id="t-' + esc(t.work + "-" + t.id) + '">';
+    // 개념 화면에서는 누설 용어의 이름만으로도 '이 작품의 무엇이 이 개념이다'가 드러나므로 이름까지 가린다
+    var hideName = opts.hideName && t.spoiler && !spoil ? ' hide" title="눌러서 보기' : "";
+    h += '<div class="t-head"><span class="t-ko' + hideName + '">' + esc(t.ko) + '</span><span class="t-orig' + hideName + '">' + esc(t.orig) + "</span>" + badge(t);
+    if (!opts.noKind) h += '<span class="kind">' + esc(t.kind) + "</span>";
+    if (t.spoiler) h += '<span class="spoil-tag">줄거리 누설</span>';
+    h += "</div>";
+    // 누설 용어는 한 줄 소개만으로도 반전이 드러나는 일이 많아(삼체의 지자 등) 한 줄과 설명을 함께 가린다
+    var hide = t.spoiler && !spoil ? ' hide" title="눌러서 보기' : "";
+    h += '<p class="t-one' + hide + '">' + esc(t.one) + "</p>";
+    if (t.note) h += '<p class="t-note' + hide + '">' + esc(t.note) + "</p>";
+    if (t.alt_ko && t.alt_ko.length) {
+      h += '<p class="alt">다른 공식 표기: ' + t.alt_ko.map(function (a) { return esc(a.ko) + " (" + esc(a.src) + ")"; }).join(" · ") + "</p>";
+    }
+    var chips = [];
+    if (opts.via) chips.push('<a class="chip via" href="#c-' + esc(opts.via) + '" title="이 아래 개념으로 이어짐">' + esc(C.get(opts.via).ko) + "</a>");
+    if (opts.showConcepts) (t.concepts || []).forEach(function (cid) { chips.push('<a class="chip" href="#c-' + esc(cid) + '">' + esc(C.get(cid).ko) + "</a>"); });
+    (LBYT.get(t.work + "/" + t.id) || []).forEach(function (x) {
+      var nm = x.spoiler && !spoil ? "로어 조각(누설)" : x.ko;
+      chips.push('<a class="chip via" href="#l-' + esc(x.work) + "/" + esc(x.id) + '" title="이 용어가 나오는 로어 조각">로어 · ' + esc(nm) + "</a>");
+    });
+    if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
+    return h + "</article>";
+  }
+  function loreCard(x, opts) {
+    opts = opts || {};
+    var h = '<article class="term lore" id="lore-' + esc(x.work + "-" + x.id) + '">';
+    var hideName = opts.hideName && x.spoiler && !spoil ? ' hide" title="눌러서 보기' : "";
+    h += '<div class="t-head"><span class="t-ko' + hideName + '">' + esc(x.ko) + '</span><span class="t-orig' + hideName + '">' + esc(x.orig) + "</span>" + badge(x);
+    if (!opts.noKind) h += '<span class="kind">' + esc(x.kind) + "</span>";
+    if (x.spoiler) h += '<span class="spoil-tag">줄거리 누설</span>';
+    h += "</div>";
+    h += '<p class="l-meta">' + esc(x.where) + (x.speaker ? " · 말하는 이: " + esc(x.speaker) : "") + "</p>";
+    var hide = x.spoiler && !spoil ? ' hide" title="눌러서 보기' : "";
+    h += '<p class="t-note' + hide + '">' + esc(x.summary) + "</p>";
+    if (x.reveals) h += '<p class="l-rev t-one' + hide + '"><b>알게 되는 것</b>' + esc(x.reveals) + "</p>";
+    var chips = [];
+    var tmap = new Map((TBYW.get(x.work) || []).map(function (t) { return [t.id, t]; }));
+    (x.terms || []).forEach(function (tid) { var t = tmap.get(tid); if (t) chips.push('<a class="chip" href="#w-' + esc(x.work) + '" title="이 작품 용어">' + esc(t.ko) + "</a>"); });
+    (x.concepts || []).forEach(function (cid) { if (C.get(cid)) chips.push('<a class="chip via" href="#c-' + esc(cid) + '" title="개념">' + esc(C.get(cid).ko) + "</a>"); });
+    if (opts.showWork && W.get(x.work)) chips.unshift('<a class="chip" href="#l-' + esc(x.work) + '">' + esc(W.get(x.work).ko) + " 로어</a>");
+    if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
+    return h + "</article>";
+  }
+  var LORE_ORDER = ["불가사의", "유물", "유적", "사건", "기록", "인용", "전설", "결말", "소개"];
+  function viewLore(arg) {
+    var id = arg.split("/")[0];
+    var w = W.get(id);
+    if (!w) return '<p class="empty-note">그런 작품이 없습니다. <a href="#works">작품 목록으로</a></p>';
+    var xs = LBYW.get(id) || [];
+    var h = '<div class="head"><div class="crumb"><a href="#works">작품</a><span>›</span><a href="#w-' + esc(id) + '">' + esc(w.ko) + "</a></div><h1>" + esc(w.ko) + " — 로어</h1>";
+    h += '<p class="lead">작품이 이야기로 들려주는 조각들입니다(불가사의를 지으면 뜨는 글, 유물·유적의 사연, 사건 이야기, 기록). 원문은 옮기지 않고, 무슨 이야기인지만 이 사전이 새로 썼습니다.</p></div>';
+    if (!xs.length) return h + '<p class="empty-note">이 작품의 로어 조각은 아직 모으는 중입니다.</p>';
+    var kinds = LORE_ORDER.concat(xs.map(function (x) { return x.kind; }).filter(function (k, i, a) { return LORE_ORDER.indexOf(k) < 0 && a.indexOf(k) === i; }));
+    kinds.forEach(function (k) {
+      var ys = xs.filter(function (x) { return x.kind === k; });
+      if (!ys.length) return;
+      h += '<h2 class="kind-title">' + esc(k) + "<small>" + ys.length + "</small></h2>";
+      h += '<div class="terms">' + ys.map(function (x) { return loreCard(x, { noKind: true }); }).join("") + "</div>";
+    });
+    return h;
+  }
+  function mediaTags(w) { return (w.media || []).map(function (m) { return '<span class="media">' + esc(m) + "</span>"; }).join(""); }
+
+  // ── 화면들 ──
+  function viewConcepts() {
+    var nT = D.terms.length, nW = new Set(D.terms.map(function (t) { return t.work; })).size;
+    var h = '<div class="head"><p class="eyebrow">작품을 가로지르는 개념 ' + D.concepts.length + "개 · 작품 " + nW + "편의 용어 " + nT + "개" + (LORE.length ? " · 로어 조각 " + LORE.length + "개" : "") + " · 찾은 세계 " + CANDS.length + "곳</p>";
+    h += "<h1>SF 개념 사전</h1>";
+    h += '<p class="lead">개념 하나를 열면, 작품마다 그것을 무엇이라 부르고 어떻게 다루는지 나온 해 순서로 나란히 보입니다. 같은 생각에 이름만 다른 것은 한 개념 아래로 묶고, 닮았지만 다른 것은 서로 이어 어떻게 다른지 적었습니다.</p></div>';
+    h += '<div class="cats">';
+    D.categories.forEach(function (cat) {
+      var list = D.concepts.filter(function (c) { return c.cat === cat.id; });
+      h += '<section class="cat"><h2>' + esc(cat.ko) + "<small>" + esc(cat.one) + "</small></h2><ul>";
+      var top = list.filter(function (c) { return !c.parent || C.get(c.parent).cat !== cat.id; });
+      function row(c, child) {
+        var n = worksUnder(c.id).size, m = candsUnder(c.id).length;
+        var cnt = (n ? n + "작품" : "—") + (m ? " · 후보 " + m : "");
+        h += '<li class="' + (child ? "child " : "") + (n ? "" : "empty") + '"><a href="#c-' + esc(c.id) + '"><span>' + esc(c.ko) + '</span><span class="count">' + cnt + "</span></a></li>";
+        (KIDS.get(c.id) || []).forEach(function (k) { row(C.get(k), true); });
+      }
+      top.forEach(function (c) { row(c, false); });
+      h += "</ul></section>";
+    });
+    return h + "</div>";
+  }
+
+  function viewConcept(id) {
+    var c = C.get(id);
+    if (!c) return '<p class="empty-note">그런 개념이 없습니다. <a href="#concepts">개념 목록으로</a></p>';
+    var cat = CAT.get(c.cat);
+    var h = '<div class="head"><div class="crumb"><a href="#concepts">개념</a><span>›</span><span>' + esc(cat.ko) + "</span>";
+    var chain = [], p = c.parent;
+    while (p) { chain.unshift(p); p = C.get(p).parent; }
+    chain.forEach(function (pid) { h += "<span>›</span>" + cLink(pid); });
+    h += "</div><h1>" + esc(c.ko) + '</h1><p class="en">' + esc(c.en) + "</p></div>";
+    h += '<p class="def">' + esc(c.one) + '</p><p class="note">' + esc(c.note) + "</p>";
+
+    var boxes = "";
+    var kids = KIDS.get(id) || [];
+    if (kids.length) {
+      boxes += '<div class="rel-box"><h3>이 아래 개념</h3><ul>' + kids.map(function (k) { return "<li>" + cLink(k) + "<span>" + esc(C.get(k).one) + "</span></li>"; }).join("") + "</ul></div>";
+    }
+    var sims = SIM.get(id) || [];
+    if (sims.length) {
+      boxes += '<div class="rel-box"><h3>비슷한 개념과 다른 점</h3><ul>' + sims.map(function (s) { return "<li>" + cLink(s.id) + "<span>" + esc(s.how) + "</span></li>"; }).join("") + "</ul></div>";
+    }
+    if (boxes) h += '<div class="rel">' + boxes + "</div>";
+
+    var items = termsUnder(id);
+    var byW = new Map();
+    items.forEach(function (x) { if (!byW.has(x.t.work)) byW.set(x.t.work, []); byW.get(x.t.work).push(x); });
+    var lds = new Set(descendants(id)), lx = [];
+    lds.forEach(function (c) { (LBYC.get(c) || []).forEach(function (x) { if (lx.indexOf(x) < 0) lx.push(x); }); });
+    var loreHtml = lx.length ? '<details class="others"><summary>이 개념이 나오는 로어 조각 <small>' + lx.length + "개 · 작품이 이야기로 들려주는 것</small></summary>" +
+      '<div class="terms">' + lx.map(function (x) { return loreCard(x, { showWork: true, hideName: true }); }).join("") + "</div></details>" : "";
+    var others = candsUnder(id);
+    var othersHtml = "";
+    if (others.length) {
+      othersHtml = '<details class="others"><summary>이 개념을 쓰는 다른 세계 <small>' + others.length + "곳 · 용어 조사 전, 후보 조사에서 붙인 표시</small></summary>" +
+        '<ul class="wlist">' + others.map(candRow).join("") + "</ul></details>";
+    }
+    h += '<h2 class="section-title">작품마다</h2>';
+    if (!items.length) {
+      h += '<p class="section-sub">아직 이 개념에 이어진 작품 용어가 없습니다.</p>';
+      return h + loreHtml + othersHtml;
+    }
+    h += '<p class="section-sub">' + byW.size + "작품 · 나온 해 순서" + (kids.length ? " · 점선 딱지는 아래 개념으로 이어진 것" : "") + "</p>";
+    h += '<div class="timeline">';
+    WORKS.forEach(function (w) {
+      var xs = byW.get(w.id);
+      if (!xs) return;
+      h += '<section class="tl-item"><div class="tl-work"><span class="year">' + esc(w.year) + '</span><a class="wname" href="#w-' + esc(w.id) + '">' + esc(w.ko) + "</a>" + mediaTags(w) + "</div>";
+      h += '<div class="terms">' + xs.map(function (x) { return termCard(x.t, { via: x.via, hideName: true }); }).join("") + "</div></section>";
+    });
+    return h + "</div>" + loreHtml + othersHtml;
+  }
+
+  function viewWorks() {
+    var h = '<div class="head"><p class="eyebrow">작품 ' + D.works.length + "편 · 나온 해 순서</p><h1>작품</h1>";
+    h += '<p class="lead">작품마다 세계를 이해하는 데 꼭 필요한 용어만 골랐습니다. 인물은 넣지 않았습니다.</p></div><div class="works">';
+    WORKS.forEach(function (w) {
+      var ts = TBYW.get(w.id) || [];
+      var cs = new Set(); ts.forEach(function (t) { (t.concepts || []).forEach(function (c) { cs.add(c); }); });
+      h += '<a class="wcard' + (ts.length ? "" : " pending") + '" href="#w-' + esc(w.id) + '"><div class="meta"><span class="mono">' + esc(w.year) + "</span>" + mediaTags(w) + "</div>";
+      h += "<h2>" + esc(w.ko) + '</h2><p>' + esc(w.one) + '</p><span class="nums">' + (ts.length ? "용어 " + ts.length + " · 개념 " + cs.size + ((LBYW.get(w.id) || []).length ? " · 로어 " + LBYW.get(w.id).length : "") : "조사 중") + "</span></a>";
+    });
+    return h + "</div>";
+  }
+
+  var KIND_ORDER = ["세력", "종족·생물", "존재", "장소", "기술·물건", "현상·힘", "제도·직위", "사건·시대"];
+  function viewWork(id) {
+    var w = W.get(id);
+    if (!w) return '<p class="empty-note">그런 작품이 없습니다. <a href="#works">작품 목록으로</a></p>';
+    var ts = TBYW.get(id) || [];
+    var h = '<div class="head"><div class="crumb"><a href="#works">작품</a></div><h1>' + esc(w.ko) + '</h1><p class="en">' + esc(w.orig) + "</p></div>";
+    h += '<p class="def">' + esc(w.one) + "</p>";
+    h += '<dl class="facts"><dt>만든 이</dt><dd>' + esc(w.by) + "</dd><dt>처음 나온 해</dt><dd>" + esc(w.year) + "</dd><dt>매체</dt><dd>" + esc((w.media || []).join(" · ")) + "</dd><dt>기준</dt><dd>" + esc(w.scope) + "</dd>";
+    if (w.ko_sources && w.ko_sources.length) h += "<dt>한글 표기</dt><dd>" + w.ko_sources.map(function (s) { return esc(typeof s === "string" ? s : (s.name || "") + (s.note ? " — " + s.note : "")); }).join("<br>") + "</dd>";
+    var n = { src: 0, snd: 0, ours: 0 };
+    ts.forEach(function (t) { if (t.ko_status === "공식" && t.ko_check === "원자료") n.src++; else if (t.ko_status === "공식") n.snd++; else n.ours++; });
+    if (ts.length) h += "<dt>표기 확인</dt><dd>공식(정식판에서 직접) " + n.src + " · 공식(2차 자료) " + n.snd + " · 우리 표기 " + n.ours + "</dd>";
+    h += "</dl>";
+    if (!ts.length) return h + '<p class="empty-note">이 작품은 아직 조사 중입니다.</p>';
+    var nl = (LBYW.get(id) || []).length;
+    if (nl) h += '<a class="lore-link" href="#l-' + esc(id) + '">이 작품이 들려주는 이야기 — 로어 조각 ' + nl + "개 보기</a>";
+    KIND_ORDER.forEach(function (k) {
+      var xs = ts.filter(function (t) { return t.kind === k; });
+      if (!xs.length) return;
+      h += '<h2 class="kind-title">' + esc(k) + "<small>" + xs.length + "</small></h2>";
+      h += '<div class="terms">' + xs.map(function (t) { return termCard(t, { noKind: true, showConcepts: true }); }).join("") + "</div>";
+    });
+    return h;
+  }
+
+  function viewGrid() {
+    var ws = WORKS.filter(function (w) { return (TBYW.get(w.id) || []).length; });
+    var h = '<div class="head"><p class="eyebrow">개념 ' + D.concepts.length + " × 작품 " + ws.length + "</p><h1>한눈에</h1>";
+    h += '<p class="lead">어느 작품이 어느 개념을 쓰는지 표로 봅니다. 작품은 나온 해 순서입니다. 칸을 누르면 그 개념 쪽으로 갑니다.</p></div>';
+    h += '<div class="legend"><span><i class="dot"></i> 그 개념에 바로 이어진 용어가 있음</span><span><i class="dot via"></i> 아래 개념으로만 이어짐</span></div>';
+    h += '<div class="grid-wrap"><table class="matrix"><thead><tr><th class="c"></th>';
+    ws.forEach(function (w) { h += '<th class="w" scope="col"><a href="#w-' + esc(w.id) + '" title="' + esc(w.ko + " (" + w.year + ")") + '">' + esc(w.short || w.ko) + "</a></th>"; });
+    h += "</tr></thead><tbody>";
+    D.categories.forEach(function (cat) {
+      h += '<tr class="cat"><th colspan="' + (ws.length + 1) + '">' + esc(cat.ko) + "</th></tr>";
+      var top = D.concepts.filter(function (c) { return c.cat === cat.id && (!c.parent || C.get(c.parent).cat !== cat.id); });
+      function row(c, child) {
+        var any = worksUnder(c.id).size > 0;
+        h += '<tr class="' + (child ? "child " : "") + (any ? "" : "empty") + '"><th class="c" scope="row"><a href="#c-' + esc(c.id) + '">' + esc(c.ko) + "</a></th>";
+        ws.forEach(function (w) {
+          var direct = (BYC.get(c.id) || []).filter(function (t) { return t.work === w.id; });
+          var under = termsUnder(c.id).filter(function (x) { return x.t.work === w.id; });
+          if (direct.length) h += '<td><a href="#c-' + esc(c.id) + '" title="' + esc(w.ko + ": " + direct.map(function (t) { return t.ko; }).join(", ")) + '"><i class="dot"></i></a></td>';
+          else if (under.length) h += '<td><a href="#c-' + esc(c.id) + '" title="' + esc(w.ko + ": " + under.map(function (x) { return x.t.ko; }).join(", ")) + '"><i class="dot via"></i></a></td>';
+          else h += "<td></td>";
+        });
+        h += "</tr>";
+        (KIDS.get(c.id) || []).forEach(function (k) { row(C.get(k), true); });
+      }
+      top.forEach(function (c) { row(c, false); });
+    });
+    return h + "</tbody></table></div>";
+  }
+
+  function norm(s) { return String(s || "").toLowerCase().replace(/\s+/g, ""); }
+  function viewSearch(q) {
+    var nq = norm(q);
+    var h = '<div class="head"><p class="eyebrow">찾기</p><h1>「' + esc(q) + "」</h1></div>";
+    if (!nq) return h;
+    var cs = D.concepts.filter(function (c) { return [c.ko, c.en, c.one].some(function (s) { return norm(s).indexOf(nq) >= 0; }); });
+    var ts = D.terms.filter(function (t) {
+      var hay = [t.ko, t.orig, t.orig_en, t.one].concat((t.alt_ko || []).map(function (a) { return a.ko; }));
+      return hay.some(function (s) { return norm(s).indexOf(nq) >= 0; });
+    });
+    var ws = CANDS.filter(function (c) { return !c.r && [c.t, c.o].some(function (x) { return norm(x).indexOf(nq) >= 0; }); });
+    var ls = LORE.filter(function (x) { return [x.ko, x.orig, x.speaker].some(function (s) { return norm(s).indexOf(nq) >= 0; }); });
+    h += '<p class="section-sub">개념 ' + cs.length + " · 용어 " + ts.length + " · 로어 " + ls.length + " · 찾은 세계 " + ws.length + "</p>";
+    if (cs.length) {
+      h += '<div class="results">' + cs.map(function (c) { return '<a class="res-concept" href="#c-' + esc(c.id) + '"><b>' + esc(c.ko) + '</b> <span class="mono">' + esc(c.en) + "</span><span>" + esc(c.one) + "</span></a>"; }).join("") + "</div>";
+    }
+    if (ts.length) {
+      h += '<div class="results">' + ts.slice(0, 200).map(function (t) {
+        return '<div><div class="res-work"><a href="#w-' + esc(t.work) + '">' + esc(W.get(t.work) ? W.get(t.work).ko : t.work) + "</a></div>" + termCard(t, { showConcepts: true }) + "</div>";
+      }).join("") + "</div>";
+    }
+    if (ls.length) h += '<h2 class="section-title">로어 조각</h2><div class="terms">' + ls.slice(0, 100).map(function (x) { return loreCard(x, { showWork: true }); }).join("") + "</div>";
+    if (ws.length) h += '<h2 class="section-title">찾은 세계 <small class="kind">용어 조사 전</small></h2><ul class="wlist">' + ws.slice(0, 100).map(candRow).join("") + "</ul>";
+    if (!cs.length && !ts.length && !ws.length && !ls.length) h += '<p class="empty-note">맞는 것이 없습니다. 원어(영어·일본어)로도 찾아 보세요.</p>';
+    return h;
+  }
+
+  // ── 찾은 세계(용어 조사 전) ──
+  var CANDS = (D.cands || []).slice().sort(function (a, b) { return (a.y || 9999) - (b.y || 9999) || String(a.t).localeCompare(String(b.t), "ko"); });
+  function kBadge(k) {
+    var cls = (k === "있음" || k === "한국 원작") ? " k-yes" : (k === "일부" ? " k-part" : "");
+    return '<span class="kb' + cls + '" title="정식 한국어판(번역·국내 개봉·정식 방영·게임 한국어 지원)">' + esc(k === "있음" ? "한국어판 있음" : k === "일부" ? "한국어판 일부" : k === "없음" ? "한국어판 없음" : k) + "</span>";
+  }
+  function candRow(c) {
+    var t = '<li><span class="wy">' + esc(c.y || "?") + '</span><div class="wb"><div class="wt">' + (c.r ? '<a href="#w-' + esc(c.id) + '"><b>' + esc(c.t) + "</b></a>" : "<b>" + esc(c.t) + "</b>");
+    if (c.o && c.o !== c.t) t += '<span class="wo">' + esc(c.o) + "</span>";
+    t += mediaTags({ media: c.m }) + kBadge(c.k);
+    if (c.r) t += '<a class="kb k-yes" href="#w-' + esc(c.id) + '" title="용어를 조사한 작품 — 눌러서 작품 쪽으로">용어 조사함</a>';
+    if (c.b) t += '<span class="kind" title="판타지·공포·슈퍼히어로가 바탕이거나 SF 비중이 작음">경계</span>';
+    t += "</div><p>" + esc(c.s) + (c.by ? ' <span class="kind">· ' + esc(c.by) + "</span>" : "") + "</p></div></li>";
+    return t;
+  }
+  function candsUnder(cid) {
+    var ds = new Set(descendants(cid));
+    return CANDS.filter(function (c) { return !c.r && c.cs.some(function (x) { return ds.has(x); }); });
+  }
+
+  var WF = { media: "", korean: "", border: true, shown: 200 };
+  var MEDIA_ALL = ["소설", "영화", "드라마", "애니메이션", "만화", "게임", "탁상 게임"];
+  var KOREAN_ALL = [["", "전부"], ["yes", "있음·한국 원작"], ["일부", "일부"], ["없음", "없음"], ["확인 못 함", "확인 못 함"]];
+  function viewWorlds() {
+    var list = CANDS.filter(function (c) {
+      if (WF.media && c.m.indexOf(WF.media) < 0) return false;
+      if (WF.korean === "yes" && !(c.k === "있음" || c.k === "한국 원작")) return false;
+      if (WF.korean && WF.korean !== "yes" && c.k !== WF.korean) return false;
+      if (!WF.border && c.b) return false;
+      return true;
+    });
+    var nr = CANDS.filter(function (c) { return c.r; }).length;
+    var h = '<div class="head"><p class="eyebrow">' + CANDS.length + "곳 · 그중 용어를 조사한 곳 " + nr + "</p><h1>찾은 세계</h1>";
+    h += '<p class="lead">지금까지 만들어진 SF 작품을 매체를 가리지 않고 모두 찾아 모으는 중입니다. 같은 세계(소설과 그 영화, 같은 시리즈)는 하나로 묶었습니다. 세계관 한 줄은 찾은 조사가 쓴 것이라 아직 검증 전입니다. \'용어 조사함\'을 누르면 그 작품 쪽으로 갑니다.</p></div>';
+    h += '<div class="filters"><div class="frow"><span>매체</span>';
+    h += '<button type="button" class="fchip" data-wf="media" data-v="" aria-pressed="' + (WF.media === "") + '">전부</button>';
+    MEDIA_ALL.forEach(function (m) { h += '<button type="button" class="fchip" data-wf="media" data-v="' + esc(m) + '" aria-pressed="' + (WF.media === m) + '">' + esc(m) + "</button>"; });
+    h += '</div><div class="frow"><span>한국어판</span>';
+    KOREAN_ALL.forEach(function (k) { h += '<button type="button" class="fchip" data-wf="korean" data-v="' + esc(k[0]) + '" aria-pressed="' + (WF.korean === k[0]) + '">' + esc(k[1]) + "</button>"; });
+    h += '</div><div class="frow"><span>경계</span><button type="button" class="fchip" data-wf="border" aria-pressed="' + WF.border + '">경계에 있는 것도 보기</button></div></div>';
+    h += '<p class="section-sub" style="margin-top:1rem">' + list.length + "곳 · 처음 나온 해 순서</p>";
+    h += '<ul class="wlist">' + list.slice(0, WF.shown).map(candRow).join("") + "</ul>";
+    if (list.length > WF.shown) h += '<button type="button" class="more" data-wf="more">더 보기 (' + (list.length - WF.shown) + "곳 남음)</button>";
+    return h;
+  }
+
+  // ── 길잡이 ──
+  var qBox = document.getElementById("q");
+  var query = "";
+  qBox.addEventListener("input", function () {
+    query = qBox.value.trim();
+    if (query) { if (location.hash !== "#search") history.replaceState(null, "", "#search"); render(); }
+    else { location.hash = "#concepts"; }
+  });
+
+  var view = document.getElementById("view");
+  view.addEventListener("click", function (e) {
+    var n = e.target.closest(".t-one.hide, .t-note.hide, .t-ko.hide, .t-orig.hide");
+    if (n) {
+      // 한 용어 안의 한 줄과 설명을 함께 연다
+      n.closest(".term").querySelectorAll(".hide").forEach(function (x) { x.classList.remove("hide"); x.removeAttribute("title"); });
+    }
+    var f = e.target.closest("[data-wf]");
+    if (f) {
+      var k = f.getAttribute("data-wf");
+      if (k === "more") WF.shown += 200;
+      else if (k === "border") { WF.border = !WF.border; WF.shown = 200; }
+      else { WF[k] = f.getAttribute("data-v"); WF.shown = 200; }
+      var y = window.scrollY;
+      render();
+      window.scrollTo(0, y);
+    }
+  });
+
+  function render() {
+    var hsh = (location.hash || "#concepts").slice(1);
+    var nav = "concepts", html;
+    if (hsh === "search") { html = viewSearch(query); nav = ""; }
+    else if (hsh.indexOf("c-") === 0) { html = viewConcept(hsh.slice(2)); }
+    else if (hsh === "works") { html = viewWorks(); nav = "works"; }
+    else if (hsh.indexOf("w-") === 0) { html = viewWork(hsh.slice(2)); nav = "works"; }
+    else if (hsh.indexOf("l-") === 0) { html = viewLore(decodeURIComponent(hsh.slice(2))); nav = "works"; }
+    else if (hsh === "grid") { html = viewGrid(); nav = "grid"; }
+    else if (hsh === "worlds") { html = viewWorlds(); nav = "worlds"; }
+    else { html = viewConcepts(); }
+    view.innerHTML = html;
+    // #l-<작품>/<조각> 이면 그 조각으로 내려가 잠깐 표시한다
+    if (hsh.indexOf("l-") === 0 && hsh.indexOf("/") > 0) {
+      var tgt = document.getElementById("lore-" + decodeURIComponent(hsh.slice(2)).replace("/", "-"));
+      if (tgt) { setTimeout(function () { tgt.scrollIntoView({ block: "center" }); tgt.classList.add("flash"); }, 0); }
+    }
+    document.querySelectorAll("[data-nav]").forEach(function (a) {
+      if (a.getAttribute("data-nav") === nav) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
+    });
+  }
+  var lastHash = location.hash;
+  window.addEventListener("hashchange", function () {
+    if (location.hash !== "#search") { query = ""; qBox.value = ""; }
+    render();
+    if (location.hash !== lastHash && !(location.hash.indexOf("#l-") === 0 && location.hash.indexOf("/") > 0)) window.scrollTo(0, 0);
+    lastHash = location.hash;
+  });
+
+  var n = { src: 0, snd: 0, ours: 0 };
+  D.terms.forEach(function (t) { if (t.ko_status === "공식" && t.ko_check === "원자료") n.src++; else if (t.ko_status === "공식") n.snd++; else n.ours++; });
+  document.getElementById("foot").innerHTML =
+    "<span>한글 표기: 공식(정식 한국어판에서 직접 확인) " + n.src + " · 공식(정식판 표기라고 전하는 자료로 확인) " + n.snd + " · 우리 표기(정식 표기를 찾지 못함) " + n.ours + "</span>" +
+    "<span>설명은 모두 이 사전이 직접 쓴 글입니다. 작품의 원문이나 위키 문장을 옮기지 않았습니다.</span>" +
+    "<span>자료를 묶은 날 " + esc(D.built) + "</span>";
+  render();
+})();
+</script>

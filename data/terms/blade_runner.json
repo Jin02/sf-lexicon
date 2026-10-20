@@ -1,0 +1,636 @@
+{
+  "terms": [
+    {
+      "id": "replicant",
+      "ko": "리플리컨트",
+      "orig": "replicant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "KOBIS 『블레이드 러너 2049』(코드 20168282) 시놉시스 '인간과 리플리컨트가 혼재된 2049년', 쿠팡플레이 『블레이드 러너 2049』 작품 소개 '복제 인간이라 불리는 리플리컨트', 왓챠 『블레이드 러너 2049』 작품 소개, 소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 줄거리 '인간과 복제인간 '리플리컨트''. 1982년 작도 워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리에 '복제 인간 리플리컨트'",
+      "alt_ko": [
+        {
+          "ko": "복제인간",
+          "src": "KOBIS 『블레이드 러너: 파이널 컷』(코드 20081377) 시놉시스 '복제인간 ‘로이’를 포함한 ‘넥서스 6’', 쿠팡플레이 『블레이드 러너』 작품 소개 '6명의 복제인간 넥서스 6' — 1982년 작의 지금 소개문들은 이 낱말로만 부른다"
+        },
+        {
+          "ko": "레플리칸트",
+          "src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』(폴 M. 새먼 지음, 오세원·김정대 옮김) 출판사 목차 17장 '감독판'의 한 꼭지 제목"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "android",
+        "genetic_eng"
+      ],
+      "one": "유전자를 설계해 사람과 똑같이 지은 인조인간.",
+      "note": "타이렐사가 처음 만들어, 바깥 행성의 위험한 노동과 전쟁에 노예처럼 부렸다. 겉모습으로는 사람과 가려낼 수 없어 감정 반응을 재는 검사로 찾아낸다. 사람들은 낮춰 '스킨잡'이라 부르고, 2019년에는 지구에 들어오는 것 자체가 죽을죄였다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168282",
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081377",
+        "https://www.coupangplay.com/content/a0313ba6-a34f-41e5-928f-1da585e40a9e",
+        "https://www.coupangplay.com/content/47beb26d-5c55-41d9-98ec-d0a9769590b0",
+        "https://watcha.com/ko-KR/contents/m5ng0DW",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Replicant"
+      ]
+    },
+    {
+      "id": "blade_runner",
+      "ko": "블레이드 러너",
+      "orig": "Blade Runner",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "KOBIS 『블레이드 러너: 파이널 컷』 시놉시스 '은퇴한 블레이드 러너였던', KOBIS 『블레이드 러너 2049』 시놉시스 '리플리컨트를 쫓는 블레이드 러너', 쿠팡플레이 두 편 작품 소개, 소니픽쳐스 『블레이드 러너 2049』 국내 4K 상품 소개 '로스앤젤레스 경찰국 소속의 '블레이드 러너''",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "숨어든 리플리컨트를 찾아내 없애는 경찰 수사관.",
+      "note": "로스앤젤레스 경찰국의 특별 수사관으로, 검사로 정체를 가려낸 뒤 그 자리에서 처분한다. 2049년에는 순종하도록 만든 새 리플리컨트가 이 일을 맡아 숨어 사는 옛 모델을 쫓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081377",
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168282",
+        "https://www.coupangplay.com/content/47beb26d-5c55-41d9-98ec-d0a9769590b0",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://bladerunner.fandom.com/wiki/Los_Angeles_Police_Department"
+      ]
+    },
+    {
+      "id": "retirement",
+      "ko": "퇴역 처분",
+      "orig": "retirement",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 줄거리 '인간의 통제를 벗어난 리플리컨트를 추적해 퇴역 처분하는'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "machine_rights"
+      ],
+      "one": "리플리컨트를 죽이는 일을 부르는 말.",
+      "note": "사람을 죽이면 처형이지만, 리플리컨트를 없애는 일은 다 쓴 물건을 거두듯 '퇴역'이라 부른다. 말 하나로 그들을 사람 아닌 것으로 못 박는 셈이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126255535",
+        "https://bladerunner.fandom.com/wiki/Replicant"
+      ]
+    },
+    {
+      "id": "voight_kampff_test",
+      "ko": "보이트-캄프 테스트",
+      "orig": "Voight-Kampff test",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』(폴 M. 새먼 지음, 오세원·김정대 옮김) 출판사 목차 8장·10장 '레온의 보이트-캄프 테스트'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "humanity_test"
+      ],
+      "one": "감정을 흔드는 질문으로 리플리컨트를 가려내는 검사.",
+      "note": "질문을 던지고 눈동자의 움직임이나 얼굴 붉힘처럼 스스로 다스릴 수 없는 반응을 기계로 잰다. 리플리컨트는 남의 처지에 함께 느끼는 힘이 모자라 보통 질문 스무 개에서 서른 개면 드러나지만, 기억을 받은 실험 모델은 백 개가 넘게 걸렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Voight-Kampff_test"
+      ]
+    },
+    {
+      "id": "baseline_test",
+      "ko": "베이스라인 테스트",
+      "orig": "baseline test",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "humanity_test"
+      ],
+      "one": "리플리컨트 경관의 마음이 흔들렸는지 보는 검사.",
+      "note": "경찰국은 임무에서 돌아온 리플리컨트 블레이드 러너에게 정해진 말을 빠르게 따라 하게 하고 반응을 잰다. 정해진 기준에서 벗어나면 감정이 생긴 것으로 보아 위험하게 여긴다. 옛 검사가 숨은 리플리컨트를 찾았다면, 이것은 이미 부리는 리플리컨트를 다잡는 데 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://bladerunner.fandom.com/wiki/Baseline_Test"
+      ]
+    },
+    {
+      "id": "tyrell_corporation",
+      "ko": "타이렐사",
+      "orig": "Tyrell Corporation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '이들은 '타이렐'사에 침입하려다', KOBIS 『블레이드 러너 2049』 시놉시스 '타이렐사를 손에 넣고', KOBIS 『블레이드 러너: 파이널 컷』 시놉시스 '넥서스 6 제조사인 타이렐 사'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "리플리컨트를 처음 만들어 판 거대 기업.",
+      "note": "사람보다 더 사람답게 만든다는 것을 내세운 회사로, 도시 위로 솟은 피라미드에 본사를 두었다. 리플리컨트 생산이 금지되자 파산했고, 남은 것은 월레스에게 넘어갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168282",
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081377",
+        "https://bladerunner.fandom.com/wiki/Tyrell_Corporation"
+      ]
+    },
+    {
+      "id": "wallace_corporation",
+      "ko": "월레스 코퍼레이션",
+      "orig": "Wallace Corporation",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "식량과 리플리컨트를 함께 쥔 2049년의 거대 기업.",
+      "note": "생태계가 무너져 굶주림이 닥쳤을 때 합성 농업으로 사람들을 먹여 살리며 커졌다. 파산한 타이렐사를 사들여 말 잘 듣는 새 리플리컨트를 만들고, 그들을 늘려 더 많은 행성을 개척하려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168282",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://bladerunner.fandom.com/wiki/Wallace_Corporation"
+      ]
+    },
+    {
+      "id": "nexus_6",
+      "ko": "넥서스 6",
+      "orig": "Nexus-6",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "KOBIS 『블레이드 러너: 파이널 컷』 시놉시스 '‘넥서스 6’이 오프월드에서 반란을 일으킨 후', 쿠팡플레이 『블레이드 러너』 작품 소개 '6명의 복제인간 넥서스 6이 지구로 잠입한다'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "1982년 작에 나오는 타이렐사의 최신 리플리컨트 모델.",
+      "note": "힘과 날램이 사람보다 뛰어나고 머리도 만든 기술자들 못지않다. 시간이 지나 감정이 생기는 것을 막으려고 4년만 살게 만들었다. 바깥 행성에서 이 모델의 전투 부대가 피비린내 나는 반란을 일으킨 뒤 리플리컨트는 지구에 오지 못하게 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081377",
+        "https://www.coupangplay.com/content/47beb26d-5c55-41d9-98ec-d0a9769590b0",
+        "https://bladerunner.fandom.com/wiki/Nexus-6"
+      ]
+    },
+    {
+      "id": "nexus_8",
+      "ko": "넥서스8",
+      "orig": "Nexus-8",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 줄거리 '구모델 '넥서스8''(띄어 쓰지 않음), 스페셜 피처 설명 '넥서스8 사퍼 모튼의 사연을 담은 루크 스콧 감독의 단편'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "수명 제한을 없앤 타이렐사의 마지막 모델.",
+      "note": "제 수명대로 오래 살 수 있게 만들었고, 쉽게 알아보도록 눈에 일련번호를 새겼다. 생산이 금지된 뒤 모두 처분하라는 명령이 내려져, 살아남은 이들은 신분을 숨기고 사람들 사이에 섞여 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126255535",
+        "https://bladerunner.fandom.com/wiki/Nexus-8"
+      ]
+    },
+    {
+      "id": "nexus_9",
+      "ko": "넥서스 9",
+      "orig": "Nexus-9",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "월레스가 만든, 명령을 거스르지 않는 새 모델.",
+      "note": "월레스는 이 모델이 시키면 제 목숨까지 내놓는다는 것을 법을 만드는 이들 앞에서 보여 주어 생산 금지를 풀게 했다(단편 『블레이드 러너 2036』). 2049년에는 경찰국이 이 모델을 블레이드 러너로 써서 숨은 넥서스8을 쫓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.youtube.com/watch?v=wg3PeApM0tw",
+        "https://bladerunner.fandom.com/wiki/Nexus-9"
+      ]
+    },
+    {
+      "id": "off_world",
+      "ko": "오프월드",
+      "orig": "Off-world colonies",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "KOBIS 『블레이드 러너: 파이널 컷』 시놉시스 '‘넥서스 6’이 오프월드에서 반란을 일으킨 후 지구로 잠입한다'",
+      "alt_ko": [
+        {
+          "ko": "식민행성",
+          "src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '식민행성에서 탈출', '다른 행성으로의 식민지 이주가 본격화된다'"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "colonization",
+        "earth_left"
+      ],
+      "one": "지구 밖에 세운 개척 식민지들.",
+      "note": "망가지고 사람이 넘치는 지구를 떠나라고 하늘을 떠도는 광고선이 쉬지 않고 부추긴다. 거친 일은 리플리컨트가 맡고, 몸이 약한 사람은 떠나지 못하고 지구에 남는다. 2049년의 월레스는 리플리컨트를 더 늘려 더 많은 행성으로 퍼지려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081377",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Off-world_colonies"
+      ]
+    },
+    {
+      "id": "four_year_lifespan",
+      "ko": "4년의 수명",
+      "orig": "four-year lifespan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '리플리컨트는 수명이 4년으로 제한되어 있다'. 같은 줄거리 뒷부분에 '4년의 수명'이라는 말이 그대로 나온다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "넥서스 6에 심어 둔, 4년이면 끝나는 수명.",
+      "note": "만든 쪽은 리플리컨트가 오래 살며 감정을 키우는 것을 막는 안전장치로 넣었다. 만들어진 날을 아는 리플리컨트들은 남은 날을 세며, 수명을 늘릴 길을 찾아 지구로 숨어든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Replicant"
+      ]
+    },
+    {
+      "id": "implanted_memories",
+      "ko": "기억 이식",
+      "orig": "implanted memories",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '…의 기억을 이식해 만든…'. 이름 꼴 '기억 이식'은 이 구절에서 땄다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "memory_edit"
+      ],
+      "one": "리플리컨트에게 지어낸 지난날을 기억으로 심는 일.",
+      "note": "지난날의 기억이 있으면 감정이 덜 흔들려 다루기 쉬워진다는 생각에서 나왔다. 심은 기억을 받은 리플리컨트는 스스로를 사람이라 믿기도 한다. 2049년에는 리플리컨트에게 넣을 기억을 지어 주는 일을 전문으로 하는 사람이 따로 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Replicant",
+        "https://bladerunner.fandom.com/wiki/Stelline_Laboratories"
+      ]
+    },
+    {
+      "id": "combat_model",
+      "ko": "전투용 모델",
+      "orig": "combat model",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [
+        {
+          "ko": "전투용",
+          "src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '두목격인 전투용 로이 베티', '역시 전투용 리온' — '모델'을 붙인 이름 꼴은 정식판에서 찾지 못했다"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "바깥 행성의 싸움에 쓰려고 만든 리플리컨트.",
+      "note": "힘과 버티는 힘을 끌어올리고 혼자서도 싸울 수 있게 만들었다. 이 모델로 꾸린 부대가 식민지에서 일으킨 반란이 리플리컨트를 지구에서 몰아낸 계기가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Nexus-6"
+      ]
+    },
+    {
+      "id": "blackout",
+      "ko": "대정전",
+      "orig": "the Blackout",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 스페셜 피처 목록 '2022: Blackout - 대정전 사태를 담은 와타나베 신이치로 감독의 단편 애니메이션'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "2022년, 전자 기록을 거의 다 지워 버린 대정전.",
+      "note": "높은 하늘에서 터뜨린 핵폭발의 전자기 충격으로 로스앤젤레스 일대의 전기와 전자 기록이 한꺼번에 무너졌다(단편 『블레이드 러너 2022』). 리플리컨트를 찾아 죽이는 데 쓰이던 등록 기록을 없애려는 공격이었다. 그 뒤 리플리컨트 생산이 금지되었고, 2049년에도 그 전의 기록은 거의 남아 있지 않다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.youtube.com/watch?v=SRke_LRrh3A",
+        "https://bladerunner.fandom.com/wiki/Blackout"
+      ]
+    },
+    {
+      "id": "replicant_prohibition",
+      "ko": "리플리컨트 생산 금지",
+      "orig": "replicant prohibition",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "machine_rights"
+      ],
+      "one": "잇따른 반란 뒤 리플리컨트를 만들지 못하게 한 법.",
+      "note": "식민지의 반란과 대정전을 겪은 뒤 리플리컨트 생산이 금지되었고, 타이렐사는 이 때문에 파산했다. 2036년 월레스가 절대 거스르지 않는 새 모델을 보여 준 뒤에야 풀렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.youtube.com/watch?v=wg3PeApM0tw",
+        "https://bladerunner.fandom.com/wiki/Nexus-9"
+      ]
+    },
+    {
+      "id": "ecosystem_collapse",
+      "ko": "생태계 붕괴",
+      "orig": "collapse of ecosystems",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "2020년대 중반, 생태계가 무너지며 닥친 굶주림.",
+      "note": "2049년 작 첫머리 글이 알려 주는 사건으로, 이것이 월레스가 합성 농업으로 떠오르는 계기가 되었다. 영화는 그 뒤의 메마르고 잿빛인 세상을 그린다.",
+      "spoiler": false,
+      "refs": [
+        "https://bladerunner.fandom.com/wiki/Wallace_Corporation"
+      ]
+    },
+    {
+      "id": "synthetic_farming",
+      "ko": "미래식량",
+      "orig": "synthetic farming",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "KOBIS 『블레이드 러너 2049』 시놉시스 '자신이 개발한 미래식량의 성공으로 타이렐사를 손에 넣고'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "월레스가 굶주림을 막은 합성 농업.",
+      "note": "생태계가 무너진 뒤 사람이 먹을 것을 새로 지어 기르는 기술로, 월레스는 이것으로 기근을 막고 회사를 키웠다. 정식 소개문은 '미래식량'이라 옮겼고, 원어는 합성해 짓는 농사라는 뜻이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168282",
+        "https://bladerunner.fandom.com/wiki/Wallace_Corporation"
+      ]
+    },
+    {
+      "id": "protein_farm",
+      "ko": "단백질 농장",
+      "orig": "protein farm",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "숨어 사는 넥서스8이 꾸리는 외딴 벌레 농장.",
+      "note": "로스앤젤레스 바깥의 메마른 땅에서 벌레를 길러 단백질로 판다. 2049년 작 첫 장면과 단편 『블레이드 러너 2048』의 무대다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.youtube.com/watch?v=R1uh4d0rDs4",
+        "https://bladerunner.fandom.com/wiki/Nexus-8"
+      ]
+    },
+    {
+      "id": "joi",
+      "ko": "조이",
+      "orig": "Joi",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 '자유자재로 겉모습을 바꾸는 인공지능 '조이'', 스페셜 피처 목록 'Jois - 조이'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai",
+        "hologram"
+      ],
+      "one": "월레스 코퍼레이션이 파는 입체 영상 인공지능 동반자.",
+      "note": "집 안 장치가 비추는 입체 영상으로 나타나 말벗이 되어 주고, 겉모습과 말씨를 주인 뜻대로 바꿀 수 있다. 들고 다니는 작은 장치에 옮기면 집 밖으로도 따라 나온다. 도시 곳곳에 거대한 입체 광고가 서 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://bladerunner.fandom.com/wiki/Joi"
+      ]
+    },
+    {
+      "id": "lapd",
+      "ko": "로스앤젤레스 경찰국",
+      "orig": "Los Angeles Police Department (LAPD)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 줄거리 '로스앤젤레스 경찰국 소속의 '블레이드 러너''",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "블레이드 러너를 거느린 도시 경찰.",
+      "note": "날아다니는 순찰차로 도시 위를 돌며 지킨다. 2049년에는 리플리컨트를 경관으로 부리면서도, 사람과 리플리컨트를 가르는 경계가 흔들리는 것을 무엇보다 두려워한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.coupangplay.com/content/a0313ba6-a34f-41e5-928f-1da585e40a9e",
+        "https://bladerunner.fandom.com/wiki/Los_Angeles_Police_Department"
+      ]
+    },
+    {
+      "id": "spinner",
+      "ko": "스피너",
+      "orig": "spinner",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 10장 '경찰 본부로 가는 스피너', 18장 '스피너, 복원되다!'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "땅을 달리다 곧장 하늘로 떠오르는 날아다니는 차.",
+      "note": "경찰과 돈 있는 사람들이 타는 탈것으로, 곧장 위로 떠올라 빌딩 사이를 날고 옥상에 내린다. 2049년의 경찰 스피너에는 따로 날려 보내는 작은 정찰기도 실려 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Spinner"
+      ]
+    },
+    {
+      "id": "esper",
+      "ko": "에스퍼",
+      "orig": "Esper",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 8장·10장 '에스퍼'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사진을 말로 부려 키우고 돌려 보는 분석 기계.",
+      "note": "목소리로 명령하면 사진 한 장을 끝없이 크게 키우고, 찍힌 자리에서 가려져 있던 쪽까지 돌아 들여다본다. 블레이드 러너는 이것으로 남겨진 사진 속을 뒤져 단서를 찾는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Esper"
+      ]
+    },
+    {
+      "id": "tyrell_pyramid",
+      "ko": "타이렐의 피라미드",
+      "orig": "Tyrell Corporation headquarters (the pyramid)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 10장 '타이렐의 피라미드'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "도시 위로 솟은 타이렐사의 피라미드 본사.",
+      "note": "로스앤젤레스 바깥에 솟은 거대한 피라미드 꼴 건물로, 꼭대기의 회장 사무실은 어두운 도시와 달리 햇빛이 드는 곳으로 그려진다. 한 회사가 도시 전체를 내려다보는 모습을 한눈에 보여 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Tyrell_Corporation"
+      ]
+    },
+    {
+      "id": "animoid_row",
+      "ko": "애니모이드 로우",
+      "orig": "Animoid Row",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 8장 '애니모이드 로우'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "만들어진 동물을 사고파는 거리.",
+      "note": "가게마다 뱀이나 새 같은 만든 동물을 팔고, 비늘 한 조각만 보고도 누가 만들었는지 알아내는 사람이 있다. 블레이드 러너는 여기서 증거물의 출처를 캐낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104",
+        "https://bladerunner.fandom.com/wiki/Animoid_Row"
+      ]
+    },
+    {
+      "id": "artificial_animals",
+      "ko": "인조 동물",
+      "orig": "artificial animals",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "진짜 대신 사람이 만들어 파는 동물.",
+      "note": "진짜 동물은 아주 드물고 비싸서, 사람들은 만든 동물을 곁에 둔다. 비늘 하나에도 만든 곳의 번호가 새겨져 있을 만큼 정교하다. 2049년에도 '진짜냐'는 물음이 동물에게까지 따라붙는다.",
+      "spoiler": false,
+      "refs": [
+        "https://bladerunner.fandom.com/wiki/Animoid"
+      ]
+    },
+    {
+      "id": "genetic_designer",
+      "ko": "유전 과학자",
+      "orig": "genetic designer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "워너 2025 『블레이드 러너 파이널 컷』 4K 국내 상품 소개 줄거리 '…유전 과학자 세바스찬…'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "리플리컨트의 몸을 부분마다 설계하는 사람.",
+      "note": "리플리컨트는 한 사람이 통째로 만들지 않고, 눈만 만드는 사람처럼 부분마다 맡은 설계자가 따로 있다. 정식 소개문은 '유전 과학자'라 옮겼고, 원어는 유전자를 설계하는 사람이라는 뜻이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Tyrell_Corporation"
+      ]
+    },
+    {
+      "id": "blaster",
+      "ko": "블래스터",
+      "orig": "blaster",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 8장의 꼭지 제목 '…데커드의 블래스터…'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "블레이드 러너가 차고 다니는 묵직한 권총.",
+      "note": "크고 묵직한 권총으로, 리플리컨트를 쫓는 블레이드 러너를 상징하는 물건이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104"
+      ]
+    },
+    {
+      "id": "tannhauser_gate",
+      "ko": "탄호이저 게이트",
+      "orig": "Tannhäuser Gate",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "한 리플리컨트가 먼 우주에서 보았다고 떠올리는 곳.",
+      "note": "영화는 이름만 들려줄 뿐 무엇인지 보여 주지 않는다. 지구 사람들이 모르는 먼 곳의 싸움과 풍경을, 부려지던 리플리컨트만이 기억한다는 것을 짧게 드러낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://bladerunner.fandom.com/wiki/Tannh%C3%A4user_Gate"
+      ]
+    },
+    {
+      "id": "miracle",
+      "ko": "기적",
+      "orig": "the miracle",
+      "ko_status": "우리 표기",
+      "ko_src": null,
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "불가능하다던, 리플리컨트가 아이를 낳은 일.",
+      "note": "땅에 묻힌 유골에서 출산의 흔적이 나온다. 경찰국은 세상이 뒤집힐까 봐 덮으려 하고, 월레스는 그 비밀로 리플리컨트를 스스로 불어나게 하려 한다. 숨어 사는 리플리컨트는 이 일을 '기적'이라 부른다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.coupangplay.com/content/a0313ba6-a34f-41e5-928f-1da585e40a9e",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://bladerunner.fandom.com/wiki/Wallace_Corporation"
+      ]
+    },
+    {
+      "id": "los_angeles",
+      "ko": "로스앤젤레스",
+      "orig": "Los Angeles",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소니픽쳐스 『블레이드 러너 2049』 국내 4K·DVD 상품 소개 줄거리 '로스앤젤레스 경찰국 소속의'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "두 영화의 무대인, 비와 네온에 잠긴 거대 도시.",
+      "note": "2019년에는 400층 높이 건물이 빽빽하고 비가 그치지 않으며, 여러 나라 말이 뒤섞인 거리에 사람이 넘친다. 2049년에는 바다를 막는 거대한 둑 안쪽에서 더 춥고 어두운 도시가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=249293203",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357283117",
+        "https://bladerunner.fandom.com/wiki/Los_Angeles_Police_Department"
+      ]
+    },
+    {
+      "id": "foil_unicorn",
+      "ko": "은박지 유니콘",
+      "orig": "foil unicorn (origami)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 정원출판사 『퓨처 누아르, 블레이드 러너 제작기』 출판사 목차 8장 '은박지 유니콘', 19장 '오리지널 유니콘 장면'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "한 경관이 남기고 가는 은박지 종이접기 유니콘.",
+      "note": "말없이 종이를 접어 두고 가는 경관의 버릇으로, 마지막에 놓인 유니콘은 주인공이 꾼 꿈과 겹친다. 그래서 주인공의 기억이 정말 그의 것인지 묻게 만든다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223827104"
+      ]
+    }
+  ]
+}

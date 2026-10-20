@@ -1,0 +1,3294 @@
+{
+  "group": "anime_jp",
+  "candidates": [
+    {
+      "id": "macross",
+      "orig": "超時空要塞マクロス",
+      "orig_en": "Super Dimension Fortress Macross",
+      "ko": "초시공요새 마크로스",
+      "ko_src": "라프텔 '초시공요새 마크로스'",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "초시공요새 마크로스(1982) ~ 마크로스 플러스·7·프론티어·델타(2016)와 극장판들. 미국 로보텍(1985)은 마크로스·서던 크로스·모스피다를 엮어 새로 짠 다른 연표라 이 건에 넣지 않음",
+      "by": "스튜디오 누에·빅 웨스트, 카와모리 쇼지 (제작 타츠노코 프로덕션)",
+      "year": 1982,
+      "country": "일본",
+      "setting": "거인 외계 함대와 처음 싸운 뒤, 노래와 변신 전투기를 앞세운 인류 이주 선단의 역사",
+      "concepts": [
+        "jump_drive",
+        "alien",
+        "precursor",
+        "mecha",
+        "fleet_battle",
+        "colonization",
+        "hive_mind"
+      ],
+      "new_ideas": "노래와 문화가 외계 군대를 흔드는 무기가 됨",
+      "lore_size": "큼",
+      "notability": "TV·OVA·극장판이 40년 넘게 이어짐, 마크로스 F 성운상 미디어 부문(2009), 1982 TV판 애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1982 TV판·극장판·플러스·7·프론티어·델타, 디즈니+ 에도 여러 편(저스트워치 한국)",
+        "src": "https://laftel.net/item/14799"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orguss",
+      "orig": "超時空世紀オーガス",
+      "orig_en": "Super Dimension Century Orguss",
+      "ko": "초시공세기 오거스",
+      "ko_src": "라프텔 '초시공세기 오거스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1983) 35화, 속편 OVA 오거스 02",
+      "by": "빅 웨스트·도쿄 무비 신샤",
+      "year": 1983,
+      "country": "일본",
+      "setting": "시공 진동 폭탄이 여러 평행 세계를 한데 뒤섞어 놓은 지구로 떨어진 군인",
+      "concepts": [
+        "alt_timeline",
+        "physics_weapon",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "빅 웨스트 초시공 3부작의 둘째 작품, 속편 OVA 오거스 02(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/18044"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mospeada",
+      "orig": "機甲創世記モスピーダ",
+      "orig_en": "Genesis Climber MOSPEADA",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1983~1984) 25화. 미국 로보텍 셋째 부분으로 다시 짜임",
+      "by": "타츠노코 프로덕션·아트믹",
+      "year": 1983,
+      "country": "일본",
+      "setting": "외계 생물 인비트에게 빼앗긴 지구를 화성 이주민 부대가 되찾으러 내려옴",
+      "concepts": [
+        "alien",
+        "colonization",
+        "mecha",
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "로보텍 셋째 부분의 원작, 변신 오토바이 갑옷으로 알려짐(위키백과·나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1985년 대여 비디오 '지구대탈환'·'모스페다'로 나왔고, 뒤에 SBS·지역 민방에서 '마크로스'라는 제목으로 방영(나무위키). 정식 한국어 작품명은 하나로 정해지지 않아 비워 둠",
+        "src": "https://namu.wiki/w/%EA%B8%B0%EA%B0%91%EC%B0%BD%EC%84%B8%EA%B8%B0%20%EB%AA%A8%EC%8A%A4%ED%94%BC%EB%8B%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_battleship_yamato",
+      "orig": "宇宙戦艦ヤマト",
+      "orig_en": "Space Battleship Yamato",
+      "ko": "우주전함 야마토",
+      "ko_src": "라프텔 '우주전함 야마토 2199'",
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "우주전함 야마토(1974 TV) ~ 극장판·속편, 리메이크 2199(2012)·2202·야마토여 영원히 REBEL 3199, 실사 영화(2010)",
+      "by": "니시자키 요시노부, 마츠모토 레이지",
+      "year": 1974,
+      "country": "일본",
+      "setting": "외계 제국의 행성 폭격으로 죽어 가는 지구를 살리려 먼 별까지 떠나는 우주 전함",
+      "concepts": [
+        "ftl",
+        "alien",
+        "planet_killer",
+        "fleet_battle",
+        "beam_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "성운상 미디어 부문(1975, TV판), 리메이크 2199 극장판도 성운상(2015)",
+      "korean": {
+        "status": "있음",
+        "detail": "1980년 MBC 에서 '날으는 전함 V호'로 방영(나무위키), 라프텔에 2199·부활편·3199 등",
+        "src": "https://laftel.net/item/37225"
+      },
+      "borderline": false
+    },
+    {
+      "id": "leijiverse",
+      "orig": "銀河鉄道999 / 宇宙海賊キャプテンハーロック",
+      "orig_en": "Galaxy Express 999 / Space Pirate Captain Harlock",
+      "ko": "은하철도 999 · 하록 선장",
+      "ko_src": "라프텔 '은하철도 999'·'하록 선장'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "은하철도 999(만화 1977, TV 1978)와 우주해적 캡틴 하록(만화 1977, TV 1978), 극장판들과 캡틴 하록(2013). 인물과 배가 서로 오가는 마츠모토 레이지의 한 세계로 묶음",
+      "by": "마츠모토 레이지, 토에이 동화",
+      "year": 1977,
+      "country": "일본",
+      "setting": "기계 몸으로 영원히 사는 부자들의 미래, 은하를 달리는 열차와 해적선 아르카디아",
+      "concepts": [
+        "cyborg",
+        "longevity",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "999 TV 113화·하록 TV 42화와 극장판이 여러 편(애니리스트), 999 TV 애니리스트 이용자 1만 7천",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 은하철도 999 TV·극장판 셋, 하록 선장 TV·극장판",
+        "src": "https://laftel.net/item/17380"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cowboy_bebop",
+      "orig": "カウボーイビバップ",
+      "orig_en": "Cowboy Bebop",
+      "ko": "카우보이 비밥",
+      "ko_src": "라프텔 '카우보이 비밥'",
+      "media": [
+        "애니메이션",
+        "드라마"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1998) 26화, 극장판 천국의 문(2001), 넷플릭스 실사 드라마(2021)",
+      "by": "선라이즈, 와타나베 신이치로",
+      "year": 1998,
+      "country": "일본",
+      "setting": "관문 사고로 달이 부서진 뒤 태양계 곳곳으로 흩어진 사람들 사이의 현상금 사냥꾼",
+      "concepts": [
+        "gate_network",
+        "colonization",
+        "terraforming",
+        "catastrophe",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "성운상 미디어 부문(2000), 애니리스트 이용자 47만·평균 86점",
+      "korean": {
+        "status": "있음",
+        "detail": "1999년 투니버스 더빙 방영(나무위키), 라프텔·넷플릭스 공개",
+        "src": "https://laftel.net/item/43033"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gurren_lagann",
+      "orig": "天元突破グレンラガン",
+      "orig_en": "Gurren Lagann",
+      "ko": "천원돌파 그렌라간",
+      "ko_src": "라프텔 '천원돌파 그렌라간'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2007) 27화, 극장판 홍련편·나암편",
+      "by": "가이낙스, 이마이시 히로유키·나카시마 카즈키",
+      "year": 2007,
+      "country": "일본",
+      "setting": "땅속에 갇혀 살던 사람들이 나선의 힘으로 거대 로봇을 몰아 하늘과 우주로 나아감",
+      "concepts": [
+        "mecha",
+        "cosmic_force",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 38만·평균 85점, TV판 뒤 극장판 두 편",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판 두 편",
+        "src": "https://laftel.net/item/13763"
+      },
+      "borderline": false
+    },
+    {
+      "id": "code_geass",
+      "orig": "コードギアス 反逆のルルーシュ",
+      "orig_en": "Code Geass: Lelouch of the Rebellion",
+      "ko": "코드 기아스 반역의 를르슈",
+      "ko_src": "라프텔 '코드 기아스 반역의 를르슈'",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 반역의 를르슈(2006)·R2(2008), 망국의 아키토, 극장판 3부작, 부활의 를르슈(2019), 탈환의 로제(2024)",
+      "by": "선라이즈, 타니구치 고로·오코우치 이치로",
+      "year": 2006,
+      "country": "일본",
+      "setting": "다른 역사의 신성 브리타니아 제국에 점령된 일본, 남을 부리는 힘을 얻은 왕자의 반역",
+      "concepts": [
+        "alt_timeline",
+        "mecha",
+        "mind_control",
+        "key_resource",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "애니리스트 이용자 50만·평균 85점, 2024년까지 외전·후속이 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV 1·2기·극장판, 탈환의 로제는 디즈니+(저스트워치 한국)",
+        "src": "https://laftel.net/item/15575"
+      },
+      "borderline": false
+    },
+    {
+      "id": "psycho_pass",
+      "orig": "PSYCHO-PASS サイコパス",
+      "orig_en": "Psycho-Pass",
+      "ko": "PSYCHO-PASS",
+      "ko_src": "라프텔 'PSYCHO-PASS 1기'",
+      "media": [
+        "애니메이션",
+        "만화",
+        "소설",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 1~3기(2012~2019), 극장판(2015)·시너스 오브 더 시스템(2019)·프로비던스(2023)",
+      "by": "프로덕션 I.G, 시오타니 나오요시·우로부치 겐",
+      "year": 2012,
+      "country": "일본",
+      "setting": "사람의 마음 상태를 늘 수치로 재어 죄를 짓기 전에 단속하는 근미래 일본",
+      "concepts": [
+        "hologram"
+      ],
+      "new_ideas": "마음을 수치로 재어 미리 단속하는 감시 체계",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 36만·평균 81점, TV 3기와 극장판들로 이어짐(라프텔 목록)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(일부 판권 만료). 저스트워치 한국 표기는 '사이코패스'",
+        "src": "https://laftel.net/item/15929"
+      },
+      "borderline": false
+    },
+    {
+      "id": "patlabor",
+      "orig": "機動警察パトレイバー",
+      "orig_en": "Mobile Police Patlabor",
+      "ko": "패트레이버",
+      "ko_src": "라프텔 '패트레이버'",
+      "media": [
+        "애니메이션",
+        "만화",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA(1988)·만화·TV(1989)·극장판 3편, 실사판 더 넥스트 제너레이션(2014)",
+      "by": "헤드기어(유키 마사미·오시이 마모루·이토 카즈노리·이즈부치 유타카·타카다 아케미)",
+      "year": 1988,
+      "country": "일본",
+      "setting": "일하는 거대 로봇이 흔해진 도쿄에서 그 로봇이 일으키는 사건을 맡은 경찰 부대",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "OVA·TV·극장판·만화·실사로 이어진 다매체 시리즈(위키백과), 1988 OVA 애니리스트 이용자 2만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판 1·W XIII",
+        "src": "https://laftel.net/item/14680"
+      },
+      "borderline": false
+    },
+    {
+      "id": "votoms",
+      "orig": "装甲騎兵ボトムズ",
+      "orig_en": "Armored Trooper VOTOMS",
+      "ko": "장갑기병 보톰즈",
+      "ko_src": "라프텔 '장갑기병 보톰즈'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1983) 52화, 여러 OVA·극장판, 페일젠 파일즈(2007)",
+      "by": "선라이즈, 타카하시 료스케",
+      "year": 1983,
+      "country": "일본",
+      "setting": "백 년 동안 이어진 은하 전쟁 끝에 쓰다 버리는 보병 로봇을 타는 병사",
+      "concepts": [
+        "mecha",
+        "super_soldier",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "TV 뒤 OVA·극장판으로 수십 년 이어짐, 애니리스트 평균 76점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판 페일젠 파일즈",
+        "src": "https://laftel.net/item/15075"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ideon",
+      "orig": "伝説巨神イデオン",
+      "orig_en": "Space Runaway Ideon",
+      "ko": "전설거신 이데온",
+      "ko_src": "라프텔 '전설거신 이데온'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1980) 39화, 극장판 접촉편·발동편(1982)",
+      "by": "선라이즈, 토미노 요시유키",
+      "year": 1980,
+      "country": "일본",
+      "setting": "옛 문명이 남긴 거인 로봇과 무한한 힘을 두고 지구인과 외계 종족이 오해 끝에 싸움",
+      "concepts": [
+        "first_contact",
+        "precursor",
+        "godlike",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV에 이어 극장판 두 편(위키백과), 애니리스트 평균 73점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판",
+        "src": "https://laftel.net/item/14480"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gunbuster",
+      "orig": "トップをねらえ!",
+      "orig_en": "Gunbuster (Aim for the Top!)",
+      "ko": "톱을 노려라!",
+      "ko_src": "라프텔 '톱을 노려라! & 톱을 노려라 2! 합체 극장판!!'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 톱을 노려라!(1988) ~ 톱을 노려라 2! 다이버스터(2004), 합체 극장판",
+      "by": "가이낙스, 안노 히데아키",
+      "year": 1988,
+      "country": "일본",
+      "setting": "우주 괴물과 싸우러 빛에 가까운 속도로 나갈 때마다 지구에서는 수십 년이 흐름",
+      "concepts": [
+        "time_dilation",
+        "space_beast",
+        "mecha",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "성운상 미디어 부문(1990), 애니리스트 이용자 5만",
+      "korean": {
+        "status": "있음",
+        "detail": "애니박스·DCN 에서 자막 방영, DVD 정식 발매(나무위키), 라프텔에 합체 극장판",
+        "src": "https://laftel.net/item/17882"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bubblegum_crisis",
+      "orig": "バブルガムクライシス",
+      "orig_en": "Bubblegum Crisis",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA(1987~1991) 8화·속편 버블검 크래시!, 외전 A.D. 폴리스, 리메이크 TOKYO 2040(1998)",
+      "by": "AIC·아트믹, 유멕스",
+      "year": 1987,
+      "country": "일본",
+      "setting": "대지진 뒤 거대 기업이 만든 인조인간이 날뛰는 도쿄, 강화복을 입은 네 여성",
+      "concepts": [
+        "android",
+        "power_armor",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "OVA 뒤 속편·외전·리메이크 TV로 이어짐(위키백과·나무위키), 애니리스트 이용자 2만",
+      "korean": {
+        "status": "일부",
+        "detail": "1990년대 대여 비디오로 세 차례 나옴(첫 판 제목 '허리케인 2030', 1~3화), 라프텔에 외전 A.D. 폴리스(나무위키·라프텔)",
+        "src": "https://namu.wiki/w/%EB%B2%84%EB%B8%94%EA%B2%80%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ergo_proxy",
+      "orig": "エルゴプラクシー",
+      "orig_en": "Ergo Proxy",
+      "ko": "에르고 프록시",
+      "ko_src": "라프텔 '에르고 프록시'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2006) 23화",
+      "by": "만글로브, 무라세 슈코",
+      "year": 2006,
+      "country": "일본",
+      "setting": "환경이 무너진 지구의 돔 도시, 사람과 로봇 사이에서 정체 모를 존재가 깨어남",
+      "concepts": [
+        "robot",
+        "catastrophe",
+        "godlike"
+      ],
+      "new_ideas": "바깥과 끊긴 돔 도시가 사람을 관리함",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 16만·평균 76점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/16928"
+      },
+      "borderline": false
+    },
+    {
+      "id": "serial_experiments_lain",
+      "orig": "serial experiments lain",
+      "orig_en": "Serial Experiments Lain",
+      "ko": "시리얼 익스페리먼츠 레인",
+      "ko_src": "라프텔 '시리얼 익스페리먼츠 레인'",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1998) 13화, 같은 해 같은 기획의 게임",
+      "by": "트라이앵글 스태프, 나카무라 류타로·코나카 치아키",
+      "year": 1998,
+      "country": "일본",
+      "setting": "통신망이 현실과 겹치기 시작한 세상에서 망 속의 자신을 마주한 소녀",
+      "concepts": [
+        "mind_upload",
+        "godlike"
+      ],
+      "new_ideas": "통신망이 또 하나의 현실이 됨",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 26만·평균 80점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/16191"
+      },
+      "borderline": false
+    },
+    {
+      "id": "texhnolyze",
+      "orig": "TEXHNOLYZE",
+      "orig_en": "Texhnolyze",
+      "ko": "테크노라이즈",
+      "ko_src": "라프텔 '테크노라이즈'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2003) 22화",
+      "by": "매드하우스, 하마사키 히로시·코나카 치아키",
+      "year": 2003,
+      "country": "일본",
+      "setting": "땅속 도시에서 기계 팔다리를 단 사람들이 싸우며 함께 무너져 가는 이야기",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 9만·평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/16252"
+      },
+      "borderline": false
+    },
+    {
+      "id": "planetarian",
+      "orig": "planetarian 〜ちいさなほしのゆめ〜",
+      "orig_en": "Planetarian: The Reverie of a Little Planet",
+      "ko": "플라네타리안",
+      "ko_src": "라프텔 '플라네타리안: 작은 별의 꿈'",
+      "media": [
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "비주얼 노벨(2004, Key), 웹 애니메이션 5화·극장판 별의 사람(2016)",
+      "by": "Key, 데이비드 프로덕션",
+      "year": 2004,
+      "country": "일본",
+      "setting": "전쟁으로 무너진 도시의 천체 투영관에서 수십 년째 손님을 기다리는 안내 로봇",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 3만·평균 74점",
+      "korean": {
+        "status": "일부",
+        "detail": "라프텔에 극장판(2019년 판권 만료). 게임 한국어판은 확인 못 함",
+        "src": "https://laftel.net/item/34325"
+      },
+      "borderline": false
+    },
+    {
+      "id": "steins_gate",
+      "orig": "STEINS;GATE",
+      "orig_en": "",
+      "ko": "슈타인즈 게이트",
+      "ko_src": "라프텔 '슈타인즈 게이트'",
+      "media": [
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "비주얼 노벨(2009) ~ 슈타인즈 게이트 제로, TV(2011)·제로(2018)·극장판(2013)",
+      "by": "5pb.·니트로플러스, 화이트 폭스(애니메이션)",
+      "year": 2009,
+      "country": "일본",
+      "setting": "전자레인지로 과거에 문자를 보내다 갈라지는 세계선 사이에 갇힌 청년",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "애니리스트 이용자 60만·평균 89점, 제로도 22만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·제로·극장판. 게임 한국어판은 확인 못 함",
+        "src": "https://laftel.net/item/11876"
+      },
+      "borderline": false
+    },
+    {
+      "id": "aldnoah_zero",
+      "orig": "アルドノア・ゼロ",
+      "orig_en": "Aldnoah.Zero",
+      "ko": "알드노아 제로",
+      "ko_src": "라프텔 '알드노아 제로'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2014~2015) 2기 24화",
+      "by": "A-1 Pictures·트로이카, 아오키 에이·우로부치 겐",
+      "year": 2014,
+      "country": "일본",
+      "setting": "화성 옛 유적의 기술로 세운 기사 귀족 제국이 달이 부서진 지구를 침공함",
+      "concepts": [
+        "precursor",
+        "gate_network",
+        "feudal_space",
+        "mecha",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 10만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2020년 판권 만료)",
+        "src": "https://laftel.net/item/24094"
+      },
+      "borderline": false
+    },
+    {
+      "id": "darling_in_the_franxx",
+      "orig": "ダーリン・イン・ザ・フランキス",
+      "orig_en": "Darling in the Franxx",
+      "ko": "달링 인 더 프랑키스",
+      "ko_src": "라프텔 '달링 인 더 프랑키스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2018) 24화",
+      "by": "트리거·A-1 Pictures(클로버웍스)",
+      "year": 2018,
+      "country": "일본",
+      "setting": "늙지 않는 어른들의 도시를 지키려 둘씩 짝지어 거대 로봇을 모는 길러진 아이들",
+      "concepts": [
+        "mecha",
+        "super_soldier",
+        "space_beast",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 51만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/45802"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_dandy",
+      "orig": "スペース☆ダンディ",
+      "orig_en": "Space Dandy",
+      "ko": "스페이스 댄디",
+      "ko_src": "라프텔 '스페이스 댄디'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2014) 1·2기 26화",
+      "by": "본즈, 와타나베 신이치로(총감독)",
+      "year": 2014,
+      "country": "일본",
+      "setting": "처음 보는 외계인을 찾아 등록하고 상금을 받는 사냥꾼의 엉뚱한 우주",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 10만·평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1·2기",
+        "src": "https://laftel.net/item/23576"
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_of_eve",
+      "orig": "イヴの時間",
+      "orig_en": "Time of Eve",
+      "ko": "이브의 시간",
+      "ko_src": "라프텔 '이브의 시간: 당신은, 이브의 시간을 즐기고있습니까?'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "웹 애니메이션(2008) 6화, 극장판(2010)",
+      "by": "스튜디오 릿카, 요시우라 야스히로",
+      "year": 2008,
+      "country": "일본",
+      "setting": "인조인간이 흔해진 일본, 사람과 기계를 가르지 말라는 규칙이 있는 찻집",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "기계의 마음과 권리 — 사람과 기계를 가르지 않는 자리",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 3만·평균 77점(극장판)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 극장판",
+        "src": "https://laftel.net/item/20543"
+      },
+      "borderline": false
+    },
+    {
+      "id": "expelled_from_paradise",
+      "orig": "楽園追放 -Expelled from Paradise-",
+      "orig_en": "Expelled from Paradise",
+      "ko": "낙원추방",
+      "ko_src": "라프텔 '낙원추방'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2014), 속편 극장판 마음의 레조넌스(2026)",
+      "by": "토에이 애니메이션·그래피니카, 미즈시마 세이지·우로부치 겐",
+      "year": 2014,
+      "country": "일본",
+      "setting": "인류 대부분이 몸을 버리고 전자 낙원에 사는 시대, 버려진 지구로 내려간 요원",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 3만, 2026년 속편 극장판(애니리스트)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·티빙·왓챠 공개(저스트워치 한국)",
+        "src": "https://laftel.net/item/23251"
+      },
+      "borderline": false
+    },
+    {
+      "id": "vivy",
+      "orig": "Vivy -Fluorite Eye's Song-",
+      "orig_en": "Vivy: Fluorite Eye's Song",
+      "ko": "Vivy -Fluorite Eye's Song-",
+      "ko_src": "라프텔 'Vivy -Fluorite Eye's Song-'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2021) 13화",
+      "by": "위트 스튜디오, 에자키 신페이·나가츠키 탓페이",
+      "year": 2021,
+      "country": "일본",
+      "setting": "백 년 뒤 인공지능의 반란을 막으려 미래에서 온 지시로 역사를 고쳐 가는 노래하는 인조인간",
+      "concepts": [
+        "android",
+        "ai_revolt",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 18만·평균 82점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개. 저스트워치 한국 표기는 '비비 플로라이트 아이즈 송'",
+        "src": "https://laftel.net/item/40266"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orbital_children",
+      "orig": "地球外少年少女",
+      "orig_en": "The Orbital Children",
+      "ko": "지구 밖 소년소녀",
+      "ko_src": "넷플릭스(저스트워치 한국) '지구 밖 소년소녀'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "웹 애니메이션(2022) 6화, 극장판 두 편",
+      "by": "프로덕션 +h, 이소 미츠오",
+      "year": 2022,
+      "country": "일본",
+      "setting": "지능에 한계를 걸어 둔 인공지능 시대, 사고가 난 우주 정거장에 갇힌 아이들",
+      "concepts": [
+        "ai",
+        "ai_ban",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 2만, 이소 미츠오(전뇌 코일) 두 번째 작품",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 공개(저스트워치 한국), 라프텔에도 등록",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/jigu-bagg-sonyeonsonyeo"
+      },
+      "borderline": false
+    },
+    {
+      "id": "carole_and_tuesday",
+      "orig": "キャロル&チューズデイ",
+      "orig_en": "Carole & Tuesday",
+      "ko": "캐롤 & 튜즈데이",
+      "ko_src": "라프텔 '캐롤 & 튜즈데이'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2019) 24화",
+      "by": "본즈, 와타나베 신이치로",
+      "year": 2019,
+      "country": "일본",
+      "setting": "인공지능이 노래를 만드는 개척 화성에서 손으로 노래를 짓는 두 소녀",
+      "concepts": [
+        "colonization",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 10만·평균 76점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/39349"
+      },
+      "borderline": true
+    },
+    {
+      "id": "akudama_drive",
+      "orig": "アクダマドライブ",
+      "orig_en": "Akudama Drive",
+      "ko": "아쿠다마 드라이브",
+      "ko_src": "라프텔 '아쿠다마 드라이브'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2020) 12화",
+      "by": "스튜디오 피에로, 타구치 토모히사·코다카 카즈타카",
+      "year": 2020,
+      "country": "일본",
+      "setting": "간토에 짓눌린 미래 간사이, 사형을 앞둔 악당들이 한 의뢰로 엮임",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 17만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/40009"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lazarus",
+      "orig": "LAZARUS ラザロ",
+      "orig_en": "Lazarus",
+      "ko": "LAZARUS 라자로",
+      "ko_src": "라프텔 'LAZARUS 라자로'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2025) 13화",
+      "by": "MAPPA, 와타나베 신이치로",
+      "year": 2025,
+      "country": "일본",
+      "setting": "누구나 먹던 기적의 진통제가 3년 뒤 사람을 죽이게 되어 있음이 드러난 미래",
+      "concepts": [],
+      "new_ideas": "모두가 쓰는 약이 정해진 날 사람을 죽이게 만든 시한 장치",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 12만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·티빙·왓챠 공개(라프텔·저스트워치 한국)",
+        "src": "https://laftel.net/item/42769"
+      },
+      "borderline": true
+    },
+    {
+      "id": "id_invaded",
+      "orig": "ID:INVADED イド:インヴェイデッド",
+      "orig_en": "ID: Invaded",
+      "ko": "ID:INVADED",
+      "ko_src": "라프텔 'ID:INVADED'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2020) 13화, 웹 단편",
+      "by": "NAZ, 아오키 에이·마이조 오타로",
+      "year": 2020,
+      "country": "일본",
+      "setting": "살인자의 마음이 만든 세계에 탐정을 들여보내 범인을 쫓는 수사 기관",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "남의 무의식 속 세계에 들어가 수사함",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 13만·평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2026년 판권 만료 표시)",
+        "src": "https://laftel.net/item/39833"
+      },
+      "borderline": false
+    },
+    {
+      "id": "deca_dence",
+      "orig": "デカダンス",
+      "orig_en": "Deca-Dence",
+      "ko": "데카당스",
+      "ko_src": "라프텔 '데카당스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2020) 12화",
+      "by": "NUT, 타치카와 유즈루",
+      "year": 2020,
+      "country": "일본",
+      "setting": "괴물에 맞서 사는 인류의 요새 도시가 사실은 사이보그들이 노는 판이었던 세계",
+      "concepts": [
+        "cyborg",
+        "catastrophe"
+      ],
+      "new_ideas": "사람의 삶이 다른 존재의 놀이판이 됨",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 10만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2025년 판권 만료)",
+        "src": "https://laftel.net/item/39848"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kado_the_right_answer",
+      "orig": "正解するカド",
+      "orig_en": "Kado: The Right Answer",
+      "ko": "카도: The Right Answer",
+      "ko_src": "라프텔 '카도: The Right Answer'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2017) 12화",
+      "by": "토에이 애니메이션, 노자키 마도",
+      "year": 2017,
+      "country": "일본",
+      "setting": "하네다 공항에 내려앉은 더 높은 차원의 존재가 인류에게 무한한 기술을 건넴",
+      "concepts": [
+        "first_contact",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 2만, 애니맥스 코리아 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2017년 애니맥스 코리아 방영(나무위키), 라프텔 공개(2020년 판권 만료)",
+        "src": "https://laftel.net/item/37185"
+      },
+      "borderline": false
+    },
+    {
+      "id": "apocalypse_hotel",
+      "orig": "アポカリプスホテル",
+      "orig_en": "Apocalypse Hotel",
+      "ko": "아포칼립스 호텔",
+      "ko_src": "라프텔 '아포칼립스 호텔'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2025) 12화",
+      "by": "사이게임즈 픽처스, 슌도 카나",
+      "year": 2025,
+      "country": "일본",
+      "setting": "사람이 모두 떠난 도쿄에서 로봇들이 호텔을 지키다 외계 손님을 맞음",
+      "concepts": [
+        "robot",
+        "earth_left",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "성운상 미디어 부문(2026), 애니리스트 평균 80점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/42777"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dimension_w",
+      "orig": "ディメンションW",
+      "orig_en": "Dimension W",
+      "ko": "디멘션 W",
+      "ko_src": "라프텔 '디멘션 W'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(2011~2019), TV(2016) 12화",
+      "by": "이와하라 유지, 스튜디오 3Hz·오렌지",
+      "year": 2011,
+      "country": "일본",
+      "setting": "네 번째 차원에서 끌어온 에너지로 돌아가는 세계, 불법 코일을 쫓는 회수꾼과 인조인간",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "다른 차원에서 끌어오는 무한 에너지 그물",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 6만 5천",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2019년 판권 만료)",
+        "src": "https://laftel.net/item/33451"
+      },
+      "borderline": false
+    },
+    {
+      "id": "knights_of_sidonia",
+      "orig": "シドニアの騎士",
+      "orig_en": "Knights of Sidonia",
+      "ko": "시도니아의 기사",
+      "ko_src": "라프텔 '시도니아의 기사'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(2009~2015), TV 2기(2014~2015), 극장판 사랑을 잣는 별(2021)",
+      "by": "니헤이 츠토무, 폴리곤 픽처스",
+      "year": 2009,
+      "country": "일본",
+      "setting": "괴물에게 지구를 잃고 천 년째 우주를 떠도는 씨앗 배에서 거대 로봇을 모는 소년",
+      "concepts": [
+        "generation_ship",
+        "space_beast",
+        "mecha",
+        "clone",
+        "genetic_eng",
+        "earth_left",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 2기·극장판 둘(라프텔), 애니리스트 이용자 5만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1·2기·극장판",
+        "src": "https://laftel.net/item/40712"
+      },
+      "borderline": false
+    },
+    {
+      "id": "akira",
+      "orig": "AKIRA",
+      "orig_en": "Akira",
+      "ko": "아키라",
+      "ko_src": "라프텔 '아키라'",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1982~1990), 극장판(1988)",
+      "by": "오토모 카츠히로, 도쿄 무비 신샤(극장판)",
+      "year": 1982,
+      "country": "일본",
+      "setting": "3차 대전 뒤 다시 세운 네오 도쿄, 군의 초능력 실험이 도시를 다시 무너뜨림",
+      "concepts": [
+        "psionics",
+        "catastrophe",
+        "ascension"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "극장판 애니리스트 이용자 23만·평균 79점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·넷플릭스·티빙·왓챠 공개(저스트워치 한국)",
+        "src": "https://laftel.net/item/40273"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ghost_in_the_shell",
+      "orig": "攻殻機動隊",
+      "orig_en": "Ghost in the Shell",
+      "ko": "공각기동대",
+      "ko_src": "라프텔 '공각기동대'",
+      "media": [
+        "만화",
+        "애니메이션",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1989), 극장판(1995)·이노센스(2004), TV 스탠드 얼론 컴플렉스(2002~)·ARISE·SAC_2045, 할리우드 실사(2017), 새 TV(2026)",
+      "by": "시로 마사무네, 프로덕션 I.G",
+      "year": 1989,
+      "country": "일본",
+      "setting": "뇌를 망에 잇고 몸을 기계로 바꾼 사람들의 도시, 마음까지 해킹하는 범죄를 쫓는 공안 부대",
+      "concepts": [
+        "cyborg",
+        "ai",
+        "merge",
+        "robot"
+      ],
+      "new_ideas": "뇌를 해킹해 기억과 감각을 바꾸는 범죄",
+      "lore_size": "큼",
+      "notability": "1995 극장판 애니리스트 이용자 18만·평균 80점, TV판 8만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 극장판·이노센스·ARISE·S.A.C·SAC_2045",
+        "src": "https://laftel.net/item/16214"
+      },
+      "borderline": false
+    },
+    {
+      "id": "toward_the_terra",
+      "orig": "地球へ…",
+      "orig_en": "Toward the Terra",
+      "ko": "지구로...",
+      "ko_src": "라프텔 '지구로...'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1977~1980), 극장판(1980), TV(2007)",
+      "by": "타케미야 케이코, 토에이 동화(극장판)·미나미마치 부교쇼(TV)",
+      "year": 1977,
+      "country": "일본",
+      "setting": "기계가 아이를 골라 기르고 기억을 지우는 사회에서 쫓겨난 초능력 인류의 귀향",
+      "concepts": [
+        "telepathy",
+        "next_human",
+        "ai",
+        "earth_left"
+      ],
+      "new_ideas": "기계가 사람을 고르고 기억을 지우는 관리 사회",
+      "lore_size": "중간",
+      "notability": "만화가 제1회 성운상 만화 부문(1978)·쇼가쿠칸 만화상 수상(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 극장판·TV판",
+        "src": "https://laftel.net/item/18103"
+      },
+      "borderline": false
+    },
+    {
+      "id": "trigun",
+      "orig": "トライガン",
+      "orig_en": "Trigun",
+      "ko": "트라이건",
+      "ko_src": "라프텔 '트라이건'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1995~2007), TV(1998), 극장판 배드랜즈 럼블(2010), 트라이건 스탬피드(2023)·스타게이즈",
+      "by": "나이토 야스히로, 매드하우스·오렌지",
+      "year": 1995,
+      "country": "일본",
+      "setting": "이주선이 떨어진 사막 행성에서 에너지 생명에 기대 사는 사람들과 현상금 걸린 총잡이",
+      "concepts": [
+        "earth_left",
+        "colonization",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 번·극장판으로 이어짐(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1998 TV판·스탬피드·스타게이즈·극장판",
+        "src": "https://laftel.net/item/16175"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outlaw_star",
+      "orig": "星方武侠アウトロースター",
+      "orig_en": "Outlaw Star",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1996~), TV(1998) 26화, 외전 성방천사 엔젤링크스",
+      "by": "이토 타케히코, 선라이즈",
+      "year": 1996,
+      "country": "일본",
+      "setting": "빛보다 빠른 배가 오가는 우주에서 전설의 보물 길을 찾는 떠돌이와 인조 소녀",
+      "concepts": [
+        "ftl",
+        "alien",
+        "precursor",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 3만 7천·평균 75점, 외전 엔젤링크스 제작(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "라프텔·저스트워치 한국·나무위키 어디에도 국내 정식 방영·발매 기록이 없음(찾은 범위 안)",
+        "src": "https://namu.wiki/w/%EC%84%B1%EB%B0%A9%EB%AC%B4%ED%98%91%20%EC%95%84%EC%9B%83%EB%A1%9C%EC%8A%A4%ED%83%80"
+      },
+      "borderline": false
+    },
+    {
+      "id": "planetes",
+      "orig": "プラネテス",
+      "orig_en": "Planetes",
+      "ko": "플라네테스",
+      "ko_src": "라프텔 '플라네테스'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1999~2004), TV(2003) 26화",
+      "by": "유키무라 마코토, 선라이즈(타니구치 고로)",
+      "year": 1999,
+      "country": "일본",
+      "setting": "달에 기지가 생긴 근미래, 궤도를 도는 쓰레기를 치우는 우주 노동자들",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "궤도 쓰레기가 우주 개척의 위험이 됨",
+      "lore_size": "중간",
+      "notability": "만화 성운상 만화 부문(2002)·TV판 성운상 미디어 부문(2005)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14119"
+      },
+      "borderline": false
+    },
+    {
+      "id": "astra_lost_in_space",
+      "orig": "彼方のアストラ",
+      "orig_en": "Astra Lost in Space",
+      "ko": "저 너머의 아스트라",
+      "ko_src": "라프텔 '저 너머의 아스트라'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(2016~2017), TV(2019) 12화",
+      "by": "시노하라 켄타, 레르체",
+      "year": 2016,
+      "country": "일본",
+      "setting": "수천 광년 밖으로 내던져진 학생들이 낡은 배로 고향 별까지 돌아가는 길",
+      "concepts": [
+        "teleport",
+        "clone",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV판 성운상 미디어 부문(2020), 애니리스트 이용자 11만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2024년 판권 만료)",
+        "src": "https://laftel.net/item/39365"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nausicaa",
+      "orig": "風の谷のナウシカ",
+      "orig_en": "Nausicaä of the Valley of the Wind",
+      "ko": "바람계곡의 나우시카",
+      "ko_src": "라프텔 '바람계곡의 나우시카'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1982~1994), 극장판(1984)",
+      "by": "미야자키 하야오, 톱크래프트(극장판)",
+      "year": 1982,
+      "country": "일본",
+      "setting": "불의 7일 뒤 독을 뿜는 숲과 거대 벌레가 땅을 덮은 세계, 숲과 사람 사이에 선 공주",
+      "concepts": [
+        "catastrophe",
+        "alien_ecology",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "극장판 성운상 미디어 부문(1985), 만화 성운상 만화 부문(1995)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·넷플릭스 공개",
+        "src": "https://laftel.net/item/14933"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cyborg_009",
+      "orig": "サイボーグ009",
+      "orig_en": "Cyborg 009",
+      "ko": "사이보그 009",
+      "ko_src": "라프텔 '사이보그 009 1979년판'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1964~), TV(1968·1979·2001), 극장판들, 009 RE:CYBORG(2012)",
+      "by": "이시노모리 쇼타로, 토에이 동화",
+      "year": 1964,
+      "country": "일본",
+      "setting": "무기 상인 조직이 납치해 개조한 아홉 사이보그 병사가 그 조직에 맞서 싸움",
+      "concepts": [
+        "cyborg",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 세 번·극장판 여러 편(애니리스트·라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1979년 TV판·극장판·009 RE:CYBORG",
+        "src": "https://laftel.net/item/13858"
+      },
+      "borderline": false
+    },
+    {
+      "id": "astro_boy",
+      "orig": "鉄腕アトム",
+      "orig_en": "Astro Boy",
+      "ko": "우주소년 아톰",
+      "ko_src": "라프텔 '우주소년 아톰 (1963)'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1952~1968), TV(1963·1980·2003), CG 극장판(2009)",
+      "by": "테즈카 오사무, 무시 프로덕션",
+      "year": 1952,
+      "country": "일본",
+      "setting": "로봇이 사람과 함께 사는 미래, 죽은 아이를 닮게 만들어진 소년 로봇",
+      "concepts": [
+        "android",
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "로봇의 권리를 다루는 법과 차별",
+      "lore_size": "중간",
+      "notability": "TV 세 번·극장판으로 이어짐(라프텔에 1963·1980·2003 TV판)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1963·1980·2003년 TV판",
+        "src": "https://laftel.net/item/18562"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_cobra",
+      "orig": "コブラ",
+      "orig_en": "Cobra / Space Adventure Cobra",
+      "ko": "스페이스 코브라",
+      "ko_src": "라프텔 '스페이스 코브라'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1978~), TV 스페이스 코브라(1982)·극장판, 코브라 디 애니메이션(2010)",
+      "by": "테라사와 부이치, 도쿄 무비 신샤",
+      "year": 1978,
+      "country": "일본",
+      "setting": "왼팔에 정신의 힘으로 쏘는 총을 숨긴 우주 해적이 은하 곳곳을 떠도는 활극",
+      "concepts": [
+        "alien",
+        "beam_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV·극장판·OVA로 이어짐(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판·코브라 디 애니메이션",
+        "src": "https://laftel.net/item/14695"
+      },
+      "borderline": false
+    },
+    {
+      "id": "appleseed",
+      "orig": "アップルシード",
+      "orig_en": "Appleseed",
+      "ko": "애플시드",
+      "ko_src": "라프텔 '애플시드'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화(1985~), OVA(1988), 극장판(2004)·엑스 마키나(2007)·알파(2014), TV XIII",
+      "by": "시로 마사무네, 디지털 프런티어(2004)",
+      "year": 1985,
+      "country": "일본",
+      "setting": "세계 대전 뒤 유전자로 설계한 인간과 사람이 함께 사는 실험 도시 올림포스",
+      "concepts": [
+        "cyborg",
+        "genetic_eng",
+        "power_armor",
+        "catastrophe",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "만화 성운상 만화 부문(1986), 극장판 여러 편(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 극장판들",
+        "src": "https://laftel.net/item/40304"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tokikake",
+      "orig": "時をかける少女",
+      "orig_en": "The Girl Who Leapt Through Time",
+      "ko": "시간을 달리는 소녀",
+      "ko_src": "라프텔 '시간을 달리는 소녀'",
+      "media": [
+        "소설",
+        "애니메이션",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설(1965 연재), 실사 영화·드라마 여러 번, 호소다 마모루 극장 애니메이션(2006)",
+      "by": "츠츠이 야스타카 / 매드하우스·호소다 마모루",
+      "year": 1965,
+      "country": "일본",
+      "setting": "어느 날 시간을 거슬러 뛰는 힘이 생긴 여고생이 그 힘을 마구 쓰다 깨닫는 것",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2006 극장판 성운상 미디어 부문(2007), 애니리스트 이용자 18만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(2026년 판권 만료 표시)·왓챠·웨이브 공개",
+        "src": "https://laftel.net/item/13820"
+      },
+      "borderline": false
+    },
+    {
+      "id": "paprika",
+      "orig": "パプリカ",
+      "orig_en": "Paprika",
+      "ko": "파프리카",
+      "ko_src": "라프텔 '파프리카'",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설(1993), 극장 애니메이션(2006)",
+      "by": "츠츠이 야스타카 / 매드하우스·콘 사토시",
+      "year": 1993,
+      "country": "일본",
+      "setting": "남의 꿈에 들어가는 치료 기계를 도둑맞자 꿈이 현실로 쏟아져 나옴",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "남의 꿈에 들어가는 기계",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 16만·평균 79점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·웨이브 공개",
+        "src": "https://laftel.net/item/13780"
+      },
+      "borderline": false
+    },
+    {
+      "id": "shin_sekai_yori",
+      "orig": "新世界より",
+      "orig_en": "From the New World",
+      "ko": "신세계에서",
+      "ko_src": "라프텔 '신세계에서'",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "소설(2008), TV(2012) 25화",
+      "by": "키시 유스케 / A-1 Pictures",
+      "year": 2008,
+      "country": "일본",
+      "setting": "옛 문명이 무너지고 천 년 뒤, 모두가 염력을 쓰는 마을이 숨겨 온 역사",
+      "concepts": [
+        "psionics",
+        "catastrophe",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 18만·평균 80점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2019년 판권 만료)",
+        "src": "https://laftel.net/item/22705"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sword_art_online",
+      "orig": "ソードアート・オンライン",
+      "orig_en": "Sword Art Online",
+      "ko": "소드 아트 온라인",
+      "ko_src": "라프텔 '소드 아트 온라인 1기'",
+      "media": [
+        "소설",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "웹 소설(2002)·라이트 노벨(2009~), TV(2012~) 여러 기·극장판, 게임 여러 편",
+      "by": "카와하라 레키 / A-1 Pictures",
+      "year": 2002,
+      "country": "일본",
+      "setting": "빠져나올 수 없게 된 가상 현실 게임에서 시작해 사람 마음을 본뜬 인공지능까지",
+      "concepts": [
+        "mind_upload",
+        "ai"
+      ],
+      "new_ideas": "죽으면 진짜로 죽는 가상 현실 게임",
+      "lore_size": "큼",
+      "notability": "애니리스트 이용자 73만, TV·극장판·게임이 계속 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1·2기·앨리시제이션·극장판",
+        "src": "https://laftel.net/item/22643"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bodacious_space_pirates",
+      "orig": "モーレツ宇宙海賊",
+      "orig_en": "Bodacious Space Pirates",
+      "ko": "맹렬 우주해적",
+      "ko_src": "라프텔 '맹렬 우주해적'",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설 미니스커트 우주해적(2008~), TV(2012) 26화·극장판(2014)",
+      "by": "사사모토 유이치 / 사테라이트, 사토 타츠오",
+      "year": 2008,
+      "country": "일본",
+      "setting": "식민 행성의 여고생이 나라가 허가한 우주 해적선의 선장 자리를 물려받음",
+      "concepts": [
+        "colonization",
+        "ftl",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV판 성운상 미디어 부문(2013)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/13268"
+      },
+      "borderline": false
+    },
+    {
+      "id": "crest_of_the_stars",
+      "orig": "星界の紋章",
+      "orig_en": "Crest of the Stars",
+      "ko": "성계의 문장",
+      "ko_src": "라프텔 '성계의 문장'",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설 성계의 문장(1996)·성계의 전기, TV 성계의 문장(1999)·성계의 전기(2000~)",
+      "by": "모리오카 히로유키 / 선라이즈",
+      "year": 1996,
+      "country": "일본",
+      "setting": "유전자를 고쳐 우주에 맞게 태어난 종족의 제국이 인류의 별들을 하나씩 삼켜 감",
+      "concepts": [
+        "galactic_empire",
+        "genetic_eng",
+        "spacers",
+        "fleet_battle",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "소설 연작과 TV 세 시리즈(라프텔), 애니리스트 평균 73점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 성계의 문장·성계의 전기 1·2기",
+        "src": "https://laftel.net/item/16490"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dirty_pair",
+      "orig": "ダーティペア",
+      "orig_en": "Dirty Pair",
+      "ko": "더티페어",
+      "ko_src": "라프텔 '더티페어'",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "소설(1980~2018), TV(1985)·극장판·OVA, 더티페어 플래시",
+      "by": "타카치호 하루카 / 선라이즈",
+      "year": 1980,
+      "country": "일본",
+      "setting": "은하 곳곳의 분쟁을 해결하러 간 두 요원이 가는 곳마다 큰 피해를 남김",
+      "concepts": [
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "소설이 40년 가까이 이어지고 TV·OVA·극장판으로 여러 번 만듦(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1985년 TV판",
+        "src": "https://laftel.net/item/15054"
+      },
+      "borderline": false
+    },
+    {
+      "id": "future_boy_conan",
+      "orig": "未来少年コナン",
+      "orig_en": "Future Boy Conan",
+      "ko": "미래소년 코난",
+      "ko_src": "라프텔 '미래소년 코난'",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "알렉산더 키의 소설 남겨진 사람들(1970)이 바탕, TV(1978) 26화",
+      "by": "미야자키 하야오, 닛폰 애니메이션",
+      "year": 1978,
+      "country": "일본",
+      "setting": "초자력 무기 전쟁으로 땅이 가라앉은 뒤, 외딴섬에서 자란 소년과 남은 도시의 싸움",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 평균 78점, 미야자키 하야오 첫 TV 감독작",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·티빙·왓챠 공개",
+        "src": "https://laftel.net/item/15059"
+      },
+      "borderline": false
+    },
+    {
+      "id": "castle_in_the_sky",
+      "orig": "天空の城ラピュタ",
+      "orig_en": "Castle in the Sky",
+      "ko": "천공의 성 라퓨타",
+      "ko_src": "라프텔 '천공의 성 라퓨타'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(1986)",
+      "by": "스튜디오 지브리, 미야자키 하야오",
+      "year": 1986,
+      "country": "일본",
+      "setting": "하늘에 떠 있는 옛 문명의 성과 그 문명이 남긴 로봇, 성을 노리는 군대",
+      "concepts": [
+        "precursor",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 13만·평균 80점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·넷플릭스 공개",
+        "src": "https://laftel.net/item/15152"
+      },
+      "borderline": true
+    },
+    {
+      "id": "wings_of_honneamise",
+      "orig": "王立宇宙軍 オネアミスの翼",
+      "orig_en": "Royal Space Force: The Wings of Honnêamise",
+      "ko": "왕립우주군-오네아미스의 날개",
+      "ko_src": "라프텔 '왕립우주군-오네아미스의 날개'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(1987), 속편 기획 우루의 날개",
+      "by": "가이낙스, 야마가 히로유키",
+      "year": 1987,
+      "country": "일본",
+      "setting": "우리와 닮았지만 다른 세계의 나라에서 처음으로 사람을 우주에 올리려는 계획",
+      "concepts": [],
+      "new_ideas": "다른 세계 나라의 첫 유인 우주 비행",
+      "lore_size": "중간",
+      "notability": "성운상 미디어 부문(1988)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠 공개",
+        "src": "https://laftel.net/item/14849"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nadia",
+      "orig": "ふしぎの海のナディア",
+      "orig_en": "Nadia: The Secret of Blue Water",
+      "ko": "신비한 바다의 나디아",
+      "ko_src": "라프텔 '신비한 바다의 나디아'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1990) 39화, 극장판(1991)",
+      "by": "가이낙스, 안노 히데아키",
+      "year": 1990,
+      "country": "일본",
+      "setting": "19세기 바다에서 잠수함 노틸러스호와 함께 별에서 온 옛 문명의 비밀을 쫓는 소녀",
+      "concepts": [
+        "precursor",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 2만 6천, 쥘 베른 작품에서 착상(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판(TV판 2021년 판권 만료)",
+        "src": "https://laftel.net/item/17339"
+      },
+      "borderline": false
+    },
+    {
+      "id": "megazone_23",
+      "orig": "メガゾーン23",
+      "orig_en": "Megazone 23",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 파트 I(1985)·II·III",
+      "by": "아트믹·아트랜드, 이시구로 노보루",
+      "year": 1985,
+      "country": "일본",
+      "setting": "1980년대 도쿄라고 믿던 도시가 사실은 컴퓨터가 다스리는 거대한 우주선 안이었음",
+      "concepts": [
+        "generation_ship",
+        "ai"
+      ],
+      "new_ideas": "자기가 배 안에 사는 줄 모르는 도시",
+      "lore_size": "중간",
+      "notability": "일본 첫 흥행 성공 OVA 로 꼽힘(웹 검색 결과 요약), 애니리스트 이용자 1만",
+      "korean": {
+        "status": "없음",
+        "detail": "라프텔·저스트워치 한국·나무위키에 국내 정식 발매 기록이 없음(찾은 범위 안)",
+        "src": "https://namu.wiki/w/%EB%A9%94%EA%B0%80%EC%A1%B4%2023"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gall_force",
+      "orig": "ガルフォース",
+      "orig_en": "Gall Force",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA·극장판 이터널 스토리(1986) ~ 지구장·더 레볼루션 등",
+      "by": "아트믹·AIC, 유멕스",
+      "year": 1986,
+      "country": "일본",
+      "setting": "여성만으로 된 종족과 다른 종족이 은하에서 끝없이 이어 온 전쟁의 비밀",
+      "concepts": [
+        "alien",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "여러 편으로 이어진 OVA 연작(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "이터널 스토리·우주장이 1990년 무렵 한국어 더빙 비디오로 나옴(나무위키)",
+        "src": "https://namu.wiki/w/%EA%B0%88%ED%8F%AC%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tenchi_muyo",
+      "orig": "天地無用!",
+      "orig_en": "Tenchi Muyo!",
+      "ko": "천지무용!",
+      "ko_src": "라프텔 '천지무용!'",
+      "media": [
+        "애니메이션",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 천지무용! 료오키(1992) ~ TV 여러 판·GXP·극장판",
+      "by": "AIC, 카지시마 마사키",
+      "year": 1992,
+      "country": "일본",
+      "setting": "시골 신사의 소년 앞에 은하 제국의 공주와 우주 해적, 여신급 과학자가 몰려듦",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "godlike",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "OVA·TV·극장판·외전으로 30년 넘게 이어짐(라프텔에 TV·GXP·극장판 둘)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 천지무용!·GXP·극장판",
+        "src": "https://laftel.net/item/16862"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nadesico",
+      "orig": "機動戦艦ナデシコ",
+      "orig_en": "Martian Successor Nadesico",
+      "ko": "기동전함 나데시코",
+      "ko_src": "라프텔 '기동전함 나데시코'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1996) 26화, 극장판 어둠의 왕자(1998)",
+      "by": "지벡, 사토 타츠오",
+      "year": 1996,
+      "country": "일본",
+      "setting": "화성 옛 문명의 기술로 순간 이동해 오는 적과 맞서는 민간 기업의 전함",
+      "concepts": [
+        "precursor",
+        "jump_drive",
+        "mecha",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "극장판 성운상 미디어 부문(1999)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판(2022년 판권 만료)·극장판",
+        "src": "https://laftel.net/item/14935"
+      },
+      "borderline": false
+    },
+    {
+      "id": "infinite_ryvius",
+      "orig": "無限のリヴァイアス",
+      "orig_en": "Infinite Ryvius",
+      "ko": "무한의 리바이어스",
+      "ko_src": "라프텔 '무한의 리바이어스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1999) 26화",
+      "by": "선라이즈, 타니구치 고로",
+      "year": 1999,
+      "country": "일본",
+      "setting": "사고로 낯선 거대 우주선에 갇힌 수백 명의 학생이 스스로 질서를 만들다 무너짐",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 평균 72점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14810"
+      },
+      "borderline": false
+    },
+    {
+      "id": "vandread",
+      "orig": "ヴァンドレッド",
+      "orig_en": "Vandread",
+      "ko": "반드레드",
+      "ko_src": "라프텔 '반드레드'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 1기(2000)·2기(2001)",
+      "by": "곤조",
+      "year": 2000,
+      "country": "일본",
+      "setting": "남자만 사는 별과 여자만 사는 별이 다투는 개척지, 한 배에 탄 남녀가 같은 적을 만남",
+      "concepts": [
+        "mecha",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 두 기(위키백과), 애니리스트 이용자 1만 6천",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14541"
+      },
+      "borderline": false
+    },
+    {
+      "id": "big_o",
+      "orig": "THEビッグオー",
+      "orig_en": "The Big O",
+      "ko": "빅오",
+      "ko_src": "라프텔 '빅오'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 1기(1999)·2기(2003)",
+      "by": "선라이즈, 카타야마 카즈요시·코나카 치아키",
+      "year": 1999,
+      "country": "일본",
+      "setting": "40년 전 기억을 모두 잃은 돔 도시에서 거대 로봇을 모는 협상가",
+      "concepts": [
+        "mecha",
+        "android"
+      ],
+      "new_ideas": "도시 전체가 과거의 기억을 잃음",
+      "lore_size": "중간",
+      "notability": "TV 두 기, 애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15186"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dot_hack",
+      "orig": ".hack//SIGN",
+      "orig_en": ".hack//Sign",
+      "ko": ".hack//SIGN",
+      "ko_src": "라프텔 '.hack//SIGN'",
+      "media": [
+        "애니메이션",
+        "게임",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV .hack//SIGN(2002)·게임 .hack 4부작(2002~)·황혼의 팔찌 전설·Roots·G.U.",
+      "by": "사이버커넥트2·반다이, 비 트레인(애니메이션)",
+      "year": 2002,
+      "country": "일본",
+      "setting": "온라인 게임 '더 월드'에 들어간 채 나오지 못하는 사람들과 게임 속에 생긴 인공지능",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "가상 세계 게임에 의식이 갇힘",
+      "lore_size": "중간",
+      "notability": "TV·게임·만화·소설로 함께 펼친 다매체 기획(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 .hack//SIGN·황혼의 팔찌전설·Roots",
+        "src": "https://laftel.net/item/14298"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rahxephon",
+      "orig": "ラーゼフォン",
+      "orig_en": "RahXephon",
+      "ko": "라제폰",
+      "ko_src": "라프텔 '라제폰'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2002) 26화, 극장판(2003)",
+      "by": "본즈, 이즈부치 유타카",
+      "year": 2002,
+      "country": "일본",
+      "setting": "시간이 다르게 흐르는 막에 갇힌 도쿄에서 깨어난 소년과 소리를 내는 거신",
+      "concepts": [
+        "alien",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14306"
+      },
+      "borderline": false
+    },
+    {
+      "id": "last_exile",
+      "orig": "LAST EXILE",
+      "orig_en": "Last Exile",
+      "ko": "라스트 엑자일",
+      "ko_src": "라프텔 '라스트 엑자일'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2003) 26화, 은빛 날개의 팜(2011)·극장판",
+      "by": "곤조, 치기라 코이치",
+      "year": 2003,
+      "country": "일본",
+      "setting": "하늘을 나는 기술을 한 조합이 쥐고 두 나라의 전쟁을 지켜보는 낯선 행성",
+      "concepts": [
+        "guild_monopoly",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 시리즈·극장판(라프텔), 애니리스트 이용자 3만 6천",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·은빛 날개의 팜·극장판",
+        "src": "https://laftel.net/item/14187"
+      },
+      "borderline": false
+    },
+    {
+      "id": "zegapain",
+      "orig": "ゼーガペイン",
+      "orig_en": "Zegapain",
+      "ko": "제가페인",
+      "ko_src": "라프텔 '제가페인'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2006) 26화, 극장판 ADP(2016)",
+      "by": "선라이즈, 시모다 마사미",
+      "year": 2006,
+      "country": "일본",
+      "setting": "같은 여름을 되풀이하는 바닷가 마을이 사실은 서버 속 기록이었던 세계",
+      "concepts": [
+        "mind_upload",
+        "catastrophe",
+        "mecha"
+      ],
+      "new_ideas": "되풀이되는 가상 도시에 사는 데이터가 된 사람들",
+      "lore_size": "중간",
+      "notability": "애니리스트 평균 70점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/13869"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dennou_coil",
+      "orig": "電脳コイル",
+      "orig_en": "Dennō Coil",
+      "ko": "전뇌 코일",
+      "ko_src": "라프텔 '전뇌 코일'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2007) 26화",
+      "by": "매드하우스, 이소 미츠오",
+      "year": 2007,
+      "country": "일본",
+      "setting": "아이들이 안경을 쓰면 겹쳐 보이는 전자 공간에서 사라진 사람의 흔적을 쫓음",
+      "concepts": [],
+      "new_ideas": "안경을 쓰면 현실 위에 겹쳐 보이는 전자 세계",
+      "lore_size": "중간",
+      "notability": "성운상 미디어 부문(2008), 애니리스트 평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/13719"
+      },
+      "borderline": false
+    },
+    {
+      "id": "darker_than_black",
+      "orig": "DARKER THAN BLACK",
+      "orig_en": "Darker than Black",
+      "ko": "Darker than BLACK-흑의 계약자",
+      "ko_src": "라프텔 'Darker than BLACK-흑의 계약자'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 흑의 계약자(2007)·유성의 제미니(2009)·OVA",
+      "by": "본즈, 오카무라 텐사이",
+      "year": 2007,
+      "country": "일본",
+      "setting": "하늘의 별이 바뀐 뒤 대가를 치르고 능력을 쓰는 사람들이 나타난 도쿄",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "능력을 쓸 때마다 정해진 대가를 치름",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 18만, TV 두 시리즈",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1·2기",
+        "src": "https://laftel.net/item/13756"
+      },
+      "borderline": true
+    },
+    {
+      "id": "kaiba",
+      "orig": "カイバ",
+      "orig_en": "Kaiba",
+      "ko": "카이바",
+      "ko_src": "라프텔 '카이바'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2008) 12화",
+      "by": "매드하우스, 유아사 마사아키",
+      "year": 2008,
+      "country": "일본",
+      "setting": "기억을 꺼내 사고팔고 몸을 갈아 끼우는 세계에서 기억을 잃고 깨어난 소년",
+      "concepts": [
+        "mind_upload",
+        "longevity"
+      ],
+      "new_ideas": "기억을 물건처럼 사고파는 시장",
+      "lore_size": "작음",
+      "notability": "애니리스트 평균 79점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15670"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fafner",
+      "orig": "蒼穹のファフナー",
+      "orig_en": "Fafner in the Azure",
+      "ko": "창궁의 파프너",
+      "ko_src": "라프텔 '창궁의 파프너 1기'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2004)·극장판 HEAVEN AND EARTH(2010)·EXODUS(2015)·THE BEYOND(2019~)",
+      "by": "지벡, 하바라 노부요시",
+      "year": 2004,
+      "country": "일본",
+      "setting": "모든 것을 동화시키는 규소 생명에 맞서 섬에 숨은 아이들이 거대 로봇에 오름",
+      "concepts": [
+        "alien",
+        "hive_mind",
+        "merge",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 3기·극장판·OVA로 20년 가까이 이어짐(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1기·EXODUS·THE BEYOND·극장판",
+        "src": "https://laftel.net/item/15434"
+      },
+      "borderline": false
+    },
+    {
+      "id": "eureka_seven",
+      "orig": "交響詩篇エウレカセブン",
+      "orig_en": "Eureka Seven",
+      "ko": "교향시편 유레카 세븐",
+      "ko_src": "라프텔 '교향시편 유레카 세븐'",
+      "media": [
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2005) 50화, 극장판(2009), 유레카 세븐 AO(2012), 하이에볼루션 3부작(2017~2021)",
+      "by": "본즈, 쿄다 토모키",
+      "year": 2005,
+      "country": "일본",
+      "setting": "땅을 덮은 거대한 산호 같은 생명 위에서 파도를 타듯 하늘을 나는 로봇과 소년",
+      "concepts": [
+        "living_planet",
+        "mecha",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV·속편·극장판 3부작(라프텔), 애니리스트 이용자 9만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·AO·극장판",
+        "src": "https://laftel.net/item/14010"
+      },
+      "borderline": false
+    },
+    {
+      "id": "heroic_age",
+      "orig": "ヒロイック・エイジ",
+      "orig_en": "Heroic Age",
+      "ko": "히로익 에이지",
+      "ko_src": "라프텔 '히로익 에이지'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2007) 26화",
+      "by": "지벡, 스즈키 토시마사",
+      "year": 2007,
+      "country": "일본",
+      "setting": "옛 황금 종족이 남긴 약속을 두고 여러 종족이 다투는 은하에서 쫓기는 인류",
+      "concepts": [
+        "precursor",
+        "alien",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 2만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/17961"
+      },
+      "borderline": false
+    },
+    {
+      "id": "king_gainer",
+      "orig": "OVERMANキングゲイナー",
+      "orig_en": "Overman King Gainer",
+      "ko": "오버맨 킹게이너",
+      "ko_src": "라프텔 '오버맨 킹게이너'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2002) 26화",
+      "by": "선라이즈, 토미노 요시유키",
+      "year": 2002,
+      "country": "일본",
+      "setting": "망가진 지구에서 돔 도시에 묶여 살던 사람들이 도시를 버리고 떠나는 대이동",
+      "concepts": [
+        "catastrophe",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "토미노 요시유키 감독작, 애니리스트 평균 70점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15367"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gargantia",
+      "orig": "翠星のガルガンティア",
+      "orig_en": "Gargantia on the Verdurous Planet",
+      "ko": "취성의 가르간티아",
+      "ko_src": "라프텔 '취성의 가르간티아'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2013) 13화, OVA",
+      "by": "프로덕션 I.G, 무라타 카즈야·우로부치 겐",
+      "year": 2013,
+      "country": "일본",
+      "setting": "우주 전쟁 중에 떨어진 소년병과 인공지능 로봇이 바다로 덮인 옛 지구에서 사는 법을 배움",
+      "concepts": [
+        "earth_left",
+        "mecha",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 8만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠 공개",
+        "src": "https://laftel.net/item/41005"
+      },
+      "borderline": false
+    },
+    {
+      "id": "guilty_crown",
+      "orig": "ギルティクラウン",
+      "orig_en": "Guilty Crown",
+      "ko": "길티 크라운",
+      "ko_src": "라프텔 '길티 크라운'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2011) 22화",
+      "by": "프로덕션 I.G, 아라키 테츠로",
+      "year": 2011,
+      "country": "일본",
+      "setting": "바이러스 재앙 뒤 외국 기관이 다스리는 도쿄, 남의 마음에서 무기를 꺼내는 힘",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 24만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개(2019년 판권 만료)",
+        "src": "https://laftel.net/item/13280"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kill_la_kill",
+      "orig": "キルラキル",
+      "orig_en": "Kill la Kill",
+      "ko": "킬라킬",
+      "ko_src": "라프텔 '킬라킬'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2013) 24화",
+      "by": "트리거, 이마이시 히로유키·나카시마 카즈키",
+      "year": 2013,
+      "country": "일본",
+      "setting": "입은 사람에게 힘을 주는 살아 있는 실의 옷과 그 실의 정체를 둘러싼 학원 싸움",
+      "concepts": [
+        "parasite",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 42만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/23202"
+      },
+      "borderline": true
+    },
+    {
+      "id": "patema_inverted",
+      "orig": "サカサマのパテマ",
+      "orig_en": "Patema Inverted",
+      "ko": "거꾸로 된 파테마",
+      "ko_src": "라프텔 '거꾸로 된 파테마'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2013)",
+      "by": "스튜디오 릿카, 요시우라 야스히로",
+      "year": 2013,
+      "country": "일본",
+      "setting": "옛 실험 사고로 중력이 서로 거꾸로 걸린 두 무리의 사람들이 만남",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "중력이 거꾸로 걸린 사람들",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 8만·평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠·웨이브 공개",
+        "src": "https://laftel.net/item/22263"
+      },
+      "borderline": false
+    },
+    {
+      "id": "promare",
+      "orig": "プロメア",
+      "orig_en": "Promare",
+      "ko": "프로메어",
+      "ko_src": "라프텔 '프로메어'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2019)",
+      "by": "트리거, 이마이시 히로유키·나카시마 카즈키",
+      "year": 2019,
+      "country": "일본",
+      "setting": "사람 몸에서 불이 솟는 병이 퍼진 뒤 불꽃 생명과 소방대, 지구 탈출 계획이 얽힘",
+      "concepts": [
+        "alien",
+        "mecha",
+        "ark",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 11만·평균 77점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·웨이브 공개",
+        "src": "https://laftel.net/item/41929"
+      },
+      "borderline": false
+    },
+    {
+      "id": "redline",
+      "orig": "REDLINE",
+      "orig_en": "Redline",
+      "ko": "레드라인",
+      "ko_src": "라프텔 '레드라인'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2009)",
+      "by": "매드하우스, 코이케 타케시",
+      "year": 2009,
+      "country": "일본",
+      "setting": "외계 종족이 섞여 사는 은하에서 무엇이든 허용되는 최고의 경주에 나선 사내",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 11만·평균 81점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/13312"
+      },
+      "borderline": false
+    },
+    {
+      "id": "voices_of_a_distant_star",
+      "orig": "ほしのこえ",
+      "orig_en": "Voices of a Distant Star",
+      "ko": "별의 목소리",
+      "ko_src": "라프텔 '별의 목소리'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "단편 애니메이션(2002)",
+      "by": "신카이 마코토",
+      "year": 2002,
+      "country": "일본",
+      "setting": "외계인과 싸우러 멀리 갈수록 휴대 전화 문자가 몇 년씩 늦게 닿는 두 사람",
+      "concepts": [
+        "ftl",
+        "alien",
+        "mecha"
+      ],
+      "new_ideas": "빛의 속도에 묶여 멀어질수록 몇 년씩 늦게 닿는 통신",
+      "lore_size": "작음",
+      "notability": "성운상 미디어 부문(2003)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠·웨이브 공개",
+        "src": "https://laftel.net/item/41938"
+      },
+      "borderline": false
+    },
+    {
+      "id": "place_promised",
+      "orig": "雲のむこう、約束の場所",
+      "orig_en": "The Place Promised in Our Early Days",
+      "ko": "구름의 저편, 약속의 장소",
+      "ko_src": "라프텔 '구름의 저편, 약속의 장소'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2004)",
+      "by": "신카이 마코토, 코믹스 웨이브",
+      "year": 2004,
+      "country": "일본",
+      "setting": "남북으로 갈린 다른 역사의 일본, 바다 건너 거대한 탑이 평행 세계를 끌어들임",
+      "concepts": [
+        "alt_timeline",
+        "megastructure"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 5만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠·웨이브 공개",
+        "src": "https://laftel.net/item/41939"
+      },
+      "borderline": false
+    },
+    {
+      "id": "your_name",
+      "orig": "君の名は。",
+      "orig_en": "Your Name",
+      "ko": "너의 이름은",
+      "ko_src": "라프텔 '너의 이름은'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2016)",
+      "by": "신카이 마코토, 코믹스 웨이브",
+      "year": 2016,
+      "country": "일본",
+      "setting": "자고 일어나면 몸이 바뀌는 두 사람이 사이에 놓인 3년과 혜성 재해를 알아챔",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 이용자 72만·평균 85점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·왓챠·웨이브 공개(저스트워치 한국 표기 '너의 이름은.')",
+        "src": "https://laftel.net/item/34324"
+      },
+      "borderline": true
+    },
+    {
+      "id": "summer_wars",
+      "orig": "サマーウォーズ",
+      "orig_en": "Summer Wars",
+      "ko": "썸머 워즈",
+      "ko_src": "라프텔 '썸머 워즈'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판(2009)",
+      "by": "매드하우스, 호소다 마모루",
+      "year": 2009,
+      "country": "일본",
+      "setting": "온 세상이 기대는 가상 공간을 인공지능이 집어삼키자 시골 대가족이 맞섬",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "성운상 미디어 부문(2010), 애니리스트 이용자 12만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·티빙·왓챠·웨이브 공개",
+        "src": "https://laftel.net/item/15785"
+      },
+      "borderline": true
+    },
+    {
+      "id": "flcl",
+      "orig": "フリクリ",
+      "orig_en": "FLCL",
+      "ko": "프리크리",
+      "ko_src": "라프텔 '프리크리 프로그레시브'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA(2000) 6화, 프로그레시브·얼터너티브(2018), 그런지·쉬브(2023)",
+      "by": "가이낙스·프로덕션 I.G, 츠루마키 카즈야",
+      "year": 2000,
+      "country": "일본",
+      "setting": "다리미 모양 공장이 내려다보는 마을, 머리에서 로봇이 튀어나오는 소년과 외계 여자",
+      "concepts": [
+        "alien",
+        "mega_corp",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 21만·평균 79점",
+      "korean": {
+        "status": "일부",
+        "detail": "라프텔에 2018 속편 프로그레시브·얼터너티브. 2000년 원작 OVA 의 한국어 정식 공개는 확인 못 함",
+        "src": "https://laftel.net/item/39327"
+      },
+      "borderline": true
+    },
+    {
+      "id": "aquarion",
+      "orig": "創聖のアクエリオン",
+      "orig_en": "Genesis of Aquarion",
+      "ko": "창성의 아쿠에리온",
+      "ko_src": "라프텔 '창성의 아쿠에리온'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2005)·극장판·아쿠에리온 EVOL(2012)·로고스(2015)·Myth of Emotions(2025)",
+      "by": "사테라이트, 카와모리 쇼지",
+      "year": 2005,
+      "country": "일본",
+      "setting": "1만 2천 년마다 깨어나는 타락 천사에 맞서 합체 로봇을 모는 환생한 젊은이들",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 네 시리즈와 극장판(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 창성·EVOL·로고스·Myth of Emotions",
+        "src": "https://laftel.net/item/14018"
+      },
+      "borderline": true
+    },
+    {
+      "id": "mazinger",
+      "orig": "マジンガーZ",
+      "orig_en": "Mazinger Z",
+      "ko": "마징가 Z",
+      "ko_src": "라프텔 '마징가 Z'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "마징가 Z(1972) ~ 그레이트 마징가·UFO 로보 그렌다이저, 극장판 인피니티(2017)",
+      "by": "나가이 고·다이내믹 프로, 토에이 동화",
+      "year": 1972,
+      "country": "일본",
+      "setting": "후지산에서만 나는 새 원소로 만든 거대 로봇이 옛 문명의 기계 짐승과 싸움",
+      "concepts": [
+        "mecha",
+        "key_resource",
+        "precursor",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 세 시리즈와 극장판 여럿(라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 마징가 Z 더빙판·그레이트 마징가·그랜다이져·극장판",
+        "src": "https://laftel.net/item/14969"
+      },
+      "borderline": false
+    },
+    {
+      "id": "getter_robo",
+      "orig": "ゲッターロボ",
+      "orig_en": "Getter Robo",
+      "ko": "겟타로보",
+      "ko_src": "라프텔 '겟타로보 아크'",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "겟타로보(1974)·G, 진 겟타로보 OVA 들, 겟타로보 아크(2021)",
+      "by": "나가이 고·이시카와 켄, 토에이 동화",
+      "year": 1974,
+      "country": "일본",
+      "setting": "우주에서 쏟아지는 빛 에너지로 움직이는 합체 로봇, 그 빛이 생명의 진화를 이끈다는 세계",
+      "concepts": [
+        "mecha",
+        "cosmic_force"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 시리즈와 OVA 여럿, 2021년 새 TV(나무위키·애니리스트)",
+      "korean": {
+        "status": "일부",
+        "detail": "지상파 방영·극장 개봉은 없었고(나무위키), 라프텔에 겟타로보 아크만 있음",
+        "src": "https://laftel.net/item/40363"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gatchaman",
+      "orig": "科学忍者隊ガッチャマン",
+      "orig_en": "Science Ninja Team Gatchaman",
+      "ko": "독수리 5형제",
+      "ko_src": "라프텔 '독수리 5형제'",
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1972) 105화, II·F, 리메이크 OVA, 갓챠맨 크라우즈(2013), 실사 영화(2013)",
+      "by": "타츠노코 프로덕션, 요시다 타츠오",
+      "year": 1972,
+      "country": "일본",
+      "setting": "세계를 노리는 비밀 조직과 그 뒤의 외계 존재에 맞서는 다섯 과학 닌자",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 105화와 속편 둘, 리메이크로 이어짐(애니리스트·라프텔)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 독수리 5형제·2·F·극장판·갓챠맨 크라우즈",
+        "src": "https://laftel.net/item/15123"
+      },
+      "borderline": false
+    },
+    {
+      "id": "casshern",
+      "orig": "新造人間キャシャーン",
+      "orig_en": "Casshan / Casshern",
+      "ko": "신조인간 캐산",
+      "ko_src": "라프텔 '신조인간 캐산'",
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1973) 35화, OVA(1993), 실사 영화(2004), 캐산 Sins(2008)",
+      "by": "타츠노코 프로덕션",
+      "year": 1973,
+      "country": "일본",
+      "setting": "반란을 일으킨 로봇 군대에 맞서려 스스로 기계 몸이 된 청년",
+      "concepts": [
+        "ai_revolt",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV·OVA·실사·리메이크 TV로 이어짐(라프텔·저스트워치)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 신조인간 캐산·캐산 Sins",
+        "src": "https://laftel.net/item/15167"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tekkaman_blade",
+      "orig": "宇宙の騎士テッカマンブレード",
+      "orig_en": "Tekkaman Blade",
+      "ko": "테카맨 블레이드",
+      "ko_src": "라프텔 '테카맨 블레이드'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1992) 49화, OVA 테카맨 블레이드 II",
+      "by": "타츠노코 프로덕션",
+      "year": 1992,
+      "country": "일본",
+      "setting": "사람을 갑옷 전사로 바꾸는 외계 생명이 지구를 덮치고, 그 몸이 된 청년이 맞섬",
+      "concepts": [
+        "alien",
+        "parasite",
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 49화(애니리스트), 애니리스트 평균 70점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14867"
+      },
+      "borderline": false
+    },
+    {
+      "id": "voltes_v",
+      "orig": "超電磁マシーン ボルテスV",
+      "orig_en": "Voltes V",
+      "ko": "초전자머신 볼테스 V",
+      "ko_src": "라프텔 '초전자머신 볼테스 V'",
+      "media": [
+        "애니메이션",
+        "드라마"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1977) 40화, 필리핀 실사 드라마 볼테스 V 레거시(2023)",
+      "by": "선라이즈·토에이, 나가하마 타다오",
+      "year": 1977,
+      "country": "일본",
+      "setting": "뿔 달린 귀족이 다스리는 외계 제국의 침공에 다섯 젊은이가 합체 로봇으로 맞섬",
+      "concepts": [
+        "alien",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "필리핀에서 실사 드라마 볼테스 V 레거시(2023)로 다시 만듦, TV 40화(애니리스트)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14988"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gaogaigar",
+      "orig": "勇者王ガオガイガー",
+      "orig_en": "The King of Braves GaoGaiGar",
+      "ko": "용자왕 가오가이가",
+      "ko_src": "라프텔 '용자왕 가오가이가'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1997) 49화, OVA 가오가이가 FINAL(2000~)",
+      "by": "선라이즈, 요네타니 요시토모",
+      "year": 1997,
+      "country": "일본",
+      "setting": "사람 마음의 괴로움을 먹고 기계를 괴물로 바꾸는 외계 존재와 싸우는 사이보그 대장",
+      "concepts": [
+        "alien",
+        "mecha",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 뒤 OVA FINAL, 애니리스트 평균 76점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·FINAL",
+        "src": "https://laftel.net/item/15110"
+      },
+      "borderline": false
+    },
+    {
+      "id": "round_vernian_vifam",
+      "orig": "銀河漂流バイファム",
+      "orig_en": "Round Vernian Vifam",
+      "ko": "은하표류 바이팜",
+      "ko_src": "라프텔 '은하표류 바이팜 13'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1983) 46화, OVA, 은하표류 바이팜 13(1998)",
+      "by": "선라이즈, 칸다 타케유키",
+      "year": 1983,
+      "country": "일본",
+      "setting": "외계 종족의 습격을 받은 개척 행성에서 아이들끼리 우주선을 몰고 도망침",
+      "concepts": [
+        "alien",
+        "colonization",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 뒤 OVA·리메이크 TV(일본 위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "라프텔에 1998년판 '은하표류 바이팜 13'만 있음",
+        "src": "https://laftel.net/item/14460"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dougram",
+      "orig": "太陽の牙ダグラム",
+      "orig_en": "Fang of the Sun Dougram",
+      "ko": "태양의 어금니 다그람",
+      "ko_src": "라프텔 '태양의 어금니 다그람'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1981~1983) 75화, 기록 극장판(1983)",
+      "by": "선라이즈, 타카하시 료스케",
+      "year": 1981,
+      "country": "일본",
+      "setting": "지구 연방에 맞서 독립을 외치는 개척 행성 델로이아의 게릴라와 로봇",
+      "concepts": [
+        "colonization",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 75화(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15318"
+      },
+      "borderline": false
+    },
+    {
+      "id": "xabungle",
+      "orig": "戦闘メカ ザブングル",
+      "orig_en": "Combat Mecha Xabungle",
+      "ko": "전투메카 자붕글",
+      "ko_src": "라프텔 '전투메카 자붕글'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1982) 50화, 극장판 자붕글 그래피티",
+      "by": "선라이즈, 토미노 요시유키",
+      "year": 1982,
+      "country": "일본",
+      "setting": "사막 행성에서 '이노센트'라 불리는 이들이 사람을 다스리는 서부극 같은 세계",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 50화와 극장판(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/18179"
+      },
+      "borderline": false
+    },
+    {
+      "id": "l_gaim",
+      "orig": "重戦機エルガイム",
+      "orig_en": "Heavy Metal L-Gaim",
+      "ko": "중전기 엘가임",
+      "ko_src": "라프텔 '중전기 엘가임'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(1984) 54화, OVA",
+      "by": "선라이즈, 토미노 요시유키",
+      "year": 1984,
+      "country": "일본",
+      "setting": "다섯 행성을 다스리는 황제 포세이달의 제국에 맞서는 떠돌이 청년들",
+      "concepts": [
+        "galactic_empire",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 54화, 나가노 마모루 디자인(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/14484"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_seed",
+      "orig": "機動戦士ガンダムSEED",
+      "orig_en": "Mobile Suit Gundam SEED",
+      "ko": "기동전사 건담 SEED",
+      "ko_src": "라프텔 '기동전사 건담 SEED HD 리마스터'",
+      "media": [
+        "애니메이션",
+        "게임",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "애니메이션",
+      "series": "코즈믹 에라: SEED(2002)·SEED DESTINY(2004)·외전 ASTRAY·극장판 SEED FREEDOM(2024)",
+      "by": "선라이즈, 후쿠다 미츠오",
+      "year": 2002,
+      "country": "일본",
+      "setting": "유전자를 고친 사람과 그대로인 사람이 우주 식민지와 지구로 갈라져 벌이는 전쟁",
+      "concepts": [
+        "genetic_eng",
+        "spacers",
+        "habitat",
+        "mecha",
+        "fleet_battle",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "TV 두 시리즈·외전·2024 극장판으로 이어짐, 애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 SEED·DESTINY·스페셜 에디션, 극장판 FREEDOM 은 넷플릭스·티빙 등(저스트워치 한국)",
+        "src": "https://laftel.net/item/14238"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_00",
+      "orig": "機動戦士ガンダム00",
+      "orig_en": "Mobile Suit Gundam 00",
+      "ko": "기동전사 건담 00",
+      "ko_src": "라프텔 '기동전사 건담 00'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "서기 연표: TV 1·2기(2007~2009), 극장판 선구자의 각성(2010)",
+      "by": "선라이즈, 미즈시마 세이지",
+      "year": 2007,
+      "country": "일본",
+      "setting": "궤도 엘리베이터를 쥔 세 강대국의 분쟁에 무력으로 끼어들어 전쟁을 없애려는 조직",
+      "concepts": [
+        "space_elevator",
+        "mecha",
+        "next_human",
+        "first_contact",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 기와 극장판, 애니리스트 평균 78점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판",
+        "src": "https://laftel.net/item/15612"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_iron_blooded_orphans",
+      "orig": "機動戦士ガンダム 鉄血のオルフェンズ",
+      "orig_en": "Mobile Suit Gundam: Iron-Blooded Orphans",
+      "ko": "기동전사 건담 철혈의 오펀스",
+      "ko_src": "라프텔 '기동전사 건담 : 철혈의 오펀스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "P.D. 연표: TV 1·2기(2015~2017), 우르즈 헌트",
+      "by": "선라이즈, 나가이 타츠유키·오카다 마리",
+      "year": 2015,
+      "country": "일본",
+      "setting": "옛 대전쟁 뒤 귀족 조직이 지키는 질서 아래, 화성의 소년병들이 등에 기계를 심고 싸움",
+      "concepts": [
+        "mecha",
+        "cyborg",
+        "blade_return",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 기와 외전, 애니리스트 이용자 7만",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 1·2기·우르즈 헌트",
+        "src": "https://laftel.net/item/44347"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_witch_from_mercury",
+      "orig": "機動戦士ガンダム 水星の魔女",
+      "orig_en": "Mobile Suit Gundam: The Witch from Mercury",
+      "ko": "기동전사 건담 수성의 마녀",
+      "ko_src": "라프텔 '(자막) 기동전사 건담 수성의 마녀 part 1'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "A.S. 연표: 프롤로그(2022)·TV 두 부분(2022~2023)",
+      "by": "선라이즈, 코바야시 히로시·오코우치 이치로",
+      "year": 2022,
+      "country": "일본",
+      "setting": "우주의 거대 기업 연합이 다스리는 시대, 기업 학교에 들어온 수성 출신 소녀",
+      "concepts": [
+        "mecha",
+        "mega_corp",
+        "spacers",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 7만, 건담 본편 15번째(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 자막·더빙 두 부분",
+        "src": "https://laftel.net/item/41072"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_wing",
+      "orig": "新機動戦記ガンダムW",
+      "orig_en": "Mobile Suit Gundam Wing",
+      "ko": "신기동전기 건담 W",
+      "ko_src": "나무위키 '신기동전기 건담 W'(투니버스 방영판)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "A.C. 연표: TV(1995) 49화, 엔드리스 왈츠(1997)",
+      "by": "선라이즈, 이케다 마사시·타카마츠 신지",
+      "year": 1995,
+      "country": "일본",
+      "setting": "지구 연합에 짓눌린 우주 식민지들이 몰래 보낸 다섯 소년과 다섯 건담",
+      "concepts": [
+        "mecha",
+        "habitat",
+        "spacers"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "국내 첫 TV 정식 방영 건담(나무위키), 애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "투니버스 한국어 더빙 방영(2002, 나무위키)",
+        "src": "https://namu.wiki/w/%EC%8B%A0%EA%B8%B0%EB%8F%99%EC%A0%84%EA%B8%B0%20%EA%B1%B4%EB%8B%B4%20W"
+      },
+      "borderline": false
+    },
+    {
+      "id": "g_gundam",
+      "orig": "機動武闘伝Gガンダム",
+      "orig_en": "Mobile Fighter G Gundam",
+      "ko": "기동무투전 G 건담",
+      "ko_src": "라프텔 '기동무투전 G 건담'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "F.C. 연표: TV(1994) 49화",
+      "by": "선라이즈, 이마가와 야스히로",
+      "year": 1994,
+      "country": "일본",
+      "setting": "나라들이 전쟁 대신 건담 격투 대회로 지구 위 우주 식민지들의 패권을 다툼",
+      "concepts": [
+        "mecha",
+        "habitat",
+        "nanotech",
+        "self_replicate"
+      ],
+      "new_ideas": "전쟁 대신 나라 대표끼리 결투해 패권을 정함",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 1만 8천·평균 75점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15133"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_x",
+      "orig": "機動新世紀ガンダムX",
+      "orig_en": "After War Gundam X",
+      "ko": "기동신세기 건담 X",
+      "ko_src": "라프텔 '기동신세기 건담 X'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "A.W. 연표: TV(1996) 39화",
+      "by": "선라이즈, 타카마츠 신지",
+      "year": 1996,
+      "country": "일본",
+      "setting": "식민지를 떨어뜨린 전쟁으로 인류 대부분이 죽은 뒤 15년, 폐허를 떠도는 소년",
+      "concepts": [
+        "catastrophe",
+        "mecha",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니리스트 평균 72점",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/15139"
+      },
+      "borderline": false
+    },
+    {
+      "id": "turn_a_gundam",
+      "orig": "∀ガンダム",
+      "orig_en": "Turn A Gundam",
+      "ko": "턴에이 건담",
+      "ko_src": "라프텔 '턴에이 건담'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "C.C. 연표: TV(1999) 50화, 극장판 지구광·월광접(2002)",
+      "by": "선라이즈, 토미노 요시유키",
+      "year": 1999,
+      "country": "일본",
+      "setting": "모든 기술이 묻힌 먼 미래, 달에서 돌아온 사람들과 산업 시대 지구 사람들이 만남",
+      "concepts": [
+        "golden_age",
+        "nanotech",
+        "spacers",
+        "cryosleep",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 평균 80점, 극장판 두 편",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔에 TV판·극장판 둘",
+        "src": "https://laftel.net/item/15014"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_age",
+      "orig": "機動戦士ガンダムAGE",
+      "orig_en": "Mobile Suit Gundam AGE",
+      "ko": "기동전사 건담 AGE",
+      "ko_src": "라프텔 '기동전사 건담 AGE'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "A.G. 연표: TV(2011~2012) 49화, 3대에 걸친 이야기",
+      "by": "선라이즈, 히노 아키히로(레벨 파이브)",
+      "year": 2011,
+      "country": "일본",
+      "setting": "버려진 화성 이주민의 후손과 지구 연방이 3대 백 년 동안 싸우는 전쟁",
+      "concepts": [
+        "mecha",
+        "colonization",
+        "spacers"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 49화(애니리스트)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔 공개",
+        "src": "https://laftel.net/item/22253"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gundam_gquuuuuux",
+      "orig": "機動戦士Gundam GQuuuuuuX",
+      "orig_en": "Mobile Suit Gundam GQuuuuuuX",
+      "ko": "기동전사 건담 지쿠악스",
+      "ko_src": "저스트워치 한국·나무위키 '기동전사 건담 지쿠악스'",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV(2025) 12화, 극장 선행판 비기닝",
+      "by": "선라이즈·스튜디오 카라, 츠루마키 카즈야",
+      "year": 2025,
+      "country": "일본",
+      "setting": "1년 전쟁에서 지온이 이긴 쪽으로 갈라진 역사, 식민지에 사는 여고생이 불법 결투에 뛰어듦",
+      "concepts": [
+        "alt_timeline",
+        "mecha",
+        "psionics",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니리스트 이용자 3만",
+      "korean": {
+        "status": "있음",
+        "detail": "프라임 비디오 한국 공개, 한국어 자막(저스트워치 한국·나무위키)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/gidongjeonsa-geondam-jikuagseu"
+      },
+      "borderline": false
+    }
+  ]
+}

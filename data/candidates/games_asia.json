@@ -1,0 +1,3075 @@
+{
+ "group": "games_asia",
+ "candidates": [
+  {
+   "id": "xenogears",
+   "orig": "ゼノギアス",
+   "orig_en": "Xenogears",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Xenogears (1998)",
+   "by": "Square",
+   "year": 1998,
+   "country": "일본",
+   "setting": "옛 우주선 추락에서 비롯된 행성에서, 거대 로봇을 탄 이들이 신과 사람의 기원을 쫓는다",
+   "concepts": [
+    "mecha",
+    "nanotech",
+    "techno_religion",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2003년까지 세계 119만 장 출하, 메타크리틱 84 — 컬트 명작으로 꼽힘(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "PS1 판만 있고 지금 파는 판이 없다. 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Xenogears"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xenosaga",
+   "orig": "ゼノサーガ",
+   "orig_en": "Xenosaga",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Xenosaga Episode I (2002) ~ Episode III (2006)",
+   "by": "Monolith Soft",
+   "year": 2002,
+   "country": "일본",
+   "setting": "지구를 잃고 수천 년 뒤 은하로 퍼진 인류가, 외계 존재와 옛 유물을 두고 싸운다",
+   "concepts": [
+    "earth_left",
+    "android",
+    "mecha",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "에피소드 I 이 2002년 일본 판매 7위, 해외 포함 100만 장 넘게 팔림(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "PS2 판만 있고 지금 파는 판이 없다. 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Xenosaga"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xenoblade_chronicles",
+   "orig": "ゼノブレイド",
+   "orig_en": "Xenoblade Chronicles",
+   "ko": "제노블레이드 크로니클스",
+   "ko_src": "닌텐도 스토어 한국 — 제노블레이드 크로니클스 디피니티브 에디션·2·3 https://store.nintendo.co.kr/70010000053338",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Xenoblade Chronicles (2010), 2 (2017), 3 (2022)와 추가 이야기들",
+   "by": "Monolith Soft (Nintendo)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "거대한 두 신의 몸 위에 사는 사람들의 싸움 뒤에, 세계를 다시 짠 실험의 비밀이 있다",
+   "concepts": [
+    "godlike",
+    "alt_timeline",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "시리즈 세계 874만 장 넘게 팔림(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "1편 디피니티브 에디션·2·3 모두 한국어 지원(닌텐도 스토어 한국 대응 언어)",
+    "src": "https://store.nintendo.co.kr/70010000053338"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xenoblade_chronicles_x",
+   "orig": "ゼノブレイドクロス",
+   "orig_en": "Xenoblade Chronicles X",
+   "ko": "제노블레이드 크로니클스 크로스",
+   "ko_src": "닌텐도 스토어 한국 — 제노블레이드 크로니클스 크로스 디피니티브 에디션 https://store.nintendo.co.kr/hacpbas6akor",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Xenoblade Chronicles X (2015), Definitive Edition (2025)",
+   "by": "Monolith Soft (Nintendo)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "외계 전쟁에 지구가 사라지고, 피난선이 떨어진 낯선 행성에서 사람들이 터를 일군다",
+   "concepts": [
+    "earth_left",
+    "colonization",
+    "alien_ecology",
+    "alien",
+    "mecha",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "메타크리틱 84, 디피니티브 에디션 87(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "디피니티브 에디션(2025) 한국어 지원. 2015년 원판의 한국판은 못 찾음",
+    "src": "https://store.nintendo.co.kr/hacpbas6akor"
+   },
+   "borderline": false
+  },
+  {
+   "id": "phantasy_star",
+   "orig": "ファンタシースター",
+   "orig_en": "Phantasy Star",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Phantasy Star (1987) ~ Phantasy Star IV (1993)",
+   "by": "Sega",
+   "year": 1987,
+   "country": "일본",
+   "setting": "세 행성이 도는 알골 별계에서, 별계를 다스리는 기계와 천 년마다 깨어나는 어둠이 얽힌다",
+   "concepts": [
+    "ai",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "세가의 장수 롤플레잉 — 세계가 다른 하위 시리즈 넷으로 이어짐(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "지금 파는 한국 판을 못 찾음(한국 닌텐도 스토어 검색에 없음)",
+    "src": "https://en.wikipedia.org/wiki/Phantasy_Star"
+   },
+   "borderline": false
+  },
+  {
+   "id": "phantasy_star_online",
+   "orig": "ファンタシースターオンライン",
+   "orig_en": "Phantasy Star Online",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "PSO (2000), Episode I&II, Episode III (2003), Blue Burst",
+   "by": "Sonic Team (Sega)",
+   "year": 2000,
+   "country": "일본",
+   "setting": "고향 별을 떠난 이주선이 닿은 행성 라골에서, 먼저 간 사람들이 사라진 까닭을 캔다",
+   "concepts": [
+    "colonization",
+    "alien_ecology"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 게임 대상 올해의 게임, 콘솔 온라인 게임의 이정표로 꼽힘(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "공식 서버가 2010년에 닫혀 지금 파는 판이 없다. 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Phantasy_Star_Online"
+   },
+   "borderline": false
+  },
+  {
+   "id": "phantasy_star_online_2",
+   "orig": "ファンタシースターオンライン2",
+   "orig_en": "Phantasy Star Online 2",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "PSO2 (2012), PSO2 New Genesis (2021)",
+   "by": "Sega",
+   "year": 2012,
+   "country": "일본",
+   "setting": "별 사이를 떠도는 함대 오라클의 대원들이, 우주를 좀먹는 어둠의 존재와 싸운다",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2021년까지 9억 달러 넘게 벌어들임(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "뉴 제네시스 스팀판은 한국어가 없고 한국 상점에서 팔지 않는다. 옛 한국 서비스 여부는 확인 못 함",
+    "src": "https://store.steampowered.com/app/1056640/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "star_ocean",
+   "orig": "スターオーシャン",
+   "orig_en": "Star Ocean",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Star Ocean (1996) ~ The Divine Force (2022)",
+   "by": "tri-Ace (Square Enix)",
+   "year": 1996,
+   "country": "일본",
+   "setting": "은하 연방이 덜 자란 행성에 손대지 않는다는 규칙 아래, 별을 건너다니는 모험",
+   "concepts": [
+    "federation",
+    "non_interference",
+    "ftl",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2013년까지 시리즈 420만 장 넘게 출하(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "5편·세컨드 스토리 R·디바인 포스는 한국어판, 퍼스트 디파처 R 은 영어·일본어판뿐(PS 스토어 한국)",
+    "src": "https://store.playstation.com/ko-kr/search/star%20ocean"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nier",
+   "orig": "NieR",
+   "orig_en": "",
+   "ko": "니어",
+   "ko_src": "PS 스토어 한국 'NieR:Automata 한국어판' 설명의 《니어 오토마타》 https://www.playstation.com/ko-kr/games/nier-automata/",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "NieR (2010), NieR:Automata (2017), NieR Replicant ver.1.22 (2021), NieR Re[in]carnation (2021) — Drakengard 의 한 결말에서 갈라져 나온 세계",
+   "by": "Cavia·PlatinumGames·Square Enix (요코오 타로)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "사람이 사라진 지구에서, 인조인간 병사와 외계에서 온 기계 생명이 끝없이 싸운다",
+   "concepts": [
+    "android",
+    "robot",
+    "alien",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "오토마타가 세계적으로 크게 팔리고 평가받아 원작 리메이크까지 이어짐(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "오토마타 PS4 한국어판, 레플리칸트 리메이크 한국어 지원(PS 스토어 한국·스팀). 오토마타 스팀판은 한국어 없음",
+    "src": "https://www.playstation.com/ko-kr/games/nier-automata/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "metal_gear",
+   "orig": "メタルギア",
+   "orig_en": "Metal Gear",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "소설",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Metal Gear (1987) ~ Metal Gear Solid Δ: Snake Eater (2025)",
+   "by": "Konami (고지마 히데오)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "핵을 쏘는 두 발 병기와 정보를 쥔 인공지능을 둘러싸고 병사들이 싸우는 근미래",
+   "concepts": [
+    "mecha",
+    "ai",
+    "clone",
+    "nanotech",
+    "super_soldier",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2026년 6월까지 시리즈 6,640만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "MGS V·MGS Δ 는 한국어, 마스터 컬렉션은 영어·일본어뿐(PS 스토어 한국)",
+    "src": "https://store.playstation.com/ko-kr/search/metal%20gear"
+   },
+   "borderline": true
+  },
+  {
+   "id": "zone_of_the_enders",
+   "orig": "ZONE OF THE ENDERS",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Zone of the Enders (2001), The 2nd Runner (2003), 애니메이션 2167 Idolo·Dolores, i",
+   "by": "Konami",
+   "year": 2001,
+   "country": "일본",
+   "setting": "화성과 목성 개척지가 지구와 맞서는 시대, 신비한 광석으로 만든 로봇이 싸운다",
+   "concepts": [
+    "mecha",
+    "colonization",
+    "key_resource",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "게임 둘에 애니메이션 둘로 넓어진 세계(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "PS4 'The 2nd Runner : M∀RS'는 영어판, 스팀판도 한국어 없음",
+    "src": "https://store.playstation.com/ko-kr/search/zone%20of%20the%20enders"
+   },
+   "borderline": false
+  },
+  {
+   "id": "armored_core",
+   "orig": "アーマード・コア",
+   "orig_en": "Armored Core",
+   "ko": "아머드 코어",
+   "ko_src": "스팀 한국어 상점 이름 '아머드 코어 VI 루비콘의 화염' https://store.steampowered.com/app/1888160/",
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Armored Core (1997) ~ Armored Core VI: Fires of Rubicon (2023)",
+   "by": "FromSoftware",
+   "year": 1997,
+   "country": "일본",
+   "setting": "거대 기업이 다스리는 무너진 세계에서, 용병이 조립식 로봇을 몰고 일을 받는다",
+   "concepts": [
+    "mecha",
+    "mega_corp",
+    "catastrophe",
+    "key_resource"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "6편 스팀 평가 8만 6천 건 '매우 긍정적', 2024년 애니메이션 단편으로도 옮겨짐(스팀·영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "6편은 한국어, PS 스토어의 옛 작품(ARMORED CORE·PROJECT PHANTASMA·MASTER OF ARENA)은 영어판",
+    "src": "https://store.playstation.com/ko-kr/search/armored%20core"
+   },
+   "borderline": false
+  },
+  {
+   "id": "front_mission",
+   "orig": "フロントミッション",
+   "orig_en": "Front Mission",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Front Mission (1995) ~ Front Mission 1st: Remake (2023)",
+   "by": "Square (Square Enix)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "초강대국 연합들이 다투는 근미래, 사람이 타는 두 발 보행 병기가 전장을 누빈다",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2006년까지 시리즈 300만 장 넘게 팔림, 연작 드라마에 견주는 이어진 서사(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "1st 리메이크·Evolved 스팀판에 한국어 없음, 한국 PS·닌텐도 스토어에서 한국어판 못 찾음",
+    "src": "https://store.steampowered.com/app/2399730/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "thirteen_sentinels",
+   "orig": "十三機兵防衛圏",
+   "orig_en": "13 Sentinels: Aegis Rim",
+   "ko": "13기병방위권",
+   "ko_src": "PS 한국 게임 쪽 제목 https://www.playstation.com/ko-kr/games/13-sentinels-aegis-rim/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "13 Sentinels: Aegis Rim (2019)",
+   "by": "Vanillaware (Atlus)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "서로 다른 시대에서 온 소년소녀 열셋이 거대 로봇을 타고, 무너지는 도시의 비밀을 푼다",
+   "concepts": [
+    "mecha",
+    "time_travel",
+    "ark",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2023년까지 100만 장 출하·판매(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "PS4 판 자막에 한국어(PS 한국 게임 쪽)",
+    "src": "https://www.playstation.com/ko-kr/games/13-sentinels-aegis-rim/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "science_adventure",
+   "orig": "科学アドベンチャーシリーズ",
+   "orig_en": "Science Adventure",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "CHAOS;HEAD (2008), STEINS;GATE (2009), ROBOTICS;NOTES (2012), CHAOS;CHILD (2014), STEINS;GATE 0 (2015), ANONYMOUS;CODE (2022)",
+   "by": "5pb.·Nitroplus (MAGES.)",
+   "year": 2008,
+   "country": "일본",
+   "setting": "한 세계 안의 근미래 일본에서, 시간 여행·망상의 힘·인공지능을 다루는 사건이 이어진다",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "ai",
+    "mind_upload",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "STEINS;GATE 2009년 패미통 우수상, STEINS;GATE 작품들만 100만 장 넘음(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "STEINS;GATE 0·CHAOS;CHILD 는 PS4 한국어판(PS 스토어 한국 '슈타인즈 게이트 0', 'Chaos;Child (카오스 차일드)'), 스팀판들은 한국어 없음",
+    "src": "https://store.playstation.com/ko-kr/search/%EC%8A%88%ED%83%80%EC%9D%B8%EC%A6%88%20%EA%B2%8C%EC%9D%B4%ED%8A%B8"
+   },
+   "borderline": false
+  },
+  {
+   "id": "zero_escape",
+   "orig": "極限脱出",
+   "orig_en": "Zero Escape",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "999 (2009), Virtue's Last Reward (2012), Zero Time Dilemma (2016)",
+   "by": "Chunsoft (Spike Chunsoft, 우치코시 고타로)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "갇힌 아홉 사람이 목숨을 건 탈출 놀이를 하며, 시간과 의식을 건너는 힘의 비밀에 닿는다",
+   "concepts": [
+    "alt_timeline",
+    "psionics",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2018년까지 시리즈 50만 장 넘음, 실험적인 서사로 높은 평가(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀판 둘 다 한국어 없음, 한국 PS·닌텐도 스토어에 없음",
+    "src": "https://store.steampowered.com/app/477740/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ai_the_somnium_files",
+   "orig": "AI: ソムニウムファイル",
+   "orig_en": "AI: The Somnium Files",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "AI: The Somnium Files (2019), nirvanA Initiative (2022)",
+   "by": "Spike Chunsoft (우치코시 고타로)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "근미래 도쿄의 형사가 인공지능 의안과 함께 용의자의 꿈속에 들어가 사건을 푼다",
+   "concepts": [
+    "ai",
+    "cyborg"
+   ],
+   "new_ideas": "남의 꿈속에 들어가 기억을 뒤지는 수사",
+   "lore_size": "중간",
+   "notability": "평론 긍정적, 그해 닌텐도 스위치 평점 12위(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀판 한국어 없음, 한국 PS·닌텐도 스토어에서 못 찾음",
+    "src": "https://store.steampowered.com/app/948740/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "death_stranding",
+   "orig": "DEATH STRANDING",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Death Stranding (2019), Death Stranding 2: On the Beach (2025)",
+   "by": "Kojima Productions",
+   "year": 2019,
+   "country": "일본",
+   "setting": "죽음의 세계가 이쪽으로 넘쳐 무너진 미국에서, 배달부가 끊긴 도시들을 망으로 잇는다",
+   "concepts": [
+    "catastrophe",
+    "other_realm",
+    "resurrection"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2019년 올해의 게임 상을 가장 많이 받음(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "1·2편 모두 자막 한국어(PS 한국 게임 쪽, 스팀)",
+    "src": "https://www.playstation.com/ko-kr/games/death-stranding/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "metroid",
+   "orig": "メトロイド",
+   "orig_en": "Metroid",
+   "ko": "메트로이드",
+   "ko_src": "닌텐도 스토어 한국 — 메트로이드 드레드 https://store.nintendo.co.kr/70010000042926",
+   "media": [
+    "게임",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Metroid (1986) ~ Metroid Prime 4: Beyond",
+   "by": "Nintendo (Retro Studios 등)",
+   "year": 1986,
+   "country": "일본",
+   "setting": "현상금 사냥꾼 사무스가 은하 연방과 우주 해적 사이에서, 사라진 옛 종족의 유산을 쫓는다",
+   "concepts": [
+    "federation",
+    "precursor",
+    "parasite",
+    "power_armor",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2012년까지 시리즈 1,744만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "드레드·프라임 리마스터·프라임 4 한국어 지원(닌텐도 스토어 한국), 옛 작품의 한국판은 못 찾음",
+    "src": "https://store.nintendo.co.kr/70010000042926"
+   },
+   "borderline": false
+  },
+  {
+   "id": "chrono",
+   "orig": "クロノ・トリガー",
+   "orig_en": "Chrono Trigger",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Chrono Trigger (1995), Radical Dreamers (1996), Chrono Cross (1999)",
+   "by": "Square",
+   "year": 1995,
+   "country": "일본",
+   "setting": "먼 옛날부터 먼 미래까지 시간을 건너며, 별을 먹고 자라는 외계 생물이 부를 종말을 막는다",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "space_beast",
+    "catastrophe",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "트리거·크로스 합쳐 2019년까지 550만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "크로노 트리거 스팀판 한국어, 크로노 크로스 리마스터는 한국어 없음(닌텐도 스토어 한국)",
+    "src": "https://store.steampowered.com/app/613830/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "final_fantasy_vii",
+   "orig": "ファイナルファンタジーVII",
+   "orig_en": "Final Fantasy VII",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "영화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Final Fantasy VII (1997), Advent Children·Crisis Core 등 묶음 작품, Remake (2020)·Rebirth (2024)",
+   "by": "Square (Square Enix)",
+   "year": 1997,
+   "country": "일본",
+   "setting": "별의 생명 에너지를 뽑아 쓰는 거대 기업과 맞선 이들, 하늘에서 떨어진 외계 생명의 그림자",
+   "concepts": [
+    "mega_corp",
+    "living_planet",
+    "genetic_eng",
+    "super_soldier",
+    "alien",
+    "planet_killer"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "올해의 게임 상 다수, 일본 롤플레잉을 세계에 퍼뜨린 작품(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "리메이크·리버스는 한국어(스팀·닌텐도 스토어 한국), 원작 판은 영어·일본어 등뿐(닌텐도 스토어 한국)",
+    "src": "https://store.steampowered.com/app/1462040/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mega_man",
+   "orig": "ロックマン",
+   "orig_en": "Mega Man",
+   "ko": "록맨",
+   "ko_src": "PS 스토어 한국 — '록맨 X 커맨드 미션', '유성의 록맨 퍼펙트 컬렉션' https://store.playstation.com/ko-kr/search/%EB%A1%9D%EB%A7%A8",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Rockman (1987)부터 X·Legends·Zero·ZX·EXE·유성의 록맨 등",
+   "by": "Capcom",
+   "year": 1987,
+   "country": "일본",
+   "setting": "로봇이 사람과 함께 사는 미래, 정의의 로봇이 미친 과학자와 폭주한 로봇들과 싸운다",
+   "concepts": [
+    "robot",
+    "android",
+    "ai",
+    "ai_revolt"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "시리즈 세계 4,500만 장(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "지금 파는 모음집(스팀·닌텐도 스토어 한국·PS 스토어 한국)에 한국어 없음. 옛 한국판 여부는 못 찾음",
+    "src": "https://store.nintendo.co.kr/70010000011229"
+   },
+   "borderline": false
+  },
+  {
+   "id": "snatcher",
+   "orig": "スナッチャー",
+   "orig_en": "Snatcher",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Snatcher (1988), SD Snatcher (1990)",
+   "by": "Konami (고지마 히데오)",
+   "year": 1988,
+   "country": "일본",
+   "setting": "생물 무기 재앙 뒤의 도시에서, 사람을 죽이고 그 모습으로 바꿔치기하는 기계를 쫓는다",
+   "concepts": [
+    "android",
+    "robot",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "사이버펑크 어드벤처의 걸작으로 다시 평가됨(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "지금 파는 판이 없고 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Snatcher_(video_game)"
+   },
+   "borderline": false
+  },
+  {
+   "id": "policenauts",
+   "orig": "ポリスノーツ",
+   "orig_en": "Policenauts",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Policenauts (1994)",
+   "by": "Konami (고지마 히데오)",
+   "year": 1994,
+   "country": "일본",
+   "setting": "우주 거주지에서 25년 만에 깨어난 옛 우주 경찰이, 장기 밀매의 음모를 파헤친다",
+   "concepts": [
+    "habitat",
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "연출·세계관 짜임새로 평가받음, 정식 영어판 없이 팬 번역으로 퍼짐(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "일본판만 나왔다. 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Policenauts"
+   },
+   "borderline": false
+  },
+  {
+   "id": "star_fox",
+   "orig": "スターフォックス",
+   "orig_en": "Star Fox",
+   "ko": "스타폭스",
+   "ko_src": "닌텐도 스토어 한국 https://store.nintendo.co.kr/beepabgwakor",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Star Fox (1993) ~ Star Fox (2026)",
+   "by": "Nintendo",
+   "year": 1993,
+   "country": "일본",
+   "setting": "동물 모습의 비행대가 고향 별계를 지키려, 미친 과학자의 군대와 싸운다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1993년부터 이어진 닌텐도 시리즈, 64 편이 가장 높은 평가(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "2026년 신작 '스타폭스'는 한국어 지원(닌텐도 스토어 한국), 옛 작품의 한국판은 못 찾음",
+    "src": "https://store.nintendo.co.kr/beepabgwakor"
+   },
+   "borderline": false
+  },
+  {
+   "id": "f_zero",
+   "orig": "F-ZERO",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "F-Zero (1990) ~ F-Zero 99 (2023)",
+   "by": "Nintendo",
+   "year": 1990,
+   "country": "일본",
+   "setting": "외계 종족이 어울려 사는 먼 미래, 시속 천 킬로미터를 넘는 경주에 목숨을 건다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "F-Zero X 메타크리틱 85, 애니메이션으로도 옮겨짐(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "F-ZERO 99 한국어 지원(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/70010000072188"
+   },
+   "borderline": false
+  },
+  {
+   "id": "pikmin",
+   "orig": "ピクミン",
+   "orig_en": "Pikmin",
+   "ko": "피크민",
+   "ko_src": "닌텐도 스토어 한국 https://store.nintendo.co.kr/hacpampyakor",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Pikmin (2001) ~ Pikmin 4 (2023)",
+   "by": "Nintendo",
+   "year": 2001,
+   "country": "일본",
+   "setting": "작은 우주인이 낯선 행성에 떨어져, 식물 같은 생물 피크민을 이끌고 배를 고친다",
+   "concepts": [
+    "alien_ecology",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "4편이 300만 장 넘게 팔려 시리즈 최다(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "1·2·3 디럭스·4 모두 한국어 지원(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/hacpampyakor"
+   },
+   "borderline": false
+  },
+  {
+   "id": "splatoon",
+   "orig": "スプラトゥーン",
+   "orig_en": "Splatoon",
+   "ko": "스플래툰",
+   "ko_src": "닌텐도 스토어 한국 https://store.nintendo.co.kr/hacpav5jakor",
+   "media": [
+    "게임",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Splatoon (2015) ~ Splatoon Raiders (2026)",
+   "by": "Nintendo",
+   "year": 2015,
+   "country": "일본",
+   "setting": "사람이 사라진 먼 미래의 지구, 오징어에서 갈라져 나온 종족이 먹물로 땅따먹기를 한다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "시리즈 3,000만 장 넘게 팔림(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "3·레이더스는 한국어, 2는 영어·스페인어·프랑스어(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/hacpav5jakor"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mother",
+   "orig": "MOTHER",
+   "orig_en": "EarthBound",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "MOTHER (1989), MOTHER2 (1994), MOTHER3 (2006)",
+   "by": "Ape·HAL研究所 (이토이 시게사토)",
+   "year": 1989,
+   "country": "일본",
+   "setting": "시골 마을의 아이들이 초능력으로, 시간을 거슬러 온 외계의 악과 맞선다",
+   "concepts": [
+    "alien",
+    "psionics",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1편 일본 40만 장, 영어판 EarthBound 는 컬트 명작(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "한국 닌텐도 스토어 검색에 없고 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Mother_(video_game_series)"
+   },
+   "borderline": true
+  },
+  {
+   "id": "resident_evil",
+   "orig": "バイオハザード",
+   "orig_en": "Resident Evil",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "영화",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "게임",
+   "series": "Biohazard (1996)부터 이어지는 본편·외전",
+   "by": "Capcom",
+   "year": 1996,
+   "country": "일본",
+   "setting": "제약 대기업이 만든 생물 무기가 퍼지고, 살아남은 이들이 그 음모와 맞선다",
+   "concepts": [
+    "mega_corp",
+    "genetic_eng",
+    "parasite",
+    "super_soldier"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "캡콤 최다 판매 시리즈, 공포 게임 시리즈 최다 판매(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "RE:4·빌리지 등 최근작 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/2050650/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "panzer_dragoon",
+   "orig": "パンツァードラグーン",
+   "orig_en": "Panzer Dragoon",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Panzer Dragoon (1995) ~ Orta (2002)",
+   "by": "Sega (Team Andromeda)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "옛 문명이 남긴 생물 병기가 들끓는 세계에서, 용을 탄 이가 고대 탑의 비밀에 닿는다",
+   "concepts": [
+    "golden_age",
+    "precursor",
+    "catastrophe",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "아제(Saga)가 역대 최고 게임 목록에 자주 오름(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "리메이크 스팀판 한국어 없음, 한국 닌텐도 스토어에 없음",
+    "src": "https://store.steampowered.com/app/1178880/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ace_combat",
+   "orig": "エースコンバット",
+   "orig_en": "Ace Combat",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Air Combat (1995) ~ Ace Combat 7: Skies Unknown (2019)",
+   "by": "Namco (Bandai Namco)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "지구를 닮은 가상 세계에서, 초거대 병기를 두고 나라들이 공중전을 벌인다",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "7편이 시리즈 최다 출하, 스팀 평가 5만 7천 건 '매우 긍정적'(영어 위키백과·스팀)",
+   "korean": {
+    "status": "일부",
+    "detail": "7편 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/502500/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "r_type",
+   "orig": "R-TYPE",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "R-Type (1987) ~ R-Type Final 2 (2021)",
+   "by": "Irem (Granzella)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "먼 미래의 인류가 만든 생물 병기가 시간을 거슬러 와 인류를 덮친다",
+   "concepts": [
+    "genetic_eng",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1988년 아케이드 수익 6위(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "FINAL 2·TACTICS I・II COSMOS·Dimensions III 한국어(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/70010000037741"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gradius",
+   "orig": "グラディウス",
+   "orig_en": "Gradius",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Gradius (1985) ~ Gradius Origins (2025)",
+   "by": "Konami",
+   "year": 1985,
+   "country": "일본",
+   "setting": "행성 그라디우스를 노리는 외계 제국에 맞서 전투기 한 대가 홀로 출격한다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1985년부터 2025년 'GRADIUS ORIGINS'까지 40년 이어짐(스팀)",
+   "korean": {
+    "status": "일부",
+    "detail": "GRADIUS ORIGINS 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/2897590/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "darius",
+   "orig": "ダライアス",
+   "orig_en": "Darius",
+   "ko": "다리우스",
+   "ko_src": "PS 스토어 한국 '다리우스 버스트ACEX+' https://store.playstation.com/ko-kr/search/darius",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Darius (1987)부터 속편 여섯과 외전들",
+   "by": "Taito",
+   "year": 1987,
+   "country": "일본",
+   "setting": "고향 행성을 잃은 생존자가 바다 생물 모양의 기계 제국과 싸운다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1987년부터 속편 여섯·외전 여럿(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "다리우스 버스트 ACEX+ PS4 판 한국어, 아케이드 아카이브스·코즈믹 컬렉션은 한국어 없음",
+    "src": "https://store.playstation.com/ko-kr/search/darius"
+   },
+   "borderline": false
+  },
+  {
+   "id": "contra",
+   "orig": "魂斗羅",
+   "orig_en": "Contra",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Contra (1987) ~ Contra: Operation Galuga (2024)",
+   "by": "Konami",
+   "year": 1987,
+   "country": "일본",
+   "setting": "외계 생명체의 침공에 맞서 두 특수부대원이 정글과 적 기지를 뚫고 나간다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1987년부터 2024년 'Operation Galuga'까지 이어짐(스팀·영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "Operation Galuga 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/2235020/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "earth_defense_force",
+   "orig": "地球防衛軍",
+   "orig_en": "Earth Defense Force",
+   "ko": "지구방위군",
+   "ko_src": "스팀 한국어 상점 이름 '지구방위군 6' https://store.steampowered.com/app/2291060/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "THE 地球防衛軍 (2003) ~ EARTH DEFENSE FORCE 6 (2024)",
+   "by": "Sandlot (D3 Publisher)",
+   "year": 2003,
+   "country": "일본",
+   "setting": "거대 곤충과 외계 함대가 쳐들어온 지구에서, 방위군이 끝도 없이 몰려오는 적과 싸운다",
+   "concepts": [
+    "alien",
+    "space_beast"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 여섯 편, 6편 스팀 평가 7천 건(스팀)",
+   "korean": {
+    "status": "일부",
+    "detail": "5·6편 한국어(스팀, 닌텐도 스토어 한국 '지구방위군 5 for Nintendo Switch 2')",
+    "src": "https://store.steampowered.com/app/2291060/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "lost_planet",
+   "orig": "ロスト プラネット",
+   "orig_en": "Lost Planet",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Lost Planet: Extreme Condition (2006) ~ Lost Planet 3 (2013)",
+   "by": "Capcom",
+   "year": 2006,
+   "country": "일본",
+   "setting": "얼음으로 덮인 개척 행성에서, 열에너지를 두고 사람과 토착 괴물이 다툰다",
+   "concepts": [
+    "colonization",
+    "alien_ecology",
+    "key_resource",
+    "mecha",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년까지 시리즈 690만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "1편 스팀판 한국어, 3편은 한국어 없음",
+    "src": "https://store.steampowered.com/app/6510/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "vanquish",
+   "orig": "VANQUISH",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Vanquish (2010)",
+   "by": "PlatinumGames (Sega)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "우주 거주지를 빼앗긴 미국, 강화복 병사가 궤도 위 식민지를 되찾으러 간다",
+   "concepts": [
+    "power_armor",
+    "habitat",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "100만 장 넘게 팔린 것으로 추정(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "PS4 'BAYONETTA ＆ VANQUISH (한국어판)'(PS 스토어 한국). 스팀판은 한국어 없음",
+    "src": "https://store.playstation.com/ko-kr/search/vanquish"
+   },
+   "borderline": false
+  },
+  {
+   "id": "binary_domain",
+   "orig": "BINARY DOMAIN",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Binary Domain (2012)",
+   "by": "Sega (용과 같이 스튜디오)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "물에 잠긴 2080년 도쿄, 사람인 줄 아는 로봇을 만든 회사를 국제 부대가 쫓는다",
+   "concepts": [
+    "android",
+    "robot",
+    "ai",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "메타크리틱 PS3 72·360 74, 판매는 적었으나 이야기로 기억됨(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "스팀판 한국어 없음, PS3 판의 한국어 여부를 못 찾음",
+    "src": "https://store.steampowered.com/app/203750/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "god_eater",
+   "orig": "GOD EATER",
+   "orig_en": "",
+   "ko": "갓 이터",
+   "ko_src": "PS 스토어 한국 '갓 이터 3 (한국어판)', 닌텐도 스토어 한국 '갓 이터 3' https://store.nintendo.co.kr/70010000019407",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "God Eater (2010) ~ God Eater 3 (2018)",
+   "by": "Bandai Namco (Shift)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "모든 것을 먹어 치우는 괴물에 문명이 무너진 뒤, 괴물 세포로 만든 무기를 쥔 이들이 싸운다",
+   "concepts": [
+    "catastrophe",
+    "mega_corp",
+    "genetic_eng",
+    "super_soldier"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2019년까지 게임 여섯·만화·소설·애니메이션으로 넓어짐(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "3편은 한국어(PS·닌텐도), 리저렉션·2 레이지 버스트는 일어판(PS 스토어 한국)",
+    "src": "https://store.playstation.com/ko-kr/search/god%20eater"
+   },
+   "borderline": false
+  },
+  {
+   "id": "freedom_wars",
+   "orig": "フリーダムウォーズ",
+   "orig_en": "Freedom Wars",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Freedom Wars (2014), Remastered (2025)",
+   "by": "SCE Japan Studio·Shift·Dimps",
+   "year": 2014,
+   "country": "일본",
+   "setting": "자원이 바닥난 미래, 태어난 것만으로 죄수가 된 사람들이 도시를 위해 형기를 깎으며 싸운다",
+   "concepts": [
+    "catastrophe",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "PS 비타 일본 첫 판매 역대 2위(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "리마스터 스팀·PS 한국어, 2014년 비타판도 한국어판이 나옴(영어 위키백과)",
+    "src": "https://store.steampowered.com/app/3004100/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "astral_chain",
+   "orig": "ASTRAL CHAIN",
+   "orig_en": "",
+   "ko": "애스트럴 체인",
+   "ko_src": "닌텐도 스토어 한국 'ASTRAL CHAIN (애스트럴 체인)' https://store.nintendo.co.kr/70010000022478",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Astral Chain (2019)",
+   "by": "PlatinumGames (Nintendo)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "다른 차원에서 넘어오는 괴물을, 사슬로 묶은 괴물을 부리는 경찰이 막는 미래 도시",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2022년까지 130만 장(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국어 지원(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/70010000022478"
+   },
+   "borderline": false
+  },
+  {
+   "id": "scarlet_nexus",
+   "orig": "SCARLET NEXUS",
+   "orig_en": "",
+   "ko": "스칼렛 스트링스",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/775500/",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Scarlet Nexus (2021)",
+   "by": "Bandai Namco",
+   "year": 2021,
+   "country": "일본",
+   "setting": "하늘에서 떨어지는 괴물과, 뇌의 힘을 키운 초능력 부대가 맞서는 미래 일본",
+   "concepts": [
+    "psionics",
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2022년 4월까지 100만 장(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/775500/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "daemon_x_machina",
+   "orig": "DAEMON X MACHINA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Daemon X Machina (2019), Titanic Scion (2025)",
+   "by": "Marvelous",
+   "year": 2019,
+   "country": "일본",
+   "setting": "달 조각이 떨어진 뒤, 용병이 로봇을 몰고 미쳐 버린 인공지능 기계들과 싸운다",
+   "concepts": [
+    "mecha",
+    "ai_revolt",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년 속편 Titanic Scion 까지 이어짐(스팀·닌텐도 스토어 한국)",
+   "korean": {
+    "status": "있음",
+    "detail": "1편·Titanic Scion 모두 한국어(닌텐도 스토어 한국)",
+    "src": "https://store.nintendo.co.kr/70010000022821"
+   },
+   "borderline": false
+  },
+  {
+   "id": "muv_luv",
+   "orig": "マブラヴ",
+   "orig_en": "Muv-Luv",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Muv-Luv (2003), Muv-Luv Alternative (2006), Total Eclipse 등",
+   "by": "âge",
+   "year": 2003,
+   "country": "일본",
+   "setting": "외계 생명체 베타에 땅을 빼앗긴 평행 세계에서, 인간형 병기를 몰고 인류가 버틴다",
+   "concepts": [
+    "alien",
+    "hive_mind",
+    "alt_timeline",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "영어판 크라우드펀딩으로 125만 달러 모음(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀판·닌텐도 스토어 한국 판 모두 영어·일본어",
+    "src": "https://store.nintendo.co.kr/70010000082650"
+   },
+   "borderline": false
+  },
+  {
+   "id": "infinity_series",
+   "orig": "Infinityシリーズ",
+   "orig_en": "Infinity series",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Never7 (2000), Ever17 (2002), Remember11 (2004)",
+   "by": "KID (우치코시 고타로 등)",
+   "year": 2000,
+   "country": "일본",
+   "setting": "닫힌 섬·바닷속 시설·조난 시설에 갇힌 사람들이, 시간의 고리와 바깥의 관찰자에 닿는다",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "Ever17 이 2025년 다시 만들어질 만큼 이름난 시각 소설 연작(스팀)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "Ever17 리메이크 스팀판은 한국어 없음. 옛 한국판 여부는 못 찾음",
+    "src": "https://store.steampowered.com/app/2392500/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yu_no",
+   "orig": "この世の果てで恋を唄う少女YU-NO",
+   "orig_en": "YU-NO: A Girl Who Chants Love at the Bound of this World",
+   "ko": "이 세상 끝에서 사랑을 노래하는 소녀 YU-NO",
+   "ko_src": "PS 스토어 한국 https://store.playstation.com/ko-kr/search/YU-NO",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "YU-NO (1996), 리메이크 (2017)",
+   "by": "ELF (간노 히로유키)",
+   "year": 1996,
+   "country": "일본",
+   "setting": "평행 세계를 오가는 장치를 얻은 소년이, 여러 갈래의 역사와 다른 세계의 비밀을 푼다",
+   "concepts": [
+    "alt_timeline",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "PC 판 10만 장 넘게 팔림(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "리메이크 PS4 한국어판(PS 스토어 한국), 스팀판은 한국어 없음",
+    "src": "https://store.playstation.com/ko-kr/search/YU-NO"
+   },
+   "borderline": false
+  },
+  {
+   "id": "planetarian",
+   "orig": "planetarian 〜ちいさなほしのゆめ〜",
+   "orig_en": "Planetarian: The Reverie of a Little Planet",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "planetarian (2004)",
+   "by": "Key",
+   "year": 2004,
+   "country": "일본",
+   "setting": "전쟁으로 무너진 도시의 천체투영관에서, 혼자 손님을 기다리던 안내 로봇을 만난다",
+   "concepts": [
+    "robot",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "PS2·PSP·스팀 등 여러 기종에 다시 나온 Key 의 짧은 작품(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 HD 판 한국어 없음, 한국 닌텐도 스토어에 없음",
+    "src": "https://store.steampowered.com/app/623080/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "baldr_sky",
+   "orig": "BALDR SKY",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Baldr Sky Dive1·Dive2 (2009~2010)",
+   "by": "Giga",
+   "year": 2009,
+   "country": "일본",
+   "setting": "전뇌 공간과 현실을 오가며, 기계 몸을 탄 용병들이 싸우는 근미래",
+   "concepts": [
+    "mind_upload",
+    "mecha",
+    "ai",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 '매우 긍정적'(94%), 주제가 모에 게임 대상 은상(스팀·영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀판 한국어 없음",
+    "src": "https://store.steampowered.com/app/741140/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "utawarerumono",
+   "orig": "うたわれるもの",
+   "orig_en": "Utawarerumono",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Utawarerumono (2002), 거짓의 가면 (2015), 두 명의 백황 (2016) 외",
+   "by": "Leaf (Aquaplus)",
+   "year": 2002,
+   "country": "일본",
+   "setting": "짐승 귀를 단 사람들의 옛 나라처럼 보이지만, 실은 사람이 만든 생명이 남은 먼 미래",
+   "concepts": [
+    "genetic_eng",
+    "catastrophe",
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "거짓의 가면 출하 10만 장, PS 판 나흘 만에 8만 2천 장(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀판들(거짓의 가면·산산이 흩어진 이·ZAN) 한국어 없음, 한국 PS·닌텐도 스토어에서 못 찾음",
+    "src": "https://store.steampowered.com/app/1149550/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "exa_pico",
+   "orig": "アルトネリコ / サージュ・コンチェルト",
+   "orig_en": "Ar tonelico / Surge Concerto",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Ar tonelico (2006) ~ Ar tonelico Qoga (2010), Ciel nosurge (2012), Ar nosurge (2014)",
+   "by": "Gust·Banpresto",
+   "year": 2006,
+   "country": "일본",
+   "setting": "노래로 힘을 쓰는 인조 소녀들과 거대한 탑이 남은 행성, 그 바깥 우주까지 이어지는 이야기",
+   "concepts": [
+    "genetic_eng",
+    "catastrophe"
+   ],
+   "new_ideas": "노래가 곧 힘이고 기술인 세계",
+   "lore_size": "큼",
+   "notability": "아르 토넬리코 셋과 뒤를 잇는 서지 콘체르토로 이어진 세계(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "한국 PS·닌텐도 스토어·스팀에서 판을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Ar_tonelico"
+   },
+   "borderline": true
+  },
+  {
+   "id": "sakura_wars",
+   "orig": "サクラ大戦",
+   "orig_en": "Sakura Wars",
+   "ko": "사쿠라 대전",
+   "ko_src": "PS 스토어 한국 '신 사쿠라 대전 (한국어판)' https://store.playstation.com/ko-kr/search/%EC%82%AC%EC%BF%A0%EB%9D%BC%20%EB%8C%80%EC%A0%84",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Sakura Wars (1996) ~ 신 사쿠라 대전 (2019)",
+   "by": "Sega (Red Entertainment)",
+   "year": 1996,
+   "country": "일본",
+   "setting": "증기 기술이 꽃핀 다이쇼 시대 도쿄, 가극단 소녀들이 증기 로봇을 몰고 악귀와 싸운다",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2022년까지 시리즈 580만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "신 사쿠라 대전(2019) PS4 한국어판",
+    "src": "https://store.playstation.com/ko-kr/search/%EC%82%AC%EC%BF%A0%EB%9D%BC%20%EB%8C%80%EC%A0%84"
+   },
+   "borderline": true
+  },
+  {
+   "id": "guilty_gear",
+   "orig": "GUILTY GEAR",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Guilty Gear (1998) ~ Guilty Gear -Strive- (2021)",
+   "by": "Arc System Works",
+   "year": 1998,
+   "country": "일본",
+   "setting": "마법 같은 '법력'이 과학을 대신한 미래, 사람이 만든 생물 병기 '기어'와 싸운 성전 뒤의 세계",
+   "concepts": [
+    "genetic_eng",
+    "super_soldier",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "-STRIVE- 스팀 평가 6만 7천 건, X2 메타크리틱 87(스팀·영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "-STRIVE- 스팀 한국어, 1편 닌텐도 판 한국어(닌텐도 스토어 한국)",
+    "src": "https://store.steampowered.com/app/1384160/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "blazblue",
+   "orig": "BLAZBLUE",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "BlazBlue: Calamity Trigger (2008) ~ Central Fiction (2015)",
+   "by": "Arc System Works",
+   "year": 2008,
+   "country": "일본",
+   "setting": "검은 짐승에 문명이 무너진 뒤, 마도 기술을 쥔 통합 기구가 다스리는 되풀이되는 세계",
+   "concepts": [
+    "catastrophe",
+    "clone",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2012년까지 170만 장(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "Centralfiction 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/586140/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gunparade_march",
+   "orig": "高機動幻想ガンパレード・マーチ",
+   "orig_en": "Gunparade March",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Gunparade March (2000), Gunparade Orchestra (2006)",
+   "by": "Alfa System (SCE)",
+   "year": 2000,
+   "country": "일본",
+   "setting": "괴물 '환수'에 밀린 평행 세계 일본에서, 학도병들이 인간형 전차를 몰고 싸운다",
+   "concepts": [
+    "alt_timeline",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제32회 성운상 미디어 부문 수상(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "일본에서만 나옴(영어 위키백과)",
+    "src": "https://en.wikipedia.org/wiki/Gunparade_March"
+   },
+   "borderline": false
+  },
+  {
+   "id": "heaven_burns_red",
+   "orig": "ヘブンバーンズレッド",
+   "orig_en": "Heaven Burns Red",
+   "ko": "헤븐 번즈 레드",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1576831351",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Heaven Burns Red (2022)",
+   "by": "WFS·Key (마에다 준)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "외계 괴물 '캔서'에 밀려 멸망 직전인 지구, 마지막 희망이 된 소녀 부대의 나날",
+   "concepts": [
+    "alien",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "마에다 준 각본, 2024년 세계판 출시(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1576831351"
+   },
+   "borderline": false
+  },
+  {
+   "id": "another_eden",
+   "orig": "アナザーエデン 時空を超える猫",
+   "orig_en": "Another Eden: The Cat Beyond Time and Space",
+   "ko": "ANOTHER EDEN 시공을 넘는 고양이",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1439565347",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Another Eden (2017), Another Eden Begins (2026)",
+   "by": "WFS (가토 마사토 각본)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "옛날·지금·먼 미래를 오가며, 사라져 갈 미래를 구하려는 시간 여행",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "가토 마사토·미쓰다 야스노리가 만든 모바일 롤플레잉, 2026년 다시 만든 판(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어, 한국 앱 스토어에 한국어 이름으로 서비스",
+    "src": "https://store.steampowered.com/app/1252600/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "digimon",
+   "orig": "デジモン",
+   "orig_en": "Digimon",
+   "ko": "디지몬",
+   "ko_src": "스팀 한국어 상점 이름 '디지몬 스토리 타임 스트레인저' https://store.steampowered.com/app/1984270/",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "series": "Digital Monster (1997, 휴대용 육성기)부터 게임·애니메이션",
+   "by": "Bandai (WiZ)",
+   "year": 1997,
+   "country": "일본",
+   "setting": "컴퓨터 망 안의 디지털 세계에서, 데이터로 된 생명체와 아이들이 함께 싸운다",
+   "concepts": [
+    "ai",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2000년까지 매출 5억 달러 넘음(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "디지몬 스토리 사이버 슬루스·타임 스트레인저 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/1984270/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "code_vein",
+   "orig": "CODE VEIN",
+   "orig_en": "",
+   "ko": "코드 베인",
+   "ko_src": "스팀 한국어 상점 이름 '코드 베인 II' https://store.steampowered.com/app/2362060/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Code Vein (2019), Code Vein II (2026)",
+   "by": "Bandai Namco",
+   "year": 2019,
+   "country": "일본",
+   "setting": "무너진 세계에서, 피를 먹어야 사는 되살아난 이들이 기억을 잃은 채 싸운다",
+   "concepts": [
+    "resurrection",
+    "parasite",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "300만 장 넘게 팔림(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "1·2편 스팀판 한국어",
+    "src": "https://store.steampowered.com/app/678960/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "medarot",
+   "orig": "メダロット",
+   "orig_en": "Medabots",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Medarot (1997) ~ 본편 여덟 편 외",
+   "by": "Imagineer (Natsume)",
+   "year": 1997,
+   "country": "일본",
+   "setting": "메달을 끼우면 스스로 생각하는 로봇이 아이들의 놀이 상대가 된 근미래",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "본편 여덟 편을 모은 'Medarot Classics Plus'(2020)까지 이어짐(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "한국 닌텐도 스토어 검색에 없고 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Medabots"
+   },
+   "borderline": true
+  },
+  {
+   "id": "alice_gear_aegis",
+   "orig": "アリス・ギア・アイギス",
+   "orig_en": "Alice Gear Aegis",
+   "ko": "앨리스 기어 아이기스",
+   "ko_src": "닌텐도 스토어 한국 '앨리스 기어 아이기스 CS' https://store.nintendo.co.kr/70010000051664",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Alice Gear Aegis (2018), CS: Concerto of Simulatrix (2022)",
+   "by": "Pyramid·Colopl",
+   "year": 2018,
+   "country": "일본",
+   "setting": "외계 기계 생명체에 밀려 우주로 나간 인류, 기계 장갑을 두른 소녀들이 맞선다",
+   "concepts": [
+    "alien",
+    "power_armor",
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2021년 OVA, 2023년 TV 애니메이션(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "콘솔판 CS 한국어(닌텐도 스토어 한국), 모바일 본편의 한국 서비스는 못 찾음",
+    "src": "https://store.nintendo.co.kr/70010000051664"
+   },
+   "borderline": false
+  },
+  {
+   "id": "virtual_on",
+   "orig": "電脳戦機バーチャロン",
+   "orig_en": "Cyber Troopers Virtual-On",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Virtual-On (1995) ~ Virtual-On Force 등",
+   "by": "Sega (AM3)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "미래에서 보낸 오락기가 실은 원격 조종 장치였다는, 거대 로봇 결투의 세계",
+   "concepts": [
+    "mecha",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "가토키 하지메 디자인, 소설·드라마 CD 로 넓어짐(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "지금 파는 한국 판을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Cyber_Troopers_Virtual-On"
+   },
+   "borderline": false
+  },
+  {
+   "id": "rogue_galaxy",
+   "orig": "ローグギャラクシー",
+   "orig_en": "Rogue Galaxy",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Rogue Galaxy (2005)",
+   "by": "Level-5",
+   "year": 2005,
+   "country": "일본",
+   "setting": "변방 행성의 소년이 우주 해적선에 올라 전설의 행성을 찾아 별들을 누빈다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "상을 여럿 받았으나 판매는 기대에 못 미침(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "PS2 판만 있고 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Rogue_Galaxy"
+   },
+   "borderline": false
+  },
+  {
+   "id": "infinite_space",
+   "orig": "無限航路",
+   "orig_en": "Infinite Space",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Infinite Space (2009)",
+   "by": "PlatinumGames·Nude Maker (Sega)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "작은 행성에 갇혀 살던 소년이 우주선을 얻어, 관문을 지나 은하를 건너는 함장이 된다",
+   "concepts": [
+    "gate_network",
+    "fleet_battle",
+    "galactic_empire"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 출시 첫 주 판매 1위, 메타크리틱 75(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "닌텐도 DS 판만 있고 한국어판 기록을 못 찾음",
+    "src": "https://en.wikipedia.org/wiki/Infinite_Space"
+   },
+   "borderline": false
+  },
+  {
+   "id": "exoprimal",
+   "orig": "エグゾプライマル",
+   "orig_en": "Exoprimal",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Exoprimal (2023)",
+   "by": "Capcom",
+   "year": 2023,
+   "country": "일본",
+   "setting": "시공의 틈에서 공룡 떼가 쏟아지는 2040년, 폭주한 인공지능이 강화복 병사들을 싸움판에 몬다",
+   "concepts": [
+    "power_armor",
+    "ai_revolt",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2023년 9월까지 94만 장 아래로 팔림(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/1286320/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "pragmata",
+   "orig": "PRAGMATA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Pragmata (2026)",
+   "by": "Capcom",
+   "year": 2026,
+   "country": "일본",
+   "setting": "달의 연구 기지에서, 우주인과 안드로이드 소녀가 적이 된 인공지능을 피해 지구로 돌아가려 한다",
+   "concepts": [
+    "android",
+    "ai_revolt",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "출시 16일 만에 200만 장, 메타크리틱 89(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀·PS5 판 한국어",
+    "src": "https://store.steampowered.com/app/3357650/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "stellar_blade",
+   "orig": "Stellar Blade",
+   "orig_en": "",
+   "ko": "스텔라 블레이드",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/3489700/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Stellar Blade (2024)",
+   "by": "Shift Up",
+   "year": 2024,
+   "country": "한국",
+   "setting": "괴물 '네이티바'에 빼앗긴 지구로, 우주의 피난처에서 내려온 여전사가 진실을 찾는다",
+   "concepts": [
+    "earth_left",
+    "android",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년 6월까지 300만 장(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/3489700/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nikke",
+   "orig": "승리의 여신: 니케",
+   "orig_en": "Goddess of Victory: NIKKE",
+   "ko": "승리의 여신: 니케",
+   "ko_src": "한국 원작 — 한국 앱 스토어 https://apps.apple.com/kr/app/id1585915174",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Goddess of Victory: NIKKE (2022)",
+   "by": "Shift Up (Level Infinite 배급)",
+   "year": 2022,
+   "country": "한국",
+   "setting": "기계 외계 생명 '랩쳐'에 지상을 빼앗기고, 땅밑 도시의 인류가 인조 병사 '니케'를 내보낸다",
+   "concepts": [
+    "alien",
+    "cyborg",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "출시 1년이 안 돼 매출 4억 달러(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국 앱 스토어 서비스",
+    "src": "https://apps.apple.com/kr/app/id1585915174"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_first_descendant",
+   "orig": "The First Descendant",
+   "orig_en": "",
+   "ko": "퍼스트 디센던트",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/2074920/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "The First Descendant (2024)",
+   "by": "Nexon Games",
+   "year": 2024,
+   "country": "한국",
+   "setting": "외계 침략자에 맞서, 이상한 힘을 물려받은 후예들이 대륙 잉그리스를 지킨다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "출시 첫 주 이용자 1,000만 명, 스팀 판매 1위(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/2074920/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "counterside",
+   "orig": "카운터사이드",
+   "orig_en": "Counter:Side",
+   "ko": "카운터사이드",
+   "ko_src": "한국 원작 — 한국어 위키백과 https://ko.wikipedia.org/wiki/카운터사이드",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Counter:Side (2020~2026)",
+   "by": "Studiobside (넥슨 배급)",
+   "year": 2020,
+   "country": "한국",
+   "setting": "평범한 세계 뒤에 겹친 이면 세계에서 넘어오는 침식체와, 그 힘과 계약한 이들이 싸운다",
+   "concepts": [
+    "other_realm",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "넥슨이 배급한 한국 수집형 게임, 2020~2026년 서비스(한국어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발. 2026년 8월 26일 서비스 종료(한국어 위키백과)",
+    "src": "https://ko.wikipedia.org/wiki/카운터사이드"
+   },
+   "borderline": true
+  },
+  {
+   "id": "eternal_return",
+   "orig": "이터널 리턴",
+   "orig_en": "Eternal Return",
+   "ko": "이터널 리턴",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/1049590/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "블랙서바이벌 (2015), 이터널 리턴 (2020 앞서 해보기, 2023 정식)",
+   "by": "님블뉴런 (블랙서바이벌은 아크베어즈)",
+   "year": 2015,
+   "country": "한국",
+   "setting": "외딴 섬 루미아에서, 비밀 연구 단체가 사람들을 서로 싸우게 하며 인간의 힘을 실험한다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 6만 9천 건 '대체로 긍정적'(스팀), 블랙서바이벌의 뒤를 이음(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/1049590/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "blue_archive",
+   "orig": "블루 아카이브",
+   "orig_en": "Blue Archive",
+   "ko": "블루 아카이브",
+   "ko_src": "한국 원작 — 스팀 한국어 상점 이름 https://store.steampowered.com/app/3557620/",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Blue Archive (2021)",
+   "by": "Nexon Games",
+   "year": 2021,
+   "country": "한국",
+   "setting": "머리 위에 고리를 단 학생들이 사는 거대 학원 도시 키보토스에서, 선생님이 사건을 맡는다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "세계판 사전 등록 100만 명, 2024년 TV 애니메이션(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국 앱 스토어 서비스",
+    "src": "https://apps.apple.com/kr/app/id1571873795"
+   },
+   "borderline": true
+  },
+  {
+   "id": "changsegijeon",
+   "orig": "창세기전",
+   "orig_en": "The War of Genesis",
+   "ko": "창세기전",
+   "ko_src": "한국 원작 — 한국어 위키백과 https://ko.wikipedia.org/wiki/창세기전",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "창세기전 (1995) ~ 창세기전 3 파트 2 (2000), 외전 서풍의 광시곡·템페스트 등",
+   "by": "Softmax",
+   "year": 1995,
+   "country": "한국",
+   "setting": "검과 마법의 대륙 안타리아에서 나라들이 다투고, 거대 기계 병기 '마장기'가 전장에 선다",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "PC 본편·외전 여섯 편으로 이어진 한국 롤플레잉 대표작(한국어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발 PC 게임",
+    "src": "https://ko.wikipedia.org/wiki/창세기전"
+   },
+   "borderline": true
+  },
+  {
+   "id": "lobotomy_corporation",
+   "orig": "Lobotomy Corporation",
+   "orig_en": "",
+   "ko": "Lobotomy Corporation",
+   "ko_src": "한국 원작(원제) https://store.steampowered.com/app/568220/",
+   "media": [
+    "게임",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Lobotomy Corporation (2018), Library of Ruina (2021), Limbus Company (2023), 웹툰·웹소설",
+   "by": "Project Moon",
+   "year": 2018,
+   "country": "한국",
+   "setting": "기술의 특이점을 쥔 거대 기업들이 다스리는 '도시'에서, 괴물에게서 에너지를 뽑는 회사의 이야기",
+   "concepts": [
+    "mega_corp"
+   ],
+   "new_ideas": "기술의 특이점 하나하나를 기업이 독점해 나라처럼 다스리는 도시",
+   "lore_size": "큼",
+   "notability": "로보토미 2023년까지 100만 장, 림버스 컴퍼니 스팀 평가 12만 건(영어 위키백과·스팀)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/568220/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sanabi",
+   "orig": "산나비",
+   "orig_en": "SANABI",
+   "ko": "산나비",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/1562700/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "SANABI (2023)",
+   "by": "원더포션",
+   "year": 2023,
+   "country": "한국",
+   "setting": "기계 팔을 단 퇴역 군인이 딸의 원수를 쫓아, 비밀에 싸인 사이버펑크 마을에 들어선다",
+   "concepts": [
+    "cyborg",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 4만 5천 건 '압도적으로 긍정적'(97%)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/1562700/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "lies_of_p",
+   "orig": "Lies of P",
+   "orig_en": "",
+   "ko": "P의 거짓",
+   "ko_src": "스팀 한국어 상점 이름 'P의 거짓 (Lies of P)' https://store.steampowered.com/app/1627720/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Lies of P (2023), Overture (2025)",
+   "by": "Round8 Studio (Neowiz)",
+   "year": 2023,
+   "country": "한국",
+   "setting": "기계 인형이 폭주한 벨 에포크풍 도시에서, 인형 소년 P가 거짓말을 하며 사람에 다가간다",
+   "concepts": [
+    "android",
+    "robot",
+    "ai_revolt"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년 6월까지 300만 장, 더 게임 어워드 후보(영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국어 지원(스팀)",
+    "src": "https://store.steampowered.com/app/1627720/"
+   },
+   "borderline": true
+  },
+  {
+   "id": "last_origin",
+   "orig": "라스트오리진",
+   "orig_en": "Last Origin",
+   "ko": "라스트오리진",
+   "ko_src": "한국 원작 — 한국 앱 스토어 https://apps.apple.com/kr/app/id1478994215",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Last Origin (2019), LAST ORIGIN R+ (2025)",
+   "by": "스마트조이 (2024년부터 밸로프 운영)",
+   "year": 2019,
+   "country": "한국",
+   "setting": "기계 군단에 인류가 거의 사라진 2201년, 인조 인간 '바이오로이드'들이 마지막 사람을 따른다",
+   "concepts": [
+    "android",
+    "genetic_eng",
+    "catastrophe",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2019년부터 이어진 한국 수집형 게임, 한국 앱 스토어 평가 1,600건(한국어 위키백과·앱 스토어)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국 앱 스토어 서비스",
+    "src": "https://apps.apple.com/kr/app/id1478994215"
+   },
+   "borderline": false
+  },
+  {
+   "id": "closers",
+   "orig": "클로저스",
+   "orig_en": "Closers",
+   "ko": "클로저스",
+   "ko_src": "한국 원작 — 한국어 위키백과 https://ko.wikipedia.org/wiki/클로저스",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Closers (2014~)",
+   "by": "나딕게임즈 (넥슨 배급)",
+   "year": 2014,
+   "country": "한국",
+   "setting": "다른 차원에서 넘어온 괴물 '차원종'이 휩쓴 서울을, 특수 능력을 지닌 요원들이 지킨다",
+   "concepts": [
+    "other_realm",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2016년 애니메이션화, 해외 서비스까지 이어짐(한국어·영어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발 PC 게임",
+    "src": "https://ko.wikipedia.org/wiki/클로저스"
+   },
+   "borderline": true
+  },
+  {
+   "id": "chaos_zero_nightmare",
+   "orig": "카오스 제로 나이트메어",
+   "orig_en": "Chaos Zero Nightmare",
+   "ko": "카오스 제로 나이트메어",
+   "ko_src": "한국 원작 — 한국 앱 스토어 https://apps.apple.com/kr/app/id6502326151",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Chaos Zero Nightmare (2025)",
+   "by": "Smilegate",
+   "year": 2025,
+   "country": "한국",
+   "setting": "예고 없이 들이닥친 우주적 재앙이 행성을 검은 안개로 덮고, 살아남은 이들이 함선에 모인다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스마일게이트의 2025년 세계 동시 출시작, 한국 앱 스토어 평가 5천 건(앱 스토어)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "한국 개발, 한국 앱 스토어 서비스",
+    "src": "https://apps.apple.com/kr/app/id6502326151"
+   },
+   "borderline": true
+  },
+  {
+   "id": "honkai_impact_3rd",
+   "orig": "崩坏3",
+   "orig_en": "Honkai Impact 3rd",
+   "ko": "붕괴3rd",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1286705196",
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Honkai Impact 3rd (2016), 앞선 崩坏学园 시리즈",
+   "by": "miHoYo",
+   "year": 2016,
+   "country": "중국",
+   "setting": "문명을 주기마다 쓸어버리는 재앙 '붕괴'에 맞서, 싸우는 소녀들 '발키리'가 세상을 지킨다",
+   "concepts": [
+    "cycle",
+    "golden_age",
+    "catastrophe",
+    "super_soldier"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2018년 3월까지 세계 3,500만 다운로드(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1286705196"
+   },
+   "borderline": false
+  },
+  {
+   "id": "honkai_star_rail",
+   "orig": "崩坏：星穹铁道",
+   "orig_en": "Honkai: Star Rail",
+   "ko": "붕괴: 스타레일",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1599719154",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Honkai: Star Rail (2023)",
+   "by": "miHoYo (HoYoverse)",
+   "year": 2023,
+   "country": "중국",
+   "setting": "현실을 빚는 신 같은 존재들의 흔적을 따라, 별 사이 궤도를 달리는 열차가 여러 세계를 들른다",
+   "concepts": [
+    "godlike",
+    "lanes"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2024년 2월 다운로드 1억 넘음(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1599719154"
+   },
+   "borderline": false
+  },
+  {
+   "id": "zenless_zone_zero",
+   "orig": "绝区零",
+   "orig_en": "Zenless Zone Zero",
+   "ko": "젠레스 존 제로",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1606356401",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Zenless Zone Zero (2024)",
+   "by": "miHoYo (HoYoverse)",
+   "year": 2024,
+   "country": "중국",
+   "setting": "시공이 뒤엉킨 재해 구역 '공동'에 삼켜진 세계, 남은 도시 사람들이 공동을 드나든다",
+   "concepts": [
+    "catastrophe",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "출시 사흘 만에 5천만 다운로드(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어·스팀에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1606356401"
+   },
+   "borderline": true
+  },
+  {
+   "id": "arknights",
+   "orig": "明日方舟",
+   "orig_en": "Arknights",
+   "ko": "명일방주",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1473903308",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Arknights (2019), Arknights: Endfield (2026)",
+   "by": "Hypergryph",
+   "year": 2019,
+   "country": "중국",
+   "setting": "문명을 키운 광물이 불치병도 퍼뜨리는 땅에서, 의료 회사 로도스 아일랜드가 감염자 편에 선다",
+   "concepts": [
+    "key_resource",
+    "precursor",
+    "catastrophe",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 애니메이션 세 시즌, 엔드필드 사전 등록 3,500만(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "명일방주·엔드필드 모두 한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1473903308"
+   },
+   "borderline": false
+  },
+  {
+   "id": "girls_frontline",
+   "orig": "少女前线",
+   "orig_en": "Girls' Frontline",
+   "ko": "소녀전선",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1234148531",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Girls' Frontline (2016), Neural Cloud (2022), Reverse Collapse: Code Name Bakery (2024), Girls' Frontline 2: Exilium (세계판 2024)",
+   "by": "MICA Team (Sunborn)",
+   "year": 2016,
+   "country": "중국",
+   "setting": "세계 대전과 오염이 휩쓴 뒤의 2060년대, '전술 인형'이라 불리는 인조 병사들이 싸운다",
+   "concepts": [
+    "android",
+    "ai",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "프랜차이즈 이용자 3천만 명(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "2017년 6월 30일 한국 출시(영어 위키백과), 소녀전선2: 망명·뉴럴 클라우드·역붕괴: 베이커리작전도 한국어",
+    "src": "https://apps.apple.com/kr/app/id1234148531"
+   },
+   "borderline": false
+  },
+  {
+   "id": "punishing_gray_raven",
+   "orig": "战双帕弥什",
+   "orig_en": "Punishing: Gray Raven",
+   "ko": "퍼니싱: 그레이 레이븐",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1550551844",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Punishing: Gray Raven (2019)",
+   "by": "Kuro Games",
+   "year": 2019,
+   "country": "중국",
+   "setting": "기계를 미치게 하는 바이러스에 지구를 빼앗긴 인류가, 기계 몸 전사를 이끌고 돌아온다",
+   "concepts": [
+    "earth_left",
+    "mind_upload",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2020년 7월까지 2천만 다운로드(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어·스팀에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1550551844"
+   },
+   "borderline": false
+  },
+  {
+   "id": "wuthering_waves",
+   "orig": "鸣潮",
+   "orig_en": "Wuthering Waves",
+   "ko": "명조: 워더링 웨이브",
+   "ko_src": "한국 앱 스토어 '명조:워더링 웨이브' https://apps.apple.com/kr/app/id6475033368",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Wuthering Waves (2024)",
+   "by": "Kuro Games",
+   "year": 2024,
+   "country": "중국",
+   "setting": "종말의 재해 뒤 다시 일어선 세계에서, 기억을 잃은 방랑자가 재해의 정체를 쫓는다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "사전 등록 3천만 명, 스팀 평가 5만 7천 건(영어 위키백과·스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어·스팀에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id6475033368"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tower_of_fantasy",
+   "orig": "幻塔",
+   "orig_en": "Tower of Fantasy",
+   "ko": "타워 오브 판타지",
+   "ko_src": "한국 앱 스토어 '타워 오브 판타지 글로벌' https://apps.apple.com/kr/app/id1601586278",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Tower of Fantasy (중국 2021, 세계 2022)",
+   "by": "Hotta Studio (Perfect World)",
+   "year": 2021,
+   "country": "중국",
+   "setting": "재앙 뒤 신비한 에너지에 땅과 생태가 바뀐 행성에서, 방랑자가 외계 세력과 맞선다",
+   "concepts": [
+    "colonization",
+    "alien",
+    "key_resource",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2021년 중국, 2022년 세계 출시한 대형 오픈월드(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어·스팀에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1601586278"
+   },
+   "borderline": false
+  },
+  {
+   "id": "snowbreak",
+   "orig": "尘白禁区",
+   "orig_en": "Snowbreak: Containment Zone",
+   "ko": "스노우 브레이크: 포비든 존",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id6443791795",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Snowbreak: Containment Zone (2023)",
+   "by": "Amazing Seasun (Kingsoft)",
+   "year": 2023,
+   "country": "중국",
+   "setting": "하늘에서 내려온 '타이탄'이 퍼뜨린 오염 구역에서, 능력자 소녀 부대가 괴물을 막는다",
+   "concepts": [
+    "alien",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 1만 건(스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어·스팀에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id6443791795"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dyson_sphere_program",
+   "orig": "戴森球计划",
+   "orig_en": "Dyson Sphere Program",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Dyson Sphere Program (2021, 앞서 해보기)",
+   "by": "Youthcat Studio",
+   "year": 2021,
+   "country": "중국",
+   "setting": "인공지능의 계산을 돌릴 에너지를 모으려, 기계 몸의 기술자가 별을 감싸는 구조물을 짓는다",
+   "concepts": [
+    "dyson",
+    "megastructure",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2021년 9월까지 170만 장, 스팀 평가 9만 건 '압도적으로 긍정적'(영어 위키백과·스팀)",
+   "korean": {
+    "status": "없음",
+    "detail": "스팀 지원 언어에 한국어 없음",
+    "src": "https://store.steampowered.com/app/1366540/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "aether_gazer",
+   "orig": "深空之眼",
+   "orig_en": "Aether Gazer",
+   "ko": "에테르 게이저",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1630882106",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Aether Gazer (세계판 2023)",
+   "by": "Yongshi",
+   "year": 2023,
+   "country": "중국",
+   "setting": "재난 뒤 인류가 의식을 데이터 낙원에 올린 세계에서, 신의 힘을 빌린 전사들이 맞선다",
+   "concepts": [
+    "mind_upload",
+    "catastrophe",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "한국 앱 스토어 평가 2,400건(앱 스토어)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어 이름·설명으로 서비스(지원 언어 표에는 한국어가 빠져 있음)",
+    "src": "https://apps.apple.com/kr/app/id1630882106"
+   },
+   "borderline": false
+  },
+  {
+   "id": "azur_lane",
+   "orig": "碧蓝航线",
+   "orig_en": "Azur Lane",
+   "ko": "벽람항로",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1295507243",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "Azur Lane (2017)",
+   "by": "Manjuu·Yongshi",
+   "year": 2017,
+   "country": "중국",
+   "setting": "옛 군함을 사람 모습으로 바꾼 함선 소녀들이, 바다에서 나타난 수수께끼의 적과 맞선다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본에서 넉 달 만에 이용자 500만 명(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "2018년 3월 한국판 출시(영어 위키백과), 한국 앱 스토어 서비스",
+    "src": "https://apps.apple.com/kr/app/id1295507243"
+   },
+   "borderline": true
+  },
+  {
+   "id": "reverse_1999",
+   "orig": "重返未来：1999",
+   "orig_en": "Reverse: 1999",
+   "ko": "리버스: 1999",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id6449023119",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Reverse: 1999 (2023)",
+   "by": "Bluepoch",
+   "year": 2023,
+   "country": "중국",
+   "setting": "1999년 마지막 날, 시간을 거꾸로 되돌리는 '폭풍우'가 세상을 덮고 신비학자들이 맞선다",
+   "concepts": [
+    "time_travel",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "세계판 1년 모바일 매출 9,870만 달러(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id6449023119"
+   },
+   "borderline": true
+  },
+  {
+   "id": "path_to_nowhere",
+   "orig": "无期迷途",
+   "orig_en": "Path to Nowhere",
+   "ko": "무기미도",
+   "ko_src": "한국 앱 스토어 https://apps.apple.com/kr/app/id1606685106",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Path to Nowhere (2022)",
+   "by": "AISNO Games",
+   "year": 2022,
+   "country": "중국",
+   "setting": "정체 모를 천체가 떨어진 뒤 생긴 괴변 구역과, 이상한 힘을 얻은 죄수들을 다루는 감옥 도시",
+   "concepts": [
+    "catastrophe",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "한국 앱 스토어 평가 1만 건 넘음(앱 스토어)",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 앱 스토어에 한국어로 서비스",
+    "src": "https://apps.apple.com/kr/app/id1606685106"
+   },
+   "borderline": true
+  },
+  {
+   "id": "once_human",
+   "orig": "七日世界",
+   "orig_en": "Once Human",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Once Human (2024)",
+   "by": "Starry Studio (NetEase)",
+   "year": 2024,
+   "country": "중국",
+   "setting": "우주에서 온 물질에 세상이 뒤틀린 뒤, 변이 괴물 사이에서 살아남는다",
+   "concepts": [
+    "alien",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 19만 건 '대체로 긍정적'(스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀·한국 앱 스토어 한국어",
+    "src": "https://store.steampowered.com/app/2139460/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "anno_mutationem",
+   "orig": "纪元：变异",
+   "orig_en": "ANNO: Mutationem",
+   "ko": "기원: 변이",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/1368030/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "ANNO: Mutationem (2022)",
+   "by": "ThinkingStars",
+   "year": 2022,
+   "country": "중국",
+   "setting": "거대 기업과 범죄가 얽힌 사이버펑크 도시에서, 병을 앓는 여전사가 오빠의 행방을 쫓는다",
+   "concepts": [
+    "mega_corp",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "스팀 평가 6,600건 '매우 긍정적'(스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/1368030/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "strinova",
+   "orig": "卡拉彼丘",
+   "orig_en": "Strinova",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Strinova (2024)",
+   "by": "iDreamSky",
+   "year": 2024,
+   "country": "중국",
+   "setting": "몸이 종이처럼 납작해지는 '끈 현상'을 다루는 이들이 패를 갈라 겨루는 세계",
+   "concepts": [],
+   "new_ideas": "몸을 납작한 평면으로 바꾸는 힘",
+   "lore_size": "작음",
+   "notability": "스팀 평가 3만 건(스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/1282270/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nine_sols",
+   "orig": "九日",
+   "orig_en": "Nine Sols",
+   "ko": "나인 솔즈",
+   "ko_src": "스팀 한국어 상점 이름 https://store.steampowered.com/app/1809540/",
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Nine Sols (2024)",
+   "by": "Red Candle Games",
+   "year": 2024,
+   "country": "대만",
+   "setting": "도교 신화와 기계 문명을 섞은 세계에서, 배신당한 영웅이 아홉 지배자에게 복수한다",
+   "concepts": [
+    "alien",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "스팀 평가 4만 6천 건 '매우 긍정적', 인디 게임 어워드 올해의 게임 후보(스팀·영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/1809540/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "opus",
+   "orig": "OPUS",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "OPUS: The Day We Found Earth (2015), OPUS: Rocket of Whispers, OPUS: Echo of Starsong (2021)",
+   "by": "SIGONO",
+   "year": 2015,
+   "country": "대만",
+   "setting": "사람들이 지구를 잊은 먼 미래, 작은 로봇과 사람들이 별 사이에서 잃어버린 것을 찾는다",
+   "concepts": [
+    "earth_left",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "국제 모바일 게임 상 후보, 구글 플레이 에디터 추천(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "1·2편 스팀판 한국어, Echo of Starsong 은 한국어 없음(스팀)",
+    "src": "https://store.steampowered.com/app/457680/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cytus",
+   "orig": "Cytus",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Cytus (2012), Cytus II (2018)",
+   "by": "Rayark",
+   "year": 2012,
+   "country": "대만",
+   "setting": "사람의 기억을 노래로 간직한 로봇들과 가상 망 속 도시의 이야기를 리듬 게임으로 풀어낸다",
+   "concepts": [
+    "robot",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "한국 앱 스토어 Cytus II 평가 5,700건(앱 스토어)",
+   "korean": {
+    "status": "있음",
+    "detail": "Cytus·Cytus II 한국 앱 스토어 지원 언어에 한국어",
+    "src": "https://apps.apple.com/kr/app/id1290687550"
+   },
+   "borderline": false
+  },
+  {
+   "id": "mecha_break",
+   "orig": "解限机",
+   "orig_en": "Mecha BREAK",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Mecha BREAK (2025)",
+   "by": "Amazing Seasun (Kingsoft)",
+   "year": 2025,
+   "country": "중국",
+   "setting": "거대 로봇을 탄 조종사들이 패를 나눠 겨루는 미래 전장",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2023 게임 어워드에서 공개, 스팀 평가 2만 9천 건(영어 위키백과·스팀)",
+   "korean": {
+    "status": "있음",
+    "detail": "스팀판 한국어",
+    "src": "https://store.steampowered.com/app/2452280/"
+   },
+   "borderline": false
+  },
+  {
+   "id": "bright_memory",
+   "orig": "光明记忆",
+   "orig_en": "Bright Memory",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "series": "Bright Memory (2020), Bright Memory: Infinite (2021)",
+   "by": "FYQD-Studio",
+   "year": 2020,
+   "country": "중국",
+   "setting": "하늘에 검은 구멍이 열린 날, 특수 요원이 옛 무사의 혼과 괴물이 쏟아지는 산골에서 싸운다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "Infinite 스팀 평가 4만 건 '매우 긍정적'(스팀)",
+   "korean": {
+    "status": "일부",
+    "detail": "Infinite 는 스팀 한국어, 첫 편은 한국어 없음",
+    "src": "https://store.steampowered.com/app/1178830/"
+   },
+   "borderline": true
+  }
+ ]
+}

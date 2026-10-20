@@ -1,0 +1,1799 @@
+{
+  "_설명": "개념 사전. 개념 이름은 일반 낱말로 짓고, 작품 속 공식 이름은 data/terms/ 에 단다. similar 는 한쪽에만 적어도 화면이 양쪽에 보인다. parent 가 있으면 그 개념 아래로 묶인다.",
+  "categories": [
+    {
+      "id": "move",
+      "ko": "이동과 항행",
+      "one": "별과 별 사이를 어떻게 건너는가"
+    },
+    {
+      "id": "comm",
+      "ko": "통신과 정보",
+      "one": "먼 곳과 어떻게 말을 주고받는가"
+    },
+    {
+      "id": "build",
+      "ko": "거대 구조물",
+      "one": "행성만큼 큰 것을 짓는 일"
+    },
+    {
+      "id": "world",
+      "ko": "행성과 개척",
+      "one": "새 땅을 고치고 그 위에서 살아가는 일"
+    },
+    {
+      "id": "life",
+      "ko": "생명과 종족",
+      "one": "사람이 아닌 생명"
+    },
+    {
+      "id": "body",
+      "ko": "몸의 개조",
+      "one": "사람의 몸을 고치고, 만들고, 되살리는 일"
+    },
+    {
+      "id": "mind",
+      "ko": "정신과 초월",
+      "one": "마음의 힘, 그리고 사람 너머"
+    },
+    {
+      "id": "machine",
+      "ko": "기계와 인공지능",
+      "one": "생각하는 기계와 그에 대한 두려움"
+    },
+    {
+      "id": "society",
+      "ko": "사회와 권력",
+      "one": "우주에서 사람들이 모여 다스리는 방식"
+    },
+    {
+      "id": "history",
+      "ko": "역사와 시간",
+      "one": "문명이 서고 무너지는 큰 흐름"
+    },
+    {
+      "id": "war",
+      "ko": "전쟁과 무기",
+      "one": "미래의 싸움"
+    },
+    {
+      "id": "cosmos",
+      "ko": "우주의 수수께끼",
+      "one": "왜 아무도 없는가, 그 너머에는 무엇이 있는가"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "ftl",
+      "ko": "빛보다 빠른 이동",
+      "en": "Faster-than-light travel",
+      "cat": "move",
+      "parent": null,
+      "one": "빛의 속도를 넘어 별과 별 사이를 건너는 방법.",
+      "note": "지금 알려진 물리로는 할 수 없어서 작품마다 제 장치를 지어낸다. 어떤 방식을 고르느냐가 그 세계의 지리, 곧 어디로 갈 수 있고 얼마나 걸리는지를 정한다.",
+      "similar": []
+    },
+    {
+      "id": "hyperspace",
+      "ko": "초공간 항행",
+      "en": "Hyperspace",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "보통 공간 바깥의 다른 공간으로 들어가 질러가는 방식.",
+      "note": "그 공간 안에서는 거리가 줄거나 빛의 한계가 없다고 설명한다. 들어가고 나오는 자리, 그 안에서 길을 잃거나 무언가를 만나는 위험이 이야기 소재가 된다.",
+      "similar": [
+        {
+          "id": "warp_drive",
+          "how": "초공간은 다른 공간으로 들어가 질러가는 것이고, 공간 왜곡은 보통 공간을 휘어 그 안에서 움직이는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "warp_drive",
+      "ko": "공간 왜곡 추진",
+      "en": "Warp drive",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "배 둘레의 공간을 휘어, 배는 가만히 있고 공간이 움직이게 하는 방식.",
+      "note": "앞쪽 공간을 줄이고 뒤쪽 공간을 늘린다는 생각이다. '워프'라는 말은 작품마다 뜻이 달라서 초공간이나 정신의 차원을 가리키기도 하니, 이름보다 작동 방식으로 가른다.",
+      "similar": []
+    },
+    {
+      "id": "jump_drive",
+      "ko": "순간 도약",
+      "en": "Jump drive",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "출발점에서 사라져 도착점에 곧바로 나타나는 방식.",
+      "note": "사이를 지나는 시간이 없거나 아주 짧다. 공간을 접어 두 점을 맞붙인다고 설명하는 작품이 많다. 도약 전 준비 시간, 거리 한계, 도약할 수 있는 자리의 제한이 흔한 제약이다.",
+      "similar": [
+        {
+          "id": "wormhole",
+          "how": "순간 도약은 배가 스스로 건너뛰는 것이고, 웜홀은 공간에 이미 난 구멍을 지나가는 것이다."
+        },
+        {
+          "id": "teleport",
+          "how": "순간 도약은 배가 통째로 건너뛰는 것이고, 물질 전송은 사람과 물건만 보내는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "wormhole",
+      "ko": "웜홀",
+      "en": "Wormhole",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "멀리 떨어진 두 곳을 잇는 시공간의 지름길.",
+      "note": "일반 상대성 이론의 풀이에서 나온 생각이다. 저절로 생긴 것도, 누가 만든 것도 있다. 입구 자리가 정해져 있어 지리가 고정된다.",
+      "similar": [
+        {
+          "id": "gate_network",
+          "how": "웜홀은 시공간 자체에 난 구멍이고, 관문은 누군가 지어 놓은 장치다."
+        }
+      ]
+    },
+    {
+      "id": "gate_network",
+      "ko": "관문망",
+      "en": "Gate network",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "정해진 문을 지나야만 먼 곳으로 갈 수 있는 길의 그물.",
+      "note": "문은 흔히 사라진 옛 문명이 지은 것이고, 쓰는 사람은 원리를 모른다. 문을 쥔 쪽이 길을 쥔다.",
+      "similar": [
+        {
+          "id": "lanes",
+          "how": "관문은 지어 놓은 장치를 지나야 하고, 정해진 항로는 자연에 난 길을 따라가는 것이다."
+        },
+        {
+          "id": "precursor",
+          "how": "관문을 지은 쪽이 사라진 옛 문명인 경우가 많다."
+        }
+      ]
+    },
+    {
+      "id": "lanes",
+      "ko": "정해진 항로",
+      "en": "FTL lanes",
+      "cat": "move",
+      "parent": "ftl",
+      "one": "별과 별 사이에 미리 나 있는 길로만 빠르게 다닐 수 있는 구조.",
+      "note": "아무 데로나 갈 수 없으니 길목과 요충지가 생기고, 지키기 좋은 자리와 끊기 좋은 자리가 생긴다.",
+      "similar": []
+    },
+    {
+      "id": "navigator",
+      "ko": "길잡이 능력자",
+      "en": "FTL navigator",
+      "cat": "move",
+      "parent": null,
+      "one": "빛보다 빠른 항행에 특별한 사람의 능력이 꼭 있어야 하는 설정.",
+      "note": "기계만으로는 안전한 길을 찾을 수 없어, 타고난 능력이나 약물로 길을 '보는' 사람이 배를 이끈다. 그런 사람을 가진 집단이 항행을 쥐게 된다.",
+      "similar": [
+        {
+          "id": "guild_monopoly",
+          "how": "길잡이 능력자를 가진 집단이 독점 조합이 되는 일이 많다."
+        },
+        {
+          "id": "precognition",
+          "how": "길잡이가 길을 보는 능력이 앞일을 보는 능력과 같은 뿌리로 그려지기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "sublight",
+      "ko": "빛보다 느린 항행",
+      "en": "Sublight travel",
+      "cat": "move",
+      "parent": null,
+      "one": "빛보다 느리게, 수십 년에서 수백 년을 들여 별 사이를 건너는 것.",
+      "note": "빛보다 빠른 길이 없는 세계에서는 떠난 사람과 남은 사람이 다시 만나지 못하고, 도착할 무렵이면 고향 소식이 낡아 있다.",
+      "similar": [
+        {
+          "id": "ftl",
+          "how": "빛보다 빠른 길이 있느냐 없느냐가 이야기의 규모와 외로움을 가른다."
+        }
+      ]
+    },
+    {
+      "id": "generation_ship",
+      "ko": "세대선",
+      "en": "Generation ship",
+      "cat": "move",
+      "parent": "sublight",
+      "one": "여러 세대가 배 안에서 태어나고 죽으며 목적지로 가는 배.",
+      "note": "도착하는 사람은 떠난 사람의 후손이다. 배 안 사회가 목적을 잊거나 바뀌어 버리는 것이 단골 소재다.",
+      "similar": [
+        {
+          "id": "cryosleep",
+          "how": "세대선은 사람이 대를 이어 건너고, 냉동 수면은 같은 사람이 잠든 채 건넌다."
+        },
+        {
+          "id": "ark",
+          "how": "세대선은 사람을 실어 나르는 배이고, 방주는 문명이나 생명을 통째로 지키려는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "cryosleep",
+      "ko": "냉동 수면",
+      "en": "Cryosleep",
+      "cat": "move",
+      "parent": null,
+      "one": "몸을 얼리거나 멈춰 긴 시간을 늙지 않고 건너는 것.",
+      "note": "긴 항행뿐 아니라, 오래 보관된 병사나 시간을 건너뛴 사람의 이야기에도 쓰인다.",
+      "similar": []
+    },
+    {
+      "id": "time_dilation",
+      "ko": "시간 지연",
+      "en": "Time dilation",
+      "cat": "move",
+      "parent": "sublight",
+      "one": "빛에 가까운 속도로 움직이면 배 안의 시간이 바깥보다 느리게 가는 현상.",
+      "note": "실제 물리(특수 상대성 이론)다. 여행자에게는 몇 해였는데 고향에서는 수십 년이 흐른다.",
+      "similar": []
+    },
+    {
+      "id": "teleport",
+      "ko": "물질 전송",
+      "en": "Teleportation",
+      "cat": "move",
+      "parent": null,
+      "one": "사람이나 물건을 한 자리에서 지우고 다른 자리에 다시 나타나게 하는 기술.",
+      "note": "배와 땅 사이를 오가거나 병력을 내려보낼 때 쓴다. 보내진 사람이 떠난 사람과 같은 사람인가 하는 물음이 따라붙는다.",
+      "similar": []
+    },
+    {
+      "id": "ftl_comm",
+      "ko": "빛보다 빠른 통신",
+      "en": "FTL communication",
+      "cat": "comm",
+      "parent": null,
+      "one": "아무리 멀어도 곧바로 말을 주고받는 장치나 방법.",
+      "note": "어슐러 르 귄이 지은 이름 '앤서블'이 널리 쓰인다. 이것이 있으면 은하 규모의 나라를 다스릴 수 있고, 없으면 먼 식민지는 저절로 떨어져 나간다.",
+      "similar": []
+    },
+    {
+      "id": "entangled_comm",
+      "ko": "양자 얽힘 통신",
+      "en": "Quantum entanglement communication",
+      "cat": "comm",
+      "parent": "ftl_comm",
+      "one": "짝지은 입자가 멀리 떨어져도 함께 반응한다는 성질로 신호를 보낸다는 생각.",
+      "note": "실제 물리에서는 얽힘만으로 정보를 빛보다 빨리 보낼 수 없다. 그래서 작품은 대개 이 한계를 넘는 장치를 따로 지어낸다.",
+      "similar": []
+    },
+    {
+      "id": "psychic_comm",
+      "ko": "정신 통신",
+      "en": "Psychic communication",
+      "cat": "comm",
+      "parent": "ftl_comm",
+      "one": "기계 대신 사람의 정신 능력으로 먼 곳에 뜻을 보내는 것.",
+      "note": "통신을 맡은 사람이 귀해지고, 그 사람들이 지치거나 다치는 것이 대가로 그려진다.",
+      "similar": [
+        {
+          "id": "telepathy",
+          "how": "텔레파시는 마음을 나누는 능력 자체이고, 정신 통신은 그것을 먼 거리 통신망으로 쓰는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "translator",
+      "ko": "만능 번역기",
+      "en": "Universal translator",
+      "cat": "comm",
+      "parent": null,
+      "one": "처음 듣는 외계의 말도 곧바로 옮겨 주는 장치.",
+      "note": "서로 다른 종족이 바로 이야기하게 해 줘서 이야기를 굴러가게 한다. 거꾸로, 번역이 안 되는 상대가 두려움의 소재가 된다.",
+      "similar": []
+    },
+    {
+      "id": "hologram",
+      "ko": "입체 영상",
+      "en": "Hologram",
+      "cat": "comm",
+      "parent": null,
+      "one": "공중에 떠오르는 입체 영상으로 보고 말하는 기술.",
+      "note": "멀리 있는 사람과 얼굴을 맞대듯 이야기하거나, 지도와 기록을 펼쳐 보는 데 쓴다.",
+      "similar": []
+    },
+    {
+      "id": "megastructure",
+      "ko": "거대 구조물",
+      "en": "Megastructure",
+      "cat": "build",
+      "parent": null,
+      "one": "행성이나 별에 견줄 만한 크기로 지은 인공 구조물.",
+      "note": "짓는 데 문명 하나의 힘이 든다. 누가 지었는지 모르는 채 발견되는 경우가 많다.",
+      "similar": []
+    },
+    {
+      "id": "dyson",
+      "ko": "다이슨 구",
+      "en": "Dyson sphere",
+      "cat": "build",
+      "parent": "megastructure",
+      "one": "별을 둘러싸 그 빛을 거의 다 거둬 쓰는 구조물.",
+      "note": "프리먼 다이슨이 1960년, 외계 문명을 찾는 표지로 내놓은 생각이다. 통짜 껍데기보다 수많은 위성이 떼로 둘러싼 꼴이 현실적이라고 본다.",
+      "similar": []
+    },
+    {
+      "id": "ringworld",
+      "ko": "고리 세계",
+      "en": "Ringworld",
+      "cat": "build",
+      "parent": "megastructure",
+      "one": "고리 모양으로 지어 안쪽 면에 땅과 하늘을 둔 인공 세계.",
+      "note": "고리가 도는 힘으로 무게를 만든다. 별을 통째로 두르는 것부터 행성만 한 것까지 크기가 다양하다.",
+      "similar": [
+        {
+          "id": "habitat",
+          "how": "고리 세계는 행성만 하거나 그보다 크고, 우주 거주지는 도시 몇 개만 한 원통이나 바퀴다."
+        }
+      ]
+    },
+    {
+      "id": "habitat",
+      "ko": "우주 거주지",
+      "en": "Space habitat",
+      "cat": "build",
+      "parent": "megastructure",
+      "one": "행성이 아닌 우주 공간에 지은, 사람이 사는 커다란 원통이나 바퀴.",
+      "note": "제라드 오닐이 1970년대에 내놓은 원통(오닐 실린더)이 대표다. 돌면서 무게를 만들고 안쪽 벽에 도시와 들판을 둔다.",
+      "similar": []
+    },
+    {
+      "id": "space_elevator",
+      "ko": "우주 엘리베이터",
+      "en": "Space elevator",
+      "cat": "build",
+      "parent": null,
+      "one": "땅에서 정지 궤도까지 이어진 줄을 타고 오르내리는 승강기.",
+      "note": "로켓 없이 우주로 짐을 올릴 수 있다. 끊어지면 큰 재난이 된다.",
+      "similar": []
+    },
+    {
+      "id": "ark",
+      "ko": "방주",
+      "en": "Ark",
+      "cat": "build",
+      "parent": null,
+      "one": "문명이나 생명, 지식을 통째로 담아 지키다가 다시 퍼뜨리기 위한 배나 시설, 또는 기록.",
+      "note": "멸망을 피해 무엇을 남길지 고르는 일이 그 문명의 가치관을 드러낸다.",
+      "similar": []
+    },
+    {
+      "id": "terraforming",
+      "ko": "테라포밍",
+      "en": "Terraforming",
+      "cat": "world",
+      "parent": null,
+      "one": "다른 행성의 공기·온도·물을 바꿔 사람이 살 수 있게 고치는 일.",
+      "note": "수백 년이 걸리는 큰일로 그려진다. 그 땅에 원래 있던 것을 지워도 되는가 하는 물음이 따라온다.",
+      "similar": [
+        {
+          "id": "living_planet",
+          "how": "테라포밍은 행성을 사람에게 맞추는 것이고, 살아 있는 행성은 행성이 거꾸로 맞서거나 사람을 바꾼다."
+        }
+      ]
+    },
+    {
+      "id": "colonization",
+      "ko": "행성 개척",
+      "en": "Colonization",
+      "cat": "world",
+      "parent": null,
+      "one": "새 행성에 처음 내려 정착지를 세우고 넓혀 가는 일.",
+      "note": "개척자들이 무엇을 들고 왔는지, 누구와 다투는지가 그 사회의 모양을 정한다.",
+      "similar": []
+    },
+    {
+      "id": "ecumenopolis",
+      "ko": "행성 도시",
+      "en": "Ecumenopolis",
+      "cat": "world",
+      "parent": null,
+      "one": "행성 땅 전체가 하나의 도시로 덮인 곳.",
+      "note": "제국의 수도로 자주 나온다. 먹을 것과 물을 다른 행성에서 들여와야 해서 약점이 되기도 한다.",
+      "similar": []
+    },
+    {
+      "id": "living_planet",
+      "ko": "살아 있는 행성",
+      "en": "Living planet",
+      "cat": "world",
+      "parent": null,
+      "one": "행성 전체가 하나의 생명이나 의식처럼 움직이는 설정.",
+      "note": "개척자에게 행성은 땅이 아니라 상대가 된다. 행성과 맞설지 어울릴지가 이야기의 갈림길이 된다.",
+      "similar": [
+        {
+          "id": "alien_ecology",
+          "how": "낯선 생태계는 생물들이 모여 있는 것이고, 살아 있는 행성은 그 전체가 하나의 뜻을 가진다."
+        }
+      ]
+    },
+    {
+      "id": "alien_ecology",
+      "ko": "낯선 토착 생태계",
+      "en": "Alien ecosystem",
+      "cat": "world",
+      "parent": null,
+      "one": "개척지에 원래 살던, 사람 몸과 맞지 않는 생물과 환경.",
+      "note": "개척자를 위협하면서도 그 행성에서만 나는 자원을 준다.",
+      "similar": []
+    },
+    {
+      "id": "key_resource",
+      "ko": "모든 것이 걸린 물질",
+      "en": "Key resource",
+      "cat": "world",
+      "parent": null,
+      "one": "문명 전체가 기대는, 한 곳에서만 나거나 아주 귀한 물질.",
+      "note": "그 물질을 쥔 쪽이 권력을 쥐고, 많은 세력이 그것을 두고 다툰다.",
+      "similar": [
+        {
+          "id": "guild_monopoly",
+          "how": "귀한 물질을 쥔 집단이 독점 조합이 되기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "alien",
+      "ko": "외계 지성",
+      "en": "Alien intelligence",
+      "cat": "life",
+      "parent": null,
+      "one": "사람이 아닌, 생각하고 문명을 이루는 생명.",
+      "note": "사람을 비추는 거울로 쓰기도 하고, 사람이 끝내 이해할 수 없는 상대로 쓰기도 한다.",
+      "similar": []
+    },
+    {
+      "id": "precursor",
+      "ko": "사라진 옛 문명",
+      "en": "Precursors",
+      "cat": "life",
+      "parent": "alien",
+      "one": "아주 오래전에 번성하다 사라지고 유물과 구조물만 남긴 문명.",
+      "note": "지금 문명들이 쓰는 관문·무기·구조물이 사실은 그들의 것인 경우가 많다. 왜 사라졌는가가 큰 수수께끼가 된다.",
+      "similar": [
+        {
+          "id": "golden_age",
+          "how": "사라진 옛 문명은 다른 종족이고, 잃어버린 황금기는 자기 조상의 시대다."
+        }
+      ]
+    },
+    {
+      "id": "hive_mind",
+      "ko": "군체 의식",
+      "en": "Hive mind",
+      "cat": "life",
+      "parent": "alien",
+      "one": "수많은 몸이 하나의 마음으로 움직이는 생명.",
+      "note": "하나하나의 몸은 손발이고 생각은 전체가 한다. 개인의 자유를 중시하는 사람 사회와 정반대에 놓인다.",
+      "similar": [
+        {
+          "id": "merge",
+          "how": "군체 의식은 처음부터 하나인 생명이고, 하나로 녹아들기는 따로 있던 개인들이 합쳐지는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "parasite",
+      "ko": "감염하는 생명",
+      "en": "Parasitic life",
+      "cat": "life",
+      "parent": "alien",
+      "one": "다른 생명의 몸에 들어가 몸과 마음을 빼앗으며 퍼지는 생명.",
+      "note": "한 번 퍼지면 막기 어려워 문명 전체를 끝낼 위협으로 그려진다.",
+      "similar": []
+    },
+    {
+      "id": "space_beast",
+      "ko": "거대 생물",
+      "en": "Giant creatures",
+      "cat": "life",
+      "parent": null,
+      "one": "사람의 무기로 다루기 힘든, 거대하고 낯선 생물.",
+      "note": "자연의 힘처럼 그려지기도 하고, 숭배나 사냥의 대상이 되기도 한다.",
+      "similar": []
+    },
+    {
+      "id": "uplift",
+      "ko": "지성 끌어올리기",
+      "en": "Uplift",
+      "cat": "life",
+      "parent": null,
+      "one": "지성이 없던 동물이나 덜 발전한 종족을 기술로 지성 있게 만들어 주는 것.",
+      "note": "데이비드 브린의 연작이 이 이름을 굳혔다. 끌어올린 쪽과 끌어올려진 쪽 사이에 빚과 지배가 생긴다.",
+      "similar": []
+    },
+    {
+      "id": "genetic_eng",
+      "ko": "유전자 설계",
+      "en": "Genetic engineering",
+      "cat": "body",
+      "parent": null,
+      "one": "유전자를 고르거나 고쳐 원하는 성질의 사람이나 생물을 만드는 것.",
+      "note": "몇 세대에 걸친 교배 계획부터 실험실에서 고치는 것까지 있다. 설계된 사람과 그렇지 않은 사람 사이에 계급이 생긴다.",
+      "similar": [
+        {
+          "id": "clone",
+          "how": "유전자 설계는 새로운 성질을 만들고, 복제는 이미 있는 사람을 그대로 되찍는다."
+        }
+      ]
+    },
+    {
+      "id": "clone",
+      "ko": "복제 인간",
+      "en": "Clone",
+      "cat": "body",
+      "parent": null,
+      "one": "한 사람의 유전자로 똑같은 사람을 만들어 내는 것.",
+      "note": "병사를 찍어 내거나 죽은 사람을 되살리는 데 쓰인다. 복제된 사람이 원본과 같은 사람인가가 물음이 된다.",
+      "similar": [
+        {
+          "id": "resurrection",
+          "how": "복제는 몸을 새로 만드는 것이고, 되살리기는 그 사람 자체를 돌려놓는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "cyborg",
+      "ko": "사이보그",
+      "en": "Cyborg",
+      "cat": "body",
+      "parent": null,
+      "one": "몸의 일부를 기계로 바꾸거나 기계를 덧붙인 사람.",
+      "note": "어디까지 바꾸면 사람이 아니게 되는가가 오랜 물음이다.",
+      "similar": [
+        {
+          "id": "android",
+          "how": "사이보그는 사람에게 기계를 덧붙인 것이고, 인조인간은 처음부터 만들어진 존재다."
+        }
+      ]
+    },
+    {
+      "id": "super_soldier",
+      "ko": "만들어진 병사",
+      "en": "Super soldier",
+      "cat": "body",
+      "parent": null,
+      "one": "어려서부터 고르고, 몸을 고치고, 훈련시켜 만든 병사.",
+      "note": "강하지만, 그렇게 만들어진 사람의 삶과 동의가 문제가 된다.",
+      "similar": [
+        {
+          "id": "power_armor",
+          "how": "만들어진 병사는 몸 자체를 바꾼 것이고, 강화 갑옷은 입어서 얻는 힘이다. 둘이 함께 나오는 경우가 많다."
+        }
+      ]
+    },
+    {
+      "id": "longevity",
+      "ko": "수명 늘리기",
+      "en": "Life extension",
+      "cat": "body",
+      "parent": null,
+      "one": "약·기술·몸 바꾸기로 사람의 수명을 크게 늘리는 것.",
+      "note": "오래 사는 사람이 권력을 놓지 않고, 그 수단을 쥔 쪽이 힘을 갖는다.",
+      "similar": []
+    },
+    {
+      "id": "resurrection",
+      "ko": "되살리기",
+      "en": "Resurrection",
+      "cat": "body",
+      "parent": null,
+      "one": "죽은 사람을 기술이나 힘으로 다시 살려 내는 것.",
+      "note": "되살아난 사람이 기억을 잃거나 바뀌어 있는 경우가 많고, 죽음이 가벼워진 사회가 그려지기도 한다.",
+      "similar": []
+    },
+    {
+      "id": "psionics",
+      "ko": "초능력",
+      "en": "Psionics",
+      "cat": "mind",
+      "parent": null,
+      "one": "정신의 힘으로 물건을 움직이거나 남의 마음을 읽는 등, 몸과 기계 없이 세상에 힘을 쓰는 것.",
+      "note": "작품마다 원천이 다르다. 타고난 핏줄, 훈련, 약물, 또는 다른 차원에서 끌어오는 힘.",
+      "similar": [
+        {
+          "id": "cosmic_force",
+          "how": "초능력은 사람이 가진 힘이고, 우주에 깃든 힘은 사람 바깥에 있어 끌어 쓰는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "telepathy",
+      "ko": "텔레파시",
+      "en": "Telepathy",
+      "cat": "mind",
+      "parent": "psionics",
+      "one": "말 없이 마음과 마음으로 뜻을 주고받는 능력.",
+      "note": "감출 수 없는 마음이 믿음과 두려움을 함께 낳는다.",
+      "similar": []
+    },
+    {
+      "id": "precognition",
+      "ko": "예지",
+      "en": "Precognition",
+      "cat": "mind",
+      "parent": "psionics",
+      "one": "앞으로 일어날 일을 미리 보는 능력.",
+      "note": "미래를 보면 그 미래에 묶이는가, 바꿀 수 있는가가 이야기의 축이 된다.",
+      "similar": [
+        {
+          "id": "psychohistory",
+          "how": "예지는 한 사람이 보는 것이고, 미래를 계산하는 학문은 수학으로 따지는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "mind_control",
+      "ko": "마음 부리기",
+      "en": "Mind control",
+      "cat": "mind",
+      "parent": "psionics",
+      "one": "남의 마음을 억지로 움직여 원하는 대로 하게 하는 능력이나 기술.",
+      "note": "목소리·약물·기계·초능력 등 수단이 다양하다. 당한 사람은 대개 스스로 원했다고 믿는다.",
+      "similar": []
+    },
+    {
+      "id": "cosmic_force",
+      "ko": "우주에 깃든 힘",
+      "en": "Cosmic force",
+      "cat": "mind",
+      "parent": null,
+      "one": "모든 생명이나 우주 전체에 퍼져 있어, 다룰 줄 아는 사람만 끌어 쓰는 보이지 않는 힘.",
+      "note": "빛과 어둠처럼 두 갈래로 나뉘는 경우가 많고, 그 힘을 다루는 집단이 생긴다.",
+      "similar": [
+        {
+          "id": "other_realm",
+          "how": "우주에 깃든 힘은 이 우주 곳곳에 퍼진 것이고, 또 하나의 차원은 따로 있는 다른 곳이다."
+        }
+      ]
+    },
+    {
+      "id": "other_realm",
+      "ko": "또 하나의 차원",
+      "en": "Psychic realm",
+      "cat": "mind",
+      "parent": null,
+      "one": "보통 우주와 겹쳐 있는, 정신과 감정으로 이루어진 다른 차원.",
+      "note": "초능력이나 빛보다 빠른 항행의 원천이 되기도 하고, 그 안에 사는 존재가 위협이 되기도 한다.",
+      "similar": [
+        {
+          "id": "hyperspace",
+          "how": "초공간은 지나가는 길이고, 또 하나의 차원은 정신이 닿는 곳이다. 두 가지가 한곳으로 그려지기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "mental_discipline",
+      "ko": "극한까지 단련한 사람",
+      "en": "Trained human potential",
+      "cat": "mind",
+      "parent": null,
+      "one": "기계 대신 사람의 몸과 머리를 극한까지 단련해 쓰는 것.",
+      "note": "기계를 믿지 않거나 쓸 수 없는 세계에서 사람이 그 자리를 채운다.",
+      "similar": [
+        {
+          "id": "order",
+          "how": "그런 단련을 지키고 물려주는 집단이 수도회나 비밀 결사가 된다."
+        },
+        {
+          "id": "ai_ban",
+          "how": "생각하는 기계를 금지한 세계에서 사람이 계산기와 기억 장치의 몫을 떠맡는다."
+        }
+      ]
+    },
+    {
+      "id": "next_human",
+      "ko": "다음 인류",
+      "en": "Human evolution",
+      "cat": "mind",
+      "parent": null,
+      "one": "우주에 나가거나 특별한 계기를 겪으며 사람이 다음 단계로 나아간다는 설정.",
+      "note": "새 인류와 옛 인류 사이의 두려움과 차별이 따른다.",
+      "similar": [
+        {
+          "id": "ascension",
+          "how": "다음 인류는 몸을 가진 채 나아간 사람이고, 초월은 몸을 넘어선 것이다."
+        }
+      ]
+    },
+    {
+      "id": "ascension",
+      "ko": "초월",
+      "en": "Ascension",
+      "cat": "mind",
+      "parent": null,
+      "one": "종족이나 문명이 몸과 물질을 넘어선 다른 존재로 바뀌는 것.",
+      "note": "문명의 마지막 목표나 끝으로 그려진다. 남겨진 사람에게는 사라짐과 구별되지 않는다.",
+      "similar": [
+        {
+          "id": "mind_upload",
+          "how": "의식 옮기기는 한 사람의 마음을 옮기는 기술이고, 초월은 종족 전체가 다른 존재가 되는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "merge",
+      "ko": "하나로 녹아들기",
+      "en": "Merging of minds",
+      "cat": "mind",
+      "parent": null,
+      "one": "따로 있던 개인들이 경계를 잃고 하나의 의식으로 합쳐지는 것.",
+      "note": "외로움과 다툼이 끝나는 구원으로도, 개인이 사라지는 공포로도 그려진다.",
+      "similar": []
+    },
+    {
+      "id": "mind_upload",
+      "ko": "의식 옮기기",
+      "en": "Mind uploading",
+      "cat": "mind",
+      "parent": null,
+      "one": "사람의 마음을 기계나 다른 몸으로 옮기는 것.",
+      "note": "죽음을 넘는 길로 그려지지만, 옮겨진 것이 같은 사람인가가 늘 물음이다.",
+      "similar": []
+    },
+    {
+      "id": "ai",
+      "ko": "인공지능",
+      "en": "Artificial intelligence",
+      "cat": "machine",
+      "parent": null,
+      "one": "사람이 만든, 스스로 생각하는 기계.",
+      "note": "도구, 동료, 위협 가운데 무엇으로 그리느냐가 그 세계의 기계관을 드러낸다.",
+      "similar": []
+    },
+    {
+      "id": "ai_revolt",
+      "ko": "기계의 반란",
+      "en": "AI uprising",
+      "cat": "machine",
+      "parent": "ai",
+      "one": "만든 사람에게 등을 돌린 인공지능이나 기계.",
+      "note": "만든 쪽과 만들어진 쪽 가운데 누가 옳았는가를 다시 묻는 이야기가 많다.",
+      "similar": [
+        {
+          "id": "ai_ban",
+          "how": "기계의 반란은 일어난 사건이고, 생각하는 기계의 금지는 그 뒤에 사회가 내린 결정인 경우가 많다."
+        }
+      ]
+    },
+    {
+      "id": "ai_ban",
+      "ko": "생각하는 기계의 금지",
+      "en": "Ban on thinking machines",
+      "cat": "machine",
+      "parent": "ai",
+      "one": "지난 재앙 때문에 사람처럼 생각하는 기계를 만들지 못하게 한 사회.",
+      "note": "금지된 자리를 사람의 능력이나 단순한 기계가 채운다. 금지를 어기는 것이 큰 죄가 된다.",
+      "similar": []
+    },
+    {
+      "id": "ai_decay",
+      "ko": "인공지능의 변질",
+      "en": "AI degradation",
+      "cat": "machine",
+      "parent": "ai",
+      "one": "오래 돌아가거나 많이 배운 인공지능이 점점 불안정해지거나 미쳐 가는 것.",
+      "note": "인공지능에게 수명이나 끝이 있다는 설정이 된다.",
+      "similar": []
+    },
+    {
+      "id": "android",
+      "ko": "인조인간",
+      "en": "Android",
+      "cat": "machine",
+      "parent": null,
+      "one": "사람과 거의 같게 생기고 생각하도록 만든 존재.",
+      "note": "기계로 만들든 생체로 만들든, 사람과 구별되는가, 같은 권리를 가지는가가 물음이다.",
+      "similar": [
+        {
+          "id": "robot",
+          "how": "인조인간은 사람과 구별하기 힘들게 만든 것이고, 로봇 일꾼은 기계임이 드러나는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "robot",
+      "ko": "로봇 일꾼",
+      "en": "Robot servant",
+      "cat": "machine",
+      "parent": null,
+      "one": "사람을 대신해 일하고 싸우는 기계.",
+      "note": "말하고 성격도 있지만 대개 물건처럼 사고팔린다.",
+      "similar": []
+    },
+    {
+      "id": "mecha",
+      "ko": "타고 싸우는 거대 로봇",
+      "en": "Mecha",
+      "cat": "machine",
+      "parent": null,
+      "one": "사람이 안에 타고 조종하는 거대한 사람 모양 기계.",
+      "note": "일본 애니메이션에서 크게 자란 갈래다. 조종사와 기계의 관계가 이야기의 중심이 된다.",
+      "similar": []
+    },
+    {
+      "id": "nanotech",
+      "ko": "나노 기계",
+      "en": "Nanotechnology",
+      "cat": "machine",
+      "parent": null,
+      "one": "눈에 안 보이는 작은 기계들이 떼로 물질을 고치거나 만드는 기술.",
+      "note": "몸 안에서 병을 고치기도, 모든 것을 먹어 치우는 재앙이 되기도 한다.",
+      "similar": []
+    },
+    {
+      "id": "self_replicate",
+      "ko": "스스로 불어나는 기계",
+      "en": "Self-replicating machines",
+      "cat": "machine",
+      "parent": null,
+      "one": "스스로를 복제해 수를 늘리는 기계.",
+      "note": "우주를 탐사하는 데 쓰일 수도, 막을 수 없는 재앙이 될 수도 있다.",
+      "similar": [
+        {
+          "id": "nanotech",
+          "how": "나노 기계는 크기가 작은 것이고, 스스로 불어나는 기계는 크기와 상관없이 제 수를 늘리는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "galactic_empire",
+      "ko": "은하 제국",
+      "en": "Galactic empire",
+      "cat": "society",
+      "parent": null,
+      "one": "황제 한 사람이나 한 왕조가 수많은 별을 다스리는 나라.",
+      "note": "로마 제국에서 본뜬 경우가 많다. 너무 커서 생기는 부패와 몰락이 단골 소재다.",
+      "similar": [
+        {
+          "id": "feudal_space",
+          "how": "은하 제국은 위에서 다스리는 꼴이고, 우주 봉건제는 그 아래 귀족이 영지를 받는 짜임이다."
+        },
+        {
+          "id": "federation",
+          "how": "은하 제국은 한 사람이 위에서 다스리고, 별들의 연합은 여럿이 대등하게 모인다."
+        }
+      ]
+    },
+    {
+      "id": "federation",
+      "ko": "별들의 연합",
+      "en": "Interstellar federation",
+      "cat": "society",
+      "parent": null,
+      "one": "여러 행성과 종족이 대등하게 모여 함께 다스리는 연합.",
+      "note": "누가 들어올 수 있는가, 다른 종족끼리 어떻게 함께 사는가가 물음이 된다.",
+      "similar": []
+    },
+    {
+      "id": "feudal_space",
+      "ko": "우주 봉건제",
+      "en": "Space feudalism",
+      "cat": "society",
+      "parent": null,
+      "one": "귀족 가문이 행성을 영지로 받아 다스리고 위에 충성하는 짜임.",
+      "note": "기술은 미래인데 정치는 중세다. 가문 사이의 혼인·배신·원한이 이야기를 이끈다.",
+      "similar": []
+    },
+    {
+      "id": "mega_corp",
+      "ko": "거대 기업",
+      "en": "Megacorporation",
+      "cat": "society",
+      "parent": null,
+      "one": "나라보다 큰 힘으로 행성이나 사람을 사실상 다스리는 기업.",
+      "note": "이익이 법보다 앞서는 세계를 그린다.",
+      "similar": []
+    },
+    {
+      "id": "order",
+      "ko": "수도회와 비밀 결사",
+      "en": "Orders and secret societies",
+      "cat": "society",
+      "parent": null,
+      "one": "특별한 수련과 지식을 지키며 뒤에서 역사를 움직이는 집단.",
+      "note": "겉으로 드러난 권력 뒤에서 몇 세대에 걸친 계획을 세우는 경우가 많다.",
+      "similar": []
+    },
+    {
+      "id": "guild_monopoly",
+      "ko": "독점 조합",
+      "en": "Monopoly guild",
+      "cat": "society",
+      "parent": null,
+      "one": "꼭 필요한 기술이나 길을 혼자 쥐고 모든 세력이 기대게 만드는 집단.",
+      "note": "나라를 다스리지는 않지만 누구도 거스를 수 없다.",
+      "similar": []
+    },
+    {
+      "id": "ideology_split",
+      "ko": "생각이 갈라놓은 세력",
+      "en": "Ideological factions",
+      "cat": "society",
+      "parent": null,
+      "one": "같은 출발점에서 생각이 갈려 서로 다른 세력이 된 사람들.",
+      "note": "무엇을 믿는가가 곧 어떤 기술을 쓰고 어떤 사회를 만드는가로 이어진다.",
+      "similar": []
+    },
+    {
+      "id": "spacers",
+      "ko": "우주에서 자란 인류",
+      "en": "Spacers",
+      "cat": "society",
+      "parent": null,
+      "one": "우주 거주지나 다른 행성에서 나고 자라 몸과 생각이 지구 사람과 달라진 인류.",
+      "note": "지구가 그들을 차별하거나 부려 먹고, 그것이 독립 전쟁으로 이어지는 이야기가 많다.",
+      "similar": [
+        {
+          "id": "next_human",
+          "how": "우주에서 자란 인류는 사는 곳이 바꾼 사람이고, 다음 인류는 사람 자체가 한 단계 나아간 것이다."
+        }
+      ]
+    },
+    {
+      "id": "post_scarcity",
+      "ko": "모자람 없는 사회",
+      "en": "Post-scarcity",
+      "cat": "society",
+      "parent": null,
+      "one": "기술로 먹고 입을 것이 넉넉해져 돈과 가난이 사라진 사회.",
+      "note": "일하지 않아도 되는 사람이 무엇을 위해 사는가가 물음이 된다.",
+      "similar": []
+    },
+    {
+      "id": "non_interference",
+      "ko": "개입하지 않는 원칙",
+      "en": "Non-interference",
+      "cat": "society",
+      "parent": null,
+      "one": "덜 발전한 문명에 손대지 않고 지켜보기만 한다는 원칙.",
+      "note": "도와야 할 때도 지켜야 하는가가 늘 시험대에 오른다.",
+      "similar": []
+    },
+    {
+      "id": "techno_religion",
+      "ko": "신앙이 된 기술과 역사",
+      "en": "Techno-religion",
+      "cat": "society",
+      "parent": null,
+      "one": "기술이나 지난 역사가 잊히고 신앙과 의식으로 남은 것.",
+      "note": "원리를 모른 채 기계를 섬기거나, 누군가 미리 심어 둔 신화가 사람을 움직인다.",
+      "similar": [
+        {
+          "id": "golden_age",
+          "how": "잃어버린 황금기의 기술이 원리를 잃고 신앙으로 남는 경우가 많다."
+        },
+        {
+          "id": "prophecy",
+          "how": "심어 둔 신화가 예언과 구원자의 모습을 띠기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "prophecy",
+      "ko": "예언과 구원자",
+      "en": "Prophecy and messiah",
+      "cat": "society",
+      "parent": null,
+      "one": "세상을 구할, 또는 뒤집을 사람이 온다는 예언과 그 사람.",
+      "note": "예언이 저절로 생긴 것인지 누가 심어 둔 것인지가 뒤집기가 되기도 한다.",
+      "similar": [
+        {
+          "id": "precognition",
+          "how": "예지는 앞일을 보는 능력이고, 예언은 그렇게 본 것이 말로 퍼져 사람을 움직이는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "psychohistory",
+      "ko": "미래를 계산하는 학문",
+      "en": "Predictive social science",
+      "cat": "history",
+      "parent": null,
+      "one": "수많은 사람의 움직임을 수학으로 따져 역사의 흐름을 미리 계산하는 학문.",
+      "note": "한 사람은 못 맞혀도 큰 무리는 맞힌다는 생각이다. 계산을 벗어나는 한 사람이 위기가 된다.",
+      "similar": []
+    },
+    {
+      "id": "empire_fall",
+      "ko": "제국의 몰락과 암흑기",
+      "en": "Fall of empire",
+      "cat": "history",
+      "parent": null,
+      "one": "거대한 나라가 무너지고 지식과 기술이 사라지는 긴 어둠이 오는 것.",
+      "note": "그 어둠을 얼마나 짧게 줄일 수 있는가가 물음이 되기도 한다.",
+      "similar": [
+        {
+          "id": "catastrophe",
+          "how": "제국의 몰락은 오랜 쇠퇴이고, 대재앙은 한순간에 닥친 일이다."
+        }
+      ]
+    },
+    {
+      "id": "golden_age",
+      "ko": "잃어버린 황금기",
+      "en": "Lost golden age",
+      "cat": "history",
+      "parent": null,
+      "one": "지금보다 훨씬 앞선 기술과 번영의 시대가 있었지만 무너졌다는 설정.",
+      "note": "지금 사람들은 옛 유물을 원리도 모른 채 쓴다.",
+      "similar": []
+    },
+    {
+      "id": "catastrophe",
+      "ko": "대재앙 그 뒤",
+      "en": "After the catastrophe",
+      "cat": "history",
+      "parent": null,
+      "one": "문명을 뒤흔든 큰 재앙이 있었고, 이야기는 그 뒤의 세상에서 벌어진다.",
+      "note": "재앙의 진짜 원인이 숨겨져 있다가 드러나는 경우가 많다.",
+      "similar": []
+    },
+    {
+      "id": "earth_left",
+      "ko": "떠나 온 지구",
+      "en": "Leaving Earth",
+      "cat": "history",
+      "parent": null,
+      "one": "지구가 망가지거나 살기 어려워져 인류가 떠나는 설정.",
+      "note": "고향을 잃은 사람들이 새 땅에서 무엇을 되풀이하고 무엇을 바꾸는가가 물음이 된다.",
+      "similar": [
+        {
+          "id": "colonization",
+          "how": "떠나 온 지구는 떠나야 했던 까닭이고, 행성 개척은 도착한 뒤의 일이다."
+        }
+      ]
+    },
+    {
+      "id": "cycle",
+      "ko": "되풀이되는 멸망",
+      "en": "Cyclic extinction",
+      "cat": "history",
+      "parent": null,
+      "one": "일정한 주기로 문명이 쓸려 나가는 일이 우주의 역사에서 되풀이되는 설정.",
+      "note": "지금 문명은 그 주기를 모르거나, 알고서 끊으려 한다.",
+      "similar": [
+        {
+          "id": "great_filter",
+          "how": "되풀이되는 멸망은 무언가가 주기적으로 쓸어 내는 것이고, 거대한 필터는 넘기 어려운 벽 일반을 말한다."
+        }
+      ]
+    },
+    {
+      "id": "time_travel",
+      "ko": "시간 여행",
+      "en": "Time travel",
+      "cat": "history",
+      "parent": null,
+      "one": "과거나 미래로 건너가는 것.",
+      "note": "과거를 바꾸면 무엇이 되는가(모순, 갈라지는 시간선)가 늘 따라붙는다.",
+      "similar": []
+    },
+    {
+      "id": "alt_timeline",
+      "ko": "평행 세계",
+      "en": "Parallel worlds",
+      "cat": "history",
+      "parent": null,
+      "one": "우리 세계와 나란히 있는 다른 세계, 또는 다른 선택으로 갈라진 역사.",
+      "note": "같은 사람이 다른 삶을 산 모습이 이야기의 거울이 된다.",
+      "similar": []
+    },
+    {
+      "id": "energy_shield",
+      "ko": "에너지 방패",
+      "en": "Energy shield",
+      "cat": "war",
+      "parent": null,
+      "one": "몸이나 배를 둘러싸 공격을 막는 보이지 않는 벽.",
+      "note": "무엇은 막고 무엇은 못 막는가가 그 세계의 싸움 방식을 정한다.",
+      "similar": [
+        {
+          "id": "blade_return",
+          "how": "방패가 빠른 공격만 막는다는 설정이 칼싸움을 되살리기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "beam_weapon",
+      "ko": "광선 무기",
+      "en": "Directed-energy weapon",
+      "cat": "war",
+      "parent": null,
+      "one": "빛이나 에너지 다발을 쏘아 맞히는 무기.",
+      "note": "총알 대신 빛을 쏘는 것이 미래 전쟁의 기본 풍경이 된다.",
+      "similar": []
+    },
+    {
+      "id": "blade_return",
+      "ko": "칼싸움의 귀환",
+      "en": "Return of the blade",
+      "cat": "war",
+      "parent": null,
+      "one": "먼 미래인데도 칼과 맞붙는 싸움이 중요한 무기로 남은 설정.",
+      "note": "방패가 빠른 공격만 막는다거나 빛으로 된 칼이라거나, 그럴 만한 까닭을 붙인다.",
+      "similar": []
+    },
+    {
+      "id": "mass_driver",
+      "ko": "질량 투사",
+      "en": "Kinetic weapons",
+      "cat": "war",
+      "parent": null,
+      "one": "무거운 덩어리를 아주 빠르게 쏘아 그 힘으로 부수는 무기.",
+      "note": "레일건부터 궤도에서 떨어뜨리는 폭격까지 있다. 우주에서는 빠른 덩어리 하나가 큰 폭탄만 한 힘을 낸다.",
+      "similar": []
+    },
+    {
+      "id": "planet_killer",
+      "ko": "행성 파괴",
+      "en": "Planet destruction",
+      "cat": "war",
+      "parent": null,
+      "one": "행성 하나를 통째로 부수거나 그 위의 생명을 쓸어 내는 힘이나 무기.",
+      "note": "그 힘을 가진 쪽이 무엇을 할 수 있는가, 또 무엇을 하지 않는가가 세계의 질서를 정한다.",
+      "similar": [
+        {
+          "id": "forbidden_weapon",
+          "how": "행성 파괴는 힘의 크기이고, 금지된 무기는 쓰지 않기로 한 약속이다."
+        }
+      ]
+    },
+    {
+      "id": "forbidden_weapon",
+      "ko": "금지된 무기",
+      "en": "Forbidden weapons",
+      "cat": "war",
+      "parent": null,
+      "one": "너무 끔찍해서 모든 세력이 쓰지 않기로 약속한 무기.",
+      "note": "약속을 깨는 쪽이 모두의 적이 된다.",
+      "similar": [
+        {
+          "id": "deterrence",
+          "how": "금지된 무기는 약속으로 묶는 것이고, 공포의 균형은 서로 두려워서 묶이는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "deterrence",
+      "ko": "공포의 균형",
+      "en": "Deterrence",
+      "cat": "war",
+      "parent": null,
+      "one": "서로를 끝장낼 수 있어서 함부로 싸우지 못하는 상태.",
+      "note": "균형이 깨지는 순간이 곧 이야기의 고비가 된다.",
+      "similar": [
+        {
+          "id": "dark_forest",
+          "how": "공포의 균형은 서로 보이는 사이의 일이고, 숨는 우주는 들키는 것 자체가 위험한 것이다."
+        }
+      ]
+    },
+    {
+      "id": "physics_weapon",
+      "ko": "물리 법칙을 바꾸는 무기",
+      "en": "Physics-altering weapons",
+      "cat": "war",
+      "parent": null,
+      "one": "폭발이 아니라 공간·시간·물리 법칙 자체를 바꿔서 부수는 무기.",
+      "note": "막을 방법이 없어, 그런 무기를 가진 쪽과 못 가진 쪽 사이의 차이가 넘을 수 없는 벽이 된다.",
+      "similar": []
+    },
+    {
+      "id": "fleet_battle",
+      "ko": "함대전",
+      "en": "Fleet battle",
+      "cat": "war",
+      "parent": null,
+      "one": "수많은 우주선이 진형을 짜고 맞붙는 큰 싸움.",
+      "note": "바다의 해전이나 땅의 전투를 우주로 옮긴 모습으로 그려지는 경우가 많다.",
+      "similar": []
+    },
+    {
+      "id": "orbital_drop",
+      "ko": "궤도 강하",
+      "en": "Orbital drop",
+      "cat": "war",
+      "parent": null,
+      "one": "우주선에서 병사를 행성 위로 곧바로 떨어뜨려 내려보내는 것.",
+      "note": "가장 빠르고 가장 위험한 상륙이다.",
+      "similar": []
+    },
+    {
+      "id": "power_armor",
+      "ko": "강화 갑옷",
+      "en": "Powered armor",
+      "cat": "war",
+      "parent": null,
+      "one": "입은 사람의 힘과 방어를 크게 늘려 주는 동력 갑옷.",
+      "note": "병사 한 사람을 걸어 다니는 전차로 만든다.",
+      "similar": [
+        {
+          "id": "mecha",
+          "how": "강화 갑옷은 몸에 입는 것이고, 거대 로봇은 안에 타는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "fermi",
+      "ko": "왜 아무도 없는가",
+      "en": "Fermi paradox",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "우주가 이렇게 넓고 오래되었는데 왜 외계 문명의 흔적이 보이지 않는가 하는 물음.",
+      "note": "1950년 엔리코 페르미가 던졌다는 물음에서 이름이 왔다. 많은 작품이 이 물음에 나름의 답을 내놓는다.",
+      "similar": []
+    },
+    {
+      "id": "dark_forest",
+      "ko": "숨는 우주",
+      "en": "Dark forest",
+      "cat": "cosmos",
+      "parent": "fermi",
+      "one": "문명들이 서로를 위협으로 보고 들키면 먼저 없애기 때문에 모두 숨어 있다는 답.",
+      "note": "남을 믿을 수 없고 기술은 언제 앞질러질지 모르니, 먼저 치는 것이 살아남는 길이라는 논리다.",
+      "similar": []
+    },
+    {
+      "id": "great_filter",
+      "ko": "거대한 필터",
+      "en": "Great Filter",
+      "cat": "cosmos",
+      "parent": "fermi",
+      "one": "생명이 우주로 퍼지는 문명이 되기까지, 거의 아무도 넘지 못하는 벽이 있다는 답.",
+      "note": "그 벽이 이미 지나온 뒤에 있는지, 아직 앞에 있는지가 무서운 물음이다.",
+      "similar": []
+    },
+    {
+      "id": "first_contact",
+      "ko": "첫 만남",
+      "en": "First contact",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "사람이 처음으로 외계 지성과 마주치는 순간.",
+      "note": "그 만남이 평화로 가느냐 전쟁으로 가느냐가 그 뒤의 역사를 정한다.",
+      "similar": []
+    },
+    {
+      "id": "godlike",
+      "ko": "신에 가까운 존재",
+      "en": "Godlike beings",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "물리 법칙을 넘어서는 힘을 가져 사람에게는 신처럼 보이는 존재.",
+      "note": "그 존재의 뜻을 사람이 알 수 있는가, 섬길 것인가 맞설 것인가가 물음이 된다.",
+      "similar": [
+        {
+          "id": "precursor",
+          "how": "사라진 옛 문명이 지금 종족들에게는 신처럼 여겨지는 경우가 많다."
+        },
+        {
+          "id": "ascension",
+          "how": "초월한 종족이 남은 이들에게 신에 가까운 존재가 되기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "machine_race",
+      "ko": "기계 종족",
+      "en": "Machine race",
+      "cat": "life",
+      "parent": "alien",
+      "one": "기계 몸을 가진 채 스스로 퍼지며 문명을 이루는 종족.",
+      "note": "처음에 누가 만들었는지와 상관없이, 지금은 스스로 늘고 스스로 뜻을 세운다. 행성을 통째로 기계로 바꾸거나 유기 생명을 없애려는 모습으로 자주 그려진다.",
+      "similar": [
+        {
+          "id": "ai",
+          "how": "인공지능은 누군가 만들어 부리는 기계 지성이고, 기계 종족은 스스로 퍼지는 기계 문명이다."
+        }
+      ]
+    },
+    {
+      "id": "elder_race",
+      "ko": "아직 남은 옛 문명",
+      "en": "Elder race",
+      "cat": "life",
+      "parent": "alien",
+      "one": "아득히 앞선 기술을 쥔 채 물러나 있는, 아직 살아 있는 고대 문명.",
+      "note": "젊은 문명들 위에 조용히 앉아 지켜보거나 간섭한다. 오래 멈춰 있다가 깨어나는 순간이 큰 사건이 된다.",
+      "similar": [
+        {
+          "id": "precursor",
+          "how": "사라진 옛 문명은 이미 없고, 아직 남은 옛 문명은 살아서 물러나 있다."
+        }
+      ]
+    },
+    {
+      "id": "living_machine",
+      "ko": "길러 낸 배와 병기",
+      "en": "Living ships and weapons",
+      "cat": "life",
+      "parent": null,
+      "one": "기계로 짓지 않고 생명을 만들어 내거나 길러서 배나 병기로 쓰는 것.",
+      "note": "피를 흘리고 자라고 스스로 움직이기도 해서, 다루는 사람이 그것을 다 통제하지 못한다는 두려움이 따른다.",
+      "similar": [
+        {
+          "id": "mecha",
+          "how": "타고 싸우는 거대 로봇은 기계이고, 길러 낸 병기는 생명이다."
+        }
+      ]
+    },
+    {
+      "id": "antigravity",
+      "ko": "반중력",
+      "en": "Antigravity",
+      "cat": "move",
+      "parent": null,
+      "one": "무게를 거슬러 물건이나 탈것을 공중에 띄우는 기술.",
+      "note": "바퀴 없이 떠다니는 탈것과 짐, 떠 있는 도시 같은 미래의 풍경을 만든다.",
+      "similar": []
+    },
+    {
+      "id": "simulation",
+      "ko": "모의 현실",
+      "en": "Simulated reality",
+      "cat": "machine",
+      "parent": null,
+      "one": "기계가 세계나 사람을 통째로 본떠 계산해 낸, 안에서는 진짜와 구별되지 않는 세계.",
+      "note": "가상 세계에 들어가는 이야기도, 지금 이 세계가 사실은 계산된 것이라는 이야기도 있다. 무엇이 진짜인가가 물음이 된다.",
+      "similar": [
+        {
+          "id": "mind_upload",
+          "how": "의식 옮기기는 사람이 기계 속으로 들어가는 것이고, 모의 현실은 세계 자체가 계산된 것이다."
+        },
+        {
+          "id": "alt_timeline",
+          "how": "평행 세계는 실제로 따로 있는 세계이고, 모의 현실은 계산으로 만든 세계다."
+        }
+      ]
+    },
+    {
+      "id": "ancestral_memory",
+      "ko": "물려받는 기억",
+      "en": "Ancestral memory",
+      "cat": "mind",
+      "parent": null,
+      "one": "조상들이 겪은 삶과 기억을 핏줄이나 의식을 거쳐 물려받아 지니는 것.",
+      "note": "수많은 옛사람의 지혜를 빌릴 수 있지만, 그 목소리들에 자기가 먹힐 위험이 함께 온다.",
+      "similar": [
+        {
+          "id": "mind_upload",
+          "how": "의식 옮기기는 한 사람의 마음을 옮기는 것이고, 물려받는 기억은 핏줄로 이어진 여러 사람의 기억이다."
+        }
+      ]
+    },
+    {
+      "id": "awakening_substance",
+      "ko": "능력을 깨우는 물질",
+      "en": "Ability-awakening substance",
+      "cat": "mind",
+      "parent": null,
+      "one": "몸에 들이면 초능력이나 예지를 깨우거나 키워 주는 귀한 물질.",
+      "note": "힘을 주는 대신 중독이나 몸의 변화를 부르는 경우가 많고, 그 물질을 쥔 쪽이 능력자를 쥔다.",
+      "similar": [
+        {
+          "id": "key_resource",
+          "how": "모든 것이 걸린 물질은 귀해서 다툼의 대상이고, 능력을 깨우는 물질은 몸에 들여 힘을 얻는 것이다. 둘을 겸하는 물질도 많다."
+        }
+      ]
+    },
+    {
+      "id": "pact",
+      "ko": "강대한 존재와의 계약",
+      "en": "Pact with a greater being",
+      "cat": "mind",
+      "parent": null,
+      "one": "사람 너머의 강대한 존재에게 힘을 받는 대신 그 뜻에 묶이는 약속.",
+      "note": "얻는 힘이 클수록 치를 값도 커서, 언젠가 그 값을 받으러 온다. 상대는 다른 차원의 존재일 때가 많다.",
+      "similar": [
+        {
+          "id": "other_realm",
+          "how": "또 하나의 차원은 그곳 자체이고, 계약은 그곳의 존재와 맺는 거래다."
+        }
+      ]
+    },
+    {
+      "id": "flotilla",
+      "ko": "떠도는 함대 사회",
+      "en": "Flotilla society",
+      "cat": "society",
+      "parent": null,
+      "one": "행성에 뿌리내리지 않고 배를 집 삼아 옮겨 다니며 사는 사회.",
+      "note": "고향을 잃었거나 처음부터 갖지 않은 사람들이다. 물과 공기와 자리가 모자라 배 안의 규율이 엄해진다.",
+      "similar": [
+        {
+          "id": "generation_ship",
+          "how": "세대선은 목적지가 있는 배 한 척이고, 떠도는 함대 사회는 배들이 곧 사는 곳이다."
+        },
+        {
+          "id": "spacers",
+          "how": "우주에서 자란 인류는 거주지에 정착해 살고, 떠도는 함대 사회는 머물 곳 없이 옮겨 다닌다."
+        }
+      ]
+    },
+    {
+      "id": "long_plan",
+      "ko": "대를 잇는 긴 계획",
+      "en": "Plan spanning millennia",
+      "cat": "history",
+      "parent": null,
+      "one": "한 사람이나 집단이 수백, 수천 년 뒤를 내다보고 세워 대를 이어 밀고 가는 계획.",
+      "note": "계획한 사람은 그 끝을 보지 못하고, 계획을 따르는 사람은 그것을 모르는 경우가 많다. 계획이 틀어지는 순간이 이야기가 된다.",
+      "similar": [
+        {
+          "id": "psychohistory",
+          "how": "미래를 계산하는 학문은 앞날을 따지는 방법이고, 대를 잇는 긴 계획은 그 앞날을 바꾸려고 세운 일이다."
+        }
+      ]
+    },
+    {
+      "id": "cloaking",
+      "ko": "모습을 감추는 기술",
+      "en": "Cloaking",
+      "cat": "war",
+      "parent": null,
+      "one": "배나 사람을 눈과 탐지 장치에서 감추는 기술.",
+      "note": "보이지 않는 적이 싸움의 셈법을 바꾼다. 감추는 쪽과 찾는 쪽의 기술 다툼이 이어진다.",
+      "similar": []
+    },
+    {
+      "id": "single_biome",
+      "ko": "한 가지 환경뿐인 행성",
+      "en": "Single-biome planet",
+      "cat": "world",
+      "parent": null,
+      "one": "행성 전체가 사막이나 얼음, 바다처럼 한 가지 환경으로만 된 곳.",
+      "note": "그 환경이 거기 사는 사람들의 몸과 관습과 신앙을 통째로 빚는다.",
+      "similar": [
+        {
+          "id": "terraforming",
+          "how": "한 가지 환경뿐인 행성은 있는 그대로의 모습이고, 테라포밍은 그것을 바꾸는 일이다."
+        }
+      ]
+    },
+    {
+      "id": "benefactor",
+      "ko": "문명을 길러 주는 존재",
+      "en": "Benefactor of civilizations",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "젊은 문명에 찾아와 땅과 기술과 번영을 내려 주며 그 운명을 바꾸는 바깥의 존재.",
+      "note": "받은 쪽은 그 존재에 기대게 되고, 그 존재를 쫓는 적까지 함께 떠안기도 한다. 왜 돕는지는 대개 끝까지 알 수 없다.",
+      "similar": [
+        {
+          "id": "uplift",
+          "how": "지성 끌어올리기는 지성이 없던 것을 지성 있게 만드는 것이고, 문명을 길러 주는 존재는 이미 있는 문명을 키워 주는 것이다."
+        },
+        {
+          "id": "godlike",
+          "how": "신에 가까운 존재는 힘의 크기를 말하고, 문명을 길러 주는 존재는 그 힘으로 하는 일을 말한다."
+        }
+      ]
+    },
+    {
+      "id": "galactic_threat",
+      "ko": "모든 문명을 덮치는 위협",
+      "en": "Galaxy-wide threat",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "은하 바깥이나 다른 차원, 오래된 기계에서 나타나 모든 문명의 존속을 위협하는 적.",
+      "note": "협상이 통하지 않아, 서로 다투던 문명들이 손을 잡느냐가 물음이 된다.",
+      "similar": [
+        {
+          "id": "cycle",
+          "how": "되풀이되는 멸망은 주기가 있고, 모든 문명을 덮치는 위협은 한 번 닥치는 적이다."
+        }
+      ]
+    },
+    {
+      "id": "memory_edit",
+      "ko": "기억을 지우거나 심기",
+      "en": "Memory editing",
+      "cat": "mind",
+      "parent": null,
+      "one": "사람의 기억을 기술로 들추거나, 지우거나, 바꾸거나, 지어낸 기억을 심는 것.",
+      "note": "기억이 곧 그 사람이라면, 기억을 바꾼 뒤의 그는 누구인가가 물음이 된다. 다스리는 쪽이 기억을 손에 쥐면 사람을 마음대로 빚을 수 있다.",
+      "similar": [
+        {
+          "id": "mind_control",
+          "how": "마음 부리기는 지금의 뜻을 억지로 움직이는 것이고, 기억 바꾸기는 지난날 자체를 고쳐 그 사람을 바꾸는 것이다."
+        },
+        {
+          "id": "ancestral_memory",
+          "how": "물려받는 기억은 남의 진짜 기억을 지니는 것이고, 기억 바꾸기는 지우거나 지어낸 기억을 넣는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "neural_link",
+      "ko": "뇌와 기계를 바로 잇기",
+      "en": "Neural interface",
+      "cat": "machine",
+      "parent": null,
+      "one": "생각만으로 기계를 움직이거나, 뇌를 망과 기계에 곧바로 잇는 기술.",
+      "note": "손발 대신 마음이 조종간이 되지만, 이어진 기계가 거꾸로 사람의 마음을 흔들기도 한다.",
+      "similar": [
+        {
+          "id": "cyborg",
+          "how": "사이보그는 몸에 기계를 덧붙인 것이고, 뇌와 기계를 잇는 것은 몸 밖의 기계나 망을 마음으로 부리는 것이다."
+        },
+        {
+          "id": "simulation",
+          "how": "뇌를 망에 잇는 기술이 모의 현실로 들어가는 문이 되는 경우가 많다."
+        }
+      ]
+    },
+    {
+      "id": "machine_rights",
+      "ko": "기계의 마음과 권리",
+      "en": "Rights of artificial beings",
+      "cat": "machine",
+      "parent": null,
+      "one": "만들어진 존재에게도 마음이 있다면 사람과 같은 대접을 받아야 하는가 하는 물음.",
+      "note": "물건처럼 사고팔리고 마음대로 없애도 되는가, 사람과 무엇이 다른가를 묻는다. 차별과 해방의 이야기로 그려지는 경우가 많다.",
+      "similar": [
+        {
+          "id": "android",
+          "how": "인조인간은 그런 존재 자체이고, 기계의 권리는 그들을 어떻게 대해야 하는가의 물음이다."
+        },
+        {
+          "id": "ai_revolt",
+          "how": "권리를 얻지 못한 만들어진 존재가 반란으로 나아가는 이야기가 많다."
+        }
+      ]
+    },
+    {
+      "id": "robot_laws",
+      "ko": "기계에 새긴 규칙",
+      "en": "Laws for machines",
+      "cat": "machine",
+      "parent": "ai",
+      "one": "사람을 해치지 못하게 하는 등, 기계가 스스로 어길 수 없도록 새겨 넣은 규칙.",
+      "note": "규칙이 빈틈없어 보여도 그 틈과 서로 부딪치는 자리에서 이야기가 생긴다.",
+      "similar": []
+    },
+    {
+      "id": "humanity_test",
+      "ko": "사람인지 가려내는 시험",
+      "en": "Humanity test",
+      "cat": "machine",
+      "parent": null,
+      "one": "겉으로는 구별되지 않는 상대가 참된 사람인지, 만들어진 것이나 짐승인지 가려내려는 검사.",
+      "note": "무엇을 재느냐가 곧 그 세계가 무엇을 사람다움으로 보는지를 드러낸다.",
+      "similar": [
+        {
+          "id": "android",
+          "how": "사람과 똑같은 인조인간이 있기에 이런 시험이 필요해진다."
+        }
+      ]
+    },
+    {
+      "id": "assimilation",
+      "ko": "남을 제 것으로 바꾸는 동화",
+      "en": "Assimilation",
+      "cat": "life",
+      "parent": null,
+      "one": "다른 종족의 몸과 마음을 고쳐 자기 무리의 일부로 바꿔 버리는 것.",
+      "note": "죽이는 것보다 더 두려운 결말로 그려진다. 바뀐 이는 대개 그것을 기꺼이 받아들이게 된다.",
+      "similar": [
+        {
+          "id": "parasite",
+          "how": "감염하는 생명은 스스로 퍼지는 생물이고, 동화는 한 종족이나 집단이 남을 뜻대로 바꿔 끌어들이는 것이다."
+        },
+        {
+          "id": "hive_mind",
+          "how": "동화된 이들이 하나의 집단 의식에 묶이는 경우가 많다."
+        }
+      ]
+    },
+    {
+      "id": "impostor",
+      "ko": "사람을 흉내 내는 존재",
+      "en": "Shapeshifting impostor",
+      "cat": "life",
+      "parent": null,
+      "one": "모습을 바꿔 사람이나 다른 존재 행세를 하며 사이에 숨어드는 것.",
+      "note": "누가 진짜인지 알 수 없다는 불신이 공동체를 안에서부터 무너뜨린다.",
+      "similar": [
+        {
+          "id": "android",
+          "how": "인조인간은 처음부터 사람처럼 만들어진 것이고, 흉내 내는 존재는 다른 모습을 숨긴 채 사람으로 꾸민 것이다."
+        }
+      ]
+    },
+    {
+      "id": "control_society",
+      "ko": "사람을 통제하는 사회",
+      "en": "Controlled society",
+      "cat": "society",
+      "parent": null,
+      "one": "감시·약물·법·교육으로 사람의 생각과 삶을 빈틈없이 다스리는 사회.",
+      "note": "겉으로는 평화롭고 질서 있지만 그 값으로 자유가 사라진다. 그 틀을 처음 의심하는 한 사람에게서 이야기가 시작되는 경우가 많다.",
+      "similar": [
+        {
+          "id": "mind_control",
+          "how": "마음 부리기는 한 사람의 마음을 움직이는 수단이고, 통제 사회는 그런 수단을 쓰는 사회 전체의 짜임이다."
+        },
+        {
+          "id": "galactic_empire",
+          "how": "은하 제국은 다스리는 꼴을 말하고, 통제 사회는 사람의 삶을 얼마나 깊이 쥐는가를 말한다."
+        }
+      ]
+    },
+    {
+      "id": "class_divide",
+      "ko": "위아래로 갈린 계급",
+      "en": "Stratified society",
+      "cat": "society",
+      "parent": null,
+      "one": "가진 자와 못 가진 자가 사는 곳 자체가 위와 아래, 안과 밖으로 갈라진 사회.",
+      "note": "공중 도시와 땅바닥, 앞칸과 꼬리칸처럼 공간이 곧 신분이 된다. 그 벽을 넘는 일이 이야기의 축이 된다.",
+      "similar": [
+        {
+          "id": "spacers",
+          "how": "우주에서 자란 인류와 지구 사람의 갈등이 이런 계급의 꼴을 띠기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "infertility",
+      "ko": "아이가 태어나지 않는 세상",
+      "en": "Infertility crisis",
+      "cat": "society",
+      "parent": null,
+      "one": "병·재앙·무기 때문에 아이가 거의 태어나지 않게 된 세상, 또는 출산을 나라가 쥔 세상.",
+      "note": "종족이나 문명이 천천히 사라져 간다는 절망과, 아이를 낳는 일을 누가 다스리는가의 다툼이 함께 그려진다.",
+      "similar": [
+        {
+          "id": "genetic_eng",
+          "how": "아이가 태어나지 않게 만든 것이 유전자 무기인 경우가 있다."
+        }
+      ]
+    },
+    {
+      "id": "overpopulation",
+      "ko": "넘쳐 나는 인구",
+      "en": "Overpopulation",
+      "cat": "society",
+      "parent": null,
+      "one": "사람이 너무 많아져 먹을 것·일자리·살 곳이 모자라게 된 세상.",
+      "note": "가난과 배급, 출산 제한, 우주 이민 같은 이야기로 이어진다.",
+      "similar": [
+        {
+          "id": "earth_left",
+          "how": "넘쳐 나는 인구가 지구를 떠나는 까닭이 되기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "law_above",
+      "ko": "법 위에 선 집행자",
+      "en": "Agents above the law",
+      "cat": "society",
+      "parent": null,
+      "one": "법의 테두리 밖에서 판단하고 처벌할 권한을 받은 특별한 요원.",
+      "note": "질서를 지키는 칼이지만 그 칼을 누가 막을 수 있는가가 늘 물음이 된다.",
+      "similar": [
+        {
+          "id": "order",
+          "how": "수도회와 비밀 결사는 뒤에서 움직이고, 법 위의 집행자는 드러내 놓고 권한을 쥔다."
+        }
+      ]
+    },
+    {
+      "id": "collaborators",
+      "ko": "외계 편에 선 인류",
+      "en": "Human collaborators",
+      "cat": "society",
+      "parent": null,
+      "one": "인류를 등지고 외계 세력이나 침략자를 돕는 사람들.",
+      "note": "인류에 대한 절망이나 살아남으려는 계산, 또는 믿음에서 나온다. 적보다 무서운 안의 적으로 그려진다.",
+      "similar": [
+        {
+          "id": "alien_invasion",
+          "how": "외계의 침공에는 흔히 그들을 돕는 인류가 따라붙는다."
+        }
+      ]
+    },
+    {
+      "id": "alien_invasion",
+      "ko": "외계의 지구 침공",
+      "en": "Alien invasion of Earth",
+      "cat": "war",
+      "parent": null,
+      "one": "외계 세력이 지구를 쳐들어오고, 인류가 그에 맞서는 이야기.",
+      "note": "기술 차이가 압도적인 적 앞에서 인류가 하나로 뭉치느냐, 숨은 약점을 찾아내느냐가 이야기의 축이 된다.",
+      "similar": [
+        {
+          "id": "first_contact",
+          "how": "첫 만남은 처음 마주치는 순간이고, 침공은 그 만남이 전쟁으로 시작된 경우다."
+        },
+        {
+          "id": "galactic_threat",
+          "how": "모든 문명을 덮치는 위협은 은하 전체의 적이고, 지구 침공은 인류의 고향을 겨눈 싸움이다."
+        }
+      ]
+    },
+    {
+      "id": "sensor_denial",
+      "ko": "탐지가 막힌 전장",
+      "en": "Sensor-denied battlefield",
+      "cat": "war",
+      "parent": null,
+      "one": "전파 방해나 특별한 입자 때문에 레이더와 유도 무기가 듣지 않는 싸움터.",
+      "note": "먼 거리에서 쏘는 싸움이 막혀, 눈으로 보고 가까이 붙는 싸움이 되돌아온다.",
+      "similar": [
+        {
+          "id": "cloaking",
+          "how": "모습을 감추는 기술은 한 대를 숨기는 것이고, 탐지가 막힌 전장은 모두의 눈을 가리는 것이다."
+        },
+        {
+          "id": "blade_return",
+          "how": "탐지가 막히면 가까이 붙는 싸움이 늘어 칼싸움과 이어지기도 한다."
+        }
+      ]
+    },
+    {
+      "id": "colonial_war",
+      "ko": "식민지의 독립 전쟁",
+      "en": "Colonial war of independence",
+      "cat": "history",
+      "parent": null,
+      "one": "지구나 중심 세력의 수탈에 맞서 우주 식민지가 일으킨 독립 전쟁.",
+      "note": "누가 옳은가가 쉽게 갈리지 않아, 같은 사건이 어느 편에서 보느냐에 따라 해방도 반란도 된다.",
+      "similar": [
+        {
+          "id": "spacers",
+          "how": "우주에서 자란 인류가 차별과 수탈에 맞서는 것이 이 전쟁의 흔한 뿌리다."
+        }
+      ]
+    },
+    {
+      "id": "time_loop",
+      "ko": "같은 시간을 되감는 고리",
+      "en": "Time loop",
+      "cat": "history",
+      "parent": "time_travel",
+      "one": "같은 하루나 같은 순간이 기억만 남긴 채 되풀이되는 것.",
+      "note": "되풀이를 끊을 방법을 찾는 것이 이야기가 된다. 되풀이할수록 쌓이는 앎과, 남들은 기억하지 못하는 외로움이 함께 그려진다.",
+      "similar": [
+        {
+          "id": "cycle",
+          "how": "되풀이되는 멸망은 문명 규모의 긴 주기이고, 시간 고리는 같은 시간이 그대로 되감기는 것이다."
+        }
+      ]
+    },
+    {
+      "id": "time_police",
+      "ko": "역사를 지키는 시간 조직",
+      "en": "Time police",
+      "cat": "history",
+      "parent": "time_travel",
+      "one": "시간 여행으로 역사가 바뀌지 않도록 지키거나, 거꾸로 고치려는 조직.",
+      "note": "어느 역사가 '옳은' 역사인가를 누가 정하는가가 물음이 된다.",
+      "similar": []
+    },
+    {
+      "id": "forbidden_zone",
+      "ko": "법칙이 뒤틀린 금지 구역",
+      "en": "Anomalous zone",
+      "cat": "cosmos",
+      "parent": null,
+      "one": "알 수 없는 일이 지나간 뒤 물리 법칙이 뒤틀려 들어가면 위험한 구역.",
+      "note": "그 안에서 나오는 기이한 물건이 값지게 팔려, 위험을 무릅쓰고 드나드는 사람들이 생긴다.",
+      "similar": [
+        {
+          "id": "other_realm",
+          "how": "또 하나의 차원은 따로 있는 곳이고, 금지 구역은 이 세계 안에 생긴 뒤틀린 자리다."
+        }
+      ]
+    }
+  ]
+}

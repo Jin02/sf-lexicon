@@ -1,0 +1,752 @@
+{
+  "terms": [
+    {
+      "id": "holy_galactic_empire",
+      "ko": "신성 은하 제국",
+      "orig": "神聖銀河帝国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "열세 대 270년 남짓 은하 한가운데를 다스린 옛 제국.",
+      "note": "문화와 관료제가 잘 갖춰진 나라로, 멀리 떨어진 남쪽 변경 사람들을 오랑캐로 낮춰 보았다. 마지막 황제 광휘제가 죽자 순식간에 무너졌고, 그 자리를 두고 군벌들이 다투면서 은하가 전국시대로 들어간다. 수도성은 제왕도.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "gojo",
+      "ko": "오장국",
+      "orig": "五丈国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "옛 제국의 장군이 북천을 눌러 세운 나라.",
+      "note": "제국이 무너진 뒤 북천의 군벌들을 하나로 꺾어 세웠다. 옛 제국의 땅과 재산을 거의 그대로 물려받아 남천보다 훨씬 크고 넉넉하지만, 실제로는 장군들의 군벌이 모인 꼴이라 관료제가 약하고 장군들의 목소리가 크다. 건국자 단죠는 왕을 칭하지 않았다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "dai_gojo",
+      "ko": "대오장",
+      "orig": "大五丈",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기. 같은 문서 본문에 '대오장국'도 쓰인다",
+      "alt_ko": [
+        {
+          "ko": "대오장국",
+          "src": "나무위키 '은하전국군웅전 라이' 본문의 표기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "오장의 권력을 빼앗은 자가 황제를 칭하며 고친 나라 이름.",
+      "note": "단죠가 죽은 뒤 장군 하나가 권력을 독차지하고 황제 자리에 올라 나라 이름을 대오장으로 바꾸었다. 정통성이 약하고 다스림이 가혹해, 이를 '가짜 황제'로 보고 치려는 세력이 일어난다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://namu.wiki/w/%EA%B0%80%EC%9D%B4%EB%9D%BC",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "nanten_alliance",
+      "ko": "남천 연합",
+      "orig": "南天連合",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "오장의 남쪽 정벌에 맞서려고 남천 나라들이 맺은 연합.",
+      "note": "서로 싸우던 남천의 나라들이 오장의 침공을 막으려고 손을 잡았고, 처음에는 지나라가 맹주였다. 저마다 제 이익을 좇아 모인 것이라 바깥 위협이 걷히면 곧 맹주 자리를 두고 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "ren",
+      "ko": "연나라",
+      "orig": "練国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "남만과 혼인으로 손잡고 커 나간 남천의 나라.",
+      "note": "한때 지나라에 눌려 속국 노릇을 했으나, 남만 왕이 자기 나라를 연나라 임금에게 넘기면서 남천에서 가장 센 나라가 된다. 왕의 말이 거의 그대로 법인 전제 군주국이고, 왕족에는 남만의 피가 섞인 이가 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "chi",
+      "ko": "지나라",
+      "orig": "智国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "오장과 가장 가까운 남천의 강국, 남천 연합의 맹주.",
+      "note": "부국강병으로 군사력이 강해 남천 연합을 이끌었다. 다만 군과 관리가 잘 어울리지 못해, 왕 대신 나라를 맡은 이가 실권을 한 손에 쥐고 다스린다. 정통 계승자와 실제 권력자가 다르다는 것이 이 나라의 약점이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "mei",
+      "ko": "명나라",
+      "orig": "明国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "옛 제국 때부터 이어 온 명문가가 다스린 남천의 나라.",
+      "note": "남천에서 지나라와 앞을 다투려 했으나 힘이 모자랐고, 지나라를 치러 나섰다가 거꾸로 수도가 함락되어 사라진다. 남천에서 드물게 오장 쪽 계통의 옛 배를 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "mou",
+      "ko": "맹나라",
+      "orig": "孟国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "명나라가 무너진 뒤 지나라에 스스로 머리를 숙인 남천의 나라.",
+      "note": "지나라가 남천의 큰 나라로 떠오르자 맞서지 않고 항복해 지나라에 합쳐졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "chou",
+      "ko": "조나라",
+      "orig": "趙国",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "오장의 첫 남쪽 정벌 때 임금을 잃은 남천의 나라.",
+      "note": "연나라와 남만 사이에 끼어 있던 작은 나라로, 오장군에게 임금이 전사한 뒤 지나라의 땅이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "nanban",
+      "ko": "남만",
+      "orig": "南蛮",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하 변경에서 무역으로 부를 쌓은 짐승 모습 사람들의 나라.",
+      "note": "주민은 사람과 짐승이 섞인 모습의 수인이고, 불을 뿜는 용인 같은 이도 있다. 부족마다 따로 움직이는 사회라 왕은 상징에 가깝다. 제국 붕괴의 혼란을 비켜 가 물자와 돈이 넉넉하며, 늙은 왕이 나라를 사위인 연나라 임금에게 넘긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "seikyo",
+      "ko": "서강",
+      "orig": "西羌",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "남천과 함께 북천에 맞닿은, 무를 숭상하는 나라.",
+      "note": "장수도 병사도 모두 용맹하지만 나라 사이의 흥정에는 서툴러 연나라와 오장 사이에서 이리저리 휘둘린다. 왕족 일가가 함께 나라를 꾸려 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "division_4077",
+      "ko": "독립 4077 중기갑 사단",
+      "orig": "独立四〇七七重機甲師団",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '류우가 라이' 문서에서 통용되는 표기. 같은 문서에 '4077 사단'으로 줄여 쓴다",
+      "alt_ko": [
+        {
+          "ko": "4077 기갑사단",
+          "src": "나무위키 '은하전국군웅전 라이/등장인물' 문서의 표기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "오장 제3군에서 늘 선봉에 서던 정예 사단.",
+      "note": "약 2만 명 규모로, 이야기 초반 병졸 출신 주인공이 갑자기 사단장으로 발탁되어 이 사단을 맡는다. 여기서 함께한 장수와 기술자들이 뒷날 그 세력의 뼈대가 된다. 기함은 붉은 전함 금강.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "hokuten",
+      "ko": "북천",
+      "orig": "北天",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "옛 제국의 중심이던 은하의 북쪽 지역.",
+      "note": "신성 은하 제국이 다스리던 은하 한가운데로, 문화와 살림이 앞서 있다. 제국이 무너진 뒤 오장국이 이 지역을 하나로 묶는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "nanten",
+      "ko": "남천",
+      "orig": "南天",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "넓고 풍요롭지만 옛 제국이 오랑캐 땅으로 보던 남쪽 변경.",
+      "note": "여러 나라로 갈라져 서로 싸우던 지역으로, 사람들 성정이 거칠고 남만에서 온 수인이 많다. 북천의 오장이 은하를 하나로 하려면 반드시 꺾어야 하는 상대다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "seiouto",
+      "ko": "제왕도",
+      "orig": "斉王都",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "옛 신성 은하 제국의 수도성.",
+      "note": "제국이 은하를 다스리던 중심 행성으로, 제국이 무너진 뒤에도 은하의 주인을 자처하는 세력들이 이곳을 차지하려 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "zaouto",
+      "ko": "좌왕도",
+      "orig": "座王都",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '류우가 라이' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "오장과 가까운 쪽에 있는 지나라의 요새 도시.",
+      "note": "지나라 둘째 도시로, 북쪽에서 오는 적을 막는 요새 구실을 한다. 오장의 첫 남쪽 정벌에서 오장군이 이곳을 먼저 차지하려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "nankinro",
+      "ko": "남경루",
+      "orig": "南京楼",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "난징루",
+          "src": "나무위키 '은하전국군웅전 라이' 문서의 애니메이션 회차 제목 우리말 풀이"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "중앙에서 먼 오장 변방의 상업 도시.",
+      "note": "큰 상인 가문들이 자리 잡은 장사의 도시이자, 중앙 권력에서 밀려난 사람이 태수로 보내지는 변방이다. 이야기 중반 주인공이 이곳에서 사람과 힘을 모은다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://namu.wiki/w/%EB%8B%A4%EC%9D%B4%EA%B0%80%EC%BF%A0%EC%95%BC%20%EC%8B%9C%EC%8B%A0",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "daiouri",
+      "ko": "대왕리",
+      "orig": "大王理",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '라코우' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "남천 연나라가 수도로 삼은 행성.",
+      "note": "원래 다른 이름이던 연나라 수도성을 고쳐 부른 것이다. 중력의 균형이 불안정한 곳이라, 싸움 막바지에 이를 이용해 행성 위로 달을 떨어뜨리는 계책이 쓰인다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%9D%BC%EC%BD%94%EC%9A%B0",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "kaiju",
+      "ko": "해수",
+      "orig": "海獣",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast",
+        "living_machine"
+      ],
+      "one": "우주에 사는 거대한 생물.",
+      "note": "작품은 우주를 바다처럼 그려, 우주의 큰 짐승을 바다 짐승이라는 뜻의 이름으로 부른다. 남만에는 전함만 한 짐승이 있어 갑옷을 입혀 배처럼 부린다는 설정도 나온다(일본어 위키백과는 '海洋獣'으로 적는다).",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "gyokuji",
+      "ko": "옥새",
+      "orig": "玉璽",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '류우가 라이' 문서에서 통용되는 표기. '은하전국군웅전 라이/등장 국가' 문서에는 '옥쇄'로도 적혀 있다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "은하를 다스릴 자격의 증표로 내려오는 도장.",
+      "note": "신성 은하 제국보다 훨씬 오래전부터 은하의 주인임을 보이는 표시로 여겨졌다. 힘으로 권력을 쥔 자도 이것이 없으면 정통성이 흔들려, 이를 가진 사람을 차지하려는 다툼이 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "kongo",
+      "ko": "금강",
+      "orig": "金剛",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '류우가 라이' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "4077 사단의 붉은 기함.",
+      "note": "보통 전함보다 무장을 더 실은 붉은 배로, 주인공이 사단장이 되어 처음 탄 뒤 그 세력의 깃발 배가 된다. 뒷날 같은 이름으로 더 빠르고 강한 새 배가 지어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "teiko_class",
+      "ko": "제호급 전함",
+      "orig": "帝虎級戦艦",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '라코우' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "남만을 품은 연나라가 지은, 한 척이 한 군과 맞먹는 거대 전함.",
+      "note": "선체 셋을 나란히 붙인 배로 옆구리 장갑이 두꺼워 보통 전함의 포로는 가까이서 쏴도 뚫리지 않는다. 남만을 합쳐 넉넉해진 연나라가 열두 척을 지어 오장을 힘으로 밀어붙이려 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%9D%BC%EC%BD%94%EC%9A%B0",
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "kai_teiko_class",
+      "ko": "개량형 제호급",
+      "orig": "改帝虎級戦艦",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '라코우' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "제호급을 더 크게 키운 연나라의 전함.",
+      "note": "겉모습은 제호급과 거의 같지만 덩치가 더 크다. 모두 네 척이 지어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%9D%BC%EC%BD%94%EC%9A%B0",
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "kishin",
+      "ko": "기신",
+      "orig": "機神",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '라코우' 문서에서 통용되는 표기('초제호급 전함 기신')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "연나라 임금이 자기 무덤을 고쳐 만든 초제호급 전함.",
+      "note": "은하를 하나로 한 뒤 묻히려고 짓던 거대한 능을 싸움배로 고친 것이다. 성벽과 사는 구역까지 갖춰 배라기보다 요새에 가깝고, 머리 쪽 큰 포를 잇달아 쏠 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%9D%BC%EC%BD%94%EC%9A%B0",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "gojo_shitenno",
+      "ko": "오장 4천왕",
+      "orig": "五丈四天王",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '가이라' 문서에서 통용되는 표기. 같은 문서에 '사천왕'으로도 쓴다",
+      "alt_ko": [
+        {
+          "ko": "사천왕",
+          "src": "나무위키 '가이라' 문서 본문의 표기"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "오장 건국자 단죠가 가장 믿은 네 장수.",
+      "note": "단죠와 함께 북천을 휩쓴 네 사람으로, 저마다 큰 군을 거느린다. 건국자가 죽은 뒤 이들이 나라의 실권을 나누어 쥐면서 서로 견제하고 다투게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B0%80%EC%9D%B4%EB%9D%BC",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "four_marshals",
+      "ko": "4원수",
+      "orig": "四元帥",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '가이라' 문서에서 통용되는 표기('4원수체제')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "건국자 사후 4천왕을 원수로 올려 나라를 함께 맡긴 체제.",
+      "note": "물려받을 아들이 없어 단죠가 죽은 뒤 4천왕을 원수로 삼아 함께 다스리게 했다. 이름으로는 대신들이 위에 있지만 군권을 쥔 네 원수가 실제 주인이라 사실상 군인이 다스리는 나라가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B0%80%EC%9D%B4%EB%9D%BC",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "supreme_council",
+      "ko": "최고평의회",
+      "orig": "最高評議会",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "건국자 사후 대신과 원수가 함께 꾸린 오장의 최고 기구.",
+      "note": "정치와 군사의 우두머리들을 모아 여럿이 나라를 이끄는 틀이었으나, 문관들은 원수들을 누를 힘이 없어 이름뿐인 기구가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "shosho",
+      "ko": "승상",
+      "orig": "丞相",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '다이가쿠야 시신' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "임금 아래에서 나랏일 전체를 맡는 으뜸 벼슬.",
+      "note": "오장에서 권력을 쥔 쪽이 바뀔 때마다 그 쪽의 가장 믿는 사람이 이 자리에 올라 나라 안 살림과 정치를 거머쥔다. 남천 쪽도 같은 이름의 벼슬을 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%A4%EC%9D%B4%EA%B0%80%EC%BF%A0%EC%95%BC%20%EC%8B%9C%EC%8B%A0",
+        "https://namu.wiki/w/%EA%B0%80%EC%9D%B4%EC%97%94",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "gojo_ou",
+      "ko": "오장왕",
+      "orig": "五丈王",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "오장국 군주가 쓰는 왕의 칭호.",
+      "note": "건국자 단죠는 북천의 실질적 주인이었지만 끝내 왕을 칭하지 않았다. 그래서 그 뒤 누가 정식으로 이 칭호를 쓰느냐가 곧 오장의 후계 다툼이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://namu.wiki/w/%EB%8F%85%EC%95%88%EB%A3%A1%20%EB%A7%88%EC%82%AC%EB%AC%B4%EB%84%A4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "masamune",
+      "ko": "마사무네",
+      "orig": "正宗",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장 국가' 문서에서 통용되는 표기('마사무네라는 이름을 습명')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "지나라 임금이 대대로 이어받는 이름.",
+      "note": "지나라는 나라의 주인이 '마사무네'라는 이름을 물려받는 관습이 있다. 어린 왕을 대신해 누이가 이 이름을 쓰며 나라를 이끌었기 때문에, 정통 계승자와 이름을 쓰는 사람이 갈리는 문제가 생긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%20%EA%B5%AD%EA%B0%80",
+        "https://namu.wiki/w/%EB%8F%85%EC%95%88%EB%A3%A1%20%EB%A7%88%EC%82%AC%EB%AC%B4%EB%84%A4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "kaiheitai",
+      "ko": "해병대",
+      "orig": "海兵隊",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "해병단",
+          "src": "나무위키 '류우가 라이' 문서의 표기('제8해병단')"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "우주 전함에 타고 백병전을 맡는 부대.",
+      "note": "우주를 바다처럼 그린 작품이라 배에 올라 싸우는 병사를 바다의 병사라는 이름으로 부른다. 적함에 배를 붙이고 넘어가 칼과 창으로 싸우는 것이 이들의 일이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4",
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "commando",
+      "ko": "코만도",
+      "orig": "コマンド",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "적 후방에서 몰래 공작하는 특수 병과.",
+      "note": "닌자 같은 차림으로 숨어들어 뒤를 흔드는 부대다. 오장 남쪽 변방의 한 속국이 이런 부대를 거느렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "ikkiuchi",
+      "ko": "일기토",
+      "orig": "一騎討ち",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '라코우' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "장수와 장수가 일대일로 맞붙어 승부를 가리는 싸움.",
+      "note": "함대가 맞부딪친 뒤 장수끼리 칼을 맞대는 장면이 승패를 가르는 일이 잦다. 큰 싸움의 끝을 두 우두머리의 맞대결로 매듭짓자는 제안이 오가기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%9D%BC%EC%BD%94%EC%9A%B0",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "hakuheisen",
+      "ko": "백병전",
+      "orig": "白兵戦",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "배를 들이받고 건너가 칼과 창으로 싸우는 근접전.",
+      "note": "우주를 나는 함대가 있으면서도 무기는 칼·창·활·철퇴가 주류이고, 포격전 사이에 적함에 배를 붙여 넘어가 싸우는 것으로 승부가 나는 일이 많다. 오장 사람은 공기 없는 곳에서 오래 버텨 이런 싸움에 강하다는 언급도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4",
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "youjutsu",
+      "ko": "요술",
+      "orig": "妖術",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '가이라' 문서에서 통용되는 표기. '겐이' 문서에는 '주술'로도 적는다",
+      "alt_ko": [
+        {
+          "ko": "주술",
+          "src": "나무위키 '겐이' 문서의 표기"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "일부 술사가 쓰는, 사람의 마음을 흐리고 헛것을 만드는 술법.",
+      "note": "과학과 거리가 먼 이 세계에는 도사의 제자들이 익힌 술법이 있어, 남의 정신을 흐트러뜨리거나 분신·인형 같은 헛것을 내세워 사람을 속인다. 권력 다툼의 뒤에서 몰래 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B0%80%EC%9D%B4%EB%9D%BC",
+        "https://namu.wiki/w/%EA%B2%90%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "galactic_sengoku",
+      "ko": "은하 전국시대",
+      "orig": "戦国時代",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 작품 제목 『은하전국군웅전』과 나무위키 '은하전국군웅전 라이' 문서 개요의 말을 따라 붙임",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "옛 제국이 무너진 뒤 군웅이 은하를 놓고 다투는 시대.",
+      "note": "마지막 황제가 죽자 제국이 한순간에 갈라지고, 군벌과 변경 나라들이 저마다 은하의 주인을 노리며 싸운다. 북천을 묶은 오장과 갈라진 남천의 다툼이 이야기의 큰 줄기다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "nanbatsu",
+      "ko": "남벌",
+      "orig": "南征",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로하(은하전국군웅전 라이)' 문서에서 통용되는 표기. 일본어 원문은 '南征'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "오장이 남천을 손에 넣으려고 일으킨 대원정.",
+      "note": "첫 원정은 병력 1,800만에 전함 18만 척을 이끌고 나섰으나, 보급선이 길게 늘어진 틈을 남천이 노리고 들을 비워 버리는 전술을 써서 물러난다. 은하를 하나로 하려는 세력에게 남천 정벌은 끝까지 넘어야 할 일이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://namu.wiki/w/%EB%A5%98%EC%9A%B0%EA%B0%80%20%EB%9D%BC%EC%9D%B4",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "hokubatsu",
+      "ko": "북벌",
+      "orig": "北伐",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음(나무위키에 이 이름이 나오지 않는다) — 나무위키가 이 작품의 나라·땅 이름을 한자음으로 읽는 관례를 따라 원어 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "남천 나라들이 거꾸로 오장을 치러 북쪽으로 올라온 원정.",
+      "note": "남천이 힘을 모으면 거꾸로 북쪽으로 쳐 올라온다. 지나라와 연나라가 거의 같은 때에 대군을 이끌고 오장 땅으로 들어오는 큰 싸움이 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "rokumonkai",
+      "ko": "육문해 회전",
+      "orig": "六紋海会戦",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음(나무위키에 이 이름이 나오지 않는다) — 나무위키가 이 작품의 나라·땅 이름을 한자음으로 읽는 관례를 따라 원어 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "남천 대함대와 오장 함대가 맞붙은 큰 함대전.",
+      "note": "남천의 북벌을 맞아 오장이 남천 주력과 부딪친 싸움으로, 하늘의 움직임을 이용한 작전이 쓰여 양쪽 모두 큰 손실을 입는다. 제호급 전함들이 처음 크게 나선 싸움이기도 하다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    },
+    {
+      "id": "gitei_touhatsu",
+      "ko": "가짜 황제 토벌",
+      "orig": "偽帝討伐",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '은하전국군웅전 라이' 문서에서 통용되는 표기('가짜 황제 토벌군')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "황제를 칭한 오장의 실권자를 치려고 일어난 싸움.",
+      "note": "오장의 권력을 빼앗아 황제를 칭한 자를 정통성 없는 가짜로 보고 변방의 장수가 군사를 일으킨다. 이 싸움에서 옛 은인과 칼을 맞대야 하는 일이 벌어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4",
+        "https://namu.wiki/w/%EB%A1%9C%ED%95%98(%EC%9D%80%ED%95%98%EC%A0%84%EA%B5%AD%EA%B5%B0%EC%9B%85%EC%A0%84%20%EB%9D%BC%EC%9D%B4)",
+        "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%B2%B3%E6%88%A6%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%9D%E3%83%A9%E3%82%A4"
+      ]
+    }
+  ]
+}

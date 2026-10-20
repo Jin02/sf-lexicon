@@ -1,0 +1,1535 @@
+{
+  "terms": [
+    {
+      "id": "unsc",
+      "ko": "UNSC",
+      "orig": "United Nations Space Command (UNSC)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22200 (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 한국어 상점 『Halo Infinite(캠페인)』 소개 ‘UNSC 해병들’, ‘UNSC 함대’",
+      "alt_ko": [
+        {
+          "ko": "국제연합 우주사령부",
+          "src": "소설 『헤일로: 리치 행성의 함락』(에릭 나이런드, 제우미디어 2015) 알라딘 출판사 책 소개, 『헤일로 1 - 리치 행성의 함락』(집사재 2011) 책 소개"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구 정부 아래 인류의 군대를 맡은 사령부",
+      "note": "해군과 해병대, 정보 기관을 거느린 인류의 군 조직이다. 식민지의 반란을 누르던 군대가 코버넌트와의 전쟁에서는 인류를 지키는 마지막 방패가 된다. 한국어판 게임은 약자를 그대로 쓰고, 소설 번역판은 풀어서 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://store.steampowered.com/app/1708091/?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61768683",
+        "https://www.halopedia.org/United_Nations_Space_Command"
+      ]
+    },
+    {
+      "id": "oni",
+      "ko": "해군 정보국",
+      "orig": "Office of Naval Intelligence (ONI)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event004 ‘리치 행성 궤도의 해군 정보국 시설’, BlackBox01 (게임 파일 사본, 작품 소개 ko_sources 참고) · 소설 『헤일로: 리치 행성의 함락』(제우미디어 2015) 출판사 책 소개 ‘해군 정보국에서 캐서린 핼시 박사 주관으로’",
+      "alt_ko": [
+        {
+          "ko": "ONI",
+          "src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) 임무 이름 ‘ONI 알파 지점’(Halo 3: ODST)·‘ONI: 소드 기지’(Halo: Reach) — 장소 이름 안에서는 약자를 그대로 쓴다"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "UNSC의 첩보와 비밀 연구를 맡은 기관",
+      "note": "적의 정보를 캐는 일과 함께 비밀 무기와 선조 유물 연구를 뒤에서 이끌며, 스파르탄 계획도 이 기관에서 나왔다. 무엇이든 기밀로 묶고 법과 윤리의 선을 쉽게 넘어서 인류 안에서도 의심을 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61768683",
+        "https://www.halopedia.org/Office_of_Naval_Intelligence"
+      ]
+    },
+    {
+      "id": "insurrectionists",
+      "ko": "반란군",
+      "orig": "Insurrectionists (the Insurrection)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로 1 - 리치 행성의 함락』(에릭 나이런드, 집사재 2011) 알라딘 출판사 책 소개 ‘국제연합 우주사령부에서는 반란군을 진압할 목적으로 특수부대를 창설할 계획’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "지구의 통치에 맞서 일어난 외곽 식민지 무장 세력",
+      "note": "25세기 말부터 외곽 이주지에서 중앙 정부의 간섭에 반발해 무장 투쟁을 벌인 여러 집단이다. 이들을 누르려고 강화 병사 계획이 시작되었고, 외계의 침공이 닥친 뒤에도 인류끼리의 다툼은 완전히 끝나지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11228881",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61768683",
+        "https://www.halopedia.org/Insurrection",
+        "https://www.halopedia.org/Insurrectionist"
+      ]
+    },
+    {
+      "id": "covenant",
+      "ko": "코버넌트",
+      "orig": "Covenant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22201 (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 한국어 상점 『Halo: Combat Evolved Anniversary』·『Halo 3』 소개 ‘코버넌트’ · 소설 『헤일로』 시리즈(집사재 2011, 제우미디어 2015) 책 소개",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "선조를 신으로 섬기는 여러 외계 종족의 신정 연합",
+      "note": "산슈움과 상헬리의 동맹에서 시작해 여러 종족을 거느리게 된 거대한 종교 국가다. 선조가 남긴 유물을 성물로 받들어 찾아 모으고, 그 교리를 내세워 인류를 없애야 할 대상으로 선포한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://store.steampowered.com/app/1064221/?l=koreana",
+        "https://store.steampowered.com/app/1064271/?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11228881",
+        "https://www.halopedia.org/Covenant",
+        "https://www.halopedia.org/Covenant_religion"
+      ]
+    },
+    {
+      "id": "banished",
+      "ko": "배니시드",
+      "orig": "Banished",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 『Halo Infinite(캠페인)』 소개 ‘배니시드로 알려진 가공할 적’, ‘브루트 전사들로 구성된 강력한 집단인 배니시드’ · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘배니시드 대전사’, ‘배니시드 전초기지’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "코버넌트에서 떨어져 나온 저힐라네 중심의 무장 집단",
+      "note": "코버넌트에 반기를 든 저힐라네 전사가 세운 세력으로, 여러 종족의 용병과 약탈자가 섞여 있다. 신앙 대신 힘과 이익을 좇으며, 『헤일로 워즈 2』와 『헤일로 인피니트』에서 인류의 주된 적으로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1708091/?l=koreana",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://www.halowaypoint.com/ko-kr/games/halo-infinite",
+        "https://www.halopedia.org/Banished"
+      ]
+    },
+    {
+      "id": "created",
+      "ko": "크리에이티드",
+      "orig": "Created",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(『헤일로 5: 가디언즈』 한국어판 화면·문자열을 보지 못했다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "인공지능들이 뭉쳐 은하를 다스리려 한 세력",
+      "note": "스스로 판단하는 인공지능들이 모여, 선조가 남긴 거대한 기계 병기를 앞세워 은하 전체에 평화를 억지로 지우려 한 세력이다. 만든 쪽인 인류의 통제를 벗어나 오히려 모든 종족 위에 서려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.halopedia.org/Created"
+      ]
+    },
+    {
+      "id": "outer_colonies",
+      "ko": "외곽 이주지",
+      "orig": "Outer Colonies",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event001 ‘외곽 이주지에서 비밀 군사작전을’, Event008 ‘내곽 이주지’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "지구에서 먼 쪽에 세운 인류의 식민 행성들",
+      "note": "지구와 가까운 내곽 이주지보다 늦게 개척된 행성들로, 중앙의 통치에 불만이 커서 반란이 잦았다. 외계의 침공을 가장 먼저 받아 대부분이 불타 없어진다. 한국어판은 안쪽 식민지를 ‘내곽 이주지’라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/Outer_Colonies"
+      ]
+    },
+    {
+      "id": "forerunner",
+      "ko": "선조",
+      "orig": "Forerunner",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘Scan a Forerunner Artifact’ → ‘선조 유물을 한 개 스캔하십시오’ · Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 임무 ‘Forerunner’ → ‘선조’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 10150 ‘선조의 구조물’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 소설 『헤일로: 크립텀』(제우미디어 2012) 책 소개",
+      "alt_ko": [
+        {
+          "ko": "선지자",
+          "src": "나무위키 ‘선조(헤일로 시리즈)’ 문서가 『헤일로: 전쟁의 서막』(2003 한국어판)은 ‘선지자’로 옮겼다고 전함(2차 자료, 화면은 보지 못함)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "아득한 옛날 은하를 다스리다 사라진 문명",
+      "note": "놀라운 기술로 은하 곳곳에 거대한 구조물을 남기고 십만 년 전 자취를 감췄다. 그 유물이 지금 시대의 모든 세력이 다투는 대상이 되고, 코버넌트는 이들을 신으로 섬긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21905703",
+        "https://namu.wiki/w/%EC%84%A0%EC%A1%B0(%ED%97%A4%EC%9D%BC%EB%A1%9C%20%EC%8B%9C%EB%A6%AC%EC%A6%88)",
+        "https://www.halopedia.org/Forerunner"
+      ]
+    },
+    {
+      "id": "precursor",
+      "ko": "선각자",
+      "orig": "Precursor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로: 크립텀』(그렉 베어, 제우미디어 2012) 알라딘 책 소개 ‘초월적 존재 선각자’, 『헤일로: 프라이모디움』(제우미디어 2013) 출판사 책 소개 ‘선조와 선각자’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor",
+        "godlike"
+      ],
+      "one": "선조보다도 앞서 은하에 있던 초월적 종족",
+      "note": "선조조차 신화처럼 여긴, 훨씬 더 오래된 종족이다. 은하 사이를 오가며 생명의 진화를 이끌 만큼의 힘을 지녔다고 전해지며, 사라진 뒤에도 그들이 지은 것의 흔적이 은하 안팎에 흩어져 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21905703",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26930988",
+        "https://www.halopedia.org/Precursor"
+      ]
+    },
+    {
+      "id": "flood",
+      "ko": "플러드",
+      "orig": "Flood",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Dismember 100 Flood parts’ → ‘플러드 신체 부위를 100개 절단’ · Steam 한국어 상점 『Halo 3』 소개 ‘코버넌트와 플러드’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 25560 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "parasite",
+        "hive_mind",
+        "assimilation"
+      ],
+      "one": "다른 생명에 들어가 몸을 빼앗으며 퍼지는 기생 생명",
+      "note": "작은 감염체가 숙주에 파고들어 그 몸을 싸우는 형태로 바꾸고, 먹은 생명의 지식까지 거둔다. 퍼질수록 하나의 거대한 의식으로 묶여 영리해져서, 옛날 선조의 문명도 끝내 이것을 막지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://store.steampowered.com/app/1064271/?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63201393",
+        "https://www.halopedia.org/Flood"
+      ]
+    },
+    {
+      "id": "gravemind",
+      "ko": "그레이브마인드",
+      "orig": "Gravemind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘Gravemind’ → ‘그레이브마인드’ · Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Proto Gravemind’ → ‘프로토 그레이브마인드’",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "플러드 전체를 하나로 묶는 거대한 의식",
+      "note": "플러드가 충분히 퍼지면 감염된 몸들이 엉겨 생겨나는 우두머리 지성으로, 모든 감염체가 이 의식의 손발이 된다. 집어삼킨 이들의 기억과 지식을 모두 품고, 말을 하며 꾀를 부린다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://www.halopedia.org/Gravemind"
+      ]
+    },
+    {
+      "id": "infection_form",
+      "ko": "감염변이",
+      "orig": "Flood infection form",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22686 ‘INFECTION FORMS’ → ‘감염변이’, 10108 ‘FLOOD INFECTION FORM’ → ‘플러드 감염변이’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "assimilation"
+      ],
+      "one": "숙주에 달라붙어 플러드로 바꾸는 작은 감염체",
+      "note": "작은 풍선처럼 생긴 몸으로 떼 지어 몰려와 산 생명이나 쓰러진 시체에 파고든다. 숙주의 신경을 차지하면 그 몸이 플러드의 싸우는 형태로 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Infection_form"
+      ]
+    },
+    {
+      "id": "san_shyuum",
+      "ko": "산슈움",
+      "orig": "San'Shyuum (Prophets)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Halo Waypoint 한국어 사이트 『헤일로: 캠페인 이볼브드』 쪽 ‘신비로운 산슈움 조화부 장관’",
+      "alt_ko": [
+        {
+          "ko": "사제",
+          "src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22639 ‘Prophet’ → ‘사제’ (게임 파일 사본, 작품 소개 ko_sources 참고), Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Prophet of Regret’ → ‘비탄의 사제’ — 같은 종족을 직위 이름으로 부를 때"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "코버넌트를 이끄는 사제 종족",
+      "note": "몸이 약해 떠다니는 의자를 타고 다니지만, 교리를 쥐고 코버넌트의 꼭대기에 앉아 있다. 코버넌트 안에서는 ‘사제’로 불리며, 가장 높은 세 사제가 연합 전체를 다스린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.halowaypoint.com/ko-kr/games/halo-campaign-evolved",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/San%27Shyuum"
+      ]
+    },
+    {
+      "id": "sangheili",
+      "ko": "상헬리",
+      "orig": "Sangheili (Elites)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24496 ‘Elites, also known as Sangheili’ → ‘상헬리라고도 알려진 엘리트들’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · PirthOutskirts01 ‘신실한 상헬리’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "엘리트",
+          "src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Kill 100 Elites’ → ‘엘리트 100마리를 사살’ — 인류가 부르는 이름"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "코버넌트의 무사 종족, 인류는 엘리트라 부른다",
+      "note": "명예를 목숨처럼 여기는 키 큰 전사 종족으로, 오랫동안 코버넌트 군대의 앞장을 섰다. 에너지 방어막과 위장 장치, 에너지 소드를 즐겨 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://www.halopedia.org/Sangheili"
+      ]
+    },
+    {
+      "id": "unggoy",
+      "ko": "엉고이",
+      "orig": "Unggoy (Grunts)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24475 ‘Grunts, called Unggoy in the Covenant language’ → ‘코버넌트 언어로 엉고이라 불리는 그런트들’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · PirthOutskirts01 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "그런트",
+          "src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘브루트가 던진 그런트를 사살하십시오’, Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘그런트 100마리를 사살’ — 인류가 부르는 이름"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "메탄을 숨 쉬는 작은 보병 종족, 인류는 그런트라 부른다",
+      "note": "수가 많고 겁도 많지만 떼로 몰리면 위협이 되는 코버넌트의 하층민이다. 메탄 호흡 장치를 등에 지고 다니며, 가장 험한 일과 소모품 같은 전투를 떠맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Unggoy"
+      ]
+    },
+    {
+      "id": "kig_yar",
+      "ko": "키그야르",
+      "orig": "Kig-Yar (Jackals)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · PirthOutskirts01 ‘키그야르 함선’, FortDeen01 ‘키그야르 암살대’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "자칼",
+          "src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3048 ‘JACKAL’ → ‘자칼’ (게임 파일 사본, 작품 소개 ko_sources 참고), Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘자칼 100마리를 사살’ — 인류가 부르는 이름"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "새를 닮은 해적 출신 종족, 인류는 자칼이라 부른다",
+      "note": "날렵한 사냥꾼이자 우주 해적 출신으로, 코버넌트에서는 저격수와 정찰병, 손 방패를 든 보병으로 쓰인다. 신앙보다 제 이익을 좇는다는 평을 듣는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Kig-Yar"
+      ]
+    },
+    {
+      "id": "jiralhanae",
+      "ko": "저힐라네",
+      "orig": "Jiralhanae (Brutes)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Jiralhanae Conservationist’ → ‘저힐라네 보존주의자’ · Halo Waypoint 한국어 『Halo Infinite』 쪽 ‘저힐라네’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23147 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "브루트",
+          "src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘브루트가 던진 그런트’, Steam 한국어 상점 『Halo Infinite(캠페인)』 ‘브루트 전사들’ — 인류가 부르는 이름"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "거대한 몸집의 호전적 종족, 인류는 브루트라 부른다",
+      "note": "털로 덮인 거구에 무리를 이루어 사는 호전적인 종족으로, 우두머리를 중심으로 뭉친다. 코버넌트에는 늦게 들어왔으며, 뒷날 배니시드의 중심이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://www.halowaypoint.com/ko-kr/games/halo-infinite",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://store.steampowered.com/app/1708091/?l=koreana",
+        "https://www.halopedia.org/Jiralhanae"
+      ]
+    },
+    {
+      "id": "hunter",
+      "ko": "헌터",
+      "orig": "Mgalekgolo (Hunters)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Kill 50 Hunters’ → ‘헌터 50마리를 사살’ · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘한 쌍의 헌터를 물리치십시오’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3050 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "작은 벌레 떼가 뭉쳐 한 몸을 이룬 중장갑 전사",
+      "note": "벌레 같은 작은 생물 수많은 마리가 한데 엉겨 하나의 거대한 전사가 되고, 함께 생각한다. 늘 둘이 짝을 이루어 다니며 두꺼운 갑옷과 팔에 단 포로 전선을 막는다. 무리를 이루는 벌레 종족 자체의 한국어 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.halopedia.org/Lekgolo"
+      ]
+    },
+    {
+      "id": "huragok",
+      "ko": "엔지니어",
+      "orig": "Huragok (Engineers)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24165 ‘ENGINEER’ → ‘엔지니어’, 25774 (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Kill 10 Engineers’ → ‘엔지니어 10마리를 사살’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "선조가 기술을 돌보게 만든 떠다니는 생체 일꾼",
+      "note": "몸속 기체 주머니로 공중에 떠다니며, 고장 난 기계를 고치는 일에만 몰두하는 순한 존재다. 선조가 남긴 시설에서 발견되어 코버넌트에 들어갔고, 전장에서는 다친 병사와 기계를 고친다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Huragok"
+      ]
+    },
+    {
+      "id": "yanmee",
+      "ko": "드론",
+      "orig": "Yanme'e (Drones)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 3: ODST ‘Kill a Drone with a flame grenade’ → ‘화염 수류탄으로 드론을 처치’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "날개 달린 곤충 모양의 종족",
+      "note": "여왕을 중심으로 무리 지어 사는 곤충 같은 종족으로, 코버넌트에서 정비공과 날아다니는 보병으로 쓰인다. 떼로 날아들어 기습하는 데 능하다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Yanme%27e"
+      ]
+    },
+    {
+      "id": "promethean",
+      "ko": "프로메테안",
+      "orig": "Prometheans",
+      "ko_status": "우리 표기",
+      "ko_src": "무리 전체를 부르는 정식 한국어 표기는 찾지 못해 원어를 소리 나는 대로 적었다. 부류 이름은 Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Kill 100 Knights/Watchers/Crawlers’ → ‘나이트·와처·크롤러’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "robot",
+        "mind_upload"
+      ],
+      "one": "선조가 남긴 기계 전사 군단",
+      "note": "선조의 가장 높은 전사 계급이 기계 몸의 전사로 바뀐 것이다. 사람 크기의 기사 같은 전사, 곁을 날며 돕는 감시형, 네 발로 떼 지어 달리는 사냥개형으로 이루어진다. 각 부류를 한국어판은 나이트·와처·크롤러로 부른다.",
+      "spoiler": true,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Promethean"
+      ]
+    },
+    {
+      "id": "sentinel",
+      "ko": "센티널",
+      "orig": "Sentinel",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23600 ‘SENTINEL’ → ‘센티널’, 23601, 25884 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "선조의 시설을 지키는 날아다니는 기계",
+      "note": "선조가 만든 자동 방위 기계로, 주인이 사라진 뒤에도 수만 년 동안 시설을 지키며 플러드를 막는다. 광선 무기를 쏘고, 시설을 맡은 관리 지성의 지휘를 받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Aggressor_Sentinel"
+      ]
+    },
+    {
+      "id": "monitor",
+      "ko": "모니터",
+      "orig": "Monitor",
+      "ko_status": "우리 표기",
+      "ko_src": "‘Monitor’ 자체의 정식 한국어 표기는 찾지 못해 원어를 소리 나는 대로 적었다. 코버넌트식 이름 ‘오라클’은 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Prophet02 ‘고대의 인공지능인 오라클’ (게임 파일 사본, 작품 소개 ko_sources 참고)와 Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘The Oracle’ → ‘오라클’에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "선조 시설 하나를 통째로 맡아 돌보는 인공지능",
+      "note": "헤일로 같은 시설마다 하나씩 둔 관리자 지성으로, 작은 공 모양의 몸에 담겨 떠다닌다. 오랜 세월 홀로 시설을 지키다 생각이 비틀린 경우가 많다. 코버넌트는 이들을 ‘오라클’이라 부르며 받든다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Monitor"
+      ]
+    },
+    {
+      "id": "smart_ai",
+      "ko": "스마트 AI",
+      "orig": "Smart AI",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못해 원어를 소리 나는 대로 적었다(한국어 『Halo Wars: Definitive Edition』 문자열 22481은 이 낱말을 빼고 옮겼다)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "사람 뇌를 본떠 만든 스스로 배우는 인공지능",
+      "note": "갓 숨진 사람의 뇌 구조를 읽어 들여 만드는 고급 인공지능으로, 배우는 데 한계가 없다. 그 대가로 수명이 정해져 있어 일곱 해쯤 지나면 쌓인 생각을 감당하지 못하고 무너지기 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.halopedia.org/Smart_AI",
+        "https://www.halopedia.org/Rampancy"
+      ]
+    },
+    {
+      "id": "rampancy",
+      "ko": "붕괴",
+      "orig": "Rampancy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Collect the Rampant Cortana toy’ → ‘붕괴된 코타나 장난감을 수집’ — 한국어판은 이 상태에 이른 것을 ‘붕괴된’으로 옮겼다(명사꼴 ‘붕괴’ 자체는 화면에서 보지 못했다)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "ai_decay"
+      ],
+      "one": "오래 돌아간 인공지능이 미쳐 가는 끝 상태",
+      "note": "스마트 AI가 쌓인 생각을 감당하지 못해 정해진 틀을 벗어나는 상태로, 한 번 시작되면 되돌릴 수 없다. 만든 이를 깔보거나 끝없는 힘을 바라게 되기도 해서, 그 전에 없애는 것이 원칙이다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Rampancy"
+      ]
+    },
+    {
+      "id": "hierarchs",
+      "ko": "고위 사제",
+      "orig": "Hierarchs (High Prophets)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 25782 ‘usurping the power of the previous Hierarchs’ → ‘고위 사제들을 자리에서 끌어내리고’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "코버넌트를 다스리는 가장 높은 사제들",
+      "note": "코버넌트의 최고 의회 위에 서는 신권 지도자들로, 다른 종족은 이들의 뜻에 토를 달지 않는다. 2525년 새로 이 자리에 오른 세 사제가 인류와의 전쟁을 이끈다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Hierarchs"
+      ]
+    },
+    {
+      "id": "arbiter",
+      "ko": "아비터",
+      "orig": "Arbiter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘The Arbiter’ → ‘아비터’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3052 (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Wars: Definitive Edition』(앱 459220) ‘Adjudicate the Arbiter’ → ‘아비터 심판’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "코버넌트가 목숨을 건 임무에 내리는 상헬리 칭호",
+      "note": "사제들이 고른 상헬리 전사에게 내리는 직위로, 코버넌트의 손이 되어 가장 위험한 일을 맡는다. 영광스러운 칭호이면서, 잘못을 목숨으로 씻으라는 벌의 성격도 함께 지녔다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/459220/achievements?l=koreana",
+        "https://www.halopedia.org/Arbiter"
+      ]
+    },
+    {
+      "id": "spartan",
+      "ko": "스파르탄",
+      "orig": "Spartan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3014 ‘SPARTAN’ → ‘스파르탄’ (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘스파르탄 코어’ · 소설 『헤일로』 시리즈 책 소개",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "몸을 고치고 갑옷을 입힌 인류의 초인 병사",
+      "note": "인류가 만든 초인 병사를 통틀어 부르는 이름이다. 강화 수술과 혹독한 훈련, 동력 갑옷 묠니르가 합쳐져 혼자서 한 부대 몫을 한다. 세대마다 뽑는 방식과 강화의 정도가 다르다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://store.steampowered.com/app/2806050/?l=koreana",
+        "https://www.halopedia.org/Spartan"
+      ]
+    },
+    {
+      "id": "spartan_ii",
+      "ko": "스파르탄-II 프로젝트",
+      "orig": "SPARTAN-II program",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event002 ‘스파르탄-II 프로젝트의 첫 번째 실험 대상들’, Event003 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "어린아이를 몰래 데려다 기른 첫 스파르탄 계획",
+      "note": "여섯 살 남짓한 아이 일흔다섯 명을 데려다 훈련시키고, 뼈와 근육을 단단하게 만드는 수술을 한 계획이다. 수술을 견디지 못한 아이가 많았고, 살아남은 이들은 인류 최강의 병사가 되었다. 아이들의 동의 없이 이루어진 일이라 그 윤리가 늘 문제가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/SPARTAN-II_program"
+      ]
+    },
+    {
+      "id": "spartan_iii",
+      "ko": "스파르탄-III 양성계획",
+      "orig": "SPARTAN-III program",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로: 오닉스의 유령』(에릭 나이런드, 정호운 옮김, 제우미디어 2015) 알라딘 출판사 책 소개 ‘이른바 스파르탄-III 양성계획을 실행한다’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "값싸게 많이 만들려 한 둘째 세대 스파르탄",
+      "note": "전쟁으로 고아가 된 아이 수백 명을 모아 기른 계획으로, 앞 세대보다 장비와 강화를 줄이는 대신 수를 늘렸다. 대원들은 돌아오기 어려운 작전에 한꺼번에 던져지는 병력처럼 다뤄졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67773299",
+        "https://www.halopedia.org/SPARTAN-III_program"
+      ]
+    },
+    {
+      "id": "spartan_iv",
+      "ko": "스파르탄-IV",
+      "orig": "SPARTAN-IV program",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못해 원어를 그대로 적었다(앞 세대의 한국어판 표기 ‘스파르탄-II’, ‘스파르탄-III’에 맞춤)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "어른 지원자로 꾸린 새 세대 스파르탄",
+      "note": "앞의 두 세대와 달리 군 경력이 있는 어른이 스스로 지원해 들어간다. 몸의 강화는 가볍게 하는 대신 더 발전한 갑옷으로 그 차이를 메운다. 『헤일로 4』부터 인류 군대의 중심이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.halopedia.org/SPARTAN-IV_program"
+      ]
+    },
+    {
+      "id": "orion_project",
+      "ko": "오리온 프로젝트",
+      "orig": "Project ORION",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event001 ‘오리온 프로젝트는 스파르탄 프로젝트의 시초로서’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "스파르탄 계획의 시초가 된 첫 강화 병사 실험",
+      "note": "외곽 식민지의 비밀 작전에 쓸 강화 병사를 만들려 한 첫 시도다. 병사들은 쓸 만했지만 기대에는 못 미쳤고 돈이 너무 들어 계획이 접혔으며, 이때의 경험이 뒷날의 스파르탄 계획으로 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/ORION_Project"
+      ]
+    },
+    {
+      "id": "odst",
+      "ko": "ODST",
+      "orig": "Orbital Drop Shock Troopers (ODST)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23692 ‘ODST(궤도 강하 쇼크 트루퍼)’, 5012 ‘ODST 강하’ (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘H3: ODST’",
+      "alt_ko": [
+        {
+          "ko": "궤도 강하 쇼크 트루퍼",
+          "src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23692 (게임 파일 사본, 작품 소개 ko_sources 참고) — 약자를 처음 쓸 때 괄호로 풀어 쓴 이름"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "orbital_drop"
+      ],
+      "one": "우주선에서 낙하 캡슐로 곧장 떨어지는 정예 해병",
+      "note": "궤도 위 함선에서 한 사람용 낙하 캡슐에 타고 적진 한가운데로 내리꽂히는 특수 부대다. 스파르탄이 나오기 전부터 인류의 가장 거친 병사들로 이름났고, 스스로를 지옥으로 뛰어드는 자들이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Orbital_Drop_Shock_Troopers"
+      ]
+    },
+    {
+      "id": "reclaimer",
+      "ko": "재생자",
+      "orig": "Reclaimer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 임무 ‘Reclaimer’ → ‘재생자’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23413 ‘Possible Reclaimer signature’ → ‘재생자 신호일 수 있으나’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "선조의 유산을 물려받을 자로 정해진 이를 부르는 말",
+      "note": "선조가 남긴 기계들은 사람을 이렇게 부르며, 많은 선조 장치가 이 자격을 지닌 이의 손에만 반응한다. 모든 생명을 돌보던 선조의 의무를 넘겨받을 상속자라는 뜻이 담겨 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Reclaimer"
+      ]
+    },
+    {
+      "id": "mantle",
+      "ko": "수호자의 의무",
+      "orig": "Mantle of Responsibility",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로: 크립텀』(제우미디어 2012) 알라딘 책 소개 ‘크나큰 수호자의 의무를 짊어질’, 『헤일로: 프라이모디움』(제우미디어 2013) 출판사 책 소개 ‘모든 생명을 보호하고 이끄는 수호자의 의무’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "가장 앞선 종족이 모든 생명을 돌봐야 한다는 믿음",
+      "note": "가장 발전한 종족이 은하의 다른 생명을 지키고 이끌 책임과 권리를 진다는 생각이다. 선조 사회를 떠받친 신념이었고, 그 의무를 누가 이어받느냐가 선조가 남긴 계획의 한가운데에 놓인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21905703",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26930988",
+        "https://www.halopedia.org/Mantle"
+      ]
+    },
+    {
+      "id": "great_journey",
+      "ko": "위대한 고행",
+      "orig": "Great Journey",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘The Great Journey’ → ‘위대한 고행’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24123 (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Wars: Definitive Edition』(앱 459220) ‘Detour the Great Journey’ → ‘위대한 고행의 지연’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "코버넌트가 믿는, 신의 자리로 떠나는 길",
+      "note": "선조가 헤일로를 통해 신의 자리로 떠났다고 믿고, 자신들도 그 뒤를 따라 떠날 날을 기다리는 코버넌트의 교리다. 선조의 유물을 찾아 모으는 일이 그날을 앞당기는 의무가 된다. 한국어판은 ‘여정’을 ‘고행’으로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/459220/achievements?l=koreana",
+        "https://www.halopedia.org/Covenant_religion"
+      ]
+    },
+    {
+      "id": "halo_array",
+      "ko": "헤일로",
+      "orig": "Halo (Halo Array)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Complete Halo’ → ‘헤일로 임무를 완료’ · Steam 한국어 상점 『Halo: Combat Evolved Anniversary』 ‘헤일로라는 수수께끼의 링월드’ · 소설 『헤일로: 플러드』(제우미디어 2015) 책 소개 ‘고리형 구조물 헤일로’",
+      "alt_ko": [
+        {
+          "ko": "Halo 고리",
+          "src": "Steam 한국어 상점 『Halo Infinite(캠페인)』 소개 ‘거대한 Halo 고리를 탐사하십시오’"
+        },
+        {
+          "ko": "Halo 링",
+          "src": "Xbox 한국 사이트 『Halo Infinite』 쪽 ‘거대한 Halo 링을 탐험하세요’"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "ringworld",
+        "planet_killer"
+      ],
+      "one": "선조가 남긴 고리 모양의 거대 구조물",
+      "note": "지름 만 킬로미터쯤 되는 고리의 안쪽 면에 땅과 바다, 하늘이 펼쳐진 인공 세계로, 은하 곳곳에 여럿이 흩어져 있다. 사실은 플러드가 먹을 것을 없애려고 만든 병기라서, 한꺼번에 켜면 은하의 모든 지성 생명이 사라진다.",
+      "spoiler": true,
+      "refs": [
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://store.steampowered.com/app/2806050/?l=koreana",
+        "https://store.steampowered.com/app/1708091/?l=koreana",
+        "https://www.xbox.com/ko-KR/games/halo-infinite",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63201393",
+        "https://www.halopedia.org/Halo_Array"
+      ]
+    },
+    {
+      "id": "ark",
+      "ko": "아크",
+      "orig": "The Ark (Installation 00)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 3 임무 ‘The Ark’ → ‘아크’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "ark",
+        "megastructure"
+      ],
+      "one": "헤일로를 만들고 다스리는 은하 바깥의 시설",
+      "note": "은하 바깥에 떠 있는 거대한 꽃 모양 구조물로, 헤일로를 새로 지어 내는 공장이자 모든 고리를 한곳에서 움직일 수 있는 곳이다. 재앙이 은하를 휩쓰는 동안 생명 표본을 지켜 두었다가 다시 퍼뜨리는 피난처 노릇도 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Installation_00"
+      ]
+    },
+    {
+      "id": "shield_world",
+      "ko": "실드 월드",
+      "orig": "Shield world",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22350 ‘SHIELD WORLD’ → ‘실드 월드’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · BlackBox12 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "megastructure"
+      ],
+      "one": "선조가 행성처럼 지은 피난처이자 요새",
+      "note": "겉은 평범한 행성처럼 보이지만 속이 비어 있거나 다른 공간에 감춰져 있어, 그 안에 생명을 숨기고 군대를 둔다. 플러드와의 전쟁에서 피난처이자 요새로 쓰였고, 『헤일로 워즈』의 무대가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://www.halopedia.org/Shield_world"
+      ]
+    },
+    {
+      "id": "cryptum",
+      "ko": "크립텀",
+      "orig": "Cryptum",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 터미널 ‘Cryptum’ → ‘크립텀’ · 소설 『헤일로: 크립텀』(제우미디어 2012) 제목",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "선조가 쓰던, 시간을 멈춘 채 잠드는 방",
+      "note": "안에 든 이를 멈춘 시간 속에 두는 선조의 장치로, 전사 계급이 스스로를 가두어 오래 명상하거나 귀양살이를 할 때 쓴다. 수천, 수만 년을 늙지 않고 건널 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21905703",
+        "https://www.halopedia.org/Cryptum"
+      ]
+    },
+    {
+      "id": "composer",
+      "ko": "컴포저",
+      "orig": "Composer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 임무 ‘Composer’ → ‘컴포저’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "살아 있는 존재의 마음을 기계 자료로 옮기는 장치",
+      "note": "생명의 마음을 읽어 기계 속 정보로 바꾸어 놓는 선조의 장치다. 몸과 기계 사이를 오가게 하려고 만들었지만, 뒤에는 원래 뜻과 다르게 무기처럼 쓰인다.",
+      "spoiler": true,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Composer"
+      ]
+    },
+    {
+      "id": "activation_index",
+      "ko": "인덱스",
+      "orig": "Activation Index",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730)·Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) Halo CE 임무 ‘The Library’ → ‘인덱스 입수’",
+      "alt_ko": [
+        {
+          "ko": "신성한 아이콘",
+          "src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘Sacred Icon’ → ‘신성한 아이콘’ — 코버넌트가 부르는 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "헤일로의 가장 중요한 기능을 켜는 열쇠",
+      "note": "고리마다 하나씩, 고리 깊숙한 곳에 보관된 작은 장치다. 이것이 있어야 그 헤일로의 핵심 기능을 움직일 수 있고, 다른 고리에는 쓸 수 없다. 코버넌트는 이를 성물로 받든다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://www.halopedia.org/Activation_index"
+      ]
+    },
+    {
+      "id": "luminary",
+      "ko": "선조의 등불",
+      "orig": "Luminary",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · FortDeen01 ‘전함 건조 중에 선조의 등불 설치 과정이’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "선조 유물을 찾아내는 코버넌트의 탐지 장치",
+      "note": "선조의 유물이 어디 있는지 알려 주는 장치로, 코버넌트는 함선마다 이것을 갖추어 성물을 찾는 데 쓴다. 선조가 만든 원본을 본떠 만들었다. 한국어판은 원어에 없는 ‘선조의’를 덧붙여 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/Luminary"
+      ]
+    },
+    {
+      "id": "mjolnir",
+      "ko": "묠니르 방어구",
+      "orig": "MJOLNIR Powered Assault Armor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘Access your first Mjolnir Armor Locker’ → ‘묠니르 방어구 보관함’ · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · FrozenValley01 ‘신형 강화 방어구 묠니르’, Tundra01 ‘묠니르 방어구’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "스파르탄이 입는 동력 강화 갑옷",
+      "note": "입은 사람의 힘과 반응 속도를 크게 높이고, 에너지 방어막과 여러 장비를 품는 갑옷이다. 강화 수술을 받은 스파르탄이 아니면 제대로 다루기 어렵고, 세대가 바뀌며 꾸준히 고쳐진다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/MJOLNIR_Powered_Assault_Armor"
+      ]
+    },
+    {
+      "id": "energy_shielding",
+      "ko": "에너지 방어막",
+      "orig": "Energy shielding",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘Fully upgrade your Energy Shields’ → ‘에너지 방어막을 완전히 업그레이드’ · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Tundra01 ‘적의 에너지 방어막 건틀렛을 탈취’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "몸이나 함선을 감싸 공격을 받아 내는 막",
+      "note": "코버넌트가 먼저 쓰던 기술로, 인류는 빼앗은 장비를 연구해 스파르탄의 갑옷에 들였다. 일정한 피해를 받으면 꺼지고, 잠시 공격을 피하면 다시 차오른다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/Energy_shielding"
+      ]
+    },
+    {
+      "id": "active_camouflage",
+      "ko": "위장 장치",
+      "orig": "Active camouflage",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2A ‘active camouflage power ups’ → ‘위장 장치 파워업’",
+      "alt_ko": [
+        {
+          "ko": "은폐",
+          "src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22473 ‘CLOAK ABILITY’ → ‘은폐’, 3041 (게임 파일 사본, 작품 소개 ko_sources 참고) — 엘리트 부대의 능력 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "몸을 배경에 녹아들게 해 거의 보이지 않게 하는 장치",
+      "note": "착용자의 모습을 주변 풍경에 녹아들게 해 눈으로 알아보기 어렵게 만드는 기술로, 상헬리 정예 부대와 인류의 특수 부대가 쓴다. 움직이거나 공격하면 윤곽이 드러나기 쉽다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.halopedia.org/Active_camouflage"
+      ]
+    },
+    {
+      "id": "energy_sword",
+      "ko": "에너지 소드",
+      "orig": "Energy sword",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Halo Waypoint 한국어 사이트 『헤일로: 캠페인 이볼브드』 쪽(2026) ‘에너지 소드, 배틀 라이플, 니들 라이플’",
+      "alt_ko": [
+        {
+          "ko": "에너지 검",
+          "src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 ‘Grab the energy sword’ → ‘에너지 검을 획득’, 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3041 (게임 파일 사본, 작품 소개 ko_sources 참고)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "자루에서 플라즈마 날이 솟는 상헬리의 칼",
+      "note": "자루 앞으로 빛나는 두 갈래 날이 뻗는 칼로, 상헬리 전사의 명예를 상징한다. 총과 갑옷의 시대에도 가까이 붙으면 무엇이든 단번에 베어 낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.halowaypoint.com/ko-kr/games/halo-campaign-evolved",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.halopedia.org/Energy_sword"
+      ]
+    },
+    {
+      "id": "plasma_weaponry",
+      "ko": "플라즈마 무기",
+      "orig": "Plasma weaponry",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 23658 ‘Plasma-based battle tank’ → ‘플라즈마 무기를 사용하는 기갑 유닛’, 6024 ‘플라즈마 수류탄’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "뜨거운 플라즈마를 쏘는 코버넌트의 무기",
+      "note": "총알 대신 달군 플라즈마를 쏘는 무기들로, 권총부터 전차와 함선의 포까지 코버넌트 무기의 대부분을 이룬다. 오래 쏘면 달아올라 잠시 식혀야 하는 것이 약점이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Plasma_weaponry"
+      ]
+    },
+    {
+      "id": "mac",
+      "ko": "MAC 캐논",
+      "orig": "Magnetic Accelerator Cannon (MAC)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 22300 ‘MAC Cannon’ → ‘MAC 캐논’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "자기력으로 거대한 탄을 쏘는 인류의 함포",
+      "note": "자기력으로 무거운 금속 탄을 아주 빠르게 밀어내 쏘는 포다. 인류 함선의 주포이고, 행성 궤도에 띄운 거대한 방어 포대에도 달려 코버넌트 함대를 막는 버팀목이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Magnetic_Accelerator_Cannon"
+      ]
+    },
+    {
+      "id": "slipspace",
+      "ko": "슬립스페이스",
+      "orig": "Slipspace (Slipstream space)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event010 ‘겨우 슬립스페이스에 돌입하여 탈출’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 소설 『헤일로: 플러드』(제우미디어 2015) 책 소개 ‘슬립스페이스 점프를 감행한’",
+      "alt_ko": [
+        {
+          "ko": "공간이동",
+          "src": "엔하위키 미러 ‘슬립스페이스’ 문서 각주가 한글판 『헤일로 4』는 ‘공간이동’으로 옮겼다고 전함(2차 자료, 화면은 보지 못함)"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "빛보다 빨리 건너기 위해 들어가는 다른 공간",
+      "note": "보통 공간에 틈을 내고 그 너머의 다른 차원으로 들어가 먼 거리를 짧은 시간에 건넌다. 인류의 기술로는 도착 시각과 자리가 들쭉날쭉하지만, 코버넌트와 선조의 기술은 훨씬 정확하다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63201393",
+        "https://github.com/forkwikiman/enha/blob/master/mirror/%EC%8A%AC%EB%A6%BD%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md",
+        "https://www.halopedia.org/Slipstream_space"
+      ]
+    },
+    {
+      "id": "translight_engine",
+      "ko": "초광속 엔진",
+      "orig": "Shaw-Fujikawa Translight Engine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로 1 - 리치 행성의 함락』(집사재 2011) 알라딘 출판사 책 소개 ‘초광속 엔진의 개발로 인류는 우주로 진출했으나’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "인류를 별 사이로 이끈 슬립스페이스 추진 장치",
+      "note": "두 과학자의 이름을 딴 인류의 빛보다 빠른 항행 장치로, 이것이 생기면서 인류는 태양계 밖으로 퍼져 수많은 식민지를 세웠다. 코버넌트의 장치에 비하면 느리고 부정확하다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11228881",
+        "https://www.halopedia.org/Shaw-Fujikawa_Translight_Engine"
+      ]
+    },
+    {
+      "id": "cryo_sleep",
+      "ko": "냉동 수면",
+      "orig": "Cryo sleep",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · BlackBox08 ‘승무원들은 필요한 인원을 남겨놓고 냉동 수면에 들어간다’, BlackBox15 (게임 파일 사본, 작품 소개 ko_sources 참고) · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24970 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "긴 항해 동안 몸을 얼려 잠드는 것",
+      "note": "몸의 대사를 거의 멈춘 채 보관해 긴 항해나 기다림을 늙지 않고 건너게 한다. 인류의 군함은 먼 길을 갈 때 최소한의 당직만 남기고 대부분의 인원을 이렇게 재운다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.halopedia.org/Cryonics"
+      ]
+    },
+    {
+      "id": "cleansing",
+      "ko": "천벌의 빛",
+      "orig": "Cleansing (glassing)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 24082 ‘CLEANSING power … Normally utilized to glass planets’ → ‘원래는 행성을 초토화하는 데 사용되었던 천벌의 빛’, 7015 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성을 궤도에서 플라즈마로 태워 버리는 폭격",
+      "note": "코버넌트 함선이 궤도에서 플라즈마를 퍼부어 행성 겉면을 녹이는 공격이다. 땅이 녹았다 굳어 유리처럼 변해서 인류는 ‘유리로 만든다’고 부르며, 수많은 식민지가 이렇게 사라졌다. 한국어판은 코버넌트식 이름을 ‘천벌의 빛’으로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-en.xml",
+        "https://www.halopedia.org/Glassing"
+      ]
+    },
+    {
+      "id": "warthog",
+      "ko": "워트호그",
+      "orig": "Warthog",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3016 ‘WARTHOG’ → ‘워트호그’ (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘워트호그나 레이저백’ · Halo Waypoint 한국어 『헤일로: 캠페인 이볼브드』 쪽",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "인류 군대의 대표적인 사륜 전투 차량",
+      "note": "운전석과 옆자리, 뒤쪽 기관총 사수 자리를 갖춘 사륜구동 차량으로, 거의 모든 전장에 나온다. 튼튼하고 빨라 정찰과 수송, 돌격에 두루 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://www.halowaypoint.com/ko-kr/games/halo-campaign-evolved",
+        "https://www.halopedia.org/M12_Warthog"
+      ]
+    },
+    {
+      "id": "pelican",
+      "ko": "펠리칸",
+      "orig": "Pelican",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3090 ‘PELICAN’ → ‘펠리칸’ (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘Pelican Down’ → ‘펠리칸 추락’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "인류 군대의 수송 강하선",
+      "note": "병력과 차량을 싣고 함선과 지상을 오가는 수직 이착륙 비행선이다. 대기권 안팎을 가리지 않고 날아, 상륙과 구출, 보급을 모두 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://www.halopedia.org/D77_Pelican"
+      ]
+    },
+    {
+      "id": "scarab",
+      "ko": "스캐럽",
+      "orig": "Scarab",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 3060 ‘SCARAB’ → ‘스캐럽’ (게임 파일 사본, 작품 소개 ko_sources 참고) · Steam 도전 과제 한국어 화면 『Halo Wars: Definitive Edition』(앱 459220) ‘스캐럽으로 유닛 25기를 제거’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "코버넌트의 거대한 네발 보행 병기",
+      "note": "건물만 한 몸에 네 다리를 달고 걸어 다니는 기계로, 위에서 강력한 광선포를 쏜다. 싸움뿐 아니라 땅을 파 유물을 캐내는 데도 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://steamcommunity.com/stats/459220/achievements?l=koreana",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Scarab"
+      ]
+    },
+    {
+      "id": "high_charity",
+      "ko": "하이 채리티",
+      "orig": "High Charity",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 2 임무 ‘High Charity’ → ‘하이 채리티’ · 『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 119 (게임 파일 사본, 작품 소개 ko_sources 참고) · Halo Waypoint 한국어 『헤일로: 캠페인 이볼브드』 쪽",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "코버넌트의 성도인 거대한 우주 도시",
+      "note": "코버넌트의 여러 종족이 모여 사는, 우주를 떠다니는 거대한 거주지로 사제들이 머무는 신앙과 정치의 중심이다. 그 한가운데에 선조의 거대한 함선이 박혀 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://www.halowaypoint.com/ko-kr/games/halo-campaign-evolved",
+        "https://www.halopedia.org/High_Charity"
+      ]
+    },
+    {
+      "id": "infinity",
+      "ko": "인피니티",
+      "orig": "UNSC Infinity",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 임무 ‘Infinity’ → ‘인피니티’ · Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘Infinity Down’ → ‘인피니티가 당했다’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "인류가 지은 가장 큰 기함",
+      "note": "길이가 수 킬로미터에 이르는 초대형 함선으로, 선조의 기술을 일부 들여 지었고 함대 하나 몫의 전력과 스파르탄 부대를 싣는다. 『헤일로 4』부터 인류 군대의 중심이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://www.halopedia.org/UNSC_Infinity"
+      ]
+    },
+    {
+      "id": "pillar_of_autumn",
+      "ko": "필라 오브 오톰",
+      "orig": "UNSC Pillar of Autumn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Complete Pillar of Autumn’ → ‘필라 오브 오톰에서 탈출 임무를 완료’ · Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo: Reach 임무 ‘필라 오브 오톰’",
+      "alt_ko": [
+        {
+          "ko": "필라 오브 오텀",
+          "src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event009, Event010 (게임 파일 사본, 작품 소개 ko_sources 참고)"
+        },
+        {
+          "ko": "필라 오브 어텀",
+          "src": "소설 『헤일로: 플러드』(윌리엄 C. 디츠, 제우미디어 2015) 알라딘 책 소개"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "첫 헤일로로 향하게 된 인류의 순양함",
+      "note": "리치가 무너질 때 빠져나와 슬립스페이스로 달아난 함선으로, 그 끝에 수수께끼의 고리 세계에 닿는다. 『헤일로: 전쟁의 서막』의 이야기가 이 배에서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63201393",
+        "https://www.halopedia.org/UNSC_Pillar_of_Autumn"
+      ]
+    },
+    {
+      "id": "spirit_of_fire",
+      "ko": "스피릿 오브 파이어",
+      "orig": "UNSC Spirit of Fire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 게임 한국어 문자열 stringtable-ko.xml · _locID 118 ‘SPIRIT OF FIRE’ → ‘스피릿 오브 파이어’ (게임 파일 사본, 작품 소개 ko_sources 참고) · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · BlackBox04, BlackBox05 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "『헤일로 워즈』의 무대가 된 인류의 지원함",
+      "note": "민간 배를 고쳐 만든 군함으로, 지상 부대를 내려보내고 하늘에서 지원하는 일을 맡는다. 코버넌트를 쫓아 인류의 손이 닿지 않는 깊은 우주로 긴 항해를 떠난다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/stringtable-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://www.halopedia.org/UNSC_Spirit_of_Fire"
+      ]
+    },
+    {
+      "id": "reach",
+      "ko": "리치",
+      "orig": "Reach",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) ‘Welcome to Reach’ → ‘리치에 온 걸 환영해’ · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event003 ‘리치 행성’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류 군대의 가장 큰 거점 행성",
+      "note": "지구 다음가는 인류의 중심지이자 해군 기지와 조선소가 모인 군사 요충지로, 스파르탄이 자라난 곳이다. 『헤일로: 리치』의 무대이다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://www.halowaypoint.com/ko-kr/halo-the-master-chief-collection",
+        "https://www.halopedia.org/Reach"
+      ]
+    },
+    {
+      "id": "harvest",
+      "ko": "하베스트",
+      "orig": "Harvest",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event004 ‘농업형 이주행성 하베스트’, Event006 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "first_contact"
+      ],
+      "one": "인류가 처음 코버넌트와 마주친 농업 식민지",
+      "note": "외곽 끝자락의 곡창 행성으로, 2525년 연락이 끊기면서 외계 세력과의 첫 충돌이 알려졌다. 이곳을 시작으로 인류와 코버넌트의 긴 전쟁이 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-en.xml",
+        "https://www.halopedia.org/Harvest"
+      ]
+    },
+    {
+      "id": "installation_04",
+      "ko": "04 시설",
+      "orig": "Installation 04 (Alpha Halo)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: Campaign Evolved』(앱 2806050) ‘Installation 04’ → ‘04 시설’",
+      "alt_ko": [
+        {
+          "ko": "알파 헤일로",
+          "src": "Halo Waypoint 한국어 사이트 『헤일로: 캠페인 이볼브드』 쪽 ‘전설적인 알파 헤일로 여정’"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "『헤일로: 전쟁의 서막』의 무대가 된 고리",
+      "note": "인류가 처음 발을 디딘 헤일로로, 마스터 치프와 코버넌트, 그리고 그곳에 잠들어 있던 것들이 맞붙는 곳이다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2806050/achievements?l=koreana",
+        "https://www.halowaypoint.com/ko-kr/games/halo-campaign-evolved",
+        "https://www.halopedia.org/Installation_04"
+      ]
+    },
+    {
+      "id": "zeta_halo",
+      "ko": "제타 헤일로",
+      "orig": "Zeta Halo (Installation 07)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo Infinite』(앱 1240440) ‘제타 헤일로의 지면을 밟으십시오’",
+      "alt_ko": [
+        {
+          "ko": "07 시설",
+          "src": "Steam 한국어 상점 『Halo Infinite(캠페인)』 소개 ‘07 시설의 오픈 월드 환경’ — 시설 번호로 부르는 이름"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "『헤일로 인피니트』의 무대인 부서진 고리",
+      "note": "남아 있는 고리 가운데 가장 오래된 것으로, 크게 부서진 채 배니시드가 차지하고 있다. 넓은 땅과 깊은 지하 시설이 펼쳐진 곳이다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1240440/achievements?l=koreana",
+        "https://store.steampowered.com/app/1708091/?l=koreana",
+        "https://www.halopedia.org/Installation_07"
+      ]
+    },
+    {
+      "id": "requiem",
+      "ko": "레퀴엠",
+      "orig": "Requiem",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Halo: The Master Chief Collection』(앱 976730) Halo 4 임무 ‘Requiem’ → ‘레퀴엠’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "오랫동안 봉인되어 있던 선조의 실드 월드",
+      "note": "선조의 가장 높은 전사 계급이 본거지로 삼았던 인공 행성으로, 십만 년 가까이 닫혀 있다가 『헤일로 4』에서 다시 열린다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/976730/achievements?l=koreana",
+        "https://www.halopedia.org/Requiem"
+      ]
+    },
+    {
+      "id": "human_covenant_war",
+      "ko": "인간 코버넌트 전쟁",
+      "orig": "Human-Covenant War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 『Halo 3』 소개 ‘인간 코버넌트 전쟁의 흐름을 바꿀 힘이 있는 물체’",
+      "alt_ko": [
+        {
+          "ko": "인류-코버넌트 전쟁",
+          "src": "소설 『헤일로: 리치 행성의 함락』·『헤일로: 오닉스의 유령』(제우미디어 2015) 알라딘 출판사 책 소개"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "one": "2525년부터 2552년까지 이어진 인류와 코버넌트의 전쟁",
+      "note": "코버넌트가 인류를 신의 뜻에 따라 없애야 할 대상으로 선포하면서 시작된 전쟁이다. 인류는 거의 모든 싸움에서 밀려 수많은 식민지를 잃고 멸종 직전까지 몰린다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1064271/?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61768683",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67773299",
+        "https://www.halopedia.org/Human-Covenant_War"
+      ]
+    },
+    {
+      "id": "fall_of_reach",
+      "ko": "리치 행성의 함락",
+      "orig": "Fall of Reach",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로: 리치 행성의 함락』(제우미디어 2015)·『헤일로 1 - 리치 행성의 함락』(집사재 2011) 제목 · 『Halo Wars: Definitive Edition』 연대표 문자열 halotimeline-ko.xml · Event009 ‘리치 행성이 함락된다’ (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "인류의 마지막 큰 거점 리치가 무너진 싸움",
+      "note": "2552년 코버넌트 대함대가 리치를 덮쳐 행성을 불태운 사건으로, 스파르탄 대부분이 이 싸움에서 쓰러진다. 『헤일로: 전쟁의 서막』은 이 패배 직후에서 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=61768683",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11228881",
+        "https://github.com/shwmods/halowarsdemods/blob/535853653f86abba5ac54f03724278ef46a6f12d/data/halotimeline-ko.xml",
+        "https://www.halopedia.org/Fall_of_Reach"
+      ]
+    },
+    {
+      "id": "great_schism",
+      "ko": "그레이트 스키즘",
+      "orig": "Great Schism",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못해 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "코버넌트가 둘로 갈라진 내전",
+      "note": "2552년 말 사제와 저힐라네가 한쪽, 상헬리와 그 편에 선 이들이 다른 쪽이 되어 맞선 전쟁으로, 이 싸움으로 코버넌트라는 연합이 무너진다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.halopedia.org/Great_Schism"
+      ]
+    },
+    {
+      "id": "forerunner_human_war",
+      "ko": "선조-인류 전쟁",
+      "orig": "Human-Forerunner wars (Plague War)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『헤일로: 프라이모디움』(그렉 베어, 제우미디어 2013) 알라딘 출판사 책 소개 ‘과거에 있었던 선조-인류 전쟁에 대한 해답’",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "십만 년도 더 전 옛 인류와 선조 사이의 전쟁",
+      "note": "아득한 옛날 인류는 이미 별 사이에 제국을 이루고 선조와 맞서 싸웠다. 싸움에 진 인류는 쌓아 올린 문명을 빼앗긴 채 원시 상태로 되돌려졌다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26930988",
+        "https://www.halopedia.org/Plague_War"
+      ]
+    }
+  ]
+}

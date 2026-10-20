@@ -1,0 +1,1468 @@
+{
+  "terms": [
+    {
+      "id": "arrakis",
+      "ko": "아라키스",
+      "orig": "Arrakis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(첫 장 본문과 각주 1). 출판사 책 소개(알라딘)에도 같은 표기",
+      "alt_ko": [
+        {
+          "ko": "듄",
+          "src": "같은 판 안의 다른 이름 — 1권 첫 장 본문이 '듄이라는 이름으로 알려진 행성 아라키스'라 부른다(리디북스 미리보기)"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "스파이스가 나는 단 하나의 사막 행성.",
+      "note": "물이 거의 없는 모래의 행성으로 '듄'이라고도 불린다. 우주에서 스파이스가 나는 곳이 여기뿐이라, 이 행성을 맡는 가문은 막대한 부와 함께 모두의 질투를 산다. 원주민 프레멘과 거대한 모래벌레가 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262972218"
+      ]
+    },
+    {
+      "id": "caladan",
+      "ko": "칼라단",
+      "orig": "Caladan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 2)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "아트레이데스 가문이 대대로 다스린 바다 행성.",
+      "note": "물이 넉넉하고 온화한 행성으로, 아트레이데스 가문이 26대에 걸쳐 살아온 곳이다. 1부는 가문이 이곳을 떠나 사막 행성으로 옮겨 가는 데서 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "giedi_prime",
+      "ko": "지에디 프라임",
+      "orig": "Giedi Prime",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 35)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "하코넨 가문의 본거지 행성.",
+      "note": "하코넨 가문이 다스리는 행성으로, 남작이 음모를 꾸미는 자리로 나온다. 아라키스와 칼라단과 함께 1부의 세 축을 이룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "salusa_secundus",
+      "ko": "살루사 세쿤더스",
+      "orig": "Salusa Secundus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·3권 본문 — 구글 북스 본문 검색 결과 조각에서 확인. 출판사 세트 줄거리(알라딘)에도 같은 표기",
+      "kind": "장소",
+      "concepts": [],
+      "one": "황제 가문이 죄수를 보내는 감옥 행성.",
+      "note": "환경이 몹시 거친 행성으로, 제국은 이곳을 감옥으로 쓴다. 이 가혹한 땅에서 살아남는 사람들 가운데서 황제의 정예병이 길러진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%82%B4%EB%A3%A8%EC%82%AC%20%EC%84%B8%EC%BF%A4%EB%8D%94%EC%8A%A4%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "wallach_ix",
+      "ko": "왈락 제9행성",
+      "orig": "Wallach IX",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2권 본문 — 리디북스 미리보기에서 확인(1권 각주 39)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "베네 게세리트 학교가 있는 행성.",
+      "note": "베네 게세리트가 사람을 가르치는 학교가 있는 행성이다. 1·2부에서 교단의 대모들이 머물며 계획을 의논하는 자리로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "sietch",
+      "ko": "시에치",
+      "orig": "Sietch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 3·4권 본문 — 리디북스 미리보기에서 확인(3권 '타브르 시에치', '시에치의 나입')",
+      "kind": "장소",
+      "concepts": [],
+      "one": "프레멘이 바위 속에 숨겨 지은 부족의 거처.",
+      "note": "사막의 바위산 동굴에 자리 잡은 프레멘의 마을이다. 모은 물을 감춰 두고 부족 단위로 살며, 한 시에치의 우두머리를 나입이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001432/preview",
+        "https://ridibooks.com/books/682001431/preview"
+      ]
+    },
+    {
+      "id": "ix",
+      "ko": "익스",
+      "orig": "Ix",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·4·5·6권 본문 — 리디북스 미리보기에서 확인('익스', '익스 인')",
+      "kind": "장소",
+      "concepts": [],
+      "one": "정교한 기계를 만들어 파는 기계 문명의 행성.",
+      "note": "생각하는 기계가 금지된 뒤에도 기계 만드는 솜씨로 이름난 행성이다. 금지선에 바짝 붙은 발명이 많아 늘 의심을 받으며, 뒷권으로 갈수록 그 기술이 큰 힘이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "rakis",
+      "ko": "라키스",
+      "orig": "Rakis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·5·6권 본문 — 리디북스 미리보기에서 확인. 출판사 세트 줄거리(알라딘)에도 같은 표기",
+      "kind": "장소",
+      "concepts": [],
+      "one": "뒷시대에 아라키스를 부르는 이름.",
+      "note": "4부 이후의 시대에는 아라키스를 라키스라 부른다. 5부에서는 사제들이 다스리는 순례의 행성으로, 베네 게세리트와 여러 세력이 이곳의 모래벌레와 스파이스를 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "chapterhouse",
+      "ko": "참사회 행성",
+      "orig": "Chapterhouse",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 5·6권 본문 — 리디북스 미리보기에서 확인(5권 '참사회 행성')",
+      "alt_ko": [
+        {
+          "ko": "참사회",
+          "src": "같은 판 안의 줄인 이름 — 6권 본문에서 행성을 그냥 '참사회'라고도 부른다(리디북스 미리보기)"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "베네 게세리트가 위치를 감춘 본거지 행성.",
+      "note": "5·6부에서 베네 게세리트가 머무는 본거지로, 쫓기는 교단은 이곳의 위치를 철저히 숨긴다. 6부에서는 이 행성에 모래벌레를 옮겨 오며 땅이 사막으로 바뀌어 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "house_atreides",
+      "ko": "아트레이데스 가문",
+      "orig": "House Atreides",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 3)",
+      "alt_ko": [
+        {
+          "ko": "아트레이드 가문",
+          "src": "황금가지 구판(2001~2003, 18권) 표기 — 나무위키 '아트레이데스 가문' 문서가 번역가의 설명을 들어 전함(2차 자료, 구판 원문은 확인 못 함)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "1부 주인공 집안인 대가문.",
+      "note": "칼라단을 다스리던 대가문으로, 황제의 명으로 아라키스를 넘겨받으며 이야기가 시작된다. 명예와 신의를 내세우는 집안으로 그려지며, 그 핏줄이 여섯 권 내내 이야기의 중심에 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://namu.wiki/w/%EC%95%84%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%8A%A4%20%EA%B0%80%EB%AC%B8"
+      ]
+    },
+    {
+      "id": "house_harkonnen",
+      "ko": "하코넨 가문",
+      "orig": "House Harkonnen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "세력",
+      "concepts": [],
+      "one": "아트레이데스와 대를 이은 원수인 대가문.",
+      "note": "80년 동안 아라키스를 맡아 스파이스로 부를 쌓은 가문이다. 혹독한 착취로 프레멘의 원한을 샀고, 아트레이데스 가문과는 대를 이어 서로를 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "house_corrino",
+      "ko": "코리노 가문",
+      "orig": "House Corrino",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('코리노 가문의 우주 제국')",
+      "kind": "세력",
+      "concepts": [],
+      "one": "패디샤 황제를 내는 황실 가문.",
+      "note": "알려진 우주의 황제 자리를 오래 이어 온 가문이다. 감옥 행성에서 길러 낸 정예병을 손에 쥐고 대가문들과 우주 조합 사이에서 균형을 잡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "great_houses",
+      "ko": "대가문",
+      "orig": "Great Houses",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 33)",
+      "kind": "제도·직위",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "행성을 영지로 받아 다스리는 큰 귀족 가문.",
+      "note": "황제에게서 행성이나 행성계를 영지로 받아 다스리며, 모두 모여 랜드스라드를 이룬다. 가문마다 군대와 핵무기를 갖고, 가문끼리의 혼인과 원한이 정치의 큰 줄기다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "landsraad",
+      "ko": "랜드스라드",
+      "orig": "Landsraad",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인('랜드스라드의 대가문들')",
+      "alt_ko": [
+        {
+          "ko": "귀족회의",
+          "src": "영화 「듄」(2021) 국내 자막 — 나무위키 '랜드스래드' 문서가 전함(2차 자료, 자막 화면은 확인 못 함)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "대가문들이 모인 귀족의 회의체.",
+      "note": "황제 한 사람이 마음대로 하지 못하게 견제하는 대가문들의 모임이다. 황제와 랜드스라드와 우주 조합, 세 힘이 맞물려 제국의 균형을 이룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://namu.wiki/w/%EB%9E%9C%EB%93%9C%EC%8A%A4%EB%9E%98%EB%93%9C"
+      ]
+    },
+    {
+      "id": "faufreluches",
+      "ko": "파우프레루체스",
+      "orig": "Faufreluches",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 13)",
+      "kind": "제도·직위",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "사람마다 자리가 정해진 제국의 신분 제도.",
+      "note": "누구에게나 정해진 신분이 있고 그 자리를 벗어나지 못하게 하는 엄격한 계급 질서다. 먼 변방인 아라키스에서는 이 질서가 덜 엄하다는 이야기가 1부 첫머리에 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "kanly",
+      "ko": "칸리",
+      "orig": "Kanly",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 31)",
+      "kind": "제도·직위",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "정해진 규칙 안에서 벌이는 가문 사이의 공식 복수전.",
+      "note": "대가문끼리의 원한을 풀 때 대협정이 정한 형식을 지키며 벌이는 공식 다툼이다. 다툼과 상관없는 사람이 휘말리지 않게 하려는 규칙이지만, 가문들은 그 틈을 노려 음모를 꾸민다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "padishah_emperor",
+      "ko": "패디샤 황제",
+      "orig": "Padishah Emperor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(첫 장 '패디샤 황제 샤담 4세')",
+      "kind": "제도·직위",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "알려진 우주를 다스리는 황제의 칭호.",
+      "note": "코리노 가문이 대대로 이어 온 황제의 칭호다. 정예병을 쥐고 있지만 대가문들과 우주 조합의 눈치를 봐야 해서, 드러내 놓고 마음대로 하지는 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "choam",
+      "ko": "초암",
+      "orig": "CHOAM",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·3권 본문 — 리디북스 미리보기에서 확인(1권 각주 9 '초암 사', 3권 '초암 연합')",
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "우주의 상업을 한데 쥔 거대한 회사.",
+      "note": "황제와 대가문들이 지분을 나눠 가진 회사로, 이 회사에서 얼마를 차지하느냐가 곧 가문의 부와 힘이다. 아라키스의 스파이스 채취도 이 회사와의 계약으로 이루어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://ridibooks.com/books/682001432/preview"
+      ]
+    },
+    {
+      "id": "spacing_guild",
+      "ko": "우주 조합",
+      "orig": "Spacing Guild",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 20)",
+      "alt_ko": [
+        {
+          "ko": "조합",
+          "src": "같은 판 안의 줄인 이름 — 1·2권 본문에서 흔히 '조합'이라고만 부른다(리디북스 미리보기)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "guild_monopoly"
+      ],
+      "one": "별 사이 항행을 혼자 쥔 조합.",
+      "note": "별과 별 사이를 오가는 배는 모두 이 조합의 것이라, 황제도 대가문도 이들 없이는 움직일 수 없다. 정치에 직접 나서지는 않지만 스파이스 공급이 끊기는 일만은 결코 두고 보지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "guild_navigator",
+      "ko": "조합 항법사",
+      "orig": "Guild Navigator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3·4·6권 본문 — 리디북스 미리보기에서 확인(2권 '조합 항법사')",
+      "kind": "제도·직위",
+      "concepts": [
+        "navigator"
+      ],
+      "one": "스파이스로 길을 내다보며 배를 모는 조합원.",
+      "note": "생각하는 기계가 없는 세계에서, 항법사는 스파이스로 얻은 좁은 예지로 안전한 길을 찾아 거대한 배를 이끈다. 스파이스 기체가 찬 수조 속에서 지내며 사람의 모습에서 멀어져 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001432/preview",
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "heighliner",
+      "ko": "하이라이너",
+      "orig": "Heighliner",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('조합의 하이라이너를 빛보다 빠른 속도로')",
+      "kind": "기술·물건",
+      "concepts": [
+        "jump_drive"
+      ],
+      "one": "우주 조합의 거대한 항성 간 수송선.",
+      "note": "대가문의 배들을 통째로 싣고 별 사이를 건너는 조합의 큰 배다. 항법사가 이끌어 먼 거리를 단숨에 넘으며, 이 배를 탈 수 있느냐가 곧 우주에서 움직일 수 있느냐다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "bene_gesserit",
+      "ko": "베네 게세리트",
+      "orig": "Bene Gesserit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 8)",
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "몸과 마음을 단련한 여성들의 비밀 교단.",
+      "note": "수천 년 동안 귀족 가문들 곁에 사람을 두고 핏줄을 골라 맺어 온 교단이다. 겉으로는 학교이자 조언자이지만, 뒤에서는 몇 세대짜리 교배 계획과 정치를 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "reverend_mother",
+      "ko": "대모",
+      "orig": "Reverend Mother",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 5 '대모(大母)')",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "생명의 물을 이겨 내고 조상의 기억을 얻은 교단의 여성.",
+      "note": "베네 게세리트에서 독을 몸 안에서 바꿔 내는 고비를 넘긴 여성을 부르는 자리다. 그 순간 앞선 이들의 기억을 함께 지니게 되어, 교단을 이끄는 힘이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "truthsayer",
+      "ko": "진실을 말하는 자",
+      "orig": "Truthsayer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 18)",
+      "kind": "제도·직위",
+      "concepts": [
+        "mental_discipline"
+      ],
+      "one": "무아지경에 들어 거짓을 가려내는 대모.",
+      "note": "약으로 무아지경에 들어 상대의 아주 작은 거짓까지 알아채는 대모다. 황제와 대가문은 이런 사람을 곁에 두고 말의 참과 거짓을 가린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "voice",
+      "ko": "목소리",
+      "orig": "Voice",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 21 '그 목소리')",
+      "kind": "현상·힘",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "말소리만으로 남을 따르게 하는 교단의 기술.",
+      "note": "듣는 사람에게 꼭 맞춘 음색과 높낮이로 명령해, 상대가 생각하기 전에 몸이 먼저 따르게 한다. 같은 훈련을 받은 사람은 버텨 낼 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "bg_training",
+      "ko": "훈련",
+      "orig": "Training",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 19 '훈련')",
+      "kind": "현상·힘",
+      "concepts": [
+        "mental_discipline"
+      ],
+      "one": "근육과 신경을 뜻대로 부리게 하는 교단식 단련.",
+      "note": "베네 게세리트에서 이 낱말은 근육 하나, 신경 하나까지 다스리는 특별한 단련을 뜻한다. 이 단련으로 남의 작은 몸짓을 읽고 자기 몸과 감정을 마음대로 다룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "other_memory",
+      "ko": "다른 기억",
+      "orig": "Other Memory",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 5·6권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "현상·힘",
+      "concepts": [
+        "ancestral_memory"
+      ],
+      "one": "조상들의 삶을 자기 기억처럼 지니는 것.",
+      "note": "대모가 되는 순간, 어머니 쪽으로 이어진 조상들과 앞선 대모들의 기억이 의식 속으로 들어온다. 수많은 옛사람의 경험을 빌려 판단할 수 있지만, 그 목소리들에 휘둘릴 위험도 함께 진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "abomination",
+      "ko": "저주스러운 존재",
+      "orig": "Abomination",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "현상·힘",
+      "concepts": [
+        "ancestral_memory"
+      ],
+      "one": "태어나기 전부터 조상의 기억에 눈뜬 사람을 부르는 말.",
+      "note": "어머니 배 속에서 일찍 조상들의 기억에 깨어난 아이는 그 수많은 인격에 먹힐 수 있다고 베네 게세리트는 믿는다. 교단은 그런 사람을 이 이름으로 부르며 몹시 꺼린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A0%80%EC%A3%BC%EC%8A%A4%EB%9F%AC%EC%9A%B4%20%EC%A1%B4%EC%9E%AC%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "water_of_life",
+      "ko": "생명의 물",
+      "orig": "Water of Life",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2권 본문 — 구글 북스 본문 검색 결과 조각에서 확인. '스파이스의 고통'은 5권 본문(리디북스 미리보기)",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "대모가 되는 고비에 마시는 독.",
+      "note": "물에 빠져 죽는 어린 모래벌레에게서 얻는 독이다. 이것을 마시고 몸 안에서 독을 바꿔 내면 대모가 되며, 그 고비를 '스파이스의 고통'이라 한다. 바뀐 물은 프레멘의 의식에도 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%83%9D%EB%AA%85%EC%9D%98%20%EB%AC%BC%22%20%EB%8C%80%EB%AA%A8%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+        "https://ridibooks.com/books/682001430/preview"
+      ]
+    },
+    {
+      "id": "gom_jabbar",
+      "ko": "곰 자바",
+      "orig": "Gom jabbar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 7)",
+      "kind": "기술·물건",
+      "concepts": [
+        "humanity_test"
+      ],
+      "one": "사람인지 짐승인지 가리는 시험에 쓰는 독침.",
+      "note": "고통을 주는 상자에 손을 넣게 하고 목에 독침을 겨눈 채, 아픔을 견디는지 본다. 본능대로 손을 빼지 않고 버텨 생각하는 쪽을 교단은 '사람'으로 친다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "missionaria_protectiva",
+      "ko": "보호 선교단",
+      "orig": "Missionaria Protectiva",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 41). 출판사 세트 줄거리(알라딘)에도 같은 표기",
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "먼 행성에 전설과 미신을 심는 교단의 조직.",
+      "note": "문명이 덜 닿은 행성들에 미리 예언과 미신을 퍼뜨려, 훗날 교단 사람이 위험에 빠지면 그 전설을 빌려 살아남게 한다. 프레멘이 기다리는 구원자 전설도 이렇게 심어진 것이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "kwisatz_haderach",
+      "ko": "퀴사츠 해더락",
+      "orig": "Kwisatz Haderach",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 6). 같은 판 1·2·5권 본문도 구글 북스 본문 검색으로 확인",
+      "kind": "제도·직위",
+      "concepts": [
+        "next_human"
+      ],
+      "one": "베네 게세리트가 교배로 만들려는 남자 초인.",
+      "note": "이름은 '길을 줄이는 자'라는 뜻이다. 대모도 들여다볼 수 없는 아버지 쪽 조상의 기억까지 보고, 여러 곳에 한꺼번에 있을 수 있는 사람으로 기대된다. 교단은 그를 자기 손으로 다루려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%ED%80%B4%EC%82%AC%EC%B8%A0%20%ED%95%B4%EB%8D%94%EB%9D%BD%22"
+      ]
+    },
+    {
+      "id": "breeding_program",
+      "ko": "교배 프로그램",
+      "orig": "Breeding program",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·4권 본문 — 리디북스 미리보기에서 확인(2권 '교배 프로그램', 4권 '베네 게세리트 유전자 교배 프로그램')",
+      "kind": "제도·직위",
+      "concepts": [
+        "genetic_eng",
+        "long_plan"
+      ],
+      "one": "교단이 몇 세대에 걸쳐 핏줄을 골라 맺는 계획.",
+      "note": "베네 게세리트는 귀족 가문들의 핏줄을 기록해 두고, 원하는 성질이 나오도록 누가 누구와 아이를 낳을지 정한다. 목표는 퀴사츠 해더락이지만, 사람의 마음이 계획을 벗어나기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001431/preview"
+      ]
+    },
+    {
+      "id": "lisan_al_gaib",
+      "ko": "리산 알 가입",
+      "orig": "Lisan al-Gaib",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "제도·직위",
+      "concepts": [
+        "prophecy"
+      ],
+      "one": "프레멘 전설 속 '바깥 세계에서 온 목소리'.",
+      "note": "다른 행성에서 와서 프레멘을 이끌 예언자를 부르는 이름이다. 사실은 오래전 보호 선교단이 심어 둔 전설이어서, 교단 사람은 이 전설에 몸을 맞춰 살아남을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%A6%AC%EC%82%B0%20%EC%95%8C%20%EA%B0%80%EC%9E%85%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "mahdi",
+      "ko": "마디",
+      "orig": "Mahdi",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "제도·직위",
+      "concepts": [
+        "prophecy"
+      ],
+      "one": "프레멘을 낙원으로 이끌 구원자를 부르는 말.",
+      "note": "프레멘의 구원자 전설에서 그들을 낙원으로 데려갈 사람을 이렇게 부른다. 리산 알 가입과 함께, 한 사람을 따르는 신앙이 생겨나는 바탕이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001432/preview"
+      ]
+    },
+    {
+      "id": "mentat",
+      "ko": "멘타트",
+      "orig": "Mentat",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 27, '멘타트 암살자')",
+      "kind": "제도·직위",
+      "concepts": [
+        "mental_discipline"
+      ],
+      "one": "생각하는 기계 대신 길러 낸 사람 계산기.",
+      "note": "생각하는 기계가 금지된 뒤, 엄청난 자료를 외우고 따져 결론을 내도록 사람을 길러 낸다. 대가문은 멘타트를 참모나 암살 기획자로 곁에 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "butlerian_jihad",
+      "ko": "버틀레리안 지하드",
+      "orig": "Butlerian Jihad",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 25)",
+      "alt_ko": [
+        {
+          "ko": "대반란",
+          "src": "같은 판 안의 다른 이름(Great Revolt) — 1권 본문 각주 28, 리디북스 미리보기"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "ai_ban"
+      ],
+      "one": "생각하는 기계를 없앤 먼 옛날의 성전.",
+      "note": "이야기보다 1만여 년 전, 사람들이 생각하는 기계에 맞서 일으킨 성전이다. 그 뒤로 사람처럼 생각하는 기계를 만들지 못하게 하는 계율이 생겨, 멘타트와 항법사 같은 사람의 능력이 그 자리를 메운다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "orange_catholic_bible",
+      "ko": "오렌지 가톨릭 성경",
+      "orig": "Orange Catholic Bible",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 26 『오렌지 가톨릭 성경』)",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "여러 옛 종교를 합쳐 엮은 경전.",
+      "note": "버틀레리안 지하드 뒤에 여러 종교의 대표들이 모여 엮은 경전이다. 생각하는 기계를 금하는 계율도 여기에 실려 있어, 그 금지가 신앙의 무게를 갖는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "great_convention",
+      "ko": "대협정",
+      "orig": "Great Convention",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2·3권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "제도·직위",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "사람에게 핵무기를 쓰지 못하게 한 우주의 큰 약속.",
+      "note": "황제와 대가문과 우주 조합이 힘의 균형 위에서 맺은 약속이다. 가장 무거운 조항은 사람을 겨냥한 핵무기 사용 금지이며, 어긴 쪽은 나머지 모두의 보복을 받는다. 가문끼리의 싸움도 이 형식 안에서만 해야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%8C%80%ED%98%91%EC%A0%95%22%20%ED%95%B5%EB%AC%B4%EA%B8%B0%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "family_atomics",
+      "ko": "가문의 핵무기",
+      "orig": "Family atomics",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인('가문의 핵무기와 방어막')",
+      "kind": "기술·물건",
+      "concepts": [
+        "forbidden_weapon",
+        "deterrence"
+      ],
+      "one": "대가문마다 쌓아 둔 핵무기.",
+      "note": "대가문은 저마다 핵무기를 갖고 있지만 대협정 때문에 사람에게 쓸 수 없다. 1부에서는 가문들이 서로 쏘지 못하는 진짜 까닭이 조항보다 서로에 대한 두려움이라는 말도 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EB%8C%80%ED%98%91%EC%A0%95%22%20%ED%95%B5%EB%AC%B4%EA%B8%B0%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "holtzman_shield",
+      "ko": "방어막",
+      "orig": "Holtzman shield",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인('방어막'). '홀츠먼 효과'는 같은 판 3권 본문(구글 북스 본문 검색)",
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "빠르게 날아드는 것을 막는 몸의 보호막.",
+      "note": "빠른 것은 튕겨 내고 느린 것만 들여보내서, 총알은 막지만 천천히 찌르는 칼날은 통과한다. 레이저총에 맞으면 핵폭발 같은 폭발이 일고, 사막에서는 모래벌레를 미쳐 날뛰게 한다. 원리는 '홀츠먼 효과'라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://www.google.com/search?tbm=bks&q=%ED%99%80%EC%B8%A0%EB%A8%BC%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "lasgun",
+      "ko": "레이저총",
+      "orig": "Lasgun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·5·6권 본문 — 리디북스 미리보기에서 확인('레이저총')",
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "강한 빛줄기를 쏘는 총.",
+      "note": "무엇이든 잘라 내는 빛을 쏘지만, 방어막에 닿으면 쏜 쪽과 맞은 쪽이 함께 사라질 수 있는 폭발이 일어난다. 그래서 방어막을 두른 상대에게는 함부로 쏘지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "crysknife",
+      "ko": "크리스나이프",
+      "orig": "Crysknife",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 3권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "모래벌레의 이빨로 만든 프레멘의 신성한 칼.",
+      "note": "방어막이 빠른 공격을 막는 세계라 칼과 칼싸움이 다시 중요해졌고, 프레멘에게 칼은 신성한 물건이다. 죽은 모래벌레의 이빨로 만들며, 한번 뽑으면 피를 묻히고서야 다시 넣는다는 관습이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001432/preview"
+      ]
+    },
+    {
+      "id": "stillsuit",
+      "ko": "사막복",
+      "orig": "Stillsuit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3권 본문 — 리디북스 미리보기에서 확인. 1권 '제국의 용어들'(STILLSUIT 항목)도 구글 북스 본문 검색으로 확인",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "몸의 물기를 거둬 다시 마시게 하는 옷.",
+      "note": "땀과 숨, 배설물에 든 물기까지 걸러 모아 다시 마실 수 있게 하는 아라키스의 옷이다. 제대로 맞춰 입으면 하루에 잃는 물이 아주 적어, 사막에서 사는 데 꼭 있어야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001432/preview",
+        "https://www.google.com/search?tbm=bks&q=%22STILLSUIT%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88%201%EA%B6%8C"
+      ]
+    },
+    {
+      "id": "thumper",
+      "ko": "모래 막대기",
+      "orig": "Thumper",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·5권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모래를 두드려 모래벌레를 부르는 막대.",
+      "note": "모래에 꽂아 두면 딱딱 소리를 내며 일정하게 모래를 두드린다. 모래벌레는 이 진동을 쫓아오므로, 프레멘은 이것으로 벌레를 부르거나 다른 곳으로 꾀어낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%AA%A8%EB%9E%98%20%EB%A7%89%EB%8C%80%EA%B8%B0%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "maker_hooks",
+      "ko": "창조자 작살",
+      "orig": "Maker hooks",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·3·4·5권 본문 — 구글 북스 본문 검색 결과 조각에서 확인(1권 각주 141)",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모래벌레에 올라타 부리는 갈고리.",
+      "note": "프레멘은 모래 막대기로 부른 벌레의 몸마디를 이 갈고리로 벌려 올라탄다. 벌어진 틈의 여린 살이 모래에 닿지 않게 벌레가 몸을 들고 달리므로, 그 등에 탄 채 사막을 건넌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%B0%BD%EC%A1%B0%EC%9E%90%20%EC%9E%91%EC%82%B4%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "ornithopter",
+      "ko": "오니솝터",
+      "orig": "Ornithopter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 3권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "날개를 쳐서 나는 비행기.",
+      "note": "새처럼 날개를 움직여 나는 비행기로, 아라키스에서 사람과 짐을 나르는 흔한 탈것이다. 모래 폭풍과 모래벌레가 있는 사막에서 하늘길이 가장 안전한 길이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001432/preview"
+      ]
+    },
+    {
+      "id": "spice_harvester",
+      "ko": "스파이스 수확기",
+      "orig": "Spice harvester",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·5권 본문 — 구글 북스 본문 검색 결과 조각에서 확인(1권 '수확기', 5권 '스파이스 수확기')",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사막에서 스파이스를 걷어 들이는 큰 기계.",
+      "note": "스파이스가 많은 모래밭으로 실려 가 모래를 걷어 스파이스를 거둔다. 진동이 커서 모래벌레가 반드시 다가오므로, 벌레가 오기 전에 할 수 있는 만큼 거두고 빠져나오는 것이 일의 전부다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%88%98%ED%99%95%EA%B8%B0%22%20%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "carryall",
+      "ko": "캐리올",
+      "orig": "Carryall",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "스파이스 수확기를 실어 나르는 큰 비행기.",
+      "note": "수확기를 사막 한가운데로 실어 가고, 모래벌레가 다가오면 다시 달아 올려 대피시킨다. 캐리올이 제때 오지 못하면 수확기와 사람이 함께 벌레에게 삼켜진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%BA%90%EB%A6%AC%EC%98%AC%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "suspensor",
+      "ko": "반중력 장치",
+      "orig": "Suspensor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 38 '휴대용 반중력 장치')",
+      "kind": "기술·물건",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "무게를 덜어 물건을 띄우는 장치.",
+      "note": "등불을 공중에 띄우고 의자나 짐을 떠받치며, 몸이 무거운 사람의 무게를 덜어 주는 데도 쓴다. 방어막과 같은 원리에서 나온 기술이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "deathstill",
+      "ko": "죽음의 증류기",
+      "orig": "Deathstill",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4권 본문 — 리디북스 미리보기에서 확인('죽음의 증류기 감독관')",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "죽은 사람의 몸에서 물을 거둬 부족에 돌리는 장치.",
+      "note": "프레멘에게 사람 몸의 물은 부족의 것이라, 죽은 이의 몸에서 물을 뽑아 부족의 저수에 보탠다. 물이 곧 목숨이자 재산인 사막의 셈법을 보여 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview"
+      ]
+    },
+    {
+      "id": "windtrap",
+      "ko": "바람덫",
+      "orig": "Windtrap",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·3·5권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "alt_ko": [
+        {
+          "ko": "방풍막",
+          "src": "풀빛판(1992, 10권) 표기 — 나무위키 '윈드 트랩' 문서가 전함(2차 자료). 풀빛판이 나왔다는 것은 알라딘 서지로 확인"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "공기 속 물기를 붙잡아 모으는 장치.",
+      "note": "바람을 차가운 곳으로 끌어들여 물기를 맺히게 하는 장치다. 프레멘은 이것을 땅속에 숨겨 두고 한 방울씩 모은 물을 저수에 쌓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B0%94%EB%9E%8C%EB%8D%AB%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+        "https://namu.wiki/w/%EC%9C%88%EB%93%9C%20%ED%8A%B8%EB%9E%A9",
+        "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%ED%92%80%EB%B9%9B"
+      ]
+    },
+    {
+      "id": "spice_melange",
+      "ko": "스파이스 멜란지",
+      "orig": "Spice melange",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2권 본문 — 리디북스 미리보기에서 확인(2권 '스파이스 멜란지')",
+      "alt_ko": [
+        {
+          "ko": "멜란지",
+          "src": "같은 판 안의 줄인 이름 — 1권 각주 11(리디북스 미리보기)"
+        },
+        {
+          "ko": "스파이스",
+          "src": "같은 판 안의 줄인 이름 — 1권 각주 10, 본문에서 가장 흔히 쓰는 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource",
+        "longevity",
+        "awakening_substance"
+      ],
+      "one": "아라키스에서만 나는, 수명을 늘리고 예지를 깨우는 물질.",
+      "note": "늙음을 늦추고 의식을 넓혀 주지만, 오래 먹으면 끊을 수 없게 된다. 조합 항법사의 항행과 대모들의 능력이 모두 여기에 기대어, 이것을 쥔 쪽이 우주를 쥔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "eyes_of_ibad",
+      "ko": "이바드의 눈",
+      "orig": "Eyes of Ibad",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2권 본문 — 구글 북스 본문 검색 결과 조각에서 확인(1권 각주 176)",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "스파이스에 깊이 젖어 흰자위까지 파래진 눈.",
+      "note": "스파이스가 많은 음식을 오래 먹으면 눈의 흰자위와 눈동자가 모두 짙은 파란색이 된다. 프레멘과 스파이스에 깊이 중독된 사람을 알아보는 표지다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%9D%B4%EB%B0%94%EB%93%9C%EC%9D%98%20%EB%88%88%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "sandworm",
+      "ko": "모래벌레",
+      "orig": "Sandworm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3·4권 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "샤이 훌루드",
+          "src": "같은 판 안에서 프레멘이 부르는 이름 — 3권 본문 '샤이 훌루드(신격화된 모래벌레)', 4·5권에도 나옴(리디북스 미리보기)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "아라키스 사막의 거대한 벌레.",
+      "note": "수백 미터에 이르는 거대한 벌레로, 모래 위의 규칙적인 진동을 쫓아와 무엇이든 삼킨다. 프레멘은 이를 '샤이 훌루드'라 부르며 신처럼 섬기고, 길들여 타고 다닌다. 스파이스가 생기는 순환의 한가운데에 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001432/preview",
+        "https://ridibooks.com/books/682001431/preview"
+      ]
+    },
+    {
+      "id": "sandtrout",
+      "ko": "모래송어",
+      "orig": "Sandtrout",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 3·4·6권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "물을 감싸 가두는, 모래벌레의 어린 단계 생물.",
+      "note": "물을 찾아 감싸 가두는 작은 생물로, 아라키스가 사막으로 남는 까닭이 이들에게 있다. 스파이스가 생기는 과정에 끼어 있고, 자라서 모래벌레가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001432/preview",
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "coriolis_storm",
+      "ko": "코리올리 폭풍",
+      "orig": "Coriolis storm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·2·3·6권 본문 — 구글 북스 본문 검색 결과 조각에서 확인(1권 각주 224)",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "아라키스의 거대한 모래 폭풍.",
+      "note": "넓은 평원을 가로지르며 엄청나게 빨라진 바람이 모래를 싣고 몰아치는 폭풍이다. 살갗과 금속을 깎아 낼 만큼 거세서, 사막에서 가장 무서운 날씨로 꼽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%BD%94%EB%A6%AC%EC%98%AC%EB%A6%AC%20%ED%8F%AD%ED%92%8D%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "fremen",
+      "ko": "프레멘",
+      "orig": "Fremen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 16)",
+      "kind": "세력",
+      "concepts": [],
+      "one": "아라키스 사막에 사는 사람들.",
+      "note": "제국의 인구 조사에도 잡히지 않는 사막의 부족들이다. 물 한 방울까지 아끼는 엄격한 관습으로 살아가며, 언젠가 행성을 푸르게 바꾸겠다는 꿈을 대대로 품고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "fedaykin",
+      "ko": "페다이킨",
+      "orig": "Fedaykin",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·3권 본문 — 구글 북스 본문 검색 결과 조각에서 확인",
+      "kind": "세력",
+      "concepts": [],
+      "one": "목숨을 걸고 싸우는 프레멘의 결사대.",
+      "note": "프레멘 가운데서도 죽음을 각오한 정예 전사들의 무리다. 지도자를 가장 가까이에서 지키며 가장 위험한 싸움에 먼저 나선다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%ED%8E%98%EB%8B%A4%EC%9D%B4%ED%82%A8%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "zensunni",
+      "ko": "젠수니",
+      "orig": "Zensunni",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3·5·6권 본문 — 구글 북스 본문 검색 결과 조각에서 확인(3권 '젠수니 방랑자들')",
+      "kind": "세력",
+      "concepts": [],
+      "one": "프레멘의 조상이 믿던 떠돌이 종파.",
+      "note": "오래전 박해를 피해 행성에서 행성으로 떠돈 신앙 공동체로, 프레멘은 그 후손이다. 프레멘의 말과 기도, 생각하는 방식에 그 흔적이 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A0%A0%EC%88%98%EB%8B%88%22%20%EB%93%84%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "sardaukar",
+      "ko": "사다우카",
+      "orig": "Sardaukar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 34)",
+      "kind": "세력",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "황제의 광신적인 정예병.",
+      "note": "감옥 행성의 혹독한 환경에서 살아남은 이들을 골라 무자비하게 길러 낸 병사들이다. 오랫동안 우주에서 가장 무서운 군대로 여겨졌고, 황제가 대가문들을 누르는 가장 큰 힘이었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "bashar",
+      "ko": "바샤르",
+      "orig": "Bashar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1·5·6권 본문 — 리디북스 미리보기에서 확인(1권 각주 15)",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "군대의 높은 지휘관 계급.",
+      "note": "1부에서는 사다우카의 장교 계급으로 나오고, 5·6부에서는 베네 게세리트가 거느린 군대의 총사령관을 이렇게 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "jihad_of_muaddib",
+      "ko": "무앗딥의 지하드",
+      "orig": "Muad'Dib's Jihad",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('12년에 걸친 무앗딥의 지하드')",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "무앗딥의 이름으로 우주를 휩쓴 성전.",
+      "note": "프레멘 군대가 무앗딥의 이름을 내걸고 알려진 우주 곳곳으로 퍼져 나간 12년의 성전이다. 행성 수십 개가 불타고 수백억 명이 죽었으며, 2부는 그 뒤의 세상에서 벌어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "qizarate",
+      "ko": "퀴자라트",
+      "orig": "Qizarate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('퀴자라트 선교사들')",
+      "kind": "세력",
+      "concepts": [],
+      "one": "무앗딥을 받드는 종교의 사제단.",
+      "note": "무앗딥을 섬기는 신앙을 우주에 퍼뜨린 선교사와 사제들의 조직이다. 신앙의 이름으로 정치와 음모에도 깊이 들어간다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview"
+      ]
+    },
+    {
+      "id": "bene_tleilax",
+      "ko": "베네 틀레이랙스",
+      "orig": "Bene Tleilax",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('베네 틀레이랙스', '틀레이랙스의 얼굴의 춤꾼')",
+      "alt_ko": [
+        {
+          "ko": "베네 틀래이랙스",
+          "src": "황금가지 신장판 세트의 출판사 줄거리(알라딘 상품 페이지) — 본문 표기와 한 글자 다름(원자료이나 소개 글)"
+        },
+        {
+          "ko": "틀레이랙스",
+          "src": "같은 판 안의 줄인 이름 — 2·4·5·6권 본문(리디북스 미리보기)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "생명을 고쳐 만드는 기술로 이름난 세력.",
+      "note": "유전자를 다루는 기술로 얼굴의 춤꾼과 골라 같은 사람을 만들어 판다. 도덕을 개의치 않는다는 평판 아래, 수천 년 동안 자기들만의 신앙과 계획을 숨겨 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "face_dancer",
+      "ko": "얼굴의 춤꾼",
+      "orig": "Face Dancer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2권 본문 — 리디북스 미리보기에서 확인('틀레이랙스의 얼굴의 춤꾼'). 출판사 세트 줄거리(알라딘)에도 같은 표기",
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng",
+        "impostor"
+      ],
+      "one": "얼굴과 몸을 바꿔 남의 행세를 하는 틀레이랙스의 피조물.",
+      "note": "베네 틀레이랙스가 길러 낸 사람으로, 얼굴과 몸집을 바꿔 다른 사람 행세를 한다. 첩자와 암살자로 쓰이며, 뒷권으로 갈수록 그 흉내가 겉모습을 넘어 기억과 마음까지 깊어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "ghola",
+      "ko": "골라",
+      "orig": "Ghola",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·4·5·6권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "종족·생물",
+      "concepts": [
+        "clone",
+        "resurrection"
+      ],
+      "one": "죽은 사람의 몸이나 세포로 다시 길러 낸 사람.",
+      "note": "베네 틀레이랙스가 죽은 사람의 몸이나 세포에서 길러 내는 사람이다. 처음에는 옛 기억이 없지만, 특별한 방법으로 원래 사람의 기억을 깨울 수 있다. 같은 사람을 몇 번이고 다시 만들기도 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "axlotl_tank",
+      "ko": "악솔로틀 탱크",
+      "orig": "Axlotl tank",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·6권 본문 — 리디북스 미리보기에서 확인(4권 '틀레이랙스 인들의 악솔로틀 탱크')",
+      "kind": "기술·물건",
+      "concepts": [
+        "clone"
+      ],
+      "one": "골라를 길러 내는 틀레이랙스의 장치.",
+      "note": "베네 틀레이랙스가 골라와 얼굴의 춤꾼을 길러 내는 데 쓰는 것으로, 그 정체를 오랫동안 바깥에 숨겨 왔다. 뒷권에서는 여기서 스파이스까지 만들어 내고, 베네 게세리트도 같은 것을 갖추려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "prescience",
+      "ko": "예지력",
+      "orig": "Prescience",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 2·3·4권 본문 — 리디북스 미리보기에서 확인(4권 '조합 항법사들의 단선적인 예지력')",
+      "kind": "현상·힘",
+      "concepts": [
+        "precognition"
+      ],
+      "one": "스파이스로 깨어나는, 앞일을 내다보는 힘.",
+      "note": "미래를 여러 갈래 길처럼 내다보는 힘으로, 스파이스가 이를 키운다. 조합 항법사는 좁게만 보지만 뛰어난 이는 훨씬 멀리 본다. 앞날을 볼수록 그 미래에 묶인다는 것이 연작 전체의 물음이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001433/preview",
+        "https://ridibooks.com/books/682001432/preview",
+        "https://ridibooks.com/books/682001431/preview"
+      ]
+    },
+    {
+      "id": "imperial_conditioning",
+      "ko": "제국 정신 훈련",
+      "orig": "Imperial Conditioning",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 1권 본문 — 리디북스 미리보기에서 확인(각주 37, '수크 의대')",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "남의 목숨을 빼앗지 못하게 마음 깊이 새기는 훈련.",
+      "note": "수크 의대가 의사들에게 베푸는 훈련으로, 이를 받은 사람은 남을 해칠 수 없다고 믿어진다. 그래서 대가문은 이 훈련을 받은 의사를 믿고 곁에 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview"
+      ]
+    },
+    {
+      "id": "ecological_transformation",
+      "ko": "녹화 사업",
+      "orig": "Ecological transformation of Arrakis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판 세트의 출판사 줄거리(알라딘 상품 페이지) '녹화사업'. 계획을 처음 세운 '행성학자'는 황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 3권 본문(리디북스 미리보기). 본문에서 이 계획을 부르는 고유한 이름은 확인 못 함",
+      "kind": "사건·시대",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "사막 행성 아라키스를 푸르게 바꾸려는 계획.",
+      "note": "황제가 보낸 행성학자가 처음 품은 꿈을 프레멘이 이어받아, 몰래 물을 모으고 식물을 심으며 수백 년짜리 계획을 밀고 간다. 그러나 사막이 줄면 모래벌레와 스파이스도 줄어든다는 것이 뒷권의 큰 문제가 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982",
+        "https://ridibooks.com/books/682001432/preview"
+      ]
+    },
+    {
+      "id": "god_emperor",
+      "ko": "신황제",
+      "orig": "God Emperor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·5권 본문 — 리디북스 미리보기에서 확인(4권 '신(神)황제', '신황제'). 출판사 세트 줄거리에는 '신(神) 황제'",
+      "kind": "제도·직위",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "모래송어와 하나가 되어 3천여 년을 다스린 황제의 칭호.",
+      "note": "몸이 점점 거대한 벌레로 바뀌어 가는 황제가 수천 년을 살며 우주를 홀로 다스린다. 예지로 앞일을 보고 스파이스를 손에 쥐고 있어, 백성들은 그를 신으로 섬긴다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262971982"
+      ]
+    },
+    {
+      "id": "golden_path",
+      "ko": "황금의 길",
+      "orig": "Golden Path",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·5권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "사건·시대",
+      "concepts": [
+        "long_plan"
+      ],
+      "one": "인류가 끊기지 않게 하려는 수천 년짜리 계획.",
+      "note": "신황제가 예지로 내다본 인류의 끝을 피하려고 걷는 길이다. 수천 년의 억압과 스파이스 통제, 핏줄 고르기를 거쳐 사람들이 끝내 우주로 흩어져 다시는 한꺼번에 사라지지 않게 하는 것이 그 끝이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview"
+      ]
+    },
+    {
+      "id": "fish_speakers",
+      "ko": "물고기 웅변대",
+      "orig": "Fish Speakers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 4·5권 본문 — 리디북스 미리보기에서 확인(4권 '물고기 웅변대 학교')",
+      "kind": "세력",
+      "concepts": [],
+      "one": "황제에게만 충성하는 여성 군대.",
+      "note": "여성으로만 이루어진 군대로, 4부의 제국에서 황제를 지키고 질서를 맡는다. 5부에서는 그 흔적이 남은 세력으로 다시 이름이 오르내린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001431/preview",
+        "https://ridibooks.com/books/682001430/preview"
+      ]
+    },
+    {
+      "id": "famine_times",
+      "ko": "기근 시대",
+      "orig": "Famine Times",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 5·6권 본문 — 리디북스 미리보기에서 확인('기근 시대와 대이동')",
+      "kind": "사건·시대",
+      "concepts": [
+        "empire_fall"
+      ],
+      "one": "신황제가 죽은 뒤 제국이 무너지고 굶주림이 덮친 시대.",
+      "note": "스파이스 공급이 무너지고 오랜 제국의 질서가 흩어지며 수많은 사람이 굶주린 시대다. 이 혼란 속에서 사람들이 알려진 우주 밖으로 떠나는 대이동이 일어난다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "scattering",
+      "ko": "대이동",
+      "orig": "Scattering",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 5·6권 본문 — 리디북스 미리보기에서 확인",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "사람들이 알려진 우주 밖으로 흩어져 나간 일.",
+      "note": "기근 시대에 수많은 사람이 끝을 알 수 없는 먼 우주로 떠나갔다. 수천 년 뒤 그 너머에서 낯선 세력들이 돌아오면서 5·6부의 다툼이 시작된다. 원어는 '흩어짐'에 가까운 말인데 정식판은 '대이동'으로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    },
+    {
+      "id": "honored_matres",
+      "ko": "명예의 어머니",
+      "orig": "Honored Matres",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 5·6권 본문 — 리디북스 미리보기에서 확인. 출판사 책 소개(알라딘)에도 같은 표기",
+      "kind": "세력",
+      "concepts": [],
+      "one": "대이동 너머에서 돌아온 사나운 여성 세력.",
+      "note": "흩어진 사람들 사이에서 자라나 옛 제국으로 돌아온 여성 집단이다. 이름부터 대모와 닮았지만, 폭력과 성적인 지배로 사람을 묶으며 베네 게세리트를 뿌리째 없애려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001430/preview",
+        "https://ridibooks.com/books/682001429/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=262972218"
+      ]
+    },
+    {
+      "id": "no_ship",
+      "ko": "비우주선",
+      "orig": "No-ship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 신장판(2021, 김승욱 옮김) 전자책 『듄 시리즈』 6권 본문 — 리디북스 미리보기에서 확인('비(非)우주선', '명예의 어머니들의 비우주선')",
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "탐지 장치에도 예지에도 잡히지 않는 우주선.",
+      "note": "어떤 탐지 장치로도 찾을 수 없고 예지로 내다볼 수도 없는 배다. 익스의 기술에서 나왔으며, 5·6부에서는 숨으려는 쪽과 찾으려는 쪽 모두에게 가장 귀한 물건이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001429/preview"
+      ]
+    }
+  ]
+}

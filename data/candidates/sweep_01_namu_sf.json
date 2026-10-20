@@ -1,0 +1,6071 @@
+{
+  "group": "sweep_01_namu_sf",
+  "candidates": [
+    {
+      "id": "giants_hogan",
+      "orig": "Inherit the Stars",
+      "orig_en": "",
+      "ko": "별의 계승자",
+      "ko_src": "교보문고(아작 2016)",
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "Inherit the Stars (1977) ~ Mission to Minerva (2005) 다섯 권, 호시노 유키노부 만화판",
+      "by": "James P. Hogan",
+      "year": 1977,
+      "country": "영국",
+      "setting": "달에서 5만 년 묵은 사람 시신이 나오고, 사라진 행성과 거인 종족의 내력이 풀려 간다.",
+      "concepts": [
+        "precursor",
+        "alien",
+        "elder_race",
+        "first_contact"
+      ],
+      "new_ideas": "과학 수사처럼 증거를 맞춰 인류의 기원을 밝혀 내는 이야기",
+      "lore_size": "중간",
+      "notability": "성운상 해외 장편 부문 수상(나무위키), 다섯 권 시리즈와 만화판",
+      "korean": {
+        "status": "있음",
+        "detail": "아작 2016~2022 다섯 권 모두(교보문고), 2009년 첫 번역(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001898689"
+      },
+      "borderline": false
+    },
+    {
+      "id": "thousand_worlds_martin",
+      "orig": "Thousand Worlds",
+      "orig_en": "",
+      "ko": "나이트플라이어",
+      "ko_src": "교보문고(은행나무 2018)",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Dying of the Light (1977), Sandkings (1979), Nightflyers (1980), Tuf Voyaging (1986) 등 — 영화 Nightflyers (1987), Syfy 드라마 (2018)",
+      "by": "George R. R. Martin",
+      "year": 1977,
+      "country": "미국",
+      "setting": "천 년 외계 전쟁으로 무너진 인류 연방 뒤, 서로 떨어진 수많은 식민 행성 사이를 배들이 오간다.",
+      "concepts": [
+        "empire_fall",
+        "colonization",
+        "alien",
+        "psionics",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나이트플라이어가 로커스상 중편·성운상 해외 단편 부문 수상(나무위키), 드라마화",
+      "korean": {
+        "status": "일부",
+        "detail": "나이트플라이어 은행나무 2018(교보문고), 1997 동명 영화는 다른 작품(스티븐 킹 원작), 드라마는 해외 넷플릭스 공개(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001918816"
+      },
+      "borderline": false
+    },
+    {
+      "id": "have_space_suit",
+      "orig": "Have Space Suit—Will Travel",
+      "orig_en": "",
+      "ko": "우주복 있음, 출장 가능",
+      "ko_src": "교보문고(아작 2016)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Have Space Suit—Will Travel (1958)",
+      "by": "Robert A. Heinlein",
+      "year": 1958,
+      "country": "미국",
+      "setting": "헌 우주복을 얻은 소년이 외계인에게 붙잡혀 달과 명왕성을 거쳐 인류를 재판하는 은하 법정에 선다.",
+      "concepts": [
+        "alien",
+        "humanity_test",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "하인라인 청소년 소설의 대표작, 휴고상 장편 후보(1959, 나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "아작 2016·2020(교보문고), 1996 한뜻출판사 '은하를 넘어서'(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001898685"
+      },
+      "borderline": false
+    },
+    {
+      "id": "last_and_first_idol",
+      "orig": "最後にして最初のアイドル",
+      "orig_en": "The Last and First Idol",
+      "ko": "최후이자 최초의 아이돌",
+      "ko_src": "교보문고(영상출판미디어 2025)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "最後にして最初のアイドル (2016), 같은 이름의 단편집 (2018)",
+      "by": "草野原々",
+      "year": 2016,
+      "country": "일본",
+      "setting": "아이돌이 되고 싶던 소녀의 꿈이 세포와 진화를 거쳐 우주 끝까지 번진다.",
+      "concepts": [
+        "next_human",
+        "ascension",
+        "merge"
+      ],
+      "new_ideas": "아이돌 문화를 우주 진화의 원리로 키워 낸 큰 규모의 SF",
+      "lore_size": "작음",
+      "notability": "데뷔작으로 성운상 일본 단편 부문 수상(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영상출판미디어 2025(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000218783332"
+      },
+      "borderline": false
+    },
+    {
+      "id": "manifold_baxter",
+      "orig": "Manifold",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Manifold: Time (1999), Space (2000), Origin (2001), Phase Space (2002)",
+      "by": "Stephen Baxter",
+      "year": 1999,
+      "country": "영국",
+      "setting": "같은 이름의 주인공이 세 개의 다른 우주에서 '왜 외계인은 보이지 않는가'에 각기 다른 답을 맞닥뜨린다.",
+      "concepts": [
+        "fermi",
+        "great_filter",
+        "alt_timeline",
+        "self_replicate"
+      ],
+      "new_ideas": "페르미 역설의 답을 권마다 바꿔 보는 구성",
+      "lore_size": "중간",
+      "notability": "페르미 역설을 다룬 대표 연작으로 꼽힘(나무위키 SF 소설 목록에 실림)",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 번역판 없음(백스터 책은 안티 아이스·타임십 등만 번역)",
+        "src": "https://search.kyobobook.co.kr/search?keyword=%EC%8A%A4%ED%8B%B0%EB%B8%90+%EB%B0%B1%EC%8A%A4%ED%84%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "worldwar_turtledove",
+      "orig": "Worldwar",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Worldwar 네 권 (1994~1996), Colonization 세 권 (1999~2001), Homeward Bound (2004)",
+      "by": "Harry Turtledove",
+      "year": 1994,
+      "country": "미국",
+      "setting": "2차 대전 한복판에 도마뱀 같은 외계 함대가 지구를 쳐들어오고, 뒤에는 인류가 그들의 고향 별까지 찾아간다.",
+      "concepts": [
+        "alien_invasion",
+        "alt_timeline",
+        "colonization",
+        "sublight"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "여덟 권 시리즈, 터틀도브의 대표 SF(나무위키 작가 문서)",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 번역판 없음(터틀도브는 비잔티움의 첩자·단편만 번역)",
+        "src": "https://namu.wiki/w/%ED%95%B4%EB%A6%AC%20%ED%84%B0%ED%8B%80%EB%8F%84%EB%B8%8C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "taiyofu_koten",
+      "orig": "太陽風交点",
+      "orig_en": "",
+      "ko": "태양풍교점",
+      "ko_src": "나무위키(고려원 세계 SF 걸작선 수록, 2차)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "太陽風交点 (1977 단편, 1979 단편집)",
+      "by": "堀晃",
+      "year": 1977,
+      "country": "일본",
+      "setting": "은하 변경에서 멸망한 문명의 유물을 쫓는, 태양계 바깥 우주를 무대로 한 하드 SF.",
+      "concepts": [
+        "precursor",
+        "sublight"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "단편집이 제1회 일본 SF 대상 수상(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "표제작만 고려원 '세계 SF 걸작선'(1992, 교보문고에 책 있음)에 수록(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%ED%83%9C%EC%96%91%ED%92%8D%EA%B5%90%EC%A0%90"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gor",
+      "orig": "Chronicles of Counter-Earth (Gor)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Tarnsman of Gor (1966) ~ 서른여덟 권 (2024), 영화 두 편 (1987·1988)",
+      "by": "John Norman",
+      "year": 1966,
+      "country": "미국",
+      "setting": "태양 반대편에 숨은 반지구 고르에서 사제왕들이 기술을 막아 두고, 칼과 노예의 사회가 이어진다.",
+      "concepts": [
+        "blade_return",
+        "godlike",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1966~2024년 서른여덟 권(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "5권·7권만 1970년대 모음사에서 다른 제목으로 나왔다고 함(나무위키, 2차), 지금은 절판",
+        "src": "https://namu.wiki/w/%EA%B3%A0%EB%A5%B4%20%EC%97%B0%EB%8C%80%EA%B8%B0"
+      },
+      "borderline": true
+    },
+    {
+      "id": "all_tomorrows",
+      "orig": "All Tomorrows",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "All Tomorrows (2006 인터넷 공개, 2025 정식 출간)",
+      "by": "C. M. Kösemen (Nemo Ramjet)",
+      "year": 2006,
+      "country": "튀르키예",
+      "setting": "화성을 개척하고 별로 퍼진 인류가 외계 종족에게 짓밟힌 뒤 십억 년 동안 수많은 모습으로 갈라져 진화한다.",
+      "concepts": [
+        "genetic_eng",
+        "alien",
+        "next_human",
+        "colonization"
+      ],
+      "new_ideas": "상상 진화 — 인류가 수많은 종으로 갈라지는 먼 미래",
+      "lore_size": "중간",
+      "notability": "인터넷에서 널리 알려진 상상 진화 그림책(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 번역판 없음",
+        "src": "https://namu.wiki/w/All%20Tomorrows"
+      },
+      "borderline": false
+    },
+    {
+      "id": "glasshouse_stross",
+      "orig": "Glasshouse",
+      "orig_en": "",
+      "ko": "유리감옥",
+      "ko_src": "교보문고(아작 2016)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Glasshouse (2006)",
+      "by": "Charles Stross",
+      "year": 2006,
+      "country": "영국",
+      "setting": "관문으로 우주를 건너고 몸과 기억을 갈아 끼우는 27세기, 옛 지구 생활을 흉내 낸 실험장에 사람들이 갇힌다.",
+      "concepts": [
+        "memory_edit",
+        "mind_upload",
+        "simulation",
+        "gate_network"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "프로메테우스상 수상(나무위키), 휴고상 장편 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "아작 2016(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001898691"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bloodchild",
+      "orig": "Bloodchild",
+      "orig_en": "",
+      "ko": "블러드 차일드",
+      "ko_src": "교보문고(비채 2016)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Bloodchild (1984 단편), 같은 이름의 단편집 (1995)",
+      "by": "Octavia E. Butler",
+      "year": 1984,
+      "country": "미국",
+      "setting": "지구를 떠나 외계 행성에 숨어 사는 사람들이 그 땅 종족의 알을 몸에 품어 주는 대가로 보호받는다.",
+      "concepts": [
+        "alien",
+        "parasite",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고·네뷸러·로커스상 단편 부문 삼관(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "단편집 비채 2016(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000597235"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wrinkle_in_time",
+      "orig": "A Wrinkle in Time",
+      "orig_en": "",
+      "ko": "시간의 주름",
+      "ko_src": "교보문고(문학과지성사 2001)",
+      "media": [
+        "소설",
+        "영화",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "Time Quintet 다섯 권 (1962~1989), TV 영화 (2003), 디즈니 영화 (2018)",
+      "by": "Madeleine L'Engle",
+      "year": 1962,
+      "country": "미국",
+      "setting": "아이들이 공간을 접어 건너는 법으로 다른 행성들을 넘나들며 우주를 뒤덮는 어둠과 맞선다.",
+      "concepts": [
+        "wormhole",
+        "galactic_threat",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "뉴베리상 수상(나무위키), 2018년 디즈니 영화화",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 문학과지성사 2001·속편 2015, 그래픽노블 이숲 2014(교보문고), 2018 영화 디즈니+(저스트워치 한국)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000568815"
+      },
+      "borderline": true
+    },
+    {
+      "id": "janissaries",
+      "orig": "Janissaries",
+      "orig_en": "",
+      "ko": "용병",
+      "ko_src": "교보문고(행복한책읽기 2017)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Janissaries (1979) ~ Mamelukes (2020) 네 권",
+      "by": "Jerry Pournelle",
+      "year": 1979,
+      "country": "미국",
+      "setting": "전투에서 몰리던 미군 용병들이 비행접시에 실려 외계인이 다스리는 행성 트란에 가서 그곳 전쟁에 쓰인다.",
+      "concepts": [
+        "alien",
+        "colonization",
+        "blade_return"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "퍼넬의 밀리터리 SF 연작 네 권(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1권만 '용병'으로 나경문화 1993·행복한책읽기 2017(교보문고, 나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001427868"
+      },
+      "borderline": false
+    },
+    {
+      "id": "illustrated_man",
+      "orig": "The Illustrated Man",
+      "orig_en": "",
+      "ko": "일러스트레이티드 맨",
+      "ko_src": "교보문고(황금가지 2010)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Illustrated Man (1951) 단편집 — 영화 (1969)",
+      "by": "Ray Bradbury",
+      "year": 1951,
+      "country": "미국",
+      "setting": "온몸의 문신이 저마다 움직이며 로켓과 화성, 다른 행성의 미래 이야기를 보여 준다.",
+      "concepts": [
+        "colonization",
+        "catastrophe",
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "브래드버리 대표 단편집, 1969년 영화화",
+      "korean": {
+        "status": "있음",
+        "detail": "황금가지 2010(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000919854"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cold_equations",
+      "orig": "The Cold Equations",
+      "orig_en": "",
+      "ko": "차가운 방정식",
+      "ko_src": "나무위키(오멜라스 'SF 명예의 전당 1' 수록, 2차)",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "The Cold Equations (1954 단편) — 환상특급 (1989)·TV 영화 (1996)",
+      "by": "Tom Godwin",
+      "year": 1954,
+      "country": "미국",
+      "setting": "연료 계산이 빠듯한 구급 우주선에 몰래 탄 소녀를 살릴 방법이 물리 법칙상 없다.",
+      "concepts": [
+        "sublight",
+        "colonization"
+      ],
+      "new_ideas": "물리 법칙의 냉정함이 곧 비극이 되는 이야기",
+      "lore_size": "작음",
+      "notability": "SF 명예의 전당 수록 단편",
+      "korean": {
+        "status": "있음",
+        "detail": "'SF 명예의 전당 1: 전설의 밤'(오멜라스 2010, 교보문고에 책 있음)에 수록(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%B0%A8%EA%B0%80%EC%9A%B4%20%EB%B0%A9%EC%A0%95%EC%8B%9D"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kirinyaga",
+      "orig": "Kirinyaga",
+      "orig_en": "",
+      "ko": "키리냐가",
+      "ko_src": "교보문고(열린책들 2000·2010)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Kirinyaga: A Fable of Utopia (1998) 연작 단편집 (1988~1996)",
+      "by": "Mike Resnick",
+      "year": 1988,
+      "country": "미국",
+      "setting": "키쿠유 부족의 옛 삶을 지키려 테라포밍한 작은 인공 행성에서 늙은 주술사가 바뀌는 세상을 막으려 한다.",
+      "concepts": [
+        "terraforming",
+        "habitat",
+        "ai"
+      ],
+      "new_ideas": "옛 문화를 그대로 지키려 만든 인공 세계",
+      "lore_size": "작음",
+      "notability": "휴고상 단편 부문 수상, 성운상 해외 장편 부문 수상(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "열린책들 2000·2010(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000581449"
+      },
+      "borderline": false
+    },
+    {
+      "id": "under_the_skin",
+      "orig": "Under the Skin",
+      "orig_en": "",
+      "ko": "언더 더 스킨",
+      "ko_src": "교보문고(문학수첩 2014)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Under the Skin (2000) — 영화 (2013)",
+      "by": "Michel Faber",
+      "year": 2000,
+      "country": "네덜란드",
+      "setting": "사람 모습으로 몸을 고친 외계인이 스코틀랜드 길에서 남자들을 태워 고기로 실어 간다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 2013년 조너선 글레이저 영화화, 평단 극찬(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 문학수첩 2014(교보문고), 영화 웨이브(저스트워치 한국)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001296739"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silver_globe",
+      "orig": "Trylogia księżycowa",
+      "orig_en": "The Lunar Trilogy",
+      "ko": "은빛 지구",
+      "ko_src": "KOBIS(영화)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Na srebrnym globie (1903) 등 3부작 — 영화 Na srebrnym globie (1987)",
+      "by": "Jerzy Żuławski",
+      "year": 1903,
+      "country": "폴란드",
+      "setting": "달에 내린 우주인들의 후손이 신화와 종교를 이루고, 지구에서 온 사람이 구원자로 떠받들린다.",
+      "concepts": [
+        "colonization",
+        "techno_religion",
+        "prophecy"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "폴란드 SF 고전, 안제이 줄랍스키 영화가 칸 영화제 주목할 만한 시선 개막작(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "영화가 KOBIS 에 '은빛 지구'로 등록(개봉 표시 없음), 소설 번역은 교보문고에 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9D%80%EB%B9%9B%20%EC%A7%80%EA%B5%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spaceman_of_bohemia",
+      "orig": "Spaceman of Bohemia",
+      "orig_en": "",
+      "ko": "보헤미아 우주인",
+      "ko_src": "교보문고(알에이치코리아 2018)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Spaceman of Bohemia (2017) — 넷플릭스 영화 Spaceman (2024)",
+      "by": "Jaroslav Kalfař",
+      "year": 2017,
+      "country": "체코",
+      "setting": "혼자 목성 근처 먼지 구름을 조사하러 간 체코 우주인 곁에 거미 모양 외계인이 나타난다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2024년 넷플릭스 영화화(애덤 샌들러 주연)",
+      "korean": {
+        "status": "있음",
+        "detail": "알에이치코리아 2018(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000478904"
+      },
+      "borderline": false
+    },
+    {
+      "id": "shanghai_fortress",
+      "orig": "上海堡垒",
+      "orig_en": "Shanghai Fortress",
+      "ko": "상해보루",
+      "ko_src": "나무위키(넷플릭스 2019 공개, 2차)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "上海堡垒 (2009) — 영화 (2019)",
+      "by": "江南",
+      "year": 2009,
+      "country": "중국",
+      "setting": "에너지를 노린 외계 세력에 맞서 상하이가 인류의 마지막 요새가 된 근미래.",
+      "concepts": [
+        "alien_invasion",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 2019년 대작 영화화, 흥행 실패와 논란으로도 알려짐(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 넷플릭스 2019년 9월 공개(나무위키, 2차), 지금은 저스트워치 한국에 볼 곳 없음",
+        "src": "https://namu.wiki/w/%EC%83%81%ED%95%B4%EB%B3%B4%EB%A3%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "midnight_sky",
+      "orig": "Good Morning, Midnight",
+      "orig_en": "The Midnight Sky",
+      "ko": "굿모닝 미드나이트",
+      "ko_src": "교보문고(시공사 2019)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Good Morning, Midnight (2016) — 넷플릭스 영화 The Midnight Sky (2020)",
+      "by": "Lily Brooks-Dalton",
+      "year": 2016,
+      "country": "미국",
+      "setting": "재앙 뒤 북극에 홀로 남은 과학자가 목성 위성에서 돌아오는 우주선에 지구로 오지 말라고 알리려 한다.",
+      "concepts": [
+        "catastrophe",
+        "earth_left",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2020년 넷플릭스 영화화(조지 클루니 감독·주연)",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 시공사 2019(교보문고), 영화 '미드나이트 스카이' 넷플릭스 공개(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000730793"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kachikujin_yapoo",
+      "orig": "家畜人ヤプー",
+      "orig_en": "Yapoo the Human Cattle",
+      "ko": "가축인 야푸",
+      "ko_src": "교보문고(현인 2025)",
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "家畜人ヤプー (1956~ 연재) — 만화화",
+      "by": "沼正三",
+      "year": 1956,
+      "country": "일본",
+      "setting": "먼 미래 백인 우주 제국에서 일본인의 후손이 가축과 도구로 개조되어 쓰이고, 그 제국의 배가 과거로 찾아온다.",
+      "concepts": [
+        "galactic_empire",
+        "genetic_eng",
+        "class_divide",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "전후 일본의 문제작으로 꼽힘(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "초판 연재분 절반만 현인 2025(교보문고, 나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000216090547"
+      },
+      "borderline": true
+    },
+    {
+      "id": "saber_marionette",
+      "orig": "セイバーマリオネット",
+      "orig_en": "Saber Marionette",
+      "ko": "세이버 마리오넷 J",
+      "ko_src": "교보문고(대원 2000 만화판)",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "セイバーマリオネット (1995~) 소설·만화, 애니메이션 R (1995)·J (1996)·J to X (1998)",
+      "by": "あかほりさとる",
+      "year": 1995,
+      "country": "일본",
+      "setting": "여자가 한 명도 없는 개척 행성 테라 II 에서 남자들이 여자 모양 인형을 만들어 부린다.",
+      "concepts": [
+        "android",
+        "colonization",
+        "clone",
+        "infertility"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "소설·OVA·TV 애니메이션 여러 편(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "'세이버 마리오넷 J' 대원 2000 다섯 권(교보문고), 애니메이션 정식 공개는 확인 못 함",
+        "src": "https://product.kyobobook.co.kr/detail/S000000042366"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tylor",
+      "orig": "宇宙一の無責任男",
+      "orig_en": "The Irresponsible Captain Tylor",
+      "ko": "무책임 함장 테일러",
+      "ko_src": "라프텔",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "宇宙一の無責任男 (1989~) 소설 — TV 애니메이션 無責任艦長タイラー (1993)·OVA",
+      "by": "吉岡平",
+      "year": 1989,
+      "country": "일본",
+      "setting": "얼렁뚱땅 함장이 된 남자가 낡은 구축함을 이끌고 외계 제국과의 전쟁을 엉뚱하게 헤쳐 간다.",
+      "concepts": [
+        "fleet_battle",
+        "galactic_empire",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "소설·TV·OVA, SBS·투니버스 방영(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 라프텔, 외전 만화 서울문화사 2005(교보문고), 원작 소설 번역은 확인 못 함",
+        "src": "https://laftel.net/item/16750"
+      },
+      "borderline": false
+    },
+    {
+      "id": "yamamoto_yoko",
+      "orig": "宇宙戦艦ヤマモト・ヨーコ",
+      "orig_en": "Starship Girl Yamamoto Yohko",
+      "ko": "가자! 우주전함 야마모토 요코",
+      "ko_src": "라프텔",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "소설 (1993~2013), OVA (1996~1997)·TV (1999), 만화",
+      "by": "庄司卓",
+      "year": 1993,
+      "country": "일본",
+      "setting": "먼 미래 우주 함대가 전쟁 대신 겨루는 가상 전함 시합에 20세기 여고생들이 조종사로 불려 간다.",
+      "concepts": [
+        "fleet_battle",
+        "time_travel",
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "소설·OVA·TV 애니메이션(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "TV 애니메이션 라프텔, 만화판 대원씨아이 2002 정발(나무위키, 2차), 소설은 미발간(나무위키)",
+        "src": "https://laftel.net/item/17633"
+      },
+      "borderline": false
+    },
+    {
+      "id": "akutoku_ryoshu",
+      "orig": "俺は星間国家の悪徳領主！",
+      "orig_en": "I'm the Evil Lord of an Intergalactic Empire!",
+      "ko": "나는 성간 국가의 악덕 영주!",
+      "ko_src": "교보문고(소미미디어)",
+      "media": [
+        "소설",
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "웹 연재 (2018~), 라이트 노벨 (2020~), 만화, 애니메이션 (2025)",
+      "by": "三嶋与夢",
+      "year": 2018,
+      "country": "일본",
+      "setting": "은하 제국의 귀족 집안에 다시 태어난 남자가 악덕 영주가 되려 하지만 하는 일마다 영지를 살린다.",
+      "concepts": [
+        "galactic_empire",
+        "feudal_space",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "라이트 노벨 열 권 넘게, 2025년 애니메이션화",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 소미미디어(교보문고), 애니메이션 라프텔·왓챠·티빙(저스트워치 한국)",
+        "src": "https://product.kyobobook.co.kr/detail/S000218358456"
+      },
+      "borderline": true
+    },
+    {
+      "id": "lost_universe",
+      "orig": "ロスト・ユニバース",
+      "orig_en": "Lost Universe",
+      "ko": "로스트 유니버스",
+      "ko_src": "라프텔",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설 다섯 권 (1992~1999) — TV 애니메이션 (1998)",
+      "by": "神坂一",
+      "year": 1992,
+      "country": "일본",
+      "setting": "인류가 우주를 개척한 2500년, 해결사와 옛 전함의 인공지능이 우주 범죄 조직과 싸운다.",
+      "concepts": [
+        "ai",
+        "precursor",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "슬레이어즈 작가의 SF 시리즈, TV 애니메이션화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 라프텔, 소설 정발 없음(나무위키)",
+        "src": "https://laftel.net/item/17278"
+      },
+      "borderline": false
+    },
+    {
+      "id": "twinstar",
+      "orig": "ツインスター・サイクロン・ランナウェイ",
+      "orig_en": "Twinstar Cyclone Runaway",
+      "ko": "트윈스타 사이클론 런어웨이",
+      "ko_src": "교보문고(데이즈엔터·코믹 레인 2025)",
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "단편 (2019) → 장편 (2020~2025), 만화",
+      "by": "小川一水",
+      "year": 2019,
+      "country": "일본",
+      "setting": "인류가 우주로 나간 지 6천 년, 거대 가스 행성에서 물고기 같은 생물을 낚는 어부 두 여자가 짝을 이룬다.",
+      "concepts": [
+        "alien_ecology",
+        "spacers",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "오가와 잇스이 시리즈(나무위키 수상 절)",
+      "korean": {
+        "status": "있음",
+        "detail": "데이즈엔터 2025(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000216515196"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starship_operators",
+      "orig": "スターシップ・オペレーターズ",
+      "orig_en": "Starship Operators",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설 (2001~2005), TV 애니메이션 (2005)",
+      "by": "水野良",
+      "year": 2001,
+      "country": "일본",
+      "setting": "조국이 항복하자 사관 후보생들이 전함 한 척으로 계속 싸우며, 전쟁을 방송사에 중계권으로 판다.",
+      "concepts": [
+        "fleet_battle",
+        "galactic_empire"
+      ],
+      "new_ideas": "우주 전쟁을 생중계 쇼로 팔아 전쟁 비용을 대기",
+      "lore_size": "작음",
+      "notability": "TV 애니메이션화(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "소설 정발 안 됨(나무위키), 애니메이션 정식 공개는 저스트워치 한국에 없음",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%83%80%EC%89%BD%20%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%A6%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "yakitori",
+      "orig": "ヤキトリ",
+      "orig_en": "Yakitori: Soldiers of Misfortune",
+      "ko": "야키토리",
+      "ko_src": "교보문고(소미미디어 2022)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "소설 (2017~), 애니메이션 (2023)",
+      "by": "カルロ・ゼン",
+      "year": 2017,
+      "country": "일본",
+      "setting": "다른 별 주민의 노예가 된 지구 인류의 청년들이 궤도 보병 '야키토리'로 팔려 행성에 떨어진다.",
+      "concepts": [
+        "orbital_drop",
+        "alien",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "유녀전기 작가의 소설, 2023년 애니메이션화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 1·2권 소미미디어 2022(교보문고), 애니메이션 넷플릭스(저스트워치 한국)",
+        "src": "https://product.kyobobook.co.kr/detail/S000061897084"
+      },
+      "borderline": false
+    },
+    {
+      "id": "queen_of_mars",
+      "orig": "火星の女王",
+      "orig_en": "Queen of Mars",
+      "ko": "화성의 여왕",
+      "ko_src": "저스트워치 한국(웨이브·왓챠·티빙)",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "火星の女王 (2025) — NHK 드라마 (2025, 3편)",
+      "by": "小川哲",
+      "year": 2025,
+      "country": "일본",
+      "setting": "인류가 화성으로 옮겨 간 지 40년, 화성에서 나온 미지의 물질을 두고 지구와 화성 사람들이 얽힌다.",
+      "concepts": [
+        "colonization",
+        "spacers",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "NHK 100주년 기념 드라마(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "드라마 웨이브·왓챠·티빙(저스트워치 한국), 소설 번역은 교보문고에 없음",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/hwaseongyi-yeowang"
+      },
+      "borderline": false
+    },
+    {
+      "id": "end_of_an_era",
+      "orig": "End of an Era",
+      "orig_en": "",
+      "ko": "멸종",
+      "ko_src": "교보문고(오멜라스 2009)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "End of an Era (1994)",
+      "by": "Robert J. Sawyer",
+      "year": 1994,
+      "country": "캐나다",
+      "setting": "시간 기계로 백악기에 간 두 과학자가 공룡 몸에 깃든 화성의 바이러스 지성체를 만난다.",
+      "concepts": [
+        "time_travel",
+        "alien",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "성운상 해외 장편 부문 수상(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "오멜라스 2009(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000403752"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orbital_harvey",
+      "orig": "Orbital",
+      "orig_en": "",
+      "ko": "궤도",
+      "ko_src": "교보문고(서해문집 2025)",
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Orbital (2023)",
+      "by": "Samantha Harvey",
+      "year": 2023,
+      "country": "영국",
+      "setting": "지구 궤도를 도는 우주 정거장의 여섯 비행사가 하루 열여섯 번 해돋이를 보며 지구를 내려다본다.",
+      "concepts": [
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "부커상 수상(2024, 나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "서해문집 2025(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000216819592"
+      },
+      "borderline": false
+    },
+    {
+      "id": "genma_taisen",
+      "orig": "幻魔大戦",
+      "orig_en": "Harmagedon",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 幻魔大戦 (1967), 히라이 가즈마사 소설 (1979~), 애니메이션 영화 (1983), 만화·소설 여러 판",
+      "by": "平井和正, 石ノ森章太郎",
+      "year": 1967,
+      "country": "일본",
+      "setting": "은하를 삼켜 온 파괴자 겐마가 지구에 이르자, 외계 공주와 사이보그가 지구의 초능력자들을 모은다.",
+      "concepts": [
+        "galactic_threat",
+        "psionics",
+        "cyborg",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "[우주 경계] 이시노모리의 대작으로 꼽힘, 1983년 린 타로 애니메이션 영화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1983 애니메이션이 80년대 '베가'·90년대 '소년 초능력자'로 비디오 출시(나무위키, 2차), 만화·소설 정발은 확인 못 함",
+        "src": "https://namu.wiki/w/%ED%99%98%EB%A7%88%EB%8C%80%EC%A0%84"
+      },
+      "borderline": false
+    },
+    {
+      "id": "resident_alien",
+      "orig": "Resident Alien",
+      "orig_en": "",
+      "ko": "레지던트 에이리언",
+      "ko_src": "저스트워치 한국(넷플릭스)",
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "만화 Resident Alien (Dark Horse 2012~) — Syfy 드라마 (2021~2025, 네 시즌)",
+      "by": "Peter Hogan, Steve Parkhouse (만화), Chris Sheridan (드라마)",
+      "year": 2012,
+      "country": "미국",
+      "setting": "인류를 없애러 왔다가 불시착한 외계인이 콜로라도 산골 마을 의사 행세를 하며 살인 사건을 쫓는다.",
+      "concepts": [
+        "alien",
+        "impostor",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 드라마 네 시즌, 로튼 토마토 93%(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "드라마 넷플릭스(저스트워치 한국), 2021년 웨이브 독점 공개(나무위키), 만화는 확인 못 함",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/rejideonteu-eilrieon"
+      },
+      "borderline": false
+    },
+    {
+      "id": "emon_21",
+      "orig": "21エモン",
+      "orig_en": "21-Emon",
+      "ko": "21에몬",
+      "ko_src": "라프텔",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1968~1969), 애니메이션 영화 (1981), TV 애니메이션 (1991~1992, 39화)",
+      "by": "藤子・F・不二雄",
+      "year": 1968,
+      "country": "일본",
+      "setting": "성간 연합에 들어 우주 관광지가 된 21세기 도쿄에서 낡은 호텔집 아들이 외계 손님을 맞으며 우주를 꿈꾼다.",
+      "concepts": [
+        "alien",
+        "federation",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "후지코 F. 후지오 만화, 영화·TV 애니메이션화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "TV 애니메이션 라프텔, 만화 정발은 교보문고에 없음",
+        "src": "https://laftel.net/item/15621"
+      },
+      "borderline": false
+    },
+    {
+      "id": "abc_warriors",
+      "orig": "ABC Warriors",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "2000 AD 연재 (1979~)",
+      "by": "Pat Mills, Kevin O'Neill 외",
+      "year": 1979,
+      "country": "영국",
+      "setting": "핵·세균·화학 무기에도 끄떡없는 전쟁 로봇 일곱이 외계 침략군과 싸우고, 화성 개척지 전쟁에 뛰어든다.",
+      "concepts": [
+        "robot",
+        "ai",
+        "alien_invasion",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영국 2000 AD 의 장수 연재작(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 번역판 없음",
+        "src": "https://namu.wiki/w/ABC%20%EC%9B%8C%EB%A6%AC%EC%96%B4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nemesis_the_warlock",
+      "orig": "Nemesis the Warlock",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "2000 AD 연재 (1980~1999)",
+      "by": "Pat Mills, Kevin O'Neill",
+      "year": 1980,
+      "country": "영국",
+      "setting": "모든 외계인을 쓸어 내려는 먼 미래 지구 제국 터마이트와, 그에 맞서는 외계 마법사의 싸움.",
+      "concepts": [
+        "galactic_empire",
+        "alien",
+        "ideology_split"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2000 AD 대표작 가운데 하나(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 번역판 없음",
+        "src": "https://namu.wiki/w/%EB%84%A4%EB%A9%94%EC%8B%9C%EC%8A%A4%20%EB%8D%94%20%EC%9B%8C%EB%9D%BD"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dandadan",
+      "orig": "ダンダダン",
+      "orig_en": "Dandadan",
+      "ko": "단다단",
+      "ko_src": "교보문고(대원씨아이)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (소년 점프+ 2021~), TV 애니메이션 (2024~)",
+      "by": "龍幸伸",
+      "year": 2021,
+      "country": "일본",
+      "setting": "유령을 믿는 소녀와 외계인을 믿는 소년이 요괴와 여러 외계 종족에게 한꺼번에 휘말린다.",
+      "concepts": [
+        "alien",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 소년 점프+ 간판작, TV 애니메이션 두 기(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 대원씨아이(교보문고), 애니메이션 라프텔·넷플릭스 등(저스트워치 한국)",
+        "src": "https://laftel.net/item/42430"
+      },
+      "borderline": true
+    },
+    {
+      "id": "dededede",
+      "orig": "デッドデッドデーモンズデデデデデストラクション",
+      "orig_en": "Dead Dead Demons Dededede Destruction",
+      "ko": "데드데드 데몬즈 디디디디 디스트럭션",
+      "ko_src": "교보문고(서울미디어코믹스)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2014~2022, 12권), 애니메이션 영화 두 편 (2024), 웹 시리즈",
+      "by": "浅野いにお",
+      "year": 2014,
+      "country": "일본",
+      "setting": "거대한 외계 모함이 도쿄 하늘에 멈춰 선 지 3년, 종말이 일상이 된 도시에서 두 여고생이 청춘을 보낸다.",
+      "concepts": [
+        "alien_invasion",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 단행본 12권, 애니메이션 영화 두 편과 웹 시리즈(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 서울미디어코믹스 2024(교보문고), 영화 두 편 국내 개봉(KOBIS), 라프텔",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%8D%B0%EB%93%9C%EB%8D%B0%EB%93%9C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dragon_ball",
+      "orig": "ドラゴンボール",
+      "orig_en": "Dragon Ball",
+      "ko": "드래곤볼",
+      "ko_src": "교보문고(서울미디어코믹스)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1984~1995), 드래곤볼 슈퍼 (2015~), TV 애니메이션·극장판 여럿, 게임 여럿",
+      "by": "鳥山明",
+      "year": 1984,
+      "country": "일본",
+      "setting": "외계에서 온 전투 종족의 아이가 지구에서 자라, 행성을 사고파는 우주 제국과 다른 별의 강자들에 맞선다.",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "android",
+        "time_travel",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "연재 뒤 드래곤볼 슈퍼까지 이어지고 TV 애니메이션·극장판·게임이 다수 나온 대표작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 서울미디어코믹스(교보문고), 애니메이션 라프텔·왓챠·티빙, 극장판 개봉(KOBIS)",
+        "src": "https://product.kyobobook.co.kr/detail/S000211352610"
+      },
+      "borderline": true
+    },
+    {
+      "id": "mahoromatic",
+      "orig": "まほろまてぃっく",
+      "orig_en": "Mahoromatic",
+      "ko": "마호로매틱",
+      "ko_src": "라프텔",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1998~2004), TV 애니메이션 두 기 (2001~2003)",
+      "by": "中山文十郎, ぢたま某",
+      "year": 1998,
+      "country": "일본",
+      "setting": "외계인 침략에 맞서던 전투용 인조인간이 수명이 다해 가는 몸으로 중학생 집 가정부가 된다.",
+      "concepts": [
+        "android",
+        "alien_invasion",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] TV 애니메이션 두 기(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 라프텔·시넥서스 방영(나무위키), 만화 정발은 교보문고에서 찾지 못함",
+        "src": "https://laftel.net/item/16134"
+      },
+      "borderline": false
+    },
+    {
+      "id": "venus_wars",
+      "orig": "ヴイナス戦記",
+      "orig_en": "Venus Wars",
+      "ko": "비너스 전기",
+      "ko_src": "라프텔",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1987~1990), 애니메이션 영화 (1989)",
+      "by": "安彦良和",
+      "year": 1987,
+      "country": "일본",
+      "setting": "얼음 소행성이 부딪혀 사람이 살 수 있게 된 금성에서 개척민 나라들이 전쟁을 벌이고, 소년들이 바이크로 맞선다.",
+      "concepts": [
+        "terraforming",
+        "colonization",
+        "colonial_war"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "야스히코 요시카즈 감독·원작 애니메이션 영화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "애니메이션 영화 라프텔, 1990 SKC 비디오 '용사 하운드'·투니버스 방영(나무위키)",
+        "src": "https://laftel.net/item/14858"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jyu_oh_sei",
+      "orig": "獣王星",
+      "orig_en": "Jyu-Oh-Sei",
+      "ko": "수왕성",
+      "ko_src": "교보문고(대원씨아이)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1993~2003), 애니메이션 (2006)",
+      "by": "樹なつみ",
+      "year": 1993,
+      "country": "일본",
+      "setting": "150광년 밖 성계로 옮겨 간 인류, 아버지를 잃은 쌍둥이가 맹수 같은 식물이 사는 죄수 행성에 버려진다.",
+      "concepts": [
+        "colonization",
+        "alien_ecology",
+        "single_biome"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "노이타미나 애니메이션화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 대원씨아이 2000(교보문고), 애니메이션 라프텔·애니맥스 더빙(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000735988"
+      },
+      "borderline": false
+    },
+    {
+      "id": "snowball_earth",
+      "orig": "スノウボールアース",
+      "orig_en": "Snowball Earth",
+      "ko": "스노우볼 어스",
+      "ko_src": "교보문고(와이엔케이미디어)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2021~), TV 애니메이션 (2026)",
+      "by": "辻次夕日郎",
+      "year": 2021,
+      "country": "일본",
+      "setting": "우주 괴수와 싸우고 10년 만에 돌아온 소년과 거대 로봇이 얼음에 뒤덮인 지구를 만난다.",
+      "concepts": [
+        "space_beast",
+        "mecha",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2026년 TV 애니메이션화",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 와이엔케이미디어 2026(교보문고), 애니메이션 라프텔·넷플릭스(저스트워치 한국)",
+        "src": "https://product.kyobobook.co.kr/detail/S000219924453"
+      },
+      "borderline": false
+    },
+    {
+      "id": "remina",
+      "orig": "地獄星レミナ",
+      "orig_en": "Remina",
+      "ko": "지옥별 레미나",
+      "ko_src": "교보문고(시공사 2010)",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "地獄星レミナ (2004~2005)",
+      "by": "伊藤潤二",
+      "year": 2004,
+      "country": "일본",
+      "setting": "웜홀에서 나타난 떠돌이 행성이 별들을 먹어 치우며 지구로 다가온다.",
+      "concepts": [
+        "living_planet",
+        "wormhole",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 이토 준지의 가장 큰 규모 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "시공사 2010(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000732310"
+      },
+      "borderline": false
+    },
+    {
+      "id": "locke_the_superman",
+      "orig": "超人ロック",
+      "orig_en": "Locke the Superman",
+      "ko": "초인로크",
+      "ko_src": "교보문고(시공사 2003)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "동인지 (1967~) → 연재 (1979~2022), 애니메이션 영화 (1984)·OVA",
+      "by": "聖悠紀",
+      "year": 1967,
+      "country": "일본",
+      "setting": "은하 연방 시대 수천 년을 늙지 않고 살아온 초능력자가 우주의 전쟁과 음모에 거듭 끼어든다.",
+      "concepts": [
+        "psionics",
+        "longevity",
+        "federation",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "작가가 평생 그린 반세기 연재(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 시공사 2003(교보문고), 1988 KBS 극장판 방영(나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000729924"
+      },
+      "borderline": false
+    },
+    {
+      "id": "freezing",
+      "orig": "フリージング",
+      "orig_en": "Freezing",
+      "ko": "프리징",
+      "ko_src": "라프텔",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2007~), TV 애니메이션 두 기 (2011·2013)",
+      "by": "임달영, 김광현",
+      "year": 2007,
+      "country": "일본",
+      "setting": "이차원에서 온 침략체 노바에 맞서 몸을 고친 소녀 병사들이 학교에서 길러진다.",
+      "concepts": [
+        "alien_invasion",
+        "super_soldier",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 한국 작가가 일본에서 연재한 만화, 애니메이션 두 기(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 학산문화사 14권까지·완전판 전자책(교보문고), 애니메이션 라프텔",
+        "src": "https://laftel.net/item/21187"
+      },
+      "borderline": false
+    },
+    {
+      "id": "edens_zero",
+      "orig": "EDENS ZERO",
+      "orig_en": "",
+      "ko": "에덴즈 제로",
+      "ko_src": "교보문고(학산문화사)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2018~2024, 33권), TV 애니메이션 두 기, 게임",
+      "by": "真島ヒロ",
+      "year": 2018,
+      "country": "일본",
+      "setting": "로봇만 남은 놀이공원 행성의 소년이 우주선을 타고 우주의 여신을 찾아 별들을 떠돈다.",
+      "concepts": [
+        "ai",
+        "robot",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "페어리 테일 작가의 우주 배경 후속작, 애니메이션 두 기(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 학산문화사(교보문고), 애니메이션 라프텔",
+        "src": "https://product.kyobobook.co.kr/detail/S000215753581"
+      },
+      "borderline": true
+    },
+    {
+      "id": "space_king_kr",
+      "orig": "스페이스 킹",
+      "orig_en": "",
+      "ko": "스페이스 킹",
+      "ko_src": "한국 원작",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "웹툰 스페이스 킹 (2012~2016)",
+      "by": "박성용",
+      "year": 2012,
+      "country": "한국",
+      "setting": "은하 제국의 식민지가 된 지 60년, 변방 행성 지구 출신 일행이 은하 대통령 선거에 나간다.",
+      "concepts": [
+        "galactic_empire",
+        "alien",
+        "colonial_war"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나무위키 SF 만화 목록 한국 편에 실린 스페이스 오페라 웹툰",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 웹툰(나무위키)",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%82%B9%28%EC%9B%B9%ED%88%B0%29"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jiguinipnida",
+      "orig": "지구인입니다",
+      "orig_en": "",
+      "ko": "지구인입니다",
+      "ko_src": "한국 원작",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "웹툰 지구인입니다 (네이버 베스트 도전, 1부 85화 2017), 같은 세계의 '별들과 우주의 별들' 등",
+      "by": "꿀1sp",
+      "year": 2014,
+      "country": "한국",
+      "setting": "지구를 떠나려던 날 외계인에게 붙잡힌 고등학생이 자신이 행성과 이어진 존재임을 알게 된다.",
+      "concepts": [
+        "alien",
+        "living_planet"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나무위키 SF 만화 목록 한국 편에 실린 스페이스 오페라 웹툰",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "네이버 웹툰 베스트 도전(나무위키)",
+        "src": "https://namu.wiki/w/%EC%A7%80%EA%B5%AC%EC%9D%B8%EC%9E%85%EB%8B%88%EB%8B%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "eunha_webtoon",
+      "orig": "은하!",
+      "orig_en": "",
+      "ko": "은하!",
+      "ko_src": "한국 원작",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "웹툰 은하! (원작 2009~, 리메이크 2016~, 네이버 시리즈)",
+      "by": "그리폰",
+      "year": 2009,
+      "country": "한국",
+      "setting": "전쟁 제국에 멸망한 지구에서 구출된 소녀가 은하 연맹의 외계 행성에서 자라 우주의 위기에 맞선다.",
+      "concepts": [
+        "galactic_empire",
+        "federation",
+        "alien",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나무위키 SF 만화 목록 한국 편에 실린 스페이스 오페라 웹툰",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "네이버 시리즈 연재(나무위키)",
+        "src": "https://namu.wiki/w/%EC%9D%80%ED%95%98%21"
+      },
+      "borderline": false
+    },
+    {
+      "id": "carlvinson",
+      "orig": "宇宙家族カールビンソン",
+      "orig_en": "Space Family Carlvinson",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1983~), OVA (1988)",
+      "by": "あさりよしとお",
+      "year": 1983,
+      "country": "일본",
+      "setting": "우주선 사고로 부모를 잃은 아기를 떠돌이 우주 극단 사람들이 가족처럼 키운다.",
+      "concepts": [
+        "alien",
+        "flotilla"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아사리 요시토 대표작(나무위키), OVA 화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "교보문고·라프텔에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%86%8C%EB%85%84%EC%BA%A1%ED%8B%B4%20%EC%9A%B0%EC%A3%BC%EA%B0%80%EC%A1%B1%20%EC%B9%BC%EB%B9%88%EC%8A%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_yokoyama",
+      "orig": "マーズ",
+      "orig_en": "Mars",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1976~1977) — 애니메이션 六神合体ゴッドマーズ (1981) 는 따로 세움, OVA (1994), TV 新世紀伝マーズ (2002)",
+      "by": "横山光輝",
+      "year": 1976,
+      "country": "일본",
+      "setting": "외계 문명이 지구를 지켜보려 남긴 소년이 깨어나고, 인류를 없앨 여섯 신체가 하나씩 나타난다.",
+      "concepts": [
+        "alien",
+        "humanity_test",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 충격적인 결말로 알려진 요코야마 미쓰테루 만화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "'외계인 마즈'로 발매, OVA 가 1996년 '초음전사 마즈' 더빙 비디오로 출시(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EB%A7%88%EC%A6%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "magma_taishi",
+      "orig": "マグマ大使",
+      "orig_en": "Ambassador Magma",
+      "ko": "마그마대사",
+      "ko_src": "교보문고(학산문화사 전자책)",
+      "media": [
+        "만화",
+        "드라마",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1965~1967), 특촬 드라마 (1966~1967), OVA (1992~1993)",
+      "by": "手塚治虫",
+      "year": 1965,
+      "country": "일본",
+      "setting": "지구를 노리는 우주의 침략자 고아에 맞서 땅의 신이 만든 로켓 인간 가족이 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 일본 첫 전편 컬러 특촬 드라마(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 학산문화사 전자책(교보문고), OVA 1995 더빙 비디오(나무위키, 2차)",
+        "src": "https://product.kyobobook.co.kr/detail/E000003370979"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cyber_blue",
+      "orig": "サイバーブルー",
+      "orig_en": "Cyber Blue",
+      "ko": "사이버 블루",
+      "ko_src": "교보문고(학산문화사 2020~2021)",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "サイバーブルー (1988~1990, 4권)",
+      "by": "原哲夫",
+      "year": 1988,
+      "country": "일본",
+      "setting": "2305년, 생명 유지 장치 없이는 살기 힘든 버려진 행성에서 사이보그가 된 청년이 압제자와 싸운다.",
+      "concepts": [
+        "cyborg",
+        "colonization",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "북두의 권 작가의 SF 만화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2020년 재편집판 정발(나무위키), 학산문화사 전자책(교보문고)",
+        "src": "https://product.kyobobook.co.kr/detail/E000003581160"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tiramisu",
+      "orig": "宇宙戦艦ティラミス",
+      "orig_en": "Space Battleship Tiramisu",
+      "ko": "우주전함 티라미스",
+      "ko_src": "교보문고(대원씨아이)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2015~2020, 10권), TV 애니메이션 두 기 (2018)",
+      "by": "宮川サトシ, 伊藤亰",
+      "year": 2015,
+      "country": "일본",
+      "setting": "우주 전쟁의 에이스 조종사가 거대 로봇 조종석에서 나오지 않고 사소한 일에 목숨을 건다.",
+      "concepts": [
+        "mecha",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "문화청 미디어 예술제 만화 부문 우수상(2019, 나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 대원씨아이 2018~2021 열 권(교보문고), 애니메이션 정식 공개는 확인 못 함",
+        "src": "https://product.kyobobook.co.kr/detail/S000001698205"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rai_ginga",
+      "orig": "銀河戦国群雄伝ライ",
+      "orig_en": "Ginga Sengoku Gun'yuden Rai",
+      "ko": "은하전국군웅전 라이",
+      "ko_src": "교보문고(대원씨아이 2004)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1989~2001, 27권), TV 애니메이션 (1994)",
+      "by": "真鍋譲治",
+      "year": 1989,
+      "country": "일본",
+      "setting": "황제가 죽어 갈라진 은하 제국에서 군웅이 일어나, 삼국지처럼 별들을 두고 다툰다.",
+      "concepts": [
+        "galactic_empire",
+        "feudal_space",
+        "fleet_battle",
+        "empire_fall"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "27권 연재, TV 애니메이션화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "대원씨아이 전권 정발(교보문고, 나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000000740070"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starzinger",
+      "orig": "SF西遊記スタージンガー",
+      "orig_en": "Starzinger",
+      "ko": "스타징가",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 73화 (1978~1979), 극장판",
+      "by": "松本零士(원작), 東映動画",
+      "year": 1978,
+      "country": "일본",
+      "setting": "서유기를 우주로 옮겨, 공주와 사이보그 셋이 우주의 균형을 되살릴 대왕성을 찾아 떠난다.",
+      "concepts": [
+        "cyborg",
+        "galactic_threat",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "마쓰모토 레이지 원작 73화, MBC·KBS 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, MBC '오로라 공주와 손오공'·KBS '별나라 손오공' 방영(나무위키)",
+        "src": "https://laftel.net/item/14883"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galient",
+      "orig": "機甲界ガリアン",
+      "orig_en": "Panzer World Galient",
+      "ko": "기갑계 가리안",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 25화 (1984), OVA (1985~1986)",
+      "by": "高橋良輔, サンライズ",
+      "year": 1984,
+      "country": "일본",
+      "setting": "행성 아스트의 왕국을 별 바깥에서 온 정복자가 기계 병기로 짓밟고, 왕자가 옛 기갑 병기를 깨운다.",
+      "concepts": [
+        "mecha",
+        "galactic_empire",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "다카하시 료스케 감독 선라이즈 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(국내 지상파·비디오 출시는 없었다고 함, 나무위키)",
+        "src": "https://laftel.net/item/15195"
+      },
+      "borderline": true
+    },
+    {
+      "id": "dragonar",
+      "orig": "機甲戦記ドラグナー",
+      "orig_en": "Metal Armor Dragonar",
+      "ko": "기갑전기 드라고나",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 48화 (1987~1988)",
+      "by": "神田武幸, サンライズ",
+      "year": 1987,
+      "country": "일본",
+      "setting": "2087년 달에 세워진 독재국가가 지구 연합에 전쟁을 걸고, 우주 식민지 소년 셋이 신형 기체에 탄다.",
+      "concepts": [
+        "mecha",
+        "colonial_war",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "선라이즈 리얼 로봇 작품 48화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/16987"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orgun",
+      "orig": "デトネイター・オーガン",
+      "orig_en": "Detonator Orgun",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 3화 (1991)",
+      "by": "大張正己, AIC·アートミック",
+      "year": 1991,
+      "country": "일본",
+      "setting": "외계 기계 생명체와 싸우던 이종족 전사가 지구 청년에게 몸을 맡겨 함께 싸운다.",
+      "concepts": [
+        "alien",
+        "alien_invasion",
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 오바리 마사미 감독 OVA, 히라사와 스스무 첫 애니메이션 음악(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "라프텔·저스트워치 한국에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EB%8D%B0%ED%86%A0%EB%84%A4%EC%9D%B4%ED%84%B0%20%EC%98%A4%EA%B1%B4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "daitarn_3",
+      "orig": "無敵鋼人ダイターン3",
+      "orig_en": "Invincible Steel Man Daitarn 3",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 40화 (1978~1979)",
+      "by": "富野由悠季, サンライズ",
+      "year": 1978,
+      "country": "일본",
+      "setting": "화성에서 만든 개조 인간 메가노이드가 인류를 지배하려 하자, 그들을 만든 박사의 아들이 로봇으로 맞선다.",
+      "concepts": [
+        "cyborg",
+        "mecha",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "도미노 요시유키 감독 선라이즈 무적 시리즈(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "라프텔·저스트워치 한국에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EB%AC%B4%EC%A0%81%EA%B0%95%EC%9D%B8%20%EB%8B%A4%EC%9D%B4%ED%83%843"
+      },
+      "borderline": false
+    },
+    {
+      "id": "zambot_3",
+      "orig": "無敵超人ザンボット3",
+      "orig_en": "Invincible Super Man Zambot 3",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 23화 (1977~1978)",
+      "by": "富野由悠季, サンライズ",
+      "year": 1977,
+      "country": "일본",
+      "setting": "멸망한 별에서 지구로 피난 온 일족의 아이들이 외계 침략자와 싸우지만 사람들에게 미움받는다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 선라이즈 첫 오리지널 로봇물, 비극적 결말로 이름남(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "라프텔·저스트워치 한국에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EB%AC%B4%EC%A0%81%EC%B4%88%EC%9D%B8%20%EC%A0%90%EB%B3%B4%ED%8A%B83"
+      },
+      "borderline": false
+    },
+    {
+      "id": "daltanious",
+      "orig": "未来ロボ ダルタニアス",
+      "orig_en": "Future Robot Daltanious",
+      "ko": "미래로봇 달타니어스",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 47화 (1979~1980)",
+      "by": "長浜忠夫, 東映·サンライズ",
+      "year": 1979,
+      "country": "일본",
+      "setting": "우주 제국에 정복당한 1995년 지구에서 소년이 멸망한 별의 왕자임을 알고 합체 로봇으로 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "galactic_empire",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나가하마 다다오 감독 로봇물 47화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/14829"
+      },
+      "borderline": false
+    },
+    {
+      "id": "zillion",
+      "orig": "赤い光弾ジリオン",
+      "orig_en": "Zillion",
+      "ko": "붉은 광탄 질리온",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 31화 (1987), OVA (1988), 세가 게임",
+      "by": "西久保瑞穂, タツノコプロ",
+      "year": 1987,
+      "country": "일본",
+      "setting": "개척 행성 마리스에 정착한 인류가 외계 종족 노자의 침공에 맞서 광선총 하나로 싸운다.",
+      "concepts": [
+        "colonization",
+        "beam_weapon",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Production I.G 의 출발점으로 꼽힘(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, 올림피아 비디오 더빙·투니버스(나무위키)",
+        "src": "https://laftel.net/item/18506"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stellvia",
+      "orig": "宇宙のステルヴィア",
+      "orig_en": "Stellvia",
+      "ko": "우주의 스텔비아",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (2003), 만화·게임",
+      "by": "佐藤竜雄, XEBEC",
+      "year": 2003,
+      "country": "일본",
+      "setting": "초신성 폭발의 두 번째 충격파를 막으려 인류가 세운 우주 학교에서 소녀가 조종사로 자란다.",
+      "concepts": [
+        "habitat",
+        "catastrophe",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "XEBEC 오리지널, 만화 국내 정발(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/15387"
+      },
+      "borderline": false
+    },
+    {
+      "id": "baldios",
+      "orig": "宇宙戦士バルディオス",
+      "orig_en": "Space Warrior Baldios",
+      "ko": "우주전사 발디오스",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 31화 (1980~1981), 극장판 (1981)",
+      "by": "酒井あきよし(원작), 葦プロダクション",
+      "year": 1980,
+      "country": "일본",
+      "setting": "오염으로 죽어 가는 별 S-1 의 사람들이 지구를 노리고, 반역자가 된 그 별의 청년이 지구 편에서 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "earth_left",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "충격적인 결말로 알려진 로봇물, 극장판(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(TV·극장판), 연합비디오 VHS(나무위키)",
+        "src": "https://laftel.net/item/14916"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lagrange_rinne",
+      "orig": "輪廻のラグランジェ",
+      "orig_en": "Lagrange: The Flower of Rin-ne",
+      "ko": "윤회의 라그랑제",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 두 시즌 (2012)",
+      "by": "佐藤竜雄(총감독), XEBEC",
+      "year": 2012,
+      "country": "일본",
+      "setting": "바닷가 마을 소녀가 외계 은하 연합끼리의 다툼에 끼어 고대 로봇을 몰게 된다.",
+      "concepts": [
+        "alien",
+        "mecha",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 두 시즌, 카모가와시와 협업(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/22985"
+      },
+      "borderline": false
+    },
+    {
+      "id": "birdy",
+      "orig": "鉄腕バーディー",
+      "orig_en": "Birdy the Mighty",
+      "ko": "철완 버디 DECODE",
+      "ko_src": "라프텔",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1985~, 2003~2012), OVA (1996), TV 철완 버디 DECODE (2008~2009)",
+      "by": "ゆうきまさみ",
+      "year": 1985,
+      "country": "일본",
+      "setting": "은하 연방 수사관이 실수로 죽게 한 지구 소년과 한 몸을 나눠 쓰며 지구에 숨은 범죄자를 쫓는다.",
+      "concepts": [
+        "federation",
+        "alien",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "만화 장기 연재, OVA·TV 애니메이션(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "TV 애니메이션 라프텔, 만화 북박스 17권까지(교보문고)",
+        "src": "https://laftel.net/item/15686"
+      },
+      "borderline": false
+    },
+    {
+      "id": "combattler_v",
+      "orig": "超電磁ロボ コン・バトラーV",
+      "orig_en": "Combattler V",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 54화 (1976~1977)",
+      "by": "長浜忠夫, 東映",
+      "year": 1976,
+      "country": "일본",
+      "setting": "옛날 지구에서 쫓겨난 캄벨 별 사람들이 되돌아와 지구를 치고, 다섯 젊은이의 합체 로봇이 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 나가하마 낭만 로봇 시리즈 첫 작품, 아사히 신문 선정 TV 애니메이션 104선(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1985년 대영팬더 VHS 정식 발매(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%B4%88%EC%A0%84%EC%9E%90%EB%A1%9C%EB%B3%B4%20%EC%BB%B4%EB%B0%B0%ED%8B%80%EB%9F%AC%20V"
+      },
+      "borderline": false
+    },
+    {
+      "id": "danguard",
+      "orig": "惑星ロボ ダンガードA",
+      "orig_en": "Danguard Ace",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 56화 (1977~1978)",
+      "by": "松本零士(원작), 東映動画",
+      "year": 1977,
+      "country": "일본",
+      "setting": "지구로 다가오는 떠돌이 행성 프로메테우스를 차지하려는 세력과 우주 로봇 조종사가 싸운다.",
+      "concepts": [
+        "colonization",
+        "mecha",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "마쓰모토 레이지 원작 로봇물, MBC '날아라 스타에이스' 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "MBC '날아라 스타에이스'로 방영(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%ED%98%B9%EC%84%B1%EB%A1%9C%EB%B3%B4%20%EB%8B%A8%EA%B0%80%EB%93%9CA"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gaiking",
+      "orig": "大空魔竜ガイキング",
+      "orig_en": "Gaiking",
+      "ko": "가이킹",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 44화 (1976~1977), 가이킹 LEGEND OF DAIKU-MARYU (2005)",
+      "by": "東映動画",
+      "year": 1976,
+      "country": "일본",
+      "setting": "멸망을 앞둔 젤라 별의 암흑 군단이 지구를 노리고, 공룡 모양 모함과 로봇이 화성까지 날아가 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "토에이 로봇물, 2005년 리메이크(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(1976 '대공마룡 가이킹', 2005 '가이킹')",
+        "src": "https://laftel.net/item/17066"
+      },
+      "borderline": false
+    },
+    {
+      "id": "j9_series",
+      "orig": "銀河旋風ブライガー",
+      "orig_en": "Galaxy Cyclone Braiger (J9 시리즈)",
+      "ko": "은하선풍 브라이거",
+      "ko_src": "나무위키(동양비디오 출시, 2차)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "J9 시리즈: 銀河旋風ブライガー (1981), 銀河烈風バクシンガー (1982), 銀河疾風サスライガー (1983)",
+      "by": "国際映画社, 東映動画",
+      "year": 1981,
+      "country": "일본",
+      "setting": "태양계 곳곳을 개척한 시대, 법 밖의 해결사 'J9' 이 돈을 받고 우주의 악당을 처치한다.",
+      "concepts": [
+        "colonization",
+        "mecha",
+        "law_above"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "J9 시리즈 세 편, 동양비디오 더빙 출시(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "브라이거만 1980년대 동양비디오 더빙 출시(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%84%A0%ED%92%8D%20%EB%B8%8C%EB%9D%BC%EC%9D%B4%EA%B1%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dancouga",
+      "orig": "超獣機神ダンクーガ",
+      "orig_en": "Super Beast Machine God Dancouga",
+      "ko": "초수기신 단쿠가",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 38화 (1985), OVA 셋, 수장기공 단쿠가 노바 (2007)",
+      "by": "葦プロダクション",
+      "year": 1985,
+      "country": "일본",
+      "setting": "은하를 휩쓰는 무게 졸바도스 제국이 지구를 쳐들어오자 네 젊은이의 짐승 로봇이 하나로 합친다.",
+      "concepts": [
+        "alien_invasion",
+        "galactic_empire",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] TV 뒤 OVA 셋, 2007년 리메이크(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, 동양비디오 '카루타'(나무위키)",
+        "src": "https://laftel.net/item/14738"
+      },
+      "borderline": false
+    },
+    {
+      "id": "argento_soma",
+      "orig": "アルジェントソーマ",
+      "orig_en": "Argento Soma",
+      "ko": "아르젠토 소마",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 25화 (2000~2001)",
+      "by": "片山一良, サンライズ",
+      "year": 2000,
+      "country": "일본",
+      "setting": "하늘에서 내려오는 외계 존재와 싸우는 비밀 조직에, 연인을 잃은 청년이 이름을 바꿔 숨어든다.",
+      "concepts": [
+        "alien_invasion",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 선라이즈 오리지널 TV 애니메이션(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/16485"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bravern",
+      "orig": "勇気爆発バーンブレイバーン",
+      "orig_en": "Bang Brave Bang Bravern!",
+      "ko": "용기폭발 뱅브레이번",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 12화 (2024)",
+      "by": "小高義規, CygamesPictures",
+      "year": 2024,
+      "country": "일본",
+      "setting": "정체 모를 외계 기계 군단이 지구를 덮친 날, 스스로 말하는 거대 로봇이 나타나 자위대원을 태운다.",
+      "concepts": [
+        "alien_invasion",
+        "ai",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 2024년 화제작 오리지널 TV 애니메이션(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔·티빙(저스트워치 한국)",
+        "src": "https://laftel.net/item/41861"
+      },
+      "borderline": false
+    },
+    {
+      "id": "god_mars",
+      "orig": "六神合体ゴッドマーズ",
+      "orig_en": "Six God Combination Godmars",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 64화 (1981~1982), OVA 十七歳の伝説 (1988), 극장판",
+      "by": "横山光輝(원작 마즈), 東京ムービー新社",
+      "year": 1981,
+      "country": "일본",
+      "setting": "지구를 없애라는 명령을 품고 보내진 외계 소년이 지구 편에 서서 형과 우주 제국에 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "galactic_empire",
+        "mecha",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "64화 TV 와 OVA·극장판, 동양비디오 정식 발매(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "동양비디오 정식 발매(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%9C%A1%EC%8B%A0%ED%95%A9%EC%B2%B4%20%EA%B0%93%EB%A7%88%EC%A6%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "majestic_prince",
+      "orig": "銀河機攻隊マジェスティックプリンス",
+      "orig_en": "Majestic Prince",
+      "ko": "은하기공대 마제스틱 프린스",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (2010~), TV 24화 (2013), 극장판 (2016)",
+      "by": "元永慶太郎(감독), 動画工房×オレンジ",
+      "year": 2010,
+      "country": "일본",
+      "setting": "외계 종족 울갈의 침공 앞에 유전자로 설계된 아이들이 우주 기동병기 부대로 나선다.",
+      "concepts": [
+        "genetic_eng",
+        "super_soldier",
+        "alien_invasion",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "TV 애니메이션과 극장판(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(나무위키는 국내 정식 방영이 없었다고 적음)",
+        "src": "https://laftel.net/item/23281"
+      },
+      "borderline": false
+    },
+    {
+      "id": "captain_earth",
+      "orig": "キャプテン・アース",
+      "orig_en": "Captain Earth",
+      "ko": "캡틴 어스",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 25화 (2014)",
+      "by": "五十嵐卓哉, ボンズ",
+      "year": 2014,
+      "country": "일본",
+      "setting": "천왕성에서 오는 불멸의 외계 생명체가 인간의 생명력을 노리자, 달 기지에서 출격하는 로봇이 맞선다.",
+      "concepts": [
+        "alien",
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "본즈 오리지널, 애니플러스 정식 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(판권 만료작으로 표시), 애니플러스 방영(나무위키)",
+        "src": "https://laftel.net/item/23880"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kuromukuro",
+      "orig": "クロムクロ",
+      "orig_en": "Kuromukuro",
+      "ko": "쿠로무쿠로",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (2016)",
+      "by": "P.A.WORKS",
+      "year": 2016,
+      "country": "일본",
+      "setting": "400년 전부터 지구를 노려 온 외계 세력에 맞서, 잠에서 깬 옛 사무라이와 여고생이 검은 로봇에 탄다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] P.A.WORKS 오리지널, 넷플릭스 독점(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, 2017년 넷플릭스 국내 공개(나무위키)",
+        "src": "https://laftel.net/item/33234"
+      },
+      "borderline": false
+    },
+    {
+      "id": "layzner",
+      "orig": "蒼き流星SPTレイズナー",
+      "orig_en": "Blue Comet SPT Layzner",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 38화 (1985~1986), OVA",
+      "by": "高橋良輔(감독), サンライズ",
+      "year": 1985,
+      "country": "일본",
+      "setting": "화성 기지에서 지구를 노리는 외계 그라도스 제국의 혼혈 소년이 인공지능 기체를 몰고 지구 편에 선다.",
+      "concepts": [
+        "alien_invasion",
+        "ai",
+        "mecha",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "선라이즈 리얼 로봇물, 아미노 데쓰로 출세작(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "라프텔·저스트워치 한국에서 볼 곳을 찾지 못함",
+        "src": "https://namu.wiki/w/%ED%91%B8%EB%A5%B8%20%EC%9C%A0%EC%84%B1%20SPT%20%EB%A0%88%EC%9D%B4%EC%A6%88%EB%84%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "md_geist",
+      "orig": "装鬼兵MDガイスト",
+      "orig_en": "MD Geist",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA (1986), OVA 2 (1996)",
+      "by": "大畑晃一, 池田はやと",
+      "year": 1986,
+      "country": "일본",
+      "setting": "두 세력이 끝없이 싸우는 식민 행성 제라에서, 우주 궤도에 얼어붙어 있던 강화 병사가 깨어난다.",
+      "concepts": [
+        "super_soldier",
+        "colonial_war",
+        "forbidden_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "미국 수출로 컬트가 된 OVA(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1편만 1990년 '우주전사 가이스트' 더빙 VHS(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%9E%A5%EA%B7%80%EB%B3%91%20M.D.%20%EA%B0%80%EC%9D%B4%EC%8A%A4%ED%8A%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "armitage_iii",
+      "orig": "アミテージ・ザ・サード",
+      "orig_en": "Armitage III",
+      "ko": "극장판 아미테이지 - 듀얼 매트릭스",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 4화 (1994~1995), 극장판 Poly-Matrix (1996), Dual-Matrix (2002)",
+      "by": "越智博之, AIC",
+      "year": 1994,
+      "country": "일본",
+      "setting": "테라포밍된 화성 도시에서 사람과 똑같은 인조인간 '서드'들이 살해되고, 형사가 사건을 쫓는다.",
+      "concepts": [
+        "android",
+        "terraforming",
+        "machine_rights",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "OVA 와 극장판 두 편, 투니버스 방영(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "듀얼 매트릭스만 라프텔, OVA 는 투니버스 방영(나무위키)",
+        "src": "https://laftel.net/item/14127"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wander_over_yonder",
+      "orig": "Wander Over Yonder",
+      "orig_en": "",
+      "ko": "완다가 간다",
+      "ko_src": "나무위키(디즈니채널 방영, 2차)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Disney XD 2 시즌 43화 (2013~2016)",
+      "by": "Craig McCracken",
+      "year": 2013,
+      "country": "미국",
+      "setting": "낙천적인 은하 방랑자와 친구가 별에서 별로 떠돌며 은하를 정복하려는 악당들을 상대한다.",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "파워퍼프걸 작가의 디즈니 애니메이션 두 시즌(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니채널 '완다가 간다' 방영, 국내 심의 7세(나무위키, 2차), 지금 한국 디즈니+ 에는 없음",
+        "src": "https://namu.wiki/w/%EC%99%84%EB%8B%A4%EA%B0%80%20%EA%B0%84%EB%8B%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "luluco",
+      "orig": "宇宙パトロールルル子",
+      "orig_en": "Space Patrol Luluco",
+      "ko": "우주 패트롤 루루코",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 13화 단편 (2016)",
+      "by": "今石洋之, TRIGGER",
+      "year": 2016,
+      "country": "일본",
+      "setting": "외계인과 지구인이 섞여 사는 은하 이민 특구에서 평범한 중학생이 우주 경찰 견습이 된다.",
+      "concepts": [
+        "alien",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "트리거 5주년 기념작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/33265"
+      },
+      "borderline": false
+    },
+    {
+      "id": "interstella_5555",
+      "orig": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "orig_en": "",
+      "ko": "인터스텔라 5555",
+      "ko_src": "KOBIS",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "애니메이션 영화 (2003)",
+      "by": "Daft Punk, 松本零士, 東映アニメーション",
+      "year": 2003,
+      "country": "일본·프랑스",
+      "setting": "먼 별의 악단이 지구로 납치되어 기억을 지운 채 음반 업계의 꼭두각시가 된다.",
+      "concepts": [
+        "alien",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "다프트 펑크 앨범 Discovery 와 마쓰모토 레이지의 합작 영화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록(개봉 표시 없음), 저스트워치 한국에 '인터스텔라 5555'",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9D%B8%ED%84%B0%EC%8A%A4%ED%85%94%EB%9D%BC%205555"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silverhawks",
+      "orig": "SilverHawks",
+      "orig_en": "",
+      "ko": "실버호크",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 65화 (1986)",
+      "by": "Rankin/Bass, Pacific Animated Imaging",
+      "year": 1986,
+      "country": "미국",
+      "setting": "몸 일부를 금속으로 바꾼 우주 경찰대가 은하 끝 감옥 별에서 탈옥한 악당들을 쫓는다.",
+      "concepts": [
+        "cyborg",
+        "alien",
+        "law_above"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "썬더캣츠 제작진의 TV 시리즈, MBC 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, 1988~1989 MBC '무적의 실버호크'(나무위키)",
+        "src": "https://laftel.net/item/14803"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bismarck",
+      "orig": "星銃士ビスマルク",
+      "orig_en": "Saber Rider and the Star Sheriffs",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 51화 (1984~1985), 미국판 Saber Rider and the Star Sheriffs (1987)",
+      "by": "安濃高志, スタジオぴえろ",
+      "year": 1984,
+      "country": "일본",
+      "setting": "목성과 토성까지 개척한 2084년, 우주 서부극처럼 네 전사가 로봇을 타고 외계 침략자와 싸운다.",
+      "concepts": [
+        "colonization",
+        "terraforming",
+        "mecha",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스튜디오 피에로 첫 로봇 애니메이션, 미국판으로 해외 흥행(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "미국판이 1990년대 초 '세이버 라이더와 우주 보안관'으로 또또 비디오 더빙 출시(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%84%B1%EC%B4%9D%EC%82%AC%20%EB%B9%84%EC%8A%A4%EB%A7%88%EB%A5%B4%ED%81%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "daikengo",
+      "orig": "宇宙魔神ダイケンゴー",
+      "orig_en": "Space Demon Daikengo",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (1978~1979)",
+      "by": "酒井あきよし(원작), 鳥プロダクション",
+      "year": 1978,
+      "country": "일본",
+      "setting": "지옥 성운의 마젤란 제국이 은하 연맹을 침략하자, 망국의 왕자가 거대 로봇으로 맞선다.",
+      "concepts": [
+        "galactic_empire",
+        "federation",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "토리 프로덕션 유일한 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1984~1986 대영팬더 VHS·1985 대영비디오 '로보트 타이맨'(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EB%A7%88%EC%8B%A0%20%EB%8B%A4%EC%9D%B4%EC%BC%84%EA%B3%A0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sagittarius",
+      "orig": "宇宙船サジタリウス",
+      "orig_en": "Spaceship Sagittarius",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 77화 (1986~1987)",
+      "by": "日本アニメーション",
+      "year": 1986,
+      "country": "일본",
+      "setting": "작은 우주 운송 회사의 낡은 배가 별 사이를 오가며 이상한 의뢰에 휘말린다.",
+      "concepts": [
+        "alien",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "77화, 일본과 유럽에서 인기(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "라프텔·저스트워치 한국에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EC%84%A0%20%EC%82%AC%EC%A7%80%ED%83%80%EB%A6%AC%EC%9A%B0%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_show",
+      "orig": "宇宙ショーへようこそ",
+      "orig_en": "Welcome to the Space Show",
+      "ko": "우주쇼에 어서오세요",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "애니메이션 영화 (2010)",
+      "by": "舛成孝二, A-1 Pictures",
+      "year": 2010,
+      "country": "일본",
+      "setting": "여름 방학의 아이들이 다친 개를 구해 준 인연으로 달 뒤편과 우주 쇼가 열리는 별로 여행한다.",
+      "concepts": [
+        "alien",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "소규모 개봉에도 입소문으로 호평(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(판권 만료작으로 표시), KOBIS 등록",
+        "src": "https://laftel.net/item/13328"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tekkaman_1975",
+      "orig": "宇宙の騎士テッカマン",
+      "orig_en": "Tekkaman: The Space Knight",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (1975)",
+      "by": "タツノコプロ",
+      "year": 1975,
+      "country": "일본",
+      "setting": "환경 파괴로 살기 힘들어진 지구를 노리는 외계 침략자에게, 장갑을 입은 우주의 기사가 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "power_armor",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "타쓰노코 SF 노선 셋째 작품, 1992 리메이크(테카맨 블레이드)와는 다른 세계",
+      "korean": {
+        "status": "있음",
+        "detail": "2018년 애니원 자막 방영, 1983년 비디오 '철갑인 우주의 기사'(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%ED%85%8C%EC%B9%B4%EB%A7%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mito",
+      "orig": "宇宙海賊ミトの大冒険",
+      "orig_en": "Mito's Great Adventure",
+      "ko": "우주해적 미토의 대모험",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 두 시즌 26화 (1999)",
+      "by": "ワタナベシンイチ, トライアングルスタッフ",
+      "year": 1999,
+      "country": "일본",
+      "setting": "어려 보이는 우주 해적 엄마와 지구 사는 아들이 은하 왕위를 둘러싼 다툼에 휘말린다.",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "TV 두 시즌, 대교어린이TV 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(1·2기)",
+        "src": "https://laftel.net/item/18517"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dangaioh",
+      "orig": "破邪大星ダンガイオー",
+      "orig_en": "Dangaioh",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "OVA 3화 (1987~1989), 2001 TV 리메이크",
+      "by": "平野俊弘, AIC",
+      "year": 1987,
+      "country": "일본",
+      "setting": "우주 해적에게 개조된 초능력자 넷이 탈출해, 합체 로봇으로 해적단과 싸운다.",
+      "concepts": [
+        "psionics",
+        "mecha",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "히라노 도시키 감독 OVA, 슈퍼로봇대전 참전(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1994년 트러스트 비디오 '크로스 파이터' VHS(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%ED%8C%8C%EC%82%AC%EB%8C%80%EC%84%B1%20%EB%8B%A8%EA%B0%80%EC%9D%B4%EC%98%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "trider_g7",
+      "orig": "無敵ロボ トライダーG7",
+      "orig_en": "Trider G7",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 50화 (1980~1981)",
+      "by": "佐々木勝利, サンライズ",
+      "year": 1980,
+      "country": "일본",
+      "setting": "작은 우주 운송 회사를 물려받은 초등학생 사장이 회사 로봇으로 외계 침략군과 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "선라이즈 무적 시리즈 셋째 작품(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "국내 정식 방영 없음(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EB%AC%B4%EC%A0%81%EB%A1%9C%EB%B3%B4%20%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94%20G7"
+      },
+      "borderline": false
+    },
+    {
+      "id": "x_bomber",
+      "orig": "Xボンバー",
+      "orig_en": "Star Fleet",
+      "ko": "X 봄버",
+      "ko_src": "라프텔",
+      "media": [
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "드라마",
+      "series": "인형극 TV 25화 (1980~1981), 영국판 Star Fleet",
+      "by": "永井豪, ダイナミックプロ",
+      "year": 1980,
+      "country": "일본",
+      "setting": "은하를 정복하려는 겔마 제국에 맞서 우주선 X 봄버가 수수께끼의 소녀를 지키며 싸운다.",
+      "concepts": [
+        "galactic_empire",
+        "fleet_battle",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영국 방영판 Star Fleet 으로 해외에서 알려진 인형극(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/21897"
+      },
+      "borderline": false
+    },
+    {
+      "id": "trizenon",
+      "orig": "無敵王トライゼノン",
+      "orig_en": "Trizenon",
+      "ko": "무적왕 트라이제논",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 22화 (2000~2001)",
+      "by": "ワタナベシンイチ",
+      "year": 2000,
+      "country": "일본",
+      "setting": "빚쟁이 아버지를 떠난 남매가 보물 대신 로봇을 찾아내 지구를 침략하러 온 우주 세력과 싸운다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 슬레이어즈 제작진 로봇물, 투니버스 더빙(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔, 투니버스 더빙 방영(나무위키)",
+        "src": "https://laftel.net/item/17938"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galvion",
+      "orig": "超攻速ガルビオン",
+      "orig_en": "Galvion",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 22화 (1984)",
+      "by": "国際映画社",
+      "year": 1984,
+      "country": "일본",
+      "setting": "외계 종족이 전쟁을 벌인 지구를 막으로 덮어 가두자, 땅 위에서 달리는 변신 차량이 발달한 2099년.",
+      "concepts": [
+        "alien",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "국제영화사 로봇물, 대우비디오 정식 발매(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "대우비디오 정식 발매(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%B4%88%EA%B3%B5%EC%86%8D%20%EA%B0%88%EB%B9%84%EC%98%A8"
+      },
+      "borderline": true
+    },
+    {
+      "id": "planet_with",
+      "orig": "プラネット・ウィズ",
+      "orig_en": "Planet With",
+      "ko": "플래닛 위드",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 12화 (2018), 만화·소설",
+      "by": "水上悟志(원안), J.C.STAFF",
+      "year": 2018,
+      "country": "일본",
+      "setting": "고향 별을 잃은 소년이 고양이 모양 외계인과 함께, 지구를 봉인하러 온 우주 연합에 맞선다.",
+      "concepts": [
+        "alien",
+        "federation",
+        "psionics",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "미즈카미 사토시 원안 오리지널, 애니플러스 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(판권 만료작으로 표시)·왓챠(저스트워치 한국)",
+        "src": "https://laftel.net/item/38826"
+      },
+      "borderline": false
+    },
+    {
+      "id": "godian",
+      "orig": "闘士ゴーディアン",
+      "orig_en": "Godian",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 73화 (1979~1981)",
+      "by": "タツノコプロ",
+      "year": 1979,
+      "country": "일본",
+      "setting": "우주를 떠돌다 지구에 닿은 성운의 장로들이 비밀 결사를 세우고, 셋으로 겹쳐 들어가는 로봇이 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 완구 흥행으로 73화까지 늘어남(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1984년 삼부비디오 '용사 골디안'으로 일부 출시(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%ED%88%AC%EC%82%AC%20%EA%B3%A0%EB%94%94%EC%95%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "god_sigma",
+      "orig": "宇宙大帝ゴッドシグマ",
+      "orig_en": "Space Emperor God Sigma",
+      "ko": "우주대제 갓시그마",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 50화 (1980~1981)",
+      "by": "東映",
+      "year": 1980,
+      "country": "일본",
+      "setting": "목성까지 개발한 2050년, 미래에서 온 엘더 별 군대가 지구를 치고 세 소년의 합체 로봇이 맞선다.",
+      "concepts": [
+        "colonization",
+        "time_travel",
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "50화, 동양비디오 정식 발매(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/13560"
+      },
+      "borderline": false
+    },
+    {
+      "id": "yat",
+      "orig": "YAT安心!宇宙旅行",
+      "orig_en": "YAT Anshin! Uchū Ryokō",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "NHK TV 두 시즌 75화 (1996~1998)",
+      "by": "西川伸司(원안), グループ・タック",
+      "year": 1996,
+      "country": "일본",
+      "setting": "실수로 우주에 나간 소년이 망하기 직전의 우주 여행사에서 일하며 행방불명된 아버지를 찾는다.",
+      "concepts": [
+        "alien",
+        "wormhole",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "NHK 오리지널 애니메이션 두 시즌, 재능TV 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "'우주 여행사 야트'로 JEI 재능TV 더빙 방영(나무위키, 2차)",
+        "src": "https://namu.wiki/w/YAT%20%EC%95%88%EC%8B%AC%21%20%EC%9A%B0%EC%A3%BC%EC%97%AC%ED%96%89"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sora_kakeru",
+      "orig": "宇宙をかける少女",
+      "orig_en": "Sora Kake Girl",
+      "ko": "우주를 달리는 소녀",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (2009)",
+      "by": "小原正和, サンライズ",
+      "year": 2009,
+      "country": "일본",
+      "setting": "사람들이 우주 콜로니에 사는 시대, 소녀가 말하는 인공지능 우주 요새를 만나 인류와 기계의 다툼에 휘말린다.",
+      "concepts": [
+        "habitat",
+        "ai",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "선라이즈 오리지널 TV 애니메이션(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/13510"
+      },
+      "borderline": false
+    },
+    {
+      "id": "southern_cross",
+      "orig": "超時空騎団サザンクロス",
+      "orig_en": "Super Dimension Cavalry Southern Cross",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 23화 (1984) — 미국 로보텍 둘째 편으로 쓰임",
+      "by": "タツノコプロ",
+      "year": 1984,
+      "country": "일본",
+      "setting": "우주로 나가 행성 글로리에 정착한 인류에게 외계 조르가 쳐들어온다.",
+      "concepts": [
+        "colonization",
+        "alien_invasion",
+        "power_armor",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "마크로스·오거스에 이은 초시공 시리즈 셋째 작품(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "초시공 시리즈 가운데 유일하게 국내에 정식으로 들어온 적 없음(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%B4%88%EC%8B%9C%EA%B3%B5%EA%B8%B0%EB%8B%A8%20%EC%84%9C%EB%8D%98%ED%81%AC%EB%A1%9C%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "colony_ship",
+      "orig": "Colony Ship: A Post-Earth Role Playing Game",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Colony Ship (2023)",
+      "by": "Iron Tower Studio",
+      "year": 2023,
+      "country": "미국",
+      "setting": "수백 년 항해 중 반란으로 정부가 무너진 세대선 안에서 세력들이 배를 차지하려 다툰다.",
+      "concepts": [
+        "generation_ship",
+        "ideology_split",
+        "techno_religion"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "하인라인 '조던의 아이들'에서 영감을 받은 RPG(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 지원 언어에 한국어 없음(유저 한글화만 있음, 나무위키)",
+        "src": "https://store.steampowered.com/app/648410"
+      },
+      "borderline": false
+    },
+    {
+      "id": "somerville",
+      "orig": "Somerville",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Somerville (2022)",
+      "by": "Jumpship",
+      "year": 2022,
+      "country": "영국",
+      "setting": "외계 침공으로 뒤집힌 영국 시골에서 흩어진 가족을 찾아 아버지가 걷는다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 림보·인사이드 제작사 공동 창립자의 신작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원",
+        "src": "https://store.steampowered.com/app/1671410"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_alters",
+      "orig": "The Alters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Alters (2025)",
+      "by": "11 bit studios",
+      "year": 2025,
+      "country": "폴란드",
+      "setting": "낯선 행성에 홀로 떨어진 노동자가 인생의 다른 갈림길을 산 자기 복제들을 만들어 기지를 꾸린다.",
+      "concepts": [
+        "clone",
+        "colonization",
+        "mega_corp"
+      ],
+      "new_ideas": "다른 선택을 한 '나'를 복제해 함께 살기",
+      "lore_size": "중간",
+      "notability": "This War of Mine·프로스트펑크 제작사 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원(추가 이야기 이름은 '디 얼터스: 마지막 변수')",
+        "src": "https://store.steampowered.com/app/1601570"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gnosia",
+      "orig": "グノーシア",
+      "orig_en": "GNOSIA",
+      "ko": "그노시아",
+      "ko_src": "라프텔",
+      "media": [
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "게임 (2019~), TV 애니메이션 (2025)",
+      "by": "プチデポット",
+      "year": 2019,
+      "country": "일본",
+      "setting": "사람 행세를 하는 '그노시아'가 숨어든 우주선에서, 같은 시간을 되풀이하며 누가 적인지 가려낸다.",
+      "concepts": [
+        "time_loop",
+        "impostor",
+        "humanity_test"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "싱글 플레이 마피아 게임으로 화제, 2025년 애니메이션화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 라프텔, 게임은 정식 한국어 미지원(스팀 언어 표, 나무위키는 한국어 업데이트 예정이라고 적음)",
+        "src": "https://laftel.net/item/43434"
+      },
+      "borderline": false
+    },
+    {
+      "id": "linda_cube",
+      "orig": "リンダキューブ",
+      "orig_en": "Linda Cube",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "PC엔진 (1995), 린다 큐브 어게인 (PS 1997), 완전판 (SS 1998)",
+      "by": "桝田省治, アルファ・システム",
+      "year": 1995,
+      "country": "일본",
+      "setting": "8년 뒤 소행성과 부딪힐 행성에서, 동물을 암수 한 쌍씩 사냥해 방주에 싣는 사냥꾼의 이야기.",
+      "concepts": [
+        "ark",
+        "catastrophe",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "컬트 게임으로 전설처럼 회자(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 미지원(나무위키)",
+        "src": "https://namu.wiki/w/%EB%A6%B0%EB%8B%A4%20%ED%81%90%EB%B8%8C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metal_slader_glory",
+      "orig": "メタルスレイダーグローリー",
+      "orig_en": "Metal Slader Glory",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "패미컴 (1991), 디렉터즈 컷 (SFC 2000)",
+      "by": "HAL研究所, ☆よしみる",
+      "year": 1991,
+      "country": "일본",
+      "setting": "우주 식민지 사이 전쟁이 끝난 뒤, 남매가 옛 전투 로봇 '메탈 슬레이더'를 손에 넣는다.",
+      "concepts": [
+        "habitat",
+        "mecha",
+        "colonial_war"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "개발 4년 2개월, HAL 연구소 독립 시절 마지막 작품(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "비공식 영어 패치만 있음(나무위키)",
+        "src": "https://namu.wiki/w/%EB%A9%94%ED%83%88%20%EC%8A%AC%EB%A0%88%EC%9D%B4%EB%8D%94%20%EA%B8%80%EB%A1%9C%EB%A6%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "shogo",
+      "orig": "Shogo: Mobile Armor Division",
+      "orig_en": "",
+      "ko": "쇼고: 이동전투단",
+      "ko_src": "나무위키(1998 한국어 자막판, 2차)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Shogo (1998)",
+      "by": "Monolith Productions",
+      "year": 1998,
+      "country": "미국",
+      "setting": "에너지 자원을 둘러싸고 개척 행성 크로노스에서 거대 로봇 부대와 반군이 싸운다.",
+      "concepts": [
+        "mecha",
+        "key_resource",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본 애니메이션 영향을 짙게 받은 FPS(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1998년 한국어 자막판 정식 발매(나무위키, 2차), 지금 스팀판은 영어만",
+        "src": "https://namu.wiki/w/%EC%87%BC%EA%B3%A0%3A%20%EC%9D%B4%EB%8F%99%EC%A0%84%ED%88%AC%EB%8B%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "infinite_lagrange",
+      "orig": "无尽的拉格朗日",
+      "orig_en": "Infinite Lagrange",
+      "ko": "스타 헌터 - 인피니트 라그랑주",
+      "ko_src": "스팀 한국어 상점",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Infinite Lagrange (2021)",
+      "by": "NetEase Games",
+      "year": 2021,
+      "country": "중국",
+      "setting": "은하 곳곳을 잇는 라그랑주 관문망을 따라 개척자들이 함대를 짓고 연합을 맺어 다툰다.",
+      "concepts": [
+        "gate_network",
+        "fleet_battle",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "넷이즈 우주 전략 게임, 2021년 한국 서비스(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원, 2021년 한국 서비스 시작(나무위키)",
+        "src": "https://store.steampowered.com/app/1755920"
+      },
+      "borderline": false
+    },
+    {
+      "id": "high_on_life",
+      "orig": "High on Life",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "High on Life (2022), High on Life 2 (2026)",
+      "by": "Squanch Games",
+      "year": 2022,
+      "country": "미국",
+      "setting": "사람을 마약으로 팔려는 외계 조직에 맞서, 말하는 외계 총을 든 고교 졸업생이 현상금 사냥꾼이 된다.",
+      "concepts": [
+        "alien",
+        "living_machine"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "릭 앤 모티 공동 창작자의 회사 작품, 속편 2026",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 지원 언어에 한국어 없음, 콘솔판 국내 미발매(나무위키)",
+        "src": "https://store.steampowered.com/app/1583230"
+      },
+      "borderline": false
+    },
+    {
+      "id": "atrox",
+      "orig": "아트록스",
+      "orig_en": "Atrox",
+      "ko": "아트록스",
+      "ko_src": "한국 원작",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Atrox (2000)",
+      "by": "조이맥스",
+      "year": 2000,
+      "country": "한국",
+      "setting": "우주로 나간 인류가 두 외계 종족과 맞서고, 그 뒤에서 복제 인간의 선악이 다툰다.",
+      "concepts": [
+        "alien",
+        "clone",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "제1회 디지털 콘텐츠 대전 수상, 초판 1만 5천 장 매진(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "조이맥스 개발 국산 RTS(나무위키)",
+        "src": "https://namu.wiki/w/%EC%95%84%ED%8A%B8%EB%A1%9D%EC%8A%A4%28%EA%B2%8C%EC%9E%84%29"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rf_online",
+      "orig": "RF 온라인",
+      "orig_en": "RF Online",
+      "ko": "RF 온라인",
+      "ko_src": "한국 원작",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "RF Online (2004~2023)",
+      "by": "CCR",
+      "year": 2004,
+      "country": "한국",
+      "setting": "행성 노부스의 자원을 두고 벨라토 연방·아크레시아 제국·신성동맹 코라 세 종족이 싸운다.",
+      "concepts": [
+        "key_resource",
+        "mecha",
+        "federation",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2004~2023년 서비스, 해외 진출(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "CCR 개발 국산 MMORPG(나무위키)",
+        "src": "https://namu.wiki/w/RF%EC%98%A8%EB%9D%BC%EC%9D%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "assault_suits",
+      "orig": "重装機兵",
+      "orig_en": "Assault Suits",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "重装機兵レイノス (1990), ヴァルケン (1992), レイノス2 (1997) 등",
+      "by": "メサイヤ",
+      "year": 1990,
+      "country": "일본",
+      "setting": "우주 개척 시대, 정체 모를 적이 지구를 치고 강습 장갑복 부대가 맞선다.",
+      "concepts": [
+        "power_armor",
+        "alien_invasion",
+        "colonial_war"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메가드라이브·SFC 명작 액션 시리즈(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어판 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%A4%91%EC%9E%A5%EA%B8%B0%EB%B3%91%20%EB%A0%88%EC%9D%B4%EB%85%B8%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nova_1492",
+      "orig": "노바 1492",
+      "orig_en": "Nova 1492",
+      "ko": "노바 1492",
+      "ko_src": "한국 원작",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Nova 1492 (2002), Nova 1492 AR (2003), 노바 2",
+      "by": "아라마루",
+      "year": 2002,
+      "country": "한국",
+      "setting": "한 번 망한 지구의 노바 공화국에, 여러 행성을 거느린 외계 알골 제국이 쳐들어온다.",
+      "concepts": [
+        "alien_invasion",
+        "galactic_empire",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "국산 RTS 걸작으로 꼽힘, 전성기 동시 접속 2만(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "아라마루 개발 국산 RTS(나무위키)",
+        "src": "https://namu.wiki/w/%EB%85%B8%EB%B0%94%201492"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galaxy_angel",
+      "orig": "ギャラクシーエンジェル",
+      "orig_en": "Galaxy Angel",
+      "ko": "갤럭시 엔젤",
+      "ko_src": "라프텔",
+      "media": [
+        "게임",
+        "애니메이션",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "게임 (2002~), TV 애니메이션 네 기 (2001~2004), 만화·소설",
+      "by": "ブロッコリー, 水野良(세계관)",
+      "year": 2001,
+      "country": "일본",
+      "setting": "은하 제국의 황위를 둘러싼 반란 속에서 여성 전투기 부대 '엔젤 대'가 옛 유산을 지킨다.",
+      "concepts": [
+        "galactic_empire",
+        "precursor",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "게임 원작 미디어믹스, 애니메이션 크게 흥행(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 라프텔, 게임 한국어판은 확인 못 함",
+        "src": "https://laftel.net/item/15278"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mio_memories",
+      "orig": "MIO: Memories in Orbit",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "MIO: Memories in Orbit (2026)",
+      "by": "Douze Dixièmes",
+      "year": 2026,
+      "country": "프랑스",
+      "setting": "기계들이 제멋대로 돌아가는 거대 방주 우주선 안을 안드로이드가 탐험하며 배의 비밀을 밝힌다.",
+      "concepts": [
+        "ark",
+        "android",
+        "generation_ship"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Focus 퍼블리싱 메트로배니아(2026)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원",
+        "src": "https://store.steampowered.com/app/1672810"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cosmic_fantasy",
+      "orig": "コズミック・ファンタジー",
+      "orig_en": "Cosmic Fantasy",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "PC엔진 네 편 (1990~1994), 메가 CD 합본",
+      "by": "日本テレネット, 越智一裕",
+      "year": 1990,
+      "country": "일본",
+      "setting": "우주를 떠도는 소년 사냥꾼이 별에서 별로 다니며 사건을 해결하는 스페이스 판타지 RPG.",
+      "concepts": [
+        "alien",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "PC엔진 비주얼 RPG 시리즈 네 편(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어판 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%BD%94%EC%A6%88%EB%AF%B9%20%ED%8C%90%ED%83%80%EC%A7%80"
+      },
+      "borderline": true
+    },
+    {
+      "id": "subterrain",
+      "orig": "Subterrain",
+      "orig_en": "",
+      "ko": "서브터레인",
+      "ko_src": "스팀 한국어 상점(후속작 '서브터레인: 마인즈 오브 타이탄')",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Subterrain (2016), Subterrain: Mines of Titan (2022)",
+      "by": "Pixellore",
+      "year": 2016,
+      "country": "한국",
+      "setting": "화성 지하 기지에 혼자 남은 죄수가 변이체 사이에서 살아남는다.",
+      "concepts": [
+        "colonization",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 인디 제작사 첫 작품, 콘솔 이식(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 인디 제작사 Pixellore(나무위키), 다만 스팀 지원 언어 표에는 한국어가 없음",
+        "src": "https://store.steampowered.com/app/340490"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lagrange_point",
+      "orig": "ラグランジュポイント",
+      "orig_en": "Lagrange Point",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Lagrange Point (패미컴 1991)",
+      "by": "コナミ",
+      "year": 1991,
+      "country": "일본",
+      "setting": "라그랑주점에 띄운 우주 식민지에서 생물 병기 사고가 터지고, 살아남은 이들이 원인을 쫓는다.",
+      "concepts": [
+        "habitat",
+        "genetic_eng",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "코나미 패미컴 JRPG(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어판 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%A3%BC%20%ED%8F%AC%EC%9D%B8%ED%8A%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "children_dead_earth",
+      "orig": "Children of a Dead Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Children of a Dead Earth (2016)",
+      "by": "Q Switched Productions",
+      "year": 2016,
+      "country": "미국",
+      "setting": "지구가 죽은 뒤 태양계 곳곳의 후손 세력들이 궤도역학 그대로의 우주선으로 싸운다.",
+      "concepts": [
+        "earth_left",
+        "fleet_battle",
+        "mass_driver",
+        "sublight"
+      ],
+      "new_ideas": "실제 물리 법칙만으로 굴러가는 우주 전쟁",
+      "lore_size": "작음",
+      "notability": "극사실 우주전 시뮬레이터로 알려짐(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 지원 언어에 한국어 없음",
+        "src": "https://store.steampowered.com/app/476530"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starlink_atlas",
+      "orig": "Starlink: Battle for Atlas",
+      "orig_en": "",
+      "ko": "스타링크: 배틀 포 아틀라스",
+      "ko_src": "나무위키(한글화 발매, 2차)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Starlink: Battle for Atlas (2018)",
+      "by": "Ubisoft Toronto",
+      "year": 2018,
+      "country": "캐나다",
+      "setting": "아틀라스 항성계의 일곱 행성을 탐사하는 원정대가 잊힌 기계 군단 레기온과 싸운다.",
+      "concepts": [
+        "alien_ecology",
+        "precursor",
+        "machine_race"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "유비소프트·닌텐도 합작 유통, 스타폭스 출연(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원, 콘솔판도 한글화 발매(나무위키)",
+        "src": "https://store.steampowered.com/app/950050"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hoshi_tsubasa",
+      "orig": "星と翼のパラドクス",
+      "orig_en": "Hoshi to Tsubasa no Paradox",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "아케이드 (2018~2021)",
+      "by": "スクウェア・エニックス, サンライズ(애니메이션)",
+      "year": 2018,
+      "country": "일본",
+      "setting": "두 세계의 조종사가 우주 전장에서 짝을 이루어 대전하는 메카 액션 아케이드.",
+      "concepts": [
+        "mecha",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스퀘어 에닉스 아케이드, 사다모토 요시유키 캐릭터 디자인(나무위키)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 미지원(나무위키)",
+        "src": "https://namu.wiki/w/%EB%B3%84%EA%B3%BC%20%EB%82%A0%EA%B0%9C%EC%9D%98%20%ED%8C%A8%EB%9F%AC%EB%8F%85%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cosmic_encounter",
+      "orig": "Cosmic Encounter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "탁상 게임"
+      ],
+      "first_medium": "탁상 게임",
+      "series": "Cosmic Encounter (1977) ~ Fantasy Flight 판 (2008~) 확장 여럿",
+      "by": "Eon Products (Bill Eberle 외)",
+      "year": 1977,
+      "country": "미국",
+      "setting": "저마다 다른 능력을 지닌 수십 외계 종족이 협상과 배신으로 남의 별에 식민지를 세운다.",
+      "concepts": [
+        "alien",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1977년부터 이어진 협상 보드게임의 고전(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어판 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%BD%94%EC%8A%A4%EB%AF%B9%20%EC%9D%B8%EC%B9%B4%EC%9A%B4%ED%84%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spelljammer",
+      "orig": "Spelljammer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "탁상 게임",
+        "소설",
+        "게임"
+      ],
+      "first_medium": "탁상 게임",
+      "series": "AD&D Spelljammer (1989), D&D 5판 Spelljammer: Adventures in Space (2022), 소설·게임",
+      "by": "TSR, Wizards of the Coast",
+      "year": 1989,
+      "country": "미국",
+      "setting": "마법으로 움직이는 범선이 수정 구체로 감싼 세계들 사이의 우주를 건너는 던전 앤 드래곤 세계관.",
+      "concepts": [
+        "antigravity",
+        "other_realm",
+        "spacers"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "던전 앤 드래곤 공식 세계관, 5판에서 되살아남(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어판 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%8E%A0%EC%9E%BC%EB%A8%B8"
+      },
+      "borderline": true
+    },
+    {
+      "id": "zoids",
+      "orig": "ZOIDS",
+      "orig_en": "",
+      "ko": "조이드",
+      "ko_src": "나무위키(대원방송 방영, 2차)",
+      "media": [
+        "탁상 게임",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "탁상 게임",
+      "series": "ZOIDS 완구 (1983~), 애니메이션 조이드 (1999)·조이드 신세기 제로 등, 게임 여럿",
+      "by": "TOMY (타카라토미)",
+      "year": 1983,
+      "country": "일본",
+      "setting": "금속 생명체가 사는 행성 Zi 에서 지구 이주민의 후손들이 동물 모양 기계 생명체를 타고 싸운다.",
+      "concepts": [
+        "living_machine",
+        "mecha",
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "완구 누계 4,400만 개, 매출 830억 엔(나무위키), 대원방송 방영",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션 대원방송 방영(나무위키 분류, 2차), 완구 국내 판매, 정식 스트리밍은 확인 못 함",
+        "src": "https://namu.wiki/w/%EC%A1%B0%EC%9D%B4%EB%93%9C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "android_ffg",
+      "orig": "Android",
+      "orig_en": "",
+      "ko": "안드로이드 넷러너",
+      "ko_src": "나무위키(2015 정식 한글판, 2차)",
+      "media": [
+        "탁상 게임"
+      ],
+      "first_medium": "탁상 게임",
+      "series": "Android 보드게임 (2008), Android: Netrunner (2012~2018), Infiltration, New Angeles 등",
+      "by": "Fantasy Flight Games",
+      "year": 2008,
+      "country": "미국",
+      "setting": "달과 화성에 식민지를 둔 미래, 우주 엘리베이터 도시 뉴 엔젤레스에서 거대 기업과 해커가 맞선다.",
+      "concepts": [
+        "mega_corp",
+        "android",
+        "clone",
+        "space_elevator",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "안드로이드: 넷러너가 국내에서 가장 대회가 많은 보드게임으로 꼽힘(나무위키), 확장 여럿",
+      "korean": {
+        "status": "일부",
+        "detail": "안드로이드: 넷러너 정식 한글판 코어 세트 2015년 1월(나무위키, 2차), 다른 게임은 확인 못 함",
+        "src": "https://namu.wiki/w/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%3A%20%EB%84%B7%EB%9F%AC%EB%84%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "another_life",
+      "orig": "Another Life",
+      "orig_en": "",
+      "ko": "어나더 라이프",
+      "ko_src": "저스트워치 한국(넷플릭스)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Another Life (넷플릭스 2019~2021, 두 시즌)",
+      "by": "Aaron Martin",
+      "year": 2019,
+      "country": "미국",
+      "setting": "지구에 내린 거대한 외계 물체가 보내는 신호를 따라 탐사선이 먼 별로 떠난다.",
+      "concepts": [
+        "first_contact",
+        "alien",
+        "ai",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "넷플릭스 오리지널 두 시즌(평가는 낮음, 나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 정식 스트리밍(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/eonadeo-raipeu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "captain_scarlet",
+      "orig": "Captain Scarlet and the Mysterons",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Captain Scarlet and the Mysterons (1967 인형극), New Captain Scarlet (2005 CG)",
+      "by": "Gerry Anderson, Sylvia Anderson",
+      "year": 1967,
+      "country": "영국",
+      "setting": "2060년대 화성 탐사대가 보이지 않는 화성 지성체를 건드리고, 지구 방위대가 그들이 되살린 복제 인간과 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "resurrection",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "썬더버드의 후속 인형극, 20여 나라 방영(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1970년대 초 MBC 방영(나무위키, 2차), 지금 정식 스트리밍은 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%BA%A1%ED%8B%B4%20%EC%8A%A4%EC%B9%BC%EB%A0%9B"
+      },
+      "borderline": false
+    },
+    {
+      "id": "before_we_vanish",
+      "orig": "散歩する侵略者",
+      "orig_en": "Before We Vanish",
+      "ko": "산책하는 침략자",
+      "ko_src": "KOBIS(2018 개봉)",
+      "media": [
+        "희곡",
+        "영화",
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "희곡",
+      "series": "극단 이키우메 연극 (2005), 소설, 구로사와 기요시 영화 (2017), 드라마판",
+      "by": "前川知大",
+      "year": 2005,
+      "country": "일본",
+      "setting": "사람 몸을 빌린 외계인들이 지구인에게서 '가족'·'자유' 같은 개념을 하나씩 빼앗아 배운다.",
+      "concepts": [
+        "alien",
+        "impostor",
+        "memory_edit"
+      ],
+      "new_ideas": "개념을 빼앗아 가는 침략",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 영화가 칸 영화제 주목할 만한 시선 초청(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 국내 개봉(KOBIS), 그래픽노블 알마 2019(교보문고)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%82%B0%EC%B1%85%ED%95%98%EB%8A%94%20%EC%B9%A8%EB%9E%B5%EC%9E%90"
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_wolf",
+      "orig": "The Star Wolf",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Edmond Hamilton 소설 Starwolf 3부작 (1967~1968) — 츠부라야 특촬 드라마 スターウルフ (1978, 24화)",
+      "by": "Edmond Hamilton",
+      "year": 1967,
+      "country": "미국",
+      "setting": "해적 별 출신으로 동족에게 쫓긴 지구인이 용병단에 들어 은하를 누빈다.",
+      "concepts": [
+        "alien",
+        "fleet_battle",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "캡틴 퓨처 작가의 연작, 츠부라야 창립 15주년 특촬로 드라마화(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "교보문고·저스트워치 한국에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%83%80%EC%9A%B8%ED%94%84%28%ED%8A%B9%EC%B4%AC%29"
+      },
+      "borderline": false
+    },
+    {
+      "id": "message_from_space",
+      "orig": "宇宙からのメッセージ",
+      "orig_en": "Message from Space",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "영화 (1978, 후카사쿠 긴지), TV 宇宙からのメッセージ 銀河大戦 (1978~1979, 27화)",
+      "by": "深作欣二, 東映",
+      "year": 1978,
+      "country": "일본",
+      "setting": "태양계 연방의 식민 행성을 우주 제국이 쳐들어오고, 범선 모양 우주선의 용사들이 맞선다.",
+      "concepts": [
+        "galactic_empire",
+        "colonization",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스타워즈 붐 속 토에이 대작 영화와 TV 시리즈(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "TV판이 1991년 '우주비행사와 캔달'로 비디오 수입(나무위키, 2차), 영화는 확인 못 함",
+        "src": "https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EB%A1%9C%EB%B6%80%ED%84%B0%EC%9D%98%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%9D%80%ED%95%98%EB%8C%80%EC%A0%84"
+      },
+      "borderline": false
+    },
+    {
+      "id": "zone_fighter",
+      "orig": "流星人間ゾーン",
+      "orig_en": "Zone Fighter",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TV 26화 (1973)",
+      "by": "東宝映像",
+      "year": 1973,
+      "country": "일본",
+      "setting": "고향 별을 잃고 지구에 정착한 외계인 가족이 괴수를 앞세운 침략자에 맞선다. 고지라도 편을 든다.",
+      "concepts": [
+        "alien",
+        "alien_invasion",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 고지라가 출연한 도호 특촬(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%9C%A0%EC%84%B1%EC%9D%B8%EA%B0%84%20%EC%A1%B4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spectreman",
+      "orig": "スペクトルマン",
+      "orig_en": "Spectreman",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TV 63화 (1971~1972)",
+      "by": "ピー・プロダクション",
+      "year": 1971,
+      "country": "일본",
+      "setting": "지구를 노리는 외계 원숭이 과학자가 공해로 괴수를 만들고, 외계 연맹이 보낸 사이보그가 맞선다.",
+      "concepts": [
+        "alien_invasion",
+        "cyborg",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 63화 장기 방영, 명작 특촬로 평가(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%8E%99%ED%8B%80%EB%A7%A8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "captain_ultra",
+      "orig": "キャプテンウルトラ",
+      "orig_en": "Captain Ultra",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TV 24화 (1967)",
+      "by": "東映",
+      "year": 1967,
+      "country": "일본",
+      "setting": "우주 개척 시대, 우주 경비대 대장과 로봇·외계인 동료가 우주 괴물과 침략자를 막는다.",
+      "concepts": [
+        "alien",
+        "space_beast",
+        "robot",
+        "translator"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "울트라맨과 울트라 세븐 사이에 방영된 토에이 우주 특촬(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%BA%A1%ED%8B%B4%20%EC%9A%B8%ED%8A%B8%EB%9D%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "woo_2006",
+      "orig": "生物彗星WoO",
+      "orig_en": "Bio Planet WoO",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK TV 13화 (2006)",
+      "by": "NHK, 円谷プロダクション",
+      "year": 2006,
+      "country": "일본",
+      "setting": "부서진 혜성 조각들이 사람을 먹는 괴수가 되고, 한 조각에서 태어난 작은 생물이 소녀와 함께 싸운다.",
+      "concepts": [
+        "space_beast",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 울트라맨의 원형이 된 옛 기획을 되살린 NHK 특촬(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 방영 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%83%9D%EB%AC%BC%ED%98%9C%EC%84%B1%20WoO"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_natgeo",
+      "orig": "Mars",
+      "orig_en": "",
+      "ko": "인류의 새로운 시작, 마스",
+      "ko_src": "저스트워치 한국(디즈니+)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "National Geographic Mars 두 시즌 (2016·2018)",
+      "by": "National Geographic, Ron Howard·Brian Grazer(제작)",
+      "year": 2016,
+      "country": "미국",
+      "setting": "가까운 미래 첫 유인 화성 탐사대가 내리고 기지를 넓혀 가는 과정을 다큐멘터리와 극으로 엮는다.",
+      "concepts": [
+        "colonization",
+        "terraforming",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "내셔널 지오그래픽 첫 드라마 시리즈, 두 시즌(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+(저스트워치 한국), 2016년 국내 내셔널 지오그래픽 채널 방영(나무위키)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/maseu"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stars_gossip",
+      "orig": "별들에게 물어봐",
+      "orig_en": "When the Stars Gossip",
+      "ko": "별들에게 물어봐",
+      "ko_src": "한국 원작",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "tvN 별들에게 물어봐 (2025, 16부작)",
+      "by": "tvN·키이스트(제작)",
+      "year": 2025,
+      "country": "한국",
+      "setting": "지구 궤도 우주 정거장에서 일하는 여성 사령관과 관광객으로 온 산부인과 의사가 얽힌다.",
+      "concepts": [
+        "habitat",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "국내 첫 우주 정거장 배경 드라마, 제작비 약 500억 원(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "tvN 드라마, 넷플릭스·티빙(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/byeoldeulege-muleobwa"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gorath",
+      "orig": "妖星ゴラス",
+      "orig_en": "Gorath",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "妖星ゴラス (1962)",
+      "by": "本多猪四郎, 東宝",
+      "year": 1962,
+      "country": "일본",
+      "setting": "지구보다 6천 배 무거운 떠돌이 별이 다가오자, 인류는 남극에 거대 추진기를 세워 지구를 옮긴다.",
+      "concepts": [
+        "planet_killer",
+        "megastructure"
+      ],
+      "new_ideas": "행성을 피하려 지구 자체를 움직이기",
+      "lore_size": "작음",
+      "notability": "도호 특촬 SF 영화(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS·저스트워치 한국에서 볼 곳을 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%9A%94%EC%84%B1%20%EA%B3%A0%EB%9D%BC%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "knowing",
+      "orig": "Knowing",
+      "orig_en": "",
+      "ko": "노잉",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Knowing (2009)",
+      "by": "Alex Proyas",
+      "year": 2009,
+      "country": "미국",
+      "setting": "50년 전 타임캡슐에서 나온 숫자 종이가 재난을 맞히고, 태양의 불길과 낯선 존재가 아이들을 데려간다.",
+      "concepts": [
+        "precognition",
+        "catastrophe",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 니컬러스 케이지 주연 재난 SF(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2009년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%85%B8%EC%9E%89"
+      },
+      "borderline": false
+    },
+    {
+      "id": "deep_impact",
+      "orig": "Deep Impact",
+      "orig_en": "",
+      "ko": "딥 임팩트",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Deep Impact (1998)",
+      "by": "Mimi Leder",
+      "year": 1998,
+      "country": "미국",
+      "setting": "지구로 오는 혜성을 우주선이 쫓아가 핵폭탄으로 부수려 하고, 땅 위에서는 피난 추첨이 벌어진다.",
+      "concepts": [
+        "catastrophe",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스필버그 제작, 클라크 '신의 망치' 판권에서 출발(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1998년 국내 개봉(KOBIS), 웨이브(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%94%A5%20%EC%9E%84%ED%8C%A9%ED%8A%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dont_look_up",
+      "orig": "Don't Look Up",
+      "orig_en": "",
+      "ko": "돈 룩 업",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Don't Look Up (2021)",
+      "by": "Adam McKay",
+      "year": 2021,
+      "country": "미국",
+      "setting": "지구로 돌진하는 혜성을 발견한 천문학자들의 경고를 정치와 언론이 흘려듣는다.",
+      "concepts": [
+        "catastrophe",
+        "planet_killer",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "넷플릭스·극장 공개, 디카프리오·제니퍼 로런스 주연(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2021년 국내 개봉(KOBIS), 넷플릭스(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%8F%88%20%EB%A3%A9%20%EC%97%85"
+      },
+      "borderline": true
+    },
+    {
+      "id": "mission_to_mars",
+      "orig": "Mission to Mars",
+      "orig_en": "",
+      "ko": "미션 투 마스",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mission to Mars (2000)",
+      "by": "Brian De Palma",
+      "year": 2000,
+      "country": "미국",
+      "setting": "첫 화성 탐사대가 사라진 뒤 구조대가 화성에 내려 인류 기원과 얽힌 외계 유적을 만난다.",
+      "concepts": [
+        "precursor",
+        "colonization",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "브라이언 드 팔마 감독, 카이에 뒤 시네마 2000년 베스트 4위(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2000년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%AF%B8%EC%85%98%20%ED%88%AC%20%EB%A7%88%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_blob",
+      "orig": "The Blob",
+      "orig_en": "",
+      "ko": "우주 생명체 블롭",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Blob (1958), Beware! The Blob (1972), 리메이크 (1988)",
+      "by": "Irvin Yeaworth",
+      "year": 1958,
+      "country": "미국",
+      "setting": "운석에 실려 온 젤리 같은 생물이 시골 마을 사람들을 삼키며 불어난다.",
+      "concepts": [
+        "space_beast",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] B급 고전으로 꼽힘, 1988년 리메이크(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1988 리메이크가 KOBIS 에 '우주 생명체 블롭'으로 등록, 1958판 DVD 정발(나무위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%B8%94%EB%A1%AD"
+      },
+      "borderline": false
+    },
+    {
+      "id": "super_8",
+      "orig": "Super 8",
+      "orig_en": "",
+      "ko": "슈퍼 에이트",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Super 8 (2011)",
+      "by": "J. J. Abrams",
+      "year": 2011,
+      "country": "미국",
+      "setting": "1979년 아이들이 영화를 찍다 본 열차 사고 뒤로 군이 숨겨 온 외계 생물이 마을에 풀려난다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 스필버그 제작, J. J. 에이브럼스 감독(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%88%ED%8D%BC%20%EC%97%90%EC%9D%B4%ED%8A%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "skyline",
+      "orig": "Skyline",
+      "orig_en": "",
+      "ko": "스카이라인",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Skyline (2010), Beyond Skyline (2017), Skylines (2020)",
+      "by": "Strause 형제, Liam O'Donnell",
+      "year": 2010,
+      "country": "미국",
+      "setting": "푸른 빛으로 사람을 빨아들이는 외계 함대가 지구를 덮치고, 뒤에는 그들의 배와 행성으로 싸움이 옮겨 간다.",
+      "concepts": [
+        "alien_invasion",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 세 편(2010·2017·2020, 나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 국내 개봉(나무위키), 3편 '스카이라인: 라스트 워' 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "screamers",
+      "orig": "Screamers",
+      "orig_en": "",
+      "ko": "스크리머스",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Screamers (1995), Screamers: The Hunting (2009)",
+      "by": "Christian Duguay",
+      "year": 1995,
+      "country": "캐나다",
+      "setting": "광산 행성 시리우스 6B 의 전쟁에서 스스로 진화하는 살인 기계가 사람 모습을 흉내 내기 시작한다.",
+      "concepts": [
+        "self_replicate",
+        "impostor",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "필립 K. 딕 '두 번째 변종' 원작, 속편 2009(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1996년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%A4%ED%81%AC%EB%A6%AC%EB%A8%B8%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starman",
+      "orig": "Starman",
+      "orig_en": "",
+      "ko": "스타맨",
+      "ko_src": "저스트워치 한국(넷플릭스)",
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "Starman (1984)",
+      "by": "John Carpenter",
+      "year": 1984,
+      "country": "미국",
+      "setting": "보이저 호의 초대를 받고 온 외계인이 죽은 남편 모습으로 나타나 아내와 함께 미국을 가로지른다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 아카데미 남우주연상 후보, 1986 TV 드라마화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1991 대우비디오 출시·KBS 드라마 방영(나무위키), 넷플릭스(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/seutamaen"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spaceballs",
+      "orig": "Spaceballs",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Spaceballs (1987)",
+      "by": "Mel Brooks",
+      "year": 1987,
+      "country": "미국",
+      "setting": "공기를 다 써 버린 행성 스페이스볼이 이웃 별의 공기를 훔치려 하고, 떠돌이 조종사가 공주를 구한다.",
+      "concepts": [
+        "galactic_empire",
+        "cosmic_force"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "멜 브룩스의 스타워즈 패러디, 2027년 속편 예정(저스트워치 한국)",
+      "korean": {
+        "status": "있음",
+        "detail": "1991년 대우비디오 '스페이스워즈'로 출시(나무위키, 2차)",
+        "src": "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B3%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outland",
+      "orig": "Outland",
+      "orig_en": "",
+      "ko": "아웃랜드",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Outland (1981)",
+      "by": "Peter Hyams",
+      "year": 1981,
+      "country": "영국",
+      "setting": "목성 위성 이오의 광산 기지에 온 치안관이 노동자들을 죽게 하는 회사의 약물을 파헤친다.",
+      "concepts": [
+        "mega_corp",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 음향상 후보, 휴고상 후보(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록(개봉 표시 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%95%84%EC%9B%83%EB%9E%9C%EB%93%9C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ad_astra",
+      "orig": "Ad Astra",
+      "orig_en": "",
+      "ko": "애드 아스트라",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ad Astra (2019)",
+      "by": "James Gray",
+      "year": 2019,
+      "country": "미국",
+      "setting": "해왕성 근처에서 사라진 아버지의 실험이 태양계를 흔들자, 아들이 달·화성을 거쳐 그를 찾아간다.",
+      "concepts": [
+        "colonization",
+        "fermi"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "베네치아 영화제 경쟁 부문(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2019년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%95%A0%EB%93%9C%20%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "battle_la",
+      "orig": "Battle: Los Angeles",
+      "orig_en": "",
+      "ko": "월드 인베이젼",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Battle: Los Angeles (2011)",
+      "by": "Jonathan Liebesman",
+      "year": 2011,
+      "country": "미국",
+      "setting": "유성처럼 떨어진 외계 군대가 지구 해안 도시들을 치고, 해병대 소대가 로스앤젤레스에서 버틴다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 2011년 소니 픽처스 배급(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9B%94%EB%93%9C%20%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%A0%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "geostorm",
+      "orig": "Geostorm",
+      "orig_en": "",
+      "ko": "지오스톰",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Geostorm (2017)",
+      "by": "Dean Devlin",
+      "year": 2017,
+      "country": "미국",
+      "setting": "날씨를 다스리는 인공위성망과 우주 정거장이 고장 나 지구 곳곳에 기상 재앙이 터진다.",
+      "concepts": [
+        "megastructure",
+        "habitat",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "인디펜던스 데이 제작진, 2017년 워너 배급(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2017년 국내 개봉(KOBIS), 넷플릭스·웨이브(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%A7%80%EC%98%A4%EC%8A%A4%ED%86%B0"
+      },
+      "borderline": true
+    },
+    {
+      "id": "last_starfighter",
+      "orig": "The Last Starfighter",
+      "orig_en": "",
+      "ko": "최후의 스타화이터",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Last Starfighter (1984)",
+      "by": "Nick Castle",
+      "year": 1984,
+      "country": "미국",
+      "setting": "오락실 게임이 사실은 외계 연맹의 조종사 선발 시험이었고, 최고 점수를 낸 시골 소년이 우주 전쟁에 불려 간다.",
+      "concepts": [
+        "federation",
+        "alien",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "컴퓨터 그래픽을 본격적으로 쓴 초기 영화로 꼽힘(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "국내 미개봉, 비디오 출시(나무위키), KOBIS 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%B5%9C%ED%9B%84%EC%9D%98%20%EC%8A%A4%ED%83%80%ED%99%94%EC%9D%B4%ED%84%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cowboys_aliens",
+      "orig": "Cowboys & Aliens",
+      "orig_en": "",
+      "ko": "카우보이 & 에이리언",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "그래픽노블 Cowboys & Aliens (2006) — 영화 (2011)",
+      "by": "Jon Favreau",
+      "year": 2011,
+      "country": "미국",
+      "setting": "1873년 서부의 사막 마을에 금을 노린 외계인이 쳐들어오고, 기억을 잃은 무법자의 팔찌가 무기가 된다.",
+      "concepts": [
+        "alien_invasion",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 스콧 미첼 로젠버그 그래픽노블 원작, 국내 관객 25만(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011년 국내 개봉(나무위키), 저스트워치 한국 등록",
+        "src": "https://www.justwatch.com/kr/영화/cowboys-and-aliens"
+      },
+      "borderline": false
+    },
+    {
+      "id": "prospect",
+      "orig": "Prospect",
+      "orig_en": "",
+      "ko": "프로스펙트",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Prospect (2018)",
+      "by": "Christopher Caldwell, Zeek Earl",
+      "year": 2018,
+      "country": "미국",
+      "setting": "숲으로 뒤덮인 위성에서 보석을 캐던 소녀가 아버지를 잃고, 낯선 채굴꾼과 행성을 빠져나가려 한다.",
+      "concepts": [
+        "colonization",
+        "alien_ecology",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "저예산 독립 SF 로 호평(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2019년 국내 개봉(나무위키), 웨이브·티빙(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8E%99%ED%8A%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_attacks",
+      "orig": "Mars Attacks!",
+      "orig_en": "",
+      "ko": "팀버튼의 화성침공",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Topps 카드 Mars Attacks (1962) — 영화 (1996)",
+      "by": "Tim Burton",
+      "year": 1996,
+      "country": "미국",
+      "setting": "평화를 말하며 내려온 화성인들이 웃으며 광선총을 쏘아 대고, 엉뚱한 무기가 지구를 구한다.",
+      "concepts": [
+        "alien_invasion",
+        "beam_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 1962년 카드 원작, 팀 버튼 감독(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1997년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%99%94%EC%84%B1%EC%B9%A8%EA%B3%B5"
+      },
+      "borderline": false
+    },
+    {
+      "id": "pandorum",
+      "orig": "Pandorum",
+      "orig_en": "",
+      "ko": "팬도럼",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Pandorum (2009)",
+      "by": "Christian Alvart",
+      "year": 2009,
+      "country": "독일",
+      "setting": "새 행성으로 가던 거대 이주선에서 깨어난 승무원들이, 배 안을 차지한 괴물과 우주 정신병 '팬도럼'과 싸운다.",
+      "concepts": [
+        "generation_ship",
+        "cryosleep",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "시간이 지나며 SF 호러 수작으로 재평가(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2009년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%8C%AC%EB%8F%84%EB%9F%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "high_life",
+      "orig": "High Life",
+      "orig_en": "",
+      "ko": "하이 라이프",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "High Life (2018)",
+      "by": "Claire Denis",
+      "year": 2018,
+      "country": "프랑스",
+      "setting": "사형수들을 태운 우주선이 블랙홀을 향하고, 배 안에서는 아이를 낳게 하는 실험이 이어진다.",
+      "concepts": [
+        "infertility",
+        "sublight",
+        "time_dilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "클레르 드니 첫 영어 영화, 평단 호평(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2019년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%95%98%EC%9D%B4%20%EB%9D%BC%EC%9D%B4%ED%94%84"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sputnik_2020",
+      "orig": "Спутник",
+      "orig_en": "Sputnik",
+      "ko": "스푸트닉",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Спутник (2020)",
+      "by": "Егор Абраменко",
+      "year": 2020,
+      "country": "러시아",
+      "setting": "1983년 사고로 돌아온 소련 우주인의 몸속에 정체 모를 외계 생물이 함께 살고 있다.",
+      "concepts": [
+        "parasite",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "러시아 SF 공포, 국내 개봉(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2021년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%A4%ED%91%B8%ED%8A%B8%EB%8B%89"
+      },
+      "borderline": false
+    },
+    {
+      "id": "attraction_2017",
+      "orig": "Притяжение",
+      "orig_en": "Attraction",
+      "ko": "인베이젼 2020",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Притяжение (2017), Вторжение (2019)",
+      "by": "Фёдор Бондарчук",
+      "year": 2017,
+      "country": "러시아",
+      "setting": "모스크바에 추락한 외계 우주선을 두고 주민과 군대가 맞서고, 속편에서는 외계 지성이 물을 무기로 삼는다.",
+      "concepts": [
+        "alien_invasion",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 러시아 흥행작과 속편 인베이젼 2020(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "속편이 2020년 국내 개봉(KOBIS), 웨이브·왓챠·티빙(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9D%B8%EB%B2%A0%EC%9D%B4%EC%A0%BC%202020"
+      },
+      "borderline": false
+    },
+    {
+      "id": "attack_the_block",
+      "orig": "Attack the Block",
+      "orig_en": "",
+      "ko": "어택 더 블록",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Attack the Block (2011)",
+      "by": "Joe Cornish",
+      "year": 2011,
+      "country": "영국",
+      "setting": "런던 남부 공공 아파트 단지에 외계 괴수가 떨어지고, 동네 불량 소년들이 그들과 싸운다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 존 보예가 데뷔작, 에드거 라이트 제작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 온라인 전용 등록, 왓챠(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/eotaeg-deo-beulrog"
+      },
+      "borderline": false
+    },
+    {
+      "id": "upside_down",
+      "orig": "Upside Down",
+      "orig_en": "",
+      "ko": "업사이드 다운",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Upside Down (2012)",
+      "by": "Juan Solanas",
+      "year": 2012,
+      "country": "프랑스·캐나다",
+      "setting": "중력이 서로 반대인 두 쌍둥이 행성에서, 아래 세계 청년이 위 세계 여인을 만나려 한다.",
+      "concepts": [
+        "class_divide",
+        "mega_corp"
+      ],
+      "new_ideas": "두 행성의 중력이 서로 섞이지 않는 세계",
+      "lore_size": "작음",
+      "notability": "프랑스·캐나다 합작 SF 로맨스(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "국내 개봉(나무위키), 웨이브·왓챠(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/eobsaideu-daun"
+      },
+      "borderline": true
+    },
+    {
+      "id": "worlds_end",
+      "orig": "The World's End",
+      "orig_en": "",
+      "ko": "지구가 끝장 나는 날",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The World's End (2013)",
+      "by": "Edgar Wright",
+      "year": 2013,
+      "country": "영국",
+      "setting": "옛 친구들이 고향에서 술집 순례를 하다, 주민들이 외계 로봇으로 바꿔치기된 것을 알게 된다.",
+      "concepts": [
+        "impostor",
+        "android",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 에드거 라이트 '코르네토 3부작' 마지막 편(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "국내 미개봉, VOD 수입(나무위키), 웨이브(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/the-worlds-end"
+      },
+      "borderline": false
+    },
+    {
+      "id": "destination_moon",
+      "orig": "Destination Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Destination Moon (1950)",
+      "by": "Irving Pichel, George Pal(제작)",
+      "year": 1950,
+      "country": "미국",
+      "setting": "민간 기업가들이 정부를 앞질러 핵 로켓으로 첫 유인 달 탐사에 나선다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상, 레트로 휴고상(나무위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국 공개 기록을 찾지 못함",
+        "src": "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%ED%8B%B0%EB%84%A4%EC%9D%B4%EC%85%98%20%EB%AC%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "voyagers_2021",
+      "orig": "Voyagers",
+      "orig_en": "",
+      "ko": "보이저스",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Voyagers (2021)",
+      "by": "Neil Burger",
+      "year": 2021,
+      "country": "미국",
+      "setting": "새 행성까지 86년 걸리는 우주선에서 자라는 아이들이 감정을 누르는 약을 끊자 질서가 무너진다.",
+      "concepts": [
+        "generation_ship",
+        "control_society",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "닐 버거 감독, 2021년 라이언스게이트 배급(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2021년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%B3%B4%EC%9D%B4%EC%A0%80%EC%8A%A4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_cowboys",
+      "orig": "Space Cowboys",
+      "orig_en": "",
+      "ko": "스페이스 카우보이",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Space Cowboys (2000)",
+      "by": "Clint Eastwood",
+      "year": 2000,
+      "country": "미국",
+      "setting": "옛 공군 시험 조종사 노인들이 고장 난 소련 위성을 고치러 마침내 우주로 올라간다.",
+      "concepts": [
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 음향편집상 후보, 베네치아 영화제 개막작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2000년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%B9%B4%EC%9A%B0%EB%B3%B4%EC%9D%B4"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_needs_moms",
+      "orig": "Mars Needs Moms",
+      "orig_en": "",
+      "ko": "화성은 엄마가 필요해",
+      "ko_src": "저스트워치 한국(디즈니+)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Mars Needs Moms (2011)",
+      "by": "Simon Wells",
+      "year": 2011,
+      "country": "미국",
+      "setting": "아이를 기계가 키우는 화성인들이 지구 엄마들을 납치하고, 소년이 엄마를 구하러 화성에 간다.",
+      "concepts": [
+        "alien",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Berkeley Breathed 그림책 원작, 디즈니 3D 애니메이션(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "국내 개봉 취소(나무위키), 디즈니+(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/mars-needs-moms"
+      },
+      "borderline": false
+    },
+    {
+      "id": "apollo_18",
+      "orig": "Apollo 18",
+      "orig_en": "",
+      "ko": "아폴로 18",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Apollo 18 (2011)",
+      "by": "Gonzalo López-Gallego",
+      "year": 2011,
+      "country": "미국",
+      "setting": "취소된 줄 알았던 비밀 달 탐사에서 우주인들이 바위인 척하는 생물에게 쫓긴다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "저예산으로 제작비 다섯 배 흥행(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록(국내 미개봉, 나무위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%95%84%ED%8F%B4%EB%A1%9C%2018"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gravity_2013",
+      "orig": "Gravity",
+      "orig_en": "",
+      "ko": "그래비티",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Gravity (2013)",
+      "by": "Alfonso Cuarón",
+      "year": 2013,
+      "country": "미국",
+      "setting": "위성 파편 폭풍에 우주 왕복선이 부서지고, 홀로 남은 우주인이 정거장들을 건너 지구로 돌아오려 한다.",
+      "concepts": [
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 감독상 등 7개 부문 수상, 국내 관객 300만 명대(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2013년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EA%B7%B8%EB%9E%98%EB%B9%84%ED%8B%B0"
+      },
+      "borderline": false
+    },
+    {
+      "id": "species_film",
+      "orig": "Species",
+      "orig_en": "",
+      "ko": "스피시즈",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Species (1995), Species II (1998), III (2004), The Awakening (2007)",
+      "by": "Roger Donaldson",
+      "year": 1995,
+      "country": "미국",
+      "setting": "외계에서 받은 유전자 정보로 만든 여성 생명체가 연구소를 빠져나와 짝을 찾는다.",
+      "concepts": [
+        "alien",
+        "genetic_eng",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 영화 네 편으로 이어짐(KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "1995년 국내 개봉, 2편 1998 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%8A%A4%ED%94%BC%EC%8B%9C%EC%A6%88"
+      },
+      "borderline": false
+    },
+    {
+      "id": "paul_2011",
+      "orig": "Paul",
+      "orig_en": "",
+      "ko": "황당한 외계인: 폴",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Paul (2011)",
+      "by": "Greg Mottola",
+      "year": 2011,
+      "country": "영국·미국",
+      "setting": "60년 동안 미국 정부에 붙잡혀 있던 외계인이 탈출해, 영국 SF 덕후 두 사람과 고향 별 마중 지점까지 간다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 사이먼 페그·닉 프로스트 주연, 영국 박스오피스 1위(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%ED%99%A9%EB%8B%B9%ED%95%9C%20%EC%99%B8%EA%B3%84%EC%9D%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "signs_2002",
+      "orig": "Signs",
+      "orig_en": "",
+      "ko": "싸인",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Signs (2002)",
+      "by": "M. Night Shyamalan",
+      "year": 2002,
+      "country": "미국",
+      "setting": "옥수수밭에 나타난 거대한 무늬 뒤로 외계인 침공이 시작되고, 신앙을 잃은 목사 가족이 집에서 버틴다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 멜 깁슨 주연 샤말란 영화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2002년 국내 개봉(나무위키), 디즈니+·웨이브(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/ssain"
+      },
+      "borderline": false
+    },
+    {
+      "id": "battleship_2012",
+      "orig": "Battleship",
+      "orig_en": "",
+      "ko": "배틀쉽",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Battleship (2012)",
+      "by": "Peter Berg",
+      "year": 2012,
+      "country": "미국",
+      "setting": "외계 행성에 보낸 신호를 받고 온 외계 함대와 하와이 훈련 중이던 각국 해군이 맞붙는다.",
+      "concepts": [
+        "alien_invasion",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 해즈브로 보드게임 원작, 유니버설 100주년 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2012년 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EB%B0%B0%ED%8B%80%EC%89%BD"
+      },
+      "borderline": false
+    },
+    {
+      "id": "evolution_2001",
+      "orig": "Evolution",
+      "orig_en": "",
+      "ko": "에볼루션",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Evolution (2001)",
+      "by": "Ivan Reitman",
+      "year": 2001,
+      "country": "미국",
+      "setting": "애리조나 사막에 떨어진 운석 속 외계 미생물이 며칠 만에 수억 년의 진화를 거쳐 퍼진다.",
+      "concepts": [
+        "alien_ecology",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 아이반 라이트먼 감독, 애니메이션 속편 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "SBS 더빙 방영(나무위키), 웨이브·왓챠(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/영화/evolution"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galaxy_legend_terra",
+      "orig": "은하전설 테라",
+      "orig_en": "",
+      "ko": "은하전설 테라",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "은하전설 테라 (1983)",
+      "by": "홍상만, 대원동화",
+      "year": 1983,
+      "country": "한국",
+      "setting": "시리우스 탐사대 청년이 낯선 행성에서 그곳을 다스리려는 환마 여왕과 맞서지만, 그 별의 정체가 드러난다.",
+      "concepts": [
+        "colonization",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "당시 한국 애니메이션 가운데 좋은 평가(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1984년 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9D%80%ED%95%98%EC%A0%84%EC%84%A4%20%ED%85%8C%EB%9D%BC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_black_knight",
+      "orig": "우주 흑기사",
+      "orig_en": "",
+      "ko": "우주흑기사",
+      "ko_src": "한국 원작",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "허영만 만화 '우주의 흑기사' — 극장 애니메이션 (1979)",
+      "by": "박종희(감독), 허영만(원작)",
+      "year": 1979,
+      "country": "한국",
+      "setting": "우주 침략자에 맞서는 흑기사의 싸움을 그린 극장 애니메이션.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "허영만 만화 원작 극장판, 건담 캐릭터 무단 사용으로 국내외에 알려짐(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1979년 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9A%B0%EC%A3%BC%ED%9D%91%EA%B8%B0%EC%82%AC"
+      },
+      "borderline": false
+    },
+    {
+      "id": "boy_007",
+      "orig": "소년 007 은하특공대",
+      "orig_en": "",
+      "ko": "소년 007 은하특공대",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "소년 007 은하특공대 (1980)",
+      "by": "임정규",
+      "year": 1980,
+      "country": "한국",
+      "setting": "쿠데타로 쫓겨난 별의 여왕이 지구로 피신하며 잃어버린 알에서 소년이 태어나, 자라서 고향 별을 되찾으려 한다.",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1980년 극장 개봉 한국 애니메이션(KOBIS)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1980년 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%86%8C%EB%85%84%20007"
+      },
+      "borderline": false
+    },
+    {
+      "id": "occupation_2018",
+      "orig": "Occupation",
+      "orig_en": "",
+      "ko": "아큐페이션",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Occupation (2018), Occupation: Rainfall (2021)",
+      "by": "Luke Sparke",
+      "year": 2018,
+      "country": "호주",
+      "setting": "지구를 개척하려는 외계인이 호주 작은 마을을 점령하고, 살아남은 사람들이 저항군을 만든다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 속편 레인폴(2021)까지 두 편(KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록·국내 개봉(나무위키), 웨이브·왓챠·티빙(저스트워치 한국)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%95%84%ED%81%90%ED%8E%98%EC%9D%B4%EC%85%98"
+      },
+      "borderline": false
+    },
+    {
+      "id": "orbiter_9",
+      "orig": "Órbita 9",
+      "orig_en": "Orbiter 9",
+      "ko": "오비터 9",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Órbita 9 (2017)",
+      "by": "Hatem Khraiche",
+      "year": 2017,
+      "country": "스페인",
+      "setting": "새 행성으로 가는 우주선에 홀로 남아 20년을 산 여자 앞에 한 남자가 나타나고, 우주선의 진실이 드러난다.",
+      "concepts": [
+        "generation_ship",
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스페인 SF, 국내 개봉(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2018년 국내 개봉(나무위키), KOBIS 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%98%A4%EB%B9%84%ED%84%B0%209"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kiddy_grade",
+      "orig": "キディ・グレイド",
+      "orig_en": "Kiddy Grade",
+      "ko": "키디 그레이드",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 24화 (2002~2003), 극장판 (2007), 키디 걸랜드 (2009)",
+      "by": "後藤圭二, GONZO",
+      "year": 2002,
+      "country": "일본",
+      "setting": "인류가 우주로 나간 지 450년, 은하 연합 경제 기구의 특수 요원 소녀 둘이 별 사이 범죄를 쫓는다.",
+      "concepts": [
+        "federation",
+        "mega_corp",
+        "genetic_eng",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "곤조 오리지널 TV 와 극장판·후속작(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔",
+        "src": "https://laftel.net/item/14224"
+      },
+      "borderline": false
+    },
+    {
+      "id": "valvrave",
+      "orig": "革命機ヴァルヴレイヴ",
+      "orig_en": "Valvrave the Liberator",
+      "ko": "혁명기 발브레이브",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 두 기 24화 (2013)",
+      "by": "松尾衡, サンライズ",
+      "year": 2013,
+      "country": "일본",
+      "setting": "중립국 우주 콜로니의 학생들이 강대국의 침공 속에, 타면 사람이 아니게 되는 로봇을 얻고 독립을 선언한다.",
+      "concepts": [
+        "habitat",
+        "mecha",
+        "colonial_war",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "선라이즈 오리지널 TV 두 기, 애니플러스 방영(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(판권 만료작으로 표시)",
+        "src": "https://laftel.net/item/23305"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gravion",
+      "orig": "超重神グラヴィオン",
+      "orig_en": "Gravion",
+      "ko": "초중신 그라비온",
+      "ko_src": "저스트워치 한국(크런치롤)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 13화 (2002), 超重神グラヴィオン Zwei (2004)",
+      "by": "大張正己, GONZO",
+      "year": 2002,
+      "country": "일본",
+      "setting": "우주 저편에서 오는 기계 침략자 젤라빌에 맞서, 외딴 성의 젊은이들이 합체 로봇을 몬다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 오바리 마사미 감독 곤조 로봇물 두 기(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "크런치롤(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/cojungsin-geurabion"
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_ako",
+      "orig": "プロジェクトA子",
+      "orig_en": "Project A-ko",
+      "ko": "극장판 프로젝트 A-Ko",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "극장판 (1986), OVA 2~4 (1987~1989)",
+      "by": "西島克彦",
+      "year": 1986,
+      "country": "일본",
+      "setting": "외계 함대의 왕녀를 찾아 우주선이 도시에 내려앉는 가운데, 괴력의 여고생과 천재 소녀가 다툰다.",
+      "concepts": [
+        "alien",
+        "alien_invasion",
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 1980년대 OVA 붐의 대표작으로 꼽힘(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(극장판), VHS '제1부 외계인의 침공'(나무위키)",
+        "src": "https://laftel.net/item/14924"
+      },
+      "borderline": false
+    },
+    {
+      "id": "1000xresist",
+      "orig": "1000xRESIST",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "1000xRESIST (2024)",
+      "by": "sunset visitor 斜陽過客",
+      "year": 2024,
+      "country": "캐나다",
+      "setting": "하늘에서 온 '점거자'가 퍼뜨린 역병 뒤, 살아남은 한 소녀를 받드는 복제 소녀들이 그녀의 기억을 거슬러 오른다.",
+      "concepts": [
+        "clone",
+        "memory_edit",
+        "alien",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 2024년 화제의 인디 어드벤처, 10만 장 판매(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어 지원(한국어 업데이트, 나무위키)",
+        "src": "https://store.steampowered.com/app/1675830"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_nine",
+      "orig": "エイリアン9",
+      "orig_en": "Alien Nine",
+      "ko": "에일리언 9",
+      "ko_src": "나무위키(애니맥스 코리아 방영명, 2차)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 (1998~1999), OVA 4화 (2001)",
+      "by": "冨沢ひとし",
+      "year": 1998,
+      "country": "일본",
+      "setting": "외계 생물이 수시로 나타나는 초등학교에서 '에일리언 대책 위원'이 된 아이들이 머리에 공생체를 얹고 싸운다.",
+      "concepts": [
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 정신을 흔드는 작품으로 꼽히는 만화, OVA 화(나무위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "OVA 가 애니맥스 코리아에서 더빙 방영(나무위키, 2차), 만화 정발은 교보문고에서 찾지 못함",
+        "src": "https://namu.wiki/w/%EC%97%90%EC%9D%BC%EB%A6%AC%EC%96%B8%209"
+      },
+      "borderline": false
+    },
+    {
+      "id": "giant_gorg",
+      "orig": "巨神ゴーグ",
+      "orig_en": "Giant Gorg",
+      "ko": "거신 고그",
+      "ko_src": "라프텔",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 26화 (1984)",
+      "by": "安彦良和, サンライズ",
+      "year": 1984,
+      "country": "일본",
+      "setting": "남태평양에 떠오른 섬에서 소년이 옛 외계 문명이 남긴 거대 로봇 고그와 그 섬의 비밀을 만난다.",
+      "concepts": [
+        "precursor",
+        "alien",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 야스히코 요시카즈 기획·감독 선라이즈 작품(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "라프텔(나무위키는 국내 방영 불가로 적음)",
+        "src": "https://laftel.net/item/14374"
+      },
+      "borderline": false
+    },
+    {
+      "id": "takopi",
+      "orig": "タコピーの原罪",
+      "orig_en": "Takopi's Original Sin",
+      "ko": "타코피의 원죄",
+      "ko_src": "교보문고(대원씨아이 2023)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 상·하 (2021~2022), 애니메이션 (2025)",
+      "by": "タイザン5",
+      "year": 2021,
+      "country": "일본",
+      "setting": "행복을 전하러 온 외계인이 신기한 도구로 따돌림받는 소녀를 도우려다 일이 꼬여 간다.",
+      "concepts": [
+        "alien",
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 1화 조회수 270만(나무위키), 2025년 애니메이션화",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 대원씨아이 2023(교보문고), 애니메이션 라프텔",
+        "src": "https://product.kyobobook.co.kr/detail/S000201233417"
+      },
+      "borderline": false
+    },
+    {
+      "id": "my_love_from_the_star",
+      "orig": "별에서 온 그대",
+      "orig_en": "My Love from the Star",
+      "ko": "별에서 온 그대",
+      "ko_src": "한국 원작",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "별에서 온 그대 (SBS 2013~2014, 21화)",
+      "by": "SBS",
+      "year": 2013,
+      "country": "한국",
+      "setting": "400년 전 지구에 떨어져 늙지 않고 살아온 외계인 남자가 떠나기 석 달 전 한 여배우를 만난다.",
+      "concepts": [
+        "alien",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 한국PD대상 작품상, 해외에서 크게 흥행(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "SBS 드라마, 넷플릭스·왓챠·티빙(저스트워치 한국)",
+        "src": "https://namu.wiki/w/%EB%B3%84%EC%97%90%EC%84%9C%20%EC%98%A8%20%EA%B7%B8%EB%8C%80"
+      },
+      "borderline": true
+    },
+    {
+      "id": "tommyknockers",
+      "orig": "The Tommyknockers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "The Tommyknockers (1987) — 미니시리즈 (1993)",
+      "by": "Stephen King",
+      "year": 1987,
+      "country": "미국",
+      "setting": "숲에 묻힌 외계 우주선을 파낸 뒤 마을 사람들이 발명 재주를 얻고 점점 다른 존재로 바뀐다.",
+      "concepts": [
+        "alien",
+        "precursor",
+        "assimilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 스티븐 킹 장편, 1993년 미니시리즈",
+      "korean": {
+        "status": "없음",
+        "detail": "교보문고에 원서만 있고 번역판 없음",
+        "src": "https://search.kyobobook.co.kr/search?keyword=Tommyknockers"
+      },
+      "borderline": true
+    },
+    {
+      "id": "to_love_ru",
+      "orig": "To LOVEる -とらぶる-",
+      "orig_en": "To Love Ru",
+      "ko": "To LOVE 트러블",
+      "ko_src": "교보문고(서울미디어코믹스)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "만화 18권 (2006~2009), To LOVE 트러블 다크니스 (2010~2017), TV 애니메이션·OVA 여럿",
+      "by": "長谷見沙貴, 矢吹健太朗",
+      "year": 2006,
+      "country": "일본",
+      "setting": "우주를 다스리는 데빌루크 별의 공주가 지구 소년 집에 눌러앉으며 외계인들이 줄줄이 찾아온다.",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 속편 다크니스까지 이어진 인기작, 애니메이션 여러 편(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "만화 서울문화사 18권 정발·2024 리커버판(교보문고, 나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000214094165"
+      },
+      "borderline": true
+    },
+    {
+      "id": "rokujouma",
+      "orig": "六畳間の侵略者!?",
+      "orig_en": "Invaders of the Rokujouma!?",
+      "ko": "단칸방의 침략자!?",
+      "ko_src": "교보문고(디앤씨미디어)",
+      "media": [
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "라이트 노벨 (2009~, 40권 넘게), TV 애니메이션 (2014)",
+      "by": "健速",
+      "year": 2009,
+      "country": "일본",
+      "setting": "싼 자취방을 차지하려는 외계 공주와 지저인, 마법소녀가 한 방에 모여 지구 침략을 겨룬다.",
+      "concepts": [
+        "alien",
+        "alien_invasion",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "[우주 경계] 마흔 권 넘는 장편 라이트 노벨, 애니메이션화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "소설 디앤씨미디어 35권까지(교보문고), 애니메이션 라프텔·왓챠",
+        "src": "https://product.kyobobook.co.kr/detail/S000221518927"
+      },
+      "borderline": true
+    },
+    {
+      "id": "hitoribocchi",
+      "orig": "ひとりぼっちの地球侵略",
+      "orig_en": "A Lone Invasion of Earth",
+      "ko": "외톨이의 지구침략",
+      "ko_src": "교보문고(학산문화사)",
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "ひとりぼっちの地球侵略 (2012~2019)",
+      "by": "小川麻衣子",
+      "year": 2012,
+      "country": "일본",
+      "setting": "자신을 지구 침략자라 소개한 선배 소녀와 소년이 외계인들의 침공에 맞서 지구를 지킨다.",
+      "concepts": [
+        "alien_invasion",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "[우주 경계] 겟산 연재 완결, 국내 완결까지 정발(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "학산문화사 완결까지 정발(교보문고, 나무위키)",
+        "src": "https://product.kyobobook.co.kr/detail/S000001701321"
+      },
+      "borderline": false
+    },
+    {
+      "id": "plan_9",
+      "orig": "Plan 9 from Outer Space",
+      "orig_en": "",
+      "ko": "외계로부터의 9호 계획",
+      "ko_src": "저스트워치 한국",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Plan 9 from Outer Space (1957 촬영, 1959 공개)",
+      "by": "Ed Wood",
+      "year": 1957,
+      "country": "미국",
+      "setting": "인류의 무기 개발을 막으려는 외계인들이 지구의 죽은 사람들을 되살려 일으킨다.",
+      "concepts": [
+        "alien_invasion",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] '최악의 영화'로 이름난 컬트 고전(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "저스트워치 한국에 볼 곳 있음(MUBI 등)",
+        "src": "https://www.justwatch.com/kr/영화/oegyerobuteoyi-9ho-gyehoeg"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stepmother_alien",
+      "orig": "My Stepmother Is an Alien",
+      "orig_en": "",
+      "ko": "새엄마는 외계인",
+      "ko_src": "KOBIS",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "My Stepmother Is an Alien (1988)",
+      "by": "Richard Benjamin",
+      "year": 1988,
+      "country": "미국",
+      "setting": "자기 별을 구하러 지구에 온 외계 여성이 과학자와 결혼해 사람 노릇을 배운다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 킴 베이싱어·댄 애크로이드 주연, 국내 개봉(KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "1991년 국내 개봉(KOBIS), 1994 주말의 명화 더빙(나무위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%83%88%EC%97%84%EB%A7%88%EB%8A%94%20%EC%99%B8%EA%B3%84%EC%9D%B8"
+      },
+      "borderline": false
+    },
+    {
+      "id": "coneheads",
+      "orig": "Coneheads",
+      "orig_en": "",
+      "ko": "콘헤드 대소동",
+      "ko_src": "KOBIS",
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "SNL 코너 (1977~), 영화 (1993)",
+      "by": "Dan Aykroyd 외(SNL), Steve Barron(영화)",
+      "year": 1977,
+      "country": "미국",
+      "setting": "원뿔 머리 외계인 부부가 지구에 불시착해 프랑스 출신이라 둘러대며 미국 교외에 산다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] SNL 명물 코너의 영화화(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록, 비디오 출시·MBC 더빙 방영(나무위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%BD%98%ED%97%A4%EB%93%9C"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wangmagwi",
+      "orig": "우주괴인 왕마귀",
+      "orig_en": "Space Monster Wangmagwi",
+      "ko": "우주괴인 왕마귀",
+      "ko_src": "한국 원작",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "우주괴인 왕마귀 (1967)",
+      "by": "권혁진, 세기상사",
+      "year": 1967,
+      "country": "한국",
+      "setting": "지구를 노린 외계인이 보낸 거대 괴수가 서울을 짓밟는다.",
+      "concepts": [
+        "alien_invasion",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 공식적으로 한국 첫 괴수 영화(나무위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1967년 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=%EC%9A%B0%EC%A3%BC%EA%B4%B4%EC%9D%B8%20%EC%99%95%EB%A7%88%EA%B7%80"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hotspot_2025",
+      "orig": "ホットスポット",
+      "orig_en": "Hot Spot",
+      "ko": "핫스팟: 우주인 출몰 주의!",
+      "ko_src": "저스트워치 한국(넷플릭스)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰TV 일요 드라마 (2025)",
+      "by": "バカリズム(각본)",
+      "year": 2025,
+      "country": "일본",
+      "setting": "호숫가 호텔에서 일하는 싱글맘이 동료가 우주인임을 알게 되고 함께 동네 문제를 푼다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "[우주 경계] 닛폰TV 일요 드라마, 수상 기록(나무위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스(저스트워치 한국)",
+        "src": "https://www.justwatch.com/kr/TV-프로그램/hot-spot"
+      },
+      "borderline": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "proposals": [
+    {
+      "ko": "외계의 지구 침공과 비밀 방위 조직",
+      "en": "Alien invasion of Earth and secret defense organizations",
+      "cat": "war",
+      "one": "외계 세력이 지구로 쳐들어오고, 사람들이 몰래 꾸린 조직으로 맞서는 설정.",
+      "why": "삼체에서는 외계 함대가 지구를 향해 오고 있고, 1부의 작전센터는 무엇과 싸우는지도 밝히지 않은 채 여러 나라 군과 경찰이 꾸린 비밀 지휘부다. 지금 사전의 '첫 만남'은 마주치는 순간만, '모든 문명을 덮치는 위협'은 은하 규모의 적만 받는다. 후보 조사의 games_strategy 갈래가 같은 이름으로 올린 생각이다(docs/concept_ideas.md).",
+      "terms": [
+        "trisolaran_fleet",
+        "battle_command_center"
+      ]
+    },
+    {
+      "ko": "외계 편에 선 인류",
+      "en": "Human collaborators with aliens",
+      "cat": "society",
+      "one": "외계 문명을 받들거나 그 힘을 빌리려고 인류를 등지는 사람들의 무리.",
+      "why": "지구 삼체 조직은 외계 문명을 '주'로 받들며 인류 대신 그쪽을 돕고, 안에서 강림파·구원파·생존파로 갈린다. 후보 조사에서 나온 '외계 유물을 섬기는 교단'과 닮았지만, 섬기는 대상이 살아 있는 외계 문명이고 침공을 돕는다는 점이 다르다. 지금 사전의 '생각이 갈라놓은 세력'은 갈래가 나뉜 모양만 받는다. 외계 침공을 다루는 다른 작품에도 있을 법한 생각이다.",
+      "terms": [
+        "eto",
+        "adventists",
+        "redemptionists",
+        "survivors"
+      ]
+    },
+    {
+      "ko": "암흑기를 건널 지식 창고",
+      "en": "Knowledge preserved for a dark age",
+      "cat": "history",
+      "one": "문명이 무너져도 지식이 살아남도록 모아 지켜 두는 기록과 그 일을 맡은 집단.",
+      "why": "삼체의 지구 문명 박물관은 아주 먼 뒷날까지 남도록 인류 문명의 유물과 정보를 모아 둔 곳이고, 표류병은 문명의 기록을 담아 멀리 띄워 보내는 병이다. '방주'는 생명과 문명을 싣고 다시 퍼뜨리려는 것이라 기록만 남기는 일과 다르다. 파운데이션 조사가 같은 이름으로 올린 제안(data/concept_proposals/foundation.json)과 같은 생각이다.",
+      "terms": [
+        "earth_civilization_museum",
+        "drift_bottle"
+      ]
+    }
+  ]
+}

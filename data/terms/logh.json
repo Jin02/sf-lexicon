@@ -1,0 +1,1296 @@
+{
+  "terms": [
+    {
+      "id": "galactic_empire",
+      "ko": "은하제국",
+      "orig": "銀河帝国",
+      "orig_en": "Galactic Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 「은하계사 개략」 본문 — 리디북스 [체험판] 은하영웅전설 1 미리보기. 리뉴얼판(GC북스 2025) 1권 책 소개와 라프텔 『은하영웅전설 Die Neue These 1부 [해후]』 작품 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "루돌프가 은하연방을 무너뜨리고 세운 전제 군주국.",
+      "note": "우주력 310년, 은하연방의 국가원수였던 루돌프 폰 골덴바움이 스스로 황제가 되며 섰다. 황제 아래 귀족·군대·관료가 받치는 짜임이고, 수도는 오딘, 인구는 약 250억이다. 자기만이 인류의 유일한 나라라 여겨 자유행성동맹을 나라로 인정하지 않고 '반란 세력'이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881229",
+        "https://laftel.net/item/38517",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "goldenbaum_dynasty",
+      "ko": "골덴바움 왕조",
+      "orig": "ゴールデンバウム王朝",
+      "orig_en": "Goldenbaum dynasty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('은하제국이, 골덴바움 왕조가 탄생한 것이다') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "루돌프의 핏줄이 500년 가까이 이어 온 은하제국의 왕조.",
+      "note": "제국력 원년에 루돌프 1세가 열었고, 황위는 그의 자손에게만 대물림되었다. 루돌프가 길러 낸 귀족·군대·관료의 체제가 공화주의자들의 반란을 누르며 수백 년을 버텼지만, 이야기가 시작될 무렵에는 귀족의 부패와 정체로 기울어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "lohengramm_dynasty",
+      "ko": "로엔그람 왕조",
+      "orig": "ローエングラム王朝",
+      "orig_en": "Lohengramm dynasty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 6~10권 각 권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "골덴바움 왕조의 뒤를 이어 선 은하제국의 새 왕조.",
+      "note": "라인하르트 폰 로엔그람이 황위에 올라 연 왕조로, 우주력 799년이 이 왕조의 신제국력 원년이다. 옛 문벌귀족의 특권을 걷어 내고 출신보다 능력으로 사람을 쓰는 개혁을 밀어붙였다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001516/preview",
+        "https://ridibooks.com/books/777001517/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "new_galactic_empire",
+      "ko": "신은하제국",
+      "orig": "新銀河帝国（ノイエ・ライヒ）",
+      "orig_en": "Neue Reich",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7권·8권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [
+        {
+          "ko": "노이에 라이히",
+          "src": "같은 이타카판 전자책 6권 1장 본문 — 병사들의 환호에 붙은 읽는 소리(독일어 '새 제국')"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "로엔그람 왕조 아래 다시 선 은하제국.",
+      "note": "왕조가 바뀐 뒤의 은하제국을 옛 제국과 가를 때 쓰는 이름이다. 독일어 '노이에 라이히'로도 불린다. 나중에 수도를 오딘에서 페잔으로 옮기고, 은하의 거의 모든 인류를 다스리게 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001516/preview",
+        "https://ridibooks.com/books/777001518/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "free_planets_alliance",
+      "ko": "자유행성동맹",
+      "orig": "自由惑星同盟",
+      "orig_en": "Free Planets Alliance",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('자유행성동맹 성립이 엄숙하게 선언되었다') — 리디북스 [체험판] 은하영웅전설 1 미리보기. 리뉴얼판(GC북스 2025) 1권 책 소개, 라프텔 『Die Neue These 1부 [해후]』 소개도 같은 표기",
+      "alt_ko": [
+        {
+          "ko": "자유혹성동맹",
+          "src": "라프텔 『은하영웅전설 극장판: 우리가 정복하는 것은 별의 대해』(1988, laftel.net/item/18733)와 『은하영웅전설 극장판: 새로운 싸움의 서곡』(1993, laftel.net/item/18735) 작품 소개"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "federation",
+        "ideology_split"
+      ],
+      "one": "제국을 탈출한 공화주의자들이 세운 민주 공화국.",
+      "note": "제국의 노예로 떨어진 공화주의자들이 '장정 1만 광년' 끝에 바라트 성계에 닿아 우주력 527년에 세웠다. 은하연방의 정당한 후계자를 자처해 우주력을 되살렸고, 같은 연방에서 나와 전제로 간 제국과 맞선다. 국가원수는 최고평의회 의장, 수도는 하이네센이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881229",
+        "https://laftel.net/item/38517",
+        "https://laftel.net/item/18733",
+        "https://laftel.net/item/18735"
+      ]
+    },
+    {
+      "id": "galactic_federation",
+      "ko": "은하연방",
+      "orig": "銀河連邦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장과 6권 서장 「지구 쇠망의 기록」 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "서기 2801년 인류가 세운 은하 규모의 민주 연방.",
+      "note": "시리우스 전역 뒤 한 세기의 혼란을 거쳐 테오리아를 수도로 섰고, 이 해를 우주력 원년으로 삼았다. 처음 두 세기 남짓은 거침없이 뻗어 나간 황금시대였으나 차츰 정체와 타락에 빠졌고, 그 틈에 권력을 쥔 루돌프가 연방을 제국으로 바꿔 버렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001516/preview"
+      ]
+    },
+    {
+      "id": "phezzan_dominion",
+      "ko": "페잔 자치령",
+      "orig": "フェザーン自治領",
+      "orig_en": "Phezzan Dominion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('그 산물이 ‘페잔 자치령’이다') — 리디북스 [체험판] 은하영웅전설 1 미리보기. 리뉴얼판(GC북스 2025) 5권 책 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "guild_monopoly"
+      ],
+      "one": "제국과 동맹 사이에서 교역을 홀로 쥔 자치령.",
+      "note": "두 나라 거의 한가운데의 페잔 성계를 영역으로 하는 일종의 도시국가다. 형식상 황제의 주권 아래 조공을 바치지만 안의 일은 스스로 하고, 동맹과의 외교·통상을 허락받아 두 나라 사이의 교역을 독점했다. 지구 출신 거상이 뇌물과 설득으로 세웠고, 땅은 작아도 인류 국력의 12퍼센트를 쥔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881983",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "landesherr",
+      "ko": "란데스헤르",
+      "orig": "自治領主（ランデスヘル）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('자치령의 대표자인 란데스헤르Landesherr') — 리디북스 [체험판] 은하영웅전설 1 미리보기. 4·5권 본문에도 '페잔 란데스헤르'",
+      "alt_ko": [
+        {
+          "ko": "영주",
+          "src": "같은 이타카판 1권 서장 본문 — '란데스헤르'에 붙여 쓴 풀이말"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "페잔 자치령의 우두머리.",
+      "note": "황제의 신하로서 자치령을 다스리고, 동맹과의 교역을 감독하며 때로는 외교관 노릇도 한다. 원작은 '자치령주'라 쓰고 독일어 '란데스헤르(영주)'로 읽게 했는데, 이 판은 읽는 소리를 이름으로 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001514/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "church_of_terra",
+      "ko": "지구교",
+      "orig": "地球教",
+      "orig_en": "Church of Terra",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장 본문('지구교 신자들입니다') — 리디북스 미리보기. 리뉴얼판(GC북스 2025) 6권 책 소개도 같은 표기",
+      "alt_ko": [
+        {
+          "ko": "지구교단",
+          "src": "같은 이타카판 전자책 7권 1장 본문 — 교단을 가리킬 때의 이름"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "인류의 고향 지구를 섬기는 신흥 종교.",
+      "note": "신이 아니라 지구라는 별 자체를 받든다. 흰 장옷의 신자들이 '성지를 우리 손에'를 외치며, 제국 땅이 된 지구를 되찾아 대성당을 세우자고 한다. 8세기 전 인류의 중심에서 밀려나 잊힌 지구의 옛 지위가 신앙이 되어 되살아난 셈이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ridibooks.com/books/777001516/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377882020"
+      ]
+    },
+    {
+      "id": "high_nobility",
+      "ko": "문벌귀족",
+      "orig": "門閥貴族",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 4·5·8·10권 첫 장과 외전 4권 본문 — 리디북스 미리보기",
+      "alt_ko": [
+        {
+          "ko": "문벌 귀족",
+          "src": "같은 이타카판 전자책 1권 서장·2권 1장·외전 1권 본문의 띄어 쓴 표기. 라프텔 『은하영웅전설 극장판: 새로운 싸움의 서곡』 소개(laftel.net/item/18735)도 띄어 씀"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "대대로 특권과 영지를 누리는 제국의 명문 귀족.",
+      "note": "루돌프가 '우수한' 사람을 골라 특권을 주고 옛 게르만풍 성을 내려 만든 귀족 계급에서 나왔다. 그 가운데 개국 이래의 명문과 황실에 가까운 집안을 이렇게 부르며, 행성이나 성계를 영지로 거느린다. 스스로를 제정의 기둥으로 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001514/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "reichsritter",
+      "ko": "제국기사",
+      "orig": "帝国騎士（ライヒスリッター）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 외전 4권 1장 「반플리트 성역 회전」 본문('귀족이라고는 허울뿐인 제국기사') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "작위가 없는 제국의 가장 낮은 귀족.",
+      "note": "공작부터 남작까지 다섯 작위 아래에 있는 하급 귀족이다. 귀족이라는 이름은 있지만 문벌귀족과는 대우가 하늘과 땅만큼 다르고, 살림이 평민과 다를 바 없는 집안도 많다. 원작은 독일어 '라이히스리터'로 읽게 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001525/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "lippstadt_war",
+      "ko": "립슈타트 전역",
+      "orig": "リップシュタット戦役",
+      "orig_en": "Lippstadt War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 5·7·8권 첫 장 본문('제국력 488년에 발발한 립슈타트 전역') — 리디북스 미리보기. 리뉴얼판(GC북스 2025) 2권 책 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "문벌귀족 연합과 라인하르트가 맞붙은 제국의 내전.",
+      "note": "제국력 488년, 황제가 죽은 뒤 권력을 두고 일어났다. 문벌귀족들이 '립슈타트 맹약'을 맺어 귀족연합군을 꾸리고, 재상과 손잡은 젊은 장수 라인하르트에게 맞섰다. 같은 해 동맹에서도 군부 쿠데타가 일어나 두 나라가 함께 안에서 흔들렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001515/preview",
+        "https://ridibooks.com/books/777001514/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881557",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "social_order_bureau",
+      "ko": "사회질서유지국",
+      "orig": "社会秩序維持局",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('제국내무성에 사회질서유지국이 설립되어') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "법 밖에서 정치범을 잡아들인 제국의 정치 경찰.",
+      "note": "제국 초기 내무성 아래 세워져, 법을 거치지 않고 제 판단대로 사람을 체포하고 가두고 처벌했다. 정식으로 사형한 사람은 없다고 내세웠지만, 재판 없는 사살과 고문, 유배, 강제 수술로 사라진 사람이 40억에 이른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "inferior_gene_exclusion_law",
+      "ko": "열악 유전자 배제법",
+      "orig": "劣悪遺伝子排除法",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('제국력 9년에 발령된 ‘열악 유전자 배제법’') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "genetic_eng",
+        "control_society"
+      ],
+      "one": "약한 사람을 없애 인류를 '개량'하려 한 제국의 법.",
+      "note": "제국력 9년 루돌프가 내렸다. 장애가 있거나 가난하거나 '우수하지 않다'고 본 사람을 강제로 단종하고, 지적 장애인을 안락사시키며, 약자를 돕는 제도를 거의 다 없앴다. 이 법에 맞선 의회를 루돌프가 영구 해산하면서 공포 정치가 시작되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "supreme_council",
+      "ko": "최고평의회",
+      "orig": "最高評議会",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장('동맹의 국가원수인 최고평의회 의장')·2권·5권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "자유행성동맹의 최고 행정 기관.",
+      "note": "의장이 동맹의 국가원수이자 군의 최고 사령관이며, 의장과 위원은 선거로 뽑힌 정치가들이다. 군의 본부인 통합작전본부도 이 평의회의 지휘를 받는다. 제국은 이 의장을 '반란 세력의 두목'이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "joint_operations_hq",
+      "ko": "통합작전본부",
+      "orig": "統合作戦本部",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 1장('통합작전본부장도 우주함대 사령장관도')·2·3·5권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "자유행성동맹군 전체를 지휘하는 군 본부.",
+      "note": "본부장이 제복 군인의 맨 윗자리이고, 그 아래 우주함대 사령장관이 함대를 거느린다. 제국군의 통수본부에 해당하지만, 민주국가의 군답게 최고평의회의 지휘를 받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001513/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "imperial_three_chiefs",
+      "ko": "제국군 3대 장관",
+      "orig": "帝国軍三長官",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 4권 첫 장 본문('군무상서, 통수본부총장, 그리고 우주함대 사령장관. ‘제국군 3대 장관’')과 7권 첫 장 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "군무상서·통수본부총장·우주함대 사령장관, 제국군의 세 요직.",
+      "note": "군무상서는 군의 행정, 통수본부총장은 작전과 전략, 우주함대 사령장관은 함대 운용을 맡는다. 셋을 한 사람이 다 쥐는 일은 드물어, 그렇게 되면 제국군 전체를 손에 넣은 것과 같다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001514/preview",
+        "https://ridibooks.com/books/777001517/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "minister_of_state",
+      "ko": "국무상서",
+      "orig": "国務尚書",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 5·7·8·10권 첫 장과 외전 4권 1장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "은하제국 내각의 으뜸 대신.",
+      "note": "제국은 대신을 '상서'라 부르며 국무상서·군무상서·내무상서처럼 이름을 붙인다. 문관의 맨 위에는 제국재상이 있으나 오래 비워 두는 일이 많아, 국무상서가 그 몫을 대신해 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001515/preview",
+        "https://ridibooks.com/books/777001525/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "patriotic_knights",
+      "ko": "우국기사단",
+      "orig": "憂国騎士団",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장 본문('우국기사단. 그것들은 요즘 뭘 하고 있지?') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "자유행성동맹의 극우 폭력 단체.",
+      "note": "전쟁에 반대하거나 나라에 해롭다고 본 사람을 습격하는 국가주의자들의 무리다. 2권에서는 단원 상당수가 지구교에 들어갔다는 소문이 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "military_congress",
+      "ko": "구국군사회의",
+      "orig": "救国軍事会議",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 3권 1장('자유행성동맹을 뒤흔든 ‘구국군사회의’ 쿠데타')·5권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주력 797년 동맹에서 쿠데타를 일으킨 군인들.",
+      "note": "썩은 정부를 바로잡겠다며 군인들이 모여 수도를 장악하려 한 쿠데타 세력이다. 이 일로 동맹은 같은 편끼리 싸우는 내전을 치렀고, 동맹군은 숙련된 병력을 적잖이 잃었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001513/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881557",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "rosen_ritter",
+      "ko": "로젠리터",
+      "orig": "薔薇の騎士（ローゼンリッター）",
+      "orig_en": "Rosen Ritter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "리뉴얼판(GC북스 2025)과 이타카판(디앤씨미디어 2011) 7권 책 소개 — 알라딘 상품 페이지. 이타카판 미리보기 범위의 본문에는 나오지 않는다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국 망명자의 자손들로 꾸린 동맹군의 육전 연대.",
+      "note": "함선이나 요새 안, 행성 위에서 맞붙는 백병전을 맡는 부대로, 동맹 최강이라는 평을 듣는다. 망명자 출신이라 늘 의심을 받고, 역대 연대장 열두 명 가운데 여섯이 제국으로 되돌아갔다. 원작은 '장미의 기사'라 쓰고 독일어로 읽게 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377882048",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13518038",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "panzer_grenadier",
+      "ko": "장갑척탄병",
+      "orig": "装甲擲弾兵",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 외전 4권 1장 본문('장갑척탄병총감 오프레서 상급대장') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "두꺼운 장갑복을 입은 제국군의 육전 병사.",
+      "note": "제국군 육전대의 중무장 보병이다. 작은 총으로는 뚫리지 않는 장갑복을 입고, 함선이나 요새 안에서 적과 맞붙는 육박전을 맡는다. 이들을 거느리는 자리를 장갑척탄병총감이라 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001525/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "iserlohn_fortress",
+      "ko": "이제르론 요새",
+      "orig": "イゼルローン要塞",
+      "orig_en": "Iserlohn Fortress",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장 본문('은하제국령과 자유행성동맹령 경계에 위치한 인공행성') — 리디북스 미리보기. 리뉴얼판(GC북스 2025) 3권 책 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "megastructure"
+      ],
+      "one": "회랑 한가운데를 막고 선 지름 60킬로미터의 인공행성 요새.",
+      "note": "제국이 이제르론 회랑의 중심, 항성 알테나 곁에 지었다. 거울 막을 입힌 네 겹 장갑이 겉을 두르고, 함정 2만 척이 드나드는 항구와 병원·학교·식물원을 갖춰 군인과 가족 500만 명이 산다. 난공불락의 요새이자 하나의 큰 도시다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881571",
+        "https://gineipaedia.com/wiki/Iserlohn_Fortress"
+      ]
+    },
+    {
+      "id": "iserlohn_corridor",
+      "ko": "이제르론 회랑",
+      "orig": "イゼルローン回廊",
+      "orig_en": "Iserlohn Corridor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장 본문('그 공역에는 이제르론 회랑이라는 기호가 붙어 있었다') — 리디북스 미리보기. 외전 1·4권 본문에도",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "제국과 동맹을 잇는 두 길 가운데 하나.",
+      "note": "변광성과 적색거성, 이상 중력장이 가득한 위험 지대를 꿰뚫는 가늘고 긴 안전한 통로다. 이 길이나 페잔 회랑을 지나지 않고는 상대편 영역에 군대를 보낼 수 없어, 두 나라의 싸움이 대부분 이 길과 그 출구 언저리에서 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ridibooks.com/books/777001525/preview",
+        "https://gineipaedia.com/wiki/Iserlohn_Corridor"
+      ]
+    },
+    {
+      "id": "phezzan_corridor",
+      "ko": "페잔 회랑",
+      "orig": "フェザーン回廊",
+      "orig_en": "Phezzan Corridor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 5·8·9권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "페잔 자치령이 자리한 또 하나의 길.",
+      "note": "두 나라를 잇는 다른 하나의 안전한 통로로, 그 안에 페잔 성계가 있다. 중립을 내세운 페잔이 쥐고 있어, 두 나라의 상선과 사람과 소식이 이 길로 오간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001515/preview",
+        "https://ridibooks.com/books/777001518/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場勢力"
+      ]
+    },
+    {
+      "id": "odin",
+      "ko": "오딘",
+      "orig": "オーディン",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('발할라 성계 제3행성 오딘') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "골덴바움 왕조 은하제국의 수도 행성.",
+      "note": "발할라 성계 제3행성으로, 게르만 신화의 주신에게서 이름을 따왔다. 루돌프가 도읍을 이곳으로 옮겼고, 황궁 노이에 상수시 둘레에 제국의 관청이 모여 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://gineipaedia.com/wiki/Odin"
+      ]
+    },
+    {
+      "id": "heinessen",
+      "ko": "하이네센",
+      "orig": "ハイネセン",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('바라트 성계의 제4행성으로, … 하이네센의 이름을 붙여') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "자유행성동맹의 수도 행성.",
+      "note": "바라트 성계 제4행성이다. '장정 1만 광년'을 이끌다 도중에 사고로 죽은 지도자 알레 하이네센의 이름을 붙여 그 공을 기렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://gineipaedia.com/wiki/Heinessen"
+      ]
+    },
+    {
+      "id": "neue_sanssouci",
+      "ko": "노이에 상수시",
+      "orig": "新無憂宮（ノイエ・サンスーシ）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7권 첫 장 본문('노이에 상수시 흑진주홀에서 치러진 신년 축하연') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "오딘에 있는 골덴바움 왕조의 황궁.",
+      "note": "원작은 '새 근심 없는 궁'이라 쓰고 독일어로 읽게 했다. 황제와 귀족들이 신년 축하연 같은 궁정 행사를 여는 곳이고, 둘레에 제국의 관청들이 늘어서 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001517/preview",
+        "https://gineipaedia.com/wiki/Neue_Sanssouci",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "el_facil",
+      "ko": "엘 파실",
+      "orig": "エル・ファシル",
+      "orig_en": "El Facil",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 1장('그 유명한 ‘엘 파실 탈출 작전’')과 외전 5권 1장('행성 엘 파실에서 300만 명의 민간인을 구출') 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "주민 300만 명을 빼낸 탈출 작전으로 이름난 동맹 행성.",
+      "note": "우주력 788년, 제국군이 다가와 고립된 이 행성에서 젊은 장교 양 웬리가 민간인 약 300만 명을 빼돌려 탈출시켰다. 이 '엘 파실 탈출 작전'으로 그는 하루아침에 영웅이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001526/preview",
+        "https://gineipaedia.com/wiki/El_Facil"
+      ]
+    },
+    {
+      "id": "earth",
+      "ko": "지구",
+      "orig": "地球",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장과 6권 서장 「지구 쇠망의 기록」 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "earth_left"
+      ],
+      "one": "인류의 고향이었으나 잊혀 버린 변경의 행성.",
+      "note": "한때 식민 행성들을 수탈하며 인류를 다스렸지만, 자원을 다 쓰고 시리우스 전역에서 무너진 뒤 인류의 중심은 다른 별로 옮겨 갔다. 이야기의 시대에는 인구도 힘도 잃고 제국령 변경에 남은 늙은 별이며, 지구교가 이곳을 성지로 받든다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001516/preview",
+        "https://ridibooks.com/books/777001512/preview"
+      ]
+    },
+    {
+      "id": "geiersburg_fortress",
+      "ko": "가이에스부르크 요새",
+      "orig": "ガイエスブルク要塞",
+      "orig_en": "Geiersburg Fortress",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "리뉴얼판(GC북스 2025)과 이타카판(디앤씨미디어 2011) 3권 책 소개 — 알라딘 상품 페이지. 이타카판 미리보기 범위의 본문에는 나오지 않는다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "megastructure"
+      ],
+      "one": "기관을 달아 통째로 옮겨진 제국의 거대 요새.",
+      "note": "립슈타트 전역 때 귀족연합군이 근거지로 삼은 제국 변경의 요새다. 그 뒤 제국군이 여기에 워프 기관과 추진 기관을 달아 요새째로 먼 거리를 옮겨, 이제르론 요새 바로 앞에 갖다 놓았다. 그렇게 요새와 요새가 맞붙는 싸움이 벌어졌다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881571",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "neue_land",
+      "ko": "노이에란트",
+      "orig": "新領土（ノイエ・ラント）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 8·9·10권 첫 장 본문 — 리디북스 미리보기. 리뉴얼판(GC북스 2025) 9권 책 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "제국이 옛 자유행성동맹 영역에 붙인 이름.",
+      "note": "신은하제국이 동맹을 병합한 뒤 옛 동맹령 전체를 이렇게 불렀다. 독일어로 '새 영토'라는 뜻이며, 제국은 총독을 두어 다스렸다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001518/preview",
+        "https://ridibooks.com/books/777001519/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377882166"
+      ]
+    },
+    {
+      "id": "warp",
+      "ko": "워프",
+      "orig": "ワープ（亜空間跳躍航法）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 1장('워프 할 때마다')·6권 서장·외전 1권 본문 — 리디북스 미리보기. 이타카판 출판사 책 소개(알라딘)에도 '초광속 워프항법'",
+      "alt_ko": [
+        {
+          "ko": "아공간 도약 항법",
+          "src": "같은 이타카판 전자책 1권 서장 본문 — 인류의 성간 비행을 가능하게 한 세 기술의 하나로 든 정식 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "jump_drive"
+      ],
+      "one": "아공간으로 뛰어 단번에 먼 거리를 건너는 항법.",
+      "note": "중력 제어·관성 제어와 함께 성간 항행을 가능하게 한 세 기술의 하나다. 서기 2360년 처음 이루어졌을 때는 거리가 짧고 몸, 특히 출산 능력에 해를 끼쳤으나, 30년쯤 뒤 완전히 실용화되어 인류가 별 사이로 퍼졌다. 지금도 워프 때 몸이 탈 나는 사람이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001516/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13518038"
+      ]
+    },
+    {
+      "id": "ftl_communication",
+      "ko": "초광속 통신",
+      "orig": "超光速通信（FTL）",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7권 첫 장 본문('아무리 초광속 통신을 활용한다 해도') — 리디북스 미리보기",
+      "alt_ko": [
+        {
+          "ko": "초광속통신",
+          "src": "같은 이타카판 전자책 8권 첫 장 본문의 붙여 쓴 표기"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl_comm"
+      ],
+      "one": "수천 광년 떨어진 곳과도 곧바로 주고받는 통신.",
+      "note": "원작은 '초광속 통신'이라 쓰고 'FTL'이라 읽게 했다. 먼 원정지의 함대와 수도가 소식과 영상을 곧바로 주고받는다. 그래도 수천 광년 떨어진 곳에서 나랏일을 매끄럽게 보기는 어렵다고 본문은 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001517/preview",
+        "https://ridibooks.com/books/777001518/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "thors_hammer",
+      "ko": "토르 하머",
+      "orig": "雷神の槌（トゥールハンマー）",
+      "orig_en": "Thor's Hammer",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "나무위키 '은하영웅전설' 문서 — 이타카판(김완 옮김)이 원작의 읽는 소리를 대부분 버리고 옮겼으나 '토르 하머' 같은 몇몇은 예외로 남겼다고 전한다. 이타카판 미리보기 범위의 본문에는 나오지 않아 직접 확인하지 못했다",
+      "alt_ko": [
+        {
+          "ko": "토르 해머",
+          "src": "학산문화사 만화 『은하영웅전설』(후지사키 류) 8권(2020) 본문 — 구글 북스 본문 검색 조각"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "이제르론 요새의 주포. 한 번 쏘면 함대 한 무리가 사라진다.",
+      "note": "원작은 '뇌신의 철퇴'라 쓰고 '토르 하머'로 읽게 했다. 요새 겉면에서 쏘는 거대한 광선포로, 한 번의 사격에 적 함대의 한 무리를 통째로 증발시킨다. 이 포의 사정거리 안으로 들어가는 것이 요새를 치는 쪽의 가장 큰 벽이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%98%81%EC%9B%85%EC%A0%84%EC%84%A4",
+        "https://namu.wiki/w/%EC%9D%B4%EC%A0%9C%EB%A5%B4%EB%A1%A0%20%EC%9A%94%EC%83%88",
+        "https://www.google.com/search?tbm=bks&q=%22%ED%86%A0%EB%A5%B4+%ED%95%B4%EB%A8%B8%22+%EC%9D%80%ED%95%98%EC%98%81%EC%9B%85%EC%A0%84%EC%84%A4",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "neutron_beam_cannon",
+      "ko": "중성자 빔 포",
+      "orig": "中性子ビーム砲",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('중성자 빔 포의 직격을 받아') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [
+        {
+          "ko": "중성자 광선 포",
+          "src": "같은 이타카판 전자책 1권 2장 「아스타테 회전」 본문"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "함선끼리의 싸움에 쓰는 중성자 광선포.",
+      "note": "전함의 주된 화기로, 함대가 일제 사격을 하면 그 빛에 화면이 하얗게 물들 정도다. 두 나라가 처음 마주친 날에도 동맹 전함이 이 포로 제국 전함을 격침했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "rail_cannon",
+      "ko": "레일 캐논",
+      "orig": "レール・キャノン",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장('레일 캐논 이상 무!')·3권 1장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "전자기 힘으로 실탄을 쏘아 보내는 포.",
+      "note": "전함과 단좌식 전투정에 다는 실탄 포로, 광선포와 함께 쓰인다. 전투정끼리의 근접 격투전에서도 이 포의 탄이 오간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ridibooks.com/books/777001513/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "energy_neutralizing_field",
+      "ko": "에너지 중화 자장",
+      "orig": "エネルギー中和磁場",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장('적의 광선을 에너지 중화 자장이 가로막는 순간')·3권 1장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "적의 광선을 막아 내는 함선의 방어 자장.",
+      "note": "함선 둘레에 펼쳐 날아오는 광선의 에너지를 상쇄한다. 광선이 자장에 막힐 때마다 아주 작은 에너지 입자들이 부딪쳐, 무지개 같은 빛이 함대 곳곳에서 번쩍인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001513/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の登場艦船"
+      ]
+    },
+    {
+      "id": "zeffle_particle",
+      "ko": "제플 입자",
+      "orig": "ゼッフル粒子",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 외전 3권 『율리안의 이제르론 일기』 본문('제플 입자 저장고에 폭죽을 내던지는 것') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "불이 붙으면 크게 터지는 폭발성 입자.",
+      "note": "굴착이나 파괴 작업에 쓰는 입자로, 공기 중에 뿌린 뒤 불을 붙여 터뜨린다. 이 입자가 퍼진 곳에서 총을 쏘면 함께 터지므로, 함선이나 요새 안의 싸움은 도끼와 칼의 육박전이 되곤 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001524/preview",
+        "https://gineipaedia.com/wiki/Zephyr_particles",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "carbon_crystal_tomahawk",
+      "ko": "탄소 크리스탈 토마호크",
+      "orig": "戦斧（トマホーク）",
+      "ko_status": "우리 표기",
+      "ko_src": "이타카판 미리보기 범위에서 찾지 못했다. 나무위키 '로젠리터'·'은하영웅전설/용어' 문서가 이 표기를 쓰지만 정식판의 표기라고 밝히지는 않아 우리 표기로 둔다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "육전 병사들이 백병전에 드는 탄소 결정 도끼.",
+      "note": "날을 탄소 크리스탈로 만든 도끼로, 제플 입자를 터뜨릴 걱정이 없고 장갑복을 뚫는다. 장갑복이 작은 총탄을 막고 제플 입자가 퍼진 곳에서는 총을 쓸 수 없어, 먼 미래인데도 함선과 요새 안의 승부를 도끼가 가른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A1%9C%EC%A0%A0%EB%A6%AC%ED%84%B0",
+        "https://namu.wiki/w/%EC%9D%80%ED%95%98%EC%98%81%EC%9B%85%EC%A0%84%EC%84%A4/%EC%9A%A9%EC%96%B4",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "spartanian",
+      "ko": "스파르타니안",
+      "orig": "スパルタニアン",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장('이름은 ‘스파르타니안’이라고 한다')·3권 1장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "자유행성동맹군의 단좌식 전투정.",
+      "note": "모함에서 날아올라 적의 전투정과 근접 격투전을 벌이는, 한 사람이 타는 작은 전투기다. 격투 능력은 제국군의 발퀴레에 뒤지지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001513/preview"
+      ]
+    },
+    {
+      "id": "walkure",
+      "ko": "발퀴레",
+      "orig": "ワルキューレ",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장('X자 날개를 가진 단좌식 전투정 ‘발퀴레’')·3권 1장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "X자 날개를 단 제국군의 단좌식 전투정.",
+      "note": "모함에서 풀려나는 순간 이미 모함만큼 빠르므로 활주로나 사출 장치가 필요 없다. 작아서 화력은 약하지만 몸놀림이 좋아 근접 격투전에서 힘을 낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001513/preview"
+      ]
+    },
+    {
+      "id": "solid_tv",
+      "ko": "입체 TV",
+      "orig": "立体TV",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장('입체 TV 드라마')·2권·6권·외전 3·5권 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hologram"
+      ],
+      "one": "입체 영상으로 방송을 내보내는 텔레비전.",
+      "note": "드라마도 뉴스도 입체 영상으로 나간다. 집집마다 있는 흔한 물건이어서, 본문에서는 뻔한 이야기를 '삼류 입체 TV 드라마' 같다고 빗대기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001512/preview"
+      ]
+    },
+    {
+      "id": "tank_bed",
+      "ko": "탱크 베드",
+      "orig": "タンク・ベッド",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장 본문('탱크 베드란 가벼운 플라스틱제 밀폐식 탱크') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "짧은 시간에 긴 잠만큼 쉬게 해 주는 소금물 침상.",
+      "note": "밀폐된 탱크에 따뜻하고 진한 소금물을 얕게 채우고 몸을 띄워, 빛과 소리를 끊은 채 쉬게 한다. 한 시간이면 여덟 시간 잔 만큼 회복된다고 해서, 싸우는 중인 함대가 병사를 교대로 쉬게 할 때 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "jamming",
+      "ko": "방해전파",
+      "orig": "妨害電波",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장 본문('각종 레이더 투과 장치나 방해전파 등이 발달하고', '수만 대의 방해전파 발생기') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "sensor_denial"
+      ],
+      "one": "레이더와 통신을 막는 전파. 그 탓에 레이더는 쓸모를 잃었다.",
+      "note": "레이더를 비켜 가는 장치와 방해전파, 레이더를 무력하게 하는 소재가 발달해, 레이더는 몇 세기 전에 관측 수단으로서 힘을 잃었다. 적을 찾는 일은 정찰정과 감시 위성, 열과 질량의 측정에 기댄다. 싸움 중에는 방해전파 발생기를 뿌려 적의 연락을 끊는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview"
+      ]
+    },
+    {
+      "id": "psyoxin",
+      "ko": "사이옥신 마약",
+      "orig": "サイオキシン麻薬",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7권 첫 장 본문('사이옥신 마약 밀매 조직을 적발한 일') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "두 나라가 손잡고 단속할 만큼 해로운 합성 마약.",
+      "note": "화학 합성으로 만드는 마약으로, 반세기 전에는 늘 싸우던 제국과 동맹의 경찰이 드물게 손잡고 밀매 조직을 적발한 일도 있었다. 지구교는 이 마약으로 신자들을 세뇌해 교단에 맹목적으로 따르게 만든다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001517/preview",
+        "https://namu.wiki/w/%EC%A7%80%EA%B5%AC%EA%B5%90",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "kaisen",
+      "ko": "회전",
+      "orig": "会戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장 제목 「아스타테 회전會戰」과 외전 4권 1장 본문('‘회전會戰’ 앞에 ‘반플리트’라는 이름이') — 리디북스 미리보기. 리뉴얼판(GC북스 2025) 1권 목차도 「아스타테 회전會戰」",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "대함대끼리 한 성역에서 맞붙는 큰 싸움.",
+      "note": "만 척 단위의 함대들이 진형을 짜고 맞붙는 싸움을 이렇게 부르고, 벌어진 성역의 이름을 앞에 붙인다(아스타테 회전, 다곤 성역 회전 등). 한자 '會戰'을 그대로 읽은 말이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001525/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881229"
+      ]
+    },
+    {
+      "id": "battle_of_astarte",
+      "ko": "아스타테 회전",
+      "orig": "アスターテ会戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 2장 제목과 본문 — 리디북스 [체험판] 은하영웅전설 1 미리보기. 리뉴얼판(GC북스 2025) 1권 책 소개도 같은 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "우주력 796년 초, 이야기의 막을 연 함대전.",
+      "note": "라인하르트가 이끈 제국군 2만 척이 아스타테 성계 쪽으로 원정해 오자, 동맹군은 4만 척을 세 함대로 나눠 세 방향에서 에워싸려 했다. 동맹 쪽 참모진에 양 웬리가 있어, 두 사람이 처음 마주친 싸움이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881229"
+      ]
+    },
+    {
+      "id": "battle_of_amritsar",
+      "ko": "암릿처 회전",
+      "orig": "アムリッツァ星域会戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 2권 1장('암릿처 회전에서')·4·5·8권 첫 장 본문 — 리디북스 미리보기. 1권 목차 「제9장 암릿처」",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "동맹의 제국령 원정 끝에 벌어진 사상 최대 규모의 싸움.",
+      "note": "우주력 796년 동맹이 3000만 병력으로 제국 영역에 쳐들어갔다가, 이제르론 회랑의 제국 쪽 출구 근처 암릿처 성역에서 크게 졌다. 원정군의 7할을 잃은 이 패배로 동맹은 크게 기울었다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001512/preview",
+        "https://ridibooks.com/books/777001515/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "battle_of_dagon",
+      "ko": "다곤 성역 회전",
+      "orig": "ダゴン星域会戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 외전 1권 「다곤 성역 회전기」 제목과 본문, 외전 2·3·5권 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "제국과 동맹이 처음으로 맞붙은 큰 싸움.",
+      "note": "우주력 640년 두 나라가 처음 마주친 뒤, 제국은 '반도'를 치려고 대함대를 보냈다. 동맹군 총지휘관 링 파오와 참모장 유수프 토패롤이 다곤 성역에서 역사에 남을 포위 섬멸전으로 이를 물리쳤다. 이 승리가 알려지자 제국에서 도망쳐 오는 사람이 크게 늘었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001522/preview",
+        "https://ridibooks.com/books/777001521/preview"
+      ]
+    },
+    {
+      "id": "battle_of_vermilion",
+      "ko": "버밀리온 성역 회전",
+      "orig": "バーミリオン星域会戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7·8·9권 첫 장 본문 — 리디북스 미리보기. 5권 목차 「제7장 버밀리온」",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "라인하르트와 양 웬리가 정면으로 맞붙은 결전.",
+      "note": "우주력 799년 4월, 제국군의 동맹 침공 막바지에 버밀리온 성역에서 벌어졌다. 양 웬리는 사실상 동맹군의 마지막 병력을 이끌고 라인하르트의 본대에 맞섰다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001519/preview",
+        "https://gineipaedia.com/wiki/Battle_of_Vermilion"
+      ]
+    },
+    {
+      "id": "westerland_massacre",
+      "ko": "베스터란트 학살 사건",
+      "orig": "ヴェスターラントの虐殺",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 4권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "한 귀족이 제 영지 행성에 핵 공격을 퍼부은 사건.",
+      "note": "립슈타트 전역 중, 들고일어난 영지 주민을 벌하려고 귀족연합의 맹주가 행성 베스터란트에 열핵 공격을 명해 주민 약 200만 명이 죽었다. 이 참사가 알려지며 귀족연합은 민심을 잃었다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001514/preview",
+        "https://gineipaedia.com/wiki/Westerland_Massacre",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の舞台"
+      ]
+    },
+    {
+      "id": "operation_ragnarok",
+      "ko": "라그나뢰크 작전",
+      "orig": "神々の黄昏（ラグナロック）作戦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "리뉴얼판(GC북스 2025)과 이타카판(디앤씨미디어 2011) 4권 책 소개 — 알라딘 상품 페이지. 같은 4권 목차 「제6장 작전명 '라그나뢰크'」(리디북스 작품 정보)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "제국군이 자유행성동맹을 치러 나선 대원정.",
+      "note": "제국 황제가 동맹으로 망명한 일을 빌미로 라인하르트가 벌인 대규모 침공이다. 제국군은 이제르론 회랑만이 아니라 중립의 페잔 회랑으로도 대군을 보냈다. 북유럽 신화의 '신들의 황혼'에서 따온 이름이다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881949",
+        "https://ridibooks.com/books/777001514",
+        "https://gineipaedia.com/wiki/Operation_Ragnarok"
+      ]
+    },
+    {
+      "id": "baalat_treaty",
+      "ko": "바라트 화약",
+      "orig": "バーラトの和約",
+      "orig_en": "Bharat Treaty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 7권 첫 장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "제국과 동맹이 맺은 강화 조약.",
+      "note": "우주력 799년, 동맹이 제국에 사실상 굴복하며 맺었다. 동맹은 나라 이름과 주권은 남겼지만 영토 일부를 넘기고 해마다 배상을 치르며, 하이네센에 제국의 고등판무관을 받아들였다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/777001517/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "long_march",
+      "ko": "장정 1만 광년",
+      "orig": "長征一万光年",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('후세 역사가들이 ‘장정長征 1만 광년’이라 명명한') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "노예 신세의 공화주의자들이 제국을 벗어난 반세기의 여정.",
+      "note": "제국력 164년, 알타이르 성계 제7행성의 노예들이 천연 드라이아이스 덩어리를 깎아 만든 배 '이온 파제카스호'로 40만 명이 탈출했다. 숨어서 성간 우주선을 지어 은하 중심의 위험 지대를 건넜고, 반세기가 넘는 여정 끝에 바라트 성계에 닿았을 때는 절반 넘게 목숨을 잃은 뒤였다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "thirteen_day_war",
+      "ko": "13일 전쟁",
+      "orig": "13日戦争",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 6권 서장 「지구 쇠망의 기록」 본문('‘13일 전쟁’이라 불리는 열핵병기들의 응수') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "지구의 두 강대국이 열핵무기를 주고받은 전쟁.",
+      "note": "북방연합국가와 3대륙 합중국이 서로의 대도시를 방사능 폐허로 만들고, 상관없는 나라들에까지 열핵무기를 쏘았다. 그 뒤 90년의 전란으로 세계 인구는 10억 안팎으로 줄었고, 지친 사람들은 강한 통일 정부를 바라게 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001516/preview",
+        "https://gineipaedia.com/wiki/Thirteen_Day_War"
+      ]
+    },
+    {
+      "id": "global_government",
+      "ko": "지구 통일정부",
+      "orig": "地球統一政府",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 6권 서장 「지구 쇠망의 기록」 본문('서기 2129년에 지구 통일정부Global Government가 탄생하자') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "서기 2129년 지구를 하나로 묶은 통일 정부.",
+      "note": "오랜 전란 끝에 브리스베인을 수도로 섰고, 우주성을 앞세워 태양계 밖 별들로 나아갔다. 그러나 식민 행성들을 자본과 무력으로 수탈하고 정치에서도 차별해 반발을 샀고, 시리우스 전역에서 무너졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001516/preview"
+      ]
+    },
+    {
+      "id": "sirius_war",
+      "ko": "시리우스 전역",
+      "orig": "シリウス戦役",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 6권 서장 「지구 쇠망의 기록」 본문('‘시리우스 전역’ 종결 2년 후인 서기 2706년') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "식민 행성들이 지구의 수탈에 맞서 일으킨 전쟁.",
+      "note": "지구가 반지구파의 선봉 시리우스를 먼저 치고 라그랑 시티에서 학살을 벌이자, 살아남은 네 젊은이가 반지구 세력을 하나로 모았다. 그들의 흑기군이 지구군을 잇달아 깨뜨리고 끝내 지구를 공격해, 서기 2704년 무렵 지구의 권력은 재가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001516/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "universal_calendar",
+      "ko": "우주력",
+      "orig": "宇宙暦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('이 해를 우주력 원년으로 선포하고') — 리디북스 [체험판] 은하영웅전설 1 미리보기. 리뉴얼판(GC북스 2025) 1권 책 소개도 '우주력 8세기 말'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "은하연방이 선 해를 원년으로 삼은 기년법.",
+      "note": "서기 2801년이 우주력 원년이다. 루돌프가 황제가 되며 폐지했으나, 자유행성동맹이 은하연방의 후계를 자처하며 되살렸다. 이야기가 시작되는 해는 우주력 796년이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=377881229"
+      ]
+    },
+    {
+      "id": "imperial_calendar",
+      "ko": "제국력",
+      "orig": "帝国暦",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('우주력이 폐지되고 제국력 원년이 선포된 날') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "은하제국이 쓰는 기년법.",
+      "note": "루돌프의 대관식 날 우주력을 버리고 선포했다. 우주력 310년이 제국력 원년이어서, 우주력에서 309를 빼면 제국력이 된다. 이야기가 시작되는 해는 제국력 487년이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview"
+      ]
+    },
+    {
+      "id": "theoria",
+      "ko": "테오리아",
+      "orig": "テオリア",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장('알데바란 성계 제2행성 테오리아')과 6권 서장 본문 — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하연방의 수도였던 행성.",
+      "note": "알데바란 성계 제2행성이다. 서기 2801년 인류가 정치의 중심을 지구에서 이곳으로 옮기며 은하연방을 세웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ridibooks.com/books/777001516/preview"
+      ]
+    },
+    {
+      "id": "national_reformation_alliance",
+      "ko": "국가혁신동맹",
+      "orig": "国家革新同盟",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('‘국가혁신동맹’의 리더가 되어') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "루돌프가 이끈 은하연방 말기의 정치 세력.",
+      "note": "군에서 물러나 의원이 된 루돌프가 이 모임의 지도자가 되어 젊은 정치가들을 끌어모았다. 선거를 거듭하며 세를 불려, 루돌프가 수상과 국가원수를 한 몸에 겸하는 길을 열었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    },
+    {
+      "id": "lifetime_consul",
+      "ko": "종신집정관",
+      "orig": "終身執政官",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이타카판(디앤씨미디어 2011, 김완 옮김) 전자책 1권 서장 본문('‘종신집정관’을 자칭하더니') — 리디북스 [체험판] 은하영웅전설 1 미리보기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "루돌프가 황제가 되기 전 스스로 붙인 칭호.",
+      "note": "수상과 국가원수를 겸해 견제할 사람이 없어진 루돌프가, 비판을 허용하지 않는 독재자가 되면서 내세운 자리다. 그는 뒤이어 우주력 310년에 스스로 황제가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/777001521/preview",
+        "https://ja.wikipedia.org/wiki/銀河英雄伝説の用語"
+      ]
+    }
+  ]
+}

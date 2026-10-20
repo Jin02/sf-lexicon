@@ -1,0 +1,2055 @@
+{
+  "group": "anime_other",
+  "candidates": [
+    {
+      "id": "futurama",
+      "orig": "Futurama",
+      "orig_en": "",
+      "ko": "퓨쳐라마",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국, 2026-10-19)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Futurama (1999~2003, 2008~2013, 2023~) · DVD 장편 4편(2007~2009)",
+      "by": "Matt Groening, David X. Cohen",
+      "year": 1999,
+      "country": "미국",
+      "setting": "천 년 동안 얼어 있다 깨어난 배달부가 일하는 31세기 뉴욕",
+      "concepts": [
+        "cryosleep",
+        "robot",
+        "alien",
+        "warp_drive",
+        "time_travel",
+        "alt_timeline",
+        "mega_corp"
+      ],
+      "new_ideas": "옛 유명인을 머리만 병에 담아 살려 두는 기술",
+      "lore_size": "큼",
+      "notability": "에미상 애니메이션 부문 수상, 두 번 끝났다가 되살아나 2023년부터 다시 방영",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국에 14개 시즌(저스트워치). 예전 투니버스 심야 자막 방영(나무위키)",
+        "src": "https://www.justwatch.com/kr/검색?q=Futurama"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rick_and_morty",
+      "orig": "Rick and Morty",
+      "orig_en": "",
+      "ko": "릭 앤 모티",
+      "ko_src": "넷플릭스 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Rick and Morty (2013~) · Rick and Morty: The Anime (2024)",
+      "by": "Justin Roiland, Dan Harmon",
+      "year": 2013,
+      "country": "미국",
+      "setting": "차원을 마음대로 넘는 천재 과학자와 손자가 떠도는 끝없는 평행 세계",
+      "concepts": [
+        "alt_timeline",
+        "wormhole",
+        "clone",
+        "hive_mind",
+        "federation",
+        "alien",
+        "mind_upload"
+      ],
+      "new_ideas": "모든 평행 세계의 같은 사람끼리 모여 만든 세력(리크들의 평의회)",
+      "lore_size": "큼",
+      "notability": "에미상 애니메이션 프로그램상 2회(2018·2020), 8개 시즌",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국 8개 시즌(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Rick and Morty"
+      },
+      "borderline": false
+    },
+    {
+      "id": "love_death_robots",
+      "orig": "Love, Death & Robots",
+      "orig_en": "",
+      "ko": "러브, 데스 + 로봇",
+      "ko_src": "넷플릭스 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Love, Death & Robots 1~4편(2019~2025)",
+      "by": "Tim Miller, David Fincher (Netflix)",
+      "year": 2019,
+      "country": "미국",
+      "setting": "편마다 다른 세계를 그리는 짧은 애니메이션 묶음",
+      "concepts": [
+        "robot",
+        "ai",
+        "alien",
+        "mecha",
+        "cryosleep",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "에미상 단편 애니메이션 부문 여러 차례 수상, 4개 시즌. 작품마다 세계가 달라 한 건으로 묶음",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국 4개 시즌(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Love Death Robots"
+      },
+      "borderline": false
+    },
+    {
+      "id": "transformers",
+      "orig": "The Transformers",
+      "orig_en": "",
+      "ko": "트랜스포머",
+      "ko_src": "저스트워치 한국(1984 TV판·2007 실사 영화 제목, 영화는 왓챠·웨이브 서비스)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "완구(1984, 해즈브로가 다카라의 다이아클론·마이크로맨 완구를 들여옴) · 마블 만화(1984년 5월) · TV 애니메이션(1984년 9월~) · 비스트 워즈(1996) · 실사 영화 7편(2007~2023) · 트랜스포머 원(2024)",
+      "by": "Hasbro·Takara(완구), Marvel Comics, Sunbow·Marvel Productions(애니메이션)",
+      "year": 1984,
+      "country": "미국 (완구 원형은 일본 다카라)",
+      "setting": "변신하는 기계 생명체 두 무리가 고향 별의 전쟁을 지구까지 끌고 온 세계",
+      "concepts": [
+        "alien",
+        "robot",
+        "key_resource"
+      ],
+      "new_ideas": "탈것이나 물건으로 모습을 바꾸는 기계 생명 종족",
+      "lore_size": "큼",
+      "notability": "40년 넘게 이어진 완구·애니메이션·만화·영화 묶음, 실사 영화만 7편",
+      "korean": {
+        "status": "있음",
+        "detail": "실사 영화 국내 서비스(왓챠·웨이브). 1984년 TV판은 정규 방영 없이 일부만 비디오 『변신로보트 카신』, 극장판은 1989 KBS2 『유니크론과 변신로보트』(나무위키)",
+        "src": "https://namu.wiki/w/트랜스포머(애니메이션)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wall_e",
+      "orig": "WALL-E",
+      "orig_en": "",
+      "ko": "월•E",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국 표기 그대로)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "WALL-E (2008)",
+      "by": "Andrew Stanton (Pixar)",
+      "year": 2008,
+      "country": "미국",
+      "setting": "쓰레기에 묻힌 지구에 홀로 남은 청소 로봇과, 우주선에서 700년을 산 인류",
+      "concepts": [
+        "earth_left",
+        "generation_ship",
+        "robot",
+        "ai",
+        "mega_corp",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 장편 애니메이션상(2009)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국, 웨이브 구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=WALL-E"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_iron_giant",
+      "orig": "The Iron Giant",
+      "orig_en": "",
+      "ko": "아이언 자이언트",
+      "ko_src": "왓챠·웨이브 서비스 제목(저스트워치 한국)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Ted Hughes 『The Iron Man』(1968) · 영화 The Iron Giant (1999)",
+      "by": "Brad Bird (Warner Bros.), 원작 Ted Hughes",
+      "year": 1968,
+      "country": "미국 (원작 소설은 영국)",
+      "setting": "냉전기 미국 시골 마을에 떨어진 우주의 거대 로봇과 소년",
+      "concepts": [
+        "robot",
+        "alien"
+      ],
+      "new_ideas": "무기로 만들어졌지만 무기가 되기를 거부하는 기계",
+      "lore_size": "작음",
+      "notability": "애니 어워드 9개 부문 수상, 흥행 실패 뒤 고전으로 평가",
+      "korean": {
+        "status": "있음",
+        "detail": "왓챠 정액, 웨이브 대여·구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Iron Giant"
+      },
+      "borderline": false
+    },
+    {
+      "id": "treasure_planet",
+      "orig": "Treasure Planet",
+      "orig_en": "",
+      "ko": "보물성",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Treasure Planet (2002)",
+      "by": "Ron Clements, John Musker (Disney)",
+      "year": 2002,
+      "country": "미국",
+      "setting": "돛단배가 우주 바람을 타고 다니는 우주에서 전설의 보물 행성을 찾는 모험",
+      "concepts": [
+        "alien",
+        "cyborg",
+        "robot",
+        "megastructure",
+        "wormhole"
+      ],
+      "new_ideas": "돛을 펴고 우주의 바람을 타는 범선",
+      "lore_size": "작음",
+      "notability": "아카데미 장편 애니메이션상 후보(2003)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국, 웨이브 구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Treasure Planet"
+      },
+      "borderline": false
+    },
+    {
+      "id": "titan_ae",
+      "orig": "Titan A.E.",
+      "orig_en": "",
+      "ko": "타이탄 A.E.",
+      "ko_src": "웨이브 구매 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Titan A.E. (2000)",
+      "by": "Don Bluth, Gary Goldman (20th Century Fox)",
+      "year": 2000,
+      "country": "미국",
+      "setting": "외계 종족이 지구를 날려 버린 뒤 떠돌이가 된 인류와 새 행성을 만드는 배",
+      "concepts": [
+        "planet_killer",
+        "earth_left",
+        "ark",
+        "terraforming",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "흥행은 실패했으나 꾸준히 다시 거론되는 우주 활극",
+      "korean": {
+        "status": "있음",
+        "detail": "웨이브 구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Titan A.E."
+      },
+      "borderline": false
+    },
+    {
+      "id": "aeon_flux",
+      "orig": "Æon Flux",
+      "orig_en": "",
+      "ko": "이온 플럭스",
+      "ko_src": "2005년 실사 영화 웨이브 대여 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "영화",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Liquid Television 단편(1991) · TV 시리즈(1995) · 실사 영화(2005)",
+      "by": "Peter Chung (MTV)",
+      "year": 1991,
+      "country": "미국",
+      "setting": "벽으로 갈린 두 나라 사이를 넘나드는 여성 첩보원의 기묘한 미래 도시",
+      "concepts": [
+        "genetic_eng",
+        "clone",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "MTV 성인 애니메이션의 대표작, 실사 영화로 다시 만들어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "실사 영화 국내 서비스(웨이브). 애니메이션은 초기 투니버스 방영 기록(나무위키)",
+        "src": "https://namu.wiki/w/이온 플럭스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "pantheon",
+      "orig": "Pantheon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Ken Liu 단편 연작(2014~2016) · 애니메이션 Pantheon (2022~2023, 2개 시즌)",
+      "by": "Craig Silverstein (애니메이션), 원작 Ken Liu",
+      "year": 2014,
+      "country": "미국",
+      "setting": "죽은 사람의 뇌를 읽어 디지털 의식으로 되살린 기업들이 다투는 근미래",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "평단 호평, 방송 서비스에서 내려졌다가 다른 서비스로 옮겨 2개 시즌 완결",
+      "korean": {
+        "status": "일부",
+        "detail": "애니메이션은 한국 넷플릭스에서 볼 수 없고 한국어 자막도 없음(나무위키). 원작 단편은 국내 단편집 『신들은 죽임당하지 않을 것이다』에 수록(나무위키)",
+        "src": "https://namu.wiki/w/판테온(애니메이션)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "scavengers_reign",
+      "orig": "Scavengers Reign",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "단편 Scavengers (2016) · Scavengers Reign (2023)",
+      "by": "Joseph Bennett, Charles Huettner",
+      "year": 2016,
+      "country": "미국",
+      "setting": "추락한 화물선 생존자들이 서로 얽혀 사는 낯선 행성의 생태계 속을 헤맨다",
+      "concepts": [
+        "alien_ecology",
+        "parasite",
+        "robot",
+        "mind_control"
+      ],
+      "new_ideas": "생물끼리 서로 기대어 사는 행성 생태계 자체가 이야기의 주인공",
+      "lore_size": "중간",
+      "notability": "에미상 애니메이션 프로그램 후보·배경 디자인 개인상 수상, 한 시즌으로 끝난 뒤 넷플릭스가 일부 나라에 다시 공개",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "저스트워치 한국에 볼 수 있는 서비스 없음, 국내 공개 기록 못 찾음",
+        "src": "https://www.justwatch.com/kr/검색?q=Scavengers Reign"
+      },
+      "borderline": false
+    },
+    {
+      "id": "invincible",
+      "orig": "Invincible",
+      "orig_en": "",
+      "ko": "인빈시블",
+      "ko_src": "프라임 비디오 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "Image Comics 만화(2003~2018) · 프라임 비디오 애니메이션(2021~)",
+      "by": "Robert Kirkman, Cory Walker",
+      "year": 2003,
+      "country": "미국",
+      "setting": "외계 정복 제국의 피를 이은 소년 영웅이 지구와 제국 사이에 선다",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "만화 완결 후 애니메이션 4개 시즌",
+      "korean": {
+        "status": "있음",
+        "detail": "프라임 비디오 한국 4개 시즌(저스트워치), 국내 등급 청소년 관람불가(나무위키)",
+        "src": "https://www.justwatch.com/kr/검색?q=Invincible"
+      },
+      "borderline": true
+    },
+    {
+      "id": "voltron",
+      "orig": "Voltron",
+      "orig_en": "",
+      "ko": "볼트론",
+      "ko_src": "리부트 국내 공개 제목 『볼트론: 전설의 수호자』(나무위키), 저스트워치는 『볼트론: 전설 속의 수호자』",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "원작 일본 『百獣王ゴライオン』(1981) · Voltron: Defender of the Universe (1984) · Voltron: Legendary Defender (2016~2018)",
+      "by": "World Events Productions(1984), DreamWorks Animation·Studio Mir(2016)",
+      "year": 1984,
+      "country": "미국 (원작 일본 도에이)",
+      "setting": "다섯 사자 로봇이 합체한 거인으로 우주 제국에 맞서는 이야기",
+      "concepts": [
+        "mecha",
+        "galactic_empire",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1980년대 미국 방영 인기작, 2016년 넷플릭스 리부트 8개 시즌(한국 스튜디오 미르 제작 참여)",
+      "korean": {
+        "status": "일부",
+        "detail": "리부트는 올레TV(2017)·넷플릭스(2019~)·EBS2(2023) 공개. 1984년판 국내 방영은 확인 못 함(나무위키)",
+        "src": "https://namu.wiki/w/볼트론: 전설의 수호자"
+      },
+      "borderline": false
+    },
+    {
+      "id": "robotech",
+      "orig": "Robotech",
+      "orig_en": "",
+      "ko": "로보텍",
+      "ko_src": "SBS 1993 방영 제목 『출격! 로보텍』(나무위키)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "소설",
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Robotech (1985) · The Shadow Chronicles (2006) · 소설·만화·탁상 게임",
+      "by": "Harmony Gold, Carl Macek",
+      "year": 1985,
+      "country": "미국 (일본 애니메이션 셋을 엮음)",
+      "setting": "추락한 외계 전함의 기술로 무장한 인류가 세 차례 외계 침공을 겪는다",
+      "concepts": [
+        "mecha",
+        "alien",
+        "key_resource",
+        "clone",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "『마크로스』·『서던 크로스』·『모스피다』를 한 이야기로 이은 북미 고전, 소설·만화·탁상 게임으로 넓어짐",
+      "korean": {
+        "status": "일부",
+        "detail": "SBS 1993년 『출격! 로보텍』으로 마크로스 부분만 방영(나무위키). 크런치롤 한국에 1985년판(저스트워치, 한국어 자막 여부는 확인 못 함)",
+        "src": "https://namu.wiki/w/로보텍"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_jetsons",
+      "orig": "The Jetsons",
+      "orig_en": "",
+      "ko": "우주가족 젯슨",
+      "ko_src": "SBS 방영 제목(나무위키)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "The Jetsons (1962~1963, 1985~1987) · Jetsons: The Movie (1990)",
+      "by": "Hanna-Barbera",
+      "year": 1962,
+      "country": "미국",
+      "setting": "높은 기둥 위 하늘 도시에서 로봇 가정부와 사는 미래 가족",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "기술로 집안일과 일거리가 거의 사라진 하늘 도시의 일상",
+      "lore_size": "작음",
+      "notability": "1960년대 미국인이 그린 미래상의 대표작, 1980년대에 다시 만들어지고 극장판까지 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "SBS 『우주가족 젯슨』 방영(나무위키, 방영 연도는 적혀 있지 않음)",
+        "src": "https://namu.wiki/w/우주가족 젯슨"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ben_10",
+      "orig": "Ben 10",
+      "orig_en": "",
+      "ko": "벤10",
+      "ko_src": "카툰네트워크 한국 방영 제목(나무위키)",
+      "media": [
+        "애니메이션",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Ben 10 (2005) · Alien Force · Ultimate Alien · Omniverse · 리부트(2016) · 실사 TV 영화 2편",
+      "by": "Man of Action (Cartoon Network)",
+      "year": 2005,
+      "country": "미국",
+      "setting": "외계 종족의 몸으로 바꿔 주는 시계를 찬 소년이 지구와 우주의 악당과 싸운다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "수많은 외계 종족의 유전자를 담아 몸을 바꿔 주는 손목 장치",
+      "lore_size": "중간",
+      "notability": "카툰네트워크 간판, 다섯 시리즈로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "카툰네트워크 한국 방영·공식 유튜브 공개(나무위키)",
+        "src": "https://namu.wiki/w/벤10"
+      },
+      "borderline": true
+    },
+    {
+      "id": "generator_rex",
+      "orig": "Generator Rex",
+      "orig_en": "",
+      "ko": "제너레이터 렉스",
+      "ko_src": "카툰네트워크 한국 웹사이트 독점 공개 기사(게임메카)·나무위키",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Generator Rex (2010~2013, 3시즌)",
+      "by": "Man of Action (Cartoon Network)",
+      "year": 2010,
+      "country": "미국",
+      "setting": "폭발로 퍼진 나노 기계가 생물을 괴물로 바꾸는 세계에서 그것을 다스리는 소년",
+      "concepts": [
+        "nanotech",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "벤10 제작진의 3시즌 작품",
+      "korean": {
+        "status": "일부",
+        "detail": "카툰네트워크 한국 웹사이트 선공개(게임메카), 한국어 더빙은 시즌 1까지(나무위키)",
+        "src": "https://namu.wiki/w/제너레이터 렉스"
+      },
+      "borderline": true
+    },
+    {
+      "id": "exosquad",
+      "orig": "Exosquad",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Exosquad (1993~1994, 2시즌)",
+      "by": "Universal Cartoon Studios",
+      "year": 1993,
+      "country": "미국",
+      "setting": "사람이 일꾼으로 만든 개량 인간들이 반란을 일으켜 태양계를 차지한 22세기",
+      "concepts": [
+        "genetic_eng",
+        "mecha",
+        "fleet_battle",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2시즌 짧은 방영이었으나 진지한 전쟁 묘사로 지금도 거론됨",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영 기록 못 찾음",
+        "src": "https://en.wikipedia.org/wiki/List_of_Exosquad_episodes"
+      },
+      "borderline": false
+    },
+    {
+      "id": "invader_zim",
+      "orig": "Invader Zim",
+      "orig_en": "",
+      "ko": "우주 스파이 짐",
+      "ko_src": "재능TV·니켈로디언 코리아 방영 제목(나무위키)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Invader ZIM (2001~2006) · Enter the Florpus (2019, 넷플릭스)",
+      "by": "Jhonen Vasquez (Nickelodeon)",
+      "year": 2001,
+      "country": "미국",
+      "setting": "정복 제국이 쫓아내듯 보낸 외계 침략자가 지구 정복을 꾀하는 우스개",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "방영 중단 뒤 열성 팬층에 힘입어 만화와 넷플릭스 영화로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "재능TV·니켈로디언 코리아 방영, 넷플릭스 영화 『우주 스파이 짐: 지구를 삼켜라!』(나무위키)",
+        "src": "https://namu.wiki/w/인베이더 짐"
+      },
+      "borderline": false
+    },
+    {
+      "id": "final_space",
+      "orig": "Final Space",
+      "orig_en": "",
+      "ko": "파이널 스페이스",
+      "ko_src": "넷플릭스 한국 공개 제목(나무위키)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Final Space (2018~2021, 3시즌)",
+      "by": "Olan Rogers, David Sacks",
+      "year": 2018,
+      "country": "미국",
+      "setting": "우주를 집어삼킬 존재와 맞서는 덜렁이 죄수와 동료들의 우주 모험",
+      "concepts": [
+        "alien",
+        "ai",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "인터넷 단편에서 출발해 3시즌 방송 시리즈가 됨",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국 공개 뒤 2023-12-15 판권 만료(나무위키)",
+        "src": "https://namu.wiki/w/파이널 스페이스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "solar_opposites",
+      "orig": "Solar Opposites",
+      "orig_en": "",
+      "ko": "솔라 오포짓",
+      "ko_src": "디즈니+·넷플릭스 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Solar Opposites (2020~)",
+      "by": "Justin Roiland, Mike McMahan (Hulu)",
+      "year": 2020,
+      "country": "미국",
+      "setting": "고향 별이 망해 지구 교외에 숨어 사는 외계인 가족",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "6개 시즌",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국 6시즌, 넷플릭스 한국 5시즌(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Solar Opposites"
+      },
+      "borderline": false
+    },
+    {
+      "id": "reboot",
+      "orig": "ReBoot",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "ReBoot (1994~2001) · ReBoot: The Guardian Code (2018)",
+      "by": "Mainframe Entertainment",
+      "year": 1994,
+      "country": "캐나다",
+      "setting": "컴퓨터 안 도시에 사는 프로그램들이 침입한 바이러스와 싸우는 세계",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "컴퓨터 속을 하나의 도시이자 사회로 그린 가상 세계",
+      "lore_size": "중간",
+      "notability": "처음으로 전편을 컴퓨터 그래픽으로 만든 30분짜리 TV 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영 기록 못 찾음(나무위키 문서도 찾지 못함)",
+        "src": "https://namu.wiki/w/리부트"
+      },
+      "borderline": false
+    },
+    {
+      "id": "samurai_jack",
+      "orig": "Samurai Jack",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Samurai Jack (2001~2004, 2017 완결 시즌)",
+      "by": "Genndy Tartakovsky (Cartoon Network)",
+      "year": 2001,
+      "country": "미국",
+      "setting": "악마가 다스리는 먼 미래로 내던져진 사무라이가 과거로 돌아갈 길을 찾는다",
+      "concepts": [
+        "time_travel",
+        "robot",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "에미상 수상, 13년 만에 다섯째 시즌으로 완결",
+      "korean": {
+        "status": "있음",
+        "detail": "카툰네트워크 한국 심야 자막판 시즌 2까지, 2025년 시즌 3·4 자막 방영. 한국어 방송 제목은 따로 확인 못 함(나무위키)",
+        "src": "https://namu.wiki/w/사무라이 잭"
+      },
+      "borderline": true
+    },
+    {
+      "id": "steven_universe",
+      "orig": "Steven Universe",
+      "orig_en": "",
+      "ko": "스티븐 유니버스",
+      "ko_src": "국내 더빙 방송 제목(나무위키)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Steven Universe (2013~2019) · The Movie (2019) · Future (2019~2020)",
+      "by": "Rebecca Sugar (Cartoon Network)",
+      "year": 2013,
+      "country": "미국",
+      "setting": "보석 몸을 가진 외계 종족의 제국과 지구를 지키는 반역자들 사이에 선 소년",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "본편 5시즌에 영화와 후속 시리즈까지 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "2014년부터 더빙판 국내 방송, 넷플릭스에 일부 시즌 있었음(나무위키)",
+        "src": "https://namu.wiki/w/스티븐 유니버스"
+      },
+      "borderline": true
+    },
+    {
+      "id": "kipo_and_the_age_of_wonderbeasts",
+      "orig": "Kipo and the Age of Wonderbeasts",
+      "orig_en": "",
+      "ko": "키포와 신기한 동물들",
+      "ko_src": "넷플릭스 한국 공개 제목(나무위키)",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "원작 Radford Sechrist 웹툰 Kipo (2015~, 텀블러) · 애니메이션 3시즌(2020)",
+      "by": "Radford Sechrist (DreamWorks Animation)",
+      "year": 2015,
+      "country": "미국",
+      "setting": "동물들이 지성을 얻어 땅 위를 차지하고 사람은 땅속으로 숨은 미래",
+      "concepts": [
+        "catastrophe",
+        "uplift",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "평단 호평을 받은 넷플릭스 3시즌 완결작",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국 2020년 공개, 2026-06-26 판권 만료(나무위키)",
+        "src": "https://namu.wiki/w/키포와 신기한 동물들"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gen_lock",
+      "orig": "gen:LOCK",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "gen:LOCK (2019, 2021)",
+      "by": "Gray Haddock (Rooster Teeth)",
+      "year": 2019,
+      "country": "미국",
+      "setting": "조종사의 의식을 복사해 넣은 거대 로봇으로 독재 세력과 싸우는 미래",
+      "concepts": [
+        "mind_upload",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2시즌, 유명 배우들이 목소리를 맡아 주목",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "저스트워치 한국에 서비스·한국어 제목 없음",
+        "src": "https://www.justwatch.com/kr/검색?q=gen:LOCK"
+      },
+      "borderline": false
+    },
+    {
+      "id": "thundercats",
+      "orig": "ThunderCats",
+      "orig_en": "",
+      "ko": "썬더캣츠",
+      "ko_src": "나무위키(KBS2 첫 방영 제목은 『무적의 왕자 라이온』, 뒤의 더빙은 『썬더캣츠』)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "ThunderCats (1985~1989) · 리메이크(2011) · ThunderCats Roar (2020)",
+      "by": "Rankin/Bass (그림 작업은 일본 Topcraft)",
+      "year": 1985,
+      "country": "미국",
+      "setting": "망한 고양이 종족의 별에서 탈출한 이들이 먼 미래 지구에서 마법사와 싸운다",
+      "concepts": [
+        "alien",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1980년대 미국 대표 TV 애니메이션, 두 차례 다시 만들어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "KBS2 『무적의 왕자 라이온』 방영, 뒤에 카툰네트워크 코리아 『썬더캣츠』 더빙(나무위키)",
+        "src": "https://namu.wiki/w/무적의 왕자 라이온"
+      },
+      "borderline": true
+    },
+    {
+      "id": "heavy_metal",
+      "orig": "Heavy Metal",
+      "orig_en": "",
+      "ko": "헤비메탈",
+      "ko_src": "영화진흥위원회 영화관입장권통합전산망(KOBIS) 영화 정보",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "만화 잡지 Heavy Metal (1977~, 프랑스 Métal hurlant 미국판) · 영화 Heavy Metal (1981) · Heavy Metal 2000 (2000)",
+      "by": "Gerald Potterton, Ivan Reitman (영화)",
+      "year": 1977,
+      "country": "캐나다·미국",
+      "setting": "온 우주의 악을 품은 녹색 구슬을 따라 엮인 짧은 이야기 묶음",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "성인 애니메이션 고전, 같은 이름의 만화 잡지가 원천",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 에 1981년 작 『헤비메탈』(상태 기타), 2000년 작 『헤비메탈 F.A.K.K.2』(개봉)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=헤비 메탈"
+      },
+      "borderline": true
+    },
+    {
+      "id": "la_planete_sauvage",
+      "orig": "La Planète sauvage",
+      "orig_en": "Fantastic Planet",
+      "ko": "판타스틱 플래닛",
+      "ko_src": "KOBIS(제작상태 개봉)·웨이브·왓챠",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Stefan Wul 『Oms en série』(1957) · 영화 La Planète sauvage (1973)",
+      "by": "René Laloux, Roland Topor (원작 Stefan Wul)",
+      "year": 1957,
+      "country": "프랑스 (체코슬로바키아 합작)",
+      "setting": "거인 외계 종족이 사람을 애완동물이나 해충처럼 다루는 행성",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "사람이 더 큰 문명에게 짐승 취급을 받는 뒤집힌 처지",
+      "lore_size": "작음",
+      "notability": "1973년 칸 영화제 심사위원 특별상",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 개봉, 웨이브·왓챠 정액(저스트워치)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=판타스틱 플래닛"
+      },
+      "borderline": false
+    },
+    {
+      "id": "les_maitres_du_temps",
+      "orig": "Les Maîtres du temps",
+      "orig_en": "Time Masters",
+      "ko": "타임 마스터",
+      "ko_src": "KOBIS 영화 정보·MUBI 한국 서비스 제목(저스트워치)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Stefan Wul 『L'Orphelin de Perdide』(1958) · 영화(1982)",
+      "by": "René Laloux, Mœbius",
+      "year": 1958,
+      "country": "프랑스 (헝가리에서 제작)",
+      "setting": "위험한 행성에 홀로 남은 아이를 구하러 우주선이 달려가는 이야기",
+      "concepts": [
+        "alien",
+        "telepathy",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "뫼비우스가 그림을 맡은 르네 랄루의 둘째 장편",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록(상태 기타), MUBI 한국에 있음(저스트워치). 한국어 자막 여부는 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=타임 마스터"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gandahar",
+      "orig": "Gandahar",
+      "orig_en": "Light Years",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Jean-Pierre Andrevon 『Les Hommes-machines contre Gandahar』(1969) · 영화 Gandahar (1987) · 영어판 Light Years (1988)",
+      "by": "René Laloux, Philippe Caza",
+      "year": 1969,
+      "country": "프랑스",
+      "setting": "생명 공학으로 꾸린 평화로운 나라가 금속 병사 군대의 습격을 받는다",
+      "concepts": [
+        "genetic_eng",
+        "robot",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "르네 랄루의 셋째 장편, 미국판 영어 대본을 아이작 아시모프가 손봄",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 기록 없음, 저스트워치 한국에 서비스 없음",
+        "src": "https://www.justwatch.com/kr/검색?q=Gandahar"
+      },
+      "borderline": false
+    },
+    {
+      "id": "renaissance",
+      "orig": "Renaissance",
+      "orig_en": "",
+      "ko": "르네상스",
+      "ko_src": "KOBIS 영화 정보(2006, 크리스티앙 볼크만)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Renaissance (2006)",
+      "by": "Christian Volckman",
+      "year": 2006,
+      "country": "프랑스",
+      "setting": "거대 기업이 도시를 쥔 2054년 파리, 늙지 않는 비밀을 둘러싼 수사",
+      "concepts": [
+        "mega_corp",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "흑과 백 두 색만으로 그린 동작 포착 애니메이션, 안시 영화제 장편 대상(2006)",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 등록(상태 기타 — 극장 개봉 기록은 못 찾음), 저스트워치 한국에 서비스 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=르네상스&sPrdtYearS=2006&sPrdtYearE=2006"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_express",
+      "orig": "Mars Express",
+      "orig_en": "",
+      "ko": "화성특급",
+      "ko_src": "KOBIS(제작상태 개봉)·티빙",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Mars Express (2023)",
+      "by": "Jérémie Périn",
+      "year": 2023,
+      "country": "프랑스",
+      "setting": "로봇과 사람이 섞여 사는 23세기 화성 도시에서 사라진 학생을 쫓는 탐정",
+      "concepts": [
+        "android",
+        "robot",
+        "ai",
+        "colonization",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "칸 영화제 상영(2023), 프랑스 SF 장편 애니메이션으로 호평",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 개봉, 티빙 정액(저스트워치)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=화성특급"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mystery_of_the_third_planet",
+      "orig": "Тайна третьей планеты",
+      "orig_en": "The Mystery of the Third Planet",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션",
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Kir Bulychev 앨리스 연작(1965~) 가운데 『Путешествие Алисы』(1974) · 애니메이션(1981)",
+      "by": "Roman Kachanov (Soyuzmultfilm), 원작 Kir Bulychev",
+      "year": 1965,
+      "country": "소련",
+      "setting": "우주 동물원에 보낼 동물을 모으러 떠난 소녀가 은하의 수수께끼에 휘말린다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "남의 생각을 읽어 내는 기계",
+      "lore_size": "중간",
+      "notability": "소련 애니메이션의 대표 SF, 원작 앨리스 연작은 러시아 어린이 SF 고전",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "저스트워치 한국에 한국어 제목·서비스 없음, 국내 공개 기록 못 찾음",
+        "src": "https://www.justwatch.com/kr/검색?q=Тайна третьей планеты"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ulysse_31",
+      "orig": "Ulysse 31",
+      "orig_en": "Ulysses 31",
+      "ko": "우주선장 율리시스",
+      "ko_src": "KBS2 1987년 방영 제목(나무위키)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Ulysse 31 (1981, 26화)",
+      "by": "DIC(프랑스)·TMS(일본) 합작, Jean Chalopin, Nina Wolmark",
+      "year": 1981,
+      "country": "프랑스·일본",
+      "setting": "신들의 노여움을 사 우주를 떠도는 31세기 함장과 얼어붙은 동료들",
+      "concepts": [
+        "godlike",
+        "cryosleep",
+        "ai",
+        "robot"
+      ],
+      "new_ideas": "옛 그리스 신화를 우주 시대로 옮긴 세계",
+      "lore_size": "중간",
+      "notability": "유럽에서 크게 인기를 끈 프랑스·일본 합작 SF",
+      "korean": {
+        "status": "있음",
+        "detail": "KBS2 1987년 방영·1995년 재방영, 비디오판 제목 『천공전사 유리시즈』(나무위키)",
+        "src": "https://namu.wiki/w/우주선장 율리시스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "il_etait_une_fois_lespace",
+      "orig": "Il était une fois... l'Espace",
+      "orig_en": "Once Upon a Time... Space",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Il était une fois... l'Espace (1982~1983, 26화)",
+      "by": "Albert Barillé (Procidis), 일본 Eiken 참여",
+      "year": 1982,
+      "country": "프랑스 (일본 합작)",
+      "setting": "여러 행성의 연합과 기계 병사를 앞세운 제국이 맞서는 은하",
+      "concepts": [
+        "federation",
+        "galactic_empire",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "프랑스 『옛날 옛적에』 교육 애니메이션 묶음의 SF 편, 일본에서도 방영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영 기록 못 찾음",
+        "src": "https://en.wikipedia.org/wiki/Once_Upon_a_Time..._Space"
+      },
+      "borderline": false
+    },
+    {
+      "id": "code_lyoko",
+      "orig": "Code Lyoko",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "드라마",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Code Lyoko (2003~2007, 4시즌) · Code Lyoko: Evolution (2013)",
+      "by": "Antefilms·MoonScoop, Thomas Romain, Tania Palumbo",
+      "year": 2003,
+      "country": "프랑스",
+      "setting": "중학생들이 가상 세계로 들어가 반란을 꾀하는 인공지능과 싸운다",
+      "concepts": [
+        "ai",
+        "ai_revolt",
+        "time_travel"
+      ],
+      "new_ideas": "사람이 몸째 들어가 싸우는 가상 세계",
+      "lore_size": "중간",
+      "notability": "4시즌, 프랑스 밖 여러 나라에서 방영된 인기작",
+      "korean": {
+        "status": "있음",
+        "detail": "애니맥스 더빙 방영(나무위키 로스트 미디어 목록 — 한국판 제목은 '코드 료코'로 적혔으나 자료가 남아 있지 않음, 저스트워치는 '코드 요코')",
+        "src": "https://namu.wiki/w/로스트 미디어/목록"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oban_star_racers",
+      "orig": "Oban Star-Racers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Molly, Star-Racer (2001 시범작) · Oban Star-Racers (2006, 26화)",
+      "by": "Savin Yeatman-Eiffel (Sav! The World), 일본 Hal Film Maker",
+      "year": 2006,
+      "country": "프랑스·일본",
+      "setting": "지구의 운명을 걸고 은하의 종족들이 겨루는 우주 경주",
+      "concepts": [
+        "alien",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "애니메랜드 최우수 비일본 애니메이션 시리즈상(2006), 영국 아카데미 어린이상 후보",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "국내 방영 기록 못 찾음",
+        "src": "https://en.wikipedia.org/wiki/Oban_Star-Racers"
+      },
+      "borderline": false
+    },
+    {
+      "id": "big_hero_6",
+      "orig": "Big Hero 6",
+      "orig_en": "",
+      "ko": "빅 히어로",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "만화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "마블 만화(1998) · 영화 Big Hero 6 (2014) · TV 시리즈(2017~2021)",
+      "by": "Don Hall, Chris Williams (Disney), 원작 Steven T. Seagle, Duncan Rouleau",
+      "year": 1998,
+      "country": "미국",
+      "setting": "샌프란시스코와 도쿄를 섞은 미래 도시에서 돌봄 로봇과 소년 발명가들이 영웅이 된다",
+      "concepts": [
+        "robot",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 장편 애니메이션상(2015), TV 시리즈로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "영화·TV 시리즈 디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Big Hero 6"
+      },
+      "borderline": true
+    },
+    {
+      "id": "lilo_and_stitch",
+      "orig": "Lilo & Stitch",
+      "orig_en": "",
+      "ko": "릴로 & 스티치",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "영화",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Lilo & Stitch (2002) · 속편 영화들 · TV 시리즈(2003~2006) · 실사 리메이크(2025)",
+      "by": "Chris Sanders, Dean DeBlois (Disney)",
+      "year": 2002,
+      "country": "미국",
+      "setting": "은하 연합에서 달아난 유전자 실험체 외계 생물이 하와이 소녀의 가족이 된다",
+      "concepts": [
+        "alien",
+        "genetic_eng",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "속편·TV 시리즈로 이어진 디즈니 작품, 2025년 실사판 크게 흥행",
+      "korean": {
+        "status": "있음",
+        "detail": "애니메이션·TV 시리즈·실사판 디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Lilo Stitch"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nine",
+      "orig": "9",
+      "orig_en": "",
+      "ko": "9:나인",
+      "ko_src": "KOBIS(제작상태 개봉)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "단편 9 (2005) · 장편 9 (2009)",
+      "by": "Shane Acker",
+      "year": 2005,
+      "country": "미국",
+      "setting": "기계와의 전쟁으로 사람이 사라진 뒤 헝겊 인형들이 깨어나 기계와 싸운다",
+      "concepts": [
+        "ai_revolt",
+        "catastrophe",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "원작 단편이 아카데미 단편 애니메이션상 후보, 팀 버튼이 제작에 참여",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 개봉",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=9: 나인"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_mitchells_vs_the_machines",
+      "orig": "The Mitchells vs. the Machines",
+      "orig_en": "",
+      "ko": "미첼 가족과 기계 전쟁",
+      "ko_src": "넷플릭스 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "The Mitchells vs. the Machines (2021)",
+      "by": "Mike Rianda (Sony Pictures Animation)",
+      "year": 2021,
+      "country": "미국",
+      "setting": "휴대폰 인공지능이 반란을 일으킨 날, 서툰 가족이 인류를 지킨다",
+      "concepts": [
+        "ai_revolt",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "애니 어워드 장편상, 아카데미 장편 애니메이션상 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=The Mitchells vs. the Machines"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_wild_robot",
+      "orig": "The Wild Robot",
+      "orig_en": "",
+      "ko": "와일드 로봇",
+      "ko_src": "웨이브 대여·구매 제목(저스트워치 한국)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Peter Brown 소설 3권(2016~2023) · 영화(2024)",
+      "by": "Chris Sanders (DreamWorks), 원작 Peter Brown",
+      "year": 2016,
+      "country": "미국",
+      "setting": "무인도에 떠밀려 온 로봇이 거위 새끼를 키우며 야생에 적응한다",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 3개 부문 후보, 애니 어워드 장편상",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 웨이브 대여·구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=The Wild Robot"
+      },
+      "borderline": false
+    },
+    {
+      "id": "elio",
+      "orig": "Elio",
+      "orig_en": "",
+      "ko": "엘리오",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Elio (2025)",
+      "by": "Pixar (Madeline Sharafian, Domee Shi, Adrian Molina)",
+      "year": 2025,
+      "country": "미국",
+      "setting": "외로운 소년이 여러 외계 문명의 연합에 지구 대표로 잘못 불려 간다",
+      "concepts": [
+        "alien",
+        "first_contact",
+        "federation",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "픽사 장편(흥행은 부진)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Elio Pixar"
+      },
+      "borderline": false
+    },
+    {
+      "id": "robots",
+      "orig": "Robots",
+      "orig_en": "",
+      "ko": "로봇",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Robots (2005)",
+      "by": "Chris Wedge (Blue Sky Studios)",
+      "year": 2005,
+      "country": "미국",
+      "setting": "로봇만 사는 도시에서 낡은 몸을 버리게 하려는 회사에 맞서는 젊은 발명가",
+      "concepts": [
+        "robot",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "세계 흥행 2억 달러를 넘긴 블루 스카이 장편",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Robots 2005"
+      },
+      "borderline": false
+    },
+    {
+      "id": "meet_the_robinsons",
+      "orig": "Meet the Robinsons",
+      "orig_en": "",
+      "ko": "로빈슨 가족",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "소설",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "원작 그림책 William Joyce 『A Day with Wilbur Robinson』(1990) · 영화(2007)",
+      "by": "Stephen Anderson (Disney), 원작 William Joyce",
+      "year": 1990,
+      "country": "미국",
+      "setting": "미래에서 온 소년을 따라 시간을 건넌 고아 발명가가 자기 앞날을 본다",
+      "concepts": [
+        "time_travel",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "디즈니 장편, 원작은 그림책(시간 여행은 영화에서 덧붙임)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국, 웨이브 구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Meet the Robinsons"
+      },
+      "borderline": false
+    },
+    {
+      "id": "monsters_vs_aliens",
+      "orig": "Monsters vs. Aliens",
+      "orig_en": "",
+      "ko": "몬스터 vs 에이리언",
+      "ko_src": "넷플릭스 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Monsters vs. Aliens (2009) · TV 시리즈(2013~2014)",
+      "by": "DreamWorks Animation",
+      "year": 2009,
+      "country": "미국",
+      "setting": "정부가 숨겨 둔 괴물들이 외계 침공을 막아 내는 옛 괴물 영화 흉내",
+      "concepts": [
+        "alien",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "세계 흥행 3억 달러대, TV 시리즈로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "넷플릭스 한국, 웨이브 대여·구매(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Monsters vs Aliens"
+      },
+      "borderline": true
+    },
+    {
+      "id": "planet_51",
+      "orig": "Planet 51",
+      "orig_en": "",
+      "ko": "플래닛 51",
+      "ko_src": "KOBIS(제작상태 개봉)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Planet 51 (2009)",
+      "by": "Jorge Blanco (Ilion Animation Studios)",
+      "year": 2009,
+      "country": "스페인",
+      "setting": "1950년대 미국을 닮은 외계 행성에 지구 우주비행사가 침입자로 내린다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스페인에서 만든 대형 애니메이션, 세계 흥행 1억 달러 넘음",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 개봉",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=플래닛 51"
+      },
+      "borderline": false
+    },
+    {
+      "id": "home_2015",
+      "orig": "Home",
+      "orig_en": "",
+      "ko": "홈",
+      "ko_src": "KOBIS(2015, 미국, 제작상태 개봉)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "원작 Adam Rex 『The True Meaning of Smekday』(2007) · 영화 Home (2015) · TV 시리즈(2016~2018)",
+      "by": "Tim Johnson (DreamWorks Animation), 원작 Adam Rex",
+      "year": 2007,
+      "country": "미국",
+      "setting": "지구를 차지한 외계 종족 가운데 말썽꾼 하나가 사람 소녀와 함께 다닌다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "세계 흥행 3억 달러대, TV 시리즈로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "KOBIS 개봉",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do?sMovName=홈&sPrdtYearS=2015&sPrdtYearE=2015"
+      },
+      "borderline": false
+    },
+    {
+      "id": "strange_world",
+      "orig": "Strange World",
+      "orig_en": "",
+      "ko": "스트레인지 월드",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Strange World (2022)",
+      "by": "Don Hall (Disney)",
+      "year": 2022,
+      "country": "미국",
+      "setting": "나라를 먹여 살리던 에너지 식물이 시들자 땅 밑 낯선 세계로 내려간 탐험가 가족",
+      "concepts": [
+        "alien_ecology",
+        "living_planet"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "디즈니 장편(흥행 실패)",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Strange World"
+      },
+      "borderline": false
+    },
+    {
+      "id": "atlantis_the_lost_empire",
+      "orig": "Atlantis: The Lost Empire",
+      "orig_en": "",
+      "ko": "아틀란티스: 잃어버린 제국",
+      "ko_src": "디즈니+ 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Atlantis: The Lost Empire (2001) · Milo's Return (2003)",
+      "by": "Gary Trousdale, Kirk Wise (Disney)",
+      "year": 2001,
+      "country": "미국",
+      "setting": "1914년 탐험대가 바다 밑에서 빛나는 결정의 힘으로 사는 옛 문명을 찾아낸다",
+      "concepts": [
+        "precursor",
+        "key_resource",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "마이크 미뇰라가 디자인에 참여한 디즈니 모험 장편, 뒤에 재평가",
+      "korean": {
+        "status": "있음",
+        "detail": "디즈니+ 한국(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Atlantis The Lost Empire"
+      },
+      "borderline": true
+    },
+    {
+      "id": "robot_taekwon_v",
+      "orig": "로보트 태권 V",
+      "orig_en": "Robot Taekwon V",
+      "ko": "로보트 태권 V",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "로보트 태권 V (1976) · 우주대작전(1976) · 수중 특공대(1977) · 황금날개와의 대결(1978) · 슈퍼 태권 V(1982) · 84 태권 V(1984) · 2007 복원판 재개봉",
+      "by": "김청기 (유프로덕션·서울동화)",
+      "year": 1976,
+      "country": "한국",
+      "setting": "태권도 소년이 모는 거대 로봇이 지구 정복을 꾀하는 악당의 로봇 군단과 싸운다",
+      "concepts": [
+        "mecha",
+        "robot"
+      ],
+      "new_ideas": "조종사의 무술 동작을 그대로 따라 하는 로봇",
+      "lore_size": "중간",
+      "notability": "한국 로봇 애니메이션의 상징, 2007년 복원판 재개봉 70만 명(재개봉작 흥행 1위)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1976년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/로보트 태권 V"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wonder_kiddy_2020",
+      "orig": "2020년 우주의 원더키디",
+      "orig_en": "",
+      "ko": "2020년 우주의 원더키디",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "2020년 우주의 원더키디 (1989, KBS2 13화)",
+      "by": "세영동화·한호흥업 (KBS)",
+      "year": 1989,
+      "country": "한국",
+      "setting": "우주 개발이 한창인 2020년, 소년이 조난한 아버지를 찾아 먼 기계 문명 행성으로 간다",
+      "concepts": [
+        "alien",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "KBS 방영 뒤 일본 NHK 위성 방영, 배경 연도 2020년에 다시 화제가 됨",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1989 KBS2 방영(나무위키)",
+        "src": "https://namu.wiki/w/2020년 우주의 원더키디"
+      },
+      "borderline": false
+    },
+    {
+      "id": "amageddon",
+      "orig": "아마게돈",
+      "orig_en": "",
+      "ko": "아마게돈",
+      "ko_src": "한국 원작",
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "이현세 만화(1988~) · 극장 애니메이션(1996)",
+      "by": "이현세",
+      "year": 1988,
+      "country": "한국",
+      "setting": "2157년 외계 조직이 지구를 치자 1996년의 소년이 마지막 희망으로 불려 간다",
+      "concepts": [
+        "alien",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "한국 애니메이션 첫 제작위원회 방식 작품, 흥행은 실패했으나 주제가 음반 15만 장",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1996년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/아마게돈(애니메이션)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wonderful_days",
+      "orig": "원더풀 데이즈",
+      "orig_en": "Wonderful Days",
+      "ko": "원더풀 데이즈",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "원더풀 데이즈 (2003, 미국판 제목 Sky Blue)",
+      "by": "김문생 (틴하우스)",
+      "year": 2003,
+      "country": "한국",
+      "setting": "오염을 에너지로 쓰려 하늘을 검게 묶어 둔 도시와 바깥 난민촌의 대립",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "오염 물질을 에너지원으로 쓰는 도시",
+      "lore_size": "작음",
+      "notability": "큰 제작비를 들인 한국 장편, 대한민국 영화대상 특수효과상",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2003년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/원더풀 데이즈"
+      },
+      "borderline": false
+    },
+    {
+      "id": "aachi_and_ssipak",
+      "orig": "아치와 씨팍",
+      "orig_en": "Aachi & Ssipak",
+      "ko": "아치와 씨팍",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "아치와 씨팍 (2006)",
+      "by": "조범진 (제이팀스튜디오)",
+      "year": 2006,
+      "country": "한국",
+      "setting": "사람의 똥이 유일한 연료가 된 사막 도시, 똥을 짜내려 약을 나눠 주는 정부",
+      "concepts": [
+        "key_resource"
+      ],
+      "new_ideas": "배설물을 연료로 삼는 사회",
+      "lore_size": "작음",
+      "notability": "시체스 영화제 최우수 애니메이션상, 미국·일본 개봉",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2006년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/아치와 씨팍"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lazenca",
+      "orig": "영혼기병 라젠카",
+      "orig_en": "",
+      "ko": "영혼기병 라젠카",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "영혼기병 라젠카 (1997, 13화) · PC 게임 · 필름북 만화",
+      "by": "투니버스·코코엔터프라이즈 기획, 서울무비·로또기획 제작",
+      "year": 1997,
+      "country": "한국",
+      "setting": "22세기 핵전쟁 뒤 지구에서 인류 도시와 땅속 생명체가 부딪치고, 옛 기계 병사가 깨어난다",
+      "concepts": [
+        "catastrophe",
+        "mecha",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "넥스트가 음악을 맡은 한국 SF TV 애니메이션, 게임으로도 나옴",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1997년 지상파·투니버스 방영(나무위키)",
+        "src": "https://namu.wiki/w/영혼기병 라젠카"
+      },
+      "borderline": false
+    },
+    {
+      "id": "haemosu",
+      "orig": "녹색전차 해모수",
+      "orig_en": "",
+      "ko": "녹색전차 해모수",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "녹색전차 해모수 (1997~1998, KBS2 26화)",
+      "by": "KBS 기획, 대원동화·금강기획",
+      "year": 1997,
+      "country": "한국",
+      "setting": "큰 전쟁으로 황폐해진 행성에서 소년이 탐사 전차를 타고 별을 살릴 결정을 찾는다",
+      "concepts": [
+        "catastrophe",
+        "android",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "KBS 26부작, 일본 NHK 위성 방영",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1997 KBS2 방영(나무위키)",
+        "src": "https://namu.wiki/w/녹색전차 해모수"
+      },
+      "borderline": false
+    },
+    {
+      "id": "restol",
+      "orig": "레스톨 특수구조대",
+      "orig_en": "",
+      "ko": "레스톨 특수구조대",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "레스톨 특수구조대 (1999, KBS2)",
+      "by": "서울무비·금강기획",
+      "year": 1999,
+      "country": "한국",
+      "setting": "나라가 사라진 세계 정부 시대, 구조 로봇을 모는 전담대가 재난 현장에 나선다",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "KBS 방영, 일본 NHK 위성 방영",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1999 KBS2·투니버스 방영(나무위키)",
+        "src": "https://namu.wiki/w/레스톨 특수구조대"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cubix",
+      "orig": "큐빅스",
+      "orig_en": "Cubix: Robots for Everyone",
+      "ko": "큐빅스",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "큐빅스 (2001~2002, 26화) · 로보짱 큐빅스 (2004)",
+      "by": "씨네픽스 (대원미디어·4Kids Entertainment 참여)",
+      "year": 2001,
+      "country": "한국",
+      "setting": "2040년 무렵 로봇과 사람이 함께 사는 시험 마을에서 소년과 로봇이 악당과 맞선다",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 3D TV 애니메이션, 미국 Kids' WB!에서 먼저 방영되고 일본 TV도쿄에서도 방영",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "SBS·KBS2 방영(나무위키)",
+        "src": "https://namu.wiki/w/큐빅스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tobot",
+      "orig": "변신자동차 또봇",
+      "orig_en": "Tobot",
+      "ko": "변신자동차 또봇",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "변신자동차 또봇 (2010~, 19기까지) · 또봇 V · 극장판",
+      "by": "영실업 (애니메이션 레트로봇)",
+      "year": 2010,
+      "country": "한국",
+      "setting": "근미래 도시에서 쌍둥이 형제가 아버지가 만든 변신 자동차 로봇을 타고 악당과 싸운다",
+      "concepts": [
+        "mecha",
+        "robot"
+      ],
+      "new_ideas": "자동차로 변신하는 탑승형 로봇",
+      "lore_size": "중간",
+      "notability": "19기·400화 가까이 이어진 완구 애니메이션, 국내 거대 로봇물 열풍을 이끔",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2010 재능TV 첫 방영(나무위키)",
+        "src": "https://namu.wiki/w/변신자동차 또봇"
+      },
+      "borderline": true
+    },
+    {
+      "id": "hello_carbot",
+      "orig": "헬로카봇",
+      "orig_en": "Hello Carbot",
+      "ko": "헬로카봇",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "헬로카봇 (2014~, 17기까지) · 극장판",
+      "by": "초이락컨텐츠컴퍼니 (애니메이션 스튜디오 더블유바바)",
+      "year": 2014,
+      "country": "한국",
+      "setting": "자동차로 변신하는 로봇들이 사람 아이와 함께 도시를 지킨다",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "17기까지 이어진 완구 애니메이션, 극장판 관객 88만 명",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2014 KBS1 첫 방영(나무위키)",
+        "src": "https://namu.wiki/w/헬로카봇"
+      },
+      "borderline": true
+    },
+    {
+      "id": "space_battleship_geobukseon",
+      "orig": "우주전함 거북선",
+      "orig_en": "",
+      "ko": "우주전함 거북선",
+      "ko_src": "한국 원작 (나무위키 문서 제목, 한국 애니메이션 역사 문서에는 『날아라! 우주전함 거북선』)",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "우주전함 거북선 (1979)",
+      "by": "송정률 (유프로덕션), 원작 조항리",
+      "year": 1979,
+      "country": "한국",
+      "setting": "환경 오염으로 인류가 멸망할 위기인 미래, 아이들이 탄 거북선 우주 전함이 공기 정화 장치를 찾아 떠난다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1970년대 한국 SF 극장 애니메이션, 『우주전함 야마토』 표절 시비와 거북선 디자인 호평이 함께 있음",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1979년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/우주전함 거북선"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_gundam_v",
+      "orig": "스페이스 간담 V",
+      "orig_en": "",
+      "ko": "스페이스 간담 V",
+      "ko_src": "한국 원작",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "스페이스 간담 V (1983)",
+      "by": "김청기 (이름만 빌렸다는 주장도 있음)",
+      "year": 1983,
+      "country": "한국",
+      "setting": "먼 별의 통치자가 보낸 괴수의 지구 침공을 바위섬에 숨은 전투 로봇이 막는다",
+      "concepts": [
+        "mecha",
+        "alien",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "『마크로스』 발키리를 베낀 로봇으로 악명 높은 1980년대 표절 애니메이션",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1983년 극장 개봉(나무위키)",
+        "src": "https://namu.wiki/w/스페이스 간담 V"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ling_cage",
+      "orig": "灵笼",
+      "orig_en": "Ling Cage: Incarnation",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "灵笼 1기(2019~2020) · 2기(2025)",
+      "by": "艺画开天 (YHKT Entertainment), 빌리빌리",
+      "year": 2019,
+      "country": "중국",
+      "setting": "땅이 뒤집힌 대재앙 뒤, 하늘에 뜬 요새에서 유전자 등급으로 사람을 나눠 사는 인류",
+      "concepts": [
+        "catastrophe",
+        "genetic_eng",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "빌리빌리 1기 재생 4억 회 넘음, 중국 평점 사이트 고득점",
+      "korean": {
+        "status": "없음",
+        "detail": "공식 해외 배급 없음(영어 위키백과), 저스트워치 한국에도 서비스 없음",
+        "src": "https://en.wikipedia.org/wiki/Ling_Cage"
+      },
+      "borderline": false
+    },
+    {
+      "id": "link_click",
+      "orig": "时光代理人",
+      "orig_en": "Link Click",
+      "ko": "시광대리인",
+      "ko_src": "티빙·크런치롤 한국 서비스 제목(저스트워치 한국), 나무위키",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "时光代理人 1기(2021)~",
+      "by": "李豪凌 (Studio LAN, 빌리빌리)",
+      "year": 2021,
+      "country": "중국",
+      "setting": "사진 속 순간으로 들어가 남의 과거를 대신 사는 사진관의 두 사람",
+      "concepts": [
+        "time_travel",
+        "psionics"
+      ],
+      "new_ideas": "사진 한 장을 통로로 그 순간의 남의 몸에 들어가는 능력",
+      "lore_size": "중간",
+      "notability": "여러 시즌으로 이어진 빌리빌리 인기작",
+      "korean": {
+        "status": "있음",
+        "detail": "티빙 1시즌, 크런치롤 2시즌(저스트워치), 라프텔 자막 공개 언급(나무위키)",
+        "src": "https://www.justwatch.com/kr/검색?q=Link Click"
+      },
+      "borderline": true
+    },
+    {
+      "id": "swallowed_star",
+      "orig": "吞噬星空",
+      "orig_en": "Swallowed Star",
+      "ko": "탄서성공",
+      "ko_src": "WeTV 한국 서비스 제목(저스트워치 한국)",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "我吃西红柿 웹소설(치뎬, 2010~2012) · 3D 애니메이션(2020~, 텐센트 비디오)",
+      "by": "我吃西红柿 (원작), 텐센트 비디오",
+      "year": 2010,
+      "country": "중국",
+      "setting": "짐승을 괴물로 바꾼 바이러스 뒤 성벽 도시의 인류가 유전자를 키워 우주로 나아간다",
+      "concepts": [
+        "catastrophe",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "텐센트 비디오 장기 3D 애니메이션, 원작 웹소설 인기작",
+      "korean": {
+        "status": "있음",
+        "detail": "WeTV 한국 1시즌(저스트워치)",
+        "src": "https://www.justwatch.com/kr/검색?q=Swallowed Star"
+      },
+      "borderline": true
+    }
+  ]
+}

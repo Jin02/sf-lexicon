@@ -1,0 +1,3791 @@
+{
+ "group": "novels_asia",
+ "candidates": [
+  {
+   "id": "uriga_bichui_sokdoro",
+   "orig": "우리가 빛의 속도로 갈 수 없다면",
+   "orig_en": "",
+   "ko": "우리가 빛의 속도로 갈 수 없다면",
+   "ko_src": "원제(한국 작품) — 알라딘 허블 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193591681",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "소설집(2019) — 표제작·「관내분실」 등 단편 묶음. 표제작은 『제2회 한국과학문학상 수상작품집』(2018)에 먼저 실림",
+   "by": "김초엽",
+   "year": 2018,
+   "country": "한국",
+   "setting": "새 항로가 열려 버려진 옛 우주 정거장에서 가족이 사는 별로 떠날 배를 기다리는 노인",
+   "concepts": [
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "「관내분실」 2017 한국과학문학상 중단편 대상·표제작 가작(알라딘 소개), 첫 소설집 10만 부(위키백과 인용 기사), 이 책으로 중국 은하상 최우수 작가상(『지구 끝의 온실』 알라딘 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "허블 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193591681"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jigu_kkeutui_onsil",
+   "orig": "지구 끝의 온실",
+   "orig_en": "",
+   "ko": "지구 끝의 온실",
+   "ko_src": "원제(한국 작품) — 알라딘 자이언트북스 2021 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276926308",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2021)",
+   "by": "김초엽",
+   "year": 2021,
+   "country": "한국",
+   "setting": "생명을 죽이는 먼지가 휩쓸어 문명이 무너진 뒤, 살아남은 이들과 이상한 식물의 이야기",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "출간 3년 안에 20만 부, 스튜디오드래곤과 영상화 계약(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "자이언트북스 2021",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276926308"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tower",
+   "orig": "타워",
+   "orig_en": "",
+   "ko": "타워",
+   "ko_src": "원제(한국 작품) — 알라딘 오멜라스 2009, 문학과지성사 2020(개정 복간) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233986715",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 소설집(2009) — 알라딘 블로그 연재 뒤 출간",
+   "by": "배명훈",
+   "year": 2009,
+   "country": "한국",
+   "setting": "하늘 높이 솟은 탑 하나가 곧 나라인 도시 국가 빈스토크 사람들의 이야기",
+   "concepts": [
+    "megastructure"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "출간 첫해 약 1만 부, 2020년 문학과지성사 개정 복간(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "오멜라스 2009, 문학과지성사 2020(개정 복간)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233986715"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cheonghon",
+   "orig": "청혼",
+   "orig_en": "",
+   "ko": "청혼",
+   "ko_src": "원제(한국 작품) — 알라딘 문예중앙 2013, 북하우스 2024(개정 복간) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338141330",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중편(2013) — 같은 이름 단편을 늘린 것",
+   "by": "배명훈",
+   "year": 2013,
+   "country": "한국",
+   "setting": "지구에서 180시간 떨어진 우주에서 복무하는 군인이 연인에게 쓴 열두 통의 편지와 소리 없는 전쟁",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "11년 만인 2024년 북하우스에서 전면 개정 복간(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "문예중앙 2013, 북하우스 2024(개정 복간)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338141330"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cheotsum",
+   "orig": "첫숨",
+   "orig_en": "",
+   "ko": "첫숨",
+   "ko_src": "원제(한국 작품) — 알라딘 문학과지성사 2015 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71306183",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2015) — 문지블로그 연재",
+   "by": "배명훈",
+   "year": 2015,
+   "country": "한국",
+   "setting": "달과 화성에 사람이 살게 된 시대, 60만 명이 사는 거대 우주 정착지 '첫숨'에서의 추격",
+   "concepts": [
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2016 SF어워드 장편 우수상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "문학과지성사 2015",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=71306183"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jezebel",
+   "orig": "제저벨",
+   "orig_en": "",
+   "ko": "제저벨",
+   "ko_src": "원제(한국 작품) — 알라딘 자음과모음(이룸) 2012, 네오픽션 2022·읻다 2023 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299563338",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "링커 우주 — 소설집 『브로콜리 평원의 혈투』(2011)·연작 『제저벨』(2012)",
+   "by": "듀나",
+   "year": 2011,
+   "country": "한국",
+   "setting": "온 우주에 퍼진 링커 바이러스로 생물의 유전자가 흔들리는 우주, 행성 크루소의 모험",
+   "concepts": [],
+   "new_ideas": "온 우주 생물의 유전자를 마구 섞어 놓는 바이러스(링커)",
+   "lore_size": "중간",
+   "notability": "듀나의 스페이스 오페라 연작, 2012년 뒤 두 출판사에서 다시 나옴(알라딘)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "자음과모음(이룸) 2012, 네오픽션 2022·읻다 2023",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299563338"
+   },
+   "borderline": false
+  },
+  {
+   "id": "daerijeon",
+   "orig": "대리전",
+   "orig_en": "",
+   "ko": "대리전",
+   "ko_src": "원제(한국 작품) — 알라딘 이가서 2006, 다산책방 2024(20주년판) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352443546",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2006)",
+   "by": "듀나",
+   "year": 2006,
+   "country": "한국",
+   "setting": "부천을 무대로, 빛보다 빠른 통신망을 타고 사람 몸을 빌려 싸우는 외계인들의 전쟁",
+   "concepts": [
+    "ftl_comm",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "집필 20주년을 맞아 2024년 다산책방에서 다시 나옴(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "이가서 2006, 다산책방 2024(20주년판)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352443546"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ajigeun_sini_aniya",
+   "orig": "아직은 신이 아니야",
+   "orig_en": "",
+   "ko": "아직은 신이 아니야",
+   "ko_src": "원제(한국 작품) — 알라딘 창비 2013 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31320100",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 『아직은 신이 아니야』(2013)·장편 『민트의 세계』(2018) — 초능력을 깨우는 '배터리'가 둘에 함께 나옴",
+   "by": "듀나",
+   "year": 2013,
+   "country": "한국",
+   "setting": "초능력이 흔해진 세계에서 200년의 시간과 100광년의 거리를 오가는 인류의 이야기",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "창비청소년문학 연작에서 같은 설정의 장편 『민트의 세계』(창비 2018)로 이어짐(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "창비 2013",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31320100"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jongui_giwondam",
+   "orig": "종의 기원담",
+   "orig_en": "On the Origin of Species and Other Stories",
+   "ko": "종의 기원담",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2023 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317996298",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 「종의 기원」 등을 묶은 『종의 기원담』(2023)",
+   "by": "김보영",
+   "year": 2023,
+   "country": "한국",
+   "setting": "사람이 사라진 행성에서 로봇들이 '살과 피로 된 생명'이 있을 수 있는지 묻는다",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "영문 단편집으로 한국 SF 작가 처음 전미도서상 후보(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2023",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317996298"
+   },
+   "borderline": false
+  },
+  {
+   "id": "chiryinui_jiphaenggwan",
+   "orig": "7인의 집행관",
+   "orig_en": "",
+   "ko": "7인의 집행관",
+   "ko_src": "원제(한국 작품) — 알라딘 폴라북스(현대문학) 2013, 2023 개정판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22720863",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2013)",
+   "by": "김보영",
+   "year": 2013,
+   "country": "한국",
+   "setting": "기억하지 못하는 죄로 기억하지 못하는 이들에게 되풀이해 사형을 선고받는 사람",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2014 SF어워드 장편 대상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "폴라북스(현대문학) 2013, 2023 개정판",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22720863"
+   },
+   "borderline": false
+  },
+  {
+   "id": "stella_odyssey",
+   "orig": "당신을 기다리고 있어",
+   "orig_en": "",
+   "ko": "당신을 기다리고 있어",
+   "ko_src": "원제(한국 작품) — 알라딘 기적의책 2015, 새파란상상 2020, 래빗홀 2026(합본) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60128826",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "스텔라 오디세이 트릴로지: 『당신을 기다리고 있어』(2015)·『당신에게 가고 있어』·『미래로 가는 사람들』(2020)",
+   "by": "김보영",
+   "year": 2015,
+   "country": "한국",
+   "setting": "빛에 가까운 속도로 우주를 도는 연인이 서로에게 가는 동안 지구에는 긴 세월이 흐른다",
+   "concepts": [
+    "time_dilation",
+    "nanotech"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "하퍼콜린스 영어판, 여러 나라 번역 판권, 할리우드 영상화 계약·뮤지컬 제작(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "기적의책 2015, 새파란상상 2020, 래빗홀 2026(합본)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60128826"
+   },
+   "borderline": false
+  },
+  {
+   "id": "eolmana_dalmanneunga",
+   "orig": "얼마나 닮았는가",
+   "orig_en": "",
+   "ko": "얼마나 닮았는가",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2020 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=253658692",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중단편집(2020) — 표제작 등 10편",
+   "by": "김보영",
+   "year": 2020,
+   "country": "한국",
+   "setting": "고장 난 우주선을 구하려고 사람 몸에 옮겨 깨어난 인공지능이 승무원들과 부딪친다",
+   "concepts": [
+    "ai",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "표제작이 SF어워드 중단편 대상(한국어 위키백과·알라딘)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2020",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=253658692"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cheon_gaeui_parang",
+   "orig": "천 개의 파랑",
+   "orig_en": "",
+   "ko": "천 개의 파랑",
+   "ko_src": "원제(한국 작품) — 알라딘 허블 2020 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=248956900",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2020)",
+   "by": "천선란",
+   "year": 2020,
+   "country": "한국",
+   "setting": "버려질 처지의 기수 로봇과 늙은 경주마, 그들을 살리려는 한 가족",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019 한국과학문학상 장편 대상(알라딘 책 소개·한국어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "허블 2020",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=248956900"
+   },
+   "borderline": false
+  },
+  {
+   "id": "muneojin_dari",
+   "orig": "무너진 다리",
+   "orig_en": "",
+   "ko": "무너진 다리",
+   "ko_src": "원제(한국 작품) — 알라딘 그래비티북스 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=206467304",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2019)",
+   "by": "천선란",
+   "year": 2019,
+   "country": "한국",
+   "setting": "제2의 지구로 쏜 핵 로켓이 떨어져 지구 절반이 사라진 2090년대의 세계",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2020 SF어워드 장편 우수상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "그래비티북스 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=206467304"
+   },
+   "borderline": false
+  },
+  {
+   "id": "bimyeongeul_chajaseo",
+   "orig": "비명을 찾아서",
+   "orig_en": "",
+   "ko": "비명을 찾아서",
+   "ko_src": "원제(한국 작품) — 알라딘 문학과지성사 1987 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65366",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1987, 상·하) — 부제 '경성, 쇼와 62년'",
+   "by": "복거일",
+   "year": 1987,
+   "country": "한국",
+   "setting": "이토 히로부미가 살아남아 일본의 통치가 이어진 다른 역사의 1980년대 경성",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "지은이의 등단 장편, 한국의 미래·과학소설을 이끈 출발점으로 소개됨(알라딘 『역사 속의 나그네』 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "문학과지성사 1987",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=65366"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yeoksa_sogui_nageune",
+   "orig": "역사 속의 나그네",
+   "orig_en": "",
+   "ko": "역사 속의 나그네",
+   "ko_src": "원제(한국 작품) — 알라딘 문학과지성사 1991(3권), 2015(완간) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62328917",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "1989년 연재, 1991년 세 권, 25년 뒤 2015년 완간",
+   "by": "복거일",
+   "year": 1989,
+   "country": "한국",
+   "setting": "2070년대 사람이 미래에서 온 시간 배를 타다 16세기 조선에 떨어져 살아간다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "25년 만인 2015년 완간(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "문학과지성사 1991(3권), 2015(완간)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=62328917"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dorikil_su_inneun",
+   "orig": "돌이킬 수 있는",
+   "orig_en": "",
+   "ko": "돌이킬 수 있는",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2018 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175316311",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2018), 데뷔작",
+   "by": "문목하",
+   "year": 2018,
+   "country": "한국",
+   "setting": "부패 경찰과 정체 모를 조직 사이에 끼인 신입 수사관, 초능력자들의 싸움",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019 SF어워드 장편 우수상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2018",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175316311"
+   },
+   "borderline": true
+  },
+  {
+   "id": "yuryeong_haema",
+   "orig": "유령해마",
+   "orig_en": "",
+   "ko": "유령해마",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2020, 2021 리커버 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270015703",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2020)",
+   "by": "문목하",
+   "year": 2020,
+   "country": "한국",
+   "setting": "여러 인공지능을 담는 그릇인 범용 인공지능 '해마'가 우주에서 조난한다",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2020 SF어워드 장편 우수상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2020, 2021 리커버",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=270015703"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gipa",
+   "orig": "기파",
+   "orig_en": "",
+   "ko": "기파",
+   "ko_src": "원제(한국 작품) — 알라딘 허블 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=217247020",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2019)",
+   "by": "박해울",
+   "year": 2019,
+   "country": "한국",
+   "setting": "사이보그와 인조인간이 있는 근미래, 운석에 부딪혀 난파한 우주 유람선 안의 추격",
+   "concepts": [
+    "cyborg",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2018 한국과학문학상 장편 대상, 심사위원 만장일치(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "허블 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=217247020"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jakbyeorinsa",
+   "orig": "작별인사",
+   "orig_en": "",
+   "ko": "작별인사",
+   "ko_src": "원제(한국 작품) — 알라딘 복복서가 2022 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292816855",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2022)",
+   "by": "김영하",
+   "year": 2022,
+   "country": "한국",
+   "setting": "가까운 미래, 연구원 아버지와 살던 소년이 수용소에 끌려가 자신이 무엇인지 알게 된다",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "김영하가 9년 만에 낸 장편(알라딘 책 소개) — 판매·수상 근거는 못 찾음",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "복복서가 2022",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292816855"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nunmeon_sigyegong",
+   "orig": "눈먼 시계공",
+   "orig_en": "",
+   "ko": "눈먼 시계공",
+   "ko_src": "원제(한국 작품) — 알라딘 민음사 2010 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6973959",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2010, 2권)",
+   "by": "김탁환·정재승",
+   "year": 2010,
+   "country": "한국",
+   "setting": "몸과 기계를 섞는 2049년 서울, 죽은 이의 뇌에서 기억을 뽑아 범죄를 쫓는다",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "소설가와 뇌과학자가 함께 쓴 장편(알라딘 책 소개) — 판매·수상 근거는 못 찾음",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "민음사 2010",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6973959"
+   },
+   "borderline": false
+  },
+  {
+   "id": "wanjeon_sahoe",
+   "orig": "완전사회",
+   "orig_en": "",
+   "ko": "완전사회",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2018(완전판) — 처음은 1967 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=147140452",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "1965년 『주간한국』 공모 당선, 1967년 책, 2018년 완전판",
+   "by": "문윤성",
+   "year": 1967,
+   "country": "한국",
+   "setting": "냉동 수면으로 미래에 보내진 남자가 깨어나 여자들만 사는 사회를 만난다",
+   "concepts": [
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "한국 최초 장편 SF로 소개됨(아작판 소개), 지은이 이름을 딴 문윤성SF문학상이 있음",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2018(완전판) — 처음은 1967",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=147140452"
+   },
+   "borderline": false
+  },
+  {
+   "id": "geumseong_tamheomdae",
+   "orig": "금성 탐험대",
+   "orig_en": "",
+   "ko": "금성 탐험대",
+   "ko_src": "원제(한국 작품) — 알라딘 창비 2013(복간) — 처음은 잡지 『학원』 1962~64 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=33316301",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 『학원』 연재(1962~1964)",
+   "by": "한낙원",
+   "year": 1962,
+   "country": "한국",
+   "setting": "미국과 소련이 우주 개발을 다투던 냉전기, 금성으로 떠나는 소년의 모험",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "한국 과학소설 선구자의 대표작으로 창비청소년문학에서 복간(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "창비 2013(복간) — 처음은 잡지 『학원』 1962~64",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=33316301"
+   },
+   "borderline": false
+  },
+  {
+   "id": "paint",
+   "orig": "페인트",
+   "orig_en": "",
+   "ko": "페인트",
+   "ko_src": "원제(한국 작품) — 알라딘 창비 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=189589576",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2019)",
+   "by": "이희영",
+   "year": 2019,
+   "country": "한국",
+   "setting": "나라가 센터에서 아이를 길러 주는 미래, 아이가 부모를 면접 보고 고른다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제12회 창비청소년문학상(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "창비 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=189589576"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jiguesoe_hanappun",
+   "orig": "지구에서 한아뿐",
+   "orig_en": "",
+   "ko": "지구에서 한아뿐",
+   "ko_src": "원제(한국 작품) — 알라딘 네오픽션 2012, 난다 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17593204",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2012)",
+   "by": "정세랑",
+   "year": 2012,
+   "country": "한국",
+   "setting": "사랑 하나로 2억 광년을 건너와 남자친구 자리에 들어앉은 외계인과 지구 여자",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2012년 뒤 2019년 난다에서 다시 나옴(알라딘) — 판매·수상 근거는 못 찾음",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "네오픽션 2012, 난다 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17593204"
+   },
+   "borderline": false
+  },
+  {
+   "id": "your_utopia",
+   "orig": "너의 유토피아",
+   "orig_en": "Your Utopia",
+   "ko": "너의 유토피아",
+   "ko_src": "원제(한국 작품) — 알라딘 2021(『그녀를 만나다』로 처음 나옴), 래빗홀 2025(개정) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=355499173",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "소설집 — 2021년 『그녀를 만나다』로 처음 나오고 2025년 표제를 바꿔 개정",
+   "by": "정보라",
+   "year": 2021,
+   "country": "한국",
+   "setting": "전염병으로 사람들이 떠난 쓸쓸한 행성에 남은 것들의 이야기 등 단편 묶음",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영문판 『Your Utopia』가 타임 '2024 올해의 책'·필립 K. 딕상 후보(래빗홀판 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "2021(『그녀를 만나다』로 처음 나옴), 래빗홀 2025(개정)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=355499173"
+   },
+   "borderline": false
+  },
+  {
+   "id": "schrodingerui_aideul",
+   "orig": "슈뢰딩거의 아이들",
+   "orig_en": "",
+   "ko": "슈뢰딩거의 아이들",
+   "ko_src": "원제(한국 작품) — 알라딘 아작 2021 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=275219676",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2021)",
+   "by": "최의택",
+   "year": 2021,
+   "country": "한국",
+   "setting": "2050년대 한국, 세계 첫 완전 몰입형 가상 현실 학교 '학당'에서 벌어지는 일",
+   "concepts": [],
+   "new_ideas": "몸은 집에 두고 정신만 들어가 다니는 가상 현실 학교",
+   "lore_size": "작음",
+   "notability": "제1회 문윤성SF문학상 대상, 심사위원 만장일치(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "아작 2021",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=275219676"
+   },
+   "borderline": false
+  },
+  {
+   "id": "esheoui_son",
+   "orig": "에셔의 손",
+   "orig_en": "",
+   "ko": "에셔의 손",
+   "ko_src": "원제(한국 작품) — 알라딘 허블 2018 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131450464",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2018)",
+   "by": "김백상",
+   "year": 2018,
+   "country": "한국",
+   "setting": "전자 두뇌가 흔해진 시대, 존재와 나를 묻는 이야기",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제2회 한국과학문학상 장편 대상(2017)·2018 SF어워드 장편 대상(한국어 위키백과)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "허블 2018",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=131450464"
+   },
+   "borderline": false
+  },
+  {
+   "id": "teseuseuui_bae",
+   "orig": "테세우스의 배",
+   "orig_en": "",
+   "ko": "테세우스의 배",
+   "ko_src": "원제(한국 작품) — 알라딘 그래비티북스 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=210172936",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2019)",
+   "by": "이경희",
+   "year": 2019,
+   "country": "한국",
+   "setting": "기억을 잃고 깨어난 초거대 재벌 회장을 둘러싼 목숨 건 경영권 다툼",
+   "concepts": [
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2020 SF어워드 장편 대상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "그래비티북스 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=210172936"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sigan_mangmyeongja",
+   "orig": "시간 망명자",
+   "orig_en": "",
+   "ko": "시간 망명자",
+   "ko_src": "원제(한국 작품) — 알라딘 인디페이퍼 2017 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=100557554",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2017)",
+   "by": "김주영",
+   "year": 2017,
+   "country": "한국",
+   "setting": "아이가 태어나지 않는 미래, 죽기 직전의 과거 사람들을 대거 데려와 인구를 채운다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2017 SF어워드 장편 대상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "인디페이퍼 2017",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=100557554"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ouroboros",
+   "orig": "우로보로스",
+   "orig_en": "",
+   "ko": "우로보로스",
+   "ko_src": "원제(한국 작품) — 알라딘 민음사 2018 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168826011",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2018)",
+   "by": "임성순",
+   "year": 2018,
+   "country": "한국",
+   "setting": "강한 인공지능의 시대를 사는 이들의 삶과 죽음을 그린 미래의 묵시록",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019 SF어워드 장편 대상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "민음사 2018",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=168826011"
+   },
+   "borderline": false
+  },
+  {
+   "id": "homo_dominans",
+   "orig": "호모도미난스",
+   "orig_en": "",
+   "ko": "호모도미난스",
+   "ko_src": "원제(한국 작품) — 알라딘 은행나무 2014 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=48043355",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2014)",
+   "by": "장강명",
+   "year": 2014,
+   "country": "한국",
+   "setting": "남을 지배하고 조종하는 힘을 지니도록 진화한 새 인류 '호모도미난스'",
+   "concepts": [
+    "next_human",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2015 SF어워드 장편 우수상(한국어 위키백과 SF어워드)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "은행나무 2014",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=48043355"
+   },
+   "borderline": false
+  },
+  {
+   "id": "muan_manyong_garbanion",
+   "orig": "무안만용 가르바니온",
+   "orig_en": "",
+   "ko": "무안만용 가르바니온",
+   "ko_src": "원제(한국 작품) — 알라딘 에픽로그 2014, 아작 2019 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59718405",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 장편(2014)",
+   "by": "dcdc(홍지운)",
+   "year": 2014,
+   "country": "한국",
+   "setting": "정의의 편과 악의 조직, 인간 병기가 얽힌 영웅물을 비틀어 웃기는 연작",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2015 SF어워드 장편 대상(한국어 위키백과 SF어워드, 지은이 표기 dcdc)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "에픽로그 2014, 아작 2019",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59718405"
+   },
+   "borderline": true
+  },
+  {
+   "id": "jeolmangui_gu",
+   "orig": "절망의 구",
+   "orig_en": "",
+   "ko": "절망의 구",
+   "ko_src": "원제(한국 작품) — 알라딘 예담 2009, 북다 2025 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4372559",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2009)",
+   "by": "김이환",
+   "year": 2009,
+   "country": "한국",
+   "setting": "어느 날 나타난 검은 구가 사람들을 빨아들이고, 한 남자가 끝없이 도망친다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 멀티문학상(출판·영화·방송계 공동 제정) 수상(알라딘 책 소개)",
+   "korean": {
+    "status": "한국 원작",
+    "detail": "예담 2009, 북다 2025",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4372559"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nihon_chinbotsu",
+   "orig": "日本沈没",
+   "orig_en": "Japan Sinks",
+   "ko": "일본침몰",
+   "ko_src": "알라딘 — 디앤씨미디어 2006 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=678522",
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "日本沈没(1973)·日本沈没 第二部(2006, 谷甲州 공저); 영화 1973·2006, 드라마 1974·2021, 애니 『日本沈没2020』(2020), 만화 1973~",
+   "by": "小松左京(고마츠 사쿄)",
+   "year": 1973,
+   "country": "일본",
+   "setting": "땅속의 거대한 움직임으로 일본 열도가 통째로 바다에 가라앉아 가는 재난",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본추리작가협회상·성운상 수상, 영화·드라마·애니로 여러 번 옮겨짐(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "미래사 1992(상·하), 범우사 2006(고평국), 디앤씨미디어 2006(이성현); 만화판 학산문화사 2006~2010",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=678522"
+   },
+   "borderline": false
+  },
+  {
+   "id": "fukkatsu_no_hi",
+   "orig": "復活の日",
+   "orig_en": "Virus",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "復活の日(1964); 영화 『復活の日』(1980, 深作欣二)",
+   "by": "小松左京",
+   "year": 1964,
+   "country": "일본",
+   "setting": "실험실에서 만든 병균에 인류 대부분이 죽고 남극의 생존자들만 남는다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1980년 深作欣二 감독 영화(영어 제목 Virus)로 옮겨짐(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EB%A7%88%EC%B8%A0%20%EC%82%AC%EC%BF%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hateshinaki_nagare_no_hate_ni",
+   "orig": "果しなき流れの果に",
+   "orig_en": "",
+   "ko": "끝없는 시간의 흐름 끝에서",
+   "ko_src": "알라딘 — 폴라북스 2012 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21647676",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "S-F매거진 연재(1965), 단행본(1966)",
+   "by": "小松左京(고마츠 사쿄)",
+   "year": 1965,
+   "country": "일본",
+   "setting": "중생대 지층에서 나온 끝없이 흐르는 모래시계가 10억 년을 건너는 싸움으로 이어진다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "S-F매거진 1997년 일본 SF 역대 투표 1위, 2001년 일본SF작가클럽 투표 1위(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(현대문학) 2012, 이동진 옮김",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=21647676"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shuto_shoshitsu",
+   "orig": "首都消失",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "신문 연재(1983~84), 단행본(1985); 영화(1987)",
+   "by": "小松左京",
+   "year": 1983,
+   "country": "일본",
+   "setting": "도쿄 한가운데를 거대한 구름이 덮어 수도와 정부가 바깥과 끊긴다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제6회 일본 SF 대상(1985), 1987년 영화화(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EB%A7%88%EC%B8%A0%20%EC%82%AC%EC%BF%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sayonara_jupiter",
+   "orig": "さよならジュピター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "연재(1980~), 단행본(1983); 영화(1984)",
+   "by": "小松左京",
+   "year": 1980,
+   "country": "일본",
+   "setting": "태양계로 다가오는 블랙홀의 길을 바꾸려 목성에 불을 붙이는 계획",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 일본 장편(1983), 1984년 영화화(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EA%B3%A0%EB%A7%88%EC%B8%A0%20%EC%82%AC%EC%BF%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "toki_wo_kakeru_shojo",
+   "orig": "時をかける少女",
+   "orig_en": "The Girl Who Leapt Through Time",
+   "ko": "시간을 달리는 소녀",
+   "ko_src": "알라딘 — 북스토리 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=924323",
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1965~66 연재, 1967 단행본); 드라마 1972·1985·1994·2016, 영화 1983·1997·2010, 애니 영화 2006(細田守), 만화 2004·2006",
+   "by": "筒井康隆(쓰쓰이 야스타카)",
+   "year": 1965,
+   "country": "일본",
+   "setting": "실험실에서 맡은 이상한 향기 뒤로 시간을 뛰어넘게 된 여학생과 미래에서 온 소년",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "드라마·영화로 열 번 가까이 옮겨졌고 2006년 細田守 애니 영화로 널리 알려짐(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "북스토리 2007·2014(김영주 옮김); 만화판 북박스 2005, 학산문화사 2009",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=924323"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nanase_sanbusaku",
+   "orig": "家族八景",
+   "orig_en": "",
+   "ko": "가족팔경",
+   "ko_src": "알라딘 — 동춘 2008 번역판(첫 권) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2037605",
+   "media": [
+    "소설",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "七瀬 삼부작: 家族八景(1972)·七瀬ふたたび·エディプスの恋人; 드라마 1979·1986·2012, 만화 1977·2007~08",
+   "by": "筒井康隆(쓰쓰이 야스타카)",
+   "year": 1972,
+   "country": "일본",
+   "setting": "남의 마음을 읽는 가정부 나나세가 여러 집을 떠돌며 사람들의 속을 본다",
+   "concepts": [
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『七瀬ふたたび』 성운상 일본 장편(1976), 드라마 세 번(일본어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "첫 권 『가족팔경』만 동춘 2008(이상희 옮김) 확인, 뒤 두 권은 안 보임",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2037605"
+   },
+   "borderline": false
+  },
+  {
+   "id": "paprika",
+   "orig": "パプリカ",
+   "orig_en": "Paprika",
+   "ko": "파프리카",
+   "ko_src": "알라딘 — 북스토리 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=974372",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 연재(1991~93), 단행본(1993); 애니 영화 2006(今敏), 만화 2003·2007",
+   "by": "筒井康隆(쓰쓰이 야스타카)",
+   "year": 1991,
+   "country": "일본",
+   "setting": "남의 꿈에 들어가 마음을 고치는 장치를 도둑맞아 꿈과 현실이 뒤섞인다",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "남의 꿈에 들어가 치료하는 장치",
+   "lore_size": "작음",
+   "notability": "2006년 今敏 감독 애니 영화(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "영림카디널 1994(최경희), 북스토리 2007(김영주, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=974372"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tabi_no_ragosu",
+   "orig": "旅のラゴス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 연재(1984~86), 단행본(1986)",
+   "by": "筒井康隆",
+   "year": 1984,
+   "country": "일본",
+   "setting": "기계를 잃는 대신 초능력을 얻은 이주민의 후손들 땅을 평생 떠도는 사내",
+   "concepts": [
+    "psionics",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2014년 무렵 입소문으로 다시 팔려 문고판 10만 부를 넘김(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%93%B0%EC%93%B0%EC%9D%B4%20%EC%95%BC%EC%8A%A4%ED%83%80%EC%B9%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "bokko_chan",
+   "orig": "ボッコちゃん",
+   "orig_en": "Bokko-chan",
+   "ko": "봇코짱",
+   "ko_src": "알라딘 — 지식여행 2008 작품집 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1927019",
+   "media": [
+    "소설",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "단편(1958), 작품집 『人造美人』(1961)→『ボッコちゃん』(1971); NHK 애니(2008)·드라마(2022)",
+   "by": "星新一(호시 신이치)",
+   "year": 1958,
+   "country": "일본",
+   "setting": "술집에서 손님을 맞는 미인 로봇에게 한 손님이 빠져드는 아주 짧은 이야기",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "신초 문고 작품집이 2022년까지 129쇄·약 265만 부(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "작품집 『봇코짱』 지식여행 2008(윤성규 옮김); 지은이의 다른 작품집도 하빌리스 2023~ 등 여럿",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1927019"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nerawareta_gakuen",
+   "orig": "ねらわれた学園",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1973); 드라마 1977·1982·1987·1997, 영화 1981(大林宣彦)·1997, 애니 영화 2012",
+   "by": "眉村卓",
+   "year": 1973,
+   "country": "일본",
+   "setting": "초능력으로 학교를 손에 넣으려는 학생회장과 그 뒤의 수수께끼 소년에 맞서는 아이들",
+   "concepts": [
+    "psionics",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "드라마 네 번·영화 세 번으로 옮겨짐(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A7%88%EC%9C%A0%EB%AC%B4%EB%9D%BC%20%EB%8B%A4%EC%BF%A0"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sengoku_jieitai",
+   "orig": "戦国自衛隊",
+   "orig_en": "",
+   "ko": "전국자위대 1549",
+   "ko_src": "알라딘 — 만화판만(대원씨아이 2007) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=911883",
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1971); 영화 1979·『戦国自衛隊1549』(2005), 드라마 2006, 만화 1975~·2013~, 속편 만화·소설",
+   "by": "半村良(한무라 료)",
+   "year": 1971,
+   "country": "일본",
+   "setting": "훈련하던 자위대 한 부대가 무기를 든 채 전국 시대로 미끄러져 들어간다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화 두 편(1979·2005)과 드라마·만화로 이어짐(일본어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "소설 번역판은 안 보이고 만화 『전국자위대 1549』(대원씨아이 2007, 2권)만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=911883"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hyakuoku_no_hiru_to_senoku_no_yoru",
+   "orig": "百億の昼と千億の夜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "연재(1965~66), 단행본(1967); 만화 萩尾望都(1977~78)",
+   "by": "光瀬龍",
+   "year": 1965,
+   "country": "일본",
+   "setting": "플라톤·석가·예수·아수라왕이 우주를 움직이는 수수께끼의 존재에 맞서는 장대한 이야기",
+   "concepts": [
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "萩尾望都가 만화로 옮김, 이 작품을 다룬 평론이 일본 SF 평론상(2008)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%B0%B1%EC%96%B5%EC%9D%98%20%EB%82%AE%EA%B3%BC%20%EC%B2%9C%EC%96%B5%EC%9D%98%20%EB%B0%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "minus_zero",
+   "orig": "マイナス・ゼロ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "동인지 연재(1965), 단행본(1970)",
+   "by": "広瀬正",
+   "year": 1965,
+   "country": "일본",
+   "setting": "공습 속에 사라진 여인과 시간 기계, 1932년으로 떨어진 사내의 시간 여행",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "나오키상 후보(1970), 평론가 大森望가 '시간 SF의 최고봉'이라 부름(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A7%88%EC%9D%B4%EB%84%88%EC%8A%A4%20%EC%A0%9C%EB%A1%9C%20%ED%9E%88%EB%A1%9C%EC%84%B8"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sento_yosei_yukikaze",
+   "orig": "戦闘妖精・雪風",
+   "orig_en": "Yukikaze",
+   "ko": "전투요정 유키카제",
+   "ko_src": "알라딘 — 대원씨아이 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1018554",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "戦闘妖精・雪風(1984)·グッドラック(1999)·アンブロークンアロー(2009)·アグレッサーズ(2022)·インサイト(2025); OVA 2002~05",
+   "by": "神林長平(칸바야시 쵸헤이)",
+   "year": 1979,
+   "country": "일본",
+   "setting": "남극에 열린 통로 너머 행성에서 정체 모를 적과 싸우는 조종사와 스스로 생각하는 전투기",
+   "concepts": [
+    "alien",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 일본 장편 두 번(1985·2000), OVA 다섯 편(2002~05)(일본어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "대원씨아이 2007~2008, 3권(하성호 옮김) — 뒤의 두 권은 안 보임",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1018554"
+   },
+   "borderline": false
+  },
+  {
+   "id": "teki_wa_kaizoku",
+   "orig": "敵は海賊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "첫 단편(1981)~, 장편 8권·단편집; OVA 1989",
+   "by": "神林長平",
+   "year": 1981,
+   "country": "일본",
+   "setting": "태양계에 퍼진 인류, 해적보다 거친 우주 경찰 '해적과'가 특별한 힘을 지닌 범죄자를 쫓는다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 일본 장편 두 번(『海賊版』·『A級の敵』), OVA 1989(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%B9%B8%EB%B0%94%EC%95%BC%EC%8B%9C%20%EC%B5%B8%ED%97%A4%EC%9D%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "crusher_joe",
+   "orig": "クラッシャージョウ",
+   "orig_en": "Crusher Joe",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "クラッシャージョウ(1977~, 16권)·ダーティペア(1979~) — 같은 세계; 애니 영화 1983, TV 애니 『ダーティペア』 1985, OVA·극장판",
+   "by": "高千穂遥",
+   "year": 1977,
+   "country": "일본",
+   "setting": "공간을 뛰어넘는 항법이 열린 22세기 우주, 위험한 일을 떠맡는 해결사들과 말썽 많은 조사관 둘",
+   "concepts": [
+    "ftl"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『ダーティペアの大逆転』 성운상 일본 장편(1986), 애니 영화(1983)·TV 애니(1985)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%EC%B9%B4%EC%B9%98%ED%98%B8%20%ED%95%98%EB%A3%A8%EC%B9%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tytania",
+   "orig": "タイタニア",
+   "orig_en": "Tytania",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "1988~2015, 5권; TV 애니 2008(26화)",
+   "by": "田中芳樹",
+   "year": 1988,
+   "country": "일본",
+   "setting": "무력과 돈으로 인류 우주를 쥔 한 가문과, 그에 맞서는 재주 있는 장교",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2008년 NHK 위성 TV 애니(26화)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%EB%82%98%EC%B9%B4%20%EC%9A%94%EC%8B%9C%ED%82%A4%20%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%88%EC%95%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nana_toshi_monogatari",
+   "orig": "七都市物語",
+   "orig_en": "",
+   "ko": "일곱 도시 이야기",
+   "ko_src": "알라딘 — 비채 2011 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12887924",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1986~1990 집필)",
+   "by": "田中芳樹(다나카 요시키)",
+   "year": 1990,
+   "country": "일본",
+   "setting": "지축이 뒤집힌 대재앙 뒤 달에서 내려온 사람들이 세운 일곱 도시가 서로 다툰다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "지은이의 손꼽히는 걸작으로 소개되며 두 출판사에서 번역(비채 2011·시옷북스 2023)",
+   "korean": {
+    "status": "있음",
+    "detail": "비채 2011, 시옷북스 2023(손진성 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12887924"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yomigaeri",
+   "orig": "黄泉がえり",
+   "orig_en": "",
+   "ko": "부활",
+   "ko_src": "알라딘 — 다리미디어 2003 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=404561",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "장편; 영화 2003",
+   "by": "梶尾真治(가지오 신지)",
+   "year": 1999,
+   "country": "일본",
+   "setting": "우주에서 떨어진 에너지 생명체 탓에 죽은 사람들이 되살아 돌아온다",
+   "concepts": [
+    "resurrection",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화로 만들어져 2003년 일본에서 개봉(다리미디어판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "다리미디어 2003(배정숙 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=404561"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gamoutei_jiken",
+   "orig": "蒲生邸事件",
+   "orig_en": "",
+   "ko": "가모우 저택 사건",
+   "ko_src": "알라딘 — 북스피어 2008 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2252640",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1996)",
+   "by": "宮部みゆき(미야베 미유키)",
+   "year": 1996,
+   "country": "일본",
+   "setting": "불타는 호텔에서 시간 여행자에게 구해진 수험생이 2·26 사건 무렵의 도쿄로 간다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제18회 일본 SF 대상(1997)(일본어 위키백과·북스피어판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "북스피어 2008(이기웅 옮김, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2252640"
+   },
+   "borderline": false
+  },
+  {
+   "id": "koku_uchugun_shi",
+   "orig": "航空宇宙軍史",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "첫 단편(1979)~; 『エリヌス』『カリスト』『火星鉄道一九』『終わりなき索敵』『コロンビア・ゼロ』 등",
+   "by": "谷甲州",
+   "year": 1979,
+   "country": "일본",
+   "setting": "태양계 인류의 항공우주군과 외행성 연합의 두 차례 전쟁, 과학을 단단히 따진 미래 전쟁사",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "성운상 단편(1988)·장편(1995), 『コロンビア・ゼロ』 일본 SF 대상(2015)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%A4%EB%8B%88%20%EA%B3%A0%EC%8A%88"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kyuketsuki_hunter_d",
+   "orig": "吸血鬼ハンターD",
+   "orig_en": "Vampire Hunter D",
+   "ko": "뱀파이어 헌터 D",
+   "ko_src": "알라딘 — 시공사 1999 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=214688",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "1983~, 43편 58권; 애니 영화 1985·2000, 만화 2007~, 게임",
+   "by": "菊地秀行(키쿠치 히데유키)",
+   "year": 1983,
+   "country": "일본",
+   "setting": "핵전쟁 뒤 만 년, 흡혈귀 귀족이 다스리던 황폐한 땅을 떠도는 반쪽 흡혈귀 사냥꾼",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "세계 누적 1,700만 부(2008), 애니 영화 두 편(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "시공사 1999년 무렵 몇 권(7권 상까지 확인) — 전권은 아님",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=214688"
+   },
+   "borderline": true
+  },
+  {
+   "id": "ring",
+   "orig": "リング",
+   "orig_en": "Ring",
+   "ko": "링",
+   "ko_src": "알라딘 — 황금가지 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67776916",
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "リング(1991)·らせん(1995)·ループ(1998)·バースデイ(1999)·エス(2012)·タイド(2013); 일본·한국(1999)·미국 영화, 드라마, 만화, 게임",
+   "by": "鈴木光司(스즈키 코지)",
+   "year": 1991,
+   "country": "일본",
+   "setting": "보면 죽는 비디오테이프에서 시작해 바이러스, 그리고 세계의 정체로 번지는 연작",
+   "concepts": [],
+   "new_ideas": "이야기의 세계 전체가 생명의 진화를 재 보려 만든 계산기 속 모형이었다는 반전(『ループ』)",
+   "lore_size": "중간",
+   "notability": "첫 권 150만 부(2000), 한국 영화(1999)를 비롯해 여러 나라에서 영화화(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "씨엔씨미디어 1998(『링 3 루프』), 황금가지 2003·2015~2018(『링』 1~3 등)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=67776916"
+   },
+   "borderline": true
+  },
+  {
+   "id": "parasite_eve",
+   "orig": "パラサイト・イヴ",
+   "orig_en": "Parasite Eve",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1995); 영화 1997; 게임 『Parasite Eve』(1998, 소설의 뒷이야기)·II",
+   "by": "瀬名秀明",
+   "year": 1995,
+   "country": "일본",
+   "setting": "몸속 미토콘드리아가 숨은 지성을 깨워 사람을 숙주 삼아 새 생명을 낳으려 한다",
+   "concepts": [
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 일본 호러 소설 대상, 게임 1·2편 세계 300만 장 넘게 출하(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함 — 게임의 한국어판도 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%8C%A8%EB%9F%AC%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%9D%B4%EB%B8%8C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "battle_royale",
+   "orig": "バトル・ロワイアル",
+   "orig_en": "Battle Royale",
+   "ko": "배틀로얄",
+   "ko_src": "알라딘 — 대원씨아이 2002 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343400",
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1999); 영화 2000·2003, 만화 2000~05",
+   "by": "高見広春(타카미 코슌)",
+   "year": 1999,
+   "country": "일본",
+   "setting": "전쟁에 이긴 일본이 세운 독재 국가에서 중학생 한 반이 끝까지 서로 죽이게 하는 제도",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본에서 100만 부 넘게 팔림, 영화 두 편(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2002(권일영 옮김, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343400"
+   },
+   "borderline": true
+  },
+  {
+   "id": "sekai_no_owari_to_hardboiled_wonderland",
+   "orig": "世界の終りとハードボイルド・ワンダーランド",
+   "orig_en": "Hard-Boiled Wonderland and the End of the World",
+   "ko": "세계의 끝과 하드보일드 원더랜드",
+   "ko_src": "알라딘 — 민음사 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244314068",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1985)",
+   "by": "村上春樹(무라카미 하루키)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "제 무의식을 암호 열쇠로 쓰는 계산사와, 그의 마음속에 지어진 벽 두른 마을",
+   "concepts": [],
+   "new_ideas": "사람의 무의식을 자료 암호화의 열쇠로 쓰기",
+   "lore_size": "작음",
+   "notability": "다니자키 준이치로상(1985)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(김난주 옮김; 2020 양장·2023)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244314068"
+   },
+   "borderline": true
+  },
+  {
+   "id": "tigris_to_euphrates",
+   "orig": "チグリスとユーフラテス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연재(1996~), 단행본(1999)",
+   "by": "新井素子",
+   "year": 1996,
+   "country": "일본",
+   "setting": "아이가 태어나지 않게 된 개척 행성의 마지막 아이가 냉동된 사람들을 깨워 까닭을 묻는다",
+   "concepts": [
+    "colonization",
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제20회 일본 SF 대상(1999)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%9D%BC%EC%9D%B4%20%EB%AA%A8%ED%86%A0%EC%BD%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gyakusatsu_kikan",
+   "orig": "虐殺器官",
+   "orig_en": "Genocidal Organ",
+   "ko": "학살기관",
+   "ko_src": "알라딘 — 대원씨아이 2010 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6382074",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2007); 애니 영화 2017 — 같은 지은이의 『ハーモニー』와 이어 읽히나 같은 세계라는 공식 근거는 못 찾음",
+   "by": "伊藤計劃(이토 케이카쿠)",
+   "year": 2007,
+   "country": "일본",
+   "setting": "사라예보 핵 공격 뒤 감시 사회가 된 선진국과 내전에 빠진 나라들, 학살을 부르는 무언가",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'SFが読みたい!' 10년 결산 국내 1위, 애니 영화 2017(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2010·2017(김준균 옮김), 문학수첩 2026(김준 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6382074"
+   },
+   "borderline": false
+  },
+  {
+   "id": "harmony",
+   "orig": "ハーモニー",
+   "orig_en": "Harmony",
+   "ko": "세기말 하모니",
+   "ko_src": "알라딘 — 알에이치코리아 2015 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=68663439",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2008); 애니 영화 2015",
+   "by": "伊藤計劃(이토 게이카쿠)",
+   "year": 2008,
+   "country": "일본",
+   "setting": "대재앙 뒤 모든 사람의 몸을 건강하게 관리하는 사회, 소녀들의 거부와 세계 동시 자살",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "온 사람의 몸과 행동을 건강 기준으로 관리하는 의료 사회",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상(2009)·성운상 일본 장편(2009)(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "알에이치코리아 2015(임희선 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=68663439"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shisha_no_teikoku",
+   "orig": "屍者の帝国",
+   "orig_en": "The Empire of Corpses",
+   "ko": "죽은 자의 제국",
+   "ko_src": "알라딘 — 민음사 2015 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=55191232",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2012, 伊藤計劃의 원고를 円城塔가 이어 씀); 애니 영화 2015, 만화 3권",
+   "by": "伊藤計劃·円城塔(이토 게이카쿠·엔조 도)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "되살린 시체를 일꾼으로 부리는 다른 역사의 영국, 프랑켄슈타인의 연구 기록을 쫓는다",
+   "concepts": [
+    "resurrection",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 특별상(2012)·성운상 일본 장편(2013), 애니 영화 2015",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사 2015(김수현 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=55191232"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tenmei_no_shirube",
+   "orig": "天冥の標",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "10부 17권(2009~2019)",
+   "by": "小川一水",
+   "year": 2009,
+   "country": "일본",
+   "setting": "2015년 지구의 역병에서 28세기 개척 행성까지, 권마다 무대를 바꾸며 이어지는 우주 대하",
+   "concepts": [
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "일본 SF 대상·성운상 일본 장편(2020)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%98%A4%EA%B0%80%EC%99%80%20%EC%9E%87%EC%8A%A4%EC%9D%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dairoku_tairiku",
+   "orig": "第六大陸",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2003); 만화 5권",
+   "by": "小川一水",
+   "year": 2003,
+   "country": "일본",
+   "setting": "달 위에 결혼식장을 짓는 열두 해짜리 건설 사업",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 일본 장편(2004), 'SFが読みたい!' 2003 국내 2위(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%98%A4%EA%B0%80%EC%99%80%20%EC%9E%87%EC%8A%A4%EC%9D%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "mardock_scramble",
+   "orig": "マルドゥック・スクランブル",
+   "orig_en": "Mardock Scramble",
+   "ko": "마르두크 스크램블",
+   "ko_src": "알라딘 — 대원씨아이 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=894486",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "マルドゥック・スクランブル(2003)·ヴェロシティ(2006)·アノニマス(2016); 애니 영화 3부작 2010~12, 만화 2009~12",
+   "by": "冲方丁(우부카타 도우)",
+   "year": 2003,
+   "country": "일본",
+   "setting": "죽을 뻔한 소녀가 몸을 고쳐 사이보그가 되어 자신을 죽이려 한 자와 맞선다",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제24회 일본 SF 대상(2003), 애니 영화 3부작(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2007(3권, 하성호), 『마르두크 벨로시티』 2013; 만화판 학산문화사 2011~",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=894486"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shin_sekai_yori",
+   "orig": "新世界より",
+   "orig_en": "From the New World",
+   "ko": "신세계에서",
+   "ko_src": "알라딘 — 해냄 2020 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256304804",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2008); TV 애니 2012~13, 만화 2012~14",
+   "by": "貴志祐介(기시 유스케)",
+   "year": 2008,
+   "country": "일본",
+   "setting": "초능력이 옛 문명을 무너뜨리고 오랜 세월 뒤, 엄하게 다스려지는 마을의 아이들이 숨은 역사를 안다",
+   "concepts": [
+    "psionics",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "제29회 일본 SF 대상(2008), TV 애니 2012(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "시작 2009, 해냄 2020(이선희 옮김, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256304804"
+   },
+   "borderline": false
+  },
+  {
+   "id": "penguin_highway",
+   "orig": "ペンギン・ハイウェイ",
+   "orig_en": "Penguin Highway",
+   "ko": "펭귄 하이웨이",
+   "ko_src": "알라딘 — 작가정신 2011 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12558807",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2010); 애니 영화 2018, 만화 3권",
+   "by": "森見登美彦(모리미 토미히코)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "동네에 펭귄이 나타나고 숲속에 물의 공이 떠오르자 초등학생이 그 수수께끼를 조사한다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상(2010), 애니 영화 2018(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "작가정신 2011·2018(서혜영); 만화판 디앤씨미디어 2018~",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12558807"
+   },
+   "borderline": false
+  },
+  {
+   "id": "karyu_no_miya",
+   "orig": "華竜の宮",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2010)",
+   "by": "上田早夕里",
+   "year": 2010,
+   "country": "일본",
+   "setting": "바다 밑이 솟아 땅 대부분이 잠긴 미래, 땅의 사람과 바다의 사람으로 갈라져 사는 인류",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제32회 일본 SF 대상, 'SFが読みたい!' 2011 국내 1위(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%9A%B0%EC%97%90%EB%8B%A4%20%EC%82%AC%EC%9C%A0%EB%A6%AC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "orbital_cloud",
+   "orig": "オービタル・クラウド",
+   "orig_en": "Orbital Cloud",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2014), 영어판 2017",
+   "by": "藤井太洋",
+   "year": 2014,
+   "country": "일본",
+   "setting": "궤도에서 이상하게 움직이는 물체를 쫓다가 우주를 겨냥한 음모에 닿는 근미래 이야기",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상·성운상 일본 장편(2015), 'SFが読みたい!' 2015 국내 1위(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘에서 이 작품 번역판은 안 보임(같은 지은이의 『진매퍼』는 에디토리얼 2019로 나옴)",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%9B%84%EC%A7%80%EC%9D%B4%20%EB%8B%A4%EC%9D%B4%EC%9A%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kiryu_keisatsu",
+   "orig": "機龍警察",
+   "orig_en": "",
+   "ko": "기룡경찰",
+   "ko_src": "알라딘 — 황금가지 2017 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=116113821",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "機龍警察(2010)·自爆条項(2011)·暗黒市場(2012)·未亡旅団·火宅(2014)·狼眼殺手(2017)·白骨街道(2021)…; 만화 2021~22",
+   "by": "月村了衛(쓰키무라 료에)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "근접 전투 기계가 대량 살상 무기를 대신한 근미래, 경찰 특수부가 용병이 모는 기체로 싸운다",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『自爆条項』 일본 SF 대상(2012), 『暗黒市場』 요시카와 에이지 문학 신인상(일본어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "황금가지: 『기룡경찰』 2017, 『자폭조항』 2018(박춘상 옮김) — 셋째 권부터는 안 보임",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=116113821"
+   },
+   "borderline": false
+  },
+  {
+   "id": "seikei_izumo_no_heitan",
+   "orig": "星系出雲の兵站",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "본편 4권(2018~19)·『遠征』 5권(2019~20)",
+   "by": "林譲治",
+   "year": 2018,
+   "country": "일본",
+   "setting": "정체 모를 외계 세력과 맞선 행성계 인류의 전쟁을 보급과 물자 쪽에서 그린 이야기",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상·성운상 일본 장편(2021)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%95%98%EC%95%BC%EC%8B%9C%20%EC%A1%B0%EC%A7%80"
+   },
+   "borderline": false
+  },
+  {
+   "id": "game_no_okoku",
+   "orig": "ゲームの王国",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2017, 2권)",
+   "by": "小川哲",
+   "year": 2017,
+   "country": "일본",
+   "setting": "캄보디아의 현대사를 바탕으로 엮어 낸 장편 과학소설",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상·야마모토 슈고로상 동시 수상(2018)(일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘에서 이 작품 번역판은 안 보임(같은 지은이의 다른 소설은 여럿 번역됨)",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%98%A4%EA%B0%80%EC%99%80%20%EC%82%AC%ED%86%A0%EC%8B%9C"
+   },
+   "borderline": false
+  },
+  {
+   "id": "beatless",
+   "orig": "BEATLESS",
+   "orig_en": "Beatless",
+   "ko": "비틀리스",
+   "ko_src": "알라딘 — 황금가지 2020 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247738761",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 연재(2011~12), 단행본(2012); TV 애니 2018(24화), 만화",
+   "by": "長谷敏司(하세 사토시)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "인공지능이 사람을 넘어선 22세기, 평범한 소년이 사람 모양 기계 소녀의 주인이 된다",
+   "concepts": [
+    "ai",
+    "android"
+   ],
+   "new_ideas": "사람 모양 기계가 사람의 마음과 행동을 이끄는 '아날로그 해킹'",
+   "lore_size": "중간",
+   "notability": "TV 애니 2018(24화)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지 2020(김진아·박춘상 옮김, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247738761"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yokohama_eki_sf",
+   "orig": "横浜駅SF",
+   "orig_en": "",
+   "ko": "요코하마 역 SF",
+   "ko_src": "알라딘 — 소미미디어 2020 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259651161",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "웹 연재(2015), 책(2016)·『横浜駅SF 全国版』(2017); 만화 2016~18",
+   "by": "柞刈湯葉(이스카리 유바)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "끝없이 스스로 늘어나던 요코하마역이 혼슈의 거의 전부를 뒤덮은 수백 년 뒤",
+   "concepts": [
+    "self_replicate"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제1회 가쿠요무 웹소설 대회 SF 부문 대상, 'このライトノベルがすごい!' 2018 신작 1위(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "소미미디어 2020(손종근 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259651161"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kaikin_no_to",
+   "orig": "皆勤の徒",
+   "orig_en": "Sisyphean",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 장편(2013), 영어판 2018",
+   "by": "酉島伝法",
+   "year": 2013,
+   "country": "일본",
+   "setting": "기술과 몸과 생물이 뒤엉킨 먼 미래의 기괴한 세계, 낯선 말로 지어진 이야기",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상(2013), SF매거진 2013 올해의 책(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8F%84%EB%A6%AC%EC%8B%9C%EB%A7%88%20%EB%8D%B4%ED%8F%AC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hakubutsukan_wakusei",
+   "orig": "永遠の森 博物館惑星",
+   "orig_en": "",
+   "ko": "박물관 행성",
+   "ko_src": "알라딘 — 한스미디어 2023 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328963565",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "永遠の森(2000)·II·III 『歓喜の歌』",
+   "by": "菅浩江(스가 히로에)",
+   "year": 2000,
+   "country": "일본",
+   "setting": "우주의 온갖 예술품을 모아 둔 박물관 행성 아프로디테에서 일하는 사람들",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 일본 장편(2001), 셋째 권 『歓喜の歌』 일본 SF 대상(2020)",
+   "korean": {
+    "status": "있음",
+    "detail": "포레 2012 『영원의 숲』(이윤정), 한스미디어 2023~24 『박물관 행성』 1~3(정경진)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328963565"
+   },
+   "borderline": false
+  },
+  {
+   "id": "taiyo_no_sandatsusha",
+   "orig": "太陽の簒奪者",
+   "orig_en": "Usurper of the Sun",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단편(1999)→장편(2002), 영어판 2009",
+   "by": "野尻抱介",
+   "year": 1999,
+   "country": "일본",
+   "setting": "수성에서 솟은 광물이 해를 두르는 거대한 고리가 되어 지구의 빛을 가린다",
+   "concepts": [
+    "megastructure",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 단편(2000)·장편(2003)(영어·일본어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%85%B8%EC%A7%80%EB%A6%AC%20%ED%98%B8%EC%8A%A4%EC%BC%80"
+   },
+   "borderline": false
+  },
+  {
+   "id": "genocide",
+   "orig": "ジェノサイド",
+   "orig_en": "",
+   "ko": "제노사이드",
+   "ko_src": "알라딘 — 황금가지 2012 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17661787",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 연재(2010~11), 단행본(2011)",
+   "by": "高野和明(다카노 가즈아키)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "콩고 밀림에 나타난 사람을 넘어서는 존재를 없애라는 작전과, 일본 대학원생의 신약 연구",
+   "concepts": [
+    "next_human"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "야마다 후타로상·일본추리작가협회상, '이 미스터리가 대단하다!' 2012 1위(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지 2012(김수영 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17661787"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hyakunenho",
+   "orig": "百年法",
+   "orig_en": "",
+   "ko": "백년법",
+   "ko_src": "알라딘 — 애플북스 2014 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=44151831",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2012, 상·하)",
+   "by": "山田宗樹(야마다 무네키)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "늙지 않는 시술을 받은 사람은 백 년 뒤 죽어야 하는 법이 선 다른 역사의 일본",
+   "concepts": [
+    "longevity",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제66회 일본추리작가협회상(애플북스판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "애플북스 2014~2016·2022(최고은 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=44151831"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kentoshi",
+   "orig": "献灯使",
+   "orig_en": "",
+   "ko": "헌등사",
+   "ko_src": "알라딘 — 자음과모음 2018 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=136247218",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중편 「献灯使」와 단편 묶음(2014)",
+   "by": "多和田葉子(다와다 요코)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "큰 재해 뒤 나라 문을 닫은 일본, 늙은이는 죽지 못하고 아이들은 몸이 약해져 간다",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전미도서상 번역 부문 수상(민음사판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "자음과모음 2018(남상욱), 민음사 2024(유라주)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=136247218"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shangri_la",
+   "orig": "シャングリ・ラ",
+   "orig_en": "Shangri-La",
+   "ko": "샹그리라",
+   "ko_src": "알라딘 — 열린책들 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967086",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "연재(2004~05), 단행본(2005); TV 애니 2009(24화), 만화 2009~",
+   "by": "池上永一(이케가미 에이이치)",
+   "year": 2004,
+   "country": "일본",
+   "setting": "탄소 거래가 경제를 쥔 21세기, 숲이 된 도쿄와 소수만 사는 거대 탑 아틀라스",
+   "concepts": [
+    "megastructure"
+   ],
+   "new_ideas": "탄소 배출권이 곧 돈이 되는 경제",
+   "lore_size": "중간",
+   "notability": "TV 애니 2009(24화)·만화(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "열린책들 2007(권남희); 만화판 대원씨아이 2010",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=967086"
+   },
+   "borderline": false
+  },
+  {
+   "id": "boku_wa_ashita_kino_no_kimi_to_date_suru",
+   "orig": "ぼくは明日、昨日のきみとデートする",
+   "orig_en": "",
+   "ko": "나는 내일, 어제의 너와 만난다",
+   "ko_src": "알라딘 — 데이즈엔터 2016 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=77416364",
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2014); 영화 2016, 웹 만화 2015~",
+   "by": "七月隆文(나나츠키 타카후미)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "처음 맞는 순간마다 우는 연인, 그녀가 숨긴 시간의 비밀을 둘러싼 사랑 이야기",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "누계 160만 부(2018), 영화 2016(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "데이즈엔터 2016(주원일); 만화판 위즈덤하우스 2017~18",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=77416364"
+   },
+   "borderline": true
+  },
+  {
+   "id": "boku_ga_aishita_subete_no_kimi_e",
+   "orig": "僕が愛したすべての君へ",
+   "orig_en": "",
+   "ko": "내가 사랑했던 모든 너에게",
+   "ko_src": "알라딘 — 소미미디어 2017 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126006182",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "『僕が愛したすべての君へ』·『君を愛したひとりの僕へ』(2016, 같은 날 함께 출간한 짝); 애니 영화 둘 2022",
+   "by": "乙野四方字(오토노 요모지)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "평행 세계가 증명된 세상, 평행 세계를 연구하는 집안 아이의 한평생과 사랑",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "애니 영화 두 편 동시 개봉(2022)(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "소미미디어 2017(김현화, 두 권 모두), 모모 2022",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126006182"
+   },
+   "borderline": false
+  },
+  {
+   "id": "shumatsu_no_fool",
+   "orig": "終末のフール",
+   "orig_en": "",
+   "ko": "종말의 바보",
+   "ko_src": "알라딘 — 현대문학 2015 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53804504",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "연작 단편집(2006); 만화판",
+   "by": "伊坂幸太郎(이사카 고타로)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "여덟 해 뒤 소행성이 부딪친다는 발표 뒤 다섯 해, 남은 세 해를 사는 사람들",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "야마모토 슈고로상 후보, 일본 서점대상 4위(2007)(현대문학판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "랜덤하우스코리아 2006(윤덕주), 현대문학 2015·소미미디어 2024(김선영); 만화판 서울문화사 2008",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53804504"
+   },
+   "borderline": true
+  },
+  {
+   "id": "johannesburg_no_tenshitachi",
+   "orig": "ヨハネスブルグの天使たち",
+   "orig_en": "",
+   "ko": "요하네스버그의 천사들",
+   "ko_src": "알라딘 — 에디토리얼 2019 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198322524",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 단편집(2013)",
+   "by": "宮内悠介(미야우치 유스케)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "값싼 여자 모양 로봇 '디엑스나인'이 세계 곳곳의 분쟁과 얽히는 연작",
+   "concepts": [
+    "robot",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상 특별상(2013)(일본어 위키백과·에디토리얼판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "에디토리얼 2019(이수영 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=198322524"
+   },
+   "borderline": false
+  },
+  {
+   "id": "onshu_seiiki",
+   "orig": "怨讐星域",
+   "orig_en": "",
+   "ko": "원수성역",
+   "ko_src": "알라딘 — 데이즈엔터 2019 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=176883059",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편 3권",
+   "by": "梶尾真治(카지오 신지)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "해의 폭발을 피해 몰래 떠난 세대 우주선과, 남겨진 이들이 순간 이동으로 먼저 닿은 별",
+   "concepts": [
+    "generation_ship",
+    "teleport",
+    "earth_left"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 일본 장편(2016)(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "데이즈엔터 2019(구자용 옮김, 3권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=176883059"
+   },
+   "borderline": false
+  },
+  {
+   "id": "laplace_no_majo",
+   "orig": "ラプラスの魔女",
+   "orig_en": "",
+   "ko": "라플라스의 마녀",
+   "ko_src": "알라딘 — 현대문학 2016 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=72885569",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "ラプラスの魔女(2015)·魔力の胎動·魔女と過ごした七日間; 영화 2018(三池崇史)",
+   "by": "東野圭吾(히가시노 게이고)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "현재를 다 알면 앞일을 계산할 수 있다는 힘을 지닌 소녀가 가스 중독 죽음을 캔다",
+   "concepts": [
+    "precognition"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "출간 한 달 28만 부, 영화 2018 흥행 약 14억 엔(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "현대문학 2016(양윤옥); 『마력의 태동』·『마녀와의 7일』도 번역",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=72885569"
+   },
+   "borderline": true
+  },
+  {
+   "id": "platinum_data",
+   "orig": "プラチナデータ",
+   "orig_en": "",
+   "ko": "플래티나 데이터",
+   "ko_src": "알라딘 — 서울문화사 2011 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8637182",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "연재(2006~10), 단행본(2010); 영화 2013",
+   "by": "東野圭吾(히가시노 게이고)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "유전자 수사로 모든 사건을 풀겠다는 근미래 일본, 누명 쓴 천재 과학자가 쫓긴다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화 2013 흥행 약 26억 엔(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "서울문화사 2011(이정환 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8637182"
+   },
+   "borderline": true
+  },
+  {
+   "id": "shio_no_machi",
+   "orig": "塩の街",
+   "orig_en": "",
+   "ko": "소금의 거리",
+   "ko_src": "알라딘 — 대원씨아이 2007 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=884785",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2004); 만화 2021~24",
+   "by": "有川浩(아리카와 히로)",
+   "year": 2004,
+   "country": "일본",
+   "setting": "하늘에서 떨어진 거대한 소금 결정 탓에 사람들이 소금 기둥으로 변해 가는 세상",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제10회 전격 게임 소설 대상(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2007(김소연 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=884785"
+   },
+   "borderline": false
+  },
+  {
+   "id": "all_you_need_is_kill",
+   "orig": "All You Need Is Kill",
+   "orig_en": "All You Need Is Kill",
+   "ko": "엣지 오브 투모로우 : All You Need is Kill",
+   "ko_src": "알라딘 — 학산문화사 2014 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=41025383",
+   "media": [
+    "소설",
+    "영화",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설(2004); 만화 2014(小畑健), 미국 그래픽노블 2014, 영화 『Edge of Tomorrow』(2014), 애니 영화(2026, 스튜디오 4°C)",
+   "by": "桜坂洋(사쿠라자카 히로시)",
+   "year": 2004,
+   "country": "일본",
+   "setting": "외계 침략체와 싸우다 죽을 때마다 같은 하루로 되돌아가는 신병",
+   "concepts": [
+    "alien",
+    "time_travel"
+   ],
+   "new_ideas": "죽으면 같은 날로 되돌아가는 시간 고리",
+   "lore_size": "작음",
+   "notability": "할리우드 영화 『엣지 오브 투모로우』(2014), 애니 영화 2026(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "학산문화사 2014(김용빈 옮김); 만화판 학산문화사 2014",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=41025383"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sword_art_online",
+   "orig": "ソードアート・オンライン",
+   "orig_en": "Sword Art Online",
+   "ko": "소드 아트 온라인",
+   "ko_src": "알라딘 — 서울문화사 번역판(10권 쪽) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20980694",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "웹 연재(2002~), 전격문고(2009~)·『プログレッシブ』(2012~)·외전 『ガンゲイル・オンライン』; TV 애니 2012~2020, 극장판 여럿, 게임",
+   "by": "川原礫(카와하라 레키)",
+   "year": 2002,
+   "country": "일본",
+   "setting": "뇌에 바로 잇는 가상 현실 게임에 갇힌 사람들, 이어서 참된 인공지능을 기르는 가상 세계",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "뇌에 바로 이어지는 완전 몰입 가상 현실",
+   "lore_size": "큼",
+   "notability": "누적 약 3천만 부(2024), 게임 1천만 장 넘게(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "서울문화사(김완 옮김), 『프로그레시브』 2014~",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20980694"
+   },
+   "borderline": false
+  },
+  {
+   "id": "accel_world",
+   "orig": "アクセル・ワールド",
+   "orig_en": "Accel World",
+   "ko": "액셀 월드",
+   "ko_src": "알라딘 — 서울문화사(서울미디어코믹스) 2009 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4900440",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "웹 연재(2007), 전격문고(2009~); TV 애니 2012, 극장판 2016, 게임 — 『SAO』와 함께 나오는 게임이 있으나 같은 세계라는 공식 근거는 못 찾음",
+   "by": "川原礫(카와하라 레키)",
+   "year": 2007,
+   "country": "일본",
+   "setting": "생각을 아주 빠르게 하는 프로그램으로 가속된 세계에 들어가 싸우는 중학생들",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "전격소설대상 수상작, TV 애니 2012·극장판 2016(영어 위키백과·알라딘)",
+   "korean": {
+    "status": "있음",
+    "detail": "서울문화사 2009~(김완 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4900440"
+   },
+   "borderline": false
+  },
+  {
+   "id": "eighty_six",
+   "orig": "86―エイティシックス―",
+   "orig_en": "86",
+   "ko": "86 에이티식스",
+   "ko_src": "알라딘 — 데이즈엔터 번역판(4권 쪽) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=189632136",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2017~); TV 애니 2021~22, 만화",
+   "by": "安里アサト(아사토 아사토)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "무인기가 싸운다고 믿는 나라, 실은 차별받는 '86'이 탄 기체가 무인 기계 군단과 싸운다",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제23회 전격 소설 대상 대상, TV 애니 2021~22(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "데이즈엔터(한신남 옮김, 14권까지 확인)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=189632136"
+   },
+   "borderline": false
+  },
+  {
+   "id": "full_metal_panic",
+   "orig": "フルメタル・パニック!",
+   "orig_en": "Full Metal Panic!",
+   "ko": "풀 메탈 패닉!",
+   "ko_src": "알라딘 — 대원씨아이 2002 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12063420",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "본편 12권·단편집 9권(1998~2010), 『アナザー』·『Family』; TV 애니 2002·2003·2005·2018, 만화 여럿, 게임",
+   "by": "賀東招二(가토 쇼지)",
+   "year": 1998,
+   "country": "일본",
+   "setting": "앞선 기술 지식을 무의식에 품고 태어난 사람들과 사람 모양 병기가 판치는 현대의 전장",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "본 적 없는 미래 기술을 무의식에 품고 태어나는 사람들",
+   "lore_size": "중간",
+   "notability": "누적 1,100만 부 넘음, TV 애니 여러 기(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2002~2007(민유선 옮김), 『Family』 소미미디어 2025~",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12063420"
+   },
+   "borderline": false
+  },
+  {
+   "id": "heavy_object",
+   "orig": "ヘヴィーオブジェクト",
+   "orig_en": "Heavy Object",
+   "ko": "헤비 오브젝트",
+   "ko_src": "알라딘 — 대원씨아이 2011 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11359313",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2009~); TV 애니 2015~16, 만화 셋, 게임 출연",
+   "by": "鎌池和馬(카마치 카즈마)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "거대한 공 모양 병기가 전쟁을 독차지한 미래, 두 병사가 맨몸으로 그것을 부순다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 2015~16(24화)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2011~(하성호·이은주 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11359313"
+   },
+   "borderline": false
+  },
+  {
+   "id": "black_bullet",
+   "orig": "ブラック・ブレット",
+   "orig_en": "Black Bullet",
+   "ko": "블랙 불릿",
+   "ko_src": "알라딘 — 학산문화사 번역판(2권 쪽) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25630243",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2011~); TV 애니 2014, 만화 2012~14",
+   "by": "神崎紫電(칸자키 시덴)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "기생 바이러스 괴물에 밀려 거대한 벽 안에 사는 인류와, 힘을 지니고 태어난 소녀들",
+   "concepts": [
+    "parasite",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 2014(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "학산문화사 라이트노벨 2013~(김동욱 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25630243"
+   },
+   "borderline": false
+  },
+  {
+   "id": "infinite_stratos",
+   "orig": "IS〈インフィニット・ストラトス〉",
+   "orig_en": "Infinite Stratos",
+   "ko": "IS 인피니트 스트라토스",
+   "ko_src": "알라딘 — 학산문화사 2013 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=27113182",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "소설(2009~); TV 애니 2011·2013, 만화, 게임 여럿",
+   "by": "弓弦イズル(유미즈루 이즈루)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "여자만 움직일 수 있는 강화 외골격을 처음 움직인 소년이 그 전문 학교에 들어간다",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 두 기(2011·2013)·게임 넷(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "학산문화사 2013~(한신남 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=27113182"
+   },
+   "borderline": false
+  },
+  {
+   "id": "iriya_no_sora",
+   "orig": "イリヤの空、UFOの夏",
+   "orig_en": "",
+   "ko": "이리야의 하늘, UFO의 여름",
+   "ko_src": "알라딘 — 대원씨아이 2002 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386148",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고 4권(2001~03); OVA 2005, 만화 2007~09, 게임 둘",
+   "by": "秋山瑞人(아키야마 미즈히토)",
+   "year": 2001,
+   "country": "일본",
+   "setting": "1947년 비행접시 목격 뒤 이어진 외계와의 숨은 전쟁, 몰래 전투기를 모는 전학생 소녀",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA 2005(6화)·게임 둘(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2002~2004(4권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386148"
+   },
+   "borderline": false
+  },
+  {
+   "id": "jinrui_wa_suitai_shimashita",
+   "orig": "人類は衰退しました",
+   "orig_en": "Humanity Has Declined",
+   "ko": "인류는 쇠퇴했습니다",
+   "ko_src": "알라딘 — 서울문화사 2008 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=52090962",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "가가가문고 11권(2007~); TV 애니 2012, 만화 셋",
+   "by": "田中ロミオ(다나카 로미오)",
+   "year": 2007,
+   "country": "일본",
+   "setting": "문명이 무너져 사람이 줄어든 세상, 단것을 좋아하는 요정들과 사람 사이를 잇는 소녀",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 2012(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "서울문화사 2008~2015(곽형준·김경훈 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=52090962"
+   },
+   "borderline": false
+  },
+  {
+   "id": "seikai_no_monsho",
+   "orig": "星界の紋章",
+   "orig_en": "Crest of the Stars",
+   "ko": "성계의 문장",
+   "ko_src": "알라딘 — 대원씨아이 2010 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6981189",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "星界の紋章(1996, 3권)·星界の戦旗(6권~)·星界の断章; TV 애니 1999·『星界の戦旗』 2000~, 게임 2000",
+   "by": "森岡浩之(모리오카 히로유키)",
+   "year": 1996,
+   "country": "일본",
+   "setting": "고향 별을 넘겨받은 소년이 우주 제국 아브의 공주와 엮이며 큰 전쟁이 시작된다",
+   "concepts": [
+    "galactic_empire"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "성운상 일본 장편(1997), TV 애니 1999(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2010(『성계의 문장』 3권), 『성계의 전기』 2010~2014(김영종 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6981189"
+   },
+   "borderline": false
+  },
+  {
+   "id": "rocket_girl",
+   "orig": "ロケットガール",
+   "orig_en": "Rocket Girls",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "후지미 판타지아문고(1995~); TV 애니 2007, 영어판 2010",
+   "by": "野尻抱介",
+   "year": 1995,
+   "country": "일본",
+   "setting": "솔로몬 제도의 작은 민간 우주 회사가 몸이 가벼운 여고생을 우주인으로 뽑는다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니 2007, 영어판(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 소설 번역판이 안 보임(작가 이름 표기를 바꿔 가며 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%85%B8%EC%A7%80%EB%A6%AC%20%ED%98%B8%EC%8A%A4%EC%BC%80"
+   },
+   "borderline": false
+  },
+  {
+   "id": "girly_air_force",
+   "orig": "ガーリー・エアフォース",
+   "orig_en": "Girly Air Force",
+   "ko": "걸리 에어포스",
+   "ko_src": "알라딘 — 서울문화사 2018 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143244923",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2014~); TV 애니 2019, 만화 2018~19",
+   "by": "夏海公司(나츠미 코지)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "정체 모를 침략자에 맞서, 그 기술로 만든 소녀 조종사와 전투기로 일본을 지킨다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니 2019(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "서울문화사 2018~2019(권미량 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143244923"
+   },
+   "borderline": false
+  },
+  {
+   "id": "time_leap",
+   "orig": "タイム・リープ あしたはきのう",
+   "orig_en": "",
+   "ko": "타임 리프",
+   "ko_src": "알라딘 — 대원씨아이 2004 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=453598",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "단행본(1995), 전격문고(1996); 라디오 드라마 1996, 영화 1997",
+   "by": "高畑京一郎(타카하타 쿄이치로)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "하루치 기억을 잃은 여고생이 반 친구와 함께 시간이 뛰는 현상의 규칙을 푼다",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1997년 영화화(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2004(2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=453598"
+   },
+   "borderline": false
+  },
+  {
+   "id": "murasakiiro_no_qualia",
+   "orig": "紫色のクオリア",
+   "orig_en": "",
+   "ko": "보랏빛 퀄리아",
+   "ko_src": "알라딘 — 데이즈엔터 2014 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40888074",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고(2009); 만화 2011~13",
+   "by": "うえお久光(우에오 히사미츠)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "사람이 로봇으로 보이는 소녀와, 평행 세계의 자신들과 이어져 잃은 사람을 되찾으려는 소년",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'SFが読みたい!' 2010 국내 10위(일본어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "데이즈엔터 2014(구자용 옮김); 만화판 2015~16",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40888074"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sabikui_bisco",
+   "orig": "錆喰いビスコ",
+   "orig_en": "",
+   "ko": "녹을 먹는 비스코",
+   "ko_src": "알라딘 — 디앤씨미디어 2019 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187604857",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "전격문고 10권(2018~2025); TV 애니 2022, 만화",
+   "by": "瘤久保慎司(코부쿠보 신지)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "모든 것을 녹슬게 하는 바람이 부는 멸망 뒤 일본, 녹을 먹는 버섯을 찾는 궁수와 의사",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'このライトノベルがすごい!' 2019 문고 종합·신작 1위, TV 애니 2022(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "디앤씨미디어 2019~(이경인 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=187604857"
+   },
+   "borderline": false
+  },
+  {
+   "id": "suzumiya_haruhi",
+   "orig": "涼宮ハルヒの憂鬱",
+   "orig_en": "The Melancholy of Haruhi Suzumiya",
+   "ko": "스즈미야 하루히의 우울",
+   "ko_src": "알라딘 — 대원씨아이 2006 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8708827",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "스즈미야 하루히 시리즈(2003~); TV 애니 2006·2009, 극장판 2010, 만화 여럿, 게임 6편",
+   "by": "谷川流(타니가와 나가루)",
+   "year": 2003,
+   "country": "일본",
+   "setting": "세상을 바꾸는 힘을 모르는 소녀 곁에 외계 지성의 대리인, 미래인, 초능력자가 모인다",
+   "concepts": [
+    "alien",
+    "hive_mind",
+    "time_travel",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제8회 스니커 대상 대상, 2011년까지 800만 부(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2006~(이덕주 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8708827"
+   },
+   "borderline": true
+  },
+  {
+   "id": "toaru_majutsu_no_index",
+   "orig": "とある魔術の禁書目録",
+   "orig_en": "A Certain Magical Index",
+   "ko": "어떤 마술의 금서목록",
+   "ko_src": "알라딘 — 대원씨아이 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11385796",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "본편(2004~)·신약·창약, 외전 만화 『とある科学の超電磁砲』(2007~); TV 애니 2008~2019, 극장판 2013, 게임 여럿",
+   "by": "鎌池和馬(카마치 카즈마)",
+   "year": 2004,
+   "country": "일본",
+   "setting": "과학으로 초능력자를 길러 내는 학원 도시와 마술 세력이 맞서는 세계",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "시리즈 누적 3,100만 부(2021)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이(본편·신약·창약), 만화 『어떤 과학의 초전자포』 대원씨아이 2009~",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11385796"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mahouka",
+   "orig": "魔法科高校の劣等生",
+   "orig_en": "The Irregular at Magic High School",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "웹 연재(2008~), 전격문고(2011~); TV 애니 2014·2020·2024, 극장판 2017·2021·2026, 만화",
+   "by": "佐島勤",
+   "year": 2008,
+   "country": "일본",
+   "setting": "유전으로 정해지는 마법을 기술로 다듬어 쓰는 2090년대 일본의 마법 고교",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "일본에서 약 2,200만 부, TV 애니 여러 기(영어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘 국내도서 검색에 안 보임(전자책·웹 연재 번역 여부는 못 봄)",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A7%88%EB%B2%95%EA%B3%BC%20%EA%B3%A0%EA%B5%90%EC%9D%98%20%EC%97%B4%EB%93%B1%EC%83%9D"
+   },
+   "borderline": true
+  },
+  {
+   "id": "boogiepop",
+   "orig": "ブギーポップは笑わない",
+   "orig_en": "Boogiepop and Others",
+   "ko": "부기팝은 웃지 않는다",
+   "ko_src": "알라딘 — 대원씨아이 2002 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=381807",
+   "media": [
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "부기팝 시리즈(1998~); 애니 2000·2019, 실사 영화 2000",
+   "by": "上遠野浩平(카도노 코헤이)",
+   "year": 1998,
+   "country": "일본",
+   "setting": "인류를 다스리려는 비밀 조직이 만든 인조 인간과 더 진화한 사람들, 그 틈의 사신",
+   "concepts": [
+    "next_human"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제4회 전격 소설 대상(1997), 누적 500만 부(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "대원씨아이 2002 첫 권만 확인(몇 권까지 나왔는지는 못 셈)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=381807"
+   },
+   "borderline": true
+  },
+  {
+   "id": "tsuki_to_laika_to_nosferatu",
+   "orig": "月とライカと吸血姫",
+   "orig_en": "Irina: The Vampire Cosmonaut",
+   "ko": "달과 라이카와 흡혈 공주",
+   "ko_src": "알라딘 — 소미미디어 2018 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=154623475",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "가가가문고(2016~); TV 애니 2021, 만화 2018~23",
+   "by": "牧野圭祐(마키노 케이스케)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "다른 역사의 우주 경쟁, 소련을 닮은 나라가 흡혈귀 소녀를 우주 비행 시험체로 쓴다",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 일본 장편(2022), TV 애니 2021(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "소미미디어 2018~2020(조아라 옮김, 3권까지 확인)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=154623475"
+   },
+   "borderline": true
+  },
+  {
+   "id": "urasekai_picnic",
+   "orig": "裏世界ピクニック",
+   "orig_en": "Otherside Picnic",
+   "ko": "이세계 피크닉",
+   "ko_src": "알라딘 — 소미미디어 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=316121960",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "하야카와문고(2017~); TV 애니 2021, 만화 2018~",
+   "by": "宮澤伊織(미야자와 이오리)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "폐건물의 문 너머 괴담이 사는 다른 세계를 두 사람이 탐사한다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니 2021, 만화 16권(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "소미미디어(심희정 옮김, 7권까지 확인); 만화판도",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=316121960"
+   },
+   "borderline": true
+  },
+  {
+   "id": "trinity_blood",
+   "orig": "トリニティ・ブラッド",
+   "orig_en": "Trinity Blood",
+   "ko": "트리니티 블러드",
+   "ko_src": "알라딘 — 만화판만(대원씨아이) https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178437033",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "스니커문고(2001~, 첫 단편 1999); TV 애니 2005(24화), 만화 2003~2018",
+   "by": "吉田直",
+   "year": 1999,
+   "country": "일본",
+   "setting": "아마겟돈 뒤 900년, 화성에서 찾은 기술로 생긴 흡혈 종족과 교황청이 맞선다",
+   "concepts": [
+    "catastrophe",
+    "nanotech"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 2005(24화), 만화 21권(영어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "소설 번역판은 안 보이고 만화판(대원씨아이)만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178437033"
+   },
+   "borderline": true
+  },
+  {
+   "id": "scrapped_princess",
+   "orig": "スクラップド・プリンセス",
+   "orig_en": "Scrapped Princess",
+   "ko": "스크랩드 프린세스",
+   "ko_src": "알라딘 — 대원씨아이 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=884782",
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "판타지아문고(1999~); TV 애니 2003(24화), 만화",
+   "by": "榊一郎(사카키 이치로)",
+   "year": 1999,
+   "country": "일본",
+   "setting": "세상을 망친다는 예언을 받은 공주의 도피 여행, 그 뒤에 숨은 먼 미래의 진실",
+   "concepts": [
+    "prophecy"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니 2003(본즈, 24화)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "대원씨아이 2007~2010(민용식·장은아 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=884782"
+   },
+   "borderline": true
+  },
+  {
+   "id": "liulang_diqiu",
+   "orig": "流浪地球",
+   "orig_en": "The Wandering Earth",
+   "ko": "유랑지구",
+   "ko_src": "한국어 위키백과 — 영화 『유랑지구』 국내 개봉(2019-04-18)·넷플릭스 공개(2019-04-30) 제목",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "중편(2000); 영화 『流浪地球』(2019)·『流浪地球2』(2023)",
+   "by": "刘慈欣(류츠신)",
+   "year": 2000,
+   "country": "중국",
+   "setting": "부풀어 오르는 해를 피해 지구에 거대한 엔진을 달아 다른 별로 밀고 간다",
+   "concepts": [
+    "megastructure",
+    "earth_left"
+   ],
+   "new_ideas": "행성 자체에 엔진을 달아 다른 별로 옮기기",
+   "lore_size": "중간",
+   "notability": "은하상 특등상(2000), 영화 2019는 중국 역대 흥행 2위(중국어·한국어 위키백과)",
+   "korean": {
+    "status": "일부",
+    "detail": "소설 번역판은 알라딘에서 안 보임(류츠신 SF 유니버스 다섯 권 목차에도 없음); 영화는 2019년 국내 개봉·넷플릭스 공개",
+    "src": "https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%9E%91%EC%A7%80%EA%B5%AC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "chaoxinxing_jiyuan",
+   "orig": "超新星纪元",
+   "orig_en": "Supernova Era",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2003, 첫 원고 1991), 영어판 2019",
+   "by": "刘慈欣",
+   "year": 2003,
+   "country": "중국",
+   "setting": "가까운 초신성의 방사선으로 열세 살 넘은 사람이 모두 죽게 되어 아이들만 남는 세계",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "류츠신의 장편, 영어판 Tor 2019(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 번역판이 안 보임(작가·제목 한국어 표기로 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%A5%98%EC%B8%A0%EC%8B%A0"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xiangcun_jiaoshi",
+   "orig": "乡村教师",
+   "orig_en": "The Village Teacher",
+   "ko": "산골 마을 선생님",
+   "ko_src": "알라딘 — 『고독한 진화』(자음과모음 2019) 수록 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207175270",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "단편(2001); 영화 『疯狂的外星人』(2019, 宁浩)",
+   "by": "刘慈欣(류츠신)",
+   "year": 2001,
+   "country": "중국",
+   "setting": "은하의 두 문명이 싸우는 가운데 태양계로 온 외계 함대를 시골 교사의 마지막 수업이 막아 낸다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화 『疯狂的外星人』(2019) 원작(중국어 위키백과), 은하상 독자 추천상(2001)",
+   "korean": {
+    "status": "있음",
+    "detail": "류츠신 SF 유니버스 5 『고독한 진화』(자음과모음 2019, 박미진 옮김)에 수록 — 청소년용으로 다듬은 판",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207175270"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tunshizhe",
+   "orig": "吞食者",
+   "orig_en": "",
+   "ko": "탐식제국의 침공",
+   "ko_src": "알라딘 — 『우주 탐식자』(자음과모음 2019) 수록 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=186994391",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "「吞食者」(2002)·「诗云」(2003, 탐식 제국에 털린 뒤의 지구가 배경)",
+   "by": "刘慈欣(류츠신)",
+   "year": 2002,
+   "country": "중국",
+   "setting": "행성을 먹어 치우며 떠도는 거대한 탐식 제국이 지구를 삼키러 오고, 그 뒤 남은 인류",
+   "concepts": [
+    "alien",
+    "planet_killer"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "「诗云」 은하상 독자 추천상(2003)(중국어 위키백과 은하상 목록)",
+   "korean": {
+    "status": "있음",
+    "detail": "류츠신 SF 유니버스 2 『우주 탐식자』(자음과모음 2019, 김지은 옮김)에 「탐식제국의 침공」「시 구름」 수록",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=186994391"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dai_shang_ta_de_yanjing",
+   "orig": "带上她的眼睛",
+   "orig_en": "With Her Eyes",
+   "ko": "타인의 눈",
+   "ko_src": "알라딘 — 『고독한 진화』(자음과모음 2019) 수록 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207175270",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단편(1999)",
+   "by": "刘慈欣(류츠신)",
+   "year": 1999,
+   "country": "중국",
+   "setting": "남의 눈길을 빌려 보는 안경으로 낯선 곳에 홀로 있는 사람과 이어지는 이야기",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "은하상 1등상(1999)(중국어 위키백과 은하상 목록)",
+   "korean": {
+    "status": "있음",
+    "detail": "류츠신 SF 유니버스 5 『고독한 진화』(자음과모음 2019, 박미진 옮김)에 수록",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207175270"
+   },
+   "borderline": false
+  },
+  {
+   "id": "beijing_zhedie",
+   "orig": "北京折叠",
+   "orig_en": "Folding Beijing",
+   "ko": "접는 도시",
+   "ko_src": "알라딘 — 소설집 『고독 깊은 곳』(글항아리 2018) 수록 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178635970",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중단편(2012 인터넷 발표, 2014 잡지)",
+   "by": "郝景芳(하오징팡)",
+   "year": 2012,
+   "country": "중국",
+   "setting": "땅이 하루 주기로 뒤집히며 세 계층이 시간을 나눠 쓰는 미래의 베이징",
+   "concepts": [],
+   "new_ideas": "도시를 접어 계층마다 쓸 시간을 나누는 공간",
+   "lore_size": "작음",
+   "notability": "휴고상 중단편 부문 수상(2016)(영어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "하오징팡 소설집 『고독 깊은 곳』(글항아리 2018, 강초아 옮김) 첫 작품",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=178635970"
+   },
+   "borderline": false
+  },
+  {
+   "id": "huangchao",
+   "orig": "荒潮",
+   "orig_en": "Waste Tide",
+   "ko": "웨이스트 타이드",
+   "ko_src": "알라딘 — 에디토리얼 2024 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335628717",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(2013), 켄 리우 영어판(2019)",
+   "by": "陈楸帆(천추판)",
+   "year": 2013,
+   "country": "중국",
+   "setting": "전자 쓰레기가 쌓인 남중국의 섬, 쓰레기를 뒤지는 이주 노동자 소녀가 낯선 힘에 휘말린다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "화어 과환 성운상 장편 금상(2013)(중국어 위키백과·에디토리얼판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "에디토리얼 2024(이기원 옮김, 영어판을 옮김)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335628717"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yiyuan",
+   "orig": "医院",
+   "orig_en": "Hospital",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "医院 삼부작: 医院(2016)·驱魔(2017)·亡灵(2018), 영어판 2023~(Amazon Publishing)",
+   "by": "韩松",
+   "year": 2016,
+   "country": "중국",
+   "setting": "출장 중 병에 걸린 남자가 들어간 병원이 도시와 세상을 다스리는 거대한 의료 체제였다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "지은이는 은하상 여섯 번, 삼부작 영어판(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘에서 이 삼부작 번역판은 안 보임(지은이 단편 하나가 『에스에프널 2021』에 실림)",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%95%9C%EC%91%B9"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tunshi_xingkong",
+   "orig": "吞噬星空",
+   "orig_en": "Swallowed Star",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "치뎬 연재(2010~12); 만화 2015, 텐센트 애니 2020~, 모바일 게임",
+   "by": "我吃西红柿",
+   "year": 2010,
+   "country": "중국",
+   "setting": "재앙으로 생물이 무섭게 변한 지구, 약육강식 속에서 우주 끝까지 오르는 젊은이",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "중국 웹소설, 텐센트 애니 2020~(영어·중국어 위키백과)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘 검색으로는 판단 못 함(한국어 제목을 몰라 원제·지은이로는 못 찾음), 국내 웹소설 연재 번역 여부도 못 봄",
+    "src": "https://en.wikipedia.org/wiki/Swallowed_Star"
+   },
+   "borderline": false
+  },
+  {
+   "id": "maocheng_ji",
+   "orig": "猫城记",
+   "orig_en": "",
+   "ko": "고양이 행성의 기록",
+   "ko_src": "알라딘 — 돛과닻 2021 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=283407564",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 『现代』 연재(1932~33), 단행본(1933)",
+   "by": "老舍(라오서)",
+   "year": 1932,
+   "country": "중국",
+   "setting": "낯선 별에 떨어진 사내가 중독성 잎에 빠져 무너져 가는 고양이 얼굴 사람들의 나라를 본다",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "중국 SF 고전으로 분류되는 풍자 소설, 번역된 명성이 『낙타 샹즈』 다음이라 함(중국어 위키백과)",
+   "korean": {
+    "status": "있음",
+    "detail": "돛과닻 2021 『고양이 행성의 기록』(홍명교, 국내 첫 번역), 바른북스 2022 『고양이 나라 이야기』",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=283407564"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xiao_lingtong",
+   "orig": "小灵通漫游未来",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1978); 그림책(연환화)",
+   "by": "叶永烈",
+   "year": 1978,
+   "country": "중국",
+   "setting": "눈 밝은 꼬마 기자가 하늘을 나는 차와 집안일 로봇이 있는 미래 도시를 둘러본다",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "소설 약 150만 부·그림책 150만 부, 중국에서 가장 많이 팔린 SF 책으로 소개(중국어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 번역판이 안 보임(작가·제목 한국어 표기로 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%98%88%EC%9C%B5%EB%A1%80"
+   },
+   "borderline": false
+  },
+  {
+   "id": "weisili",
+   "orig": "卫斯理系列",
+   "orig_en": "Wisely Series",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "1963~2004, 156편; 영화 여덟 편(1986~2002), 드라마 다섯(1983~2018)",
+   "by": "倪匡",
+   "year": 1963,
+   "country": "홍콩",
+   "setting": "모험가 주인공이 외계인과 기이한 존재를 잇달아 만나는 탐정 모험 연작",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "156편 연작, 영화 여덟 편·드라마 다섯 편(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 번역판이 안 보임(작가·제목 한국어 표기로 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EB%8B%88%EC%BE%85"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xun_qin_ji",
+   "orig": "寻秦记",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "신문 연재, 25권(1994~96); TVB 드라마 2001, 중국 웹드라마 2018, 영화 2025",
+   "by": "黄易",
+   "year": 1994,
+   "country": "홍콩",
+   "setting": "시간 기계 실험 사고로 진시황 즉위 다섯 해 전의 조나라에 떨어진 21세기 특수 부대원",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "중국어 시간 넘어가기 소설의 선구로 꼽힘, TVB 드라마(2001)·영화(2025)(중국어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 번역판이 안 보임(작가·제목 한국어 표기로 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%ED%99%A9%EC%9D%B4%20%EC%8B%AC%EC%A7%84%EA%B8%B0"
+   },
+   "borderline": true
+  },
+  {
+   "id": "professor_shonku",
+   "orig": "প্রোফেসর শঙ্কু",
+   "orig_en": "Professor Shonku",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "벵골어 연작(1965~); 애니(2017), 영화 『Professor Shonku O El Dorado』(2019)",
+   "by": "Satyajit Ray(সত্যজিৎ রায়)",
+   "year": 1965,
+   "country": "인도",
+   "setting": "기리디에 사는 괴짜 물리학자가 신기한 발명품을 들고 낯선 세계와 수수께끼를 찾아다닌다",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "벵골어 SF 연작, 2019년 영화화(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘 국내도서 검색에서 번역판이 안 보임(작가·제목 한국어 표기로 찾음). 영상물의 국내 공개는 확인 안 함",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%82%AC%ED%8B%B0%EC%95%BC%EC%A7%80%ED%8A%B8%20%EB%A0%88%EC%9D%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sultanas_dream",
+   "orig": "Sultana's Dream",
+   "orig_en": "",
+   "ko": "술타나의 꿈",
+   "ko_src": "알라딘 — 체리픽 2018 번역판 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=148211507",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단편(1905, 영어로 씀)",
+   "by": "Rokeya Sakhawat Hossain(베검 로케야 사카와트 호사인)",
+   "year": 1905,
+   "country": "인도(영국령 벵골)",
+   "setting": "여자들이 나라를 다스리고 남자들이 집안일을 맡는 '레이디 랜드'로의 꿈속 여행",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "100년 전 인도의 여성주의 유토피아 소설로 큰 영향을 끼쳤다고 소개(체리픽판 소개)",
+   "korean": {
+    "status": "있음",
+    "detail": "체리픽 2018(선자연 옮김, 그림책 판)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=148211507"
+   },
+   "borderline": false
+  },
+  {
+   "id": "calcutta_chromosome",
+   "orig": "The Calcutta Chromosome",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1995)",
+   "by": "Amitav Ghosh",
+   "year": 1995,
+   "country": "인도",
+   "setting": "말라리아 기생충을 바꿔 사람에서 사람으로 의식을 옮겨 온 비밀 집단을 쫓는다",
+   "concepts": [
+    "mind_upload",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "아서 C. 클라크상(1997)(영어 위키백과)",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘에서 이 작품 번역판은 안 보임(같은 지은이의 다른 책은 여럿 번역됨)",
+    "src": "https://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=Book&SearchWord=%EC%95%84%EB%AF%B8%ED%83%80%EB%B8%8C%20%EA%B3%A0%EC%8B%9C"
+   },
+   "borderline": false
+  }
+ ]
+}

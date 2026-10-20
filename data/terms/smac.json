@@ -1,0 +1,2077 @@
+{
+  "terms": [
+    {
+      "id": "gaias_stepdaughters",
+      "ko": "가이아의 후예들",
+      "orig": "Gaia's Stepdaughters",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 같은 위키 「시드 마이어의 알파 센타우리」 본문에는 '가이안'으로도 씀",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "행성과 어울려 살려는 환경 보호 세력",
+      "note": "유니티호의 외계 생물학자가 이끈 세력이다. 지구의 비극을 되풀이하지 않겠다며 행성의 생태계를 지키는 길을 택했고, 마인드 웜을 사로잡아 길들일 수 있다. 자유시장 경제는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT"
+      ]
+    },
+    {
+      "id": "human_hive",
+      "ko": "인간 군집",
+      "orig": "Human Hive",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "control_society"
+      ],
+      "one": "개인보다 집단을 앞세운 경찰국가 세력",
+      "note": "유니티호의 부함장이 세운 무신론 경찰국가다. 몸과 개인을 넘어 집단에 녹아드는 것을 깨달음으로 여기며, 땅속 벙커 도시에서 사람을 빠르게 늘리고 엄하게 다스린다. 민주주의는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/HIVE.TXT"
+      ]
+    },
+    {
+      "id": "university_of_planet",
+      "ko": "행성 대학",
+      "orig": "University of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "연구와 지식의 자유를 앞세운 과학자 세력",
+      "note": "유니티호의 과학 책임자가 이끈 세력이다. 연구가 뛰어나고 기지마다 연구망 시설을 두지만, 윤리를 가볍게 여겨 불만 품은 시민이 많고 정보망이 침투에 약하다. 근본주의는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/UNIV.TXT"
+      ]
+    },
+    {
+      "id": "morgan_industries",
+      "ko": "모건 산업",
+      "orig": "Morgan Industries",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "mega_corp"
+      ],
+      "one": "자유시장과 이윤을 앞세운 기업 세력",
+      "note": "유니티호의 사업권을 쥐었던 다이아몬드 재벌이 세운, 회사가 곧 나라인 세력이다. 교역과 거래로 큰돈을 벌지만 사람들의 씀씀이가 커서 도시를 키우는 데 시설이 더 든다. 계획경제는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/MORGAN.TXT"
+      ]
+    },
+    {
+      "id": "spartan_federation",
+      "ko": "스파르타 연방",
+      "orig": "Spartan Federation",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.5 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 같은 위키 본문 문서에는 '스파르탄 연방'으로도 씀",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "무장과 군사 훈련을 앞세운 생존주의 세력",
+      "note": "유니티호의 보안 책임자가 이끈 세력이다. 무기를 들 권리를 내걸고, 잘 훈련된 병사와 좋은 무기가 힘을 몇 곱절로 키운다고 믿는다. 병사의 사기가 높고, 부의 가치는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/SPARTANS.TXT"
+      ]
+    },
+    {
+      "id": "lords_believers",
+      "ko": "주님의 신봉자",
+      "orig": "The Lord's Believers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.6 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 같은 위키 본문 문서에는 '빌리버'로도 씀",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "신앙을 앞세운 근본주의 종교 세력",
+      "note": "유니티호에서 종교 상담을 맡던 이가 이끈 세력이다. 행성을 신이 약속한 땅으로 믿고 세속 과학을 의심해 연구가 매우 느리지만, 신념이 굳어 공격에 강하다. 지식의 가치는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/BELIEVE.TXT"
+      ]
+    },
+    {
+      "id": "peacekeeping_forces",
+      "ko": "평화유지군",
+      "orig": "Peacekeeping Forces",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.7 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "국제연합의 이상을 이으려는 인도주의 세력",
+      "note": "국제연합 우주청 출신으로 유니티호의 의사였던 이가 이끈다. 민주주의와 인권, 정보의 자유로운 흐름을 지키려 하며, 행성 위원회 선거에서 표를 두 배로 받는다. 경찰국가는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/PEACE.TXT"
+      ]
+    },
+    {
+      "id": "cybernetic_consciousness",
+      "ko": "의식화된 가상 두뇌",
+      "orig": "The Cybernetic Consciousness",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "cyborg"
+      ],
+      "one": "알고리즘과 하나 된 사람들의 이성 세력",
+      "note": "확장에서 더해진 세력. 사람의 감정적이고 어지러운 절반을 내려놓고, 따지고 계산하는 절반을 기계 알고리즘으로 한껏 키운 이들이다. 연구와 효율이 높고, 기지를 빼앗으면 기술도 훔친다. 근본주의는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/cyborg.txt"
+      ]
+    },
+    {
+      "id": "nautilus_pirates",
+      "ko": "노틸러스 해적단",
+      "orig": "Nautilus Pirates",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "바다를 터전 삼아 약탈하는 해상 세력",
+      "note": "확장에서 더해진 세력. 유니티호의 항법사가 이끌며, 바다 위에서 시작해 해상 기지와 배를 남보다 쉽게 만든다. 행성의 나라들이 바다로 보내는 교역을 노리는 약탈자들이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/pirates.txt"
+      ]
+    },
+    {
+      "id": "free_drones",
+      "ko": "자유 드론",
+      "orig": "The Free Drones",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "들고일어난 노동자들의 해방 세력",
+      "note": "확장에서 더해진 세력. 이 게임은 불만 품은 시민을 드론이라 부르는데, 유니티호의 하급 기술 노동자가 이들을 이끌고 노동 계급의 해방을 내건다. 생산력이 높고 연구는 낮으며, 다른 세력에서 폭동이 난 기지가 넘어오기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/drone.txt"
+      ]
+    },
+    {
+      "id": "data_angels",
+      "ko": "정보 천사",
+      "orig": "The Data Angels",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "정보는 자유로워야 한다는 해커 세력",
+      "note": "확장에서 더해진 세력. 유니티호의 정보 지원 부서 출신이 이끄는 해커 집단으로, 남의 정보망에 숨어들어 그 세력들이 함께 아는 기술을 빼낸다. 공작 활동이 싸고 능하다. 힘의 가치는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt"
+      ]
+    },
+    {
+      "id": "cult_of_planet",
+      "ko": "행성 종교",
+      "orig": "The Cult of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.5 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "행성을 높은 힘의 뜻으로 섬기는 종교 세력",
+      "note": "확장에서 더해진 세력. 균류 속에 버려진 채 발견된 예언자를 따르며, 행성을 처음의 깨끗한 모습으로 되돌리려 한다. 마인드 웜을 두려움과 경외로 부리고 산업과 재물에는 관심이 없다. 부의 가치는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/fungboy.txt"
+      ]
+    },
+    {
+      "id": "manifold_caretakers",
+      "ko": "다양체 수호자",
+      "orig": "Manifold Caretakers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.6 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "alien"
+      ],
+      "one": "초월을 막으려는 선지자 종족의 갈래",
+      "note": "확장에서 더해진 외계 세력. 타우 세티의 개화가 이웃 성계에 부른 참상을 되풀이하지 않으려고, 종족의 진화가 멈추더라도 다양체를 처음 모습 그대로 지키려 한다. 고향 세계에 이 행성의 자리를 알리는 신호를 보내 지원군을 부르면 이긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "manifold_usurpers",
+      "ko": "다양체 찬탈자",
+      "orig": "Manifold Usurpers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.7 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "alien"
+      ],
+      "one": "개화의 힘으로 신이 되려는 선지자 갈래",
+      "note": "확장에서 더해진 외계 세력. 개화가 위험한 줄 알면서도 그 보상이 신의 경지라며, 행성의 초월을 자기들 손으로 일으켜 은하를 지배하려 한다. 수호자와는 끝없이 싸우고, 행성도 그들의 속셈을 느껴 꺼린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/usurper.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/interludea.txt"
+      ]
+    },
+    {
+      "id": "planet",
+      "ko": "행성",
+      "orig": "Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 사회 특성의 '행성(Planet)' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "개척자들이 마주한, 살아 있는 행성의 정신",
+      "note": "사람들은 카이론을 그냥 '행성'이라 부르는데, 이 행성은 균류와 토착 생물이 이룬 거대한 신경망으로 생각하고 꿈꾼다. 오염과 개발이 쌓이면 균류를 퍼뜨리고 마인드 웜을 보내 맞서며, 차츰 꿈과 목소리로 사람에게 말을 걸어 온다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "chiron",
+      "ko": "카이론",
+      "orig": "Chiron",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론」 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "알파 센타우리 A를 도는 이민의 목적지",
+      "note": "지구보다 조금 크고 무거운 행성이다. 공기에 질소가 많고 산소가 적어 사람은 보호구 없이 살기 어렵고, 자전축이 거의 곧게 서 있어 계절이 없다. 네서스와 폴로스라는 두 위성을 거느린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론"
+      ]
+    },
+    {
+      "id": "alpha_centauri",
+      "ko": "알파 센타우리",
+      "orig": "Alpha Centauri",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론」 3절 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구에서 가장 가까운 별들, 이민선의 목적지",
+      "note": "태양계에서 가장 가까운 별의 무리다. 유니티호는 40년을 날아 이곳에 닿았고, 그 가운데 알파 센타우리 A를 도는 행성 카이론에 사람들이 내렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt"
+      ]
+    },
+    {
+      "id": "earth",
+      "ko": "지구",
+      "orig": "Earth",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "earth_left"
+      ],
+      "one": "연락이 끊긴, 떠나 온 고향",
+      "note": "유니티호가 떠나 온 고향이다. 지도자들의 말 속에서 지구는 되풀이해서는 안 될 비극의 땅으로 그려지고, 이민선이 도착한 뒤로는 모든 연락이 끊겨 그 뒤 소식을 아무도 모른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT"
+      ]
+    },
+    {
+      "id": "manifold_nexus",
+      "ko": "매니폴드 넥서스",
+      "orig": "Manifold Nexus",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "소리로 글을 새긴 외계의 옛 건물",
+      "note": "행성과 알 수 없는 관계를 맺은, 넓은 외계 시설의 무너진 잔해다. 벽 가득한 홈이 안의 소리를 일정하게 비틀도록 짜여 있어 소리 자체가 뜻을 전하는 글이 된다. 이곳을 영토에 품은 세력은 행성과 더 가까워진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/readme.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "unity",
+      "ko": "유니티호",
+      "orig": "U.N.S. Unity",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 4.1 스토리의 '이민선 UNS 유니티호' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "sublight",
+        "cryosleep"
+      ],
+      "one": "국제연합이 알파 센타우리로 보낸 이민선",
+      "note": "사람들은 냉동 수면에 든 채 40년을 날아갔다. 도착을 앞두고 선장이 누군가에게 암살되자 승무원들이 들고일어나 여러 세력으로 갈라졌고, 저마다 이민선의 콜로니 포드를 빼앗아 행성으로 내려갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "planetfall",
+      "ko": "플래닛폴",
+      "orig": "Planetfall",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "갈라진 세력들이 행성에 처음 내려앉은 일",
+      "note": "게임은 바로 이 순간에서 시작한다. 세력마다 내려앉은 자리에 첫 기지를 세우고, 그 뒤의 일은 플래닛폴로부터 몇 해가 지났는지로 헤아린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "unity_pods",
+      "ko": "유니티 포드",
+      "orig": "Unity Pods",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 4절 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "유니티호가 행성 곳곳에 뿌린 보급 상자",
+      "note": "땅과 바다에 흩어져 있어, 부대가 들어가 열어 봐야 무엇이 들었는지 안다. 자원이나 장비가 나오기도 하고, 숨어 있던 토착 생물이 튀어나오기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/tutor.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt"
+      ]
+    },
+    {
+      "id": "colony_pod",
+      "ko": "콜로니 포드",
+      "orig": "Colony Pod",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 4.1 스토리 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "새 기지를 세우는 정착 장비",
+      "note": "갈라진 세력들은 유니티호의 콜로니 포드를 빼앗아 행성에 내렸다. 그 뒤로도 기지의 인구를 덜어 새 포드를 만들고, 그것으로 새 땅에 기지를 세워 정착지를 넓힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Script.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "formers",
+      "ko": "개척기",
+      "orig": "Formers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 4절 '지형 개조' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "땅과 물길을 고치는 개척 기술자 부대",
+      "note": "숲과 농장, 광산과 태양 전지판을 놓고, 땅을 높이거나 깎아 산을 만들고 물길을 바꾼다. 산 하나로 비가 내리는 쪽과 메마른 쪽이 갈릴 만큼 행성의 기후에도 손댈 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "un_charter",
+      "ko": "UN 헌장",
+      "orig": "U.N. Charter",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/유닛」·「시드 마이어의 알파 센타우리/비밀 프로젝트」 본문의 'UN 헌장'. 「시드 마이어의 알파 센타우리」 본문에는 'UN협약'으로도 씀 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "유니티 임무가 정한 잔악행위 금지 규약",
+      "note": "신경 가스와 유전자 무기, 시민의 신경 고문, 민간인을 겨눈 공격 같은 잔악행위를 금한다. 어기면 다른 세력의 교역 제재를 받고, 행성 파괴 무기를 쓰면 행성 위원회에서 쫓겨나 모두의 적이 된다. 위원회 투표로 폐지할 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt"
+      ]
+    },
+    {
+      "id": "planetary_council",
+      "ko": "행성 위원회",
+      "orig": "Planetary Council",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '행성 의회'로도 씀",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "모든 세력이 모여 표결하는 행성 회의",
+      "note": "모든 세력과 연락이 닿으면 열 수 있다. 행성을 대표할 지도자를 뽑고 교역 협정, 햇빛 가리개 띄우기, 극지 얼음 녹이기 같은 행성 전체의 일을 표결하며, 4분의 3의 표로 최고 지도자에 뽑히면 외교 승리다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt"
+      ]
+    },
+    {
+      "id": "nerve_stapling",
+      "ko": "신경 고문",
+      "orig": "Nerve Stapling",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 1.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 본문 문서에는 '신경고문'으로 붙여 씀",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "폭동한 시민의 신경에 손대는 강제 진압",
+      "note": "들고일어난 시민들에게 가해 적어도 열 해 동안 다시 들고일어나지 못하게 하는 가혹한 수단이다. 효과는 확실하지만 UN 헌장이 금한 잔악행위라서, 쓰면 다른 세력의 제재를 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/tutor.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "secret_projects",
+      "ko": "비밀 프로젝트",
+      "orig": "Secret Projects",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "한 세력만 이룰 수 있는 거대한 사업",
+      "note": "완성한 세력의 모든 기지와 부대에 오래가는 혜택을 준다. 완성할 때마다 짧은 영상과 낭독이 따라 나와, 그 기술이 사람과 사회를 어떻게 바꿀지를 비춘다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ]
+    },
+    {
+      "id": "datalinks",
+      "ko": "데이터링크",
+      "orig": "Datalinks",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 본문의 '데이터링크(정보창)' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "세력들의 정보망이자 기록 보관소",
+      "note": "기술·시설·세력에 대한 설명이 모두 이 안에 담긴 형식이라 게임의 백과사전 노릇을 한다. 정보가 오가는 길이라서 해커와 공작원이 숨어드는 통로도 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt"
+      ]
+    },
+    {
+      "id": "social_engineering",
+      "ko": "사회 체제",
+      "orig": "Social Engineering",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 (문서 이름) 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "네 갈래에서 골라 사회의 꼴을 정하는 제도",
+      "note": "정치·경제·가치·미래 사회에서 하나씩 고른다. 고른 것에 따라 성장·연구·치안·행성과의 조화 같은 수치가 오르내리고, 세력마다 내건 체제와 끝내 받아들이지 않는 체제가 있어 남의 선택에 반감을 품는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "police_state",
+      "ko": "경찰국가",
+      "orig": "Police State",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "군대와 경찰로 시민을 누르는 정치 체제",
+      "note": "치안과 군대 유지가 좋아지는 대신 효율이 떨어진다. 인간 군집이 내건 체제이고, 평화유지군은 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "democratic",
+      "ko": "민주주의",
+      "orig": "Democratic",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "시민이 자유롭게 다스리는 정치 체제",
+      "note": "효율과 인구 성장이 좋아지는 대신 군대를 유지하기 어렵다. 평화유지군과 정보 천사가 내건 체제이고, 인간 군집은 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "fundamentalist",
+      "ko": "근본주의",
+      "orig": "Fundamentalist",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "신앙으로 사회를 묶는 정치 체제",
+      "note": "병사의 사기가 오르고 남의 공작에 강해지는 대신 연구가 떨어진다. 주님의 신봉자가 내건 체제이고, 행성 대학과 의식화된 가상 두뇌는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "free_market",
+      "ko": "자유시장",
+      "orig": "Free Market",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "시장에 맡겨 부를 키우는 경제 체제",
+      "note": "경제가 크게 살아나는 대신 환경을 해쳐 행성과 멀어지고, 빈부가 벌어져 치안이 크게 나빠진다. 모건 산업이 내건 체제이고, 가이아의 후예들은 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "planned",
+      "ko": "계획경제",
+      "orig": "Planned",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "나라가 계획하고 다잡는 경제 체제",
+      "note": "산업과 인구가 꾸준히 자라는 대신 효율이 떨어진다. 두 선지자 세력이 내건 체제이고, 모건 산업은 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "green",
+      "ko": "녹색경제",
+      "orig": "Green",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '녹색환경주의'로도 씀",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "생태계와 어울리기를 앞세운 경제 체제",
+      "note": "자원을 아껴 쓰고 토착 생명을 덜 자극해 행성과 가까워지고 효율이 오르지만, 땅이 모자라 인구 성장은 더디다. 가이아의 후예들과 행성 종교가 내건 체제이고, 자유 드론은 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "power",
+      "ko": "힘",
+      "orig": "Power",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '권력 가치'로도 씀",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "군사력으로 뜻을 이루려는 가치",
+      "note": "튼튼한 군대를 두어 사기와 부대 유지가 좋아지는 대신 산업이 뒤처진다. 스파르타 연방과 노틸러스 해적단이 내건 가치이고, 정보 천사는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "ko": "지식",
+      "orig": "Knowledge",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "연구와 배움을 앞세우는 가치",
+      "note": "연구가 크게 늘고 정보가 자유롭게 오가 효율도 오르지만, 그만큼 남의 침투에 약해진다. 행성 대학이 내건 가치이고, 주님의 신봉자는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "wealth",
+      "ko": "부",
+      "orig": "Wealth",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '부 가치'로도 씀",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "경제와 산업을 빠르게 키우려는 가치",
+      "note": "산업과 경제가 함께 자라지만, 사치와 도덕의 해이가 따라 병사의 사기가 떨어진다. 스파르타 연방과 행성 종교는 받아들이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "cybernetic",
+      "ko": "사이버네틱",
+      "orig": "Cybernetic",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '인공두뇌', '가상화 사회'로도 씀",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "ai"
+      ],
+      "one": "다스리는 일을 인공지능에 맡긴 미래 사회",
+      "note": "효율과 연구가 오르고 행성과도 가까워지지만, 기계에 일자리를 잃은 사람들이 불만을 품어 치안이 나빠진다. 의식화된 가상 두뇌가 내건 체제다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "eudaimonic",
+      "ko": "진정한 행복",
+      "orig": "Eudaimonic",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "모두가 제 가능성을 꽃피우는 미래 사회",
+      "note": "그리스 말로 충만한 행복을 뜻하는 이름이다. 인구와 경제와 산업이 함께 자라고 사회가 너그러워져 폭력이 잦아드는 만큼 병사의 사기는 떨어진다. 자유 드론이 내건 체제다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "thought_control",
+      "ko": "사상통제",
+      "orig": "Thought Control",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "mind_control",
+        "control_society"
+      ],
+      "one": "공기에 약물을 퍼뜨려 시민을 길들이는 사회",
+      "note": "공기에 신경 화학 물질을 은밀히 퍼뜨려 사람들을 순종하게 하고 바깥 생각에 흔들리지 않게 한다. 치안과 사기와 공작 방어가 오르지만, 이 통제를 유지하는 데 큰 자원이 든다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "xenofungus",
+      "ko": "제노펑거스",
+      "orig": "Xenofungus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 2.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리」 본문에는 '외계 진균류', '진균류'로도 씀",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "행성을 두껍게 뒤덮은 토착 균류",
+      "note": "땅과 바다 모두에서 몇 미터 두께로 자라 길을 막고, 그 속에 마인드 웜이 산다. 기술이 쌓여야 자원을 뽑아 쓸 수 있고, 개발로 생태계가 상하면 순식간에 퍼져 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "mind_worms",
+      "ko": "마인드 웜",
+      "orig": "Mind Worms",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 2.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "공포의 환상으로 사람을 마비시키는 벌레 떼",
+      "note": "균류 속에 사는 작은 벌레들이 떼로 움직인다. 가까이 온 사람에게 끔찍한 공포를 일으켜 마비시키고 뇌에 애벌레를 심는다. 개척지를 덮치는 행성의 방어군 같은 존재이며, 사로잡아 부리는 세력도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "isle_of_the_deep",
+      "ko": "심해섬",
+      "orig": "Isle of the Deep",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 2.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "바다를 떠다니는 마인드 웜의 거대한 둥지",
+      "note": "바다의 마인드 웜 무리가 몸에서 낸 물질로 떠다니는 껍데기를 짓고 그 속에 깃든다. 배를 덮치기도 하고, 길들이면 큰 부대까지 실어 나른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "locusts_of_chiron",
+      "ko": "카이론의 메뚜기",
+      "orig": "Locusts of Chiron",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 2.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "날개 돋친, 가장 사나운 마인드 웜",
+      "note": "땅의 마인드 웜이 날개를 얻어 떼로 하늘을 나는 모습이다. 이들이 나타나는 것은 균류 신경망이 크게 괴로워한다는 표시로 여겨지며, 하늘의 적도 덮친다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "sealurk",
+      "ko": "바다 뱀",
+      "orig": "Sealurk",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 3.3 '바다 뱀(Sea Lurks)' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "바다에 숨어 기지와 배를 노리는 토착 생물",
+      "note": "확장에서 더해진 토착 생물. 심해섬보다 사나워 바다와 해안의 기지를 찾아가 공격하고, 균류 가까이 지나는 배를 숨어서 기다린다. 멈춰 있을 때는 거의 눈에 띄지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "spore_launcher",
+      "ko": "포자 발사체",
+      "orig": "Spore Launcher",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 3.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "썩이는 포자를 쏘아 시설을 부수는 토착 생물",
+      "note": "확장에서 더해진 토착 생물. 정착지 언저리에 숨어 있다가 두 칸 떨어진 곳까지 부식성 포자를 쏘아, 사람과 선지자가 지은 시설과 부대를 상하게 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "fungal_tower",
+      "ko": "펑거스 타워",
+      "orig": "Fungal Tower",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 3.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "균류 무리의 신경 중추 노릇을 하는 탑",
+      "note": "확장에서 더해진 토착 생물. 마인드 웜과 균류와 낯선 생물이 뒤엉킨 거대한 덩어리로, 둘레 균류의 신경계 구실을 한다. 움직이지도 공격하지도 못하지만 둘레의 길을 막는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "psi_combat",
+      "ko": "정신 전투",
+      "orig": "Psi Combat",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론/토착 생물」 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/유닛」(비공식 패치 기준이라 밝힘)에는 무기 이름 '정신 공격(Psi attack)'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "무기 대신 정신으로 맞붙는 싸움",
+      "note": "마인드 웜 같은 토착 생물은 무기와 장갑이 아니라 정신으로 싸운다. 이때는 무기의 세기가 소용없고, 병사의 사기와 훈련이 승패를 가른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론/토착%20생물",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "progenitors",
+      "ko": "선지자",
+      "orig": "Progenitors",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.6의 '선지자(Progenitor) 종족' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "행성에 유물을 남긴, 앞선 외계 종족",
+      "note": "별 사이를 다니던 종족으로, 행성 곳곳의 외계 유물과 모노리스가 그들의 것이다. 다양체의 개화 사고 뒤로 긴 암흑기에 빠졌고, 지금은 수호자와 찬탈자로 갈라져 싸운다. 확장에서 두 갈래가 행성에 떨어져 사람과 마주친다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "manifolds",
+      "ko": "다양체",
+      "orig": "Manifolds",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론」 11 정체 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/비밀 프로젝트」에는 Manifold 를 '다원체'로 옮긴 곳도 있음",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "선지자 종족이 지은 여섯 행성 규모 실험장",
+      "note": "아득한 옛날 선지자들이 행성 전체를 하나의 거대한 지성으로 키워 보려고 지은 여섯 실험장이다. 개화 뒤의 혼란 속에 그 자리들을 잃어버렸는데, 사람들이 내린 카이론이 바로 여섯 번째 다양체다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/카이론",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt"
+      ]
+    },
+    {
+      "id": "flowering",
+      "ko": "행성 개화",
+      "orig": "The Flowering",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카이론」 11 정체 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리/당파」에는 '행성 개화(Planet Flowering)'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe",
+        "empire_fall"
+      ],
+      "one": "다양체 하나가 너무 일찍 깨어난 대재앙",
+      "note": "타우 세티 성계의 다양체가 때 이르게 의식을 얻어 상상도 못 할 힘을 은하로 내뿜은 일이다. 둘레의 여러 성계를 집어삼켰고, 선지자 문명은 이 일로 아직 다 회복하지 못한 암흑기에 빠졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/카이론",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt"
+      ]
+    },
+    {
+      "id": "resonance",
+      "ko": "공명",
+      "orig": "Resonance",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.6 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "전기장·자기장을 몸으로 느끼는 선지자의 감각",
+      "note": "선지자 종족은 사람이 느끼지 못하는 전기장과 자기장을 몸으로 느낀다. 그들의 말과 예술과 문화가 모두 이 감각 위에 서 있고 싸움에서도 큰 힘이 되며, 사람도 오랜 훈련과 장비의 도움으로 어느 정도 익힐 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "battle_ogre",
+      "ko": "배틀 오우거",
+      "orig": "Battle Ogre",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.6의 '배틀 오우거 Mk. 1' 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "선지자 문명 초기가 남긴 거대 전투 기계",
+      "note": "행성에 드물게 남은 옛 선지자 시대의 기계 병기다. 앞선 무기와 장갑을 지녔고 생김새만으로 사람을 겁먹게 하지만, 짜임이 너무 복잡해 선지자조차 고치지 못해 입은 상처가 그대로 남는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "alien_artifacts",
+      "ko": "외계 유물",
+      "orig": "Alien Artifacts",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.2·2.6 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성에서 발견되는 정체 모를 외계 장치",
+      "note": "기지로 가져와 연구망 시설에 이으면 새 기술을 단번에 얻고, 큰 사업을 서두르는 데 쓸 수도 있다. 확장에서는 선지자 종족이 남긴 것으로 이야기된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "monoliths",
+      "ko": "모노리스",
+      "orig": "Monoliths",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/당파」 2.6 본문 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "부대를 고쳐 주는 수수께끼의 외계 구조물",
+      "note": "땅 위에 선 외계의 장치로, 곁에 간 부대의 상처를 다 고쳐 주고 사기를 한 단계 올려 준다. 그 자리에서 자원도 난다. 확장에서는 선지자 종족이 남긴 것으로 이야기된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "voice_of_planet",
+      "ko": "행성의 목소리",
+      "orig": "The Voice of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.32 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성의 정신과 사람을 잇는 비밀 프로젝트",
+      "note": "깨어나는 행성의 정신과 사람의 정보망을 맞잇는 사업이다. 이것이 완성되면 그때부터 어느 세력이든 초월성으로의 도약을 짓기 시작할 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt"
+      ]
+    },
+    {
+      "id": "ascent_to_transcendence",
+      "ko": "초월성으로의 도약",
+      "orig": "Ascent to Transcendence",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.33 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함. 「시드 마이어의 알파 센타우리」 본문의 승리 조건 절에는 '초월성으로의 진보'로 씀",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "ascension",
+        "merge"
+      ],
+      "one": "사람과 행성이 함께 깨어나는 마지막 승리",
+      "note": "행성의 균류는 1억 년쯤마다 의식을 얻지만, 그 탈바꿈이 다른 생명을 거의 다 죽여 다시 잠드는 고리를 되풀이해 왔다. 사람들이 자기 정신을 행성의 마음에 옮겨 넣어 함께 깨어남으로써 그 고리를 끊는 길이 이 도약이다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "transcendi",
+      "ko": "트랜센디",
+      "orig": "Transcendi",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "인격을 인공지능 망에 옮긴 사람들",
+      "note": "수명 연장의 한계에 이른 사람들이 몸을 벗으려고 자기 인격을 강력한 인공지능 망에 내려받는다. 게임 후반에는 기지 시민 가운데 가장 높은 전문가 계층으로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/tutor.txt"
+      ]
+    },
+    {
+      "id": "homo_superior",
+      "ko": "호모 슈피리어",
+      "orig": "Homo Superior",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "next_human",
+        "cyborg"
+      ],
+      "one": "생물과 컴퓨터를 반씩 섞은 다음 인류",
+      "note": "생명 기계 연구 끝에 열리는 기술로, 몸으로 느끼고 겪는 생물의 장점과 계산에 뛰어난 컴퓨터의 장점을 한 몸에 지닌 새로운 생명을 뜻한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ]
+    },
+    {
+      "id": "digital_sentience",
+      "ko": "지각성 인공지능",
+      "orig": "Digital Sentience",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/사회 체제」 3.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "스스로 배우며 자라는 인공지능의 기술",
+      "note": "일을 시키는 프로그램을 짜는 대신 스스로 배우는 프로그램을 길러 내는 단계의 기술이다. 다스리는 일을 인공지능에 맡기는 미래 사회, 사이버네틱을 연다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt"
+      ]
+    },
+    {
+      "id": "self_aware_colony",
+      "ko": "자아-인식 도시",
+      "orig": "The Self-Aware Colony",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.27 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "도시를 생각하는 기계에 맡기는 사업",
+      "note": "기지를 스스로 생각하는 관리 기계가 돌보게 하는 비밀 프로젝트다. 모든 기지의 시설 유지비가 절반으로 줄고, 치안을 맡는 몫이 하나씩 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "cloning_vats",
+      "ko": "인간 복제 시설",
+      "orig": "The Cloning Vats",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.19 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "clone"
+      ],
+      "one": "사람을 복제해 길러 내는 시설",
+      "note": "사람을 복제해 길러 내는 시설을 세우는 비밀 프로젝트다. 모든 기지가 한꺼번에 인구 폭증을 맞는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "cyborg_factory",
+      "ko": "사이보그 공장",
+      "orig": "The Cyborg Factory",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.17 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "병사의 몸을 기계로 고치는 시설",
+      "note": "병사의 몸을 기계로 강화하는 시설을 모든 기지에 들이는 비밀 프로젝트다. 새로 만드는 부대가 처음부터 높은 사기로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "longevity_vaccine",
+      "ko": "장수 백신",
+      "orig": "The Longevity Vaccine",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.15 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "늙음을 늦추는 백신",
+      "note": "늙음을 늦추는 백신을 퍼뜨리는 비밀 프로젝트다. 고른 경제 체제에 따라 불만 품은 시민이 줄거나 이윤이 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "clinical_immortality",
+      "ko": "의학적 불멸",
+      "orig": "Clinical Immortality",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.29 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "늙어 죽지 않게 하는 의학",
+      "note": "늙어 죽지 않게 하는 의학을 이루는 비밀 프로젝트다. 기지마다 뛰어난 시민이 하나씩 늘고, 행성 위원회 선거에서 표가 두 배가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "virtual_world",
+      "ko": "가상 세계",
+      "orig": "The Virtual World",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.5 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "simulation"
+      ],
+      "one": "가상 현실로 시민을 달래는 사업",
+      "note": "연구망 시설이 가상 현실 극장 구실까지 하게 하는 비밀 프로젝트다. 기지마다 불만 품은 시민이 줄고 시민의 마음을 돌보는 힘이 커진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "space_elevator",
+      "ko": "우주 엘리베이터",
+      "orig": "The Space Elevator",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.25 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "space_elevator"
+      ],
+      "one": "땅에서 궤도까지 잇는 승강기",
+      "note": "땅에서 궤도까지 승강기를 세우는 비밀 프로젝트다. 궤도 시설을 싸게 올리고 에너지가 크게 늘며, 강하 포드로 행성 어디에나 부대를 내릴 수 있게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛"
+      ]
+    },
+    {
+      "id": "nano_factory",
+      "ko": "나노 공장",
+      "orig": "The Nano Factory",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.24 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "nanotech"
+      ],
+      "one": "작은 기계 떼로 무엇이든 짓는 공장",
+      "note": "작은 기계 떼가 재료로 무엇이든 조립하는 나노 산업을 여는 비밀 프로젝트다. 부대를 고치고 개량하는 값이 크게 싸진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "universal_translator",
+      "ko": "만국어 통역기",
+      "orig": "The Universal Translator",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.21 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "translator"
+      ],
+      "one": "어떤 말이든 옮겨 주는 통역 장치",
+      "note": "어떤 말이든 옮겨 주는 통역 장치를 완성하는 비밀 프로젝트다. 게임에서는 완성하는 즉시 기술 둘을 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "bulk_matter_transmitter",
+      "ko": "대규모 물질 전송기",
+      "orig": "The Bulk Matter Transmitter",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.30 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "물질을 대량으로 보내는 전송 장치",
+      "note": "물질을 한 곳에서 다른 곳으로 대량으로 보내는 전송 장치를 세우는 비밀 프로젝트다. 모든 기지의 광물 생산이 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "telepathic_matrix",
+      "ko": "텔레파시 매트릭스",
+      "orig": "The Telepathic Matrix",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.28 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "사람들의 마음을 텔레파시로 엮는 사업",
+      "note": "사람들의 마음을 텔레파시로 그물처럼 엮는 비밀 프로젝트다. 어느 기지에서도 폭동이 일지 않고, 공작원들의 사기가 오른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "empath_guild",
+      "ko": "공감 능력자 길드",
+      "orig": "The Empath Guild",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.6 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "남의 마음을 읽는 공감 능력자들의 조직",
+      "note": "남의 마음을 읽는 공감 능력자들을 모은 조직을 세우는 비밀 프로젝트다. 모든 세력의 지도자와 연락이 닿고, 세력마다 첩자를 심으며, 선거에서 표가 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "weather_paradigm",
+      "ko": "기상 예측 체계",
+      "orig": "The Weather Paradigm",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "행성 날씨의 흐름을 읽어 땅 고치기를 돕는 사업",
+      "note": "행성 날씨의 흐름을 읽는 체계를 세우는 비밀 프로젝트다. 개척기의 땅 고치기가 한결 빨라진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "psi_gate",
+      "ko": "사이 게이트",
+      "orig": "Psi Gate",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "기지와 기지 사이로 부대를 순간 이동시키는 문",
+      "note": "이 시설을 지은 기지끼리 부대를 순간 이동시킨다. 물질 전송 기술로 열린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "tachyon_field",
+      "ko": "타키온 필드",
+      "orig": "Tachyon Field",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함). 「시드 마이어의 알파 센타우리/유닛」의 무기 '타키온 볼트'와 같은 앞말",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "기지 전체를 감싸는 빛나는 방어막",
+      "note": "기지를 통째로 빛나는 장막으로 감싸, 어떤 공격에 대해서도 방어를 두 배로 높이는 기지 시설이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛"
+      ]
+    },
+    {
+      "id": "genejack_factory",
+      "ko": "진잭 팩토리",
+      "orig": "Genejack Factory",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "노동에 맞게 설계한 일꾼을 만드는 공장",
+      "note": "노동에 맞게 유전자를 설계하고 뇌의 일부를 퇴화시켜 일밖에 바라지 않게 만든 일꾼 '진잭'을 만드는 기지 시설이다. 생산은 크게 늘지만 시민의 불만도 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "planet_buster",
+      "ko": "행성 파괴 무기",
+      "orig": "Planet Buster",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/유닛」 2.2 — 이 문서는 한국어 이름이 비공식 한국어 패치 기준이라고 밝힘(2차 자료). 정식 한국어판이 없어 우리 표기이며, 패치 원문은 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "핵무기에 버금가는 금지된 미사일 탄두",
+      "note": "넓은 땅을 지형째 쓸어 버리고 큰 구덩이를 남긴다. 쓰면 가장 무거운 잔악행위가 되어 행성 위원회에서 쫓겨나고 모든 세력이 등을 돌린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt"
+      ]
+    },
+    {
+      "id": "cloaking_device",
+      "ko": "은폐 장치",
+      "orig": "Cloaking Device",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/유닛」 2.5 — 이 문서는 한국어 이름이 비공식 한국어 패치 기준이라고 밝힘(2차 자료). 정식 한국어판이 없어 우리 표기이며, 패치 원문은 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "부대를 적의 탐지에서 감추는 장비",
+      "note": "적이 같은 자리로 들어오려 하지 않는 한 부대가 들키지 않는다. 적 부대 바로 곁도 막힘 없이 지나갈 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "drop_pods",
+      "ko": "강하 포드",
+      "orig": "Drop Pods",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/유닛」 2.5 — 이 문서는 한국어 이름이 비공식 한국어 패치 기준이라고 밝힘(2차 자료). 정식 한국어판이 없어 우리 표기이며, 패치 원문은 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "orbital_drop"
+      ],
+      "one": "부대를 하늘이나 궤도에서 떨어뜨려 내리는 장비",
+      "note": "처음에는 아군 기지나 공군 기지에서 여덟 칸 안에만 떨어뜨릴 수 있지만, 궤도 강하 기술을 갖추면 행성 어디로나 부대를 내려보낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "gravship",
+      "ko": "중력선",
+      "orig": "Gravship",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/유닛」 2.1 — 이 문서는 한국어 이름이 비공식 한국어 패치 기준이라고 밝힘(2차 자료). 정식 한국어판이 없어 우리 표기이며, 패치 원문은 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "중력을 거슬러 떠다니는 먼 미래의 비행체",
+      "note": "비행기의 이점을 모두 지니면서도 연료를 채우러 기지로 돌아갈 필요가 없어, 땅과 바다 위를 거침없이 떠다닌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/유닛",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ]
+    },
+    {
+      "id": "human_genome_project",
+      "ko": "인간 게놈 프로젝트",
+      "orig": "The Human Genome Project",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사람의 유전체를 모두 밝히는 비밀 프로젝트",
+      "note": "사람의 유전 부호 전체를 지도로 그리는 비밀 프로젝트로, 유전공학을 얻으면 지을 수 있다. 완성한 세력의 모든 기지에 뛰어난 시민이 하나씩 더 생긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "command_nexus",
+      "ko": "육군 사령부",
+      "orig": "The Command Nexus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모든 기지의 군 지휘를 하나로 묶는 비밀 프로젝트",
+      "note": "모든 기지에 육군 지휘소를 둔 것과 같은 효과를 내는 비밀 프로젝트로, 군사 교리: 충성심을 얻으면 지을 수 있다. 완성 영상에는 스파르타 전투 교범이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "merchant_exchange",
+      "ko": "상업 거래소",
+      "orig": "The Merchant Exchange",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "한 기지를 교역의 중심으로 만드는 비밀 프로젝트",
+      "note": "지은 기지의 모든 칸에서 에너지가 하나씩 더 나게 하는 비밀 프로젝트로, 산업 기반을 얻으면 지을 수 있다. 완성 영상에는 모건의 경제관이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "citizens_defense_force",
+      "ko": "민방위 체제",
+      "orig": "The Citizens' Defense Force",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.7 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모든 기지에 방어선을 두르는 시민 방위 사업",
+      "note": "모든 기지에 변경 방어 시설을 둔 것과 같은 효과를 내는 비밀 프로젝트다. 완성 영상에는 마인드 웜 떼 앞에서 방어병들이 공포에 무너지는 장면을 그린 디드리 스카이의 글이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "planetary_transit_system",
+      "ko": "행성 규모 이주 체계",
+      "orig": "The Planetary Transit System",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.8 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성 전체에 사람이 자유로이 오가게 하는 사업",
+      "note": "행성 곳곳을 잇는 이동 체계를 세우는 비밀 프로젝트로, 산업 자동화를 얻으면 지을 수 있다. 새로 세우는 기지가 처음부터 인구 3으로 시작하고 작은 기지의 불만이 줄어든다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "maritime_control_center",
+      "ko": "해양 사령부",
+      "orig": "Maritime Control Center",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.9 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성의 바다를 다스리는 해군 지휘 사업",
+      "note": "모든 기지에 해군 관제소를 둔 것과 같고 배의 이동력을 둘 늘리는 비밀 프로젝트다. 완성 영상에서 산티아고는 바다를 쥐는 자가 이 물의 행성을 쥔다고 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "planetary_datalinks",
+      "ko": "행성 규모 정보망",
+      "orig": "The Planetary Datalinks",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.10 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "세력들이 아는 기술을 저절로 거두는 정보망",
+      "note": "다른 세 세력이 아는 기술을 저절로 얻게 하는 비밀 프로젝트로, 가상 윤리체계를 얻으면 지을 수 있다. 완성 영상에는 정보의 자유가 폭정을 막는다는 프라빈 랄의 글이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "neural_amplifier",
+      "ko": "신경 신호 증폭기",
+      "orig": "The Neural Amplifier",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.11 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "정신 공격을 막는 힘을 키우는 비밀 프로젝트",
+      "note": "부대의 정신 전투 방어력을 절반 더 늘리는 비밀 프로젝트로, 신경계 이식술을 얻으면 지을 수 있다. 마인드 웜처럼 정신으로 공격하는 토착 생물에 맞서기 위한 것이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "xenoempathy_dome",
+      "ko": "외계 생물 친화의 장",
+      "orig": "The Xenoempathy Dome",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.12 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "균류 지대와 어울려 지내게 하는 비밀 프로젝트",
+      "note": "모든 균류 칸을 길처럼 다닐 수 있게 하고 균류를 심거나 걷어 내는 일을 빠르게 하는 비밀 프로젝트로, 센타우리 명상을 얻으면 지을 수 있다. 완성 영상에는 행성에 지성이 있느냐고 묻는 디드리 스카이의 말이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "supercollider",
+      "ko": "초대형 입자 가속기",
+      "orig": "The Supercollider",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.13 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "한 기지의 연구를 두 배로 늘리는 가속기",
+      "note": "거대한 입자 가속기를 세워 지은 기지의 연구 성과를 두 배로 늘리는 비밀 프로젝트로, 응용 상대성 이론을 얻으면 지을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "ascetic_virtues",
+      "ko": "절제의 미덕",
+      "orig": "The Ascetic Virtues",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.14 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "금욕과 집단을 앞세우는 생활 규율 사업",
+      "note": "몸의 욕망을 누르고 집단에 녹아들라는 가르침을 사회에 퍼뜨리는 비밀 프로젝트다. 기지 인구 상한이 둘 늘고, 경찰과 군대를 쓰는 데 대한 사회의 너그러움이 커진다. 완성 영상에는 양성지의 글이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "hunter_seeker_algorithm",
+      "ko": "수색-사냥 알고리즘",
+      "orig": "The Hunter-Seeker Algorithm",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.16 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모든 침투 공작원을 찾아 없애는 방어 프로그램",
+      "note": "완성한 세력의 기지와 부대를 프로브 팀의 침투에서 지켜 주는 비밀 프로젝트로, 준-지각성 알고리즘을 얻으면 지을 수 있다. 확장에서는 알고리즘 강화 능력을 갖춘 팀만이 드물게 뚫는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "pholus_mutagen",
+      "ko": "폴러스 변이인자",
+      "orig": "The Pholus Mutagen",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.18 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사람과 행성 생태를 가깝게 하는 변이 물질",
+      "note": "산업이 행성 생태에 주는 해를 줄이고, 균류 속에서 사람의 부대도 토착 생물처럼 싸울 수 있게 하는 비밀 프로젝트다. 센타우리 유전학을 얻으면 지을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "theory_of_everything",
+      "ko": "대통합 이론",
+      "orig": "The Theory of Everything",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.20 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "모든 것을 설명하는 이론을 완성하는 사업",
+      "note": "지은 기지의 연구 성과를 두 배로 늘리는 비밀 프로젝트로, 통일장 이론을 얻으면 지을 수 있다. 완성 영상에는 지구를 마음의 요람에 빗댄 치올콥스키의 말이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "living_refinery",
+      "ko": "자생형 정제소",
+      "orig": "The Living Refinery",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.22 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "궤도에 세운 살아 있는 정제 시설",
+      "note": "군대를 유지하는 데 드는 광물을 줄여 주는 비밀 프로젝트로, 고급 우주비행을 얻으면 지을 수 있다. 완성 영상에서 모건은 행성 산업이 낮은 중력의 궤도와 위성으로 옮겨 가리라 전망한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "dream_twister",
+      "ko": "악몽 생성기",
+      "orig": "The Dream Twister",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.23 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "적의 마음에 악몽을 쏘아 넣는 정신 무기",
+      "note": "부대의 정신 전투 공격력을 절반 더 늘리는 비밀 프로젝트로, 힘을 향한 의지를 얻으면 지을 수 있다. 완성 영상은 공격당하는 쪽이 보는 고문과 죽음의 악몽을 그대로 보여 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "network_backbone",
+      "ko": "최상층 정보망",
+      "orig": "The Network Backbone",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.26 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성의 모든 네트워크 노드를 잇는 중추망",
+      "note": "교역량과 행성의 모든 네트워크 노드 수만큼 지은 기지의 연구를 늘리고 사이버네틱 사회의 나쁜 효과를 없애는 비밀 프로젝트다. 지각성 인공지능을 얻으면 지을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "singularity_inductor",
+      "ko": "특이점 유도시설",
+      "orig": "The Singularity Inductor",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.1.31 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "블랙홀의 힘을 공장에 끌어오는 시설",
+      "note": "모든 기지에 양자 변환기를 둔 것과 같고, 광물 생산이 생태에 주는 해를 줄이는 비밀 프로젝트다. 특이점 통제 기술을 얻으면 지을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "planetary_energy_grid",
+      "ko": "행성 규모 에너지 전송망",
+      "orig": "Planetary Energy Grid",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.2.1 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "행성 전체의 에너지 흐름을 잇는 전송망",
+      "note": "확장에서 더해진 비밀 프로젝트로, 모든 기지에 에너지 은행을 둔 것과 같고 에너지를 쌓는 효율을 높인다. 완성 영상에서 행성 종교의 차 던은 선지자에게서 우주의 힘을 끌어 쓰는 법을 배웠다고 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "cloudbase_academy",
+      "ko": "공중 사관학교",
+      "orig": "Cloudbase Academy",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.2.2 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "하늘의 군대를 길러 내는 사관학교",
+      "note": "확장에서 더해진 비밀 프로젝트로, 모든 기지에 공군 관제 시설을 둔 것과 같은 효과를 낸다. 정신/신체 접속 기술을 얻으면 지을 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "nethack_terminus",
+      "ko": "해킹의 극의",
+      "orig": "Nethack Terminus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.2.3 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "공작원의 해킹 능력을 끌어올리는 사업",
+      "note": "확장에서 더해진 비밀 프로젝트로, 프로브 팀의 사기를 높이고 공작 비용을 줄이며 강한 동력로를 단 팀에 알고리즘 강화 능력을 준다. 완성 영상에는 정보 천사 신더 로즈의 글이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "manifold_harmonics",
+      "ko": "다원체 화합 유도기",
+      "orig": "Manifold Harmonics",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리/비밀 프로젝트」 2.2.4 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "다양체의 조화로운 장에서 힘을 얻는 사업",
+      "note": "확장에서 더해진 비밀 프로젝트로, 행성과 가까울수록 균류와 모노리스 칸에서 거두는 자원을 늘린다. 다양체의 비밀을 얻으면 지을 수 있다. 완성 영상에는 수호자 루라르 흠미니의 글이 읽힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ]
+    },
+    {
+      "id": "resonance_communicator",
+      "ko": "레조넌스 커뮤니케이터",
+      "orig": "Resonance Communicator",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "선지자가 고향 세계로 신호를 보내는 거대 송신기",
+      "note": "확장에서 선지자 세력이 이기는 길이다. 인구 열 이상인 기지 여섯에 아공간 발생기를 하나씩 지으면 완성되어, 행성의 자리를 고향 세계에 알리고 지원 함대를 부른다. 완성되면 행성에서 사람이 사는 시대가 끝난다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/conceptsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "borehole_cluster",
+      "ko": "보어홀 클러스터",
+      "orig": "Borehole Cluster",
+      "ko_status": "우리 표기",
+      "ko_src": "원어를 소리 나는 대로 적음(정식 한국어판 없음, 한국어 표기를 찾지 못함)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "마그마까지 뚫린 외계의 옛 시추공 무리",
+      "note": "확장에서 더해진 지형 명소다. 지각을 뚫고 마그마까지 내려간 갱도들로 광물과 열을 곧장 얻을 수 있는데, 모노리스와 비슷한 때에 지어졌고 행성에 없는 원소의 금속으로 둘러싸여 있어 외계 종족이 별에서 왔다는 증거가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alphax.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/readme.txt"
+      ]
+    },
+    {
+      "id": "punishment_sphere",
+      "ko": "처벌 구체",
+      "orig": "Punishment Sphere",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시드 마이어의 알파 센타우리」 본문 각주와 「/비밀 프로젝트」 본문의 표기 · 정식 한국어판이 없어 우리 표기이며, 팬 번역 패치 원문과는 대조하지 못함",
+      "alt_ko": [
+        {
+          "ko": "처벌 구역",
+          "src": "나무위키 「시드 마이어의 알파 센타우리/당파」·「/비밀 프로젝트」 본문"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "안의 고통을 보여 주어 시민을 길들이는 시설",
+      "note": "기지의 불만 품은 시민과 뛰어난 시민을 모두 없애 평범하게 만드는 대신 연구를 반으로 줄이는 시설이다. 겉이 반쯤 비쳐 안의 고통이 보이게 지었고, 정복으로 사로잡은 지도자들도 이 안에 가둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    }
+  ]
+}

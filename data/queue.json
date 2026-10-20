@@ -1,0 +1,10729 @@
+{
+ "left": 578,
+ "done": 23,
+ "queue": [
+  {
+   "id": "knight_run",
+   "ko": "나이트런",
+   "orig": "나이트런",
+   "year": 2009,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.4
+  },
+  {
+   "id": "instrumentality",
+   "ko": null,
+   "orig": "Instrumentality of Mankind",
+   "year": 1950,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "noon_universe",
+   "ko": null,
+   "orig": "Мир Полудня",
+   "year": 1962,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "alliance_union",
+   "ko": "유니언-동맹",
+   "orig": "Alliance–Union",
+   "year": 1976,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "uplift",
+   "ko": "스타타이드 라이징",
+   "orig": "Uplift Universe",
+   "year": 1980,
+   "media": [
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "honorverse",
+   "ko": "아너 해링턴 시리즈",
+   "orig": "Honor Harrington (Honorverse)",
+   "year": 1993,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "x_universe",
+   "ko": null,
+   "orig": "X (X Universe)",
+   "year": 1999,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "endless",
+   "ko": "엔들리스",
+   "orig": "ENDLESS",
+   "year": 2012,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.2
+  },
+  {
+   "id": "last_and_first_men",
+   "ko": null,
+   "orig": "Last and First Men",
+   "year": 1930,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "technic_history",
+   "ko": null,
+   "orig": "Technic History",
+   "year": 1951,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "childe_cycle",
+   "ko": null,
+   "orig": "Childe Cycle",
+   "year": 1959,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "perry_rhodan",
+   "ko": null,
+   "orig": "Perry Rhodan",
+   "year": 1961,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "berserker",
+   "ko": null,
+   "orig": "Berserker",
+   "year": 1963,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "traveller",
+   "ko": null,
+   "orig": "Traveller",
+   "year": 1977,
+   "media": [
+    "게임",
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "koku_uchugun_shi",
+   "ko": null,
+   "orig": "航空宇宙軍史",
+   "year": 1979,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "helliconia",
+   "ko": null,
+   "orig": "Helliconia",
+   "year": 1982,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "star_control",
+   "ko": null,
+   "orig": "Star Control",
+   "year": 1990,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "xeelee",
+   "ko": null,
+   "orig": "Xeelee Sequence",
+   "year": 1991,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "foreigner_cherryh",
+   "ko": null,
+   "orig": "Foreigner",
+   "year": 1994,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "worldwar_turtledove",
+   "ko": null,
+   "orig": "Worldwar",
+   "year": 1994,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "fading_suns",
+   "ko": null,
+   "orig": "Fading Suns",
+   "year": 1996,
+   "media": [
+    "게임",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "nights_dawn",
+   "ko": null,
+   "orig": "The Night's Dawn Trilogy",
+   "year": 1996,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "revelation_space",
+   "ko": null,
+   "orig": "Revelation Space",
+   "year": 2000,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "schlock_mercenary",
+   "ko": null,
+   "orig": "Schlock Mercenary",
+   "year": 2000,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "polity_asher",
+   "ko": null,
+   "orig": "Polity",
+   "year": 2001,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "commonwealth_hamilton",
+   "ko": null,
+   "orig": "Commonwealth Universe",
+   "year": 2004,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "eclipse_phase",
+   "ko": null,
+   "orig": "Eclipse Phase",
+   "year": 2009,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "tenmei_no_shirube",
+   "ko": null,
+   "orig": "天冥の標",
+   "year": 2009,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "quantum_thief",
+   "ko": null,
+   "orig": "Jean le Flambeur (The Quantum Thief)",
+   "year": 2010,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 6.0
+  },
+  {
+   "id": "star_maker",
+   "ko": "스타메이커",
+   "orig": "Star Maker",
+   "year": 1937,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "hainish_cycle",
+   "ko": null,
+   "orig": "Hainish Cycle",
+   "year": 1964,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "votoms",
+   "ko": "장갑기병 보톰즈",
+   "orig": "装甲騎兵ボトムズ",
+   "year": 1983,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "five_star_stories",
+   "ko": "파이브 스타 스토리",
+   "orig": "ファイブスター物語",
+   "year": 1986,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "tenchi_muyo",
+   "ko": "천지무용!",
+   "orig": "天地無用!",
+   "year": 1992,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "crest_of_the_stars",
+   "ko": "성계의 문장",
+   "orig": "星界の紋章",
+   "year": 1996,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "eve_online",
+   "ko": "이브 온라인",
+   "orig": "EVE Online",
+   "year": 2003,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "denma",
+   "ko": "덴마",
+   "orig": "덴마",
+   "year": 2010,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "saga_vaughan",
+   "ko": "사가",
+   "orig": "Saga",
+   "year": 2012,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "warframe",
+   "ko": "워프레임",
+   "orig": "Warframe",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "xenoblade_chronicles_x",
+   "ko": "제노블레이드 크로니클스 크로스",
+   "orig": "ゼノブレイドクロス",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "punishing_gray_raven",
+   "ko": "퍼니싱: 그레이 레이븐",
+   "orig": "战双帕弥什",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.9
+  },
+  {
+   "id": "known_space",
+   "ko": null,
+   "orig": "Known Space",
+   "year": 1964,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "valerian",
+   "ko": "발레리안",
+   "orig": "Valérian et Laureline",
+   "year": 1967,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "incal",
+   "ko": "잉칼",
+   "orig": "L'Incal",
+   "year": 1980,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "zoids",
+   "ko": "조이드",
+   "orig": "ZOIDS",
+   "year": 1983,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "robotech",
+   "ko": "로보텍",
+   "orig": "Robotech",
+   "year": 1985,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션",
+    "탁상 게임"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "vorkosigan",
+   "ko": "마일즈 보르코시건 시리즈",
+   "orig": "Vorkosigan Saga",
+   "year": 1986,
+   "media": [
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "culture",
+   "ko": "컬처 시리즈",
+   "orig": "Culture",
+   "year": 1987,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "hyperion_cantos",
+   "ko": "히페리온",
+   "orig": "Hyperion Cantos",
+   "year": 1989,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "mars_trilogy",
+   "ko": "붉은 화성",
+   "orig": "Mars trilogy",
+   "year": 1992,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "zones_of_thought",
+   "ko": "심연 위의 불길",
+   "orig": "Zones of Thought",
+   "year": 1992,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "marathon",
+   "ko": "마라톤",
+   "orig": "Marathon",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "star_ocean",
+   "ko": null,
+   "orig": "スターオーシャン",
+   "year": 1996,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "homeworld",
+   "ko": null,
+   "orig": "Homeworld",
+   "year": 1999,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "killzone",
+   "ko": "킬존",
+   "orig": "Killzone",
+   "year": 2004,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "red_rising",
+   "ko": "레드 라이징",
+   "orig": "Red Rising",
+   "year": 2014,
+   "media": [
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.7
+  },
+  {
+   "id": "battletech",
+   "ko": null,
+   "orig": "BattleTech",
+   "year": 1984,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "elite",
+   "ko": null,
+   "orig": "Elite",
+   "year": 1984,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "babylon_5",
+   "ko": null,
+   "orig": "Babylon 5",
+   "year": 1993,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "애니메이션",
+    "탁상 게임"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "xenogears",
+   "ko": null,
+   "orig": "ゼノギアス",
+   "year": 1998,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "farscape",
+   "ko": null,
+   "orig": "Farscape",
+   "year": 1999,
+   "media": [
+    "게임",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "xenosaga",
+   "ko": null,
+   "orig": "ゼノサーガ",
+   "year": 2002,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "phantasy_star_online_2",
+   "ko": null,
+   "orig": "ファンタシースターオンライン2",
+   "year": 2012,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "star_citizen",
+   "ko": null,
+   "orig": "Star Citizen",
+   "year": 2012,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 5.5
+  },
+  {
+   "id": "ijon_tichy",
+   "ko": "이욘 티히의 우주 일지",
+   "orig": "Dzienniki gwiazdowe",
+   "year": 1957,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "gaiking",
+   "ko": "가이킹",
+   "orig": "大空魔竜ガイキング",
+   "year": 1976,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "danguard",
+   "ko": null,
+   "orig": "惑星ロボ ダンガードA",
+   "year": 1977,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "starzinger",
+   "ko": "스타징가",
+   "orig": "SF西遊記スタージンガー",
+   "year": 1978,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "daltanious",
+   "ko": "미래로봇 달타니어스",
+   "orig": "未来ロボ ダルタニアス",
+   "year": 1979,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "baldios",
+   "ko": "우주전사 발디오스",
+   "orig": "宇宙戦士バルディオス",
+   "year": 1980,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "god_sigma",
+   "ko": "우주대제 갓시그마",
+   "orig": "宇宙大帝ゴッドシグマ",
+   "year": 1980,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "god_mars",
+   "ko": null,
+   "orig": "六神合体ゴッドマーズ",
+   "year": 1981,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "ulysse_31",
+   "ko": "우주선장 율리시스",
+   "orig": "Ulysse 31",
+   "year": 1981,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "mospeada",
+   "ko": null,
+   "orig": "機甲創世記モスピーダ",
+   "year": 1983,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "bismarck",
+   "ko": null,
+   "orig": "星銃士ビスマルク",
+   "year": 1984,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "nights_2001",
+   "ko": "2001 야화",
+   "orig": "2001夜物語",
+   "year": 1984,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "schismatrix",
+   "ko": "스키즈매트릭스",
+   "orig": "Shaper/Mechanist (Schismatrix)",
+   "year": 1985,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "dragonar",
+   "ko": "기갑전기 드라고나",
+   "orig": "機甲戦記ドラグナー",
+   "year": 1987,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "venus_wars",
+   "ko": "비너스 전기",
+   "orig": "ヴイナス戦記",
+   "year": 1987,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "amageddon",
+   "ko": "아마게돈",
+   "orig": "아마게돈",
+   "year": 1988,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "jyu_oh_sei",
+   "ko": "수왕성",
+   "orig": "獣王星",
+   "year": 1993,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "yat",
+   "ko": null,
+   "orig": "YAT安心!宇宙旅行",
+   "year": 1996,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "atrox",
+   "ko": "아트록스",
+   "orig": "아트록스",
+   "year": 2000,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "hakubutsukan_wakusei",
+   "ko": "박물관 행성",
+   "orig": "永遠の森 博物館惑星",
+   "year": 2000,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "kiddy_grade",
+   "ko": "키디 그레이드",
+   "orig": "キディ・グレイド",
+   "year": 2002,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "nova_1492",
+   "ko": "노바 1492",
+   "orig": "노바 1492",
+   "year": 2002,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "ilium",
+   "ko": "일리움",
+   "orig": "Ilium / Olympos",
+   "year": 2003,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "stellvia",
+   "ko": "우주의 스텔비아",
+   "orig": "宇宙のステルヴィア",
+   "year": 2003,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "rf_online",
+   "ko": "RF 온라인",
+   "orig": "RF 온라인",
+   "year": 2004,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "heroic_age",
+   "ko": "히로익 에이지",
+   "orig": "ヒロイック・エイジ",
+   "year": 2007,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "bodacious_space_pirates",
+   "ko": "맹렬 우주해적",
+   "orig": "モーレツ宇宙海賊",
+   "year": 2008,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "sora_kakeru",
+   "ko": "우주를 달리는 소녀",
+   "orig": "宇宙をかける少女",
+   "year": 2009,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "majestic_prince",
+   "ko": "은하기공대 마제스틱 프린스",
+   "orig": "銀河機攻隊マジェスティックプリンス",
+   "year": 2010,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "jezebel",
+   "ko": "제저벨",
+   "orig": "제저벨",
+   "year": 2011,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "analogue_hate_story",
+   "ko": null,
+   "orig": "Analogue: A Hate Story",
+   "year": 2012,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "lagrange_rinne",
+   "ko": "윤회의 라그랑제",
+   "orig": "輪廻のラグランジェ",
+   "year": 2012,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "valvrave",
+   "ko": "혁명기 발브레이브",
+   "orig": "革命機ヴァルヴレイヴ",
+   "year": 2013,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "captain_earth",
+   "ko": "캡틴 어스",
+   "orig": "キャプテン・アース",
+   "year": 2014,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "cheotsum",
+   "ko": "첫숨",
+   "orig": "첫숨",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "onshu_seiiki",
+   "ko": "원수성역",
+   "orig": "怨讐星域",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "stella_odyssey",
+   "ko": "당신을 기다리고 있어",
+   "orig": "당신을 기다리고 있어",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "machineries_of_empire",
+   "ko": "나인폭스 갬빗 3부작",
+   "orig": "The Machineries of Empire",
+   "year": 2016,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "everspace",
+   "ko": null,
+   "orig": "EVERSPACE",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "interdependency",
+   "ko": "상호의존성단 시리즈",
+   "orig": "The Interdependency",
+   "year": 2017,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "yakitori",
+   "ko": "야키토리",
+   "orig": "ヤキトリ",
+   "year": 2017,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "final_space",
+   "ko": "파이널 스페이스",
+   "orig": "Final Space",
+   "year": 2018,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "age_of_wonders_planetfall",
+   "ko": "에이지 오브 원더: 플래닛폴",
+   "orig": "Age of Wonders: Planetfall",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "barotrauma",
+   "ko": null,
+   "orig": "Barotrauma",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "deliver_us",
+   "ko": null,
+   "orig": "Deliver Us The Moon",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "teixcalaan",
+   "ko": "테익스칼란 제국",
+   "orig": "Teixcalaan",
+   "year": 2019,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "twinstar",
+   "ko": "트윈스타 사이클론 런어웨이",
+   "orig": "ツインスター・サイクロン・ランナウェイ",
+   "year": 2019,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "chorus",
+   "ko": null,
+   "orig": "Chorus",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "infinite_lagrange",
+   "ko": "스타 헌터 - 인피니트 라그랑주",
+   "orig": "无尽的拉格朗日",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "snowball_earth",
+   "ko": "스노우볼 어스",
+   "orig": "スノウボールアース",
+   "year": 2021,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "ixion",
+   "ko": null,
+   "orig": "IXION",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "signalis",
+   "ko": null,
+   "orig": "Signalis",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "terra_invicta",
+   "ko": "테라 인빅타",
+   "orig": "Terra Invicta",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "the_alters",
+   "ko": null,
+   "orig": "The Alters",
+   "year": 2025,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "byeolbit_soge",
+   "ko": "별빛속에",
+   "orig": "별빛속에",
+   "year": 9999,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.4
+  },
+  {
+   "id": "silver_globe",
+   "ko": "은빛 지구",
+   "orig": "Trylogia księżycowa",
+   "year": 1903,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "skylark",
+   "ko": "우주선 스카이라크",
+   "orig": "The Skylark of Space",
+   "year": 1928,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "captain_future",
+   "ko": null,
+   "orig": "Captain Future",
+   "year": 1940,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "cities_in_flight",
+   "ko": null,
+   "orig": "Cities in Flight",
+   "year": 1950,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "andromeda_nebula",
+   "ko": "안드로메다 성운",
+   "orig": "Туманность Андромеды",
+   "year": 1957,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "consentiency",
+   "ko": null,
+   "orig": "ConSentiency",
+   "year": 1964,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "eight_worlds",
+   "ko": null,
+   "orig": "Eight Worlds",
+   "year": 1974,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "thousand_worlds_martin",
+   "ko": "나이트플라이어",
+   "orig": "Thousand Worlds",
+   "year": 1977,
+   "media": [
+    "드라마",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "janissaries",
+   "ko": "용병",
+   "orig": "Janissaries",
+   "year": 1979,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "j9_series",
+   "ko": "은하선풍 브라이거",
+   "orig": "銀河旋風ブライガー",
+   "year": 1981,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "xenogenesis",
+   "ko": "새벽",
+   "orig": "Xenogenesis (Lilith's Brood)",
+   "year": 1987,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "tylor",
+   "ko": "무책임 함장 테일러",
+   "orig": "宇宙一の無責任男",
+   "year": 1989,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "lost_universe",
+   "ko": "로스트 유니버스",
+   "orig": "ロスト・ユニバース",
+   "year": 1992,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "yamamoto_yoko",
+   "ko": "가자! 우주전함 야마모토 요코",
+   "orig": "宇宙戦艦ヤマモト・ヨーコ",
+   "year": 1993,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "armitage_iii",
+   "ko": "극장판 아미테이지 - 듀얼 매트릭스",
+   "orig": "アミテージ・ザ・サード",
+   "year": 1994,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "galactic_civilizations",
+   "ko": "갤럭틱 시빌라이제이션",
+   "orig": "Galactic Civilizations",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "starsiege_tribes",
+   "ko": null,
+   "orig": "Starsiege: Tribes",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "saber_marionette",
+   "ko": "세이버 마리오넷 J",
+   "orig": "セイバーマリオネット",
+   "year": 1995,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "the_sparrow",
+   "ko": "스패로",
+   "orig": "The Sparrow",
+   "year": 1996,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "earth_2140",
+   "ko": null,
+   "orig": "Earth 2140",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "galaxy_angel",
+   "ko": "갤럭시 엔젤",
+   "orig": "ギャラクシーエンジェル",
+   "year": 2001,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "supreme_commander",
+   "ko": null,
+   "orig": "Supreme Commander",
+   "year": 2007,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "android_ffg",
+   "ko": "안드로이드 넷러너",
+   "orig": "Android",
+   "year": 2008,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "sins_of_a_solar_empire",
+   "ko": "태양 제국의 죄악",
+   "orig": "Sins of a Solar Empire",
+   "year": 2008,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "descender",
+   "ko": "디센더",
+   "orig": "Descender",
+   "year": 2015,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "opus",
+   "ko": null,
+   "orig": "OPUS",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.2
+  },
+  {
+   "id": "null_a",
+   "ko": null,
+   "orig": "The World of Null-A",
+   "year": 1945,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "dan_dare",
+   "ko": null,
+   "orig": "Dan Dare",
+   "year": 1950,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "the_stainless_steel_rat",
+   "ko": null,
+   "orig": "The Stainless Steel Rat",
+   "year": 1957,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "bolo",
+   "ko": null,
+   "orig": "Bolo",
+   "year": 1960,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "hyakuoku_no_hiru_to_senoku_no_yoru",
+   "ko": null,
+   "orig": "百億の昼と千億の夜",
+   "year": 1965,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "mystery_of_the_third_planet",
+   "ko": null,
+   "orig": "Тайна третьей планеты",
+   "year": 1965,
+   "media": [
+    "드라마",
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "destination_void",
+   "ko": null,
+   "orig": "Destination: Void",
+   "year": 1966,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "lone_sloane",
+   "ko": null,
+   "orig": "Lone Sloane",
+   "year": 1966,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "yoko_tsuno",
+   "ko": null,
+   "orig": "Yoko Tsuno",
+   "year": 1970,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "the_gods_themselves",
+   "ko": null,
+   "orig": "The Gods Themselves",
+   "year": 1972,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "the_mote_in_gods_eye",
+   "ko": null,
+   "orig": "The Mote in God's Eye",
+   "year": 1974,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "heechee",
+   "ko": null,
+   "orig": "Gateway",
+   "year": 1976,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "crusher_joe",
+   "ko": null,
+   "orig": "クラッシャージョウ",
+   "year": 1977,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "storm_lawrence",
+   "ko": null,
+   "orig": "Storm",
+   "year": 1977,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "blakes_7",
+   "ko": null,
+   "orig": "Blake's 7",
+   "year": 1978,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "daitarn_3",
+   "ko": null,
+   "orig": "無敵鋼人ダイターン3",
+   "year": 1978,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "strontium_dog",
+   "ko": null,
+   "orig": "Strontium Dog",
+   "year": 1978,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "abc_warriors",
+   "ko": null,
+   "orig": "ABC Warriors",
+   "year": 1979,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "canopus_in_argos",
+   "ko": null,
+   "orig": "Canopus in Argos: Archives",
+   "year": 1979,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "gaea_trilogy",
+   "ko": null,
+   "orig": "Gaea Trilogy",
+   "year": 1979,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "nemesis_the_warlock",
+   "ko": null,
+   "orig": "Nemesis the Warlock",
+   "year": 1980,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "the_snow_queen_vinge",
+   "ko": null,
+   "orig": "The Snow Queen",
+   "year": 1980,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "rogue_trooper",
+   "ko": null,
+   "orig": "Rogue Trooper",
+   "year": 1981,
+   "media": [
+    "게임",
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "teki_wa_kaizoku",
+   "ko": null,
+   "orig": "敵は海賊",
+   "year": 1981,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "il_etait_une_fois_lespace",
+   "ko": null,
+   "orig": "Il était une fois... l'Espace",
+   "year": 1982,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "star_frontiers",
+   "ko": null,
+   "orig": "Star Frontiers",
+   "year": 1982,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "southern_cross",
+   "ko": null,
+   "orig": "超時空騎団サザンクロス",
+   "year": 1984,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "tabi_no_ragosu",
+   "ko": null,
+   "orig": "旅のラゴス",
+   "year": 1984,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "layzner",
+   "ko": null,
+   "orig": "蒼き流星SPTレイズナー",
+   "year": 1985,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "megazone_23",
+   "ko": null,
+   "orig": "メガゾーン23",
+   "year": 1985,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "sagittarius",
+   "ko": null,
+   "orig": "宇宙船サジタリウス",
+   "year": 1986,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "space_quest",
+   "ko": null,
+   "orig": "Space Quest",
+   "year": 1986,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "starflight",
+   "ko": null,
+   "orig": "Starflight",
+   "year": 1986,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "tytania",
+   "ko": null,
+   "orig": "タイタニア",
+   "year": 1988,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "space_1889",
+   "ko": null,
+   "orig": "Space: 1889",
+   "year": 1989,
+   "media": [
+    "게임",
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "metal_slader_glory",
+   "ko": null,
+   "orig": "メタルスレイダーグローリー",
+   "year": 1991,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "exosquad",
+   "ko": null,
+   "orig": "Exosquad",
+   "year": 1993,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "aldebaran",
+   "ko": null,
+   "orig": "Les Mondes d'Aldébaran",
+   "year": 1994,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "heavy_gear",
+   "ko": null,
+   "orig": "Heavy Gear",
+   "year": 1994,
+   "media": [
+    "게임",
+    "애니메이션",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "outpost",
+   "ko": null,
+   "orig": "Outpost",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "policenauts",
+   "ko": null,
+   "orig": "ポリスノーツ",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "linda_cube",
+   "ko": null,
+   "orig": "リンダキューブ",
+   "year": 1995,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "space_above_and_beyond",
+   "ko": null,
+   "orig": "Space: Above and Beyond",
+   "year": 1995,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "escape_velocity",
+   "ko": null,
+   "orig": "Escape Velocity",
+   "year": 1996,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "colony_wars",
+   "ko": null,
+   "orig": "Colony Wars",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "imperium_galactica",
+   "ko": null,
+   "orig": "Imperium Galactica",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "independence_war",
+   "ko": null,
+   "orig": "I-War",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "lexx",
+   "ko": null,
+   "orig": "Lexx",
+   "year": 1997,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "battlezone_1998",
+   "ko": null,
+   "orig": "Battlezone",
+   "year": 1998,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "freespace",
+   "ko": null,
+   "orig": "FreeSpace",
+   "year": 1998,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "universal_war_one",
+   "ko": null,
+   "orig": "Universal War One",
+   "year": 1998,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "manifold_baxter",
+   "ko": null,
+   "orig": "Manifold",
+   "year": 1999,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "andromeda",
+   "ko": null,
+   "orig": "Gene Roddenberry's Andromeda",
+   "year": 2000,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "freelancer",
+   "ko": null,
+   "orig": "Freelancer",
+   "year": 2000,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "ground_control",
+   "ko": null,
+   "orig": "Ground Control",
+   "year": 2000,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "anachronox",
+   "ko": null,
+   "orig": "Anachronox",
+   "year": 2001,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "anarchy_online",
+   "ko": null,
+   "orig": "Anarchy Online",
+   "year": 2001,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "space_rangers",
+   "ko": null,
+   "orig": "Космические рейнджеры",
+   "year": 2002,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "planetside",
+   "ko": null,
+   "orig": "PlanetSide",
+   "year": 2003,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "ufo_aftermath",
+   "ko": null,
+   "orig": "UFO: Aftermath",
+   "year": 2003,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "perimeter",
+   "ko": null,
+   "orig": "Perimeter",
+   "year": 2004,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "accelerando",
+   "ko": null,
+   "orig": "Accelerando",
+   "year": 2005,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "rogue_galaxy",
+   "ko": null,
+   "orig": "ローグギャラクシー",
+   "year": 2005,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "spin_wilson",
+   "ko": null,
+   "orig": "Spin",
+   "year": 2005,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "oban_star_racers",
+   "ko": null,
+   "orig": "Oban Star-Racers",
+   "year": 2006,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "sword_of_the_stars",
+   "ko": null,
+   "orig": "Sword of the Stars",
+   "year": 2006,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "infinite_space",
+   "ko": null,
+   "orig": "無限航路",
+   "year": 2009,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "distant_worlds",
+   "ko": null,
+   "orig": "Distant Worlds",
+   "year": 2010,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "embassytown",
+   "ko": null,
+   "orig": "Embassytown",
+   "year": 2011,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "starsector",
+   "ko": null,
+   "orig": "Starsector",
+   "year": 2011,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "ksr_2312",
+   "ko": null,
+   "orig": "2312",
+   "year": 2012,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "wayfarers",
+   "ko": null,
+   "orig": "Wayfarers",
+   "year": 2014,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "children_of_time",
+   "ko": null,
+   "orig": "Children of Time",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "killjoys",
+   "ko": null,
+   "orig": "Killjoys",
+   "year": 2015,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "bobiverse",
+   "ko": null,
+   "orig": "Bobiverse",
+   "year": 2016,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "coriolis",
+   "ko": null,
+   "orig": "Coriolis",
+   "year": 2016,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "scavengers_reign",
+   "ko": null,
+   "orig": "Scavengers Reign",
+   "year": 2016,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "lady_astronaut",
+   "ko": null,
+   "orig": "Lady Astronaut",
+   "year": 2018,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "seikei_izumo_no_heitan",
+   "ko": null,
+   "orig": "星系出雲の兵站",
+   "year": 2018,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "crying_suns",
+   "ko": null,
+   "orig": "Crying Suns",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "heavens_vault",
+   "ko": null,
+   "orig": "Heaven's Vault",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "lancer",
+   "ko": null,
+   "orig": "Lancer",
+   "year": 2019,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "hardspace_shipbreaker",
+   "ko": null,
+   "orig": "Hardspace: Shipbreaker",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "citizen_sleeper",
+   "ko": null,
+   "orig": "Citizen Sleeper",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "colony_ship",
+   "ko": null,
+   "orig": "Colony Ship: A Post-Earth Role Playing Game",
+   "year": 2023,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 5.0
+  },
+  {
+   "id": "the_city_and_the_stars",
+   "ko": "도시와 별",
+   "orig": "The City and the Stars",
+   "year": 1948,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_martian_chronicles",
+   "ko": "화성 연대기",
+   "orig": "The Martian Chronicles",
+   "year": 1950,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "childhoods_end",
+   "ko": "유년기의 끝",
+   "orig": "Childhood's End",
+   "year": 1953,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_stars_my_destination",
+   "ko": "타이거! 타이거!",
+   "orig": "The Stars My Destination",
+   "year": 1956,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "vonnegut_tralfamadore",
+   "ko": "타이탄의 세이렌",
+   "orig": "The Sirens of Titan",
+   "year": 1959,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "stranger_in_a_strange_land",
+   "ko": "낯선 땅 이방인",
+   "orig": "Stranger in a Strange Land",
+   "year": 1961,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_cyberiad",
+   "ko": "사이버리아드",
+   "orig": "Cyberiada",
+   "year": 1965,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_three_stigmata_of_palmer_eldritch",
+   "ko": "파머 엘드리치의 세 개의 성흔",
+   "orig": "The Three Stigmata of Palmer Eldritch",
+   "year": 1965,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_moon_is_a_harsh_mistress",
+   "ko": "달은 무자비한 밤의 여왕",
+   "orig": "The Moon Is a Harsh Mistress",
+   "year": 1966,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "lord_of_light",
+   "ko": "신들의 사회",
+   "orig": "Lord of Light",
+   "year": 1967,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_forever_war",
+   "ko": "영원한 전쟁",
+   "orig": "The Forever War",
+   "year": 1972,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "space_1999",
+   "ko": "우주대모험 1999",
+   "orig": "Space: 1999",
+   "year": 1975,
+   "media": [
+    "드라마",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "giants_hogan",
+   "ko": "별의 계승자",
+   "orig": "Inherit the Stars",
+   "year": 1977,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "toward_the_terra",
+   "ko": "지구로...",
+   "orig": "地球へ…",
+   "year": 1977,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "space_cobra",
+   "ko": "스페이스 코브라",
+   "orig": "コブラ",
+   "year": 1978,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "dirty_pair",
+   "ko": "더티페어",
+   "orig": "ダーティペア",
+   "year": 1980,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "ideon",
+   "ko": "전설거신 이데온",
+   "orig": "伝説巨神イデオン",
+   "year": 1980,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "wings_of_honneamise",
+   "ko": "왕립우주군-오네아미스의 날개",
+   "orig": "王立宇宙軍 オネアミスの翼",
+   "year": 1987,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "gunbuster",
+   "ko": "톱을 노려라!",
+   "orig": "トップをねらえ!",
+   "year": 1988,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "g_gundam",
+   "ko": "기동무투전 G 건담",
+   "orig": "機動武闘伝Gガンダム",
+   "year": 1994,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "trigun",
+   "ko": "트라이건",
+   "orig": "トライガン",
+   "year": 1995,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "nadesico",
+   "ko": "기동전함 나데시코",
+   "orig": "機動戦艦ナデシコ",
+   "year": 1996,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "planetes",
+   "ko": "플라네테스",
+   "orig": "プラネテス",
+   "year": 1999,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "turn_a_gundam",
+   "ko": "턴에이 건담",
+   "orig": "∀ガンダム",
+   "year": 1999,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "last_exile",
+   "ko": "라스트 엑자일",
+   "orig": "LAST EXILE",
+   "year": 2003,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "old_mans_war",
+   "ko": "노인의 전쟁",
+   "orig": "Old Man's War",
+   "year": 2005,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "chaos_walking",
+   "ko": "카오스 워킹",
+   "orig": "Chaos Walking",
+   "year": 2008,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "knights_of_sidonia",
+   "ko": "시도니아의 기사",
+   "orig": "シドニアの騎士",
+   "year": 2009,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "terra_formars",
+   "ko": "테라포마스",
+   "orig": "テラフォーマーズ",
+   "year": 2011,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "lunar_chronicles",
+   "ko": "신더",
+   "orig": "The Lunar Chronicles",
+   "year": 2012,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "rimworld",
+   "ko": null,
+   "orig": "RimWorld",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "aldnoah_zero",
+   "ko": "알드노아 제로",
+   "orig": "アルドノア・ゼロ",
+   "year": 2014,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "space_dandy",
+   "ko": "스페이스 댄디",
+   "orig": "スペース☆ダンディ",
+   "year": 2014,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "subnautica",
+   "ko": "서브노티카",
+   "orig": "Subnautica",
+   "year": 2014,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "gundam_iron_blooded_orphans",
+   "ko": "기동전사 건담 철혈의 오펀스",
+   "orig": "機動戦士ガンダム 鉄血のオルフェンズ",
+   "year": 2015,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "seveneves",
+   "ko": "세븐이브스",
+   "orig": "Seveneves",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "murderbot",
+   "ko": "머더봇 다이어리",
+   "orig": "The Murderbot Diaries",
+   "year": 2017,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "oxygen_not_included",
+   "ko": null,
+   "orig": "Oxygen Not Included",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_orville",
+   "ko": "오빌",
+   "orig": "The Orville",
+   "year": 2017,
+   "media": [
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "for_all_mankind",
+   "ko": "포 올 맨카인드",
+   "orig": "For All Mankind",
+   "year": 2019,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "outer_wilds",
+   "ko": null,
+   "orig": "Outer Wilds",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "the_outer_worlds",
+   "ko": "아우터 월드",
+   "orig": "The Outer Worlds",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "tower_of_fantasy",
+   "ko": "타워 오브 판타지",
+   "orig": "幻塔",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "gundam_gquuuuuux",
+   "ko": "기동전사 건담 지쿠악스",
+   "orig": "機動戦士Gundam GQuuuuuuX",
+   "year": 2025,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "pragmata",
+   "ko": null,
+   "orig": "PRAGMATA",
+   "year": 2026,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.9
+  },
+  {
+   "id": "barsoom",
+   "ko": null,
+   "orig": "Barsoom",
+   "year": 1912,
+   "media": [
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "rendezvous_with_rama",
+   "ko": "라마와의 랑데부",
+   "orig": "Rendezvous with Rama",
+   "year": 1973,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "voltron",
+   "ko": "볼트론",
+   "orig": "Voltron",
+   "year": 1984,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "r_type",
+   "ko": "알타입",
+   "orig": "R-TYPE",
+   "year": 1987,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "wing_commander",
+   "ko": "윙 커맨더",
+   "orig": "Wing Commander",
+   "year": 1990,
+   "media": [
+    "게임",
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "master_of_orion",
+   "ko": "마스터 오브 오리온",
+   "orig": "Master of Orion",
+   "year": 1993,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "system_shock",
+   "ko": null,
+   "orig": "System Shock",
+   "year": 1994,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "firefly",
+   "ko": null,
+   "orig": "Firefly",
+   "year": 2002,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "영화",
+    "탁상 게임"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "firefall",
+   "ko": "블라인드 사이트",
+   "orig": "Firefall (Blindsight)",
+   "year": 2006,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "lost_planet",
+   "ko": null,
+   "orig": "ロスト プラネット",
+   "year": 2006,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "imperial_radch",
+   "ko": "라드츠 제국 시리즈",
+   "orig": "Imperial Radch",
+   "year": 2013,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "the_100",
+   "ko": "원헌드레드",
+   "orig": "The 100",
+   "year": 2013,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "gnosia",
+   "ko": "그노시아",
+   "orig": "グノーシア",
+   "year": 2019,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.7
+  },
+  {
+   "id": "phantasy_star",
+   "ko": null,
+   "orig": "ファンタシースター",
+   "year": 1987,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "red_dwarf",
+   "ko": null,
+   "orig": "Red Dwarf",
+   "year": 1988,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "outlaw_star",
+   "ko": null,
+   "orig": "星方武侠アウトロースター",
+   "year": 1996,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "twilight_imperium",
+   "ko": "트와일라잇 임페리움",
+   "orig": "Twilight Imperium",
+   "year": 1997,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "unreal",
+   "ko": null,
+   "orig": "Unreal",
+   "year": 1998,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "phantasy_star_online",
+   "ko": null,
+   "orig": "ファンタシースターオンライン",
+   "year": 2000,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "red_faction",
+   "ko": null,
+   "orig": "Red Faction",
+   "year": 2001,
+   "media": [
+    "게임",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "zone_of_the_enders",
+   "ko": null,
+   "orig": "ZONE OF THE ENDERS",
+   "year": 2001,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "all_tomorrows",
+   "ko": null,
+   "orig": "All Tomorrows",
+   "year": 2006,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "starbound",
+   "ko": null,
+   "orig": "Starbound",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "prey_2017",
+   "ko": null,
+   "orig": "Prey",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "high_on_life",
+   "ko": null,
+   "orig": "High on Life",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 4.5
+  },
+  {
+   "id": "red_star_bogdanov",
+   "ko": "붉은 별",
+   "orig": "Красная звезда",
+   "year": 1908,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "maocheng_ji",
+   "ko": "고양이 행성의 기록",
+   "orig": "猫城记",
+   "year": 1932,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "the_space_merchants",
+   "ko": "우주 상인",
+   "orig": "The Space Merchants",
+   "year": 1952,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "a_case_of_conscience",
+   "ko": "양심의 문제",
+   "orig": "A Case of Conscience",
+   "year": 1953,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mission_of_gravity",
+   "ko": "중력의 임무",
+   "orig": "Mission of Gravity",
+   "year": 1953,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "double_star",
+   "ko": "더블 스타",
+   "orig": "Double Star",
+   "year": 1956,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "have_space_suit",
+   "ko": "우주복 있음, 출장 가능",
+   "orig": "Have Space Suit—Will Travel",
+   "year": 1958,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "les_maitres_du_temps",
+   "ko": "타임 마스터",
+   "orig": "Les Maîtres du temps",
+   "year": 1958,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "pirx_the_pilot",
+   "ko": "우주비행사 피륵스",
+   "orig": "Opowieści o pilocie Pirxie",
+   "year": 1959,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "geumseong_tamheomdae",
+   "ko": "금성 탐험대",
+   "orig": "금성 탐험대",
+   "year": 1962,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "way_station",
+   "ko": "정거장",
+   "orig": "Way Station",
+   "year": 1963,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "martian_time_slip",
+   "ko": "화성의 타임슬립",
+   "orig": "Martian Time-Slip",
+   "year": 1964,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "the_invincible",
+   "ko": "우주 순양함 무적호",
+   "orig": "Niezwyciężony",
+   "year": 1964,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "this_immortal",
+   "ko": "내 이름은 콘래드",
+   "orig": "This Immortal",
+   "year": 1965,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "babel_17",
+   "ko": "바벨-17",
+   "orig": "Babel-17",
+   "year": 1966,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "nova_delany",
+   "ko": "노바",
+   "orig": "Nova",
+   "year": 1968,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "tau_zero",
+   "ko": "타우제로",
+   "orig": "Tau Zero",
+   "year": 1970,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "houston_houston",
+   "ko": "휴스턴, 휴스턴, 들리는가?",
+   "orig": "Houston, Houston, Do You Read?",
+   "year": 1976,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "space_battleship_geobukseon",
+   "ko": "우주전함 거북선",
+   "orig": "우주전함 거북선",
+   "year": 1979,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "space_black_knight",
+   "ko": "우주흑기사",
+   "orig": "우주 흑기사",
+   "year": 1979,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "x_bomber",
+   "ko": "X 봄버",
+   "orig": "Xボンバー",
+   "year": 1980,
+   "media": [
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "dougram",
+   "ko": "태양의 어금니 다그람",
+   "orig": "太陽の牙ダグラム",
+   "year": 1981,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "bloodchild",
+   "ko": "블러드 차일드",
+   "orig": "Bloodchild",
+   "year": 1984,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "l_gaim",
+   "ko": "중전기 엘가임",
+   "orig": "重戦機エルガイム",
+   "year": 1984,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "dangaioh",
+   "ko": null,
+   "orig": "破邪大星ダンガイオー",
+   "year": 1987,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "zillion",
+   "ko": "붉은 광탄 질리온",
+   "orig": "赤い光弾ジリオン",
+   "year": 1987,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "kirinyaga",
+   "ko": "키리냐가",
+   "orig": "Kirinyaga",
+   "year": 1988,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "flashback",
+   "ko": "플래시백",
+   "orig": "Flashback",
+   "year": 1992,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "shogo",
+   "ko": "쇼고: 이동전투단",
+   "orig": "Shogo: Mobile Armor Division",
+   "year": 1998,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "infinite_ryvius",
+   "ko": "무한의 리바이어스",
+   "orig": "無限のリヴァイアス",
+   "year": 1999,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mito",
+   "ko": "우주해적 미토의 대모험",
+   "orig": "宇宙海賊ミトの大冒険",
+   "year": 1999,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "moonlight_mile",
+   "ko": "문라이트 마일",
+   "orig": "ムーンライトマイル",
+   "year": 2000,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "vandread",
+   "ko": "반드레드",
+   "orig": "ヴァンドレッド",
+   "year": 2000,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "twin_spica",
+   "ko": "트윈 스피카",
+   "orig": "ふたつのスピカ",
+   "year": 2001,
+   "media": [
+    "드라마",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "xiangcun_jiaoshi",
+   "ko": "산골 마을 선생님",
+   "orig": "乡村教师",
+   "year": 2001,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "tunshizhe",
+   "ko": "탐식제국의 침공",
+   "orig": "吞食者",
+   "year": 2002,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "glasshouse_stross",
+   "ko": "유리감옥",
+   "orig": "Glasshouse",
+   "year": 2006,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "kaiba",
+   "ko": "카이바",
+   "orig": "カイバ",
+   "year": 2008,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "galaxy_on_fire",
+   "ko": null,
+   "orig": "Galaxy on Fire",
+   "year": 2009,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "space_show",
+   "ko": "우주쇼에 어서오세요",
+   "orig": "宇宙ショーへようこそ",
+   "year": 2010,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "vanquish",
+   "ko": null,
+   "orig": "ヴァンキッシュ",
+   "year": 2010,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mars_needs_moms",
+   "ko": "화성은 엄마가 필요해",
+   "orig": "Mars Needs Moms",
+   "year": 2011,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "redshirts",
+   "ko": "레드셔츠",
+   "orig": "Redshirts",
+   "year": 2012,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "cheonghon",
+   "ko": "청혼",
+   "orig": "청혼",
+   "year": 2013,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "wander_over_yonder",
+   "ko": "완다가 간다",
+   "orig": "Wander Over Yonder",
+   "year": 2013,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "expelled_from_paradise",
+   "ko": "낙원추방",
+   "orig": "楽園追放 -Expelled from Paradise-",
+   "year": 2014,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "planetary_annihilation",
+   "ko": null,
+   "orig": "Planetary Annihilation",
+   "year": 2014,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "binti",
+   "ko": "빈티",
+   "orig": "Binti",
+   "year": 2015,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "tiramisu",
+   "ko": "우주전함 티라미스",
+   "orig": "宇宙戦艦ティラミス",
+   "year": 2015,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "last_and_first_idol",
+   "ko": "최후이자 최초의 아이돌",
+   "orig": "最後にして最初のアイドル",
+   "year": 2016,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "luluco",
+   "ko": "우주 패트롤 루루코",
+   "orig": "宇宙パトロールルル子",
+   "year": 2016,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mars_natgeo",
+   "ko": "인류의 새로운 시작, 마스",
+   "orig": "Mars",
+   "year": 2016,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "odyssey_galoa",
+   "ko": "오디세이",
+   "orig": "오디세이",
+   "year": 2016,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "offworld_trading_company",
+   "ko": null,
+   "orig": "Offworld Trading Company",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "subterrain",
+   "ko": "서브터레인",
+   "orig": "Subterrain",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "spaceman_of_bohemia",
+   "ko": "보헤미아 우주인",
+   "orig": "Spaceman of Bohemia",
+   "year": 2017,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "tacoma",
+   "ko": null,
+   "orig": "Tacoma",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "breathedge",
+   "ko": null,
+   "orig": "Breathedge",
+   "year": 2018,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "planet_with",
+   "ko": "플래닛 위드",
+   "orig": "プラネット・ウィズ",
+   "year": 2018,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "starlink_atlas",
+   "ko": "스타링크: 배틀 포 아틀라스",
+   "orig": "Starlink: Battle for Atlas",
+   "year": 2018,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "another_life",
+   "ko": "어나더 라이프",
+   "orig": "Another Life",
+   "year": 2019,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "gipa",
+   "ko": "기파",
+   "orig": "기파",
+   "year": 2019,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mindustry",
+   "ko": null,
+   "orig": "Mindustry",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "observation",
+   "ko": "옵저베이션",
+   "orig": "Observation",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "void_bastards",
+   "ko": null,
+   "orig": "Void Bastards",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "eolmana_dalmanneunga",
+   "ko": "얼마나 닮았는가",
+   "orig": "얼마나 닮았는가",
+   "year": 2020,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "space_haven",
+   "ko": null,
+   "orig": "Space Haven",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "yuryeong_haema",
+   "ko": "유령해마",
+   "orig": "유령해마",
+   "year": 2020,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "icarus",
+   "ko": "ICARUS 외계 행성 서바이벌",
+   "orig": "ICARUS",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "the_ascent",
+   "ko": "디 어센트",
+   "orig": "The Ascent",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "the_riftbreaker",
+   "ko": "리프트브레이커",
+   "orig": "The Riftbreaker",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "orbital_children",
+   "ko": "지구 밖 소년소녀",
+   "orig": "地球外少年少女",
+   "year": 2022,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "sea_of_tranquility",
+   "ko": "고요의 바다에서",
+   "orig": "Sea of Tranquility",
+   "year": 2022,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "the_planet_crafter",
+   "ko": null,
+   "orig": "The Planet Crafter",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "cobalt_core",
+   "ko": null,
+   "orig": "Cobalt Core",
+   "year": 2023,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mars_express",
+   "ko": "화성특급",
+   "orig": "Mars Express",
+   "year": 2023,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "menace",
+   "ko": "메너스",
+   "orig": "MENACE",
+   "year": 2026,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "mio_memories",
+   "ko": null,
+   "orig": "MIO: Memories in Orbit",
+   "year": 2026,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "aelita",
+   "ko": "아엘리타",
+   "orig": "Аэлита",
+   "year": 1923,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "when_worlds_collide",
+   "ko": "흔들리는 지구",
+   "orig": "When Worlds Collide",
+   "year": 1933,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "captain_scarlet",
+   "ko": null,
+   "orig": "Captain Scarlet and the Mysterons",
+   "year": 1967,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "emon_21",
+   "ko": "21에몬",
+   "orig": "21エモン",
+   "year": 1968,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "taiyofu_koten",
+   "ko": "태양풍교점",
+   "orig": "太陽風交点",
+   "year": 1977,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "round_vernian_vifam",
+   "ko": "은하표류 바이팜",
+   "orig": "銀河漂流バイファム",
+   "year": 1983,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "gall_force",
+   "ko": null,
+   "orig": "ガルフォース",
+   "year": 1986,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "md_geist",
+   "ko": null,
+   "orig": "装鬼兵MDガイスト",
+   "year": 1986,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "darius",
+   "ko": "다리우스",
+   "orig": "ダライアス",
+   "year": 1987,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "forge_of_god",
+   "ko": "신의 용광로",
+   "orig": "The Forge of God",
+   "year": 1987,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "startopia",
+   "ko": null,
+   "orig": "Startopia",
+   "year": 2001,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "alice_gear_aegis",
+   "ko": "앨리스 기어 아이기스",
+   "orig": "アリス・ギア・アイギス",
+   "year": 2018,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "queen_of_mars",
+   "ko": "화성의 여왕",
+   "orig": "火星の女王",
+   "year": 2025,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.2
+  },
+  {
+   "id": "auf_zwei_planeten",
+   "ko": null,
+   "orig": "Auf zwei Planeten",
+   "year": 1897,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "space_beagle",
+   "ko": null,
+   "orig": "The Voyage of the Space Beagle",
+   "year": 1950,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "quatermass",
+   "ko": null,
+   "orig": "The Quatermass Experiment",
+   "year": 1953,
+   "media": [
+    "드라마",
+    "영화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "ikarie_xb1",
+   "ko": null,
+   "orig": "Ikarie XB 1",
+   "year": 1955,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "non_stop",
+   "ko": null,
+   "orig": "Non-Stop",
+   "year": 1958,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "rogue_moon",
+   "ko": null,
+   "orig": "Rogue Moon",
+   "year": 1960,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_ship_who_sang",
+   "ko": null,
+   "orig": "The Ship Who Sang",
+   "year": 1961,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "raumpatrouille_orion",
+   "ko": null,
+   "orig": "Raumpatrouille – Die phantastischen Abenteuer des Raumschiffes Orion",
+   "year": 1966,
+   "media": [
+    "드라마",
+    "영화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "star_wolf",
+   "ko": null,
+   "orig": "The Star Wolf",
+   "year": 1967,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "ufo_1970",
+   "ko": null,
+   "orig": "UFO",
+   "year": 1970,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "a_time_of_changes",
+   "ko": null,
+   "orig": "A Time of Changes",
+   "year": 1971,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "man_plus",
+   "ko": null,
+   "orig": "Man Plus",
+   "year": 1976,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "cosmic_encounter",
+   "ko": null,
+   "orig": "Cosmic Encounter",
+   "year": 1977,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "dragons_egg",
+   "ko": null,
+   "orig": "Dragon's Egg",
+   "year": 1980,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "sayonara_jupiter",
+   "ko": null,
+   "orig": "さよならジュピター",
+   "year": 1980,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "trider_g7",
+   "ko": null,
+   "orig": "無敵ロボ トライダーG7",
+   "year": 1980,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "carlvinson",
+   "ko": null,
+   "orig": "宇宙家族カールビンソン",
+   "year": 1983,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "mule",
+   "ko": null,
+   "orig": "M.U.L.E.",
+   "year": 1983,
+   "media": [
+    "게임",
+    "탁상 게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "planetfall",
+   "ko": null,
+   "orig": "Planetfall",
+   "year": 1983,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "halo_jones",
+   "ko": null,
+   "orig": "The Ballad of Halo Jones",
+   "year": 1984,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "assault_suits",
+   "ko": null,
+   "orig": "重装機兵",
+   "year": 1990,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "commander_keen",
+   "ko": null,
+   "orig": "Commander Keen",
+   "year": 1990,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "space_empires",
+   "ko": null,
+   "orig": "Space Empires",
+   "year": 1993,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "ascendancy",
+   "ko": null,
+   "orig": "Ascendancy",
+   "year": 1995,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "descent",
+   "ko": null,
+   "orig": "Descent",
+   "year": 1995,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "rocket_girl",
+   "ko": null,
+   "orig": "ロケットガール",
+   "year": 1995,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_dig",
+   "ko": null,
+   "orig": "The Dig",
+   "year": 1995,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "tigris_to_euphrates",
+   "ko": null,
+   "orig": "チグリスとユーフラテス",
+   "year": 1996,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "z_bitmap",
+   "ko": null,
+   "orig": "Z",
+   "year": 1996,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "dark_reign",
+   "ko": null,
+   "orig": "Dark Reign: The Future of War",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "total_annihilation",
+   "ko": null,
+   "orig": "Total Annihilation",
+   "year": 1997,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "taiyo_no_sandatsusha",
+   "ko": null,
+   "orig": "太陽の簒奪者",
+   "year": 1999,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "starship_operators",
+   "ko": null,
+   "orig": "スターシップ・オペレーターズ",
+   "year": 2001,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "dairoku_tairiku",
+   "ko": null,
+   "orig": "第六大陸",
+   "year": 2003,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "space_station_13",
+   "ko": null,
+   "orig": "Space Station 13",
+   "year": 2003,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "nexus_jupiter_incident",
+   "ko": null,
+   "orig": "Nexus: The Jupiter Incident",
+   "year": 2004,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "ai_war",
+   "ko": null,
+   "orig": "AI War: Fleet Command",
+   "year": 2009,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "bulletstorm",
+   "ko": null,
+   "orig": "Bulletstorm",
+   "year": 2011,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "gemini_rue",
+   "ko": null,
+   "orig": "Gemini Rue",
+   "year": 2011,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_swapper",
+   "ko": null,
+   "orig": "The Swapper",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_technomancer",
+   "ko": null,
+   "orig": "The Technomancer",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "orbital_cloud",
+   "ko": null,
+   "orig": "オービタル・クラウド",
+   "year": 2014,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "out_there",
+   "ko": null,
+   "orig": "Out There",
+   "year": 2014,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "empyrion",
+   "ko": null,
+   "orig": "Empyrion - Galactic Survival",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "grey_goo",
+   "ko": null,
+   "orig": "Grey Goo",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "rebel_galaxy",
+   "ko": null,
+   "orig": "Rebel Galaxy",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "ashes_of_the_singularity",
+   "ko": null,
+   "orig": "Ashes of the Singularity",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "children_dead_earth",
+   "ko": null,
+   "orig": "Children of a Dead Earth",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "duskers",
+   "ko": null,
+   "orig": "Duskers",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "event0",
+   "ko": null,
+   "orig": "Event[0]",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_turing_test",
+   "ko": null,
+   "orig": "The Turing Test",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "avorion",
+   "ko": null,
+   "orig": "Avorion",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "heat_signature",
+   "ko": null,
+   "orig": "Heat Signature",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "universal_paperclips",
+   "ko": null,
+   "orig": "Universal Paperclips",
+   "year": 2017,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "mothership",
+   "ko": null,
+   "orig": "Mothership",
+   "year": 2018,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "surviving_mars",
+   "ko": null,
+   "orig": "Surviving Mars",
+   "year": 2018,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "in_other_waters",
+   "ko": null,
+   "orig": "In Other Waters",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "per_aspera",
+   "ko": null,
+   "orig": "Per Aspera",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "shadow_empire",
+   "ko": null,
+   "orig": "Shadow Empire",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "some_desperate_glory",
+   "ko": null,
+   "orig": "Some Desperate Glory",
+   "year": 2023,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.0
+  },
+  {
+   "id": "the_first_men_in_the_moon",
+   "ko": null,
+   "orig": "The First Men in the Moon",
+   "year": 1901,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "illustrated_man",
+   "ko": "일러스트레이티드 맨",
+   "orig": "The Illustrated Man",
+   "year": 1951,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "cold_equations",
+   "ko": "차가운 방정식",
+   "orig": "The Cold Equations",
+   "year": 1954,
+   "media": [
+    "드라마",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "la_planete_sauvage",
+   "ko": "판타스틱 플래닛",
+   "orig": "La Planète sauvage",
+   "year": 1957,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "they_were_eleven",
+   "ko": "11인이 있다!",
+   "orig": "11人いる!",
+   "year": 1975,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "enemy_mine",
+   "ko": "에너미 마인",
+   "orig": "Enemy Mine",
+   "year": 1979,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "the_fountains_of_paradise",
+   "ko": "낙원의 샘",
+   "orig": "The Fountains of Paradise",
+   "year": 1979,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "wonder_kiddy_2020",
+   "ko": "2020년 우주의 원더키디",
+   "orig": "2020년 우주의 원더키디",
+   "year": 1989,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "gundam_x",
+   "ko": "기동신세기 건담 X",
+   "orig": "機動新世紀ガンダムX",
+   "year": 1996,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "titan_ae",
+   "ko": "타이탄 A.E.",
+   "orig": "Titan A.E.",
+   "year": 2000,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "aria_amano",
+   "ko": "아리아",
+   "orig": "ARIA",
+   "year": 2001,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "voices_of_a_distant_star",
+   "ko": "별의 목소리",
+   "orig": "ほしのこえ",
+   "year": 2002,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "beyond_good_and_evil",
+   "ko": "비욘드 굿 앤 이블",
+   "orig": "Beyond Good & Evil",
+   "year": 2003,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "papillon_des_etoiles",
+   "ko": "파피용",
+   "orig": "Le Papillon des étoiles",
+   "year": 2006,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "space_brothers",
+   "ko": "우주형제",
+   "orig": "宇宙兄弟",
+   "year": 2007,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "eunha_webtoon",
+   "ko": "은하!",
+   "orig": "은하!",
+   "year": 2009,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 1,
+   "score": 3.9
+  },
+  {
+   "id": "planet_51",
+   "ko": "플래닛 51",
+   "orig": "Planet 51",
+   "year": 2009,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "redline",
+   "ko": "레드라인",
+   "orig": "REDLINE",
+   "year": 2009,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "gundam_age",
+   "ko": "기동전사 건담 AGE",
+   "orig": "機動戦士ガンダムAGE",
+   "year": 2011,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "space_king_kr",
+   "ko": "스페이스 킹",
+   "orig": "스페이스 킹",
+   "year": 2012,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 1,
+   "score": 3.9
+  },
+  {
+   "id": "gargantia",
+   "ko": "취성의 가르간티아",
+   "orig": "翠星のガルガンティア",
+   "year": 2013,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "astra_lost_in_space",
+   "ko": "저 너머의 아스트라",
+   "orig": "彼方のアストラ",
+   "year": 2016,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "astroneer",
+   "ko": null,
+   "orig": "ASTRONEER",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "factorio",
+   "ko": null,
+   "orig": "Factorio",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "midnight_sky",
+   "ko": "굿모닝 미드나이트",
+   "orig": "Good Morning, Midnight",
+   "year": 2016,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "slime_rancher",
+   "ko": null,
+   "orig": "Slime Rancher",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "artemis_weir",
+   "ko": "아르테미스",
+   "orig": "Artemis",
+   "year": 2017,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "uriga_bichui_sokdoro",
+   "ko": "우리가 빛의 속도로 갈 수 없다면",
+   "orig": "우리가 빛의 속도로 갈 수 없다면",
+   "year": 2018,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "satisfactory",
+   "ko": null,
+   "orig": "Satisfactory",
+   "year": 2019,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "deep_rock_galactic",
+   "ko": null,
+   "orig": "Deep Rock Galactic",
+   "year": 2020,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "raised_by_wolves",
+   "ko": "레이즈드 바이 울브스",
+   "orig": "Raised by Wolves",
+   "year": 2020,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "outriders",
+   "ko": null,
+   "orig": "Outriders",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "returnal",
+   "ko": null,
+   "orig": "Returnal",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "callisto_protocol",
+   "ko": null,
+   "orig": "The Callisto Protocol",
+   "year": 2022,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "honkai_star_rail",
+   "ko": "붕괴: 스타레일",
+   "orig": "崩坏：星穹铁道",
+   "year": 2023,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 3.9
+  },
+  {
+   "id": "orbital_harvey",
+   "ko": "궤도",
+   "orig": "Orbital",
+   "year": 2023,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "elio",
+   "ko": "엘리오",
+   "orig": "Elio",
+   "year": 2025,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "stars_gossip",
+   "ko": "별들에게 물어봐",
+   "orig": "별들에게 물어봐",
+   "year": 2025,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "saros",
+   "ko": "사로스",
+   "orig": "Saros",
+   "year": 2026,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.9
+  },
+  {
+   "id": "gradius",
+   "ko": null,
+   "orig": "グラディウス",
+   "year": 1985,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.7
+  },
+  {
+   "id": "metroid",
+   "ko": "메트로이드",
+   "orig": "メトロイド",
+   "year": 1986,
+   "media": [
+    "게임",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 3.7
+  },
+  {
+   "id": "f_zero",
+   "ko": null,
+   "orig": "F-ZERO",
+   "year": 1990,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.7
+  },
+  {
+   "id": "dead_space",
+   "ko": "데드 스페이스",
+   "orig": "Dead Space",
+   "year": 2008,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 3.7
+  },
+  {
+   "id": "kerbal_space_program",
+   "ko": null,
+   "orig": "Kerbal Space Program",
+   "year": 2011,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.7
+  },
+  {
+   "id": "risk_of_rain",
+   "ko": null,
+   "orig": "Risk of Rain",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.7
+  },
+  {
+   "id": "titanfall",
+   "ko": null,
+   "orig": "Titanfall",
+   "year": 2014,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 3.7
+  },
+  {
+   "id": "buck_rogers",
+   "ko": null,
+   "orig": "Buck Rogers",
+   "year": 1928,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "the_last_question",
+   "ko": null,
+   "orig": "The Last Question",
+   "year": 1956,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "barbarella",
+   "ko": null,
+   "orig": "Barbarella",
+   "year": 1962,
+   "media": [
+    "만화",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "battlestar_galactica",
+   "ko": null,
+   "orig": "Battlestar Galactica",
+   "year": 1978,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "영화",
+    "탁상 게임"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 4,
+   "score": 3.5
+  },
+  {
+   "id": "ftl",
+   "ko": null,
+   "orig": "FTL: Faster Than Light",
+   "year": 2012,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "space_engineers",
+   "ko": null,
+   "orig": "Space Engineers",
+   "year": 2013,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "dyson_sphere_program",
+   "ko": null,
+   "orig": "戴森球计划",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 3,
+   "score": 3.5
+  },
+  {
+   "id": "majipoor",
+   "ko": null,
+   "orig": "Majipoor",
+   "year": 1980,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "없음",
+   "borderline": true,
+   "fame": 2,
+   "score": 3.0
+  },
+  {
+   "id": "spelljammer",
+   "ko": null,
+   "orig": "Spelljammer",
+   "year": 1989,
+   "media": [
+    "게임",
+    "소설",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": true,
+   "fame": 2,
+   "score": 3.0
+  },
+  {
+   "id": "starfinder",
+   "ko": null,
+   "orig": "Starfinder",
+   "year": 2017,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "큼",
+   "korean": "확인 못 함",
+   "borderline": true,
+   "fame": 2,
+   "score": 3.0
+  },
+  {
+   "id": "swallowed_star",
+   "ko": "탄서성공",
+   "orig": "吞噬星空",
+   "year": 2010,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 3,
+   "score": 2.9000000000000004
+  },
+  {
+   "id": "starship_troopers",
+   "ko": "스타쉽 트루퍼스",
+   "orig": "Starship Troopers",
+   "year": 1959,
+   "media": [
+    "게임",
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "solaris",
+   "ko": "솔라리스",
+   "orig": "Solaris",
+   "year": 1961,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "daikengo",
+   "ko": null,
+   "orig": "宇宙魔神ダイケンゴー",
+   "year": 1978,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.9
+  },
+  {
+   "id": "boy_007",
+   "ko": "소년 007 은하특공대",
+   "orig": "소년 007 은하특공대",
+   "year": 1980,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.9
+  },
+  {
+   "id": "galaxy_legend_terra",
+   "ko": "은하전설 테라",
+   "orig": "은하전설 테라",
+   "year": 1983,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.9
+  },
+  {
+   "id": "cyber_blue",
+   "ko": "사이버 블루",
+   "orig": "サイバーブルー",
+   "year": 1988,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.9
+  },
+  {
+   "id": "gundam_wing",
+   "ko": "신기동전기 건담 W",
+   "orig": "新機動戦記ガンダムW",
+   "year": 1995,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "wandering_earth",
+   "ko": "유랑지구",
+   "orig": "流浪地球",
+   "year": 2000,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "altered_carbon",
+   "ko": "얼터드 카본",
+   "orig": "Altered Carbon",
+   "year": 2002,
+   "media": [
+    "드라마",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "ratchet_clank",
+   "ko": "라쳇 & 클랭크",
+   "orig": "Ratchet & Clank",
+   "year": 2002,
+   "media": [
+    "게임",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "gundam_00",
+   "ko": "기동전사 건담 00",
+   "orig": "機動戦士ガンダム00",
+   "year": 2007,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "gurren_lagann",
+   "ko": "천원돌파 그렌라간",
+   "orig": "天元突破グレンラガン",
+   "year": 2007,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "helldivers",
+   "ko": null,
+   "orig": "Helldivers",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "no_mans_sky",
+   "ko": null,
+   "orig": "No Man's Sky",
+   "year": 2016,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "gundam_witch_from_mercury",
+   "ko": "기동전사 건담 수성의 마녀",
+   "orig": "機動戦士ガンダム 水星の魔女",
+   "year": 2022,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "stellar_blade",
+   "ko": "스텔라 블레이드",
+   "orig": "Stellar Blade",
+   "year": 2024,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.9
+  },
+  {
+   "id": "flash_gordon",
+   "ko": "플래쉬 고든",
+   "orig": "Flash Gordon",
+   "year": 1934,
+   "media": [
+    "드라마",
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.7
+  },
+  {
+   "id": "lost_in_space",
+   "ko": "로스트 인 스페이스",
+   "orig": "Lost in Space",
+   "year": 1965,
+   "media": [
+    "드라마",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.7
+  },
+  {
+   "id": "pern",
+   "ko": "퍼언 연대기",
+   "orig": "Dragonriders of Pern",
+   "year": 1967,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": true,
+   "fame": 3,
+   "score": 2.7
+  },
+  {
+   "id": "borderlands",
+   "ko": "보더랜드",
+   "orig": "Borderlands",
+   "year": 2009,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.7
+  },
+  {
+   "id": "captain_ultra",
+   "ko": null,
+   "orig": "キャプテンウルトラ",
+   "year": 1967,
+   "media": [
+    "드라마"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.5
+  },
+  {
+   "id": "metamorphosis_alpha",
+   "ko": null,
+   "orig": "Metamorphosis Alpha",
+   "year": 1976,
+   "media": [
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.5
+  },
+  {
+   "id": "lagrange_point",
+   "ko": null,
+   "orig": "ラグランジュポイント",
+   "year": 1991,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.5
+  },
+  {
+   "id": "quake",
+   "ko": null,
+   "orig": "Quake",
+   "year": 1996,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.5
+  },
+  {
+   "id": "haegemonia",
+   "ko": null,
+   "orig": "Haegemonia: Legions of Iron",
+   "year": 2002,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.5
+  },
+  {
+   "id": "hoshi_tsubasa",
+   "ko": null,
+   "orig": "星と翼のパラドクス",
+   "year": 2018,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 1,
+   "score": 2.5
+  },
+  {
+   "id": "starfield",
+   "ko": null,
+   "orig": "Starfield",
+   "year": 2023,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 4,
+   "score": 2.5
+  },
+  {
+   "id": "space_trilogy",
+   "ko": "우주 3부작",
+   "orig": "The Space Trilogy",
+   "year": 1938,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.4000000000000004
+  },
+  {
+   "id": "galient",
+   "ko": "기갑계 가리안",
+   "orig": "機甲界ガリアン",
+   "year": 1984,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.4000000000000004
+  },
+  {
+   "id": "red_moon_hwang",
+   "ko": "레드문",
+   "orig": "레드문",
+   "year": 1994,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "한국 원작",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.4000000000000004
+  },
+  {
+   "id": "akutoku_ryoshu",
+   "ko": "나는 성간 국가의 악덕 영주!",
+   "orig": "俺は星間国家の悪徳領主！",
+   "year": 2018,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.4000000000000004
+  },
+  {
+   "id": "kachikujin_yapoo",
+   "ko": "가축인 야푸",
+   "orig": "家畜人ヤプー",
+   "year": 1956,
+   "media": [
+    "만화",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "일부",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.2
+  },
+  {
+   "id": "mutant_chronicles",
+   "ko": null,
+   "orig": "Mutant Chronicles",
+   "year": 1993,
+   "media": [
+    "게임",
+    "영화",
+    "탁상 게임"
+   ],
+   "first_medium": "탁상 게임",
+   "lore_size": "중간",
+   "korean": "확인 못 함",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.0
+  },
+  {
+   "id": "locked_tomb",
+   "ko": null,
+   "orig": "The Locked Tomb",
+   "year": 2019,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "없음",
+   "borderline": true,
+   "fame": 2,
+   "score": 2.0
+  },
+  {
+   "id": "wrinkle_in_time",
+   "ko": "시간의 주름",
+   "orig": "A Wrinkle in Time",
+   "year": 1962,
+   "media": [
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 3,
+   "score": 1.9000000000000004
+  },
+  {
+   "id": "edens_zero",
+   "ko": "에덴즈 제로",
+   "orig": "EDENS ZERO",
+   "year": 2018,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 3,
+   "score": 1.9000000000000004
+  },
+  {
+   "id": "from_the_earth_to_the_moon",
+   "ko": "지구에서 달까지",
+   "orig": "De la Terre à la Lune",
+   "year": 1865,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "contact",
+   "ko": "콘택트",
+   "orig": "Contact",
+   "year": 1985,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "pikmin",
+   "ko": "피크민",
+   "orig": "ピクミン",
+   "year": 2001,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "treasure_planet",
+   "ko": "보물성",
+   "orig": "Treasure Planet",
+   "year": 2002,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "project_hail_mary",
+   "ko": "프로젝트 헤일메리",
+   "orig": "Project Hail Mary",
+   "year": 2021,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "mickey_17",
+   "ko": "미키 17",
+   "orig": "Mickey 17",
+   "year": 2022,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.9
+  },
+  {
+   "id": "star_fox",
+   "ko": "스타폭스",
+   "orig": "スターフォックス",
+   "year": 1993,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "일부",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.7
+  },
+  {
+   "id": "spore",
+   "ko": null,
+   "orig": "Spore",
+   "year": 2008,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": false,
+   "fame": 4,
+   "score": 1.5
+  },
+  {
+   "id": "tsuki_to_laika_to_nosferatu",
+   "ko": "달과 라이카와 흡혈 공주",
+   "orig": "月とライカと吸血姫",
+   "year": 2016,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 2,
+   "score": 1.4000000000000004
+  },
+  {
+   "id": "routine",
+   "ko": null,
+   "orig": "ROUTINE",
+   "year": 2025,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 2,
+   "score": 1.4000000000000004
+  },
+  {
+   "id": "cosmic_fantasy",
+   "ko": null,
+   "orig": "コズミック・ファンタジー",
+   "year": 1990,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "확인 못 함",
+   "borderline": true,
+   "fame": 2,
+   "score": 1.0
+  },
+  {
+   "id": "sable",
+   "ko": null,
+   "orig": "Sable",
+   "year": 2021,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": true,
+   "fame": 2,
+   "score": 1.0
+  },
+  {
+   "id": "heavy_metal",
+   "ko": "헤비메탈",
+   "orig": "Heavy Metal",
+   "year": 1977,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 3,
+   "score": 0.8999999999999999
+  },
+  {
+   "id": "carole_and_tuesday",
+   "ko": "캐롤 & 튜즈데이",
+   "orig": "キャロル&チューズデイ",
+   "year": 2019,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 3,
+   "score": 0.8999999999999999
+  },
+  {
+   "id": "doom",
+   "ko": null,
+   "orig": "Doom",
+   "year": 1993,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "큼",
+   "korean": "일부",
+   "borderline": true,
+   "fame": 4,
+   "score": 0.7000000000000002
+  },
+  {
+   "id": "iron_lung",
+   "ko": null,
+   "orig": "Iron Lung",
+   "year": 2022,
+   "media": [
+    "게임",
+    "영화"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": true,
+   "fame": 3,
+   "score": 0.5
+  },
+  {
+   "id": "lethal_company",
+   "ko": null,
+   "orig": "Lethal Company",
+   "year": 2023,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "작음",
+   "korean": "없음",
+   "borderline": true,
+   "fame": 3,
+   "score": 0.5
+  },
+  {
+   "id": "asimov_robot",
+   "ko": null,
+   "orig": "Robot series",
+   "year": 1940,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "doctor_who",
+   "ko": "닥터 후",
+   "orig": "Doctor Who",
+   "year": 1963,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "애니메이션",
+    "영화",
+    "탁상 게임"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "space_battleship_yamato",
+   "ko": "우주전함 야마토",
+   "orig": "宇宙戦艦ヤマト",
+   "year": 1974,
+   "media": [
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "enderverse",
+   "ko": "엔더의 게임",
+   "orig": "Ender's Game",
+   "year": 1977,
+   "media": [
+    "만화",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "macross",
+   "ko": "초시공요새 마크로스",
+   "orig": "超時空要塞マクロス",
+   "year": 1982,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "futurama",
+   "ko": "퓨쳐라마",
+   "orig": "Futurama",
+   "year": 1999,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "gundam_seed",
+   "ko": "기동전사 건담 SEED",
+   "orig": "機動戦士ガンダムSEED",
+   "year": 2002,
+   "media": [
+    "게임",
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "rick_and_morty",
+   "ko": "릭 앤 모티",
+   "orig": "Rick and Morty",
+   "year": 2013,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": 0.4
+  },
+  {
+   "id": "ark_survival",
+   "ko": null,
+   "orig": "ARK: Survival Evolved",
+   "year": 2015,
+   "media": [
+    "게임"
+   ],
+   "first_medium": "게임",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 4,
+   "score": -0.10000000000000009
+  },
+  {
+   "id": "planet_of_the_apes",
+   "ko": "혹성 탈출",
+   "orig": "La Planète des singes",
+   "year": 1963,
+   "media": [
+    "게임",
+    "드라마",
+    "만화",
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -0.6
+  },
+  {
+   "id": "total_recall",
+   "ko": "토탈리콜",
+   "orig": "Total Recall",
+   "year": 1966,
+   "media": [
+    "드라마",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -0.6
+  },
+  {
+   "id": "galaxy_express_999",
+   "ko": "은하철도 999",
+   "orig": "銀河鉄道999",
+   "year": 1977,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -0.6
+  },
+  {
+   "id": "hitchhikers_guide",
+   "ko": "은하수를 여행하는 히치하이커를 위한 안내서",
+   "orig": "The Hitchhiker's Guide to the Galaxy",
+   "year": 1978,
+   "media": [
+    "게임",
+    "드라마",
+    "소설",
+    "영화"
+   ],
+   "first_medium": "드라마",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -0.6
+  },
+  {
+   "id": "cowboy_bebop",
+   "ko": "카우보이 비밥",
+   "orig": "カウボーイビバップ",
+   "year": 1998,
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "중간",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -0.6
+  },
+  {
+   "id": "wall_e",
+   "ko": "월•E",
+   "orig": "WALL-E",
+   "year": 2008,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -1.6
+  },
+  {
+   "id": "the_martian",
+   "ko": "마션",
+   "orig": "The Martian",
+   "year": 2011,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 5,
+   "score": -1.6
+  },
+  {
+   "id": "dragon_ball",
+   "ko": "드래곤볼",
+   "orig": "ドラゴンボール",
+   "year": 1984,
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "lore_size": "큼",
+   "korean": "있음",
+   "borderline": true,
+   "fame": 5,
+   "score": -2.6
+  }
+ ],
+ "border": [
+  {
+   "id": "the_war_of_the_worlds",
+   "ko": "우주 전쟁",
+   "orig": "The War of the Worlds",
+   "year": 1898,
+   "space": "경계"
+  },
+  {
+   "id": "we_zamyatin",
+   "ko": "우리들",
+   "orig": "Мы",
+   "year": 1924,
+   "space": "경계"
+  },
+  {
+   "id": "cthulhu_mythos",
+   "ko": null,
+   "orig": "Cthulhu Mythos",
+   "year": 1928,
+   "space": "경계"
+  },
+  {
+   "id": "things_to_come",
+   "ko": null,
+   "orig": "Things to Come",
+   "year": 1933,
+   "space": "경계"
+  },
+  {
+   "id": "the_thing",
+   "ko": "괴물",
+   "orig": "The Thing",
+   "year": 1938,
+   "space": "경계"
+  },
+  {
+   "id": "day_earth_stood_still",
+   "ko": "지구 최후의 날",
+   "orig": "The Day the Earth Stood Still",
+   "year": 1940,
+   "space": "경계"
+  },
+  {
+   "id": "nightfall_asimov",
+   "ko": "전설의 밤",
+   "orig": "Nightfall",
+   "year": 1941,
+   "space": "경계"
+  },
+  {
+   "id": "humanoids_williamson",
+   "ko": null,
+   "orig": "The Humanoids",
+   "year": 1947,
+   "space": "경계"
+  },
+  {
+   "id": "the_puppet_masters",
+   "ko": null,
+   "orig": "The Puppet Masters",
+   "year": 1951,
+   "space": "경계"
+  },
+  {
+   "id": "simak_city",
+   "ko": null,
+   "orig": "City",
+   "year": 1952,
+   "space": "경계"
+  },
+  {
+   "id": "the_demolished_man",
+   "ko": "파괴된 남자",
+   "orig": "The Demolished Man",
+   "year": 1952,
+   "space": "경계"
+  },
+  {
+   "id": "astro_boy",
+   "ko": "우주소년 아톰",
+   "orig": "鉄腕アトム",
+   "year": 1952,
+   "space": "경계"
+  },
+  {
+   "id": "body_snatchers",
+   "ko": "신체 강탈자의 침입",
+   "orig": "Invasion of the Body Snatchers",
+   "year": 1954,
+   "space": "경계"
+  },
+  {
+   "id": "phoenix_tezuka",
+   "ko": "불새",
+   "orig": "火の鳥",
+   "year": 1954,
+   "space": "경계"
+  },
+  {
+   "id": "a_canticle_for_leibowitz",
+   "ko": "리보위츠를 위한 찬송",
+   "orig": "A Canticle for Leibowitz",
+   "year": 1955,
+   "space": "경계"
+  },
+  {
+   "id": "the_end_of_eternity",
+   "ko": "영원의 끝",
+   "orig": "The End of Eternity",
+   "year": 1955,
+   "space": "경계"
+  },
+  {
+   "id": "el_eternauta",
+   "ko": null,
+   "orig": "El Eternauta",
+   "year": 1957,
+   "space": "경계"
+  },
+  {
+   "id": "the_black_cloud",
+   "ko": null,
+   "orig": "The Black Cloud",
+   "year": 1957,
+   "space": "경계"
+  },
+  {
+   "id": "the_midwich_cuckoos",
+   "ko": null,
+   "orig": "The Midwich Cuckoos",
+   "year": 1957,
+   "space": "경계"
+  },
+  {
+   "id": "twilight_zone",
+   "ko": "환상특급",
+   "orig": "The Twilight Zone",
+   "year": 1959,
+   "space": "경계"
+  },
+  {
+   "id": "a_for_andromeda",
+   "ko": null,
+   "orig": "A for Andromeda",
+   "year": 1961,
+   "space": "경계"
+  },
+  {
+   "id": "hothouse",
+   "ko": null,
+   "orig": "Hothouse",
+   "year": 1961,
+   "space": "경계"
+  },
+  {
+   "id": "the_jetsons",
+   "ko": "우주가족 젯슨",
+   "orig": "The Jetsons",
+   "year": 1962,
+   "space": "경계"
+  },
+  {
+   "id": "the_man_who_fell_to_earth",
+   "ko": "지구에 떨어진 남자",
+   "orig": "The Man Who Fell to Earth",
+   "year": 1963,
+   "space": "경계"
+  },
+  {
+   "id": "outer_limits",
+   "ko": "제3의 눈",
+   "orig": "The Outer Limits",
+   "year": 1963,
+   "space": "경계"
+  },
+  {
+   "id": "they_live",
+   "ko": "화성인 지구정복",
+   "orig": "They Live",
+   "year": 1963,
+   "space": "경계"
+  },
+  {
+   "id": "weisili",
+   "ko": null,
+   "orig": "卫斯理系列",
+   "year": 1963,
+   "space": "경계"
+  },
+  {
+   "id": "cyborg_009",
+   "ko": "사이보그 009",
+   "orig": "サイボーグ009",
+   "year": 1964,
+   "space": "경계"
+  },
+  {
+   "id": "riverworld",
+   "ko": null,
+   "orig": "Riverworld",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "trigan_empire",
+   "ko": null,
+   "orig": "The Rise and Fall of the Trigan Empire",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "thunderbirds",
+   "ko": "썬더버드",
+   "orig": "Thunderbirds",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "professor_shonku",
+   "ko": null,
+   "orig": "প্রোফেসর শঙ্কু",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "magma_taishi",
+   "ko": "마그마대사",
+   "orig": "マグマ大使",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "hateshinaki_nagare_no_hate_ni",
+   "ko": "끝없는 시간의 흐름 끝에서",
+   "orig": "果しなき流れの果に",
+   "year": 1965,
+   "space": "경계"
+  },
+  {
+   "id": "gor",
+   "ko": null,
+   "orig": "Chronicles of Counter-Earth (Gor)",
+   "year": 1966,
+   "space": "경계"
+  },
+  {
+   "id": "ultraman",
+   "ko": "울트라맨",
+   "orig": "ウルトラマン",
+   "year": 1966,
+   "space": "경계"
+  },
+  {
+   "id": "logans_run",
+   "ko": "로건의 탈출",
+   "orig": "Logan's Run",
+   "year": 1967,
+   "space": "경계"
+  },
+  {
+   "id": "the_einstein_intersection",
+   "ko": null,
+   "orig": "The Einstein Intersection",
+   "year": 1967,
+   "space": "경계"
+  },
+  {
+   "id": "the_invaders",
+   "ko": null,
+   "orig": "The Invaders",
+   "year": 1967,
+   "space": "경계"
+  },
+  {
+   "id": "the_tripods",
+   "ko": null,
+   "orig": "The Tripods",
+   "year": 1967,
+   "space": "경계"
+  },
+  {
+   "id": "genma_taisen",
+   "ko": null,
+   "orig": "幻魔大戦",
+   "year": 1967,
+   "space": "경계"
+  },
+  {
+   "id": "his_masters_voice",
+   "ko": null,
+   "orig": "Głos Pana",
+   "year": 1968,
+   "space": "경계"
+  },
+  {
+   "id": "the_iron_giant",
+   "ko": "아이언 자이언트",
+   "orig": "The Iron Giant",
+   "year": 1968,
+   "space": "경계"
+  },
+  {
+   "id": "the_andromeda_strain",
+   "ko": "안드로메다 스트레인",
+   "orig": "The Andromeda Strain",
+   "year": 1969,
+   "space": "경계"
+  },
+  {
+   "id": "ubik",
+   "ko": "유빅",
+   "orig": "Ubik",
+   "year": 1969,
+   "space": "경계"
+  },
+  {
+   "id": "doraemon",
+   "ko": "도라에몽",
+   "orig": "ドラえもん",
+   "year": 1969,
+   "space": "경계"
+  },
+  {
+   "id": "the_lathe_of_heaven",
+   "ko": "하늘의 물레",
+   "orig": "The Lathe of Heaven",
+   "year": 1971,
+   "space": "경계"
+  },
+  {
+   "id": "spectreman",
+   "ko": null,
+   "orig": "スペクトルマン",
+   "year": 1971,
+   "space": "경계"
+  },
+  {
+   "id": "babel_ii",
+   "ko": "바벨2세",
+   "orig": "バビル2世",
+   "year": 1971,
+   "space": "경계"
+  },
+  {
+   "id": "kamen_rider",
+   "ko": "가면라이더",
+   "orig": "仮面ライダー",
+   "year": 1971,
+   "space": "경계"
+  },
+  {
+   "id": "six_million_dollar_man",
+   "ko": "6백만불의 사나이",
+   "orig": "The Six Million Dollar Man",
+   "year": 1972,
+   "space": "경계"
+  },
+  {
+   "id": "stalker",
+   "ko": "잠입자",
+   "orig": "Пикник на обочине",
+   "year": 1972,
+   "space": "경계"
+  },
+  {
+   "id": "mazinger",
+   "ko": "마징가 Z",
+   "orig": "マジンガーZ",
+   "year": 1972,
+   "space": "경계"
+  },
+  {
+   "id": "gatchaman",
+   "ko": "독수리 5형제",
+   "orig": "科学忍者隊ガッチャマン",
+   "year": 1972,
+   "space": "경계"
+  },
+  {
+   "id": "dreamsnake",
+   "ko": null,
+   "orig": "Dreamsnake",
+   "year": 1973,
+   "space": "경계"
+  },
+  {
+   "id": "the_tomorrow_people",
+   "ko": null,
+   "orig": "The Tomorrow People",
+   "year": 1973,
+   "space": "경계"
+  },
+  {
+   "id": "zone_fighter",
+   "ko": null,
+   "orig": "流星人間ゾーン",
+   "year": 1973,
+   "space": "경계"
+  },
+  {
+   "id": "getter_robo",
+   "ko": "겟타로보",
+   "orig": "ゲッターロボ",
+   "year": 1974,
+   "space": "경계"
+  },
+  {
+   "id": "super_sentai",
+   "ko": "파워레인저",
+   "orig": "スーパー戦隊シリーズ",
+   "year": 1975,
+   "space": "경계"
+  },
+  {
+   "id": "patternist",
+   "ko": null,
+   "orig": "Patternist series",
+   "year": 1976,
+   "space": "경계"
+  },
+  {
+   "id": "mars_yokoyama",
+   "ko": null,
+   "orig": "マーズ",
+   "year": 1976,
+   "space": "경계"
+  },
+  {
+   "id": "combattler_v",
+   "ko": null,
+   "orig": "超電磁ロボ コン・バトラーV",
+   "year": 1976,
+   "space": "경계"
+  },
+  {
+   "id": "robot_taekwon_v",
+   "ko": "로보트 태권 V",
+   "orig": "로보트 태권 V",
+   "year": 1976,
+   "space": "경계"
+  },
+  {
+   "id": "kantau",
+   "ko": "철인 캉타우",
+   "orig": "철인 캉타우",
+   "year": 1976,
+   "space": "경계"
+  },
+  {
+   "id": "coneheads",
+   "ko": "콘헤드 대소동",
+   "orig": "Coneheads",
+   "year": 1977,
+   "space": "경계"
+  },
+  {
+   "id": "judge_dredd",
+   "ko": "저지 드레드",
+   "orig": "Judge Dredd",
+   "year": 1977,
+   "space": "경계"
+  },
+  {
+   "id": "zambot_3",
+   "ko": null,
+   "orig": "無敵超人ザンボット3",
+   "year": 1977,
+   "space": "경계"
+  },
+  {
+   "id": "voltes_v",
+   "ko": "초전자머신 볼테스 V",
+   "orig": "超電磁マシーン ボルテスV",
+   "year": 1977,
+   "space": "경계"
+  },
+  {
+   "id": "urusei_yatsura",
+   "ko": "시끌별 녀석들",
+   "orig": "うる星やつら",
+   "year": 1978,
+   "space": "경계"
+  },
+  {
+   "id": "future_boy_conan",
+   "ko": "미래소년 코난",
+   "orig": "未来少年コナン",
+   "year": 1978,
+   "space": "경계"
+  },
+  {
+   "id": "sento_yosei_yukikaze",
+   "ko": "전투요정 유키카제",
+   "orig": "戦闘妖精・雪風",
+   "year": 1979,
+   "space": "경계"
+  },
+  {
+   "id": "godian",
+   "ko": null,
+   "orig": "闘士ゴーディアン",
+   "year": 1979,
+   "space": "경계"
+  },
+  {
+   "id": "nikopol",
+   "ko": "엥키 빌랄의 니코폴",
+   "orig": "La Trilogie Nikopol",
+   "year": 1980,
+   "space": "경계"
+  },
+  {
+   "id": "book_of_the_new_sun",
+   "ko": null,
+   "orig": "The Book of the New Sun",
+   "year": 1980,
+   "space": "경계"
+  },
+  {
+   "id": "wolfenstein",
+   "ko": null,
+   "orig": "Wolfenstein",
+   "year": 1981,
+   "space": "경계"
+  },
+  {
+   "id": "battlefield_earth",
+   "ko": "배틀필드",
+   "orig": "Battlefield Earth",
+   "year": 1982,
+   "space": "경계"
+  },
+  {
+   "id": "metal_hero",
+   "ko": null,
+   "orig": "宇宙刑事ギャバン",
+   "year": 1982,
+   "space": "경계"
+  },
+  {
+   "id": "v_1983",
+   "ko": "브이",
+   "orig": "V",
+   "year": 1983,
+   "space": "경계"
+  },
+  {
+   "id": "orguss",
+   "ko": "초시공세기 오거스",
+   "orig": "超時空世紀オーガス",
+   "year": 1983,
+   "space": "경계"
+  },
+  {
+   "id": "space_gundam_v",
+   "ko": "스페이스 간담 V",
+   "orig": "스페이스 간담 V",
+   "year": 1983,
+   "space": "경계"
+  },
+  {
+   "id": "dooly",
+   "ko": "아기공룡 둘리",
+   "orig": "아기공룡 둘리",
+   "year": 1983,
+   "space": "경계"
+  },
+  {
+   "id": "sprawl",
+   "ko": "뉴로맨서",
+   "orig": "Sprawl trilogy",
+   "year": 1984,
+   "space": "경계"
+  },
+  {
+   "id": "tmnt",
+   "ko": "거북이 특공대",
+   "orig": "Teenage Mutant Ninja Turtles",
+   "year": 1984,
+   "space": "경계"
+  },
+  {
+   "id": "giant_gorg",
+   "ko": "거신 고그",
+   "orig": "巨神ゴーグ",
+   "year": 1984,
+   "space": "경계"
+  },
+  {
+   "id": "galvion",
+   "ko": null,
+   "orig": "超攻速ガルビオン",
+   "year": 1984,
+   "space": "경계"
+  },
+  {
+   "id": "thundercats",
+   "ko": "썬더캣츠",
+   "orig": "ThunderCats",
+   "year": 1985,
+   "space": "경계"
+  },
+  {
+   "id": "guyver",
+   "ko": "철인전사 가이버",
+   "orig": "強殖装甲ガイバー",
+   "year": 1985,
+   "space": "경계"
+  },
+  {
+   "id": "dancouga",
+   "ko": "초수기신 단쿠가",
+   "orig": "超獣機神ダンクーガ",
+   "year": 1985,
+   "space": "경계"
+  },
+  {
+   "id": "birdy",
+   "ko": "철완 버디 DECODE",
+   "orig": "鉄腕バーディー",
+   "year": 1985,
+   "space": "경계"
+  },
+  {
+   "id": "please_save_my_earth",
+   "ko": "나의 지구를 지켜줘",
+   "orig": "ぼくの地球を守って",
+   "year": 1986,
+   "space": "경계"
+  },
+  {
+   "id": "project_ako",
+   "ko": "극장판 프로젝트 A-Ko",
+   "orig": "プロジェクトA子",
+   "year": 1986,
+   "space": "경계"
+  },
+  {
+   "id": "maniac_mansion",
+   "ko": null,
+   "orig": "Maniac Mansion",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "sphere_crichton",
+   "ko": "스피어",
+   "orig": "Sphere",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "tommyknockers",
+   "ko": null,
+   "orig": "The Tommyknockers",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "wild_cards",
+   "ko": "와일드카드",
+   "orig": "Wild Cards",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "mega_man",
+   "ko": "록맨",
+   "orig": "ロックマン",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "contra",
+   "ko": null,
+   "orig": "魂斗羅",
+   "year": 1987,
+   "space": "경계"
+  },
+  {
+   "id": "cyberpunk",
+   "ko": "사이버펑크",
+   "orig": "Cyberpunk",
+   "year": 1988,
+   "space": "경계"
+  },
+  {
+   "id": "zak_mckracken",
+   "ko": null,
+   "orig": "Zak McKracken and the Alien Mindbenders",
+   "year": 1988,
+   "space": "경계"
+  },
+  {
+   "id": "mother",
+   "ko": null,
+   "orig": "MOTHER",
+   "year": 1989,
+   "space": "경계"
+  },
+  {
+   "id": "machine_warrior_109",
+   "ko": "기계전사 109",
+   "orig": "기계전사 109",
+   "year": 1989,
+   "space": "경계"
+  },
+  {
+   "id": "men_in_black",
+   "ko": "맨인블랙",
+   "orig": "Men in Black",
+   "year": 1990,
+   "space": "경계"
+  },
+  {
+   "id": "rifts",
+   "ko": null,
+   "orig": "Rifts",
+   "year": 1990,
+   "space": "경계"
+  },
+  {
+   "id": "nadia",
+   "ko": "신비한 바다의 나디아",
+   "orig": "ふしぎの海のナディア",
+   "year": 1990,
+   "space": "경계"
+  },
+  {
+   "id": "nana_toshi_monogatari",
+   "ko": "일곱 도시 이야기",
+   "orig": "七都市物語",
+   "year": 1990,
+   "space": "경계"
+  },
+  {
+   "id": "gunnm",
+   "ko": "총몽",
+   "orig": "銃夢",
+   "year": 1990,
+   "space": "경계"
+  },
+  {
+   "id": "another_world",
+   "ko": null,
+   "orig": "Another World",
+   "year": 1991,
+   "space": "경계"
+  },
+  {
+   "id": "battle_isle",
+   "ko": null,
+   "orig": "Battle Isle",
+   "year": 1991,
+   "space": "경계"
+  },
+  {
+   "id": "duke_nukem",
+   "ko": null,
+   "orig": "Duke Nukem",
+   "year": 1991,
+   "space": "경계"
+  },
+  {
+   "id": "nathan_never",
+   "ko": null,
+   "orig": "Nathan Never",
+   "year": 1991,
+   "space": "경계"
+  },
+  {
+   "id": "orgun",
+   "ko": null,
+   "orig": "デトネイター・オーガン",
+   "year": 1991,
+   "space": "경계"
+  },
+  {
+   "id": "quarantine_egan",
+   "ko": "쿼런틴",
+   "orig": "Quarantine",
+   "year": 1992,
+   "space": "경계"
+  },
+  {
+   "id": "earthseed",
+   "ko": "씨앗을 뿌리는 사람의 우화",
+   "orig": "Earthseed (Parable)",
+   "year": 1993,
+   "space": "경계"
+  },
+  {
+   "id": "the_journeyman_project",
+   "ko": null,
+   "orig": "The Journeyman Project",
+   "year": 1993,
+   "space": "경계"
+  },
+  {
+   "id": "the_x_files",
+   "ko": "엑스파일",
+   "orig": "The X-Files",
+   "year": 1993,
+   "space": "경계"
+  },
+  {
+   "id": "end_of_an_era",
+   "ko": "멸종",
+   "orig": "End of an Era",
+   "year": 1994,
+   "space": "경계"
+  },
+  {
+   "id": "little_big_adventure",
+   "ko": null,
+   "orig": "Little Big Adventure",
+   "year": 1994,
+   "space": "경계"
+  },
+  {
+   "id": "xcom",
+   "ko": "엑스컴",
+   "orig": "X-COM / XCOM",
+   "year": 1994,
+   "space": "경계"
+  },
+  {
+   "id": "command_and_conquer_tiberium",
+   "ko": "커맨드 앤 컨커",
+   "orig": "Command & Conquer (Tiberium)",
+   "year": 1995,
+   "space": "경계"
+  },
+  {
+   "id": "chrono",
+   "ko": null,
+   "orig": "クロノ・トリガー",
+   "year": 1995,
+   "space": "경계"
+  },
+  {
+   "id": "virtual_on",
+   "ko": null,
+   "orig": "電脳戦機バーチャロン",
+   "year": 1995,
+   "space": "경계"
+  },
+  {
+   "id": "changsegijeon",
+   "ko": "창세기전",
+   "orig": "창세기전",
+   "year": 1995,
+   "space": "경계"
+  },
+  {
+   "id": "animorphs",
+   "ko": "애니모프",
+   "orig": "Animorphs",
+   "year": 1996,
+   "space": "경계"
+  },
+  {
+   "id": "command_and_conquer_red_alert",
+   "ko": "레드 얼럿",
+   "orig": "Command & Conquer: Red Alert",
+   "year": 1996,
+   "space": "경계"
+  },
+  {
+   "id": "blame",
+   "ko": "블레임",
+   "orig": "BLAME!",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "fallout",
+   "ko": null,
+   "orig": "Fallout",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "earth_final_conflict",
+   "ko": null,
+   "orig": "Gene Roddenberry's Earth: Final Conflict",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "armored_core",
+   "ko": "아머드 코어",
+   "orig": "アーマード・コア",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "final_fantasy_vii",
+   "ko": null,
+   "orig": "ファイナルファンタジーVII",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "gaogaigar",
+   "ko": "용자왕 가오가이가",
+   "orig": "勇者王ガオガイガー",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "haemosu",
+   "ko": "녹색전차 해모수",
+   "orig": "녹색전차 해모수",
+   "year": 1997,
+   "space": "경계"
+  },
+  {
+   "id": "arrival",
+   "ko": "컨택트",
+   "orig": "Arrival",
+   "year": 1998,
+   "space": "경계"
+  },
+  {
+   "id": "half_life",
+   "ko": null,
+   "orig": "Half-Life",
+   "year": 1998,
+   "space": "경계"
+  },
+  {
+   "id": "mahoromatic",
+   "ko": "마호로매틱",
+   "orig": "まほろまてぃっく",
+   "year": 1998,
+   "space": "경계"
+  },
+  {
+   "id": "alien_nine",
+   "ko": "에일리언 9",
+   "orig": "エイリアン9",
+   "year": 1998,
+   "space": "경계"
+  },
+  {
+   "id": "keroro",
+   "ko": "개구리 하사 케로로",
+   "orig": "ケロロ軍曹",
+   "year": 1999,
+   "space": "경계"
+  },
+  {
+   "id": "scrapped_princess",
+   "ko": "스크랩드 프린세스",
+   "orig": "スクラップド・プリンセス",
+   "year": 1999,
+   "space": "경계"
+  },
+  {
+   "id": "trinity_blood",
+   "ko": "트리니티 블러드",
+   "orig": "トリニティ・ブラッド",
+   "year": 1999,
+   "space": "경계"
+  },
+  {
+   "id": "yomigaeri",
+   "ko": "부활",
+   "orig": "黄泉がえり",
+   "year": 1999,
+   "space": "경계"
+  },
+  {
+   "id": "gantz",
+   "ko": "간츠",
+   "orig": "GANTZ",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "perfect_dark",
+   "ko": null,
+   "orig": "Perfect Dark",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "under_the_skin",
+   "ko": "언더 더 스킨",
+   "orig": "Under the Skin",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "argento_soma",
+   "ko": "아르젠토 소마",
+   "orig": "アルジェントソーマ",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "flcl",
+   "ko": "프리크리",
+   "orig": "フリクリ",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "trizenon",
+   "ko": "무적왕 트라이제논",
+   "orig": "無敵王トライゼノン",
+   "year": 2000,
+   "space": "경계"
+  },
+  {
+   "id": "invader_zim",
+   "ko": "우주 스파이 짐",
+   "orig": "Invader Zim",
+   "year": 2001,
+   "space": "경계"
+  },
+  {
+   "id": "jak_and_daxter",
+   "ko": "잭 앤 댁스터",
+   "orig": "Jak and Daxter",
+   "year": 2001,
+   "space": "경계"
+  },
+  {
+   "id": "samurai_jack",
+   "ko": null,
+   "orig": "Samurai Jack",
+   "year": 2001,
+   "space": "경계"
+  },
+  {
+   "id": "serious_sam",
+   "ko": null,
+   "orig": "Serious Sam",
+   "year": 2001,
+   "space": "경계"
+  },
+  {
+   "id": "iriya_no_sora",
+   "ko": "이리야의 하늘, UFO의 여름",
+   "orig": "イリヤの空、UFOの夏",
+   "year": 2001,
+   "space": "경계"
+  },
+  {
+   "id": "lilo_and_stitch",
+   "ko": "릴로 & 스티치",
+   "orig": "Lilo & Stitch",
+   "year": 2002,
+   "space": "경계"
+  },
+  {
+   "id": "rahxephon",
+   "ko": "라제폰",
+   "orig": "ラーゼフォン",
+   "year": 2002,
+   "space": "경계"
+  },
+  {
+   "id": "gravion",
+   "ko": "초중신 그라비온",
+   "orig": "超重神グラヴィオン",
+   "year": 2002,
+   "space": "경계"
+  },
+  {
+   "id": "interstella_5555",
+   "ko": "인터스텔라 5555",
+   "orig": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+   "year": 2003,
+   "space": "경계"
+  },
+  {
+   "id": "muv_luv",
+   "ko": null,
+   "orig": "マブラヴ",
+   "year": 2003,
+   "space": "경계"
+  },
+  {
+   "id": "earth_defense_force",
+   "ko": "지구방위군",
+   "orig": "地球防衛軍",
+   "year": 2003,
+   "space": "경계"
+  },
+  {
+   "id": "suzumiya_haruhi",
+   "ko": "스즈미야 하루히의 우울",
+   "orig": "涼宮ハルヒの憂鬱",
+   "year": 2003,
+   "space": "경계"
+  },
+  {
+   "id": "gintama",
+   "ko": "은혼",
+   "orig": "銀魂",
+   "year": 2003,
+   "space": "경계"
+  },
+  {
+   "id": "edge_of_tomorrow",
+   "ko": "엣지 오브 투모로우",
+   "orig": "All You Need Is Kill",
+   "year": 2004,
+   "space": "경계"
+  },
+  {
+   "id": "remina",
+   "ko": "지옥별 레미나",
+   "orig": "地獄星レミナ",
+   "year": 2004,
+   "space": "경계"
+  },
+  {
+   "id": "fafner",
+   "ko": "창궁의 파프너",
+   "orig": "蒼穹のファフナー",
+   "year": 2004,
+   "space": "경계"
+  },
+  {
+   "id": "destroy_all_humans",
+   "ko": "디스트로이 올 휴먼!",
+   "orig": "Destroy All Humans!",
+   "year": 2005,
+   "space": "경계"
+  },
+  {
+   "id": "eureka_seven",
+   "ko": "교향시편 유레카 세븐",
+   "orig": "交響詩篇エウレカセブン",
+   "year": 2005,
+   "space": "경계"
+  },
+  {
+   "id": "aquarion",
+   "ko": "창성의 아쿠에리온",
+   "orig": "創聖のアクエリオン",
+   "year": 2005,
+   "space": "경계"
+  },
+  {
+   "id": "before_we_vanish",
+   "ko": "산책하는 침략자",
+   "orig": "散歩する侵略者",
+   "year": 2005,
+   "space": "경계"
+  },
+  {
+   "id": "gears_of_war",
+   "ko": null,
+   "orig": "Gears of War",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "resistance",
+   "ko": null,
+   "orig": "Resistance",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "to_love_ru",
+   "ko": "To LOVE 트러블",
+   "orig": "To LOVEる -とらぶる-",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "exa_pico",
+   "ko": null,
+   "orig": "アルトネリコ / サージュ・コンチェルト",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "ergo_proxy",
+   "ko": "에르고 프록시",
+   "orig": "エルゴプラクシー",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "woo_2006",
+   "ko": null,
+   "orig": "生物彗星WoO",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "daerijeon",
+   "ko": "대리전",
+   "orig": "대리전",
+   "year": 2006,
+   "space": "경계"
+  },
+  {
+   "id": "crysis",
+   "ko": null,
+   "orig": "Crysis",
+   "year": 2007,
+   "space": "경계"
+  },
+  {
+   "id": "home_2015",
+   "ko": "홈",
+   "orig": "Home",
+   "year": 2007,
+   "space": "경계"
+  },
+  {
+   "id": "umbrella_academy",
+   "ko": "엄브렐러 아카데미",
+   "orig": "The Umbrella Academy",
+   "year": 2007,
+   "space": "경계"
+  },
+  {
+   "id": "universe_at_war",
+   "ko": null,
+   "orig": "Universe at War: Earth Assault",
+   "year": 2007,
+   "space": "경계"
+  },
+  {
+   "id": "freezing",
+   "ko": "프리징",
+   "orig": "フリージング",
+   "year": 2007,
+   "space": "경계"
+  },
+  {
+   "id": "the_host_2008",
+   "ko": "호스트",
+   "orig": "The Host",
+   "year": 2008,
+   "space": "경계"
+  },
+  {
+   "id": "monsters_vs_aliens",
+   "ko": "몬스터 vs 에이리언",
+   "orig": "Monsters vs. Aliens",
+   "year": 2009,
+   "space": "경계"
+  },
+  {
+   "id": "shanghai_fortress",
+   "ko": "상해보루",
+   "orig": "上海堡垒",
+   "year": 2009,
+   "space": "경계"
+  },
+  {
+   "id": "rokujouma",
+   "ko": "단칸방의 침략자!?",
+   "orig": "六畳間の侵略者!?",
+   "year": 2009,
+   "space": "경계"
+  },
+  {
+   "id": "zero_escape",
+   "ko": null,
+   "orig": "極限脱出",
+   "year": 2009,
+   "space": "경계"
+  },
+  {
+   "id": "lorien_legacies",
+   "ko": "로리언레거시 시리즈",
+   "orig": "Lorien Legacies",
+   "year": 2010,
+   "space": "경계"
+  },
+  {
+   "id": "nier",
+   "ko": "니어",
+   "orig": "NieR",
+   "year": 2010,
+   "space": "경계"
+  },
+  {
+   "id": "xenoblade_chronicles",
+   "ko": "제노블레이드 크로니클스",
+   "orig": "ゼノブレイド",
+   "year": 2010,
+   "space": "경계"
+  },
+  {
+   "id": "anno_2070",
+   "ko": null,
+   "orig": "Anno 2070",
+   "year": 2011,
+   "space": "경계"
+  },
+  {
+   "id": "black_mirror",
+   "ko": "블랙 미러",
+   "orig": "Black Mirror",
+   "year": 2011,
+   "space": "경계"
+  },
+  {
+   "id": "cowboys_aliens",
+   "ko": "카우보이 & 에이리언",
+   "orig": "Cowboys & Aliens",
+   "year": 2011,
+   "space": "경계"
+  },
+  {
+   "id": "falling_skies",
+   "ko": "폴링 스카이",
+   "orig": "Falling Skies",
+   "year": 2011,
+   "space": "경계"
+  },
+  {
+   "id": "resident_alien",
+   "ko": "레지던트 에이리언",
+   "orig": "Resident Alien",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "long_earth",
+   "ko": null,
+   "orig": "The Long Earth",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "hitoribocchi",
+   "ko": "외톨이의 지구침략",
+   "orig": "ひとりぼっちの地球侵略",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "land_of_the_lustrous",
+   "ko": "보석의 나라",
+   "orig": "宝石の国",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "duty_after_school",
+   "ko": "방과 후 전쟁활동",
+   "orig": "방과 후 전쟁활동",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "jiguesoe_hanappun",
+   "ko": "지구에서 한아뿐",
+   "orig": "지구에서 한아뿐",
+   "year": 2012,
+   "space": "경계"
+  },
+  {
+   "id": "defiance",
+   "ko": null,
+   "orig": "Defiance",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "steamworld",
+   "ko": null,
+   "orig": "SteamWorld",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "fifth_wave",
+   "ko": "제5침공",
+   "orig": "The 5th Wave",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "kill_la_kill",
+   "ko": "킬라킬",
+   "orig": "キルラキル",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "world_trigger",
+   "ko": "월드 트리거",
+   "orig": "ワールドトリガー",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "my_love_from_the_star",
+   "ko": "별에서 온 그대",
+   "orig": "별에서 온 그대",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "ajigeun_sini_aniya",
+   "ko": "아직은 신이 아니야",
+   "orig": "아직은 신이 아니야",
+   "year": 2013,
+   "space": "경계"
+  },
+  {
+   "id": "neo_scavenger",
+   "ko": null,
+   "orig": "NEO Scavenger",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "southern_reach",
+   "ko": "서던 리치 시리즈",
+   "orig": "Southern Reach",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "xenonauts",
+   "ko": "제노너츠",
+   "orig": "Xenonauts",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "inuyashiki",
+   "ko": "이누야시키",
+   "orig": "いぬやしき",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "girly_air_force",
+   "ko": "걸리 에어포스",
+   "orig": "ガーリー・エアフォース",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "dededede",
+   "ko": "데드데드 데몬즈 디디디디 디스트럭션",
+   "orig": "デッドデッドデーモンズデデデデデストラクション",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "jiguinipnida",
+   "ko": "지구인입니다",
+   "orig": "지구인입니다",
+   "year": 2014,
+   "space": "경계"
+  },
+  {
+   "id": "soma",
+   "ko": null,
+   "orig": "SOMA",
+   "year": 2015,
+   "space": "경계"
+  },
+  {
+   "id": "broken_earth",
+   "ko": "부서진 대지 3부작",
+   "orig": "The Broken Earth",
+   "year": 2015,
+   "space": "경계"
+  },
+  {
+   "id": "arc_of_a_scythe",
+   "ko": "수확자 시리즈",
+   "orig": "Arc of a Scythe",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "colony",
+   "ko": null,
+   "orig": "Colony",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "obduction",
+   "ko": null,
+   "orig": "Obduction",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "overwatch",
+   "ko": "오버워치",
+   "orig": "Overwatch",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "kuromukuro",
+   "ko": "쿠로무쿠로",
+   "orig": "クロムクロ",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "honkai_impact_3rd",
+   "ko": "붕괴3rd",
+   "orig": "崩坏3",
+   "year": 2016,
+   "space": "경계"
+  },
+  {
+   "id": "dr_stone",
+   "ko": null,
+   "orig": "Dr.STONE",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "elex",
+   "ko": null,
+   "orig": "ELEX",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "horizon",
+   "ko": "호라이즌",
+   "orig": "Horizon",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "aposimz",
+   "ko": "인형의 나라",
+   "orig": "人形の国",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "kado_the_right_answer",
+   "ko": "카도: The Right Answer",
+   "orig": "正解するカド",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "circle_kr",
+   "ko": "써클: 이어진 두 세계",
+   "orig": "써클: 이어진 두 세계",
+   "year": 2017,
+   "space": "경계"
+  },
+  {
+   "id": "darling_in_the_franxx",
+   "ko": "달링 인 더 프랑키스",
+   "orig": "ダーリン・イン・ザ・フランキス",
+   "year": 2018,
+   "space": "경계"
+  },
+  {
+   "id": "love_death_robots",
+   "ko": "러브, 데스 + 로봇",
+   "orig": "Love, Death & Robots",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "phoenix_point",
+   "ko": null,
+   "orig": "Phoenix Point",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "remnant",
+   "ko": "렘넌트",
+   "orig": "Remnant",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "promare",
+   "ko": "프로메어",
+   "orig": "プロメア",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "thirteen_sentinels",
+   "ko": "13기병방위권",
+   "orig": "十三機兵防衛圏",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "arknights",
+   "ko": "명일방주",
+   "orig": "明日方舟",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "muneojin_dari",
+   "ko": "무너진 다리",
+   "orig": "무너진 다리",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "forest_dam",
+   "ko": "숲속의 담",
+   "orig": "숲속의 담",
+   "year": 2019,
+   "space": "경계"
+  },
+  {
+   "id": "solar_opposites",
+   "ko": "솔라 오포짓",
+   "orig": "Solar Opposites",
+   "year": 2020,
+   "space": "경계"
+  },
+  {
+   "id": "invasion_2021",
+   "ko": "인베이션",
+   "orig": "Invasion",
+   "year": 2021,
+   "space": "경계"
+  },
+  {
+   "id": "iron_widow",
+   "ko": "아이언 위도우",
+   "orig": "Iron Widow",
+   "year": 2021,
+   "space": "경계"
+  },
+  {
+   "id": "takopi",
+   "ko": "타코피의 원죄",
+   "orig": "タコピーの原罪",
+   "year": 2021,
+   "space": "경계"
+  },
+  {
+   "id": "dandadan",
+   "ko": "단다단",
+   "orig": "ダンダダン",
+   "year": 2021,
+   "space": "경계"
+  },
+  {
+   "id": "your_utopia",
+   "ko": "너의 유토피아",
+   "orig": "너의 유토피아",
+   "year": 2021,
+   "space": "경계"
+  },
+  {
+   "id": "netflix_1899",
+   "ko": "1899",
+   "orig": "1899",
+   "year": 2022,
+   "space": "경계"
+  },
+  {
+   "id": "somerville",
+   "ko": null,
+   "orig": "Somerville",
+   "year": 2022,
+   "space": "경계"
+  },
+  {
+   "id": "heaven_burns_red",
+   "ko": "헤븐 번즈 레드",
+   "orig": "ヘブンバーンズレッド",
+   "year": 2022,
+   "space": "경계"
+  },
+  {
+   "id": "nikke",
+   "ko": "승리의 여신: 니케",
+   "orig": "승리의 여신: 니케",
+   "year": 2022,
+   "space": "경계"
+  },
+  {
+   "id": "planet_of_lana",
+   "ko": null,
+   "orig": "Planet of Lana",
+   "year": 2023,
+   "space": "경계"
+  },
+  {
+   "id": "snowbreak",
+   "ko": "스노우 브레이크: 포비든 존",
+   "orig": "尘白禁区",
+   "year": 2023,
+   "space": "경계"
+  },
+  {
+   "id": "1000xresist",
+   "ko": null,
+   "orig": "1000xRESIST",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "stormgate",
+   "ko": "스톰게이트",
+   "orig": "Stormgate",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "the_first_descendant",
+   "ko": "퍼스트 디센던트",
+   "orig": "The First Descendant",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "once_human",
+   "ko": null,
+   "orig": "七日世界",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "nine_sols",
+   "ko": "나인 솔즈",
+   "orig": "九日",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "bravern",
+   "ko": "용기폭발 뱅브레이번",
+   "orig": "勇気爆発バーンブレイバーン",
+   "year": 2024,
+   "space": "경계"
+  },
+  {
+   "id": "arc_raiders",
+   "ko": null,
+   "orig": "ARC Raiders",
+   "year": 2025,
+   "space": "경계"
+  },
+  {
+   "id": "pluribus",
+   "ko": "플루리부스: 행복의 시대",
+   "orig": "Pluribus",
+   "year": 2025,
+   "space": "경계"
+  },
+  {
+   "id": "apocalypse_hotel",
+   "ko": "아포칼립스 호텔",
+   "orig": "アポカリプスホテル",
+   "year": 2025,
+   "space": "경계"
+  },
+  {
+   "id": "hotspot_2025",
+   "ko": "핫스팟: 우주인 출몰 주의!",
+   "orig": "ホットスポット",
+   "year": 2025,
+   "space": "경계"
+  },
+  {
+   "id": "chaos_zero_nightmare",
+   "ko": "카오스 제로 나이트메어",
+   "orig": "카오스 제로 나이트메어",
+   "year": 2025,
+   "space": "경계"
+  }
+ ]
+}

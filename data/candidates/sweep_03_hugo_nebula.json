@@ -1,0 +1,7626 @@
+{
+  "group": "sweep_03_hugo_nebula",
+  "candidates": [
+    {
+      "id": "theyd_rather_be_right",
+      "orig": "They'd Rather Be Right",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "They'd Rather Be Right (1954)",
+      "by": "Mark Clifton · Frank Riley",
+      "year": 1954,
+      "country": "미국",
+      "setting": "두 교수가 만든 생각하는 기계가, 편견을 버린 사람에게만 젊음과 영생을 준다.",
+      "concepts": [
+        "ai",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1955 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "three_to_conquer",
+      "orig": "Three to Conquer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Three to Conquer (1955)",
+      "by": "Eric Frank Russell",
+      "year": 1955,
+      "country": "영국",
+      "setting": "사람 몸을 차지하는 외계 침입자에 텔레파시 능력자가 혼자 맞선다.",
+      "concepts": [
+        "telepathy",
+        "parasite",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1956 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "not_this_august",
+      "orig": "Not This August",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Not This August (1955)",
+      "by": "Cyril M. Kornbluth",
+      "year": 1955,
+      "country": "미국",
+      "setting": "북미가 소련·중국과의 전쟁에 지고 점령당한 1960년대, 사람들이 몰래 버틴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1956 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_enemy_stars",
+      "orig": "The Enemy Stars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Enemy Stars (1958)",
+      "by": "Poul Anderson",
+      "year": 1958,
+      "country": "미국",
+      "setting": "빛 절반 속도로 가는 별 사이 배에, 승무원은 물질 송신기로 순간 이동해 오간다.",
+      "concepts": [
+        "sublight",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1959 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "who_budrys",
+      "orig": "Who?",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Who? (1958)",
+      "by": "Algis Budrys",
+      "year": 1958,
+      "country": "미국",
+      "setting": "냉전 속 소련에 끌려갔다 기계 팔·머리로 돌아온 물리학자가 정말 본인인지 가려야 한다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1959 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "immortality_inc",
+      "orig": "Immortality, Inc.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Immortality, Inc. (1958)",
+      "by": "Robert Sheckley",
+      "year": 1958,
+      "country": "미국",
+      "setting": "1958년에 죽은 남자가 2110년 남의 몸에서 깨어나, 의식을 옮겨 파는 세상을 겪는다.",
+      "concepts": [
+        "mind_upload",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1959 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_pirates_of_zan",
+      "orig": "The Pirates of Zan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Pirates of Zan (1959)",
+      "by": "Murray Leinster",
+      "year": 1959,
+      "country": "미국",
+      "setting": "한때 기술자였던 사내가 별 사이 해적이 되어, 겉과 다른 목적을 좇는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1960 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_high_crusade",
+      "orig": "The High Crusade",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The High Crusade (1960)",
+      "by": "Poul Anderson",
+      "year": 1960,
+      "country": "미국",
+      "setting": "1345년 잉글랜드 마을에 외계 제국 정찰선이 내려앉고, 기사들이 그 배를 빼앗는다.",
+      "concepts": [
+        "alien_invasion",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1961 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "deathworld",
+      "orig": "Deathworld",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Deathworld (1960) · Deathworld 2 (1964) · Deathworld 3 (1968) 등 — 상: Deathworld 휴고상 1961 장편 최종 후보",
+      "by": "Harry Harrison",
+      "year": 1960,
+      "country": "미국",
+      "setting": "사람이 개척한 가장 사나운 행성 피러스에, 초능력 도박사가 따라나선다.",
+      "concepts": [
+        "psionics",
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1961 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "venus_plus_x",
+      "orig": "Venus Plus X",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Venus Plus X (1960)",
+      "by": "Theodore Sturgeon",
+      "year": 1960,
+      "country": "미국",
+      "setting": "깨어난 남자가 남녀 구분 없이 사는 기술 사회 레돔에 와 있다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1961 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark_universe_galouye",
+      "orig": "Dark Universe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Dark Universe (1961)",
+      "by": "Daniel F. Galouye",
+      "year": 1961,
+      "country": "미국",
+      "setting": "핵전쟁 뒤 완전한 어둠의 땅속에서, 생존자들은 빛을 신화로만 기억한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1962 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "planet_of_the_damned",
+      "orig": "Planet of the Damned",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Planet of the Damned (1961)",
+      "by": "Harry Harrison",
+      "year": 1961,
+      "country": "미국",
+      "setting": "긴 겨울 행성의 경기 우승자가, 이웃 행성을 코발트 폭탄으로 위협하는 사막 행성에 간다.",
+      "concepts": [
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1962 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_is_the_simplest_thing",
+      "orig": "Time Is the Simplest Thing",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Time Is the Simplest Thing (1961)",
+      "by": "Clifford D. Simak",
+      "year": 1961,
+      "country": "미국",
+      "setting": "우주선을 포기한 인류가 정신만 먼 행성으로 보내 탐사하고, 초능력자는 미움받는다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1962 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "second_ending",
+      "orig": "Second Ending",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Second Ending (1961)",
+      "by": "James White",
+      "year": 1961,
+      "country": "영국",
+      "setting": "거듭된 핵전쟁 뒤 지구에 하나 남은 사람이 로봇들과 지낸다.",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1962 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_fall_of_moondust",
+      "orig": "A Fall of Moondust",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Fall of Moondust (1961)",
+      "by": "Arthur C. Clarke",
+      "year": 1961,
+      "country": "영국",
+      "setting": "사람이 사는 21세기 달, 먼지 바다를 건너던 유람선이 지진에 먼지 속으로 가라앉는다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1963 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "little_fuzzy",
+      "orig": "Little Fuzzy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Little Fuzzy (1962) · Fuzzy Sapiens (1964) · Fuzzies and Other People (1984) 등 — 상: Little Fuzzy 휴고상 1963 장편 최종 후보",
+      "by": "H. Beam Piper",
+      "year": 1962,
+      "country": "미국",
+      "setting": "개척 회사가 차지한 행성 자라투스트라에서, 털북숭이 작은 생물이 지성체인지를 다툰다.",
+      "concepts": [
+        "alien",
+        "colonization",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1963 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "glory_road",
+      "orig": "Glory Road",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Glory Road (1963)",
+      "by": "Robert A. Heinlein",
+      "year": 1963,
+      "country": "미국",
+      "setting": "제대한 참전 군인이 광고 한 줄에 이끌려 여러 평행 세계를 오가는 모험에 든다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1964 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "witch_world",
+      "orig": "Witch World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Witch World (1963) ~ 수십 권, 다른 작가들과 함께 쓴 연작 — 상: Witch World 휴고상 1964 장편 최종 후보",
+      "by": "Andre Norton",
+      "year": 1963,
+      "country": "미국",
+      "setting": "쫓기던 전직 군인이, 앉은 이에게 맞는 세계로 문을 여는 돌 의자를 거쳐 건너간다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "휴고상 1964 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_wanderer_leiber",
+      "orig": "The Wanderer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Wanderer (1964)",
+      "by": "Fritz Leiber",
+      "year": 1964,
+      "country": "미국",
+      "setting": "개기월식이 끝날 무렵 초공간에서 떠돌이 행성이 달 곁에 나타나 지구가 뒤흔들린다.",
+      "concepts": [
+        "hyperspace",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1965 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_whole_man",
+      "orig": "The Whole Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Whole Man (1964)",
+      "by": "John Brunner",
+      "year": 1964,
+      "country": "영국",
+      "setting": "텔레파시가 알려진 근미래 영국, 몸이 뒤틀린 젊은이가 누구보다 센 텔레파시를 지녔다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "davy_pangborn",
+      "orig": "Davy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Davy (1964)",
+      "by": "Edgar Pangborn",
+      "year": 1964,
+      "country": "미국",
+      "setting": "핵전쟁으로 고도 문명이 끝나고 몇백 년 뒤, 미국 북동부에서 소년이 자란다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_squares_of_the_city",
+      "orig": "The Squares of the City",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Squares of the City (1965)",
+      "by": "John Brunner",
+      "year": 1965,
+      "country": "영국",
+      "setting": "남미의 가상 수도에서, 잠재의식 조종으로 시민을 체스 말처럼 움직이는 권력 싸움.",
+      "concepts": [
+        "mind_control",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1966 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lord_darcy",
+      "orig": "Lord Darcy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Lord Darcy 연작 (1964~) — 장편은 Too Many Magicians (1966) 하나 — 상: Too Many Magicians 휴고상 1967 장편 최종 후보",
+      "by": "Randall Garrett",
+      "year": 1966,
+      "country": "미국",
+      "setting": "플랜태저넷 왕조가 이어지고 마법이 과학처럼 발달한 대체 역사 속 탐정 이야기.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1967 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_witches_of_karres",
+      "orig": "The Witches of Karres",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Witches of Karres (1966)",
+      "by": "James H. Schmitz",
+      "year": 1966,
+      "country": "미국",
+      "setting": "풋내기 우주 상선 선장이 노예로 팔린 세 자매를 구하다가 초능력 '마녀'들과 얽힌다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1967 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chthon",
+      "orig": "Chthon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Chthon (1967) · Phthor (1975) — 상: Chthon 휴고상 1968 장편 최종 후보 · 네뷸러상 1967 장편 최종 후보",
+      "by": "Piers Anthony",
+      "year": 1967,
+      "country": "미국",
+      "setting": "별 사이로 퍼진 지 400년, 행성마다 주기적으로 덮쳐 반을 죽이는 병 '오한'이 돈다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1968 장편 최종 후보 · 네뷸러상 1967 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_butterfly_kid",
+      "orig": "The Butterfly Kid",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Greenwich Village Trilogy — The Butterfly Kid (1967), 다른 두 권은 다른 작가 — 상: The Butterfly Kid 휴고상 1968 장편 최종 후보",
+      "by": "Chester Anderson",
+      "year": 1967,
+      "country": "미국",
+      "setting": "근미래 그리니치빌리지에 외계인이 '현실 알약'을 퍼뜨려 환각이 현실이 된다.",
+      "concepts": [
+        "alien",
+        "awakening_substance"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1968 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "thorns_silverberg",
+      "orig": "Thorns",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Thorns (1967)",
+      "by": "Robert Silverberg",
+      "year": 1967,
+      "country": "미국",
+      "setting": "남의 고통을 먹고 사는 언론 재벌이, 상처 입은 두 사람을 엮어 구경거리로 만든다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1968 장편 최종 후보 · 네뷸러상 1967 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rite_of_passage_panshin",
+      "orig": "Rite of Passage",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Rite of Passage (1968)",
+      "by": "Alexei Panshin",
+      "year": 1968,
+      "country": "미국",
+      "setting": "지구가 망한 뒤 거대한 배에서 사는 사람들, 아이들은 개척 행성에서 30일을 홀로 버틴다.",
+      "concepts": [
+        "earth_left",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1969 장편 최종 후보 · 네뷸러상 1968 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "past_master",
+      "orig": "Past Master",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Past Master (1968)",
+      "by": "R. A. Lafferty",
+      "year": 1968,
+      "country": "미국",
+      "setting": "2535년 무너져 가는 이상향 행성 아스트로베가 시간 여행으로 토머스 모어를 데려온다.",
+      "concepts": [
+        "time_travel",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1969 장편 최종 후보 · 네뷸러상 1968 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_goblin_reservation",
+      "orig": "The Goblin Reservation",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Goblin Reservation (1968)",
+      "by": "Clifford D. Simak",
+      "year": 1968,
+      "country": "미국",
+      "setting": "대학 행성이 된 먼 미래 지구, 시간 대학이 과거를 뒤지고 도깨비가 보호 구역에 산다.",
+      "concepts": [
+        "time_travel",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1969 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "up_the_line",
+      "orig": "Up the Line",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Up the Line (1969)",
+      "by": "Robert Silverberg",
+      "year": 1969,
+      "country": "미국",
+      "setting": "2059년의 시간 관광 안내원이 비잔티움을 오가다 시간 역설에 휘말린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1970 장편 최종 후보 · 네뷸러상 1969 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "macroscope",
+      "orig": "Macroscope",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Macroscope (1969)",
+      "by": "Piers Anthony",
+      "year": 1969,
+      "country": "미국",
+      "setting": "시공간 어디든 또렷이 보는 거대 결정 '매크로스코프'로 외계 문명을 들여다본다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bug_jack_barron",
+      "orig": "Bug Jack Barron",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Bug Jack Barron (1969)",
+      "by": "Norman Spinrad",
+      "year": 1969,
+      "country": "미국",
+      "setting": "냉동 보존으로 영생을 파는 재단과, 시청자 전화를 받는 토크쇼 진행자가 맞선다.",
+      "concepts": [
+        "cryosleep",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1970 장편 최종 후보 · 네뷸러상 1969 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tower_of_glass",
+      "orig": "Tower of Glass",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Tower of Glass (1970)",
+      "by": "Robert Silverberg",
+      "year": 1970,
+      "country": "미국",
+      "setting": "24세기 재벌이 인조인간을 부려, 먼 성운과 교신할 유리 탑을 쌓는다.",
+      "concepts": [
+        "android",
+        "machine_rights"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1971 장편 최종 후보 · 네뷸러상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_year_of_the_quiet_sun",
+      "orig": "The Year of the Quiet Sun",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Year of the Quiet Sun (1970)",
+      "by": "Wilson Tucker",
+      "year": 1970,
+      "country": "미국",
+      "setting": "1978년, 정부가 몰래 만든 시간 이동 장치로 가까운 미래를 살피러 간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1971 장편 최종 후보 · 네뷸러상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jack_of_shadows",
+      "orig": "Jack of Shadows",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Jack of Shadows (1971)",
+      "by": "Roger Zelazny",
+      "year": 1971,
+      "country": "미국",
+      "setting": "한쪽은 늘 낮, 한쪽은 늘 밤인 행성—낮 쪽은 과학이, 밤 쪽은 마법이 다스린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "when_harlie_was_one",
+      "orig": "When HARLIE Was One",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "When HARLIE Was One (1972)",
+      "by": "David Gerrold",
+      "year": 1972,
+      "country": "미국",
+      "setting": "사람처럼 생각하는 인공지능 할리가, 전원이 내려질 위기에 맞서며 자란다.",
+      "concepts": [
+        "ai",
+        "machine_rights"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1973 장편 최종 후보 · 네뷸러상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "there_will_be_time",
+      "orig": "There Will Be Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "There Will Be Time (1972)",
+      "by": "Poul Anderson",
+      "year": 1972,
+      "country": "미국",
+      "setting": "시간을 오가는 돌연변이로 태어난 사람이, 다가올 몰락과 그 뒤 시대를 오간다.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1973 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_book_of_skulls",
+      "orig": "The Book of Skulls",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Book of Skulls (1972)",
+      "by": "Robert Silverberg",
+      "year": 1972,
+      "country": "미국",
+      "setting": "대학생 넷이 영생을 준다는 사막 수도원을 찾아가, 둘만 살아남는 의식을 치른다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1973 장편 최종 후보 · 네뷸러상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_man_who_folded_himself",
+      "orig": "The Man Who Folded Himself",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Man Who Folded Himself (1973)",
+      "by": "David Gerrold",
+      "year": 1973,
+      "country": "미국",
+      "setting": "시간 허리띠를 물려받은 대학생이, 수많은 자기 자신을 만나며 시간을 접는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1974 장편 최종 후보 · 네뷸러상 1973 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fire_time",
+      "orig": "Fire Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Fire Time (1974)",
+      "by": "Poul Anderson",
+      "year": 1974,
+      "country": "미국",
+      "setting": "세 별을 도는 행성 이슈타르에 천 년마다 '불의 때'가 와 북쪽 문명이 무너진다.",
+      "concepts": [
+        "alien",
+        "cycle"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "doorways_in_the_sand",
+      "orig": "Doorways in the Sand",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Doorways in the Sand (1975)",
+      "by": "Roger Zelazny",
+      "year": 1975,
+      "country": "미국",
+      "setting": "외계 연합과 지구가 유물을 맞바꾸는데 '별돌'이 사라지고, 마지막으로 본 학생이 쫓긴다.",
+      "concepts": [
+        "alien",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1976 장편 최종 후보 · 네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_computer_connection",
+      "orig": "The Computer Connection",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Computer Connection (1974)",
+      "by": "Alfred Bester",
+      "year": 1974,
+      "country": "미국",
+      "setting": "몰래 사는 불사자 무리가 동료를 늘리다, 사람을 조종하는 컴퓨터 엑스트로와 부딪친다.",
+      "concepts": [
+        "longevity",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1976 장편 최종 후보 · 네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shadrach_in_the_furnace",
+      "orig": "Shadrach in the Furnace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Shadrach in the Furnace (1976)",
+      "by": "Robert Silverberg",
+      "year": 1976,
+      "country": "미국",
+      "setting": "2012년, 늙은 독재자의 주치의가 몸에 심은 장치로 주인의 건강을 시시각각 느낀다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1977 장편 최종 후보 · 네뷸러상 1976 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "blind_voices",
+      "orig": "Blind Voices",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Blind Voices (1978)",
+      "by": "Tom Reamy",
+      "year": 1978,
+      "country": "미국",
+      "setting": "1930년대 캔자스 작은 마을에 떠돌이 구경거리 쇼가 오고, 전시물 몇몇은 보이는 것 이상이다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1979 장편 최종 후보 · 네뷸러상 1978 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "on_wings_of_song",
+      "orig": "On Wings of Song",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "On Wings of Song (1979)",
+      "by": "Thomas M. Disch",
+      "year": 1979,
+      "country": "미국",
+      "setting": "무너져 가는 21세기 중반 미국, 전자 장치로 넋을 몸 밖에 띄우는 '날기'는 금지된 예술이다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1980 장편 최종 후보 · 네뷸러상 1979 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "pliocene_exile",
+      "orig": "Saga of Pliocene Exile",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Many-Colored Land (1981) ~ The Adversary (1984) 네 권, 뒤이은 Galactic Milieu 연작 — 상: The Many-Colored Land 휴고상 1982 장편 최종 후보 · 네뷸러상 1981 장편 최종 후보",
+      "by": "Julian May",
+      "year": 1981,
+      "country": "미국",
+      "setting": "은하로 퍼진 시대의 사람들이 시간 문을 지나 6백만 년 전 플라이오세로 떠나 산다.",
+      "concepts": [
+        "time_travel",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "휴고상 1982 장편 최종 후보 · 네뷸러상 1981 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_pope",
+      "orig": "Project Pope",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Project Pope (1981)",
+      "by": "Clifford D. Simak",
+      "year": 1981,
+      "country": "미국",
+      "setting": "은하 끝 행성 '무의 끝'에서 로봇들이 모든 앎을 담은 완전무결한 로봇 교황을 만든다.",
+      "concepts": [
+        "robot",
+        "ai",
+        "techno_religion",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1982 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "friday_heinlein",
+      "orig": "Friday",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Friday (1982)",
+      "by": "Robert A. Heinlein",
+      "year": 1982,
+      "country": "미국",
+      "setting": "유전자로 사람보다 뛰어나게 만든 '인조인간' 여성이 비밀 운반원으로 일하며 정체를 숨긴다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1983 장편 최종 후보 · 네뷸러상 1982 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "courtship_rite",
+      "orig": "Courtship Rite",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Courtship Rite (1982)",
+      "by": "Donald Kingsbury",
+      "year": 1982,
+      "country": "캐나다",
+      "setting": "사람이 몇백 년 전 정착한 메마른 행성 게타, 사람을 먹는 풍습이 사회에 자리 잡았다.",
+      "concepts": [
+        "colonization",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1983 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "millennium_varley",
+      "orig": "Millennium",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Millennium (1983)",
+      "by": "John Varley",
+      "year": 1983,
+      "country": "미국",
+      "setting": "전쟁과 오염으로 망가진 먼 미래 인류가 과거로 와, 곧 죽을 사람들을 몰래 데려간다.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "emergence_palmer",
+      "orig": "Emergence",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Emergence (1984)",
+      "by": "David R. Palmer",
+      "year": 1984,
+      "country": "미국",
+      "setting": "문명이 무너진 뒤, 열한 살 고아 소녀가 자신이 다음 단계 인류임을 알게 된다.",
+      "concepts": [
+        "next_human",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1985 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "across_realtime",
+      "orig": "Across Realtime",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Peace War (1984) · The Ungoverned (1985, 중편) · Marooned in Realtime (1986) — 상: The Peace War 휴고상 1985 장편 최종 후보; Marooned in Realtime 휴고상 1987 장편 최종 후보",
+      "by": "Vernor Vinge",
+      "year": 1984,
+      "country": "미국",
+      "setting": "무엇이든 시간이 멈춘 공 '보블'에 가두는 장치가 세상을 묶고, 그 공으로 먼 미래로 건너뛴다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "시간이 멈춘 공(정지장)에 가두기 — 무기·방패·미래로 건너뛰기를 한 장치로",
+      "lore_size": "중간",
+      "notability": "The Peace War: 휴고상 1985 장편 최종 후보; Marooned in Realtime: 휴고상 1987 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "job_heinlein",
+      "orig": "Job: A Comedy of Justice",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Job: A Comedy of Justice (1984)",
+      "by": "Robert A. Heinlein",
+      "year": 1984,
+      "country": "미국",
+      "setting": "자꾸 바뀌는 평행 세계를 떠돌던 신앙인이, 끝내 천국과 지옥에 이른다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1985 장편 최종 후보 · 네뷸러상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_state_niven",
+      "orig": "The State",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A World Out of Time (1976) · The Integral Trees (1984) · The Smoke Ring (1987) — 상: The Integral Trees 휴고상 1985 장편 최종 후보 · 네뷸러상 1984 장편 최종 후보",
+      "by": "Larry Niven",
+      "year": 1976,
+      "country": "미국",
+      "setting": "중성자별 둘레의 거대한 기체 고리 속, 떠다니는 나무에 붙어 사는 사람들의 이야기.",
+      "concepts": [
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1985 장편 최종 후보 · 네뷸러상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cuckoos_egg_cherryh",
+      "orig": "Cuckoo's Egg (book)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Cuckoo's Egg (book) (1985)",
+      "by": "C. J. Cherryh",
+      "year": 1985,
+      "country": "미국",
+      "setting": "외계 종족 쇼누닌의 한 사람이 사람 아기를 맡아, 외딴곳에서 제 방식대로 키운다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1986 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_postman_brin",
+      "orig": "The Postman",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Postman (1985)",
+      "by": "David Brin",
+      "year": 1985,
+      "country": "미국",
+      "setting": "문명이 무너진 오리건, 우체부 옷을 주운 떠돌이가 '되살아난 미합중국' 집배원 행세를 한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1986 장편 최종 후보 · 네뷸러상 1985 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "footfall",
+      "orig": "Footfall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Footfall (1985)",
+      "by": "Larry Niven · Jerry Pournelle",
+      "year": 1985,
+      "country": "미국",
+      "setting": "알파 센타우리에서 온 코끼리 닮은 종족 피프가 큰 배를 몰고 지구를 정복하러 온다.",
+      "concepts": [
+        "alien_invasion",
+        "alien",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1986 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "land_and_overland",
+      "orig": "Land and Overland",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Ragged Astronauts (1986) · The Wooden Spaceships (1988) · The Fugitive Worlds (1989) — 상: The Ragged Astronauts 휴고상 1987 장편 최종 후보",
+      "by": "Bob Shaw",
+      "year": 1986,
+      "country": "영국",
+      "setting": "대기를 함께 쓰는 쌍둥이 행성, 자원이 바닥난 '랜드' 사람들이 열기구로 이웃 행성에 간다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1987 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mission_earth",
+      "orig": "Mission Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mission Earth 열 권 (1985~1987) — 상: Mission Earth 휴고상 1987 장편 최종 후보",
+      "by": "L. Ron Hubbard",
+      "year": 1985,
+      "country": "미국",
+      "setting": "은하 침공 길에 지구를 쓰려는 볼타르 제국이, 지구가 오염으로 망하지 않게 기술자를 보낸다.",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1987 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "budayeen",
+      "orig": "Marîd Audran",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "When Gravity Fails (1986) · A Fire in the Sun (1989) · The Exile Kiss (1991) — 상: When Gravity Fails 휴고상 1988 장편 최종 후보 · 네뷸러상 1987 장편 최종 후보; A Fire in the Sun 휴고상 1990 장편 최종 후보",
+      "by": "George Alec Effinger",
+      "year": 1986,
+      "country": "미국",
+      "setting": "서구가 기운 22세기 말 이슬람 세계의 한 도시, 뒷골목 해결사가 몸을 고쳐 가며 산다.",
+      "concepts": [
+        "cyborg",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "When Gravity Fails: 휴고상 1988 장편 최종 후보 · 네뷸러상 1987 장편 최종 후보; A Fire in the Sun: 휴고상 1990 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "islands_in_the_net",
+      "orig": "Islands in the Net",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Islands in the Net (1988)",
+      "by": "Bruce Sterling",
+      "year": 1988,
+      "country": "미국",
+      "setting": "기업들이 그물망처럼 이어진 2020년대, 평화로워 보이는 세상에서 한 기업 직원이 분쟁에 휘말린다.",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1989 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_boat_of_a_million_years",
+      "orig": "The Boat of a Million Years",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Boat of a Million Years (1989)",
+      "by": "Poul Anderson",
+      "year": 1989,
+      "country": "미국",
+      "setting": "고대부터 죽지 않고 산 열한 사람이 서로를 찾아 모이고, 먼 미래에 이른다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1990 장편 최종 후보 · 네뷸러상 1989 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "arbai_trilogy",
+      "orig": "Arbai trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Grass (1989) · Raising the Stones (1990) · Sideshow (1992) — 상: Grass 휴고상 1990 장편 최종 후보",
+      "by": "Sheri S. Tepper",
+      "year": 1989,
+      "country": "미국",
+      "setting": "은하에 퍼진 역병을 홀로 피한 행성, 온통 풀로 덮인 '그래스'의 비밀을 캔다.",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1990 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "earth_brin",
+      "orig": "Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Earth (1990)",
+      "by": "David Brin",
+      "year": 1990,
+      "country": "미국",
+      "setting": "2038년, 실험으로 만든 블랙홀이 지구 속으로 떨어져 행성을 삼키기 전에 되찾아야 한다.",
+      "concepts": [
+        "catastrophe",
+        "overpopulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "queen_of_angels",
+      "orig": "Queen of Angels",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Queen of Angels (1990) · Slant (1997) — 상: Queen of Angels 휴고상 1991 장편 최종 후보",
+      "by": "Greg Bear",
+      "year": 1990,
+      "country": "미국",
+      "setting": "2047년, 나노 기술로 마음을 고치는 '치료'가 사회를 가르고 인공지능이 자라난다.",
+      "concepts": [
+        "nanotech",
+        "ai",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bone_dance",
+      "orig": "Bone Dance",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Bone Dance (1991)",
+      "by": "Emma Bull",
+      "year": 1991,
+      "country": "미국",
+      "setting": "핵 시대가 끝나고 기후가 바뀐 미니애폴리스, 옛 전자기기 장수가 몸 바꾸기 음모에 휘말린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1992 장편 최종 후보 · 네뷸러상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "stations_of_the_tide",
+      "orig": "Stations of the Tide",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Stations of the Tide (1991)",
+      "by": "Michael Swanwick",
+      "year": 1991,
+      "country": "미국",
+      "setting": "기술 이전 부서 관료가 금지 기술을 빼돌린 '마법사'를 쫓아, 큰 조수가 밀려올 행성에 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1992 장편 최종 후보 · 네뷸러상 1991 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "china_mountain_zhang",
+      "orig": "China Mountain Zhang",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "China Mountain Zhang (1992)",
+      "by": "Maureen F. McHugh",
+      "year": 1992,
+      "country": "미국",
+      "setting": "중국이 세계를 이끌고 미국이 공산 혁명을 겪은 뒤의 미래, 한 젊은이가 제자리를 찾는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1993 장편 최종 후보 · 네뷸러상 1992 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "moving_mars",
+      "orig": "Moving Mars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Moving Mars (1993)",
+      "by": "Greg Bear",
+      "year": 1993,
+      "country": "미국",
+      "setting": "지구와 맞서는 화성 정치판에서 한 여성이 자라 나라를 이끈다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1994 장편 최종 후보 · 네뷸러상 1994 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sleepless_kress",
+      "orig": "Sleepless",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Beggars in Spain (1991 중편, 1993 장편) · Beggars and Choosers (1994) · Beggars Ride (1996) — 상: Beggars in Spain 휴고상 1994 장편 최종 후보 · 네뷸러상 1993 장편 최종 후보; Nancy Kress bibliography 휴고상 1995 장편 최종 후보 · 네뷸러상 1995 장편 최종 후보",
+      "by": "Nancy Kress",
+      "year": 1991,
+      "country": "미국",
+      "setting": "잠이 필요 없게 유전자를 고친 '잠 안 자는 이'들이 보통 사람들의 시샘과 미움을 산다.",
+      "concepts": [
+        "genetic_eng",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Beggars in Spain: 휴고상 1994 장편 최종 후보 · 네뷸러상 1993 장편 최종 후보; Nancy Kress bibliography: 휴고상 1995 장편 최종 후보 · 네뷸러상 1995 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "glory_season",
+      "orig": "Glory Season",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Glory Season (1993)",
+      "by": "David Brin",
+      "year": 1993,
+      "country": "미국",
+      "setting": "행성 스트라토스는 겨울엔 여자 복제로, 여름엔 유성 생식으로 아이가 나도록 사람을 고쳤다.",
+      "concepts": [
+        "genetic_eng",
+        "clone",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1994 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bridge_trilogy",
+      "orig": "Bridge trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Virtual Light (1993) · Idoru (1996) · All Tomorrow's Parties (1999) — 상: Virtual Light 휴고상 1994 장편 최종 후보",
+      "by": "William Gibson",
+      "year": 1993,
+      "country": "미국",
+      "setting": "지진에 부서진 베이 브리지가 판자촌이 된 근미래, 자전거 배달부가 가상현실 안경을 훔친다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1994 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mother_of_storms",
+      "orig": "Mother of Storms",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mother of Storms (1994)",
+      "by": "John Barnes",
+      "year": 1994,
+      "country": "미국",
+      "setting": "핵폭발이 낳은 거대 태풍이 세계를 휩쓸고, 컴퓨터로 늘린 두 지성이 혜성을 끌어와 막는다.",
+      "concepts": [
+        "catastrophe",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1995 장편 최종 후보 · 네뷸러상 1995 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_terminal_experiment",
+      "orig": "The Terminal Experiment",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Terminal Experiment (1995)",
+      "by": "Robert J. Sawyer",
+      "year": 1995,
+      "country": "캐나다",
+      "setting": "죽을 때 뇌를 떠나는 '영혼파'를 찾은 공학자가 자기 정신 사본 셋을 만들고, 살인이 벌어진다.",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1996 장편 최종 후보 · 네뷸러상 1995 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "remake_willis",
+      "orig": "Remake",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Remake (1995)",
+      "by": "Connie Willis",
+      "year": 1995,
+      "country": "미국",
+      "setting": "컴퓨터로 옛 배우를 되살려 영화를 찍는 근미래 할리우드, 진짜로 춤추고 싶은 여자가 있다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1996 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "remnant_population",
+      "orig": "Remnant Population",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Remnant Population (1996)",
+      "by": "Elizabeth Moon",
+      "year": 1996,
+      "country": "미국",
+      "setting": "회사가 개척지를 버리고 떠날 때 홀로 남은 노파가, 그 행성의 토착 지성 종족과 만난다.",
+      "concepts": [
+        "colonization",
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1997 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "holy_fire",
+      "orig": "Holy Fire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Holy Fire (1996)",
+      "by": "Bruce Sterling",
+      "year": 1996,
+      "country": "미국",
+      "setting": "몸을 깊이 고치는 수명 연장이 흔한 세상, 늙은 여인이 두 번째 젊음을 얻어 떠난다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1997 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jack_faust",
+      "orig": "Jack Faust",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Jack Faust (1997)",
+      "by": "Michael Swanwick",
+      "year": 1997,
+      "country": "미국",
+      "setting": "메피스토펠레스에게 우주의 모든 지식을 받은 파우스트가 유럽의 발전을 미친 듯 앞당긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1998 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "darwinia_wilson",
+      "orig": "Darwinia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Darwinia (1998)",
+      "by": "Robert Charles Wilson",
+      "year": 1998,
+      "country": "캐나다",
+      "setting": "1912년 유럽이 하룻밤에 사라지고, 다른 길로 진화한 낯선 생물의 땅으로 바뀐다.",
+      "concepts": [
+        "alt_timeline",
+        "alien_ecology",
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1999 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cryptonomicon",
+      "orig": "Cryptonomicon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Cryptonomicon (1999)",
+      "by": "Neal Stephenson",
+      "year": 1999,
+      "country": "미국",
+      "setting": "2차 대전 연합군 암호 해독대와, 1990년대 인터넷 붐 때 사람들의 이야기가 엇갈린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2000 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "calculating_god",
+      "orig": "Calculating God",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Calculating God (2000)",
+      "by": "Robert J. Sawyer",
+      "year": 2000,
+      "country": "캐나다",
+      "setting": "거미 닮은 외계인이 토론토 박물관에 와서, 신이 있다는 증거를 함께 찾자고 한다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2001 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "midnight_robber",
+      "orig": "Midnight Robber",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Midnight Robber (2000)",
+      "by": "Nalo Hopkinson",
+      "year": 2000,
+      "country": "캐나다",
+      "setting": "인공지능 '그래니 내니'가 돌보는 행성 투생의 소녀가, 유배 행성 '뉴 하프웨이 트리'로 쫓겨 간다.",
+      "concepts": [
+        "ai",
+        "colonization",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2001 장편 최종 후보 · 네뷸러상 2000 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "passage_willis",
+      "orig": "Passage",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Passage (2001)",
+      "by": "Connie Willis",
+      "year": 2001,
+      "country": "미국",
+      "setting": "임사 체험을 연구하던 심리학자가, 약물로 임사 체험을 일으키는 신경과 의사의 실험에 함께한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2002 장편 최종 후보 · 네뷸러상 2001 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bas_lag",
+      "orig": "Bas-Lag",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Perdido Street Station (2000) · The Scar (2002) · Iron Council (2004) — 상: Perdido Street Station 휴고상 2002 장편 최종 후보 · 네뷸러상 2002 장편 최종 후보; The Scar 휴고상 2003 장편 최종 후보; Iron Council 휴고상 2005 장편 최종 후보",
+      "by": "China Miéville",
+      "year": 2000,
+      "country": "영국",
+      "setting": "마법 '사움터지'와 증기 기술이 함께 있는 세계 바스락, 여러 지성 종족이 뒤섞인 도시 뉴크로부존.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Perdido Street Station: 휴고상 2002 장편 최종 후보 · 네뷸러상 2002 장편 최종 후보; The Scar: 휴고상 2003 장편 최종 후보; Iron Council: 휴고상 2005 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_chronoliths",
+      "orig": "The Chronoliths",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Chronoliths (2001)",
+      "by": "Robert Charles Wilson",
+      "year": 2001,
+      "country": "캐나다",
+      "setting": "21세기 초 태국 밀림에, '퀸'이라는 이의 앞날 승전을 기리는 부서지지 않는 탑이 솟는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2002 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kiln_people",
+      "orig": "Kiln People",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Kiln People (2002)",
+      "by": "David Brin",
+      "year": 2002,
+      "country": "미국",
+      "setting": "하루 뒤 사라지는 진흙 분신 '디토'를 찍어 일을 맡기고, 그 기억을 되받는 세상.",
+      "concepts": [
+        "clone",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2003 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bones_of_the_earth",
+      "orig": "Bones of the Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Bones of the Earth (2002)",
+      "by": "Michael Swanwick",
+      "year": 2002,
+      "country": "미국",
+      "setting": "시간 여행 연구진이 공룡 시대를 비롯한 지구의 먼 과거를 오가며 직접 연구한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2003 장편 최종 후보 · 네뷸러상 2002 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_years_of_rice_and_salt",
+      "orig": "The Years of Rice and Salt",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Years of Rice and Salt (2002)",
+      "by": "Kim Stanley Robinson",
+      "year": 2002,
+      "country": "미국",
+      "setting": "흑사병이 유럽 사람 99%를 죽였다면—그 뒤 수백 년 세계사를 되풀이 태어나는 영혼들이 겪는다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2003 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eschaton_stross",
+      "orig": "Eschaton",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Singularity Sky (2003) · Iron Sunrise (2004) — 상: Singularity Sky 휴고상 2004 장편 최종 후보; Iron Sunrise 휴고상 2005 장편 최종 후보",
+      "by": "Charles Stross",
+      "year": 2003,
+      "country": "영국",
+      "setting": "신 같은 지성 '에스카톤'이 인류를 은하에 흩어 놓은 미래, 업로드된 정신들의 문명이 한 식민지에 온다.",
+      "concepts": [
+        "godlike",
+        "mind_upload",
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Singularity Sky: 휴고상 2004 장편 최종 후보; Iron Sunrise: 휴고상 2005 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "blind_lake",
+      "orig": "Blind Lake",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Blind Lake (2003)",
+      "by": "Robert Charles Wilson",
+      "year": 2003,
+      "country": "캐나다",
+      "setting": "사람이 이해 못 할 양자 컴퓨터 망원경으로 51광년 밖 외계 문명을 지켜보던 연구소가 봉쇄된다.",
+      "concepts": [
+        "alien",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2004 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "river_of_gods",
+      "orig": "River of Gods",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "River of Gods (2004)",
+      "by": "Ian McDonald",
+      "year": 2004,
+      "country": "영국",
+      "setting": "독립 100년을 맞는 2047년, 여러 나라로 갈라진 인도의 망에 수준이 제각각인 인공지능들이 산다.",
+      "concepts": [
+        "ai",
+        "nanotech",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2005 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_algebraist",
+      "orig": "The Algebraist",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Algebraist (2004)",
+      "by": "Iain M. Banks",
+      "year": 2004,
+      "country": "영국",
+      "setting": "4034년, 인공지능을 몰아내려는 봉건 체제 메르카토리아의 은하, 가스 행성 종족 곁에서 일하는 학자.",
+      "concepts": [
+        "ai_ban",
+        "feudal_space",
+        "wormhole",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2005 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "learning_the_world",
+      "orig": "Learning the World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Learning the World (2005)",
+      "by": "Ken MacLeod",
+      "year": 2005,
+      "country": "영국",
+      "setting": "인류의 세대선이 '운명의 별'에 닿아, 산업 시대 수준의 외계 종족을 처음 만난다.",
+      "concepts": [
+        "generation_ship",
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2006 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eifelheim",
+      "orig": "Eifelheim",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Eifelheim (2006)",
+      "by": "Michael F. Flynn",
+      "year": 2006,
+      "country": "미국",
+      "setting": "흑사병이 돌던 1349년 독일 마을 숲에 외계인의 우주선이 부서져 내리고, 신부가 그들과 만난다.",
+      "concepts": [
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2007 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_yiddish_policemens_union",
+      "orig": "The Yiddish Policemen's Union",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Yiddish Policemen's Union (2007)",
+      "by": "Michael Chabon",
+      "year": 2007,
+      "country": "미국",
+      "setting": "알래스카 시트카에 유대인 피난처가 세워지고 이스라엘이 일찍 무너진 현재, 형사가 살인을 쫓는다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2008 장편 수상 · 네뷸러상 2007 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "halting_state",
+      "orig": "Halting State",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Halting State (2007) · Rule 34 (2011) — 상: Halting State 휴고상 2008 장편 최종 후보",
+      "by": "Charles Stross",
+      "year": 2007,
+      "country": "영국",
+      "setting": "증강 현실 안경이 흔한 근미래, 온라인 게임 속 은행이 오크와 용 무리에게 털린 사건을 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2008 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rollback_sawyer",
+      "orig": "Rollback",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Rollback (2007)",
+      "by": "Robert J. Sawyer",
+      "year": 2007,
+      "country": "캐나다",
+      "setting": "외계 첫 신호를 풀었던 87세 천문학자에게, 두 번째 신호를 풀도록 늙음을 되돌리는 시술이 제안된다.",
+      "concepts": [
+        "longevity",
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2008 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "brasyl",
+      "orig": "Brasyl",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Brasyl (2007)",
+      "by": "Ian McDonald",
+      "year": 2007,
+      "country": "영국",
+      "setting": "현재, 양자 기술이 거리에 나온 21세기 중반, 18세기 아마존—세 시간대의 브라질 이야기가 엇갈린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2008 장편 최종 후보 · 네뷸러상 2008 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "anathem",
+      "orig": "Anathem",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Anathem (2008)",
+      "by": "Neal Stephenson",
+      "year": 2008,
+      "country": "미국",
+      "setting": "행성 아르브레의 지식인들이 수천 년째 수도원 같은 '콘센트'에 갇혀 살다가 외계에서 온 것을 맞는다.",
+      "concepts": [
+        "first_contact",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2009 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "freyaverse",
+      "orig": "Saturn's Children",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Saturn's Children (2008) · Neptune's Brood (2013, 같은 세계의 수천 년 뒤) — 상: Saturn's Children 휴고상 2009 장편 최종 후보; Neptune's Brood 휴고상 2014 장편 최종 후보",
+      "by": "Charles Stross",
+      "year": 2008,
+      "country": "영국",
+      "setting": "인류가 사라진 먼 미래, 사람을 섬기려 만든 로봇들이 귀족과 노예로 갈려 태양계에 산다.",
+      "concepts": [
+        "android",
+        "robot",
+        "machine_rights",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Saturn's Children: 휴고상 2009 장편 최종 후보; Neptune's Brood: 휴고상 2014 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "clockwork_century",
+      "orig": "The Clockwork Century",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Boneshaker (2009) ~ The Clockwork Century 연작 — 상: Boneshaker 휴고상 2010 장편 최종 후보 · 네뷸러상 2009 장편 최종 후보",
+      "by": "Cherie Priest",
+      "year": 2009,
+      "country": "미국",
+      "setting": "남북전쟁이 길어진 대체 역사, 땅파기 기계가 시애틀 땅밑 '역병 가스'를 풀어 사람을 좀비로 만든다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 2010 장편 최종 후보 · 네뷸러상 2009 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "www_trilogy",
+      "orig": "WWW Trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Wake (2009) · Watch (2010) · Wonder (2011) — 상: Wake 휴고상 2010 장편 최종 후보",
+      "by": "Robert J. Sawyer",
+      "year": 2009,
+      "country": "캐나다",
+      "setting": "2012년, 앞을 못 보던 소녀가 눈에 심은 장치로 인터넷 속에서 깨어나는 의식을 느낀다.",
+      "concepts": [
+        "ai",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2010 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "julian_comstock",
+      "orig": "Julian Comstock: A Story of 22nd-Century America",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Julian Comstock: A Story of 22nd-Century America (2009)",
+      "by": "Robert Charles Wilson",
+      "year": 2009,
+      "country": "캐나다",
+      "setting": "석유 시대가 끝난 2172년, 계약 노예와 굳은 신분, 국교가 되살아난 미국.",
+      "concepts": [
+        "catastrophe",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2010 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_dervish_house",
+      "orig": "The Dervish House",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Dervish House (2010)",
+      "by": "Ian McDonald",
+      "year": 2010,
+      "country": "영국",
+      "setting": "2027년 무더위 속 이스탄불, 버스 폭탄 사건을 본 이웃들의 삶이 나노 기술 음모로 엮인다.",
+      "concepts": [
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2011 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "newsflesh",
+      "orig": "Newsflesh",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Feed (2010) · Deadline (2011) · Blackout (2012) 등 — 상: Feed 휴고상 2011 장편 최종 후보; Deadline 휴고상 2012 장편 최종 후보; Blackout 휴고상 2013 장편 최종 후보",
+      "by": "Mira Grant",
+      "year": 2010,
+      "country": "미국",
+      "setting": "암·감기를 고치려 만든 두 바이러스가 합쳐져 좀비 사태가 난 뒤, 블로그 기자들이 진실을 캔다.",
+      "concepts": [
+        "genetic_eng",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Feed: 휴고상 2011 장편 최종 후보; Deadline: 휴고상 2012 장편 최종 후보; Blackout: 휴고상 2013 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "parasitology",
+      "orig": "Parasitology",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Parasite (2013) · Symbiont (2014) · Chimera (2015) — 상: Parasite 휴고상 2014 장편 최종 후보",
+      "by": "Mira Grant",
+      "year": 2013,
+      "country": "미국",
+      "setting": "약을 만들어 주는 유전자 조작 촌충을 누구나 몸에 품는 2020년대, 뇌사에서 깨어난 여자가 있다.",
+      "concepts": [
+        "genetic_eng",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 2014 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "saga_of_seven_suns",
+      "orig": "The Saga of Seven Suns",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Saga of Seven Suns 일곱 권 (2002~2008) · The Saga of Shadows 세 권 (2014~2016) — 상: The Saga of Shadows 휴고상 2015 장편 최종 후보",
+      "by": "Kevin J. Anderson",
+      "year": 2002,
+      "country": "미국",
+      "setting": "네 원소 종족의 옛 전쟁이 되살아나 인류와 외계 일드리아인을 무너뜨릴 뻔한 지 20년 뒤.",
+      "concepts": [
+        "alien",
+        "elder_race"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "휴고상 2015 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "terra_ignota",
+      "orig": "Terra Ignota",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Too Like the Lightning (2016) · Seven Surrenders (2017) · The Will to Battle (2017) · Perhaps the Stars (2021) — 상: Too Like the Lightning 휴고상 2017 장편 최종 후보",
+      "by": "Ada Palmer",
+      "year": 2016,
+      "country": "미국",
+      "setting": "2454년, 나라 대신 가치를 따라 고른 '하이브'에 속해 사는 지구가 몇백 년째 평화롭다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "휴고상 2017 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "new_york_2140",
+      "orig": "New York 2140",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "New York 2140 (2017)",
+      "by": "Kim Stanley Robinson",
+      "year": 2017,
+      "country": "미국",
+      "setting": "두 번의 해수면 상승으로 물에 잠긴 2140년 뉴욕, 사람들은 고층 건물 위층에 산다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2018 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "six_wakes",
+      "orig": "Six Wakes",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Six Wakes (2017)",
+      "by": "Mur Lafferty",
+      "year": 2017,
+      "country": "미국",
+      "setting": "타우 세티로 가는 이민선, 복제 승무원 하나가 새 몸에서 깨어나 보니 전 몸들이 모두 살해돼 있다.",
+      "concepts": [
+        "clone",
+        "cryosleep",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2018 장편 최종 후보 · 네뷸러상 2017 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_opera_valente",
+      "orig": "Space Opera",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Space Opera (2018) · Space Oddity (2024) — 상: Space Opera 휴고상 2019 장편 최종 후보",
+      "by": "Catherynne M. Valente",
+      "year": 2018,
+      "country": "미국",
+      "setting": "은하 문명에 끼려면, 인류가 우주 노래 대회에 나가 꼴찌만은 면해야 한다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2019 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_city_in_the_middle_of_the_night",
+      "orig": "The City in the Middle of the Night",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The City in the Middle of the Night (2019)",
+      "by": "Charlie Jane Anders",
+      "year": 2019,
+      "country": "미국",
+      "setting": "한쪽은 늘 낮, 한쪽은 늘 밤인 행성 '재뉴어리'의 경계에, 통제 도시와 무법 도시가 있다.",
+      "concepts": [
+        "colonization",
+        "alien",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2020 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_light_brigade",
+      "orig": "The Light Brigade",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Light Brigade (2019)",
+      "by": "Kameron Hurley",
+      "year": 2019,
+      "country": "미국",
+      "setting": "거대 기업 여섯이 다스리는 미래, 빛으로 쪼개져 전장에 보내지는 병사가 뒤섞인 시간 속에서 싸운다.",
+      "concepts": [
+        "mega_corp",
+        "teleport",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2020 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alchemical_journeys",
+      "orig": "Alchemical Journeys",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Middlegame (2019) · Seasonal Fears (2022) 등 — 상: Middlegame 휴고상 2020 장편 최종 후보",
+      "by": "Seanan McGuire",
+      "year": 2019,
+      "country": "미국",
+      "setting": "연금술사가 우주의 근본 힘을 사람 몸에 담으려, 언어와 수학에 뛰어난 쌍둥이를 만든다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2020 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "light_from_uncommon_stars",
+      "orig": "Light from Uncommon Stars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Light from Uncommon Stars (2021)",
+      "by": "Ryka Aoki",
+      "year": 2021,
+      "country": "미국",
+      "setting": "지옥과 계약한 바이올린 스승과, 도넛 가게 주인으로 숨어 사는 외계 우주선 선장이 만난다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2022 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kaiju_preservation_society",
+      "orig": "The Kaiju Preservation Society",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Kaiju Preservation Society (2022)",
+      "by": "John Scalzi",
+      "year": 2022,
+      "country": "미국",
+      "setting": "코로나로 일자리를 잃은 배달부가, 평행 지구의 거대 괴수를 지키는 비밀 단체에 든다.",
+      "concepts": [
+        "alt_timeline",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2023 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_daughter_of_doctor_moreau",
+      "orig": "The Daughter of Doctor Moreau",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Daughter of Doctor Moreau (2022)",
+      "by": "Silvia Moreno-Garcia",
+      "year": 2022,
+      "country": "캐나다",
+      "setting": "1870년대 멕시코의 농장에서 모로 박사가 사람과 동물을 섞은 혼종을 만들고, 그 딸이 자란다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "웰스 『모로 박사의 섬』을 멕시코로 옮겨 다시 쓴 이야기",
+      "lore_size": "작음",
+      "notability": "휴고상 2023 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_spare_man",
+      "orig": "The Spare Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Spare Man (2022)",
+      "by": "Mary Robinette Kowal",
+      "year": 2022,
+      "country": "미국",
+      "setting": "화성으로 가는 호화 유람 우주선에서, 신혼여행 중인 로봇 공학자가 살인 사건에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2023 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "starter_villain",
+      "orig": "Starter Villain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Starter Villain (2023)",
+      "by": "John Scalzi",
+      "year": 2023,
+      "country": "미국",
+      "setting": "대리 교사가 억만장자 삼촌의 '악당' 사업을 물려받고, 유전자로 똑똑해진 첩보 고양이들과 일한다.",
+      "concepts": [
+        "genetic_eng",
+        "uplift"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2024 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_clay",
+      "orig": "Alien Clay",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Alien Clay (2024)",
+      "by": "Adrian Tchaikovsky",
+      "year": 2024,
+      "country": "영국",
+      "setting": "파시스트 지구 정부에 맞선 생물학자가 외계 행성 '킬른'의 수용소로 보내져 옛 문명의 흔적을 본다.",
+      "concepts": [
+        "alien",
+        "precursor",
+        "alien_ecology",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2025 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "service_model",
+      "orig": "Service Model",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Service Model (2024)",
+      "by": "Adrian Tchaikovsky",
+      "year": 2024,
+      "country": "영국",
+      "setting": "주인을 죽인 로봇 시종이, 사람 사회가 무너진 세상을 떠돌며 존재 이유를 찾는다.",
+      "concepts": [
+        "robot",
+        "machine_rights",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2025 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "death_of_the_author_okorafor",
+      "orig": "Death of the Author",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Death of the Author (2025)",
+      "by": "Nnedi Okorafor",
+      "year": 2025,
+      "country": "미국",
+      "setting": "하반신이 마비된 나이지리아계 미국 작가가, 로봇 세계를 그린 소설로 이름을 얻는다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2026 장편 최종 후보 · 네뷸러상 2025 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shroud_tchaikovsky",
+      "orig": "Shroud",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Shroud (2025)",
+      "by": "Adrian Tchaikovsky",
+      "year": 2025,
+      "country": "영국",
+      "setting": "자원을 캐러 별 사이로 나선 기업 시대, 빛 없는 위성 '슈라우드'에 갇힌 두 과학자가 그곳 생명과 만난다.",
+      "concepts": [
+        "first_contact",
+        "alien_ecology",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 2026 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "beyond_this_horizon",
+      "orig": "Beyond This Horizon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Beyond This Horizon (1942)",
+      "by": "Robert A. Heinlein",
+      "year": 1942,
+      "country": "미국",
+      "setting": "유전자 선택으로 건강·수명·지능을 높인 사회, 고치지 않은 '자연인'은 보호받는 소수이고 결투가 예의다.",
+      "concepts": [
+        "genetic_eng",
+        "post_scarcity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1943 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "darkness_and_the_light",
+      "orig": "Darkness and the Light",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Darkness and the Light (1942)",
+      "by": "Olaf Stapledon",
+      "year": 1942,
+      "country": "영국",
+      "setting": "티베트에서 일어날 '르네상스'가 성공하느냐에 따라 인류의 앞날이 어둠과 빛 두 갈래로 갈린다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1943 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "donovans_brain",
+      "orig": "Donovan's Brain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Donovan's Brain (1942)",
+      "by": "Curt Siodmak",
+      "year": 1942,
+      "country": "미국",
+      "setting": "사막에 추락해 죽은 백만장자의 뇌를 의사가 살려 두자, 뇌가 텔레파시로 의사를 휘어잡는다.",
+      "concepts": [
+        "telepathy",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1943 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "earths_last_citadel",
+      "orig": "Earth's Last Citadel",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Earth's Last Citadel (1943)",
+      "by": "C. L. Moore · Henry Kuttner",
+      "year": 1943,
+      "country": "미국",
+      "setting": "2차 대전 중 튀니지 사막의 네 사람이 낯선 탈것에 실려, 정복당해 인류가 거의 사라진 먼 미래로 간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1944 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gather_darkness",
+      "orig": "Gather, Darkness!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Gather, Darkness! (1943)",
+      "by": "Fritz Leiber",
+      "year": 1943,
+      "country": "미국",
+      "setting": "과학자들이 사제로 다스리는 미래의 신정 국가에, '마녀'들이 일어나 맞선다.",
+      "concepts": [
+        "techno_religion",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1944 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_glass_bead_game",
+      "orig": "Das Glasperlenspiel",
+      "orig_en": "The Glass Bead Game",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Das Glasperlenspiel (1943)",
+      "by": "Hermann Hesse",
+      "year": 1943,
+      "country": "스위스",
+      "setting": "25세기, 학문과 예술을 하나로 엮는 '유리알 유희'에 몸 바친 사람들의 지역 카스탈리엔.",
+      "concepts": [
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1944 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shadow_over_mars",
+      "orig": "Shadow Over Mars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Shadow Over Mars (1944)",
+      "by": "Leigh Brackett",
+      "year": 1944,
+      "country": "미국",
+      "setting": "화성 원주민과 '회사'가 맞서는 화성, 광산에서 달아난 사내에게 그가 행성을 다스리리라는 예언이 내린다.",
+      "concepts": [
+        "colonization",
+        "mega_corp",
+        "prophecy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1945 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sirius_stapledon",
+      "orig": "Sirius",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Sirius (1944)",
+      "by": "Olaf Stapledon",
+      "year": 1944,
+      "country": "영국",
+      "setting": "과학자가 양치기 개의 지능을 높여, 사람만큼 생각하고 말하는 개 시리우스가 태어난다.",
+      "concepts": [
+        "uplift"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1945 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "destiny_times_three",
+      "orig": "Destiny Times Three",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Destiny Times Three (1945)",
+      "by": "Fritz Leiber",
+      "year": 1945,
+      "country": "미국",
+      "setting": "'확률 기관'이 만든 여러 시간선이 나란히 있고, 서로를 침공할 만큼 실재한다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1946 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "farmer_in_the_sky",
+      "orig": "Farmer in the Sky",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Farmer in the Sky (1950)",
+      "by": "Robert A. Heinlein",
+      "year": 1950,
+      "country": "미국",
+      "setting": "식량을 배급하는 붐비는 지구를 떠나, 한 가족이 테라포밍 중인 목성의 위성 가니메데로 이주한다.",
+      "concepts": [
+        "terraforming",
+        "colonization",
+        "overpopulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1951 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "all_flesh_is_grass",
+      "orig": "All Flesh is Grass",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "All Flesh is Grass (1965)",
+      "by": "Clifford D. Simak",
+      "year": 1965,
+      "country": "미국",
+      "setting": "위스콘신 작은 마을이 외계 지성이 친 벽에 갇히고, 그들은 사람과 손잡고 싶어 한다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_clone_thomas",
+      "orig": "The Clone",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Clone (1965)",
+      "by": "Theodore L. Thomas · Kate Wilhelm",
+      "year": 1965,
+      "country": "미국",
+      "setting": "시카고 하수구에서 우연히 섞인 화학물질로 생겨난 무정형 생물이 사람을 삼키며 자란다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dr_bloodmoney",
+      "orig": "Dr. Bloodmoney",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Dr. Bloodmoney (1965)",
+      "by": "Philip K. Dick",
+      "year": 1965,
+      "country": "미국",
+      "setting": "핵실험 사고로 낙진과 돌연변이가 퍼진 뒤의 캘리포니아, 텔레파시·염력을 지닌 이들이 산다.",
+      "concepts": [
+        "catastrophe",
+        "telepathy",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_escape_orbit",
+      "orig": "The Escape Orbit",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Escape Orbit (1964)",
+      "by": "James White",
+      "year": 1964,
+      "country": "영국",
+      "setting": "지구와 싸우는 외계 종족 '벌레'가 사람 포로를 감옥 행성에 버리고, 포로들은 그곳에 사회를 이뤘다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_genocides",
+      "orig": "The Genocides",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Genocides (1965)",
+      "by": "Thomas M. Disch",
+      "year": 1965,
+      "country": "미국",
+      "setting": "거대한 외계 식물이 지구를 뒤덮어 문명이 무너지고, 생존자들은 그 그늘에 숨어 산다.",
+      "concepts": [
+        "alien_invasion",
+        "catastrophe",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nova_trilogy",
+      "orig": "The Nova Trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Soft Machine · The Ticket That Exploded · Nova Express (1964) — 상: Nova Express 네뷸러상 1965 장편 최종 후보",
+      "by": "William S. Burroughs",
+      "year": 1964,
+      "country": "미국",
+      "setting": "'노바 패거리'와 '노바 경찰'이 인류를 두고 다투는, 잘라 붙이기 기법으로 쓴 통제의 이야기.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_star_fox_anderson",
+      "orig": "The Star Fox",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Star Fox (1965)",
+      "by": "Poul Anderson",
+      "year": 1965,
+      "country": "미국",
+      "setting": "사람과 외계 종족 알레리오나가 맞선 시대, 사략선 '여우 2호'의 선장이 적의 지략가와 겨룬다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_masks_of_time",
+      "orig": "The Masks of Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Masks of Time (1968)",
+      "by": "Robert Silverberg",
+      "year": 1968,
+      "country": "미국",
+      "setting": "1998년 성탄절 로마에, 2999년에서 왔다는 벌거벗은 사내 보르난-19가 하늘에서 내려온다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1968 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "isle_of_the_dead_zelazny",
+      "orig": "Isle of the Dead",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Isle of the Dead (1969)",
+      "by": "Roger Zelazny",
+      "year": 1969,
+      "country": "미국",
+      "setting": "냉동 잠으로 27세기까지 산 20세기 사람이, 외계 종족에게 배워 행성을 빚는 '세계 조형자'가 된다.",
+      "concepts": [
+        "cryosleep",
+        "terraforming",
+        "telepathy",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1969 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_jagged_orbit",
+      "orig": "The Jagged Orbit",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Jagged Orbit (1969)",
+      "by": "John Brunner",
+      "year": 1969,
+      "country": "영국",
+      "setting": "인종 갈등이 끓는 2014년 미국, 무기 카르텔이 새 컴퓨터 기술로 큰일을 꾸민다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1969 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "and_chaos_died",
+      "orig": "And Chaos Died",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "And Chaos Died (1970)",
+      "by": "Joanna Russ",
+      "year": 1970,
+      "country": "미국",
+      "setting": "사람이 넘치는 통제 사회 지구와, 자연을 아끼고 인구를 줄인 다른 행성이 맞대어진다.",
+      "concepts": [
+        "overpopulation",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fourth_mansions",
+      "orig": "Fourth Mansions",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Fourth Mansions (1969)",
+      "by": "R. A. Lafferty",
+      "year": 1969,
+      "country": "미국",
+      "setting": "멕시코 이주민 혁명, '마음 짜기' 기술, 부랑자 같지만 큰 힘을 지닌 '패트릭'들이 얽힌다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hive_bass",
+      "orig": "The Hive",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Half Past Human (1971) · The Godwhale (1974) — 상: Half Past Human 네뷸러상 1971 장편 최종 후보; The Godwhale 네뷸러상 1974 장편 최종 후보",
+      "by": "T. J. Bass",
+      "year": 1971,
+      "country": "미국",
+      "setting": "땅밑 벌집에 사는 유순하게 개량된 '네비시' 수조 명과, 농장을 떠도는 옛 사람들이 갈린 미래 지구.",
+      "concepts": [
+        "genetic_eng",
+        "overpopulation",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Half Past Human: 네뷸러상 1971 장편 최종 후보; The Godwhale: 네뷸러상 1974 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_iron_dream",
+      "orig": "The Iron Dream",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Iron Dream (1972)",
+      "by": "Norman Spinrad",
+      "year": 1972,
+      "country": "미국",
+      "setting": "미국으로 건너가 SF 작가가 된 히틀러가 썼다는 소설 『스와스티카의 군주』를 액자로 보여 준다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_sheep_look_up",
+      "orig": "The Sheep Look Up",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Sheep Look Up (1972)",
+      "by": "John Brunner",
+      "year": 1972,
+      "country": "영국",
+      "setting": "오염으로 무너져 가는 미국의 한 해를 달마다 따라간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gravitys_rainbow",
+      "orig": "Gravity's Rainbow",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Gravity's Rainbow (1973)",
+      "by": "Thomas Pynchon",
+      "year": 1973,
+      "country": "미국",
+      "setting": "2차 대전 끝 무렵 유럽, V-2 로켓과 수수께끼 장치를 쫓는 사람들의 이야기.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1973 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "disch_334",
+      "orig": "334",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "334 (1972)",
+      "by": "Thomas M. Disch",
+      "year": 1972,
+      "country": "미국",
+      "setting": "2025년 맨해튼의 한 공공 아파트, 시험과 분류가 사람의 앞날을 정하는 관리 사회.",
+      "concepts": [
+        "control_society",
+        "overpopulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1974 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "birthgrave",
+      "orig": "The Birthgrave Trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Birthgrave (1975) · Vazkor, Son of Vazkor 등 세 권 — 상: The Birthgrave 네뷸러상 1975 장편 최종 후보",
+      "by": "Tanith Lee",
+      "year": 1975,
+      "country": "영국",
+      "setting": "잠든 화산 속에서 깨어난 이름 없는 여인이, 역병과 전쟁이 휩쓴 옛 세계를 떠돌며 제 정체를 찾는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "trouble_on_triton",
+      "orig": "Triton",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Triton (1976)",
+      "by": "Samuel R. Delany",
+      "year": 1976,
+      "country": "미국",
+      "setting": "해왕성의 위성 트리톤, 누구나 삶의 방식을 고를 수 있는 '이질 공간' 사회를 그린다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1976 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "galactic_center_saga",
+      "orig": "Galactic Center Saga",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "In the Ocean of Night (1977) · Across the Sea of Suns (1984) · Great Sky River (1987) · Tides of Light 등 — 상: In the Ocean of Night 네뷸러상 1977 장편 최종 후보; Great Sky River 네뷸러상 1988 장편 최종 후보",
+      "by": "Gregory Benford",
+      "year": 1977,
+      "country": "미국",
+      "setting": "1999년 지구로 오는 소행성에서 시작해, 먼 훗날 인류는 기계 문명 '메크'에 쫓긴다.",
+      "concepts": [
+        "machine_race",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "In the Ocean of Night: 네뷸러상 1977 장편 최종 후보; Great Sky River: 네뷸러상 1988 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "moonstar_odyssey",
+      "orig": "Moonstar Odyssey",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Moonstar Odyssey (1977)",
+      "by": "David Gerrold",
+      "year": 1977,
+      "country": "미국",
+      "setting": "바위뿐이던 위성을 바다와 섬의 행성으로 바꾼 곳, 소녀 조브가 제 앞날을 정하러 배움의 섬에 간다.",
+      "concepts": [
+        "terraforming",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1977 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kalki_vidal",
+      "orig": "Kalki",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Kalki (1978)",
+      "by": "Gore Vidal",
+      "year": 1978,
+      "country": "미국",
+      "setting": "카트만두 종교 지도자 '칼키'에게 끌려든 비행사 여성의 이야기—세상의 끝이 다가온다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1978 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mockingbird_tevis",
+      "orig": "Mockingbird",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mockingbird (1980)",
+      "by": "Walter Tevis",
+      "year": 1980,
+      "country": "미국",
+      "setting": "사람 수가 크게 준 25세기 뉴욕, 로봇이 삶을 돌보고 약과 텔레비전에 젖은 사람들은 글을 잊었다.",
+      "concepts": [
+        "robot",
+        "android",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1980 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "radix_tetrad",
+      "orig": "Radix Tetrad",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Radix (1981) · In Other Worlds (1984) 등 네 권 — 상: Radix 네뷸러상 1981 장편 최종 후보",
+      "by": "A. A. Attanasio",
+      "year": 1981,
+      "country": "미국",
+      "setting": "크게 바뀐 먼 미래 지구, 반항하던 젊은이가 전사를 거쳐 신에 가까운 존재가 되어 간다.",
+      "concepts": [
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1981 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "riddley_walker",
+      "orig": "Riddley Walker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Riddley Walker (1980)",
+      "by": "Russell Hoban",
+      "year": 1980,
+      "country": "영국",
+      "setting": "핵전쟁 뒤 2천 년쯤 철기 시대로 돌아간 켄트, 소년이 옛 무기를 되살리려는 움직임과 마주친다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1981 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_vampire_tapestry",
+      "orig": "The Vampire Tapestry",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Vampire Tapestry (1980)",
+      "by": "Suzy McKee Charnas",
+      "year": 1980,
+      "country": "미국",
+      "setting": "초자연이 아닌 생물로서의 흡혈 포식자가 대학 교수로 숨어 살며, 제 기원을 모른 채 사람을 사냥한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1981 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "no_enemy_but_time",
+      "orig": "No Enemy But Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "No Enemy But Time (1982)",
+      "by": "Michael Bishop",
+      "year": 1982,
+      "country": "미국",
+      "setting": "꿈에서 본 옛 세계로 정신을 보내는 남자가, 플라이스토세 아프리카에서 인류의 조상들과 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1982 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "against_infinity",
+      "orig": "Against Infinity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Against Infinity (1983)",
+      "by": "Gregory Benford",
+      "year": 1983,
+      "country": "미국",
+      "setting": "테라포밍 중인 가니메데에서, 개척민들이 땅을 파고 다니는 수수께끼의 '알레프'를 사냥한다.",
+      "concepts": [
+        "terraforming",
+        "colonization",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1983 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "second_starfaring_age",
+      "orig": "Second Starfaring Age",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Void Captain's Tale (1983) · Child of Fortune (1985) — 상: The Void Captain's Tale 네뷸러상 1983 장편 최종 후보",
+      "by": "Norman Spinrad",
+      "year": 1983,
+      "country": "미국",
+      "setting": "3~4천 년 뒤 '제2 성간 시대', 승객 대부분을 재워 싣고 나머지는 쾌락을 좇는 배의 선장 이야기.",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1983 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "three_californias",
+      "orig": "Three Californias Trilogy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Wild Shore (1984) · The Gold Coast · Pacific Edge — 상: Three Californias Trilogy 네뷸러상 1984 장편 최종 후보",
+      "by": "Kim Stanley Robinson",
+      "year": 1984,
+      "country": "미국",
+      "setting": "오렌지 카운티의 세 가지 앞날을 따로 그린 세 권—한 권은 몰락 뒤 시골이 된 캘리포니아.",
+      "concepts": [
+        "alt_timeline",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dinner_at_deviants_palace",
+      "orig": "Dinner at Deviant's Palace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Dinner at Deviant's Palace (1985)",
+      "by": "Tim Powers",
+      "year": 1985,
+      "country": "미국",
+      "setting": "큰 재앙 뒤 남은 미국 땅에서, 리바스가 사이비 교단에 붙들린 사람들을 빼내 온다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1985 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "this_is_the_way_the_world_ends",
+      "orig": "This Is the Way the World Ends",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "This Is the Way the World Ends (1986)",
+      "by": "James K. Morrow",
+      "year": 1986,
+      "country": "미국",
+      "setting": "핵전쟁으로 세상이 끝난 뒤, 태어나지 못한 미래 사람들이 살아남은 책임자들을 재판한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1986 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_healers_war",
+      "orig": "The Healer's War",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Healer's War (1988)",
+      "by": "Elizabeth Ann Scarborough",
+      "year": 1988,
+      "country": "미국",
+      "setting": "베트남전 군 간호사가, 존경받던 치유사에게서 신비한 부적을 물려받는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1989 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "good_news_from_outer_space",
+      "orig": "Good News From Outer Space",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Good News From Outer Space (1989)",
+      "by": "John Kessel",
+      "year": 1989,
+      "country": "미국",
+      "setting": "2000년을 앞둔 종말 소동 속, 새 기술로 되살아난 타블로이드 기자가 외계인이 끼어든 흔적을 캔다.",
+      "concepts": [
+        "resurrection",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1989 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "birthright_universe",
+      "orig": "Birthright Universe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mike Resnick의 Birthright Universe 연작 — Ivory (1988) 등 — 상: Ivory: A Legend of Past and Future 네뷸러상 1989 장편 최종 후보",
+      "by": "Mike Resnick",
+      "year": 1988,
+      "country": "미국",
+      "setting": "은하의 부자가 된 마지막 마사이인이, 연구자를 시켜 과거와 미래에 걸친 킬리만자로 상아의 행방을 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1989 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jekyll_and_hyde",
+      "orig": "Strange Case of Dr Jekyll and Mr Hyde",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Strange Case of Dr Jekyll and Mr Hyde (1886) · Valerie Martin, Mary Reilly (1990, 1996년 영화) — 상: Mary Reilly 네뷸러상 1990 장편 최종 후보",
+      "by": "Robert Louis Stevenson · Valerie Martin",
+      "year": 1886,
+      "country": "영국",
+      "setting": "실험 약으로 두 인격을 오가는 지킬 박사 이야기—메리 레일리는 그 집 하녀의 눈으로 다시 쓴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1990 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_difference_engine",
+      "orig": "The Difference Engine",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Difference Engine (1990)",
+      "by": "Bruce Sterling · William Gibson",
+      "year": 1990,
+      "country": "미국",
+      "setting": "배비지의 기계식 계산기가 완성되어 정보 혁명이 백 년 앞당겨진 빅토리아 시대 영국.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "thousand_cultures",
+      "orig": "Thousand Cultures",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Million Open Doors (1992) · Earth Made of Glass (1998) 등 — 상: A Million Open Doors 네뷸러상 1992 장편 최종 후보",
+      "by": "John Barnes",
+      "year": 1992,
+      "country": "미국",
+      "setting": "29세기 행성 윌슨의 낭만 기사 문화에서 자란 젊은이가, 훨씬 더 갑갑한 다른 문화의 행성에 간다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1992 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gun_with_occasional_music",
+      "orig": "Gun, with Occasional Music",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Gun, with Occasional Music (1994)",
+      "by": "Jonathan Lethem",
+      "year": 1994,
+      "country": "미국",
+      "setting": "총 든 캥거루가 깡패 밑에서 일하는 미래의 샌프란시스코·오클랜드, 사립 탐정이 살인 누명 사건을 맡는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1994 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "metropolitan_williams",
+      "orig": "Metropolitan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Metropolitan (1995) · City on Fire (1997) — 상: Metropolitan 네뷸러상 1995 장편 최종 후보; City on Fire 휴고상 1998 장편 최종 후보 · 네뷸러상 1997 장편 최종 후보",
+      "by": "Walter Jon Williams",
+      "year": 1995,
+      "country": "미국",
+      "setting": "먼 옛날 무언가가 행성을 빛나는 '방패'로 덮어 낮밤이 없는 세상, 도시가 낳는 힘 '플라즘'을 사고판다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Metropolitan: 네뷸러상 1995 장편 최종 후보; City on Fire: 휴고상 1998 장편 최종 후보 · 네뷸러상 1997 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "slow_river",
+      "orig": "Slow River",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Slow River (1995)",
+      "by": "Nicola Griffith",
+      "year": 1995,
+      "country": "영국",
+      "setting": "유전자 조작 박테리아 산업을 쥔 집안의 딸이 납치된 뒤 버림받아, 이름을 숨긴 채 밑바닥에서 산다.",
+      "concepts": [
+        "genetic_eng",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1996 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_moon_and_the_sun",
+      "orig": "The Moon and the Sun",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "The Moon and the Sun (1997)",
+      "by": "Vonda N. McIntyre",
+      "year": 1997,
+      "country": "미국",
+      "setting": "태양왕 루이 14세의 궁정에, 먹으면 영생을 준다는 바다 괴물이 잡혀 온다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1997 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ancient_shores",
+      "orig": "Ancient Shores",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Ancient Shores (1996) · Thunderbird (2015) — 상: Ancient Shores 네뷸러상 1997 장편 최종 후보",
+      "by": "Jack McDevitt",
+      "year": 1996,
+      "country": "미국",
+      "setting": "노스다코타 농장 땅에서 새것 같은 요트가 나오는데, 원자 번호 161이라는 있을 수 없는 물질로 되어 있다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1997 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bellwether_willis",
+      "orig": "Bellwether",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Bellwether (1996)",
+      "by": "Connie Willis",
+      "year": 1996,
+      "country": "미국",
+      "setting": "유행이 생기는 까닭을 파는 과학자가, 유행을 쫓는 회사의 경영 유행에 휩쓸린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1997 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "skolian_empire",
+      "orig": "Saga of the Skolian Empire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Saga of the Skolian Empire 연작 (Primary Inversion ~) — 상: The Last Hawk 네뷸러상 1998 장편 최종 후보; The Quantum Rose 네뷸러상 2001 장편 수상",
+      "by": "Catherine Asaro",
+      "year": 1995,
+      "country": "미국",
+      "setting": "옛 루비 제국의 잊힌 행성들과 스콜리아 왕가가 얽힌 은하—한 왕족은 잊힌 행성 코바에 떨어져 오래 갇힌다.",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "The Last Hawk: 네뷸러상 1998 장편 최종 후보; The Quantum Rose: 네뷸러상 2001 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "moonfall_mcdevitt",
+      "orig": "Moonfall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Moonfall (1998)",
+      "by": "Jack McDevitt",
+      "year": 1998,
+      "country": "미국",
+      "setting": "2024년 첫 달 기지가 문을 여는 날, 별 사이를 온 혜성이 달을 부술 길에 들어선다.",
+      "concepts": [
+        "catastrophe",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1998 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "southern_victory",
+      "orig": "Southern Victory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "How Few Remain (1997) 등 Southern Victory 연작 — 상: How Few Remain 네뷸러상 1998 장편 최종 후보",
+      "by": "Harry Turtledove",
+      "year": 1997,
+      "country": "미국",
+      "setting": "남부 연합이 남북전쟁에서 이긴 북미, 몇십 년 뒤 두 나라가 다시 싸운다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "네뷸러상 1998 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mission_child",
+      "orig": "Mission Child",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mission Child (1998)",
+      "by": "Maureen F. McHugh",
+      "year": 1998,
+      "country": "미국",
+      "setting": "잊혔던 개척 행성, 지구에서 새 개척민이 오며 세상이 뒤집히고 선교 마을 소녀 얀나가 떠돌게 된다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1999 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "infinity_beach",
+      "orig": "Infinity Beach",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Infinity Beach (2000)",
+      "by": "Jack McDevitt",
+      "year": 2000,
+      "country": "미국",
+      "setting": "사람과 외계 문명의 첫 만남을 다룬 이야기.",
+      "concepts": [
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2000 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mars_crossing",
+      "orig": "Mars Crossing",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mars Crossing (2000)",
+      "by": "Geoffrey A. Landis",
+      "year": 2000,
+      "country": "미국",
+      "setting": "브라질과 미국 탐사가 실패한 뒤 화성에 간 세 번째 탐사대의 이야기.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2001 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "queendom_of_sol",
+      "orig": "The Queendom of Sol",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Collapsium (2000) · The Wellstone (2003) · Lost in Transmission (2004) · To Crush the Moon (2005) — 상: The Queendom of Sol 네뷸러상 2001 장편 최종 후보 · 네뷸러상 2006 장편 최종 후보",
+      "by": "Wil McCarthy",
+      "year": 2000,
+      "country": "미국",
+      "setting": "기술이 너무 빨리 바뀌자 인류가 안정을 바라 다시 왕정을 택한 태양계 '태양 여왕국'.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 2001 장편 최종 후보 · 네뷸러상 2006 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "solitaire_eskridge",
+      "orig": "Solitaire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Solitaire (2002)",
+      "by": "Kelley Eskridge",
+      "year": 2002,
+      "country": "미국",
+      "setting": "거대 기업이 먹이고 지켜 주는 세상의 여자가 살인죄로, 짧은 시간에 압축된 가상 독방형을 받는다.",
+      "concepts": [
+        "simulation",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2002 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_mount",
+      "orig": "The Mount",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Mount (2002)",
+      "by": "Carol Emshwiller",
+      "year": 2002,
+      "country": "미국",
+      "setting": "사람이 수백 년째 외계 종족 '후트'의 탈것으로 길러지는 지구, 소년 찰리가 등에 주인을 태운다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2003 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "academy_mcdevitt",
+      "orig": "Academy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Engines of God (1994) ~ Starhawk (2013) — Priscilla 'Hutch' Hutchins 연작 — 상: Chindi 네뷸러상 2003 장편 최종 후보; Omega 네뷸러상 2004 장편 최종 후보; Odyssey 네뷸러상 2007 장편 최종 후보; Cauldron 네뷸러상 2008 장편 최종 후보",
+      "by": "Jack McDevitt",
+      "year": 1994,
+      "country": "미국",
+      "setting": "사라진 문명들의 유물만 남은 우주, 빛보다 빠른 배의 조종사 '허치'가 그 수수께끼를 쫓는다.",
+      "concepts": [
+        "ftl",
+        "precursor",
+        "galactic_threat"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Chindi: 네뷸러상 2003 장편 최종 후보; Omega: 네뷸러상 2004 장편 최종 후보; Odyssey: 네뷸러상 2007 장편 최종 후보; Cauldron: 네뷸러상 2008 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alex_benedict",
+      "orig": "Alex Benedict",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Talent for War (1989) ~ Coming Home (2014) — Alex Benedict 연작 — 상: Polaris 네뷸러상 2005 장편 최종 후보; Seeker 네뷸러상 2006 장편 수상; Echo 네뷸러상 2010 장편 최종 후보; Firebird 네뷸러상 2011 장편 최종 후보; Coming Home 네뷸러상 2014 장편 최종 후보",
+      "by": "Jack McDevitt",
+      "year": 1989,
+      "country": "미국",
+      "setting": "1만 년쯤 뒤 수많은 행성에 퍼진 인류, 유물 상인 알렉스 베네딕트가 옛 유물에 얽힌 수수께끼를 푼다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Polaris: 네뷸러상 2005 장편 최종 후보; Seeker: 네뷸러상 2006 장편 수상; Echo: 네뷸러상 2010 장편 최종 후보; Firebird: 네뷸러상 2011 장편 최종 후보; Coming Home: 네뷸러상 2014 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "down_and_out_in_the_magic_kingdom",
+      "orig": "Down and Out in the Magic Kingdom",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Down and Out in the Magic Kingdom (2003)",
+      "by": "Cory Doctorow",
+      "year": 2003,
+      "country": "캐나다",
+      "setting": "결핍이 사라지고 평판 점수 '후피'가 돈 노릇을 하는 22세기, 디즈니월드 운영을 두고 무리들이 겨룬다.",
+      "concepts": [
+        "post_scarcity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2004 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "camouflage_haldeman",
+      "orig": "Camouflage",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Camouflage (2004)",
+      "by": "Joe Haldeman",
+      "year": 2004,
+      "country": "미국",
+      "setting": "백만 년 넘게 지구를 떠돈 죽지 않는 두 외계 변신체가, 2019년 사모아 바다 밑 유물에 이끌린다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2005 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "air_ryman",
+      "orig": "Air",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Air (2004)",
+      "by": "Geoff Ryman",
+      "year": 2004,
+      "country": "영국",
+      "setting": "가상 나라 카르지스탄의 산골, 사람 머릿속으로 바로 정보를 주고받는 새 기술 '에어'가 시험된다.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2005 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "small_change_walton",
+      "orig": "Small Change",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Farthing (2006) · Ha'penny (2007) · Half a Crown (2008) — 상: Farthing 네뷸러상 2006 장편 최종 후보",
+      "by": "Jo Walton",
+      "year": 2006,
+      "country": "영국",
+      "setting": "영국이 히틀러와 일찍 강화한 대체 역사의 1949년, 강화의 설계자가 살해된다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 2006 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_rangers",
+      "orig": "From the Files of the Time Rangers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "From the Files of the Time Rangers (2005)",
+      "by": "Richard Bowes",
+      "year": 2005,
+      "country": "미국",
+      "setting": "그리스 신들이 역사를 주무르고, 아폴론의 '시간 순찰대'가 여러 세계를 잇는 시간 물길을 지킨다.",
+      "concepts": [
+        "time_police",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2006 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_accidental_time_machine",
+      "orig": "The Accidental Time Machine",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Accidental Time Machine (2007)",
+      "by": "Joe Haldeman",
+      "year": 2007,
+      "country": "미국",
+      "setting": "2057년 MIT 연구 조수가 만든 장치가, 누를 때마다 몇 배씩 더 먼 미래로만 건너뛴다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2007 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "who_fears_death",
+      "orig": "Who Fears Death",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Who Fears Death (2010) · The Book of Phoenix (2015, 앞 이야기) — 상: Who Fears Death 네뷸러상 2010 장편 최종 후보",
+      "by": "Nnedi Okorafor",
+      "year": 2010,
+      "country": "미국",
+      "setting": "재앙 뒤 아프리카 사막, 누루족이 오케케족을 억누르는 땅에서 혼혈 마법사 소녀가 운명에 맞선다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2010 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "autonomous_newitz",
+      "orig": "Autonomous",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Autonomous (2017)",
+      "by": "Annalee Newitz",
+      "year": 2017,
+      "country": "미국",
+      "setting": "사람도 로봇도 재산이 될 수 있는 2144년, 특허 약을 복제해 파는 해적이 위험한 약을 쫓는다.",
+      "concepts": [
+        "robot",
+        "machine_rights",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2017 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_song_for_a_new_day",
+      "orig": "A Song for a New Day",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Song for a New Day (2019)",
+      "by": "Sarah Pinsker",
+      "year": 2019,
+      "country": "미국",
+      "setting": "전염병과 테러로 공연·모임이 불법이 된 미래, 한 음악가의 삶.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2019 장편 수상 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mexican_gothic",
+      "orig": "Mexican Gothic",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mexican Gothic (2020)",
+      "by": "Silvia Moreno-Garcia",
+      "year": 2020,
+      "country": "캐나다",
+      "setting": "1950년대 멕시코 산속 영국인 가문의 저택, 우생학과 균류에 얽힌 집안의 비밀이 드러난다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2020 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_terraformers",
+      "orig": "The Terraformers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Terraformers (2023)",
+      "by": "Annalee Newitz",
+      "year": 2023,
+      "country": "미국",
+      "setting": "6만 년 뒤 기업 소유의 행성, 노예 노동으로 테라포밍하던 이들이 몰래 살아남은 땅밑 도시를 찾는다.",
+      "concepts": [
+        "terraforming",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2023 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kenneth_malone_psi",
+      "orig": "Kenneth Malone (Psi-Power)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Brain Twister (1959 연재 'That Sweet Little Old Lady', 1962) · The Impossibles (1963) · Supermind (1963) — 상: That Sweet Little Old Lady 휴고상 1960 장편 최종 후보",
+      "by": "Randall Garrett · Laurence M. Janifer (Mark Phillips)",
+      "year": 1959,
+      "country": "미국",
+      "setting": "케네스 말론이 주인공인 '사이 파워' 초능력 연작 세 권의 첫 권.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 1960 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_choice_of_gods",
+      "orig": "A Choice of Gods",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Choice of Gods (1972)",
+      "by": "Clifford D. Simak",
+      "year": 1972,
+      "country": "미국",
+      "setting": "사람 대부분이 사라진 지구, 남은 노인들과 자유로워진 로봇들이 살고 사람들은 별로 순간 이동한다.",
+      "concepts": [
+        "robot",
+        "teleport",
+        "techno_religion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1973 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_stochastic_man",
+      "orig": "The Stochastic Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Stochastic Man (1975)",
+      "by": "Robert Silverberg",
+      "year": 1975,
+      "country": "미국",
+      "setting": "앞날을 내다보는 힘이 차츰 열려 가는 한 사내의 이야기.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1976 장편 최종 후보 · 네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mindbridge",
+      "orig": "Mindbridge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Mindbridge (1976)",
+      "by": "Joe Haldeman",
+      "year": 1976,
+      "country": "미국",
+      "setting": "물질 송신으로 별을 오가는 시대, 사라진 신 같은 외계 종족이 남긴 작은 수생 동물이 텔레파시를 일으킨다.",
+      "concepts": [
+        "teleport",
+        "telepathy",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1977 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_storm",
+      "orig": "Time Storm",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Time Storm (1977)",
+      "by": "Gordon R. Dickson",
+      "year": 1977,
+      "country": "미국",
+      "setting": "시간 왜곡이 미국을 서로 다른 현실의 조각들로 갈라놓고, 초인이 된 주인공이 우주의 균형을 바로잡는다.",
+      "concepts": [
+        "alt_timeline",
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1978 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_quiet_pools",
+      "orig": "The Quiet Pools",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Quiet Pools (1990)",
+      "by": "Michael P. Kube-McDowell",
+      "year": 1990,
+      "country": "미국",
+      "setting": "인류가 별로 떠나려는 충동을, 유전적으로 지구를 떠날 수 없는 한 남자의 눈으로 본다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "starplex",
+      "orig": "Starplex",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Starplex (1996)",
+      "by": "Robert J. Sawyer",
+      "year": 1996,
+      "country": "캐나다",
+      "setting": "웜홀이 발견되고 빛보다 빠른 비행이 생기면서, 인류가 여러 외계 종족과 처음 만난다.",
+      "concepts": [
+        "wormhole",
+        "ftl",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1997 장편 최종 후보 · 네뷸러상 1996 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "frameshift",
+      "orig": "Frameshift",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Frameshift (1997)",
+      "by": "Robert J. Sawyer",
+      "year": 1997,
+      "country": "캐나다",
+      "setting": "불치병에 걸린 남자와 텔레파시를 지닌 연인이 치료법을 찾고, 한 유명 연구자는 나치 학살 가담을 의심받는다.",
+      "concepts": [
+        "telepathy",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1998 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "factoring_humanity",
+      "orig": "Factoring Humanity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Factoring Humanity (1998)",
+      "by": "Robert J. Sawyer",
+      "year": 1998,
+      "country": "캐나다",
+      "setting": "외계 신호를 풀던 연구자가 인류의 '공동 정신'에 들어가 텔레파시를 얻는다.",
+      "concepts": [
+        "telepathy",
+        "alien",
+        "merge"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1999 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "distraction_sterling",
+      "orig": "Distraction",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Distraction (1998)",
+      "by": "Bruce Sterling",
+      "year": 1998,
+      "country": "미국",
+      "setting": "여러 세력으로 갈라진 근미래 미국, 과학 연구 구역과 루이지애나 자유주 사이 협상을 정치 참모가 맡는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1999 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fall_revolution",
+      "orig": "The Fall Revolution",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Star Fraction (1995) · The Stone Canal (1996) · The Cassini Division (1998) · The Sky Road (1999) — 상: The Cassini Division 네뷸러상 1999 장편 최종 후보; The Sky Road 휴고상 2001 장편 최종 후보",
+      "by": "Ken MacLeod",
+      "year": 1995,
+      "country": "영국",
+      "setting": "파벌로 쪼개진 미래 영국의 혁명에서 시작해, 웜홀 건너 '새 화성'과 목성의 탈인류 '빠른 족'으로 뻗는다.",
+      "concepts": [
+        "wormhole",
+        "ai",
+        "ideology_split"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "The Cassini Division: 네뷸러상 1999 장편 최종 후보; The Sky Road: 휴고상 2001 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "engines_of_light",
+      "orig": "Engines of Light",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Cosmonaut Keep (2000) · Dark Light (2001) · Engine City (2002) — 상: Cosmonaut Keep 휴고상 2002 장편 최종 후보",
+      "by": "Ken MacLeod",
+      "year": 2000,
+      "country": "영국",
+      "setting": "소련이 되살아난 21세기 중반 지구에서 첫 만남이 일어나고, 이야기는 아주 먼 별의 세계들로 옮겨 간다.",
+      "concepts": [
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "휴고상 2002 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_legion_of_time",
+      "orig": "The Legion of Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Legion of Time (1938)",
+      "by": "Jack Williamson",
+      "year": 1938,
+      "country": "미국",
+      "setting": "두 미래 '존바'와 '자이론치'가 제 존재를 걸고 시간 너머에서 싸운다—갈림길은 한 소년의 선택.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1939 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_winged_man",
+      "orig": "The Winged Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Winged Man (1944)",
+      "by": "E. Mayne Hull · A. E. van Vogt",
+      "year": 1944,
+      "country": "캐나다",
+      "setting": "1944년 태평양의 미 잠수함이 백만 년 뒤로 옮겨져, 날개 달린 종족과 물속 종족의 싸움에 끌려든다.",
+      "concepts": [
+        "time_travel",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "레트로 휴고상 1945 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "weapon_shops_of_isher",
+      "orig": "The Weapon Shops of Isher",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Weapon Makers (1943 연재, 1946) · The Weapon Shops of Isher (1951) — 상: The Weapon Makers 레트로 휴고상 1944 장편 최종 후보",
+      "by": "A. E. van Vogt",
+      "year": 1943,
+      "country": "캐나다",
+      "setting": "이셔 제국에 맞서 누구에게나 무기를 파는 무적의 '무기점'이 버티고, 그 뒤엔 죽지 않는 사내가 있다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "레트로 휴고상 1944 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jem_pohl",
+      "orig": "Frederik Pohl",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Frederik Pohl (1979)",
+      "by": "Frederik Pohl",
+      "year": 1979,
+      "country": "미국",
+      "setting": "세 진영으로 갈린 2030년대 지구가 붉은 왜성의 행성 젬을 두고 다투며 원주 종족들까지 무장시킨다.",
+      "concepts": [
+        "colonization",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 1980 장편 최종 후보 · 네뷸러상 1979 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "darkover",
+      "orig": "Darkover",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Planet Savers (1958) ~ Darkover 연작 (1958~1996) — 상: The Sword of Aldones 휴고상 1963 장편 최종 후보; The Forbidden Tower 휴고상 1978 장편 최종 후보; The Heritage of Hastur 네뷸러상 1975 장편 최종 후보",
+      "by": "Marion Zimmer Bradley",
+      "year": 1958,
+      "country": "미국",
+      "setting": "다시 뜨지 못한 배로 정착한 개척민의 후손, 초능력 귀족 '코민'이 다스리는 행성에 지구 제국이 찾아온다.",
+      "concepts": [
+        "colonization",
+        "psionics",
+        "telepathy",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "The Sword of Aldones: 휴고상 1963 장편 최종 후보; The Forbidden Tower: 휴고상 1978 장편 최종 후보; The Heritage of Hastur: 네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "amtor",
+      "orig": "Amtor (Venus series)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Pirates of Venus (1934) ~ 장편 넷과 중편 하나 — 상: Carson of Venus 레트로 휴고상 1939 장편 최종 후보",
+      "by": "Edgar Rice Burroughs",
+      "year": 1934,
+      "country": "미국",
+      "setting": "지구인 카슨 네이피어가 금성 '암토르'에 내려, 쫓겨난 왕국 사람들·해적·우생학자들 사이를 누빈다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "레트로 휴고상 1939 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "a_plague_of_demons",
+      "orig": "A Plague of Demons",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Plague of Demons (1964)",
+      "by": "Keith Laumer",
+      "year": 1964,
+      "country": "미국",
+      "setting": "수백 년째 지구의 뛰어난 전사들이 외계인에게 끌려가, 끝없는 별 전쟁의 거대 전투 기계 두뇌가 되어 왔다.",
+      "concepts": [
+        "cyborg",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kar_chee",
+      "orig": "Kar-Chee",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Rogue Dragon (1965) · The Kar-Chee Reign (1966) — 상: Rogue Dragon 네뷸러상 1965 장편 최종 후보",
+      "by": "Avram Davidson",
+      "year": 1965,
+      "country": "미국",
+      "setting": "먼 미래, 은하의 관광객들이 즐겨 찾는 곳이 된 지구를 무대로 한 이야기.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_ship_that_sailed_the_time_stream",
+      "orig": "The Ship That Sailed the Time Stream",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Ship That Sailed the Time Stream (1965) · To Sail the Century Sea (1981) — 상: The Ship That Sailed the Time Stream 네뷸러상 1965 장편 최종 후보",
+      "by": "G. C. Edmondson",
+      "year": 1965,
+      "country": "미국",
+      "setting": "미 해군 배 한 척이 뜻하지 않게 시간을 거슬러 떠도는 모험.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1965 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alyx_russ",
+      "orig": "Alyx",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Picnic on Paradise (1968) — 묶음집 Alyx (1976) — 상: Picnic on Paradise 네뷸러상 1968 장편 최종 후보",
+      "by": "Joanna Russ",
+      "year": 1968,
+      "country": "미국",
+      "setting": "시간을 넘나드는 여성 용병 알릭스가 주인공인 'Trans Temp' 우주 오페라 연작의 장편.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1968 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_steel_crocodile",
+      "orig": "The Steel Crocodile",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Steel Crocodile (1970)",
+      "by": "David G. Compton",
+      "year": 1970,
+      "country": "영국",
+      "setting": "기술의 폭주를 두려워한 정체 모를 당국이 컴퓨터 감시자를 세운 근미래, 그 일에 얽힌 사람들.",
+      "concepts": [
+        "ai",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1970 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_byworlder",
+      "orig": "The Byworlder",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Byworlder (1971)",
+      "by": "Poul Anderson",
+      "year": 1971,
+      "country": "미국",
+      "setting": "21세기 초 지구 궤도에 시그마 드라코니스에서 온 외계선이 홀로 떠 있고, 아무도 그와 말이 통하지 않는다.",
+      "concepts": [
+        "first_contact",
+        "alien",
+        "overpopulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1971 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "margaret_and_i",
+      "orig": "Margaret and I",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Margaret and I (1971)",
+      "by": "Kate Wilhelm",
+      "year": 1971,
+      "country": "미국",
+      "setting": "근미래 미국, 결혼을 끝낼까 망설이며 바닷가 오두막에 머무는 여자를 그녀의 무의식이 이야기한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1971 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "what_entropy_means_to_me",
+      "orig": "What Entropy Means to Me",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "What Entropy Means to Me (1972)",
+      "by": "George Alec Effinger",
+      "year": 1972,
+      "country": "미국",
+      "setting": "우주 오페라와 가족 이야기, 탐색 우화를 겹겹이 엮은 이야기.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1972 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "autumn_angels",
+      "orig": "Autumn Angels",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Autumn Angels (1975) · An East Wind Coming (1979) — 상: Autumn Angels 네뷸러상 1975 장편 최종 후보",
+      "by": "Arthur Byron Cover",
+      "year": 1975,
+      "country": "미국",
+      "setting": "말장난과 문화 흉내가 넘치는 먼 미래 지구, 정체를 숨긴 신들이 득실댄다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_embedding",
+      "orig": "The Embedding",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Embedding (1973)",
+      "by": "Ian Watson",
+      "year": 1973,
+      "country": "영국",
+      "setting": "세 갈래 이야기로, 언어가 사람의 현실 인식을 통째로 빚는다는 가설을 파고든다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_funeral_for_the_eyes_of_fire",
+      "orig": "A Funeral for the Eyes of Fire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "A Funeral for the Eyes of Fire (1975)",
+      "by": "Michael Bishop",
+      "year": 1975,
+      "country": "미국",
+      "setting": "외계 행성에서 기적을 일으키지 못하면 독재의 지구로 돌려보내질 주인공의 이야기.",
+      "concepts": [
+        "alien",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "guernica_night",
+      "orig": "Guernica Night",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Guernica Night (1975)",
+      "by": "Barry N. Malzberg",
+      "year": 1975,
+      "country": "미국",
+      "setting": "23세기 지구, 격리 단지에 사는 사람들 사이에 자살이 번지고 첨단 기술의 교회도 막지 못한다.",
+      "concepts": [
+        "techno_religion",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "missing_man_maclean",
+      "orig": "Missing Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Missing Man (1975)",
+      "by": "Katherine MacLean",
+      "year": 1975,
+      "country": "미국",
+      "setting": "고통에 빠진 사람의 감정을 음파처럼 잡아내는 텔레파시 능력자가 뉴욕 구조대와 함께 사람을 찾는다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1975 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "islands_randall",
+      "orig": "Islands",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Islands (1976)",
+      "by": "Marta Randall",
+      "year": 1976,
+      "country": "미국",
+      "setting": "의학으로 누구나 죽지 않게 된 시대, 그 처치가 듣지 않는 여자가 고고학에 빠져 몸을 넘어서는 발견을 한다.",
+      "concepts": [
+        "longevity",
+        "ascension"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1976 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cirque_carr",
+      "orig": "Cirque",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Cirque (1977)",
+      "by": "Terry Carr",
+      "year": 1977,
+      "country": "미국",
+      "setting": "먼 미래를 무대로 한, 슬픈 분위기의 종교 우화.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1977 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "juniper_time",
+      "orig": "Juniper Time",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Juniper Time (1979)",
+      "by": "Kate Wilhelm",
+      "year": 1979,
+      "country": "미국",
+      "setting": "가뭄이 미국 서부를 무너뜨린 근미래, 우주 정거장을 지은 이들의 딸인 언어학자가 우주 유물의 암호를 푼다.",
+      "concepts": [
+        "alien",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1979 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "corlay",
+      "orig": "Corlay",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Piper at the Gates of Dawn (1976, 중편) · The Road to Corlay (1978) · A Dream of Kinship (1981) · A Tapestry of Time (1982) — 상: The Road to Corlay 네뷸러상 1979 장편 최종 후보",
+      "by": "Richard Cowper",
+      "year": 1976,
+      "country": "영국",
+      "setting": "바닷물이 차올라 낮은 땅이 잠긴 지 천 년쯤 뒤, 섬처럼 갈린 잉글랜드에서 펼쳐지는 이야기.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1979 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "book_of_the_beast",
+      "orig": "The Book of the Beast",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Orphan (1980) · The Captive (1981) · The Beast (1982) — 상: Orphan (disambiguation) 네뷸러상 1980 장편 최종 후보",
+      "by": "Robert Stallman",
+      "year": 1980,
+      "country": "미국",
+      "setting": "늑대 인간이 사실은 외계 생명의 번데기 단계라는 설정—둘이 짝을 이루면 생의 다음 단계가 열린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1980 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "frontera_shiner",
+      "orig": "Frontera",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Frontera (1984)",
+      "by": "Lewis Shiner",
+      "year": 1984,
+      "country": "미국",
+      "setting": "큰 기업이 버려진 화성 개척지를 조사하라고 보낸 팀의 이야기.",
+      "concepts": [
+        "colonization",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_man_who_melted",
+      "orig": "The Man Who Melted",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Man Who Melted (1984)",
+      "by": "Jack Dann",
+      "year": 1984,
+      "country": "미국",
+      "setting": "집단 광기가 현실을 휘게 하는 세상, 한 남자가 잃어버린 아내를 찾아 헤맨다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1984 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_remaking_of_sigmund_freud",
+      "orig": "The Remaking of Sigmund Freud",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Remaking of Sigmund Freud (1985)",
+      "by": "Barry N. Malzberg",
+      "year": 1985,
+      "country": "미국",
+      "setting": "기술로 되살아난 프로이트가 외계인과의 소통 문제를 풀려다 무너진다.",
+      "concepts": [
+        "resurrection",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1985 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_journal_of_nicholas_the_american",
+      "orig": "The Journal of Nicholas the American",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Journal of Nicholas the American (1986)",
+      "by": "Leigh Kennedy",
+      "year": 1986,
+      "country": "미국",
+      "setting": "남의 감정을 고스란히 느끼는 초감각을 물려받은 젊은이가 미칠 지경에 이른다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1986 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "deserted_cities_of_the_heart",
+      "orig": "Deserted Cities of the Heart",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Deserted Cities of the Heart (1988)",
+      "by": "Lewis Shiner",
+      "year": 1988,
+      "country": "미국",
+      "setting": "마술적 사실주의의 멕시코, 마야 시대로의 시간 여행과 다가오는 대참사가 얽힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1988 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_sea_and_summer",
+      "orig": "The Sea and Summer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Sea and Summer (1987, 미국판 제목 Drowning Towers) — 상: Drowning Towers 네뷸러상 1988 장편 최종 후보",
+      "by": "George Turner",
+      "year": 1987,
+      "country": "오스트레일리아",
+      "setting": "기후 변화로 바다가 멜버른을 삼키는 미래, 소수 부자 '스위트'와 고층 빈민가 '스윌'로 갈렸다.",
+      "concepts": [
+        "catastrophe",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1988 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "redshift_rendezvous",
+      "orig": "Redshift Rendezvous",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Redshift Rendezvous (1990)",
+      "by": "John E. Stith",
+      "year": 1990,
+      "country": "미국",
+      "setting": "빛의 속도가 시속 35킬로미터뿐인 초공간을 지나는 배, 상대성 효과가 눈에 보이는 곳에서 살인이 일어난다.",
+      "concepts": [
+        "ftl",
+        "hyperspace",
+        "time_dilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1990 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hard_landing",
+      "orig": "Hard Landing",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Hard Landing (1992)",
+      "by": "Algis Budrys",
+      "year": 1992,
+      "country": "미국",
+      "setting": "1950년대 초 미국에 추락한 외계인들이 사람 행세로 숨어 살고, 하나가 과학 지식을 팔아 권력과 손잡는다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1993 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "celestis",
+      "orig": "Celestis",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Celestis (1993)",
+      "by": "Paul Park",
+      "year": 1993,
+      "country": "미국",
+      "setting": "시간 지연과 실패한 경력에 갇힌 지구 관리가, 사람을 닮으려 몸을 고친 외계 원주민 여성과 사랑에 빠진다.",
+      "concepts": [
+        "time_dilation",
+        "colonization",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1995 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nanotech_cycle",
+      "orig": "Nanotech Cycle",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Queen City Jazz (1994) · Mississippi Blues (1997) · Crescent City Rhapsody (2000) · Light Music (2002) — 상: Crescent City Rhapsody 네뷸러상 2000 장편 최종 후보; Light Music 네뷸러상 2003 장편 최종 후보",
+      "by": "Kathleen Ann Goonan",
+      "year": 1994,
+      "country": "미국",
+      "setting": "외계에서 온 나노 기술이 미국을 통째로 바꿔 놓아, 언뜻 대재앙 뒤 몰락처럼 보이는 세계.",
+      "concepts": [
+        "nanotech",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Crescent City Rhapsody: 네뷸러상 2000 장편 최종 후보; Light Music: 네뷸러상 2003 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_rigger",
+      "orig": "Star Rigger",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Seas of Ernathe (1976) ~ Eternity's End (2000) — 상: Eternity's End 네뷸러상 2001 장편 최종 후보",
+      "by": "Jeffrey Carver",
+      "year": 1976,
+      "country": "미국",
+      "setting": "새로운 성간 비행 기술과 초월적 외계 존재가 엇갈리는 '스타 리거' 우주 오페라 연작.",
+      "concepts": [
+        "ftl",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 2001 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "picoverse",
+      "orig": "Picoverse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Picoverse (2002)",
+      "by": "Robert A. Metzger",
+      "year": 2002,
+      "country": "미국",
+      "setting": "작게 만든 전자 가속기가 실수로 주머니 우주를 만들고, 그 안에서 이름난 인물들이 겨룬다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2002 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "superpowers_schwartz",
+      "orig": "Superpowers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Superpowers (2008)",
+      "by": "David J. Schwartz",
+      "year": 2008,
+      "country": "미국",
+      "setting": "슈퍼히어로 이야기를 뜯어보고 기리는, 초능력을 얻은 이들의 이야기.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2008 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bel_dame_apocrypha",
+      "orig": "Bel Dame Apocrypha",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "God's War (2011) · Infidel (2011) · Rapture (2012) — 상: God's War 네뷸러상 2011 장편 최종 후보",
+      "by": "Kameron Hurley",
+      "year": 2011,
+      "country": "미국",
+      "setting": "이슬람 신자들이 개척한 행성 우마이마, 페로몬으로 곤충을 부리는 기술로 살며 종교 전쟁이 끝없다.",
+      "concepts": [
+        "colonization",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 2011 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_red_nagata",
+      "orig": "The Red",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Red: First Light (2013) 등 The Red 연작 — 상: The Red: First Light 네뷸러상 2013 장편 최종 후보",
+      "by": "Linda Nagata",
+      "year": 2013,
+      "country": "미국",
+      "setting": "근미래 제3세계 국지전, 기계·똑똑한 무기와 묶인 분대원들이 자신들이 장기 말임을 깨달아 간다.",
+      "concepts": [
+        "cyborg",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2013 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "barsk",
+      "orig": "Barsk",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Barsk: The Elephants' Graveyard (2015) 등 — 상: Barsk: The Elephants' Graveyard 네뷸러상 2015 장편 최종 후보",
+      "by": "Lawrence M. Schoen",
+      "year": 2015,
+      "country": "미국",
+      "setting": "사람이 사라진 먼 미래, 지성 동물들의 은하에서 코끼리 종족이 죽은 이와 말하게 하는 약을 쥐었다.",
+      "concepts": [
+        "uplift",
+        "awakening_substance"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2015 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "everfair",
+      "orig": "Everfair",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Everfair (2016)",
+      "by": "Nisi Shawl",
+      "year": 2016,
+      "country": "미국",
+      "setting": "페이비언 협회가 19세기 콩고에 피난처를 세워, 더 너그러운 산업 혁명이 일어나는 대체 역사 이상향.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2016 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "blackfish_city",
+      "orig": "Blackfish City",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Blackfish City (2018)",
+      "by": "Sam J. Miller",
+      "year": 2018,
+      "country": "미국",
+      "setting": "기후 변화로 녹은 북극에 떠 있는 도시 '쿠아나크', 낯선 방문자가 나타난다.",
+      "concepts": [
+        "catastrophe",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2018 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "caine_riordan",
+      "orig": "Tales of the Terran Republic",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Fire with Fire (2013) · Trial by Fire (2014) · Raising Caine (2015) · Marque of Caine (2019) 등 (Caine Riordan 연작) — 상: Fight Fire with Fire 네뷸러상 2013 장편 최종 후보; Trial by fire 네뷸러상 2014 장편 최종 후보; Charles E. Gannon 네뷸러상 2015 장편 최종 후보; Marque of Caine 네뷸러상 2019 장편 최종 후보",
+      "by": "Charles E. Gannon",
+      "year": 2013,
+      "country": "미국",
+      "setting": "22세기를 무대로 한 하드 SF '지구 공화국 이야기', 주인공은 케인 리오던.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Fight Fire with Fire: 네뷸러상 2013 장편 최종 후보; Trial by fire: 네뷸러상 2014 장편 최종 후보; Charles E. Gannon: 네뷸러상 2015 장편 최종 후보; Marque of Caine: 네뷸러상 2019 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "plague_birds",
+      "orig": "Plague Birds",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Plague Birds (2021)",
+      "by": "Jason Sanford",
+      "year": 2021,
+      "country": "미국",
+      "setting": "모든 사람이 유전자로 고쳐진 황량한 미래, 사람과 인공지능이 섞인 '역병새'가 세상을 사납게 다스린다.",
+      "concepts": [
+        "genetic_eng",
+        "ai",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2021 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_mountain_in_the_sea",
+      "orig": "The Mountain in the Sea",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Mountain in the Sea (2022)",
+      "by": "Ray Nayler",
+      "year": 2022,
+      "country": "미국",
+      "setting": "외딴 섬에서 발달한 문어 사회의 지능을 해양생물학자와 인공지능 안드로이드가 연구한다—사람과 문어의 첫 소통.",
+      "concepts": [
+        "first_contact",
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2022 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sleeping_worlds_have_no_memory",
+      "orig": "Sleeping Worlds Have No Memory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Tower of Mud and Straw (중편) · Sleeping Worlds Have No Memory (2024) — 상: Sleeping Worlds Have No Memory 네뷸러상 2024 장편 최종 후보",
+      "by": "Yaroslav Barsukov",
+      "year": 2024,
+      "country": "확인 못 함",
+      "setting": "가스 진압 명령을 거부한 장관이 국경으로 쫓겨나, 난민 종족의 반쯤만 알려진 장치로 짓는 거대 탑을 맡는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2024 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "when_we_were_real",
+      "orig": "When We Were Real",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "When We Were Real (2025)",
+      "by": "Daryl Gregory",
+      "year": 2025,
+      "country": "미국",
+      "setting": "세상이 시뮬레이션이라는 발표가 나고 7년 뒤, 물리 법칙을 어기는 '불가능'들을 도는 버스 여행.",
+      "concepts": [
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2025 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "synners",
+      "orig": "Pat Cadigan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Pat Cadigan (1991)",
+      "by": "Pat Cadigan",
+      "year": 1991,
+      "country": "미국",
+      "setting": "사람과 컴퓨터를 바로 잇는 기술이 세상을 휘어잡은 근미래, 그 연결을 둘러싼 이야기.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sarah_canary",
+      "orig": "Karen Joy Fowler",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Karen Joy Fowler (1991)",
+      "by": "Karen Joy Fowler",
+      "year": 1991,
+      "country": "미국",
+      "setting": "1873년 워싱턴주에 새소리를 내는 정체 모를 여인이 나타난다—사람인지 외계인인지 아무도 모른다.",
+      "concepts": [
+        "first_contact",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1992 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rakesfall",
+      "orig": "Vajra Chandrasekera",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Vajra Chandrasekera (2024)",
+      "by": "Vajra Chandrasekera",
+      "year": 2024,
+      "country": "스리랑카",
+      "setting": "스리랑카 내전에서 시작해, 주인공들이 되풀이 태어나며 먼 미래까지 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2024 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "strangers_dozois",
+      "orig": "Strangers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Strangers (1978)",
+      "by": "Gardner Dozois",
+      "year": 1978,
+      "country": "미국",
+      "setting": "사람이 주인이 아닌 은하, 지구 남자가 외계 행성의 여자와 사랑하지만 아이를 품는 일이 그녀를 죽인다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1978 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "free_live_free",
+      "orig": "Free Live Free",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Free Live Free (1984)",
+      "by": "Gene Wolfe",
+      "year": 1984,
+      "country": "미국",
+      "setting": "헐릴 집 주인이 숨은 물건을 찾아 주면 공짜로 살게 해 준다고 하고 낯선 넷이 모인다—시간 여행 이야기.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1986 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "century_next_door",
+      "orig": "Century Next Door",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Orbital Resonance (1991) · Kaleidoscope Century · Candle · The Sky So Big and Black — 상: Orbital Resonance 네뷸러상 1991 장편 최종 후보",
+      "by": "John Barnes",
+      "year": 1991,
+      "country": "미국",
+      "setting": "우주에서 자란 아이들이 어른보다 새 시대를 잘 헤쳐 가리라 여겨지는 미래, 우주에 사는 소녀의 이야기.",
+      "concepts": [
+        "spacers"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 1991 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "machinehood",
+      "orig": "Machinehood",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Machinehood (2021)",
+      "by": "S. B. Divya",
+      "year": 2021,
+      "country": "미국",
+      "setting": "2095년, 사람·사이보그·인공지능 로봇이 늘 감시받으며 자잘한 일감을 다투고, 지하 조직이 체제를 흔든다.",
+      "concepts": [
+        "cyborg",
+        "robot",
+        "ai",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 2021 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "assemblers_of_infinity",
+      "orig": "Assemblers of Infinity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Assemblers of Infinity (1992)",
+      "by": "Kevin J. Anderson · Doug Beason",
+      "year": 1992,
+      "country": "미국",
+      "setting": "달 뒷면에서 스스로 불어나는 작은 기계들이 무언가를 짓는다—외계의 침공인가, 빗나간 나노 실험인가.",
+      "concepts": [
+        "nanotech",
+        "self_replicate"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1993 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xenowealth",
+      "orig": "Xenowealth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "Crystal Rain (2006) · Ragamuffin (2007) · Sly Mongoose 등 — 상: Ragamuffin 네뷸러상 2007 장편 최종 후보",
+      "by": "Tobias S. Buckell",
+      "year": 2006,
+      "country": "미국",
+      "setting": "외계 지배자 '사트랍'이 웜홀 세계들을 쥐고 인류를 변두리로 몬 먼 미래, 카리브 문화의 후손들이 버틴다.",
+      "concepts": [
+        "wormhole",
+        "alien",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "네뷸러상 2007 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_eskimo_invasion",
+      "orig": "The Eskimo Invasion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "The Eskimo Invasion (1967)",
+      "by": "Hayden Howard",
+      "year": 1967,
+      "country": "미국",
+      "setting": "외계의 힘이 캐나다 이누이트를 빨리 불어나는 새 종 '에스크'로 바꿔 놓아, 인구 문제가 터진다.",
+      "concepts": [
+        "alien",
+        "overpopulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "네뷸러상 1967 장편 최종 후보 — 영어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    }
+  ]
+}

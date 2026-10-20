@@ -1,0 +1,1405 @@
+{
+  "terms": [
+    {
+      "id": "traveler",
+      "ko": "여행자",
+      "orig": "The Traveler",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Traveler(장소)→여행자",
+      "kind": "존재",
+      "concepts": [
+        "godlike",
+        "benefactor"
+      ],
+      "one": "최후의 도시 위에 떠 있는 거대한 공 모양의 존재, 빛의 원천",
+      "note": "빛과 얽힌 초인과적 존재로, 화성에서 인류와 만나 태양계 여러 세계를 사람이 살 만한 땅으로 바꾸며 황금기를 열었다. 붕괴 때 스스로를 던져 검은 함대를 밀어낸 뒤 오래 움직임을 잃었다. 고스트와 수호자의 빛이 모두 여기서 나오며, 엘릭스니는 이를 거대한 기계라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/The_Traveler"
+      ]
+    },
+    {
+      "id": "witness",
+      "ko": "목격자",
+      "orig": "The Witness",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Witness→목격자, 공식 한국어 로어 119편이 모두 영문 Witness 와 짝",
+      "kind": "존재",
+      "concepts": [
+        "merge",
+        "godlike"
+      ],
+      "one": "검은 함대를 거느리고 오랜 세월 여행자를 뒤쫓아 온 어둠의 존재",
+      "note": "여행자가 처음 일으킨 문명이 어둠을 다루어 종족 전체의 마음을 하나로 합친 끝에 생겨났다. 그 뒤 검은 함대를 거느리고 여행자를 뒤쫓으며, 자기 뜻대로 우주를 굳히는 최후의 형체를 이루려고 수많은 문명을 무너뜨렸다. 끝내 창백한 심장에서 수호자에게 해체되었다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/The_Witness"
+      ]
+    },
+    {
+      "id": "light",
+      "ko": "빛",
+      "orig": "Light",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Light 가 든 이름 362건이 모두 '빛' 계열(New Light→새로운 빛)",
+      "kind": "현상·힘",
+      "concepts": [
+        "cosmic_force"
+      ],
+      "one": "시간이 시작되기 전부터 있던, 어둠과 맞서는 초인과적 힘",
+      "note": "어둠과 짝을 이루는 근원의 힘으로, 우주 속 존재가 더 복잡하고 다양해지며 새 생명이 자라도록 민다. 여행자가 가장 넉넉한 원천이지만 유일한 원천은 아니다. 수호자는 이를 태양·전기·공허 세 갈래로 다룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Light"
+      ]
+    },
+    {
+      "id": "darkness",
+      "ko": "어둠",
+      "orig": "Darkness",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Darkness's Doorstep→어둠의 문간, Focused Darkness→집중된 어둠",
+      "kind": "현상·힘",
+      "concepts": [
+        "cosmic_force"
+      ],
+      "one": "빛과 맞서는, 시간 이전부터 있던 초인과적 힘",
+      "note": "우주의 두 근원 힘 가운데 하나로 빛과 짝을 이룬다. 최후의 도시는 오래 이것을 악 그 자체로 여겼으나, 다루는 쪽에 따라 쓰임이 달라지는 힘으로 드러났다. 수호자도 뒤에 시공과 초월이라는 어둠의 갈래를 다루게 되었고, 목격자와 그 신봉자들은 이 힘을 무기로 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Darkness"
+      ]
+    },
+    {
+      "id": "paracausal",
+      "ko": "초인과적",
+      "orig": "Paracausal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Paracausal 이 든 이름 25건이 모두 '초인과적'(Paracausal Affinity→초인과적 친화)",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "알려진 물리 법칙을 거스르는 힘·존재·능력을 가리키는 말",
+      "note": "인과를 깨는 것이 아니라 인과 바깥에서 나란히 현실에 끼어드는 것으로 설명된다. 빛과 어둠이 대표적인 예이고, 여행자와 베일은 알려진 가장 오래된 초인과적 존재로 꼽힌다. 수호자가 쓰는 원소 능력도 모두 여기에 든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Paracausality"
+      ]
+    },
+    {
+      "id": "solar",
+      "ko": "태양",
+      "orig": "Solar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Solar(상인)→태양, 공식 로어는 Solar Light 를 '태양 빛'으로 옮김",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "열과 핵융합으로 드러나는 빛의 갈래, 태우기도 낫게도 한다",
+      "note": "공허·전기와 함께 수호자가 다루는 빛의 세 갈래 가운데 하나다. 불꽃과 열을 일으키며, 가까이 온 것을 태우는 힘과 상처를 낫게 하는 힘이 같은 뿌리라고 여겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Solar"
+      ]
+    },
+    {
+      "id": "arc",
+      "ko": "전기",
+      "orig": "Arc",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 영문이 Arc 그대로인 이름 7건이 모두 '전기'(전기 피해 등)",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "움직임과 전도를 맡은 빛의 갈래, 번개로 나타난다",
+      "note": "태양·공허와 함께 수호자가 다루는 빛의 세 갈래 가운데 하나다. 전기와 전자기에 걸린 힘이어서 번개 같은 현상을 일으키며, 변화를 우주의 근본으로 보는 가르침과 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Arc"
+      ]
+    },
+    {
+      "id": "void",
+      "ko": "공허",
+      "orig": "Void",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Void 가 든 이름 179건이 '공허'(공허 피해 저항 등)",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "중력과 시공간의 일그러짐에 얽힌 빛의 갈래",
+      "note": "태양·전기와 함께 수호자가 다루는 빛의 세 갈래 가운데 하나다. 다루는 이는 블랙홀이나 중력 파동처럼 시공을 휘는 효과를 낸다. 한때는 빛의 운반자가 이 힘을 쓰는 것이 금기였다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Void"
+      ]
+    },
+    {
+      "id": "stasis",
+      "ko": "시공",
+      "orig": "Stasis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Stasis Prototype→시공 프로토타입 등 126건",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "움직임을 늦추고 붙잡아 깨뜨리는 어둠의 갈래",
+      "note": "초월과 함께 어둠이 원소로 드러난 꼴로, 추위와 움직임의 멈춤에 이어진다. 늦추고, 붙잡고, 깨뜨리는 순서로 쓰이며, 어둠이 생각과 의식에 닿아 있는 만큼 의지와 통제라는 뜻도 품는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Stasis"
+      ]
+    },
+    {
+      "id": "strand",
+      "ko": "초월",
+      "orig": "Strand",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Strand(상인)→초월",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "모든 것을 잇는 숨은 연결을 끈처럼 쥐고 다루는 어둠의 갈래",
+      "note": "시공과 함께 어둠이 원소로 드러난 꼴로, 우주의 모든 것과 모든 마음을 잇는 숨은 끈을 다룬다. 수호자는 해왕성의 숨은 도시 네오무나에서 처음 만났고, 오시리스는 가까이 있는 베일의 영향이 남긴 것으로 보았다. 힘은 끈 자체가 아니라 그것을 조종하는 데 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Strand"
+      ]
+    },
+    {
+      "id": "the_nine",
+      "ko": "아홉",
+      "orig": "The Nine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Nine→아홉, Stories: The Nine→스토리: 아홉",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "태양계 천체의 중력에 묶여 지성을 얻은, 암흑 물질로 된 존재들",
+      "note": "암흑 물질이 해와 행성들의 중력에 끌려 끝없이 돌다가 지성을 얻었다고 한다. 보통 물질이 닿지 못하는 높은 차원에 있어 과거·현재·미래를 한꺼번에 겪으므로 앞일을 아는 것처럼 보인다. 미지의 공간을 다스리지만 이 세계에는 힘이 좁게 미쳐 몇몇 사절을 통해 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/The_Nine"
+      ]
+    },
+    {
+      "id": "veil",
+      "ko": "베일",
+      "orig": "The Veil",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Parting the Veil→베일 분석, 공식 로어의 the Veil 14편이 모두 '베일'",
+      "kind": "존재",
+      "concepts": [],
+      "one": "어둠에 얽힌 오래된 초인과적 존재, 네오무나의 동력원",
+      "note": "여행자와 함께 알려진 가장 오래된 초인과적 존재로, 생각과 의식의 힘인 어둠에 얽혀 있다. 붕괴 때 신봉자가 피라미드에 싣고 오던 것을 사바툰이 빼돌려 해왕성에 숨겼고, 뒤에 그곳에 내린 인류가 찾아내 숨은 도시 네오무나의 동력원으로 삼았다. 목격자 쪽이 이것을 노려 도시를 에워쌌다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/The_Veil"
+      ]
+    },
+    {
+      "id": "winnower",
+      "ko": "키질꾼",
+      "orig": "Winnower",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Gardener and Winnower(기록)→정원사와 키질꾼",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "시간 밖 정원에서 정원사와 확률이라는 놀이를 하는 어둠의 존재",
+      "note": "로어의 우화에서, 시간이 시작되기 전 한 정원에 정원사와 키질꾼이 있었다. 정원사가 아침마다 씨앗을 심으면 키질꾼은 저녁마다 그날 자란 것 가운데 살아남을 것과 아닌 것을 가려냈다. 정원사는 여행자를 가리키는 이름이기도 하다. 키질꾼은 시간과 공간을 넘어 오릭스와 수호자에게도 말을 걸었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Winnower"
+      ]
+    },
+    {
+      "id": "final_shape",
+      "ko": "최후의 형체",
+      "orig": "Final Shape",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Final Shape(활동)→최후의 형체",
+      "alt_ko": [
+        {
+          "ko": "최종적인 형체",
+          "src": "게임 한국어판 화면 문자열: The Final Shape(기록)→최종적인 형체"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "우주를 단순하고 영원한 꼴로 굳히려는, 어둠 쪽이 꿈꾼 끝 상태",
+      "note": "우주가 단순하고 영원하며 스스로를 지탱하는 꼴로 줄어든 상태를 뜻한다. 목격자는 자기 뜻 없이는 아무것도 움직이지 못하는 질서로 우주를 다시 빚어, 고통을 낳는 작용과 반작용의 되풀이를 멈추려 했다. 벌레와 군체는 부술 수 있는 것이 다 부서진 뒤 남는 것으로 이해했고, 신봉자들끼리도 풀이가 달랐다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Final_Shape"
+      ]
+    },
+    {
+      "id": "sword_logic",
+      "ko": "검의 논리",
+      "orig": "Sword Logic",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Sword Logic(능력)→검의 논리",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "존재는 존재하려는 싸움이라고 보는 벌레와 군체의 교리이자 힘의 체계",
+      "note": "패배를 스스로 막지 못하는 것은 더 강한 것에게 없어져 마땅하다고 본다. 이를 따르는 이는 다른 것을 꺾을수록 초인과적 힘을 얻어, 군체는 끝없는 정복으로 몸속 벌레를 먹이고 신의 자리에 오른다. 목격자가 벌레와 군체에게 처음 가르쳤고, 협력과 복잡함을 앞세우는 빛의 철학과 맞선다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Sword_Logic"
+      ]
+    },
+    {
+      "id": "ghost",
+      "ko": "고스트",
+      "orig": "Ghost",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Ghost(상인)→고스트, Ghost Shells→고스트 의체",
+      "kind": "종족·생물",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "붕괴 직후 여행자가 만든, 수호자를 되살리는 작은 기계",
+      "note": "사람 손보다 조금 큰, 스스로 생각하는 기계로 빛을 다룰 수 있는 죽은 이를 찾아 되살리고 그 뒤로 짝을 돕는다. 고스트마다 되살리는 사람은 하나뿐이다. 고스트가 남아 있는 한 짝은 죽어도 다시 일어서지만, 고스트가 부서지면 짝도 마지막 죽음을 맞는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Ghost"
+      ]
+    },
+    {
+      "id": "guardian",
+      "ko": "수호자",
+      "orig": "Guardian",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Guardian Games→수호자 대회, A Guardian Rises→떠오르는 수호자",
+      "kind": "종족·생물",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "고스트가 되살려 빛을 다루게 된, 최후의 도시를 지키는 전사",
+      "note": "고스트에게 되살려진 빛의 운반자로, 선봉대 아래에서 최후의 도시와 태양계를 지킨다. 되살아날 때 이전 삶을 기억하지 못하고, 지난 삶을 캐는 일은 금지되어 있었다. 죽어도 다시 일어서므로 죽음을 실전 훈련에 쓸 만큼 가볍게 다루지만, 빛을 빼앗기거나 고스트를 잃으면 영영 죽는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Guardian"
+      ]
+    },
+    {
+      "id": "hive",
+      "ko": "군체",
+      "orig": "Hive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Hive 가 든 이름 37건: Hive Slayer→군체 학살자, Hive Arrival→군체 등장",
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "토대에서 온 고대 종족, 몸속 벌레를 먹이려 정복을 멈추지 않는다",
+      "note": "본래 크릴이라는 종족이었으나 가스 행성 토대의 바다에서 벌레와 계약을 맺어 군체가 되었다. 검의 논리를 따라 다른 문명을 없애며 힘을 얻고, 파괴에서 양식을 얻는 어두운 신들이 이들을 이끈다. 태양계에서는 달 속에 지옥문을 파고 토성 궤도의 드레드노트 등지에 자리 잡았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Hive"
+      ]
+    },
+    {
+      "id": "worm",
+      "ko": "벌레",
+      "orig": "Worm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Worm 이 든 이름 25건이 '벌레' 계열(벌레의 속삭임, 벌레 신 현신)",
+      "kind": "종족·생물",
+      "concepts": [
+        "parasite",
+        "pact"
+      ],
+      "one": "군체의 몸속에 살며 죽음을 먹이로 받는 토대의 고대 생물",
+      "note": "군체는 저마다 벌레 유충을 몸에 품고 그 대가로 검의 논리를 쓰는 힘을 얻는다. 끊임없는 정복과 파괴로 벌레를 먹이지 않으면 벌레가 숙주를 삼킨다. 서로 죽이며 가장 강해진 벌레들은 벌레 신이 되어 군체의 가장 높은 신으로 섬겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Worm"
+      ]
+    },
+    {
+      "id": "taken",
+      "ko": "굴복자",
+      "orig": "Taken",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 135건이 '굴복자'",
+      "kind": "종족·생물",
+      "concepts": [
+        "mind_control",
+        "assimilation"
+      ],
+      "one": "본래 우주에서 뜯겨 나갔다 돌아와 어둠에 뒤틀린 여러 종족의 존재",
+      "note": "굴복시키는 일은 대상을 우주에서 뜯어내 승천 차원으로 옮기는 데서 시작한다. 거기서 약함을 넘어설 길을 제안받아 스스로 굴복을 고르기도 하며, 돌아올 때는 초인과적 힘과 함께 자신을 끌어낸 자를 섬기려는 충동을 지닌다. 오릭스가 이 힘으로 여러 종족을 꺾어 제 군대를 만들었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Taken"
+      ]
+    },
+    {
+      "id": "scorn",
+      "ko": "경멸자",
+      "orig": "Scorn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 17건이 모두 '경멸자'(Scorn Mask→경멸자 가면)",
+      "kind": "종족·생물",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "어둠에 물든 에테르로 되살아난 몰락자 망령 무리",
+      "note": "굴복자가 된 아함카라 리븐의 힘으로, 죽어 가던 몰락자 피크룰이 첫 경멸자로 일어났다. 그 뒤 피크룰이 어둠에 물든 에테르로 죽은 몰락자들을 되살려 군대로 삼았다. 고대의 감옥에서 큰 탈옥을 일으킨 뒤 리프와 꿈의 도시로 퍼졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Scorn"
+      ]
+    },
+    {
+      "id": "awoken",
+      "ko": "각성자",
+      "orig": "Awoken",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Awoken(종족)→각성자",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "붕괴 때 지구를 떠난 사람들에게서 갈라져 나온, 창백한 피부의 인간형 종족",
+      "note": "붕괴 직전 지구를 떠난 식민지 우주선의 사람들이, 빛과 어둠이 맞부딪친 자리에서 생긴 주머니 우주 지류로 떨어져 다시 태어났다. 시간이 다르게 흐르는 그곳에서 수천 년을 쌓은 뒤 일부가 태양계로 돌아와 소행성대의 리프에 마라 소프의 왕국을 세웠다. 창백한 피부와 빛나는 눈으로 인간과 구별된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Awoken"
+      ]
+    },
+    {
+      "id": "exo",
+      "ko": "엑소",
+      "orig": "Exo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Exo(종족)→엑소",
+      "kind": "종족·생물",
+      "concepts": [
+        "mind_upload",
+        "memory_edit"
+      ],
+      "one": "인간의 정신을 기계 몸에 옮겨 만든, 스스로를 아는 인간형 기계",
+      "note": "황금기에 클로비스 브레이가 인간에게 불멸을 주려고 만들었다. 대량으로 만드는 프레임과 달리 사람의 정신을 기계 몸에 올린 것이라, 거의 모든 엑소는 전에 사람이었다. 이름 뒤의 숫자는 기억을 지우고 다시 깨운 횟수를 뜻하며, 대부분은 붕괴로 제 기원을 거의 잊었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Exo"
+      ]
+    },
+    {
+      "id": "ahamkara",
+      "ko": "아함카라",
+      "orig": "Ahamkara",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 29건이 모두 '아함카라'(Young Ahamkara's Spine→어린 아함카라의 등뼈)",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "소원을 들어주며 현실을 비틀고 그 혼란을 먹는 초인과적 생물",
+      "note": "모습을 마음대로 바꾸는 초인과적 생물로, 여행자가 태양계에 온 뒤에 나타났다. 소원에 맞추어 현실을 비틀되 말뜻을 꼬아 이루어 줄수록 더 많은 양식을 얻는다. 죽어도 뼈에 의식이 남아 말을 건다. 빛의 운반자들이 벌인 사냥으로 태양계에서 몰려났고 리븐만 살아남았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Ahamkara"
+      ]
+    },
+    {
+      "id": "cabal",
+      "ko": "기갑단",
+      "orig": "Cabal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Cabal Slayer→기갑단 학살자, Cabal Arrival→기갑단 등장 — 이름 24건·설명 109건 모두 '기갑단' (보관소 용어 사전에는 없어 보관소의 화면 문자열 표 data/raw/_ui_pairs.json 에서 보충)",
+      "kind": "종족·생물",
+      "concepts": [
+        "alien",
+        "galactic_empire"
+      ],
+      "one": "여러 세계에 걸친 제국을 이룬, 덩치 큰 군국 종족",
+      "note": "덩치가 크고 사람과 어렴풋이 닮은 종족으로, 군대를 중심에 둔 문화와 별들에 걸친 제국을 가졌다. 황제가 다스리고 군대는 군단으로 짜인다. 붕괴 뒤 화성에 들어와 벡스와 싸웠고, 가울이 이끈 붉은 군단은 최후의 도시를 기습해 붉은 전쟁을 일으켰다. 수도 행성 토로바틀이 짓밟힌 뒤 새 여제가 선봉대와 손을 잡았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Cabal"
+      ]
+    },
+    {
+      "id": "vex",
+      "ko": "벡스",
+      "orig": "Vex",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Vex Offensive→벡스 공격 작전, Vex Slayer→벡스 학살자 — 이름 92건 모두 '벡스' (보관소 용어 사전에는 없어 보관소의 화면 문자열 표 data/raw/_ui_pairs.json 에서 보충)",
+      "kind": "종족·생물",
+      "concepts": [
+        "time_travel",
+        "machine_race"
+      ],
+      "one": "행성을 통째로 기계로 바꾸고 시간을 건너다니는 고대의 기계 종족",
+      "note": "우주만큼 오래되었다는, 기계와 생물이 섞인 종족이다. 몸통 속 방산충이라는 미생물이 기계를 움직인다. 수성과 네소스처럼 행성을 거대한 기계로 바꾸며, 시공을 다루는 기술로 시간을 건너다니고 현실을 통째로 모의실험한다. 검은 정원처럼 보통의 시공간 밖에 있는 영역도 만든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Vex"
+      ]
+    },
+    {
+      "id": "fallen",
+      "ko": "몰락자",
+      "orig": "Fallen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Fallen Slayer→몰락자 학살자, Fallen Bunker→몰락자 벙커 — 이 종족을 가리키는 이름 46건 모두 '몰락자', 제 이름은 Eliksni→엘릭스니 (보관소 용어 사전에는 없어 보관소의 화면 문자열 표 data/raw/_ui_pairs.json 에서 보충)",
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "고향 리이스를 잃고 태양계를 떠도는, 팔이 넷인 약탈자 종족",
+      "note": "스스로는 엘릭스니라 부른다. 여행자 아래 리이스에서 번영했으나 검은 함대가 닥친 회오리로 문명이 무너지고 여행자도 떠났다. 수 세기를 떠돈 끝에 태양계에서 여행자를 다시 찾아내 되찾으려 인류와 싸웠다. 켈이 이끄는 여러 가문으로 갈라져 있고, 숨 쉬는 에테르에 목숨을 기댄다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Fallen"
+      ]
+    },
+    {
+      "id": "frame",
+      "ko": "프레임",
+      "orig": "Frame",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Frame 이 든 이름이 '프레임', 공식 로어 본문도 로봇을 '프레임'으로 부름",
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "최후의 도시와 리프가 일과 방어에 쓰는, 스스로를 모르는 인간형 기계",
+      "note": "스스로를 자각하지 못하는 다용도 인간형 기계로, 탑에서 상인 노릇을 하거나 방어 로봇으로 쓰인다. 경험에서 배워 저마다 성격이 생기기도 한다. 사람의 정신을 옮겨 담은 엑소와 달리 처음부터 기계로 만든 일꾼이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Frame"
+      ]
+    },
+    {
+      "id": "warmind",
+      "ko": "전쟁지능",
+      "orig": "Warmind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Warmind Khanjali→전쟁지능 칸잘리 등 75건",
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "황금기에 궤도와 지상의 전쟁을 맡도록 만든 군사 인공지능",
+      "note": "너무 복잡하고 영리해서 벡스조차 흉내 내기 어려워한다고 한다. 황금기에 지상 군사 시설과 수많은 전쟁위성으로 태양계 방어망을 이루었고 라스푸틴이 이를 통괄했다. 지금 남은 전쟁지능은 라스푸틴 하나뿐이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Warmind"
+      ]
+    },
+    {
+      "id": "pyramid",
+      "ko": "피라미드",
+      "orig": "Pyramid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 15건이 모두 '피라미드'",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "검은 함대를 이루는, 어둠을 품은 사면체 함선",
+      "note": "노란 주황빛 선이 지나는 단순한 사면체 꼴이고, 흔히 보이는 것은 몰락자 범선의 두 배쯤 된다. 단순한 배인지 여행자처럼 스스로 움직이는 존재인지는 분명하지 않으며, 고스트는 이오의 피라미드를 여행자와 같은 초인과적 존재라고 보았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Pyramid"
+      ]
+    },
+    {
+      "id": "leviathan",
+      "ko": "리바이어던",
+      "orig": "Leviathan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 활동 Leviathan→리바이어던, Derelict Leviathan(장소)→버려진 리바이어던",
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성체를 부수어 먹는, 작은 천체만 한 기갑단 황제의 배",
+      "note": "쫓겨난 기갑단 황제 칼루스와 그 충신들이 타고 다니는 배로, 작은 천체만큼 크다. 행성체를 통째로 부수어 먹으며, 위쪽 표면에 궁전이 서고 가장 높은 탑 위에 작은 인공 태양 둘이 뜬다. 붉은 전쟁 뒤 네소스 궤도에 들어 그 땅을 먹기 시작했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Leviathan_(raid)"
+      ]
+    },
+    {
+      "id": "infinite_forest",
+      "ko": "무한의 숲",
+      "orig": "Infinite Forest",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Warden of the Infinite Forest→무한의 숲의 감시관, Infinite Forest Cake→무한의 숲 케이크",
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure",
+        "simulation"
+      ],
+      "one": "수성 속에 든, 셀 수 없는 현실을 모의하는 행성 크기의 기계",
+      "note": "벡스가 수성의 속을 파내고 지은 기계로, 과거·현재·미래의 셀 수 없이 많은 현실을 모의실험해 그 결과로 지금 시간선에서 할 일을 정한다. 오시리스는 끔찍하고 파괴적인 기계라 적으면서도 그 비밀을 모두 알아내고 싶어 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Infinite_Forest"
+      ]
+    },
+    {
+      "id": "engram",
+      "ko": "엔그램",
+      "orig": "Engram",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Legendary Engram→전설 엔그램 등 이름 5,640건",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "물질을 암호화해 무기·방어구 같은 것을 담아 둔 결정",
+      "note": "물건의 형태를 암호로 새겨 넣은 열두 면 결정으로, 황금기에 처음 만들어졌고 클로비스 브레이가 연구를 이끌었다. 원고나 연구 자료를 담는 데도 썼으나 시간이 지나면 닳아, 황금기 엔그램은 대개 읽기 어렵다. 도시의 해독가들이 이를 풀어 안에 든 것을 꺼낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Engram"
+      ]
+    },
+    {
+      "id": "ether",
+      "ko": "에테르",
+      "orig": "Ether",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 36건이 모두 '에테르'",
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource"
+      ],
+      "one": "몰락자가 숨으로 들이마셔 자라고 살아가는 기체",
+      "note": "회오리 전에는 고향 리이스에 넘쳐흘렀으나, 고향을 잃은 뒤로는 서비터가 만들어 내야만 얻을 수 있다. 켈이 계급에 따라 배급을 정해 귀족은 많이 받고 맨 아래는 겨우 목숨을 잇는 몫만 받으며, 이 배급이 아랫사람의 몸집과 힘을 묶어 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Ether"
+      ]
+    },
+    {
+      "id": "vanguard",
+      "ko": "선봉대",
+      "orig": "Vanguard",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Vanguard Strikes→선봉대 공격전 등 이름이 '선봉대', 공식 로어 346편 중 311편이 영문 Vanguard 와 짝",
+      "kind": "세력",
+      "concepts": [],
+      "one": "최후의 도시 방어를 지휘하는 정예 수호자 조직",
+      "note": "타이탄·워록·헌터 세 갈래의 정예 수호자가 모여 도시 방어를 지휘하고, 적 거점 공격을 계획하며 새로 일어난 수호자를 가르친다. 붉은 전쟁에서 탑이 무너져 흩어졌다가 다시 섰고, 다른 진영들이 도시를 떠난 뒤로는 도시를 다스리는 유일한 지도부가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Vanguard"
+      ]
+    },
+    {
+      "id": "consensus",
+      "ko": "회의",
+      "orig": "Consensus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Consensus(수집품)→회의, 공식 로어 '대변자는 … 회의를 수립했다'",
+      "kind": "세력",
+      "concepts": [],
+      "one": "대변자와 선봉대, 진영들이 함께 최후의 도시를 다스린 기구",
+      "note": "진영 전쟁 끝에 맺어진 동맹에서 나왔다. 대변자가 수장을 맡고 선봉대와 진영마다 대표 한 명을 두어, 진영들이 무력 대신 정해진 길로 뜻을 펴게 했다. 붉은 전쟁에서 대변자가 죽고 뒤에 진영들이 모두 도시를 떠나면서 선봉대가 정치를 맡게 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Consensus"
+      ]
+    },
+    {
+      "id": "iron_lord",
+      "ko": "강철 군주",
+      "orig": "Iron Lord",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Iron Lord(기록)→강철 군주",
+      "kind": "세력",
+      "concepts": [],
+      "one": "암흑기에 전쟁군주를 꺾고 최후의 도시를 지킨 첫 수호자들",
+      "note": "사람들을 지키는 대신 다스리려 든 전쟁군주들에 맞서 일어선 빛의 운반자들로, 수호자라 부를 만한 첫 무리다. 이름이 퍼지며 수백 명으로 불어났고, 도시의 성벽을 세우고 지켰다. 황금기의 위험한 기술을 쫓다가 대부분이 죽고 둘만 살아남았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Iron_Lord"
+      ]
+    },
+    {
+      "id": "future_war_cult",
+      "ko": "미래 전쟁 교단",
+      "orig": "Future War Cult",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Future War Cult Armor→미래 전쟁 교단 방어구",
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "어둠과의 전쟁은 피할 수 없다고 믿은 최후의 도시 진영",
+      "note": "지구에 남든 떠나든 어둠과의 전쟁은 피할 수 없으니 싸울 준비를 해야 한다고 믿었다. 그 믿음은 황금기에 벡스를 본떠 만든, 미래를 들여다보는 장치에서 나왔다고 한다. 회의에 자리를 얻었으나 끝없는 밤 뒤에 갈라져 사라졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Future_War_Cult"
+      ]
+    },
+    {
+      "id": "dead_orbit",
+      "ko": "죽은 궤도",
+      "orig": "Dead Orbit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Dead Orbit Armor→죽은 궤도 방어구 등 16건",
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "지구를 떠나 새 고향을 찾는 수밖에 없다고 믿은 최후의 도시 진영",
+      "note": "여행자에게 구원을 바라지 않고 도시가 큰 공격을 버티리라 보지도 않아, 어둠이 돌아오기 전에 지구를 떠나 새 고향을 찾으려 했다. 그러려면 금고와 버려진 조선소에 남은 황금기 기술이 있어야 한다고 보았다. 끝없는 밤과 벡스의 공격을 겪은 뒤 끝내 도시를 떠났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Dead_Orbit"
+      ]
+    },
+    {
+      "id": "new_monarchy",
+      "ko": "신 군주국",
+      "orig": "New Monarchy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: New Monarchy Armor→신 군주국 방어구",
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "진영들의 동맹 대신 깨우친 군주 한 사람이 다스려야 한다고 본 진영",
+      "note": "인류를 지키고 새로운 황금기를 일구려 했고, 회의의 표결로 회의를 없애고 모든 권력을 흠 없는 한 사람에게 넘기는 것을 마지막 목표로 삼았다. 뒤에 엘릭스니를 받아들인 선봉대에 맞섰다가, 그 시도가 벡스의 침입으로 이어진 뒤 다른 진영과 함께 도시를 떠났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/New_Monarchy"
+      ]
+    },
+    {
+      "id": "clovis_bray",
+      "ko": "클로비스 브레이",
+      "orig": "Clovis Bray",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 클로비스 브레이 가면 등, 공식 로어 정렬 문단 21건",
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "엔그램·전쟁지능·엑소를 만든 황금기의 과학 기업",
+      "note": "클로비스 브레이 1세가 세우고 그 자손들이 이끈 기업이다. 엔그램과 전쟁지능 라스푸틴, 엑소가 모두 이곳에서 나왔다. 막대한 자원으로 태양계 곳곳에 연구 시설을 세웠고, 화성의 도시 건설에 돈을 댔으며 유로파의 식민지와 실험실을 꾸렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Clovis_Bray_(corporation)"
+      ]
+    },
+    {
+      "id": "black_fleet",
+      "ko": "검은 함대",
+      "orig": "Black Fleet",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Artifact of the Black Fleet→검은 함대의 유물, 공식 로어 본문 '검은 함대를 무찌르고'",
+      "kind": "세력",
+      "concepts": [
+        "cycle"
+      ],
+      "one": "목격자와 그 신봉자들이 거느린 피라미드 함대",
+      "note": "어둠을 품은 거대한 사면체 함선, 곧 피라미드로 이루어진 함대다. 아득한 세월 동안 여행자를 뒤쫓으며 여행자가 길러 올린 문명을 차례로 무너뜨렸고, 엘릭스니의 회오리와 인류의 붕괴가 가장 최근의 일이다. 최후의 도시는 오래 이 함대를 어둠 그 자체로 알았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Black_Fleet"
+      ]
+    },
+    {
+      "id": "disciples_of_the_witness",
+      "ko": "목격자의 신봉자",
+      "orig": "Disciples of the Witness",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Disciple→신봉자(신봉자의 서약), 공식 로어 '목격자의 신봉자 룰크'",
+      "kind": "세력",
+      "concepts": [],
+      "one": "목격자의 가르침을 따르며 검은 함대를 이끄는 어둠의 존재들",
+      "note": "저마다 다른 종과 내력에서 나왔으나 어둠을 다루는 초인과적 존재로 다시 빚어져 목격자에게 몸을 바쳤다. 최후의 형체를 저마다 다르게 풀이하며, 목격자는 그렇게 움직이도록 내버려 둔다. 목격자는 수호자에게도 신봉자가 되라고 권했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Disciples_of_the_Witness"
+      ]
+    },
+    {
+      "id": "house",
+      "ko": "가문",
+      "orig": "House",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: House Horn→가문 경적, House Salvation Intel→구원의 가문 정보",
+      "kind": "세력",
+      "concepts": [],
+      "one": "켈과 집정관, 프라임 서비터가 이끄는 몰락자의 무리",
+      "note": "회오리 뒤 엘릭스니는 여러 가문으로 갈라져 서로 다툰다. 가문마다 켈이 다스리고, 집정관이 에테르를 내는 프라임 서비터를 받든다. 미스락스가 새로 세운 빛의 가문처럼 최후의 도시와 손잡은 가문도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/House"
+      ]
+    },
+    {
+      "id": "legion",
+      "ko": "군단",
+      "orig": "Legion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Red Legion→붉은 군단, Shadow Legion→그림자 군단",
+      "kind": "세력",
+      "concepts": [],
+      "one": "기갑단 제국 군대를 이루는 가장 큰 편성 단위",
+      "note": "붉은 군단·그림자 군단처럼 앞에 꾸밈말을 붙여 하나하나를 가리킨다. 붉은 군단은 가울의 지휘로 최후의 도시를 기습해 붉은 전쟁을 일으켰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Legion"
+      ]
+    },
+    {
+      "id": "kell",
+      "ko": "켈",
+      "orig": "Kell",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Kell's Grave→켈의 무덤, The New Kell→새로운 켈 등 33건",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "몰락자 가문을 이끌고 기함 범선을 지휘하는 우두머리",
+      "note": "가문의 에테르 공급을 쥐고 사람들을 다스린다. 첫 명령은 말이고 따르지 않으면 두 번째 명령은 칼날이며, 켈이 죽으면 가문은 귀족들이 자리를 다투는 내전으로 무너진다. 거대한 기계가 한 전사를 모든 가문을 다스릴 켈 중의 켈로 세운다는 예언이 전한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Kell"
+      ]
+    },
+    {
+      "id": "speaker",
+      "ko": "대변자",
+      "orig": "Speaker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Speaker's Sight→대변자의 시각",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "여행자의 소리를 듣고 빛의 가르침을 전한 이들의 직함",
+      "note": "황금기부터 여행자의 소리를 들을 수 있는 이들이 이 직함을 이었고, 그 소리는 흰빛에 눈이 멀고 머리가 아픈 생생한 꿈으로 왔다. 붕괴 뒤 여행자와의 이음이 상했고, 마지막 대변자는 최후의 도시가 서는 것을 지켜보았다. 회의의 수장을 맡았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Speaker_(title)"
+      ]
+    },
+    {
+      "id": "warlord",
+      "ko": "전쟁군주",
+      "orig": "Warlord",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Warlord(기록)→전쟁군주",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "암흑기 지구에서 빛의 힘으로 작은 왕국을 세운 되살아난 자",
+      "note": "여행자가 준 빛의 힘으로 암흑기 지구를 조각조각 갈라 다스렸다. 지켜 준 마을에 공물을 받고 거스르면 가혹하게 벌했으며, 하나로 뭉친 적 없이 서로 땅을 다투었다. 강철 군주가 나타나면서 이들의 시대가 끝났고, 대부분은 고스트까지 부서져 영영 죽었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Warlord"
+      ]
+    },
+    {
+      "id": "emperor",
+      "ko": "황제",
+      "orig": "Emperor/Empress",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Emperor 가 든 이름 116건이 모두 '황제', Empress 9건은 모두 '여제'",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "기갑단 제국을 다스리는 자의 직함, 여성은 여제라 한다",
+      "note": "기갑단 신화에서는 해를 붙잡아 왕좌에 오른 영웅이 첫 황제였다고 한다. 칼루스는 실권을 쥔 귀족층을 뒤엎고 제위에 올라 천 년 넘게 다스렸으나 정변으로 쫓겨났다. 정변을 일으킨 가울은 황제를 두지 않고 도미누스를 자칭했고, 가울이 죽은 뒤 카이아틀이 여제로 올라 직함을 되살렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Cabal_Emperor"
+      ]
+    },
+    {
+      "id": "cloud_strider",
+      "ko": "구름 질주자",
+      "orig": "Cloud Strider",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 세력 Cloud Strider→구름 질주자",
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier",
+        "nanotech"
+      ],
+      "one": "나노 기술로 몸을 강화해 네오무나를 지키는 두 사람",
+      "note": "나노 기계로 스스로 몸을 고친 네오무나의 방어자로, 힘과 날램이 크게 늘고 몸집도 기갑단에 견줄 만큼 커진다. 그 대가로 수명이 열 해쯤으로 줄고, 한 번에 두 사람만 있어 보통 나이 든 스승과 젊은 제자가 짝을 이룬다. 되는 순간 더는 사람이 아니라고도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Cloud_Strider"
+      ]
+    },
+    {
+      "id": "earth",
+      "ko": "지구",
+      "orig": "Earth",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Earth(장소)→지구",
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류의 고향 행성, 붕괴 뒤 대부분 폐허로 남았다",
+      "note": "붕괴로 땅 대부분이 폐허가 되었고 여행자 아래 세운 최후의 도시만 예외로 남았다. 몰락자·군체·기갑단 같은 외계 세력이 저마다의 목적으로 이곳을 노리고, 수호자들은 빼앗긴 땅을 되찾으려 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Earth"
+      ]
+    },
+    {
+      "id": "last_city",
+      "ko": "최후의 도시",
+      "orig": "Last City",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Last City(목적지)→최후의 도시",
+      "kind": "장소",
+      "concepts": [],
+      "one": "여행자의 그늘 아래 세운 지구 인류의 마지막 도시",
+      "note": "붕괴 뒤 흩어져 숨어 살던 생존자 대부분이 여행자 아래로 모여 세웠고, 이로써 암흑기가 끝나고 도시의 시대가 열렸다. 초기 타이탄들이 쌓은 거대한 성벽이 둘러싸고 그 위에 탑이 있다. 붉은 전쟁 때 붉은 군단에 점령되었다가 되찾았다. 줄여서 도시라고도 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Last_City"
+      ]
+    },
+    {
+      "id": "tower",
+      "ko": "탑",
+      "orig": "Tower",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 활동 이름 Tower→탑(7건)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "최후의 도시 성벽 위의 선봉대 본부이자 수호자들의 거점",
+      "note": "수호자들이 임무 사이에 돌아와 보고하고 쉬며 장비를 사고 서로 만나는 곳이었고, 대변자도 여기 머물렀다. 붉은 전쟁 때 붉은 군단이 가장 먼저 노려 무너뜨렸고, 수호자들은 도시를 되찾은 뒤 옛 탑의 폐허 아래 성벽에 새 거점을 세웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Tower"
+      ]
+    },
+    {
+      "id": "moon",
+      "ko": "달",
+      "orig": "Moon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Moon(장소)→달",
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구의 위성, 군체가 속을 파내 소굴로 삼은 땅",
+      "note": "표면에 황금기의 폐허가 널려 있고 갈라진 틈마다 누런 독기가 솟는다. 군체는 수백 년 동안 달 속에 왕국을 파냈고, 붕괴 뒤 크로타가 이끄는 무리가 지옥문이라는 요새를 쌓았다. 한때 가장 노련한 수호자만 들어갈 수 있는 금지 구역이었고, 그 아래에서 어둠과 이어진 피라미드가 드러났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Moon"
+      ]
+    },
+    {
+      "id": "mars",
+      "ko": "화성",
+      "orig": "Mars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Mars(장소)→화성",
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류가 여행자를 처음 만난 곳, 황금기 유적이 흩어진 붉은 사막",
+      "note": "붕괴 뒤 여행자가 오기 전의 황폐함으로 돌아가 모래 폭풍이 잦은 사막이 되었고, 황금기의 유적이 곳곳에 남았다. 전쟁지능 라스푸틴이 있는 곳이며, 기갑단이 진을 치고 벡스와 맞서 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Mars"
+      ]
+    },
+    {
+      "id": "venus",
+      "ko": "금성",
+      "orig": "Venus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Venus→금성",
+      "kind": "장소",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "여행자가 독한 대기를 걷어 밀림으로 바꾼 둘째 행성",
+      "note": "여행자가 오면서 독한 대기가 씻기고 타오르던 황무지가 생명이 넘치는 밀림이 되어, 황금기 인류가 몰려와 낙원이라 불렀다. 인류보다 오래된 유적이 발견되어 연구자들이 모였고, 붕괴 뒤 벡스가 그 유적을 차지했다. 지금은 유황 가스가 솟고 밀림이 옛 연구 거주지를 덮었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Venus"
+      ]
+    },
+    {
+      "id": "mercury",
+      "ko": "수성",
+      "orig": "Mercury",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Mercury(장소)→수성",
+      "kind": "장소",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "여행자가 정원으로 바꿨으나 벡스가 기계로 되돌린 첫째 행성",
+      "note": "전설에 따르면 여행자가 정원 세계로 바꾸어, 황금기에는 사람이 살며 분홍 잎을 단 나무와 초원이 땅을 덮었다. 붕괴 때 벡스가 며칠 만에 그 일을 되돌려 행성을 기계 세계로 바꾸었고, 그 속에 무한의 숲을 지었다. 지금은 햇볕에 구워진 땅에 벡스 구조물이 벌집처럼 뚫려 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Mercury"
+      ]
+    },
+    {
+      "id": "europa",
+      "ko": "유로파",
+      "orig": "Europa",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 3건이 모두 '유로파'",
+      "kind": "장소",
+      "concepts": [],
+      "one": "목성의 얼어붙은 위성, 클로비스 브레이의 옛 식민지",
+      "note": "겉이 대부분 얼음인 위성으로, 황금기에 클로비스 브레이가 거느린 식민지가 번성했으나 붕괴로 잃었다. 얼음에 묻힌 도시와 엑소를 만들던 딥스톤 무덤, 황금기에 들어온 피라미드 한 척이 있다. 몰락자 구원의 가문이 그 피라미드에서 시공의 힘을 얻었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Europa"
+      ]
+    },
+    {
+      "id": "io",
+      "ko": "이오",
+      "orig": "Io",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Io(장소)→이오",
+      "kind": "장소",
+      "concepts": [],
+      "one": "여행자가 태양계에서 마지막으로 빛을 입힌 목성의 위성",
+      "note": "황금기 끝에 여행자가 이오의 땅을 고치던 중 검은 함대가 다가오는 것을 알아채고 지구로 움직여, 이오는 절반만 바뀐 채 여행자의 기운이 가득한 땅으로 남았다. 그래서 워록에게는 성지이고, 수호자들이 즐겨 찾는 순례지가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Io"
+      ]
+    },
+    {
+      "id": "titan",
+      "ko": "타이탄",
+      "orig": "Titan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 목적지 Titan→타이탄, 장소 Titan, Moon of Saturn→토성의 위성 타이탄",
+      "kind": "장소",
+      "concepts": [],
+      "one": "황금기 생태도시가 메탄 바다로 가라앉고 있는 토성의 가장 큰 위성",
+      "note": "표면을 메탄 바다가 덮고 있어 여행자가 사람 살 땅으로 바꾸지 않았고, 황금기 사람들은 스스로를 유지하는 큰 생태도시를 지어 살았다. 붕괴를 가장 먼저 겪은 곳 가운데 하나여서, 도시들은 수백 년 동안 버려진 채 바다로 가라앉고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Titan_(moon)"
+      ]
+    },
+    {
+      "id": "nessus",
+      "ko": "네소스",
+      "orig": "Nessus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Nessus(장소)→네소스, Nessus, Unstable Centaur→네소스, 불안정한 센타우루스 소행성",
+      "kind": "장소",
+      "concepts": [],
+      "one": "벡스가 거의 전부 기계로 바꾼, 궤도가 불규칙한 센타우루스 소행성",
+      "note": "해에 가까울 때는 천왕성보다 안쪽에, 멀 때는 카이퍼 벨트까지 나가는 불규칙한 궤도를 돈다. 벡스가 땅 위와 땅속을 거의 다 기계로 바꾸어 놓았고, 지금은 몰락자와 기갑단도 자리를 잡았다. 황금기 이주선 하나가 이곳에 추락해 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Nessus"
+      ]
+    },
+    {
+      "id": "reef",
+      "ko": "리프",
+      "orig": "Reef",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 이름 15건이 모두 '리프'",
+      "kind": "장소",
+      "concepts": [],
+      "one": "소행성대에 모인 잔해 지대이자 각성자 왕국의 영역",
+      "note": "붕괴 때 내부 태양계를 떠난 배들이 더 나아가지 못한 자리에 황금기 함선의 잔해가 모여 이루어졌다. 마라 소프를 따라온 각성자가 정착해 최후의 도시와 완전히 별개인 사회를 세웠고, 여왕 한 사람이 거의 모든 권한을 쥔다. 꿈의 도시도 리프에 딸린 영역이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Reef"
+      ]
+    },
+    {
+      "id": "dreaming_city",
+      "ko": "꿈의 도시",
+      "orig": "Dreaming City",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Dreaming City→꿈의 도시(9건)",
+      "kind": "장소",
+      "concepts": [
+        "time_loop"
+      ],
+      "one": "리프 각성자에게 가장 신성한 도시, 저주로 시간이 되풀이된다",
+      "note": "마라 소프가 아함카라 리븐의 힘을 빌려 지은 곳으로, 각성자가 꿈을 통해 초인과적 힘을 닦는 성지다. 평평한 원반 위의 닫힌 생태계이며, 하늘의 고리 관문이 도시를 감춘다. 리븐이 죽으며 남긴 소원이 저주가 되어 도시가 세 주짜리 시간 고리에 갇혔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Dreaming_City"
+      ]
+    },
+    {
+      "id": "neomuna",
+      "ko": "네오무나",
+      "orig": "Neomuna",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 목적지 Neomuna→네오무나",
+      "kind": "장소",
+      "concepts": [],
+      "one": "붕괴를 겪지 않고 해왕성에 숨어 있던 인류 도시",
+      "note": "붕괴 직후 이슈타르 탐사단 과학자들을 태운 식민지 우주선이 해왕성에 내려 세웠다. 벡스가 해왕성의 자기장에 짜 넣은 모사 때문에 암흑기와 도시의 시대 내내 바깥에 알려지지 않았다. 몸을 고쳐 수명을 줄인 구름 질주자가 도시를 지킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Neomuna"
+      ]
+    },
+    {
+      "id": "riis",
+      "ko": "리이스",
+      "orig": "Riis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Riis Racer→리이스 레이서, 공식 로어 정렬 문단 62건",
+      "kind": "장소",
+      "concepts": [],
+      "one": "회오리로 잃어버린 엘릭스니의 고향 행성",
+      "note": "여행자가 찾아와 인류의 황금기 같은 번영을 주었고, 에테르가 넘쳐흐르며 하늘은 연분홍빛이었다고 전한다. 검은 함대가 들이닥치고 여행자가 떠난 뒤 회오리라는 재앙에 무너졌고, 살아남은 엘릭스니는 고향을 떠났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Riis"
+      ]
+    },
+    {
+      "id": "torobatl",
+      "ko": "토로바틀",
+      "orig": "Torobatl",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 토로바틀 축제 가면 4줄, 공식 로어 정렬 문단 45건",
+      "kind": "장소",
+      "concepts": [],
+      "one": "군체의 신에게 짓밟힌 기갑단 제국의 수도 행성",
+      "note": "기갑단의 고향 행성이며, 칼루스가 제국의 수도를 이곳으로 옮겨 궁전을 두었다. 사바툰이 꾸민 의식으로 하늘에 거대한 군체 관문이 열리자 전쟁의 신 시부 아라스가 군대를 몰고 나와 행성을 짓밟았고, 카이아틀은 온 행성을 비우고 기갑단을 태양계로 이끌었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Torobatl"
+      ]
+    },
+    {
+      "id": "fundament",
+      "ko": "토대",
+      "orig": "Fundament",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Fundament Shell→토대 의체, 공식 로어에서 영문 Fundament 14곳 중 13곳이 '토대'",
+      "kind": "장소",
+      "concepts": [],
+      "one": "군체가 태어난, 벌레 신들이 갇혀 있던 거대 가스 행성",
+      "note": "알 수 없는 성계에 있는 가스 행성으로, 대기 아래의 거대한 바다 위에 부서진 옛 고향 행성의 조각들이 대륙처럼 떠 있었다. 행성 깊은 곳에 벌레 신들이 갇혀 있었고, 오스뮴 왕의 세 딸이 바다 깊이 내려가 벌레와 계약을 맺으면서 군체가 생겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Fundament"
+      ]
+    },
+    {
+      "id": "ascendant_realm",
+      "ko": "승천 차원",
+      "orig": "Ascendant Realm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문: '승천 차원' 35편(게임 화면 문자열에는 이름 없음)",
+      "alt_ko": [
+        {
+          "ko": "승천 영역",
+          "src": "공식 한국어 로어 본문 6편"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "어둠과 얽힌 현실 밖의 차원, 왕좌 세계들이 들어선 곳",
+      "note": "끝없이 검은 공간에 짙은 안개가 깔리고 곳곳에 굳은 땅이 흩어져 있다. 이곳에서는 존재가 의지로 지탱되어, 굳게 지킨 생각이 그대로 모습을 갖춘다. 초인과적 힘을 넉넉히 얻은 자는 그 안에 자기 왕좌 세계를 지을 수 있어, 군체의 신들은 이를 통해 이 세상의 죽음을 넘는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Ascendant_Realm"
+      ]
+    },
+    {
+      "id": "pale_heart",
+      "ko": "창백한 심장",
+      "orig": "The Pale Heart",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Pale Heart(목적지)→창백한 심장",
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "여행자 안에 있는, 기억으로 이루어진 땅",
+      "note": "여행자 안쪽의 땅으로, 처음엔 흩어진 흰빛이 가득한 넓은 공간이지만 나아갈수록 수호자가 지난날 본 자리와 물건을 닮은 푸른 들로 바뀐다. 목격자가 최후의 형체를 이루려고 노린 곳이며, 베일을 써서 태양계와 이곳을 잇는 문을 열었다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/The_Pale_Heart"
+      ]
+    },
+    {
+      "id": "black_garden",
+      "ko": "검은 정원",
+      "orig": "Black Garden",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Black Garden(장소)→검은 정원",
+      "kind": "장소",
+      "concepts": [],
+      "one": "시공간 밖에 있는, 벡스가 태어났다고 일컬어지는 영역",
+      "note": "벡스 구조물 사이로 식물이 끝없이 우거진 곳으로, 생각과 개념이 바람에 속삭임처럼 떠돌고 말로 들여놓은 생각이 그대로 뿌리를 내려 오래 머물기 위험하다. 한때 여행자를 약하게 만드는 데 쓰인 검은 심장을 품었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Black_Garden"
+      ]
+    },
+    {
+      "id": "distributary",
+      "ko": "지류",
+      "orig": "Distributary",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 「황홀경 3」 '이 세계를 지류라 명하였다'(게임 화면 문자열에는 이름 없음)",
+      "kind": "장소",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "one": "각성자가 다시 태어난 주머니 우주와 그 안의 행성",
+      "note": "붕괴 때 빛과 어둠이 한 식민지 우주선을 두고 맞붙은 자리에 검은 구멍이 생겼고, 그 안에 작은 우주와 행성이 만들어졌다. 원류에서 갈라져 다시 돌아가지 않는 물줄기라는 뜻으로 각성자가 붙인 이름이다. 시간이 다르게 흘러, 인류가 암흑기를 견디는 동안 각성자 사회는 수천 년을 쌓았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Distributary"
+      ]
+    },
+    {
+      "id": "golden_age",
+      "ko": "황금기",
+      "orig": "Golden Age",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Golden Age(수집품)→황금기, The Golden Age(기록)→황금기 — 이름 28건·설명 72건 모두 '황금기' (보관소 용어 사전에는 없어 보관소의 화면 문자열 표 data/raw/_ui_pairs.json 에서 보충)",
+      "kind": "사건·시대",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "여행자가 온 뒤 인류가 태양계 전체로 퍼져 번영한 수백 년",
+      "note": "인류가 화성에서 여행자를 만난 뒤 이어진 시대로, 여행자가 금성·수성 같은 세계를 사람이 살 만한 땅으로 바꾸어 인류가 태양계 곳곳에 퍼져 살았다. 엑소와 전쟁지능, 엔그램 같은 기술이 이때 나왔다. 검은 함대가 닥친 붕괴로 끝났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Golden_Age"
+      ]
+    },
+    {
+      "id": "collapse",
+      "ko": "붕괴",
+      "orig": "Collapse",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Collapse and The Dark Age→붕괴 그리고 암흑기",
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "검은 함대가 황금기를 끝낸 재앙, 인류가 멸종 직전까지 갔다",
+      "note": "황금기 끝에 검은 함대가 태양계를 덮쳐, 지구는 하늘이 타고 땅이 갈라졌으며 태양계의 인류 거점이 거의 모두 무너졌다. 라스푸틴은 함대를 막지 못했고, 종 전체를 살리려 이주선들을 띄웠다. 여행자가 스스로를 던져 함대를 밀어낸 뒤 고스트를 풀어 죽은 이들을 되살렸고, 인류는 암흑기로 들어갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Collapse"
+      ]
+    },
+    {
+      "id": "dark_age",
+      "ko": "암흑기",
+      "orig": "Dark Age",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Dark Age Mask→암흑기 가면 등 63건",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "붕괴 뒤 인류가 황야에서 살아남으려 몸부림친 시대",
+      "note": "살아남은 이들은 황야에 터를 꾸렸으나 외계의 무리와 내부 다툼에 오래 버티지 못해 멸종 직전까지 몰렸다. 이 무렵 각성자가 생겨나고 기억이 깨진 엑소가 폐허에서 나타났으며, 고스트들은 첫 수호자를 찾아 떠돌았다. 처음 되살아난 이들 가운데 일부는 땅을 차지해 전쟁군주가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Dark_Age"
+      ]
+    },
+    {
+      "id": "city_age",
+      "ko": "도시 시대",
+      "orig": "City Age",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문 8편이 '도시 시대'",
+      "alt_ko": [
+        {
+          "ko": "도시의 시대",
+          "src": "게임 한국어판 화면 문자열: The City Age(기록)→도시의 시대"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "최후의 도시가 세워지며 시작된, 암흑기 다음 시대",
+      "note": "붕괴에서 살아남은 사람들이 잠든 여행자 아래 피난처로 모여들며 도시가 커졌고, 진영 전쟁이 끝난 뒤 타이탄들이 첫 성벽을 세웠다. 그 시작을 생존자 대부분이 여행자 아래 살게 된 때로 보기도 하고, 도시가 여섯 전선에서 첫 총공세를 막아 낸 때로 보기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/City_Age"
+      ]
+    },
+    {
+      "id": "faction_wars",
+      "ko": "진영 전쟁",
+      "orig": "Faction Wars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 「평화유지군」 등 3편이 영문 Faction Wars 를 '진영 전쟁'으로 옮김(게임 화면 문자열에는 없음)",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "최후의 도시 초기에 진영들이 권력을 다툰 내분",
+      "note": "초기 도시 사람들이 여러 진영으로 갈라져 도시를 무너뜨릴 뻔한 싸움을 이어 갔고, 수호자들이 들고일어나 끝냈다. 그 뒤 도시의 통치는 회의와 대변자, 선봉대로 나뉘었고 진영들은 무력 대신 정해진 길로 영향력을 다투었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Faction_Wars"
+      ]
+    },
+    {
+      "id": "battle_of_the_twilight_gap",
+      "ko": "황혼의 틈 전투",
+      "orig": "Battle of the Twilight Gap",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: Twilight Gap→황혼의 틈, 공식 로어 6편이 '황혼의 틈 전투'",
+      "kind": "사건·시대",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "one": "몰락자 가문들이 최후의 도시를 노려 황혼의 틈에서 벌인 큰 전투",
+      "note": "몰락자 세 가문이 손잡고 여행자를 빼앗으려 도시 바깥의 골짜기 길목인 황혼의 틈을 쳤다. 성벽을 잃었다며 퇴각 명령이 떨어졌을 때 샤크스가 남아 빈자리를 지켰고, 그 역공으로 몰락자를 밀어냈다. 수많은 수호자가 죽었고, 샤크스는 다음 세대를 기르려고 시련의 장을 열었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Battle_of_the_Twilight_Gap"
+      ]
+    },
+    {
+      "id": "red_war",
+      "ko": "붉은 전쟁",
+      "orig": "Red War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: The Red War→붉은 전쟁",
+      "kind": "사건·시대",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "one": "붉은 군단이 여행자의 빛을 봉하고 최후의 도시를 빼앗은 전쟁",
+      "note": "기갑단 붉은 군단이 기습으로 탑을 부수고 여행자를 가두어 빛을 끊자, 힘을 잃은 수호자들은 유럽의 외딴 농장으로 물러나 반격을 꾸렸다. 반격이 성공해 도미누스 가울이 죽고, 오래 잠들었던 여행자가 깨어나 빛이 돌아왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Red_War"
+      ]
+    },
+    {
+      "id": "taken_war",
+      "ko": "굴복자 전쟁",
+      "orig": "Taken War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문 정렬 7곳이 모두 '굴복자 전쟁'(게임 화면 문자열에는 이름 없음)",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "오릭스가 아들의 죽음을 갚으려 벌인 태양계 전쟁",
+      "note": "수호자들이 오릭스의 아들 크로타를 죽인 일이 발단이다. 오릭스는 군체 함대를 토성으로 끌고 와 굴복자 군세로 태양계를 병들게 했고, 리프의 각성자 함대는 맞섰다가 한 번에 무너졌다. 오릭스가 죽은 뒤에도 굴복자는 남아 싸움이 한동안 이어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Taken_War"
+      ]
+    },
+    {
+      "id": "whirlwind",
+      "ko": "회오리",
+      "orig": "Whirlwind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 수집품 Whirlwind→회오리(2건)",
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "검은 함대가 닥쳐 리이스가 무너진 엘릭스니의 재앙",
+      "note": "검은 함대가 들이닥치자 여행자가 리이스를 떠났고, 뒤이어 피라미드가 엘릭스니 문명을 무너뜨렸다. 여러 가문이 사라지고 수십억이 죽었으며, 남은 가문들은 서로 싸우기 시작했다. 살아남은 이들은 여행자를 쫓아 고향을 떠나 기나긴 항해에 들어섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Whirlwind"
+      ]
+    },
+    {
+      "id": "long_drift",
+      "ko": "기나긴 항해",
+      "orig": "Long Drift",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어판 화면 문자열: 기록 I - The Long Drift→I - 기나긴 항해의 시기, 로어 본문은 '기나긴 항해'",
+      "kind": "사건·시대",
+      "concepts": [
+        "flotilla"
+      ],
+      "one": "엘릭스니가 리이스를 떠나 태양계에 이르기까지의 수 세기",
+      "note": "엘릭스니 스스로 인류의 암흑기에 견주는 시기다. 여러 세대가 범선에서 자랐고, 서비터가 물질을 에테르로 바꾸어 먹여 살리자 서비터를 섬기는 신앙이 생겨 집정관의 지위가 올라갔다. 켈들은 옛 관습을 버리고 에테르를 가장 많이 쥔 자가 위에 서는 서열을 세웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Long_Drift"
+      ]
+    }
+  ]
+}

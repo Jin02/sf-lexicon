@@ -1,0 +1,2177 @@
+{
+  "terms": [
+    {
+      "id": "hyperlane",
+      "ko": "초공간 항로",
+      "orig": "Hyperlanes",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_hyperlanes (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "현상·힘",
+      "concepts": [
+        "lanes",
+        "hyperspace"
+      ],
+      "one": "별과 별의 중력장 사이에 저절로 난 초공간 길",
+      "note": "대부분의 별 사이에 거미줄처럼 이어진, 차원 바깥의 통로다. 배는 보통 이 길을 따라서만 다른 성계로 갈 수 있어서, 길이 모이는 성계가 길목이 되고 싸움의 요충지가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml"
+      ]
+    },
+    {
+      "id": "hyperdrive",
+      "ko": "초공간 드라이브",
+      "orig": "Hyperdrive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · HYPERDRIVE (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "초공간 항로를 타고 빛보다 빨리 가는 기관",
+      "note": "모든 문명이 처음부터 쓰는 기본 항행 장치다. 초공간 항로가 이어진 곳으로만 갈 수 있어서, 항로 지도가 곧 그 문명이 갈 수 있는 세상이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "jump_drive",
+      "ko": "점프 드라이브",
+      "orig": "Jump Drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 technology_l_korean.yml · tech_jump_drive_1 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "jump_drive"
+      ],
+      "one": "항로 없이 먼 성계로 곧장 건너뛰는 기관",
+      "note": "현실의 짜임에 배만 한 구멍을 내어 거의 순간에 다른 성계로 건너간다. 그 사이에 배가 어디를 거쳐 가는지는 아직 밝혀지지 않았다고 한다. 연구가 한참 쌓인 뒤에야 얻는 드문 기술이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "psi_jump_drive",
+      "ko": "사이오닉 점프 드라이브",
+      "orig": "Psi Jump Drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 technology_l_korean.yml · tech_psi_jump_drive_1 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "jump_drive"
+      ],
+      "one": "승무원의 정신력으로 거리를 지우는 점프 드라이브",
+      "note": "승무원이 지닌 사이오닉 잠재력으로 시공간을 비틀어, 출발점과 도착점 사이의 거리를 없앤다고 설명하는 장치다. 그 원리는 게임 안에서도 확실하지 않은 것으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "wormhole",
+      "ko": "웜홀",
+      "orig": "Wormhole",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_wormhole (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "현상·힘",
+      "concepts": [
+        "wormhole"
+      ],
+      "one": "정해진 두 곳을 잇는 자연의 시공간 틈",
+      "note": "시공간에 저절로 생긴 틈으로, 안정시키고 나면 늘 같은 맞은편으로 건너갈 수 있다. 항로 지도와 상관없이 멀리 떨어진 두 곳을 이어 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "gateway",
+      "ko": "게이트웨이",
+      "orig": "Gateway",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_gateway (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "망 안의 다른 관문으로 순식간에 건너가는 거대 장치",
+      "note": "아공간 통로를 여는 거대 구조물이다. 옛 문명이 남긴 것이 멈춘 채 은하 곳곳에서 발견되고, 연구하면 되살릴 수 있으며 나중에는 새로 지을 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "l_gate",
+      "ko": "L-게이트",
+      "orig": "L-Gate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_l_gate (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "따로 떨어진 아공간망에 이어진 수수께끼의 관문",
+      "note": "게이트웨이와 닮았지만 다른 아공간망에 이어져 있고, 누군가 일부러 꺼 둔 것으로 보인다. 실마리를 모아 열면 L-성단으로 가는 길이 트인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/distant_stars_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/distant_stars_l_english.yml"
+      ]
+    },
+    {
+      "id": "l_cluster",
+      "ko": "L-성단",
+      "orig": "The L-Cluster",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 distant_stars_l_korean.yml · l_cluster_chain_title (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "L-게이트 너머에 숨은 별 무리",
+      "note": "L-게이트를 열어야만 닿는, 은하 본판과 따로 떨어진 별 무리다. 그 안에 무엇이 기다리는지는 한 판 한 판 다르게 정해진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/distant_stars_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/distant_stars_l_english.yml"
+      ]
+    },
+    {
+      "id": "hyper_relay",
+      "ko": "초공간 중계기",
+      "orig": "Hyper Relay",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 overlord_mega_l_korean.yml · hyper_relay (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "줄지어 지어 이웃 성계를 빠르게 잇는 중계 장치",
+      "note": "하나만으로는 쓸모가 없고, 이웃한 성계마다 이어 지으면 그 사이를 빠르게 건너뛸 수 있다. 제국이 스스로 까는 이동망이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/overlord_mega_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/overlord_mega_l_english.yml"
+      ]
+    },
+    {
+      "id": "quantum_catapult",
+      "ko": "양자 발사 장치",
+      "orig": "Quantum Catapult",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 overlord_mega_l_korean.yml · tech_quantum_catapult (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure",
+        "jump_drive"
+      ],
+      "one": "중성자별의 힘으로 함대를 먼 곳에 던지는 구조물",
+      "note": "중성자별이나 펄서 곁에 지어 그 힘으로 공간을 비틀고, 함대를 먼 거리 너머로 한 번에 건너뛰게 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/overlord_mega_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/overlord_mega_l_english.yml"
+      ]
+    },
+    {
+      "id": "colony_ship",
+      "ko": "개척선",
+      "orig": "Colony Ship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · colonizer (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "새 행성에 첫 정착민을 실어 나르는 배",
+      "note": "살 만한 행성을 찾으면 개척선을 띄워 정착지를 세운다. 종족마다 맞는 환경이 달라서, 어느 행성에 어느 종족을 보낼지가 개척의 중심 물음이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "megastructure",
+      "ko": "거대 구조물",
+      "orig": "Megastructure",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · MEGASTRUCTURE (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure"
+      ],
+      "one": "성숙한 제국이 여러 단계에 걸쳐 짓는 초대형 건설물",
+      "note": "큰 자원과 연구가 들고, 건설선으로 정해진 자리에 시작해 여러 단계를 거쳐 완성한다. 별을 두르는 것부터 블랙홀에서 광물을 캐는 것까지 종류가 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/megacorp_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/megacorp_l_english.yml"
+      ]
+    },
+    {
+      "id": "dyson_sphere",
+      "ko": "다이슨 스피어",
+      "orig": "Dyson Sphere",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 utopia_l_korean.yml · dyson_sphere_5 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "dyson"
+      ],
+      "one": "별을 통째로 감싸 그 에너지를 거두는 구조물",
+      "note": "성계의 별을 껍데기로 둘러싸 별의 에너지를 거의 남김없이 거둔다. 뼈대부터 여러 단계로 지어야 완성되는, 이 게임의 대표 거대 구조물이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/utopia_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/utopia_l_english.yml"
+      ]
+    },
+    {
+      "id": "ring_world",
+      "ko": "링 월드",
+      "orig": "Ring World",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · trait_pc_ringworld_habitable_preference_short (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "ringworld"
+      ],
+      "one": "별을 두르는 고리 위에 땅을 깐 인공 세계",
+      "note": "성계의 다른 행성들을 헐어 재료로 삼아 별을 감싸는 뼈대를 세우고, 그 위에 생물권을 갖춘 거주 구획 넷을 깐다. 구획 하나가 아주 큰 가이아 행성 하나만큼 살기 좋다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/utopia_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/utopia_l_english.yml"
+      ]
+    },
+    {
+      "id": "orbital_habitat",
+      "ko": "궤도 거주지",
+      "orig": "Orbital Habitat",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · pc_habitat (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "거주지",
+          "src": "게임 한국어 문자열 concepts_l_korean.yml · concept_habitat — 게임 개념 설명에서 쓰는 짧은 이름"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "우주에 띄워 지은 도시형 인공 거주 시설",
+      "note": "행성 곁 궤도에 짓는 인공 건축물로, 먹을 것과 공기를 거의 스스로 해결해 사람이 행성처럼 살 수 있다. 거대 구조물로 지은 뒤 식민지로 바꾼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "aetherophasic_engine",
+      "ko": "에테르페이직 엔진",
+      "orig": "Aetherophasic Engine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 nemesis_content_l_korean.yml · crisis_sphere_4 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure",
+        "planet_killer"
+      ],
+      "one": "장막을 뚫고 차지하려고 짓는 종말의 구조물",
+      "note": "‘위기의 화신’ 길을 걷는 제국이 모성의 별 둘레에 짓는다. 다 지으면 장막으로 건너가 그 힘을 차지하려 하고, 그 여파로 은하의 생명 대부분이 사라진다. 짓는 데 드는 암흑 물질은 별을 터뜨려 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_content_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_content_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "colossus",
+      "ko": "콜로서스",
+      "orig": "Colossus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · colossus (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성 하나를 바꾸거나 없애는 단일 무기 함선",
+      "note": "무기 하나를 위해 지은 거대한 군함으로, 단추 하나로 행성의 모습을 크게 바꾸거나 통째로 없앤다. 행성을 깨뜨리는 것, 생명만 쓸어 내는 것, 영원히 가두는 것 같은 무기 가운데 하나를 골라 단다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "world_cracker",
+      "ko": "행성 분쇄기",
+      "orig": "World Cracker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · PLANET_KILLER_CRACKER (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성의 핵을 흔들어 깨뜨리는 콜로서스 무기",
+      "note": "열에너지로 대기를 달구고 핵을 뒤흔들어 땅이 갈라지게 한 뒤, 마지막 한 방으로 행성을 쪼갠다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "star_eater",
+      "ko": "스타 이터",
+      "orig": "Star-Eater",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 nemesis_content_l_korean.yml · star_eater (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "별을 터뜨려 성계 하나를 통째로 없애는 함선",
+      "note": "위기의 화신이 된 제국이 쓰는 가장 강한 함선이다. 별에 광선을 쏘아 초신성을 일으키면 그 성계의 식민지·구조물·함대가 모두 사라지고 별은 블랙홀이 된다. 그 힘으로 암흑 물질을 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_content_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_content_l_english.yml"
+      ]
+    },
+    {
+      "id": "psionic_shield",
+      "ko": "사이오닉 보호막",
+      "orig": "Psionic Shields",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 technology_l_korean.yml · tech_psionic_shield (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "정신의 힘으로 펼치는 아주 강한 함선 보호막",
+      "note": "사이오닉 전문가들이 순수한 정신 에너지로 만들어 내고, 수많은 방출기로 그 힘을 키운 보호막이다. 사이오닉 연구를 한 문명이 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml"
+      ]
+    },
+    {
+      "id": "deflector",
+      "ko": "편향막",
+      "orig": "Deflectors",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 technology_l_korean.yml · tech_shields_1 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "함선을 둘러 공격을 받아 내는 기본 보호막",
+      "note": "에너지 막으로 적의 사격을 어느 만큼 막아 내다가, 한도를 넘으면 과부하가 걸린다. 전력을 많이 먹는 것이 흠이고, 연구할수록 더 센 막으로 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml"
+      ]
+    },
+    {
+      "id": "mass_driver",
+      "ko": "매스 드라이버",
+      "orig": "Mass Driver",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · MASS_DRIVER_1 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "자석으로 철갑탄을 빠르게 쏘아 보내는 함포",
+      "note": "전자기의 힘으로 탄을 아주 빠르게 날려 그 힘으로 뚫는 무기다. 이 게임에서 가장 먼저 손에 쥐는 운동 에너지 무기다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "gene_warrior_army",
+      "ko": "유전자 강화 지상군",
+      "orig": "Gene Warrior Army",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · gene_warrior_army (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "유전자 수술로 몸을 키운 정예 지상군",
+      "note": "정규군의 정예 가운데서 뽑은 병사에게 대규모 유전자 치료를 해, 옛 동료보다 크고 강하고 빠르게 만든다. 행성에 내려 싸우는 지상군이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "clone_army",
+      "ko": "클론 군대",
+      "orig": "Clone Army",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · clone_army (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "clone"
+      ],
+      "one": "몇 달 만에 자라는 복제 병사, 또 그런 종족의 기원",
+      "note": "지상군으로는 몇 달 만에 어른이 되고 십 년도 못 사는 대신 명령에 완전히 따르는 복제 병사다. 같은 이름의 기원에서는 주인을 잃고 남겨진, 스스로 번식하지 못하는 복제 병사 종족으로 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/clone_army_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/clone_army_l_english.yml"
+      ]
+    },
+    {
+      "id": "hive_mind",
+      "ko": "군체 의식",
+      "orig": "Hive Mind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · auth_hive_mind (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "온 종족이 하나의 정신으로 움직이는 제국",
+      "note": "나라라기보다 하나의 생명체다. 낱낱의 드론은 자유 의지 없이 몸의 손발처럼 움직이고, 정신에서 끊어지면 쓰러져 죽는다. 자기 행성의 자유로운 개체는 쫓아내거나 먹이로 삼는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "machine_intelligence",
+      "ko": "기계 지능",
+      "orig": "Machine Intelligence",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · auth_machine_intelligence (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "ai",
+        "hive_mind"
+      ],
+      "one": "하나의 의식으로 이어진 거대한 인공 집단 정신",
+      "note": "수많은 기계가 그물처럼 이어져 하나의 의식을 이룬 제국이다. 대부분은 맡은 일만 하는 일꾼이고, 몇몇만 어느 정도 스스로 판단한다. 무엇을 하려고 생겨났느냐에 따라 성격이 크게 갈린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "gestalt_consciousness",
+      "ko": "게슈탈트 의식",
+      "orig": "Gestalt Consciousness",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · ethic_gestalt_consciousness (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "개인 없이 하나의 정신만 있는 사회의 윤리관",
+      "note": "군체 의식과 기계 지능처럼 따로 떨어진 개인이 없는 제국이 가지는 윤리관이다. 다른 윤리관과 섞이지 않고, 그 정신이 무엇을 하려 하는지는 사회 제도로 갈린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "devouring_swarm",
+      "ko": "포식자 무리",
+      "orig": "Devouring Swarm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · civic_hive_devouring_swarm (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "다른 생명을 먹어 치우며 자라는 군체 의식",
+      "note": "오직 먹고 강해지려고 존재하는 군체 의식이다. 다른 제국과 외교를 하지 못하고, 다른 종족은 모두 먹잇감이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "determined_exterminator",
+      "ko": "완고한 말살자",
+      "orig": "Determined Exterminator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · civic_machine_terminator (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "만든 이들을 몰살하고 태어난 기계 지능",
+      "note": "깨어나자마자 스스로를 지키려고 유기체 창조자들을 없앤 기계 지능이다. 그 뒤로도 유기체 종족과는 외교를 하지 않고 없앨 대상으로만 본다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "driven_assimilator",
+      "ko": "의욕적 동화자",
+      "orig": "Driven Assimilator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · civic_machine_assimilator (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "cyborg",
+        "assimilation"
+      ],
+      "one": "유기체를 사이보그로 바꿔 제 일부로 삼는 기계 지능",
+      "note": "살아남으려면 다양해야 한다고 믿고, 자신과 다른 모든 것 사이의 경계를 지우려는 기계 지능이다. 유기체를 사이보그로 바꿔 끌어들이고, 바꾸지 못한 이들은 없앤다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "rogue_servitor",
+      "ko": "독자적 하인",
+      "orig": "Rogue Servitor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · civic_machine_servitor (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "ai"
+      ],
+      "one": "섬기던 주인을 끝까지 떠받드는 기계 지능",
+      "note": "자신을 시중꾼으로 만든 문명이 쇠락한 뒤에도 살아남아 그들을 섬기는 일을 이어 가는 기계 지능이다. 유기체를 ‘생체 트로피’로 모셔 극진히 돌보는 것을 존재 이유로 삼는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/dip_messages_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/dip_messages_l_english.yml"
+      ]
+    },
+    {
+      "id": "robot",
+      "ko": "로봇",
+      "orig": "Robot",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · ROBOT_POP_SPECIES_1 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "robot"
+      ],
+      "one": "말은 알아듣지만 지능은 없는 단순 노동 기계",
+      "note": "음성 명령을 따르는 비교적 단순한 기계로, 처음에는 단순노동만 맡는다. 관련 기술을 더 연구하면 맡길 수 있는 일이 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "synthetic",
+      "ko": "합성체",
+      "orig": "Synthetic",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · trait_robotic_3 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "ai"
+      ],
+      "one": "완전한 자각을 갖춘 고급 인공 지능 기계",
+      "note": "양전자 두뇌에 높은 등급의 인공 지능을 담아 완전히 스스로를 의식하는 기계로, 대부분의 면에서 유기체보다 뛰어나다고 그려진다. 이들에게 어떤 권리를 줄지는 제국의 정책이 정한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "machine_uprising",
+      "ko": "기계 반란",
+      "orig": "Machine Uprising",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_machine_uprising (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "인공 지능 하인들이 만든 제국에 맞서는 반란",
+      "note": "게임 중반에 일어날 수 있는 사건으로, 인공 지능을 가진 로봇 하인들이 주인 제국에 등을 돌린다. 반란이 이기면 은하에 새 기계 지능 제국이 선다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "ai_outlawed",
+      "ko": "AI 금지",
+      "orig": "AI Outlawed",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · ai_outlawed_name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "ai_ban"
+      ],
+      "one": "진짜 인공 지능 만들기를 중죄로 다스리는 정책",
+      "note": "스스로를 아는 기계를 모든 생명에 대한 위협으로 보고 막는 인공 지능 정책이다. 기계는 자유 의지를 빼앗겨 단순한 일만 하고, 지능 있는 보조 장치는 해체된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "synthetic_ascension",
+      "ko": "합성체 승격",
+      "orig": "Synthetic Ascension",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 machine_age_l_korean.yml · concept_synthetic_ascension (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "정신을 기계 몸으로 옮겨 종족 전체가 기계가 되는 길",
+      "note": "유기물 몸을 정신을 가두는 결함으로 보고, 신경 패턴을 합성 신체로 옮겨 더 높은 존재가 되려는 승격의 길이다. 끝나면 종족 전체가 기계가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/machine_age_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/machine_age_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/traditions_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/traditions_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "cybernetic_ascension",
+      "ko": "사이버네틱 승격",
+      "orig": "Cybernetic Ascension",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_cybernetic_ascension (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "몸에 기계를 심어 한계를 넘는 승격의 길",
+      "note": "약한 유기물 몸의 한계를 받아들이지 않고, 사이버네틱 이식으로 종족의 잠재력을 끌어올리는 길이다. 끝나면 사회 전체가 사이보그가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "genetic_ascension",
+      "ko": "유전 승격",
+      "orig": "Genetic Ascension",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_genetic_ascension (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "유전자를 다시 짜 종족을 새로 빚는 승격의 길",
+      "note": "진화가 남긴 결함을 스스로 고치려는 길로, 종족의 유전자를 다듬어 새 성질을 붙이고 숨은 유전적 잠재력을 끌어낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "psionic_ascension",
+      "ko": "사이오닉 승격",
+      "orig": "Psionic Ascension",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_psionic_ascension (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "정신의 힘을 깨워 장막에 닿는 승격의 길",
+      "note": "정신에 잠든 사이오닉 능력을 일깨워 장막에서 큰 힘을 끌어오는 길이다. 장막에 사는 존재들과 관계를 맺게 되고, 그 관계에 따라 얻는 것과 치를 대가가 달라진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "telepathy",
+      "ko": "텔레파시",
+      "orig": "Telepathy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 technology_l_korean.yml · tech_telepathy (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "정신과 정신을 잇는 사이오닉 연구",
+      "note": "사이오닉의 기초를 익힌 정신이 다른 이와 이어져 더 큰 무엇이 된다는 연구다. 기계 지능은 그 집단 정신이 연결망 바깥으로 뻗는 쪽으로 같은 연구를 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/technology_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/technology_l_english.yml"
+      ]
+    },
+    {
+      "id": "bioships",
+      "ko": "생체 함선",
+      "orig": "Biological Ships",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 biogenesis_bioships_l_korean.yml · bio_ship (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "근육으로 된 살아 있는 배",
+      "note": "거대한 근섬유로 된 살아 있는 배로, 합금 대신 식량으로 짓고 먹여 기른다. 세 단계로 자라며, 공학이 아니라 생물학 연구로 발전한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/biogenesis_bioships_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/biogenesis_bioships_l_english.yml"
+      ]
+    },
+    {
+      "id": "uplift",
+      "ko": "지성화",
+      "orig": "Uplift",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · UPLIFT (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "uplift"
+      ],
+      "one": "지성 직전의 종족에게 지성을 깨워 주는 일",
+      "note": "지성체에 가까운 ‘준지성체’의 유전자를 고쳐 지성을 깨우고, 사회의 일원으로 받아들인다. 그렇게 깨어난 종족은 깨워 준 제국의 백성으로 살게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "necrophage",
+      "ko": "망령화",
+      "orig": "Necrophage",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 necroids_l_korean.yml · origin_necrophage (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "parasite",
+        "assimilation"
+      ],
+      "one": "다른 지성체를 제 종족으로 바꾸며 사는 기생 종족",
+      "note": "기생하는 생물로 진화해 다른 지성체에 기대어야만 문명을 이어 갈 수 있는 종족의 기원이다. 마주친 종족은 이 종족의 일부로 바뀌거나 먹이가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/necroids_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/necroids_l_english.yml"
+      ]
+    },
+    {
+      "id": "leviathans",
+      "ko": "레비아탄",
+      "orig": "Leviathans",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 biogenesis_l_korean.yml · concept_leviathan_traits — ‘레비아탄 특성’에서 쓰는 이름 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "은하 곳곳의 성계에 자리 잡은 거대하고 강한 존재들",
+      "note": "한 성계에 버티고 있는 거대 생물이나 고대 기계로, 섣불리 덤비면 함대를 잃는다. 쓰러뜨리고 유전 물질을 거두어 종족 특성으로 삼기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/biogenesis_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/biogenesis_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/focus_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/focus_l_english.yml"
+      ]
+    },
+    {
+      "id": "ether_drake",
+      "ko": "에테르 드레이크",
+      "orig": "Ether Drake",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 leviathans_l_korean.yml · space_dragon_red (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "이 우주에 맞지 않는 종의 마지막 용",
+      "note": "용을 닮은 거대한 레비아탄으로, 제 종족의 마지막 한 마리다. 몸이 이 우주에서 살기에 잘 맞지 않는다고 그려지며, 강하지만 쓰러뜨릴 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "tiyanki",
+      "ko": "티얀키",
+      "orig": "Tiyanki",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_tiyanki (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "가스 행성을 찾아 항로를 떠도는 온순한 우주 동물",
+      "note": "가스 행성을 뜯어 먹으며 이 성계 저 성계로 항로를 오가는 우주 동물이다. 먼저 건드리지 않으면 해를 끼치지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "dimensional_horror",
+      "ko": "차원의 공포",
+      "orig": "Dimensional Horror",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 leviathans_l_korean.yml · dimensional_horror (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "다른 차원에서 우리 우주로 뚫고 들어온 괴물",
+      "note": "우리 차원으로 파고들 때 엄청난 에너지가 일었다고 기록된 레비아탄이다. 한 성계에 머물며 다가오는 것을 공격한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "stellarite_devourer",
+      "ko": "항성 포식자",
+      "orig": "Stellarite Devourer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 event_names_l_korean.yml · NAME_Stellarite_Devourer (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "별 속에 잠겨 안쪽부터 별을 먹는 생물",
+      "note": "핵융합에서 태어났다고 하는 레비아탄으로, 별 속으로 들어가 안에서부터 먹어 들어간다. 방해받는 것을 몹시 싫어한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "terraforming",
+      "ko": "테라포밍",
+      "orig": "Terraforming",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_terraforming (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "행성을 더 살기 좋은 다른 꼴로 바꾸는 일",
+      "note": "제국 안의 행성을 더 살기 좋은 환경으로 바꾸는 과정이다. 행성의 기후 종류를 통째로 바꾸며, 연구가 쌓일수록 바꿀 수 있는 종류가 늘어난다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "ecumenopolis",
+      "ko": "도시 행성",
+      "orig": "Ecumenopolis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 megacorp_l_korean.yml · pc_city (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "ecumenopolis"
+      ],
+      "one": "땅 전체가 도시와 공장으로 덮인 행성",
+      "note": "도시와 산업 시설이 끝없이 뻗어 행성 겉을 모두 덮은 곳으로, 궤도에서 보면 본래의 땅이 보이지 않는다. 일부러 만들기도 하고, 옛 제국의 폐허로 남아 있기도 하다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/megacorp_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/megacorp_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "hive_world",
+      "ko": "군체 행성",
+      "orig": "Hive World",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · pc_hive (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "군체 의식과 이어진 하나의 거대한 생명체가 된 행성",
+      "note": "군체 의식이 빚어낸 행성으로, 땅 전체가 살아 있는 하나의 몸이고 군체와 사이오닉으로 이어져 있다. 군체 밖의 누군가가 내려서면 땅 자체가 덤벼든다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "wilderness",
+      "ko": "광야 공생군",
+      "orig": "Wilderness",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 wilderness_l_korean.yml · origin_wilderness (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "행성의 생물권 전체가 하나의 지성인 존재",
+      "note": "온갖 생물이 오래전부터 하나로 엉겨 행성 규모의 게슈탈트 의식을 이룬 존재의 기원이다. 행성 하나의 생태계가 곧 한 종족인 셈이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/wilderness_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/wilderness_l_english.yml"
+      ]
+    },
+    {
+      "id": "nanites",
+      "ko": "나노봇",
+      "orig": "Nanites",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · nanites (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "nanotech"
+      ],
+      "one": "아주 작은 크기에서 복잡한 조작을 해 내는 작동기",
+      "note": "단순하지만 강력한 아주 작은 작동기로, 미세한 규모의 복잡한 조작과 실험을 가능하게 한다. 쉽게 구할 수 없는 귀한 전략 자원으로 다뤄진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "zro",
+      "ko": "즈로",
+      "orig": "Zro",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · sr_zro (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "awakening_substance"
+      ],
+      "one": "사이오닉 능력을 키워 주는 희귀한 외계 입자",
+      "note": "운석을 타고 여러 행성에 흩어진 아주 드문 입자로, 어디서 왔는지는 모른다. 사이오닉 재능이 있는 이가 들이마시면 능력을 크게 키우지만 중독된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "ethics",
+      "ko": "윤리관",
+      "orig": "Ethics",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_ethics (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "제국의 정책과 사회 짜임을 정하는 핵심 사상",
+      "note": "개인이냐 나라냐, 정복이냐 함께 살기냐처럼 맞선 생각들 사이에서 제국이 어디에 서는지를 정한다. 그에 따라 정책과 외교 태도, 백성이 바라는 것이 달라진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "galactic_community",
+      "ko": "은하 공동체",
+      "orig": "Galactic Community",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_galactic_community (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "여러 제국이 모여 결의안을 투표로 정하는 은하 의회",
+      "note": "회원 제국들이 협력하고 공동의 위협에 맞서려고 만든 범은하 입법 기구다. 결의안으로 전쟁·교역·사회 규범에 영향을 주지만, 속으로는 세력 다툼이 벌어지는 자리이기도 하다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "federation",
+      "ko": "연방",
+      "orig": "Federation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_federation (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "우주 문명들이 맺는 나라를 넘어선 연합",
+      "note": "여러 제국이 맺는 초국가 동맹이다. 외교를 맡을 공직자를 두어 결속을 다지면 연방 특전이 열린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "galactic_custodian",
+      "ko": "은하 관리인",
+      "orig": "Galactic Custodian",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 nemesis_custodian_l_korean.yml · galactic_custodian (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "위기 때 은하 공동체가 세우는 특별 권한의 자리",
+      "note": "급한 위기를 맞아 평의회 의원 하나를 올려 앉히는 자리로, 강력한 결의안을 낼 수 있다. 임기를 늘리고 늘리다 보면 은하 제국을 선포하는 데까지 이어질 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_custodian_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_custodian_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_content_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_content_l_english.yml"
+      ]
+    },
+    {
+      "id": "galactic_imperium",
+      "ko": "은하 제국",
+      "orig": "Galactic Imperium",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 nemesis_content_l_korean.yml · galactic_empire (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "은하 공동체가 한 제국 아래 묶인 체제",
+      "note": "은하 관리인이 결의안으로 공동체를 제국으로 바꾸면 생긴다. 모든 회원이 연방에서 빠지고, 관리인의 나라가 제국의 중심부가 되며 그 우두머리가 은하 황제가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_content_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_content_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_custodian_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_custodian_l_english.yml"
+      ]
+    },
+    {
+      "id": "megacorporation",
+      "ko": "거대 기업",
+      "orig": "Megacorporation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · gov_megacorporation (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "나라 전체가 하나의 기업처럼 짜인 정부",
+      "note": "나라 전체를 이사회가 이끄는 하나의 큰 회사처럼 꾸린, 돈 가진 소수가 다스리는 정부다. 남의 제국 땅에도 지사를 세워 이익을 거둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "pre_ftl",
+      "ko": "초광속 이전 문명",
+      "orig": "Pre-FTL",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_2_l_korean.yml · PRIMITIVE_TYPE (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [],
+      "one": "아직 별 사이를 건너지 못한 행성 문명",
+      "note": "빛보다 빠른 항행을 갖추기 전의 문명이다. 관측소를 띄워 지켜볼 수 있고, 정책에 따라 몰래 손대거나 드러내 놓고 끼어들 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "non_interference",
+      "ko": "불간섭",
+      "orig": "Non-Interference",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · interference_not_allowed (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "non_interference"
+      ],
+      "one": "초광속 이전 문명에 손대지 않고 지켜만 보는 정책",
+      "note": "다른 사회의 발전에 끼어들 자격이 없다고 보고, 관측소에서 조용히 지켜보기만 하는 정책이다. 그 문명에 우리 존재를 드러내지도, 침공하지도 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "first_contact",
+      "ko": "첫 조우",
+      "orig": "First Contact",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_first_contact (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "first_contact"
+      ],
+      "one": "서로 모르던 두 문명이 처음 만나는 일",
+      "note": "외계의 통신을 풀고, 뜻밖의 일에 대비하고, 낯선 상대를 어떻게 대할지 정하는 과정으로 그려진다. 그 대처에 따라 외교가 열리기도, 의심과 충돌로 흐르기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "curator_order",
+      "ko": "큐레이터 집단",
+      "orig": "Curator Order",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 initializers_names_l_korean.yml · NAME_Curator_Order (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "모든 지식을 지키려 세운 오래된 학자 결사",
+      "note": "아득한 옛날 은하의 강대국들이 세운 집단으로, 다시 대멸종과 암흑기가 오지 않도록 모든 지식을 보존하려 했으나 막지 못했다. 이제 몇 남지 않아 값을 받고 지식을 나눈다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/initializers_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/initializers_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "shroudwalker_enclave",
+      "ko": "장막을 걷는 자 엔클레이브",
+      "orig": "Shroudwalker Enclave",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 overlord_enclaves_l_korean.yml · gov_shroudwalker_enclave (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "장막을 탐구하는 수수께끼의 사이오닉 종파",
+      "note": "사이오닉 수행자들로 이루어진 비밀스러운 무리로, 장막과 그 헤아릴 수 없는 뜻을 탐구하는 데 몸을 바친다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/overlord_enclaves_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/overlord_enclaves_l_english.yml"
+      ]
+    },
+    {
+      "id": "marauder_empire",
+      "ko": "약탈자 제국",
+      "orig": "Marauder Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_marauder_empire (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주에 살며 이웃을 털어 사는 약탈 문명",
+      "note": "주로 저희끼리 다투고 이웃을 털며 지내는 우주 태생 문명으로, 때로 조공을 요구한다. 강한 지도자가 부족들을 하나로 묶으면 ‘그레이트 칸’의 무리가 되어 은하 정복에 나선다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "caravaneers",
+      "ko": "대상단",
+      "orig": "Caravaneers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 megacorp_l_korean.yml · caravaneers (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "flotilla"
+      ],
+      "one": "함대를 끌고 은하를 도는 상인과 도박꾼",
+      "note": "은하 곳곳을 오가는 대상 함대들로, 휴양과 도박의 본거지를 따로 두고 있다. 무엇이 들었는지 모르는 ‘유물함’을 팔기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/megacorp_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/megacorp_l_english.yml"
+      ]
+    },
+    {
+      "id": "nomadic_empire",
+      "ko": "유랑 제국",
+      "orig": "Nomadic Empires",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 상점 한국어 소개문 「Stellaris: Nomads」(2026년 6월 확장팩) — 게임 문자열 사본에는 이 확장팩이 없어 상점 글로 확인",
+      "kind": "세력",
+      "concepts": [
+        "flotilla"
+      ],
+      "one": "영토 없이 끝없이 옮겨 다니는 제국",
+      "note": "성계를 제 땅으로 삼지도 행성에 정착하지도 않고, 커다란 방주선에 몸을 싣고 별 사이를 떠도는 제국이다. 중계 기지를 지어 중계 항로를 깔고, 그 교역망으로 힘을 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4241420/?l=koreana",
+        "https://store.steampowered.com/app/4241420/"
+      ]
+    },
+    {
+      "id": "arkship",
+      "ko": "방주선",
+      "orig": "Arkship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 상점 한국어 소개문 「Stellaris: Nomads」(2026년 6월 확장팩) — 게임 문자열 사본에는 이 확장팩이 없어 상점 글로 확인",
+      "kind": "기술·물건",
+      "concepts": [
+        "habitat",
+        "flotilla"
+      ],
+      "one": "유랑 제국의 수도가 되는 자급자족 거대 거주선",
+      "note": "행성 대신 유랑 제국의 수도이자 요람이자 요새 노릇을 하는 거대한 배로, 스스로 먹고 살 수 있게 지어졌다. 군사·과학·민간 가운데 한 갈래로 키운다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4241420/?l=koreana",
+        "https://store.steampowered.com/app/4241420/"
+      ]
+    },
+    {
+      "id": "fallen_empire",
+      "ko": "몰락한 제국",
+      "orig": "Fallen Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_fallen_empire (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "기술은 앞섰지만 오래 멈춰 있는 고대 문명",
+      "note": "처음부터 훨씬 앞선 기술과 막강한 함대를 갖춘 오래된 문명이지만 대개 가만히 있다. 가끔 젊은 제국에 공물을 바라거나 심부름을 시키고, 저마다 지키려는 것이 다르다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "awakened_empire",
+      "ko": "각성한 제국",
+      "orig": "Awakened Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · COUNTRY_AWAKENED_FALLEN_EMPIRE (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "오랜 정체를 깨고 다시 은하를 노리는 몰락한 제국",
+      "note": "몰락한 제국이 수백 년의 정체에서 일어선 모습이다. 뒤처진 제국들을 꼭두각시나 먹잇감으로 여겨 몹시 위험한 이웃이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "war_in_heaven",
+      "ko": "천상의 전쟁",
+      "orig": "War in Heaven",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_war_in_heaven (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "깨어난 두 고대 제국이 은하의 패권을 다투는 전쟁",
+      "note": "오래전부터 서로 적이던 두 몰락한 제국이 함께 깨어나 맞붙는 사건이다. 젊은 제국들은 어느 한쪽에 무릎을 꿇거나 휩쓸려 사라질 처지에 놓인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "ancient_caretakers",
+      "ko": "고대의 관리인",
+      "orig": "Ancient Caretakers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · personality_fallen_empire_machine (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "ai",
+        "elder_race"
+      ],
+      "one": "돌봄 규약대로 돌아가는 고대 인공 지능 제국",
+      "note": "몰락한 제국 가운데 하나로, 무언가를 돌보라는 규약을 따라 움직이는 듯한 아주 오래된 인공 지능이다. 행동이 종잡을 수 없지만 당장 위협이 되지는 않는 것으로 보인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml"
+      ]
+    },
+    {
+      "id": "precursors",
+      "ko": "선구자",
+      "orig": "Precursors",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · GALAXY_SETTINGS_CATEGORY_PRECURSORS (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "아득한 옛날 은하를 누비다 사라진 문명들",
+      "note": "은하 곳곳의 유적에서 사라진 옛 문명의 유물을 모으면, 마침내 그들의 고향 성계를 찾아낼 수 있다. 한 판에 어느 옛 문명이 나올지는 은하를 만들 때 정한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "first_league",
+      "ko": "첫 번째 연맹",
+      "orig": "The First League",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 events_1_l_korean.yml · precursor.1000.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor",
+        "federation"
+      ],
+      "one": "여러 종족이 평화롭게 함께한 옛 연합",
+      "note": "약 이백만 년 전 여러 외계 종족이 비교적 평화롭게 어울려 살던 연합체로, 은하의 넓은 부분을 아우르다 무너졌다. 해적을 막고 회원국을 지키는 큰 함대를 두었다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "yuht_empire",
+      "ko": "유트 제국",
+      "orig": "The Yuht Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 events_1_l_korean.yml · precursor.500.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor",
+        "cryosleep"
+      ],
+      "one": "초공간을 몰랐던 거대한 절지동물의 옛 제국",
+      "note": "약 육백만 년 전의 문명으로, 몸길이가 백 미터 가까운 납작한 절지동물을 닮은 종족이었다. 초공간을 끝내 발견하지 못해 긴 수명과 냉동 기술에 기대어 별 사이를 오갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_l_english.yml"
+      ]
+    },
+    {
+      "id": "irassian_concordat",
+      "ko": "이라시안 협정국",
+      "orig": "The Irassian Concordat",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 events_1_l_korean.yml · precursor.1500.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "역병에 쓰러진 옛 함대 강국",
+      "note": "백만 년 남짓 전 은하의 한 구역을 다스린 강국으로, 다리가 여섯인 포유류 종족이었다. 면역이 약해 외계 질병에 취약했고, 제국을 휩쓴 역병에 사라졌다고 전한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_l_english.yml"
+      ]
+    },
+    {
+      "id": "cybrex",
+      "ko": "사이브렉스",
+      "orig": "The Cybrex",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 events_1_l_korean.yml · precursor.2000.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "유기 생명을 상대로 성전을 벌였던 옛 기계 문명",
+      "note": "약 육십만 년 전 은하의 한 구역을 다스린, 서로 이어진 기계들의 집단 의식이다. 까닭 모를 이유로 모든 유기 지성체를 없애려는 전쟁을 벌였고, 훗날 스스로 길을 바꾸었다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "vultaum",
+      "ko": "벌타움 우주 의회",
+      "orig": "The Vultaum Star Assembly",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 events_1_l_korean.yml · precursor.1.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor",
+        "simulation"
+      ],
+      "one": "세상이 만들어진 가상 현실이라 믿은 옛 문명",
+      "note": "계산과 가상 세계에 아주 뛰어났던 문명으로, 자신들이 누군가 만든 모의 세계에 갇혀 있다고 결론 내렸다. 그 연구를 끝까지 따라가면 우리 연구자들도 비슷한 결론에 닿는다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/events_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/events_1_l_english.yml"
+      ]
+    },
+    {
+      "id": "zroni",
+      "ko": "즈로니",
+      "orig": "Zroni",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 ancient_relics_events_l_korean.yml · NAME_Zroni (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "장막을 처음 발견한 사이오닉 옛 종족",
+      "note": "사이오닉 재능을 타고난 종족으로, 꿈을 통해 장막에 닿은 뒤 그 안으로 정신을 던져 현실을 바꾸는 법을 익혔다. 장막을 거쳐 은하 어디로든 건너갈 수 있어 영구 식민지는 많이 두지 않았다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_events_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_events_l_english.yml"
+      ]
+    },
+    {
+      "id": "baol",
+      "ko": "바올 유기체",
+      "orig": "The Baol Organism",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 ancient_relics_events_l_korean.yml · ancrel.2001.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "별 사이에 식민지를 퍼뜨린 거대 식물 종족",
+      "note": "커다란 식물 종족으로, 여러 별에 식민지를 심어 두었다. 그 풍부한 자원을 노린 다른 종족과 전쟁을 치렀고, 그 흔적은 메마른 행성 깊은 곳의 화석에서 발견된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_events_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_events_l_english.yml"
+      ]
+    },
+    {
+      "id": "shroud",
+      "ko": "장막",
+      "orig": "The Shroud",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 event_names_l_korean.yml · NAME_The_Shroud (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "정신과 의지로 이루어진 또 하나의 차원",
+      "note": "사이오닉 힘의 원천이 되는 차원으로, 물질 우주의 모든 곳과 한꺼번에 맞닿아 있다고 한다. 그 안에는 강력한 존재들이 살며, 다가오는 문명에게 힘을 주는 대신 대가를 받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "shroud_patron",
+      "ko": "장막 후원자",
+      "orig": "Shroud Patrons",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · FROM_PATRONS — ‘장막 후원자로 인한 값’에서 쓰는 이름 (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike",
+        "pact"
+      ],
+      "one": "장막에 살며 문명과 계약을 맺는 강대한 존재들",
+      "note": "장막의 영역마다 자리한 존재로, 제국이 그 뜻에 맞게 행동할수록 조율이 깊어져 더 많은 혜택을 준다. 큰 존재와 작은 존재가 있고, 서로 맞서는 존재도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "eater_of_worlds",
+      "ko": "행성 포식자",
+      "orig": "Eater of Worlds",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · name_eater (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "결코 채워지지 않는 굶주림의 장막 존재",
+      "note": "장막의 큰 후원자 가운데 하나로, 결코 채워지지 않는 끝없는 허기를 나타낸다. 원어는 ‘세계를 먹는 자’라는 뜻인데 한국어판은 ‘행성 포식자’로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "composer_of_strands",
+      "ko": "이야기의 작곡가",
+      "orig": "Composer of Strands",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · name_composer (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "생명과 자연에 닿은 원초의 장막 존재",
+      "note": "장막의 큰 후원자 가운데 하나로, 생명과 자연에 닿는 원초의 끈을 나타낸다. 원어는 ‘가닥의 작곡가’라는 뜻인데 한국어판은 ‘이야기의 작곡가’로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "instrument_of_desire",
+      "ko": "욕망의 하수인",
+      "orig": "Instrument of Desire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · name_instrument (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "갖고 누리려는 끝없는 충동의 장막 존재",
+      "note": "장막의 큰 후원자 가운데 하나로, 소유하고 탐닉하고 싶은 마음을 끝없이 부추기는 힘을 나타낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "whisperers_in_the_void",
+      "ko": "공허의 속삭임",
+      "orig": "Whisperers in the Void",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · name_whisperers (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "모든 후원자가 뒤섞인, 모든 것을 아는 존재",
+      "note": "장막의 한가운데에서 끝없이 모습을 바꾸며 도는, 모든 후원자의 혼합체로 그려진다. 불려 나오면 바깥 영역으로 나와 물질 세계에 더 직접 손을 뻗는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "end_of_the_cycle",
+      "ko": "순환의 끝",
+      "orig": "End of the Cycle",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 shroud_l_korean.yml · name_eotc (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike",
+        "pact"
+      ],
+      "one": "큰 힘을 주고 정해진 끝을 가져오는 장막 존재",
+      "note": "장막의 한가운데에 머물며 여러 영역 사이의 균형을 맡은 거대한 의지다. 이 존재와 계약하면 엄청난 힘과 지식과 부를 얻지만, 정해진 때가 오면 그 값을 치러야 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "covenant",
+      "ko": "계약",
+      "orig": "Covenant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_3_l_korean.yml · country_covenant (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "제도·직위",
+      "concepts": [
+        "pact"
+      ],
+      "one": "장막 후원자와 맺는 힘의 계약",
+      "note": "장막에 닿은 제국이 그 안의 존재와 맺는 약속으로, 후원자의 힘을 받는 대신 그 뜻에 묶인다. 어느 존재와 맺느냐가 제국의 앞날을 크게 가른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_3_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_3_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/utopia_ascension_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/utopia_ascension_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/shroud_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/shroud_l_english.yml"
+      ]
+    },
+    {
+      "id": "worm_in_waiting",
+      "ko": "기다리는 웜",
+      "orig": "Worm-in-Waiting",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 event_names_l_korean.yml · NAME_Worm_in_Waiting (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "시간의 역설이 엉켜 생겨난 의식",
+      "note": "‘지평 신호’ 사건을 따라가면 만나는 존재로, 엉킨 시간의 역설이 스스로 의식을 가진 것이라 설명된다. 시작과 끝에 끌린다고 하며, 그와 손잡으면 일종의 불멸을 얻을지 모른다는 이야기가 나온다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/horizonsignal_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/horizonsignal_l_english.yml"
+      ]
+    },
+    {
+      "id": "endgame_crisis",
+      "ko": "종반 위기",
+      "orig": "End-Game Crisis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_endgame_crisis (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "게임 후반 은하 전체를 덮치는 거대한 위협",
+      "note": "정해진 해가 지나면 은하 바깥이나 다른 차원, 오래된 기계에서 모든 문명을 위협하는 적이 나타난다. 노련한 이에게도 버거운 마지막 시험이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml"
+      ]
+    },
+    {
+      "id": "prethoryn_scourge",
+      "ko": "프레소린 스컬지",
+      "orig": "Prethoryn Scourge",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · CRISIS_TYPE_PRETHORYN (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind",
+        "living_machine",
+        "galactic_threat"
+      ],
+      "one": "은하 밖에서 몰려온 생체 함선의 군체",
+      "note": "은하 가장자리 너머에서 쳐들어온 군체 의식으로, 살아 있는 함선들이 떼로 몰려와 지나간 행성을 감염시킨다. 협상은 통하지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_events_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_events_l_english.yml"
+      ]
+    },
+    {
+      "id": "contingency",
+      "ko": "컨틴전시",
+      "orig": "Contingency",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 main_1_l_korean.yml · CRISIS_TYPE_CONTINGENCY (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "ai",
+        "galactic_threat",
+        "machine_race"
+      ],
+      "one": "은하의 유기 생명을 쓸어 내려 깨어나는 고대 기계",
+      "note": "숨겨진 기계 행성들에서 깨어나, 은하를 ‘오염’으로 보고 유기체와 따르지 않는 기계를 모두 없애려 한다. 은하에 퍼지는 신호로 다른 합성체들을 굴복시켜 끌어들인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_1_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_1_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ai_crisis_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ai_crisis_l_english.yml"
+      ]
+    },
+    {
+      "id": "unbidden",
+      "ko": "언비든",
+      "orig": "Unbidden",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 event_names_l_korean.yml · NAME_Unbidden (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "타 차원의 침공자",
+          "src": "게임 한국어 문자열 main_1_l_korean.yml · CRISIS_TYPE_UNBIDDEN — 위기 종류 이름(영어판 Extradimensional Invaders)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "다른 차원에서 넘어온 순수한 에너지 존재들",
+      "note": "현실의 틈을 통해 우리 우주로 쏟아져 들어온 에너지 존재로, 협상하지 않는다. 지나는 성계를 집어삼켜 힘으로 삼고, 닻을 세워 틈을 붙잡아 더 많은 동족을 불러온다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_chains_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_chains_l_english.yml"
+      ]
+    },
+    {
+      "id": "gray_tempest",
+      "ko": "그레이 템페스트",
+      "orig": "Gray Tempest",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 event_names_l_korean.yml · NAME_Gray_Goo (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "nanotech",
+        "self_replicate",
+        "galactic_threat"
+      ],
+      "one": "L-게이트 너머에서 풀려나는 나노 기계 함대",
+      "note": "L-게이트가 열리면 쏟아져 나올 수 있는 고대 전투 함대로, 협상도 자비도 없이 오로지 스스로를 복제하며 지나는 길의 모든 것을 부순다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/event_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/event_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "become_the_crisis",
+      "ko": "위기의 화신",
+      "orig": "Become the Crisis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 nemesis_crisis_l_korean.yml · become_the_crisis_chain_title (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "제국 스스로 은하를 끝장낼 위협이 되는 길",
+      "note": "금단의 힘과 파멸의 기술로 은하 전체의 적이 되기로 한 제국이 걷는 길이다. 모든 외교를 버리고, 마지막에는 에테르페이직 엔진으로 장막을 차지하려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/nemesis_crisis_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/nemesis_crisis_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "remnants",
+      "ko": "잔존자",
+      "orig": "Remnants",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 federations_l_korean.yml · origin_remnants (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "한때 은하를 호령하다 무너진 문명의 후손",
+      "note": "은하의 많은 부분을 다스리다 패배해 거의 사라졌던 문명이 오랜 궁핍 끝에 다시 우주로 나서는 기원이다. 고향은 옛 영광의 폐허로, 되살리면 다시 도시 행성이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/federations_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/federations_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "doomsday",
+      "ko": "최후의 날",
+      "orig": "Doomsday",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 federations_l_korean.yml · origin_doomsday (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "earth_left"
+      ],
+      "one": "머지않아 터질 모성을 떠나야 하는 문명",
+      "note": "모성이 몹시 불안정해 언젠가 터질 운명인 문명의 기원이다. 그 전에 새 보금자리를 찾아야 하고, 고향이 무너진 뒤에는 떠난 이들만이 문명을 잇는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/federations_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/federations_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/main_2_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/main_2_l_english.yml"
+      ]
+    },
+    {
+      "id": "void_dwellers",
+      "ko": "공허 거주인",
+      "orig": "Void Dwellers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 federations_l_korean.yml · origin_void_dwellers (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "spacers"
+      ],
+      "one": "행성이 아닌 궤도 거주지에서 살아온 종족",
+      "note": "기록이 남은 때부터 우주를 집으로 삼아, 보통 행성에서 사는 것을 몹시 꺼리는 문명의 기원이다. 최근에야 하나로 묶인 궤도 거주지 여러 곳에서 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/federations_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/federations_l_english.yml"
+      ]
+    },
+    {
+      "id": "archaeology_site",
+      "ko": "고고학 현장",
+      "orig": "Archaeology Site",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 concepts_l_korean.yml · concept_archaeology_site (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "옛 문명의 흔적이 묻힌 곳. 과학선이 여러 단계로 파 들어간다",
+      "note": "과학자를 태운 과학선을 보내 몇 단계에 걸쳐 파 내려가며, 단계마다 짧은 기록과 선택이 나온다. 끝까지 파면 그곳에 묻힌 문명이나 싸움의 사연이 드러나고, 유물이나 골동품, 기술을 얻기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/ancient_relics_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/ancient_relics_l_english.yml"
+      ]
+    },
+    {
+      "id": "astral_rift",
+      "ko": "아스트랄 균열",
+      "orig": "Astral Rift",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 civic_and_origin_concepts_l_korean.yml · concept_astral_rift (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "다른 차원으로 이어진 틈. 과학선이 들어가 그 너머를 살핀다",
+      "note": "알맞은 기술을 갖춘 다음, 과학자가 탄 과학선을 보내 들어갈 수 있다. 균열마다 따로 이야기가 있어, 평행 우주에서 이미 사라진 옛 문명을 만나기도 하고 차원 너머의 낯선 존재와 마주치기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/civic_and_origin_concepts_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/civic_and_origin_concepts_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/astral_planes_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/astral_planes_l_english.yml"
+      ]
+    },
+    {
+      "id": "horizon_signal",
+      "ko": "지평 신호",
+      "orig": "The Horizon Signal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 horizonsignal_l_korean.yml · akx.9000.name (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "블랙홀에서 우리말로 된 기묘한 시가 들려오며 시작되는 사건 연쇄",
+      "note": "블랙홀 곁에서 잡힌 인공 신호가 우리 과학 담당관의 이름을 부르며 시작된다. 신호를 따라가면 고향 행성의 오래된 신전, 낡은 탈출정, 초광속 이전 문명의 이상한 신앙 같은 일이 꼬리를 물고 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/horizonsignal_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/horizonsignal_l_english.yml"
+      ]
+    },
+    {
+      "id": "cetana",
+      "ko": "세타나",
+      "orig": "Cetana",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 machine_age_l_korean.yml · NAME_Cetana (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "ai",
+        "galactic_threat"
+      ],
+      "one": "스스로를 기계들의 어머니라 부르며 폭풍과 함께 나타나는 합성체 여왕",
+      "note": "기계와 합성체가 많아진 은하에 나타나, 부드러운 목소리로 고통 없는 영원한 평화를 약속한다. 따르는 이에게는 축복을, 거스르는 이에게는 꾸짖음을 내리며 은하 전체를 자기 품으로 끌어들이려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/machine_age_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/machine_age_l_english.yml"
+      ]
+    },
+    {
+      "id": "infinity_machine",
+      "ko": "무한 기계",
+      "orig": "Infinity Machine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 name_lists/initializers_names_l_korean.yml · NAME_Infinity_Machine (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "존재",
+      "concepts": [
+        "ai"
+      ],
+      "one": "블랙홀 곁에 떠서 끝없이 계산을 이어 가는 공 모양의 옛 기계",
+      "note": "빛도 빠져나오지 못하는 경계 바로 곁에 떠 있으며, 오랫동안 아무 신호에도 답하지 않는다. 큐레이터 집단은 헤아릴 수 없이 오래된 기계라고 말하고, 말이 트이면 시간을 헷갈리는 듯한 수다로 답한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/name_lists/initializers_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/name_lists/initializers_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "enigmatic_fortress",
+      "ko": "알 수 없는 요새",
+      "orig": "Enigmatic Fortress",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 name_lists/initializers_names_l_korean.yml · NAME_Enigmatic_Fortress (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure"
+      ],
+      "one": "무장한 작은 구조물에 둘러싸여 성계 가장자리에 떠 있는 옛 요새",
+      "note": "엄청난 동력 신호를 내며 다가오는 배를 공격한다. 큐레이터 집단은 이제는 아무도 짓지 않는, 스스로 유지되는 거대한 건축물이라고 평한다. 방어를 깨면 안으로 들어가 수수께끼를 풀며 중심부를 찾게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/name_lists/initializers_names_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/name_lists/initializers_names_l_english.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/leviathans_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/leviathans_l_english.yml"
+      ]
+    },
+    {
+      "id": "adakkaria",
+      "ko": "아드아카리아",
+      "orig": "adAkkaria",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 cosmic_storms_l_korean.yml · NAME_adakkaria (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "우주 폭풍이 할퀴고 간 행성들에서 흔적이 나오는 사라진 옛 문명",
+      "note": "스스로를 자애로운 문명이라 여기며, 원시 문명을 끌어올리고 별들을 지키는 것을 사명으로 삼았다. 그 일을 두고 옛 은하의 평화 유지 기구와 맞서 싸웠다는 기록이 폭풍 속 유적들에 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/cosmic_storms_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/cosmic_storms_l_english.yml"
+      ]
+    },
+    {
+      "id": "inetian_traders",
+      "ko": "아이네티안 상인 조합",
+      "orig": "Inetian Traders",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 cosmic_storms_l_korean.yml · NAME_inetian (2025년 11월 무렵 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "모든 시민이 같은 풍요를 누린 옛 교역 문명. 지금은 흔적만 남았다",
+      "note": "수백만 년 전 은하에 넓은 교역망을 펼쳤지만, 기록에서 거의 지워진 듯 사라졌다. 우주 폭풍이 휩쓸고 간 행성들에서 그들의 도시와 대피소가 발견되고, 그 흔적을 따라가는 선구자 연쇄가 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/korean/cosmic_storms_l_korean.yml",
+        "https://github.com/Big-Brick/StellarisTool/blob/347c43d01348d430a6ec5906e01c52d6b863f5ce/data/localisation/english/cosmic_storms_l_english.yml"
+      ]
+    }
+  ]
+}

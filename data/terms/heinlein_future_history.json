@@ -1,0 +1,813 @@
+{
+  "terms": [
+    {
+      "id": "howard_families",
+      "ko": "하워드 일족",
+      "orig": "Howard Families",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1~2장 본문('하워드 일족들이라고 자처하던', '일족들', '일족 대표') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "오래 사는 사람끼리 대를 이어 짝지어 생긴 장수 가문들.",
+      "note": "19세기에 시작된 짝짓기 장려로 생긴 여러 가문의 모임으로, 이야기 무렵에는 백오십 살 넘게 산다. 오랫동안 정체를 숨기고 살았고, 몰래 회합을 열어 일을 정한다. 보통 사람들은 이들이 비법을 감춘다고 믿고 시기한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children"
+      ]
+    },
+    {
+      "id": "howard_foundation",
+      "ko": "하워드 재단",
+      "orig": "Howard Foundation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('하워드 재단의 지원을 받은 부부', '하워드 재단은 공개적인 비영리 단체') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "장수 집안끼리의 혼인에 돈을 대 준 재단.",
+      "note": "남북 전쟁 때 돈을 번 상인이 남긴 유산으로 세웠다. 조부모가 모두 오래 산 젊은이들에게 서로 혼인하면 아이마다 돈을 주겠다고 알려 주었고, 겉으로는 건전한 혼인을 돕는 곳이라고만 했다. 이렇게 몇 대를 고른 끝에 장수 가문이 생겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children"
+      ]
+    },
+    {
+      "id": "trustees",
+      "ko": "신탁회의",
+      "orig": "the Trustees",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('신탁회의가 서둘러 모임을 연 데에는', '신탁회의를 대표해서') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "하워드 일족의 재산과 일을 맡아 보는 모임.",
+      "note": "재단의 돈을 맡아 관리하던 자리에서 이어진 모임으로, 일족 전체의 회합을 소집하고 그때까지의 사정을 보고한다. 위기 때 정체 숨기기를 정한 것도, 정체를 드러내 보자는 시험을 정한 것도 이 모임이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview"
+      ]
+    },
+    {
+      "id": "masquerade",
+      "ko": "위장",
+      "orig": "the Masquerade",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문(이른바 '위장' 정책, '위장'용 이름) — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "가면무도회",
+          "src": "나무위키 '므두셀라의 아이들' 문서에서 통용되는 이름(정식판 표기 아님)"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "늙지 않는 사실을 감추려 죽은 척하고 새 신분을 얻는 정책.",
+      "note": "나이에 비해 너무 젊은 일족은 죽은 것처럼 꾸미고 다른 곳에서 새 이름으로 산다. 광란의 시기에 시작해 신정 독재 시절을 넘기게 해 주었다. 정직한 사회가 되자 거짓 삶이 괴로워져, 일부가 정체를 드러내는 시험을 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EB%AF%80%EB%91%90%EC%85%80%EB%9D%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4"
+      ]
+    },
+    {
+      "id": "ephemerals",
+      "ko": "단명인",
+      "orig": "ephemerals",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('단명인(短命人)들과 공개적으로', '단명인들이 장수인(長壽人)을 질시하는') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "장수인",
+          "src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 — 짝이 되는 말로 일족 자신을 가리킴"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "하워드 일족이 보통 수명의 사람들을 부르는 말.",
+      "note": "일족 쪽에서 자기들 밖의 보통 사람을 가리키는 말이고, 자기들은 장수인이라 한다. 보통 사람들은 일족의 긴 수명이 타고난 것임을 믿지 않고, 비법을 혼자 쥐었다며 미워하게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview"
+      ]
+    },
+    {
+      "id": "psychometrician",
+      "ko": "심리측정학자",
+      "orig": "psychometrician",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('선임 심리측정학자께서 나머지 부분을') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "psychohistory"
+      ],
+      "one": "군중의 감정 흐름을 수학으로 재고 내다보는 학자.",
+      "note": "일족 회합에서 사회 전체에 퍼지는 미움의 흐름을 통계 표본과 여러 차원의 수학으로 재어 보고한다. 개인은 친절해도 군중은 따로 움직인다는 원리를 근거로, 위험이 곧 터진다고 내다본다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview"
+      ]
+    },
+    {
+      "id": "second_centaurus_expedition",
+      "ko": "2차 센타우루스 원정대",
+      "orig": "Second Centaurus Expedition",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('2차 센타우루스 원정대의 대형 함선일 거예요') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "이웃 별에 사람을 보내려고 궤도에서 큰 배를 짓는 계획.",
+      "note": "지구에서 조립하기에는 너무 커서 하늘에서 짓는 이주선으로, 밤하늘에 새 별처럼 보일 만큼 크다. 일족이 지구를 떠날 길을 찾을 때 이 배가 이야기의 고리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children"
+      ]
+    },
+    {
+      "id": "administrator",
+      "ko": "행정관",
+      "orig": "Administrator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 2장 본문('행정관이 ‘전권’을 이양받았고요') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "서약 아래 정부를 이끄는 우두머리 자리.",
+      "note": "위원회가 뽑은 행정 책임자다. 일족을 붙잡아 비밀을 캐내자는 결의가 나오자 이 자리에 비상 전권이 넘어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children"
+      ]
+    },
+    {
+      "id": "rejuvenation",
+      "ko": "회춘 시술",
+      "orig": "rejuvenation",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '미래사 시리즈' 문서 연표에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "늙은 몸을 다시 젊게 되돌리는 의료 처치.",
+      "note": "처음에 일족은 호르몬과 여러 요법으로 노쇠를 늦출 뿐이었다. 먼 뒷날에는 몸을 다시 젊게 돌리는 처치가 흔해져, 이천 살 넘은 최고령자도 이것을 되풀이 받으며 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "jockaira",
+      "ko": "조카이라",
+      "orig": "Jockaira",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 정식판(아작 전집 4권 『므두셀라의 아이들』)에 나올 것이나 미리보기 범위 밖이라 확인하지 못했다",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "일족이 처음 찾은 행성에 사는 사람 닮은 종족.",
+      "note": "문명을 갖춘 듯 보이지만 사실은 더 높은 존재를 신처럼 섬기며 길들여진 종족이다. 일족도 같은 방식으로 길들이려다 뜻대로 되지 않자 그 행성에서 내쫓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children",
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "little_people",
+      "ko": "리틀 피플",
+      "orig": "Little People",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 정식판(아작 전집 4권 『므두셀라의 아이들』)에 나올 것이나 미리보기 범위 밖이라 확인하지 못했다",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "여럿이 한 정신을 나눠 쓰는 둘째 행성의 종족.",
+      "note": "포식자도 거친 날씨도 없는 행성에 사는 작은 종족으로, 개체를 따로 가리지 않고 하나의 정신으로 산다. 생물의 몸을 유전자 수준에서 고칠 수 있어 일족에게는 낙원이자 두려운 곳이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children",
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "para_drive",
+      "ko": "파라드라이브",
+      "orig": "para-drive",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 정식판(아작 전집 4권 『므두셀라의 아이들』)에 나올 것이나 미리보기 범위 밖이라 확인하지 못했다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl"
+      ],
+      "one": "일족의 수학 천재가 만든 빛보다 빠른 추진 장치.",
+      "note": "일족의 한 사람이 먼저 관성을 없애는 추진법을 만들어 탈출을 가능하게 했고, 뒤에 빛보다 빠른 장치로 고쳐 몇 년 걸릴 길을 몇 달로 줄였다. 뒷날 이 장치가 인류를 은하 곳곳으로 퍼뜨린다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Methuselah%27s_Children",
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "crazy_years",
+      "ko": "광란의 시기",
+      "orig": "the Crazy Years",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('그때를 흔히 ‘광란의 시기’라고 일컫는데') · 아작 『로버트 A. 하인라인 중단편 전집』(2023) 1권 『달을 판 사나이』 전자책 데이먼 나이트 서문('광란의 시기란 하인라인이 작품상 해당 시기를 가리키는 용어') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "20세기 말 사회가 집단 광기로 흔들린 시대.",
+      "note": "기괴한 유행, 늘어나는 자살, 무너지는 나라 살림이 신문 머리기사로 그려지는 시대다. 이 혼란을 겪으며 하워드 일족은 재산을 나눠 감추고 위장 정책을 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://ridibooks.com/books/2119000286/preview"
+      ]
+    },
+    {
+      "id": "third_world_war",
+      "ko": "제3차 세계대전",
+      "orig": "Third World War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 1~4권 알라딘 '출판사 제공 책소개'(김창규 해설 발췌 '인류는 제3차 세계대전을 겪었다')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "미래사의 인류가 겪은 세 번째 세계 전쟁.",
+      "note": "연작 전체의 배경에 깔린 큰 전쟁으로, 원자폭탄이 무기로 쓰인다. 연작은 이 전쟁과 신정 독재를 지나 이성을 존중하는 사회로 가는 흐름을 그린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023292",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023502",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "the_prophets",
+      "ko": "예언자",
+      "orig": "the Prophets",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1~2장 본문('‘예언자’들이 지배한 공백기', '첫 번째 예언자 시대', '예언자들 휘하의 비밀경찰') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "재림 예언자",
+          "src": "나무위키 '이대로 간다면' 문서에서 쓰는 이름(정식판 확인 못 함)"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "미국을 신정 독재로 다스린 종교 지도자의 자리.",
+      "note": "선거로 대통령이 된 설교자가 스스로 신의 대리인이 되어 종교 독재를 열고, 그 자리가 대를 이어 내려간다. 비밀경찰과 철저한 등록제로 사람을 감시하고 이단을 심문한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023275"
+      ]
+    },
+    {
+      "id": "interregnum",
+      "ko": "공백기",
+      "orig": "the Interregnum",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('‘예언자’들이 지배한 공백기') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "예언자들이 미국을 다스린 수십 년의 시대.",
+      "note": "미국 역사에서 정상적인 정부가 끊긴 시기로 본다. 일족은 이 시기를 위장 덕분에 정체를 들키지 않고 넘겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "cabal",
+      "ko": "카발",
+      "orig": "the Cabal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('혁명적으로 등장한 카발의 도움으로') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "예언자 정권을 뒤엎으려 한 비밀 결사.",
+      "note": "신정 국가 안에서 악마 숭배자라는 누명을 쓴 채 숨어 지내며 혁명을 준비한 조직이다. 군인과 관리 가운데도 단원이 있어, 신분을 바꿔 주거나 쫓기는 사람을 숨겨 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4"
+      ]
+    },
+    {
+      "id": "second_american_revolution",
+      "ko": "제2차 미국 혁명",
+      "orig": "Second American Revolution",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('제2차 미국 혁명으로 이어지는 일련의 사건') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "예언자의 신정 독재를 무너뜨린 혁명.",
+      "note": "비밀 결사가 오래 준비해 일으킨 혁명으로, 끝에는 예언자의 도읍을 함락시킨다. 그 뒤 개인의 자유를 앞세운 새 헌법인 서약이 맺어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4"
+      ]
+    },
+    {
+      "id": "new_jerusalem",
+      "ko": "뉴예루살렘",
+      "orig": "New Jerusalem",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장 본문('훗날 뉴예루살렘을 함락시키기에 이르는 투쟁') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "뉴 예루살렘",
+          "src": "나무위키 '이대로 간다면' 문서의 띄어 쓴 표기"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "예언자가 다스리던 신정 미국의 도읍.",
+      "note": "예언자의 궁과 친위대가 있는 곳으로, 지상은 튼튼하고 지하는 원자폭탄에도 견디게 지었다. 음모와 정치가 들끓는 곳으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4"
+      ]
+    },
+    {
+      "id": "covenant",
+      "ko": "서약",
+      "orig": "the Covenant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1~2장 본문('‘서약’의 해이기도 한 2075년', '서약에 위반되잖아요') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "혁명 뒤 맺은, 개인의 자유를 앞세운 새 사회 계약.",
+      "note": "남에게 해를 끼치지 않는 한 무엇이든 자유롭다는 원칙 위에 선 헌법이다. 이것을 거부하거나 어긴 사람은 처벌 대신 사회 밖으로 내보낸다. 일족을 붙잡자는 결의는 이 서약을 깨는 일이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "coventry",
+      "ko": "코번트리",
+      "orig": "Coventry",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 2장 본문('털어놓지 않으면 코번트리에 보내기라도 하겠다는') · 아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 목차('코번트리 | Coventry') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "코벤트리",
+          "src": "오멜라스판 『코벤트리』(2010, 배지훈 옮김) 책 제목 — 나무위키 '이대로 간다면' 문서에 따름(2차 자료)"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "서약을 거부한 사람을 내보내는 울타리 밖 땅.",
+      "note": "서약 사회는 사람을 가두거나 고치지 않고, 서약을 따르지 않겠다는 사람을 장벽 너머 이 땅으로 보낸다. 그 안에서는 저희끼리 따로 나라를 세워 살아간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023275"
+      ]
+    },
+    {
+      "id": "functionalism",
+      "ko": "기능주의",
+      "orig": "Functionalism",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '도로는 굴러가야 한다' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "사회에 꼭 필요한 일을 하는 사람이 권력을 가져야 한다는 사상.",
+      "note": "움직이는 도로를 굴리는 노동자들 사이에 퍼진 사상으로, 도로를 멈출 수 있는 자기들이 나라를 쥐어야 한다고 부추긴다. 이것이 전국 도로를 멈추는 파업으로 번진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%8A%94%20%EA%B5%B4%EB%9F%AC%EA%B0%80%EC%95%BC%20%ED%95%9C%EB%8B%A4",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023292"
+      ]
+    },
+    {
+      "id": "rolling_roads",
+      "ko": "이동 도로",
+      "orig": "rolling roads",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '도로는 굴러가야 한다' 문서에서 통용되는 표기(정식판 제목 「도로는 굴러가야 한다」는 '도로'로만 부름)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "길 자체가 띠처럼 굴러 사람을 나르는 교통망.",
+      "note": "석유가 모자라 자동차가 줄자, 햇빛으로 얻은 전기로 도로 자체를 움직이는 방식이 퍼졌다. 띠마다 빠르기가 달라 갈아타며 달리고, 띠 위에 가게까지 있다. 멈추면 온 도시가 마비된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8F%84%EB%A1%9C%EB%8A%94%20%EA%B5%B4%EB%9F%AC%EA%B0%80%EC%95%BC%20%ED%95%9C%EB%8B%A4",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023292",
+        "https://ridibooks.com/books/2119000286/preview"
+      ]
+    },
+    {
+      "id": "angels_of_the_lord",
+      "ko": "주님의 천사",
+      "orig": "Angels of the Lord",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이대로 간다면' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "예언자를 지키는 친위 부대.",
+      "note": "독실한 신자 가운데 뽑은 장교들로 꾸린 예언자의 경호대로, 도읍의 궁에 머문다. 이야기의 주인공도 처음에는 이 부대의 젊은 장교였다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4"
+      ]
+    },
+    {
+      "id": "inquisitor",
+      "ko": "이단심문관",
+      "orig": "Inquisitor",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이대로 간다면' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "신정 국가에서 이단을 캐내고 고문하는 관리.",
+      "note": "예언자 정권의 신앙과 질서를 지키는 일을 맡아, 붙잡힌 반역 혐의자를 모질게 심문한다. 감시와 고문이 이 나라를 떠받치는 기둥으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8C%80%EB%A1%9C%20%EA%B0%84%EB%8B%A4%EB%A9%B4"
+      ]
+    },
+    {
+      "id": "chronovitameter",
+      "ko": "시생계측기",
+      "orig": "chronovitameter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 1권 『달을 판 사나이』 전자책 「생명선」 본문(자신이 발명한 '시생계측기'를 이용해서) — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사람이 언제 죽을지 재어 알려 주는 기계.",
+      "note": "사람을 시간 속으로 길게 뻗은 하나의 사건으로 보고, 전기 신호의 메아리로 그 끝을 잰다. 발명가가 이것으로 사망일을 맞히는 사업을 열자, 생명 보험 회사들이 그를 막으려 든다. 연작의 첫 작품에 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000286/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023292"
+      ]
+    },
+    {
+      "id": "harriman_trust",
+      "ko": "해리먼 투자신탁",
+      "orig": "Harriman Trust",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 2권 『개 산책도 시켜드립니다』 전자책 「데릴라와 우주 건설꾼」 본문('해리먼 투자신탁에서 파이브 컴퍼니스 유한회사에 임대한 인원') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주정거장을 지어 빌려주는 거대 투자 회사.",
+      "note": "달 개척의 길을 연 사업가의 이름을 단 회사로, 막대한 돈을 들여 궤도 정거장을 짓고 통신 회사·기상국·천문대 등에 공간을 빌려준다. 공사는 따로 하청 회사가 맡고, 이 회사는 감독관을 보낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000297/preview",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "space_station_one",
+      "ko": "1번 우주정거장",
+      "orig": "Space Station One",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 2권 『개 산책도 시켜드립니다』 전자책 「데릴라와 우주 건설꾼」 첫 문장('1번 우주정거장을 건설할 때도') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "지구 상공 3만 6천 킬로미터에 지은 첫 궤도 정거장.",
+      "note": "큰 북처럼 생긴 원통 안에서 작은 원통인 거주 구역이 돌아, 원심력으로 몸무게를 만든다. 배를 대는 쪽은 돌지 않게 따로 두었다. 지을 때 일꾼은 남자뿐이었다가 여자 기술자가 오면서 사정이 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000297/preview"
+      ]
+    },
+    {
+      "id": "trans_lunar",
+      "ko": "트랜스-루나 여객",
+      "orig": "Trans-Lunar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 2권 『개 산책도 시켜드립니다』 전자책 「우주 비행사」 본문('트랜스-루나 여객의 콜로라도스프링스 사무실') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구와 달 사이에 여객 로켓을 띄우는 회사.",
+      "note": "지구와 궤도 정거장, 달을 잇는 정기편을 운항한다. 조종사는 비행 전에 심리 검사를 통과해야 하고, 대기 명단에 올라 차례가 오면 불려 나간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000297/preview"
+      ]
+    },
+    {
+      "id": "luna_city",
+      "ko": "루나시티",
+      "orig": "Luna City",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 「지구에서 온 위협」 본문('바로 이곳 루나시티에서 태어났다') · 아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 1장('루나시티에 한 번 가본 게 전부예요') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "달 땅속 깊이 뻗은 달 최대의 도시.",
+      "note": "겉으로는 운석을 막는 덮개만 보이고, 아래로 몇 킬로미터나 이어지며 기압이 다른 여러 구역으로 나뉜다. 길이 너무 얽혀 지도가 사실상 없어, 관광객은 학생 안내인을 따라다닌다. 여기서 몇 대째 나고 자란 주민도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000298/preview",
+        "https://ridibooks.com/books/2119000299/preview"
+      ]
+    },
+    {
+      "id": "groundhog",
+      "ko": "땅다람쥐",
+      "orig": "groundhog",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 「지구에서 온 위협」 본문('땅다람쥐 같은 지구인들에게 관대하다') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "달 사람들이 지구에서 온 사람을 얕잡아 부르는 말.",
+      "note": "무거운 중력에 묶여 땅에 붙어 사는 지구인을 빗댄 말이다. 달에서 나고 자란 아이들은 지구의 날씨와 무게를 견디지 못하고, 오히려 지구인이 야만 속에 산다고 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000298/preview"
+      ]
+    },
+    {
+      "id": "bat_cave",
+      "ko": "박쥐 동굴",
+      "orig": "Bat Cave",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 「지구에서 온 위협」 본문('박쥐 동굴에 관해 쓰인 글') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "루나시티에서 사람들이 날개를 달고 나는 거대한 공기 저장 동굴.",
+      "note": "화산 활동으로 생긴 지름 3킬로미터쯤의 빈 굴을 도시의 공기 저장소로 쓴다. 중력이 지구의 6분의 1이고 기압을 높여 두어, 사람이 팔 힘만으로 새처럼 날 수 있다. 우선 통행 같은 비행 규칙이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000298/preview"
+      ]
+    },
+    {
+      "id": "wings",
+      "ko": "날개옷",
+      "orig": "wings",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 「지구에서 온 위협」 본문('로커 룸으로 가서 날개옷을 꺼내 왔다') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "달의 낮은 중력에서 사람이 날도록 입는 날개.",
+      "note": "가벼운 합금 뼈대에 깃털 모양 날개와 다리에 끼우는 꼬리 날개가 달려 있다. 몸에 맞춰 짓는 고급품도 있고, 처음 배우는 사람은 눈에 띄는 주황색을 입는다. 지구에서는 무거워 날 수 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000298/preview"
+      ]
+    },
+    {
+      "id": "mass_conversion_drive",
+      "ko": "대규모 전환 엔진",
+      "orig": "mass-conversion drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 3권 『지구에서 온 위협』 전자책 「지구에서 온 위협」 본문('대규모 전환 엔진이 개발될 거라고 했다') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "물질을 통째로 힘으로 바꿔 별 사이 배를 가능케 할 엔진.",
+      "note": "달 아이들은 이 엔진이 곧 나오리라 믿고 스스로 먹고사는 별 사이 배를 미리 설계한다. 이야기 무렵에는 아직 개발 전이라, 우주선 설계는 꿈과 연습으로만 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000298/preview"
+      ]
+    },
+    {
+      "id": "venusburg",
+      "ko": "비너스버그",
+      "orig": "Venusburg",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『로버트 A. 하인라인 중단편 전집』(2023) 4권 『므두셀라의 아이들』 전자책 1부 2장 본문('비너스버그에서 날 체포하려고 들었던 작자') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "금성에 선 거친 개척 도시.",
+      "note": "최고령 일족이 오랫동안 머문 금성의 도시로, 무기를 차고 다니는 거친 곳으로 언급된다. 연작 속 금성은 개척민과 계약 노동이 얽힌 변방이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000299/preview",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    },
+    {
+      "id": "vanguard",
+      "ko": "뱅가드호",
+      "orig": "Vanguard",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 배 이름은 연작 뒤편에서 밝혀지며, 정식판 「우주」(아작 전집 4권)의 미리보기 범위 밖이라 확인하지 못했다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "generation_ship"
+      ],
+      "one": "먼 별로 떠났다가 목적을 잊은 거대 세대 우주선.",
+      "note": "이웃 별로 향하던 배에서 반란이 일어난 뒤 여러 세대가 흘러, 안에 사는 사람들은 배가 움직인다는 것조차 잊었다. 배 전체를 세상의 전부로 여기고, 바깥 하늘의 별을 본 적이 없다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A1%B0%EB%8D%98%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4",
+        "https://en.wikipedia.org/wiki/Orphans_of_the_Sky",
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "officers",
+      "ko": "장교단",
+      "orig": "officers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '조던의 아이들' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "세대 우주선 안을 다스리며 옛 지식을 경전처럼 지키는 계층.",
+      "note": "배를 굴리던 이들의 후손으로, 남은 기계를 돌보며 과학 지식을 교리로 외운다. 물리 법칙과 항해 기록을 비유로만 읽어, 배가 어딘가로 간다는 사실을 믿지 않는다. 똑똑한 아이를 뽑아 견습으로 기른다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A1%B0%EB%8D%98%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4",
+        "https://en.wikipedia.org/wiki/Orphans_of_the_Sky"
+      ]
+    },
+    {
+      "id": "muties",
+      "ko": "뮤티",
+      "orig": "Muties",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '조던의 아이들' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "세대 우주선의 바깥쪽 저중력 구역에 사는 돌연변이들.",
+      "note": "반란 뒤 장교단의 다스림 밖으로 밀려난 사람들의 후손으로, 몸이 달라진 이가 많다. 머리가 둘인 이처럼 영리한 자도 있다. 배 안쪽 사람들은 이들을 두려워하고 사냥한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A1%B0%EB%8D%98%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4",
+        "https://en.wikipedia.org/wiki/Orphans_of_the_Sky"
+      ]
+    },
+    {
+      "id": "control_room",
+      "ko": "조종실",
+      "orig": "Control Room",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '조던의 아이들' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "세대 우주선 앞쪽의, 바깥 우주가 보이는 잊힌 방.",
+      "note": "오랫동안 아무도 들어가지 않은 방으로, 들어가면 벽 너머로 별이 보인다. 이곳에서 별을 본 사람만 세상이 배라는 것을 깨닫는다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A1%B0%EB%8D%98%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%93%A4",
+        "https://en.wikipedia.org/wiki/Orphans_of_the_Sky"
+      ]
+    },
+    {
+      "id": "secundus",
+      "ko": "세쿤두스",
+      "orig": "Secundus",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 『사랑하기에 충분한 시간』(원제 Time Enough for Love)은 국내 정식 번역판을 찾지 못했다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "먼 뒷날 하워드 일족이 중심지로 삼은 행성.",
+      "note": "인류가 은하 곳곳으로 흩어진 시대에 일족의 기록과 의장이 있는 부유한 행성이다. 이천 살 넘은 최고령자가 삶을 끝내려 하자 이곳에서 그를 붙잡아 이야기를 듣는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "tertius",
+      "ko": "테르티우스",
+      "orig": "Tertius",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 『사랑하기에 충분한 시간』(원제 Time Enough for Love)은 국내 정식 번역판을 찾지 못했다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "최고령자가 다시 개척하러 옮겨 간 새 행성.",
+      "note": "도시의 삶에 싫증 난 최고령자가 후손들과 함께 옮겨 가 농장을 일구고 큰 가족을 꾸리는 곳이다. 아직 손이 덜 닿은 변방이라 개척 생활의 맛이 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "minerva",
+      "ko": "미네르바",
+      "orig": "Minerva",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 『사랑하기에 충분한 시간』(원제 Time Enough for Love)은 국내 정식 번역판을 찾지 못했다",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "ai"
+      ],
+      "one": "일족 의장을 돕던 행성 행정용 인공지능.",
+      "note": "세쿤두스의 행정을 맡던 큰 컴퓨터로, 최고령자의 이야기를 듣는 자리에 함께한다. 뒤에 기계를 떠나 사람의 몸으로 옮겨 가 가족의 일원이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love"
+      ]
+    },
+    {
+      "id": "da_capo",
+      "ko": "다 카포",
+      "orig": "Da Capo",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 『사랑하기에 충분한 시간』(원제 Time Enough for Love)은 국내 정식 번역판을 찾지 못했다",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "time_travel"
+      ],
+      "one": "최고령자가 어린 시절의 지구로 거슬러 가는 마지막 여행.",
+      "note": "가족의 기술로 과거로 돌아가 자기가 태어나 자란 20세기 초의 미국을 어른으로 다시 겪는다. 계산이 어긋나 세계 대전 직전에 떨어지고, 그 시대의 전쟁에 휘말린다.",
+      "spoiler": true,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Time_Enough_for_Love",
+        "https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%82%AC%20%EC%8B%9C%EB%A6%AC%EC%A6%88"
+      ]
+    }
+  ]
+}

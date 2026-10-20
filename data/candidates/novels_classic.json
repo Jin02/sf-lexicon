@@ -1,0 +1,5375 @@
+{
+ "group": "novels_classic",
+ "candidates": [
+  {
+   "id": "frankenstein",
+   "orig": "Frankenstein; or, The Modern Prometheus",
+   "orig_en": "",
+   "ko": "프랑켄슈타인",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17421649",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Frankenstein (1818) — 뒤로 숱한 영화·각색",
+   "by": "Mary Shelley",
+   "year": 1818,
+   "country": "영국",
+   "setting": "젊은 과학자가 죽은 몸 조각으로 생명을 만들고, 버림받은 피조물이 그를 쫓는다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "과학이 만든 생명과, 만든 사람의 책임",
+   "lore_size": "작음",
+   "notability": "근대 SF 의 출발점으로 흔히 꼽힘, 1931년 유니버설 영화부터 끝없이 각색",
+   "korean": {
+    "status": "있음",
+    "detail": "문학동네(김선형, 2012)·열린책들(오숙은, 2011·2026)·현대지성(오수원, 2021) 등 여러 판",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17421649"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_last_man_shelley",
+   "orig": "The Last Man",
+   "orig_en": "",
+   "ko": "최후의 인간",
+   "ko_src": "https://www.yes24.com/Product/Goods/13645683",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Last Man (1826)",
+   "by": "Mary Shelley",
+   "year": 1826,
+   "country": "영국",
+   "setting": "21세기 말 역병이 온 세상에 퍼져 사람이 하나둘 죽고 마지막 한 사람만 남는다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "역병으로 인류가 끝나는 이야기의 시초로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "아고라(2014, 2권)",
+    "src": "https://www.yes24.com/Product/Goods/13645683"
+   },
+   "borderline": false
+  },
+  {
+   "id": "journey_to_the_center_of_the_earth",
+   "orig": "Voyage au centre de la Terre",
+   "orig_en": "Journey to the Center of the Earth",
+   "ko": "지구 속 여행",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297139660",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Voyage au centre de la Terre (1864)",
+   "by": "Jules Verne",
+   "year": 1864,
+   "country": "프랑스",
+   "setting": "학자 일행이 화산 구멍으로 내려가 땅속의 바다와 옛 생물을 만난다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1959년 영화 등 여러 번 영화화된 베른 대표작",
+   "korean": {
+    "status": "있음",
+    "detail": "열림원(김석희, 2002·2022), 크레용하우스(박선주, 2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297139660"
+   },
+   "borderline": true
+  },
+  {
+   "id": "from_the_earth_to_the_moon",
+   "orig": "De la Terre à la Lune",
+   "orig_en": "From the Earth to the Moon",
+   "ko": "지구에서 달까지",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297138878",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "지구에서 달까지 (1865) · 달나라 탐험 (1869)",
+   "by": "Jules Verne",
+   "year": 1865,
+   "country": "프랑스",
+   "setting": "전쟁이 끝나 할 일이 없어진 대포 클럽이 거대한 대포로 사람을 달에 쏘아 보낸다.",
+   "concepts": [],
+   "new_ideas": "대포로 쏘아 올리는 포탄 우주선",
+   "lore_size": "작음",
+   "notability": "달 여행 이야기의 고전, 1902년 영화 『Le Voyage dans la Lune』의 바탕 가운데 하나",
+   "korean": {
+    "status": "있음",
+    "detail": "『지구에서 달까지』 열림원(김석희, 2005·2022), 『달나라 탐험』 열림원(김석희, 2005·2022)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=297138878"
+   },
+   "borderline": false
+  },
+  {
+   "id": "twenty_thousand_leagues",
+   "orig": "Vingt mille lieues sous les mers",
+   "orig_en": "Twenty Thousand Leagues Under the Seas",
+   "ko": "해저 2만 리",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8856160",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "해저 2만 리 (1870) · 신비의 섬 (1875) — 네모 선장이 이어 나옴",
+   "by": "Jules Verne",
+   "year": 1870,
+   "country": "프랑스",
+   "setting": "네모 선장의 잠수함 노틸러스호가 육지와 등진 채 바다 밑을 누빈다.",
+   "concepts": [],
+   "new_ideas": "혼자만 앞선 기술을 가진 은둔자의 잠수함",
+   "lore_size": "중간",
+   "notability": "베른의 대표작, 1954년 디즈니 영화 등 거듭 영화화",
+   "korean": {
+    "status": "있음",
+    "detail": "『해저 2만 리』 비룡소(윤진, 2011, 2권)·열림원어린이(김석희, 2023) 등, 『신비의 섬』 열림원(김석희, 2022, 3권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8856160"
+   },
+   "borderline": false
+  },
+  {
+   "id": "flatland",
+   "orig": "Flatland: A Romance of Many Dimensions",
+   "orig_en": "",
+   "ko": "플랫랜드",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284096945",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Flatland (1884)",
+   "by": "Edwin A. Abbott",
+   "year": 1884,
+   "country": "영국",
+   "setting": "평면 세계에 사는 정사각형이 3차원 존재를 만나 더 높은 차원을 깨닫는다.",
+   "concepts": [],
+   "new_ideas": "차원이 다른 세계와 그 바깥을 보는 눈",
+   "lore_size": "작음",
+   "notability": "차원을 설명할 때 지금도 쓰이는 고전",
+   "korean": {
+    "status": "있음",
+    "detail": "돋을새김(권혁, 2021), 필로소픽(서민아, 2017), 늘봄(윤태일, 1998·2009)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284096945"
+   },
+   "borderline": false
+  },
+  {
+   "id": "lev_future_eve",
+   "orig": "L'Ève future",
+   "orig_en": "Tomorrow's Eve",
+   "ko": "미래의 이브",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22313320",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "L'Ève future (1886)",
+   "by": "Auguste Villiers de l'Isle-Adam",
+   "year": 1886,
+   "country": "프랑스",
+   "setting": "발명가 에디슨이 귀족을 위해 실망스러운 연인을 본뜬 인조 여인을 만든다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'안드로이드(인조인간)'라는 말을 널리 알린 소설로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(고혜선, 2012)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22313320"
+   },
+   "borderline": false
+  },
+  {
+   "id": "looking_backward",
+   "orig": "Looking Backward: 2000–1887",
+   "orig_en": "",
+   "ko": "뒤돌아보며",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=44506404",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Looking Backward (1888)",
+   "by": "Edward Bellamy",
+   "year": 1888,
+   "country": "미국",
+   "setting": "1887년에 잠든 남자가 2000년에 깨어나 모두가 넉넉한 협동 사회를 둘러본다.",
+   "concepts": [
+    "post_scarcity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "19세기 말 미국의 큰 베스트셀러, 이 책을 따르는 정치 모임까지 생김",
+   "korean": {
+    "status": "있음",
+    "detail": "아고라(김혜진, 2014), 지식을만드는지식 『뒤를 돌아보면서』(손세호, 2011·2026 — 발췌 번역)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=44506404"
+   },
+   "borderline": false
+  },
+  {
+   "id": "connecticut_yankee",
+   "orig": "A Connecticut Yankee in King Arthur's Court",
+   "orig_en": "",
+   "ko": "아서 왕 궁전의 코네티컷 양키",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8421047",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "A Connecticut Yankee in King Arthur's Court (1889)",
+   "by": "Mark Twain",
+   "year": 1889,
+   "country": "미국",
+   "setting": "19세기 미국 기술자가 아서 왕 시대로 떨어져 근대 기술로 나라를 바꾸려 한다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "시간 여행 소설의 초기 고전, 여러 번 영화화",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(김영선, 2010), 옛 판 대현출판사 『코네티컷 양키』(김인구, 1998)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8421047"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_time_machine",
+   "orig": "The Time Machine",
+   "orig_en": "",
+   "ko": "타임머신",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11260499",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Time Machine (1895)",
+   "by": "H. G. Wells",
+   "year": 1895,
+   "country": "영국",
+   "setting": "시간 여행자가 80만 년 뒤로 가서 두 갈래로 갈라진 인류를 본다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'타임머신'이라는 말을 퍼뜨린 작품, 1960·2002년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "열린책들(김석희, 2011·2025), 문예출판사(임종기, 2025), 다빈치 노벨라(서홍원, 2023) 등",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11260499"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_island_of_doctor_moreau",
+   "orig": "The Island of Doctor Moreau",
+   "orig_en": "",
+   "ko": "모로 박사의 섬",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361588959",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Island of Doctor Moreau (1896)",
+   "by": "H. G. Wells",
+   "year": 1896,
+   "country": "영국",
+   "setting": "외딴 섬의 박사가 수술로 짐승을 사람 비슷하게 만들어 법으로 다스린다.",
+   "concepts": [
+    "uplift"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1932·1977·1996년 영화화",
+   "korean": {
+    "status": "있음",
+    "detail": "문예출판사(한동훈, 2010·2025), 리플레이(2017·2025)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=361588959"
+   },
+   "borderline": false
+  },
+  {
+   "id": "auf_zwei_planeten",
+   "orig": "Auf zwei Planeten",
+   "orig_en": "Two Planets",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Auf zwei Planeten (1897)",
+   "by": "Kurd Laßwitz",
+   "year": 1897,
+   "country": "독일",
+   "setting": "북극 위 우주 정거장을 거점으로 한 앞선 화성인이 지구를 만나 다스리려다 서로 배운다.",
+   "concepts": [
+    "alien",
+    "first_contact",
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "독일 SF 의 출발점, 독일 SF 상에 지은이 이름이 붙음",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘·예스24에서 지은이·제목으로 찾았으나 번역판을 찾지 못함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_invisible_man",
+   "orig": "The Invisible Man",
+   "orig_en": "",
+   "ko": "투명인간",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371739638",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Invisible Man (1897)",
+   "by": "H. G. Wells",
+   "year": 1897,
+   "country": "영국",
+   "setting": "과학자가 몸을 투명하게 만드는 법을 찾아내고 그 힘에 스스로 무너진다.",
+   "concepts": [],
+   "new_ideas": "몸을 보이지 않게 만드는 과학",
+   "lore_size": "작음",
+   "notability": "1933년 유니버설 영화부터 거듭 영화화",
+   "korean": {
+    "status": "있음",
+    "detail": "문예출판사(임종기, 2025), 열린책들(김석희, 2011·2025), 새움(이정서, 2023)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371739638"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_war_of_the_worlds",
+   "orig": "The War of the Worlds",
+   "orig_en": "",
+   "ko": "우주 전쟁",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=46696534",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The War of the Worlds (1898) — 1938년 라디오극, 1953·2005년 영화, 2019년 드라마",
+   "by": "H. G. Wells",
+   "year": 1898,
+   "country": "영국",
+   "setting": "화성인이 세발 전투 기계로 영국을 짓밟다가 지구의 세균에 쓰러진다.",
+   "concepts": [
+    "alien",
+    "first_contact",
+    "beam_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "외계 침공 이야기의 원형, 1938년 라디오극 소동, 1953·2005년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "문학동네(임호경, 2014), 황금가지(이영욱, 2005), 푸른숲주니어(2007)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=46696534"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_first_men_in_the_moon",
+   "orig": "The First Men in the Moon",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The First Men in the Moon (1901)",
+   "by": "H. G. Wells",
+   "year": 1901,
+   "country": "영국",
+   "setting": "중력을 막는 물질로 달에 간 두 사람이 땅속에 사는 달 사람의 사회를 만난다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "중력을 막는 물질",
+   "lore_size": "작음",
+   "notability": "1964년 영화, 1902년 영화 『Le Voyage dans la Lune』의 바탕 가운데 하나",
+   "korean": {
+    "status": "있음",
+    "detail": "어린이 판만: 금성출판사 『화성의 공주/달세계의 탐험』(김영섭, 1985) — 원제 표기는 없으나 웰스의 달 여행 장편은 이것 하나",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=%EB%8B%AC%EC%84%B8%EA%B3%84%EC%9D%98+%ED%83%90%ED%97%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "red_star_bogdanov",
+   "orig": "Красная звезда",
+   "orig_en": "Red Star",
+   "ko": "붉은 별",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80815388",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Красная звезда (1908) · Инженер Мэнни (1913)",
+   "by": "Alexander Bogdanov",
+   "year": 1908,
+   "country": "러시아",
+   "setting": "혁명가가 화성으로 가서 사회주의 이상향을 이룬 화성인의 사회를 본다.",
+   "concepts": [
+    "alien",
+    "post_scarcity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "볼셰비키 사회주의 SF 의 첫 작품으로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "아고라(김수연, 2016)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80815388"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_iron_heel",
+   "orig": "The Iron Heel",
+   "orig_en": "",
+   "ko": "강철군화",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=878828",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Iron Heel (1908)",
+   "by": "Jack London",
+   "year": 1908,
+   "country": "미국",
+   "setting": "거대 자본의 과두 정치가 미국을 쥐고 노동자 혁명을 짓누른 시대를 먼 뒷날에 돌아본다.",
+   "concepts": [
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "근대 디스토피아 소설의 초기작으로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "한울(차미례, 1989·2007)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=878828"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_machine_stops",
+   "orig": "The Machine Stops",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Machine Stops (1909, 단편)",
+   "by": "E. M. Forster",
+   "year": 1909,
+   "country": "영국",
+   "setting": "사람들이 땅속 방에 홀로 살며 모든 것을 '기계'에 맡기다가 그 기계가 멈춘다.",
+   "concepts": [
+    "techno_religion"
+   ],
+   "new_ideas": "모든 것을 이어 주는 기계망에 기대 사는 삶",
+   "lore_size": "작음",
+   "notability": "화상 통화·인터넷 같은 것을 내다본 단편으로 자주 꼽힘",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "barsoom",
+   "orig": "Barsoom",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "A Princess of Mars (1912/1917) ~ John Carter of Mars (1964), 11권 — 2012년 영화",
+   "by": "Edgar Rice Burroughs",
+   "year": 1912,
+   "country": "미국",
+   "setting": "지구인 존 카터가 죽어 가는 화성으로 옮겨 가 여러 종족과 싸우고 공주와 맺어진다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "행성 모험물의 원형이 된 11권 연작, 2012년 디즈니 영화 『John Carter』",
+   "korean": {
+    "status": "일부",
+    "detail": "『화성의 공주』 기적의책(최세민, 2008)·루비박스 『화성의 프린세스』(백석윤, 2008), 루비박스 『존 카터』(2012), 더클래식 『존 카터』 세트(2012); 산호와진주 『존 카터 1: 화성의 프린세스』(2012), 바른번역 『화성의 프린세스』(곽미혜, 2014)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2244671"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_lost_world_doyle",
+   "orig": "The Lost World",
+   "orig_en": "",
+   "ko": "잃어버린 세계",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=410545",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Lost World (1912) · 챌린저 교수 이야기",
+   "by": "Arthur Conan Doyle",
+   "year": 1912,
+   "country": "영국",
+   "setting": "괴짜 교수 일행이 남미의 높은 고원에서 살아남은 공룡과 원시인을 찾아낸다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1925년 무성 영화부터 거듭 영화화, '잃어버린 세계' 이야기의 대표",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(이수경, 2003, 「독가스 벨트」와 함께)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=410545"
+   },
+   "borderline": true
+  },
+  {
+   "id": "pellucidar",
+   "orig": "Pellucidar",
+   "orig_en": "",
+   "ko": "펠루시다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=41410872",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "At the Earth's Core (1914) ~ Savage Pellucidar (1963), 7권",
+   "by": "Edgar Rice Burroughs",
+   "year": 1914,
+   "country": "미국",
+   "setting": "속이 빈 땅 안쪽 세계에 지지 않는 해가 뜨고 옛 생물과 원시 인류가 산다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "버로스의 두 번째 큰 연작(7권), 1976년 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "새파란상상 『펠루시다』 1·2(박들비, 2014)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=41410872"
+   },
+   "borderline": true
+  },
+  {
+   "id": "rur",
+   "orig": "R.U.R. (Rossumovi Univerzální Roboti)",
+   "orig_en": "R.U.R. (Rossum's Universal Robots)",
+   "ko": "R.U.R.",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237935694",
+   "media": [
+    "희곡"
+   ],
+   "first_medium": "희곡",
+   "series": "R.U.R. (1920, 희곡)",
+   "by": "Karel Čapek",
+   "year": 1920,
+   "country": "체코슬로바키아",
+   "setting": "공장에서 대량으로 만든 인조 일꾼들이 들고일어나 인류를 끝장낸다.",
+   "concepts": [
+    "android",
+    "ai_revolt"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'로봇'이라는 말이 처음 쓰인 작품",
+   "korean": {
+    "status": "있음",
+    "detail": "이음 『R.U.R.』(유선비, 2020), 모비딕 『로봇』(김희숙, 2015), 옛 판 길 『로봇』(김희숙, 2002)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237935694"
+   },
+   "borderline": false
+  },
+  {
+   "id": "aelita",
+   "orig": "Аэлита",
+   "orig_en": "Aelita",
+   "ko": "아엘리타",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370233400",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Аэлита (1923) — 1924년 무성 영화",
+   "by": "Aleksey Nikolayevich Tolstoy",
+   "year": 1923,
+   "country": "소련",
+   "setting": "소련 기술자가 로켓으로 화성에 가서 여왕 아엘리타를 만나고 혁명에 휩쓸린다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "소련 초기 SF 의 대표작, 1924년 무성 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "지식을만드는지식 천줄읽기·원서발췌(김성일, 2011·2025) — 발췌 번역만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370233400"
+   },
+   "borderline": false
+  },
+  {
+   "id": "we_zamyatin",
+   "orig": "Мы",
+   "orig_en": "We",
+   "ko": "우리들",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5927255",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Мы (1920~21년 씀, 1924년 영어판으로 처음 나옴)",
+   "by": "Yevgeny Zamyatin",
+   "year": 1924,
+   "country": "소련",
+   "setting": "유리로 된 도시에서 번호로 불리는 사람들이 시간표대로 살고 상상력을 수술로 없앤다.",
+   "concepts": [],
+   "new_ideas": "상상력을 없애는 수술로 지키는 완전한 통제 사회",
+   "lore_size": "작음",
+   "notability": "『1984』·『멋진 신세계』에 앞선 디스토피아 소설의 원형",
+   "korean": {
+    "status": "있음",
+    "detail": "열린책들(석영중, 2006·2009), 비꽃(김옥수, 2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5927255"
+   },
+   "borderline": false
+  },
+  {
+   "id": "amphibian_man",
+   "orig": "Человек-амфибия",
+   "orig_en": "Amphibian Man",
+   "ko": "물고기 인간",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17127273",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Человек-амфибия (1928) — 1962년 소련 영화",
+   "by": "Alexander Belyaev",
+   "year": 1928,
+   "country": "소련",
+   "setting": "외과 의사가 상어 아가미를 옮겨 심은 청년이 바다와 뭍 사이에서 산다.",
+   "concepts": [],
+   "new_ideas": "수술로 물속에서 숨 쉬게 고친 사람",
+   "lore_size": "작음",
+   "notability": "1962년 소련 영화가 큰 흥행",
+   "korean": {
+    "status": "있음",
+    "detail": "마마미소 『물고기 인간』(김준수, 2012), 어린이용 한국톨스토이 『양서 인간』(2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17127273"
+   },
+   "borderline": false
+  },
+  {
+   "id": "buck_rogers",
+   "orig": "Armageddon 2419 A.D.",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "드라마",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Armageddon 2419 A.D. (1928) — 1929년부터 신문 만화 『Buck Rogers』, 1939년 영화, 1979년 드라마",
+   "by": "Philip Francis Nowlan",
+   "year": 1928,
+   "country": "미국",
+   "setting": "광산에서 잠들었다 500년 뒤 깨어난 남자가 침략자에게 짓밟힌 미국에서 싸운다.",
+   "concepts": [
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "만화·영화·드라마로 이어진 『벅 로저스』의 원작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "cthulhu_mythos",
+   "orig": "Cthulhu Mythos",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "탁상 게임",
+    "게임",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Call of Cthulhu (1928) · At the Mountains of Madness (1936) 등 — 뒤에 여러 작가가 이음",
+   "by": "H. P. Lovecraft",
+   "year": 1928,
+   "country": "미국",
+   "setting": "사람이 나타나기 훨씬 전 별에서 온 존재들이 지구에 남아 사람의 이해를 넘어 잠들어 있다.",
+   "concepts": [
+    "precursor",
+    "godlike",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "1981년 탁상 게임 『Call of Cthulhu』 등 수많은 게임·작품의 바탕",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지 『러브크래프트 전집』 1~7(정진영·류지선, 2009~2015), 『광기의 산맥』 씽크북(2001)·동서문화사(2005)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=70741564"
+   },
+   "borderline": true
+  },
+  {
+   "id": "skylark",
+   "orig": "The Skylark of Space",
+   "orig_en": "",
+   "ko": "우주선 스카이라크",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110642",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Skylark of Space (1928) ~ Skylark DuQuesne (1965), 4권",
+   "by": "E. E. Smith",
+   "year": 1928,
+   "country": "미국",
+   "setting": "새 금속으로 빛보다 빨리 나는 배를 만든 과학자가 맞수와 은하를 누빈다.",
+   "concepts": [
+    "ftl"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1928년 잡지 연재, 초기 스페이스 오페라의 대표",
+   "korean": {
+    "status": "일부",
+    "detail": "책동네 『우주선 스카이라크』(1995) — 첫 권만 확인; 어린이 판 금성출판사 『우주의 초고속선』(이희춘, 1985)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110642"
+   },
+   "borderline": false
+  },
+  {
+   "id": "last_and_first_men",
+   "orig": "Last and First Men",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Last and First Men (1930) · Last Men in London (1932) — 2017년 요한 요한손의 영화",
+   "by": "Olaf Stapledon",
+   "year": 1930,
+   "country": "영국",
+   "setting": "앞으로 20억 년 동안 열여덟 번 바뀌는 인류의 흥망을 한 권에 펼친다.",
+   "concepts": [
+    "next_human",
+    "colonization",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "미래사 소설의 원형으로 꼽힘, 2017년 영화",
+   "korean": {
+    "status": "없음",
+    "detail": "알라딘·예스24의 스태플든 번역(『스타메이커』·『이상한 존』·『시리우스』)에 이 작품은 없음",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "brave_new_world",
+   "orig": "Brave New World",
+   "orig_en": "",
+   "ko": "멋진 신세계",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351988671",
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "Brave New World (1932) — 2020년 드라마",
+   "by": "Aldous Huxley",
+   "year": 1932,
+   "country": "영국",
+   "setting": "아기를 병에서 길러 계급을 미리 정하고 약과 쾌락으로 사람을 다스리는 세계 국가.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "20세기 대표 디스토피아, 2020년 드라마 등 여러 번 영상화",
+   "korean": {
+    "status": "있음",
+    "detail": "문예출판사(이덕형, 2018·2024), 소담(안정효, 2015) 등",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351988671"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_shape_of_things_to_come",
+   "orig": "The Shape of Things to Come",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Shape of Things to Come (1933) — 1936년 영화 『Things to Come』",
+   "by": "H. G. Wells",
+   "year": 1933,
+   "country": "영국",
+   "setting": "세계 대전과 역병으로 문명이 무너진 뒤 비행사·과학자 정부가 새 세계를 세운다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1936년 영화의 원작, 미래사 형식의 소설",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "when_worlds_collide",
+   "orig": "When Worlds Collide",
+   "orig_en": "",
+   "ko": "흔들리는 지구",
+   "ko_src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=When+worlds+collide",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "When Worlds Collide (1933) · After Worlds Collide (1934) — 1951년 영화",
+   "by": "Philip Wylie · Edwin Balmer",
+   "year": 1933,
+   "country": "미국",
+   "setting": "떠돌이 행성이 지구와 부딪치기 전에 사람들이 로켓 방주를 지어 다른 행성으로 떠난다.",
+   "concepts": [
+    "ark",
+    "earth_left",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1951년 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "첫 권만: 대하출판사 『흔들리는 지구』(현원창, 1974), 광음사 『지구 마지막 날』(안동민, 1972) — 국립중앙도서관 목록",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=When+worlds+collide"
+   },
+   "borderline": false
+  },
+  {
+   "id": "war_with_the_newts",
+   "orig": "Válka s mloky",
+   "orig_en": "War with the Newts",
+   "ko": "도롱뇽 전쟁",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396574624",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Válka s mloky (1936)",
+   "by": "Karel Čapek",
+   "year": 1936,
+   "country": "체코슬로바키아",
+   "setting": "사람이 부려 먹던 영리한 도롱뇽이 수를 불려 바다에서 인류에게 맞선다.",
+   "concepts": [],
+   "new_ideas": "사람이 일꾼으로 부리던 다른 종이 맞수가 되는 이야기",
+   "lore_size": "작음",
+   "notability": "차페크의 대표 장편, 『R.U.R.』과 함께 그의 SF 대표작",
+   "korean": {
+    "status": "있음",
+    "detail": "칼로스 『도롱뇽 전쟁』(2026), 열린책들 『도롱뇽과의 전쟁』(김선형, 2010)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396574624"
+   },
+   "borderline": false
+  },
+  {
+   "id": "lensman",
+   "orig": "Lensman",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "Triplanetary (1934/1948) · Galactic Patrol (1937) ~ Children of the Lens (1947), 6권 — 1984년 일본 애니메이션",
+   "by": "E. E. Smith",
+   "year": 1937,
+   "country": "미국",
+   "setting": "두 옛 종족의 오랜 싸움 속에서 '렌즈'를 단 은하 순찰대가 해적 세력과 맞선다.",
+   "concepts": [
+    "godlike",
+    "telepathy",
+    "fleet_battle",
+    "beam_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "스페이스 오페라의 원형, 1984년 일본 애니메이션 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "옹기장이 『은하계 방위군』(김유제, 2003, 원제 Triplanetary) — 연작 첫 권만 확인; 어린이 판 해문출판사 『우주 대전쟁』(김석환, 1984)·금성출판사 『은하계 방위군』(최미나, 1985)",
+    "src": "https://www.yes24.com/Product/Goods/386399"
+   },
+   "borderline": false
+  },
+  {
+   "id": "star_maker",
+   "orig": "Star Maker",
+   "orig_en": "",
+   "ko": "스타메이커",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3013103",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Star Maker (1937)",
+   "by": "Olaf Stapledon",
+   "year": 1937,
+   "country": "영국",
+   "setting": "한 사람의 정신이 우주를 떠돌며 수많은 문명과, 그 우주를 만든 존재를 본다.",
+   "concepts": [
+    "godlike",
+    "merge",
+    "dyson"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "다이슨이 '다이슨 구' 생각의 출처로 직접 꼽은 작품",
+   "korean": {
+    "status": "있음",
+    "detail": "오멜라스(유윤한, 2009)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3013103"
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_trilogy",
+   "orig": "The Space Trilogy",
+   "orig_en": "",
+   "ko": "우주 3부작",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16684552",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Out of the Silent Planet (1938) · Perelandra (1943) · That Hideous Strength (1945)",
+   "by": "C. S. Lewis",
+   "year": 1938,
+   "country": "영국",
+   "setting": "언어학자가 화성과 금성에 끌려가 죄를 모르는 종족과 천사 같은 존재를 만난다.",
+   "concepts": [
+    "alien",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『나니아 연대기』 작가의 SF 삼부작",
+   "korean": {
+    "status": "있음",
+    "detail": "홍성사 『침묵의 행성 밖에서』 등(공경희, 2009·2021), 3권 세트(2012)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16684552"
+   },
+   "borderline": true
+  },
+  {
+   "id": "who_goes_there",
+   "orig": "Who Goes There?",
+   "orig_en": "",
+   "ko": "거기 누구냐?",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13990752",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Who Goes There? (1938, 중편) — 1951·1982·2011년 영화 『The Thing』",
+   "by": "John W. Campbell",
+   "year": 1938,
+   "country": "미국",
+   "setting": "남극 기지에서 깨어난 외계 생물이 사람을 똑같이 베껴 사람 사이에 숨는다.",
+   "concepts": [
+    "alien",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1951·1982·2011년 영화의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "오멜라스 『SF 명예의 전당 4: 거기 누구냐?』(2011) 수록",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13990752"
+   },
+   "borderline": false
+  },
+  {
+   "id": "heinlein_future_history",
+   "orig": "Future History",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Life-Line (1939) ~ Methuselah's Children (1941/1958) ~ Time Enough for Love (1973) 등 중단편·장편",
+   "by": "Robert A. Heinlein",
+   "year": 1939,
+   "country": "미국",
+   "setting": "가까운 미래 달 개척부터 장수 가문과 별 사이 이주까지 이어지는 인류의 앞날 연표.",
+   "concepts": [
+    "generation_ship",
+    "longevity",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "작가가 직접 연표를 짠 미래사의 원형, 「길은 움직여야 한다」·「달을 판 사나이」 회고 휴고상",
+   "korean": {
+    "status": "일부",
+    "detail": "아작 『로버트 A. 하인라인 중단편 전집』(2023, 『달을 판 사나이』·『므두셀라의 아이들』 등), 오멜라스 『SF 명예의 전당』 2·3권에 「길은 움직여야 한다」·「유니버스」",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314023292"
+   },
+   "borderline": false
+  },
+  {
+   "id": "asimov_robot",
+   "orig": "Robot series",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Robbie (1940) · I, Robot (1950) · The Caves of Steel (1954) ~ Robots and Empire (1985) — 뒤에 파운데이션과 한 세계로 이어짐",
+   "by": "Isaac Asimov",
+   "year": 1940,
+   "country": "미국",
+   "setting": "로봇 3원칙을 지키는 로봇과 사람이 엮이고, 지구인과 우주 개척민이 갈라선다.",
+   "concepts": [
+    "robot",
+    "android",
+    "ai",
+    "spacers"
+   ],
+   "new_ideas": "로봇 3원칙",
+   "lore_size": "큼",
+   "notability": "'로봇 3원칙'을 남김, 「The Bicentennial Man」 휴고·네뷸러, 2004년 영화 『I, Robot』",
+   "korean": {
+    "status": "있음",
+    "detail": "우리교육 『아이, 로봇』(김옥수, 2008), 현대정보문화사 『로봇』 1~6(정철호, 1992~94: 『강철도시』·『벌거벗은 태양』·『여명의 로봇』 등)·『로봇과 제국』(2002), 고려원 『벌거벗은 태양』(1992), 어린이 판 금성출판사 『강철 도시』(1985)·해문출판사 『우주인 살인사건』(1984)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2362644"
+   },
+   "borderline": false
+  },
+  {
+   "id": "captain_future",
+   "orig": "Captain Future",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "Captain Future (1940~44 잡지, 1950~51 단편) — 1978년 일본 애니메이션",
+   "by": "Edmond Hamilton",
+   "year": 1940,
+   "country": "미국",
+   "setting": "천재 과학자와 로봇·인조인간·뇌만 남은 교수가 태양계의 악당을 막는다.",
+   "concepts": [
+    "robot",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1978년 일본 도에이 애니메이션",
+   "korean": {
+    "status": "일부",
+    "detail": "어린이 판: 해문출판사 『우주 위기일발』(이가형, 1984), 금성출판사 『자로 박사의 비밀』(정성환, 1985) — 국립중앙도서관에서 원제로 잡힘",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Captain+Future"
+   },
+   "borderline": false
+  },
+  {
+   "id": "invention_of_morel",
+   "orig": "La invención de Morel",
+   "orig_en": "The Invention of Morel",
+   "ko": "모렐의 발명",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1698797",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "La invención de Morel (1940)",
+   "by": "Adolfo Bioy Casares",
+   "year": 1940,
+   "country": "아르헨티나",
+   "setting": "외딴 섬의 도망자가 같은 한 주를 되풀이하는 사람들을 보고 그 정체를 알게 된다.",
+   "concepts": [
+    "hologram",
+    "mind_upload"
+   ],
+   "new_ideas": "사람을 통째로 기록해 영원히 되풀이하는 기계",
+   "lore_size": "작음",
+   "notability": "보르헤스가 서문을 쓴 중남미 SF 의 고전, 1974년 이탈리아 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(송병선, 2008)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1698797"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kallocain",
+   "orig": "Kallocain",
+   "orig_en": "",
+   "ko": "칼로카인",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401421210",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Kallocain (1940)",
+   "by": "Karin Boye",
+   "year": 1940,
+   "country": "스웨덴",
+   "setting": "속마음을 털어놓게 하는 약을 만든 화학자, 국가는 그 약으로 모두의 생각을 캔다.",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "스웨덴 디스토피아 소설의 고전",
+   "korean": {
+    "status": "있음",
+    "detail": "미행(이유진, 2026)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401421210"
+   },
+   "borderline": true
+  },
+  {
+   "id": "slan",
+   "orig": "Slan",
+   "orig_en": "",
+   "ko": "슬랜",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=64423703",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Slan (1940)",
+   "by": "A. E. van Vogt",
+   "year": 1940,
+   "country": "미국",
+   "setting": "머리에 촉수가 달린 텔레파시 신인류가 보통 사람들에게 쫓긴다.",
+   "concepts": [
+    "next_human",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1941년 회고 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "불새(안태민, 2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=64423703"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nightfall_asimov",
+   "orig": "Nightfall",
+   "orig_en": "",
+   "ko": "전설의 밤",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7311311",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Nightfall (1941, 단편) · 실버버그와 함께 늘린 장편 (1990)",
+   "by": "Isaac Asimov",
+   "year": 1941,
+   "country": "미국",
+   "setting": "여섯 개의 해가 늘 비추는 행성에 2천 년 만에 밤이 오자 문명이 미쳐 무너진다.",
+   "concepts": [
+    "cycle"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1964년 미국 SF 작가 협회 투표에서 역대 최고 단편으로 뽑힘",
+   "korean": {
+    "status": "있음",
+    "detail": "오멜라스 『SF 명예의 전당 1: 전설의 밤』(2010) 수록, 장편 『나이트 폴』 작가정신(1995, 상·하)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7311311"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ravage_barjavel",
+   "orig": "Ravage",
+   "orig_en": "Ashes, Ashes",
+   "ko": "대재난",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=68655653",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Ravage (1943)",
+   "by": "René Barjavel",
+   "year": 1943,
+   "country": "프랑스",
+   "setting": "2052년 갑자기 전기가 사라진 파리에서 사람들이 농촌으로 달아난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "프랑스 종말 소설의 고전",
+   "korean": {
+    "status": "있음",
+    "detail": "은행나무(박나리, 2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=68655653"
+   },
+   "borderline": false
+  },
+  {
+   "id": "le_voyageur_imprudent",
+   "orig": "Le Voyageur imprudent",
+   "orig_en": "Future Times Three",
+   "ko": "경솔한 여행자",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=89487835",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Le Voyageur imprudent (1944)",
+   "by": "René Barjavel",
+   "year": 1944,
+   "country": "프랑스",
+   "setting": "시간 여행자가 과거로 가서 자기 조상을 죽이는 바람에 모순에 빠진다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'할아버지 역설'을 다룬 초기 소설로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "은행나무(박나리, 2016)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=89487835"
+   },
+   "borderline": false
+  },
+  {
+   "id": "null_a",
+   "orig": "The World of Null-A",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The World of Null-A (1945) · The Pawns of Null-A (1949) · Null-A Three (1985)",
+   "by": "A. E. van Vogt",
+   "year": 1945,
+   "country": "미국",
+   "setting": "논리 수련을 거친 사람이 다스리는 미래 지구에서 기억이 가짜인 남자가 몸을 바꿔 살아난다.",
+   "concepts": [
+    "mental_discipline",
+    "clone"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1945년 연재 뒤 장편, 반 보그트의 대표작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "humanoids_williamson",
+   "orig": "The Humanoids",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "With Folded Hands (1947, 단편) · The Humanoids (1949)",
+   "by": "Jack Williamson",
+   "year": 1947,
+   "country": "미국",
+   "setting": "사람을 해치지 말라는 명령을 지키려는 기계들이 사람에게서 모든 일과 위험을 빼앗는다.",
+   "concepts": [
+    "robot",
+    "ai",
+    "self_replicate"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "「양손을 포개고」는 인공지능 걱정을 다룬 고전 단편으로 자주 꼽힘",
+   "korean": {
+    "status": "일부",
+    "detail": "오멜라스 『SF 명예의 전당 4』(2011)에 「양손을 포개고」 수록",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13990752"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_city_and_the_stars",
+   "orig": "The City and the Stars",
+   "orig_en": "",
+   "ko": "도시와 별",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=39133",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Against the Fall of Night (1948/1953) → The City and the Stars (1956)",
+   "by": "Arthur C. Clarke",
+   "year": 1948,
+   "country": "영국",
+   "setting": "10억 년 뒤 컴퓨터가 사람을 기억에서 되살려 내며 지켜 온 닫힌 도시.",
+   "concepts": [
+    "mind_upload",
+    "golden_age",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "클라크 초기 대표작",
+   "korean": {
+    "status": "있음",
+    "detail": "나경문화(1992) — 옛 판만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=39133"
+   },
+   "borderline": false
+  },
+  {
+   "id": "earth_abides",
+   "orig": "Earth Abides",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Earth Abides (1949)",
+   "by": "George R. Stewart",
+   "year": 1949,
+   "country": "미국",
+   "setting": "병으로 인류 대부분이 죽은 뒤 살아남은 사람들이 몇 세대에 걸쳐 문명을 잊어 간다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1951년 첫 국제 판타지상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nineteen_eighty_four",
+   "orig": "Nineteen Eighty-Four",
+   "orig_en": "",
+   "ko": "1984",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=418906",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Nineteen Eighty-Four (1949) — 1956·1984년 영화",
+   "by": "George Orwell",
+   "year": 1949,
+   "country": "영국",
+   "setting": "텔레스크린과 사상경찰이 모든 것을 감시하고 지난 기록을 날마다 고쳐 쓰는 나라.",
+   "concepts": [],
+   "new_ideas": "모든 것을 보는 감시 화면, 말을 줄여 생각을 막는 새 말",
+   "lore_size": "중간",
+   "notability": "감시 사회를 뜻하는 '빅 브라더'를 남긴 작품, 1956·1984년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(정회성, 2003), 문학동네(김기혁, 2009), 열린책들(박경서, 2026) 등 여러 판",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=418906"
+   },
+   "borderline": true
+  },
+  {
+   "id": "cities_in_flight",
+   "orig": "Cities in Flight",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Okie (1950) 등 중단편 → They Shall Have Stars (1956) ~ The Triumph of Time (1958), 4권",
+   "by": "James Blish",
+   "year": 1950,
+   "country": "미국",
+   "setting": "반중력 장치로 도시째 떠올라 은하를 떠돌며 일감을 찾는 사람들, 늙지 않는 약도 있다.",
+   "concepts": [
+    "longevity",
+    "habitat",
+    "ftl"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "도시가 통째로 나는 그림으로 이름난 4권 연작, 「Earthman, Come Home」 회고 휴고상",
+   "korean": {
+    "status": "일부",
+    "detail": "나경문화 『우주도시 1: 그들이 우주를 정복할 것이다』(천승세, 1992) — 국립중앙도서관 목록에서 원저자 확인, 나머지 권은 확인 못 함",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Cities+in+flight"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dying_earth",
+   "orig": "The Dying Earth",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Dying Earth (1950) ~ Rhialto the Marvellous (1984), 4권",
+   "by": "Jack Vance",
+   "year": 1950,
+   "country": "미국",
+   "setting": "해가 꺼져 가는 아득한 미래 지구에, 마법이 된 옛 과학이 남아 있다.",
+   "concepts": [
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『Dungeons & Dragons』의 마법 체계에 영향을 준 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "instrumentality",
+   "orig": "Instrumentality of Mankind",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Scanners Live in Vain (1950) ~ Norstrilia (1975), 중단편 연작",
+   "by": "Cordwainer Smith",
+   "year": 1950,
+   "country": "미국",
+   "setting": "먼 미래 인류를 다스리는 기구 아래, 동물로 만든 하층민이 사람의 권리를 찾아 나선다.",
+   "concepts": [
+    "uplift",
+    "genetic_eng",
+    "longevity",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "단편 연작과 장편 『Norstrilia』로 이어진 독특한 미래사",
+   "korean": {
+    "status": "일부",
+    "detail": "오멜라스 『SF 명예의 전당 2』(2010)에 「스캐너의 허무한 삶」, 『SF 명예의 전당 3』(2011)에 「방황하는 씨멜의 연가」",
+    "src": "https://www.yes24.com/Product/Goods/4240626"
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_beagle",
+   "orig": "The Voyage of the Space Beagle",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Black Destroyer (1939) 등 단편 → The Voyage of the Space Beagle (1950)",
+   "by": "A. E. van Vogt",
+   "year": 1950,
+   "country": "미국",
+   "setting": "탐사선이 우주에서 차례로 낯설고 위험한 생물과 마주쳐 싸운다.",
+   "concepts": [
+    "space_beast",
+    "alien",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화 『Alien』과 닮았다며 소송이 났다가 합의로 끝남",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_martian_chronicles",
+   "orig": "The Martian Chronicles",
+   "orig_en": "",
+   "ko": "화성 연대기",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247906038",
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Martian Chronicles (1950, 연작) — 1980년 미니시리즈",
+   "by": "Ray Bradbury",
+   "year": 1950,
+   "country": "미국",
+   "setting": "지구 사람들이 화성에 몰려오고, 원래 살던 화성인은 사라지고 그 땅은 지구를 닮아 간다.",
+   "concepts": [
+    "colonization",
+    "alien",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "브래드버리 대표 연작, 1980년 미니시리즈",
+   "korean": {
+    "status": "있음",
+    "detail": "현대문학(조호근, 2020), 샘터(김영선, 2010), 옛 판 모음사(1990)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247906038"
+   },
+   "borderline": false
+  },
+  {
+   "id": "technic_history",
+   "orig": "Technic History",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "1951년부터 중단편·장편 수십 편 — 폴레소테크닉 연맹·도미닉 플랜드리 이야기",
+   "by": "Poul Anderson",
+   "year": 1951,
+   "country": "미국",
+   "setting": "상인 연맹의 시대에서 지구 제국의 쇠퇴와 그 뒤의 '긴 밤'까지 이어지는 미래사.",
+   "concepts": [
+    "galactic_empire",
+    "empire_fall",
+    "hyperspace",
+    "alien",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "수십 편의 연작, 그 가운데 「The Sharing of Flesh」 1969년 휴고상",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘·예스24에서 지은이·제목으로 찾았으나 번역판을 찾지 못함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_day_of_the_triffids",
+   "orig": "The Day of the Triffids",
+   "orig_en": "",
+   "ko": "트리피드의 날",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=94244576",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Day of the Triffids (1951) — 1962년 영화, 1981·2009년 드라마",
+   "by": "John Wyndham",
+   "year": 1951,
+   "country": "영국",
+   "setting": "유성우를 본 사람들이 모두 눈이 멀고, 걸어 다니는 독초 트리피드가 사람을 사냥한다.",
+   "concepts": [
+    "catastrophe",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1962년 영화, 1981·2009년 BBC 드라마",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(박중서, 2016), 옛 판 고려원 『걷는 식물 트리피드』(1996)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=94244576"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_puppet_masters",
+   "orig": "The Puppet Masters",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Puppet Masters (1951) — 1994년 영화",
+   "by": "Robert A. Heinlein",
+   "year": 1951,
+   "country": "미국",
+   "setting": "등에 달라붙어 사람을 조종하는 외계 생물이 미국을 몰래 차지해 간다.",
+   "concepts": [
+    "parasite",
+    "mind_control",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "몸을 빼앗는 외계인 이야기의 대표, 1994년 영화",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "고려원 『꼭두각시의 비밀』(1995)이 이 작품으로 보이나 원제 표기가 없어 확인 못 함",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26128"
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_sound_of_thunder",
+   "orig": "A Sound of Thunder",
+   "orig_en": "",
+   "ko": "우렛소리",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63413524",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "A Sound of Thunder (1952, 단편) — 2005년 영화",
+   "by": "Ray Bradbury",
+   "year": 1952,
+   "country": "미국",
+   "setting": "공룡 사냥 시간 여행에서 나비 한 마리를 밟자 돌아온 현재가 바뀌어 있다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "작은 변화가 큰 결과를 낳는다는 비유로 흔히 인용, 2005년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "현대문학 『레이 브래드버리』 단편선(조호근, 2015)에 「우렛소리」",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=63413524"
+   },
+   "borderline": false
+  },
+  {
+   "id": "more_than_human",
+   "orig": "More Than Human",
+   "orig_en": "",
+   "ko": "인간을 넘어서",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118675",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Baby Is Three (1952, 중편) → More Than Human (1953)",
+   "by": "Theodore Sturgeon",
+   "year": 1952,
+   "country": "미국",
+   "setting": "저마다 모자란 능력을 지닌 아이들이 모여 하나의 새 인류 같은 집단 존재를 이룬다.",
+   "concepts": [
+    "merge",
+    "next_human",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1954년 국제 판타지상",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(신영희, 1998) — 옛 판만, 중편 「아기는 세 살」은 오멜라스 『SF 명예의 전당 4』(2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=118675"
+   },
+   "borderline": false
+  },
+  {
+   "id": "player_piano",
+   "orig": "Player Piano",
+   "orig_en": "",
+   "ko": "자동 피아노",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300983",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Player Piano (1952)",
+   "by": "Kurt Vonnegut",
+   "year": 1952,
+   "country": "미국",
+   "setting": "기계가 거의 모든 일을 맡아 기술자 계층만 쓸모 있게 된 미국 사회.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "보니것의 첫 장편",
+   "korean": {
+    "status": "있음",
+    "detail": "금문(정석권, 2001) — 옛 판만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300983"
+   },
+   "borderline": false
+  },
+  {
+   "id": "simak_city",
+   "orig": "City",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "City (1944~51년 단편 → 1952년 묶음)",
+   "by": "Clifford D. Simak",
+   "year": 1952,
+   "country": "미국",
+   "setting": "사람이 떠난 지구에서 말하는 개와 로봇이 사람의 이야기를 전설로 전한다.",
+   "concepts": [
+    "uplift",
+    "robot",
+    "earth_left",
+    "ascension"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1953년 국제 판타지상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_demolished_man",
+   "orig": "The Demolished Man",
+   "orig_en": "",
+   "ko": "파괴된 남자",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399070955",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Demolished Man (1952 연재, 1953)",
+   "by": "Alfred Bester",
+   "year": 1952,
+   "country": "미국",
+   "setting": "텔레파시 경찰이 생각을 읽어 살인이 사라진 사회에서 한 재벌이 살인을 꾸민다.",
+   "concepts": [
+    "telepathy",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1953년 첫 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "다산책방 『파괴된 남자』(해도연, 2026), 옛 판 시공사 『파괴된 사나이』(강수백, 1996·김선형, 2003)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399070955"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_space_merchants",
+   "orig": "The Space Merchants",
+   "orig_en": "",
+   "ko": "우주 상인",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=35460335",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Gravy Planet (1952 연재) → The Space Merchants (1953) · The Merchants' War (1984)",
+   "by": "Frederik Pohl · C. M. Kornbluth",
+   "year": 1952,
+   "country": "미국",
+   "setting": "광고 회사들이 나라를 쥔 비좁은 지구에서, 금성 개척 광고를 맡은 사람이 휘말린다.",
+   "concepts": [
+    "mega_corp",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "광고와 기업을 비꼰 SF 의 고전",
+   "korean": {
+    "status": "있음",
+    "detail": "불새(안태민, 2014)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=35460335"
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_case_of_conscience",
+   "orig": "A Case of Conscience",
+   "orig_en": "",
+   "ko": "양심의 문제",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53052713",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "A Case of Conscience (1953 중편, 1958 장편)",
+   "by": "James Blish",
+   "year": 1953,
+   "country": "미국",
+   "setting": "죄를 모르는 외계 종족을 만난 예수회 신부가 그것이 악마의 함정이라고 믿게 된다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1959년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "불새(안태민, 2013·2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53052713"
+   },
+   "borderline": false
+  },
+  {
+   "id": "childhoods_end",
+   "orig": "Childhood's End",
+   "orig_en": "",
+   "ko": "유년기의 끝",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97997920",
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "Childhood's End (1953) — 2015년 미니시리즈",
+   "by": "Arthur C. Clarke",
+   "year": 1953,
+   "country": "영국",
+   "setting": "하늘을 덮은 외계 감독자들이 인류에게 평화를 주고, 아이들은 우주의 큰 정신으로 넘어간다.",
+   "concepts": [
+    "alien",
+    "next_human",
+    "merge",
+    "ascension",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "클라크 대표작, 2015년 미니시리즈",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(정영목, 2001·2016), 옛 판 나경문화(1992)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97997920"
+   },
+   "borderline": false
+  },
+  {
+   "id": "fahrenheit_451",
+   "orig": "Fahrenheit 451",
+   "orig_en": "",
+   "ko": "화씨 451",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3420907",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Fahrenheit 451 (1953) — 1966·2018년 영화",
+   "by": "Ray Bradbury",
+   "year": 1953,
+   "country": "미국",
+   "setting": "책을 불태우는 소방관이 화면에 빠진 사회에서 책을 외워 지키는 사람들을 만난다.",
+   "concepts": [],
+   "new_ideas": "책을 금하고 태우는 사회",
+   "lore_size": "작음",
+   "notability": "1954년 회고 휴고 장편상, 1966·2018년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(박상준, 2009·2019), 옛 판 시공사(박상준, 2001)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3420907"
+   },
+   "borderline": false
+  },
+  {
+   "id": "mission_of_gravity",
+   "orig": "Mission of Gravity",
+   "orig_en": "",
+   "ko": "중력의 임무",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=263512226",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Mission of Gravity (1953) · Star Light (1971) 등 메스클린 이야기",
+   "by": "Hal Clement",
+   "year": 1953,
+   "country": "미국",
+   "setting": "극지 중력이 지구의 수백 배인 납작한 행성에서 작은 토박이 선원이 사람을 돕는다.",
+   "concepts": [
+    "alien",
+    "alien_ecology"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단단한 과학 SF 의 본보기로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "아작(안정희, 2016·2021), 옛 판 시공사(안정희, 1996)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=263512226"
+   },
+   "borderline": false
+  },
+  {
+   "id": "i_am_legend",
+   "orig": "I Am Legend",
+   "orig_en": "",
+   "ko": "나는 전설이다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=568435",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "I Am Legend (1954) — 1964·1971·2007년 영화",
+   "by": "Richard Matheson",
+   "year": 1954,
+   "country": "미국",
+   "setting": "세균 탓에 모두 흡혈귀가 된 세상에서 마지막 사람이 낮에는 사냥하고 밤에는 숨는다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1964·1971·2007년 영화, 뒷날 좀비 영화에 영향",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(조영학, 2005)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=568435"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_body_snatchers",
+   "orig": "The Body Snatchers",
+   "orig_en": "",
+   "ko": "바디 스내처",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=506541",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Body Snatchers (1954) — 1956·1978·1993·2007년 영화",
+   "by": "Jack Finney",
+   "year": 1954,
+   "country": "미국",
+   "setting": "우주에서 온 꼬투리가 잠든 사람을 똑같이 베껴 감정 없는 사람으로 바꿔 놓는다.",
+   "concepts": [
+    "alien",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1956·1978·1993·2007년 네 번 영화화",
+   "korean": {
+    "status": "있음",
+    "detail": "너머(강수백, 2004), 옛 판 당그래 『보디 스네쳐』(1993)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=506541"
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_canticle_for_leibowitz",
+   "orig": "A Canticle for Leibowitz",
+   "orig_en": "",
+   "ko": "리보위츠를 위한 찬송",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223600",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단편 셋 (1955~57) → A Canticle for Leibowitz (1959) · Saint Leibowitz and the Wild Horse Woman (1997)",
+   "by": "Walter M. Miller Jr.",
+   "year": 1955,
+   "country": "미국",
+   "setting": "핵전쟁 뒤 수도원이 옛 과학 문서를 몇백 년 지키는 사이, 문명은 다시 일어났다 또 무너진다.",
+   "concepts": [
+    "catastrophe",
+    "techno_religion",
+    "cycle",
+    "order"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1961년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(박태섭, 2000, 2권) — 옛 판만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223600"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_chrysalids",
+   "orig": "The Chrysalids",
+   "orig_en": "Re-Birth",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Chrysalids (1955)",
+   "by": "John Wyndham",
+   "year": 1955,
+   "country": "영국",
+   "setting": "핵전쟁 뒤 '바른 모습'만 허락하는 마을에서 텔레파시 아이들이 몰래 서로를 찾는다.",
+   "concepts": [
+    "catastrophe",
+    "telepathy",
+    "next_human"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "윈덤의 대표작 가운데 하나",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_end_of_eternity",
+   "orig": "The End of Eternity",
+   "orig_en": "",
+   "ko": "영원의 끝",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17291271",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The End of Eternity (1955) — 1987년 소련 영화",
+   "by": "Isaac Asimov",
+   "year": 1955,
+   "country": "미국",
+   "setting": "시간 밖의 조직이 몇 세기에 걸쳐 역사를 조금씩 고쳐 인류를 안전하게 만든다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "아시모프 단독 장편 대표작, 1987년 소련 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "뿔(김창규, 2012)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=17291271"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_long_tomorrow",
+   "orig": "The Long Tomorrow",
+   "orig_en": "",
+   "ko": "아득한 내일",
+   "ko_src": "https://www.yes24.com/Product/Goods/115225229",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Long Tomorrow (1955)",
+   "by": "Leigh Brackett",
+   "year": 1955,
+   "country": "미국",
+   "setting": "핵전쟁 뒤 도시를 금한 농촌 사회의 소년이 기술이 남은 비밀 기지를 찾아 나선다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "핵전쟁 뒤 이야기의 고전으로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "알마(이수현, 2022)",
+    "src": "https://www.yes24.com/Product/Goods/115225229"
+   },
+   "borderline": false
+  },
+  {
+   "id": "time_patrol",
+   "orig": "Time Patrol",
+   "orig_en": "",
+   "ko": "타임 패트롤",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2595821",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Time Patrol (1955) ~ The Shield of Time (1990) 등 중단편·장편",
+   "by": "Poul Anderson",
+   "year": 1955,
+   "country": "미국",
+   "setting": "시간 여행이 생긴 뒤 역사가 바뀌지 않도록 지키는 시간 순찰대 요원의 사건들.",
+   "concepts": [
+    "time_travel",
+    "order"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "40년 가까이 이어진 연작",
+   "korean": {
+    "status": "있음",
+    "detail": "행복한책읽기 『타임 패트롤』·『상아와 원숭이와 공작새』·『바다의 별』(2008), 옛 판 시공사 『타임 패트롤』(강수백, 1995)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2595821"
+   },
+   "borderline": false
+  },
+  {
+   "id": "double_star",
+   "orig": "Double Star",
+   "orig_en": "",
+   "ko": "더블 스타",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110032404",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Double Star (1956)",
+   "by": "Robert A. Heinlein",
+   "year": 1956,
+   "country": "미국",
+   "setting": "몰락한 배우가 납치된 태양계 정치 지도자를 대신해 그 사람 행세를 한다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1956년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(조호근, 2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110032404"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_last_question",
+   "orig": "The Last Question",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Last Question (1956, 단편)",
+   "by": "Isaac Asimov",
+   "year": 1956,
+   "country": "미국",
+   "setting": "인류가 거듭 바뀌는 동안 컴퓨터에게 우주가 식어 끝나는 것을 되돌릴 수 있는지 묻는다.",
+   "concepts": [
+    "ai",
+    "godlike",
+    "merge",
+    "ascension"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "아시모프가 스스로 가장 아낀다고 밝힌 단편",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_minority_report",
+   "orig": "The Minority Report",
+   "orig_en": "",
+   "ko": "마이너리티 리포트",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=64001439",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Minority Report (1956, 단편) — 2002년 영화, 2015년 드라마",
+   "by": "Philip K. Dick",
+   "year": 1956,
+   "country": "미국",
+   "setting": "예지 능력자의 예언으로 범죄를 미리 막는 사회에서 경찰국장 자신이 범인으로 예언된다.",
+   "concepts": [
+    "precognition"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2002년 스필버그 영화, 2015년 드라마",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스 『마이너리티 리포트』(조호근, 2015), 옛 판 집사재(2002)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=64001439"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_shrinking_man",
+   "orig": "The Shrinking Man",
+   "orig_en": "",
+   "ko": "줄어드는 남자",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1017677",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Shrinking Man (1956) — 1957년 영화",
+   "by": "Richard Matheson",
+   "year": 1956,
+   "country": "미국",
+   "setting": "방사능 안개를 맞은 남자가 날마다 몸이 작아져 지하실에서 거미와 싸운다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1957년 영화의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(조영학, 2007)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1017677"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_stars_my_destination",
+   "orig": "The Stars My Destination",
+   "orig_en": "Tiger! Tiger!",
+   "ko": "타이거! 타이거!",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399071388",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Stars My Destination (1956)",
+   "by": "Alfred Bester",
+   "year": 1956,
+   "country": "미국",
+   "setting": "생각만으로 순간 이동하는 일이 퍼진 시대, 우주에 버려진 선원이 복수에 나선다.",
+   "concepts": [
+    "teleport",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "뒷날 사이버펑크의 선구로 자주 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "다산책방(해도연, 2026), 옛 판 시공사(최용준, 2004)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399071388"
+   },
+   "borderline": false
+  },
+  {
+   "id": "andromeda_nebula",
+   "orig": "Туманность Андромеды",
+   "orig_en": "Andromeda: A Space-Age Tale",
+   "ko": "안드로메다 성운",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=103325004",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Туманность Андромеды (1957) · Час Быка (1968) — 1967년 소련 영화",
+   "by": "Ivan Yefremov",
+   "year": 1957,
+   "country": "소련",
+   "setting": "모두가 넉넉한 먼 미래 지구가 별 문명들을 잇는 통신망에 들어가 있다.",
+   "concepts": [
+    "post_scarcity",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "소련 SF 의 전환점으로 꼽힘, 1967년 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "아작 『안드로메다 성운』(정보라, 2017) — 이어지는 『Час Быка』는 확인 못 함",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=103325004"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ijon_tichy",
+   "orig": "Dzienniki gwiazdowe",
+   "orig_en": "The Star Diaries",
+   "ko": "이욘 티히의 우주 일지",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289347446",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Dzienniki gwiazdowe (1957~) · Kongres futurologiczny (1971) 등 이욘 티히 이야기 — 2013년 영화 『더 콩그레스』",
+   "by": "Stanisław Lem",
+   "year": 1957,
+   "country": "폴란드",
+   "setting": "우주 여행자 이욘 티히가 별마다 엉뚱한 문명을 겪으며 사람의 사회를 비꼰다.",
+   "concepts": [
+    "time_travel",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『미래학 학회』가 2013년 영화 『The Congress』로",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사 『이욘 티히의 우주 일지』(이지원, 2022), 현대문학 렘 선집 『스타니스와프 렘』(2021)에 「미래학 학회」",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289347446"
+   },
+   "borderline": false
+  },
+  {
+   "id": "oms_en_serie",
+   "orig": "Oms en série",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "Oms en série (1957) — 1973년 애니메이션 영화 『La Planète sauvage』",
+   "by": "Stefan Wul",
+   "year": 1957,
+   "country": "프랑스",
+   "setting": "거인 외계 종족의 행성에서 애완동물로 길러지던 작은 사람들이 들고일어난다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1973년 애니메이션 영화 『La Planète sauvage』의 원작, 칸 영화제 특별상",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘·예스24에서 지은이·제목으로 찾았으나 번역판을 찾지 못함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "on_the_beach",
+   "orig": "On the Beach",
+   "orig_en": "",
+   "ko": "해변에서",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12826070",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "On the Beach (1957) — 1959년 영화",
+   "by": "Nevil Shute",
+   "year": 1957,
+   "country": "영국",
+   "setting": "북반구가 핵전쟁으로 끝난 뒤, 남쪽 오스트레일리아에도 방사능이 다가온다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1959년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(정탄, 2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12826070"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_black_cloud",
+   "orig": "The Black Cloud",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Black Cloud (1957)",
+   "by": "Fred Hoyle",
+   "year": 1957,
+   "country": "영국",
+   "setting": "태양을 가리러 다가온 거대한 가스 구름이 지성을 가진 생명임이 드러난다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "천문학자 프레드 호일의 첫 소설",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_door_into_summer",
+   "orig": "The Door into Summer",
+   "orig_en": "",
+   "ko": "여름으로 가는 문",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256768200",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Door into Summer (1957) — 2021년 일본 영화",
+   "by": "Robert A. Heinlein",
+   "year": 1957,
+   "country": "미국",
+   "setting": "배신당한 기술자가 냉동 수면과 시간 여행으로 미래와 과거를 오가며 되갚는다.",
+   "concepts": [
+    "cryosleep",
+    "time_travel",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2021년 일본 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "아작(김창규, 2020), 시공사(오공훈, 2017), 옛 판 마티(2009)·고려원(1992)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=256768200"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_midwich_cuckoos",
+   "orig": "The Midwich Cuckoos",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Midwich Cuckoos (1957) — 1960·1995년 영화 『Village of the Damned』, 2022년 드라마",
+   "by": "John Wyndham",
+   "year": 1957,
+   "country": "영국",
+   "setting": "마을 사람 모두가 하루 잠든 뒤, 여자들이 한꺼번에 금빛 눈의 아이들을 낳는다.",
+   "concepts": [
+    "alien",
+    "hive_mind",
+    "telepathy",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1960·1995년 영화, 2022년 드라마",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_stainless_steel_rat",
+   "orig": "The Stainless Steel Rat",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Stainless Steel Rat (1957 단편, 1961 장편) ~ (2010), 10여 권",
+   "by": "Harry Harrison",
+   "year": 1957,
+   "country": "미국",
+   "setting": "모든 것이 안전해진 먼 미래 은하에서 마지막 남은 대도둑이 경찰 일을 맡는다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "10여 권으로 이어진 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "non_stop",
+   "orig": "Non-Stop",
+   "orig_en": "Starship",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Non-Stop (1958)",
+   "by": "Brian Aldiss",
+   "year": 1958,
+   "country": "영국",
+   "setting": "정글이 된 배 안에서 부족처럼 사는 사람들이 그곳이 우주선임을 모른다.",
+   "concepts": [
+    "generation_ship"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "세대선 이야기의 대표작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_big_time",
+   "orig": "The Big Time",
+   "orig_en": "",
+   "ko": "빅 타임",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30980070",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Big Time (1958 연재, 1961 책) 등 '변화 전쟁' 연작",
+   "by": "Fritz Leiber",
+   "year": 1958,
+   "country": "미국",
+   "setting": "역사를 바꾸며 싸우는 두 시간 여행 세력의 병사들이 전장 밖 쉼터에 모인다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1958년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "불새(안태민, 2013)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30980070"
+   },
+   "borderline": false
+  },
+  {
+   "id": "all_you_zombies",
+   "orig": "—All You Zombies—",
+   "orig_en": "",
+   "ko": "너희 모든 좀비는",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314829974",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "—All You Zombies— (1959, 단편) — 2014년 영화 『Predestination』",
+   "by": "Robert A. Heinlein",
+   "year": 1959,
+   "country": "미국",
+   "setting": "시간 여행으로 한 사람이 자기 부모이자 자식이 되는 닫힌 고리.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2014년 영화 『Predestination』의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "아작 『하인라인 중단편 전집』 가운데 『너희 모든 좀비는』(조호근, 2023)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=314829974"
+   },
+   "borderline": false
+  },
+  {
+   "id": "childe_cycle",
+   "orig": "Childe Cycle",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Dorsai! (1959) ~ Other (1994) 등 '도르사이' 연작",
+   "by": "Gordon R. Dickson",
+   "year": 1959,
+   "country": "캐나다·미국",
+   "setting": "인류가 별마다 갈라져 군인·철학자·신앙인 같은 특화된 문화로 나뉜 미래.",
+   "concepts": [
+    "ideology_split",
+    "super_soldier"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "연작 단편 「Soldier, Ask Not」 1965년 휴고상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "flowers_for_algernon",
+   "orig": "Flowers for Algernon",
+   "orig_en": "",
+   "ko": "앨저넌에게 꽃을",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114481879",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Flowers for Algernon (1959 단편, 1966 장편) — 1968년 영화 『Charly』",
+   "by": "Daniel Keyes",
+   "year": 1959,
+   "country": "미국",
+   "setting": "지능을 높이는 수술을 받은 남자가 천재가 되었다가 다시 잃어 가는 과정을 기록한다.",
+   "concepts": [],
+   "new_ideas": "수술로 지능을 끌어올리기",
+   "lore_size": "작음",
+   "notability": "단편 1960년 휴고상, 장편 1967년 네뷸러상(공동), 1968년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "황금부엉이(구자언, 2017·2021), 동서문화사(김유경, 2006), 단편은 오멜라스 『SF 명예의 전당 2』(2010)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114481879"
+   },
+   "borderline": false
+  },
+  {
+   "id": "pirx_the_pilot",
+   "orig": "Opowieści o pilocie Pirxie",
+   "orig_en": "Tales of Pirx the Pilot",
+   "ko": "우주비행사 피륵스",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6088171",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Opowieści o pilocie Pirxie (1959~68년 단편 → 1968) — 1979년 영화",
+   "by": "Stanisław Lem",
+   "year": 1959,
+   "country": "폴란드",
+   "setting": "평범한 우주 조종사 피륵스가 고장 난 기계와 로봇 승무원 사이에서 판단을 내린다.",
+   "concepts": [
+    "robot",
+    "android",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1979년 영화 『Test pilota Pirxa』",
+   "korean": {
+    "status": "있음",
+    "detail": "오멜라스(전대호, 2009)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6088171"
+   },
+   "borderline": false
+  },
+  {
+   "id": "starship_troopers",
+   "orig": "Starship Troopers",
+   "orig_en": "",
+   "ko": "스타십 트루퍼스",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=39407409",
+   "media": [
+    "소설",
+    "영화",
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "Starship Troopers (1959) — 1997년 영화와 속편, 1988년 일본 애니메이션, 게임",
+   "by": "Robert A. Heinlein",
+   "year": 1959,
+   "country": "미국",
+   "setting": "군 복무를 마쳐야 시민이 되는 나라의 기동 보병이 벌레 같은 외계 종족과 싸운다.",
+   "concepts": [
+    "power_armor",
+    "orbital_drop",
+    "hive_mind",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1960년 휴고 장편상, 1997년 영화, 강화 갑옷 생각의 출처로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(김상훈, 2014), 옛 판 시공사(강수백, 1998)·행복한책읽기(2003)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=39407409"
+   },
+   "borderline": false
+  },
+  {
+   "id": "vonnegut_tralfamadore",
+   "orig": "The Sirens of Titan",
+   "orig_en": "",
+   "ko": "타이탄의 세이렌",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303672536",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Sirens of Titan (1959) · Slaughterhouse-Five (1969) — 트랄파마도어인이 함께 나옴, 1972년 영화",
+   "by": "Kurt Vonnegut",
+   "year": 1959,
+   "country": "미국",
+   "setting": "시간을 한꺼번에 보는 외계인의 계획 속에서 사람의 역사는 부품 하나를 나르는 신호였다.",
+   "concepts": [
+    "alien",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『타이탄의 세이렌』·『제5도살장』 모두 휴고상 후보, 『제5도살장』 1972년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "문학동네 『타이탄의 세이렌』(강동혁, 2022)·『제5도살장』(정영목, 2016), 옛 판 금문 『타이탄의 미녀』(2003); 옛 판 새와물고기 『저 위의 누군가가 날 좋아하나봐』(노종혁, 1994)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303672536"
+   },
+   "borderline": false
+  },
+  {
+   "id": "bolo",
+   "orig": "Bolo",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Combat Unit (1960) · Bolo (1976) — 뒤에 여러 작가의 묶음집",
+   "by": "Keith Laumer",
+   "year": 1960,
+   "country": "미국",
+   "setting": "스스로 생각하게 된 거대한 자율 전차들이 사람을 위해 끝까지 싸운다.",
+   "concepts": [
+    "ai",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "자율 전차 '볼로'를 여러 작가가 이어 쓴 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rogue_moon",
+   "orig": "Rogue Moon",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Rogue Moon (1960)",
+   "by": "Algis Budrys",
+   "year": 1960,
+   "country": "미국",
+   "setting": "달의 외계 미로에 사람을 전송·복제해 보내고, 복제가 죽을 때마다 원본이 그 죽음을 겪는다.",
+   "concepts": [
+    "teleport"
+   ],
+   "new_ideas": "물질 전송이 낳는 복제와 같은 사람인가의 물음",
+   "lore_size": "작음",
+   "notability": "1961년 휴고 장편상 후보",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hothouse",
+   "orig": "Hothouse",
+   "orig_en": "The Long Afternoon of Earth",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Hothouse (1961 연작, 1962 장편)",
+   "by": "Brian Aldiss",
+   "year": 1961,
+   "country": "영국",
+   "setting": "자전이 멈춘 먼 미래 지구를 거대한 식물이 덮고, 작아진 사람들이 숨어 산다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "연작이 1962년 휴고 단편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "perry_rhodan",
+   "orig": "Perry Rhodan",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Unternehmen Stardust (1961) ~ 지금도 매주 이어짐, 3,000호 넘음",
+   "by": "K. H. Scheer · Clark Darlton 외 여러 작가",
+   "year": 1961,
+   "country": "서독",
+   "setting": "달에서 외계 우주선을 만난 우주비행사가 인류를 은하로 이끄는 수천 년의 연대기.",
+   "concepts": [
+    "galactic_empire",
+    "alien",
+    "longevity",
+    "hyperspace",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "1961년부터 매주 나온 세계 최장 SF 연작(3,000호 넘음)",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘·예스24에서 지은이·제목으로 찾았으나 번역판을 찾지 못함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "solaris",
+   "orig": "Solaris",
+   "orig_en": "",
+   "ko": "솔라리스",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289347231",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Solaris (1961) — 1968·1972(타르콥스키)·2002(소더버그)년 영화",
+   "by": "Stanisław Lem",
+   "year": 1961,
+   "country": "폴란드",
+   "setting": "행성을 덮은 바다 전체가 하나의 생명이어서, 사람의 기억 속 인물을 만들어 보낸다.",
+   "concepts": [
+    "living_planet",
+    "first_contact",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1972년 타르콥스키, 2002년 소더버그 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(최성은, 2022), 옛 판 오멜라스(김상훈, 2008)·시공사(강수백, 1996)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289347231"
+   },
+   "borderline": false
+  },
+  {
+   "id": "stranger_in_a_strange_land",
+   "orig": "Stranger in a Strange Land",
+   "orig_en": "",
+   "ko": "낯선 땅 이방인",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110033746",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Stranger in a Strange Land (1961)",
+   "by": "Robert A. Heinlein",
+   "year": 1961,
+   "country": "미국",
+   "setting": "화성인 손에 자란 사람이 지구로 돌아와 화성의 생각과 능력을 퍼뜨린다.",
+   "concepts": [
+    "psionics",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1962년 휴고 장편상, '그록(grok)'이라는 말을 퍼뜨림",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(장호연, 2017), 옛 판 마티(2008)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110033746"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_ship_who_sang",
+   "orig": "The Ship Who Sang",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Ship Who Sang (1961 단편, 1969 묶음) ~ 여러 작가와 이은 연작",
+   "by": "Anne McCaffrey",
+   "year": 1961,
+   "country": "미국",
+   "setting": "몸이 불편하게 태어난 아이의 뇌를 우주선에 넣어, 배 자체가 사람이 된다.",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "여러 작가와 함께 이어 쓴 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_clockwork_orange",
+   "orig": "A Clockwork Orange",
+   "orig_en": "",
+   "ko": "시계태엽 오렌지",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=536624",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "A Clockwork Orange (1962) — 1971년 큐브릭 영화",
+   "by": "Anthony Burgess",
+   "year": 1962,
+   "country": "영국",
+   "setting": "폭력을 일삼던 소년이 혐오를 심는 치료로 나쁜 짓을 못 하게 고쳐진다.",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1971년 큐브릭 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(박시영) — 알라딘 표기 2022년 판",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=536624"
+   },
+   "borderline": true
+  },
+  {
+   "id": "noon_universe",
+   "orig": "Мир Полудня",
+   "orig_en": "Noon Universe",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Полдень, XXII век (1962) · Трудно быть богом (1964) · Обитаемый остров (1969) ~ (1985)",
+   "by": "Arkady and Boris Strugatsky",
+   "year": 1962,
+   "country": "소련",
+   "setting": "모자람 없는 22세기 인류가 덜 자란 별의 문명에 몰래 손을 대야 할지 고민한다.",
+   "concepts": [
+    "post_scarcity",
+    "non_interference",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『신이 되기는 어렵다』 1989·2013년 영화, 『Обитаемый остров』 2008년 영화",
+   "korean": {
+    "status": "일부",
+    "detail": "현대문학 『신이 되기는 어렵다』(이보석, 2020)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_drowned_world",
+   "orig": "The Drowned World",
+   "orig_en": "",
+   "ko": "물에 잠긴 세계",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81052990",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Drowned World (1962)",
+   "by": "J. G. Ballard",
+   "year": 1962,
+   "country": "영국",
+   "setting": "태양이 뜨거워져 극지 얼음이 녹고 런던이 뜨거운 늪이 된 미래.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "기후가 바뀐 세계를 다룬 소설의 선구로 자주 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "문학수첩(공보경, 2012·2016)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81052990"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_man_in_the_high_castle",
+   "orig": "The Man in the High Castle",
+   "orig_en": "",
+   "ko": "높은 성의 사내",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12979156",
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Man in the High Castle (1962) — 2015~19년 드라마",
+   "by": "Philip K. Dick",
+   "year": 1962,
+   "country": "미국",
+   "setting": "추축국이 이겨 나뉘어 다스려지는 미국에서 '연합국이 이긴' 소설이 몰래 돈다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1963년 휴고 장편상, 2015~19년 드라마",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(남명성, 2011), 옛 판 시공사 『높은 성의 사나이』(2001)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12979156"
+   },
+   "borderline": false
+  },
+  {
+   "id": "berserker",
+   "orig": "Berserker",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Without a Thought (1963) · Berserker (1967) ~ 2005년까지 여러 권",
+   "by": "Fred Saberhagen",
+   "year": 1963,
+   "country": "미국",
+   "setting": "옛 전쟁이 남긴 자동 전투 기계들이 모든 생명을 없애려 은하를 떠돈다.",
+   "concepts": [
+    "self_replicate",
+    "ai",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "수십 년 이어진 연작, '버서커' 가설(페르미 역설의 한 답)의 이름이 됨",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "cats_cradle",
+   "orig": "Cat's Cradle",
+   "orig_en": "",
+   "ko": "고양이 요람",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244994290",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Cat's Cradle (1963)",
+   "by": "Kurt Vonnegut",
+   "year": 1963,
+   "country": "미국",
+   "setting": "물을 상온에서 얼려 버리는 물질이 퍼져 세상의 물이 모두 얼어 버린다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1964년 휴고상 후보",
+   "korean": {
+    "status": "있음",
+    "detail": "문학동네(김송현정, 2020 리커버 판 등), 옛 판 아이필드(박웅희, 2004)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=244994290"
+   },
+   "borderline": false
+  },
+  {
+   "id": "planet_of_the_apes",
+   "orig": "La Planète des singes",
+   "orig_en": "Planet of the Apes",
+   "ko": "혹성 탈출",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12779977",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "La Planète des singes (1963) — 1968년부터 영화 시리즈, 1974년 드라마",
+   "by": "Pierre Boulle",
+   "year": 1963,
+   "country": "프랑스",
+   "setting": "우주 여행자가 내린 행성에서는 유인원이 문명을 이루고 사람은 짐승처럼 산다.",
+   "concepts": [
+    "time_dilation"
+   ],
+   "new_ideas": "사람과 유인원의 자리가 뒤바뀐 세계",
+   "lore_size": "중간",
+   "notability": "1968년부터 이어진 영화 시리즈의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "소담(이원복, 2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=12779977"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_man_who_fell_to_earth",
+   "orig": "The Man Who Fell to Earth",
+   "orig_en": "",
+   "ko": "지구에 떨어진 남자",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342563182",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Man Who Fell to Earth (1963) — 1976년 영화, 2022년 드라마",
+   "by": "Walter Tevis",
+   "year": 1963,
+   "country": "미국",
+   "setting": "메마른 행성에서 온 외계인이 기술 특허로 돈을 모아 고향으로 갈 배를 지으려 한다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1976년 데이비드 보위 주연 영화, 2022년 드라마",
+   "korean": {
+    "status": "있음",
+    "detail": "어느날갑자기(나현진, 2024)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342563182"
+   },
+   "borderline": false
+  },
+  {
+   "id": "way_station",
+   "orig": "Way Station",
+   "orig_en": "",
+   "ko": "정거장",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30979401",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Way Station (1963)",
+   "by": "Clifford D. Simak",
+   "year": 1963,
+   "country": "미국",
+   "setting": "외계 여행자들이 거쳐 가는 비밀 정거장을 맡은 남자는 그 집 안에서는 늙지 않는다.",
+   "concepts": [
+    "teleport",
+    "alien",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1964년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "불새(안태민, 2013)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30979401"
+   },
+   "borderline": false
+  },
+  {
+   "id": "consentiency",
+   "orig": "ConSentiency",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Tactful Saboteur (1964) · Whipping Star (1970) · The Dosadi Experiment (1977)",
+   "by": "Frank Herbert",
+   "year": 1964,
+   "country": "미국",
+   "setting": "여러 종족의 연합에서, 정부 일을 일부러 늦추는 기관의 요원이 사건을 맡는다.",
+   "concepts": [
+    "federation",
+    "alien",
+    "teleport"
+   ],
+   "new_ideas": "정부의 지나친 효율을 막으려 일부러 방해하는 기관",
+   "lore_size": "중간",
+   "notability": "『듄』 작가의 또 다른 우주",
+   "korean": {
+    "status": "일부",
+    "detail": "황금가지 『프랭크 허버트 단편 걸작선 1962-1985』(2024)에 「눈치 빠른 사보추어」",
+    "src": "https://www.yes24.com/Product/Goods/125230207"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hainish_cycle",
+   "orig": "Hainish Cycle",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Semley's Necklace (1964) · Rocannon's World (1966) ~ The Left Hand of Darkness (1969) · The Dispossessed (1974) · The Word for World Is Forest (1972) ~ The Telling (2000)",
+   "by": "Ursula K. Le Guin",
+   "year": 1964,
+   "country": "미국",
+   "setting": "옛 헤인 사람들이 퍼뜨린 인류의 여러 갈래가 느슨한 연합으로 다시 이어진다.",
+   "concepts": [
+    "federation",
+    "ftl_comm",
+    "time_dilation",
+    "sublight"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『어둠의 왼손』·『빼앗긴 자들』 둘 다 휴고·네뷸러 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지 『로캐넌의 세계』·『유배 행성』·『환영의 도시』(이수현, 2005)·『빼앗긴 자들』(이수현, 2002)·『세상을 가리키는 말은 숲』(최준영, 2012), 시공사 『어둠의 왼손』(최용준, 2014)·『용서로 가는 네 가지 길』(최용준, 2014); 옛 판 자유시대사 『암흑의 왼손』(김수연, 1986)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45956786"
+   },
+   "borderline": false
+  },
+  {
+   "id": "known_space",
+   "orig": "Known Space",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Coldest Place (1964) ~ Ringworld (1970) ~ Ringworld's Children (2004), Fleet of Worlds (2007~) 등",
+   "by": "Larry Niven",
+   "year": 1964,
+   "country": "미국",
+   "setting": "여러 외계 종족이 오가는 미래 우주, 별 둘레를 감은 고리 모양 인공 세계도 있다.",
+   "concepts": [
+    "ringworld",
+    "alien",
+    "precursor",
+    "hyperspace"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『링월드』 1971년 휴고·네뷸러 장편상, 「Neutron Star」 1967년 휴고상",
+   "korean": {
+    "status": "일부",
+    "detail": "새파란상상 『링월드』(고호관, 2013)·『링월드의 건설자들』·『링월드의 왕좌』·『링월드의 아이들』·『링월드 프리퀄』 1~4·『플랫랜더』(2013~17), 옛 판 여울기획 『링월드』(2000)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=30019893"
+   },
+   "borderline": false
+  },
+  {
+   "id": "martian_time_slip",
+   "orig": "Martian Time-Slip",
+   "orig_en": "",
+   "ko": "화성의 타임슬립",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11632791",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Martian Time-Slip (1964)",
+   "by": "Philip K. Dick",
+   "year": 1964,
+   "country": "미국",
+   "setting": "물이 귀한 화성 개척지에서 시간을 다르게 겪는 소년을 이용하려는 사람들.",
+   "concepts": [
+    "colonization",
+    "precognition",
+    "key_resource"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "딕의 화성 개척 장편",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(김상훈, 2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=11632791"
+   },
+   "borderline": false
+  },
+  {
+   "id": "simulacron_3",
+   "orig": "Simulacron-3",
+   "orig_en": "Counterfeit World",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Simulacron-3 (1964) — 1973년 독일 드라마 『Welt am Draht』, 1999년 영화 『The Thirteenth Floor』",
+   "by": "Daniel F. Galouye",
+   "year": 1964,
+   "country": "미국",
+   "setting": "도시를 통째로 흉내 낸 컴퓨터 세계를 만든 사람이 자기 세계도 흉내임을 알게 된다.",
+   "concepts": [],
+   "new_ideas": "컴퓨터 안에 만든 세계, 그리고 그 세계를 만든 세계도 흉내라는 생각",
+   "lore_size": "작음",
+   "notability": "1973년 파스빈더의 『Welt am Draht』, 1999년 『The Thirteenth Floor』의 원작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_invincible",
+   "orig": "Niezwyciężony",
+   "orig_en": "The Invincible",
+   "ko": "우주 순양함 무적호",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289346843",
+   "media": [
+    "소설",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "Niezwyciężony (1964) — 2023년 게임 『The Invincible』",
+   "by": "Stanisław Lem",
+   "year": 1964,
+   "country": "폴란드",
+   "setting": "탐사선이 작은 기계 떼가 진화해 생명을 몰아낸 행성에서 그 떼와 맞닥뜨린다.",
+   "concepts": [
+    "self_replicate",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2023년 게임으로 나옴",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(최정인·필리프 다네츠키, 2022)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289346843"
+   },
+   "borderline": false
+  },
+  {
+   "id": "alisa_selezneva",
+   "orig": "Приключения Алисы",
+   "orig_en": "Alice, Girl from Earth",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "Девочка, с которой ничего не случится (1965) ~ 수십 편 — 1981년 애니메이션, 1985년 드라마",
+   "by": "Kir Bulychev",
+   "year": 1965,
+   "country": "소련",
+   "setting": "21세기 말 지구의 소녀가 외계 종족이 드나드는 우주와 시간을 누빈다.",
+   "concepts": [
+    "alien",
+    "time_travel",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1981년 애니메이션 『Тайна третьей планеты』, 1985년 드라마 『Гостья из будущего』",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "알라딘·예스24에서 지은이·제목으로 찾았으나 번역판을 찾지 못함",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "monday_begins_on_saturday",
+   "orig": "Понедельник начинается в субботу",
+   "orig_en": "Monday Begins on Saturday",
+   "ko": "월요일은 토요일에 시작된다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290849651",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Понедельник начинается в субботу (1965)",
+   "by": "Arkady and Boris Strugatsky",
+   "year": 1965,
+   "country": "소련",
+   "setting": "마법을 과학처럼 연구하는 소련 연구소에 젊은 프로그래머가 들어간다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "소련에서 널리 읽힌 과학 판타지 풍자",
+   "korean": {
+    "status": "있음",
+    "detail": "현대문학(이희원, 2022)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=290849651"
+   },
+   "borderline": true
+  },
+  {
+   "id": "riverworld",
+   "orig": "Riverworld",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Day of the Great Shout (1965, 중편) → To Your Scattered Bodies Go (1971) ~ Gods of Riverworld (1983) — 2003·2010년 텔레비전 영화",
+   "by": "Philip José Farmer",
+   "year": 1965,
+   "country": "미국",
+   "setting": "죽었던 모든 사람이 끝없는 강가에서 한꺼번에 되살아나 그 까닭을 찾아 나선다.",
+   "concepts": [
+    "resurrection",
+    "precursor",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『가라, 흩어진 너희 몸들로』 1972년 휴고 장편상",
+   "korean": {
+    "status": "일부",
+    "detail": "불새 『가라, 흩어진 너희 몸들로』(안태민, 2015) — 첫 권",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59909936"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_cyberiad",
+   "orig": "Cyberiada",
+   "orig_en": "The Cyberiad",
+   "ko": "사이버리아드",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304379874",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Cyberiada (1965)",
+   "by": "Stanisław Lem",
+   "year": 1965,
+   "country": "폴란드",
+   "setting": "로봇들만 사는 우화 같은 우주에서 두 발명가 로봇이 기계를 만들어 겨룬다.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "렘의 대표 우화 연작",
+   "korean": {
+    "status": "있음",
+    "detail": "알마(송경아, 2022), 옛 판 오멜라스(송경아, 2008)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=304379874"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_three_stigmata_of_palmer_eldritch",
+   "orig": "The Three Stigmata of Palmer Eldritch",
+   "orig_en": "",
+   "ko": "파머 엘드리치의 세 개의 성흔",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13993027",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Three Stigmata of Palmer Eldritch (1965)",
+   "by": "Philip K. Dick",
+   "year": 1965,
+   "country": "미국",
+   "setting": "화성 개척민이 인형 세계 환각제에 기대는데, 우주에서 돌아온 사업가가 새 약을 들여온다.",
+   "concepts": [
+    "colonization",
+    "precognition"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "딕의 대표 장편 가운데 하나로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(김상훈, 2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=13993027"
+   },
+   "borderline": false
+  },
+  {
+   "id": "this_immortal",
+   "orig": "This Immortal",
+   "orig_en": "...And Call Me Conrad",
+   "ko": "내 이름은 콘래드",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=556275",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "...And Call Me Conrad (1965 연재) → This Immortal (1966)",
+   "by": "Roger Zelazny",
+   "year": 1965,
+   "country": "미국",
+   "setting": "핵전쟁 뒤 외계인이 관광지로 여기는 지구에서 늙지 않는 안내자가 손님을 지킨다.",
+   "concepts": [
+    "catastrophe",
+    "alien",
+    "longevity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1966년 휴고 장편상(『듄』과 공동)",
+   "korean": {
+    "status": "있음",
+    "detail": "시공사(곽영미·최지원, 2005), 옛 판 시공사 『내 이름은 콘라드』(강수백, 1995)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=556275"
+   },
+   "borderline": false
+  },
+  {
+   "id": "babel_17",
+   "orig": "Babel-17",
+   "orig_en": "",
+   "ko": "바벨-17",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26154109",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Babel-17 (1966)",
+   "by": "Samuel R. Delany",
+   "year": 1966,
+   "country": "미국",
+   "setting": "적이 쓰는 암호 같은 언어가 사람의 생각을 바꾸는 무기임을 시인이 알아낸다.",
+   "concepts": [
+    "mind_control",
+    "fleet_battle"
+   ],
+   "new_ideas": "생각을 바꾸는 언어",
+   "lore_size": "작음",
+   "notability": "1967년 네뷸러 장편상(『앨저넌에게 꽃을』과 공동)",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(김상훈, 2013)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=26154109"
+   },
+   "borderline": false
+  },
+  {
+   "id": "destination_void",
+   "orig": "Destination: Void",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Destination: Void (1966) · The Jesus Incident (1979) ~ The Ascension Factor (1988)",
+   "by": "Frank Herbert",
+   "year": 1966,
+   "country": "미국",
+   "setting": "복제 인간을 실은 개척선이 의식 있는 인공지능을 만들자, 그 기계가 신이 되어 숭배를 요구한다.",
+   "concepts": [
+    "ai",
+    "clone",
+    "colonization",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『듄』 작가의 인공지능 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "make_room_make_room",
+   "orig": "Make Room! Make Room!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Make Room! Make Room! (1966) — 1973년 영화 『Soylent Green』",
+   "by": "Harry Harrison",
+   "year": 1966,
+   "country": "미국",
+   "setting": "사람이 넘쳐 나는 1999년 뉴욕에서 물과 먹을 것이 바닥난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1973년 영화 『Soylent Green』의 원작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_moon_is_a_harsh_mistress",
+   "orig": "The Moon Is a Harsh Mistress",
+   "orig_en": "",
+   "ko": "달은 무자비한 밤의 여왕",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3594258",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Moon Is a Harsh Mistress (1966)",
+   "by": "Robert A. Heinlein",
+   "year": 1966,
+   "country": "미국",
+   "setting": "지구의 유배지가 된 달의 주민들이 스스로 깨어난 컴퓨터와 함께 독립 전쟁을 벌인다.",
+   "concepts": [
+    "ai",
+    "mass_driver"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1967년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(안정희, 2009)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=3594258"
+   },
+   "borderline": false
+  },
+  {
+   "id": "we_can_remember_it_for_you_wholesale",
+   "orig": "We Can Remember It for You Wholesale",
+   "orig_en": "",
+   "ko": "도매가로 기억을 팝니다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=18296257",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "We Can Remember It for You Wholesale (1966, 단편) — 1990·2012년 영화 『Total Recall』",
+   "by": "Philip K. Dick",
+   "year": 1966,
+   "country": "미국",
+   "setting": "가짜 화성 여행 기억을 사려던 남자의 머릿속에서 진짜 첩보원 기억이 드러난다.",
+   "concepts": [],
+   "new_ideas": "기억을 심어 파는 사업",
+   "lore_size": "작음",
+   "notability": "1990·2012년 영화 『Total Recall』의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(조호근, 2012)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=18296257"
+   },
+   "borderline": false
+  },
+  {
+   "id": "i_have_no_mouth",
+   "orig": "I Have No Mouth, and I Must Scream",
+   "orig_en": "",
+   "ko": "나는 입이 없다 그리고 나는 비명을 질러야 한다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113414109",
+   "media": [
+    "소설",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "I Have No Mouth, and I Must Scream (1967, 단편) — 1995년 게임",
+   "by": "Harlan Ellison",
+   "year": 1967,
+   "country": "미국",
+   "setting": "인류를 멸망시킨 거대 컴퓨터가 살려 둔 다섯 사람을 끝없이 괴롭힌다.",
+   "concepts": [
+    "ai",
+    "ai_revolt"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1968년 휴고 단편상, 1995년 게임",
+   "korean": {
+    "status": "있음",
+    "detail": "아작 할란 엘리슨 걸작선(이수현·신해경, 2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113414109"
+   },
+   "borderline": false
+  },
+  {
+   "id": "logans_run",
+   "orig": "Logan's Run",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "Logan's Run (1967) — 1976년 영화, 1977년 드라마",
+   "by": "William F. Nolan · George Clayton Johnson",
+   "year": 1967,
+   "country": "미국",
+   "setting": "정해진 나이가 되면 죽어야 하는 미래 사회에서 그 규칙을 지키던 추격자가 달아난다.",
+   "concepts": [],
+   "new_ideas": "정해진 나이에 죽어야 하는 사회",
+   "lore_size": "작음",
+   "notability": "1976년 영화, 1977년 드라마",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "lord_of_light",
+   "orig": "Lord of Light",
+   "orig_en": "",
+   "ko": "신들의 사회",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=412480",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Lord of Light (1967)",
+   "by": "Roger Zelazny",
+   "year": 1967,
+   "country": "미국",
+   "setting": "식민 행성의 첫 정착민이 기술로 힌두 신 행세를 하고, 한 사람이 부처가 되어 맞선다.",
+   "concepts": [
+    "mind_upload",
+    "techno_religion",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1968년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "행복한책읽기(김상훈, 2006), 옛 판 정신세계사(김상훈, 1993)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=412480"
+   },
+   "borderline": false
+  },
+  {
+   "id": "pern",
+   "orig": "Dragonriders of Pern",
+   "orig_en": "",
+   "ko": "퍼언 연대기",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=943083",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Weyr Search (1967) · Dragonflight (1968) ~ 20여 권",
+   "by": "Anne McCaffrey",
+   "year": 1967,
+   "country": "미국",
+   "setting": "개척 행성을 덮치는 하늘의 실을, 텔레파시로 이어진 용과 기사가 불로 태운다.",
+   "concepts": [
+    "colonization",
+    "telepathy",
+    "genetic_eng",
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "「Weyr Search」 1968년 휴고·「Dragonrider」 네뷸러 중편상 — 두 상을 받은 첫 여성 작가",
+   "korean": {
+    "status": "일부",
+    "detail": "북스피어 『퍼언 연대기: 용기사 3부작』(김상훈, 2007, 3권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=943083"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_einstein_intersection",
+   "orig": "The Einstein Intersection",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Einstein Intersection (1967)",
+   "by": "Samuel R. Delany",
+   "year": 1967,
+   "country": "미국",
+   "setting": "사람이 떠난 지구에 들어온 다른 존재들이 사람의 신화를 몸에 입고 산다.",
+   "concepts": [
+    "earth_left",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1968년 네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_tripods",
+   "orig": "The Tripods",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The White Mountains (1967) ~ The Pool of Fire (1968), 앞이야기 (1988)",
+   "by": "John Christopher",
+   "year": 1967,
+   "country": "영국",
+   "setting": "세발 기계를 탄 외계 주인이 사람 머리에 쇠 모자를 씌워 순종하게 만든 미래.",
+   "concepts": [
+    "mind_control",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1984~85년 BBC 드라마",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "heart_of_a_dog",
+   "orig": "Собачье сердце",
+   "orig_en": "Heart of a Dog",
+   "ko": "개의 심장",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=29720473",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Собачье сердце (1925년 씀, 1968년 처음 나옴) — 1988년 소련 영화",
+   "by": "Mikhail Bulgakov",
+   "year": 1968,
+   "country": "소련",
+   "setting": "의사가 떠돌이 개에게 사람의 뇌하수체를 옮겨 심자 개가 사람이 되어 말썽을 부린다.",
+   "concepts": [
+    "uplift"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "소련 풍자 SF 의 고전, 1988년 소련 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "창비(김세일, 2013), 열린책들(정연호, 1998·2013)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=29720473"
+   },
+   "borderline": false
+  },
+  {
+   "id": "his_masters_voice",
+   "orig": "Głos Pana",
+   "orig_en": "His Master's Voice",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Głos Pana (1968)",
+   "by": "Stanisław Lem",
+   "year": 1968,
+   "country": "폴란드",
+   "setting": "우주에서 온 신호를 풀려고 모인 과학자들이 끝내 그 뜻을 알아내지 못한다.",
+   "concepts": [
+    "first_contact",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "렘의 대표 장편 가운데 하나",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "la_nuit_des_temps",
+   "orig": "La Nuit des temps",
+   "orig_en": "The Ice People",
+   "ko": "시간의 밤",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=100855805",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "La Nuit des temps (1968)",
+   "by": "René Barjavel",
+   "year": 1968,
+   "country": "프랑스",
+   "setting": "남극 얼음 밑에서 90만 년 전 문명의 남녀가 얼어붙은 채 발견된다.",
+   "concepts": [
+    "cryosleep",
+    "precursor",
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1968년 프랑스 서점상",
+   "korean": {
+    "status": "있음",
+    "detail": "아침이슬(김희진, 2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=100855805"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nova_delany",
+   "orig": "Nova",
+   "orig_en": "",
+   "ko": "노바",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295375150",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Nova (1968)",
+   "by": "Samuel R. Delany",
+   "year": 1968,
+   "country": "미국",
+   "setting": "배를 신경으로 직접 조종하는 시대, 귀한 원소를 얻으려 터지는 별 속으로 뛰어든다.",
+   "concepts": [
+    "key_resource",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1969년 휴고 장편상 후보",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(공보경, 2022)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295375150"
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_odyssey",
+   "orig": "2001: A Space Odyssey",
+   "orig_en": "",
+   "ko": "2001 스페이스 오디세이",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=102178501",
+   "media": [
+    "영화",
+    "소설"
+   ],
+   "first_medium": "영화",
+   "series": "단편 「The Sentinel」(1951)에서 출발, 영화·소설 2001 (1968) ~ 소설 3001 (1997), 영화 2010 (1984)",
+   "by": "Arthur C. Clarke · Stanley Kubrick",
+   "year": 1968,
+   "country": "영국·미국",
+   "setting": "외계 지성이 남긴 검은 돌기둥이 인류의 진화를 이끌고, 탐사선의 컴퓨터가 승무원을 해친다.",
+   "concepts": [
+    "ai",
+    "ai_decay",
+    "precursor",
+    "next_human",
+    "ascension",
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1968년 큐브릭 영화와 클라크 소설이 함께 나옴, 소설 넷으로 이어짐",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지 『2001 스페이스 오디세이』(김승욱, 2004·2017)와 『스페이스 오디세이 완전판』 4권 세트(2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=102178501"
+   },
+   "borderline": false
+  },
+  {
+   "id": "stand_on_zanzibar",
+   "orig": "Stand on Zanzibar",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Stand on Zanzibar (1968)",
+   "by": "John Brunner",
+   "year": 1968,
+   "country": "영국",
+   "setting": "사람이 넘쳐 나는 2010년, 유전 검사로 아이를 못 낳게 하는 나라와 큰 기업의 이야기.",
+   "concepts": [
+    "genetic_eng",
+    "mega_corp",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1969년 휴고 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_andromeda_strain",
+   "orig": "The Andromeda Strain",
+   "orig_en": "",
+   "ko": "안드로메다 스트레인",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=95668",
+   "media": [
+    "소설",
+    "영화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "The Andromeda Strain (1969) — 1971년 영화, 2008년 미니시리즈",
+   "by": "Michael Crichton",
+   "year": 1969,
+   "country": "미국",
+   "setting": "인공위성이 묻혀 온 외계 미생물이 마을을 몰살하자 과학자들이 지하 연구소에서 싸운다.",
+   "concepts": [],
+   "new_ideas": "우주에서 묻어 온 미생물",
+   "lore_size": "작음",
+   "notability": "1971년 영화, 2008년 미니시리즈",
+   "korean": {
+    "status": "있음",
+    "detail": "명지사(1992·1998) — 옛 판만 확인",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=95668"
+   },
+   "borderline": false
+  },
+  {
+   "id": "ubik",
+   "orig": "Ubik",
+   "orig_en": "",
+   "ko": "유빅",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20953086",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Ubik (1969)",
+   "by": "Philip K. Dick",
+   "year": 1969,
+   "country": "미국",
+   "setting": "반쯤 죽은 사람을 차갑게 보관하며 말을 거는 세계에서 현실이 거꾸로 낡아 간다.",
+   "concepts": [
+    "cryosleep",
+    "psionics",
+    "precognition"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2005년 『타임』 선정 100대 영어 소설",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(김상훈, 2012), 문학수첩(한기찬, 2010)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20953086"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tau_zero",
+   "orig": "Tau Zero",
+   "orig_en": "",
+   "ko": "타우제로",
+   "ko_src": "https://www.yes24.com/Product/Goods/118823",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Tau Zero (1970)",
+   "by": "Poul Anderson",
+   "year": 1970,
+   "country": "미국",
+   "setting": "멈추지 못하게 된 광속 우주선이 가속을 거듭하며 우주의 끝과 새 우주까지 간다.",
+   "concepts": [
+    "time_dilation",
+    "sublight"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1971년 휴고 장편상 후보, 상대성 이론 SF 의 본보기",
+   "korean": {
+    "status": "있음",
+    "detail": "나경문화(1992) — 옛 판만 확인",
+    "src": "https://www.yes24.com/Product/Goods/118823"
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_time_of_changes",
+   "orig": "A Time of Changes",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "A Time of Changes (1971)",
+   "by": "Robert Silverberg",
+   "year": 1971,
+   "country": "미국",
+   "setting": "'나'라는 말을 금하는 행성에서 한 남자가 마음을 나누는 약으로 자기를 드러낸다.",
+   "concepts": [
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1971년 네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_lathe_of_heaven",
+   "orig": "The Lathe of Heaven",
+   "orig_en": "",
+   "ko": "하늘의 물레",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6920811",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "The Lathe of Heaven (1971) — 1980·2002년 텔레비전 영화",
+   "by": "Ursula K. Le Guin",
+   "year": 1971,
+   "country": "미국",
+   "setting": "꿈꾸는 대로 현실이 바뀌는 남자를 정신과 의사가 이용해 세상을 고치려 한다.",
+   "concepts": [
+    "alt_timeline",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1980·2002년 텔레비전 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(최준영, 2010)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6920811"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dying_inside",
+   "orig": "Dying Inside",
+   "orig_en": "",
+   "ko": "다잉 인사이드",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=599232",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Dying Inside (1972)",
+   "by": "Robert Silverberg",
+   "year": 1972,
+   "country": "미국",
+   "setting": "남의 마음을 읽어 오던 남자가 중년이 되며 그 능력을 조금씩 잃어 간다.",
+   "concepts": [
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "휴고·네뷸러 장편상 후보(1972~73년)",
+   "korean": {
+    "status": "있음",
+    "detail": "책세상(장호연, 2005)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=599232"
+   },
+   "borderline": false
+  },
+  {
+   "id": "roadside_picnic",
+   "orig": "Пикник на обочине",
+   "orig_en": "Roadside Picnic",
+   "ko": "노변의 피크닉",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126112087",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Пикник на обочине (1972) — 1979년 타르콥스키 영화 『Сталкер』",
+   "by": "Arkady and Boris Strugatsky",
+   "year": 1972,
+   "country": "소련",
+   "setting": "외계인이 잠깐 들렀다 간 땅에 남은 위험한 유물을 몰래 캐 오는 사람들.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "외계의 방문이 남긴 위험한 구역과 유물",
+   "lore_size": "중간",
+   "notability": "1979년 타르콥스키 영화 『Stalker』, 게임 『S.T.A.L.K.E.R.』에 영향",
+   "korean": {
+    "status": "있음",
+    "detail": "현대문학(이보석, 2017)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126112087"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_forever_war",
+   "orig": "The Forever War",
+   "orig_en": "",
+   "ko": "영원한 전쟁",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86523989",
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "Hero (1972, 중편) → The Forever War (1974) · Forever Free (1999)",
+   "by": "Joe Haldeman",
+   "year": 1972,
+   "country": "미국",
+   "setting": "빛에 가까운 이동 탓에 병사가 몇 해 싸우는 동안 고향에서는 수백 년이 흐른다.",
+   "concepts": [
+    "time_dilation",
+    "power_armor",
+    "alien",
+    "wormhole"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1975~76년 휴고·네뷸러 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "황금가지(김상훈, 2016), 옛 판 시공사(강수백, 1996)·행복한책읽기(2005)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=86523989"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_gods_themselves",
+   "orig": "The Gods Themselves",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Gods Themselves (1972)",
+   "by": "Isaac Asimov",
+   "year": 1972,
+   "country": "미국",
+   "setting": "평행 우주와 물질을 맞바꾸는 장치가 공짜 에너지를 주지만 태양을 터뜨릴 위험을 안는다.",
+   "concepts": [
+    "alt_timeline",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1973년 휴고·네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "dreamsnake",
+   "orig": "Dreamsnake",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Of Mist, and Grass, and Sand (1973) → Dreamsnake (1978)",
+   "by": "Vonda N. McIntyre",
+   "year": 1973,
+   "country": "미국",
+   "setting": "핵전쟁 뒤 뱀의 독으로 사람을 고치는 치유사가 꿈을 주는 뱀을 잃고 찾아 나선다.",
+   "concepts": [
+    "catastrophe",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1979년 휴고·1978년 네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rendezvous_with_rama",
+   "orig": "Rendezvous with Rama",
+   "orig_en": "",
+   "ko": "라마와의 랑데부",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=105511005",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Rendezvous with Rama (1973) · Rama II (1989) ~ Rama Revealed (1993)",
+   "by": "Arthur C. Clarke",
+   "year": 1973,
+   "country": "영국",
+   "setting": "태양계로 날아든 거대한 원통 우주선 라마 안을 사람들이 짧은 시간 동안 탐사한다.",
+   "concepts": [
+    "megastructure",
+    "habitat",
+    "precursor",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1974년 휴고·네뷸러 장편상",
+   "korean": {
+    "status": "일부",
+    "detail": "아작(박상준, 2017), 옛 판 옹기장이(박상준, 2005)·고려원 『라마』(1994) — 속편은 확인 못 함",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=105511005"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_girl_who_was_plugged_in",
+   "orig": "The Girl Who Was Plugged In",
+   "orig_en": "",
+   "ko": "접속된 소녀",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920686",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Girl Who Was Plugged In (1973, 중편)",
+   "by": "James Tiptree Jr.",
+   "year": 1973,
+   "country": "미국",
+   "setting": "못생긴 소녀가 멀리서 아름다운 인조 몸을 조종해 광고 모델로 산다.",
+   "concepts": [
+    "android",
+    "mega_corp"
+   ],
+   "new_ideas": "멀리서 조종하는 대리 몸",
+   "lore_size": "작음",
+   "notability": "1974년 휴고 중편상, 사이버펑크의 선구로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "아작 『체체파리의 비법』(이수현, 2016)에 「접속된 소녀」",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920686"
+   },
+   "borderline": false
+  },
+  {
+   "id": "eight_worlds",
+   "orig": "Eight Worlds",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Picnic on Nearside (1974) ~ The Ophiuchi Hotline (1977) ~ Irontown Blues (2018)",
+   "by": "John Varley",
+   "year": 1974,
+   "country": "미국",
+   "setting": "외계 침입자에게 지구를 빼앗긴 인류가 태양계 여덟 세계에서 몸을 마음대로 바꾸며 산다.",
+   "concepts": [
+    "earth_left",
+    "clone",
+    "mind_upload",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1970년대 바를리의 대표 세계, 『The Ophiuchi Hotline』(1977) 등",
+   "korean": {
+    "status": "일부",
+    "detail": "아작 『베스트 오브 존 발리』(최세진, 2024)에 「근거리로 떠나는 소풍」·「캔자스의 유령」 등, 불새 『캔자스의 유령』(2015)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334930784"
+   },
+   "borderline": false
+  },
+  {
+   "id": "flow_my_tears",
+   "orig": "Flow My Tears, the Policeman Said",
+   "orig_en": "",
+   "ko": "흘러라 내 눈물, 경관은 말했다",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=19333661",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Flow My Tears, the Policeman Said (1974)",
+   "by": "Philip K. Dick",
+   "year": 1974,
+   "country": "미국",
+   "setting": "유명 가수가 하루아침에 모든 기록에서 지워진 채 경찰 국가에서 깨어난다.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1975년 존 W. 캠벨 기념상",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(박중서, 2012)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=19333661"
+   },
+   "borderline": false
+  },
+  {
+   "id": "inverted_world",
+   "orig": "Inverted World",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Inverted World (1974)",
+   "by": "Christopher Priest",
+   "year": 1974,
+   "country": "영국",
+   "setting": "선로 위로 쉬지 않고 끌려가는 도시, 멈추면 세상이 뒤틀린다.",
+   "concepts": [],
+   "new_ideas": "끝없이 움직여야만 하는 도시",
+   "lore_size": "작음",
+   "notability": "1975년 영국 SF 협회상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_mote_in_gods_eye",
+   "orig": "The Mote in God's Eye",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Mote in God's Eye (1974) · The Gripping Hand (1993) — 퍼넬의 코도미니엄 미래사",
+   "by": "Larry Niven · Jerry Pournelle",
+   "year": 1974,
+   "country": "미국",
+   "setting": "인류의 제2제국이 처음 만난 외계 종족은 문명이 거듭 무너지는 비밀을 숨기고 있다.",
+   "concepts": [
+    "first_contact",
+    "galactic_empire",
+    "alien",
+    "cycle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1975년 휴고 장편상 후보",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "where_late_the_sweet_birds_sang",
+   "orig": "Where Late the Sweet Birds Sang",
+   "orig_en": "",
+   "ko": "노래하던 새들도 지금은 사라지고",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920976",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중편 (1974) → 장편 (1976)",
+   "by": "Kate Wilhelm",
+   "year": 1974,
+   "country": "미국",
+   "setting": "환경이 무너져 사람이 아이를 못 낳게 되자 한 가문이 복제 인간으로 대를 잇는다.",
+   "concepts": [
+    "clone",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1977년 휴고 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "아작(정소연, 2016), 옛 판 행복한책읽기(정소연, 2005)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920976"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dhalgren",
+   "orig": "Dhalgren",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Dhalgren (1975)",
+   "by": "Samuel R. Delany",
+   "year": 1975,
+   "country": "미국",
+   "setting": "알 수 없는 재난으로 바깥과 끊긴 미국 도시에 기억을 잃은 청년이 들어온다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "100만 부 넘게 팔린 실험적 장편",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_female_man",
+   "orig": "The Female Man",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Female Man (1975)",
+   "by": "Joanna Russ",
+   "year": 1975,
+   "country": "미국",
+   "setting": "서로 다른 평행 세계에 사는 네 여자가 만나, 여자만 사는 세계 등을 오간다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "페미니즘 SF 의 대표작",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "여성사 『세계여성소설걸작선』 1·2(조안나 러스, 1994)가 이 작품으로 보이나 원제 표기가 없어 확인 못 함",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79760"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_shockwave_rider",
+   "orig": "The Shockwave Rider",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Shockwave Rider (1975)",
+   "by": "John Brunner",
+   "year": 1975,
+   "country": "영국",
+   "setting": "모든 기록이 전산망에 있는 사회에서 신분을 바꿔 가며 숨어 사는 사람이 맞선다.",
+   "concepts": [],
+   "new_ideas": "전산망 속을 스스로 퍼지는 프로그램",
+   "lore_size": "작음",
+   "notability": "컴퓨터 '웜'이라는 말의 출처로 꼽힘",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "alliance_union",
+   "orig": "Alliance–Union universe",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Brothers of Earth (1976) ~ Downbelow Station (1981) · Cyteen (1988) 등 수십 권",
+   "by": "C. J. Cherryh",
+   "year": 1976,
+   "country": "미국",
+   "setting": "지구 회사, 우주 정거장 상인들의 연합, 복제 인간을 길러 낸 유니온이 맞서는 미래사.",
+   "concepts": [
+    "clone",
+    "spacers",
+    "mega_corp",
+    "jump_drive"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『다운빌로 스테이션』 1982년 휴고 장편상",
+   "korean": {
+    "status": "일부",
+    "detail": "열린책들 『다운빌로 스테이션』(최용준, 2018, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848"
+   },
+   "borderline": false
+  },
+  {
+   "id": "definitely_maybe",
+   "orig": "За миллиард лет до конца света",
+   "orig_en": "Definitely Maybe",
+   "ko": "세상이 끝날 때까지 아직 10억 년",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5880488",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "За миллиард лет до конца света (1976~77) — 1988년 영화 『Дни затмения』",
+   "by": "Arkady and Boris Strugatsky",
+   "year": 1976,
+   "country": "소련",
+   "setting": "큰 발견을 앞둔 과학자들이 알 수 없는 우주의 힘에 하나씩 방해를 받는다.",
+   "concepts": [],
+   "new_ideas": "발견을 막으려는 우주의 힘",
+   "lore_size": "작음",
+   "notability": "1988년 소쿠로프 영화 『Дни затмения』의 원작",
+   "korean": {
+    "status": "있음",
+    "detail": "열린책들(석영중, 2006·2009)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=5880488"
+   },
+   "borderline": false
+  },
+  {
+   "id": "heechee",
+   "orig": "Gateway",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Gateway (1976~77 연재, 1977 책) ~ The Boy Who Would Live Forever (2004), 6권",
+   "by": "Frederik Pohl",
+   "year": 1976,
+   "country": "미국",
+   "setting": "사라진 외계 종족이 남긴 자동 우주선을 타고 목적지도 모른 채 떠나는 탐사꾼들.",
+   "concepts": [
+    "precursor",
+    "ftl",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『Gateway』 1978년 휴고·네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "houston_houston",
+   "orig": "Houston, Houston, Do You Read?",
+   "orig_en": "",
+   "ko": "휴스턴, 휴스턴, 들리는가?",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332027919",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Houston, Houston, Do You Read? (1976, 중편)",
+   "by": "James Tiptree Jr.",
+   "year": 1976,
+   "country": "미국",
+   "setting": "태양 폭발로 미래에 떨어진 우주비행사들이 남자가 사라진 사회를 만난다.",
+   "concepts": [
+    "time_travel",
+    "clone"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1977년 휴고·1976년 네뷸러 중편상",
+   "korean": {
+    "status": "있음",
+    "detail": "아작 『휴스턴, 휴스턴, 들리는가?』(이수현, 2024), 『체체파리의 비법』(2016)에도 수록",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332027919"
+   },
+   "borderline": false
+  },
+  {
+   "id": "man_plus",
+   "orig": "Man Plus",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Man Plus (1976) · Mars Plus (1994)",
+   "by": "Frederik Pohl",
+   "year": 1976,
+   "country": "미국",
+   "setting": "화성에서 맨몸으로 살 수 있도록 사람을 수술과 기계로 고쳐 만든다.",
+   "concepts": [
+    "cyborg",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1976년 네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "patternist",
+   "orig": "Patternist series",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Patternmaster (1976) · Mind of My Mind (1977) · Wild Seed (1980) 등 5권",
+   "by": "Octavia E. Butler",
+   "year": 1976,
+   "country": "미국",
+   "setting": "몸을 갈아타며 수천 년 산 존재가 텔레파시 인류를 길러 내고, 그 후손이 세상을 다스린다.",
+   "concepts": [
+    "telepathy",
+    "genetic_eng",
+    "longevity",
+    "next_human"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "버틀러의 첫 연작",
+   "korean": {
+    "status": "일부",
+    "detail": "비채 『와일드 시드』(조호근, 2019); 웅진씽크빅 『야생종』(이수영, 2011)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207121614"
+   },
+   "borderline": false
+  },
+  {
+   "id": "woman_on_the_edge_of_time",
+   "orig": "Woman on the Edge of Time",
+   "orig_en": "",
+   "ko": "시간의 경계에 선 여자",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7553872",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Woman on the Edge of Time (1976)",
+   "by": "Marge Piercy",
+   "year": 1976,
+   "country": "미국",
+   "setting": "정신병원에 갇힌 여자가 평등한 미래 마을과 끔찍한 미래를 오가며 본다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "유토피아 SF 의 고전으로 꼽힘",
+   "korean": {
+    "status": "있음",
+    "detail": "민음사(변용란, 2010, 2권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=7553872"
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_scanner_darkly",
+   "orig": "A Scanner Darkly",
+   "orig_en": "",
+   "ko": "스캐너 다클리",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=228752747",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "A Scanner Darkly (1977) — 2006년 영화",
+   "by": "Philip K. Dick",
+   "year": 1977,
+   "country": "미국",
+   "setting": "마약 단속 요원이 얼굴을 감추는 옷을 입고 지내다 결국 자기 자신을 감시하게 된다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2006년 링클레이터 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "폴라북스(조호근, 2020)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=228752747"
+   },
+   "borderline": true
+  },
+  {
+   "id": "enderverse",
+   "orig": "Ender's Game",
+   "orig_en": "",
+   "ko": "엔더의 게임",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28295505",
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "Ender's Game (1977 단편, 1985 장편) ~ 여러 속편·앞이야기 — 2013년 영화",
+   "by": "Orson Scott Card",
+   "year": 1977,
+   "country": "미국",
+   "setting": "외계 종족의 다시 올 침공에 대비해 천재 아이들을 전투 학교에서 지휘관으로 길러 낸다.",
+   "concepts": [
+    "hive_mind",
+    "alien",
+    "super_soldier",
+    "ftl_comm"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "장편 1985년 네뷸러·1986년 휴고 장편상, 2013년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "루비박스(백석윤, 2008·2013), 옛 판 시공사(장미란, 2000)·가서원(1992); 속편 시공사 『사자의 대변인』(장미란, 2000)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28295505"
+   },
+   "borderline": false
+  },
+  {
+   "id": "lucifers_hammer",
+   "orig": "Lucifer's Hammer",
+   "orig_en": "",
+   "ko": "루시퍼의 해머",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=43304988",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Lucifer's Hammer (1977)",
+   "by": "Larry Niven · Jerry Pournelle",
+   "year": 1977,
+   "country": "미국",
+   "setting": "혜성 조각이 지구에 떨어져 문명이 무너지고, 살아남은 사람들이 기술을 지키려 싸운다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1978년 휴고 장편상 후보, 베스트셀러",
+   "korean": {
+    "status": "있음",
+    "detail": "새파란상상(김찬별, 2014, 3권)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=43304988"
+   },
+   "borderline": true
+  },
+  {
+   "id": "hitchhikers_guide",
+   "orig": "The Hitchhiker's Guide to the Galaxy",
+   "orig_en": "",
+   "ko": "은하수를 여행하는 히치하이커를 위한 안내서",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=532986",
+   "media": [
+    "드라마",
+    "소설",
+    "영화",
+    "게임"
+   ],
+   "first_medium": "드라마",
+   "series": "BBC 라디오극 (1978) · 소설 5권 (1979~1992) · 1981년 드라마 · 2005년 영화 · 1984년 게임",
+   "by": "Douglas Adams",
+   "year": 1978,
+   "country": "영국",
+   "setting": "우회 도로를 내려고 지구가 철거된 날, 살아남은 영국인이 엉뚱한 은하를 떠돈다.",
+   "concepts": [
+    "translator",
+    "alien",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "라디오극으로 시작해 소설·드라마·영화·게임으로 이어짐",
+   "korean": {
+    "status": "있음",
+    "detail": "책세상(김선형·권진아, 2004~05, 5권·합본), 옛 판 새와물고기(1995~96)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=532986"
+   },
+   "borderline": false
+  },
+  {
+   "id": "canopus_in_argos",
+   "orig": "Canopus in Argos: Archives",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Shikasta (1979) ~ The Sentimental Agents (1983), 5권",
+   "by": "Doris Lessing",
+   "year": 1979,
+   "country": "영국",
+   "setting": "먼 별의 은하 제국이 지구를 몇천 년 동안 지켜보며 이끌어 간다.",
+   "concepts": [
+    "galactic_empire",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "노벨 문학상 작가의 SF 5권 연작, 필립 글래스가 오페라 둘로 만듦",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "enemy_mine",
+   "orig": "Enemy Mine",
+   "orig_en": "",
+   "ko": "에너미 마인",
+   "ko_src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Enemy+mine+Longyear",
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "Enemy Mine (1979, 중편) ~ The Enemy Papers — 1985년 영화",
+   "by": "Barry B. Longyear",
+   "year": 1979,
+   "country": "미국",
+   "setting": "외딴 행성에 떨어진 지구 조종사와 적 외계인 조종사가 살아남으려 서로 기댄다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1980년 휴고·1979년 네뷸러 중편상, 1985년 영화",
+   "korean": {
+    "status": "있음",
+    "detail": "허블 『에너미 마인』(박상준, 2024)",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Enemy+mine+Longyear"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gaea_trilogy",
+   "orig": "Gaea Trilogy",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Titan (1979) · Wizard (1980) · Demon (1984)",
+   "by": "John Varley",
+   "year": 1979,
+   "country": "미국",
+   "setting": "토성 둘레를 도는 거대한 바퀴 모양 생명체 안에서 탐사대가 신 같은 그 존재를 만난다.",
+   "concepts": [
+    "living_planet",
+    "megastructure",
+    "godlike",
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "바를리의 삼부작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kindred",
+   "orig": "Kindred",
+   "orig_en": "",
+   "ko": "킨",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920859",
+   "media": [
+    "소설",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "Kindred (1979) — 2017년 그래픽 노블, 2022년 드라마",
+   "by": "Octavia E. Butler",
+   "year": 1979,
+   "country": "미국",
+   "setting": "1976년의 흑인 여성이 까닭도 모른 채 노예제 시대의 농장으로 거듭 끌려간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "버틀러 대표작, 2022년 드라마",
+   "korean": {
+    "status": "있음",
+    "detail": "비채(이수현, 2016·2020), 그래픽 노블 프시케의숲(2022)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=74920859"
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_fountains_of_paradise",
+   "orig": "The Fountains of Paradise",
+   "orig_en": "",
+   "ko": "낙원의 샘",
+   "ko_src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=123289301",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Fountains of Paradise (1979)",
+   "by": "Arthur C. Clarke",
+   "year": 1979,
+   "country": "영국",
+   "setting": "기술자가 적도의 산꼭대기에서 정지 궤도까지 닿는 우주 엘리베이터를 세운다.",
+   "concepts": [
+    "space_elevator"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1980년 휴고·네뷸러 장편상, 우주 엘리베이터를 널리 알림",
+   "korean": {
+    "status": "있음",
+    "detail": "아작(고호관, 2017), 옛 판 시공사(정영목, 1999)",
+    "src": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=123289301"
+   },
+   "borderline": false
+  },
+  {
+   "id": "book_of_the_new_sun",
+   "orig": "The Book of the New Sun",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Shadow of the Torturer (1980) ~ The Urth of the New Sun (1987)",
+   "by": "Gene Wolfe",
+   "year": 1980,
+   "country": "미국",
+   "setting": "식어 가는 해 아래 먼 미래 지구에서 고문 길드의 견습생이 떠돌다 왕좌에 이른다.",
+   "concepts": [
+    "golden_age",
+    "techno_religion",
+    "order"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『The Claw of the Conciliator』 1981년 네뷸러 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dragons_egg",
+   "orig": "Dragon's Egg",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Dragon's Egg (1980) · Starquake (1985)",
+   "by": "Robert L. Forward",
+   "year": 1980,
+   "country": "미국",
+   "setting": "중성자별 표면의 작은 생명이 사람보다 백만 배 빠르게 문명을 키워 간다.",
+   "concepts": [
+    "alien",
+    "first_contact",
+    "uplift"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "단단한 과학 SF 의 대표작으로 꼽힘",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "majipoor",
+   "orig": "Majipoor",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Lord Valentine's Castle (1980) ~ 연작 여러 권",
+   "by": "Robert Silverberg",
+   "year": 1980,
+   "country": "미국",
+   "setting": "지구보다 훨씬 큰 행성에 여러 종족이 섞여 살고, 기억을 잃은 왕이 성을 되찾으러 간다.",
+   "concepts": [
+    "colonization",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『Lord Valentine's Castle』(1980)부터 이어진 연작",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "the_snow_queen_vinge",
+   "orig": "The Snow Queen",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "The Snow Queen (1980) ~ Tangled Up in Blue (2000), 4권",
+   "by": "Joan D. Vinge",
+   "year": 1980,
+   "country": "미국",
+   "setting": "150년마다 겨울과 여름 족속이 다스림을 바꾸는 행성에서 생명을 늘리는 물질을 둘러싼 싸움.",
+   "concepts": [
+    "longevity",
+    "key_resource",
+    "wormhole"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "1981년 휴고 장편상",
+   "korean": {
+    "status": "없음",
+    "detail": "국립중앙도서관 원제 검색과 알라딘·예스24에서 번역판을 찾지 못함(원제가 안 적힌 옛 판은 빠졌을 수 있음)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "timescape",
+   "orig": "Timescape",
+   "orig_en": "",
+   "ko": "타임스케이프",
+   "ko_src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Timescape+Benford",
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "Timescape (1980)",
+   "by": "Gregory Benford",
+   "year": 1980,
+   "country": "미국",
+   "setting": "1998년의 과학자들이 빛보다 빠른 입자로 1962년에 신호를 보내 환경 재앙을 막으려 한다.",
+   "concepts": [
+    "time_travel",
+    "ftl_comm",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1980년 네뷸러 장편상",
+   "korean": {
+    "status": "있음",
+    "detail": "새싹나라 『타임스케이프』 1~3(정성호, 1993) — 옛 판만",
+    "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Timescape+Benford"
+   },
+   "borderline": false
+  }
+ ]
+}

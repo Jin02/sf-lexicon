@@ -1,0 +1,2357 @@
+{
+ "기준": "5 — 대중 대작: SF 를 안 보는 사람도 이름을 아는 것(큰 흥행 영화가 붙은 프랜차이즈, 세계적 장수 인기작, 국내에서도 누구나 아는 작품)\n4 — 넓게 알려짐: 장르 팬이면 거의 다 알고 일반에도 꽤 알려진 것\n3 — 장르 안에서 이름난 것: SF 팬 사이에선 유명하지만 대중엔 덜 알려진 것\n2 — 마이너하지만 탄탄한 것: 아는 사람만 아는 쪽, 그러나 시리즈가 이어졌거나 상을 받았거나 세계관이 두꺼운 것\n1 — 아주 마이너: 자료가 아주 적어 세계관을 정리하기 어려울 만큼 덜 알려진 것\n(국내와 해외 인지도가 크게 다르면 둘을 반쯤 섞어 매김)",
+ "worlds": {
+  "crest_of_the_stars": {
+   "fame": 3,
+   "why": "애니·SF 팬엔 유명, 대중엔 덜함"
+  },
+  "ratchet_clank": {
+   "fame": 4,
+   "why": "플레이스테이션 간판 시리즈, 영화화"
+  },
+  "eve_online": {
+   "fame": 3,
+   "why": "게이머 사이 유명, 대중엔 덜함"
+  },
+  "outer_wilds": {
+   "fame": 3,
+   "why": "인디 명작, 게이머 사이 이름남"
+  },
+  "signalis": {
+   "fame": 2,
+   "why": "인디 공포 게임, 아는 사람만 앎"
+  },
+  "star_maker": {
+   "fame": 3,
+   "why": "SF 고전, 팬 사이 이름남"
+  },
+  "asimov_robot": {
+   "fame": 5,
+   "why": "로봇 3원칙·영화로 누구나 앎"
+  },
+  "starship_troopers": {
+   "fame": 4,
+   "why": "영화로 일반에도 꽤 알려짐"
+  },
+  "solaris": {
+   "fame": 4,
+   "why": "타르콥스키·소더버그 영화로 알려짐"
+  },
+  "doctor_who": {
+   "fame": 5,
+   "why": "세계적 장수 드라마"
+  },
+  "planet_of_the_apes": {
+   "fame": 5,
+   "why": "흥행 영화 프랜차이즈"
+  },
+  "hainish_cycle": {
+   "fame": 3,
+   "why": "르 귄 대표 연작, 팬 사이 유명"
+  },
+  "total_recall": {
+   "fame": 5,
+   "why": "흥행 영화와 리메이크로 누구나 앎"
+  },
+  "locke_the_superman": {
+   "fame": 2,
+   "why": "일본 장수 만화, 국내 인지도 낮음"
+  },
+  "space_battleship_yamato": {
+   "fame": 5,
+   "why": "국내외 누구나 아는 고전"
+  },
+  "alliance_union": {
+   "fame": 2,
+   "why": "체리 연작, 국내 번역 일부뿐"
+  },
+  "enderverse": {
+   "fame": 5,
+   "why": "소설·영화 모두 널리 알려짐"
+  },
+  "galaxy_express_999": {
+   "fame": 5,
+   "why": "국내에서 누구나 아는 고전"
+  },
+  "toward_the_terra": {
+   "fame": 3,
+   "why": "고전 SF 만화, 애니 팬 사이 유명"
+  },
+  "hitchhikers_guide": {
+   "fame": 5,
+   "why": "세계적으로 널리 알려진 작품"
+  },
+  "space_cobra": {
+   "fame": 3,
+   "why": "애니 팬엔 유명, 국내 대중엔 덜함"
+  },
+  "macross": {
+   "fame": 5,
+   "why": "국내외 널리 알려진 로봇물"
+  },
+  "votoms": {
+   "fame": 3,
+   "why": "리얼 로봇 고전, 팬 사이 유명"
+  },
+  "battletech": {
+   "fame": 3,
+   "why": "해외 팬엔 유명, 국내는 덜함"
+  },
+  "five_star_stories": {
+   "fame": 3,
+   "why": "설정으로 이름난 만화, 팬 사이 유명"
+  },
+  "metroid": {
+   "fame": 4,
+   "why": "닌텐도 대표 시리즈"
+  },
+  "amageddon": {
+   "fame": 2,
+   "why": "국내 극장 애니, 아는 사람만 앎"
+  },
+  "rai_ginga": {
+   "fame": 2,
+   "why": "일본 만화, 국내 인지도 낮음"
+  },
+  "star_control": {
+   "fame": 2,
+   "why": "고전 게임, 아는 사람만 앎"
+  },
+  "flashback": {
+   "fame": 2,
+   "why": "고전 액션 게임, 올드 게이머만 앎"
+  },
+  "tenchi_muyo": {
+   "fame": 3,
+   "why": "90년대 애니 팬 사이 유명"
+  },
+  "trigun": {
+   "fame": 3,
+   "why": "애니 팬엔 유명, 대중엔 덜함"
+  },
+  "futurama": {
+   "fame": 5,
+   "why": "세계적 인기 애니메이션"
+  },
+  "planetes": {
+   "fame": 3,
+   "why": "애니·SF 팬 사이 이름남"
+  },
+  "wandering_earth": {
+   "fame": 4,
+   "why": "중국 흥행 영화, 국내도 꽤 알려짐"
+  },
+  "altered_carbon": {
+   "fame": 4,
+   "why": "넷플릭스 드라마로 꽤 알려짐"
+  },
+  "gundam_seed": {
+   "fame": 5,
+   "why": "국내외 널리 알려진 건담"
+  },
+  "beyond_good_and_evil": {
+   "fame": 3,
+   "why": "컬트 명작 게임"
+  },
+  "knight_run": {
+   "fame": 2,
+   "why": "국내 웹툰 팬만 앎, 해외 거의 무명"
+  },
+  "knights_of_sidonia": {
+   "fame": 3,
+   "why": "넷플릭스 애니, 팬 사이 유명"
+  },
+  "denma": {
+   "fame": 3,
+   "why": "국내 웹툰으로 유명, 해외는 무명"
+  },
+  "saga_vaughan": {
+   "fame": 3,
+   "why": "만화 팬 사이 유명"
+  },
+  "rick_and_morty": {
+   "fame": 5,
+   "why": "세계적 인기 애니메이션"
+  },
+  "warframe": {
+   "fame": 3,
+   "why": "게이머 사이 유명"
+  },
+  "subnautica": {
+   "fame": 3,
+   "why": "인기 인디 게임, 게이머 사이 유명"
+  },
+  "xenoblade_chronicles_x": {
+   "fame": 3,
+   "why": "닌텐도 RPG 팬 사이 이름남"
+  },
+  "no_mans_sky": {
+   "fame": 4,
+   "why": "널리 알려진 대형 게임"
+  },
+  "murderbot": {
+   "fame": 3,
+   "why": "상 받은 소설·드라마, 팬 사이 유명"
+  },
+  "punishing_gray_raven": {
+   "fame": 3,
+   "why": "서브컬처 게이머 사이 유명"
+  },
+  "honkai_star_rail": {
+   "fame": 4,
+   "why": "1억 다운로드, 젊은 층에 널리 알려짐"
+  },
+  "stellar_blade": {
+   "fame": 4,
+   "why": "국산 대작 게임, 널리 알려짐"
+  },
+  "lensman": {
+   "fame": 2,
+   "why": "옛 고전, 지금은 덜 읽힘"
+  },
+  "heinlein_future_history": {
+   "fame": 2,
+   "why": "옛 팬만 앎, 국내 번역 일부"
+  },
+  "the_city_and_the_stars": {
+   "fame": 3,
+   "why": "클라크 고전, 팬 사이 이름남"
+  },
+  "instrumentality": {
+   "fame": 2,
+   "why": "컬트 미래사, 아는 사람만 앎"
+  },
+  "the_martian_chronicles": {
+   "fame": 3,
+   "why": "브래드버리 고전, 팬 사이 유명"
+  },
+  "childhoods_end": {
+   "fame": 3,
+   "why": "클라크 대표작, 팬 사이 유명"
+  },
+  "the_stars_my_destination": {
+   "fame": 3,
+   "why": "SF 고전, 팬 사이 유명"
+  },
+  "ijon_tichy": {
+   "fame": 2,
+   "why": "렘의 곁가지 연작, 아는 사람만 앎"
+  },
+  "la_planete_sauvage": {
+   "fame": 3,
+   "why": "컬트 애니 영화로 이름남"
+  },
+  "vonnegut_tralfamadore": {
+   "fame": 3,
+   "why": "보니것 대표작, 문학 독자도 앎"
+  },
+  "stranger_in_a_strange_land": {
+   "fame": 3,
+   "why": "하인라인 고전, 팬 사이 유명"
+  },
+  "noon_universe": {
+   "fame": 2,
+   "why": "스트루가츠키 연작, 국내 번역 일부"
+  },
+  "known_space": {
+   "fame": 3,
+   "why": "링월드로 팬 사이 유명"
+  },
+  "the_cyberiad": {
+   "fame": 3,
+   "why": "렘 대표 우화, 팬 사이 이름남"
+  },
+  "the_three_stigmata_of_palmer_eldritch": {
+   "fame": 3,
+   "why": "딕 대표 장편, 팬 사이 이름남"
+  },
+  "the_moon_is_a_harsh_mistress": {
+   "fame": 3,
+   "why": "하인라인 고전, 팬 사이 유명"
+  },
+  "lord_of_light": {
+   "fame": 3,
+   "why": "젤라즈니 고전, 국내 팬도 앎"
+  },
+  "valerian": {
+   "fame": 3,
+   "why": "프랑스 고전 만화, 영화로 조금 알려짐"
+  },
+  "the_forever_war": {
+   "fame": 3,
+   "why": "휴고·네뷸러 고전, 팬 사이 유명"
+  },
+  "space_1999": {
+   "fame": 3,
+   "why": "옛 영국 드라마, 올드 팬 사이 유명"
+  },
+  "gaiking": {
+   "fame": 2,
+   "why": "옛 로봇물, 올드 팬만 앎"
+  },
+  "danguard": {
+   "fame": 2,
+   "why": "옛 로봇물, 올드 팬만 앎"
+  },
+  "giants_hogan": {
+   "fame": 3,
+   "why": "별의 계승자, 국내외 팬 사이 유명"
+  },
+  "starzinger": {
+   "fame": 2,
+   "why": "옛 TV 애니, 올드 팬만 앎"
+  },
+  "daltanious": {
+   "fame": 2,
+   "why": "옛 로봇물, 올드 팬만 앎"
+  },
+  "baldios": {
+   "fame": 2,
+   "why": "옛 로봇물, 결말로만 알려짐"
+  },
+  "dirty_pair": {
+   "fame": 3,
+   "why": "80년대 애니 팬 사이 유명"
+  },
+  "god_sigma": {
+   "fame": 2,
+   "why": "옛 로봇물, 아는 사람만 앎"
+  },
+  "ideon": {
+   "fame": 3,
+   "why": "토미노 고전, 로봇 팬 사이 유명"
+  },
+  "incal": {
+   "fame": 3,
+   "why": "뫼비우스 대표작, 만화 팬 사이 유명"
+  },
+  "uplift": {
+   "fame": 2,
+   "why": "브린 연작, 국내 번역 일부"
+  },
+  "god_mars": {
+   "fame": 2,
+   "why": "옛 로봇물, 올드 팬만 앎"
+  },
+  "ulysse_31": {
+   "fame": 2,
+   "why": "유럽 인기작, 국내는 올드 팬만 앎"
+  },
+  "mospeada": {
+   "fame": 2,
+   "why": "로보텍 원작 일부, 아는 사람만 앎"
+  },
+  "zoids": {
+   "fame": 3,
+   "why": "완구·애니로 또래에 알려짐"
+  },
+  "bismarck": {
+   "fame": 2,
+   "why": "국내 인지도 낮은 로봇물"
+  },
+  "nights_2001": {
+   "fame": 2,
+   "why": "하드 SF 만화, 아는 사람만 앎"
+  },
+  "contact": {
+   "fame": 4,
+   "why": "영화로 일반에도 알려짐"
+  },
+  "robotech": {
+   "fame": 3,
+   "why": "북미에선 유명, 국내는 덜함"
+  },
+  "schismatrix": {
+   "fame": 2,
+   "why": "사이버펑크 컬트 장편"
+  },
+  "vorkosigan": {
+   "fame": 3,
+   "why": "해외 팬 사이 유명, 국내 번역 일부"
+  },
+  "culture": {
+   "fame": 3,
+   "why": "스페이스 오페라 팬 사이 유명"
+  },
+  "dragonar": {
+   "fame": 2,
+   "why": "선라이즈 로봇물, 아는 사람만 앎"
+  },
+  "r_type": {
+   "fame": 3,
+   "why": "고전 슈팅, 게이머 사이 유명"
+  },
+  "venus_wars": {
+   "fame": 2,
+   "why": "단편 극장 애니, 아는 사람만 앎"
+  },
+  "wings_of_honneamise": {
+   "fame": 3,
+   "why": "가이낙스 고전, 애니 팬 사이 유명"
+  },
+  "gunbuster": {
+   "fame": 3,
+   "why": "가이낙스 고전, 애니 팬 사이 유명"
+  },
+  "hyperion_cantos": {
+   "fame": 3,
+   "why": "SF 팬 사이 유명"
+  },
+  "mars_trilogy": {
+   "fame": 3,
+   "why": "로빈슨 대표 연작, 팬 사이 유명"
+  },
+  "zones_of_thought": {
+   "fame": 3,
+   "why": "빈지 휴고 수상작, 팬 사이 유명"
+  },
+  "honorverse": {
+   "fame": 2,
+   "why": "해외 밀리터리 SF 팬용, 국내 덜함"
+  },
+  "jyu_oh_sei": {
+   "fame": 2,
+   "why": "순정 SF 만화, 아는 사람만 앎"
+  },
+  "g_gundam": {
+   "fame": 3,
+   "why": "건담 곁가지, 팬 사이 유명"
+  },
+  "marathon": {
+   "fame": 3,
+   "why": "번지 고전, 새 작품으로 다시 알려짐"
+  },
+  "system_shock": {
+   "fame": 3,
+   "why": "명작 고전 게임, 게이머 사이 유명"
+  },
+  "gundam_wing": {
+   "fame": 4,
+   "why": "국내 TV 방영 건담, 널리 알려짐"
+  },
+  "fading_suns": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 아는 사람만 앎"
+  },
+  "nadesico": {
+   "fame": 3,
+   "why": "90년대 애니 팬 사이 유명"
+  },
+  "star_ocean": {
+   "fame": 3,
+   "why": "일본 RPG 팬 사이 유명"
+  },
+  "yat": {
+   "fame": 2,
+   "why": "NHK 어린이 애니, 아는 사람만 앎"
+  },
+  "cowboy_bebop": {
+   "fame": 5,
+   "why": "세계적 명작 애니, 실사판도 나옴"
+  },
+  "homeworld": {
+   "fame": 3,
+   "why": "전략 게임 고전, 게이머 사이 유명"
+  },
+  "turn_a_gundam": {
+   "fame": 3,
+   "why": "건담 팬 사이 명작으로 이름남"
+  },
+  "x_universe": {
+   "fame": 2,
+   "why": "우주 시뮬 팬만 앎"
+  },
+  "atrox": {
+   "fame": 2,
+   "why": "옛 국산 전략 게임, 올드 게이머만"
+  },
+  "hakubutsukan_wakusei": {
+   "fame": 2,
+   "why": "일본 SF 소설, 아는 사람만 앎"
+  },
+  "kiddy_grade": {
+   "fame": 2,
+   "why": "곤조 TV 애니, 아는 사람만 앎"
+  },
+  "nova_1492": {
+   "fame": 2,
+   "why": "옛 국산 게임, 올드 게이머만 앎"
+  },
+  "space_rangers": {
+   "fame": 2,
+   "why": "러시아 컬트 게임, 국내 무명"
+  },
+  "ilium": {
+   "fame": 2,
+   "why": "시먼스 곁가지 연작, 덜 알려짐"
+  },
+  "last_exile": {
+   "fame": 3,
+   "why": "곤조 대표작, 애니 팬 사이 유명"
+  },
+  "stellvia": {
+   "fame": 2,
+   "why": "XEBEC TV 애니, 아는 사람만 앎"
+  },
+  "killzone": {
+   "fame": 3,
+   "why": "플레이스테이션 슈터, 게이머 사이 유명"
+  },
+  "rf_online": {
+   "fame": 2,
+   "why": "국산 온라인 게임, 당시 이용자만"
+  },
+  "old_mans_war": {
+   "fame": 3,
+   "why": "스칼지 대표작, 팬 사이 유명"
+  },
+  "lost_planet": {
+   "fame": 3,
+   "why": "캡콤 게임, 게이머 사이 알려짐"
+  },
+  "gundam_00": {
+   "fame": 4,
+   "why": "인기 건담, 국내외 널리 알려짐"
+  },
+  "gurren_lagann": {
+   "fame": 4,
+   "why": "명작 애니, 널리 알려짐"
+  },
+  "heroic_age": {
+   "fame": 2,
+   "why": "TV 애니, 아는 사람만 앎"
+  },
+  "bodacious_space_pirates": {
+   "fame": 2,
+   "why": "TV 애니, 아는 사람만 앎"
+  },
+  "chaos_walking": {
+   "fame": 3,
+   "why": "청소년 소설, 영화로 조금 알려짐"
+  },
+  "dead_space": {
+   "fame": 4,
+   "why": "널리 알려진 공포 게임"
+  },
+  "borderlands": {
+   "fame": 4,
+   "why": "대형 판매 게임, 영화화"
+  },
+  "eunha_webtoon": {
+   "fame": 1,
+   "why": "자료 적은 국내 웹툰"
+  },
+  "sora_kakeru": {
+   "fame": 2,
+   "why": "선라이즈 TV 애니, 덜 알려짐"
+  },
+  "majestic_prince": {
+   "fame": 2,
+   "why": "TV 로봇 애니, 아는 사람만 앎"
+  },
+  "vanquish": {
+   "fame": 2,
+   "why": "액션 게임 컬트작, 세계관 얇음"
+  },
+  "jezebel": {
+   "fame": 2,
+   "why": "듀나 연작, 국내 SF 독자만 앎"
+  },
+  "starsector": {
+   "fame": 2,
+   "why": "인디 우주 게임, 아는 사람만 앎"
+  },
+  "terra_formars": {
+   "fame": 3,
+   "why": "만화로 유명, 실사 영화도 나옴"
+  },
+  "the_martian": {
+   "fame": 5,
+   "why": "흥행 영화로 누구나 앎"
+  },
+  "analogue_hate_story": {
+   "fame": 2,
+   "why": "인디 비주얼 노벨, 아는 사람만"
+  },
+  "endless": {
+   "fame": 2,
+   "why": "전략 게임 팬만 앎"
+  },
+  "lagrange_rinne": {
+   "fame": 2,
+   "why": "TV 로봇 애니, 아는 사람만 앎"
+  },
+  "lunar_chronicles": {
+   "fame": 3,
+   "why": "해외 청소년 베스트셀러"
+  },
+  "space_king_kr": {
+   "fame": 1,
+   "why": "자료 적은 국내 웹툰"
+  },
+  "rimworld": {
+   "fame": 3,
+   "why": "인기 인디 게임, 게이머 사이 유명"
+  },
+  "valvrave": {
+   "fame": 2,
+   "why": "선라이즈 TV 애니, 덜 알려짐"
+  },
+  "aldnoah_zero": {
+   "fame": 3,
+   "why": "애니 팬 사이 이름남"
+  },
+  "captain_earth": {
+   "fame": 2,
+   "why": "본즈 TV 애니, 덜 알려짐"
+  },
+  "red_rising": {
+   "fame": 3,
+   "why": "해외 베스트셀러, 국내는 덜함"
+  },
+  "space_dandy": {
+   "fame": 3,
+   "why": "애니 팬 사이 유명"
+  },
+  "titanfall": {
+   "fame": 4,
+   "why": "에이펙스와 같은 세계, 게이머에 유명"
+  },
+  "cheotsum": {
+   "fame": 2,
+   "why": "배명훈 장편, 국내 SF 독자만 앎"
+  },
+  "gundam_iron_blooded_orphans": {
+   "fame": 3,
+   "why": "건담 팬 사이 유명"
+  },
+  "helldivers": {
+   "fame": 4,
+   "why": "2편 대흥행으로 널리 알려짐"
+  },
+  "onshu_seiiki": {
+   "fame": 2,
+   "why": "일본 SF 소설, 아는 사람만 앎"
+  },
+  "seveneves": {
+   "fame": 3,
+   "why": "스티븐슨 장편, 팬 사이 이름남"
+  },
+  "stella_odyssey": {
+   "fame": 2,
+   "why": "김보영 연작, 국내 SF 독자가 앎"
+  },
+  "astra_lost_in_space": {
+   "fame": 3,
+   "why": "애니 팬 사이 이름남"
+  },
+  "machineries_of_empire": {
+   "fame": 2,
+   "why": "상 받은 연작, 아는 사람만 앎"
+  },
+  "everspace": {
+   "fame": 2,
+   "why": "인디 우주 게임, 아는 사람만 앎"
+  },
+  "interdependency": {
+   "fame": 2,
+   "why": "스칼지 연작, 덜 알려짐"
+  },
+  "oxygen_not_included": {
+   "fame": 3,
+   "why": "인기 인디 게임"
+  },
+  "tacoma": {
+   "fame": 2,
+   "why": "인디 이야기 게임, 덜 알려짐"
+  },
+  "the_orville": {
+   "fame": 3,
+   "why": "해외 드라마, 국내는 덜함"
+  },
+  "yakitori": {
+   "fame": 2,
+   "why": "라이트노벨, 아는 사람만 앎"
+  },
+  "final_space": {
+   "fame": 2,
+   "why": "성인 애니, 아는 사람만 앎"
+  },
+  "age_of_wonders_planetfall": {
+   "fame": 2,
+   "why": "전략 게임 팬만 앎"
+  },
+  "barotrauma": {
+   "fame": 2,
+   "why": "인디 협동 게임, 아는 사람만"
+  },
+  "deliver_us": {
+   "fame": 2,
+   "why": "인디 게임, 아는 사람만 앎"
+  },
+  "for_all_mankind": {
+   "fame": 3,
+   "why": "호평받은 드라마, 팬 사이 유명"
+  },
+  "observation": {
+   "fame": 2,
+   "why": "인디 게임, 아는 사람만 앎"
+  },
+  "teixcalaan": {
+   "fame": 2,
+   "why": "휴고 수상, 국내는 덜 알려짐"
+  },
+  "the_outer_worlds": {
+   "fame": 3,
+   "why": "옵시디언 게임, 게이머 사이 유명"
+  },
+  "twinstar": {
+   "fame": 2,
+   "why": "오가와 잇스이 소설, 덜 알려짐"
+  },
+  "chorus": {
+   "fame": 2,
+   "why": "우주 슈팅 게임, 덜 알려짐"
+  },
+  "infinite_lagrange": {
+   "fame": 2,
+   "why": "모바일 전략 게임, 덜 알려짐"
+  },
+  "returnal": {
+   "fame": 3,
+   "why": "플레이스테이션 신작, 게이머에 유명"
+  },
+  "snowball_earth": {
+   "fame": 2,
+   "why": "신작 만화, 아직 덜 알려짐"
+  },
+  "the_ascent": {
+   "fame": 2,
+   "why": "인디 액션 게임, 덜 알려짐"
+  },
+  "the_riftbreaker": {
+   "fame": 2,
+   "why": "인디 게임, 아는 사람만 앎"
+  },
+  "tower_of_fantasy": {
+   "fame": 3,
+   "why": "대형 모바일 게임, 게이머에 알려짐"
+  },
+  "gundam_witch_from_mercury": {
+   "fame": 4,
+   "why": "최근 인기 건담, 널리 알려짐"
+  },
+  "ixion": {
+   "fame": 2,
+   "why": "인디 경영 게임, 덜 알려짐"
+  },
+  "terra_invicta": {
+   "fame": 2,
+   "why": "대전략 인디, 아는 사람만 앎"
+  },
+  "gundam_gquuuuuux": {
+   "fame": 3,
+   "why": "최근 건담, 팬 사이 화제"
+  },
+  "the_alters": {
+   "fame": 2,
+   "why": "신작 인디 게임, 덜 알려짐"
+  },
+  "pragmata": {
+   "fame": 3,
+   "why": "캡콤 신작, 게이머 사이 알려짐"
+  },
+  "byeolbit_soge": {
+   "fame": 2,
+   "why": "국내 순정 고전, 해외 무명"
+  },
+  "from_the_earth_to_the_moon": {
+   "fame": 4,
+   "why": "베른 고전, 일반에도 알려짐"
+  },
+  "the_first_men_in_the_moon": {
+   "fame": 3,
+   "why": "웰스 고전, 대표작보다 덜함"
+  },
+  "silver_globe": {
+   "fame": 2,
+   "why": "폴란드 고전, 국내 덜 알려짐"
+  },
+  "red_star_bogdanov": {
+   "fame": 2,
+   "why": "옛 러시아 SF, 아는 사람만 앎"
+  },
+  "barsoom": {
+   "fame": 3,
+   "why": "행성 모험 원형, 팬 사이 유명"
+  },
+  "skylark": {
+   "fame": 2,
+   "why": "초기 스페이스 오페라, 지금은 덜 읽힘"
+  },
+  "last_and_first_men": {
+   "fame": 2,
+   "why": "스테이플던 고전, 국내 번역 없음"
+  },
+  "maocheng_ji": {
+   "fame": 2,
+   "why": "라오서 풍자 SF, 아는 사람만 앎"
+  },
+  "flash_gordon": {
+   "fame": 4,
+   "why": "우주 활극 아이콘, 일반에도 알려짐"
+  },
+  "captain_future": {
+   "fame": 2,
+   "why": "옛 펄프 SF, 국내 인지도 낮음"
+  },
+  "cities_in_flight": {
+   "fame": 2,
+   "why": "옛 연작, 아는 사람만 앎"
+  },
+  "illustrated_man": {
+   "fame": 3,
+   "why": "브래드버리 대표 단편집"
+  },
+  "technic_history": {
+   "fame": 2,
+   "why": "앤더슨 연작, 국내 무명"
+  },
+  "the_space_merchants": {
+   "fame": 2,
+   "why": "풍자 고전, 지금은 덜 읽힘"
+  },
+  "a_case_of_conscience": {
+   "fame": 2,
+   "why": "휴고 수상 고전, 덜 읽힘"
+  },
+  "mission_of_gravity": {
+   "fame": 2,
+   "why": "하드 SF 고전, 아는 사람만 앎"
+  },
+  "cold_equations": {
+   "fame": 3,
+   "why": "논쟁으로 이름난 단편"
+  },
+  "double_star": {
+   "fame": 2,
+   "why": "하인라인 수상작, 덜 알려짐"
+  },
+  "andromeda_nebula": {
+   "fame": 2,
+   "why": "소련 SF 고전, 국내 덜 알려짐"
+  },
+  "have_space_suit": {
+   "fame": 2,
+   "why": "하인라인 청소년물, 덜 알려짐"
+  },
+  "les_maitres_du_temps": {
+   "fame": 2,
+   "why": "랄루 애니 영화, 아는 사람만 앎"
+  },
+  "childe_cycle": {
+   "fame": 2,
+   "why": "옛 밀리터리 SF, 국내 무명"
+  },
+  "pirx_the_pilot": {
+   "fame": 2,
+   "why": "렘 곁가지 연작, 덜 알려짐"
+  },
+  "perry_rhodan": {
+   "fame": 2,
+   "why": "독일 최장 연작, 국내는 무명"
+  },
+  "geumseong_tamheomdae": {
+   "fame": 2,
+   "why": "한국 SF 선구작, 아는 사람만 앎"
+  },
+  "berserker": {
+   "fame": 2,
+   "why": "버서커 가설로만 알려진 연작"
+  },
+  "way_station": {
+   "fame": 2,
+   "why": "휴고 수상 고전, 덜 읽힘"
+  },
+  "consentiency": {
+   "fame": 2,
+   "why": "허버트의 곁가지 우주, 덜 알려짐"
+  },
+  "martian_time_slip": {
+   "fame": 2,
+   "why": "딕 장편 가운데 덜 알려진 편"
+  },
+  "the_invincible": {
+   "fame": 2,
+   "why": "렘 장편, 게임화로 조금 알려짐"
+  },
+  "lost_in_space": {
+   "fame": 4,
+   "why": "미국 고전 드라마, 넷플릭스 리부트"
+  },
+  "mystery_of_the_third_planet": {
+   "fame": 2,
+   "why": "소련 애니 고전, 국내 무명"
+  },
+  "this_immortal": {
+   "fame": 2,
+   "why": "젤라즈니 초기작, 덜 알려짐"
+  },
+  "babel_17": {
+   "fame": 2,
+   "why": "딜레이니 수상작, 아는 사람만 앎"
+  },
+  "nova_delany": {
+   "fame": 2,
+   "why": "딜레이니 장편, 아는 사람만 앎"
+  },
+  "tau_zero": {
+   "fame": 2,
+   "why": "하드 SF 고전, 아는 사람만 앎"
+  },
+  "rendezvous_with_rama": {
+   "fame": 3,
+   "why": "클라크 대표작, 팬 사이 유명"
+  },
+  "eight_worlds": {
+   "fame": 2,
+   "why": "발리 연작, 국내 덜 알려짐"
+  },
+  "tekkaman_1975": {
+   "fame": 2,
+   "why": "옛 타쓰노코 애니, 올드 팬만 앎"
+  },
+  "they_were_eleven": {
+   "fame": 3,
+   "why": "하기오 모토 고전, 만화 팬이 앎"
+  },
+  "heechee": {
+   "fame": 2,
+   "why": "수상작이나 국내 번역 없음"
+  },
+  "houston_houston": {
+   "fame": 2,
+   "why": "팁트리 중편, 아는 사람만 앎"
+  },
+  "thousand_worlds_martin": {
+   "fame": 2,
+   "why": "마틴의 SF 연작, 덜 알려짐"
+  },
+  "traveller": {
+   "fame": 2,
+   "why": "탁상 놀이 고전, 국내 무명"
+  },
+  "battlestar_galactica": {
+   "fame": 4,
+   "why": "해외 대표 SF 드라마, 국내는 덜함"
+  },
+  "daikengo": {
+   "fame": 1,
+   "why": "소규모 제작 옛 애니, 자료 적음"
+  },
+  "enemy_mine": {
+   "fame": 3,
+   "why": "영화로 조금 알려진 중편"
+  },
+  "janissaries": {
+   "fame": 2,
+   "why": "밀리터리 SF 연작, 덜 알려짐"
+  },
+  "koku_uchugun_shi": {
+   "fame": 2,
+   "why": "일본 밀리터리 SF, 국내 무명"
+  },
+  "space_battleship_geobukseon": {
+   "fame": 2,
+   "why": "70년대 국산 애니, 표절로 알려짐"
+  },
+  "space_black_knight": {
+   "fame": 2,
+   "why": "국산 극장 애니, 무단 사용으로 알려짐"
+  },
+  "the_fountains_of_paradise": {
+   "fame": 3,
+   "why": "클라크 수상작, 우주 엘리베이터로 유명"
+  },
+  "boy_007": {
+   "fame": 1,
+   "why": "80년 국산 극장 애니, 자료 적음"
+  },
+  "the_snow_queen_vinge": {
+   "fame": 2,
+   "why": "휴고 수상작, 국내 번역 없음"
+  },
+  "x_bomber": {
+   "fame": 2,
+   "why": "일본 인형극, 아는 사람만 앎"
+  },
+  "dougram": {
+   "fame": 2,
+   "why": "옛 리얼 로봇물, 올드 팬만 앎"
+  },
+  "j9_series": {
+   "fame": 2,
+   "why": "옛 TV 애니, 올드 팬만 앎"
+  },
+  "helliconia": {
+   "fame": 2,
+   "why": "올디스 연작, 국내 번역 없음"
+  },
+  "galaxy_legend_terra": {
+   "fame": 1,
+   "why": "83년 국산 애니, 자료 적음"
+  },
+  "bloodchild": {
+   "fame": 2,
+   "why": "버틀러 단편, 아는 사람만 앎"
+  },
+  "elite": {
+   "fame": 3,
+   "why": "우주 무역 게임 원조, 게이머에 유명"
+  },
+  "l_gaim": {
+   "fame": 2,
+   "why": "옛 로봇물, 올드 팬만 앎"
+  },
+  "voltron": {
+   "fame": 3,
+   "why": "미국에선 유명, 국내는 덜함"
+  },
+  "silverhawks": {
+   "fame": 2,
+   "why": "옛 미국 TV 애니, 올드 팬만 앎"
+  },
+  "space_quest": {
+   "fame": 2,
+   "why": "옛 어드벤처 게임, 국내 무명"
+  },
+  "starflight": {
+   "fame": 2,
+   "why": "옛 PC 게임, 아는 사람만 앎"
+  },
+  "dangaioh": {
+   "fame": 2,
+   "why": "옛 OVA 로봇물, 아는 사람만 앎"
+  },
+  "xenogenesis": {
+   "fame": 2,
+   "why": "버틀러 연작, 국내는 이제 번역"
+  },
+  "zillion": {
+   "fame": 2,
+   "why": "옛 TV 애니, 아는 사람만 앎"
+  },
+  "cyber_blue": {
+   "fame": 1,
+   "why": "짧은 연재 만화, 자료 적음"
+  },
+  "kirinyaga": {
+   "fame": 2,
+   "why": "레스닉 연작, 아는 사람만 앎"
+  },
+  "tylor": {
+   "fame": 2,
+   "why": "90년대 애니, 아는 사람만 앎"
+  },
+  "wonder_kiddy_2020": {
+   "fame": 3,
+   "why": "국내에선 화제작, 해외는 무명"
+  },
+  "wing_commander": {
+   "fame": 3,
+   "why": "고전 우주 게임, 영화화"
+  },
+  "xeelee": {
+   "fame": 2,
+   "why": "백스터 연작, 국내 번역 없음"
+  },
+  "lost_universe": {
+   "fame": 2,
+   "why": "슬레이어즈 작가 SF, 덜 알려짐"
+  },
+  "tekkaman_blade": {
+   "fame": 2,
+   "why": "90년대 TV 애니, 아는 사람만 앎"
+  },
+  "babylon_5": {
+   "fame": 3,
+   "why": "해외 SF 팬 사이 유명"
+  },
+  "master_of_orion": {
+   "fame": 3,
+   "why": "4X 전략 고전, 게이머에 유명"
+  },
+  "star_fox": {
+   "fame": 4,
+   "why": "닌텐도 시리즈, 널리 알려짐"
+  },
+  "yamamoto_yoko": {
+   "fame": 2,
+   "why": "90년대 애니, 아는 사람만 앎"
+  },
+  "armitage_iii": {
+   "fame": 2,
+   "why": "OVA, 아는 사람만 앎"
+  },
+  "foreigner_cherryh": {
+   "fame": 2,
+   "why": "체리 장기 연작, 국내 번역 없음"
+  },
+  "galactic_civilizations": {
+   "fame": 2,
+   "why": "4X 게임, 아는 사람만 앎"
+  },
+  "starsiege_tribes": {
+   "fame": 2,
+   "why": "옛 온라인 슈터, 국내 무명"
+  },
+  "worldwar_turtledove": {
+   "fame": 2,
+   "why": "대체역사 SF, 국내 번역 없음"
+  },
+  "saber_marionette": {
+   "fame": 2,
+   "why": "90년대 애니, 아는 사람만 앎"
+  },
+  "gundam_x": {
+   "fame": 3,
+   "why": "건담 팬은 앎, 건담 중엔 덜함"
+  },
+  "nights_dawn": {
+   "fame": 2,
+   "why": "해밀턴 3부작, 국내 번역 없음"
+  },
+  "the_sparrow": {
+   "fame": 2,
+   "why": "클라크상 수상작, 덜 알려짐"
+  },
+  "earth_2140": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "shogo": {
+   "fame": 2,
+   "why": "옛 FPS, 아는 사람만 앎"
+  },
+  "xenogears": {
+   "fame": 3,
+   "why": "컬트 명작 RPG, 게이머 사이 유명"
+  },
+  "farscape": {
+   "fame": 3,
+   "why": "해외 SF 팬 사이 유명, 국내 덜함"
+  },
+  "infinite_ryvius": {
+   "fame": 2,
+   "why": "선라이즈 TV 애니, 덜 알려짐"
+  },
+  "mito": {
+   "fame": 2,
+   "why": "어린이 TV 애니, 아는 사람만 앎"
+  },
+  "moonlight_mile": {
+   "fame": 2,
+   "why": "우주 개발 만화, 아는 사람만 앎"
+  },
+  "revelation_space": {
+   "fame": 2,
+   "why": "레이놀즈 연작, 국내 번역 없음"
+  },
+  "schlock_mercenary": {
+   "fame": 2,
+   "why": "웹 만화, 국내 무명"
+  },
+  "titan_ae": {
+   "fame": 3,
+   "why": "극장 애니, 꾸준히 거론됨"
+  },
+  "vandread": {
+   "fame": 2,
+   "why": "곤조 TV 애니, 아는 사람만 앎"
+  },
+  "aria_amano": {
+   "fame": 3,
+   "why": "힐링 애니로 팬 사이 유명"
+  },
+  "galaxy_angel": {
+   "fame": 2,
+   "why": "미디어믹스, 아는 사람만 앎"
+  },
+  "pikmin": {
+   "fame": 4,
+   "why": "닌텐도 시리즈, 널리 알려짐"
+  },
+  "polity_asher": {
+   "fame": 2,
+   "why": "애셔 연작, 국내 번역 없음"
+  },
+  "twin_spica": {
+   "fame": 2,
+   "why": "우주 학교 만화, 아는 사람만 앎"
+  },
+  "xiangcun_jiaoshi": {
+   "fame": 2,
+   "why": "류츠신 단편, 아는 사람만 앎"
+  },
+  "firefly": {
+   "fame": 3,
+   "why": "해외 컬트 드라마, 국내는 덜함"
+  },
+  "treasure_planet": {
+   "fame": 4,
+   "why": "디즈니 극장 애니, 일반도 앎"
+  },
+  "tunshizhe": {
+   "fame": 2,
+   "why": "류츠신 단편, 아는 사람만 앎"
+  },
+  "voices_of_a_distant_star": {
+   "fame": 3,
+   "why": "신카이 초기작, 애니 팬 사이 유명"
+  },
+  "xenosaga": {
+   "fame": 3,
+   "why": "일본 RPG 팬 사이 유명"
+  },
+  "commonwealth_hamilton": {
+   "fame": 2,
+   "why": "해밀턴 연작, 국내 번역 없음"
+  },
+  "firefall": {
+   "fame": 3,
+   "why": "하드 SF 대표작, 팬 사이 유명"
+  },
+  "glasshouse_stross": {
+   "fame": 2,
+   "why": "스트로스 장편, 아는 사람만 앎"
+  },
+  "papillon_des_etoiles": {
+   "fame": 3,
+   "why": "국내에선 많이 읽힌 베르베르 소설"
+  },
+  "space_brothers": {
+   "fame": 3,
+   "why": "인기 만화, 애니·영화화"
+  },
+  "supreme_commander": {
+   "fame": 2,
+   "why": "전략 게임 팬만 앎"
+  },
+  "android_ffg": {
+   "fame": 2,
+   "why": "보드게임 세계, 아는 사람만 앎"
+  },
+  "kaiba": {
+   "fame": 2,
+   "why": "유아사 TV 애니, 아는 사람만 앎"
+  },
+  "sins_of_a_solar_empire": {
+   "fame": 2,
+   "why": "전략 게임 팬만 앎"
+  },
+  "wall_e": {
+   "fame": 5,
+   "why": "픽사 대표작, 누구나 앎"
+  },
+  "eclipse_phase": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 아는 사람만 앎"
+  },
+  "galaxy_on_fire": {
+   "fame": 2,
+   "why": "휴대전화 게임, 아는 사람만 앎"
+  },
+  "planet_51": {
+   "fame": 3,
+   "why": "극장 애니, 일반 관객도 봄"
+  },
+  "redline": {
+   "fame": 3,
+   "why": "작화로 이름난 애니 영화"
+  },
+  "tenmei_no_shirube": {
+   "fame": 2,
+   "why": "일본 대하 SF, 국내 번역 없음"
+  },
+  "quantum_thief": {
+   "fame": 2,
+   "why": "라야니에미 연작, 국내 번역 없음"
+  },
+  "space_show": {
+   "fame": 2,
+   "why": "소규모 극장 애니, 덜 알려짐"
+  },
+  "swallowed_star": {
+   "fame": 3,
+   "why": "중국에선 인기작, 국내는 덜함"
+  },
+  "gundam_age": {
+   "fame": 3,
+   "why": "건담 팬은 앎, 평은 낮음"
+  },
+  "mars_needs_moms": {
+   "fame": 2,
+   "why": "흥행 실패 애니, 덜 알려짐"
+  },
+  "phantasy_star_online_2": {
+   "fame": 3,
+   "why": "대형 온라인 게임, 게이머에 알려짐"
+  },
+  "redshirts": {
+   "fame": 2,
+   "why": "스칼지 풍자 장편, 덜 알려짐"
+  },
+  "star_citizen": {
+   "fame": 3,
+   "why": "크라우드펀딩으로 유명한 게임"
+  },
+  "cheonghon": {
+   "fame": 2,
+   "why": "배명훈 장편, 국내 SF 독자만 앎"
+  },
+  "gargantia": {
+   "fame": 3,
+   "why": "TV 애니, 애니 팬 사이 알려짐"
+  },
+  "imperial_radch": {
+   "fame": 3,
+   "why": "상을 휩쓴 연작, 팬 사이 유명"
+  },
+  "risk_of_rain": {
+   "fame": 3,
+   "why": "인기 인디 게임, 세계관 얇음"
+  },
+  "starbound": {
+   "fame": 3,
+   "why": "인기 인디 게임"
+  },
+  "the_100": {
+   "fame": 3,
+   "why": "해외 드라마, 넷플릭스로 알려짐"
+  },
+  "wander_over_yonder": {
+   "fame": 2,
+   "why": "디즈니 TV 애니, 덜 알려짐"
+  },
+  "expelled_from_paradise": {
+   "fame": 2,
+   "why": "극장 애니, 아는 사람만 앎"
+  },
+  "planetary_annihilation": {
+   "fame": 2,
+   "why": "전략 게임 팬만 앎"
+  },
+  "binti": {
+   "fame": 2,
+   "why": "오코라포르 중편, 아는 사람만 앎"
+  },
+  "descender": {
+   "fame": 2,
+   "why": "미국 만화 연작, 덜 알려짐"
+  },
+  "opus": {
+   "fame": 2,
+   "why": "대만 인디 게임, 덜 알려짐"
+  },
+  "tiramisu": {
+   "fame": 2,
+   "why": "개그 만화, 아는 사람만 앎"
+  },
+  "astroneer": {
+   "fame": 3,
+   "why": "인기 인디 게임"
+  },
+  "factorio": {
+   "fame": 3,
+   "why": "인기 게임, 세계관은 얇음"
+  },
+  "last_and_first_idol": {
+   "fame": 2,
+   "why": "일본 SF 중편, 아는 사람만 앎"
+  },
+  "luluco": {
+   "fame": 2,
+   "why": "트리거 단편 애니, 덜 알려짐"
+  },
+  "mars_natgeo": {
+   "fame": 2,
+   "why": "다큐 드라마, 덜 알려짐"
+  },
+  "midnight_sky": {
+   "fame": 3,
+   "why": "넷플릭스 영화로 알려짐"
+  },
+  "odyssey_galoa": {
+   "fame": 2,
+   "why": "국내 웹툰, 아는 사람만 앎"
+  },
+  "offworld_trading_company": {
+   "fame": 2,
+   "why": "경제 전략 게임, 덜 알려짐"
+  },
+  "slime_rancher": {
+   "fame": 3,
+   "why": "인기 인디 게임"
+  },
+  "subterrain": {
+   "fame": 2,
+   "why": "국내 인디 게임, 덜 알려짐"
+  },
+  "artemis_weir": {
+   "fame": 3,
+   "why": "마션 작가 장편, 독자에 알려짐"
+  },
+  "prey_2017": {
+   "fame": 3,
+   "why": "아케인 게임, 게이머 사이 유명"
+  },
+  "spaceman_of_bohemia": {
+   "fame": 2,
+   "why": "넷플릭스 영화 원작, 덜 알려짐"
+  },
+  "breathedge": {
+   "fame": 2,
+   "why": "인디 생존 게임, 덜 알려짐"
+  },
+  "planet_with": {
+   "fame": 2,
+   "why": "TV 애니, 아는 사람만 앎"
+  },
+  "starlink_atlas": {
+   "fame": 2,
+   "why": "완구 연동 게임, 덜 알려짐"
+  },
+  "uriga_bichui_sokdoro": {
+   "fame": 3,
+   "why": "국내 베스트셀러, 해외는 덜함"
+  },
+  "another_life": {
+   "fame": 2,
+   "why": "넷플릭스 드라마, 평 낮고 덜 알려짐"
+  },
+  "gipa": {
+   "fame": 2,
+   "why": "국내 수상 장편, 아는 사람만 앎"
+  },
+  "gnosia": {
+   "fame": 3,
+   "why": "화제 인디 게임, 애니화"
+  },
+  "heavens_vault": {
+   "fame": 2,
+   "why": "인디 이야기 게임, 덜 알려짐"
+  },
+  "mindustry": {
+   "fame": 2,
+   "why": "인디 게임, 세계관 얇음"
+  },
+  "satisfactory": {
+   "fame": 3,
+   "why": "인기 게임, 게이머 사이 유명"
+  },
+  "void_bastards": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "deep_rock_galactic": {
+   "fame": 3,
+   "why": "인기 협동 게임"
+  },
+  "eolmana_dalmanneunga": {
+   "fame": 2,
+   "why": "김보영 소설집, 국내 SF 독자만"
+  },
+  "raised_by_wolves": {
+   "fame": 3,
+   "why": "HBO 드라마, 리들리 스콧 연출"
+  },
+  "space_haven": {
+   "fame": 2,
+   "why": "인디 경영 게임, 덜 알려짐"
+  },
+  "yuryeong_haema": {
+   "fame": 2,
+   "why": "국내 수상 장편, 아는 사람만 앎"
+  },
+  "icarus": {
+   "fame": 2,
+   "why": "생존 게임, 덜 알려짐"
+  },
+  "outriders": {
+   "fame": 3,
+   "why": "대형 슈터, 게이머에 알려짐"
+  },
+  "project_hail_mary": {
+   "fame": 4,
+   "why": "베스트셀러, 2026 영화로 널리 알려짐"
+  },
+  "callisto_protocol": {
+   "fame": 3,
+   "why": "대형 공포 게임, 게이머에 알려짐"
+  },
+  "citizen_sleeper": {
+   "fame": 2,
+   "why": "인디 이야기 게임, 덜 알려짐"
+  },
+  "mickey_17": {
+   "fame": 4,
+   "why": "봉준호 영화로 국내 널리 알려짐"
+  },
+  "orbital_children": {
+   "fame": 2,
+   "why": "넷플릭스 애니, 덜 알려짐"
+  },
+  "sea_of_tranquility": {
+   "fame": 2,
+   "why": "문학 독자에 알려진 장편"
+  },
+  "the_planet_crafter": {
+   "fame": 2,
+   "why": "인디 생존 게임, 덜 알려짐"
+  },
+  "cobalt_core": {
+   "fame": 2,
+   "why": "인디 카드 게임, 덜 알려짐"
+  },
+  "mars_express": {
+   "fame": 2,
+   "why": "프랑스 애니 영화, 덜 알려짐"
+  },
+  "orbital_harvey": {
+   "fame": 3,
+   "why": "부커상 수상으로 알려짐"
+  },
+  "elio": {
+   "fame": 3,
+   "why": "픽사 장편이나 흥행 부진"
+  },
+  "stars_gossip": {
+   "fame": 3,
+   "why": "국내 대형 드라마, 해외는 덜함"
+  },
+  "menace": {
+   "fame": 2,
+   "why": "신작 전략 게임, 덜 알려짐"
+  },
+  "mio_memories": {
+   "fame": 2,
+   "why": "신작 인디 게임, 덜 알려짐"
+  },
+  "saros": {
+   "fame": 3,
+   "why": "플레이스테이션 신작"
+  },
+  "aelita": {
+   "fame": 2,
+   "why": "소련 초기 SF, 아는 사람만 앎"
+  },
+  "buck_rogers": {
+   "fame": 3,
+   "why": "미국 우주 활극 아이콘, 국내 덜함"
+  },
+  "when_worlds_collide": {
+   "fame": 2,
+   "why": "옛 소설·영화, 덜 알려짐"
+  },
+  "null_a": {
+   "fame": 2,
+   "why": "반 보그트 대표작, 국내 번역 없음"
+  },
+  "dan_dare": {
+   "fame": 2,
+   "why": "영국 고전 만화, 국내 무명"
+  },
+  "the_stainless_steel_rat": {
+   "fame": 2,
+   "why": "해리슨 연작, 국내 번역 없음"
+  },
+  "bolo": {
+   "fame": 2,
+   "why": "공동 연작, 국내 무명"
+  },
+  "hyakuoku_no_hiru_to_senoku_no_yoru": {
+   "fame": 2,
+   "why": "일본 SF 고전, 국내 번역 없음"
+  },
+  "destination_void": {
+   "fame": 2,
+   "why": "허버트 곁가지 연작, 덜 알려짐"
+  },
+  "lone_sloane": {
+   "fame": 2,
+   "why": "프랑스 고전 만화, 국내 무명"
+  },
+  "captain_scarlet": {
+   "fame": 2,
+   "why": "영국 인형극, 국내 덜 알려짐"
+  },
+  "emon_21": {
+   "fame": 2,
+   "why": "후지코 F 만화, 국내 덜 알려짐"
+  },
+  "yoko_tsuno": {
+   "fame": 2,
+   "why": "벨기에 장기 만화, 국내 무명"
+  },
+  "the_gods_themselves": {
+   "fame": 2,
+   "why": "아시모프 수상작, 국내 번역 없음"
+  },
+  "the_mote_in_gods_eye": {
+   "fame": 2,
+   "why": "니븐·퍼넬 장편, 국내 번역 없음"
+  },
+  "crusher_joe": {
+   "fame": 2,
+   "why": "다카치호 연작, 국내 번역 없음"
+  },
+  "storm_lawrence": {
+   "fame": 2,
+   "why": "네덜란드 장기 만화, 국내 무명"
+  },
+  "taiyofu_koten": {
+   "fame": 2,
+   "why": "일본 SF 단편집, 아는 사람만 앎"
+  },
+  "blakes_7": {
+   "fame": 2,
+   "why": "영국 고전 드라마, 국내 무명"
+  },
+  "daitarn_3": {
+   "fame": 2,
+   "why": "옛 선라이즈 로봇물, 올드 팬만"
+  },
+  "strontium_dog": {
+   "fame": 2,
+   "why": "영국 2000 AD 연재, 국내 무명"
+  },
+  "abc_warriors": {
+   "fame": 2,
+   "why": "영국 2000 AD 연재, 국내 무명"
+  },
+  "canopus_in_argos": {
+   "fame": 2,
+   "why": "레싱 SF 연작, 국내 번역 없음"
+  },
+  "gaea_trilogy": {
+   "fame": 2,
+   "why": "발리 삼부작, 국내 번역 없음"
+  },
+  "nemesis_the_warlock": {
+   "fame": 2,
+   "why": "영국 2000 AD 연재, 국내 무명"
+  },
+  "rogue_trooper": {
+   "fame": 2,
+   "why": "영국 2000 AD 연재, 국내 무명"
+  },
+  "teki_wa_kaizoku": {
+   "fame": 2,
+   "why": "일본 SF 연작, 국내 번역 없음"
+  },
+  "il_etait_une_fois_lespace": {
+   "fame": 2,
+   "why": "프랑스 교육 애니, 국내 덜 알려짐"
+  },
+  "star_frontiers": {
+   "fame": 2,
+   "why": "옛 탁상 놀이, 아는 사람만 앎"
+  },
+  "planetfall": {
+   "fame": 2,
+   "why": "옛 글자 모험 게임, 덜 알려짐"
+  },
+  "round_vernian_vifam": {
+   "fame": 2,
+   "why": "옛 선라이즈 애니, 올드 팬만"
+  },
+  "dragon_ball": {
+   "fame": 5,
+   "why": "국내외 누구나 아는 대작"
+  },
+  "southern_cross": {
+   "fame": 2,
+   "why": "초시공 시리즈 셋째, 덜 알려짐"
+  },
+  "tabi_no_ragosu": {
+   "fame": 2,
+   "why": "일본 소설, 국내 번역 없음"
+  },
+  "gradius": {
+   "fame": 3,
+   "why": "고전 슈팅, 게이머 사이 유명"
+  },
+  "layzner": {
+   "fame": 2,
+   "why": "옛 리얼 로봇물, 올드 팬만"
+  },
+  "megazone_23": {
+   "fame": 2,
+   "why": "컬트 OVA, 아는 사람만 앎"
+  },
+  "gall_force": {
+   "fame": 2,
+   "why": "옛 OVA 연작, 아는 사람만 앎"
+  },
+  "md_geist": {
+   "fame": 2,
+   "why": "컬트 OVA, 아는 사람만 앎"
+  },
+  "sagittarius": {
+   "fame": 2,
+   "why": "옛 TV 애니, 국내 덜 알려짐"
+  },
+  "darius": {
+   "fame": 2,
+   "why": "고전 슈팅, 아는 사람만 앎"
+  },
+  "forge_of_god": {
+   "fame": 2,
+   "why": "베어 장편, 아는 사람만 앎"
+  },
+  "phantasy_star": {
+   "fame": 3,
+   "why": "세가 고전 RPG, 게이머에 알려짐"
+  },
+  "red_dwarf": {
+   "fame": 3,
+   "why": "영국 인기 시트콤, 국내 덜함"
+  },
+  "tytania": {
+   "fame": 2,
+   "why": "다나카 요시키 작품, 국내 덜함"
+  },
+  "space_1889": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 국내 무명"
+  },
+  "f_zero": {
+   "fame": 3,
+   "why": "닌텐도 레이싱, 게이머에 알려짐"
+  },
+  "metal_slader_glory": {
+   "fame": 2,
+   "why": "컬트 옛 게임, 아는 사람만 앎"
+  },
+  "exosquad": {
+   "fame": 2,
+   "why": "옛 미국 TV 애니, 국내 무명"
+  },
+  "aldebaran": {
+   "fame": 2,
+   "why": "프랑스 SF 만화, 국내 무명"
+  },
+  "heavy_gear": {
+   "fame": 2,
+   "why": "탁상·PC 게임, 국내 무명"
+  },
+  "outpost": {
+   "fame": 2,
+   "why": "옛 시에라 게임, 아는 사람만 앎"
+  },
+  "policenauts": {
+   "fame": 2,
+   "why": "코지마 옛 게임, 아는 사람만 앎"
+  },
+  "linda_cube": {
+   "fame": 2,
+   "why": "컬트 옛 게임, 아는 사람만 앎"
+  },
+  "space_above_and_beyond": {
+   "fame": 2,
+   "why": "한 시즌 드라마, 국내 무명"
+  },
+  "the_dig": {
+   "fame": 2,
+   "why": "루카스아츠 모험, 덜 알려짐"
+  },
+  "escape_velocity": {
+   "fame": 2,
+   "why": "옛 셰어웨어 게임, 국내 무명"
+  },
+  "outlaw_star": {
+   "fame": 3,
+   "why": "90년대 애니, 해외 팬 사이 유명"
+  },
+  "quake": {
+   "fame": 4,
+   "why": "널리 알려진 고전 FPS"
+  },
+  "colony_wars": {
+   "fame": 2,
+   "why": "옛 플레이스테이션 게임, 덜 알려짐"
+  },
+  "imperium_galactica": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "independence_war": {
+   "fame": 2,
+   "why": "옛 우주 시뮬, 아는 사람만 앎"
+  },
+  "lexx": {
+   "fame": 2,
+   "why": "캐나다 컬트 드라마, 국내 무명"
+  },
+  "twilight_imperium": {
+   "fame": 3,
+   "why": "보드게임 팬 사이 유명"
+  },
+  "battlezone_1998": {
+   "fame": 2,
+   "why": "옛 전략 슈터, 아는 사람만 앎"
+  },
+  "freespace": {
+   "fame": 2,
+   "why": "우주 시뮬 명작, 국내 덜 알려짐"
+  },
+  "universal_war_one": {
+   "fame": 2,
+   "why": "프랑스 SF 만화, 국내 무명"
+  },
+  "unreal": {
+   "fame": 3,
+   "why": "엔진 이름으로 유명한 고전 FPS"
+  },
+  "manifold_baxter": {
+   "fame": 2,
+   "why": "백스터 연작, 국내 번역 없음"
+  },
+  "andromeda": {
+   "fame": 2,
+   "why": "로든베리 원안 드라마, 국내 무명"
+  },
+  "freelancer": {
+   "fame": 2,
+   "why": "옛 우주 게임, 국내 덜 알려짐"
+  },
+  "ground_control": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "phantasy_star_online": {
+   "fame": 3,
+   "why": "콘솔 온라인 이정표, 게이머 앎"
+  },
+  "anachronox": {
+   "fame": 2,
+   "why": "컬트 RPG, 아는 사람만 앎"
+  },
+  "anarchy_online": {
+   "fame": 2,
+   "why": "옛 SF 온라인 게임, 국내 무명"
+  },
+  "red_faction": {
+   "fame": 3,
+   "why": "파괴 지형 슈터, 게이머에 알려짐"
+  },
+  "startopia": {
+   "fame": 2,
+   "why": "옛 경영 게임, 아는 사람만 앎"
+  },
+  "zone_of_the_enders": {
+   "fame": 3,
+   "why": "코지마 제작, 게이머에 알려짐"
+  },
+  "invincible": {
+   "fame": 4,
+   "why": "아마존 애니로 널리 알려짐"
+  },
+  "planetside": {
+   "fame": 2,
+   "why": "대규모 온라인 슈터, 국내 덜함"
+  },
+  "ufo_aftermath": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "perimeter": {
+   "fame": 2,
+   "why": "러시아 전략 게임, 아는 사람만"
+  },
+  "accelerando": {
+   "fame": 2,
+   "why": "스트로스 장편, 국내 번역 없음"
+  },
+  "rogue_galaxy": {
+   "fame": 2,
+   "why": "판매 저조 RPG, 덜 알려짐"
+  },
+  "spin_wilson": {
+   "fame": 2,
+   "why": "휴고 수상작, 국내 번역 없음"
+  },
+  "all_tomorrows": {
+   "fame": 3,
+   "why": "인터넷에서 널리 퍼진 그림책"
+  },
+  "oban_star_racers": {
+   "fame": 2,
+   "why": "프랑스 TV 애니, 국내 무명"
+  },
+  "sword_of_the_stars": {
+   "fame": 2,
+   "why": "4X 게임, 아는 사람만 앎"
+  },
+  "infinite_space": {
+   "fame": 2,
+   "why": "닌텐도 DS 게임, 덜 알려짐"
+  },
+  "distant_worlds": {
+   "fame": 2,
+   "why": "4X 게임, 아는 사람만 앎"
+  },
+  "embassytown": {
+   "fame": 2,
+   "why": "미에빌 장편, 국내 번역 없음"
+  },
+  "gemini_rue": {
+   "fame": 2,
+   "why": "인디 모험 게임, 덜 알려짐"
+  },
+  "kerbal_space_program": {
+   "fame": 3,
+   "why": "유명한 우주 게임, 세계관 얇음"
+  },
+  "ftl": {
+   "fame": 3,
+   "why": "유명 인디 게임"
+  },
+  "ksr_2312": {
+   "fame": 2,
+   "why": "로빈슨 장편, 국내 번역 없음"
+  },
+  "the_swapper": {
+   "fame": 2,
+   "why": "인디 퍼즐 게임, 덜 알려짐"
+  },
+  "wayfarers": {
+   "fame": 2,
+   "why": "체임버스 연작, 국내 번역 없음"
+  },
+  "ark_survival": {
+   "fame": 4,
+   "why": "대형 생존 게임, 널리 알려짐"
+  },
+  "children_of_time": {
+   "fame": 2,
+   "why": "해외 팬엔 유명, 국내 번역 없음"
+  },
+  "killjoys": {
+   "fame": 2,
+   "why": "캐나다 드라마, 국내 무명"
+  },
+  "bobiverse": {
+   "fame": 2,
+   "why": "오디오북 인기 연작, 국내 무명"
+  },
+  "coriolis": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 국내 무명"
+  },
+  "scavengers_reign": {
+   "fame": 2,
+   "why": "호평받은 한 시즌 애니, 덜 알려짐"
+  },
+  "alice_gear_aegis": {
+   "fame": 2,
+   "why": "모바일 게임, 아는 사람만 앎"
+  },
+  "lady_astronaut": {
+   "fame": 2,
+   "why": "수상 연작, 국내 번역 없음"
+  },
+  "seikei_izumo_no_heitan": {
+   "fame": 2,
+   "why": "일본 수상작, 국내 번역 없음"
+  },
+  "crying_suns": {
+   "fame": 2,
+   "why": "인디 전략 게임, 덜 알려짐"
+  },
+  "lancer": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 국내 무명"
+  },
+  "hardspace_shipbreaker": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "dyson_sphere_program": {
+   "fame": 3,
+   "why": "인기 인디 게임, 세계관 얇음"
+  },
+  "high_on_life": {
+   "fame": 3,
+   "why": "릭 앤 모티 제작자 게임, 화제작"
+  },
+  "colony_ship": {
+   "fame": 2,
+   "why": "인디 RPG, 아는 사람만 앎"
+  },
+  "starfield": {
+   "fame": 4,
+   "why": "베데스다 대작, 널리 알려짐"
+  },
+  "queen_of_mars": {
+   "fame": 2,
+   "why": "NHK 드라마, 국내 덜 알려짐"
+  },
+  "auf_zwei_planeten": {
+   "fame": 2,
+   "why": "독일 SF 출발점, 국내 무명"
+  },
+  "space_trilogy": {
+   "fame": 2,
+   "why": "루이스 SF 삼부작, 나니아보다 덜함"
+  },
+  "space_beagle": {
+   "fame": 2,
+   "why": "반 보그트 연작, 국내 번역 없음"
+  },
+  "quatermass": {
+   "fame": 2,
+   "why": "영국 고전 드라마, 국내 무명"
+  },
+  "ikarie_xb1": {
+   "fame": 2,
+   "why": "체코 고전 영화, 아는 사람만 앎"
+  },
+  "the_last_question": {
+   "fame": 3,
+   "why": "아시모프 단편, 인터넷에 널리 퍼짐"
+  },
+  "non_stop": {
+   "fame": 2,
+   "why": "세대선 고전, 국내 번역 없음"
+  },
+  "rogue_moon": {
+   "fame": 2,
+   "why": "옛 장편, 국내 번역 없음"
+  },
+  "the_ship_who_sang": {
+   "fame": 2,
+   "why": "매캐프리 연작, 국내 번역 없음"
+  },
+  "barbarella": {
+   "fame": 3,
+   "why": "제인 폰다 영화로 이름난 만화"
+  },
+  "wrinkle_in_time": {
+   "fame": 3,
+   "why": "해외 고전 동화, 디즈니 영화화"
+  },
+  "raumpatrouille_orion": {
+   "fame": 2,
+   "why": "서독 고전 드라마, 국내 무명"
+  },
+  "captain_ultra": {
+   "fame": 1,
+   "why": "옛 특촬, 자료 적음"
+  },
+  "pern": {
+   "fame": 3,
+   "why": "해외에선 유명, 국내 번역 일부"
+  },
+  "star_wolf": {
+   "fame": 2,
+   "why": "해밀턴 연작·특촬, 덜 알려짐"
+  },
+  "ufo_1970": {
+   "fame": 2,
+   "why": "영국 옛 드라마, 국내 무명"
+  },
+  "a_time_of_changes": {
+   "fame": 2,
+   "why": "실버버그 수상작, 국내 번역 없음"
+  },
+  "man_plus": {
+   "fame": 2,
+   "why": "폴 수상작, 국내 번역 없음"
+  },
+  "metamorphosis_alpha": {
+   "fame": 1,
+   "why": "초창기 탁상 놀이, 자료 적음"
+  },
+  "cosmic_encounter": {
+   "fame": 2,
+   "why": "보드게임 고전, 세계관 얇음"
+  },
+  "dragons_egg": {
+   "fame": 2,
+   "why": "하드 SF 고전, 국내 번역 없음"
+  },
+  "sayonara_jupiter": {
+   "fame": 2,
+   "why": "고마쓰 사쿄 장편, 국내 덜함"
+  },
+  "trider_g7": {
+   "fame": 2,
+   "why": "옛 선라이즈 로봇물, 올드 팬만"
+  },
+  "carlvinson": {
+   "fame": 2,
+   "why": "옛 개그 만화, 아는 사람만 앎"
+  },
+  "mule": {
+   "fame": 2,
+   "why": "옛 고전 게임, 국내 무명"
+  },
+  "galient": {
+   "fame": 2,
+   "why": "옛 선라이즈 로봇물, 올드 팬만"
+  },
+  "halo_jones": {
+   "fame": 2,
+   "why": "앨런 무어 만화, 국내 무명"
+  },
+  "assault_suits": {
+   "fame": 2,
+   "why": "옛 콘솔 액션, 아는 사람만 앎"
+  },
+  "commander_keen": {
+   "fame": 2,
+   "why": "옛 셰어웨어 게임, 국내 덜함"
+  },
+  "lagrange_point": {
+   "fame": 1,
+   "why": "옛 패미컴 RPG, 자료 적음"
+  },
+  "doom": {
+   "fame": 4,
+   "why": "FPS 원형, 일반에도 알려짐"
+  },
+  "space_empires": {
+   "fame": 2,
+   "why": "4X 게임, 아는 사람만 앎"
+  },
+  "red_moon_hwang": {
+   "fame": 2,
+   "why": "국내 순정 고전, 해외 무명"
+  },
+  "ascendancy": {
+   "fame": 2,
+   "why": "옛 4X 게임, 아는 사람만 앎"
+  },
+  "descent": {
+   "fame": 2,
+   "why": "옛 비행 슈터, 아는 사람만 앎"
+  },
+  "rocket_girl": {
+   "fame": 2,
+   "why": "라이트노벨·TV 애니, 덜 알려짐"
+  },
+  "tigris_to_euphrates": {
+   "fame": 2,
+   "why": "일본 SF 대상작, 국내 번역 없음"
+  },
+  "z_bitmap": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "dark_reign": {
+   "fame": 2,
+   "why": "옛 전략 게임, 아는 사람만 앎"
+  },
+  "total_annihilation": {
+   "fame": 2,
+   "why": "전략 고전, 국내는 덜 알려짐"
+  },
+  "taiyo_no_sandatsusha": {
+   "fame": 2,
+   "why": "일본 하드 SF, 국내 번역 없음"
+  },
+  "starship_operators": {
+   "fame": 2,
+   "why": "라이트노벨·TV 애니, 덜 알려짐"
+  },
+  "haegemonia": {
+   "fame": 1,
+   "why": "옛 전략 게임, 자료 적음"
+  },
+  "dairoku_tairiku": {
+   "fame": 2,
+   "why": "일본 수상작, 국내 번역 없음"
+  },
+  "space_station_13": {
+   "fame": 2,
+   "why": "온라인 컬트 게임, 아는 사람만"
+  },
+  "nexus_jupiter_incident": {
+   "fame": 2,
+   "why": "옛 우주 전략, 아는 사람만 앎"
+  },
+  "ben_10": {
+   "fame": 4,
+   "why": "카툰네트워크 간판, 국내 아이도 앎"
+  },
+  "spore": {
+   "fame": 4,
+   "why": "널리 알려진 진화 게임"
+  },
+  "ai_war": {
+   "fame": 2,
+   "why": "인디 전략 게임, 아는 사람만"
+  },
+  "bulletstorm": {
+   "fame": 2,
+   "why": "단독 슈터, 덜 알려짐"
+  },
+  "space_engineers": {
+   "fame": 3,
+   "why": "인기 게임, 세계관 얇음"
+  },
+  "steven_universe": {
+   "fame": 4,
+   "why": "카툰네트워크 인기작"
+  },
+  "the_technomancer": {
+   "fame": 2,
+   "why": "평 엇갈린 RPG, 덜 알려짐"
+  },
+  "orbital_cloud": {
+   "fame": 2,
+   "why": "일본 수상작, 국내 번역 없음"
+  },
+  "out_there": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "empyrion": {
+   "fame": 2,
+   "why": "인디 생존 게임, 덜 알려짐"
+  },
+  "grey_goo": {
+   "fame": 2,
+   "why": "전략 게임, 덜 알려짐"
+  },
+  "rebel_galaxy": {
+   "fame": 2,
+   "why": "인디 우주 게임, 덜 알려짐"
+  },
+  "ashes_of_the_singularity": {
+   "fame": 2,
+   "why": "전략 게임, 덜 알려짐"
+  },
+  "children_dead_earth": {
+   "fame": 2,
+   "why": "사실적 우주전 시뮬, 아는 사람만"
+  },
+  "duskers": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "event0": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "the_turing_test": {
+   "fame": 2,
+   "why": "인디 퍼즐 게임, 덜 알려짐"
+  },
+  "avorion": {
+   "fame": 2,
+   "why": "인디 우주 게임, 덜 알려짐"
+  },
+  "heat_signature": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "universal_paperclips": {
+   "fame": 2,
+   "why": "인터넷 화제 게임, 국내 덜함"
+  },
+  "akutoku_ryoshu": {
+   "fame": 2,
+   "why": "라이트노벨, 애니화로 조금 알려짐"
+  },
+  "edens_zero": {
+   "fame": 3,
+   "why": "페어리 테일 작가 만화, 팬이 앎"
+  },
+  "hoshi_tsubasa": {
+   "fame": 1,
+   "why": "아케이드 게임, 자료 적음"
+  },
+  "mothership": {
+   "fame": 2,
+   "why": "탁상 놀이, 국내 무명"
+  },
+  "surviving_mars": {
+   "fame": 2,
+   "why": "경영 게임, 아는 사람만 앎"
+  },
+  "in_other_waters": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "per_aspera": {
+   "fame": 2,
+   "why": "인디 경영 게임, 덜 알려짐"
+  },
+  "shadow_empire": {
+   "fame": 2,
+   "why": "전략 게임, 아는 사람만 앎"
+  },
+  "some_desperate_glory": {
+   "fame": 2,
+   "why": "휴고 수상작, 국내 번역 없음"
+  },
+  "kachikujin_yapoo": {
+   "fame": 2,
+   "why": "일본 문제작, 국내 덜 알려짐"
+  },
+  "heavy_metal": {
+   "fame": 3,
+   "why": "성인 애니 고전, 팬 사이 유명"
+  },
+  "majipoor": {
+   "fame": 2,
+   "why": "실버버그 연작, 국내 번역 없음"
+  },
+  "spelljammer": {
+   "fame": 2,
+   "why": "D&D 곁가지 세계, 국내 무명"
+  },
+  "tsuki_to_laika_to_nosferatu": {
+   "fame": 2,
+   "why": "라이트노벨·TV 애니, 덜 알려짐"
+  },
+  "starfinder": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 국내 무명"
+  },
+  "carole_and_tuesday": {
+   "fame": 3,
+   "why": "와타나베 감독 애니, 팬 사이 알려짐"
+  },
+  "routine": {
+   "fame": 2,
+   "why": "신작 인디 게임, 덜 알려짐"
+  },
+  "mutant_chronicles": {
+   "fame": 2,
+   "why": "탁상 놀이 세계, 국내 무명"
+  },
+  "locked_tomb": {
+   "fame": 2,
+   "why": "해외 인기 연작, 국내 번역 없음"
+  },
+  "cosmic_fantasy": {
+   "fame": 2,
+   "why": "PC엔진 RPG, 아는 사람만 앎"
+  },
+  "sable": {
+   "fame": 2,
+   "why": "인디 게임, 덜 알려짐"
+  },
+  "iron_lung": {
+   "fame": 3,
+   "why": "인디 게임이 영화로 화제"
+  },
+  "lethal_company": {
+   "fame": 3,
+   "why": "대흥행 인디, 게이머에 유명"
+  }
+ }
+}

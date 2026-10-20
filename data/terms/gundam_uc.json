@@ -1,0 +1,1553 @@
+{
+  "terms": [
+    {
+      "id": "universal_century",
+      "ko": "우주세기",
+      "orig": "宇宙世紀",
+      "orig_en": "Universal Century",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '우주세기 0079년'. 『기동전사 건담 UC RE:0096』 1화 「96년째의 출발」 줄거리 https://kr.gundam-official.com/series/unicorn-re0096/story/b6nqdfv1qt7x0he171v5c3m6 — '서력에서 우주세기로 개력'. Steam 한국어 상점 『기동전사 건담 배틀 오퍼레이션 2』 소개에도 '『기동전사 건담』 시리즈의 우주세기'",
+      "alt_ko": [
+        {
+          "ko": "U.C.",
+          "src": "같은 공식 사이트에서 줄여 쓴 표기 — 『기동전사 건담 섬광의 하사웨이 키르케의 마녀』 작품 소개 'U.C.0105' https://kr.gundam-official.com/series/hathaway-ii"
+        },
+        {
+          "ko": "우주력",
+          "src": "라프텔 『극장판 기동전사 건담 제 08MS 소대: 밀러즈 리포트』 작품 소개(laftel.net/item/16297) — '우주력 0079년'"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "인류가 우주 이민을 시작한 해부터 세는 연호.",
+      "note": "서력을 버리고 새로 연 달력으로, 0079년의 일년전쟁부터 0150년대 우주 전국시대까지 이 연표의 이야기가 모두 이 연호로 매겨진다. 개력 기념식 날 연방 수상 관저가 폭탄 테러로 무너진 사건이 그 첫머리에 놓인다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://kr.gundam-official.com/series/unicorn-re0096/story/b6nqdfv1qt7x0he171v5c3m6",
+        "https://store.steampowered.com/app/1367080/",
+        "https://ja.wikipedia.org/wiki/宇宙世紀"
+      ]
+    },
+    {
+      "id": "space_emigration",
+      "ko": "우주 이민",
+      "orig": "宇宙移民",
+      "orig_en": "space emigration",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 디 오리진 전야 붉은 혜성』 1화 「지온의 아이」 줄거리 https://kr.gundam-official.com/series/origin-tv/story/binxleib4ei5akfnmkq06bh4 — '우주 이민의 시대'; 『기동전사 건담 UC RE:0096』 10화 「작열하는 대지에서」 줄거리 https://kr.gundam-official.com/series/unicorn-re0096/story/lv10okepamyy8h1x6eejz67e",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "earth_left",
+        "overpopulation"
+      ],
+      "one": "넘쳐 난 인구를 우주의 콜로니로 옮겨 보낸 일.",
+      "note": "지구가 늘어난 인구와 오염을 견디지 못하자 지구연방이 사람들을 우주의 콜로니로 내보냈다. 우주세기가 이 일과 함께 시작되었고, 지구에 남은 쪽과 떠난 쪽의 골이 그 뒤 모든 전쟁의 뿌리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/origin-tv/story/binxleib4ei5akfnmkq06bh4",
+        "https://kr.gundam-official.com/series/unicorn-re0096/story/lv10okepamyy8h1x6eejz67e",
+        "https://laftel.net/item/14821",
+        "https://kr.gundam-official.com/series/v",
+        "https://ja.wikipedia.org/wiki/宇宙世紀"
+      ]
+    },
+    {
+      "id": "one_year_war",
+      "ko": "일년전쟁",
+      "orig": "一年戦争",
+      "orig_en": "One Year War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '훗날 일년전쟁이라 불리는'; 메카 「자쿠II」 설명 등 여러 곳",
+      "alt_ko": [
+        {
+          "ko": "지온 독립 전쟁",
+          "src": "같은 공식 사이트의 다른 이름 — 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam"
+        },
+        {
+          "ko": "1년 전쟁",
+          "src": "같은 공식 사이트의 띄어 쓴 표기 — 작품 제목 『기동전사 건담 MS IGLOO 1년 전쟁 비록』 https://kr.gundam-official.com/series/ms-igloo-the-hidden-one-year-war, 『기동전사 건담 MS IGLOO 묵시록 0079』 1화 「자브로 상공에서 바다를 보았다」 줄거리 https://kr.gundam-official.com/series/ms-igloo-apocalypse-0079/story/pu1n3j1l9k2ftimblde1nyvk"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "지온 공국이 지구연방에 건 독립 전쟁.",
+      "note": "우주세기 0079년 초에 시작해 이듬해 첫날 종전 협정까지 이어졌다. 처음 한 달 사이에 인류의 절반이 죽었다. 사람이 타는 거대 병기 모빌슈트가 처음으로 전장의 주역이 된 전쟁이다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://kr.gundam-official.com/mecha/eg57jwhd75t4svilt8ta1dtl",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "operation_british",
+      "ko": "브리티시 작전",
+      "orig": "ブリティッシュ作戦",
+      "orig_en": "Operation British",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 디 오리진』 5화 「격돌 루움 회전」 줄거리 https://kr.gundam-official.com/series/origin/story/pj53xk9ol450fikonlec4u2v — '브리티시 작전(콜로니 낙하)'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "콜로니 하나를 통째로 지구에 떨어뜨린 작전.",
+      "note": "일년전쟁 첫머리에 지온 공국군이 연방군 본부를 노리고 독가스로 주민을 몰살한 콜로니를 지구로 떨어뜨렸다. 콜로니는 연방군의 저지로 부서지며 오스트레일리아 시드니를 덮쳤다. 개전 직후의 이 싸움들로 인류의 절반이 죽었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/origin/story/pj53xk9ol450fikonlec4u2v",
+        "https://laftel.net/item/38784",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "battle_of_loum",
+      "ko": "루움 전역",
+      "orig": "ルウム戦役",
+      "orig_en": "Battle of Loum",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 24화 「박격! 트리플 돔」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/jmybefzmfo3jtwjjylqbl1hc — '루움 전역에서 자신을 포로로 잡았던'",
+      "alt_ko": [
+        {
+          "ko": "루움 회전",
+          "src": "같은 공식 사이트의 『디 오리진』 쪽 이름(원어 ルウム会戦, 영어판 Battle/Clash at Loum) — 『기동전사 건담 디 오리진』 5화 「격돌 루움 회전」 줄거리 https://kr.gundam-official.com/series/origin/story/pj53xk9ol450fikonlec4u2v"
+        },
+        {
+          "ko": "루움 전투",
+          "src": "라프텔 『기동전사 건담 디 오리진 5 : 격돌 루움 전투』 작품 소개(laftel.net/item/38784) — 제목 「격돌 루움 전투」"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "일년전쟁 초 사이드 5 앞에서 벌어진 큰 함대 결전.",
+      "note": "수가 훨씬 많은 연방 함대를 지온군이 모빌슈트를 앞세워 무너뜨린 싸움이다. 연방 함대를 이끈 장군이 포로가 되었고, 사람이 타는 거대 병기가 함대를 이길 수 있다는 것이 이때 드러났다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/jmybefzmfo3jtwjjylqbl1hc",
+        "https://kr.gundam-official.com/series/origin",
+        "https://laftel.net/item/38784",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "operation_v",
+      "ko": "V작전",
+      "orig": "V作戦",
+      "orig_en": "Operation V",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「화이트 베이스」 설명 https://kr.gundam-official.com/mecha/ph9n8v3hjvxmdtv45lqxi8i3 — '「V작전」에 따라 건조된 전함'; 『기동전사 건담 디 오리진』 6화 「탄생 붉은 혜성」 줄거리 https://kr.gundam-official.com/series/origin/story/uhfvnco1snwzc4y7wkkocmxy",
+      "alt_ko": [
+        {
+          "ko": "V 작전",
+          "src": "같은 공식 사이트의 띄어 쓴 표기 — 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam-movie-i"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "연방군이 모빌슈트를 갖추려고 벌인 비밀 개발 계획.",
+      "note": "지온의 모빌슈트에 밀리던 연방군이 건담과 모함 화이트 베이스를 만들어 사이드 7에서 시험하던 중 지온군에 들키면서 첫 이야기가 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/ph9n8v3hjvxmdtv45lqxi8i3",
+        "https://kr.gundam-official.com/series/origin/story/uhfvnco1snwzc4y7wkkocmxy",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam-movie-i"
+      ]
+    },
+    {
+      "id": "earth_descent",
+      "ko": "지구 강하 작전",
+      "orig": "地球降下作戦",
+      "orig_en": "Earth descent operation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 MS IGLOO 2 중력전선』 작품 소개 https://kr.gundam-official.com/series/ms-igloo2-the-gravity-front — '지구 강하 작전으로 지구의 대부분을 세력하에'; 『기동전사 건담 ZZ』 23화 「불타는 지구」 줄거리 https://kr.gundam-official.com/series/zz/story/rnmrop8p19awyh37bqk2h72o",
+      "alt_ko": [
+        {
+          "ko": "지구강하 작전",
+          "src": "라프텔 『극장판 기동전사 Z건담Ⅱ: 연인들』 작품 소개(laftel.net/item/13940) — '지구강하 작전 이후'"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "orbital_drop"
+      ],
+      "one": "우주에서 지구로 병력과 모빌슈트를 내려보낸 작전.",
+      "note": "일년전쟁 초 지온 공국군은 우주에서 지구로 모빌슈트와 병력을 내려보내 지구의 넓은 땅을 차지했다. 그 뒤로도 우주의 세력이 지구를 칠 때마다 대기권을 뚫고 내려가는 강하가 되풀이된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/ms-igloo2-the-gravity-front",
+        "https://kr.gundam-official.com/series/zz/story/rnmrop8p19awyh37bqk2h72o",
+        "https://laftel.net/item/13940",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "gryps_conflict",
+      "ko": "그리프스 전역",
+      "orig": "グリプス戦役",
+      "orig_en": "Gryps Conflict",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 ZZ』 작품 소개 https://kr.gundam-official.com/series/zz — '지구연방군 내의 내전이라고도 불리는 그리프스 전역'",
+      "alt_ko": [
+        {
+          "ko": "그리프스 전쟁",
+          "src": "라프텔 『기동전사 건담 ZZ』 작품 소개(laftel.net/item/15140) — '그리프스 전쟁'"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "티탄즈와 에우고가 맞붙은 연방군 안의 내전.",
+      "note": "우주세기 0087년부터 이듬해까지 이어졌다. 지온 잔당 액시즈까지 끼어들어 세 세력이 다투었고, 콜로니를 고친 거대 레이저 포가 서로를 겨누었다. 티탄즈가 무너지며 끝났다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/zz",
+        "https://kr.gundam-official.com/series/zz/story/ahwzdckr684lq0gzp4ak9zsx",
+        "https://laftel.net/item/15140"
+      ]
+    },
+    {
+      "id": "second_neo_zeon_war",
+      "ko": "제2차 네오 지온 전쟁",
+      "orig": "第二次ネオ・ジオン戦争",
+      "orig_en": "Second Neo Zeon War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 섬광의 하사웨이』 작품 소개 https://kr.gundam-official.com/series/hathaway-i — '제2차 네오 지온 전쟁, '샤아의 반란''; 『기동전사 건담 UC RE:0096』 작품 소개 https://kr.gundam-official.com/series/unicorn-re0096",
+      "alt_ko": [
+        {
+          "ko": "샤아의 반란",
+          "src": "같은 공식 사이트에서 함께 쓰는 별명 — 『기동전사 건담 섬광의 하사웨이』 작품 소개 https://kr.gundam-official.com/series/hathaway-i; 라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253)도 '샤아의 반란'"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "우주세기 0093년 다시 일어선 네오 지온이 연방에 맞선 전쟁.",
+      "note": "일년전쟁 때 지온의 이름난 조종사였던 샤아가 네오 지온을 다시 세워, 지구에 매달린 인류를 몰아내겠다며 소행성을 지구에 떨어뜨리려 했다. 연방의 외곽 부대 론도 벨이 이를 막아섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/hathaway-i",
+        "https://kr.gundam-official.com/series/unicorn-re0096",
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://laftel.net/item/33253"
+      ]
+    },
+    {
+      "id": "earth_cooling_operation",
+      "ko": "지구 한랭화 작전",
+      "orig": "地球寒冷化作戦",
+      "orig_en": "Earth-cooling operation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 역습의 샤아』 작품 소개 https://kr.gundam-official.com/series/chars-counterattack — '지구 한랭화 작전', '티베트 라사로의 5th 루나 낙하'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "mass_driver",
+        "planet_killer"
+      ],
+      "one": "소행성을 지구에 떨어뜨려 지구를 얼리려 한 작전.",
+      "note": "샤아의 네오 지온이 썩은 인류를 지구에서 몰아내겠다며 꾸몄다. 먼저 작은 소행성 하나를 티베트 라사에 떨어뜨렸고, 이어 소행성 기지 액시즈를 떨어뜨려 하늘을 가리고 지구를 사람이 살 수 없는 땅으로 만들려 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://laftel.net/item/15012"
+      ]
+    },
+    {
+      "id": "operation_stardust",
+      "ko": "별 부스러기 작전",
+      "orig": "星の屑作戦",
+      "orig_en": "Operation Stardust",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 0083 STARDUST MEMORY』 작품 소개 https://kr.gundam-official.com/series/0083 — '지구로 콜로니를 떨어뜨리는 '별 부스러기 작전''",
+      "alt_ko": [
+        {
+          "ko": "별의 부스러기",
+          "src": "같은 공식 사이트 줄거리의 다른 옮김 — 『기동전사 건담 0083 STARDUST MEMORY』 8화 「책모의 주역」 줄거리 https://kr.gundam-official.com/series/0083/story/waxuhrqez9uc2vv9bth9ggat"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "데라즈 플리트가 꾸민 콜로니 낙하 작전.",
+      "note": "빼앗은 건담의 핵으로 연방의 관함식을 치고, 그 틈에 콜로니를 지구로 떨어뜨리려 했다. 일년전쟁에서 진 지온 잔당이 연방에 다시 칼을 겨눈 싸움이다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/0083",
+        "https://kr.gundam-official.com/series/0083-movie",
+        "https://kr.gundam-official.com/series/0083/story/waxuhrqez9uc2vv9bth9ggat"
+      ]
+    },
+    {
+      "id": "laplace_incident",
+      "ko": "라플라스 사변",
+      "orig": "ラプラス事変",
+      "orig_en": "Laplace Incident",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『Mobile Suit Gundam Narrative』 작품 소개 https://kr.gundam-official.com/series/narrative — '훗날 『라플라스 사변』이라 불리는 전란'; 라프텔 『기동전사 건담 내러티브』 작품 소개(laftel.net/item/39309)에도 같은 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "라플라스의 상자를 두고 벌어진 우주세기 0096년의 전란.",
+      "note": "비스트 재단이 상자를 네오 지온 잔당에게 넘기려 하면서 시작되어, 연방과 잔당 「소데츠키」가 지구와 우주를 오가며 싸웠다. 소데츠키가 무너지며 끝난 것으로 여겨졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/narrative",
+        "https://laftel.net/item/39309"
+      ]
+    },
+    {
+      "id": "space_warring_states",
+      "ko": "우주 전국시대",
+      "orig": "宇宙戦国時代",
+      "orig_en": "Space Warring States period",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『기동전사 V 건담』 작품 소개(laftel.net/item/16303) — '이른바 '우주 전국시대'가 열린다'(건담 공식 사이트 한국어판에서는 이 말을 찾지 못함)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "연방이 힘을 잃고 세력들이 저마다 일어선 시대.",
+      "note": "우주세기 0120년대 무렵부터 연방의 통제가 느슨해지자 콜로니와 조직들이 저마다 나라와 군대를 세워 다투었다. 크로스본 뱅가드와 잔스칼 제국이 이 시대에 나타났다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16303",
+        "https://kr.gundam-official.com/series/v",
+        "https://ja.wikipedia.org/wiki/宇宙世紀"
+      ]
+    },
+    {
+      "id": "earth_federation",
+      "ko": "지구연방",
+      "orig": "地球連邦",
+      "orig_en": "Earth Federation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '지구연방에 선전 포고'; 정부는 '지구연방정부', 군은 '지구연방군'으로 같은 사이트 곳곳에",
+      "alt_ko": [
+        {
+          "ko": "지구연방정부",
+          "src": "같은 공식 사이트에서 정부를 가리킬 때 — 『기동전사 건담 복수의 레퀴엠』 작품 소개 https://kr.gundam-official.com/series/requiem-for-vengeance; 라프텔 『[건담 베이스 20주년] 기동전사 건담 [2026년 판권 만료작]』 작품 소개(laftel.net/item/14821)도 '지구연방정부'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구와 우주의 인류 전체를 다스리는 하나의 정부.",
+      "note": "우주세기를 연 세계 정부로, 지구 위에 정부를 두고 우주의 콜로니들까지 다스리며 지구연방군을 거느린다. 오래 권력을 쥐면서 썩어 간다는 비판을 받고, 이 연표의 거의 모든 전쟁에서 맞서는 한쪽이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://kr.gundam-official.com/series/v",
+        "https://laftel.net/item/14821"
+      ]
+    },
+    {
+      "id": "principality_of_zeon",
+      "ko": "지온 공국",
+      "orig": "ジオン公国",
+      "orig_en": "Principality of Zeon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '사이드 3는 '지온 공국'을 자처하며'; 종전은 『기동전사 건담』 43화 「탈출」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/zxx7fu98b3j2d2913b6v3niu — '지온 공화국'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "사이드 3이 지구연방에서 떨어져 나와 세운 나라.",
+      "note": "지구에서 가장 먼 사이드 3의 콜로니들이 이룬 나라로, 건국 지도자가 숨진 뒤 자비 가문이 실권을 쥐고 공국을 선포했다. 우주세기 0079년 연방에 독립 전쟁을 걸었다가 졌고, 종전 협정은 공화국으로 바뀐 뒤 맺었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/zxx7fu98b3j2d2913b6v3niu",
+        "https://kr.gundam-official.com/series/origin-tv",
+        "https://laftel.net/item/14821"
+      ]
+    },
+    {
+      "id": "zabi_family",
+      "ko": "자비 가문",
+      "orig": "ザビ家",
+      "orig_en": "Zabi family",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 디 오리진』 작품 소개 https://kr.gundam-official.com/series/origin — '지온 공국의 지도자 일족인 자비 가문'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지온 공국을 다스린 집안.",
+      "note": "사이드 3의 지도자가 숨진 뒤 실권을 쥐고 공국을 세웠다. 공왕과 그 자식들이 정치와 군을 나눠 맡았으며, 지도자 암살의 흑막이라는 소문이 늘 따라다닌다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/origin",
+        "https://kr.gundam-official.com/series/origin-tv",
+        "https://laftel.net/item/38642"
+      ]
+    },
+    {
+      "id": "titans",
+      "ko": "티탄즈",
+      "orig": "ティターンズ",
+      "orig_en": "Titans",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담 A New Translation 별을 잇는 자』 작품 소개 https://kr.gundam-official.com/series/z-movie-i — '지구연방군 특수부대 '티탄즈''",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "지온 잔당을 친다며 세운 연방군 특수 부대.",
+      "note": "일년전쟁 뒤 지온 잔당 소탕을 명분으로 세운 엘리트 부대로, 치안을 핑계로 스페이스노이드를 짓누르며 연방군을 사실상 손에 넣으려 했다. 이에 반발한 연방군 사람들이 에우고로 갈라져 나와 내전이 벌어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z-movie-i",
+        "https://kr.gundam-official.com/series/z",
+        "https://laftel.net/item/15132"
+      ]
+    },
+    {
+      "id": "aeug",
+      "ko": "에우고",
+      "orig": "エゥーゴ",
+      "orig_en": "AEUG",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담 A New Translation 별을 잇는 자』 작품 소개 https://kr.gundam-official.com/series/z-movie-i — '반연방 정부 조직 '에우고''; 『기동전사 Z건담』 43화 「하만의 조소」 줄거리 https://kr.gundam-official.com/series/z/story/k0es9v6jh04h591ckf6hxtpd — '에우고의 최대 후원자인 애너하임'",
+      "alt_ko": [
+        {
+          "ko": "에우고(A.E.U.G)",
+          "src": "라프텔 『극장판 기동전사 Z 건담Ⅰ: 별을 잇는 자』 작품 소개(laftel.net/item/13939) — 영문 약자를 덧붙인 표기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "티탄즈에 맞서 일어난 반연방 조직.",
+      "note": "티탄즈의 횡포를 걱정한 연방군 사람들과 스페이스노이드가 모여 만들었고, 거대 기업 애너하임 일렉트로닉스가 뒤를 댔다. 게릴라전으로 시작해 그리프스 전역에서 티탄즈를 꺾었지만 그 자신도 힘을 거의 잃었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z-movie-i",
+        "https://kr.gundam-official.com/series/z/story/k0es9v6jh04h591ckf6hxtpd",
+        "https://laftel.net/item/13939"
+      ]
+    },
+    {
+      "id": "neo_zeon",
+      "ko": "네오 지온",
+      "orig": "ネオ・ジオン",
+      "orig_en": "Neo Zeon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 ZZ』 작품 소개 https://kr.gundam-official.com/series/zz — '액시즈는 '네오 지온'을 선언'; 『기동전사 건담 역습의 샤아』 작품 소개 https://kr.gundam-official.com/series/chars-counterattack",
+      "alt_ko": [
+        {
+          "ko": "네오지온",
+          "src": "라프텔 『기동전사 건담 ZZ』 작품 소개(laftel.net/item/15140)·라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253)의 붙여 쓴 표기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지온의 이름을 이어 다시 일어선 세력.",
+      "note": "그리프스 전역 직후 소행성 기지 액시즈의 지온 잔당이 이 이름을 내걸고 지구권을 쳤고, 우주세기 0093년에는 샤아가 다시 세워 연방에 맞섰다. 그 뒤로도 잔당이 「소데츠키」 같은 이름으로 남았다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/zz",
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://laftel.net/item/15140"
+      ]
+    },
+    {
+      "id": "londo_bell",
+      "ko": "론도 벨",
+      "orig": "ロンド・ベル",
+      "orig_en": "Londo Bell",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 역습의 샤아』 작품 소개 https://kr.gundam-official.com/series/chars-counterattack — '연방군 외곽 부대 론도 벨'",
+      "alt_ko": [
+        {
+          "ko": "Londo Bell",
+          "src": "같은 공식 사이트 『기동전사 건담 UC』 작품 소개·줄거리는 영어 그대로 둠 — https://kr.gundam-official.com/series/unicorn"
+        },
+        {
+          "ko": "론드벨",
+          "src": "라프텔 『극장판 기동전사 건담: 역습의 샤아』 작품 소개(laftel.net/item/15012) — '론드벨 부대'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "연방군의 우주 외곽 부대.",
+      "note": "지온 잔당과 네오 지온에 맞서려고 꾸린 독립 기동 함대로, 일년전쟁의 영웅들이 몸담았다. 제2차 네오 지온 전쟁과 라플라스 사변에서 싸움의 앞에 선다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://kr.gundam-official.com/series/unicorn",
+        "https://laftel.net/item/15012"
+      ]
+    },
+    {
+      "id": "anaheim_electronics",
+      "ko": "애너하임 일렉트로닉스",
+      "orig": "アナハイム・エレクトロニクス",
+      "orig_en": "Anaheim Electronics",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「마라사이」 설명 https://kr.gundam-official.com/mecha/dd6jb0v7jmqas514prwk0joe — '애너하임 일렉트로닉스사로부터 티탄즈에 무상으로 제공'; 『기동전사 Z건담』 43화 「하만의 조소」 줄거리 https://kr.gundam-official.com/series/z/story/k0es9v6jh04h591ckf6hxtpd — '거대 군수 기업 애너하임'",
+      "alt_ko": [
+        {
+          "ko": "애너하임",
+          "src": "같은 공식 사이트에서 줄여 부르는 이름 — 『기동전사 Z건담』 43화 「하만의 조소」 줄거리 https://kr.gundam-official.com/series/z/story/k0es9v6jh04h591ckf6hxtpd"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "연방과 반연방 양쪽에 모빌슈트를 대는 거대 군수 기업.",
+      "note": "일년전쟁 뒤 군수 산업을 휘어잡은 기업으로, 에우고의 가장 큰 후원자이면서 그 적인 티탄즈에도 신형 모빌슈트를 넘겼다. 이익을 따라 여러 세력에 무기를 대며, 이 연표의 이름난 건담 여럿이 이 회사에서 나왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/dd6jb0v7jmqas514prwk0joe",
+        "https://kr.gundam-official.com/series/z/story/k0es9v6jh04h591ckf6hxtpd",
+        "https://kr.gundam-official.com/mecha/nfg4eiqba8cs80fjck4mkco2",
+        "https://ja.wikipedia.org/wiki/アナハイム・エレクトロニクス"
+      ]
+    },
+    {
+      "id": "delaz_fleet",
+      "ko": "데라즈 플리트",
+      "orig": "デラーズ・フリート",
+      "orig_en": "Delaz Fleet",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 0083 STARDUST MEMORY』 작품 소개 https://kr.gundam-official.com/series/0083 — '사건을 계획한 데라즈 플리트'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "일년전쟁 뒤에도 항복하지 않은 지온 잔당 함대.",
+      "note": "종전 뒤 숨어 힘을 모았다가 우주세기 0083년 연방에 다시 전쟁을 선포했다. 핵을 실은 건담을 빼앗고 콜로니를 지구에 떨어뜨리는 작전을 꾸몄다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/0083",
+        "https://kr.gundam-official.com/series/0083-movie"
+      ]
+    },
+    {
+      "id": "vist_foundation",
+      "ko": "비스트 재단",
+      "orig": "ビスト財団",
+      "orig_en": "Vist Foundation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 UC』 작품 소개 https://kr.gundam-official.com/series/unicorn — '상자를 보유함으로써 지구연방정부와 공생 관계를 구축한 비스트 재단'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "라플라스의 상자를 쥐고 연방과 손잡아 온 재단.",
+      "note": "상자를 지렛대 삼아 백 년 가까이 연방 정부에 큰 힘을 미쳐 왔다. 재단과 연방은 서로의 약점을 붙잡은 채 기대어 사는 사이다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/unicorn",
+        "https://kr.gundam-official.com/series/unicorn-re0096",
+        "https://laftel.net/item/33253"
+      ]
+    },
+    {
+      "id": "sleeves",
+      "ko": "소데츠키",
+      "orig": "袖付き",
+      "orig_en": "Sleeves",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 UC』 작품 소개 https://kr.gundam-official.com/series/unicorn — '네오 지온 잔당군 '소데츠키''; 라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253)에도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주세기 0096년 무렵 남아 있던 네오 지온 잔당군.",
+      "note": "붉은 혜성의 재림이라 불리는 지휘관 아래 라플라스의 상자를 손에 넣으려 했다. 일본어 별명을 정식판이 소리 그대로 옮겼으며, 뜻은 '소매가 달린 자들'이다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/unicorn",
+        "https://kr.gundam-official.com/series/narrative",
+        "https://laftel.net/item/33253"
+      ]
+    },
+    {
+      "id": "crossbone_vanguard",
+      "ko": "크로스본 뱅가드",
+      "orig": "クロスボーン・バンガード",
+      "orig_en": "Crossbone Vanguard",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 F91』 작품 소개 https://kr.gundam-official.com/series/f91 — '그들의 이름은 크로스본 뱅가드'; 라프텔 『극장판 기동전사 건담 F91』 작품 소개(laftel.net/item/15136)에도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "귀족이 다스리는 나라를 세우려 일어난 무장 집단.",
+      "note": "한 귀족 가문이 만든 사병 집단으로, 우주세기 0123년 새 콜로니 프론티어 IV를 쳐서 코스모 바빌로니아의 건국을 내걸었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/f91",
+        "https://laftel.net/item/15136"
+      ]
+    },
+    {
+      "id": "zanscare_empire",
+      "ko": "잔스칼 제국",
+      "orig": "ザンスカール帝国",
+      "orig_en": "Zanscare Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 V건담』 작품 소개 https://kr.gundam-official.com/series/v — '사이드2의 거의 전역을 지배하는 잔스칼 제국'; 단두대는 『기동전사 V건담』 7화 「기로틴의 소리」 줄거리 https://kr.gundam-official.com/series/v/story/ny6c4qd0j7x3mhm5l42jbrvo",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주세기 0150년대 사이드 2를 차지한 나라.",
+      "note": "여왕을 내세운 나라로, 썩어 힘을 잃은 연방에 독립을 선언하고 지구를 쳐들어왔다. 단두대(기로틴)로 사람을 처형해 공포를 퍼뜨렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/v",
+        "https://kr.gundam-official.com/series/v/story/ny6c4qd0j7x3mhm5l42jbrvo",
+        "https://laftel.net/item/16303"
+      ]
+    },
+    {
+      "id": "league_militaire",
+      "ko": "리가 밀리티어",
+      "orig": "リガ・ミリティア",
+      "orig_en": "League Militaire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 V건담』 작품 소개 https://kr.gundam-official.com/series/v — '레지스탕스 조직 리가 밀리티어'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "잔스칼 제국에 맞선 지구의 저항 조직.",
+      "note": "연방군이 제구실을 못하는 사이 사람들이 스스로 꾸린 저항군으로, 몰래 만든 건담으로 제국군과 싸웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/v",
+        "https://kr.gundam-official.com/mecha/nb01lk2m0h45h24sqf5mfgiz",
+        "https://laftel.net/item/16303"
+      ]
+    },
+    {
+      "id": "mafty",
+      "ko": "마프티",
+      "orig": "マフティー",
+      "orig_en": "Mafty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 섬광의 하사웨이』 작품 소개 https://kr.gundam-official.com/series/hathaway-i — '반연방 정부 운동 '마프티''",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "연방 고관을 암살하며 맞선 반연방 운동.",
+      "note": "우주세기 0105년, 지구를 더럽히며 사람들을 강제로 우주에 올려 보내는 연방 정부에 맞서 정부 고위 관료를 노렸다. 이름은 지도자가 쓰는 가명에서 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/hathaway-i",
+        "https://kr.gundam-official.com/series/hathaway-ii"
+      ]
+    },
+    {
+      "id": "newtype_lab",
+      "ko": "뉴타입 연구소",
+      "orig": "ニュータイプ研究所",
+      "orig_en": "Newtype Laboratory",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담 A New Translation Ⅱ 연인들』 작품 소개 https://kr.gundam-official.com/series/z-movie-ii — '연방군 뉴타입 연구소에서 만들어진 강화인간'; 『기동전사 Z건담』 14화 「아무로, 다시 한번」 줄거리 https://kr.gundam-official.com/series/z/story/dn1w52ttph06pg26rrz9rjik — '오거스타 뉴타입 연구소'; 『기동전사 Z건담』 17화 「홍콩 시티」 줄거리 https://kr.gundam-official.com/series/z/story/dslwxzab7rh474xu8qg0el46 — '일본의 무라사메 연구소'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "뉴타입을 연구하고 강화인간을 만든 연방군의 연구 기관.",
+      "note": "그리프스 전역 무렵 일본의 무라사메 연구소, 오거스타 연구소 같은 곳이 있었다. 사람을 실험 재료 삼아 강화인간과 그들이 탈 거대 병기를 만들어 냈다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z-movie-ii",
+        "https://kr.gundam-official.com/series/z/story/dn1w52ttph06pg26rrz9rjik",
+        "https://kr.gundam-official.com/series/z/story/dslwxzab7rh474xu8qg0el46",
+        "https://ja.wikipedia.org/wiki/強化人間"
+      ]
+    },
+    {
+      "id": "antarctic_treaty",
+      "ko": "남극 조약",
+      "orig": "南極条約",
+      "orig_en": "Antarctic Treaty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 25화 「오데사의 격전」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/b6lswvospmwoql06afuhetwp — '남극 조약으로 금지된 수소폭탄'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "일년전쟁 중에 맺은 전쟁의 규칙.",
+      "note": "개전 초의 참상 뒤 남극에서 열린 휴전 교섭은 깨졌지만, 양쪽은 핵·생물·화학 무기와 콜로니 낙하를 쓰지 않고 중립 지역과 포로를 지키기로 약속했다. 그 뒤로도 이 약속은 지켜야 할 금기로 남아, 이를 깨는 핵 공격이 큰 사건이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/b6lswvospmwoql06afuhetwp",
+        "https://kr.gundam-official.com/series/origin/story/uhfvnco1snwzc4y7wkkocmxy",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "cosmo_aristocratism",
+      "ko": "코스모 귀족주의",
+      "orig": "コスモ貴族主義",
+      "orig_en": "Cosmo Aristocratism",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 F91』 작품 소개 https://kr.gundam-official.com/series/f91 — '서민을 위한 진정한 귀족의 지배주의인 '코스모 귀족주의''",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "고귀한 사람이 백성을 위해 다스려야 한다는 생각.",
+      "note": "크로스본 뱅가드가 내건 이념으로, 썩은 연방 대신 책임을 지는 귀족이 다스리는 나라 코스모 바빌로니아를 세우겠다고 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/f91"
+      ]
+    },
+    {
+      "id": "man_hunt",
+      "ko": "인간 사냥",
+      "orig": "人狩り",
+      "orig_en": "Man Hunt",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 섬광의 하사웨이』 작품 소개 https://kr.gundam-official.com/series/hathaway-i — ''인간 사냥'이라 불리는 비인도적인 정책'; 조직 이름은 메카 「육전용 제간 A형 맨 헌터용」 설명 https://kr.gundam-official.com/mecha/cgelnold4pd0iawafqrre5e8 — '맨 헌터 사양'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "class_divide"
+      ],
+      "one": "지구에 허락 없이 사는 사람을 붙잡아 우주로 보내는 정책.",
+      "note": "우주세기 0105년의 연방 정부가 지구에 남은 사람들을 붙잡아 강제로 우주에 올려 보냈다. 이 일을 맡은 경찰 조직 「맨 헌터」는 시민을 겁주려는 무장까지 갖췄고, 이 횡포가 마프티가 일어선 까닭이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/hathaway-i",
+        "https://kr.gundam-official.com/mecha/cgelnold4pd0iawafqrre5e8",
+        "https://kr.gundam-official.com/mecha/lh06dmie7etw5fc93uwldw7y"
+      ]
+    },
+    {
+      "id": "uc_charter",
+      "ko": "우주세기 헌장",
+      "orig": "宇宙世紀憲章",
+      "orig_en": "Universal Century Charter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『기동전사 건담 내러티브』 작품 소개(laftel.net/item/39309)",
+      "alt_ko": [
+        {
+          "ko": "우주세기헌장",
+          "src": "라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253) 22화 회차 소개의 붙여 쓴 표기"
+        },
+        {
+          "ko": "Universal Century Charter",
+          "src": "건담 공식 사이트 한국어판은 영어 그대로 둠 — https://kr.gundam-official.com/series/narrative"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "우주세기를 열며 쓴 지구연방의 헌장.",
+      "note": "라플라스의 상자 속에 든 것은 공식 기록과 다른 헌장의 원문이었다. 거기에는 우주에 적응한 새로운 인류가 나타나면 그들에게 정부 운영에 먼저 참여할 길을 연다는 한 줄이 있었고, 연방은 이를 두려워해 감춰 왔다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/39309",
+        "https://laftel.net/item/33253",
+        "https://kr.gundam-official.com/series/narrative",
+        "https://ja.wikipedia.org/wiki/宇宙世紀"
+      ]
+    },
+    {
+      "id": "spacenoid",
+      "ko": "스페이스노이드",
+      "orig": "スペースノイド",
+      "orig_en": "Spacenoid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담』 작품 소개 https://kr.gundam-official.com/series/z — '스페이스노이드를 탄압하는 티탄즈'; 『기동전사 건담 디 오리진』 작품 소개 https://kr.gundam-official.com/series/origin — '스페이스노이드에 의한 인류의 혁신'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "spacers"
+      ],
+      "one": "우주의 콜로니에서 나고 자란 사람들.",
+      "note": "지구에 남은 사람들과 맞서는 말로 쓰인다. 지구에 자리 잡은 연방 정부가 자신들을 부리고 짓누른다고 느껴, 자치와 독립을 바라는 목소리가 일년전쟁과 그 뒤 전쟁들의 뿌리가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z",
+        "https://kr.gundam-official.com/series/origin",
+        "https://kr.gundam-official.com/series/z-movie-i"
+      ]
+    },
+    {
+      "id": "newtype",
+      "ko": "뉴타입",
+      "orig": "ニュータイプ",
+      "orig_en": "Newtype",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 38화 「재회, 샤아와 세이라」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/bcsfjkpd9x954c1pbmdaczsv — '뉴타입 사상'; 『기동전사 건담』 39화 「뉴타입, 샤리아 블」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/cod69txf84wq5qryssn0j45o 제목 「뉴타입, 샤리아 블」",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "next_human",
+        "telepathy"
+      ],
+      "one": "우주에 나가 감각이 넓어졌다는 새로운 인류.",
+      "note": "남의 마음과 다가오는 위험을 말없이 알아채고, 멀리 떨어진 사람과도 마음이 통한다. 본래 사람들이 서로를 오해 없이 이해하게 될 앞날로 이야기되었지만, 전쟁에서는 뛰어난 조종사와 병기의 부품으로 쓰였다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/bcsfjkpd9x954c1pbmdaczsv",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/cod69txf84wq5qryssn0j45o",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam-movie-iii",
+        "https://laftel.net/item/14821"
+      ]
+    },
+    {
+      "id": "cyber_newtype",
+      "ko": "강화인간",
+      "orig": "強化人間",
+      "orig_en": "Cyber-Newtype",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담 A New Translation Ⅱ 연인들』 작품 소개 https://kr.gundam-official.com/series/z-movie-ii — '연방군 뉴타입 연구소에서 만들어진 강화인간'; 『기동전사 Z건담』 42화 「안녕, 로자미」 줄거리 https://kr.gundam-official.com/series/z/story/tdpps7tzp025usqbkvwzqpj5 — '정신 조정'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "super_soldier",
+        "memory_edit"
+      ],
+      "one": "약물과 수술, 정신 조정으로 뉴타입을 흉내 내게 만든 병사.",
+      "note": "연방군의 뉴타입 연구소 등에서 만들어졌다. 뉴타입처럼 사이코뮤 병기를 다룰 힘을 얻는 대신 기억이 고쳐 쓰이고 마음이 불안정해져, 쉽게 무너지는 경우가 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z-movie-ii",
+        "https://kr.gundam-official.com/series/z/story/tdpps7tzp025usqbkvwzqpj5",
+        "https://kr.gundam-official.com/series/unicorn-re0096/story/tpikjskjx9fol3bkdn9ke8hr",
+        "https://ja.wikipedia.org/wiki/強化人間"
+      ]
+    },
+    {
+      "id": "space_colony",
+      "ko": "스페이스 콜로니",
+      "orig": "スペースコロニー",
+      "orig_en": "space colony",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 1화 「건담, 대지에 서다!!」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/mjxgf3ca6lo8kgiz3z976i5r — '스페이스 콜로니 '사이드 3''; 라프텔 『[건담 베이스 20주년] 기동전사 건담 [2026년 판권 만료작]』 작품 소개(laftel.net/item/14821) 1화 소개에도 '스페이스 콜로니'",
+      "alt_ko": [
+        {
+          "ko": "콜로니",
+          "src": "같은 공식 사이트·라프텔에서 줄여 쓰는 이름"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "지구 둘레 우주에 띄운 원통 모양의 거대한 거주지.",
+      "note": "돌면서 생기는 힘으로 무게를 만들고, 원통 안쪽 면에 도시와 들판을 둔다. 지구에서 옮겨 온 사람들이 이 안에서 대를 이어 살았다. 여러 기가 모여 「사이드」를 이룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/mjxgf3ca6lo8kgiz3z976i5r",
+        "https://laftel.net/item/14821",
+        "https://ja.wikipedia.org/wiki/スペースコロニー"
+      ]
+    },
+    {
+      "id": "side",
+      "ko": "사이드",
+      "orig": "サイド",
+      "orig_en": "Side",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '지구에서 가장 멀리 떨어진 사이드 3'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구와 달 둘레의 라그랑주 점마다 모인 콜로니 무리.",
+      "note": "사이드마다 많은 콜로니가 모여 하나의 자치 단위가 된다. 1부터 7까지 번호가 붙고, 지구에서 가장 먼 사이드 3이 지온 공국이 되었다. 사이드 6처럼 전쟁 중 중립을 지킨 곳도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://kr.gundam-official.com/series/0080-war-in-the-pocket",
+        "https://ja.wikipedia.org/wiki/スペースコロニー"
+      ]
+    },
+    {
+      "id": "jaburo",
+      "ko": "자브로",
+      "orig": "ジャブロー",
+      "orig_en": "Jaburo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 5화 「대기권 돌입」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/bkszobo37o4j9pryfuaaofv6 — '남미의 연방군 본부 자브로'",
+      "alt_ko": [
+        {
+          "ko": "자부로",
+          "src": "같은 공식 사이트 『Z건담』 극장판 메카 설명의 다른 표기 — 메카 「마라사이」 설명 https://kr.gundam-official.com/mecha/dd6jb0v7jmqas514prwk0joe"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "남미에 숨은 지구연방군 총사령부.",
+      "note": "남미 밀림 땅밑의 거대한 동굴에 기지와 조선소를 두어 우주에서 쉽게 칠 수 없다. 일년전쟁에서 지온군의 대규모 공세를 받았고, 그 뒤에는 티탄즈의 거점이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/bkszobo37o4j9pryfuaaofv6",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/vwgv02h6tkjzxjc5pq8pbr6p",
+        "https://kr.gundam-official.com/series/z/story/d4zh3fphdl8ihfl7dgjsdi01"
+      ]
+    },
+    {
+      "id": "solomon",
+      "ko": "솔로몬",
+      "orig": "ソロモン",
+      "orig_en": "Solomon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 35화 「솔로몬 공략전」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/ut4gw1cwsk7647a0qbsmgn78 — '우주 요새 솔로몬'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지온 공국군의 소행성 요새.",
+      "note": "소행성을 기지로 만든 우주 요새다. 일년전쟁 말 연방군의 공략전 끝에 함락되었고, 그 뒤 「콘페이토」라는 이름의 연방군 기지가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/ut4gw1cwsk7647a0qbsmgn78",
+        "https://kr.gundam-official.com/series/0083/story/n4legldius01eba20m45s4bb",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "a_baoa_qu",
+      "ko": "아 바오아 쿠",
+      "orig": "ア・バオア・クー",
+      "orig_en": "A Baoa Qu",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 40화 「엘메스의 라라아」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/xr3jcubxcruledq7p2fnfm9a — '달의 그라나다와 우주 요새 아 바오아 쿠 사이를 최종 방어선'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지온 본국 앞을 지키던 마지막 우주 요새.",
+      "note": "지온 공국이 달의 그라나다와 함께 최종 방어선으로 삼은 곳으로, 일년전쟁 마지막 결전이 이곳에서 벌어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/xr3jcubxcruledq7p2fnfm9a",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/f2u5560ax7hbytus77c19snh",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam-movie-iii"
+      ]
+    },
+    {
+      "id": "granada",
+      "ko": "그라나다",
+      "orig": "グラナダ",
+      "orig_en": "Granada",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 18화 「작열의 앗잠 리더」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/uqkyk1edf4q1s6e5wh98byx0 — '지온군 월면 기지 그라나다'; 『기동전사 Z건담 A New Translation Ⅲ 별의 고동은 사랑』 작품 소개 https://kr.gundam-official.com/series/z-movie-iii — '에우고의 본거지인 월면 도시 그라나다'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "달 뒷면의 도시.",
+      "note": "일년전쟁 때는 지온군의 월면 기지였고, 그리프스 전역 때는 에우고의 본거지가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/uqkyk1edf4q1s6e5wh98byx0",
+        "https://kr.gundam-official.com/series/z-movie-iii"
+      ]
+    },
+    {
+      "id": "von_braun",
+      "ko": "폰 브라운",
+      "orig": "フォン・ブラウン",
+      "orig_en": "Von Braun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 0083 STARDUST MEMORY』 6화 「폰 브라운의 전사」 줄거리 https://kr.gundam-official.com/series/0083/story/kos86cuogiw4p4fumecmcu6j — '달의 폰 브라운에 기항'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "달 앞면의 큰 도시.",
+      "note": "전함이 들러 보급과 수리를 받는 달의 큰 항구 도시로, 애너하임 일렉트로닉스의 큰 거점이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/0083/story/kos86cuogiw4p4fumecmcu6j",
+        "https://kr.gundam-official.com/series/0083/story/waxuhrqez9uc2vv9bth9ggat",
+        "https://ja.wikipedia.org/wiki/アナハイム・エレクトロニクス"
+      ]
+    },
+    {
+      "id": "axis",
+      "ko": "액시즈",
+      "orig": "アクシズ",
+      "orig_en": "Axis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 Z건담』 8화 「달의 뒷편」 줄거리 https://kr.gundam-official.com/series/z/story/evin1fo367iqctg5ji4rxhtm — '지온 공국 잔당이 숨어든 소행성 기지 액시즈'; 『기동전사 건담 역습의 샤아』 작품 소개 https://kr.gundam-official.com/series/chars-counterattack",
+      "alt_ko": [
+        {
+          "ko": "엑시즈",
+          "src": "라프텔 『기동전사 건담 ZZ』 작품 소개(laftel.net/item/15140)의 표기"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "소행성대로 물러난 지온 잔당이 머문 소행성 기지.",
+      "note": "일년전쟁에서 진 지온군 일부가 이 기지로 달아나 힘을 길렀고, 지구권으로 돌아와 네오 지온을 세웠다. 그 거대한 바위 덩어리는 다음 전쟁에서 지구에 떨어뜨릴 무기가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/z/story/evin1fo367iqctg5ji4rxhtm",
+        "https://kr.gundam-official.com/series/zz",
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://laftel.net/item/15140"
+      ]
+    },
+    {
+      "id": "mobile_suit",
+      "ko": "모빌슈트",
+      "orig": "モビルスーツ",
+      "orig_en": "mobile suit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 작품 소개 https://kr.gundam-official.com/series/mobile-suit-gundam — '모빌슈트 개발'; Steam 한국어 상점 『기동전사 건담 배틀 오퍼레이션 2』 소개에도 '모빌슈트'",
+      "alt_ko": [
+        {
+          "ko": "모빌 슈트",
+          "src": "같은 공식 사이트 화면 안내문('이 시리즈의 모빌 슈트, 모빌 아머, 함선')과 라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253)의 띄어 쓴 표기"
+        },
+        {
+          "ko": "MS",
+          "src": "같은 공식 사이트에서 줄여 쓴 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "사람이 타고 조종하는 사람 모양의 거대 병기.",
+      "note": "높이 20m 안팎으로, 손에 든 무기를 바꿔 쥐며 싸운다. 레이더와 유도 무기가 듣지 않는 전장에서 가까이 붙어 싸우려고 지온 공국이 먼저 실전에 내놓았다. 흔히 MS라고 줄여 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam",
+        "https://store.steampowered.com/app/1367080/",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "mobile_armor",
+      "ko": "모빌아머",
+      "orig": "モビルアーマー",
+      "orig_en": "mobile armor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「사이코 건담」 설명 https://kr.gundam-official.com/mecha/s5ma7iueaf8bzrfp1ny21ti9 — '거대 가변 모빌아머'; 『기동전사 건담』 39화 「뉴타입, 샤리아 블」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/cod69txf84wq5qryssn0j45o — '모빌아머 '엘메스''",
+      "alt_ko": [
+        {
+          "ko": "모빌 아머",
+          "src": "같은 공식 사이트 화면 안내문의 띄어 쓴 표기"
+        },
+        {
+          "ko": "MA",
+          "src": "같은 공식 사이트에서 줄여 쓴 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "대개 사람 모양이 아닌, 몸집 큰 기동 병기.",
+      "note": "모빌슈트보다 크고 빠르며 화력이 세다. 뉴타입 전용기처럼 특별한 장치를 단 기체가 많고, 모빌슈트로 바뀌는 가변기도 있다. MA라고 줄여 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/s5ma7iueaf8bzrfp1ny21ti9",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/cod69txf84wq5qryssn0j45o"
+      ]
+    },
+    {
+      "id": "gundam",
+      "ko": "건담",
+      "orig": "ガンダム",
+      "orig_en": "Gundam",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「건담」 설명 https://kr.gundam-official.com/mecha/bgzb6pntfzadnqgl1moz8chk",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "연방군이 V작전으로 만든 모빌슈트이자 그 이름을 이은 기체들.",
+      "note": "일년전쟁 때 V작전으로 만든 건담은 전함급 빔 병기를 처음 단 모빌슈트로, 지온 병사들에게 「연방의 하얀 녀석」이라 불렸다. 그 뒤 시대마다 남다른 성능을 지닌 기체에 이 이름이 이어 붙었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/bgzb6pntfzadnqgl1moz8chk",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam"
+      ]
+    },
+    {
+      "id": "zaku_ii",
+      "ko": "자쿠II",
+      "orig": "ザクII",
+      "orig_en": "Zaku II",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「자쿠II」 설명 https://kr.gundam-official.com/mecha/eg57jwhd75t4svilt8ta1dtl — '일년전쟁 내내 지온 공국군의 주력 MS'",
+      "alt_ko": [
+        {
+          "ko": "자쿠",
+          "src": "같은 공식 사이트에서 기종 이름으로 줄여 부름 — 『기동전사 건담』 1화 「건담, 대지에 서다!!」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/mjxgf3ca6lo8kgiz3z976i5r"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "일년전쟁 내내 지온군의 주력이던 모빌슈트.",
+      "note": "머리의 외눈(모노아이)이 상징이다. 대량으로 만들어져 일년전쟁의 전장을 휩쓸었고, 붉게 칠한 지휘관용 기체가 이름났다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/eg57jwhd75t4svilt8ta1dtl",
+        "https://kr.gundam-official.com/series/origin"
+      ]
+    },
+    {
+      "id": "gm",
+      "ko": "짐",
+      "orig": "ジム",
+      "orig_en": "GM",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「짐」 설명 https://kr.gundam-official.com/mecha/ox13ebjjc5osubp8sup4bcgk — '양산형 백병전용 MS'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "건담을 바탕으로 많이 만든 연방군 모빌슈트.",
+      "note": "건담의 싸움 기록을 살려 성능을 낮추고 값싸게 만든 기체로, 일년전쟁 후반에 대량으로 쏟아져 나와 연방군의 승리를 거들었다. 그 뒤로도 개량형이 오래 연방군의 주력을 맡았다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/ox13ebjjc5osubp8sup4bcgk",
+        "https://kr.gundam-official.com/mecha/okrle2goemyd225xn71qwkvb"
+      ]
+    },
+    {
+      "id": "nu_gundam",
+      "ko": "ν건담",
+      "orig": "νガンダム",
+      "orig_en": "ν Gundam",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「ν건담」 설명 https://kr.gundam-official.com/mecha/nfg4eiqba8cs80fjck4mkco2",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "사이코뮤를 본격적으로 단 첫 건담.",
+      "note": "제2차 네오 지온 전쟁 때 일년전쟁의 영웅 조종사가 설계에 참여하고 애너하임 일렉트로닉스가 만들었다. 등에 단 핀 판넬로 뉴타입 병기의 장기였던 사방에서의 공격을 펼친다. 조종석 둘레 뼈대에는 사이코 프레임을 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/nfg4eiqba8cs80fjck4mkco2",
+        "https://kr.gundam-official.com/series/chars-counterattack",
+        "https://ja.wikipedia.org/wiki/サイコフレーム"
+      ]
+    },
+    {
+      "id": "unicorn_gundam",
+      "ko": "유니콘 건담",
+      "orig": "ユニコーンガンダム",
+      "orig_en": "Unicorn Gundam",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「유니콘 건담 (유니콘 모드)」 설명 https://kr.gundam-official.com/mecha/fle8x76kinc6yjzkki3rz6oj",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "온몸의 뼈대를 사이코 프레임으로 만든 건담.",
+      "note": "뉴타입을 감지하면 NT-D라는 장치가 켜져 뿔이 갈라지고 온몸이 「디스트로이 모드」로 바뀐다. 라플라스의 상자로 이끄는 프로그램이 들어 있어, 상자로 가는 열쇠 구실을 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/fle8x76kinc6yjzkki3rz6oj",
+        "https://kr.gundam-official.com/mecha/cs259h3ujk26t8z057veiu3u",
+        "https://kr.gundam-official.com/series/unicorn",
+        "https://laftel.net/item/33253"
+      ]
+    },
+    {
+      "id": "white_base",
+      "ko": "화이트 베이스",
+      "orig": "ホワイトベース",
+      "orig_en": "White Base",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「화이트 베이스」 설명 https://kr.gundam-official.com/mecha/ph9n8v3hjvxmdtv45lqxi8i3",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "V작전으로 만든 연방군의 모빌슈트 모함.",
+      "note": "모빌슈트를 싣고 다니며 우주와 대기권 안을 함께 다닐 수 있는 전함이다. 날개 달린 말을 닮은 모양 때문에 지온군에게는 「목마」라고 불렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/ph9n8v3hjvxmdtv45lqxi8i3",
+        "https://laftel.net/item/14821"
+      ]
+    },
+    {
+      "id": "colony_drop",
+      "ko": "콜로니 낙하",
+      "orig": "コロニー落とし",
+      "orig_en": "colony drop",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 0083 STARDUST MEMORY』 작품 소개 https://kr.gundam-official.com/series/0083 — '콜로니 낙하를 저지하기 위한 싸움'; 『기동전사 건담 디 오리진』 5화 「격돌 루움 회전」 줄거리 https://kr.gundam-official.com/series/origin/story/pj53xk9ol450fikonlec4u2v; 『기동전사 건담 디 오리진 전야 붉은 혜성』 9화 제목 「콜로니 낙하」",
+      "alt_ko": [
+        {
+          "ko": "콜로니 낙하 작전",
+          "src": "같은 공식 사이트 — 『기동전사 Z건담』 26화 「지온의 망령」 줄거리 https://kr.gundam-official.com/series/z/story/vba9bp5itwitw9ta77tei78g"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "콜로니를 통째로 지구에 떨어뜨리는 공격.",
+      "note": "수백만 명이 살던 거대한 원통이 대기권을 뚫고 떨어져 땅을 지운다. 일년전쟁의 브리티시 작전 뒤 남극 조약으로 금지되었지만, 지온의 잔당들은 그 뒤에도 이 수를 되풀이해 지구를 흔들었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/0083",
+        "https://kr.gundam-official.com/series/origin/story/pj53xk9ol450fikonlec4u2v",
+        "https://kr.gundam-official.com/series/origin-tv/story/kvstoq7dls0dxdolela4qcm5",
+        "https://kr.gundam-official.com/series/z/story/vba9bp5itwitw9ta77tei78g",
+        "https://ja.wikipedia.org/wiki/一年戦争"
+      ]
+    },
+    {
+      "id": "colony_laser",
+      "ko": "콜로니 레이저",
+      "orig": "コロニーレーザー",
+      "orig_en": "colony laser",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 42화 「우주 요새 아 바오아 쿠」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/f2u5560ax7hbytus77c19snh — '콜로니 레이저 '솔라 레이''; 『기동전사 Z건담 A New Translation Ⅲ 별의 고동은 사랑』 작품 소개 https://kr.gundam-official.com/series/z-movie-iii",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "콜로니를 통째로 고쳐 만든 거대 레이저 포.",
+      "note": "속을 비운 원통을 그대로 포신으로 써서 한 번에 함대를 지운다. 일년전쟁 끝에 지온의 「솔라 레이」가 연방 주력 함대의 절반을 증발시켰고, 그리프스 전역에서는 티탄즈가 그리프스 2를 같은 무기로 바꿨다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/f2u5560ax7hbytus77c19snh",
+        "https://kr.gundam-official.com/series/z-movie-iii",
+        "https://kr.gundam-official.com/series/z/story/v5ddokjb7monkgi8hxi9ybiq"
+      ]
+    },
+    {
+      "id": "minovsky_particle",
+      "ko": "미노프스키 입자",
+      "orig": "ミノフスキー粒子",
+      "orig_en": "Minovsky particle",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 22화 「마 쿠베의 포위망을 돌파하라!」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/bw3wnn3whdr9420uhr6hg3k5 — '미노프스키 입자 살포구'; 메카 「빅 트레이급 육상 전함」 설명 https://kr.gundam-official.com/mecha/dq1wdwlq09e3di8763wqe2d9 — '미노프스키 입자 살포 환경하에서는 컴퓨터를 통한 전략 분석이 불가능'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "sensor_denial"
+      ],
+      "one": "레이더와 전파를 막는, 이 세계의 상상 속 입자.",
+      "note": "흩뿌리면 레이더와 무선이 듣지 않고 컴퓨터를 쓴 작전 분석과 유도 미사일도 힘을 잃어, 눈으로 보며 맞붙는 싸움이 돌아왔다. 이 입자를 다루는 물리학에서 작은 핵융합로와 빔 병기, 비행 장치까지 나왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/bw3wnn3whdr9420uhr6hg3k5",
+        "https://kr.gundam-official.com/mecha/dq1wdwlq09e3di8763wqe2d9",
+        "https://kr.gundam-official.com/mecha/ca37kvpe8carfg7i75phmu8j",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "minovsky_craft",
+      "ko": "미노프스키 크래프트",
+      "orig": "ミノフスキー・クラフト",
+      "orig_en": "Minovsky craft",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「앗잠」 설명 https://kr.gundam-official.com/mecha/zg87fy0tjjxouzoqjvkolb9f — '시작형 미노프스키 크래프트'; 메카 「사이코 건담」 설명 https://kr.gundam-official.com/mecha/icsexjc5tnkw9g573no9jsg3",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "미노프스키 입자의 힘으로 큰 몸집을 공중에 띄우는 장치.",
+      "note": "입자가 만드는 막 위에 올라타듯 떠오른다. 처음에는 전함이나 거대한 모빌아머처럼 큰 것만 띄울 수 있었으나, 우주세기 0100년대에는 모빌슈트 안에 넣는 「미노프스키 플라이트」로 작아졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/zg87fy0tjjxouzoqjvkolb9f",
+        "https://kr.gundam-official.com/mecha/icsexjc5tnkw9g573no9jsg3",
+        "https://kr.gundam-official.com/mecha/zslkh76yj5aw76a7uf4a4hod",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "beam_saber",
+      "ko": "빔 사벨",
+      "orig": "ビーム・サーベル",
+      "orig_en": "beam saber",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담』 1화 「건담, 대지에 서다!!」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/mjxgf3ca6lo8kgiz3z976i5r — '빔 사벨로 2기를 격파'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "빔을 칼날처럼 뽑아 베는 근접 무기.",
+      "note": "모빌슈트끼리 맞붙는 싸움의 상징이다. 손잡이에서 빔을 칼날 모양으로 붙잡아 두어 웬만한 장갑은 단숨에 벤다. 먼 거리 싸움이 막힌 전장에서 가까이 붙은 싸움이 많아지며 표준 무장이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/mjxgf3ca6lo8kgiz3z976i5r",
+        "https://kr.gundam-official.com/mecha/n1gd2kaqttnvfvo28izdnehj",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "mega_particle_cannon",
+      "ko": "메가 입자포",
+      "orig": "メガ粒子砲",
+      "orig_en": "mega particle cannon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「빅 잠」 설명 https://kr.gundam-official.com/mecha/wqehmdbwwk48ccx1xg1i732l — '대형 메가 입자포'; 『기동전사 건담』 22화 「마 쿠베의 포위망을 돌파하라!」 줄거리 https://kr.gundam-official.com/series/mobile-suit-gundam/story/bw3wnn3whdr9420uhr6hg3k5",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "미노프스키 입자를 다루는 기술로 쏘는 빔 포.",
+      "note": "전함의 주포로 시작해 모빌슈트가 손에 드는 빔 라이플로 작아졌다. 건담이 처음 들고 나온 빔 라이플은 전함급 위력으로 전장을 바꿔 놓았다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/wqehmdbwwk48ccx1xg1i732l",
+        "https://kr.gundam-official.com/series/mobile-suit-gundam/story/bw3wnn3whdr9420uhr6hg3k5",
+        "https://kr.gundam-official.com/mecha/bgzb6pntfzadnqgl1moz8chk",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "i_field",
+      "ko": "I필드",
+      "orig": "Iフィールド",
+      "orig_en": "I-Field",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「건담 시작 3호기 덴드로비움」 설명 https://kr.gundam-official.com/mecha/d2tull3qb50bdospx2t7tqrs — '통상적인 빔 병기를 무효화하는 I필드 제너레이터'; 메카 「노이에 질」 설명 https://kr.gundam-official.com/mecha/a59leqht5nnxmwbcgonai92k",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "빔을 휘게 하거나 흩어 막아 내는 힘의 장.",
+      "note": "미노프스키 입자를 붙잡아 기체 둘레에 막을 친다. 빔은 막아도 실탄이나 바짝 붙은 공격에는 약하다. 처음에는 커다란 모빌아머처럼 큰 기체에만 실렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/d2tull3qb50bdospx2t7tqrs",
+        "https://kr.gundam-official.com/mecha/a59leqht5nnxmwbcgonai92k",
+        "https://kr.gundam-official.com/mecha/wqehmdbwwk48ccx1xg1i732l",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "beam_shield",
+      "ko": "빔 실드",
+      "orig": "ビーム・シールド",
+      "orig_en": "beam shield",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「건담 F91」 설명 https://kr.gundam-official.com/mecha/wsoeqrg7hwvkj2bd0t9qf62y — '빔 실드나 … 베스바 등 참신한 무기'; 메카 「고트라탄」 설명 https://kr.gundam-official.com/mecha/c2522jau9eiu3zq40pqnfnn2",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "빔을 방패 모양으로 펼쳐 공격을 막는 장비.",
+      "note": "우주세기 0120년대 소형 모빌슈트 시대에 나왔다. 팔 등에 단 장치에서 빔으로 된 판을 펼쳐 막고, 쓰지 않을 때는 거둬 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/wsoeqrg7hwvkj2bd0t9qf62y",
+        "https://kr.gundam-official.com/mecha/c2522jau9eiu3zq40pqnfnn2",
+        "https://ja.wikipedia.org/wiki/ミノフスキー粒子"
+      ]
+    },
+    {
+      "id": "psycommu",
+      "ko": "사이코뮤",
+      "orig": "サイコミュ",
+      "orig_en": "psycommu",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「엘메스」 설명 https://kr.gundam-official.com/mecha/uvkj7i881zzqkwuqm1r5968n — '사이코뮤 유도 방식의 무인 공격 병기'; 『기동전사 Z건담』 42화 「안녕, 로자미」 줄거리 https://kr.gundam-official.com/series/z/story/tdpps7tzp025usqbkvwzqpj5 — '사이코뮤에 지배당한'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "조종사의 정신파로 기계와 무기를 움직이는 장치.",
+      "note": "뉴타입의 정신파를 읽어 손을 대지 않고도 떨어져 나간 무기를 마음대로 날리게 한다. 처음엔 뉴타입만 다룰 수 있어 뉴타입을 흉내 낸 강화인간까지 만들어졌고, 거꾸로 장치가 조종사의 마음을 휘두르기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/uvkj7i881zzqkwuqm1r5968n",
+        "https://kr.gundam-official.com/series/z/story/tdpps7tzp025usqbkvwzqpj5",
+        "https://kr.gundam-official.com/mecha/s5ma7iueaf8bzrfp1ny21ti9",
+        "https://ja.wikipedia.org/wiki/サイコミュ"
+      ]
+    },
+    {
+      "id": "funnel",
+      "ko": "판넬",
+      "orig": "ファンネル",
+      "orig_en": "funnel",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「큐베레이」 설명 https://kr.gundam-official.com/mecha/w948tvzfqnd2yszktvq270ds — '사이코뮤를 탑재하고, '판넬'을 이용한 올 레인지 공격'; 반다이남코 엔터테인먼트 코리아 『기동전사 건담 배틀 오퍼레이션 2』 공식 사이트 알림 'ν건담[더블 핀 판넬 장비]'(bo2.ggame.jp/kr)",
+      "alt_ko": [
+        {
+          "ko": "비트",
+          "src": "일년전쟁 때의 첫 형태를 부르는 이름 — 메카 「엘메스」 설명 https://kr.gundam-official.com/mecha/uvkj7i881zzqkwuqm1r5968n"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "조종자의 생각만으로 날아다니며 쏘는 작은 원격 무기.",
+      "note": "사이코뮤로 움직이며, 여러 개가 적을 둘러싸고 사방에서 빔을 쏜다. 일년전쟁 때 뉴타입 전용 모빌아머 엘메스가 쓴 「비트」가 그 첫 모습이다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/w948tvzfqnd2yszktvq270ds",
+        "https://kr.gundam-official.com/mecha/uvkj7i881zzqkwuqm1r5968n",
+        "https://bo2.ggame.jp/kr/",
+        "https://ja.wikipedia.org/wiki/サイコミュ"
+      ]
+    },
+    {
+      "id": "psycho_frame",
+      "ko": "사이코 프레임",
+      "orig": "サイコフレーム",
+      "orig_en": "psycho-frame",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 Twilight AXIS -붉은 잔영-』 작품 소개 https://kr.gundam-official.com/series/twilight-axis — '\"사이코 프레임\"의 존재에 위협을 느낀 지구연방정부'; 『Mobile Suit Gundam Narrative』 작품 소개 https://kr.gundam-official.com/series/narrative — '풀 사이코 프레임 사양 모빌슈트'; 라프텔 『기동전사 건담 내러티브』 작품 소개(laftel.net/item/39309)에도 '풀 사이코 프레임'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "사이코뮤의 회로를 아주 작게 만들어 기체 뼈대에 섞은 소재.",
+      "note": "조종사의 생각이 곧바로 기체에 닿아 움직임이 빨라진다. 뉴타입의 마음에 크게 공명하면 사람의 헤아림을 넘는 힘을 내기도 해서, 연방 정부가 두려워했다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/twilight-axis",
+        "https://kr.gundam-official.com/series/narrative",
+        "https://kr.gundam-official.com/mecha/fle8x76kinc6yjzkki3rz6oj",
+        "https://laftel.net/item/39309",
+        "https://ja.wikipedia.org/wiki/サイコフレーム"
+      ]
+    },
+    {
+      "id": "reuse_psycho_device",
+      "ko": "리유즈 P(사이코) 디바이스",
+      "orig": "リユース・P・デバイス",
+      "orig_en": "Reuse P. Device",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 메카 「사이코 자쿠」 설명 https://kr.gundam-official.com/mecha/muxg162m19ylu6m7nf9krq21 — '파일럿의 뇌에서 발신되는 전기 신호를 모빌슈트의 구동계에 직접 전달하여 기체를 제어하는 리유즈 P(사이코) 디바이스'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "조종사의 뇌 신호를 모빌슈트 구동계에 바로 잇는 장치.",
+      "note": "일년전쟁 말 지온군의 「리빙 데드 사단」이 팔다리를 잃고 의수·의족을 단 병사들로 시험했다. 잃은 팔다리 대신 뇌에서 나오는 신호로 기체를 직접 움직이게 해, 사람과 기계의 경계가 흐려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/mecha/muxg162m19ylu6m7nf9krq21",
+        "https://kr.gundam-official.com/series/thunderbolt-movie-i",
+        "https://kr.gundam-official.com/series/thunderbolt/story/dtjpcmdyzrmxas4hpf18ehu0"
+      ]
+    },
+    {
+      "id": "angel_halo",
+      "ko": "엔젤 하이로우",
+      "orig": "エンジェル・ハイロゥ",
+      "orig_en": "Angel Halo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 V건담』 42·44·45화 줄거리(제목 「선혈은 빛의 소용돌이로」 등) https://kr.gundam-official.com/series/v/story/fmhofhohdgl26477rwvpxghv",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "잔스칼 제국이 만든 거대한 사이코뮤 요새.",
+      "note": "수많은 사람의 정신파를 모아 넓은 땅에 퍼뜨린다. 그 파동을 받은 사람들은 생각할 힘을 잃고 아기처럼 잠들어 버려, 싸울 마음 자체를 지워 지구를 차지하려는 병기다.",
+      "spoiler": true,
+      "refs": [
+        "https://kr.gundam-official.com/series/v/story/fmhofhohdgl26477rwvpxghv",
+        "https://kr.gundam-official.com/series/v/story/l482x17xzosomab7whw2jgx2",
+        "https://kr.gundam-official.com/mecha/nb01lk2m0h45h24sqf5mfgiz"
+      ]
+    },
+    {
+      "id": "laplaces_box",
+      "ko": "라플라스의 상자",
+      "orig": "ラプラスの箱",
+      "orig_en": "Laplace's Box",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "건담 공식 사이트 한국어판(kr.gundam-official.com, 반다이남코필름워크스 운영) 『기동전사 건담 UC』 작품 소개 https://kr.gundam-official.com/series/unicorn — '지구연방정부를 전복시킬 수 있는 비밀을 감춘 '라플라스의 상자''; 라프텔 『기동전사 건담 유니콘 RE:0096』 작품 소개(laftel.net/item/33253)에도 같은 표기",
+      "alt_ko": [
+        {
+          "ko": "라플라스의 궤",
+          "src": "같은 공식 사이트 『기동전사 건담 UC RE:0096』 줄거리의 다른 옮김 — 『기동전사 건담 UC RE:0096』 1화 「96년째의 출발」 줄거리 https://kr.gundam-official.com/series/unicorn-re0096/story/b6nqdfv1qt7x0he171v5c3m6"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "연방 정부를 무너뜨릴 수 있다는 비밀이 든 상자.",
+      "note": "우주세기가 시작되던 날의 폭탄 테러 현장에서 빼낸 물건으로, 그것을 손에 넣은 비스트 집안이 백 년 가까이 연방과 손잡고 힘을 누렸다. 상자의 정체가 라플라스 사변의 큰 수수께끼다.",
+      "spoiler": false,
+      "refs": [
+        "https://kr.gundam-official.com/series/unicorn",
+        "https://kr.gundam-official.com/series/unicorn-re0096",
+        "https://kr.gundam-official.com/series/unicorn-re0096/story/b6nqdfv1qt7x0he171v5c3m6",
+        "https://laftel.net/item/33253"
+      ]
+    }
+  ]
+}

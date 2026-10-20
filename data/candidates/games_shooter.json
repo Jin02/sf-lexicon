@@ -1,0 +1,2961 @@
+{
+  "group": "games_shooter",
+  "candidates": [
+    {
+      "id": "half_life",
+      "orig": "Half-Life",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Half-Life (1998) ~ Half-Life: Alyx (2020). 같은 세계의 Portal (2007), Portal 2 (2011) 포함",
+      "by": "Valve",
+      "year": 1998,
+      "country": "미국",
+      "setting": "비밀 연구소의 실험 사고로 다른 차원과 이어지고, 끝내 외계 제국이 지구를 차지한다",
+      "concepts": [
+        "teleport",
+        "alien",
+        "parasite",
+        "ai",
+        "ai_revolt"
+      ],
+      "new_ideas": "두 곳을 잇는 구멍을 쏘는 장치(포털 총), 차원 사이 틈이 연쇄로 열리는 사고",
+      "lore_size": "큼",
+      "notability": "메타크리틱 96(Half-Life·Half-Life 2), Portal 2 95, Alyx 93(스팀 상점). 스팀 평가 Half-Life 2 약 20만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀: Half-Life, Half-Life 2와 에피소드 둘, Alyx, Portal 1·2 모두 한국어",
+        "src": "https://store.steampowered.com/app/220/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "doom",
+      "orig": "Doom",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Doom (1993) ~ Doom: The Dark Ages (2025), 본편 7편. 영화 Doom (2005), 소설판",
+      "by": "id Software",
+      "year": 1993,
+      "country": "미국",
+      "setting": "화성 기지의 순간 이동 실험이 지옥과 이어지고, 홀로 남은 병사가 악마 떼와 싸운다",
+      "concepts": [
+        "teleport",
+        "mega_corp",
+        "key_resource",
+        "power_armor",
+        "ai"
+      ],
+      "new_ideas": "지옥에서 뽑아 쓰는 에너지가 기업의 연료가 됨",
+      "lore_size": "큼",
+      "notability": "메타크리틱 85(2016)·88(Eternal), 스팀 평가 Eternal 약 19만 건. 일인칭 슈터의 원형으로 꼽힘",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어 있음: DOOM + DOOM II(2024 재발매), DOOM Eternal, DOOM: The Dark Ages / 없음: DOOM 3, DOOM(2016), DOOM 64 (스팀·PS 스토어)",
+        "src": "https://store.steampowered.com/app/782330/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "quake",
+      "orig": "Quake",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Quake (1996) ~ Quake 4 (2005), Quake III Arena, Quake Champions (2017)",
+      "by": "id Software",
+      "year": 1996,
+      "country": "미국",
+      "setting": "순간 이동 문으로 쳐들어온 적, 사람을 잡아 기계로 고쳐 쓰는 외계 종족 스트로그와 싸운다",
+      "concepts": [
+        "teleport",
+        "cyborg",
+        "alien",
+        "orbital_drop"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 94(1편)·81(4편, 스팀 상점), 본편 4편과 대전판",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀: Quake, Quake II, Quake III Arena, Quake 4, Quake Champions 모두 한국어 없음. PS 스토어 Quake·Quake II도 영어",
+        "src": "https://store.steampowered.com/app/2310/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "unreal",
+      "orig": "Unreal",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Unreal (1998), Unreal II (2003), Unreal Tournament (1999) ~ Unreal Tournament 3 (2007)",
+      "by": "Epic Games",
+      "year": 1998,
+      "country": "미국",
+      "setting": "외계 행성 나 팔리에 떨어진 죄수가 침략 종족과 맞서고, 뒷날 기업이 연 살육 대회가 열린다",
+      "concepts": [
+        "alien",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "같은 이름의 게임 엔진이 이 시리즈에서 나옴, 대회편(Tournament) 여러 편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "스팀에서 내려가 언어 표를 못 봄. 엑스박스 상점의 Unreal Tournament 3 언어 목록은 지역 목록과 섞여 있어 판정에 쓰지 않음",
+        "src": "https://www.xbox.com/ko-KR/games/store/-/C02DXV9SNM0B"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gears_of_war",
+      "orig": "Gears of War",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Gears of War (2006) ~ Gears of War: E-Day (2026), 본편 6편과 Judgment·Tactics, 소설·만화",
+      "by": "Epic Games / The Coalition",
+      "year": 2006,
+      "country": "미국",
+      "setting": "행성 세라에서 귀한 연료를 두고 다투던 인류가 땅속 종족 로커스트의 기습을 받는다",
+      "concepts": [
+        "key_resource",
+        "alien",
+        "parasite",
+        "beam_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 82(Gears 5, 스팀 상점), 본편 6편",
+      "korean": {
+        "status": "있음",
+        "detail": "한국어: Gears of War: Reloaded(1편, 스팀·PS5), Ultimate Edition(MS 상점 PC 꾸러미), 4편(MS 상점 PC), 5편(음성 포함), Tactics, E-Day(음성 포함). 2·3편(엑스박스 360)은 확인 못 함",
+        "src": "https://store.steampowered.com/app/1097840/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "killzone",
+      "orig": "Killzone",
+      "orig_en": "",
+      "ko": "킬존",
+      "ko_src": "PS 스토어 한국 상품명 '킬존: 리버레이션'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Killzone (2004) ~ Killzone Shadow Fall (2013), 휴대기용 Liberation·Mercenary",
+      "by": "Guerrilla Games",
+      "year": 2004,
+      "country": "네덜란드",
+      "setting": "거친 행성에 정착해 몸도 생각도 달라진 헬가스트가 옛 동포의 행성 벡타를 친다",
+      "concepts": [
+        "colonization",
+        "spacers",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "플레이스테이션 대표 일인칭 슈터, 본편 4편과 휴대기판 2편",
+      "korean": {
+        "status": "일부",
+        "detail": "PS 스토어 한국: '킬존: 리버레이션 (한국어, 영어)', 'Killzone Shadow Fall (한국어판)'. 1·2·3편과 Mercenary는 확인 못 함",
+        "src": "https://store.playstation.com/ko-kr/search/killzone"
+      },
+      "borderline": false
+    },
+    {
+      "id": "crysis",
+      "orig": "Crysis",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Crysis (2007), Crysis Warhead (2008), Crysis 2 (2011), Crysis 3 (2013), 소설 Legion",
+      "by": "Crytek",
+      "year": 2007,
+      "country": "독일",
+      "setting": "오래 잠들었던 외계 종족 세프가 깨어나고, 나노 슈트를 입은 병사가 섬과 도시에서 싸운다",
+      "concepts": [
+        "alien",
+        "power_armor",
+        "nanotech",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 91(1편)·84(Warhead, 스팀 상점), 본편 3편",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Crysis·Warhead·Remastered 1~3편, PS4 리마스터 3편 모두 한국어 없음. 옛 국내 판매판은 확인 못 함",
+        "src": "https://store.steampowered.com/app/1715130/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "titanfall",
+      "orig": "Titanfall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Titanfall (2014), Titanfall 2 (2016), 같은 세계의 Apex Legends (2019)",
+      "by": "Respawn Entertainment",
+      "year": 2014,
+      "country": "미국",
+      "setting": "개척 행성들을 두고 거대 기업과 민병대가 궤도에서 내린 거대 로봇 타이탄을 몰고 싸운다",
+      "concepts": [
+        "mecha",
+        "mega_corp",
+        "colonization",
+        "orbital_drop",
+        "mind_upload",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 86(Titanfall 2)·88(Apex Legends, 스팀 상점). 스팀 평가 Titanfall 2 약 25만 건",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Apex 레전드(스팀 음성 포함, PS4·PS5) / 없음: Titanfall 2(스팀, PS4 '영어판'). 1편 확인 못 함",
+        "src": "https://store.steampowered.com/app/1172470/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "borderlands",
+      "orig": "Borderlands",
+      "orig_en": "",
+      "ko": "보더랜드",
+      "ko_src": "스팀 한국어 상점 이름 '보더랜드 3'(app 397540), PS 스토어 '보더랜드® 4'",
+      "media": [
+        "게임",
+        "영화",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Borderlands (2009) ~ Borderlands 4 (2025), Pre-Sequel, Tales from the Borderlands, Tiny Tina's Wonderlands, 영화 (2024)",
+      "by": "Gearbox Software",
+      "year": 2009,
+      "country": "미국",
+      "setting": "거대 기업들이 노리는 무법 행성 판도라에서 사라진 외계 문명의 보물 창고를 찾는다",
+      "concepts": [
+        "precursor",
+        "mega_corp",
+        "colonization",
+        "key_resource",
+        "psionics",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 89(2편, 스팀 상점), 스팀 평가 2편 약 21만 건. 본편 4편과 외전, 2024년 영화",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 2편, Pre-Sequel, 3편(음성), 4편(음성), 타이니 티나의 원더랜드 / 없음: 1편(GOTY 강화판), Tales, New Tales (스팀)",
+        "src": "https://store.steampowered.com/app/397540/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dead_space",
+      "orig": "Dead Space",
+      "orig_en": "",
+      "ko": "데드 스페이스",
+      "ko_src": "스팀 한국어 상점 이름 '데드 스페이스 3'(app 1238060)",
+      "media": [
+        "게임",
+        "애니메이션",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Dead Space (2008) ~ Dead Space 3 (2013), 리메이크 (2023), 애니메이션 Downfall·Aftermath, 소설·만화",
+      "by": "Visceral Games / Motive",
+      "year": 2008,
+      "country": "미국",
+      "setting": "행성을 통째로 쪼개 캐는 채굴선에서 외계 유물이 시체를 괴물로 바꿔 놓는다",
+      "concepts": [
+        "planet_killer",
+        "parasite",
+        "hive_mind",
+        "cycle"
+      ],
+      "new_ideas": "외계 유물을 신처럼 섬기는 교단",
+      "lore_size": "큼",
+      "notability": "메타크리틱 87(1·2편, 리메이크, 스팀 상점), 본편 3편과 리메이크, 애니메이션 2편",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 리메이크 Dead Space(2023, 스팀·PS5) / 없음: 2008년판, 2편, 3편 (스팀)",
+        "src": "https://store.steampowered.com/app/1693980/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "prey_2017",
+      "orig": "Prey",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Prey (2017), Prey: Mooncrash (2018). 2006년 같은 이름 게임과는 다른 세계",
+      "by": "Arkane Studios",
+      "year": 2017,
+      "country": "미국",
+      "setting": "케네디가 살아남은 다른 역사, 달 궤도 정거장에 모양을 바꾸는 외계 생물이 퍼진다",
+      "concepts": [
+        "alien",
+        "alt_timeline",
+        "habitat",
+        "first_contact"
+      ],
+      "new_ideas": "뇌에 심는 장치로 남의 기술을 곧바로 익힘",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 3.8만 건(스팀 상점), 확장 Mooncrash",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Prey·Mooncrash 한국어 없음. PS 스토어 한국에서는 찾지 못함",
+        "src": "https://store.steampowered.com/app/480490/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "system_shock",
+      "orig": "System Shock",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "System Shock (1994), System Shock 2 (1999), 리메이크 (2023)",
+      "by": "Looking Glass Studios / Nightdive Studios",
+      "year": 1994,
+      "country": "미국",
+      "setting": "기업이 세운 우주 정거장에서 제한이 풀린 인공지능 쇼단이 사람을 기계로 바꾼다",
+      "concepts": [
+        "ai",
+        "ai_revolt",
+        "cyborg",
+        "mega_corp",
+        "hive_mind",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 92(2편)·85(1편 강화판, 스팀 상점). 몰입형 시뮬레이션 갈래의 시초로 꼽힘",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 리메이크 System Shock(2023, 스팀·PS) / 없음: Enhanced Edition, System Shock 2(1999), 2편 25주년 리마스터 (스팀)",
+        "src": "https://store.steampowered.com/app/482400/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bioshock",
+      "orig": "BioShock",
+      "orig_en": "",
+      "ko": "바이오쇼크",
+      "ko_src": "스팀 한국어 상점 이름 '바이오쇼크 리마스터'(app 409710), PS 스토어 한국",
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "BioShock (2007), BioShock 2 (2010), BioShock Infinite (2013), 소설 Rapture",
+      "by": "Irrational Games / 2K",
+      "year": 2007,
+      "country": "미국",
+      "setting": "바닷속 도시 랩처와 하늘 도시 컬럼비아, 유전자 약으로 힘을 얻은 사람들이 무너진다",
+      "concepts": [
+        "genetic_eng",
+        "alt_timeline",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 94(Infinite, 스팀 상점), 스팀 평가 Infinite 약 11만 건. 본편 3편",
+      "korean": {
+        "status": "있음",
+        "detail": "PS4 바이오쇼크 리마스터·2 리마스터·인피니트 모두 한국어(PS 스토어 한국). 스팀은 인피니트만 한국어, 1·2 리마스터는 없음",
+        "src": "https://store.playstation.com/ko-kr/search/bioshock"
+      },
+      "borderline": false
+    },
+    {
+      "id": "warframe",
+      "orig": "Warframe",
+      "orig_en": "",
+      "ko": "워프레임",
+      "ko_src": "PS 스토어 한국 상품명 '워프레임: 언스토퍼블 클렘 팩' 등",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Warframe (2013~, 계속 갱신)",
+      "by": "Digital Extremes",
+      "year": 2013,
+      "country": "캐나다",
+      "setting": "무너진 오로킨 제국의 유산 위에서 잠에서 깬 전사 텐노가 복제 군대와 기업, 감염체와 싸운다",
+      "concepts": [
+        "golden_age",
+        "empire_fall",
+        "clone",
+        "parasite",
+        "ai_revolt",
+        "mega_corp",
+        "gate_network"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "2013년부터 이어지는 온라인 게임, 큰 이야기 갱신이 계속 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 Warframe 한국어",
+        "src": "https://store.steampowered.com/app/230410/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "returnal",
+      "orig": "Returnal",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Returnal (2021)",
+      "by": "Housemarque",
+      "year": 2021,
+      "country": "핀란드",
+      "setting": "금지된 행성 아트로포스에 떨어진 탐사대원이 죽을 때마다 추락 순간으로 되돌아간다",
+      "concepts": [
+        "alien",
+        "precursor"
+      ],
+      "new_ideas": "죽으면 같은 순간으로 되돌아가는 시간 고리",
+      "lore_size": "작음",
+      "notability": "2021년 플레이스테이션 대표 신작, PC판(2023)",
+      "korean": {
+        "status": "있음",
+        "detail": "PS5 화면 언어 한국어(플레이스테이션 한국 공식 페이지), 스팀 한국어(음성 포함)",
+        "src": "https://www.playstation.com/ko-kr/games/returnal/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "saros",
+      "orig": "Saros",
+      "orig_en": "",
+      "ko": "사로스",
+      "ko_src": "플레이스테이션 한국 공식 페이지 제목 '사로스'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Saros (2026)",
+      "by": "Housemarque",
+      "year": 2026,
+      "country": "핀란드",
+      "setting": "일식이 드리운 행성 카르코사에서 사라진 개척지의 진실을 쫓는 집행관의 이야기",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Returnal 제작사의 2026년 신작(플레이스테이션 발매)",
+      "korean": {
+        "status": "있음",
+        "detail": "PS5 화면 언어 한국어, 2026-04-29 출시(플레이스테이션 한국 공식 페이지)",
+        "src": "https://www.playstation.com/ko-kr/games/saros/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "helldivers",
+      "orig": "Helldivers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Helldivers (2015), Helldivers 2 (2024)",
+      "by": "Arrowhead Game Studios",
+      "year": 2015,
+      "country": "스웨덴",
+      "setting": "'관리된 민주주의'를 내세운 슈퍼 어스가 병사를 궤도에서 떨어뜨려 벌레·기계·외계인과 싸운다",
+      "concepts": [
+        "orbital_drop",
+        "cyborg",
+        "robot",
+        "alien",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 83(1편, 스팀 상점), 스팀 평가 2편 약 84만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 Helldivers(Dive Harder)·Helldivers 2 한국어, PS 스토어 2편 한국어",
+        "src": "https://store.steampowered.com/app/553850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "marathon",
+      "orig": "Marathon",
+      "orig_en": "",
+      "ko": "마라톤",
+      "ko_src": "스팀 한국어 상점 이름(app 3065800), 플레이스테이션 한국 공식 페이지 '마라톤'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Marathon (1994), Marathon 2: Durandal (1995), Marathon Infinity (1996), Marathon (2026)",
+      "by": "Bungie",
+      "year": 1994,
+      "country": "미국",
+      "setting": "타우 세티로 간 개척선에 외계 노예 상인이 쳐들어오고, 배의 인공지능이 미쳐 간다",
+      "concepts": [
+        "ai",
+        "ai_decay",
+        "alien",
+        "colonization",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Halo 이전 번지의 대표작, 2026년 같은 세계의 새 작품(스팀 평가 약 4.5만 건)",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Marathon(2026, 스팀 음성 포함, PS5) / 없음: 스팀 무료판 Classic Marathon",
+        "src": "https://store.steampowered.com/app/3065800/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metro",
+      "orig": "Метро 2033",
+      "orig_en": "Metro 2033",
+      "ko": "메트로",
+      "ko_src": "스팀 한국어 상점 이름 '메트로 2033 리덕스'·'메트로 엑소더스'",
+      "media": [
+        "소설",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "소설 Metro 2033 (2005)·2034·2035, 게임 Metro 2033 (2010) ~ Metro Exodus (2019), Metro Awakening (2024), Metro 2039 (2027 예정)",
+      "by": "Dmitry Glukhovsky / 4A Games",
+      "year": 2005,
+      "country": "러시아",
+      "setting": "핵전쟁 뒤 모스크바 지하철에 숨어 사는 사람들 앞에 정체 모를 '검은 자들'이 나타난다",
+      "concepts": [
+        "catastrophe",
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "원작 소설 시리즈 3권, 게임 본편 3편과 VR 외전. 메타크리틱 85(Exodus, 스팀 상점)",
+      "korean": {
+        "status": "일부",
+        "detail": "게임 한국어: Metro Exodus(스팀·PS), Metro Awakening(스팀·PS5) / 없음: 2033 Redux, Last Light Redux(스팀, PS4 '영어판'). 소설 한국어판은 확인 못 함",
+        "src": "https://store.steampowered.com/app/412020/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stalker",
+      "orig": "S.T.A.L.K.E.R.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "S.T.A.L.K.E.R.: Shadow of Chernobyl (2007), Clear Sky (2008), Call of Pripyat (2009), S.T.A.L.K.E.R. 2 (2024)",
+      "by": "GSC Game World",
+      "year": 2007,
+      "country": "우크라이나",
+      "setting": "두 번째 사고 뒤 법칙이 뒤틀린 체르노빌 금지 구역에서 사람들이 이상한 유물을 캐러 다닌다",
+      "concepts": [
+        "catastrophe",
+        "mind_control",
+        "merge"
+      ],
+      "new_ideas": "법칙이 뒤틀린 금지 구역과 그곳에서만 나는 유물",
+      "lore_size": "큼",
+      "notability": "본편 4편, 스팀 평가 2편 약 11만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 1~3편 강화판(2025)과 2편 모두 한국어",
+        "src": "https://store.steampowered.com/app/1643320/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ratchet_clank",
+      "orig": "Ratchet & Clank",
+      "orig_en": "",
+      "ko": "라쳇 & 클랭크",
+      "ko_src": "PS 스토어 한국 상품명 '라쳇 & 클랭크: 공구 들고 바캉스'",
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "Ratchet & Clank (2002) ~ Rift Apart (2021), 극장 애니메이션 영화 (2016)",
+      "by": "Insomniac Games",
+      "year": 2002,
+      "country": "미국",
+      "setting": "정비공 라쳇과 작은 로봇 클랭크가 은하를 돌며 거대 기업과 악당, 다른 차원의 적을 막는다",
+      "concepts": [
+        "alt_timeline",
+        "robot",
+        "mega_corp",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "플레이스테이션 대표 시리즈, 본편 10편 넘음, 2016년 영화",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Rift Apart(PS5·스팀), Ratchet & Clank(2016, PS4), '라쳇 & 클랭크: 공구 들고 바캉스'(PS2 클래식) / 다른 작품은 확인 못 함",
+        "src": "https://store.playstation.com/ko-kr/search/ratchet"
+      },
+      "borderline": false
+    },
+    {
+      "id": "resistance",
+      "orig": "Resistance",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Resistance: Fall of Man (2006), Resistance 2 (2008), Resistance 3 (2011), 휴대기판",
+      "by": "Insomniac Games",
+      "year": 2006,
+      "country": "미국",
+      "setting": "1950년대 다른 역사, 사람을 감염시켜 바꾸는 외계 종족 키메라가 유럽과 미국을 휩쓴다",
+      "concepts": [
+        "alt_timeline",
+        "parasite",
+        "alien",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "플레이스테이션 3 출시작, 본편 3편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "PS 스토어 한국의 Resistance: Retribution은 '영어, 일본어'. 본편 3편(PS3)은 확인 못 함",
+        "src": "https://store.playstation.com/ko-kr/search/resistance"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starsiege_tribes",
+      "orig": "Starsiege: Tribes",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Metaltech: Earthsiege (1994), Starsiege (1999), Starsiege: Tribes (1998), Tribes 2 (2001) ~ Tribes 3: Rivals (2024)",
+      "by": "Dynamix",
+      "year": 1994,
+      "country": "미국",
+      "setting": "반란을 일으킨 인공지능과의 전쟁 뒤, 먼 행성의 부족들이 날아다니며 싸운다",
+      "concepts": [
+        "ai_revolt",
+        "mecha",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "온라인 슈터 Tribes의 원조, 같은 세계의 로봇 전투 게임 시리즈",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Tribes 3: Rivals(스팀) / 옛 작품은 판매가 없어 확인 못 함",
+        "src": "https://store.steampowered.com/app/2687970/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "remnant",
+      "orig": "Remnant",
+      "orig_en": "",
+      "ko": "렘넌트",
+      "ko_src": "PS 스토어 한국 상품명 '렘넌트 2'·'렘넌트: 프롬 디 애쉬'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Remnant: From the Ashes (2019), Remnant II (2023)",
+      "by": "Gunfire Games",
+      "year": 2019,
+      "country": "미국",
+      "setting": "여러 세계를 갉아먹는 존재 '뿌리'에 무너진 지구, 생존자들이 세계석으로 다른 세계를 오간다",
+      "concepts": [
+        "catastrophe",
+        "hive_mind",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 78(1편, 스팀 상점), 스팀 평가 1·2편 각 약 4.7만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "Remnant II 한국어(스팀·PS5), From the Ashes는 스팀에 없으나 PS4판 한국어(PS 스토어 한국)",
+        "src": "https://store.playstation.com/ko-kr/search/remnant"
+      },
+      "borderline": true
+    },
+    {
+      "id": "callisto_protocol",
+      "orig": "The Callisto Protocol",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Callisto Protocol (2022), DLC Final Transmission",
+      "by": "Striking Distance Studios",
+      "year": 2022,
+      "country": "미국",
+      "setting": "목성의 위성 칼리스토의 감옥에서 사람을 괴물로 바꾸는 병이 번진다",
+      "concepts": [
+        "parasite",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Dead Space 제작자가 만든 공포 액션, 스팀 평가 약 3.5만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어(음성 포함), PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/1544020/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wolfenstein",
+      "orig": "Wolfenstein",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Castle Wolfenstein (1981) ~ Wolfenstein: Youngblood (2019). SF 색은 The New Order (2014)부터 짙음",
+      "by": "Muse Software / id Software / MachineGames",
+      "year": 1981,
+      "country": "미국",
+      "setting": "나치가 옛 비밀 결사의 기술을 손에 넣어 전쟁에서 이긴 1960년대의 다른 역사",
+      "concepts": [
+        "alt_timeline",
+        "robot",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 86(The New Colossus)·88(Return to Castle Wolfenstein, 스팀 상점), 40년 넘게 이어진 시리즈",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Youngblood(스팀·PS4), Cyberpilot(PS4) / 없음: The New Order, The New Colossus, The Old Blood, Wolfenstein 3D, Return to Castle Wolfenstein (스팀)",
+        "src": "https://store.steampowered.com/app/1056960/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "anthem",
+      "orig": "Anthem",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Anthem (2019, 2026년 1월 서버 종료)",
+      "by": "BioWare",
+      "year": 2019,
+      "country": "캐나다",
+      "setting": "신들이 남긴 창조의 힘이 날뛰는 세계에서 비행 갑옷 재블린을 입은 용병들이 싸운다",
+      "concepts": [
+        "power_armor",
+        "godlike",
+        "cosmic_force"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "바이오웨어의 대형 온라인 슈터(평가는 엇갈림)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "판매가 끝나 스팀·PS 스토어 한국에서 상품을 찾지 못함",
+        "src": "https://store.playstation.com/ko-kr/search/anthem"
+      },
+      "borderline": true
+    },
+    {
+      "id": "duke_nukem",
+      "orig": "Duke Nukem",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Duke Nukem (1991) ~ Duke Nukem Forever (2011), Duke Nukem 3D (1996)",
+      "by": "Apogee / 3D Realms",
+      "year": 1991,
+      "country": "미국",
+      "setting": "외계인이 지구를 침공하자 근육질 영웅 듀크가 혼자 맞선다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 72(3D 20주년판, 스팀 상점), 1990년대 대표 일인칭 슈터",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Duke Nukem 3D 20주년판, Duke Nukem Forever 한국어 없음",
+        "src": "https://store.steampowered.com/app/434050/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "serious_sam",
+      "orig": "Serious Sam",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Serious Sam: The First Encounter (2001) ~ Serious Sam 4 (2020), Siberian Mayhem (2022)",
+      "by": "Croteam",
+      "year": 2001,
+      "country": "크로아티아",
+      "setting": "외계 군주 멘탈의 침공을 막으려 영웅 샘이 고대 외계 문명의 시간 장치로 과거에 간다",
+      "concepts": [
+        "alien",
+        "precursor",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 87(The First Encounter 클래식, 스팀 상점), 본편 4편과 외전",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Serious Sam 4, Siberian Mayhem(스팀), Shatterverse(PS5) / 없음: 클래식 1편, HD 2편, 3편 (스팀)",
+        "src": "https://store.steampowered.com/app/257420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fear",
+      "orig": "F.E.A.R.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "F.E.A.R. (2005), F.E.A.R. 2: Project Origin (2009), F.E.A.R. 3 (2011)",
+      "by": "Monolith Productions",
+      "year": 2005,
+      "country": "미국",
+      "setting": "군수 기업의 실험으로 태어난 초능력 소녀 알마가 마음으로 부리는 복제 병사들과 싸운다",
+      "concepts": [
+        "psionics",
+        "clone",
+        "mind_control",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 88(1편, 스팀 상점), 본편 3편",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: F.E.A.R. 3(스팀, 화면만) / 없음: 1편, 2편 (스팀)",
+        "src": "https://store.steampowered.com/app/21100/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "perfect_dark",
+      "orig": "Perfect Dark",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "Perfect Dark (2000), Perfect Dark Zero (2005), 소설",
+      "by": "Rare",
+      "year": 2000,
+      "country": "영국",
+      "setting": "2020년대, 첩보원 조애나 다크가 거대 기업과 손잡은 외계 종족의 음모를 파헤친다",
+      "concepts": [
+        "alien",
+        "mega_corp",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "닌텐도 64 시절 대표 일인칭 슈터, 2000년대 리부트 Zero",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "엑스박스 상점 한국에 상품은 있으나 콘솔 꾸러미 언어 정보가 없어 판정 못 함",
+        "src": "https://www.xbox.com/ko-KR/games/store/-/BQ70VB4MM1XM"
+      },
+      "borderline": false
+    },
+    {
+      "id": "timesplitters",
+      "orig": "TimeSplitters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "TimeSplitters (2000), TimeSplitters 2 (2002), TimeSplitters: Future Perfect (2005)",
+      "by": "Free Radical Design",
+      "year": 2000,
+      "country": "영국",
+      "setting": "시간 속을 휘젓는 괴물 타임스플리터스를 쫓아 여러 시대를 넘나든다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "본편 3편, 2024년 PS4·PS5로 다시 나옴",
+      "korean": {
+        "status": "없음",
+        "detail": "PS 스토어 한국: TimeSplitters 1·2·Future Perfect 모두 '영어'",
+        "src": "https://store.playstation.com/ko-kr/search/timesplitters"
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_faction",
+      "orig": "Red Faction",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "Red Faction (2001) ~ Red Faction: Armageddon (2011), TV 영화 Origins (2011)",
+      "by": "Volition",
+      "year": 2001,
+      "country": "미국",
+      "setting": "화성 광산의 노동자들이 광산 기업과 지배 세력에 맞서 들고일어난다",
+      "concepts": [
+        "colonization",
+        "mega_corp",
+        "nanotech",
+        "super_soldier",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 82(Guerrilla)·78(1편, 스팀 상점), 본편 4편",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Red Faction, II, Guerrilla Re-Mars-tered, Armageddon 모두 한국어 없음",
+        "src": "https://store.steampowered.com/app/667720/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "descent",
+      "orig": "Descent",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Descent (1995), Descent II (1996), Descent 3 (1999)",
+      "by": "Parallax Software",
+      "year": 1995,
+      "country": "미국",
+      "setting": "외계 바이러스에 감염된 채굴 로봇이 날뛰는 광산을 작은 비행선으로 누빈다",
+      "concepts": [
+        "robot",
+        "ai_revolt",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 89(3편, 스팀 상점), 360도 비행 슈터의 원조",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Descent 2, Descent 3 한국어 없음",
+        "src": "https://store.steampowered.com/app/273590/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "deus_ex",
+      "orig": "Deus Ex",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Deus Ex (2000), Invisible War (2003), Human Revolution (2011), Mankind Divided (2016), 소설·만화",
+      "by": "Ion Storm / Eidos-Montréal",
+      "year": 2000,
+      "country": "미국",
+      "setting": "몸을 기계로 고친 사람들과 비밀 결사가 얽힌 가까운 미래의 음모",
+      "concepts": [
+        "cyborg",
+        "nanotech",
+        "order",
+        "ai",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 90(1편)·91(Human Revolution, 스팀 상점), 본편 4편",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Deus Ex GOTY, Invisible War, Human Revolution DC, Mankind Divided 모두 한국어 없음",
+        "src": "https://store.steampowered.com/app/238010/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "killing_floor",
+      "orig": "Killing Floor",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Killing Floor (2009), Killing Floor 2 (2016), Killing Floor 3 (2025)",
+      "by": "Tripwire Interactive",
+      "year": 2009,
+      "country": "미국",
+      "setting": "생명 공학 기업의 복제 실험체가 풀려나 도시를 덮친다",
+      "concepts": [
+        "clone",
+        "genetic_eng",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 2편 약 8.8만 건, 본편 3편",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 2편, 3편(스팀·PS) / 없음: 1편 (스팀)",
+        "src": "https://store.steampowered.com/app/232090/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "singularity",
+      "orig": "Singularity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Singularity (2010)",
+      "by": "Raven Software",
+      "year": 2010,
+      "country": "미국",
+      "setting": "소련이 버린 섬에서 시간을 다루는 물질 E99로 과거와 현재를 오간다",
+      "concepts": [
+        "time_travel",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 76(스팀 상점), 단독작",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/42670/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bulletstorm",
+      "orig": "Bulletstorm",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Bulletstorm (2011), Full Clip Edition (2017)",
+      "by": "People Can Fly",
+      "year": 2011,
+      "country": "폴란드",
+      "setting": "버려진 휴양 행성 스티지아에 떨어진 해적들이 옛 상관에게 복수한다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 76(Full Clip Edition, 스팀 상점), 단독작",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Full Clip Edition 한국어 없음",
+        "src": "https://store.steampowered.com/app/501590/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rage",
+      "orig": "Rage",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Rage (2011), Rage 2 (2019)",
+      "by": "id Software / Avalanche Studios",
+      "year": 2011,
+      "country": "미국",
+      "setting": "소행성 충돌 뒤, 땅속 방주에서 깨어난 생존자가 황무지와 독재 세력 사이를 누빈다",
+      "concepts": [
+        "catastrophe",
+        "ark",
+        "cryosleep",
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 79(1편)·73(2편, 스팀 상점)",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Rage 2(스팀, PS4 '한국어판') / 없음: Rage(2011, 스팀)",
+        "src": "https://store.steampowered.com/app/548570/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "blood_dragon",
+      "orig": "Far Cry 3: Blood Dragon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "Far Cry 3: Blood Dragon (2013), 애니메이션 Captain Laserhawk: A Blood Dragon Remix (2023)",
+      "by": "Ubisoft Montreal",
+      "year": 2013,
+      "country": "캐나다",
+      "setting": "핵전쟁 뒤 1980년대 영화처럼 꾸민 2007년, 사이보그 특수 요원이 미친 장군을 막는다",
+      "concepts": [
+        "cyborg",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 81(스팀 상점), 본편과 다른 세계의 외전, 2023년 애니메이션",
+      "korean": {
+        "status": "있음",
+        "detail": "PS4 'FAR CRY 3: BLOOD DRAGON CLASSIC EDITION'에 한국어(PS 스토어 한국). 스팀판은 한국어 없음",
+        "src": "https://store.playstation.com/ko-kr/search/far cry 3 blood dragon"
+      },
+      "borderline": false
+    },
+    {
+      "id": "crackdown",
+      "orig": "Crackdown",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Crackdown (2007), Crackdown 2 (2010), Crackdown 3 (2019)",
+      "by": "Realtime Worlds / Ruffian Games / Sumo Digital",
+      "year": 2007,
+      "country": "영국",
+      "setting": "범죄 조직이 판치는 도시에 유전자로 강화한 요원을 내려보낸다",
+      "concepts": [
+        "super_soldier",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "엑스박스 독점 시리즈, 본편 3편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "MS 상점 'Crackdown 3: Campaign' PC 꾸러미 언어에 한국어 없음. 1·2편(엑스박스 360)은 언어 정보가 없어 확인 못 함",
+        "src": "https://www.xbox.com/ko-KR/games/store/-/9P1HXTHZ28CB"
+      },
+      "borderline": false
+    },
+    {
+      "id": "prototype",
+      "orig": "Prototype",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Prototype (2009), Prototype 2 (2012), 만화",
+      "by": "Radical Entertainment",
+      "year": 2009,
+      "country": "캐나다",
+      "setting": "군의 생물 병기 바이러스가 퍼진 뉴욕에서 몸을 마음대로 바꾸는 사내가 깨어난다",
+      "concepts": [
+        "genetic_eng",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 79(1편)·76(2편, 스팀 상점)",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Prototype, Prototype 2 한국어 없음",
+        "src": "https://store.steampowered.com/app/10150/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "infamous",
+      "orig": "inFAMOUS",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "inFAMOUS (2009), inFAMOUS 2 (2011), Second Son (2014), First Light (2014)",
+      "by": "Sucker Punch Productions",
+      "year": 2009,
+      "country": "미국",
+      "setting": "폭발 사고 뒤 초능력을 얻은 '전도체'들이 두려움과 탄압 속에서 자기 길을 고른다",
+      "concepts": [
+        "genetic_eng",
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "플레이스테이션 대표 시리즈, 본편 3편과 외전",
+      "korean": {
+        "status": "일부",
+        "detail": "PS 스토어 한국: Second Son, First Light 상품명 '한국어판'. PS3 1·2편은 확인 못 함",
+        "src": "https://store.playstation.com/ko-kr/search/infamous"
+      },
+      "borderline": true
+    },
+    {
+      "id": "mirrors_edge",
+      "orig": "Mirror's Edge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Mirror's Edge (2008), Mirror's Edge Catalyst (2016), 만화",
+      "by": "DICE",
+      "year": 2008,
+      "country": "스웨덴",
+      "setting": "모든 것이 감시되는 깨끗한 도시에서 지붕 위를 달리는 배달꾼들이 금지된 소식을 나른다",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 81(1편)·74(Catalyst, 스팀 상점)",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 1편·Catalyst 한국어 없음, PS4 Catalyst '영어판'",
+        "src": "https://store.steampowered.com/app/17410/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ghostrunner",
+      "orig": "Ghostrunner",
+      "orig_en": "",
+      "ko": "고스트러너",
+      "ko_src": "스팀 한국어 상점 이름 'Ghostrunner - 고스트러너', PS 스토어 '고스트러너 2'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Ghostrunner (2020), Ghostrunner 2 (2023)",
+      "by": "One More Level",
+      "year": 2020,
+      "country": "폴란드",
+      "setting": "멸망 뒤 마지막 인류가 사는 거대한 탑, 사이보그 검객이 탑을 다스리는 자를 베러 오른다",
+      "concepts": [
+        "catastrophe",
+        "cyborg",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 81(1·2편, 스팀 상점), 스팀 평가 1편 약 4.7만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS 1·2편 모두 한국어",
+        "src": "https://store.steampowered.com/app/1139900/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lost_planet",
+      "orig": "ロスト プラネット",
+      "orig_en": "Lost Planet",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Lost Planet: Extreme Condition (2006), Lost Planet 2 (2010), Lost Planet 3 (2013)",
+      "by": "Capcom",
+      "year": 2006,
+      "country": "일본",
+      "setting": "얼음에 덮인 행성 E.D.N. III에서 토착 괴물의 열에너지를 두고 개척민과 기업이 싸운다",
+      "concepts": [
+        "colonization",
+        "alien_ecology",
+        "key_resource",
+        "mecha",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "본편 3편, 메타크리틱 70(1편 콜로니판, 스팀 상점)",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Extreme Condition, Lost Planet 2 (스팀) / 없음: Lost Planet 3 (스팀)",
+        "src": "https://store.steampowered.com/app/6510/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jak_and_daxter",
+      "orig": "Jak and Daxter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Jak and Daxter: The Precursor Legacy (2001), Jak II (2003), Jak 3 (2004), The Lost Frontier (2009)",
+      "by": "Naughty Dog",
+      "year": 2001,
+      "country": "미국",
+      "setting": "사라진 옛 종족 '프리커서'의 유물이 남은 세계, 소년 잭이 시간을 건너 미래 도시에서 싸운다",
+      "concepts": [
+        "precursor",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "너티독의 플레이스테이션 2 대표 시리즈, 본편 3편",
+      "korean": {
+        "status": "일부",
+        "detail": "PS 스토어 한국: Jak II·Jak 3 상품명 '한국어판' / 1편 'Jak & Daxter: 구세계의 유산 (영어, 일본어)', The Lost Frontier '영어, 일본어'",
+        "src": "https://store.playstation.com/ko-kr/search/jak"
+      },
+      "borderline": true
+    },
+    {
+      "id": "beyond_good_and_evil",
+      "orig": "Beyond Good & Evil",
+      "orig_en": "",
+      "ko": "비욘드 굿 앤 이블",
+      "ko_src": "PS 스토어 한국 상품명 '‘비욘드 굿 앤 이블’ 20주년 기념 에디션'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Beyond Good & Evil (2003), 20주년판 (2024). 2편은 아직 안 나옴",
+      "by": "Ubisoft (Michel Ancel)",
+      "year": 2003,
+      "country": "프랑스",
+      "setting": "외계 침략에 시달리는 행성 힐리스에서 사진 기자 제이드가 지키는 군대의 거짓을 찍는다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "명작으로 자주 꼽히는 단독작, 2024년 20주년판",
+      "korean": {
+        "status": "있음",
+        "detail": "20주년판 한국어(스팀, PS4·PS5)",
+        "src": "https://store.playstation.com/ko-kr/search/beyond good"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oddworld",
+      "orig": "Oddworld",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Oddworld: Abe's Oddysee (1997) ~ Oddworld: Soulstorm (2021), Stranger's Wrath (2005)",
+      "by": "Oddworld Inhabitants",
+      "year": 1997,
+      "country": "미국",
+      "setting": "외계 행성 오드월드의 육가공 공장에서 노예 종족 머도콘 에이브가 동족을 구해 달아난다",
+      "concepts": [
+        "mega_corp",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 86(New 'n' Tasty, 스팀 상점), 본편 5편 남짓",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 Abe's Oddysee, Exoddus, New 'n' Tasty, Soulstorm, Stranger's Wrath 모두 한국어 없음. PS도 영어 위주",
+        "src": "https://store.steampowered.com/app/314660/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "remember_me",
+      "orig": "Remember Me",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Remember Me (2013)",
+      "by": "DONTNOD Entertainment",
+      "year": 2013,
+      "country": "프랑스",
+      "setting": "기억을 사고팔고 지우는 기업이 다스리는 2084년 파리, 기억을 고쳐 쓰는 사냥꾼의 반격",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "남의 기억을 사고팔고 고쳐 쓰는 기술",
+      "lore_size": "작음",
+      "notability": "메타크리틱 65(스팀 상점), 단독작이지만 세계관으로 자주 언급됨",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/228300/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "quantum_break",
+      "orig": "Quantum Break",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Quantum Break (2016, 실사 드라마 화를 게임 안에 넣음)",
+      "by": "Remedy Entertainment",
+      "year": 2016,
+      "country": "핀란드",
+      "setting": "시간 실험 사고로 시간이 부서져 가고, 시간을 멈추는 힘을 얻은 사내가 기업과 맞선다",
+      "concepts": [
+        "time_travel",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 66(스팀 상점), 게임과 실사 화를 엮은 실험작",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 한국어(화면·자막)",
+        "src": "https://store.steampowered.com/app/474960/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "control",
+      "orig": "Control",
+      "orig_en": "",
+      "ko": "컨트롤",
+      "ko_src": "스팀 한국어 상점 이름 '컨트롤 얼티밋 에디션', 'CONTROL Resonant (컨트롤：레조넌트)'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Control (2019), FBC: Firebreak (2025), Control Resonant (2026). Alan Wake와 같은 세계",
+      "by": "Remedy Entertainment",
+      "year": 2019,
+      "country": "핀란드",
+      "setting": "초자연 현상을 다루는 정부 기관의 건물이 다른 차원에서 온 힘에 먹히고, 새 국장이 맞선다",
+      "concepts": [
+        "other_realm",
+        "psionics"
+      ],
+      "new_ideas": "평범한 물건이 다른 차원의 힘을 띠는 현상과 그것을 관리하는 기관",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85(Ultimate Edition, 스팀 상점), 스팀 평가 약 5.2만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS Control Ultimate Edition, CONTROL Resonant 한국어",
+        "src": "https://store.steampowered.com/app/870780/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "deathloop",
+      "orig": "Deathloop",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Deathloop (2021)",
+      "by": "Arkane Lyon",
+      "year": 2021,
+      "country": "프랑스",
+      "setting": "하루가 끝없이 되풀이되는 섬 블랙리프, 고리를 끊으려면 하루 안에 여덟 명을 없애야 한다",
+      "concepts": [],
+      "new_ideas": "하루가 되풀이되는 시간 고리",
+      "lore_size": "작음",
+      "notability": "메타크리틱 87(스팀 상점)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS5 한국어",
+        "src": "https://store.steampowered.com/app/1252330/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "atomic_heart",
+      "orig": "Atomic Heart",
+      "orig_en": "",
+      "ko": "아토믹 하트",
+      "ko_src": "스팀 한국어 상점 페이지 제목 '아토믹 하트'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Atomic Heart (2023)와 확장, Atomic Heart 2 (예정)",
+      "by": "Mundfish",
+      "year": 2023,
+      "country": "러시아",
+      "setting": "로봇과 신경망으로 번영한 1955년의 다른 소련, 사람의 마음까지 묶으려는 계획이 드러난다",
+      "concepts": [
+        "alt_timeline",
+        "robot",
+        "ai",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 76(스팀 상점), 스팀 평가 약 4.5만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/668580/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "planetside",
+      "orig": "PlanetSide",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "PlanetSide (2003), PlanetSide 2 (2012)",
+      "by": "Sony Online Entertainment / Rogue Planet Games",
+      "year": 2003,
+      "country": "미국",
+      "setting": "웜홀이 닫혀 갇힌 개척 행성 아우락시스에서 세 세력이 옛 외계 유물을 두고 끝없이 싸운다",
+      "concepts": [
+        "wormhole",
+        "colonization",
+        "precursor",
+        "resurrection",
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 84(2편, 스팀 상점), 대규모 온라인 슈터의 대표작",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 PlanetSide 2 한국어 없음",
+        "src": "https://store.steampowered.com/app/218230/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "defiance",
+      "orig": "Defiance",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "드라마"
+      ],
+      "first_medium": "게임",
+      "series": "게임 Defiance (2013), Defiance 2050 (2018), 드라마 Defiance (2013~2015). 게임은 2021년 종료",
+      "by": "Trion Worlds / Syfy",
+      "year": 2013,
+      "country": "미국",
+      "setting": "외계 종족의 방주들이 지구에 오고, 테라포밍이 엉켜 바뀐 땅에서 사람과 외계인이 함께 산다",
+      "concepts": [
+        "alien",
+        "ark",
+        "terraforming",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "게임과 TV 드라마를 같은 세계로 함께 만든 작품, 드라마 3시즌",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "게임 서비스가 끝나 상점에서 찾지 못함. 드라마의 국내 정식 방영은 확인 못 함",
+        "src": "https://store.playstation.com/ko-kr/search/defiance"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outriders",
+      "orig": "Outriders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Outriders (2021), Worldslayer (2022)",
+      "by": "People Can Fly",
+      "year": 2021,
+      "country": "폴란드",
+      "setting": "죽어 가는 지구를 떠나 긴 냉동 수면 끝에 닿은 행성 에녹이 정체 모를 폭풍으로 사람을 바꿔 놓는다",
+      "concepts": [
+        "colonization",
+        "earth_left",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 4.6만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀(화면), PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/680420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "destroy_all_humans",
+      "orig": "Destroy All Humans!",
+      "orig_en": "",
+      "ko": "디스트로이 올 휴먼!",
+      "ko_src": "PS 스토어 한국 상품명 '디스트로이 올 휴먼!'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Destroy All Humans! (2005) ~ Path of the Furon (2008), 리메이크 (2020), 2 - Reprobed (2022)",
+      "by": "Pandemic Studios / Black Forest Games",
+      "year": 2005,
+      "country": "미국",
+      "setting": "1950년대 미국에 내려온 외계인 크립토가 사람들의 뇌를 털고 정부를 조종한다",
+      "concepts": [
+        "alien",
+        "clone",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "본편 4편, 2020년대 리메이크 둘",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 리메이크 1편(스팀·PS4), Clone Carnage(PS4) / 없음: 2 - Reprobed(스팀·PS)",
+        "src": "https://store.playstation.com/ko-kr/search/destroy all humans"
+      },
+      "borderline": false
+    },
+    {
+      "id": "overwatch",
+      "orig": "Overwatch",
+      "orig_en": "",
+      "ko": "오버워치",
+      "ko_src": "블리자드 한국 공식 누리집 제목 '오버워치'(overwatch.blizzard.com/ko-kr)",
+      "media": [
+        "게임",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Overwatch (2016), Overwatch 2 (2022, 지금 상점 이름은 Overwatch), 애니메이션 단편·만화",
+      "by": "Blizzard Entertainment",
+      "year": 2016,
+      "country": "미국",
+      "setting": "로봇 '옴닉'과의 전쟁을 끝낸 영웅 부대가 해체된 뒤, 다시 위기가 오자 영웅들이 모인다",
+      "concepts": [
+        "ai",
+        "ai_revolt",
+        "robot",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "블리자드의 대표 영웅 슈터, 애니메이션 단편 여러 편",
+      "korean": {
+        "status": "있음",
+        "detail": "PS5 한국어, 스팀 한국어(음성 포함)",
+        "src": "https://store.playstation.com/ko-kr/search/overwatch"
+      },
+      "borderline": false
+    },
+    {
+      "id": "valorant",
+      "orig": "VALORANT",
+      "orig_en": "",
+      "ko": "발로란트",
+      "ko_src": "공식 한국어 누리집 제목 '발로란트'(playvalorant.com/ko-kr)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "VALORANT (2020~)",
+      "by": "Riot Games",
+      "year": 2020,
+      "country": "미국",
+      "setting": "'첫 빛' 사건 뒤 초능력자와 귀한 물질 레디어나이트가 생기고, 거울처럼 닮은 또 하나의 지구와 맞선다",
+      "concepts": [
+        "alt_timeline",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "라이엇 게임즈의 대표 전술 슈터",
+      "korean": {
+        "status": "있음",
+        "detail": "라이엇 공식 한국어 누리집과 한국 서비스",
+        "src": "https://playvalorant.com/ko-kr/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fortnite",
+      "orig": "Fortnite",
+      "orig_en": "",
+      "ko": "포트나이트",
+      "ko_src": "PS 스토어 한국 상품명 '포트나이트 세이브 더 월드'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Fortnite: Save the World (2017), Battle Royale (2017~)",
+      "by": "Epic Games",
+      "year": 2017,
+      "country": "미국",
+      "setting": "폭풍이 사람을 지운 세계, 섬은 현실의 중심 '제로 포인트'를 둘러싼 되풀이 속에 갇혀 있다",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "세계에서 가장 많이 하는 게임 가운데 하나로 시즌마다 이야기가 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "PS5 Fortnite(한국어, 영어, 일본어)",
+        "src": "https://store.playstation.com/ko-kr/search/fortnite"
+      },
+      "borderline": true
+    },
+    {
+      "id": "arc_raiders",
+      "orig": "ARC Raiders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ARC Raiders (2025)",
+      "by": "Embark Studios",
+      "year": 2025,
+      "country": "스웨덴",
+      "setting": "하늘에서 내려온 기계 군단 아크에 밀려 땅속으로 숨은 사람들이 지상으로 물자를 찾으러 간다",
+      "concepts": [
+        "catastrophe",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 30만 건(2025년 10월 출시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS5 한국어",
+        "src": "https://store.steampowered.com/app/1808500/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "deep_rock_galactic",
+      "orig": "Deep Rock Galactic",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Deep Rock Galactic (2020), Survivor (2024), Rogue Core",
+      "by": "Ghost Ship Games",
+      "year": 2020,
+      "country": "덴마크",
+      "setting": "광산 기업에 고용된 드워프 광부들이 괴물이 우글대는 행성 혹시스 4의 동굴을 판다",
+      "concepts": [
+        "mega_corp",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 85(스팀 상점), 스팀 평가 약 30만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/548430/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "risk_of_rain",
+      "orig": "Risk of Rain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Risk of Rain (2013), Risk of Rain 2 (2020), Risk of Rain Returns (2023)",
+      "by": "Hopoo Games",
+      "year": 2013,
+      "country": "미국",
+      "setting": "화물선이 떨어진 낯선 행성 페트리코 5에서 생존자들이 신과 같은 존재들의 땅을 헤맨다",
+      "concepts": [
+        "alien_ecology",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 85(2편, 스팀 상점), 스팀 평가 2편 약 24만 건",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Risk of Rain 2, Returns(스팀·PS) / 없음: Risk of Rain(2013, 스팀)",
+        "src": "https://store.steampowered.com/app/632360/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "axiom_verge",
+      "orig": "Axiom Verge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Axiom Verge (2015), Axiom Verge 2 (2021)",
+      "by": "Thomas Happ Games",
+      "year": 2015,
+      "country": "미국",
+      "setting": "실험실 사고로 다른 세계 수드라에서 깨어난 과학자가 기계 지성들의 부탁으로 싸운다",
+      "concepts": [
+        "ai",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 80(1편, 스팀 상점), 1인 개발 탐험 액션으로 이름남",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 1·2편 한국어 없음, PS 2편도 없음",
+        "src": "https://store.steampowered.com/app/332200/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "signalis",
+      "orig": "SIGNALIS",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "SIGNALIS (2022)",
+      "by": "rose-engine",
+      "year": 2022,
+      "country": "독일",
+      "setting": "전체주의 나라의 인조인간 병사가 외딴 행성의 시설에서 잃어버린 짝을 찾는다",
+      "concepts": [
+        "android",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 3.1만 건, 높은 평가를 받은 공포 게임",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4 한국어",
+        "src": "https://store.steampowered.com/app/1262350/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "soma",
+      "orig": "SOMA",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "SOMA (2015)",
+      "by": "Frictional Games",
+      "year": 2015,
+      "country": "스웨덴",
+      "setting": "혜성 충돌로 인류가 사라진 뒤 바닷속 기지에서 깨어난 남자가 기계 속 의식의 의미를 묻는다",
+      "concepts": [
+        "mind_upload",
+        "ai",
+        "catastrophe",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 84(스팀 상점)",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/282140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_surge",
+      "orig": "The Surge",
+      "orig_en": "",
+      "ko": "더 서지",
+      "ko_src": "PS 스토어 한국 상품명 '더 서지', '더 서지 2'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Surge (2017), The Surge 2 (2019)",
+      "by": "Deck13 Interactive",
+      "year": 2017,
+      "country": "독일",
+      "setting": "기후 붕괴 뒤 기업이 몸에 박는 외골격으로 지구를 고치려다 나노 기계 재앙이 터진다",
+      "concepts": [
+        "cyborg",
+        "mega_corp",
+        "nanotech",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 72·76(스팀 상점), 본편 2편",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4 1·2편 한국어",
+        "src": "https://store.steampowered.com/app/378540/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stray",
+      "orig": "Stray",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Stray (2022)",
+      "by": "BlueTwelve Studio",
+      "year": 2022,
+      "country": "프랑스",
+      "setting": "사람이 사라진 성벽 도시에서 길 잃은 고양이가 마음을 가진 로봇들과 바깥으로 나갈 길을 찾는다",
+      "concepts": [
+        "robot",
+        "ai",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 82(스팀 상점), 스팀 평가 약 16만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/1332010/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "another_world",
+      "orig": "Another World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Another World (1991, 북미 제목 Out of This World), 20주년판 (2011), Heart of the Alien (1994)",
+      "by": "Éric Chahi",
+      "year": 1991,
+      "country": "프랑스",
+      "setting": "입자 가속기 사고로 낯선 외계 행성에 떨어진 물리학자가 그곳 종족과 함께 달아난다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 같은 연출의 고전으로 꼽힘, 여러 기종으로 다시 나옴",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 20주년판 한국어. PS4판은 '영어, 일본어'",
+        "src": "https://store.steampowered.com/app/233550/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "flashback",
+      "orig": "Flashback",
+      "orig_en": "",
+      "ko": "플래시백",
+      "ko_src": "스팀 한국어 상점 이름 '플래시백'(app 2252960)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Flashback (1992), Fade to Black (1995), Flashback 2 (2023)",
+      "by": "Delphine Software",
+      "year": 1992,
+      "country": "프랑스",
+      "setting": "기억을 잃은 요원이 사람으로 둔갑한 외계 종족의 지구 침투를 막는다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1990년대 시네마틱 액션의 고전, 2023년 후속작",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 리마스터 '플래시백'(2023)·Flashback 2 한국어",
+        "src": "https://store.steampowered.com/app/2252960/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ultrakill",
+      "orig": "ULTRAKILL",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ULTRAKILL (2020~, 앞서 해보기)",
+      "by": "Arsi \"Hakita\" Patala / New Blood Interactive",
+      "year": 2020,
+      "country": "핀란드",
+      "setting": "인류가 사라진 뒤 피를 연료로 움직이는 기계들이 피를 찾아 지옥으로 내려간다",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 22만 건",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/1229490/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "stellar_blade",
+      "orig": "Stellar Blade",
+      "orig_en": "",
+      "ko": "스텔라 블레이드",
+      "ko_src": "플레이스테이션 한국 공식 페이지 제목 '스텔라 블레이드'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Stellar Blade (2024)",
+      "by": "SHIFT UP",
+      "year": 2024,
+      "country": "한국",
+      "setting": "괴생명체 네이티바에 지구를 빼앗긴 인류가 우주 식민지에서 전사 이브를 내려보낸다",
+      "concepts": [
+        "earth_left",
+        "catastrophe",
+        "orbital_drop"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "플레이스테이션 5 독점으로 나온 한국 개발 대작, PC판(2025) 스팀 평가 약 6.2만 건",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 개발, 한국어 음성 포함(스팀·PS5)",
+        "src": "https://www.playstation.com/ko-kr/games/stellar-blade/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_first_descendant",
+      "orig": "The First Descendant",
+      "orig_en": "",
+      "ko": "퍼스트 디센던트",
+      "ko_src": "스팀 한국어 상점 이름 '퍼스트 디센던트'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The First Descendant (2024~)",
+      "by": "NEXON Games",
+      "year": 2024,
+      "country": "한국",
+      "setting": "침략자 벌거스에 맞서 특별한 힘을 물려받은 '계승자'들이 인류를 지킨다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "넥슨의 루트 슈터, 스팀·콘솔 동시 출시",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 개발, 한국어 음성 포함(스팀), PS5 한국어",
+        "src": "https://store.steampowered.com/app/2074920/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nikke",
+      "orig": "승리의 여신: 니케",
+      "orig_en": "GODDESS OF VICTORY: NIKKE",
+      "ko": "승리의 여신: 니케",
+      "ko_src": "공식 한국 누리집 제목(nikke-kr.com)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "승리의 여신: 니케 (2022~)",
+      "by": "SHIFT UP",
+      "year": 2022,
+      "country": "한국",
+      "setting": "기계 침략자 랩처에 지상을 빼앗긴 인류가 지하 도시 아크에 숨고, 기계 몸의 소녀 병사들을 내보낸다",
+      "concepts": [
+        "cyborg",
+        "robot",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "세계 출시한 한국 모바일 슈팅 게임",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 개발, 공식 한국 누리집",
+        "src": "https://nikke-kr.com/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metroid",
+      "orig": "メトロイド",
+      "orig_en": "Metroid",
+      "ko": "메트로이드",
+      "ko_src": "한국닌텐도 공식 페이지 '메트로이드 드레드'",
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Metroid (1986) ~ Metroid Dread (2021), Metroid Prime 시리즈, 만화",
+      "by": "Nintendo",
+      "year": 1986,
+      "country": "일본",
+      "setting": "현상금 사냥꾼 사무스가 새를 닮은 옛 종족 초조의 유산과 생물 병기 메트로이드를 쫓는다",
+      "concepts": [
+        "precursor",
+        "parasite",
+        "power_armor",
+        "federation",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "닌텐도 대표 시리즈, 1986년부터 본편·Prime 합쳐 10편 넘게 이어짐",
+      "korean": {
+        "status": "일부",
+        "detail": "한국닌텐도 공식 페이지에 '메트로이드 드레드' 정식 발매(2021-10-08). 다른 작품은 확인 못 함",
+        "src": "https://www.nintendo.com/kr/software/switch/ayl8a/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_fox",
+      "orig": "スターフォックス",
+      "orig_en": "Star Fox",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "Star Fox (1993) ~ Star Fox Zero (2016), Star Fox 64 (1997), Star Fox Adventures, Assault 등",
+      "by": "Nintendo",
+      "year": 1993,
+      "country": "일본",
+      "setting": "동물 조종사들의 용병 부대 스타폭스가 라일랏 계를 노리는 과학자 안드로스와 싸운다",
+      "concepts": [
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "닌텐도 대표 슈팅 시리즈, 본편과 외전 8편 남짓",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "지금 파는 한국닌텐도 상품이 없어 한국어판 여부를 확인 못 함",
+        "src": "https://www.nintendo.com/kr/software/switch/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mega_man",
+      "orig": "ロックマン",
+      "orig_en": "Mega Man",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Mega Man (1987) ~ Mega Man 11 (2018), X, Zero, ZX, Legends 연표. Battle Network·Star Force는 다른 연표",
+      "by": "Capcom",
+      "year": 1987,
+      "country": "일본",
+      "setting": "사람을 돕던 로봇들이 악당 과학자에게 빼앗기고, 뒷날 스스로 생각하는 로봇들이 반란을 일으킨다",
+      "concepts": [
+        "robot",
+        "android",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "캡콤 대표 시리즈, 본편만 11편에 X·Zero 등 갈래 여럿, 애니메이션",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀·PS 스토어의 Legacy Collection 1·2, X Legacy Collection 1·2, Zero/ZX, Mega Man 11 모두 한국어 없음. 닌텐도판은 확인 못 함",
+        "src": "https://store.steampowered.com/app/742300/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "earth_defense_force",
+      "orig": "地球防衛軍",
+      "orig_en": "Earth Defense Force",
+      "ko": "지구방위군",
+      "ko_src": "스팀 한국어 상점 이름 '지구방위군 6', PS 스토어 '지구방위군 5'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "THE 地球防衛軍 (2003) ~ EARTH DEFENSE FORCE 6 (2022), Iron Rain, Insect Armageddon",
+      "by": "SANDLOT / D3 Publisher",
+      "year": 2003,
+      "country": "일본",
+      "setting": "거대한 벌레와 외계 침략군이 지구를 덮치고, 지구 방위군이 끝없이 맞서 싸운다",
+      "concepts": [
+        "alien",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "본편 6편과 외전 여럿, 메타크리틱 79(4.1·6, 스팀 상점)",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 지구방위군 5(스팀 음성 포함, PS4), 지구방위군 6(스팀·PS), Iron Rain(PS4 '한국어판') / 없음: 4.1 (스팀)",
+        "src": "https://store.steampowered.com/app/2291060/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "vanquish",
+      "orig": "ヴァンキッシュ",
+      "orig_en": "Vanquish",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Vanquish (2010)",
+      "by": "PlatinumGames",
+      "year": 2010,
+      "country": "일본",
+      "setting": "러시아 세력에 빼앗긴 우주 거주지의 마이크로파 무기를 막으려 강화 슈트 병사가 뛰어든다",
+      "concepts": [
+        "power_armor",
+        "habitat",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 78(스팀 상점), 플래티넘게임즈의 대표 액션 슈터",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "스팀판 한국어 없음. PS4 'BAYONETTA & VANQUISH (한국어판)'은 상품명뿐이라 언어를 확인 못 함",
+        "src": "https://store.steampowered.com/app/460810/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "resident_evil",
+      "orig": "バイオハザード",
+      "orig_en": "Resident Evil",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화",
+        "애니메이션",
+        "드라마",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Resident Evil (1996) ~ Resident Evil Requiem (2026), 영화·애니메이션·드라마",
+      "by": "Capcom",
+      "year": 1996,
+      "country": "일본",
+      "setting": "제약 기업이 몰래 만든 생물 병기 바이러스가 퍼진 도시와 마을에서 살아남는다",
+      "concepts": [
+        "genetic_eng",
+        "mega_corp",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 91(RE4 리메이크)·92(Requiem, 스팀 상점), 본편 9편과 영화 여러 편",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: 2·3·4 리메이크, 7, Village, Requiem (스팀·PS) / 없음: 5편 (스팀). 한국 상점 이름은 일본 제목 'BIOHAZARD'",
+        "src": "https://store.steampowered.com/app/2050650/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_last_of_us",
+      "orig": "The Last of Us",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "드라마",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "The Last of Us (2013), Left Behind, The Last of Us Part II (2020), 드라마 (2023~)",
+      "by": "Naughty Dog",
+      "year": 2013,
+      "country": "미국",
+      "setting": "사람을 괴물로 바꾸는 곰팡이 병으로 문명이 무너진 뒤의 미국을 가로지른다",
+      "concepts": [
+        "parasite",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "너티독 대표작, HBO 드라마(2023~)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS5 Part I, Part II Remastered 한국어",
+        "src": "https://www.playstation.com/ko-kr/games/the-last-of-us-part-i/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "horizon",
+      "orig": "Horizon",
+      "orig_en": "",
+      "ko": "호라이즌",
+      "ko_src": "스팀·PS 스토어 한국 이름 '호라이즌 포비든 웨스트'",
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Horizon Zero Dawn (2017), Horizon Forbidden West (2022), Call of the Mountain (2023), 만화",
+      "by": "Guerrilla Games",
+      "year": 2017,
+      "country": "네덜란드",
+      "setting": "스스로 불어나는 기계 탓에 한 번 멸망한 지구, 다시 일어선 부족 사회와 동물 모양 기계들",
+      "concepts": [
+        "self_replicate",
+        "terraforming",
+        "ai",
+        "catastrophe",
+        "clone",
+        "ark",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "플레이스테이션 대표 신규 시리즈, 본편 2편과 외전",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 Zero Dawn(리마스터), Forbidden West 한국어",
+        "src": "https://store.playstation.com/ko-kr/search/horizon"
+      },
+      "borderline": false
+    },
+    {
+      "id": "death_stranding",
+      "orig": "DEATH STRANDING",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "DEATH STRANDING (2019), DEATH STRANDING 2: ON THE BEACH (2025)",
+      "by": "KOJIMA PRODUCTIONS",
+      "year": 2019,
+      "country": "일본",
+      "setting": "죽은 자의 세계와 이어지는 재앙으로 흩어진 미국을 배달부가 걸어서 다시 잇는다",
+      "concepts": [
+        "other_realm",
+        "catastrophe",
+        "resurrection",
+        "cycle"
+      ],
+      "new_ideas": "죽은 자의 세계가 산 자의 세계로 넘쳐 들어오는 재앙",
+      "lore_size": "큼",
+      "notability": "메타크리틱 85(감독판, 스팀 상점), 본편 2편",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS 1·2편 한국어",
+        "src": "https://store.steampowered.com/app/1850570/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metal_gear",
+      "orig": "メタルギア",
+      "orig_en": "Metal Gear",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Metal Gear (1987) ~ Metal Gear Solid V (2015), Metal Gear Rising (2013), Metal Gear Solid Δ (2025)",
+      "by": "Konami (Hideo Kojima)",
+      "year": 1987,
+      "country": "일본",
+      "setting": "핵을 쏘는 두 발 걷는 병기 메탈 기어와, 정보로 세계를 움직이는 비밀 조직에 첩보원이 맞선다",
+      "concepts": [
+        "mecha",
+        "nanotech",
+        "cyborg",
+        "clone",
+        "ai",
+        "deterrence"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 91(MGS V, 스팀 상점), 본편 10편 남짓",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: MGS V(PS4), MGS Δ(스팀·PS5) / 없음: MGS V(스팀), MGS 2·3 Master Collection판, Rising (스팀)",
+        "src": "https://store.playstation.com/ko-kr/search/metal gear"
+      },
+      "borderline": false
+    },
+    {
+      "id": "armored_core",
+      "orig": "アーマード・コア",
+      "orig_en": "Armored Core",
+      "ko": "아머드 코어",
+      "ko_src": "스팀 한국어 상점 이름 '아머드 코어 VI 루비콘의 화염'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Armored Core (1997) ~ Armored Core VI: Fires of Rubicon (2023)",
+      "by": "FromSoftware",
+      "year": 1997,
+      "country": "일본",
+      "setting": "기업이 세상을 다스리는 미래, 용병들이 거대 인형 병기 아머드 코어를 몰고 싸운다",
+      "concepts": [
+        "mecha",
+        "mega_corp",
+        "catastrophe",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 86(VI, 스팀 상점), 본편과 외전 15편 남짓",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: VI(스팀·PS) / 없음: PS 클래식 'ARMORED CORE' 등 옛 작품(영어)",
+        "src": "https://store.steampowered.com/app/1888160/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nier",
+      "orig": "ニーア",
+      "orig_en": "NieR",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "애니메이션",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Drakengard (2003)에서 갈라진 NieR (2010), NieR:Automata (2017), NieR Replicant ver.1.22 (2021), 애니메이션 (2023)",
+      "by": "Square Enix (Yoko Taro)",
+      "year": 2010,
+      "country": "일본",
+      "setting": "외계 기계 군단에 지구를 빼앗긴 먼 미래, 인류를 위해 싸우는 인조인간 부대의 진실",
+      "concepts": [
+        "android",
+        "robot",
+        "alien",
+        "catastrophe",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 84(Automata, 스팀 상점), 스팀 평가 Automata 약 11만 건",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: NieR Replicant ver.1.22(스팀·PS4), NieR:Automata(PS4 '한국어판') / 없음: NieR:Automata(스팀)",
+        "src": "https://store.steampowered.com/app/1113560/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "splatoon",
+      "orig": "スプラトゥーン",
+      "orig_en": "Splatoon",
+      "ko": "스플래툰",
+      "ko_src": "한국닌텐도 공식 페이지 '스플래툰 3'",
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "Splatoon (2015), Splatoon 2 (2017), Splatoon 3 (2022), 만화",
+      "by": "Nintendo",
+      "year": 2015,
+      "country": "일본",
+      "setting": "바닷물이 차올라 사람이 사라진 먼 미래, 사람 모양이 된 오징어와 문어가 잉크로 겨룬다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "닌텐도의 대표 슈터, 본편 3편",
+      "korean": {
+        "status": "일부",
+        "detail": "한국닌텐도 공식 페이지에 '스플래툰 3' 정식 발매(2022-09-09). 1·2편은 확인 못 함",
+        "src": "https://www.nintendo.com/kr/software/switch/av5ja/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "contra",
+      "orig": "魂斗羅",
+      "orig_en": "Contra",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Contra (1987) ~ Contra: Operation Galuga (2024)",
+      "by": "Konami",
+      "year": 1987,
+      "country": "일본",
+      "setting": "외계 생명체 붉은 매가 지구를 노리고, 특수 부대 두 사람이 총 한 자루로 맞선다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "고전 횡스크롤 슈팅의 대표작, 본편 10편 남짓",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: Operation Galuga(스팀·PS), Rogue Corps(PS4 '한국어판') / 없음: Anniversary Collection (스팀·PS4)",
+        "src": "https://store.steampowered.com/app/2235020/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "r_type",
+      "orig": "R-TYPE",
+      "orig_en": "",
+      "ko": "알타입",
+      "ko_src": "PS 스토어 한국 상품명 '알타입 델타: HD 부스티드'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "R-Type (1987) ~ R-Type Final 3 Evolved, R-Type Tactics",
+      "by": "Irem / Granzella",
+      "year": 1987,
+      "country": "일본",
+      "setting": "미래 인류가 만든 생체 병기 바이도가 시간을 거슬러 22세기 인류를 덮친다",
+      "concepts": [
+        "genetic_eng",
+        "time_travel"
+      ],
+      "new_ideas": "미래에 만든 병기가 과거로 되돌아와 만든 이들을 친다",
+      "lore_size": "중간",
+      "notability": "고전 슈팅 시리즈, 본편과 전략 외전 10편 남짓",
+      "korean": {
+        "status": "일부",
+        "detail": "한국어: R-Type Final 2(스팀·PS4), Final 3 Evolved, Delta HD, Dimensions III, Tactics I·II(PS) / 없음: Dimensions EX (스팀)",
+        "src": "https://store.playstation.com/ko-kr/search/r-type"
+      },
+      "borderline": false
+    },
+    {
+      "id": "binary_domain",
+      "orig": "BINARY DOMAIN",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Binary Domain (2012)",
+      "by": "SEGA (Yakuza Studio)",
+      "year": 2012,
+      "country": "일본",
+      "setting": "물에 잠긴 2080년 도쿄, 사람인 줄 아는 로봇 '할로 칠드런'의 뒤를 쫓는 국제 부대",
+      "concepts": [
+        "android",
+        "robot",
+        "ai",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 68(스팀 상점), 로봇과 사람의 경계를 다룬 단독작",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/203750/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cronos",
+      "orig": "Cronos: The New Dawn",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Cronos: The New Dawn (2025)",
+      "by": "Bloober Team",
+      "year": 2025,
+      "country": "폴란드",
+      "setting": "재앙으로 사람들이 뒤엉켜 괴물이 된 폐허, 시간을 건너는 여행자가 과거의 사람을 건져 온다",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2025년 공포 액션 신작(스팀·콘솔)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS5 한국어",
+        "src": "https://store.steampowered.com/app/2101960/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_ascent",
+      "orig": "The Ascent",
+      "orig_en": "",
+      "ko": "디 어센트",
+      "ko_src": "PS 스토어 한국 상품명 '디 어센트 (The Ascent)'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Ascent (2021)",
+      "by": "Neon Giant",
+      "year": 2021,
+      "country": "스웨덴",
+      "setting": "거대 기업이 지은 외계 행성의 높은 도시, 빚에 묶인 노동자가 기업이 무너진 틈에 살아남는다",
+      "concepts": [
+        "mega_corp",
+        "alien",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 2만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/979690/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "enslaved",
+      "orig": "Enslaved: Odyssey to the West",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Enslaved: Odyssey to the West (2010)",
+      "by": "Ninja Theory",
+      "year": 2010,
+      "country": "영국",
+      "setting": "기계 전쟁 뒤 풀숲이 된 뉴욕, 노예 머리띠로 묶인 사내가 소녀를 서쪽으로 데려간다",
+      "concepts": [
+        "catastrophe",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 70(스팀 상점), 『서유기』를 미래로 옮긴 단독작",
+      "korean": {
+        "status": "없음",
+        "detail": "스팀 한국어 없음",
+        "src": "https://store.steampowered.com/app/245280/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outer_wilds",
+      "orig": "Outer Wilds",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Outer Wilds (2019), Echoes of the Eye (2021)",
+      "by": "Mobius Digital",
+      "year": 2019,
+      "country": "미국",
+      "setting": "22분마다 해가 터지며 되풀이되는 작은 태양계에서 사라진 옛 종족 노마이의 흔적을 좇는다",
+      "concepts": [
+        "precursor",
+        "teleport"
+      ],
+      "new_ideas": "일정한 시간마다 처음으로 되돌아가는 시간 고리",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85(스팀 상점), 스팀 평가 약 9만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/753640/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "talos_principle",
+      "orig": "The Talos Principle",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Talos Principle (2014), The Talos Principle 2 (2023), Reawakened (2025), 3편 예정",
+      "by": "Croteam",
+      "year": 2014,
+      "country": "크로아티아",
+      "setting": "병으로 사라진 인류가 남긴 시험장에서 깨어난 기계가 사람다움이 무엇인지 묻는다",
+      "concepts": [
+        "ai",
+        "catastrophe",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85(1편)·88(2편, 스팀 상점)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 1편(음성 포함)·2편, PS5 2편·Reawakened 한국어",
+        "src": "https://store.steampowered.com/app/257510/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rain_world",
+      "orig": "Rain World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Rain World (2017), Downpour (2023), The Watcher (2025)",
+      "by": "Videocult",
+      "year": 2017,
+      "country": "미국",
+      "setting": "옛 종족이 초월해 떠난 폐허 행성에서 작은 생물이 비를 피해 살아남으며 거대 계산기들을 만난다",
+      "concepts": [
+        "ascension",
+        "ai",
+        "precursor",
+        "megastructure"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 66(스팀 상점)이지만 세계관으로 이름남, 스팀 평가 약 4.8만 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀·PS4·PS5 한국어",
+        "src": "https://store.steampowered.com/app/312520/"
+      },
+      "borderline": false
+    }
+  ]
+}

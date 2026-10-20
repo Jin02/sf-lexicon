@@ -1,0 +1,1349 @@
+{
+  "terms": [
+    {
+      "id": "esper",
+      "ko": "에스퍼",
+      "orig": "エスパー",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "초능력을 지닌 사람.",
+      "note": "이 세계에서 초능력자를 부르는 말로, 힘의 세기에 따라 등급이 매겨지고 아주 강한 이는 따로 높은 등급을 받는다. 보통 사람에게 차별받는 한편 군과 기업은 쓸모 있는 도구로 보고 앞다투어 거두려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "scanner",
+      "ko": "스캐너",
+      "orig": "スキャナー",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "서기와 우주력 초기에 에스퍼를 가리키던 숨은 말.",
+      "note": "벽 너머나 남의 마음을 훑어보는 사람이라는 뜻이다. 여러 나라 정보기관이 학교 시험 속에 검사를 숨겨 이들을 찾아내 부렸지만 사람 대접을 하지 않는 일이 많았다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "learning",
+      "ko": "러닝 능력",
+      "orig": "ラーニング",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "남의 초능력을 보거나 당하기만 해도 익히는 힘.",
+      "note": "한 번 보거나 몸으로 겪은 초능력을 배워 자기 것으로 쓰는 능력이다. 쓰는 이의 힘이 모자라면 배운 기술에 도리어 스스로 당할 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "second_phase",
+      "ko": "제2단계",
+      "orig": "第2段階（セカンド・フェーズ）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "세컨드 페이즈",
+          "src": "나무위키 '로크(초인 로크)' 문서에서 함께 쓰는 표기"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "궁지에 몰리면 터져 나오는, 이성을 잃은 폭주 상태.",
+      "note": "절체절명의 순간이나 큰 분노에 저절로 들어가며, 힘이 행성을 부술 만큼 커지지만 적과 아군을 가리지 못해 도시를 통째로 날리기도 한다. 스스로 막을 수 없는 몸의 반응처럼 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "rejuvenation",
+      "ko": "회춘",
+      "orig": "若返り",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "몸의 나이를 되돌려 젊어지게 하는 힘과 기술.",
+      "note": "처음에는 에스퍼가 자기 몸에만 쓰는 초능력이었으나 제국 시대에 의료 기술로도 할 수 있게 되어 부자와 권력자가 썼다. 뇌와 신경은 낡아 가므로 보통 몇 번이 한계이고, 거꾸로 쓰면 나이를 빨리 먹게 할 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "matrix_copy",
+      "ko": "매트릭스 조작",
+      "orig": "マトリクスコピー",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "유전자 매트릭스",
+          "src": "나무위키 '로크(초인 로크)' 문서에서 함께 쓰는 표기"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics",
+        "impostor"
+      ],
+      "one": "남의 몸 짜임을 베껴 그 사람으로 완전히 변하는 힘.",
+      "note": "몸의 물리적 짜임을 '매트릭스'라 부르며, 이를 베끼면 겉모습뿐 아니라 지문과 망막까지 같아진다. 남에게 다른 매트릭스를 입혀 바꿔치기하거나 죽음을 꾸미는 데도 쓰이고, 병을 고치는 데 응용되기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "psycho_spear",
+      "ko": "사이코 스피어",
+      "orig": "サイコスピア（光の剣）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "빛의 검",
+          "src": "나무위키 '로크(초인 로크)' 문서에서 함께 쓰는 표기"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "둘레의 에너지를 모아 만든 빛의 창.",
+      "note": "정신력만이 아니라 열 같은 주변의 물리 에너지를 끌어모아 창이나 칼 모양으로 뭉쳐 던지거나 벤다. 보통의 초능력 방벽은 쉽게 찢으며, 에너지가 적은 우주 공간에서는 만들기가 더 어렵다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "energy_absorption_ball",
+      "ko": "에너지 흡수 볼",
+      "orig": "エネルギー吸収球",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "공간을 비틀어 만든, 에너지를 빨아들이는 검은 공.",
+      "note": "순간 이동의 원리를 응용해 공간을 꼬아 만드는 어두운 구체로, 곁의 에너지를 삼킨다. 처음에는 쓸 줄 아는 이가 드물었으나 시대가 내려오며 여러 에스퍼가 쓰게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "laphnor_mirror",
+      "ko": "라프놀의 거울",
+      "orig": "ラフノールの鏡",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "초능력으로 빚은 거울 모양의 방벽이자 배.",
+      "note": "안쪽이 접힌 다른 공간이어서 겉보다 넓고, 웬만한 공격으로는 깨지지 않는다. 방패와 감옥으로도 쓰고 그대로 별 사이를 날아다니는 배로도 쓰지만, 눈에 잘 띄고 바깥 사정을 알기 어렵다는 약점이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "psycho_ship",
+      "ko": "사이코 쉽",
+      "orig": "サイコシップ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "초능력으로 만든 고치 속에 들어가 별 사이를 건너는 것.",
+      "note": "에스퍼가 만든 고치 같은 장 안에 타고 이동하는데, 안에 공기가 거의 없어 보통 사람은 탈 수 없다. 라프놀의 거울을 만들지 못하는 에스퍼가 주로 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "electron_user",
+      "ko": "전자 사용자",
+      "orig": "電子使い",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics",
+        "neural_link"
+      ],
+      "one": "마음으로 전자 회로에 파고들어 기계를 부리는 에스퍼.",
+      "note": "컴퓨터 같은 회로 속에 정신으로 들어가 마음대로 다루며, 전산 공간 안에서 다른 전자 사용자와 맞붙기도 한다. 핏줄을 따라 이어지기 쉬운 능력으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "dream_master",
+      "ko": "꿈술사",
+      "orig": "ドリームマスター（夢使い）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기 — 에피소드 제목 「꿈술사 ~DREAM MASTER~」",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics",
+        "memory_edit"
+      ],
+      "one": "진짜보다 더 진짜 같은 환상을 보여 주는 힘.",
+      "note": "상대에게 제 삶을 다시 겪게 하는 환상 속에서 죽일 수도 있다. 라프놀에서 전해진 기술로, 기억을 옮겨 심는 데 응용되어 복제 몸을 갈아타며 오래 사는 이도 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드"
+      ]
+    },
+    {
+      "id": "moonlight",
+      "ko": "월광",
+      "orig": "月光",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "있을 가능성을 낮춰 상대와 초능력을 지워 버리는 힘.",
+      "note": "하늘에 세 달을 띄우고 그 빛으로 그 자리의 존재 확률을 떨어뜨려 초능력을 쓸 수 없는 곳을 만든다. 너무 오래 쓰면 쓰는 사람 자신도 사라진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "third_wave",
+      "ko": "제3파동",
+      "orig": "第三波動",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "time_travel"
+      ],
+      "one": "공간에 문을 열고 그 안의 시간을 다루는 드문 힘.",
+      "note": "보통 초능력과 다른 힘으로, 초공간에 문을 만들고 그 안의 시간 흐름을 조절한다. 문을 연 때부터라는 한계 안에서 시간을 빨리 돌려 밖을 살핀 뒤 되감아 돌아오는 일종의 시간 이동도 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "contact_telepath",
+      "ko": "접촉 텔레파스",
+      "orig": "接触テレパス",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로, 한자 부분은 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "몸에 닿아야만 쓸 수 있는 대신 정확한 독심.",
+      "note": "보통 텔레파시보다 상대의 생각과 기억을 더 정확히 읽지만 손이 닿아야 한다. 더 깊이 읽으려고 상대를 의식 없는 상태로 만드는 이도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "metabolizer",
+      "ko": "치유 능력",
+      "orig": "治癒（メタボライザ）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "몸의 대사를 다뤄 상처를 아물게 하는 초능력.",
+      "note": "쓰는 동안 물을 많이 써서 몸에서 김이 피어오른다. 상처는 고치지만 병은 고치지 못하며, 매트릭스 조작과 회춘이 이 힘의 응용으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "teleport",
+      "ko": "텔레포트",
+      "orig": "テレポート",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "초능력으로 다른 곳에 곧바로 옮겨 가는 것.",
+      "note": "강한 에스퍼는 광년 단위로 뛸 수 있다. 다만 별 사이를 오가는 수단으로는 사고가 잦아 라프놀의 거울을 타는 쪽이 더 낫다고 여겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "living_rock",
+      "ko": "살아있는 바위",
+      "orig": "生きている岩",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "지성과 초능력을 지녔다는 광물 생명.",
+      "note": "스스로 움직이지는 않지만 제3파동을 품고 있어, 에스퍼가 마음으로 건드리면 그 힘을 낸다. 보통 사람도 이를 매개로 문을 다루는 힘을 쓸 수 있고, 제국은 몰래 연구해 물건을 미래로 보내 보관하는 장치에 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "dragons_blood",
+      "ko": "드래곤즈 블러드",
+      "orig": "ドラゴンズブラッド",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "라프놀의 비룡 매트릭스를 섞어 넣은 사람의 몸.",
+      "note": "받아들이면 타고난 허약함이 낫고 초능력이 커지지만, 힘을 일정 이상 쓰면 몸이 비룡을 닮은 용인으로 바뀐다. 군사용으로 노린 이들 때문에 일이 벌어지고, 용인들은 변두리에 작은 마을을 이뤄 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "esper_hunter",
+      "ko": "에스퍼 헌터",
+      "orig": "エスパーハンター",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "에스퍼만 전문으로 쫓는 현상금 사냥꾼.",
+      "note": "군에서 달아난 강한 에스퍼도 상대해야 해서 솜씨 좋은 이가 많다. 보통 사람은 초능력 방해 장치와 대에스퍼 무기를 쓰고, 스스로 에스퍼인 사냥꾼도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "e_detector",
+      "ko": "E 디텍터",
+      "orig": "E・デテクター",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [
+        {
+          "ko": "ESP 센서",
+          "src": "같은 장치의 다른 이름(일본어 위키백과 '超人ロック' 용어집) — 국내 통용 표기 없음, 소리 나는 대로"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "초능력을 쓸 때 나오는 파동을 잡아내는 탐지기.",
+      "note": "초능력의 세기를 대략 보여 주고, 사람마다 다른 파동을 기록해 두면 누구인지도 가려낸다. 설치형 재머가 이 탐지기의 반응에 맞춰 돌아간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "esp_jammer",
+      "ko": "재머",
+      "orig": "ESPジャマー",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "가짜 초능력 파동으로 에스퍼에게 고통을 주는 장치.",
+      "note": "범위 안의 에스퍼 대부분을 움직이지 못하게 하며 세게 틀면 기절시키거나 죽이지만, 보통 사람에게는 아무 영향이 없다. 상대에 맞춰 파장을 바꾸는 식으로 발전했고, 나중에는 집집마다 들일 만큼 흔해진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "needle",
+      "ko": "침",
+      "orig": "針",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에스퍼의 뇌에 박아 초능력을 막는 작은 침.",
+      "note": "초능력을 쓰려 하면 뇌에 충격을 보내 막으므로, 아주 약한 마음 대화 말고는 쓸 수 없게 된다. 구 연방 때 만들어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "plug",
+      "ko": "플러그",
+      "orig": "プラグ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link",
+        "control_society"
+      ],
+      "one": "사람을 은하 컴퓨터의 단말로 만드는 뇌 이식 장치.",
+      "note": "제국 중기에 침을 발전시켜 만든 것으로, 초공간 통신으로 은하 컴퓨터와 이어 사람을 단말처럼 부린다. 나중 것은 박힌 줄도 모를 만큼 작아졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "esper_controller",
+      "ko": "에스퍼 컨트롤러",
+      "orig": "エスパーコントローラー",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "잠들거나 약해진 에스퍼에게 암시를 걸어 부리는 기계.",
+      "note": "제국 초기에 만들어졌고, 가짜 초능력 파동으로 의식이 흐린 에스퍼를 명령대로 움직이게 한다. 장치와 이론은 모두 없어졌지만 남은 자료로 되살리려는 이들이 이따금 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "psycho_staff",
+      "ko": "사이코 스태프",
+      "orig": "サイコ・スタッフ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "땅에 꽂아 에스퍼의 힘을 되받아치는 지팡이 무기.",
+      "note": "셋 이상을 싸움터에 꽂으면 그 안에서 쓰인 초능력을 빨아들여 쓴 사람에게 돌려보낸다. 제국 시대의 근접전용 대에스퍼 무기다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "psycho_puppet",
+      "ko": "사이코 퍼펫",
+      "orig": "サイコパペット",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "초능력을 빨아들여 되쏘는 스스로 움직이는 기계.",
+      "note": "사이코 스태프를 로봇에 넣은 데서 시작했으며, 처음에는 몇 미터짜리 상자 모양이었으나 점점 개나 고양이만큼 작아졌다. 발톱 따위로 직접 덤비기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "defender",
+      "ko": "디펜더",
+      "orig": "ディフェンダー",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에스퍼의 힘을 빨아 담아 두는 공 모양 무기.",
+      "note": "앞선 무기들이 힘을 되받아치기만 했다면 이것은 힘을 저장하는 칸에 모아 두고, 그 칸을 장갑형 장비에 넣으면 초능력이 없는 사람도 그 힘을 쓸 수 있다. 저장 칸에 론짓 광이 들어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "e_buster",
+      "ko": "E 버스터",
+      "orig": "E・バスター",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "미친 에스퍼의 뇌를 키워 넣은 대에스퍼 전함.",
+      "note": "한 에스퍼에게서 떼어 낸 뇌를 거대하게 불려 배에 넣었고, 에스퍼를 죽이려는 생각만 하는 그 뇌가 강한 초능력 공격을 퍼붓는다. 제국 후기의 가장 센 대에스퍼 무기였으며, 새 연방은 이런 배를 법으로 금했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "para_psychomail",
+      "ko": "파라 사이코메일",
+      "orig": "パラ・サイコメイル",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "초능력을 무력하게 만드는 갑옷.",
+      "note": "바깥에서 힘을 받아야 돌아가지만, 빛의 창을 막는 데서 그치지 않고 순간 이동과 치유를 방해하고 라프놀의 거울까지 깬다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "psi_expander",
+      "ko": "사이 익스팬더",
+      "orig": "サイ・エクスパンダー",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "몸에 걸쳐 쓰는 초능력 증폭기.",
+      "note": "제국 말기에 가슴 보호대 모양으로 나왔고, 뒤에 손목띠나 머리띠만큼 작아지거나 몸에 심는 것도 생겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "geoid_bomb",
+      "ko": "지오이드 탄",
+      "orig": "ジオイド弾",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "시공사 『초인로크 9』(2003) 출판사 책 소개 — 알라딘 상품 쪽 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=429912 의 소개문 '지오이드 탄… 단지 한 발만으로도 혹성을 파괴할 수 있는 무서운 병기'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "땅속 깊이 파고들어 대륙이나 행성을 부수는 미사일.",
+      "note": "탐지되지 않는 장에 싸여 순간 이동하듯 목표에 닿은 뒤 지각 깊은 층에서 터진다. 한 발로 대륙을, 지각이 약하면 행성까지 부수며 피할 길이 없다. 이 무기가 쓰이며 은하 전체의 큰 전쟁이 터진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=429912",
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "subspace_field",
+      "ko": "아공간 필드",
+      "orig": "亜空間フィールド",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로, 한자 부분은 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "보통 공간에서 떼어 낸 공간으로 배나 미사일을 감싸는 장.",
+      "note": "이 장에 싸인 것은 보통 탐지로 잡을 수 없고, 초능력으로 순간 이동시켜 비켜 내지도 못한다. 지오이드 탄과 소형 전투기에 쓰였다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "nike",
+      "ko": "니케",
+      "orig": "ニケ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "한 사람이 멀리서 조종하는 사람 크기의 격투 로봇.",
+      "note": "무기는 달지 않았지만 단단하고, 사람의 반응을 훨씬 넘는 속도로 치고 들이받는다. 그 속도가 조종하는 사람의 정신을 짓눌러 각성제를 맞고 다뤄야 해서 결함품이라는 말을 들었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "protogear",
+      "ko": "프로토기어",
+      "orig": "プロトギア",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기 — 외전 제목 「프로토기어」",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "보병용으로 개발된 장갑 장비의 원형.",
+      "note": "처음부터 장갑과 힘이 넉넉해, 이를 낮춰 일반 병사용 중보병 장갑으로 썼다. 가볍게 해 날 수 있게 한 강하병 장비와 신경을 이어 다루는 시험기가 여기서 갈라져 나왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드"
+      ]
+    },
+    {
+      "id": "hell_diver",
+      "ko": "헬다이버",
+      "orig": "地獄の降下兵（ヘルダイバー）",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [
+        {
+          "ko": "지옥의 강하병",
+          "src": "원어의 한자 부분 뜻을 옮긴 것 — 국내 통용 표기 없음"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor",
+        "orbital_drop"
+      ],
+      "one": "하늘에서 뛰어내리는 부대가 입는 날 수 있는 장갑.",
+      "note": "보병용 장갑을 가볍게 하고 날 수 있게 고친 것으로, 이름대로 공수 강하 부대의 장비다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "dark_knight",
+      "ko": "암흑기사",
+      "orig": "暗黒騎士",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음(나무위키 '초인 로크/에피소드' 의 외전 제목은 「암흑의 기사」)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor",
+        "neural_link"
+      ],
+      "one": "신경을 기계에 이어 조종하는 시험용 강화 장갑.",
+      "note": "성능은 앞선 것을 크게 넘었지만 조작이 복잡해 신경을 곧바로 잇는 방식을 썼고, 억지로 떼면 조종자가 큰 혼란에 빠진다. 사이버법에 걸려 겉으로는 폐기되었으나 이를 쓰는 용병단이 따로 꾸려졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드"
+      ]
+    },
+    {
+      "id": "armored_suit",
+      "ko": "장갑 슈트",
+      "orig": "装甲スーツ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로, 한자 부분은 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor",
+        "energy_shield"
+      ],
+      "one": "방벽과 힘 보조 기능이 든 개인 전투복.",
+      "note": "단단한 갑옷형부터 옷 밑에 받쳐 입는 얇은 것까지 있으며, 무거운 것은 전투 로봇에 가깝다. 팔 부분만 따로 끼우는 장비도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "blast_cannon",
+      "ko": "블래스트 캐논",
+      "orig": "ブラストキャノン",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성을 부술 만한 힘을 지닌 우주선 크기의 거대 포.",
+      "note": "로크의 숙적으로 나오는 한 존재가 지녔던 배 모양의 포로, 행성 하나를 깨뜨릴 출력을 낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "genocide_ship",
+      "ko": "행성 정화선",
+      "orig": "惑星浄化船（ジェノサイド）",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "중성자탄으로 행성 위의 생명을 쓸어 내는 제국의 배.",
+      "note": "제국 시대의 배로, 중성자 폭탄을 주무기로 써서 건물은 두고 행성 위의 사람을 없앤다. 이 작품의 미사일 탄두는 반물질·중력자·정신 파괴 등에 따라 영문 머리글자로 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "cyber",
+      "ko": "사이버",
+      "orig": "サイバー",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "몸의 일부나 뇌 밖의 전부를 기계로 바꾼 사람.",
+      "note": "우주력 140년대에 지구에서 개발되었으나 많은 이가 정신에 이상이 생겨 반란을 일으켰다. 끝내 풀지 못해 사이버는 전면 금지되고 기계로 몸을 고치는 의료도 엄하게 막혔지만, 기술은 몰래 새어 나갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "hypnosis_crystal",
+      "ko": "최면 크리스털",
+      "orig": "催眠クリスタル",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로, 한자 부분은 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "별빛 같은 빛을 되풀이해 보는 이를 최면에 빠뜨리는 기계.",
+      "note": "손에 드는 공 모양이 기본으로, 속에 든 발광관이 일정한 무늬로 빛을 뿌려 보는 사람을 최면 상태로 이끈다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "hyper_drive",
+      "ko": "하이퍼 드라이브",
+      "orig": "ハイパー・ドライブ",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [
+        {
+          "ko": "HD",
+          "src": "작중 줄임말(일본어 위키백과 '超人ロック' 용어집) — 원어 그대로"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "초공간으로 들어가 광년을 며칠 만에 건너는 우주선 장치.",
+      "note": "인류를 지구 밖으로 퍼뜨린 발명이지만 갈 수 있는 거리에 한계가 있어, 뒤에는 은하의 중심과 변두리 사이 격차를 낳았다. 한 번 쓰면 식힐 시간이 필요하다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "transition_collapse",
+      "ko": "이천 붕괴",
+      "orig": "移遷崩壊",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "하이퍼 드라이브를 무리하게 잇달아 쓰다 초공간 속에서 실체화하는 사고.",
+      "note": "식힐 틈 없이 연달아 뛰려 하면 일어날 수 있는 사고로, 휘말린 배가 오랜 세월 바깥과 끊긴 채 갇히기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "gate",
+      "ko": "게이트",
+      "orig": "ゲート",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '로크(초인 로크)' 문서에서 통용되는 표기(초능력 쪽 이름이지만 기계로 만든 게이트도 같은 이름으로 부른다)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "제3파동을 기계로 흉내 내 만든 은하의 고속도로.",
+      "note": "하이퍼 드라이브의 거리 한계를 넘으려고 문 발생기로 만든 길로, 훨씬 안전하다. 다만 게이트가 놓인 곳에 따라 개발과 물자 흐름이 갈리는 문제가 남았다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "reactor",
+      "ko": "반응로",
+      "orig": "反応炉",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "우주선 등을 움직이는 반물질 동력 장치.",
+      "note": "크기에 따라 출력에 한계가 있으며, 아이 신발에 들어갈 만큼 작게 만든 것도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "longit_ore",
+      "ko": "론짓 광",
+      "orig": "ロンジット鉱",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로, 한자 부분은 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource"
+      ],
+      "one": "반물질 동력과 초공간 기관을 가능하게 한 귀한 광물.",
+      "note": "한 곳에 닿은 장을 전체로 퍼뜨리는 성질이 있어 노 안쪽에 입히면 반물질을 닿지 않게 담아 둘 수 있다. 비싼 물건의 대명사로, 광산 이권 다툼과 우주 해적의 요구에 자주 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "galaxy_computer",
+      "ko": "은하 컴퓨터",
+      "orig": "銀河コンピュータ（ライガー1）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "라이거 1",
+          "src": "나무위키 '초인 로크/등장인물' 문서에서 함께 쓰는 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "제국을 떠받친 스스로 생각하는 슈퍼컴퓨터.",
+      "note": "전쟁 뒤의 재건을 내다보고 만들어져 제국의 통치와 정보망의 중심을 맡았다. 사람을 믿지 않는 생각을 바탕에 둔 채 오랜 세월 몰래 제국을 집어삼켜, 스스로 넓히며 행성만큼 커지고 끝내 황제 자리까지 차지하려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "keeper_of_the_book",
+      "ko": "서를 지키는 자",
+      "orig": "書を守る者",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "megastructure",
+        "ai"
+      ],
+      "one": "은하 컴퓨터에 맞서려고 별 하나를 통째로 바꿔 만든 컴퓨터.",
+      "note": "제국의 한 황제가 은하 컴퓨터를 대신할 것으로 만든, 스스로 진화하는 두 번째 컴퓨터다. 처음부터 은하 컴퓨터가 그 존재를 알고 제 발전에 쓰려고 일부러 내버려 두었다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "clone",
+      "ko": "클론",
+      "orig": "クローン",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기('로크의 클론들')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "clone"
+      ],
+      "one": "에스퍼의 세포로만 만들 수 있는 복제 인간.",
+      "note": "복제 과정의 결함으로 늙는 속도가 네 배여서 서른 해 남짓밖에 살지 못하고, 초능력을 쓰면 수명이 더 준다. 회춘이나 복제를 거듭하는 식으로 수명을 늘리기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "solar_union",
+      "ko": "태양계연합",
+      "orig": "太陽系連合",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기('지구~태양계연합시대')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "인류가 처음 별 사이로 나갈 때의 지구 중심 정부.",
+      "note": "지구 정부를 중심으로 식민 행성을 거느린 짜임이었으나, 지구의 이민 정책에 대한 식민지의 불만이 커져 행성들이 하나씩 떨어져 나간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "galactic_federation",
+      "ko": "은하연방",
+      "orig": "銀河連邦",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "은하 연방",
+          "src": "나무위키 '초인 로크/등장인물' 문서의 다른 띄어쓰기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "독립한 행성들이 모여 세운 별들의 연합.",
+      "note": "태양계와 여러 항성계가 모여 맺었고 이후 거의 모든 행성이 들었다. 이웃 행성끼리 묶은 구역마다 법과 경제를 함께 쓰므로, 내세울 산물이 없는 변두리는 점점 쇠퇴한다. 은하 전체의 큰 전쟁으로 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "new_federation",
+      "ko": "신 은하연방",
+      "orig": "第二次銀河連邦（新連邦）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기('신 은하연방 시대')",
+      "alt_ko": [
+        {
+          "ko": "신 연방",
+          "src": "나무위키 '초인 로크/에피소드' 문서에서 줄여 쓰는 표기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "제국이 무너진 뒤 지구를 수도로 다시 세운 연방.",
+      "note": "제국에 맞선 조직을 바탕으로 다시 맺어졌다. 이 시대에는 회춘이 싸지고 재머가 집집마다 들어가며, 사람이 살 만한 행성을 찾아도 비용 때문에 개척하지 않고 묵혀 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "galactic_empire",
+      "ko": "은하 제국",
+      "orig": "銀河帝国",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "시공사 『초인로크 16』(2004) 출판사 책 소개 — 알라딘 상품 쪽 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803 의 소개문 '정체를 알 수 없는 은하 제국 황제'",
+      "alt_ko": [
+        {
+          "ko": "은하제국",
+          "src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 띄어쓰기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "큰 전쟁 뒤 흩어진 인류를 다시 묶은 황제의 나라.",
+      "note": "한 행성을 중심으로 선 공화국이 제정으로 바뀌며 시작되었고, 은하 컴퓨터의 지혜를 무기로 넓혀 갔다. 뒤로 갈수록 변두리 행성들의 반발을 사서 수백 년 만에 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803",
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "aulick_house",
+      "ko": "올릭 가",
+      "orig": "オーリック家",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "시공사 『초인로크 16』(2004) 출판사 책 소개 — 알라딘 상품 쪽 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803 의 소개문 '그녀와 함께 올릭 가의 …'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하 제국 초기의 황가 가운데 하나.",
+      "note": "초대 황제의 핏줄이 아니어서 계승 순위가 낮았으나, 이 집안 출신이 제위에 오르며 순위가 뒤집혔다. 초대 황제의 직계인 다른 황가와 다투다 혼인으로 하나가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803",
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "interstellar_republic",
+      "ko": "성간 공화국",
+      "orig": "星間共和国",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하 제국이 되기 전, 한 행성을 중심으로 선 공화국.",
+      "note": "연방이 무너진 뒤의 혼란 속에서 세력을 키웠고, 뒤에 첫 황제를 세우며 제정으로 넘어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "pan_galactic_war",
+      "ko": "범은하 전쟁",
+      "orig": "汎銀河戦争",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [
+        {
+          "ko": "항성간 전면전",
+          "src": "시공사 『초인로크 9』(2003) 출판사 책 소개(알라딘 상품 쪽 ItemId=429912)가 이 전쟁의 시작을 가리킨 말 — 고유한 이름인지는 확인 못 함"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "empire_fall"
+      ],
+      "one": "지오이드 탄으로 시작되어 은하연방을 무너뜨린 큰 전쟁.",
+      "note": "행성 여럿이 부서지고 사상자가 수십억에 이르며 연방은 제 구실을 잃고, 사람이 사는 행성 대부분이 혼란에 빠진다. 무기를 팔던 군수 기업이 끼어들어 오래 끌다가 제국이 서면서 차츰 가라앉는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=429912",
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "song_of_earth",
+      "ko": "대지의 노래",
+      "orig": "SOE（ソング・オブ・アース／大地の歌）",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "SOE",
+          "src": "나무위키 '초인 로크/등장인물' 문서에서 함께 쓰는 줄임말"
+        },
+        {
+          "ko": "송 오브 어스",
+          "src": "나무위키 '초인 로크/에피소드' 문서의 에피소드 제목"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하 제국에 맞선 저항 조직.",
+      "note": "컴퓨터에 기대지 않는 사회를 연구하는 모임에서 출발해 반제국 조직이 되었고, 뒤에 새 연방의 바탕이 된다. 지구에 거점을 두었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "isc",
+      "ko": "ISC",
+      "orig": "ISC（独立星間コマンド）",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(영문 줄임말 그대로)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "연방군과 따로 움직이는 수사·구조 준군사 조직.",
+      "note": "연방군이나 행성 정부와 다른 줄기로 범죄 수사와 인명 구조를 맡는다. 에스퍼 승무원으로 배를 굴리기도 하고, 뒤에는 특수 임무를 맡는 부서도 생긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "federal_intelligence",
+      "ko": "연방군 정보부",
+      "orig": "連邦軍情報部",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "초능력이 드러난 군인이 모두 옮겨 가는 부서.",
+      "note": "초능력이 밝혀지면 원래 소속과 상관없이 이곳으로 옮겨지며, 뜻을 잃은 이가 많다. 지우기 어려운 몸속에 추적 장치를 심어 행방과 생사를 감시당하기도 하고, 다른 군인들은 이들과 밥을 같이 먹지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "interstellar_corp",
+      "ko": "성간 기업",
+      "orig": "星間企業",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어의 한자를 우리 한자음으로 읽음",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "여러 행성과 구역에 걸쳐 장사하는, 나라만 한 기업.",
+      "note": "해적과 범죄에 맞서 스스로 무장할 권리를 받았는데, 이를 핑계로 회사 이익을 위해 폭력을 쓰는 곳도 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "uai",
+      "ko": "UAI",
+      "orig": "UAI",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(원어 그대로)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "큰 전쟁 때 여러 세력에 무기를 팔아 전쟁을 끈 군수 기업.",
+      "note": "모든 편에 무기를 대며 큰 돈을 벌고 연방에까지 힘을 뻗쳤다. 초능력자를 상대하는 전투복 같은 대에스퍼 무기도 스스로 개발했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "laphnor",
+      "ko": "라프놀",
+      "orig": "ラフノール",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "조난한 이민선이 닿아 주민 대부분이 에스퍼가 된 행성.",
+      "note": "연방의 손이 닿지 않는 바깥 행성으로, 거친 환경에 맞서려 초능력을 길러 기계 문명은 거의 잃었다. 이곳의 수행과 기술이 거울·꿈술사 같은 초능력의 뿌리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "laphral",
+      "ko": "라프랄",
+      "orig": "ラフラール",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기(에피소드 제목)",
+      "alt_ko": [
+        {
+          "ko": "라프놀 수행자",
+          "src": "나무위키 '로크(초인 로크)' 문서에서 쓰는 풀이 이름"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "order",
+        "mental_discipline"
+      ],
+      "one": "라프놀에서 비롯한 교단의 수행자.",
+      "note": "초능력 훈련을 중심으로 평생 마음을 닦는 이들로, 겉으로는 초능력이 없어도 수행할 수 있다. 사제의 시험을 통과해야 비로소 이 이름을 쓸 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "outer_planet",
+      "ko": "아우터 플레닛",
+      "orig": "アウター・プラネット",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기(에피소드 제목)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하연방의 다스림이 닿지 않는 바깥 행성.",
+      "note": "연방 밖에 따로 떨어진 행성들을 이르는 말로, 라프놀이 대표적이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드"
+      ]
+    },
+    {
+      "id": "infinite_project",
+      "ko": "인피니트 계획",
+      "orig": "インフィニット計画",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기(에피소드 제목)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonization",
+        "overpopulation"
+      ],
+      "one": "과밀한 지구를 벗어나려고 시작한 우주 개발과 행성 이민.",
+      "note": "인구가 넘쳐 환경이 망가진 지구에서 출발한 계획으로, 여기서 우주 개발과 행성 식민이 본격적으로 시작된다. 작가의 연표에서 우주력 첫해에 놓인 이야기다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    },
+    {
+      "id": "space_calendar",
+      "ko": "우주력",
+      "orig": "宇宙暦",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/에피소드' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "서기를 이어 쓰는 이 세계의 연호.",
+      "note": "서기 다음에 쓰는 연호로, 작가의 연표는 인피니트 계획을 첫해에 두고 연방·제국·새 연방으로 이어지는 천수백 년의 이야기를 모두 이 연호로 매긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/에피소드"
+      ]
+    },
+    {
+      "id": "ronwall",
+      "ko": "론월",
+      "orig": "ロンウォール",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "colonization",
+        "colonial_war"
+      ],
+      "one": "고치지 않고 바로 살 수 있었던 첫 식민 행성.",
+      "note": "인류 우주 개척의 공로자 이름을 땄다. 지구의 이민 정책에 반발해 독립운동이 일어나 처음으로 독립한 행성이 되었고, 뒤에 은하연방을 처음 내세운 것도 이 행성 정부다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물"
+      ]
+    },
+    {
+      "id": "fargo",
+      "ko": "파고",
+      "orig": "ファーゴ",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "시공사 『초인로크 16』(2004) 출판사 책 소개 — 알라딘 상품 쪽 https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803 의 소개문 '혹성 파고를 찾아간 로크'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하 컴퓨터가 놓였다가 은하 제국의 수도가 된 행성.",
+      "note": "처음에는 변두리였으나 은하 컴퓨터가 들어서고 제국이 세워지며 수도가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=486803",
+        "https://ja.wikipedia.org/wiki/超人ロック"
+      ]
+    },
+    {
+      "id": "locke_enemy",
+      "ko": "로크의 적",
+      "orig": "敵",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '초인 로크/등장인물' 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [],
+      "one": "시대마다 다른 모습으로 되살아나 로크와 맞서는 정체 모를 의지.",
+      "note": "쓰러뜨려도 다른 존재로 거듭 나타나며, 처음에는 이성적이고 사람을 끄는 힘이 있다가 싸울수록 로크를 없애는 것 말고는 관심을 잃는다. 로크와 짝을 이루는 존재로 그려진다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/超人ロック",
+        "https://namu.wiki/w/초인%20로크/등장인물",
+        "https://namu.wiki/w/로크(초인%20로크)"
+      ]
+    }
+  ]
+}

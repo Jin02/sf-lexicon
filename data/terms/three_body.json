@@ -1,0 +1,1468 @@
+{
+  "terms": [
+    {
+      "id": "three_body_problem",
+      "ko": "삼체문제",
+      "orig": "三体问题",
+      "orig_en": "three-body problem",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 장 제목('삼체문제'). 1부 제목 『삼체 1부: 삼체문제』(알라딘 상품 페이지)도 같은 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "세 천체가 서로 끌어당길 때의 움직임을 미리 풀 수 없는 문제.",
+      "note": "실제 물리학의 문제로, 세 천체의 움직임은 하나의 공식으로 풀리지 않는다. 이 작품에서는 세 태양을 가진 행성의 문명이 이 문제 때문에 언제 낮과 밤, 혹한과 열기가 올지 몰라 거듭 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289126579"
+      ]
+    },
+    {
+      "id": "trisolaris",
+      "ko": "삼체 세계",
+      "orig": "三体世界",
+      "orig_en": "Trisolaris",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 리디북스 미리보기('삼체 세계로부터 마지막으로 받은 메시지', 'ETO를 통해 삼체 세계의 정보를'). 출판사 책 소개(예스24)에도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "세 개의 태양을 도는 행성과 그 위의 외계 문명.",
+      "note": "지구에서 4광년쯤 떨어진 세 별의 행성계다. 태양들이 제멋대로 움직여 살기 좋은 때와 불타거나 얼어붙는 때가 예고 없이 바뀌고, 그 탓에 문명이 여러 번 무너졌다가 다시 일어섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://ridibooks.com/books/4755000139/preview",
+        "https://www.yes24.com/product/goods/107477481"
+      ]
+    },
+    {
+      "id": "trisolarans",
+      "ko": "삼체인",
+      "orig": "三体人",
+      "orig_en": "Trisolarans",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('삼체인과 대화를 나누듯 금붕어와도')",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "삼체 세계에 사는 외계 지성.",
+      "note": "가혹한 환경을 견디도록 진화한 종족이다. 몸의 물기를 빼고 버티는 능력이 있고, 살아남는 데 걸림이 되는 감정은 억누르는 사회를 이뤘다. 사람보다 훨씬 앞선 기술을 가졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "stable_era",
+      "ko": "항세기",
+      "orig": "恒纪元",
+      "orig_en": "Stable Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 구글 북스 본문 검색 조각('항세기가 지속됐다고 해', '항세기를 제외하면 모두 난세기라고')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "삼체 세계에서 태양이 고르게 뜨고 지는 평온한 때.",
+      "note": "태양 하나가 규칙대로 뜨고 지는 시기로, 문명이 일어나 자랄 수 있는 때다. 언제 찾아와 얼마나 갈지 미리 알 수 없어, 그것을 맞히는 일이 삼체 세계에서 살아남는 열쇠가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%ED%95%AD%EC%84%B8%EA%B8%B0%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "chaotic_era",
+      "ko": "난세기",
+      "orig": "乱纪元",
+      "orig_en": "Chaotic Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 구글 북스 본문 검색 조각('8일 동안 난세기가 나타날 것입니다')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "태양이 제멋대로 움직여 혹한과 열기가 번갈아 닥치는 때.",
+      "note": "태양이 너무 멀어 얼어붙거나 너무 가까워 불타는 날이 아무 규칙 없이 이어진다. 이때 사람들은 몸의 물기를 빼고 숨어서 버틴다. 항세기와 난세기가 톱니처럼 맞물려 도는 것이 삼체 세계의 날씨다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%82%9C%EC%84%B8%EA%B8%B0%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "dehydration",
+      "ko": "탈수",
+      "orig": "脱水",
+      "orig_en": "dehydration",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부·2부 본문 — 구글 북스 본문 검색 조각('그들은 강제로 탈수되어', '탈수 상태에 있었지만')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "몸의 물기를 다 빼 마른 껍질처럼 되어 버티는 능력.",
+      "note": "삼체 세계의 생물은 살기 힘든 때가 오면 몸에서 물을 모두 빼고 말라붙은 채 보관되었다가, 좋은 때가 오면 물에 담가져 되살아난다. 일할 수 없게 된 이를 억지로 탈수시키기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%ED%83%88%EC%88%98%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "transparent_thought",
+      "ko": "투명한 사고",
+      "orig": "思维透明",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('투명한 사고가 오랫동안 우리의 문화적, 사회적 습성으로 굳어져')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "생각이 그대로 남에게 드러나 거짓을 모르는 삼체인의 성질.",
+      "note": "삼체인은 뇌가 내보내는 신호로 생각을 그대로 주고받는다. 그래서 생각과 말이 따로 없고, 속이거나 감추는 일을 이해하지 못한다. 사람이 속마음을 숨길 수 있다는 사실이 삼체인에게는 두려움이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "three_body_game",
+      "ko": "삼체",
+      "orig": "三体",
+      "orig_en": "Three Body",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 게임 장 제목('삼체, 주 문왕, 긴 밤' 등)과 본문의 구글 북스 본문 검색 조각('삼체에 비하면 현실은 너무 평범하고'). 책 안에서 게임은 따로 이름을 붙이지 않고 '삼체'라고만 부른다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "simulation"
+      ],
+      "one": "삼체 세계를 본뜬 가상 현실 게임.",
+      "note": "V 장비를 입고 들어가는 게임으로, 세 태양 아래에서 문명이 일어섰다 무너지기를 되풀이하는 세계가 펼쳐진다. 들어온 이는 역사 속 인물의 모습을 한 이들과 함께 태양의 움직임을 풀려 애쓴다. 게임을 만든 쪽에는 따로 노리는 바가 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B2%8C%EC%9E%84+%EC%82%BC%EC%B2%B4%22+%EB%A5%98%EC%B8%A0%EC%8B%A0+%EC%99%95%EB%A8%80%EC%98%A4"
+      ]
+    },
+    {
+      "id": "v_suit",
+      "ko": "V 장비",
+      "orig": "V装具",
+      "orig_en": "V-suit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 리디북스 미리보기('‘ V 장비’를 착용하고 있었다')와 구글 북스 본문 검색 조각('게임 가게에 들러 V 장비를 사는')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "온몸으로 가상 세계를 느끼게 하는 게임 장비.",
+      "note": "사방을 다 볼 수 있는 헬멧과 감각을 전하는 옷으로 이뤄져, 게임 속 추위와 열기, 칼에 찔리는 느낌까지 실제처럼 전한다. 이 장비를 입고 게임 「삼체」에 들어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%82%BC%EC%B2%B4+%EA%B2%8C%EC%9E%84%22+%EB%A5%98%EC%B8%A0%EC%8B%A0+V+%EC%9E%A5%EB%B9%84"
+      ]
+    },
+    {
+      "id": "frontiers_of_science",
+      "ko": "과학의 경계",
+      "orig": "科学边界",
+      "orig_en": "Frontiers of Science",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 리디북스 미리보기('‘과학의 경계’는 국제적으로 영향력 있는 학술 단체입니다')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "과학이 닿을 수 있는 한계를 묻는 국제 학술 모임.",
+      "note": "이름난 학자들이 모여 물리학이 부딪힌 벽과 과학의 한계를 토론한다. 기초 물리학자들이 잇달아 목숨을 끊는 일이 벌어지자, 그들 상당수가 이 모임과 닿아 있었다는 점이 조사의 실마리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "ghost_countdown",
+      "ko": "유령 같은 카운트다운",
+      "orig": "幽灵倒计时",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 리디북스 미리보기('유령 같은 카운트다운은 여전히 계속되고 있었다'). 넷플릭스 『삼체』(2024) 1화 제목은 '카운트다운'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "한 사람이 찍은 사진에만 나타나는 거꾸로 세는 숫자.",
+      "note": "나노 소재 학자 왕먀오가 찍는 사진마다 시·분·초로 줄어드는 숫자가 찍혀 나온다. 남이 찍으면 나타나지 않고, 배경에 따라 잘 보이도록 밝기까지 바뀐다. 지금의 기술로는 설명할 수 없는 일이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.netflix.com/kr/title/81024821"
+      ]
+    },
+    {
+      "id": "cosmic_flicker",
+      "ko": "우주의 반짝임",
+      "orig": "宇宙闪烁",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 장 제목('우주의 반짝임 1', '우주의 반짝임 2')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "우주 전체가 깜빡이는 것처럼 보이는 기이한 일.",
+      "note": "주인공 앞에서 우주 배경 복사 전체가 깜빡거린다. 사람의 기술로는 도저히 일으킬 수 없는 일이라, 이를 본 사람에게는 기적처럼 다가온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "red_coast_base",
+      "ko": "홍안 기지",
+      "orig": "红岸基地",
+      "orig_en": "Red Coast Base",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 구글 북스 본문 검색 조각('예원제가 홍안 기지에 들어오게 된 이유는'), 리디북스 미리보기 목차('홍안 1'~'홍안 6'). 넷플릭스 『삼체』 2화 제목도 '홍안'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "first_contact"
+      ],
+      "one": "문화대혁명 시기 산꼭대기에 지은 비밀 군사 기지.",
+      "note": "거대한 안테나를 갖춘 기밀 기지로, 우주를 향해 신호를 보내고 듣는 일을 맡았다. 천체물리학을 공부한 젊은 여성 과학자가 이곳에 들어오고, 여기서 인류와 외계 문명 사이에 처음으로 신호가 오간다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%ED%99%8D%EC%95%88+%EA%B8%B0%EC%A7%80%22+%EC%82%BC%EC%B2%B4",
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.netflix.com/kr/title/81024821"
+      ]
+    },
+    {
+      "id": "eto",
+      "ko": "지구 삼체 조직",
+      "orig": "地球三体组织",
+      "orig_en": "Earth-Trisolaris Organization (ETO)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('ETO(지구 삼체 조직)'), 2부 각주('지구 삼체 조직의 약칭')",
+      "alt_ko": [
+        {
+          "ko": "ETO",
+          "src": "같은 판 2·3부 본문에서 주로 쓰는 줄인 이름 — 리디북스 미리보기"
+        },
+        {
+          "ko": "삼체 반군",
+          "src": "같은 판 1부 본문에서 쓰는 다른 이름 — 구글 북스 본문 검색 조각('삼체 반군에는 제삼의 파벌이')"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "collaborators"
+      ],
+      "one": "삼체 문명을 받들며 지구로 불러들이려는 사람들의 조직.",
+      "note": "인류에 절망한 이들이 모여 만든 비밀 조직으로, 외계 문명을 '주'라 부르며 돕는다. 안에서 생각이 갈려 강림파·구원파·생존파로 나뉜다. 이 조직이 퍼뜨린 흐름을 책은 '지구 삼체 운동'이라 부른다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview",
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%83%9D%EC%A1%B4%ED%8C%8C%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "adventists",
+      "ko": "강림파",
+      "orig": "降临派",
+      "orig_en": "Adventists",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "collaborators"
+      ],
+      "one": "인류가 사라지기를 바라는 지구 삼체 조직의 한 갈래.",
+      "note": "인류는 스스로 고칠 수 없다고 보고, 삼체 문명이 내려와 사람을 벌하고 없애 주기를 바란다. 조직에서 가장 과격한 갈래다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "redemptionists",
+      "ko": "구원파",
+      "orig": "拯救派",
+      "orig_en": "Redemptionists",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "collaborators"
+      ],
+      "one": "삼체 문명을 신앙처럼 받드는 지구 삼체 조직의 한 갈래.",
+      "note": "외계 문명을 일종의 신으로 섬기는 사람들이다. 자기들이 구원받기를 바라기보다, 혹독한 세계에 사는 '주'를 자신들이 구해 주려 한다는 점이 남다르다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "survivors",
+      "ko": "생존파",
+      "orig": "幸存派",
+      "orig_en": "Survivors",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 구글 북스 본문 검색 조각('삼체 반군에는 제삼의 파벌이 출현했다. 생존파였다')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "collaborators"
+      ],
+      "one": "다가올 전쟁에서 자기와 후손만은 살아남으려는 갈래.",
+      "note": "외계 함대가 오고 있다는 것이 알려진 뒤 생긴 세 번째 갈래다. 인류가 질 것이라 보고, 미리 외계 편에 서서 자손이라도 살아남게 하려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%83%9D%EC%A1%B4%ED%8C%8C%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "species_communism",
+      "ko": "종의 공산주의",
+      "orig": "物种共产主义",
+      "orig_en": "Species Communism",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 장 제목('종의 공산주의')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "지구의 모든 생물 종이 똑같은 권리를 가진다는 생각.",
+      "note": "사람도 다른 생물과 다를 바 없으니 모든 종이 평등하다는 사상이다. 환경 파괴에 분노한 한 사람이 품은 이 생각이 인류를 등지는 길로 이어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "judgment_day",
+      "ko": "심판일호",
+      "orig": "审判日号",
+      "orig_en": "Judgment Day",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('‘심판일호’의 은백색 항적이')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "지구 삼체 조직이 본거지로 쓰는 거대한 배.",
+      "note": "한 부호가 큰돈을 들여 지은 커다란 배로, 바다를 떠다니며 조직의 지휘소 노릇을 한다. 외계와 주고받은 기록이 이 배 안에 모여 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "operation_guzheng",
+      "ko": "작전명 ‘쟁’",
+      "orig": "古筝行动",
+      "orig_en": "Operation Guzheng",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 장 제목('작전명 ‘쟁’')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "배 안의 비밀 기록이 지워지기 전에 손에 넣으려는 작전.",
+      "note": "기록이 지워지기 전에 배를 단숨에 멈춰야 하는 어려운 작전이다. 운하를 가로질러 나노 섬유를 악기 줄처럼 촘촘히 걸어 두는 방법을 쓴다. 쟁은 줄을 뜯어 소리 내는 옛 현악기다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "flying_blade",
+      "ko": "비도",
+      "orig": "飞刃",
+      "orig_en": "Flying Blade",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 구글 북스 본문 검색 조각('줄은 왕 교수가 제작한 ‘비도’라고 하는 나노 소재로')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "눈에 안 보일 만큼 가늘지만 아주 질긴 나노 소재.",
+      "note": "왕먀오의 연구실이 만든 초강도 나노 섬유다. 머리카락보다 훨씬 가는 줄 하나로도 쇠붙이를 자를 수 있을 만큼 강하다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B9%84%EB%8F%84%22+%EB%82%98%EB%85%B8+%EC%82%BC%EC%B2%B4",
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "sophon",
+      "ko": "지자",
+      "orig": "智子",
+      "orig_en": "sophon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('지자(智子)가 시망막으로 전송하는 글자', '저차원 펼침'), 1부 목차의 장 제목('지자 프로젝트')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "entangled_comm"
+      ],
+      "one": "양성자 하나에 회로를 새겨 만든 지능 있는 입자.",
+      "note": "'지혜를 가진 입자'라는 뜻이다. 양성자를 낮은 차원으로 크게 펼쳐 회로를 새긴 뒤 다시 접어 지구로 보냈다. 실험 결과를 흐트러뜨리고 모든 것을 엿보며, 짝지은 입자의 얽힘으로 본거지와 곧바로 소식을 주고받는다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "trisolaran_fleet",
+      "ko": "삼체 함대",
+      "orig": "三体舰队",
+      "orig_en": "Trisolaran Fleet",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('삼체 함대와 태양계의 거리 4.21광년'). 출판사 책 소개(예스24)에는 '삼체 문명의 항성급 함대'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "sublight",
+        "alien_invasion"
+      ],
+      "one": "태양계를 향해 떠난 외계 문명의 함대.",
+      "note": "빛보다 훨씬 느린 빠르기로 날아와 지구에 닿기까지 400년쯤 걸린다. 그 긴 시간이 인류에게는 준비할 틈이 되고, 400년 뒤를 내다보는 계획과 사회의 큰 변화가 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.yes24.com/product/goods/107477481"
+      ]
+    },
+    {
+      "id": "bugs",
+      "ko": "벌레",
+      "orig": "虫子",
+      "orig_en": "bugs",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 — 리디북스 미리보기 목차의 장 제목('벌레'). 출판사 책 소개(예스24)의 '너희는 벌레다!'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "삼체 쪽이 인류를 깔보아 부르는 말.",
+      "note": "기술의 차이가 사람과 벌레만큼 크다는 뜻으로 인류를 이렇게 부른다. 그러나 사람이 온갖 수단을 써도 벌레를 끝내 없애지 못했다는 데서, 거꾸로 버틸 힘을 얻는 사람들도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview",
+        "https://www.yes24.com/product/goods/107477481"
+      ]
+    },
+    {
+      "id": "battle_command_center",
+      "ko": "작전센터",
+      "orig": "作战中心",
+      "orig_en": "Battle Command Center",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 이현아 옮김) 전자책 1부 본문 — 리디북스 미리보기('그런 사람이 어떻게 작전센터에 들어왔지?')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "기이한 사건을 쫓으려 각국 군과 경찰이 꾸린 비밀 지휘부.",
+      "note": "군인과 경찰, 과학자, 다른 나라 연락 장교까지 모여 있지만 자기들이 무엇과 싸우는지 대부분 모른다. 지휘관은 지금이 전쟁 중이라고만 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000137/preview"
+      ]
+    },
+    {
+      "id": "trisolar_crisis",
+      "ko": "삼체 위기",
+      "orig": "三体危机",
+      "orig_en": "Trisolar Crisis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('삼체 위기가 가져온 문화적 충격은')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "one": "외계 함대가 오고 있다는 사실이 알려진 뒤의 위기.",
+      "note": "인류가 처음으로 공동의 적과 마주하면서 정치와 문화가 크게 흔들린 사태다. 국제연합의 힘이 커지고 지구를 떠나 달아나자는 생각이 퍼지는 등, 사회 곳곳에 흔적을 남긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "crisis_era",
+      "ko": "위기의 세기",
+      "orig": "危机纪元",
+      "orig_en": "Crisis Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('위기의 세기 제3년'), 3부 앞머리 연대 대조표('위기의 세기 …… 서기 201×~2208년')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "삼체 위기가 시작된 뒤 이어진 200년쯤의 시대.",
+      "note": "외계 함대의 존재가 알려진 해부터 헤아리는 연대로, 인류가 함대를 기다리며 방어를 준비하는 시기다. 이 판은 원어의 '기원(紀元)'을 '세기'로 옮겨, 이 작품의 시대 이름이 모두 '○○의 세기'다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "pdc",
+      "ko": "행성방위이사회",
+      "orig": "行星防御理事会",
+      "orig_en": "Planetary Defense Council (PDC)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('PDC(행성방위이사회)', 'UN 행성방위이사회 제12차 회의'), 2부 각주",
+      "alt_ko": [
+        {
+          "ko": "PDC",
+          "src": "같은 판 2·3부 본문에서 주로 쓰는 줄인 이름 — 리디북스 미리보기"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구 방위를 이끄는 국제연합 안의 기구.",
+      "note": "삼체 위기 뒤 국제연합 안에 세운 기구로, 여러 나라가 상임 이사국으로 참여해 지구 방위에 관한 큰 계획을 정한다. 별을 팔아 연구비를 모으는 스타 프로젝트도 이곳 회의에서 결정된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview",
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "space_force",
+      "ko": "우주군",
+      "orig": "太空军",
+      "orig_en": "Space Force",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('중국 우주군의 상징', '우주군의 정식 창설식')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "외계 함대에 맞서려고 새로 만든 우주 군대.",
+      "note": "각국이 저마다 우주군을 세운 뒤 힘을 모아 지구 함대를 꾸리는 방식을 따른다. 사람들 마음속에 우주와 바다가 같은 것으로 여겨져, 해군이 우주군의 주력이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "wallfacer_project",
+      "ko": "면벽 프로젝트",
+      "orig": "面壁计划",
+      "orig_en": "Wallfacer Project",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 리디북스 미리보기('면벽 프로젝트가 무엇인지 당신도 알고 있을 겁니다', '유치증의 전형적인 사례는 면벽 프로젝트와')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "전략을 머릿속에만 감춘 사람들에게 인류의 힘을 맡기는 계획.",
+      "note": "외계 쪽이 지구의 모든 말과 기록을 엿보지만 사람의 머릿속 생각만은 읽지 못한다는 점에 기댄 계획이다. 몇 사람을 골라 큰 권한과 자원을 주고, 진짜 전략은 누구에게도 말하지 않게 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "wallfacer",
+      "ko": "면벽자",
+      "orig": "面壁者",
+      "orig_en": "Wallfacer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 — 리디북스 미리보기 목차('상: 면벽자'), 출판사 목차(예스24)도 같은 표기. 넷플릭스 『삼체』 8화 제목도 '면벽자'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "면벽 프로젝트에 뽑혀 홀로 전략을 세우는 사람.",
+      "note": "벽을 마주하고 수행한다는 옛말에서 따온 이름이다. 면벽자는 무엇을 하든 까닭을 밝히지 않아도 되고, 그가 하는 말조차 계획의 일부로 여겨진다. 네 사람이 뽑힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.yes24.com/product/goods/107477517",
+        "https://www.netflix.com/kr/title/81024821"
+      ]
+    },
+    {
+      "id": "wallbreaker",
+      "ko": "파벽자",
+      "orig": "破壁人",
+      "orig_en": "Wallbreaker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('그는 파벽자(破壁者) 2호라고 불리기 시작했다'). 출판사 책 소개(예스24)의 '책 속으로'에도 같은 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "면벽자의 속셈을 알아내 드러내는 일을 맡은 사람.",
+      "note": "외계 편에 선 조직이 면벽자마다 한 사람씩 붙여, 그의 행동을 지켜보며 감춰진 전략을 추리하게 한다. 추리가 맞아떨어져 밝혀지는 순간 면벽자의 계획은 쓸모를 잃는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.yes24.com/product/goods/107477517"
+      ]
+    },
+    {
+      "id": "cosmic_sociology",
+      "ko": "우주사회학",
+      "orig": "宇宙社会学",
+      "orig_en": "cosmic sociology",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('우주사회학을 연구해보는 게 어떻겠나?')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "우주의 문명들을 하나의 큰 사회로 보고 따지는 학문.",
+      "note": "우주 곳곳에 많은 문명이 흩어져 있다고 보고, 그 문명들이 이루는 큰 사회의 모양을 몇 가지 공리에서 기하학처럼 끌어내려는 학문이다. 한 노학자가 젊은 학자에게 연구해 보라고 권한 데서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "cosmic_axioms",
+      "ko": "우주사회학의 공리",
+      "orig": "宇宙社会学公理",
+      "orig_en": "axioms of cosmic sociology",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('우주사회학의 공리란 뭔가요?'). 출판사 책 소개(예스24)에는 '우주 공리'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "우주사회학이 출발점으로 삼는 두 가지 명제.",
+      "note": "하나는 살아남는 것이 문명의 첫째 필요라는 것, 다른 하나는 문명은 끝없이 자라고 넓어지지만 우주의 물질은 늘지 않는다는 것이다. 이 둘에서 문명 사이의 냉혹한 관계가 따라 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.yes24.com/product/goods/107477481"
+      ]
+    },
+    {
+      "id": "chain_of_suspicion",
+      "ko": "의심의 사슬",
+      "orig": "猜疑链",
+      "orig_en": "chain of suspicion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 구글 북스 본문 검색 조각('의심의 사슬이 가진 가장 중요한 특징이에요')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "서로의 속을 끝내 알 수 없어 생기는 끝없는 의심.",
+      "note": "멀리 떨어진 두 문명은 상대가 착한지 나쁜지, 상대가 나를 어떻게 보는지를 확인할 길이 없다. 그 의심은 꼬리를 물고 이어지며, 문명이 얼마나 착한지와 상관없이 생긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%9D%98%EC%8B%AC%EC%9D%98+%EC%82%AC%EC%8A%AC%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "technological_explosion",
+      "ko": "기술 폭발",
+      "orig": "技术爆炸",
+      "orig_en": "technological explosion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 구글 북스 본문 검색 조각('두 번째 개념이 등장해요. 기술 폭발이에요')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "뒤처진 문명이 짧은 사이에 기술로 앞지를 수 있다는 것.",
+      "note": "사람의 기술이 몇백 년 사이에 크게 뛰어올랐듯, 지금 약한 문명도 언제 갑자기 앞설지 모른다. 그래서 약한 상대라도 마음을 놓을 수 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B8%B0%EC%88%A0+%ED%8F%AD%EB%B0%9C%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "dark_forest_theory",
+      "ko": "암흑의 숲 이론",
+      "orig": "黑暗森林理论",
+      "orig_en": "dark forest theory",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인. 2부 제목 『암흑의 숲』",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "우주는 숨은 사냥꾼들이 가득한 어두운 숲이라는 결론.",
+      "note": "두 공리와 의심의 사슬, 기술 폭발을 합치면, 다른 문명을 찾았을 때 가장 안전한 일은 먼저 없애는 것이 된다. 그래서 모든 문명은 숨고, 자기 위치를 드러내는 일은 곧 죽음을 부른다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%95%94%ED%9D%91%EC%9D%98+%EC%88%B2+%EC%9D%B4%EB%A1%A0%22+%EB%A5%98%EC%B8%A0%EC%8B%A0",
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "spell",
+      "ko": "저주의 주문",
+      "orig": "咒语",
+      "orig_en": "the Spell",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 — 리디북스 미리보기 목차('중: 저주의 주문'), 출판사 목차(예스24)도 같은 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "먼 별 하나의 위치를 우주에 널리 알리는 시험.",
+      "note": "어떤 별의 위치를 우주로 내보내고 그 별에 무슨 일이 생기는지 지켜보는 일이다. 겉보기에는 뜻 모를 주술 같지만, 우주가 어떤 곳인지 확인하는 실험이었다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://www.yes24.com/product/goods/107477517"
+      ]
+    },
+    {
+      "id": "hibernation",
+      "ko": "동면",
+      "orig": "冬眠",
+      "orig_en": "hibernation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('또 하나 아주 중요한 게 있습니다. 바로 동면이죠')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "몸을 멈춰 두었다가 수십, 수백 년 뒤에 깨어나는 기술.",
+      "note": "위기의 세기에 널리 쓰여, 고칠 수 없는 병을 앓는 이가 치료법이 나올 날을 기다리거나 미래의 전쟁에 쓸 사람을 보내는 데 이용된다. 깨어난 사람은 낯선 시대에 적응해야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "escapism",
+      "ko": "도피주의",
+      "orig": "逃亡主义",
+      "orig_en": "Escapism",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 리디북스 미리보기('도피주의는 삼체 위기가 출현함에 따라 등장한 사조입니다')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "지구를 버리고 우주로 달아나 인류를 잇자는 생각.",
+      "note": "과학이 묶인 채로는 이길 수 없으니 일부라도 우주로 떠나 살아남자는 사조다. 누가 떠나고 누가 남느냐가 가장 큰 불평등으로 여겨져, 국제연합은 지구를 끝까지 포기하지 않겠다고 선언한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview",
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "mental_seal",
+      "ko": "멘털 스탬프",
+      "orig": "思想钢印",
+      "orig_en": "mental seal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 구글 북스 본문 검색 조각('멘털 스탬프를 사용했습니까?', '멘털 스탬프 기술이 개발되기 전에')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "믿음 하나를 뇌에 새겨 넣는 장치.",
+      "note": "뇌에 직접 작용해 어떤 명제를 참이라고 굳게 믿게 만든다. 새겨진 믿음은 이성으로 따져도 흔들리지 않는다. 인류가 이길 것이라는 믿음을 군인들에게 심어 주겠다며 내놓은 기술이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%8A%A4%ED%83%AC%ED%94%84%22+%ED%8C%A8%EB%B0%B0%EC%A3%BC%EC%9D%98+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "starship_civilization",
+      "ko": "우주선 문명",
+      "orig": "星舰文明",
+      "orig_en": "starship civilization",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('둘째는 우주선 문명입니다')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "flotilla"
+      ],
+      "one": "배를 영원한 집으로 삼아 우주를 떠돌며 잇는 문명.",
+      "note": "도피주의를 논할 때 나온 방안의 하나로, 떠난 사람들이 새 행성을 찾지 않더라도 배 안에서 대를 이어 살아가는 것이다. 문명이 끝없이 항해하며 이어진다는 생각이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "space_elevator",
+      "ko": "우주 엘리베이터",
+      "orig": "太空电梯",
+      "orig_en": "space elevator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 리디북스 미리보기('주력 프로젝트는 우주 엘리베이터와', 각주 '우주 엘리베이터와 지면이 맞닿는 지점')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "space_elevator"
+      ],
+      "one": "땅에서 우주까지 이어 짐과 사람을 올리는 승강기.",
+      "note": "위기의 세기에 우주 함대를 짓기 위한 주력 사업으로 꼽힌다. 적도에 땅과 맞닿는 기점을 두고, 로켓 없이 우주로 물자를 올린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000138/preview"
+      ]
+    },
+    {
+      "id": "great_ravine",
+      "ko": "대협곡",
+      "orig": "大低谷",
+      "orig_en": "Great Ravine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 구글 북스 본문 검색 조각('대협곡 시대에 인플레이션이 여러 차례 발생해', '인류 사회의 열정이 대협곡에 매몰되기 전')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "위기의 세기에 닥친 긴 경제 붕괴와 혼란의 시기.",
+      "note": "모든 자원을 우주 방어에 쏟아붓다가 경제와 사회가 무너져 내린 시기로, 인구가 크게 줄고 사람들이 미래에 대한 희망을 잃는다. 이 골짜기를 지난 뒤에야 문명이 다시 일어선다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%8C%80%ED%98%91%EA%B3%A1%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "droplet",
+      "ko": "물방울",
+      "orig": "水滴",
+      "orig_en": "droplet",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 구글 북스 본문 검색 조각('탐측기는 아름다운 물방울의 형상을 띠고', '물방울, 즉 강한 상호작용 우주 탐사정')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "삼체 함대가 먼저 보낸 물방울 모양의 탐사기.",
+      "note": "거울처럼 매끈한 작은 탐사기로, 강한 상호작용으로 묶인 물질로 되어 태양계의 어떤 물질보다 단단하다. 사람들은 이를 평화의 선물로 여겼지만, 이 탐사기 하나가 인류의 우주 함대를 부수어 버린다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%AC%BC%EB%B0%A9%EC%9A%B8%22+%ED%83%90%EC%B8%A1%EA%B8%B0+%EC%82%BC%EC%B2%B4",
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B0%95%ED%95%9C+%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%22+%EB%AC%BC%EB%B0%A9%EC%9A%B8+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "natural_selection",
+      "ko": "자연선택호",
+      "orig": "自然选择号",
+      "orig_en": "Natural Selection",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 구글 북스 본문 검색 조각('자연 선택 호가 낼 수 있는 최대 속력이'). 조각이 낱말마다 띄어 찍혀 나와 붙여 쓰는지는 확인하지 못했고, 같은 판의 다른 배 이름(청동시대호·블루스페이스호)에 맞춰 붙여 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "지구 우주 함대의 최신 전함.",
+      "note": "승리를 굳게 믿는다고 알려진 장교가 지휘를 맡게 된 전함이다. 출항하자마자 아무도 예상하지 못한 방향으로 달려 나가고, 그 뒤를 다른 전함들이 쫓으면서 이야기가 크게 갈린다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%9E%90%EC%97%B0%EC%84%A0%ED%83%9D%ED%98%B8%22+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "blue_space",
+      "ko": "블루스페이스호",
+      "orig": "蓝色空间号",
+      "orig_en": "Blue Space",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "태양계 밖으로 멀어져 간 지구의 전함.",
+      "note": "지구 함대의 전함 가운데 하나로, 어떤 사건을 거치며 태양계를 등지고 깊은 우주로 나아간다. 그 뒤 이 배의 사람들은 지구와 다른 길을 걷는다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B8%94%EB%A3%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%98%B8%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "bronze_age",
+      "ko": "청동시대호",
+      "orig": "青铜时代号",
+      "orig_en": "Bronze Age",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "함대가 무너질 때 살아남아 태양계를 벗어난 지구의 전함.",
+      "note": "물방울의 공격에서 벗어나 깊은 우주로 달아난 전함 가운데 하나로, 긴 항해 끝에 지구와 다시 연락이 닿는다. 그사이 배 안에서 벌어진 일이 지구에서 큰 논란이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%EC%B2%AD%EB%8F%99%EC%8B%9C%EB%8C%80%ED%98%B8+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "snow_project",
+      "ko": "설원 프로젝트",
+      "orig": "雪地工程",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부 본문 — 구글 북스 본문 검색 조각('뤄지는 설원 프로젝트에 몰두했다')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "태양 둘레 곳곳에 폭탄과 먼지가 될 물질을 놓는 계획.",
+      "note": "물방울의 움직임을 살피겠다며 시작한 계획으로, 핵폭탄과 먼지가 될 물질을 태양 궤도 곳곳에 놓는다. 쓸모없어 보여 곧 사람들의 관심 밖으로 밀려나지만, 숨은 뜻이 따로 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%84%A4%EC%9B%90+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "dark_forest_deterrence",
+      "ko": "암흑의 숲 위협",
+      "orig": "黑暗森林威慑",
+      "orig_en": "dark forest deterrence",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "deterrence"
+      ],
+      "one": "삼체 세계의 위치를 우주에 알리겠다는 위협으로 지키는 평화.",
+      "note": "인류가 삼체 세계의 좌표를 우주에 퍼뜨리면 두 세계가 함께 사냥감이 된다. 그 단추를 쥐고 있기에 삼체 쪽이 함부로 공격하지 못한다. 원어는 겁을 주어 막는다는 '억지'에 가까운 말인데 이 판은 '위협'으로 옮겼다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%95%94%ED%9D%91%EC%9D%98+%EC%88%B2+%EC%9C%84%ED%98%91%22+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "deterrence_era",
+      "ko": "위협의 세기",
+      "orig": "威慑纪元",
+      "orig_en": "Deterrence Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('위협의 세기 …… 서기 2208~2270년') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "암흑의 숲 위협으로 두 세계가 맞붙지 않던 시대.",
+      "note": "서기 2208년부터 60년쯤 이어진다. 삼체 쪽이 인류에게 기술을 넘겨주며 두 문명이 오가지만, 그 평화는 한 사람의 결단에 걸려 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "swordholder",
+      "ko": "검잡이",
+      "orig": "执剑人",
+      "orig_en": "Swordholder",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('검잡이의 허가를 받지 못하면')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "deterrence"
+      ],
+      "one": "위협을 실행할 단추를 홀로 쥔 사람.",
+      "note": "삼체 세계의 좌표를 알릴 장치를 누를 권한이 한 사람에게만 주어진다. 상대가 그 사람이 정말 누를 것이라고 믿어야 위협이 통하므로, 누가 이 자리를 맡느냐가 두 세계의 운명을 가른다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B2%80%EC%9E%A1%EC%9D%B4%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "gravitational_wave_antenna",
+      "ko": "중력파 안테나",
+      "orig": "引力波天线",
+      "orig_en": "gravitational wave antenna",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 2부·3부 본문 — 구글 북스 본문 검색 조각('중력파 안테나는 크기가 너무 크다', '중력파 안테나의 거대한 크기')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "온 우주로 신호를 퍼뜨리는 중력파 발신 장치.",
+      "note": "태양을 빌리지 않고도 우주 전체에 소식을 알릴 수 있는 장치다. 몹시 크고 짓기 어려워 몇 대만 세워지며, 위협이 실제로 실행될 수 있게 해 주는 바탕이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A4%91%EB%A0%A5%ED%8C%8C+%EC%95%88%ED%85%8C%EB%82%98%22+%EC%82%BC%EC%B2%B4",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A4%91%EB%A0%A5%ED%8C%8C%22+%EA%B2%80%EC%9E%A1%EC%9D%B4+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "gravity",
+      "ko": "그래비티호",
+      "orig": "万有引力号",
+      "orig_en": "Gravity",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('그래비티호의 연료 상황')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "중력파 발신 장치를 실은 지구의 전함.",
+      "note": "멀리 떠난 배를 쫓으라는 임무를 받고 태양계를 떠난 전함이다. 우주로 중력파를 내보낼 장치를 실어, 지구에 있는 검잡이의 신호를 받아 그것을 쏠 수 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B8%94%EB%A3%A8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%98%B8%22+%EC%82%BC%EC%B2%B4",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A4%91%EB%A0%A5%ED%8C%8C%22+%EA%B2%80%EC%9E%A1%EC%9D%B4+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "post_deterrence_era",
+      "ko": "포스트위협의 세기",
+      "orig": "后威慑纪元",
+      "orig_en": "Post-Deterrence Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('포스트위협의 세기 …… 서기 2270~2272년') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "위협이 끝난 뒤 이어진 2년 남짓의 짧은 시대.",
+      "note": "서기 2270년부터 2272년까지다. 이 짧은 사이에 인류의 처지가 크게 뒤집힌다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "broadcast_era",
+      "ko": "전송의 세기",
+      "orig": "广播纪元",
+      "orig_en": "Broadcast Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('전송의 세기 …… 서기 2272~2332년') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "삼체 세계의 좌표가 우주로 퍼진 뒤의 시대.",
+      "note": "서기 2272년부터 2332년까지로, 인류는 언제 닥칠지 모르는 공격을 피할 길을 찾는다. 원어는 '방송'에 가까운 말인데 이 판은 '전송'으로 옮겼다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "dark_forest_strike",
+      "ko": "암흑의 숲 공격",
+      "orig": "黑暗森林打击",
+      "orig_en": "dark forest strike",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 '암흑의 숲 공격', '청소'를 확인. 반전을 피하려 대목은 옮기지 않는다",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "dark_forest"
+      ],
+      "one": "위치가 드러난 문명을 다른 문명이 없애 버리는 일.",
+      "note": "좌표가 알려진 별은 누가 쏘았는지도 모를 공격을 받아 사라진다. 공격하는 쪽에게 그것은 위험의 싹을 미리 치우는 일상의 '청소'일 뿐이다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B3%A1%EB%A5%A0+%EC%B6%94%EC%A7%84%22+%EC%82%BC%EC%B2%B4",
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B2%A1%ED%84%B0+%ED%8F%AC%EC%9D%BC%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "photoid",
+      "ko": "광립",
+      "orig": "光粒",
+      "orig_en": "photoid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('광립의 탄도는 광립에서 나온 복사에 비해')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver",
+        "planet_killer"
+      ],
+      "one": "빛에 가까운 빠르기로 날아와 별을 무너뜨리는 작은 알갱이.",
+      "note": "아주 작은 덩어리지만 빛에 가까운 빠르기로 날아와 별에 부딪혀, 그 별과 둘레의 행성을 함께 쓸어 버린다. 폭약 없이 빠르기만으로 별 하나를 끝내는 공격이다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B4%91%EB%A6%BD%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "staircase_project",
+      "ko": "계단 프로젝트",
+      "orig": "阶梯计划",
+      "orig_en": "Staircase Program",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('계단 프로젝트가 어떨까요?'). 넷플릭스 『삼체』 7화 소개문에도 '계단 프로젝트'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "sublight"
+      ],
+      "one": "탐사정을 핵폭발로 밀어 삼체 함대 쪽으로 보내는 계획.",
+      "note": "얇은 돛을 단 탐사정 뒤에서 핵폭탄을 잇달아 터뜨려 빛의 100분의 1까지 끌어올린다. 폭발할 때마다 속도가 한 단계씩 오른다고 해서 이 이름이 붙었다. 그래서 싣는 것은 깃털처럼 가벼워야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview",
+        "https://www.netflix.com/kr/title/81024821"
+      ]
+    },
+    {
+      "id": "stars_project",
+      "ko": "스타 프로젝트",
+      "orig": "群星计划",
+      "orig_en": "Stars Our Destination Project",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('스타 프로젝트가 실행에 옮겨지게 되었습니다')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "태양계 밖 별의 소유권을 팔아 방위 연구비를 모으는 사업.",
+      "note": "국제연합이 먼 별과 그 행성의 소유권을 경매로 팔고, 그 돈을 태양계 방위 연구에 쓰기로 한다. 나라든 개인이든 살 수 있었지만, 시작한 지 얼마 안 되어 흐지부지 잊힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "bunker_project",
+      "ko": "벙커 프로젝트",
+      "orig": "掩体计划",
+      "orig_en": "Bunker Project",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('벙커 프로젝트가 지구 세계에 미치는 영향')",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "거대 행성 뒤에 우주 도시를 지어 인류를 옮기는 계획.",
+      "note": "태양이 공격받아도 거대 행성이 방패가 되도록, 그 그늘에 많은 우주 도시를 짓고 인류를 옮긴다. 인류 전체가 살 새 세계를 짓는 일이라 기술보다 국제 정치가 더 큰 걸림돌이었다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B2%99%EC%BB%A4+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "bunker_era",
+      "ko": "벙커의 세기",
+      "orig": "掩体纪元",
+      "orig_en": "Bunker Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('벙커의 세기 …… 서기 2333~2400년') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "인류가 거대 행성 뒤의 우주 도시에 숨어 사는 시대.",
+      "note": "서기 2333년부터 2400년까지로, 벙커 프로젝트로 지은 우주 도시들에서 인류 대부분이 살아간다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "black_domain",
+      "ko": "블랙도메인",
+      "orig": "黑域",
+      "orig_en": "black domain",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('DX3906 성계의 블랙도메인 세기') — 리디북스 미리보기와 구글 북스 조각. 본문에서 쓴 대목은 보지 못했다",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "빛의 빠르기를 낮춰 스스로를 가둔 공간.",
+      "note": "한 영역 안의 빛의 빠르기를 크게 떨어뜨리면 그 안의 것은 아무것도 바깥으로 나가지 못한다. 스스로를 이렇게 가두면 남을 해칠 수 없다는 표시가 된다는 생각에서 나온 방안이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B8%94%EB%9E%99%EB%8F%84%EB%A9%94%EC%9D%B8%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "lightspeed_ship",
+      "ko": "광속 우주선",
+      "orig": "光速飞船",
+      "orig_en": "lightspeed ship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('난 광속 우주선이 마음에 들어', '광속 우주선 프로젝트')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "time_dilation"
+      ],
+      "one": "빛의 빠르기로 나는 우주선.",
+      "note": "빛의 빠르기에 이르면 배 안의 시간은 거의 멈추고 바깥에서는 긴 세월이 흐른다. 태양계를 벗어날 길로 꼽히지만, 그런 기술을 가졌다는 것 자체가 위험한 표시가 될 수 있다는 걱정에 오래 금기가 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B4%91%EC%86%8D+%EC%9A%B0%EC%A3%BC%EC%84%A0%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "curvature_propulsion",
+      "ko": "곡률 추진",
+      "orig": "曲率驱动",
+      "orig_en": "curvature propulsion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('지름 10천문단위의 곡률 추진 항적')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "공간의 휘어짐을 바꿔 배를 빛의 빠르기까지 미는 방법.",
+      "note": "배 둘레 공간의 곡률을 바꿔 공간 자체가 배를 밀어내게 하는 추진 방식이다. 빛의 빠르기에 이를 수는 있지만 넘지는 못한다. 움직인 자리에는 오래 남는 자국이 생긴다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B3%A1%EB%A5%A0+%EC%B6%94%EC%A7%84%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "curvature_trail",
+      "ko": "곡률 추진 항적",
+      "orig": "曲率驱动航迹",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('지름 10천문단위의 곡률 추진 항적')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "곡률 추진이 공간에 남기는, 멀리서도 보이는 자국.",
+      "note": "곡률 추진으로 움직인 자리에는 오래 사라지지 않는 자국이 남아 우주 먼 곳에서도 보인다. 그런 자국을 남겼다는 것은 앞선 기술을 가진, 그래서 위험한 문명이라는 표시로 읽힌다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EA%B3%A1%EB%A5%A0+%EC%B6%94%EC%A7%84%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "dual_vector_foil",
+      "ko": "2차원 벡터 포일",
+      "orig": "二向箔",
+      "orig_en": "dual-vector foil",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "physics_weapon",
+        "planet_killer"
+      ],
+      "one": "닿은 공간을 3차원에서 2차원으로 무너뜨리는 얇은 조각.",
+      "note": "투명하게 봉인된 작은 조각처럼 보이지만, 풀려나면 둘레의 공간을 차원 하나가 낮은 평면으로 떨어뜨리고 그 무너짐이 끝없이 번진다. 그 안의 모든 것은 두께 없는 그림처럼 펼쳐진다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EB%B2%A1%ED%84%B0+%ED%8F%AC%EC%9D%BC%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "dimensional_strike",
+      "ko": "차원 공격",
+      "orig": "降维打击",
+      "orig_en": "dimensional strike",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각에서 확인('공간의 차원을 3차원에서 2차원으로 떨어뜨리는 공격')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "physics_weapon"
+      ],
+      "one": "공간의 차원 수를 떨어뜨려 모든 것을 부수는 공격.",
+      "note": "폭발이나 충돌이 아니라 공간 자체의 차원을 낮추는 공격이다. 우주의 앞선 문명들은 빛의 빠르기나 공간의 차원 같은 우주의 법칙 자체를 무기로 삼는다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%B0%A8%EC%9B%90+%EA%B3%B5%EA%B2%A9%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "galaxy_era",
+      "ko": "은하의 세기",
+      "orig": "银河纪元",
+      "orig_en": "Galaxy Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 연대 대조표('은하의 세기 …… 서기 2272~알 수 없음') — 리디북스 미리보기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "태양계를 떠난 인류가 은하에서 이어 가는 시대.",
+      "note": "서기 2272년에 시작해 끝이 적혀 있지 않다. 태양계 안의 시대들과 겹쳐 흐르는데, 태양계 바깥으로 나간 이들이 쓰는 연대이기 때문이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "safety_notice",
+      "ko": "우주 안전 보장 성명",
+      "orig": "宇宙安全声明",
+      "orig_en": "cosmic safety notice",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각(《시간 밖의 과거》 발췌의 소제목 '우주 안전 보장 성명')",
+      "alt_ko": [
+        {
+          "ko": "안전 보장 성명",
+          "src": "같은 판 같은 대목 본문에서 줄여 부르는 이름 — 구글 북스 본문 검색 조각"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "우리 문명은 해롭지 않다고 온 우주에 알리는 방법.",
+      "note": "숨는 것 말고 살아남을 다른 길은 아무도 해칠 수 없다는 것을 우주가 믿게 알리는 것이다. 그런 알림을 어떻게 보낼 수 있는지가 큰 수수께끼가 되어, 학자부터 아이들까지 답을 찾는다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%95%88%EC%A0%84+%EC%84%B1%EB%AA%85%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "earth_civilization_museum",
+      "ko": "지구 문명 박물관",
+      "orig": "地球文明博物馆",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('지구 문명 박물관에 있던 다른 직원들을')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "ark"
+      ],
+      "one": "인류의 유물과 기록을 아주 오래 남기려 지은 박물관.",
+      "note": "명왕성 땅속에 지은 박물관으로, 아주 먼 뒷날까지 남도록 인류 문명의 유물과 정보를 모아 둔다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%A7%80%EA%B5%AC+%EB%AC%B8%EB%AA%85+%EB%B0%95%EB%AC%BC%EA%B4%80%22+%EC%82%BC%EC%B2%B4"
+      ]
+    },
+    {
+      "id": "mini_universe",
+      "ko": "소우주",
+      "orig": "小宇宙",
+      "orig_en": "mini-universe",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('이런 소우주가 대우주의 질량을 빼앗아가고 있어요')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "큰 우주와 떨어져 따로 있는, 만들어 낸 작은 우주.",
+      "note": "앞선 문명이 만들어 내는 작은 우주로, 안에 들어가면 바깥 대우주의 운명과 떨어져 지낼 수 있다. 그러나 이런 소우주가 늘어날수록 대우주가 가진 질량이 줄어든다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%86%8C%EC%9A%B0%EC%A3%BC%22+%EC%82%BC%EC%B2%B4+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "return_movement",
+      "ko": "회귀 운동",
+      "orig": "回归运动",
+      "orig_en": "Return Movement",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 구글 북스 본문 검색 조각('회귀 운동을 하고 있어요. 그들은 소우주를 만들지 못하게')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "소우주로 빼낸 질량을 대우주로 돌려 달라는 호소.",
+      "note": "우주의 질량이 줄어 다시 오그라들지 못하고 끝없이 퍼지기만 할 것을 걱정한 이들이, 소우주를 만들지 말고 가져간 질량을 돌려 달라고 우주 곳곳에 알린다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%ED%9A%8C%EA%B7%80+%EC%9A%B4%EB%8F%99%22+%EC%86%8C%EC%9A%B0%EC%A3%BC+%EB%A5%98%EC%B8%A0%EC%8B%A0"
+      ]
+    },
+    {
+      "id": "drift_bottle",
+      "ko": "표류병",
+      "orig": "漂流瓶",
+      "orig_en": "drift bottle",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 앞머리 《시간 밖의 과거》 서문 — 리디북스 미리보기('그 정보들은 대부분 표류병 속에 담겨 있지만')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ark"
+      ],
+      "one": "기록을 담아 멀리 띄워 보내는 병.",
+      "note": "바다에 띄우는 편지병처럼, 문명의 기록을 담아 먼 곳으로 떠나보낸다. 3부 첫머리의 글은 자세한 기록 대부분이 이 병 속에 담겨 있다고 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    },
+    {
+      "id": "high_dimensional_fragment",
+      "ko": "고차원 파편",
+      "orig": "高维碎块",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "자음과모음 개정판(2020, 허유영 옮김) 전자책 3부 본문 — 리디북스 미리보기('마법의 시대는 고차원 파편이 처음 지구에 닿은 서기 1453년 5월 3일 16시에 시작되었고')",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "더 높은 차원의 공간 조각이 지구를 스쳐 간 일.",
+      "note": "3부 첫머리, 1453년 콘스탄티노플이 함락될 무렵 높은 차원의 공간 조각이 지구에 닿아 짧은 '마법의 시대'가 열린다. 그 자리를 아는 이는 닫힌 곳 안의 물건을 꺼내는 등 불가능한 일을 해낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/4755000139/preview"
+      ]
+    }
+  ]
+}

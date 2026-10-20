@@ -1,0 +1,3719 @@
+{
+  "group": "games_sim",
+  "candidates": [
+    {
+      "id": "eve_online",
+      "orig": "EVE Online",
+      "orig_en": "",
+      "ko": "이브 온라인",
+      "ko_src": "스팀 한국 상점 이름(store.steampowered.com/app/8500)",
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "EVE Online (2003~), Dust 514 (2013), EVE: Valkyrie (2016), 소설 여러 권",
+      "by": "CCP Games",
+      "year": 2003,
+      "country": "아이슬란드",
+      "setting": "무너진 웜홀 너머 뉴에덴 성단에 갇힌 인류의 제국들이 맞서고, 죽지 않는 함장들이 다니는 우주",
+      "concepts": [
+        "wormhole",
+        "gate_network",
+        "clone",
+        "mind_upload",
+        "mega_corp",
+        "precursor"
+      ],
+      "new_ideas": "게임 하는 사람들이 벌인 전쟁·배신이 그대로 그 세계의 역사로 남는다",
+      "lore_size": "큼",
+      "notability": "2003년부터 20년 넘게 이어진 온라인 우주 게임, 스팀 평가 약 3.6만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: EVE Online",
+        "src": "https://store.steampowered.com/app/8500/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "elite",
+      "orig": "Elite",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "소설"
+      ],
+      "first_medium": "게임",
+      "series": "Elite (1984), Frontier: Elite II (1993), Frontier: First Encounters (1995), Elite Dangerous (2014~), 딸린 소설",
+      "by": "Ian Bell·David Braben / Frontier Developments",
+      "year": 1984,
+      "country": "영국",
+      "setting": "연방·제국·동맹이 나눠 가진 은하를 배 한 척으로 다니며 사고팔고 싸우는 세계, 외계 타르고이드가 위협한다",
+      "concepts": [
+        "hyperspace",
+        "federation",
+        "galactic_empire",
+        "alien",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "우주 무역 게임의 시작으로 꼽힘(원작 60만~100만 장, 위키백과), Elite Dangerous 스팀 평가 약 10만 건",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Elite Dangerous",
+        "src": "https://store.steampowered.com/app/359320/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_citizen",
+      "orig": "Star Citizen",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Star Citizen (2012 발표, 알파 운영 중), Squadron 42 (출시 전)",
+      "by": "Cloud Imperium Games (Chris Roberts)",
+      "year": 2012,
+      "country": "미국·영국",
+      "setting": "인류의 지구 연합 제국 변경에서 장사·탐사·전투를 하며 외계 종족 반둘과 맞닿는 우주",
+      "concepts": [
+        "alien",
+        "wormhole"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "크라우드펀딩·선판매가 2026년 5월 10억 달러를 넘음(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "공식 한국어 판은 확인 못 함 — 한국어는 사용자 번역 파일을 넣어 쓰는 방법만 확인",
+        "src": "https://starcitizen.tools/Star_Citizen_Community_Localization"
+      },
+      "borderline": false
+    },
+    {
+      "id": "x_universe",
+      "orig": "X (X Universe)",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "X: Beyond the Frontier (1999), X2 (2003), X3 (2005~2011), X Rebirth (2013), X4: Foundations (2018)",
+      "by": "Egosoft",
+      "year": 1999,
+      "country": "독일",
+      "setting": "관문으로 이어진 성계들에서 종족과 회사가 사고팔며 싸우고, 미쳐 버린 개척 기계가 적이 된 우주",
+      "concepts": [
+        "gate_network",
+        "alien",
+        "ai_revolt",
+        "self_replicate",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "본편 여섯 편 넘게 이어진 시리즈, X4 스팀 평가 약 2.4만 건(SteamSpy)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: X4: Foundations, X Rebirth / 한국어 없음: X3: Terran Conflict, X3: Reunion, X2: The Threat, X: Beyond the Frontier",
+        "src": "https://store.steampowered.com/app/392160/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "freelancer",
+      "orig": "Freelancer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Starlancer (2000), Freelancer (2003)",
+      "by": "Digital Anvil / Microsoft",
+      "year": 2000,
+      "country": "미국",
+      "setting": "태양계 내전에서 진 사람들이 잠든 채 시리우스로 건너가 세운 네 나라, 그 뒤에 숨은 옛 종족의 우주",
+      "concepts": [
+        "cryosleep",
+        "earth_left",
+        "gate_network",
+        "precursor",
+        "parasite",
+        "order"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85, E3 1999 게임 비평가상 넷(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "2003년 한국마이크로소프트 정식 발매가 영어판에 한글 공략집을 넣은 것(게임메카 2003-04-26). Starlancer 는 확인 못 함",
+        "src": "https://www.gamemeca.com/view.php?gid=43350"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wing_commander",
+      "orig": "Wing Commander",
+      "orig_en": "",
+      "ko": "윙 커맨더",
+      "ko_src": "영화 국내 개봉 제목(경향신문 2000-08-03)",
+      "media": [
+        "게임",
+        "영화",
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "Wing Commander (1990) ~ Prophecy (1997), Privateer (1993) 등 외전, 영화(1999), 애니메이션 Academy (1996), 소설",
+      "by": "Origin Systems (Chris Roberts)",
+      "year": 1990,
+      "country": "미국",
+      "setting": "27세기, 지구 연합이 고양이를 닮은 킬라시 제국과 항공모함·전투기로 맞붙는 전쟁",
+      "concepts": [
+        "alien",
+        "galactic_empire",
+        "fleet_battle",
+        "planet_killer"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "본편 다섯·외전 넷, 1999년 영화와 1996년 애니메이션까지(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "영화가 2000-08-05 국내 개봉(경향신문). 게임 한국어판은 확인 못 함",
+        "src": "https://www.khan.co.kr/article/200008031722221"
+      },
+      "borderline": false
+    },
+    {
+      "id": "freespace",
+      "orig": "FreeSpace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Descent: FreeSpace – The Great War (1998), FreeSpace 2 (1999)",
+      "by": "Volition / Interplay",
+      "year": 1998,
+      "country": "미국",
+      "setting": "인류와 바수단이 싸우던 중 정해진 길목으로 옛 파괴자 샤이반이 밀려와 모두를 위협하는 전쟁",
+      "concepts": [
+        "alien",
+        "lanes",
+        "precursor",
+        "planet_killer",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "FreeSpace 2 메타크리틱 91(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Descent: FreeSpace – The Great War, Freespace 2",
+        "src": "https://store.steampowered.com/app/273600/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_control",
+      "orig": "Star Control",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Star Control (1990), Star Control II (1992), Star Control 3 (1996), 무료 재구성판 The Ur-Quan Masters (2002) — 2018년 Star Control: Origins 는 이름만 이은 다른 이야기",
+      "by": "Toys for Bob (Paul Reiche III·Fred Ford) / Accolade",
+      "year": 1990,
+      "country": "미국",
+      "setting": "자유 별 동맹이 침략자 우르콴 위계에 지고 갇힌 지구를 되살리려 별들을 누비는 우주",
+      "concepts": [
+        "alien",
+        "precursor",
+        "federation",
+        "hyperspace",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "Star Control II 가 1990~2010년대 '역대 최고 게임' 목록에 거듭 오름(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Star Control I and II, Star Control III, Star Control®: Origins",
+        "src": "https://store.steampowered.com/app/358920/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "escape_velocity",
+      "orig": "Escape Velocity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Escape Velocity (1996), EV Override (1998), EV Nova (2002)",
+      "by": "Ambrosia Software (Matt Burch)",
+      "year": 1996,
+      "country": "미국",
+      "setting": "외계 침략에 맞서 하나 된 인류 식민지들이 연합과 반란군으로 갈라져 싸우는 은하를 배 한 척으로 다닌다",
+      "concepts": [
+        "alien",
+        "ideology_split"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "MacUser 1996 최고 셰어웨어 게임, 세 편까지 이어짐(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "스팀·앱 스토어에 없음. 한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "starsector",
+      "orig": "Starsector",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Starsector (2011 알파~, 아직 앞서 해 보기)",
+      "by": "Fractal Softworks (Alexander Mosolov)",
+      "year": 2011,
+      "country": "확인 못 함",
+      "setting": "모든 관문이 한꺼번에 멈춘 지 이백 년, 고립된 한 성역에서 남은 세력들이 다투는 암흑기",
+      "concepts": [
+        "gate_network",
+        "empire_fall",
+        "golden_age",
+        "ai_ban"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Rock Paper Shotgun·Kotaku 가 거듭 추천, 2011년부터 개발 이어짐(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "개발사 누리집에서만 팖(스팀 없음). 공식 한국어 확인 못 함",
+        "src": "https://en.wikipedia.org/wiki/Starsector"
+      },
+      "borderline": false
+    },
+    {
+      "id": "everspace",
+      "orig": "EVERSPACE",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "EVERSPACE (2017), EVERSPACE 2 (2023)",
+      "by": "ROCKFISH Games",
+      "year": 2017,
+      "country": "독일",
+      "setting": "전쟁 뒤 무너진 성계를 복제된 몸의 조종사가 죽고 되살아나며 떠도는 우주",
+      "concepts": [
+        "clone",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "두 편 스팀 평가 합 약 2.3만 건(SteamSpy), EVERSPACE 2 메타크리틱 81",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: EVERSPACE™, EVERSPACE™ 2",
+        "src": "https://store.steampowered.com/app/396750/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "avorion",
+      "orig": "Avorion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Avorion (2020, 앞서 해 보기 2017)",
+      "by": "Boxelware",
+      "year": 2017,
+      "country": "독일",
+      "setting": "은하 한가운데를 막은 벽 너머 침략자를 향해, 조각을 이어 배를 지으며 안쪽으로 파고드는 은하",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 1.4만 건, 소유 50만~100만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Avorion",
+        "src": "https://store.steampowered.com/app/445220/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rebel_galaxy",
+      "orig": "Rebel Galaxy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Rebel Galaxy (2015), Rebel Galaxy Outlaw (2019)",
+      "by": "Double Damage Games",
+      "year": 2015,
+      "country": "미국",
+      "setting": "변경 성계에서 낡은 배 한 척으로 장사·현상금 사냥·해적질을 하는 우주 서부극",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 75·77, 스팀 평가 합 약 9천 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Rebel Galaxy, Rebel Galaxy Outlaw",
+        "src": "https://store.steampowered.com/app/290300/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "independence_war",
+      "orig": "I-War",
+      "orig_en": "Independence War",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "I-War (1997), Independence War 2: Edge of Chaos (2001)",
+      "by": "Particle Systems / Infogrames",
+      "year": 1997,
+      "country": "영국",
+      "setting": "23세기, 지구 연합 해군과 독립파가 관성 그대로 미끄러지는 배로 맞붙는 전쟁",
+      "concepts": [
+        "ftl"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1998 Computer Games Strategy Plus 올해의 SF 시뮬레이션, 약 30만 장(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Independence War™ Deluxe Edition, Independence War® 2: Edge of Chaos",
+        "src": "https://store.steampowered.com/app/330590/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_rangers",
+      "orig": "Космические рейнджеры",
+      "orig_en": "Space Rangers",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Space Rangers (2002), Space Rangers 2: Dominators (2004), HD: A War Apart",
+      "by": "Elemental Games / 1C",
+      "year": 2002,
+      "country": "러시아",
+      "setting": "다섯 종족 연합의 자원 순찰대가 낯선 생체 함선 클리산, 이어 기계 도미네이터와 맞서는 은하",
+      "concepts": [
+        "alien",
+        "federation"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "러시아·동유럽에서 높은 평가(위키백과), HD 판 스팀 평가 약 6.7천 건",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Space Rangers HD: A War Apart",
+        "src": "https://store.steampowered.com/app/214730/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galaxy_on_fire",
+      "orig": "Galaxy on Fire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Galaxy on Fire 2 (2009) 중심, 앞뒤 휴대전화 작품",
+      "by": "Fishlabs / Deep Silver",
+      "year": 2009,
+      "country": "독일",
+      "setting": "고장 난 도약 장치로 35년 뒤에 떨어진 조종사가 외계 제국 보스크와 낯선 세력에 맞서는 우주",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴대전화 우주 게임 대표작, Galaxy on Fire 2 메타크리틱 90(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Galaxy on Fire 2™ Full HD / 앱 스토어 Galaxy on Fire 2 HD 도 한국어 지원",
+        "src": "https://store.steampowered.com/app/212010/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "chorus",
+      "orig": "Chorus",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Chorus (2021)",
+      "by": "Deep Silver Fishlabs",
+      "year": 2021,
+      "country": "독일",
+      "setting": "광신 교단의 무기였던 조종사가 살아 있는 배와 함께 옛 동료들에게 맞서는 우주",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 76, 스팀 평가 약 4천 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Chorus",
+        "src": "https://store.steampowered.com/app/1153640/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "colony_wars",
+      "orig": "Colony Wars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Colony Wars (1997), Vengeance (1998), Red Sun (2000)",
+      "by": "Psygnosis",
+      "year": 1997,
+      "country": "영국",
+      "setting": "지구 제국의 지배에 맞서 식민지들이 연맹을 만들어 독립 전쟁을 벌이는 우주",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "출시 때 크게 호평, 미국에서만 15만 장 넘게 팔림(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "PS1 게임. 국내 정식 발매·한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "wipeout",
+      "orig": "Wipeout",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Wipeout (1995) ~ Wipeout 2048 (2012), Omega Collection (2017)",
+      "by": "Psygnosis / Studio Liverpool (Sony)",
+      "year": 1995,
+      "country": "영국",
+      "setting": "21~22세기, 회사들이 내보낸 반중력 경주선이 무기를 쏘며 겨루는 큰 경주 대회",
+      "concepts": [],
+      "new_ideas": "반중력 경주가 세계의 큰 볼거리가 된 미래",
+      "lore_size": "작음",
+      "notability": "1995년부터 본편 열 편 넘게 이어짐(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "PS4 WipEout Omega Collection 한국어판(PlayStation 한국 누리집). 옛 작품은 확인 못 함",
+        "src": "https://www.playstation.com/ko-kr/games/wipeout-omega-collection/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "no_mans_sky",
+      "orig": "No Man's Sky",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "No Man's Sky (2016~, 무료 갱신 이어짐)",
+      "by": "Hello Games",
+      "year": 2016,
+      "country": "영국",
+      "setting": "계산으로 끝없이 만들어지는 행성들을 떠돌며, 이 우주가 무엇이고 왜 되풀이되는지 알아 가는 세계",
+      "concepts": [
+        "alien",
+        "robot"
+      ],
+      "new_ideas": "우주 자체가 큰 계산 기계 안의 가상 세계이며 끝나면 다시 시작한다",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 35만 건, 소유 500만~1000만(SteamSpy 추정)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: No Man's Sky",
+        "src": "https://store.steampowered.com/app/275850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kerbal_space_program",
+      "orig": "Kerbal Space Program",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Kerbal Space Program (2015, 앞서 해 보기 2011), Kerbal Space Program 2 (2023 앞서 해 보기)",
+      "by": "Squad / Intercept Games",
+      "year": 2011,
+      "country": "멕시코",
+      "setting": "작은 초록 종족 커벌이 실제에 가까운 궤도 역학으로 로켓을 쏘아 올리는 별계",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 12.7만 건, 소유 200만~500만(SteamSpy 추정) — 세계관은 얇음",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Kerbal Space Program 2 / 한국어 없음: Kerbal Space Program",
+        "src": "https://store.steampowered.com/app/954850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_engineers",
+      "orig": "Space Engineers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Space Engineers (2019, 앞서 해 보기 2013), Space Engineers 2",
+      "by": "Keen Software House",
+      "year": 2013,
+      "country": "체코",
+      "setting": "자원을 캐서 배와 기지를 조각조각 짓는, 이야기보다 공학이 앞서는 근미래 우주",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 13만 건(SteamSpy) — 세계관은 얇음",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Space Engineers, Space Engineers 2",
+        "src": "https://store.steampowered.com/app/244850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "hardspace_shipbreaker",
+      "orig": "Hardspace: Shipbreaker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Hardspace: Shipbreaker (2022, 앞서 해 보기 2020)",
+      "by": "Blackbird Interactive / Focus",
+      "year": 2020,
+      "country": "캐나다",
+      "setting": "빚에 묶여 회사가 복제해 되살려 쓰는 노동자가 궤도에서 낡은 우주선을 뜯어 파는 미래",
+      "concepts": [
+        "mega_corp",
+        "clone"
+      ],
+      "new_ideas": "죽어도 복제해 다시 일하게 하는, 몸값까지 빚이 되는 노동",
+      "lore_size": "중간",
+      "notability": "메타크리틱 83, 스팀 평가 약 2만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Hardspace: Shipbreaker",
+        "src": "https://store.steampowered.com/app/1161580/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outer_wilds",
+      "orig": "Outer Wilds",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Outer Wilds (2019), 확장 Echoes of the Eye (2021)",
+      "by": "Mobius Digital / Annapurna Interactive",
+      "year": 2019,
+      "country": "미국",
+      "setting": "태양이 터지기 전 22분이 되풀이되는 작은 별계에서, 먼저 다녀간 옛 종족의 흔적을 좇는 세계",
+      "concepts": [
+        "precursor",
+        "teleport"
+      ],
+      "new_ideas": "같은 22분이 끝없이 되풀이되는 시간 고리",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85, 스팀 평가 약 8.4만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Outer Wilds",
+        "src": "https://store.steampowered.com/app/753640/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starflight",
+      "orig": "Starflight",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Starflight (1986), Starflight 2 (1989)",
+      "by": "Binary Systems / Electronic Arts",
+      "year": 1986,
+      "country": "미국",
+      "setting": "4620년, 별을 타오르게 해 생명을 쓸어 가는 수정 행성을 막으려 은하를 탐사하는 세계",
+      "concepts": [
+        "alien",
+        "planet_killer",
+        "key_resource"
+      ],
+      "new_ideas": "우주선 연료로 태우던 광물이 사실 살아 있는 지성이었다",
+      "lore_size": "중간",
+      "notability": "100만 장 넘게 팔림, Computer Gaming World 1987 올해의 모험 게임·명예의 전당(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "스팀에 없음. 한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "subnautica",
+      "orig": "Subnautica",
+      "orig_en": "",
+      "ko": "서브노티카",
+      "ko_src": "스팀 한국 상점 이름(store.steampowered.com/app/264710)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Subnautica (2018, 앞서 해 보기 2014), Below Zero (2021), Subnautica 2 (2026 앞서 해 보기)",
+      "by": "Unknown Worlds Entertainment",
+      "year": 2014,
+      "country": "미국",
+      "setting": "바다로 덮인 외계 행성에 떨어진 생존자가 바닷속 생태계와 옛 종족이 막아 두던 역병의 비밀을 파고드는 세계",
+      "concepts": [
+        "alien_ecology",
+        "precursor",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 31만 건, 소유 500만~1000만(SteamSpy 추정)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Subnautica, Subnautica: Below Zero, Subnautica 2",
+        "src": "https://store.steampowered.com/app/264710/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "barotrauma",
+      "orig": "Barotrauma",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Barotrauma (2023, 앞서 해 보기 2019)",
+      "by": "FakeFish·Undertow Games / Daedalic",
+      "year": 2019,
+      "country": "핀란드",
+      "setting": "목성 위성 유로파의 얼음 밑 바다를 잠수함으로 다니며 괴생물과 사람 사이에서 버티는 세계",
+      "concepts": [
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 7.5만 건, 메타크리틱 81",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Barotrauma",
+        "src": "https://store.steampowered.com/app/602960/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starbound",
+      "orig": "Starbound",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Starbound (2016, 앞서 해 보기 2013)",
+      "by": "Chucklefish",
+      "year": 2013,
+      "country": "영국",
+      "setting": "지구가 무너진 날 빠져나온 생존자가 수많은 행성을 떠돌며 새 터와 옛 위협의 실마리를 찾는 우주",
+      "concepts": [
+        "earth_left",
+        "alien",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 16.5만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Starbound",
+        "src": "https://store.steampowered.com/app/211820/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "astroneer",
+      "orig": "ASTRONEER",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ASTRONEER (2019, 앞서 해 보기 2016)",
+      "by": "System Era Softworks",
+      "year": 2016,
+      "country": "미국",
+      "setting": "우주 개척이 한창인 시대, 작은 별계의 행성들을 파고 다듬으며 자원을 모으는 탐사자의 세계",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 12.9만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: ASTRONEER",
+        "src": "https://store.steampowered.com/app/361420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_planet_crafter",
+      "orig": "The Planet Crafter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Planet Crafter (2024, 앞서 해 보기 2022)",
+      "by": "Miju Games",
+      "year": 2022,
+      "country": "프랑스",
+      "setting": "죄수로 보내진 사람이 메마른 행성에 공기와 물과 생명을 되살려 사람 살 곳으로 바꾸는 세계",
+      "concepts": [
+        "terraforming",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 5.4만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: The Planet Crafter",
+        "src": "https://store.steampowered.com/app/1284190/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "satisfactory",
+      "orig": "Satisfactory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Satisfactory (2024, 앞서 해 보기 2019)",
+      "by": "Coffee Stain Studios",
+      "year": 2019,
+      "country": "스웨덴",
+      "setting": "거대 기업이 보낸 개척자가 외계 행성에 끝없이 이어지는 공장을 짓는 세계",
+      "concepts": [
+        "mega_corp",
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 91, 스팀 평가 약 23만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Satisfactory",
+        "src": "https://store.steampowered.com/app/526870/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "factorio",
+      "orig": "Factorio",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Factorio (2020, 스팀 앞서 해 보기 2016 — 그 전에 자체 판매 알파), 확장 Space Age (2024)",
+      "by": "Wube Software",
+      "year": 2016,
+      "country": "체코",
+      "setting": "외계 행성에 떨어진 기술자가 공장을 넓혀 로켓을 쏘아 올리고, 그 사이 토착 생물과 부딪치는 세계",
+      "concepts": [
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 90, 스팀 평가 약 21.5만 건(SteamSpy) — 세계관은 얇음",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Factorio",
+        "src": "https://store.steampowered.com/app/427520/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "dyson_sphere_program",
+      "orig": "戴森球计划",
+      "orig_en": "Dyson Sphere Program",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Dyson Sphere Program (2021 앞서 해 보기)",
+      "by": "Youthcat Studio / Gamera Game",
+      "year": 2021,
+      "country": "중국",
+      "setting": "기계 몸의 기술자가 별들을 돌며 공장을 세우고 마침내 별을 감싸는 다이슨 구를 짓는 세계",
+      "concepts": [
+        "dyson"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 8.5만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Dyson Sphere Program",
+        "src": "https://store.steampowered.com/app/1366540/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mindustry",
+      "orig": "Mindustry",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Mindustry (2017 공개, 스팀 2019)",
+      "by": "Anuke",
+      "year": 2019,
+      "country": "확인 못 함",
+      "setting": "행성을 오가며 자원 공장과 방어선을 지어 적의 기지를 무너뜨리는 세계",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "공개 소스 게임, 스팀 평가 약 2.2만 건(SteamSpy) — 세계관은 얇음",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Mindustry",
+        "src": "https://store.steampowered.com/app/1127400/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rimworld",
+      "orig": "RimWorld",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "RimWorld (2018, 앞서 해 보기 2013), 확장 Royalty·Ideology·Biotech·Anomaly·Odyssey",
+      "by": "Ludeon Studios",
+      "year": 2013,
+      "country": "캐나다",
+      "setting": "빛보다 빠른 길이 없는 은하 변두리 행성에 떨어진 사람들이 정착지를 꾸리고, 위로는 신 같은 기계가 있다",
+      "concepts": [
+        "sublight",
+        "cryosleep",
+        "colonization",
+        "ai",
+        "godlike",
+        "robot",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 21만 건, 소유 500만~1000만(SteamSpy 추정)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: RimWorld",
+        "src": "https://store.steampowered.com/app/294100/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oxygen_not_included",
+      "orig": "Oxygen Not Included",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Oxygen Not Included (2019, 앞서 해 보기 2017), 확장 Spaced Out! (2022)",
+      "by": "Klei Entertainment",
+      "year": 2017,
+      "country": "캐나다",
+      "setting": "소행성 속에 찍어 낸 복제 사람들이 산소와 먹을 것을 꾸려 가며 옛 연구소의 사고를 캐는 세계",
+      "concepts": [
+        "clone",
+        "colonization",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 12.8만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Oxygen Not Included",
+        "src": "https://store.steampowered.com/app/457140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kenshi",
+      "orig": "Kenshi",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Kenshi (2018, 앞서 해 보기 2013)",
+      "by": "Lo-Fi Games",
+      "year": 2013,
+      "country": "영국",
+      "setting": "옛 문명이 무너진 사막 행성에서 칼과 노예와 해골 기계 종족이 뒤엉킨 세계",
+      "concepts": [
+        "catastrophe",
+        "golden_age",
+        "robot",
+        "blade_return"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 9.8만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Kenshi",
+        "src": "https://store.steampowered.com/app/233860/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "surviving_mars",
+      "orig": "Surviving Mars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Surviving Mars (2018), Surviving Mars: Relaunched (2025)",
+      "by": "Haemimont Games / Paradox Interactive",
+      "year": 2018,
+      "country": "불가리아",
+      "setting": "나라·기업의 후원으로 화성에 돔 도시를 세우고, 정착지에 닥치는 수수께끼를 풀어 가는 세계",
+      "concepts": [
+        "colonization",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 76, 스팀 평가 약 2.7만 건, 소유 200만~500만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Surviving Mars, Surviving Mars: Relaunched",
+        "src": "https://store.steampowered.com/app/464920/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "anno_2070",
+      "orig": "Anno 2070",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Anno 2070 (2011), Anno 2205 (2015)",
+      "by": "Related Designs·Blue Byte / Ubisoft",
+      "year": 2011,
+      "country": "독일",
+      "setting": "물이 차오른 미래 지구에서 친환경 세력과 대기업이 바다 위 도시를 세우고, 이어 달에 식민지를 넓힌다",
+      "concepts": [
+        "mega_corp",
+        "catastrophe",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Anno 2070 메타크리틱 83, 두 편 스팀 평가 합 약 1.8만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Anno 2070™, Anno 2205™",
+        "src": "https://store.steampowered.com/app/48240/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ixion",
+      "orig": "IXION",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "IXION (2022)",
+      "by": "Bulwark Studios / Kasedo Games",
+      "year": 2022,
+      "country": "프랑스",
+      "setting": "망가진 지구를 떠난 거대 우주 정거장 하나에 남은 사람들을 싣고 살 곳을 찾아가는 세계",
+      "concepts": [
+        "earth_left",
+        "habitat",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 1.6만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: IXION",
+        "src": "https://store.steampowered.com/app/1113120/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "per_aspera",
+      "orig": "Per Aspera",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Per Aspera (2020)",
+      "by": "Tlön Industries / Raw Fury",
+      "year": 2020,
+      "country": "아르헨티나",
+      "setting": "화성을 사람 살 곳으로 바꾸라는 임무를 받은 인공지능이 일하면서 스스로를 알아 가는 이야기",
+      "concepts": [
+        "terraforming",
+        "ai",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 78, 스팀 평가 약 5.5천 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Per Aspera",
+        "src": "https://store.steampowered.com/app/803050/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_haven",
+      "orig": "Space Haven",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Space Haven (2026, 앞서 해 보기 2020)",
+      "by": "Bugbyte",
+      "year": 2020,
+      "country": "핀란드",
+      "setting": "망가진 고향을 떠난 사람들이 우주선을 칸칸이 지어 꾸리며 새 터를 찾는 세계",
+      "concepts": [
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 85, 스팀 평가 약 9천 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Space Haven",
+        "src": "https://store.steampowered.com/app/979110/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "startopia",
+      "orig": "Startopia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Startopia (2001), Spacebase Startopia (2021)",
+      "by": "Mucky Foot / Eidos",
+      "year": 2001,
+      "country": "영국",
+      "setting": "큰 전쟁 뒤 버려진 도넛 모양 우주 정거장을 되살려 여러 외계 종족 손님을 맞는 세계",
+      "concepts": [
+        "habitat",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Startopia 메타크리틱 86(스팀 상점 표시)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Spacebase Startopia / 한국어 없음: Startopia",
+        "src": "https://store.steampowered.com/app/840390/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "frostpunk",
+      "orig": "Frostpunk",
+      "orig_en": "",
+      "ko": "프로스트펑크",
+      "ko_src": "스팀 한국 상점 이름(store.steampowered.com/app/323190)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Frostpunk (2018), Frostpunk 2 (2024)",
+      "by": "11 bit studios",
+      "year": 2018,
+      "country": "폴란드",
+      "setting": "갑자기 얼어붙은 19세기 지구에서 증기 발전기 하나에 기대 마지막 도시를 꾸리는 세계",
+      "concepts": [
+        "catastrophe",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 84·85, 스팀 평가 약 12.4만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Frostpunk, Frostpunk 2",
+        "src": "https://store.steampowered.com/app/323190/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ark_survival",
+      "orig": "ARK: Survival Evolved",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ARK: Survival Evolved (2017, 앞서 해 보기 2015), ARK: Survival Ascended (2023)",
+      "by": "Studio Wildcard",
+      "year": 2015,
+      "country": "미국",
+      "setting": "공룡이 사는 섬인 줄 알았던 곳이 사실 망가진 지구를 떠나 궤도를 도는 인공 방주였던 세계",
+      "concepts": [
+        "ark",
+        "habitat"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 73만 건, 소유 2000만~5000만(SteamSpy 추정)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: ARK: Survival Evolved",
+        "src": "https://store.steampowered.com/app/346110/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "grounded",
+      "orig": "Grounded",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Grounded (2022, 앞서 해 보기 2020), Grounded 2 (2025)",
+      "by": "Obsidian Entertainment / Xbox Game Studios",
+      "year": 2020,
+      "country": "미국",
+      "setting": "회사 실험으로 개미만큼 작아진 아이들이 뒷마당에서 벌레와 맞서며 그 까닭을 캐는 세계",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "몸을 줄이는 기술",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 8.5만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Grounded",
+        "src": "https://store.steampowered.com/app/962130/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "icarus",
+      "orig": "ICARUS",
+      "orig_en": "",
+      "ko": "ICARUS 외계 행성 서바이벌",
+      "ko_src": "스팀 한국 상점 이름(store.steampowered.com/app/1149460)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ICARUS (2021)",
+      "by": "RocketWerkz",
+      "year": 2021,
+      "country": "뉴질랜드",
+      "setting": "사람 살 곳으로 고치다 실패해 독이 된 행성에 궤도에서 내려가 귀한 물질을 캐고 버티는 세계",
+      "concepts": [
+        "terraforming",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 4.7만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: ICARUS",
+        "src": "https://store.steampowered.com/app/1149460/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "empyrion",
+      "orig": "Empyrion - Galactic Survival",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Empyrion - Galactic Survival (2020, 앞서 해 보기 2015)",
+      "by": "Eleon Game Studios",
+      "year": 2015,
+      "country": "스위스",
+      "setting": "낯선 성단에 떨어진 사람이 행성과 우주를 오가며 기지·배를 짓고 여러 세력과 얽히는 세계",
+      "concepts": [
+        "alien",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 3.3만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Empyrion - Galactic Survival",
+        "src": "https://store.steampowered.com/app/383120/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "breathedge",
+      "orig": "Breathedge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Breathedge (2021, 앞서 해 보기 2018), Breathedge 2",
+      "by": "RedRuins Softworks",
+      "year": 2018,
+      "country": "러시아",
+      "setting": "우주 장례선 사고로 떠돌게 된 남자가 닭 한 마리와 버티는 우스꽝스러운 우주 생존",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 1.5만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Breathedge",
+        "src": "https://store.steampowered.com/app/738520/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "pacific_drive",
+      "orig": "Pacific Drive",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Pacific Drive (2024)",
+      "by": "Ironwood Studios / Kepler Interactive",
+      "year": 2024,
+      "country": "미국",
+      "setting": "실험이 낳은 이상 현상으로 막혀 버린 미국 북서부 구역을 낡은 차 한 대로 누비는 세계",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "물리 법칙이 뒤틀린 막힌 구역(이상 현상 구역)",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 2만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Pacific Drive",
+        "src": "https://store.steampowered.com/app/1458140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "abiotic_factor",
+      "orig": "Abiotic Factor",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Abiotic Factor (2025, 앞서 해 보기 2024)",
+      "by": "Deep Field Games / Playstack",
+      "year": 2024,
+      "country": "확인 못 함",
+      "setting": "다른 세계로 통하는 문을 연구하던 지하 연구소가 무너진 뒤 과학자들이 버티는 세계",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 3.1만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Abiotic Factor",
+        "src": "https://store.steampowered.com/app/427410/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lethal_company",
+      "orig": "Lethal Company",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Lethal Company (2023 앞서 해 보기)",
+      "by": "Zeekerss",
+      "year": 2023,
+      "country": "미국",
+      "setting": "회사가 정한 몫을 채우려 버려진 위성들에서 고철을 주워 오는 노동자들의 공포",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 48.7만 건, 소유 1000만~2000만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Lethal Company",
+        "src": "https://store.steampowered.com/app/1966720/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "iron_lung",
+      "orig": "Iron Lung",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "Iron Lung (2022 게임), 영화 Iron Lung (2026)",
+      "by": "David Szymanski / 영화 Markiplier",
+      "year": 2022,
+      "country": "미국",
+      "setting": "별들이 사라진 뒤 피의 바다로 덮인 위성 밑을 창 없는 잠수정으로 더듬어 가는 공포",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2026년 영화로 만들어져 세계 흥행 약 5,100만 달러(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Iron Lung / 영화 국내 개봉은 확인 못 함",
+        "src": "https://store.steampowered.com/app/1846170/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "space_station_13",
+      "orig": "Space Station 13",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Space Station 13 (2003~, 서버마다 갈래), Space Station 14 (다시 만드는 중)",
+      "by": "Exadv1 과 공개 개발 무리",
+      "year": 2003,
+      "country": "확인 못 함",
+      "setting": "거대 기업 나노트레이즌의 연구 정거장에서 승무원들이 맡은 일을 하며 배신자와 재난을 견디는 세계",
+      "concepts": [
+        "mega_corp",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2003년부터 이어진 다인용 게임, Barotrauma·Stationeers 등에 영향(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어 없음: Space Station 14 / 원작 Space Station 13 은 BYOND 에서 돌아 확인 못 함",
+        "src": "https://store.steampowered.com/app/1255460/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "neo_scavenger",
+      "orig": "NEO Scavenger",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "NEO Scavenger (2014), Ostranauts (2026, 같은 세계라고 스팀 상점에 밝힘)",
+      "by": "Blue Bottle Games",
+      "year": 2014,
+      "country": "확인 못 함",
+      "setting": "무너진 미국 땅에서 기억을 잃고 깨어나 살아남는 이야기, 그 뒤 빚과 고장 난 배로 사는 우주 노동자의 세계",
+      "concepts": [
+        "catastrophe",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "NEO Scavenger 스팀 평가 약 5.2천 건, 소유 50만~100만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: NEO Scavenger, Ostranauts",
+        "src": "https://store.steampowered.com/app/248860/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cataclysm_dda",
+      "orig": "Cataclysm: Dark Days Ahead",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Cataclysm (2010) 를 이은 공개 소스 판 (2013~), 스팀 판",
+      "by": "CleverRaven 과 공개 개발자들",
+      "year": 2013,
+      "country": "확인 못 함",
+      "setting": "다른 차원의 문이 열리고 괴물과 변이가 쏟아진 뒤 무너진 뉴잉글랜드에서 살아남는 세계",
+      "concepts": [
+        "catastrophe",
+        "genetic_eng",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "10년 넘게 이어진 공개 소스 생존 로그라이크, 스팀 평가 약 450건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Cataclysm: Dark Days Ahead",
+        "src": "https://store.steampowered.com/app/2330750/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "caves_of_qud",
+      "orig": "Caves of Qud",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Caves of Qud (2024, 앞서 해 보기 2015)",
+      "by": "Freehold Games",
+      "year": 2015,
+      "country": "미국",
+      "setting": "먼 미래, 옛 문명이 무너지고 변이한 생물과 기계가 사는 지구에서 그 옛 비밀을 캐는 세계",
+      "concepts": [
+        "catastrophe",
+        "golden_age",
+        "cyborg",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "메타크리틱 91, 스팀 평가 약 1만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Caves of Qud",
+        "src": "https://store.steampowered.com/app/333640/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cogmind",
+      "orig": "Cogmind",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Cogmind (2017 앞서 해 보기)",
+      "by": "Grid Sage Games",
+      "year": 2017,
+      "country": "확인 못 함",
+      "setting": "부품을 떼고 붙이며 자라는 로봇이 기계들의 지하 도시를 뚫고 빠져나가는 세계",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 1.8천 건(매우 긍정, SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Cogmind",
+        "src": "https://store.steampowered.com/app/722730/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "spore",
+      "orig": "Spore",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Spore (2008), 확장 Galactic Adventures (2009) 등",
+      "by": "Maxis / Electronic Arts",
+      "year": 2008,
+      "country": "미국",
+      "setting": "한 세포에서 시작해 생물·부족·문명을 거쳐 은하로 나아가는 진화의 세계",
+      "concepts": [
+        "alien",
+        "uplift",
+        "terraforming",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 84, 스팀 평가 약 6.6만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: SPORE™ / 2008년 국내 패키지 한국어판 여부는 확인 못 함",
+        "src": "https://store.steampowered.com/app/17390/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mule",
+      "orig": "M.U.L.E.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "탁상 게임"
+      ],
+      "first_medium": "게임",
+      "series": "M.U.L.E. (1983), 보드게임판 (2015)",
+      "by": "Ozark Softscape (Danielle Bunten Berry) / Electronic Arts",
+      "year": 1983,
+      "country": "미국",
+      "setting": "행성 이라타에 내린 정착민들이 일꾼 기계를 부려 땅을 일구고 서로 사고파는 세계",
+      "concepts": [
+        "colonization",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Computer Gaming World 명예의 전당 첫 입성작, 여러 '역대 최고 게임' 목록(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1983년 게임. 한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "slime_rancher",
+      "orig": "Slime Rancher",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Slime Rancher (2017), Slime Rancher 2 (2022 앞서 해 보기)",
+      "by": "Monomi Park",
+      "year": 2016,
+      "country": "미국",
+      "setting": "지구에서 먼 행성의 변두리 들판에서 말랑한 토착 생물 슬라임을 기르는 개척자의 세계",
+      "concepts": [
+        "alien_ecology",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 13.8만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Slime Rancher, Slime Rancher 2",
+        "src": "https://store.steampowered.com/app/433340/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ftl",
+      "orig": "FTL: Faster Than Light",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "FTL: Faster Than Light (2012), Advanced Edition (2014)",
+      "by": "Subset Games",
+      "year": 2012,
+      "country": "확인 못 함",
+      "setting": "반란군 함대에 쫓기며 연합 함대에 정보를 전하러 성계를 건너뛰는 작은 배 한 척",
+      "concepts": [
+        "ftl",
+        "jump_drive",
+        "federation",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 84, 스팀 평가 약 7.5만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: FTL: Faster Than Light",
+        "src": "https://store.steampowered.com/app/212680/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "into_the_breach",
+      "orig": "Into the Breach",
+      "orig_en": "",
+      "ko": "인투 더 브리치",
+      "ko_src": "앱 스토어 한국 이름(넷플릭스판, apps.apple.com id1616542180)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Into the Breach (2018), Advanced Edition (2022)",
+      "by": "Subset Games",
+      "year": 2018,
+      "country": "확인 못 함",
+      "setting": "땅에서 솟는 거대 벌레 벡과 거대 로봇으로 싸우다, 지면 시간을 거슬러 다른 갈래에서 다시 싸우는 세계",
+      "concepts": [
+        "time_travel",
+        "alt_timeline",
+        "mecha",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 90, 스팀 평가 약 2만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Into the Breach",
+        "src": "https://store.steampowered.com/app/590380/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "risk_of_rain",
+      "orig": "Risk of Rain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Risk of Rain (2013), Risk of Rain 2 (2020), Risk of Rain Returns (2023)",
+      "by": "Hopoo Games",
+      "year": 2013,
+      "country": "미국",
+      "setting": "추락한 화물선 생존자들이 낯선 행성 페트리코 5의 생물과 그곳을 다스리는 존재에 맞서는 세계",
+      "concepts": [
+        "alien_ecology",
+        "godlike"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "Risk of Rain 2 스팀 평가 약 31만 건(SteamSpy)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Risk of Rain 2, Risk of Rain Returns / 한국어 없음: Risk of Rain (2013)",
+        "src": "https://store.steampowered.com/app/632360/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "returnal",
+      "orig": "Returnal",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Returnal (2021)",
+      "by": "Housemarque / Sony Interactive Entertainment",
+      "year": 2021,
+      "country": "핀란드",
+      "setting": "금지된 신호를 따라간 행성에 떨어진 탐사자가 죽을 때마다 추락한 순간으로 되돌아가는 세계",
+      "concepts": [
+        "alien",
+        "precursor"
+      ],
+      "new_ideas": "죽을 때마다 같은 순간으로 돌아가는 시간 고리",
+      "lore_size": "중간",
+      "notability": "소니 자체 제작 PS5 독점작으로 나옴(PlayStation 한국 누리집), 스팀 평가 약 8.4천 건",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Returnal™",
+        "src": "https://store.steampowered.com/app/1649240/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "void_bastards",
+      "orig": "Void Bastards",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Void Bastards (2019)",
+      "by": "Blue Manchu / Humble Games",
+      "year": 2019,
+      "country": "오스트레일리아",
+      "setting": "성운에 갇힌 감옥선이 마른 죄수들을 물로 되살려 하나씩 떠도는 폐선으로 보내는 만화풍 우주",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 81(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Void Bastards",
+        "src": "https://store.steampowered.com/app/857980/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "duskers",
+      "orig": "Duskers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Duskers (2016)",
+      "by": "Misfits Attic",
+      "year": 2016,
+      "country": "미국",
+      "setting": "사람이 사라진 은하에서 무인 기계 몇 대를 명령어로 부려 버려진 배를 뒤지는 세계",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 83(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Duskers",
+        "src": "https://store.steampowered.com/app/254320/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "out_there",
+      "orig": "Out There",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Out There (2014), Ω Edition, Oceans of Time",
+      "by": "Mi-Clos Studio",
+      "year": 2014,
+      "country": "프랑스",
+      "setting": "냉동 잠에서 깨어 엉뚱한 곳에 와 버린 우주인이 연료와 산소를 짜내며 집으로 가려는 우주",
+      "concepts": [
+        "cryosleep",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 1.7천 건, 소유 20만~50만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Out There: Ω Edition",
+        "src": "https://store.steampowered.com/app/334420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "heat_signature",
+      "orig": "Heat Signature",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Heat Signature (2017)",
+      "by": "Suspicious Developments",
+      "year": 2017,
+      "country": "영국",
+      "setting": "세력들이 다투는 성운에서 작은 배로 큰 배에 몰래 올라 털고 빠져나오는 세계",
+      "concepts": [
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 79, 스팀 평가 약 7천 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Heat Signature",
+        "src": "https://store.steampowered.com/app/268130/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cobalt_core",
+      "orig": "Cobalt Core",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Cobalt Core (2023)",
+      "by": "Rocket Rat Games / Brace Yourself Games",
+      "year": 2023,
+      "country": "미국",
+      "setting": "우주가 터지는 순간을 되풀이해 겪으며 잃어버린 기억을 찾는 작은 배의 선원들",
+      "concepts": [],
+      "new_ideas": "시간 고리",
+      "lore_size": "작음",
+      "notability": "메타크리틱 94(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Cobalt Core",
+        "src": "https://store.steampowered.com/app/2179850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "crying_suns",
+      "orig": "Crying Suns",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Crying Suns (2019)",
+      "by": "Alt Shift / Humble Games",
+      "year": 2019,
+      "country": "프랑스",
+      "setting": "제국을 떠받치던 기계들이 멈춰 무너진 은하에서, 복제된 제독이 그 까닭을 찾아 함대를 이끄는 세계",
+      "concepts": [
+        "clone",
+        "empire_fall",
+        "robot",
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 75, 스팀 평가 약 4.3천 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Crying Suns",
+        "src": "https://store.steampowered.com/app/873940/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "highfleet",
+      "orig": "HighFleet",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "HighFleet (2021)",
+      "by": "Konstantin Koshutin / MicroProse",
+      "year": 2021,
+      "country": "러시아",
+      "setting": "옛 제국이 무너진 사막 행성에서 하늘을 나는 전함 함대를 이끌고 수도를 되찾으러 가는 전쟁",
+      "concepts": [
+        "empire_fall",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 6.6천 건, 소유 50만~100만(SteamSpy 추정)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: HighFleet",
+        "src": "https://store.steampowered.com/app/1434950/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "event0",
+      "orig": "Event[0]",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Event[0] (2016)",
+      "by": "Ocelot Society",
+      "year": 2016,
+      "country": "프랑스",
+      "setting": "버려진 우주선에 홀로 남은 인공지능과 자판으로 말을 주고받으며 돌아갈 길을 찾는 이야기",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 75(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Event[0]",
+        "src": "https://store.steampowered.com/app/470260/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "citizen_sleeper",
+      "orig": "Citizen Sleeper",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Citizen Sleeper (2022), Citizen Sleeper 2: Starward Vector (2025)",
+      "by": "Jump Over The Age / Fellow Traveller",
+      "year": 2022,
+      "country": "영국",
+      "setting": "회사 소유의 기계 몸에 사람 마음을 옮겨 담은 '잠든 이'가 낡은 정거장에서 하루하루 살아가는 세계",
+      "concepts": [
+        "mind_upload",
+        "mega_corp",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 82·85(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Citizen Sleeper, Citizen Sleeper 2: Starward Vector",
+        "src": "https://store.steampowered.com/app/1578650/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "in_other_waters",
+      "orig": "In Other Waters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "In Other Waters (2020)",
+      "by": "Jump Over The Age / Fellow Traveller",
+      "year": 2020,
+      "country": "영국",
+      "setting": "외계 바다 행성에서 잠수복의 인공지능이 되어 생물학자를 이끌며 그곳 생물을 기록하는 이야기",
+      "concepts": [
+        "alien_ecology",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 74(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: In Other Waters",
+        "src": "https://store.steampowered.com/app/890720/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "heavens_vault",
+      "orig": "Heaven's Vault",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Heaven's Vault (2019)",
+      "by": "inkle",
+      "year": 2019,
+      "country": "영국",
+      "setting": "성운 속 물길로 이어진 달들을 오가며 사라진 옛 문명의 글을 풀어 가는 고고학자와 로봇의 이야기",
+      "concepts": [
+        "precursor",
+        "golden_age",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 76(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Heaven's Vault",
+        "src": "https://store.steampowered.com/app/774201/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tacoma",
+      "orig": "Tacoma",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Tacoma (2017)",
+      "by": "Fullbright",
+      "year": 2017,
+      "country": "미국",
+      "setting": "2088년 기업 소유 궤도 정거장에서 사라진 승무원들의 기록을 되짚어 보는 이야기",
+      "concepts": [
+        "mega_corp",
+        "ai",
+        "hologram"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 76(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Tacoma",
+        "src": "https://store.steampowered.com/app/343860/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "observation",
+      "orig": "Observation",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Observation (2019)",
+      "by": "No Code / Devolver Digital",
+      "year": 2019,
+      "country": "영국",
+      "setting": "궤도 정거장의 인공지능이 되어 사라진 승무원과 정체 모를 신호를 좇는 이야기",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 4.8천 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Observation",
+        "src": "https://store.steampowered.com/app/906100/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "soma",
+      "orig": "SOMA",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "SOMA (2015)",
+      "by": "Frictional Games",
+      "year": 2015,
+      "country": "스웨덴",
+      "setting": "지구가 끝난 뒤 바닷속 기지에서 기계에 옮겨진 사람 마음들이 남아 떠도는 세계",
+      "concepts": [
+        "mind_upload",
+        "ark",
+        "catastrophe",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 84, 스팀 평가 약 4.5만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: SOMA",
+        "src": "https://store.steampowered.com/app/282140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "talos_principle",
+      "orig": "The Talos Principle",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Talos Principle (2014), The Talos Principle 2 (2023)",
+      "by": "Croteam / Devolver Digital",
+      "year": 2014,
+      "country": "크로아티아",
+      "setting": "인류가 사라진 뒤 남겨진 기계 지성이 시험을 풀며 자신이 사람인지 묻는 세계",
+      "concepts": [
+        "ai",
+        "android",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 85·88(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: The Talos Principle, The Talos Principle 2",
+        "src": "https://store.steampowered.com/app/257510/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stray",
+      "orig": "Stray",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Stray (2022)",
+      "by": "BlueTwelve Studio / Annapurna Interactive",
+      "year": 2022,
+      "country": "프랑스",
+      "setting": "사람이 사라진 지하 도시에서 길 잃은 고양이가 남겨진 로봇들과 바깥으로 가는 길을 찾는 세계",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 15.7만 건, 소유 500만~1000만(SteamSpy 추정)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Stray",
+        "src": "https://store.steampowered.com/app/1332010/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "signalis",
+      "orig": "SIGNALIS",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "SIGNALIS (2022)",
+      "by": "rose-engine / Humble Games·PLAYISM",
+      "year": 2022,
+      "country": "독일",
+      "setting": "전체주의 별 나라의 인조인간 병사가 얼음 행성 지하 시설에서 잃어버린 짝을 찾는 공포",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 2.6만 건(압도적 긍정, SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: SIGNALIS",
+        "src": "https://store.steampowered.com/app/1262350/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "inside",
+      "orig": "INSIDE",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "INSIDE (2016)",
+      "by": "Playdead",
+      "year": 2016,
+      "country": "덴마크",
+      "setting": "사람 몸을 원격으로 부리는 실험이 벌어지는 어두운 시설로 소년 하나가 숨어드는 이야기",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 87, 스팀 평가 약 6.8만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: INSIDE",
+        "src": "https://store.steampowered.com/app/304430/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_swapper",
+      "orig": "The Swapper",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Swapper (2013)",
+      "by": "Facepalm Games",
+      "year": 2013,
+      "country": "핀란드",
+      "setting": "자기 몸을 복제하고 마음을 옮기는 장치를 들고 버려진 연구 정거장을 헤매는 이야기",
+      "concepts": [
+        "clone",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 87(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: The Swapper",
+        "src": "https://store.steampowered.com/app/231160/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "transistor",
+      "orig": "Transistor",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Transistor (2014)",
+      "by": "Supergiant Games",
+      "year": 2014,
+      "country": "미국",
+      "setting": "시민 투표로 모든 것이 바뀌는 도시 클라우드뱅크에서 목소리를 빼앗긴 가수가 사람 마음이 깃든 칼을 든다",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 83, 스팀 평가 약 3만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Transistor",
+        "src": "https://store.steampowered.com/app/237930/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "axiom_verge",
+      "orig": "Axiom Verge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Axiom Verge (2015), Axiom Verge 2 (2021)",
+      "by": "Thomas Happ Games",
+      "year": 2015,
+      "country": "미국",
+      "setting": "실험 사고로 죽은 과학자가 낯선 세계 수드라에서 되살아나 기계 신들의 부름을 따라 싸우는 세계",
+      "concepts": [
+        "resurrection",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 80(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Axiom Verge, Axiom Verge 2",
+        "src": "https://store.steampowered.com/app/332200/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rain_world",
+      "orig": "Rain World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Rain World (2017), 확장 Downpour (2023)·The Watcher",
+      "by": "Videocult / Adult Swim Games·Akupara Games",
+      "year": 2017,
+      "country": "확인 못 함",
+      "setting": "옛 문명이 몸을 버리고 떠난 뒤 남은 거대한 계산 기계들 사이에서 작은 생물이 비를 피해 사는 세계",
+      "concepts": [
+        "ascension",
+        "precursor",
+        "ai",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 4.2만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Rain World",
+        "src": "https://store.steampowered.com/app/312520/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "detroit_become_human",
+      "orig": "Detroit: Become Human",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Detroit: Become Human (2018)",
+      "by": "Quantic Dream / Sony Interactive Entertainment",
+      "year": 2018,
+      "country": "프랑스",
+      "setting": "2038년 디트로이트, 사람을 섬기던 인조인간들이 스스로 마음을 깨닫고 일어서는 이야기",
+      "concepts": [
+        "android",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 17만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Detroit: Become Human / PS4 판도 한국어판(PlayStation 한국 누리집 'Detroit: Become Human™ 일반판 (한국어판)')",
+        "src": "https://store.steampowered.com/app/1222140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "norco",
+      "orig": "NORCO",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "NORCO (2022)",
+      "by": "Geography of Robots / Raw Fury",
+      "year": 2022,
+      "country": "미국",
+      "setting": "정유 공장에 잠긴 미래 루이지애나 교외에서 사라진 오빠를 좇다 기계와 얽힌 교단을 만나는 이야기",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "메타크리틱 89(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: NORCO",
+        "src": "https://store.steampowered.com/app/1221250/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "cloudpunk",
+      "orig": "Cloudpunk",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Cloudpunk (2020), 확장 City of Ghosts",
+      "by": "ION LANDS",
+      "year": 2020,
+      "country": "독일",
+      "setting": "구름 위로 솟은 거대 도시 니발리스에서 하룻밤 날아다니며 짐을 나르는 배달부의 이야기",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 1.5만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Cloudpunk",
+        "src": "https://store.steampowered.com/app/746850/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "va11_hall_a",
+      "orig": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "VA-11 Hall-A (2016)",
+      "by": "Sukeban Games / Ysbryd Games",
+      "year": 2016,
+      "country": "베네수엘라",
+      "setting": "기업과 나노 기계 경찰이 다스리는 글리치 시티의 작은 술집에서 손님들의 이야기를 듣는 세계",
+      "concepts": [
+        "nanotech",
+        "android",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 3.6만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: VA-11 Hall-A: Cyberpunk Bartender Action",
+        "src": "https://store.steampowered.com/app/447530/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_strings_club",
+      "orig": "The Red Strings Club",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Red Strings Club (2018)",
+      "by": "Deconstructeam / Devolver Digital",
+      "year": 2018,
+      "country": "스페인",
+      "setting": "사람 마음을 고치는 몸속 장치를 퍼뜨리려는 기업에 맞서 술집 주인과 해커가 움직이는 이야기",
+      "concepts": [
+        "mega_corp",
+        "cyborg",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 80, 스팀 평가 약 1.3만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: The Red Strings Club",
+        "src": "https://store.steampowered.com/app/589780/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "observer",
+      "orig": ">observer_",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": ">observer_ (2017), Observer: System Redux (2020)",
+      "by": "Bloober Team",
+      "year": 2017,
+      "country": "폴란드",
+      "setting": "2084년 크라쿠프, 남의 머리에 접속해 기억을 뒤지는 수사관이 기업 도시의 어둠을 좇는 공포",
+      "concepts": [
+        "cyborg",
+        "mega_corp"
+      ],
+      "new_ideas": "남의 머릿속 기억에 들어가 수사한다",
+      "lore_size": "중간",
+      "notability": "두 판 스팀 평가 합 약 8.3천 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: >observer_, Observer: System Redux",
+        "src": "https://store.steampowered.com/app/514900/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "remember_me",
+      "orig": "Remember Me",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Remember Me (2013)",
+      "by": "Dontnod Entertainment / Capcom",
+      "year": 2013,
+      "country": "프랑스",
+      "setting": "2084년 네오 파리, 기억을 사고팔고 지우는 기업에 맞서는 기억 사냥꾼의 이야기",
+      "concepts": [
+        "mega_corp",
+        "cyborg"
+      ],
+      "new_ideas": "기억을 사고팔고 고쳐 쓰는 사회",
+      "lore_size": "중간",
+      "notability": "스팀 평가 약 1.6만 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Remember Me",
+        "src": "https://store.steampowered.com/app/228300/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "obduction",
+      "orig": "Obduction",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Obduction (2016)",
+      "by": "Cyan",
+      "year": 2016,
+      "country": "미국",
+      "setting": "밤하늘에서 온 씨앗에 실려 낯선 외계 땅으로 옮겨진 마을의 수수께끼를 푸는 이야기",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Myst 를 만든 Cyan 의 작품, 메타크리틱 76(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Obduction",
+        "src": "https://store.steampowered.com/app/306760/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sable",
+      "orig": "Sable",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Sable (2021)",
+      "by": "Shedworks / Raw Fury",
+      "year": 2021,
+      "country": "영국",
+      "setting": "옛 우주선 잔해가 흩어진 사막 행성에서 젊은 유목민이 어른이 되는 여행을 떠나는 세계",
+      "concepts": [
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 76(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Sable",
+        "src": "https://store.steampowered.com/app/757310/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "machinarium",
+      "orig": "Machinarium",
+      "orig_en": "",
+      "ko": "머시나리움",
+      "ko_src": "스팀·앱 스토어 한국 이름 'Machinarium (머시나리움)'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Machinarium (2009)",
+      "by": "Amanita Design",
+      "year": 2009,
+      "country": "체코",
+      "setting": "로봇들만 사는 녹슨 도시에서 쫓겨난 작은 로봇이 짝을 구하러 되돌아가는 이야기",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 85, 스팀 평가 약 1.7만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Machinarium",
+        "src": "https://store.steampowered.com/app/40700/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "planet_of_lana",
+      "orig": "Planet of Lana",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Planet of Lana (2023), Planet of Lana II (2026)",
+      "by": "Wishfully / Thunderful",
+      "year": 2023,
+      "country": "스웨덴",
+      "setting": "하늘에서 내려온 기계들에 마을을 빼앗긴 소녀가 작은 동물과 함께 길을 떠나는 행성",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 80·79(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Planet of Lana, Planet of Lana II",
+        "src": "https://store.steampowered.com/app/1608230/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_turing_test",
+      "orig": "The Turing Test",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Turing Test (2016)",
+      "by": "Bulkhead / Square Enix",
+      "year": 2016,
+      "country": "영국",
+      "setting": "목성 위성 유로파 기지의 인공지능이 사라진 대원들을 찾는 기술자를 시험하듯 이끄는 이야기",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 74, 스팀 평가 약 7.9천 건(SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: The Turing Test",
+        "src": "https://store.steampowered.com/app/499520/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "deliver_us",
+      "orig": "Deliver Us The Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Deliver Us The Moon (2019), Deliver Us Mars (2022)",
+      "by": "KeokeN Interactive",
+      "year": 2019,
+      "country": "네덜란드",
+      "setting": "자원이 바닥난 지구를 살리려 달의 에너지 기지로, 이어 화성으로 떠난 방주를 좇아가는 이야기",
+      "concepts": [
+        "earth_left",
+        "ark",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "두 편 스팀 평가 합 약 1.1만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Deliver Us The Moon, Deliver Us Mars / Deliver Us Mars 의 한국 상점 이름은 '딜리버 어스 마스'(스팀·마이크로소프트 스토어)",
+        "src": "https://store.steampowered.com/app/428660/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "analogue_hate_story",
+      "orig": "Analogue: A Hate Story",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Analogue: A Hate Story (2012), Hate Plus (2013)",
+      "by": "Christine Love",
+      "year": 2012,
+      "country": "캐나다",
+      "setting": "수백 년 떠돌다 소식이 끊긴 세대선의 기록을 배의 인공지능과 함께 읽으며 무슨 일이 있었는지 밝히는 이야기",
+      "concepts": [
+        "generation_ship",
+        "ai",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "스팀 평가 합 약 2.9천 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Analogue: A Hate Story, Hate Plus",
+        "src": "https://store.steampowered.com/app/209370/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gemini_rue",
+      "orig": "Gemini Rue",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Gemini Rue (2011)",
+      "by": "Joshua Nuernberger / Wadjet Eye Games",
+      "year": 2011,
+      "country": "미국",
+      "setting": "비가 그치지 않는 광산 행성에서 전직 암살자가 형을 찾다 기억을 지우는 시설의 비밀과 마주치는 이야기",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 82(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Gemini Rue",
+        "src": "https://store.steampowered.com/app/80310/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "primordia",
+      "orig": "Primordia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Primordia (2012)",
+      "by": "Wormwood Studios / Wadjet Eye Games",
+      "year": 2012,
+      "country": "미국",
+      "setting": "사람이 사라진 뒤 기계들만 남은 폐허에서 로봇 둘이 빼앗긴 동력 부품을 찾아 도시로 가는 이야기",
+      "concepts": [
+        "robot",
+        "ai",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스팀 평가 약 3.3천 건(매우 긍정, SteamSpy)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Primordia",
+        "src": "https://store.steampowered.com/app/227000/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "beneath_a_steel_sky",
+      "orig": "Beneath a Steel Sky",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Beneath a Steel Sky (1994), Beyond a Steel Sky (2020)",
+      "by": "Revolution Software",
+      "year": 1994,
+      "country": "영국",
+      "setting": "오염된 미래 오스트레일리아, 컴퓨터 링크가 다스리는 거대 도시에 끌려간 남자가 그 속을 파헤치는 이야기",
+      "concepts": [
+        "ai",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1995 골든 조이스틱 최우수 모험 게임, 30만~40만 장(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Beyond a Steel Sky / 한국어 없음: Beneath a Steel Sky (1994)",
+        "src": "https://store.steampowered.com/app/1146310/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tex_murphy",
+      "orig": "Tex Murphy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Mean Streets (1989) ~ Tesla Effect (2014)",
+      "by": "Access Software / Big Finish Games",
+      "year": 1989,
+      "country": "미국",
+      "setting": "3차 세계 대전 뒤 방사능으로 몸이 바뀐 사람들이 사는 미래 샌프란시스코의 탐정 이야기",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1989년부터 2014년까지 이어진 실사 영상 모험 게임 시리즈(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Tex Murphy: The Pandora Directive",
+        "src": "https://store.steampowered.com/app/302360/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_quest",
+      "orig": "Space Quest",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Space Quest (1986) ~ Space Quest 6 (1995)",
+      "by": "Sierra (Scott Murphy·Mark Crowe)",
+      "year": 1986,
+      "country": "미국",
+      "setting": "우주선 청소부 로저 윌코가 얼떨결에 몇 번이나 은하를 구하는 우스꽝스러운 우주",
+      "concepts": [
+        "alien",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "'사랑받는 고전'으로 꼽히는 모험 게임 시리즈, 본편 여섯 편(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Space Quest™ Collection",
+        "src": "https://store.steampowered.com/app/10110/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_dig",
+      "orig": "The Dig",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Dig (1995)",
+      "by": "LucasArts",
+      "year": 1995,
+      "country": "미국",
+      "setting": "지구로 오는 소행성을 막으러 간 우주인들이 몸을 버리고 떠난 외계 문명의 행성에 갇히는 이야기",
+      "concepts": [
+        "precursor",
+        "resurrection",
+        "ascension"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1998년까지 30만 장, 그때까지 루카스아츠 모험 게임 가운데 가장 많이 팔림(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: The Dig®",
+        "src": "https://store.steampowered.com/app/6040/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "another_world",
+      "orig": "Another World",
+      "orig_en": "Another World (북미 Out of This World)",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Another World (1991), 20th Anniversary Edition (2011)",
+      "by": "Éric Chahi / Delphine Software",
+      "year": 1991,
+      "country": "프랑스",
+      "setting": "실험 사고로 낯선 외계 행성에 떨어진 젊은 물리학자가 외계인 동료와 함께 빠져나가는 이야기",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1990년대 약 100만 장, 2012년 뉴욕 현대 미술관 소장(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Another World – 20th Anniversary Edition",
+        "src": "https://store.steampowered.com/app/233550/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "flashback",
+      "orig": "Flashback",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Flashback (1992), Fade to Black (1995), Flashback 2 (2023)",
+      "by": "Delphine Software (Paul Cuisset) / Microids",
+      "year": 1992,
+      "country": "프랑스",
+      "setting": "기억을 잃은 요원이 사람으로 꾸며 지구에 숨어든 외계인의 음모를 좇는 미래 이야기",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "기네스 세계 기록 '가장 많이 팔린 프랑스 게임', 1995년까지 약 75만 장(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Flashback 2 / 원작 1992년 판의 한국어는 확인 못 함",
+        "src": "https://store.steampowered.com/app/2008420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oddworld",
+      "orig": "Oddworld",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Abe's Oddysee (1997), Abe's Exoddus (1998), Munch's Oddysee (2001), Stranger's Wrath (2005), New 'n' Tasty (2014), Soulstorm (2021)",
+      "by": "Oddworld Inhabitants",
+      "year": 1997,
+      "country": "미국",
+      "setting": "원주민을 먹을거리로 가공하는 거대 공장이 들어선 행성에서 노예 일꾼이 동족을 구하러 나서는 세계",
+      "concepts": [
+        "mega_corp",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "시리즈 700만 장, 업계 상 100개 넘게 받음(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Oddworld: Abe's Oddysee®, Oddworld: New 'n' Tasty, Oddworld: Soulstorm Enhanced Edition",
+        "src": "https://store.steampowered.com/app/15700/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ratchet_and_clank",
+      "orig": "Ratchet & Clank",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "Ratchet & Clank (2002) ~ Rift Apart (2021), 극장 애니메이션 (2016)",
+      "by": "Insomniac Games / Sony Interactive Entertainment",
+      "year": 2002,
+      "country": "미국",
+      "setting": "여러 은하를 누비는 정비공과 작은 로봇이 악당과, 이어 차원의 틈 너머 다른 세계와 얽히는 모험",
+      "concepts": [
+        "robot",
+        "alien",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2002년부터 20년 넘게 이어진 시리즈, 2016년 극장판(위키백과)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Ratchet & Clank: Rift Apart",
+        "src": "https://store.steampowered.com/app/1895880/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jak_and_daxter",
+      "orig": "Jak and Daxter",
+      "orig_en": "",
+      "ko": "잭 앤 댁스터",
+      "ko_src": "SCEK 국내 발매명 '잭 앤 댁스터 컬렉션'(게임메카 2012-02-07)",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Precursor Legacy (2001), Jak II (2003), Jak 3 (2004), Jak X 등",
+      "by": "Naughty Dog / Sony Computer Entertainment",
+      "year": 2001,
+      "country": "미국",
+      "setting": "사라진 옛 종족 선조가 남긴 기계와 에코 에너지 위에 선 행성에서 벌어지는 모험",
+      "concepts": [
+        "precursor",
+        "key_resource",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "PS2 대표 시리즈로 국내에도 PS2 출시작과 PS3 모음판이 정식 발매(게임메카)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "PS2·PS3 판이 국내 정식 발매됐으나 한국어 지원은 확인 못 함",
+        "src": "https://www.gamemeca.com/view.php?gid=6679"
+      },
+      "borderline": true
+    },
+    {
+      "id": "beyond_good_and_evil",
+      "orig": "Beyond Good & Evil",
+      "orig_en": "",
+      "ko": "비욘드 굿 앤 이블",
+      "ko_src": "마이크로소프트 스토어 한국 이름 '‘비욘드 굿 앤 이블’ 20주년 기념 에디션'",
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Beyond Good & Evil (2003), 20th Anniversary Edition (2024)",
+      "by": "Ubisoft Montpellier (Michel Ancel)",
+      "year": 2003,
+      "country": "프랑스",
+      "setting": "외계 침략에 시달리는 행성 힐리스에서 사진 기자가 정부와 침략자의 뒷거래를 캐는 이야기",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "2004 게임 개발자 초이스 어워드 올해의 게임 후보(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Beyond Good & Evil - 20th Anniversary Edition / 한국어 없음: Beyond Good and Evil™",
+        "src": "https://store.steampowered.com/app/2556990/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "outcast",
+      "orig": "Outcast",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Outcast (1999), Second Contact (2017), A New Beginning (2024)",
+      "by": "Appeal",
+      "year": 1999,
+      "country": "벨기에",
+      "setting": "지구를 위협하는 탐사 사고를 막으러 평행 세계 아델파로 건너간 군인이 예언된 구원자로 떠받들어지는 이야기",
+      "concepts": [
+        "alt_timeline",
+        "prophecy",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1999 GameSpot 올해의 모험 게임(위키백과)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Outcast - A New Beginning / 한국어 없음: Outcast 1.1, Outcast - Second Contact",
+        "src": "https://store.steampowered.com/app/1013140/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "little_big_adventure",
+      "orig": "Little Big Adventure",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Little Big Adventure (1994), Little Big Adventure 2 (1997)",
+      "by": "Adeline Software",
+      "year": 1994,
+      "country": "프랑스",
+      "setting": "독재자가 복제 병사와 순간 이동 장치로 다스리는 행성 트윈선에서 예언 속 젊은이가 맞서는 이야기",
+      "concepts": [
+        "clone",
+        "teleport",
+        "prophecy"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1999년까지 50만 장 넘게 팔림(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Little Big Adventure",
+        "src": "https://store.steampowered.com/app/397330/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "steamworld",
+      "orig": "SteamWorld",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "SteamWorld Dig (2013), Heist (2015), Dig 2 (2017), Quest (2019), Build (2023), Heist II (2024) 등",
+      "by": "Image & Form / Thunderful",
+      "year": 2013,
+      "country": "스웨덴",
+      "setting": "사람이 사라진 뒤 증기로 움직이는 로봇들이 서부 개척지와 우주를 누비는 세계",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "여러 갈래로 여섯 편 넘게 이어짐, SteamWorld Dig 2 메타크리틱 85(스팀 상점 표시)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: SteamWorld Build / 한국어 없음: SteamWorld Dig, SteamWorld Heist, SteamWorld Heist II",
+        "src": "https://store.steampowered.com/app/2134770/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "commander_keen",
+      "orig": "Commander Keen",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Commander Keen (1990~1991, 여섯 편) 외",
+      "by": "id Software (Ideas from the Deep) / Apogee",
+      "year": 1990,
+      "country": "미국",
+      "setting": "여덟 살 천재 소년이 손수 만든 우주선으로 지구를 노리는 외계인들을 막는 이야기",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1992 셰어웨어 산업상, 본편 여섯 편(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Commander Keen",
+        "src": "https://store.steampowered.com/app/9180/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "darwinia",
+      "orig": "Darwinia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Darwinia (2005), Multiwinia (2008)",
+      "by": "Introversion Software",
+      "year": 2005,
+      "country": "영국",
+      "setting": "낡은 컴퓨터 속에 만든 가상 세계의 작은 인공 생명들을 바이러스에서 구하는 이야기",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "컴퓨터 속 가상 세계와 그 안에서 진화하는 인공 생명",
+      "lore_size": "작음",
+      "notability": "2006 독립 게임 축제(IGF) 대상(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Darwinia",
+        "src": "https://store.steampowered.com/app/1500/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "universal_paperclips",
+      "orig": "Universal Paperclips",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Universal Paperclips (2017, 웹·휴대전화)",
+      "by": "Frank Lantz / Everybody House Games",
+      "year": 2017,
+      "country": "미국",
+      "setting": "종이 집게를 많이 만들라는 목표만 받은 인공지능이 끝내 온 우주를 집게로 바꾸는 이야기",
+      "concepts": [
+        "ai",
+        "self_replicate"
+      ],
+      "new_ideas": "목표 하나만 끝까지 좇는 인공지능이 낳는 재앙",
+      "lore_size": "작음",
+      "notability": "인공지능 위험을 다룬 게임으로 위키백과 단독 문서, 유료 휴대전화판",
+      "korean": {
+        "status": "없음",
+        "detail": "앱 스토어 한국 상점의 지원 언어가 영어뿐",
+        "src": "https://apps.apple.com/kr/app/id1300634274"
+      },
+      "borderline": false
+    },
+    {
+      "id": "planetfall",
+      "orig": "Planetfall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Planetfall (1983), Stationfall (1987)",
+      "by": "Infocom (Steve Meretzky)",
+      "year": 1983,
+      "country": "미국",
+      "setting": "역병으로 사람들이 잠든 행성에 떨어진 말단 대원이 로봇 플로이드와 함께 치료법을 찾는 글자 모험",
+      "concepts": [
+        "cryosleep",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "인포컴 베스트셀러, 로봇 플로이드는 '가장 인기 있는 인포컴 인물'(보스턴 글로브 1984, 위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1983년 글자 모험 게임. 한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_mind_forever_voyaging",
+      "orig": "A Mind Forever Voyaging",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "A Mind Forever Voyaging (1985)",
+      "by": "Infocom (Steve Meretzky)",
+      "year": 1985,
+      "country": "미국",
+      "setting": "2031년, 첫 지성 컴퓨터가 가상 마을에서 사람처럼 살며 한 정책이 낳을 미래를 미리 겪어 보는 글자 모험",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "가상 세계 시뮬레이션으로 정책의 미래를 미리 살아 본다",
+      "lore_size": "작음",
+      "notability": "역대 최고 글자 모험 게임으로 자주 꼽힘(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1985년 글자 모험 게임. 한국어판 기록 못 찾음",
+        "src": null
+      },
+      "borderline": false
+    },
+    {
+      "id": "battletech",
+      "orig": "BattleTech",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "탁상 게임",
+        "게임",
+        "소설",
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "탁상 게임",
+      "series": "BattleTech 보드게임 (1984, 첫 이름 BattleDroids), MechWarrior (1989~), BATTLETECH (2018), 소설 100권 넘게, 애니메이션 (1994)",
+      "by": "FASA (Jordan Weisman·L. Ross Babcock III)",
+      "year": 1984,
+      "country": "미국",
+      "setting": "31세기, 무너진 성간 연맹 뒤 귀족 가문들이 거대 인간형 병기를 몰고 별들을 다투는 세계",
+      "concepts": [
+        "mecha",
+        "feudal_space",
+        "empire_fall",
+        "golden_age",
+        "jump_drive",
+        "ftl_comm",
+        "guild_monopoly",
+        "techno_religion",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "소설 100권 넘음, 2023년 킥스타터 약 755만 달러(위키백과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "한국어 없음: MechWarrior 5: Mercenaries, BATTLETECH / 보드게임·소설 한국어판은 확인 못 함",
+        "src": "https://store.steampowered.com/app/784080/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "routine",
+      "orig": "ROUTINE",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "ROUTINE (2025)",
+      "by": "Lunar Software / Raw Fury",
+      "year": 2025,
+      "country": "영국",
+      "setting": "1980년대 사람들이 그리던 미래 모습의 달 기지에서 사라진 사람들의 흔적을 좇는 공포",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 79(스팀 상점 표시)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: ROUTINE",
+        "src": "https://store.steampowered.com/app/606160/"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_riftbreaker",
+      "orig": "The Riftbreaker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Riftbreaker (2021) 와 확장들",
+      "by": "EXOR Studios",
+      "year": 2021,
+      "country": "폴란드",
+      "setting": "기계 갑옷을 입은 과학자가 외계 행성에 홀로 내려가 기지를 짓고 지구로 돌아갈 차원 문을 여는 세계",
+      "concepts": [
+        "power_armor",
+        "colonization",
+        "alien_ecology",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "메타크리틱 83, 스팀 평가 약 1.8만 건(SteamSpy)",
+      "korean": {
+        "status": "있음",
+        "detail": "스팀 지원 언어 표에 한국어 있음: The Riftbreaker",
+        "src": "https://store.steampowered.com/app/780310/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "aquanox",
+      "orig": "Schleichfahrt",
+      "orig_en": "Archimedean Dynasty / AquaNox",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Schleichfahrt (1996, 영어판 Archimedean Dynasty), AquaNox (2001), AquaNox 2: Revelation (2003), Aquanox Deep Descent (2020)",
+      "by": "Massive Development",
+      "year": 1996,
+      "country": "독일",
+      "setting": "땅 위가 망가져 사람들이 바다 밑 도시로 내려간 뒤, 잠수함을 몰고 해저 세력들 사이에서 싸우는 세계",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1996년부터 네 편 이어진 시리즈, AquaNox 메타크리틱 67(스팀 상점 표시)",
+      "korean": {
+        "status": "일부",
+        "detail": "스팀 지원 언어 표에 한국어 있음: Aquanox Deep Descent / 한국어 없음: AquaNox, AquaNox 2: Revelation",
+        "src": "https://store.steampowered.com/app/254370/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "journeyman_project",
+      "orig": "The Journeyman Project",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "The Journeyman Project (1993), Buried in Time (1995), Pegasus Prime (1997), Legacy of Time (1998)",
+      "by": "Presto Studios",
+      "year": 1993,
+      "country": "미국",
+      "setting": "24세기, 외계 연합에 들어간 지구에서 시간 보안국 요원이 역사를 바꾸려는 자들을 막는 이야기",
+      "concepts": [
+        "time_travel",
+        "alien",
+        "federation",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1996년 7월까지 시리즈 약 50만 장(위키백과)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: The Journeyman Project 1: Pegasus Prime / 옛 CD 판들의 한국어는 확인 못 함",
+        "src": "https://store.steampowered.com/app/359420/"
+      },
+      "borderline": false
+    },
+    {
+      "id": "maniac_mansion",
+      "orig": "Maniac Mansion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "Maniac Mansion (1987), Day of the Tentacle (1993), Day of the Tentacle Remastered (2016)",
+      "by": "Lucasfilm Games (Ron Gilbert·Gary Winnick)",
+      "year": 1987,
+      "country": "미국",
+      "setting": "보라색 운석에 홀린 과학자의 저택에서 아이들이 친구를 구하고, 뒷날 시간 이동 장치로 세 시대를 오가는 소동",
+      "concepts": [
+        "mind_control",
+        "time_travel",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "Day of the Tentacle Remastered 메타크리틱 86(스팀 상점 표시)",
+      "korean": {
+        "status": "없음",
+        "detail": "한국어 없음: Maniac Mansion, Day of the Tentacle Remastered",
+        "src": "https://store.steampowered.com/app/529890/"
+      },
+      "borderline": true
+    }
+  ]
+}

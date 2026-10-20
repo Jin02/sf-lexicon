@@ -1,0 +1,1816 @@
+{
+  "terms": [
+    {
+      "id": "terran",
+      "ko": "테란",
+      "orig": "Terran",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · UI/Race/Terran (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "지구에서 쫓겨난 이주민의 후손인 인류",
+      "note": "수백 년 전 지구를 떠난 식민 원정대가 코프룰루 구역에 닿아 퍼진 인류다. 다른 두 종족보다 기술도 몸도 뒤지지만, 손에 닿는 것을 끌어모아 고쳐 쓰는 끈질긴 생존력으로 버틴다. 여러 나라로 갈려 서로 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/"
+      ]
+    },
+    {
+      "id": "zerg",
+      "ko": "저그",
+      "orig": "Zerg",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · UI/Race/Zerg (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘저그’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind",
+        "living_machine",
+        "assimilation"
+      ],
+      "one": "하나의 뜻 아래 움직이며 다른 종을 삼키는 생명체",
+      "note": "여러 종을 감염시키고 그 형질을 빨아들여 제 몸으로 삼으며 불어나는 생명체다. 무기도 배도 건물도 기계로 짓지 않고 몸을 바꾸어 길러 낸다. 하나하나는 약하지만 끝없이 몰려들고, 위에 선 하나의 정신이 전체를 부린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://web.archive.org/web/20100801104852/http://kr.battle.net/sc2/ko/game/race/zerg/"
+      ]
+    },
+    {
+      "id": "protoss",
+      "ko": "프로토스",
+      "orig": "Protoss",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · UI/Race/Protoss (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "강한 사이오닉 힘과 앞선 기술을 지닌 옛 종족",
+      "note": "고향 아이어에서 오랜 세월 높은 문명을 이어 온 종족이다. 말 대신 정신으로 뜻을 나누고, 칼라라는 정신의 연결 위에 사회를 세웠다. 수가 적어서 전사 하나하나를 보호막과 기계로 감싸 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "xel_naga",
+      "ko": "젤나가",
+      "orig": "Xel'Naga",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Portrait_BlizzCon_2015_XelNaga, Skin/Info/Gateway (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 8장 「자유의 날개: 2부」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘아이어’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor",
+        "uplift"
+      ],
+      "one": "프로토스와 저그를 빚어낸 아득히 오래된 존재",
+      "note": "먼 옛날 프로토스와 저그를 만들어 낸 뒤 자취를 감춘 고대 종족이다. 곳곳에 사원과 유물, 소환 기술을 남겼고, 지금의 종족들은 그 원리를 다 알지 못한 채 쓴다. 이들이 남긴 유물과 예언이 삼부작의 이야기를 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901062359/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter8",
+        "https://web.archive.org/web/20101102185541/http://kr.battle.net/sc2/ko/game/planet/aiur"
+      ]
+    },
+    {
+      "id": "hybrid",
+      "ko": "혼종",
+      "orig": "Hybrid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Category/HybridUnits (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 6장 「브루드 워: 칼날 여왕」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "프로토스와 저그를 섞어 만든 생명체",
+      "note": "두 종족의 유전자를 합쳐 기른 괴물로, 프로토스의 사이오닉 힘과 저그의 몸을 함께 지녀 쉽게 꺾이지 않는다. 『브루드 워』 끝에 처음 모습을 드러내고, 누가 무엇을 위해 이것을 기르는가가 삼부작 내내 수수께끼로 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901054826/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter6"
+      ]
+    },
+    {
+      "id": "amon",
+      "ko": "아몬",
+      "orig": "Amon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novacampaign.sc2mod gamestrings.txt · Character/Name/Amon (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 11장 「군단의 심장: 2부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike",
+        "galactic_threat"
+      ],
+      "one": "모든 생명을 끝내려는 타락한 젤나가",
+      "note": "제 동족을 등진 젤나가로, 프로토스와 저그를 제 뜻대로 부려 모든 생명을 쓸어 내려 한다. 오래전부터 혼종을 기르고 여러 세력 뒤에서 일을 꾸며 왔으며, 『공허의 유산』에서 세 종족이 함께 맞서는 마지막 적이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20180829144634/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter11"
+      ]
+    },
+    {
+      "id": "overmind",
+      "ko": "초월체",
+      "orig": "Overmind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00021 · liberty.sc2mod gamestrings.txt · Reward/Name/QuickMatch_Team_Zerg_1000_Portrait (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘저그’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "저그 전체를 하나의 뜻으로 부리던 거대한 정신",
+      "note": "저그 군단의 모든 생명체에게 명령을 내리던 집단 지성체다. 그 아래의 정신체들을 거쳐 수많은 무리를 한 몸처럼 움직였다. 프로토스를 삼켜 그 형질로 군단을 완성하려 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801104852/http://kr.battle.net/sc2/ko/game/race/zerg/"
+      ]
+    },
+    {
+      "id": "cerebrate",
+      "ko": "정신체",
+      "orig": "Cerebrate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00021 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 3장 「추락」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "초월체 아래에서 저그 무리 하나를 이끄는 정신",
+      "note": "초월체의 뜻을 받아 저마다 한 무리를 지휘하던 하위 지성체다. 정신체가 쓰러지면 그 무리는 흐트러져 날뛴다. 보통의 무기로 죽여도 되살아나서, 암흑 기사가 다루는 공허의 힘으로만 완전히 없앨 수 있었다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2",
+        "https://web.archive.org/web/20130831100714/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter3"
+      ]
+    },
+    {
+      "id": "primal_zerg",
+      "ko": "원시 저그",
+      "orig": "Primal zerg",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Button/Tooltip/CommanderTraitDehakaPrimalCombat (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "군단 밖, 고향 제루스에 남은 야생의 저그",
+      "note": "초월체의 뜻에 묶이지 않고 제루스의 밀림에서 서로 싸우며 살아온 저그다. 다른 생물을 잡아먹고 그 정수로 제 몸을 바꾸어 가며, 무리마다 우두머리가 이끈다. 『군단의 심장』에서 처음 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10"
+      ]
+    },
+    {
+      "id": "infested_terran",
+      "ko": "감염된 테란",
+      "orig": "Infested terran",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/InfestorTerran · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00016 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 11장 「군단의 심장: 2부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "parasite",
+        "assimilation"
+      ],
+      "one": "저그에게 감염되어 군단에 묶인 사람",
+      "note": "저그의 감염으로 몸과 마음이 바뀌어 군단의 일부가 된 사람들이다. 감염된 사람이 넘쳐 나는 식민지는 프로토스가 통째로 불태우려 했고, 이것이 세 종족이 처음 부딪친 전쟁의 불씨가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20180829144634/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter11"
+      ]
+    },
+    {
+      "id": "leviathan",
+      "ko": "거대괴수",
+      "orig": "Leviathan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Button/Tooltip/CommanderTraitAbathurBiomass (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 『군단의 심장』 캠페인 ‘진화 구덩이’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "우주를 나는 저그의 거대한 생체 요새",
+      "note": "별 사이를 스스로 날아다니는 거대한 저그 생물로, 안에 병력과 지휘부를 싣고 다닌다. 『군단의 심장』에서 군단을 이끄는 본거지이자 기함 노릇을 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130316162518/http://kr.battle.net/sc2/ko/game/heart-of-the-swarm-campaign/evolution-pit",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10"
+      ]
+    },
+    {
+      "id": "broodmother",
+      "ko": "무리어미",
+      "orig": "Broodmother",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Button/Name/CommanderZagaraMasterSpawner, Skin/Info/HatcheryRemastered (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "저그 무리 하나를 맡아 이끄는 여왕",
+      "note": "칼날 여왕 아래에서 저마다 한 무리를 맡아 기르고 지휘하는 저그다. 위에서 이끄는 이가 자리를 비우면, 무리어미들은 서로 군단의 주도권을 두고 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10"
+      ]
+    },
+    {
+      "id": "purifier",
+      "ko": "정화자",
+      "orig": "Purifiers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/AdeptPurifier, Skin/Info/MothershipPurifier · starcoop.sc2mod conversationstrings.txt · Conversation/acObj/Line02055 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "위대한 전사의 인격을 옮겨 담은 기계 전사",
+      "note": "프로토스가 이름난 옛 전사들의 정신을 본떠 기계 몸에 담아 만든 전사들이다. 오래 봉인되어 있다가 『공허의 유산』에서 다시 깨어나 함께 싸운다. 스스로를 기사단과 대등한 프로토스로 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "dragoon",
+      "ko": "용기병",
+      "orig": "Dragoon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/DragoonACGluescreenDummy · novacampaign.sc2mod gamestrings.txt · Character/Name/Dragoon (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 3장 「추락」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "쓰러진 전사를 담아 다시 싸우게 하는 걷는 기계",
+      "note": "전장에서 몸을 크게 다친 프로토스 전사가 네 다리로 걷는 전쟁 기계 안에 들어가 계속 싸우는 것이다. 몸은 기계에 맡기지만 안의 전사는 그대로여서, 쓰러진 영웅이 이 모습으로 돌아오기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831100714/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter3"
+      ]
+    },
+    {
+      "id": "zealot",
+      "ko": "광전사",
+      "orig": "Zealot",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/Zealot, Skin/Info/Zealot (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 9장 「자유의 날개: 3부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "사이오닉 칼날로 맞붙어 싸우는 프로토스 전사",
+      "note": "수십 년을 수련한 프로토스의 근접 전사로, 제 사이오닉 에너지로 만든 칼날을 손목에서 뽑아 적과 맞붙는다. 멀리서 쏘는 무기가 넘치는 전장에서도 칼싸움이 프로토스 싸움의 한가운데에 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901051651/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter9"
+      ]
+    },
+    {
+      "id": "archon",
+      "ko": "집정관",
+      "orig": "Archon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Character/Name/Archon, Skin/Info/Archon · core.sc2mod gamestrings.txt · UI/TechTreeMergedFromTemplar (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "merge"
+      ],
+      "one": "두 기사가 하나로 녹아 태어나는 정신 에너지 존재",
+      "note": "고위 기사 둘이 제 몸을 버리고 정신을 합쳐 만들어지는, 사이오닉 에너지 덩어리다. 압도적인 힘을 내지만, 그렇게 하나가 된 두 전사는 스스로를 바친 것이라 원래대로 돌아오지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "dark_archon",
+      "ko": "암흑 집정관",
+      "orig": "Dark Archon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novacampaign.sc2mod gamestrings.txt · Character/Name/DarkArchon · liberty.sc2mod gamestrings.txt · Button/Tooltip/CommanderVorazunUnlockDarkArchon (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "merge",
+        "mind_control"
+      ],
+      "one": "암흑 기사 둘이 합쳐 생기는, 남의 정신을 빼앗는 존재",
+      "note": "암흑 기사 둘이 하나로 합쳐 태어난다. 직접 치기보다 상대의 정신을 흐트러뜨리고, 정신 제어로 적의 유닛을 통째로 제 편으로 만든다. 『브루드 워』에서 처음 나왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "swarm",
+      "ko": "군단",
+      "orig": "Swarm (Zerg Swarm)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · Conversation/zPrerender_ZI/Line00001 · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00020 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘저그’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "하나의 뜻으로 묶인 저그 전체",
+      "note": "여러 저그 무리가 한 지도자의 뜻 아래 모인 것을 이른다. 처음에는 초월체가, 뒤에는 칼날 여왕이 그 꼭대기에 섰다. 위에서 묶는 정신이 사라지면 무리들은 갈라져 서로 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20100801104852/http://kr.battle.net/sc2/ko/game/race/zerg/"
+      ]
+    },
+    {
+      "id": "brood",
+      "ko": "무리",
+      "orig": "Brood",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/AICommunication/Line00080 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "군단을 이루는 저그 집단 하나하나",
+      "note": "저그 군단은 여러 무리로 나뉘고, 무리마다 정신체나 무리어미 같은 지휘자가 있다. 무리마다 생김새와 싸우는 방식이 조금씩 다르고, 지휘자를 잃은 무리는 제멋대로 날뛴다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10"
+      ]
+    },
+    {
+      "id": "terran_confederacy",
+      "ko": "테란 연합",
+      "orig": "Confederacy of Man (Terran Confederacy)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novacampaign.sc2mod gamestrings.txt · UI/NovaStory/MissionBriefing04/SunsetPalmsHotel/Description (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘코랄’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘모리아’ 쪽(웨이백 보관본)",
+      "alt_ko": [
+        {
+          "ko": "연합",
+          "src": "짧게 부를 때 — 스타크래프트 II 게임 한국어 문자열 novacampaign.sc2mod gamestrings.txt · UI/NovaStory/MissionBriefing03/MapFlavorText (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "타소니스를 중심으로 한 옛 테란 정부",
+      "note": "처음 정착한 행성 가운데 가장 앞섰던 타소니스가 주변 식민지를 힘으로 묶어 세운 정부다. 몇몇 오래된 가문이 권력을 쥐고 흔들었으며, 안팎의 반란과 저그의 침공 속에 무너졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20110202022732/http://kr.battle.net/sc2/ko/game/planet/korhal",
+        "https://web.archive.org/web/20140904083053/http://kr.battle.net/sc2/ko/game/planet/moria",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1"
+      ]
+    },
+    {
+      "id": "terran_dominion",
+      "ko": "테란 자치령",
+      "orig": "Terran Dominion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Decal_Terran_0007_01 (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "황제가 다스리는 테란 최대의 나라",
+      "note": "옛 연합이 무너진 자리에 세워진 나라로, 황제가 군대와 선전을 쥐고 다스린다. 수도는 코랄이다. 삼부작 내내 반란군과 다른 종족에 맞서는 인류의 가장 큰 세력으로 남는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://starcraft.blizzard.com/ko-kr",
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/"
+      ]
+    },
+    {
+      "id": "umojan_protectorate",
+      "ko": "우모자 보호령",
+      "orig": "Umojan Protectorate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/BansheeUmojan (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘우모자’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우모자 행성을 중심으로 한 테란 나라",
+      "note": "첫 이주민 일부가 불시착한 우모자 행성에서 자라난 테란 세력이다. 비교적 공정한 의회 정치를 하고 행성의 자연을 아끼며, 자치령과 거리를 둔 채 제 길을 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/",
+        "https://web.archive.org/web/20110202022736/http://kr.battle.net/sc2/ko/game/planet/umoja"
+      ]
+    },
+    {
+      "id": "kel_morian_combine",
+      "ko": "켈모리안 조합",
+      "orig": "Kel-Morian Combine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/RavenCovertOps (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘모리아’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "광산 조합들이 모여 이룬 테란 세력",
+      "note": "광물이 풍부한 모리아의 채굴 조합들이 힘을 합쳐 만든 세력으로, 광산과 운송을 쥐고 사실상 나라 노릇을 한다. 연합과 오래 맞서 싸웠고, 거친 광부와 용병이 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/",
+        "https://web.archive.org/web/20140904083053/http://kr.battle.net/sc2/ko/game/planet/moria",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "sons_of_korhal",
+      "ko": "코랄의 후예",
+      "orig": "Sons of Korhal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "연합을 무너뜨린 테란 반란군",
+      "note": "연합의 핵 공격으로 잿더미가 된 코랄 출신들이 연합에 맞서 일으킨 무장 반란 세력이다. 연합을 무너뜨린 뒤 그 자리에 자치령을 세우는 바탕이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2"
+      ]
+    },
+    {
+      "id": "raynors_raiders",
+      "ko": "레이너 특공대",
+      "orig": "Raynor's Raiders",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Decal_Terran_0001_01 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 7장 「자유의 날개: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "자치령의 독재에 맞서 싸우는 반란군",
+      "note": "코랄의 후예에서 갈라져 나온 사람들이 꾸린 무장 세력으로, 빼앗은 전투순양함 히페리온을 본거지로 삼는다. 『자유의 날개』에서 플레이어가 이끄는 세력이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2",
+        "https://web.archive.org/web/20130901070557/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter7"
+      ]
+    },
+    {
+      "id": "ued",
+      "ko": "지구 집정 연합",
+      "orig": "United Earth Directorate (UED)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 5장 「브루드 워: 철권 통치」(웨이백 보관본)",
+      "alt_ko": [
+        {
+          "ko": "UED",
+          "src": "줄인 이름 — 스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Liberator (게임 파일 사본, 작품 소개 ko_sources 참고)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "코프룰루 구역을 굴복시키러 온 지구의 군대",
+      "note": "지구의 정부가 보낸 원정 함대로, 떨어져 나간 식민지의 테란을 다시 지구 아래 묶으려 한다. 『브루드 워』에서 강한 함대로 구역을 휩쓸며 모든 세력을 위협한다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831092740/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter5",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "moebius_foundation",
+      "ko": "뫼비우스 재단",
+      "orig": "Moebius Foundation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novastoryassets.sc2mod conversationstrings.txt · Conversation/SMX3_Cutscene_MP03_010/Line00013 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 7장 「자유의 날개: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "외계 유물을 사들여 연구하는 테란 재단",
+      "note": "옛 유물과 외계 기술을 비싼 값에 사들여 연구하는 단체다. 『자유의 날개』에서 레이너 특공대의 큰 고객이 되고, 그 뒤로도 위험한 연구의 뒤편에 자주 이름이 오른다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130901070557/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter7",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "defenders_of_man",
+      "ko": "인류의 수호자",
+      "orig": "Defenders of Man",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Decal_NovaPack1_Terran (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "자치령에 맞서 일어난 테란 무장 세력",
+      "note": "자치령에 맞서 인류를 지킨다는 명분을 내건 무장 세력이다. 『노바 비밀 작전』에서 유령 요원 노바가 뒤쫓는 상대다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "khalai",
+      "ko": "칼라이",
+      "orig": "Khalai",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Decal_HOTS_CE_KhalaiCaste_Protoss, Skin/Info/DarkShrine (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "칼라를 따르는 프로토스, 또는 그 기술자 계급",
+      "note": "칼라로 이어진 아이어의 프로토스를 통틀어 이르는 말이며, 그 안에서 일꾼과 기술자를 맡은 계급의 이름이기도 하다. 칼라를 거부한 네라짐과 구별할 때 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "templar",
+      "ko": "기사단",
+      "orig": "Templar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00024 · novacampaign.sc2mod gamestrings.txt · Character/Name/Templar (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 3장 「추락」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "프로토스의 전사 계급",
+      "note": "사이오닉 힘을 수련해 싸움에 나서는 프로토스 전사들의 계급으로, 광전사와 고위 기사가 여기에 든다. 칼라를 따르는 쪽을 기사단, 칼라를 버린 쪽을 암흑 기사단이라 불러 가른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831100714/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter3"
+      ]
+    },
+    {
+      "id": "nerazim",
+      "ko": "네라짐",
+      "orig": "Nerazim (Dark Templar)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · ConsoleSkin/Name/ConsoleProtoss_Nerazim (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본)",
+      "alt_ko": [
+        {
+          "ko": "암흑 기사단",
+          "src": "같은 무리를 이르는 다른 이름(Dark Templar) — 스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00017 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "칼라를 거부하고 떠난 프로토스",
+      "note": "칼라에 이어지기를 거부해 아이어에서 쫓겨난 프로토스의 후손이다. 어둑한 행성 샤쿠라스에 자리 잡았고, 공허의 힘을 다루며 모습을 감춘 채 싸운다. 오랫동안 이단으로 낙인찍혔다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2",
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "taldarim",
+      "ko": "탈다림",
+      "orig": "Tal'darim",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · DecalPack/Name/WarChestSeason4_Protoss, Skin/Info/HighTemplarTaldarim (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 7장 「자유의 날개: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "techno_religion"
+      ],
+      "one": "유물을 섬기는 극단적인 프로토스 무리",
+      "note": "칼라이와도 네라짐과도 다른 길을 걷는 프로토스로, 젤나가 유물을 신성하게 지키며 섬긴다. 테라진을 들이마셔 힘을 키우고, 결투로 서열을 오르는 승천의 사슬을 따른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901070557/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter7"
+      ]
+    },
+    {
+      "id": "daelaam",
+      "ko": "댈람",
+      "orig": "Daelaam",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · VoiceOver/VorazunA/GGWin01 · liberty.sc2mod gamestrings.txt · Skin/Info/Pylon (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "다시 하나로 뭉친 프로토스",
+      "note": "아이어를 잃은 뒤 칼라이와 네라짐이 손을 잡고 이룬 프로토스의 새 공동체다. 신관이 이끌며, 갈라져 있던 프로토스의 여러 갈래를 한데 모은다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "conclave",
+      "ko": "대의회",
+      "orig": "Conclave",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00015 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "아이어의 프로토스를 다스리던 의회",
+      "note": "심판관 계급이 꾸린 프로토스의 통치 기구다. 오랜 전통을 지키는 데 매달려 칼라를 버린 이들을 이단으로 몰았고, 저그가 밀려드는 때에도 좀처럼 생각을 바꾸지 않았다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2"
+      ]
+    },
+    {
+      "id": "golden_armada",
+      "ko": "황금 함대",
+      "orig": "Golden Armada",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Mothership, Skin/Info/Tempest (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "프로토스의 주력 함대",
+      "note": "모선을 기함으로 삼는 프로토스의 대함대로, 우주모함과 폭풍함 같은 거대한 전함들로 이루어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "executor",
+      "ko": "집행관",
+      "orig": "Executor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00015 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 3장 「추락」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "프로토스 군대를 이끄는 사령관 직위",
+      "note": "대의회가 앉히는 프로토스의 최고 군사 지휘관이다. 대의회의 뜻에 따라 함대와 전사를 이끌고, 그 뜻을 어기면 자리에서 물러나게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831100714/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter3"
+      ]
+    },
+    {
+      "id": "hierarch",
+      "ko": "신관",
+      "orig": "Hierarch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00036, Conversation/Cutscene_SSF/Line00103 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "갈라진 프로토스를 함께 이끄는 최고 지도자",
+      "note": "기사단과 암흑 기사단을 함께 다스리는 프로토스의 가장 높은 자리다. 아이어를 잃은 뒤 다시 뭉친 프로토스를 이끄는 이가 이 이름으로 불린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "judicator",
+      "ko": "심판관",
+      "orig": "Judicator",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · SkinPack/Name/ZealotJudicatorSkinPack (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "프로토스 사회를 다스리는 지배 계급",
+      "note": "칼라이 프로토스의 계급 가운데 하나로, 법과 정치를 맡아 대의회를 이룬다. 전통과 질서를 무엇보다 앞세운다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "matriarch",
+      "ko": "대모",
+      "orig": "Matriarch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Portrait_BlizzCon_2014_Vorazun (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "여족장",
+          "src": "옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘지난 이야기’ 3쪽(웨이백 보관본)"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "네라짐을 이끄는 영적 지도자",
+      "note": "샤쿠라스의 네라짐을 이끄는 지도자의 칭호다. 어머니에게서 딸로 이어지기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4",
+        "https://web.archive.org/web/20170610062049/http://kr.battle.net/sc2/ko/game/lore/story-so-far/3"
+      ]
+    },
+    {
+      "id": "preserver",
+      "ko": "계승자",
+      "orig": "Preserver",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 swarm.sc2mod gamestrings.txt · Abil/Name/HotSPreserverLineSplash (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 8장 「자유의 날개: 2부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "ancestral_memory"
+      ],
+      "one": "프로토스 조상 대대의 기억을 지닌 사람",
+      "note": "프로토스 조상들의 기억을 제 안에 고스란히 지니고 역사를 기록하고 풀이하는 이들이다. 옛 예언이나 잊힌 지식을 알아야 할 때 이들을 찾아간다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130901062359/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter8",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/swarm.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/swarm.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "chain_of_ascension",
+      "ko": "승천의 사슬",
+      "orig": "Chain of Ascension",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/HighTemplarTaldarim, Character/Description/TDChampion · novastoryassets.sc2mod conversationstrings.txt · Conversation/Mission_Nova05/Line00191 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "결투로 오르내리는 탈다림의 서열",
+      "note": "탈다림 사회는 이 서열에 따라 움직인다. 윗자리에 있는 이에게 목숨을 건 결투인 라크쉬르를 걸어 이기면 그 자리를 빼앗고, 맨 꼭대기에는 군주가 앉는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "ghost",
+      "ko": "유령",
+      "orig": "Ghost",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Ghost, Button/Name/GhostAcademy · liberty.sc2mod conversationstrings.txt · Conversation/GhostFemale/Line00039 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier",
+        "memory_edit"
+      ],
+      "one": "사이오닉 힘을 길러 만든 테란의 비밀 요원",
+      "note": "타고난 사이오닉 잠재력을 가진 사람을 골라 유령 사관학교에서 길러 낸 잠입·암살 요원이다. 모습을 감추고 적진에 들어가 핵 공격을 이끈다. 정부는 이들의 기억을 지워 가며 부린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1"
+      ]
+    },
+    {
+      "id": "spectre",
+      "ko": "악령",
+      "orig": "Spectre",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novacampaign.sc2mod gamestrings.txt · Character/Name/Spectre · starcoop.sc2mod conversationstrings.txt · VoiceOver/Tychus/SpectreReady00 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "테라진으로 힘을 끌어올린 유령",
+      "note": "테라진을 몸에 들여 사이오닉 힘을 크게 키운 요원들이다. 보통의 유령보다 강하지만, 그 대가로 정신이 흔들리기 쉽다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "resocialization",
+      "ko": "재사회화",
+      "orig": "Neural resocialization",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Reaper, Skin/Info/Marine (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control",
+        "memory_edit"
+      ],
+      "one": "죄수의 머리를 고쳐 순한 병사로 만드는 처치",
+      "note": "죄수나 반역자의 기억과 성격을 손봐 순순히 싸우는 병사로 바꾸는 테란의 처치다. 해병 가운데 많은 수가 이렇게 만들어지며, 처치가 듣지 않는 이들은 따로 사신 부대로 돌린다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "marine",
+      "ko": "해병",
+      "orig": "Marine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/Marine, Skin/Info/Marine (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "테란 군대의 기본 보병",
+      "note": "강화 전투복을 입고 총을 든 테란의 보병이다. 재소자부터 애국자까지 온갖 사람이 섞여 있고, 어느 테란 행성에서나 첫 방어선을 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/"
+      ]
+    },
+    {
+      "id": "khala",
+      "ko": "칼라",
+      "orig": "Khala",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/AICommunication/Line00190 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘아이어’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "프로토스를 하나로 잇는 정신의 연결",
+      "note": "프로토스는 이 정신의 연결로 생각과 감정을 서로 나누고, 그 위에 신앙이자 사회 질서를 세웠다. 각자는 따로 있으되 마음이 이어져 있다. 이 연결을 거부한 이들은 이단으로 몰려 쫓겨났다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1",
+        "https://web.archive.org/web/20101102185541/http://kr.battle.net/sc2/ko/game/planet/aiur",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2"
+      ]
+    },
+    {
+      "id": "psionics",
+      "ko": "사이오닉",
+      "orig": "Psionics (psionic power)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · e_unitAttributePsionic (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "정신에서 나오는 힘",
+      "note": "생각만으로 남의 마음을 읽고 물건을 움직이고 에너지를 일으키는 힘이다. 프로토스는 종족 전체가 이 힘에 강하고, 테란 가운데 드물게 이 힘을 타고난 이들은 유령으로 길러진다. 저그도 이 힘으로 명령을 주고받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "void",
+      "ko": "공허",
+      "orig": "the Void",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Carrier_AmonBrood_Collection · core.sc2mod gamestrings.txt · UI/CreditsScreen/LegacyoftheVoidButton (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 3장 「추락」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "보통 우주 너머의 어둠의 차원과 그 힘",
+      "note": "네라짐이 끌어 쓰는 어둠의 에너지가 흘러나오는 곳이다. 이 힘은 칼라의 힘과 성질이 달라서, 칼라의 힘으로는 끝낼 수 없는 것을 끝내기도 한다. 『공허의 유산』이라는 이름도 여기서 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831100714/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter3",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "psionic_storm",
+      "ko": "사이오닉 폭풍",
+      "orig": "Psionic storm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Behavior/Name/PsiStorm (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "고위 기사가 일으키는 정신 에너지의 폭풍",
+      "note": "고위 기사가 사이오닉 힘을 한곳에 모아 터뜨리는 번개 폭풍으로, 그 안에 든 것을 가리지 않고 태운다. 프로토스 정신 능력의 대표적인 쓰임이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "essence",
+      "ko": "정수",
+      "orig": "Essence",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Button/Name/CommanderDehakaBaseTrait, Button/Tooltip/CommanderTraitDehakaPrimalCombat (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "genetic_eng",
+        "assimilation"
+      ],
+      "one": "저그가 빨아들여 진화에 쓰는 생명의 정보",
+      "note": "저그는 다른 생물을 잡아먹거나 감염시켜 그 유전 정보를 빨아들이고, 이를 제 몸에 섞어 새 모습으로 진화한다. 원시 저그는 서로의 정수를 차지하려고 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10"
+      ]
+    },
+    {
+      "id": "infestation",
+      "ko": "감염",
+      "orig": "Infestation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Challenge/ZergInfestation/Name (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘저그’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "parasite",
+        "assimilation"
+      ],
+      "one": "다른 생명을 저그의 일부로 바꾸는 일",
+      "note": "저그는 다른 종의 몸에 파고들어 그 생명을 군단의 뜻에 따르는 존재로 바꾼다. 사람과 건물과 행성까지 감염시키며, 이렇게 붙잡은 종의 형질로 군단을 키운다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801104852/http://kr.battle.net/sc2/ko/game/race/zerg/"
+      ]
+    },
+    {
+      "id": "creep",
+      "ko": "점막",
+      "orig": "Creep",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod objectstrings.txt · PhysicsMaterial/Name/Creep (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘저그’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "저그 기지 둘레로 퍼지는 살아 있는 막",
+      "note": "저그 건물에서 흘러나와 땅을 뒤덮는 생체 물질로, 저그에게 양분을 주고 움직임을 돕는다. 저그 건물은 이 위에서만 자랄 수 있어서, 점막이 넓어질수록 그 땅은 저그의 것이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20100801104852/http://kr.battle.net/sc2/ko/game/race/zerg/"
+      ]
+    },
+    {
+      "id": "purification",
+      "ko": "정화",
+      "orig": "Purification (purging)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00003 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 2장 「초월체」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "감염된 행성을 통째로 불태우는 프로토스의 공격",
+      "note": "저그가 퍼진 행성을 함대의 불길로 표면째 태워, 저그와 함께 그 땅의 모든 생명을 없애는 것이다. 테란 식민지가 이렇게 불타면서 인류는 처음으로 프로토스와 마주했다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1",
+        "https://web.archive.org/web/20130831092736/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter2"
+      ]
+    },
+    {
+      "id": "prophecy",
+      "ko": "예언",
+      "orig": "the Prophecy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00080 · liberty.sc2mod gamestrings.txt · Conversation/CINEMATIC_OLDRIVALS/Line00023 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 8장 「자유의 날개: 2부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "prophecy"
+      ],
+      "one": "젤나가와 얽힌, 다가올 멸망을 알리는 예언",
+      "note": "젤나가와 얽힌 옛 예언으로, 다가올 큰 어둠과 그것을 막을 열쇠가 될 존재를 말한다. 이 예언의 뜻을 좇는 일이 『자유의 날개』부터 『공허의 유산』까지 이야기를 이끈다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901062359/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter8"
+      ]
+    },
+    {
+      "id": "warp_gate",
+      "ko": "차원 관문",
+      "orig": "Warp gate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/WarpGate, Skin/Info/Gateway (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 5장 「브루드 워: 철권 통치」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "먼 곳의 전사를 순식간에 불러오는 관문",
+      "note": "젤나가의 옛 소환 기술을 풀어내 고친 프로토스의 관문으로, 사이오닉 에너지가 닿는 곳이면 어디든 전사를 곧바로 내려보낸다. 『브루드 워』에서는 아이어에서 샤쿠라스로 건너가는 옛 관문을 이르기도 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831092740/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter5"
+      ]
+    },
+    {
+      "id": "warp",
+      "ko": "소환",
+      "orig": "Warp-in (warp technology)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · e_cmdCantWarpInUnitsThere · liberty.sc2mod conversationstrings.txt · Conversation/Genericphrases/Line00048 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "병력과 건물을 먼 곳에서 옮겨 오는 프로토스 기술",
+      "note": "프로토스는 전장에서 건물을 짓거나 병사를 기르지 않고, 다른 곳에 있는 것을 이 기술로 옮겨 온다. 수정탑이나 차원 분광기가 펼친 사이오닉 에너지 안이라면 거의 어디로든 불러올 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "pylon",
+      "ko": "수정탑",
+      "orig": "Pylon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/Pylon, Skin/Info/Pylon, Skin/Info/FleetBeacon (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사이오닉 에너지를 퍼뜨리는 프로토스의 탑",
+      "note": "안에 든 케이다린 수정으로 둘레에 사이오닉 에너지의 장을 펼친다(게임에서는 사이오닉 분광장이라 부른다). 프로토스 건물은 이 에너지가 있어야 돌아가고, 병력도 그 안으로 불러올 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "plasma_shield",
+      "ko": "보호막",
+      "orig": "Plasma shields",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · e_gameUIStringShields (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "에너지 보호막",
+          "src": "옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘프로토스’ 쪽(웨이백 보관본)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "프로토스의 몸과 건물을 두르는 에너지 막",
+      "note": "모든 프로토스 유닛과 건물이 두르는 보이지 않는 막으로, 공격을 먼저 받아 낸다. 일정한 피해를 넘으면 꺼지지만 시간이 지나면 저절로 다시 차오른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20100801102714/http://kr.battle.net/sc2/ko/game/race/protoss/"
+      ]
+    },
+    {
+      "id": "khaydarin_crystal",
+      "ko": "케이다린 수정",
+      "orig": "Khaydarin crystal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Pylon · void.sc2mod gamestrings.txt · Button/Tooltip/MothershipCoreWeapon (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본)",
+      "alt_ko": [
+        {
+          "ko": "카이다린 수정",
+          "src": "한 곳에서만 쓰인 표기 — 스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/NexusForged (게임 파일 사본, 작품 소개 ko_sources 참고)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사이오닉 힘을 모으고 키우는 프로토스의 수정",
+      "note": "사이오닉 에너지를 모으고 키우는 성질이 있어 프로토스 기술 곳곳에 박혀 있다. 수정탑과 연결체의 힘도 여기서 나오고, 젤나가 사원에 잠든 힘을 깨우는 열쇠로도 쓰였다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4"
+      ]
+    },
+    {
+      "id": "cloak",
+      "ko": "은폐",
+      "orig": "Cloaking",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Behavior/Name/GhostCloak, Button/Tooltip/CloakOnBanshee, Button/Name/CloakingField (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "유닛을 눈과 탐지에서 숨기는 기술",
+      "note": "유령과 일부 비행정은 에너지를 써서 제 모습을 감추고, 중재자나 모선 같은 프로토스 함선은 둘레의 아군까지 숨기는 은폐장을 펼친다. 숨은 유닛은 탐지기로만 찾아낼 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "psi_emitter",
+      "ko": "사이오닉 방출기",
+      "orig": "Psi emitter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Button/Tooltip/CommanderTraitStukovPsiEmitter · novastoryassets.sc2mod conversationstrings.txt · Conversation/SMX3_Cutscene_MP03_010/Line00013 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "저그를 끌어들이는 사이오닉 신호 장치",
+      "note": "사이오닉 신호를 내보내 저그를 그 자리로 불러 모으는 장치다. 연합이 만들었으나, 원하는 곳에 저그를 풀어 놓는 무기로 쓰이면서 큰 재앙을 불렀다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "psi_disrupter",
+      "ko": "사이오닉 분열기",
+      "orig": "Psi disrupter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 5장 「브루드 워: 철권 통치」(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 6장 「브루드 워: 칼날 여왕」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "저그의 정신 신호를 끊어 놓는 장치",
+      "note": "저그가 사이오닉 신호로 주고받는 명령을 흩뜨려 무리를 혼란에 빠뜨리는 장치다. 『브루드 워』에서 지구 집정 연합이 이것으로 저그를 크게 흔든다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831092740/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter5",
+        "https://web.archive.org/web/20130901054826/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter6"
+      ]
+    },
+    {
+      "id": "adjutant",
+      "ko": "부관",
+      "orig": "Adjutant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Conversation/Speaker/Adjutant (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 7장 「자유의 날개: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "테란 지휘관 곁의 인공지능 보좌관",
+      "note": "자료를 보관하고 교신을 맡는 테란의 인공지능이다. 전장 상황을 알려 주는 목소리로 늘 곁에 있으며, 옛 부관에 남은 기록이 큰 사건의 증거가 되기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901070557/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter7"
+      ]
+    },
+    {
+      "id": "combat_suit",
+      "ko": "전투복",
+      "orig": "CMC powered combat suit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Conversation/CINEMATIC_BETTERMARINE/Line00013, Skin/Info/MarauderDeluxe (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "테란 보병이 입는 강화 갑옷",
+      "note": "해병 같은 테란 보병이 입는 동력 갑옷으로, 입은 사람의 힘과 방어력을 크게 늘린다. 몸에 맞춰 봉인해 입으며, 더 무거운 것은 중장갑 전투복이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "thor",
+      "ko": "토르",
+      "orig": "Thor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Unit/Name/Thor, Skin/Info/Thor (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "조종사가 타는 테란의 거대한 보행 병기",
+      "note": "사람이 안에 타고 조종하는, 두 다리로 걷는 거대한 전투 기계다. 엄청난 화력으로 적 부대 하나를 홀로 상대할 만큼 강하다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "tactical_jump",
+      "ko": "전술 차원 도약",
+      "orig": "Tactical Jump (warp jump)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 void.sc2mod gamestrings.txt · Abil/Name/Hyperjump, Button/Tooltip/Hyperjump (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 11장 「군단의 심장: 2부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "jump_drive"
+      ],
+      "one": "전투순양함이 원하는 곳으로 단숨에 건너뛰는 것",
+      "note": "전투순양함이 잠시 준비한 뒤 대상 지점으로 곧바로 건너뛰는 능력이다. 테란의 큰 함선은 이렇게 차원 도약으로 먼 곳을 순식간에 오간다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20180829144634/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter11"
+      ]
+    },
+    {
+      "id": "spear_of_adun",
+      "ko": "아둔의 창",
+      "orig": "Spear of Adun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 void.sc2mod gamestrings.txt · Terrain/Name/SpearOfAdun · starcoop.sc2mod conversationstrings.txt · VoiceOver/KaraxCommander/LockFirst00 · liberty.sc2mod gamestrings.txt · Button/Name/CommanderPrestigeArtanisOrbitalStrike (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "오랜 잠에서 깨어난 프로토스의 고대 대함선",
+      "note": "아주 먼 옛날 만들어져 숨겨져 있던 거대한 프로토스 함선이다. 『공허의 유산』에서 프로토스 군대의 기함이자 본거지가 되어, 궤도에서 땅 위의 싸움을 돕는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/void.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/starcoop/starcoop.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "xelnaga_artifact",
+      "ko": "젤나가 유물",
+      "orig": "Xel'Naga artifact",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00047 · liberty.sc2mod gamestrings.txt · Button/Tooltip/CommanderTraitZeratulLegendaryLegions (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 9장 「자유의 날개: 3부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "젤나가가 남긴 강력한 옛 장치",
+      "note": "흩어진 조각을 모아 맞추면 엄청난 에너지를 내는 젤나가의 유물이다. 『자유의 날개』에서 테란과 저그, 탈다림이 이 조각들을 두고 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130901051651/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter9",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "xelnaga_temple",
+      "ko": "젤나가 사원",
+      "orig": "Xel'Naga temple",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 voidprologue.sc2mod gamestrings.txt · Map/Summary/VoidPrologue01 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "젤나가가 여러 행성에 남긴 사원",
+      "note": "곳곳의 행성에 남은 젤나가의 옛 건축물로, 그 안에 잠든 힘이 깨어나면 행성 하나를 휩쓸 만큼 크다. 『브루드 워』에서는 샤쿠라스의 사원이 저그를 몰아내는 데 쓰였다.",
+      "spoiler": false,
+      "refs": [
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/voidprologue.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/voidprologue.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "vespene_gas",
+      "ko": "베스핀 가스",
+      "orig": "Vespene gas",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · UI/ResourceToolTip1 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘모리아’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "세 종족이 모두 캐어 쓰는 연료 가스",
+      "note": "간헐천에서 뿜어 나오는 기체 자원으로, 세 종족 모두 이것을 캐어 더 앞선 무기와 기술을 만든다. 여러 행성에서 흔히 나는 것이라 한곳에 묶인 귀한 물질로 그려지지는 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20140904083053/http://kr.battle.net/sc2/ko/game/planet/moria"
+      ]
+    },
+    {
+      "id": "terrazine",
+      "ko": "테라진",
+      "orig": "Terrazine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 novastoryassets.sc2mod gamestrings.txt · Button/Tooltip/SealedTerrazineEmitter · liberty.sc2mod gamestrings.txt · Skin/Info/HighTemplarTaldarim (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘마 사라’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "awakening_substance"
+      ],
+      "one": "사이오닉 힘을 키워 주는 귀한 가스",
+      "note": "드물게 나는 가스로, 들이마시거나 몸에 들이면 사이오닉 힘이 커진다. 테란의 악령과 프로토스의 탈다림이 힘을 얻는 데 쓰고, 그 대가로 몸과 정신이 망가지기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/novastoryassets.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901051656/http://kr.battle.net/sc2/ko/game/planet/mar-sara"
+      ]
+    },
+    {
+      "id": "colonial_expedition",
+      "ko": "식민 원정대",
+      "orig": "Doomed colonial expedition (supercarriers from Earth)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 종족 소개 ‘테란’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘우모자’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘타소니스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonization",
+        "cryosleep"
+      ],
+      "one": "지구에서 쫓겨나 코프룰루 구역에 닿은 첫 이주민",
+      "note": "지구 정부가 죄수와 반체제 인사들을 잠재운 채 네 척의 거대한 배에 실어 내보낸 원정이다. 배들은 엉뚱한 곳으로 스물여덟 해를 떠돈 끝에 행성 셋에 내려앉았고, 그 후손이 지금의 테란이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://web.archive.org/web/20100801041939/http://kr.battle.net/sc2/ko/game/race/terran/",
+        "https://web.archive.org/web/20110202022736/http://kr.battle.net/sc2/ko/game/planet/umoja",
+        "https://web.archive.org/web/20130901062404/http://kr.battle.net/sc2/ko/game/planet/tarsonis"
+      ]
+    },
+    {
+      "id": "aeon_of_strife",
+      "ko": "끝없는 전쟁",
+      "orig": "Aeon of Strife",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/CarrierGolden, Skin/Info/ProbeGolden (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘아이어’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "젤나가가 떠난 뒤 프로토스가 서로 싸운 긴 시대",
+      "note": "젤나가가 떠나자 프로토스는 부족끼리 갈라져 오랜 세월 피를 흘렸다. 이 혼란을 끝내려 칼라가 세워졌고, 그때 칼라를 거부한 이들의 후손이 뒷날의 네라짐이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20101102185541/http://kr.battle.net/sc2/ko/game/planet/aiur"
+      ]
+    },
+    {
+      "id": "great_war",
+      "ko": "대전쟁",
+      "orig": "Great War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/ProbeRemastered, Skin/Info/ZealotRemastered · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00001 (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "first_contact"
+      ],
+      "one": "테란이 처음 저그·프로토스와 맞닥뜨린 전쟁",
+      "note": "인류가 코프룰루 구역에 저희뿐이라 믿던 때, 저그와 프로토스가 한꺼번에 나타나며 벌어진 세 종족의 전쟁이다. 1편 『스타크래프트』의 이야기가 이 전쟁이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "brood_war",
+      "ko": "종족 전쟁",
+      "orig": "Brood War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Reward/Name/Emoticon_BWEgg, Skin/Info/Gateway (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 7장 「자유의 날개: 1부」(웨이백 보관본)",
+      "alt_ko": [
+        {
+          "ko": "브루드 워",
+          "src": "확장판 제목으로 쓸 때 — 스타크래프트 II 게임 한국어 문자열 core.sc2mod gamestrings.txt · UI/SoundOptions/AltSoundtrack/SoundtrackSC (게임 파일 사본, 작품 소개 ko_sources 참고)"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "대전쟁 뒤 이어진 세 종족과 지구 원정군의 전쟁",
+      "note": "대전쟁 직후 혼란에 빠진 저그와 프로토스, 테란 세력에 지구에서 온 원정 함대까지 뒤엉켜 싸운 전쟁이다. 확장판 『브루드 워』의 이야기다. 한국어판은 원어의 '무리'라는 뜻 대신 '종족 전쟁'으로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901070557/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter7",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "second_great_war",
+      "ko": "2차 대전쟁",
+      "orig": "Second Great War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/Factory (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 9장 「자유의 날개: 3부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "『자유의 날개』에서 다시 불붙은 세 종족의 전쟁",
+      "note": "종족 전쟁이 끝나고 몇 해 뒤 저그가 다시 테란 영역을 덮치며 시작된 전쟁이다. 『자유의 날개』와 『군단의 심장』의 이야기가 이 전쟁 속에서 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt",
+        "https://web.archive.org/web/20130901051651/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter9"
+      ]
+    },
+    {
+      "id": "end_war",
+      "ko": "최후의 전쟁",
+      "orig": "End War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod gamestrings.txt · Skin/Info/AdeptGolden, Skin/Info/ColossusGolden (게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "모든 종족이 아몬에 맞선 마지막 전쟁",
+      "note": "아몬이 모든 생명을 끝내려 나서자 테란과 저그, 프로토스가 함께 맞선 전쟁이다. 『공허의 유산』과 그 마지막 이야기가 이 전쟁을 다룬다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "koprulu_sector",
+      "ko": "코프룰루 구역",
+      "orig": "Koprulu Sector",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00001 (게임 파일 사본, 작품 소개 ko_sources 참고) · 스타크래프트 II 공식 한국어 사이트 첫 화면(2026-10-19 확인) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "삼부작의 무대가 되는 은하 변두리의 별 구역",
+      "note": "지구에서 아주 멀리 떨어진 은하 한쪽 구역으로, 테란의 식민지들과 프로토스의 고향 아이어, 저그의 본거지 차가 모두 여기에 있다. 사람들은 300년 가까이 이곳에 저희뿐이라고 믿었다.",
+      "spoiler": false,
+      "refs": [
+        "https://starcraft2.blizzard.com/ko-kr/",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1"
+      ]
+    },
+    {
+      "id": "aiur",
+      "ko": "아이어",
+      "orig": "Aiur",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod objectstrings.txt · Light/Name/Aiur · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00070 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘아이어’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "프로토스의 고향 행성",
+      "note": "맑은 바다와 울창한 밀림이 있는 푸른 행성으로, 프로토스가 태어나 문명을 일군 곳이다. 저그의 침공으로 짓밟힌 뒤 이곳을 되찾는 일이 프로토스의 오랜 바람이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20101102185541/http://kr.battle.net/sc2/ko/game/planet/aiur",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "char",
+      "ko": "차",
+      "orig": "Char",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod objectstrings.txt · Water/Name/Char · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00046 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘차’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "화산재로 덮인 저그의 본거지 행성",
+      "note": "화산과 용암, 두꺼운 재로 뒤덮인 행성이다. 한때 연합의 행성이었으나 저그가 차지한 뒤 군단의 주된 군락이 되었고, 삼부작 내내 여러 결전이 이곳에서 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20101103234905/http://kr.battle.net/sc2/ko/game/planet/char",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "shakuras",
+      "ko": "샤쿠라스",
+      "orig": "Shakuras",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod objectstrings.txt · Water/Name/Shakuras · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00072 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 4장 「브루드 워: 저항」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "네라짐이 자리 잡은 어둑한 행성",
+      "note": "아이어에서 쫓겨난 네라짐이 정착한 행성이다. 아이어를 잃은 프로토스가 이곳으로 피란하면서 두 갈래의 프로토스가 다시 함께 살게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20130831100719/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter4",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "korhal",
+      "ko": "코랄",
+      "orig": "Korhal (Korhal IV)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod objectstrings.txt · Water/Name/Korhal · liberty.sc2mod conversationstrings.txt · Conversation/Cutscene_SSF/Line00061 (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘코랄’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "테란 자치령의 수도 행성",
+      "note": "본래 푸르고 온화한 식민지였으나, 연합에 맞서다 핵 공격을 받아 잿더미가 되었다. 그 뒤 자치령의 수도가 되었다. 정식 이름은 코랄 IV다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20110202022732/http://kr.battle.net/sc2/ko/game/planet/korhal",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/conversationstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/conversationstrings.txt"
+      ]
+    },
+    {
+      "id": "tarsonis",
+      "ko": "타소니스",
+      "orig": "Tarsonis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 core.sc2mod objectstrings.txt · Water/Name/Tarsonis · novacampaign.sc2mod gamestrings.txt · UI/NovaStory/MissionBriefing03/MapFlavorText (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘타소니스’ 쪽(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "옛 테란 연합의 수도 행성",
+      "note": "지구에서 온 첫 이주선 가운데 하나가 내린 행성으로, 가장 빨리 자라 연합의 중심이 되었다. 대전쟁 때 저그에게 짓밟혀 무너진 도시로 남는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/core.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20130901062404/http://kr.battle.net/sc2/ko/game/planet/tarsonis",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/missionpacks/novacampaign.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    },
+    {
+      "id": "mar_sara",
+      "ko": "마 사라",
+      "orig": "Mar Sara",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 liberty.sc2mod objectstrings.txt · Light/Name/MarSara (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 행성 소개 ‘마 사라’ 쪽(웨이백 보관본) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 1장 「반란의 함성」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "저그 침공이 처음 닥친 변두리 식민지",
+      "note": "연합의 변두리 식민지로, 저그에게 처음 감염되고 프로토스의 불길에 타 버린 행성 가운데 하나다. 1편과 『자유의 날개』가 모두 이곳에서 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20130901051656/http://kr.battle.net/sc2/ko/game/planet/mar-sara",
+        "https://web.archive.org/web/20130831015133/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter1"
+      ]
+    },
+    {
+      "id": "zerus",
+      "ko": "제루스",
+      "orig": "Zerus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "스타크래프트 II 게임 한국어 문자열 swarm.sc2mod objectstrings.txt · Light/Name/Zerus · liberty.sc2mod gamestrings.txt · ConsoleSkin/Description/Dehaka_ConsoleZerg (게임 파일 사본, 작품 소개 ko_sources 참고) · 옛 스타크래프트 II 공식 한국어 사이트 ‘스타크래프트 이야기’ 10장 「군단의 심장: 1부」(웨이백 보관본)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "저그가 처음 태어난 밀림 행성",
+      "note": "저그의 고향 행성으로, 지금도 원시 저그가 울창한 밀림에서 서로 사냥하며 산다. 『군단의 심장』에서 처음 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/swarm.sc2mod/kokr.sc2data/localizeddata/objectstrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/swarm.sc2mod/enus.sc2data/localizeddata/objectstrings.txt",
+        "https://web.archive.org/web/20151201164943/http://kr.battle.net/sc2/ko/game/lore/the-story-of-starcraft/chapter10",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/kokr.sc2data/localizeddata/gamestrings.txt",
+        "https://github.com/Cyberenchanter/StarCraftIIGlossary/blob/a0b0a49537ee233428999aae454f23d940e1c0d0/mods/liberty.sc2mod/enus.sc2data/localizeddata/gamestrings.txt"
+      ]
+    }
+  ]
+}

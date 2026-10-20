@@ -1,0 +1,5941 @@
+{
+ "기준": "예: 우주가 세계의 바탕 — 사람(또는 이야기의 중심 쪽)이 우주로 나가거나, 우주·다른 행성·우주 거주지·우주선이 주 무대이거나, 별 사이 문명·전쟁·교류가 큰 축(우주를 건너 온 행성도 예).\n아니오: 지구(또는 행성 하나) 위에서만 벌어지고 우주로 나가지 않음 — 종말 뒤 지구, 사이버펑크 도시, 유전자·로봇·인공지능·괴수·가상 현실·시간 여행만 있는 세계, 우주 개념 없이 낯선 행성만 있는 세계.\n경계: 둘 사이 — 외계 존재가 지구에 오지만 사람은 못 나감, 시리즈 일부 작품에만 우주 대목, 우주가 배경 설정에만 살짝.",
+ "worlds": {
+  "frankenstein": {
+   "space": "아니오",
+   "why": "인조 생명 이야기, 지구에서만"
+  },
+  "the_last_man_shelley": {
+   "space": "아니오",
+   "why": "역병 뒤 종말, 지구에서만"
+  },
+  "journey_to_the_center_of_the_earth": {
+   "space": "아니오",
+   "why": "땅속 탐험"
+  },
+  "from_the_earth_to_the_moon": {
+   "space": "예",
+   "why": "대포로 사람을 달에 보냄"
+  },
+  "twenty_thousand_leagues": {
+   "space": "아니오",
+   "why": "바다 밑 잠수함 모험"
+  },
+  "flatland": {
+   "space": "아니오",
+   "why": "차원 우화, 우주로 안 나감"
+  },
+  "lev_future_eve": {
+   "space": "아니오",
+   "why": "인조 여인 이야기"
+  },
+  "looking_backward": {
+   "space": "아니오",
+   "why": "미래 협동 사회, 지구"
+  },
+  "connecticut_yankee": {
+   "space": "아니오",
+   "why": "과거로 떨어지는 시간 이동"
+  },
+  "the_time_machine": {
+   "space": "아니오",
+   "why": "지구 먼 미래로 시간 여행"
+  },
+  "the_island_of_doctor_moreau": {
+   "space": "아니오",
+   "why": "섬에서 짐승을 개조"
+  },
+  "auf_zwei_planeten": {
+   "space": "예",
+   "why": "화성인 우주 정거장, 행성 사이 왕래"
+  },
+  "the_invisible_man": {
+   "space": "아니오",
+   "why": "투명 인간, 지구에서만"
+  },
+  "the_war_of_the_worlds": {
+   "space": "경계",
+   "why": "화성인 침공, 사람은 못 나감"
+  },
+  "the_first_men_in_the_moon": {
+   "space": "예",
+   "why": "중력 차단 물질로 달에 감"
+  },
+  "a_trip_to_the_moon": {
+   "space": "예",
+   "why": "포탄을 타고 달에 감"
+  },
+  "sultanas_dream": {
+   "space": "아니오",
+   "why": "꿈속 여인국, 우주 없음"
+  },
+  "the_iron_heel": {
+   "space": "아니오",
+   "why": "과두 정치 미국, 지구"
+  },
+  "red_star_bogdanov": {
+   "space": "예",
+   "why": "혁명가가 화성에 감"
+  },
+  "the_machine_stops": {
+   "space": "아니오",
+   "why": "땅속 방 사회, 지구"
+  },
+  "barsoom": {
+   "space": "예",
+   "why": "지구인이 화성으로 건너가 활약"
+  },
+  "the_lost_world_doyle": {
+   "space": "아니오",
+   "why": "고원의 공룡 탐험"
+  },
+  "pellucidar": {
+   "space": "아니오",
+   "why": "속 빈 지구 안쪽 세계"
+  },
+  "rur": {
+   "space": "아니오",
+   "why": "인조 일꾼 반란, 지구"
+  },
+  "aelita": {
+   "space": "예",
+   "why": "로켓으로 화성에 감"
+  },
+  "we_zamyatin": {
+   "space": "경계",
+   "why": "우주선 건조가 줄거리, 무대는 도시"
+  },
+  "metropolis": {
+   "space": "아니오",
+   "why": "거대 도시와 기계 인간"
+  },
+  "buck_rogers": {
+   "space": "예",
+   "why": "연재 만화·드라마가 우주 활극"
+  },
+  "cthulhu_mythos": {
+   "space": "경계",
+   "why": "별에서 온 존재, 사람은 지구에"
+  },
+  "skylark": {
+   "space": "예",
+   "why": "빛보다 빠른 배로 은하를 누빔"
+  },
+  "amphibian_man": {
+   "space": "아니오",
+   "why": "아가미 인간, 바다"
+  },
+  "last_and_first_men": {
+   "space": "예",
+   "why": "인류가 금성·해왕성으로 옮겨 감"
+  },
+  "brave_new_world": {
+   "space": "아니오",
+   "why": "통제 세계 국가, 지구"
+  },
+  "maocheng_ji": {
+   "space": "예",
+   "why": "비행선으로 화성에 떨어짐"
+  },
+  "things_to_come": {
+   "space": "경계",
+   "why": "끝에 달로 사람을 쏘아 보냄"
+  },
+  "when_worlds_collide": {
+   "space": "예",
+   "why": "로켓 방주로 다른 행성에 감"
+  },
+  "flash_gordon": {
+   "space": "예",
+   "why": "행성 몽고에서 싸움"
+  },
+  "war_with_the_newts": {
+   "space": "아니오",
+   "why": "도롱뇽과 인류 싸움, 지구"
+  },
+  "lensman": {
+   "space": "예",
+   "why": "은하 순찰대와 우주 전쟁"
+  },
+  "star_maker": {
+   "space": "예",
+   "why": "정신이 우주의 문명을 떠돎"
+  },
+  "dc_universe": {
+   "space": "예",
+   "why": "외계 제국·우주 반지 군단이 큰 축"
+  },
+  "space_trilogy": {
+   "space": "예",
+   "why": "화성·금성으로 끌려감"
+  },
+  "the_thing": {
+   "space": "경계",
+   "why": "외계 생물이 남극에, 사람은 지구"
+  },
+  "heinlein_future_history": {
+   "space": "예",
+   "why": "달 개척부터 별 사이 이주까지"
+  },
+  "marvel_universe": {
+   "space": "예",
+   "why": "외계 제국·우주 신들이 큰 축"
+  },
+  "captain_future": {
+   "space": "예",
+   "why": "태양계를 누비는 영웅"
+  },
+  "kallocain": {
+   "space": "아니오",
+   "why": "자백 약과 감시 국가"
+  },
+  "invention_of_morel": {
+   "space": "아니오",
+   "why": "외딴 섬의 영상 기계"
+  },
+  "asimov_robot": {
+   "space": "예",
+   "why": "지구인과 우주 개척민이 갈라섬"
+  },
+  "slan": {
+   "space": "아니오",
+   "why": "텔레파시 신인류, 지구"
+  },
+  "day_earth_stood_still": {
+   "space": "경계",
+   "why": "외계 사절 방문, 사람은 지구에"
+  },
+  "nightfall_asimov": {
+   "space": "경계",
+   "why": "다른 별 행성, 우주로는 못 나감"
+  },
+  "ravage_barjavel": {
+   "space": "아니오",
+   "why": "전기 사라진 파리"
+  },
+  "le_voyageur_imprudent": {
+   "space": "아니오",
+   "why": "시간 여행 모순"
+  },
+  "null_a": {
+   "space": "예",
+   "why": "금성 이주와 은하 제국 침공"
+  },
+  "humanoids_williamson": {
+   "space": "경계",
+   "why": "다른 행성서 온 기계, 무대는 지구"
+  },
+  "the_city_and_the_stars": {
+   "space": "예",
+   "why": "닫힌 도시를 나와 우주로 감"
+  },
+  "earth_abides": {
+   "space": "아니오",
+   "why": "역병 뒤 지구"
+  },
+  "nineteen_eighty_four": {
+   "space": "아니오",
+   "why": "감시 국가, 지구"
+  },
+  "metropolis_tezuka": {
+   "space": "아니오",
+   "why": "거대 도시와 인조인간"
+  },
+  "cities_in_flight": {
+   "space": "예",
+   "why": "도시째 은하를 떠돎"
+  },
+  "dan_dare": {
+   "space": "예",
+   "why": "우주군 조종사, 금성의 적"
+  },
+  "instrumentality": {
+   "space": "예",
+   "why": "행성 사이 항행·우주 인류 미래사"
+  },
+  "dying_earth": {
+   "space": "아니오",
+   "why": "꺼져 가는 해 아래 지구"
+  },
+  "the_martian_chronicles": {
+   "space": "예",
+   "why": "지구인이 화성을 개척"
+  },
+  "space_beagle": {
+   "space": "예",
+   "why": "탐사선의 우주 항해"
+  },
+  "technic_history": {
+   "space": "예",
+   "why": "별 사이 상인 연맹·지구 제국"
+  },
+  "the_day_of_the_triffids": {
+   "space": "아니오",
+   "why": "눈먼 사람과 독초, 지구"
+  },
+  "the_puppet_masters": {
+   "space": "경계",
+   "why": "외계 기생체 침공, 끝에 타이탄행"
+  },
+  "a_sound_of_thunder": {
+   "space": "아니오",
+   "why": "공룡 사냥 시간 여행"
+  },
+  "simak_city": {
+   "space": "경계",
+   "why": "사람이 목성으로 떠남, 무대는 지구"
+  },
+  "more_than_human": {
+   "space": "아니오",
+   "why": "집단 존재 신인류"
+  },
+  "player_piano": {
+   "space": "아니오",
+   "why": "기계화된 미국 사회"
+  },
+  "the_demolished_man": {
+   "space": "경계",
+   "why": "태양계 개척 배경, 이야기는 지구"
+  },
+  "the_space_merchants": {
+   "space": "예",
+   "why": "금성 개척이 줄거리 축"
+  },
+  "astro_boy": {
+   "space": "경계",
+   "why": "로봇 이야기, 일부 편에 우주"
+  },
+  "a_case_of_conscience": {
+   "space": "예",
+   "why": "신부가 외계 행성 리시아에 감"
+  },
+  "childhoods_end": {
+   "space": "예",
+   "why": "외계 감독자, 사람이 그 별에 감"
+  },
+  "fahrenheit_451": {
+   "space": "아니오",
+   "why": "책 태우는 사회"
+  },
+  "mission_of_gravity": {
+   "space": "예",
+   "why": "고중력 행성 탐사"
+  },
+  "quatermass": {
+   "space": "예",
+   "why": "유인 로켓 계획과 우주 생명"
+  },
+  "i_am_legend": {
+   "space": "아니오",
+   "why": "흡혈귀가 된 세상"
+  },
+  "body_snatchers": {
+   "space": "경계",
+   "why": "우주 꼬투리 침공, 사람은 지구"
+  },
+  "godzilla": {
+   "space": "경계",
+   "why": "괴수물, 일부 편에 우주인·행성 X"
+  },
+  "phoenix_tezuka": {
+   "space": "경계",
+   "why": "일부 편(우주편 등)만 우주"
+  },
+  "a_canticle_for_leibowitz": {
+   "space": "경계",
+   "why": "끝에 우주선이 지구를 떠남"
+  },
+  "ikarie_xb1": {
+   "space": "예",
+   "why": "알파 센타우리로 가는 우주선"
+  },
+  "the_chrysalids": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 텔레파시 아이들"
+  },
+  "the_end_of_eternity": {
+   "space": "경계",
+   "why": "별 진출 억압이 결말의 축"
+  },
+  "the_long_tomorrow": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 농촌 사회"
+  },
+  "time_patrol": {
+   "space": "아니오",
+   "why": "시간 순찰대"
+  },
+  "double_star": {
+   "space": "예",
+   "why": "태양계 정치와 화성인"
+  },
+  "forbidden_planet": {
+   "space": "예",
+   "why": "먼 행성에 온 우주선"
+  },
+  "minority_report": {
+   "space": "아니오",
+   "why": "예지 경찰"
+  },
+  "the_last_question": {
+   "space": "예",
+   "why": "인류가 우주로 퍼지고 우주의 끝"
+  },
+  "the_shrinking_man": {
+   "space": "아니오",
+   "why": "몸이 줄어드는 남자"
+  },
+  "the_stars_my_destination": {
+   "space": "예",
+   "why": "우주에 버려진 선원의 복수"
+  },
+  "tetsujin_28": {
+   "space": "아니오",
+   "why": "소년이 조종하는 거대 로봇"
+  },
+  "ijon_tichy": {
+   "space": "예",
+   "why": "우주 여행자의 별 문명 기행"
+  },
+  "el_eternauta": {
+   "space": "경계",
+   "why": "보이지 않는 외계 침략, 지구"
+  },
+  "la_planete_sauvage": {
+   "space": "예",
+   "why": "외계 행성, 끝에 로켓으로 위성행"
+  },
+  "on_the_beach": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 방사능"
+  },
+  "the_black_cloud": {
+   "space": "경계",
+   "why": "우주 구름이 다가옴, 사람은 지구"
+  },
+  "the_door_into_summer": {
+   "space": "아니오",
+   "why": "냉동 수면과 시간 여행"
+  },
+  "the_fly": {
+   "space": "아니오",
+   "why": "물질 전송 사고"
+  },
+  "the_midwich_cuckoos": {
+   "space": "경계",
+   "why": "외계의 아이들, 무대는 마을"
+  },
+  "the_stainless_steel_rat": {
+   "space": "예",
+   "why": "먼 미래 은하의 대도둑"
+  },
+  "andromeda_nebula": {
+   "space": "예",
+   "why": "별 문명 통신망과 우주선"
+  },
+  "les_maitres_du_temps": {
+   "space": "예",
+   "why": "우주선이 아이를 구하러 감"
+  },
+  "non_stop": {
+   "space": "예",
+   "why": "세대 우주선 안 부족"
+  },
+  "the_big_time": {
+   "space": "아니오",
+   "why": "시간 전쟁"
+  },
+  "bokko_chan": {
+   "space": "아니오",
+   "why": "미인 로봇 짧은 이야기"
+  },
+  "childe_cycle": {
+   "space": "예",
+   "why": "별마다 갈라진 인류 문화"
+  },
+  "flowers_for_algernon": {
+   "space": "아니오",
+   "why": "지능 수술 기록"
+  },
+  "pirx_the_pilot": {
+   "space": "예",
+   "why": "우주 조종사 이야기"
+  },
+  "starship_troopers": {
+   "space": "예",
+   "why": "벌레 종족과 행성 전쟁"
+  },
+  "vonnegut_tralfamadore": {
+   "space": "예",
+   "why": "화성·수성·타이탄을 오감"
+  },
+  "twilight_zone": {
+   "space": "경계",
+   "why": "선집, 일부 편만 우주"
+  },
+  "all_you_zombies": {
+   "space": "아니오",
+   "why": "시간 여행 닫힌 고리"
+  },
+  "raipai": {
+   "space": "아니오",
+   "why": "정의의 투사 활극, 지구"
+  },
+  "bolo": {
+   "space": "예",
+   "why": "별 사이 전쟁의 자율 전차"
+  },
+  "rogue_moon": {
+   "space": "예",
+   "why": "달의 외계 미로로 사람 전송"
+  },
+  "a_for_andromeda": {
+   "space": "경계",
+   "why": "안드로메다 신호, 사람은 지구"
+  },
+  "hothouse": {
+   "space": "경계",
+   "why": "식물 덮인 지구, 거미줄로 달 왕래"
+  },
+  "perry_rhodan": {
+   "space": "예",
+   "why": "인류를 은하로 이끄는 연대기"
+  },
+  "solaris": {
+   "space": "예",
+   "why": "생각하는 바다 행성의 정거장"
+  },
+  "stranger_in_a_strange_land": {
+   "space": "예",
+   "why": "화성에서 자란 사람의 귀환"
+  },
+  "the_ship_who_sang": {
+   "space": "예",
+   "why": "뇌를 넣은 우주선"
+  },
+  "twelve_monkeys": {
+   "space": "아니오",
+   "why": "바이러스 종말과 시간 여행"
+  },
+  "a_clockwork_orange": {
+   "space": "아니오",
+   "why": "폭력 교정 치료"
+  },
+  "barbarella": {
+   "space": "예",
+   "why": "41세기 우주 모험가"
+  },
+  "the_drowned_world": {
+   "space": "아니오",
+   "why": "뜨거워진 지구의 늪"
+  },
+  "the_jetsons": {
+   "space": "경계",
+   "why": "하늘 도시 생활, 가끔 우주 나들이"
+  },
+  "the_man_in_the_high_castle": {
+   "space": "아니오",
+   "why": "추축국 승리 대체 역사"
+  },
+  "noon_universe": {
+   "space": "예",
+   "why": "인류가 다른 별 문명에 개입"
+  },
+  "geumseong_tamheomdae": {
+   "space": "예",
+   "why": "금성으로 떠나는 모험"
+  },
+  "berserker": {
+   "space": "예",
+   "why": "은하를 떠도는 살육 기계"
+  },
+  "cats_cradle": {
+   "space": "아니오",
+   "why": "물을 얼리는 물질, 지구"
+  },
+  "doctor_who": {
+   "space": "예",
+   "why": "시간 여행 배로 먼 별을 돎"
+  },
+  "planet_of_the_apes": {
+   "space": "예",
+   "why": "우주 여행자가 유인원 행성에 내림"
+  },
+  "the_man_who_fell_to_earth": {
+   "space": "경계",
+   "why": "외계인이 지구에서 귀향선 지음"
+  },
+  "outer_limits": {
+   "space": "경계",
+   "why": "선집, 외계 생명 편이 섞임"
+  },
+  "they_live": {
+   "space": "경계",
+   "why": "외계인 지배층, 무대는 지구"
+  },
+  "way_station": {
+   "space": "예",
+   "why": "은하 여행자의 정거장"
+  },
+  "weisili": {
+   "space": "경계",
+   "why": "외계인을 만나는 모험, 지구"
+  },
+  "consentiency": {
+   "space": "예",
+   "why": "여러 종족의 우주 연합"
+  },
+  "hainish_cycle": {
+   "space": "예",
+   "why": "별마다 퍼진 인류의 연합"
+  },
+  "known_space": {
+   "space": "예",
+   "why": "외계 종족이 오가는 미래 우주"
+  },
+  "martian_time_slip": {
+   "space": "예",
+   "why": "화성 개척지"
+  },
+  "the_invincible": {
+   "space": "예",
+   "why": "탐사선이 기계 떼 행성에 감"
+  },
+  "simulacron_3": {
+   "space": "아니오",
+   "why": "컴퓨터 모의 세계"
+  },
+  "cyborg_009": {
+   "space": "경계",
+   "why": "사이보그 첩보전, 일부 극장판 우주"
+  },
+  "fukkatsu_no_hi": {
+   "space": "아니오",
+   "why": "병균 종말, 남극 생존자"
+  },
+  "alphaville": {
+   "space": "아니오",
+   "why": "컴퓨터가 다스리는 도시"
+  },
+  "the_cyberiad": {
+   "space": "예",
+   "why": "로봇들의 우주 우화"
+  },
+  "lost_in_space": {
+   "space": "예",
+   "why": "개척 행성 가다 우주에서 길 잃음"
+  },
+  "riverworld": {
+   "space": "경계",
+   "why": "다른 행성에 되살아남, 우주 왕래 없음"
+  },
+  "trigan_empire": {
+   "space": "경계",
+   "why": "먼 행성 제국, 일부 편 달 여행"
+  },
+  "the_three_stigmata_of_palmer_eldritch": {
+   "space": "예",
+   "why": "화성 개척민과 우주 사업가"
+  },
+  "this_immortal": {
+   "space": "예",
+   "why": "외계 문명이 지구를 관광지로"
+  },
+  "thunderbirds": {
+   "space": "경계",
+   "why": "구조대, 우주 정거장·로켓이 일부"
+  },
+  "monday_begins_on_saturday": {
+   "space": "아니오",
+   "why": "마법 연구소 풍자"
+  },
+  "mystery_of_the_third_planet": {
+   "space": "예",
+   "why": "우주 동물원 탐사 여행"
+  },
+  "professor_shonku": {
+   "space": "경계",
+   "why": "첫 편에 화성 여행, 나머진 지구"
+  },
+  "gamera": {
+   "space": "경계",
+   "why": "괴수물, 일부 편에 우주인·다른 별"
+  },
+  "minus_zero": {
+   "space": "아니오",
+   "why": "시간 여행"
+  },
+  "tokikake": {
+   "space": "아니오",
+   "why": "시간 도약 소녀"
+  },
+  "hateshinaki_nagare_no_hate_ni": {
+   "space": "경계",
+   "why": "시간 싸움, 우주로 나가는 미래 대목"
+  },
+  "hyakuoku_no_hiru_to_senoku_no_yoru": {
+   "space": "예",
+   "why": "우주를 건너는 장대한 싸움"
+  },
+  "babel_17": {
+   "space": "예",
+   "why": "은하 전쟁과 암호 언어"
+  },
+  "destination_void": {
+   "space": "예",
+   "why": "개척선과 신이 된 인공지능"
+  },
+  "fantastic_voyage": {
+   "space": "아니오",
+   "why": "몸속 축소 잠수정"
+  },
+  "lone_sloane": {
+   "space": "예",
+   "why": "은하를 떠도는 우주 해적"
+  },
+  "raumpatrouille_orion": {
+   "space": "예",
+   "why": "우주 순찰선 오리온 호"
+  },
+  "soylent_green": {
+   "space": "아니오",
+   "why": "식량 바닥난 뉴욕"
+  },
+  "the_moon_is_a_harsh_mistress": {
+   "space": "예",
+   "why": "달 주민의 독립 전쟁"
+  },
+  "time_tunnel": {
+   "space": "아니오",
+   "why": "시간 터널"
+  },
+  "total_recall": {
+   "space": "예",
+   "why": "화성 요원의 기억, 영화는 화성"
+  },
+  "ultraman": {
+   "space": "경계",
+   "why": "외계 거인·침략자, 무대는 지구"
+  },
+  "pern": {
+   "space": "예",
+   "why": "개척 행성, 궤도 우주선 되찾음"
+  },
+  "i_have_no_mouth": {
+   "space": "아니오",
+   "why": "인류 멸한 컴퓨터"
+  },
+  "logans_run": {
+   "space": "경계",
+   "why": "돔 도시, 원작 끝에 우주 정거장"
+  },
+  "lord_of_light": {
+   "space": "예",
+   "why": "식민 행성의 신 행세"
+  },
+  "thx_1138": {
+   "space": "아니오",
+   "why": "지하 통제 도시"
+  },
+  "the_einstein_intersection": {
+   "space": "경계",
+   "why": "사람 떠난 지구, 우주 왕래 없음"
+  },
+  "the_invaders": {
+   "space": "경계",
+   "why": "몰래 든 외계인, 지구"
+  },
+  "the_prisoner": {
+   "space": "아니오",
+   "why": "정체 모를 마을"
+  },
+  "the_tripods": {
+   "space": "경계",
+   "why": "외계 주인 지배, 사람은 지구"
+  },
+  "valerian": {
+   "space": "예",
+   "why": "시공간 요원이 은하를 오감"
+  },
+  "yonggary": {
+   "space": "아니오",
+   "why": "핵 실험 괴수"
+  },
+  "wanjeon_sahoe": {
+   "space": "아니오",
+   "why": "냉동 수면 뒤 여자 사회"
+  },
+  "space_odyssey": {
+   "space": "예",
+   "why": "외계 지성과 목성행 우주선"
+  },
+  "his_masters_voice": {
+   "space": "경계",
+   "why": "우주 신호 해독, 사람은 지구"
+  },
+  "la_nuit_des_temps": {
+   "space": "아니오",
+   "why": "남극 얼음 속 옛 문명"
+  },
+  "nova_delany": {
+   "space": "예",
+   "why": "별 속으로 뛰어드는 우주선"
+  },
+  "stand_on_zanzibar": {
+   "space": "아니오",
+   "why": "인구 폭발 지구"
+  },
+  "the_iron_giant": {
+   "space": "경계",
+   "why": "우주에서 온 로봇, 무대는 시골"
+  },
+  "heart_of_a_dog": {
+   "space": "아니오",
+   "why": "개를 사람으로 만듦"
+  },
+  "ai_film": {
+   "space": "아니오",
+   "why": "소년 로봇의 여정, 지구"
+  },
+  "gandahar": {
+   "space": "아니오",
+   "why": "낯선 행성 나라, 우주 왕래 없음"
+  },
+  "the_andromeda_strain": {
+   "space": "경계",
+   "why": "위성이 묻혀 온 미생물, 지구"
+  },
+  "ubik": {
+   "space": "경계",
+   "why": "달 출장 대목, 핵심은 반생 세계"
+  },
+  "doraemon": {
+   "space": "경계",
+   "why": "일상물, 극장판 다수가 우주"
+  },
+  "tau_zero": {
+   "space": "예",
+   "why": "멈추지 못하는 광속 우주선"
+  },
+  "ufo_1970": {
+   "space": "예",
+   "why": "달 기지·요격기로 외계인 막음"
+  },
+  "yoko_tsuno": {
+   "space": "예",
+   "why": "외계 종족과 우주 모험"
+  },
+  "a_time_of_changes": {
+   "space": "예",
+   "why": "지구인이 온 식민 행성"
+  },
+  "the_lathe_of_heaven": {
+   "space": "경계",
+   "why": "꿈이 현실 바꿈, 외계인 침입"
+  },
+  "babel_ii": {
+   "space": "경계",
+   "why": "외계인의 피 이은 소년, 지구"
+  },
+  "kamen_rider": {
+   "space": "경계",
+   "why": "개조 인간물, 일부 작품 우주"
+  },
+  "sengoku_jieitai": {
+   "space": "아니오",
+   "why": "전국 시대로 간 자위대"
+  },
+  "dying_inside": {
+   "space": "아니오",
+   "why": "독심 능력 상실"
+  },
+  "silent_running": {
+   "space": "예",
+   "why": "마지막 숲을 실은 우주선"
+  },
+  "the_forever_war": {
+   "space": "예",
+   "why": "광속 이동 우주 전쟁"
+  },
+  "the_gods_themselves": {
+   "space": "예",
+   "why": "평행 우주 외계인과 달 개척지"
+  },
+  "six_million_dollar_man": {
+   "space": "경계",
+   "why": "전직 우주 비행사의 첩보물"
+  },
+  "stalker": {
+   "space": "경계",
+   "why": "외계 방문 흔적 구역, 지구"
+  },
+  "mazinger": {
+   "space": "경계",
+   "why": "로봇물, 그렌다이저는 우주 침략"
+  },
+  "nanase_sanbusaku": {
+   "space": "아니오",
+   "why": "독심 가정부"
+  },
+  "drifting_classroom": {
+   "space": "아니오",
+   "why": "미래로 날아간 학교"
+  },
+  "gatchaman": {
+   "space": "경계",
+   "why": "외계 존재 배후, 무대는 지구"
+  },
+  "dreamsnake": {
+   "space": "경계",
+   "why": "핵전쟁 뒤 지구, 외계 손님 조금"
+  },
+  "rendezvous_with_rama": {
+   "space": "예",
+   "why": "거대 외계 우주선 탐사"
+  },
+  "the_girl_who_was_plugged_in": {
+   "space": "아니오",
+   "why": "원격 조종 인조 몸"
+  },
+  "the_tomorrow_people": {
+   "space": "경계",
+   "why": "은하 연합과 교류, 무대는 지구"
+  },
+  "westworld": {
+   "space": "아니오",
+   "why": "인조인간 놀이공원"
+  },
+  "nerawareta_gakuen": {
+   "space": "아니오",
+   "why": "초능력 학원 장악"
+  },
+  "casshern": {
+   "space": "아니오",
+   "why": "로봇 반란과 기계 몸 청년"
+  },
+  "nihon_chinbotsu": {
+   "space": "아니오",
+   "why": "일본 열도 침몰"
+  },
+  "eight_worlds": {
+   "space": "예",
+   "why": "태양계 여덟 세계의 인류"
+  },
+  "flow_my_tears": {
+   "space": "아니오",
+   "why": "기록이 지워진 경찰 국가"
+  },
+  "inverted_world": {
+   "space": "아니오",
+   "why": "선로를 달리는 도시"
+  },
+  "the_mote_in_gods_eye": {
+   "space": "예",
+   "why": "제2제국과 외계 종족 첫 만남"
+  },
+  "where_late_the_sweet_birds_sang": {
+   "space": "아니오",
+   "why": "복제로 대를 잇는 가문"
+  },
+  "getter_robo": {
+   "space": "경계",
+   "why": "합체 로봇, 후기작은 우주 규모"
+  },
+  "space_battleship_yamato": {
+   "space": "예",
+   "why": "먼 별로 떠나는 우주 전함"
+  },
+  "they_were_eleven": {
+   "space": "예",
+   "why": "우주선에 갇힌 입학 시험"
+  },
+  "dhalgren": {
+   "space": "아니오",
+   "why": "바깥과 끊긴 도시"
+  },
+  "space_1999": {
+   "space": "예",
+   "why": "궤도 벗어난 달 기지가 우주를 떠돎"
+  },
+  "survivors": {
+   "space": "아니오",
+   "why": "전염병 뒤 공동체"
+  },
+  "the_female_man": {
+   "space": "아니오",
+   "why": "평행 세계 여성들"
+  },
+  "the_shockwave_rider": {
+   "space": "아니오",
+   "why": "전산망 사회"
+  },
+  "super_sentai": {
+   "space": "경계",
+   "why": "외계 침략자, 일부 작품 우주"
+  },
+  "alliance_union": {
+   "space": "예",
+   "why": "우주 정거장 두고 맞선 상인 함선"
+  },
+  "heechee": {
+   "space": "예",
+   "why": "외계 자동 우주선 탐사"
+  },
+  "houston_houston": {
+   "space": "예",
+   "why": "미래로 떨어진 우주비행사"
+  },
+  "man_plus": {
+   "space": "예",
+   "why": "화성 개척용 개조 인간"
+  },
+  "metamorphosis_alpha": {
+   "space": "예",
+   "why": "길 잃은 세대선 안"
+  },
+  "patternist": {
+   "space": "경계",
+   "why": "텔레파시 인류, 한 권은 외계 행성"
+  },
+  "woman_on_the_edge_of_time": {
+   "space": "아니오",
+   "why": "미래 마을을 오가는 환시"
+  },
+  "definitely_maybe": {
+   "space": "아니오",
+   "why": "지구 과학자들, 우주 여행 없음"
+  },
+  "robot_taekwon_v": {
+   "space": "경계",
+   "why": "로봇물, 2편이 우주 대작전"
+  },
+  "kantau": {
+   "space": "경계",
+   "why": "깨어난 외계인, 지구에서 싸움"
+  },
+  "a_scanner_darkly": {
+   "space": "아니오",
+   "why": "마약 단속 요원"
+  },
+  "close_encounters": {
+   "space": "경계",
+   "why": "외계인 첫 만남, 끝에 모선에 탐"
+  },
+  "enderverse": {
+   "space": "예",
+   "why": "외계 종족과 우주 전쟁"
+  },
+  "heavy_metal": {
+   "space": "예",
+   "why": "우주 이야기 묶음"
+  },
+  "judge_dredd": {
+   "space": "경계",
+   "why": "거대 도시 경찰, 일부 편 우주"
+  },
+  "lucifers_hammer": {
+   "space": "아니오",
+   "why": "혜성 충돌 뒤 생존"
+  },
+  "man_from_atlantis": {
+   "space": "아니오",
+   "why": "바닷속 사내"
+  },
+  "storm_lawrence": {
+   "space": "예",
+   "why": "우주비행사가 낯선 세계로 떨어짐"
+  },
+  "traveller": {
+   "space": "예",
+   "why": "별 사이를 오가는 떠돌이들"
+  },
+  "crusher_joe": {
+   "space": "예",
+   "why": "22세기 우주의 해결사들"
+  },
+  "toward_the_terra": {
+   "space": "예",
+   "why": "초능력 인류의 지구 귀향 우주 여정"
+  },
+  "voltes_v": {
+   "space": "경계",
+   "why": "외계 제국 침공, 끝에 적 행성행"
+  },
+  "galaxy_express_999": {
+   "space": "예",
+   "why": "우주를 달리는 기차 여행"
+  },
+  "battlestar_galactica": {
+   "space": "예",
+   "why": "마지막 함대가 지구를 찾음"
+  },
+  "blakes_7": {
+   "space": "예",
+   "why": "훔친 우주선으로 벌이는 저항"
+  },
+  "gamma_world": {
+   "space": "아니오",
+   "why": "재앙 뒤 돌연변이 지구"
+  },
+  "strontium_dog": {
+   "space": "예",
+   "why": "은하를 누비는 현상금 사냥꾼"
+  },
+  "hitchhikers_guide": {
+   "space": "예",
+   "why": "지구 철거 뒤 은하를 떠돎"
+  },
+  "urusei_yatsura": {
+   "space": "경계",
+   "why": "외계 소녀 소동, 무대는 지구"
+  },
+  "space_cobra": {
+   "space": "예",
+   "why": "은하를 떠도는 우주 해적"
+  },
+  "xiao_lingtong": {
+   "space": "아니오",
+   "why": "미래 도시 구경"
+  },
+  "future_boy_conan": {
+   "space": "경계",
+   "why": "종말 뒤 섬, 탈출 우주선 사연만"
+  },
+  "alien": {
+   "space": "예",
+   "why": "우주 화물선과 괴물"
+  },
+  "canopus_in_argos": {
+   "space": "예",
+   "why": "먼 별 제국이 지구를 지켜봄"
+  },
+  "enemy_mine": {
+   "space": "예",
+   "why": "외딴 행성에 떨어진 두 조종사"
+  },
+  "gaea_trilogy": {
+   "space": "예",
+   "why": "토성 둘레 거대 생명체 탐사"
+  },
+  "kindred": {
+   "space": "아니오",
+   "why": "노예제 시대로 끌려감"
+  },
+  "mad_max": {
+   "space": "아니오",
+   "why": "무너진 사막의 패거리"
+  },
+  "the_fountains_of_paradise": {
+   "space": "예",
+   "why": "정지 궤도까지 닿는 우주 엘리베이터"
+  },
+  "sento_yosei_yukikaze": {
+   "space": "경계",
+   "why": "통로 너머 행성 전쟁, 우주 항행 없음"
+  },
+  "koku_uchugun_shi": {
+   "space": "예",
+   "why": "태양계 항공우주군 전쟁사"
+  },
+  "robot_jjippa": {
+   "space": "아니오",
+   "why": "버려진 로봇과 소년"
+  },
+  "space_battleship_geobukseon": {
+   "space": "예",
+   "why": "거북선 우주 전함의 여정"
+  },
+  "dragons_egg": {
+   "space": "예",
+   "why": "중성자별 생명과 우주선"
+  },
+  "incal": {
+   "space": "예",
+   "why": "은하 제국의 음모"
+  },
+  "nikopol": {
+   "space": "경계",
+   "why": "궤도에서 떨어진 남자, 무대는 파리"
+  },
+  "majipoor": {
+   "space": "예",
+   "why": "지구인이 이주한 거대 행성"
+  },
+  "book_of_the_new_sun": {
+   "space": "경계",
+   "why": "먼 미래 지구, 끝에 우주로 감"
+  },
+  "the_snow_queen_vinge": {
+   "space": "예",
+   "why": "웜홀로 이어진 행성과 은하 상인"
+  },
+  "timescape": {
+   "space": "아니오",
+   "why": "빛보다 빠른 입자 신호, 지구"
+  },
+  "uplift": {
+   "space": "예",
+   "why": "윗 종족들의 은하 문명"
+  },
+  "sayonara_jupiter": {
+   "space": "예",
+   "why": "목성에 불붙이는 태양계 계획"
+  },
+  "dirty_pair": {
+   "space": "예",
+   "why": "은하 분쟁 해결 요원"
+  },
+  "ideon": {
+   "space": "예",
+   "why": "외계 종족과 우주 전쟁"
+  },
+  "rogue_trooper": {
+   "space": "예",
+   "why": "독에 덮인 다른 행성 전쟁"
+  },
+  "scanners": {
+   "space": "아니오",
+   "why": "초능력자 이야기"
+  },
+  "ulysse_31": {
+   "space": "예",
+   "why": "31세기 우주를 떠도는 함장"
+  },
+  "wolfenstein": {
+   "space": "경계",
+   "why": "나치 대체 역사, 일부 편 달·금성"
+  },
+  "dougram": {
+   "space": "예",
+   "why": "개척 행성 독립 전쟁"
+  },
+  "teki_wa_kaizoku": {
+   "space": "예",
+   "why": "태양계 우주 경찰"
+  },
+  "akira": {
+   "space": "아니오",
+   "why": "초능력 실험과 네오 도쿄"
+  },
+  "battlefield_earth": {
+   "space": "경계",
+   "why": "외계 정복된 지구 되찾기"
+  },
+  "et": {
+   "space": "경계",
+   "why": "지구에 남은 외계인"
+  },
+  "helliconia": {
+   "space": "예",
+   "why": "지구 관측 정거장이 도는 행성"
+  },
+  "il_etait_une_fois_lespace": {
+   "space": "예",
+   "why": "행성 연합과 은하 제국"
+  },
+  "knight_rider": {
+   "space": "아니오",
+   "why": "인공지능 자동차"
+  },
+  "snowpiercer": {
+   "space": "아니오",
+   "why": "얼어붙은 지구의 열차"
+  },
+  "oxford_time_travel": {
+   "space": "아니오",
+   "why": "역사학자 시간 여행"
+  },
+  "star_frontiers": {
+   "space": "예",
+   "why": "네 종족의 개척 우주"
+  },
+  "running_man": {
+   "space": "아니오",
+   "why": "사람 사냥 방송"
+  },
+  "tron": {
+   "space": "아니오",
+   "why": "컴퓨터 안 세계"
+  },
+  "v_for_vendetta": {
+   "space": "아니오",
+   "why": "독재 영국의 무정부주의자"
+  },
+  "my_name_is_shingo": {
+   "space": "아니오",
+   "why": "스스로 생각하는 공장 로봇"
+  },
+  "metal_hero": {
+   "space": "경계",
+   "why": "은하 경찰이 지구에 옴"
+  },
+  "xabungle": {
+   "space": "아니오",
+   "why": "사막 행성 서부극, 우주 왕래 없음"
+  },
+  "macross": {
+   "space": "예",
+   "why": "외계 함대와 인류 이주 선단"
+  },
+  "nausicaa": {
+   "space": "아니오",
+   "why": "독의 숲과 벌레, 지구"
+  },
+  "cites_obscures": {
+   "space": "아니오",
+   "why": "평행 지구의 도시들"
+  },
+  "mule": {
+   "space": "예",
+   "why": "행성 이라타 정착민"
+  },
+  "planetfall": {
+   "space": "예",
+   "why": "우주선 폭발 뒤 행성 기지"
+  },
+  "v_1983": {
+   "space": "경계",
+   "why": "외계 방문자 저항, 무대는 지구"
+  },
+  "wargames": {
+   "space": "아니오",
+   "why": "핵전쟁 모의 컴퓨터"
+  },
+  "fist_of_the_north_star": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 권법"
+  },
+  "kyuketsuki_hunter_d": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 흡혈귀 땅"
+  },
+  "mospeada": {
+   "space": "예",
+   "why": "화성 이주민이 지구 탈환"
+  },
+  "votoms": {
+   "space": "예",
+   "why": "은하 전쟁의 보병 로봇"
+  },
+  "orguss": {
+   "space": "경계",
+   "why": "평행 세계 섞인 지구, 궤도 대목"
+  },
+  "round_vernian_vifam": {
+   "space": "예",
+   "why": "아이들이 우주선 몰고 탈출"
+  },
+  "shuto_shoshitsu": {
+   "space": "아니오",
+   "why": "구름에 갇힌 도쿄"
+  },
+  "space_gundam_v": {
+   "space": "경계",
+   "why": "먼 별 괴수 침공, 지구 방어"
+  },
+  "dooly": {
+   "space": "경계",
+   "why": "외계인 도우너, 극장판은 얼음별"
+  },
+  "nights_2001": {
+   "space": "예",
+   "why": "별 사이로 퍼지는 인류 연대기"
+  },
+  "battletech": {
+   "space": "예",
+   "why": "별들을 두고 싸우는 귀족 가문"
+  },
+  "elite": {
+   "space": "예",
+   "why": "배 한 척으로 은하 장사·전투"
+  },
+  "mutant_year_zero": {
+   "space": "아니오",
+   "why": "문명 붕괴 뒤 돌연변이"
+  },
+  "paranoia": {
+   "space": "아니오",
+   "why": "지하 도시 컴퓨터 통치"
+  },
+  "sprawl": {
+   "space": "경계",
+   "why": "사이버펑크 도시, 궤도 거주지 대목"
+  },
+  "tmnt": {
+   "space": "경계",
+   "why": "닌자 거북이, 외계인·우주 편 일부"
+  },
+  "halo_jones": {
+   "space": "예",
+   "why": "우주와 전쟁터를 떠도는 여자"
+  },
+  "terminator": {
+   "space": "아니오",
+   "why": "기계와 사람의 시간 전쟁"
+  },
+  "transformers": {
+   "space": "예",
+   "why": "고향 별 전쟁이 우주에 걸침"
+  },
+  "voltron": {
+   "space": "예",
+   "why": "우주 제국에 맞선 합체 로봇"
+  },
+  "tabi_no_ragosu": {
+   "space": "예",
+   "why": "우주선 이주민 후손의 행성"
+  },
+  "l_gaim": {
+   "space": "예",
+   "why": "다섯 행성 제국에 맞섬"
+  },
+  "a_mind_forever_voyaging": {
+   "space": "아니오",
+   "why": "모의 도시 속 인공지능"
+  },
+  "back_to_the_future": {
+   "space": "아니오",
+   "why": "자동차 시간 여행"
+  },
+  "blood_music": {
+   "space": "아니오",
+   "why": "지능 세포가 세상을 녹임"
+  },
+  "brazil": {
+   "space": "아니오",
+   "why": "관료 사회"
+  },
+  "cocoon": {
+   "space": "경계",
+   "why": "외계인 고치, 끝에 우주로 떠남"
+  },
+  "contact": {
+   "space": "예",
+   "why": "외계 신호로 지은 기계로 우주행"
+  },
+  "galapagos": {
+   "space": "아니오",
+   "why": "백만 년 뒤 인류 진화"
+  },
+  "max_headroom": {
+   "space": "아니오",
+   "why": "방송사가 쥔 세상"
+  },
+  "robotech": {
+   "space": "예",
+   "why": "외계 침공과 우주 함대"
+  },
+  "schismatrix": {
+   "space": "예",
+   "why": "태양계 거주지들의 인류"
+  },
+  "handmaids_tale": {
+   "space": "아니오",
+   "why": "신정 국가 미국"
+  },
+  "thundercats": {
+   "space": "경계",
+   "why": "우주를 건너온 종족, 무대는 한 행성"
+  },
+  "appleseed": {
+   "space": "아니오",
+   "why": "실험 도시 올림포스"
+  },
+  "gradius": {
+   "space": "예",
+   "why": "외계 제국과 싸우는 우주 전투기"
+  },
+  "megazone_23": {
+   "space": "예",
+   "why": "도시가 거대 우주선 안"
+  },
+  "sekai_no_owari_to_hardboiled_wonderland": {
+   "space": "아니오",
+   "why": "무의식 속 마을"
+  },
+  "guyver": {
+   "space": "경계",
+   "why": "외계 생체 갑옷, 무대는 지구"
+  },
+  "replay_grimwood": {
+   "space": "아니오",
+   "why": "삶을 되풀이"
+  },
+  "short_circuit": {
+   "space": "아니오",
+   "why": "생각하는 군용 로봇"
+  },
+  "space_quest": {
+   "space": "예",
+   "why": "우스꽝스러운 우주 모험"
+  },
+  "starflight": {
+   "space": "예",
+   "why": "은하 탐사"
+  },
+  "vorkosigan": {
+   "space": "예",
+   "why": "웜홀로 이어진 행성들"
+  },
+  "watchmen": {
+   "space": "아니오",
+   "why": "가면 영웅 대체 역사, 화성은 한 장"
+  },
+  "kin_dza_dza": {
+   "space": "예",
+   "why": "다른 은하 사막 행성으로 감"
+  },
+  "please_save_my_earth": {
+   "space": "경계",
+   "why": "전생은 달 기지, 지금은 지구"
+  },
+  "gall_force": {
+   "space": "예",
+   "why": "은하의 끝없는 전쟁"
+  },
+  "five_star_stories": {
+   "space": "예",
+   "why": "다섯 별 성단의 기사 역사"
+  },
+  "metroid": {
+   "space": "예",
+   "why": "은하 연방과 우주 해적"
+  },
+  "castle_in_the_sky": {
+   "space": "아니오",
+   "why": "하늘에 뜬 옛 성"
+  },
+  "lost_memories": {
+   "space": "아니오",
+   "why": "일제 지배 대체 역사"
+  },
+  "culture": {
+   "space": "예",
+   "why": "마인드가 이끄는 은하 문명"
+  },
+  "maniac_mansion": {
+   "space": "경계",
+   "why": "운석에 깃든 외계 존재, 저택"
+  },
+  "predator": {
+   "space": "경계",
+   "why": "외계 사냥꾼이 지구에 옴"
+  },
+  "r_type": {
+   "space": "예",
+   "why": "우주를 날아 바이도와 싸움"
+  },
+  "robocop": {
+   "space": "아니오",
+   "why": "기계 몸 경찰"
+  },
+  "sphere_crichton": {
+   "space": "경계",
+   "why": "바다 밑 우주선 구슬, 지구"
+  },
+  "forge_of_god": {
+   "space": "예",
+   "why": "지구 파괴와 방주 우주선"
+  },
+  "wild_cards": {
+   "space": "경계",
+   "why": "외계 바이러스 대체 역사"
+  },
+  "xenogenesis": {
+   "space": "예",
+   "why": "외계 우주선에서 깨어난 인류"
+  },
+  "darius": {
+   "space": "예",
+   "why": "기계 제국과 우주 전투"
+  },
+  "bubblegum_crisis": {
+   "space": "아니오",
+   "why": "인조인간이 날뛰는 도쿄"
+  },
+  "phantasy_star": {
+   "space": "예",
+   "why": "세 행성을 오가는 별계"
+  },
+  "metal_gear": {
+   "space": "아니오",
+   "why": "핵 병기 근미래 전쟁"
+  },
+  "mega_man": {
+   "space": "경계",
+   "why": "로봇 이야기, 일부 작품 우주"
+  },
+  "wings_of_honneamise": {
+   "space": "예",
+   "why": "첫 유인 우주 발사 계획"
+  },
+  "contra": {
+   "space": "경계",
+   "why": "외계 침공에 맞선 특수부대"
+  },
+  "alien_nation": {
+   "space": "경계",
+   "why": "노예선 타고 온 외계인, 지구 정착"
+  },
+  "cyberpunk": {
+   "space": "경계",
+   "why": "사이버펑크 도시, 궤도 거주지 곁가지"
+  },
+  "red_dwarf": {
+   "space": "예",
+   "why": "깊은 우주를 떠도는 광산선"
+  },
+  "tank_girl": {
+   "space": "아니오",
+   "why": "사막의 무법자"
+  },
+  "wasteland": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 사막"
+  },
+  "zak_mckracken": {
+   "space": "경계",
+   "why": "외계인 음모, 화성 탐사 대목"
+  },
+  "snatcher": {
+   "space": "아니오",
+   "why": "바꿔치기 기계, 도시"
+  },
+  "tytania": {
+   "space": "예",
+   "why": "인류 우주를 쥔 가문"
+  },
+  "gunbuster": {
+   "space": "예",
+   "why": "광속 우주 전투와 시간 지연"
+  },
+  "parasyte": {
+   "space": "아니오",
+   "why": "기생 생물, 지구"
+  },
+  "patlabor": {
+   "space": "아니오",
+   "why": "작업 로봇 경찰"
+  },
+  "amageddon": {
+   "space": "예",
+   "why": "외계 조직과 우주 함대전"
+  },
+  "wonder_kiddy_2020": {
+   "space": "예",
+   "why": "기계 문명 행성으로 아버지 찾기"
+  },
+  "bill_and_ted": {
+   "space": "아니오",
+   "why": "공중전화 시간 기계"
+  },
+  "hyperion_cantos": {
+   "space": "예",
+   "why": "인류 연방과 순례자 우주"
+  },
+  "mother": {
+   "space": "경계",
+   "why": "외계의 악, 무대는 지구"
+  },
+  "quantum_leap": {
+   "space": "아니오",
+   "why": "남의 몸으로 시간 이동"
+  },
+  "shadowrun": {
+   "space": "아니오",
+   "why": "마법 근미래 거대 기업"
+  },
+  "space_1889": {
+   "space": "예",
+   "why": "증기선으로 화성·금성 개척"
+  },
+  "tex_murphy": {
+   "space": "아니오",
+   "why": "미래 샌프란시스코 탐정"
+  },
+  "the_abyss": {
+   "space": "경계",
+   "why": "바다 밑 외계 지성, 지구"
+  },
+  "spriggan": {
+   "space": "아니오",
+   "why": "초고대 유물 쟁탈"
+  },
+  "ghost_in_the_shell": {
+   "space": "아니오",
+   "why": "전뇌 도시 공안 부대"
+  },
+  "tetsuo": {
+   "space": "아니오",
+   "why": "쇠붙이 괴물로 변하는 몸"
+  },
+  "machine_warrior_109": {
+   "space": "경계",
+   "why": "지구 도시 이야기, 우주 활동은 배경"
+  },
+  "yeoksa_sogui_nageune": {
+   "space": "아니오",
+   "why": "조선에 떨어진 시간 여행"
+  },
+  "commander_keen": {
+   "space": "예",
+   "why": "손수 만든 우주선으로 외계인 막음"
+  },
+  "f_zero": {
+   "space": "예",
+   "why": "여러 행성 무대 우주 경주"
+  },
+  "jurassic_park": {
+   "space": "아니오",
+   "why": "공룡 섬 공원"
+  },
+  "meet_the_robinsons": {
+   "space": "아니오",
+   "why": "시간 여행 발명가"
+  },
+  "men_in_black": {
+   "space": "경계",
+   "why": "지구에 숨은 외계인 단속"
+  },
+  "rifts": {
+   "space": "경계",
+   "why": "차원문 지구, 일부 자료집 우주"
+  },
+  "star_control": {
+   "space": "예",
+   "why": "은하 종족 동맹과 패권 종족"
+  },
+  "wing_commander": {
+   "space": "예",
+   "why": "지구 연합과 킬라시 우주 전쟁"
+  },
+  "nadia": {
+   "space": "경계",
+   "why": "별에서 온 옛 문명, 끝에 우주"
+  },
+  "nana_toshi_monogatari": {
+   "space": "경계",
+   "why": "달 이주민이 세운 지구 도시들"
+  },
+  "gunnm": {
+   "space": "경계",
+   "why": "원작은 고철 마을, 후속은 우주"
+  },
+  "another_world": {
+   "space": "경계",
+   "why": "사고로 외계 행성에, 우주 항행 없음"
+  },
+  "battle_isle": {
+   "space": "경계",
+   "why": "한 행성 전쟁, 우주 왕래 적음"
+  },
+  "duke_nukem": {
+   "space": "경계",
+   "why": "외계 침공, 일부 편 달·우주 기지"
+  },
+  "nathan_never": {
+   "space": "경계",
+   "why": "미래 도시 경찰, 우주 정거장 편"
+  },
+  "xeelee": {
+   "space": "예",
+   "why": "은하로 퍼진 인류와 질리"
+  },
+  "aeon_flux": {
+   "space": "아니오",
+   "why": "벽으로 갈린 두 나라"
+  },
+  "paprika": {
+   "space": "아니오",
+   "why": "꿈 치료 기계"
+  },
+  "ring": {
+   "space": "아니오",
+   "why": "저주 비디오 연작"
+  },
+  "children_of_men": {
+   "space": "아니오",
+   "why": "아이 없는 영국"
+  },
+  "flashback": {
+   "space": "예",
+   "why": "타이탄·외계 행성을 오감"
+  },
+  "mars_trilogy": {
+   "space": "예",
+   "why": "화성 개척 2백 년"
+  },
+  "quarantine_egan": {
+   "space": "경계",
+   "why": "껍질에 갇힌 태양계, 무대는 지구"
+  },
+  "snow_crash": {
+   "space": "아니오",
+   "why": "기업 국가와 가상 세계"
+  },
+  "universal_soldier": {
+   "space": "아니오",
+   "why": "되살린 병사"
+  },
+  "zones_of_thought": {
+   "space": "예",
+   "why": "은하의 생각 구역들"
+  },
+  "tenchi_muyo": {
+   "space": "예",
+   "why": "은하 제국 공주와 우주 해적"
+  },
+  "tekkaman_blade": {
+   "space": "예",
+   "why": "궤도·달에서 외계 군과 싸움"
+  },
+  "babylon_5": {
+   "space": "예",
+   "why": "여러 종족의 우주 정거장"
+  },
+  "demolition_man": {
+   "space": "아니오",
+   "why": "냉동 감옥 뒤 미래 사회"
+  },
+  "doom": {
+   "space": "예",
+   "why": "화성 기지의 지옥문"
+  },
+  "earthseed": {
+   "space": "경계",
+   "why": "무너진 미국, 끝에 별로 떠남"
+  },
+  "exosquad": {
+   "space": "예",
+   "why": "태양계 개량 인간 반란"
+  },
+  "honorverse": {
+   "space": "예",
+   "why": "초공간 함대전"
+  },
+  "master_of_orion": {
+   "space": "예",
+   "why": "은하를 다투는 종족들"
+  },
+  "mutant_chronicles": {
+   "space": "예",
+   "why": "태양계 기업 나라들"
+  },
+  "space_empires": {
+   "space": "예",
+   "why": "별 사이 통로 영토 경쟁"
+  },
+  "syndicate": {
+   "space": "아니오",
+   "why": "칩으로 사람 길들이는 기업"
+  },
+  "the_giver": {
+   "space": "아니오",
+   "why": "기억 지운 마을"
+  },
+  "the_journeyman_project": {
+   "space": "경계",
+   "why": "시간 순찰, 외계 연합 가입이 축"
+  },
+  "the_x_files": {
+   "space": "경계",
+   "why": "외계인 음모 수사, 지구"
+  },
+  "seaquest_dsv": {
+   "space": "아니오",
+   "why": "바다 밑 잠수함"
+  },
+  "star_fox": {
+   "space": "예",
+   "why": "고향 별계를 지키는 비행대"
+  },
+  "beneath_a_steel_sky": {
+   "space": "아니오",
+   "why": "오염된 탑 도시"
+  },
+  "foreigner_cherryh": {
+   "space": "예",
+   "why": "이주선 사람들과 외계 종족"
+  },
+  "galactic_civilizations": {
+   "space": "예",
+   "why": "초공간 항행 인류의 은하 경쟁"
+  },
+  "heavy_gear": {
+   "space": "예",
+   "why": "지구와 끊긴 개척 행성 전쟁"
+  },
+  "aldebaran": {
+   "space": "예",
+   "why": "연락 끊긴 개척 행성 알데바란"
+  },
+  "thanatonautes": {
+   "space": "아니오",
+   "why": "죽음 너머 세계 탐사"
+  },
+  "little_big_adventure": {
+   "space": "경계",
+   "why": "행성 트윈선, 2편은 다른 행성"
+  },
+  "marathon": {
+   "space": "예",
+   "why": "타우 세티 개척선 침공"
+  },
+  "outpost": {
+   "space": "예",
+   "why": "탈출선의 먼 별 정착"
+  },
+  "permutation_city": {
+   "space": "아니오",
+   "why": "컴퓨터 속 세계, 우주 여행 없음"
+  },
+  "reboot": {
+   "space": "아니오",
+   "why": "컴퓨터 안 도시"
+  },
+  "stargate": {
+   "space": "예",
+   "why": "고리 문으로 먼 별을 오감"
+  },
+  "starsiege_tribes": {
+   "space": "예",
+   "why": "먼 행성 부족 전쟁"
+  },
+  "system_shock": {
+   "space": "예",
+   "why": "기업 우주 정거장"
+  },
+  "xcom": {
+   "space": "경계",
+   "why": "외계 침공, 마지막엔 화성 기지"
+  },
+  "policenauts": {
+   "space": "예",
+   "why": "우주 거주지 경찰"
+  },
+  "yokohama_kaidashi_kikou": {
+   "space": "아니오",
+   "why": "황혼의 일본 로봇 카페"
+  },
+  "xun_qin_ji": {
+   "space": "아니오",
+   "why": "진나라로 간 시간 여행"
+  },
+  "g_gundam": {
+   "space": "예",
+   "why": "우주 식민지 패권 격투 대회"
+  },
+  "red_moon_hwang": {
+   "space": "예",
+   "why": "지구인 후손의 행성 시그너스"
+  },
+  "ascendancy": {
+   "space": "예",
+   "why": "별 사이 길로 퍼지는 종족"
+  },
+  "command_and_conquer_tiberium": {
+   "space": "경계",
+   "why": "하늘서 온 외계 결정, 지구 전쟁"
+  },
+  "descent": {
+   "space": "예",
+   "why": "태양계 광산을 누비는 비행선"
+  },
+  "sliders": {
+   "space": "아니오",
+   "why": "평행 세계 이동"
+  },
+  "space_above_and_beyond": {
+   "space": "예",
+   "why": "해병대 우주 비행대 전쟁"
+  },
+  "strange_days": {
+   "space": "아니오",
+   "why": "기억 녹화 장치"
+  },
+  "calcutta_chromosome": {
+   "space": "아니오",
+   "why": "의식 옮기는 비밀 집단"
+  },
+  "diamond_age": {
+   "space": "아니오",
+   "why": "나노 기계 시대"
+  },
+  "the_dig": {
+   "space": "예",
+   "why": "소행성 막으러 간 비행사, 외계 행성"
+  },
+  "waterworld": {
+   "space": "아니오",
+   "why": "물에 잠긴 세상"
+  },
+  "wipeout": {
+   "space": "아니오",
+   "why": "반중력 경주, 지구"
+  },
+  "ace_combat": {
+   "space": "아니오",
+   "why": "가상 세계 공중전"
+  },
+  "chrono": {
+   "space": "경계",
+   "why": "별에서 온 생물, 사람은 지구"
+  },
+  "time_leap": {
+   "space": "아니오",
+   "why": "시간 뜀 현상"
+  },
+  "trigun": {
+   "space": "예",
+   "why": "이주선이 떨어진 사막 행성"
+  },
+  "parasite_eve": {
+   "space": "아니오",
+   "why": "미토콘드리아의 반란"
+  },
+  "panzer_dragoon": {
+   "space": "아니오",
+   "why": "옛 생물 병기 세계"
+  },
+  "front_mission": {
+   "space": "아니오",
+   "why": "근미래 보행 병기 전쟁"
+  },
+  "rocket_girl": {
+   "space": "예",
+   "why": "여고생 우주인"
+  },
+  "gundam_wing": {
+   "space": "예",
+   "why": "우주 식민지 소년들과 건담"
+  },
+  "virtual_on": {
+   "space": "경계",
+   "why": "근미래 로봇 결투, 달 유적 설정"
+  },
+  "changsegijeon": {
+   "space": "경계",
+   "why": "검과 마법 대륙, 후기작 우주 대목"
+  },
+  "animorphs": {
+   "space": "경계",
+   "why": "외계 기생체 맞섬, 일부 편 우주"
+  },
+  "command_and_conquer_red_alert": {
+   "space": "경계",
+   "why": "대체 20세기 전쟁, 일부 편 달"
+  },
+  "escape_velocity": {
+   "space": "예",
+   "why": "배 한 척으로 다니는 은하"
+  },
+  "fading_suns": {
+   "space": "예",
+   "why": "관문 너머 우주 봉건 사회"
+  },
+  "independence_day": {
+   "space": "경계",
+   "why": "외계 침공, 끝에 모선에 날아감"
+  },
+  "quake": {
+   "space": "예",
+   "why": "외계 행성 스트로고스 침공"
+  },
+  "aquanox": {
+   "space": "아니오",
+   "why": "바다 밑 도시"
+  },
+  "nights_dawn": {
+   "space": "예",
+   "why": "살아 있는 우주선과 거주지"
+  },
+  "the_sparrow": {
+   "space": "예",
+   "why": "먼 행성 선교단"
+  },
+  "z_bitmap": {
+   "space": "예",
+   "why": "먼 행성들의 로봇 전쟁"
+  },
+  "yu_no": {
+   "space": "아니오",
+   "why": "평행 세계 오가는 장치"
+  },
+  "sakura_wars": {
+   "space": "아니오",
+   "why": "증기 다이쇼 도쿄"
+  },
+  "star_ocean": {
+   "space": "예",
+   "why": "은하 연방과 별 건너기 모험"
+  },
+  "tigris_to_euphrates": {
+   "space": "예",
+   "why": "개척 행성의 마지막 아이"
+  },
+  "resident_evil": {
+   "space": "아니오",
+   "why": "생물 무기 재난"
+  },
+  "outlaw_star": {
+   "space": "예",
+   "why": "빛보다 빠른 배의 우주 모험"
+  },
+  "crest_of_the_stars": {
+   "space": "예",
+   "why": "우주 종족 제국의 함대전"
+  },
+  "nadesico": {
+   "space": "예",
+   "why": "화성 기술의 적과 싸우는 전함"
+  },
+  "gundam_x": {
+   "space": "예",
+   "why": "우주 식민지 전쟁 뒤, 끝엔 달"
+  },
+  "gamoutei_jiken": {
+   "space": "아니오",
+   "why": "2·26 사건 시간 여행"
+  },
+  "arms_minagawa": {
+   "space": "아니오",
+   "why": "나노 무기 소년들"
+  },
+  "open_your_eyes": {
+   "space": "아니오",
+   "why": "냉동 보존과 뒤틀린 꿈"
+  },
+  "blame": {
+   "space": "경계",
+   "why": "태양계만큼 자란 구조물 속"
+  },
+  "colony_wars": {
+   "space": "예",
+   "why": "식민지 연맹의 우주 독립 전쟁"
+  },
+  "cube": {
+   "space": "아니오",
+   "why": "덫 방 구조물"
+  },
+  "dark_reign": {
+   "space": "예",
+   "why": "행성들을 쥔 독재 정부와 싸움"
+  },
+  "eden_endo": {
+   "space": "아니오",
+   "why": "병 뒤 남미의 조직 다툼"
+  },
+  "earth_2140": {
+   "space": "예",
+   "why": "지구 탈출선과 화성"
+  },
+  "event_horizon": {
+   "space": "예",
+   "why": "공간을 접는 우주선"
+  },
+  "fallout": {
+   "space": "경계",
+   "why": "핵전쟁 뒤 황무지, 일부에 외계 우주선"
+  },
+  "forever_peace": {
+   "space": "아니오",
+   "why": "원격 전투 로봇 병사"
+  },
+  "gattaca": {
+   "space": "경계",
+   "why": "우주 비행 꿈, 끝에 발사"
+  },
+  "earth_final_conflict": {
+   "space": "경계",
+   "why": "지구에 온 외계 종족"
+  },
+  "independence_war": {
+   "space": "예",
+   "why": "23세기 우주 해군 전쟁"
+  },
+  "imperium_galactica": {
+   "space": "예",
+   "why": "은하 제국 장교"
+  },
+  "kknd": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 땅속·땅 위 싸움"
+  },
+  "lexx": {
+   "space": "예",
+   "why": "살아 있는 곤충 우주선 방랑"
+  },
+  "oddworld": {
+   "space": "아니오",
+   "why": "외계 행성 하나, 우주 왕래 없음"
+  },
+  "fifth_element": {
+   "space": "예",
+   "why": "우주선·우주 유람선과 외계 종족"
+  },
+  "total_annihilation": {
+   "space": "예",
+   "why": "은하를 태운 기계·몸 전쟁"
+  },
+  "transmetropolitan": {
+   "space": "아니오",
+   "why": "미래 거대 도시 기자"
+  },
+  "twilight_imperium": {
+   "space": "예",
+   "why": "은하 왕좌를 다투는 종족들"
+  },
+  "armored_core": {
+   "space": "경계",
+   "why": "용병 로봇, 일부 작품 화성·외계 행성"
+  },
+  "digimon": {
+   "space": "아니오",
+   "why": "디지털 세계"
+  },
+  "final_fantasy_vii": {
+   "space": "경계",
+   "why": "하늘서 온 외계 생명, 로켓 대목"
+  },
+  "medarot": {
+   "space": "아니오",
+   "why": "아이들의 로봇"
+  },
+  "gaogaigar": {
+   "space": "경계",
+   "why": "외계 존재와 싸움, 후반 우주"
+  },
+  "haemosu": {
+   "space": "경계",
+   "why": "황폐한 지구, 우주선은 곁가지"
+  },
+  "lazenca": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 지구, 땅속 생명체"
+  },
+  "arrival": {
+   "space": "경계",
+   "why": "외계 우주선 착륙, 사람은 지구"
+  },
+  "battlezone_1998": {
+   "space": "예",
+   "why": "태양계에서 벌이는 비밀 전쟁"
+  },
+  "big_hero_6": {
+   "space": "아니오",
+   "why": "미래 도시 로봇 영웅"
+  },
+  "dark_city": {
+   "space": "경계",
+   "why": "도시가 우주에 떠 있음이 반전"
+  },
+  "jesus_video": {
+   "space": "아니오",
+   "why": "과거로 간 비디오카메라"
+  },
+  "freespace": {
+   "space": "예",
+   "why": "인류·바수단의 우주 전쟁"
+  },
+  "guilty_gear": {
+   "space": "아니오",
+   "why": "법력 세계의 생물 병기"
+  },
+  "half_life": {
+   "space": "경계",
+   "why": "다른 차원 제국 침공, 지구"
+  },
+  "universal_war_one": {
+   "space": "예",
+   "why": "태양계 끝 검은 벽과 우주 전쟁"
+  },
+  "unreal": {
+   "space": "예",
+   "why": "외계 행성에 떨어진 죄수"
+  },
+  "serial_experiments_lain": {
+   "space": "아니오",
+   "why": "통신망 속 소녀"
+  },
+  "cowboy_bebop": {
+   "space": "예",
+   "why": "태양계 곳곳의 현상금 사냥꾼"
+  },
+  "xenogears": {
+   "space": "예",
+   "why": "추락 우주선 후손의 행성"
+  },
+  "full_metal_panic": {
+   "space": "아니오",
+   "why": "현대 전장의 인간형 병기"
+  },
+  "boogiepop": {
+   "space": "아니오",
+   "why": "비밀 조직과 진화 인류"
+  },
+  "twentieth_century_boys": {
+   "space": "아니오",
+   "why": "멸망 각본을 벌이는 친구"
+  },
+  "darwins_radio": {
+   "space": "아니오",
+   "why": "유전자 속 바이러스"
+  },
+  "farscape": {
+   "space": "예",
+   "why": "먼 은하로 빨려 간 비행사"
+  },
+  "flashforward": {
+   "space": "아니오",
+   "why": "미래를 엿본 2분"
+  },
+  "futurama": {
+   "space": "예",
+   "why": "우주 배달 회사의 31세기"
+  },
+  "galaxy_quest": {
+   "space": "예",
+   "why": "배우들이 진짜 우주 전쟁에"
+  },
+  "homeworld": {
+   "space": "예",
+   "why": "모선을 지어 고향 별로 감"
+  },
+  "outcast": {
+   "space": "아니오",
+   "why": "평행 세계로 건너감, 우주 없음"
+  },
+  "big_o": {
+   "space": "아니오",
+   "why": "기억 잃은 돔 도시"
+  },
+  "the_longest_journey": {
+   "space": "아니오",
+   "why": "과학·마법 쌍둥이 세계"
+  },
+  "matrix": {
+   "space": "아니오",
+   "why": "기계가 만든 가짜 세상"
+  },
+  "timeline_crichton": {
+   "space": "아니오",
+   "why": "14세기 프랑스로 간 학자들"
+  },
+  "warzone_2100": {
+   "space": "아니오",
+   "why": "문명 붕괴 뒤 땅 되찾기"
+  },
+  "x_universe": {
+   "space": "예",
+   "why": "관문으로 이어진 성계들"
+  },
+  "turn_a_gundam": {
+   "space": "예",
+   "why": "달 사람과 지구 사람, 후반 우주"
+  },
+  "keroro": {
+   "space": "경계",
+   "why": "외계 개구리 소대, 무대는 지구"
+  },
+  "scrapped_princess": {
+   "space": "경계",
+   "why": "판타지 겉, 우주 침략 뒤 봉인 세계"
+  },
+  "trinity_blood": {
+   "space": "경계",
+   "why": "화성 귀환자들의 후일, 지구"
+  },
+  "battle_royale": {
+   "space": "아니오",
+   "why": "학생 살육 제도"
+  },
+  "planetes": {
+   "space": "예",
+   "why": "궤도 쓰레기 치우는 우주 노동자"
+  },
+  "taiyo_no_sandatsusha": {
+   "space": "예",
+   "why": "수성에서 솟은 고리와 외계 접촉"
+  },
+  "dai_shang_ta_de_yanjing": {
+   "space": "아니오",
+   "why": "땅속에 갇힌 탐사선"
+  },
+  "infinite_ryvius": {
+   "space": "예",
+   "why": "우주선에 갇힌 학생들"
+  },
+  "yomigaeri": {
+   "space": "경계",
+   "why": "우주 에너지 생명이 떨어짐, 지구"
+  },
+  "restol": {
+   "space": "아니오",
+   "why": "구조 로봇 전담대"
+  },
+  "dark_angel": {
+   "space": "아니오",
+   "why": "유전자 병사 소녀"
+  },
+  "deus_ex": {
+   "space": "아니오",
+   "why": "기계 몸 근미래 음모"
+  },
+  "freelancer": {
+   "space": "예",
+   "why": "시리우스로 건너간 인류의 나라들"
+  },
+  "gantz": {
+   "space": "경계",
+   "why": "외계인 사냥, 무대는 지구"
+  },
+  "andromeda": {
+   "space": "예",
+   "why": "무너진 은하 연합 되살리기"
+  },
+  "ground_control": {
+   "space": "예",
+   "why": "궤도에서 병력 내려 싸움"
+  },
+  "infinity_series": {
+   "space": "아니오",
+   "why": "닫힌 시설의 시간 고리"
+  },
+  "perfect_dark": {
+   "space": "경계",
+   "why": "외계 종족 음모, 끝에 외계 행성"
+  },
+  "revelation_space": {
+   "space": "예",
+   "why": "사라진 문명들의 은하"
+  },
+  "schlock_mercenary": {
+   "space": "예",
+   "why": "은하의 우주 용병단"
+  },
+  "riddick": {
+   "space": "예",
+   "why": "괴물 행성과 우주 군단"
+  },
+  "timesplitters": {
+   "space": "아니오",
+   "why": "시대를 넘는 괴물 추격"
+  },
+  "titan_ae": {
+   "space": "예",
+   "why": "지구 잃은 인류와 새 행성 배"
+  },
+  "chobits": {
+   "space": "아니오",
+   "why": "기계 소녀와 재수생"
+  },
+  "zipang": {
+   "space": "아니오",
+   "why": "태평양 전쟁으로 간 이지스함"
+  },
+  "phantasy_star_online": {
+   "space": "예",
+   "why": "이주선이 닿은 행성 라골"
+  },
+  "flcl": {
+   "space": "경계",
+   "why": "외계 여자와 로봇, 마을"
+  },
+  "moonlight_mile": {
+   "space": "예",
+   "why": "달 개발과 우주 비행사"
+  },
+  "vandread": {
+   "space": "예",
+   "why": "남자 별·여자 별의 개척지 우주"
+  },
+  "saikano": {
+   "space": "아니오",
+   "why": "몸이 무기가 된 여고생"
+  },
+  "hakubutsukan_wakusei": {
+   "space": "예",
+   "why": "우주 예술품 박물관 행성"
+  },
+  "wandering_earth": {
+   "space": "예",
+   "why": "지구에 엔진 달아 별로 감"
+  },
+  "gunparade_march": {
+   "space": "아니오",
+   "why": "평행 일본의 학도병"
+  },
+  "aria_amano": {
+   "space": "예",
+   "why": "물로 덮은 화성의 물길 도시"
+  },
+  "anachronox": {
+   "space": "예",
+   "why": "은하 관문 곁 행성 도시"
+  },
+  "anarchy_online": {
+   "space": "예",
+   "why": "광물 행성 두고 기업과 반란군"
+  },
+  "atlantis_the_lost_empire": {
+   "space": "아니오",
+   "why": "바다 밑 옛 문명"
+  },
+  "donnie_darko": {
+   "space": "아니오",
+   "why": "갈라진 시간"
+  },
+  "girl_genius": {
+   "space": "아니오",
+   "why": "미친 과학자 유럽"
+  },
+  "hostile_waters": {
+   "space": "아니오",
+   "why": "칩에 담은 병사와 전투함"
+  },
+  "invader_zim": {
+   "space": "경계",
+   "why": "외계 침략자 우스개, 무대는 지구"
+  },
+  "jak_and_daxter": {
+   "space": "경계",
+   "why": "한 행성 모험, 옛 종족은 우주"
+  },
+  "mortal_engines": {
+   "space": "아니오",
+   "why": "굴러다니는 도시들"
+  },
+  "original_war": {
+   "space": "아니오",
+   "why": "200만 년 전으로 간 군대"
+  },
+  "polity_asher": {
+   "space": "예",
+   "why": "순간 이동 문으로 이은 인류 연합"
+  },
+  "red_faction": {
+   "space": "예",
+   "why": "화성 광산 노동자 봉기"
+  },
+  "samurai_jack": {
+   "space": "경계",
+   "why": "먼 미래로 간 사무라이, 외계인 섞임"
+  },
+  "serious_sam": {
+   "space": "경계",
+   "why": "외계 침공, 2편은 여러 행성"
+  },
+  "startopia": {
+   "space": "예",
+   "why": "버려진 우주 정거장 되살리기"
+  },
+  "zone_of_the_enders": {
+   "space": "예",
+   "why": "화성·목성 개척지와 지구 싸움"
+  },
+  "twin_spica": {
+   "space": "예",
+   "why": "우주비행사 학교 소녀"
+  },
+  "iriya_no_sora": {
+   "space": "경계",
+   "why": "외계와 숨은 전쟁, 지구"
+  },
+  "pikmin": {
+   "space": "예",
+   "why": "낯선 행성에 떨어진 작은 우주인"
+  },
+  "xiangcun_jiaoshi": {
+   "space": "예",
+   "why": "은하 문명 전쟁과 외계 함대"
+  },
+  "cubix": {
+   "space": "아니오",
+   "why": "로봇과 사람 시험 마을"
+  },
+  "dot_hack": {
+   "space": "아니오",
+   "why": "온라인 게임 속 세계"
+  },
+  "altered_carbon": {
+   "space": "예",
+   "why": "별 사이 의식 전송과 식민 행성"
+  },
+  "equilibrium": {
+   "space": "아니오",
+   "why": "감정 금지 국가"
+  },
+  "firefly": {
+   "space": "예",
+   "why": "새 항성계를 떠도는 화물선"
+  },
+  "gunslinger_girl": {
+   "space": "아니오",
+   "why": "기계 몸 소녀 암살자"
+  },
+  "haegemonia": {
+   "space": "예",
+   "why": "태양계 전쟁 뒤 외계 종족"
+  },
+  "lilo_and_stitch": {
+   "space": "경계",
+   "why": "은하 연합서 달아난 외계 생물, 하와이"
+  },
+  "king_gainer": {
+   "space": "아니오",
+   "why": "돔 도시를 버리는 대이동"
+  },
+  "ratchet_clank": {
+   "space": "예",
+   "why": "은하를 도는 정비공과 로봇"
+  },
+  "neanderthal_parallax": {
+   "space": "아니오",
+   "why": "평행 지구"
+  },
+  "speed_of_dark": {
+   "space": "아니오",
+   "why": "자폐 치료 고민"
+  },
+  "treasure_planet": {
+   "space": "예",
+   "why": "돛단배로 우주를 항해"
+  },
+  "y_the_last_man": {
+   "space": "아니오",
+   "why": "수컷이 사라진 지구"
+  },
+  "space_rangers": {
+   "space": "예",
+   "why": "다섯 종족 연합의 은하 레인저"
+  },
+  "utawarerumono": {
+   "space": "아니오",
+   "why": "짐승 귀 사람들의 먼 미래 지구"
+  },
+  "voices_of_a_distant_star": {
+   "space": "예",
+   "why": "외계인과 싸우러 멀리 간 소녀"
+  },
+  "xenosaga": {
+   "space": "예",
+   "why": "은하로 퍼진 인류와 외계 존재"
+  },
+  "sword_art_online": {
+   "space": "아니오",
+   "why": "가상 현실 게임"
+  },
+  "rahxephon": {
+   "space": "경계",
+   "why": "이차원 종족 침입, 무대는 도쿄"
+  },
+  "tunshizhe": {
+   "space": "예",
+   "why": "행성을 먹는 탐식 제국"
+  },
+  "gundam_seed": {
+   "space": "예",
+   "why": "우주 식민지와 지구의 전쟁"
+  },
+  "match_girl": {
+   "space": "아니오",
+   "why": "가상 현실 게임"
+  },
+  "beyond_good_and_evil": {
+   "space": "예",
+   "why": "행성 힐리스, 끝에 달 기지"
+  },
+  "code_lyoko": {
+   "space": "아니오",
+   "why": "가상 세계 인공지능"
+  },
+  "eve_online": {
+   "space": "예",
+   "why": "뉴에덴 성단의 우주 제국들"
+  },
+  "ilium": {
+   "space": "예",
+   "why": "화성에서 다시 벌이는 트로이 전쟁"
+  },
+  "invincible": {
+   "space": "예",
+   "why": "외계 정복 제국과 우주 편"
+  },
+  "last_exile": {
+   "space": "예",
+   "why": "개척 행성, 엑자일은 우주선"
+  },
+  "maddaddam": {
+   "space": "아니오",
+   "why": "역병 뒤 설계된 사람들"
+  },
+  "pluto_urasawa": {
+   "space": "아니오",
+   "why": "로봇 연쇄 살인 수사"
+  },
+  "planetside": {
+   "space": "예",
+   "why": "갇힌 개척 행성 전쟁"
+  },
+  "silent_storm": {
+   "space": "아니오",
+   "why": "2차 대전 비밀 결사"
+  },
+  "space_station_13": {
+   "space": "예",
+   "why": "기업 연구 우주 정거장"
+  },
+  "texhnolyze": {
+   "space": "아니오",
+   "why": "땅속 도시 기계 팔다리"
+  },
+  "time_travelers_wife": {
+   "space": "아니오",
+   "why": "시간 건너뛰는 남자"
+  },
+  "ufo_aftermath": {
+   "space": "예",
+   "why": "포자 재앙, 후속작은 궤도·화성"
+  },
+  "muv_luv": {
+   "space": "경계",
+   "why": "외계 생명 침공, 궤도 대목 일부"
+  },
+  "mardock_scramble": {
+   "space": "아니오",
+   "why": "사이보그 소녀 복수"
+  },
+  "earth_defense_force": {
+   "space": "경계",
+   "why": "외계 함대 침공, 지구 방어"
+  },
+  "suzumiya_haruhi": {
+   "space": "경계",
+   "why": "외계 지성 대리인, 무대는 학교"
+  },
+  "dairoku_tairiku": {
+   "space": "예",
+   "why": "달 위 건설 사업"
+  },
+  "chaoxinxing_jiyuan": {
+   "space": "아니오",
+   "why": "아이들만 남은 지구"
+  },
+  "gintama": {
+   "space": "경계",
+   "why": "외계인 연 에도, 일부 편 우주"
+  },
+  "natural_city": {
+   "space": "아니오",
+   "why": "인조인간 단속 요원"
+  },
+  "wonderful_days": {
+   "space": "아니오",
+   "why": "검게 묶인 하늘 도시"
+  },
+  "save_the_green_planet": {
+   "space": "경계",
+   "why": "외계인 망상 납치극, 끝에 우주선"
+  },
+  "edge_of_tomorrow": {
+   "space": "경계",
+   "why": "외계 생물 전쟁, 지구"
+  },
+  "biomega": {
+   "space": "아니오",
+   "why": "괴물 병 퍼진 미래 도시"
+  },
+  "cloud_atlas": {
+   "space": "아니오",
+   "why": "여섯 시대 이야기, 지구"
+  },
+  "commonwealth_hamilton": {
+   "space": "예",
+   "why": "웜홀로 이은 인류 연합"
+  },
+  "der_schwarm": {
+   "space": "아니오",
+   "why": "바다 밑 군체 지성"
+  },
+  "eternal_sunshine": {
+   "space": "아니오",
+   "why": "기억 지우기"
+  },
+  "killzone": {
+   "space": "예",
+   "why": "행성 헬간과 벡타의 전쟁"
+  },
+  "lost": {
+   "space": "아니오",
+   "why": "외딴섬의 비밀"
+  },
+  "nexus_jupiter_incident": {
+   "space": "예",
+   "why": "태양계 밖 외계 관문 함대"
+  },
+  "perimeter": {
+   "space": "예",
+   "why": "지구 떠나 세계들을 건넘"
+  },
+  "primer": {
+   "space": "아니오",
+   "why": "차고 시간 기계"
+  },
+  "the_4400": {
+   "space": "아니오",
+   "why": "돌아온 4400명 초능력"
+  },
+  "we3": {
+   "space": "아니오",
+   "why": "무기가 된 동물 탈출"
+  },
+  "planetarian": {
+   "space": "아니오",
+   "why": "무너진 도시의 천체 투영관"
+  },
+  "toaru_majutsu_no_index": {
+   "space": "아니오",
+   "why": "초능력 학원 도시와 마술"
+  },
+  "bokurano": {
+   "space": "아니오",
+   "why": "평행 지구 로봇과 싸움"
+  },
+  "shangri_la": {
+   "space": "아니오",
+   "why": "숲이 된 도쿄와 거대 탑"
+  },
+  "shio_no_machi": {
+   "space": "아니오",
+   "why": "소금 기둥이 되는 세상"
+  },
+  "ooku": {
+   "space": "아니오",
+   "why": "여자 쇼군 대체 역사"
+  },
+  "fafner": {
+   "space": "경계",
+   "why": "규소 생명 침공, 섬에서 싸움"
+  },
+  "place_promised": {
+   "space": "아니오",
+   "why": "평행 세계 끌어들이는 탑"
+  },
+  "nine": {
+   "space": "아니오",
+   "why": "헝겊 인형과 기계"
+  },
+  "accelerando": {
+   "space": "예",
+   "why": "태양계가 계산 기계로 뜯김"
+  },
+  "ben_10": {
+   "space": "예",
+   "why": "외계 변신 소년, 우주 왕래"
+  },
+  "darwinia": {
+   "space": "아니오",
+   "why": "컴퓨터 속 인공 생명"
+  },
+  "destroy_all_humans": {
+   "space": "경계",
+   "why": "외계인 주인공, 무대는 지구"
+  },
+  "fear": {
+   "space": "아니오",
+   "why": "초능력 소녀 실험"
+  },
+  "never_let_me_go": {
+   "space": "아니오",
+   "why": "장기 복제 아이들"
+  },
+  "old_mans_war": {
+   "space": "예",
+   "why": "새 몸 노인들의 우주 개척군"
+  },
+  "robots": {
+   "space": "아니오",
+   "why": "로봇 도시"
+  },
+  "spin_wilson": {
+   "space": "예",
+   "why": "막에 갇힌 지구와 화성 개척"
+  },
+  "the_island": {
+   "space": "아니오",
+   "why": "복제 격리 시설"
+  },
+  "uglies": {
+   "space": "아니오",
+   "why": "성형 미래 도시"
+  },
+  "metro": {
+   "space": "아니오",
+   "why": "지하철 생존자"
+  },
+  "rogue_galaxy": {
+   "space": "예",
+   "why": "우주 해적선으로 별을 누빔"
+  },
+  "eureka_seven": {
+   "space": "경계",
+   "why": "산호 덮인 행성, 우주 귀환 사연"
+  },
+  "aquarion": {
+   "space": "경계",
+   "why": "합체 로봇, 속편은 다른 별 세계"
+  },
+  "eureka": {
+   "space": "아니오",
+   "why": "천재 과학자 마을"
+  },
+  "firefall": {
+   "space": "예",
+   "why": "태양계 끝 외계 신호 탐사"
+  },
+  "gears_of_war": {
+   "space": "경계",
+   "why": "행성 세라 전쟁, 궤도 무기만"
+  },
+  "heroes": {
+   "space": "아니오",
+   "why": "초능력 평범한 사람들"
+  },
+  "papillon_des_etoiles": {
+   "space": "예",
+   "why": "빛 돛 세대 우주선"
+  },
+  "oban_star_racers": {
+   "space": "예",
+   "why": "은하 종족들의 우주 경주"
+  },
+  "rainbows_end": {
+   "space": "아니오",
+   "why": "덧입힌 현실 근미래"
+  },
+  "renaissance": {
+   "space": "아니오",
+   "why": "2054년 파리 수사"
+  },
+  "resistance": {
+   "space": "경계",
+   "why": "외계 키메라 침공 대체 역사"
+  },
+  "sword_of_the_stars": {
+   "space": "예",
+   "why": "은하를 두고 겨루는 종족"
+  },
+  "the_road": {
+   "space": "아니오",
+   "why": "잿빛 땅의 부자"
+  },
+  "world_war_z": {
+   "space": "아니오",
+   "why": "좀비 전쟁 증언"
+  },
+  "exa_pico": {
+   "space": "경계",
+   "why": "탑 행성 이야기, 후기작 우주선"
+  },
+  "ergo_proxy": {
+   "space": "경계",
+   "why": "돔 도시, 우주로 떠난 인류 귀환"
+  },
+  "code_geass": {
+   "space": "아니오",
+   "why": "브리타니아 제국 대체 역사"
+  },
+  "zegapain": {
+   "space": "아니오",
+   "why": "서버 속 기록 마을"
+  },
+  "platinum_data": {
+   "space": "아니오",
+   "why": "유전자 수사 근미래"
+  },
+  "lost_planet": {
+   "space": "예",
+   "why": "얼음 개척 행성"
+  },
+  "shumatsu_no_fool": {
+   "space": "아니오",
+   "why": "소행성 충돌 앞 사람들"
+  },
+  "daerijeon": {
+   "space": "경계",
+   "why": "외계인 대리 전쟁, 무대는 부천"
+  },
+  "aachi_and_ssipak": {
+   "space": "아니오",
+   "why": "똥 연료 사막 도시"
+  },
+  "bioshock": {
+   "space": "아니오",
+   "why": "바닷속·하늘 도시, 우주 없음"
+  },
+  "crackdown": {
+   "space": "아니오",
+   "why": "강화 요원 도시"
+  },
+  "crysis": {
+   "space": "경계",
+   "why": "깨어난 외계 종족, 지구"
+  },
+  "darker_than_black": {
+   "space": "아니오",
+   "why": "능력자 도쿄"
+  },
+  "home_2015": {
+   "space": "경계",
+   "why": "지구를 차지한 외계 종족"
+  },
+  "timecrimes": {
+   "space": "아니오",
+   "why": "한 시간 전으로 돌아감"
+  },
+  "primeval": {
+   "space": "아니오",
+   "why": "시간 틈 옛 생물"
+  },
+  "stalker_gsc": {
+   "space": "아니오",
+   "why": "체르노빌 구역"
+  },
+  "sunshine": {
+   "space": "예",
+   "why": "해로 날아가는 우주선"
+  },
+  "supreme_commander": {
+   "space": "예",
+   "why": "관문망으로 퍼진 인류 전쟁"
+  },
+  "umbrella_academy": {
+   "space": "경계",
+   "why": "외계인 양아버지, 무대는 지구"
+  },
+  "universe_at_war": {
+   "space": "경계",
+   "why": "외계 세력끼리 지구에서 맞붙음"
+  },
+  "unwind": {
+   "space": "아니오",
+   "why": "장기 분해 미국"
+  },
+  "accel_world": {
+   "space": "아니오",
+   "why": "가속 가상 세계"
+  },
+  "heroic_age": {
+   "space": "예",
+   "why": "은하의 종족 다툼"
+  },
+  "jinrui_wa_suitai_shimashita": {
+   "space": "아니오",
+   "why": "요정과 쇠퇴한 인류"
+  },
+  "gurren_lagann": {
+   "space": "예",
+   "why": "땅속에서 우주로 나아감"
+  },
+  "space_brothers": {
+   "space": "예",
+   "why": "형제 우주비행사, 달·화성"
+  },
+  "gundam_00": {
+   "space": "예",
+   "why": "궤도 엘리베이터와 외계 접촉"
+  },
+  "gyakusatsu_kikan": {
+   "space": "아니오",
+   "why": "학살 부르는 감시 사회"
+  },
+  "dennou_coil": {
+   "space": "아니오",
+   "why": "안경 속 전자 공간"
+  },
+  "blazblue": {
+   "space": "아니오",
+   "why": "검은 짐승 뒤 되풀이 세계"
+  },
+  "chaos_walking": {
+   "space": "예",
+   "why": "생각이 들리는 개척 행성"
+  },
+  "cloverfield": {
+   "space": "경계",
+   "why": "괴수물, 셋째 편은 우주 정거장"
+  },
+  "dead_space": {
+   "space": "예",
+   "why": "행성 채굴선의 외계 유물"
+  },
+  "fringe": {
+   "space": "아니오",
+   "why": "평행 우주 수사, 우주 여행 없음"
+  },
+  "little_brother": {
+   "space": "아니오",
+   "why": "감시 국가 해커"
+  },
+  "mirrors_edge": {
+   "space": "아니오",
+   "why": "감시 도시 배달꾼"
+  },
+  "sins_of_a_solar_empire": {
+   "space": "예",
+   "why": "은하 세력 함대전"
+  },
+  "spore": {
+   "space": "예",
+   "why": "세포에서 은하로 진화"
+  },
+  "hunger_games": {
+   "space": "아니오",
+   "why": "무너진 북아메리카 독재국"
+  },
+  "wall_e": {
+   "space": "예",
+   "why": "700년 산 우주선 인류"
+  },
+  "time_of_eve": {
+   "space": "아니오",
+   "why": "인조인간 찻집"
+  },
+  "kaiba": {
+   "space": "예",
+   "why": "우주선 타고 별들을 떠돎"
+  },
+  "harmony": {
+   "space": "아니오",
+   "why": "건강 관리 사회"
+  },
+  "bodacious_space_pirates": {
+   "space": "예",
+   "why": "여고생 우주 해적선 선장"
+  },
+  "shin_sekai_yori": {
+   "space": "아니오",
+   "why": "염력 마을의 숨은 역사"
+  },
+  "science_adventure": {
+   "space": "아니오",
+   "why": "근미래 일본 시간 여행 사건"
+  },
+  "mahouka": {
+   "space": "아니오",
+   "why": "마법과 고교"
+  },
+  "ai_war": {
+   "space": "예",
+   "why": "은하를 차지한 인공지능과 싸움"
+  },
+  "avatar": {
+   "space": "예",
+   "why": "판도라 위성 개척과 토착민"
+  },
+  "baldr_sky": {
+   "space": "아니오",
+   "why": "전뇌 공간 용병"
+  },
+  "borderlands": {
+   "space": "예",
+   "why": "무법 개척 행성"
+  },
+  "district_9": {
+   "space": "경계",
+   "why": "외계 난민, 무대는 요하네스버그"
+  },
+  "dollhouse": {
+   "space": "아니오",
+   "why": "인격 심는 비밀 시설"
+  },
+  "eclipse_phase": {
+   "space": "예",
+   "why": "지구 잃고 태양계에 흩어진 인류"
+  },
+  "galaxy_on_fire": {
+   "space": "예",
+   "why": "외계 제국과 맞서는 조종사"
+  },
+  "infinite_stratos": {
+   "space": "아니오",
+   "why": "강화 외골격 학교"
+  },
+  "killing_floor": {
+   "space": "아니오",
+   "why": "복제 실험체가 도시 덮침"
+  },
+  "machinarium": {
+   "space": "아니오",
+   "why": "로봇 녹슨 도시"
+  },
+  "monsters_vs_aliens": {
+   "space": "경계",
+   "why": "외계 침공 막는 괴물들"
+  },
+  "moon": {
+   "space": "예",
+   "why": "달 기지 노동자"
+  },
+  "planet_51": {
+   "space": "예",
+   "why": "외계 행성에 내린 우주비행사"
+  },
+  "prototype": {
+   "space": "아니오",
+   "why": "바이러스 뉴욕"
+  },
+  "redline": {
+   "space": "예",
+   "why": "외계 종족의 은하 경주"
+  },
+  "steins_gate": {
+   "space": "아니오",
+   "why": "세계선 시간 여행"
+  },
+  "sweet_tooth": {
+   "space": "아니오",
+   "why": "역병 뒤 혼종 아이들"
+  },
+  "maze_runner": {
+   "space": "아니오",
+   "why": "거대 미로"
+  },
+  "windup_girl": {
+   "space": "아니오",
+   "why": "유전자 역병 방콕"
+  },
+  "infamous": {
+   "space": "아니오",
+   "why": "초능력 전도체"
+  },
+  "summer_wars": {
+   "space": "아니오",
+   "why": "가상 공간 인공지능"
+  },
+  "knights_of_sidonia": {
+   "space": "예",
+   "why": "천 년째 우주를 떠도는 씨앗 배"
+  },
+  "heavy_object": {
+   "space": "아니오",
+   "why": "거대 병기 전쟁"
+  },
+  "tenmei_no_shirube": {
+   "space": "예",
+   "why": "28세기 개척 행성까지 우주 대하"
+  },
+  "zero_escape": {
+   "space": "경계",
+   "why": "탈출 놀이, 달 시설·화성 계획 배경"
+  },
+  "infinite_space": {
+   "space": "예",
+   "why": "관문 지나 은하를 건너는 함장"
+  },
+  "murasakiiro_no_qualia": {
+   "space": "아니오",
+   "why": "평행 세계 이어 잃은 사람 찾기"
+  },
+  "arpeggio_of_blue_steel": {
+   "space": "아니오",
+   "why": "정체 모를 함대가 바다 막음"
+  },
+  "knight_run": {
+   "space": "예",
+   "why": "별 사이를 건너는 인류와 괴수"
+  },
+  "jeolmangui_gu": {
+   "space": "아니오",
+   "why": "사람을 빨아들이는 검은 구"
+  },
+  "tower": {
+   "space": "아니오",
+   "why": "탑 하나가 나라인 도시"
+  },
+  "distant_worlds": {
+   "space": "예",
+   "why": "은하로 퍼지는 종족들"
+  },
+  "enslaved": {
+   "space": "아니오",
+   "why": "기계 전쟁 뒤 뉴욕"
+  },
+  "god_eater": {
+   "space": "아니오",
+   "why": "괴물에 무너진 문명"
+  },
+  "generator_rex": {
+   "space": "아니오",
+   "why": "나노 기계 괴물"
+  },
+  "inception": {
+   "space": "아니오",
+   "why": "꿈 침투 도둑"
+  },
+  "quantum_thief": {
+   "space": "예",
+   "why": "먼 미래 태양계와 화성 도시"
+  },
+  "lorien_legacies": {
+   "space": "경계",
+   "why": "멸망 행성의 아이들, 지구에 숨음"
+  },
+  "nier": {
+   "space": "경계",
+   "why": "외계 기계 전쟁, 궤도 기지 대목"
+  },
+  "singularity": {
+   "space": "아니오",
+   "why": "시간 물질 섬"
+  },
+  "enthiran": {
+   "space": "아니오",
+   "why": "감정 배우는 로봇"
+  },
+  "genocide": {
+   "space": "아니오",
+   "why": "사람을 넘는 존재 제거 작전"
+  },
+  "xenoblade_chronicles": {
+   "space": "경계",
+   "why": "거신 위 세계, 근원은 우주 실험"
+  },
+  "penguin_highway": {
+   "space": "아니오",
+   "why": "동네의 펭귄 수수께끼"
+  },
+  "vanquish": {
+   "space": "예",
+   "why": "우주 거주지 탈환 작전"
+  },
+  "swallowed_star": {
+   "space": "예",
+   "why": "유전자 키운 인류가 우주로"
+  },
+  "kiryu_keisatsu": {
+   "space": "아니오",
+   "why": "근미래 경찰 기체"
+  },
+  "karyu_no_miya": {
+   "space": "아니오",
+   "why": "물에 잠긴 지구 인류"
+  },
+  "nunmeon_sigyegong": {
+   "space": "아니오",
+   "why": "기억 뽑는 2049년 서울"
+  },
+  "denma": {
+   "space": "예",
+   "why": "여덟 번째 우주의 택배 회사"
+  },
+  "tobot": {
+   "space": "아니오",
+   "why": "변신 자동차 로봇"
+  },
+  "eleven_22_63": {
+   "space": "아니오",
+   "why": "케네디 암살 막는 시간 여행"
+  },
+  "anno_2070": {
+   "space": "경계",
+   "why": "바다 위 도시, 후속작은 달"
+  },
+  "beatless": {
+   "space": "아니오",
+   "why": "기계 소녀 주인"
+  },
+  "black_mirror": {
+   "space": "경계",
+   "why": "선집, 일부 편만 우주"
+  },
+  "bulletstorm": {
+   "space": "예",
+   "why": "버려진 휴양 행성"
+  },
+  "divergent": {
+   "space": "아니오",
+   "why": "분파 사회 시카고"
+  },
+  "el_barco": {
+   "space": "아니오",
+   "why": "물에 잠긴 세상 실습선"
+  },
+  "embassytown": {
+   "space": "예",
+   "why": "외계 종족 곁 인류 도시"
+  },
+  "falling_skies": {
+   "space": "경계",
+   "why": "외계 침공 저항, 끝에 달 공격"
+  },
+  "gemini_rue": {
+   "space": "예",
+   "why": "탄광 행성과 범죄 조직 별계"
+  },
+  "in_time": {
+   "space": "아니오",
+   "why": "시간이 돈인 세상"
+  },
+  "kerbal_space_program": {
+   "space": "예",
+   "why": "로켓 쏘아 올리는 별계"
+  },
+  "person_of_interest": {
+   "space": "아니오",
+   "why": "감시 인공지능"
+  },
+  "rage": {
+   "space": "아니오",
+   "why": "소행성 충돌 뒤 황무지"
+  },
+  "ready_player_one": {
+   "space": "아니오",
+   "why": "가상 세계 유산"
+  },
+  "robopocalypse": {
+   "space": "아니오",
+   "why": "기계 반란"
+  },
+  "silo": {
+   "space": "아니오",
+   "why": "땅속 원통 사회"
+  },
+  "source_code": {
+   "space": "아니오",
+   "why": "마지막 8분 반복"
+  },
+  "starsector": {
+   "space": "예",
+   "why": "관문망 끊긴 별 무리 세력"
+  },
+  "terra_nova": {
+   "space": "아니오",
+   "why": "시간 틈 공룡 시대 정착"
+  },
+  "the_martian": {
+   "space": "예",
+   "why": "화성에 홀로 남은 식물학자"
+  },
+  "guilty_crown": {
+   "space": "아니오",
+   "why": "바이러스 재앙 도쿄"
+  },
+  "terra_formars": {
+   "space": "예",
+   "why": "화성 바퀴벌레와 싸움"
+  },
+  "dimension_w": {
+   "space": "아니오",
+   "why": "네 번째 차원 에너지"
+  },
+  "black_bullet": {
+   "space": "아니오",
+   "why": "괴물 벽 안 인류"
+  },
+  "gundam_age": {
+   "space": "예",
+   "why": "화성 이주민 후손과 지구 연방 전쟁"
+  },
+  "jezebel": {
+   "space": "예",
+   "why": "링커 우주의 행성 모험"
+  },
+  "time_in_joseon": {
+   "space": "아니오",
+   "why": "조선으로 떨어진 미래인"
+  },
+  "ksr_2312": {
+   "space": "예",
+   "why": "소행성 거주지 태양계"
+  },
+  "analogue_hate_story": {
+   "space": "예",
+   "why": "세대선 기록 읽기"
+  },
+  "binary_domain": {
+   "space": "아니오",
+   "why": "로봇 회사 추적 도쿄"
+  },
+  "continuum": {
+   "space": "아니오",
+   "why": "미래에서 온 경찰"
+  },
+  "cytus": {
+   "space": "아니오",
+   "why": "노래 로봇과 가상 도시"
+  },
+  "endless": {
+   "space": "예",
+   "why": "옛 종족 유산 두고 다투는 우주"
+  },
+  "ftl": {
+   "space": "예",
+   "why": "성계를 건너뛰는 작은 배"
+  },
+  "iron_sky": {
+   "space": "예",
+   "why": "달 뒷면 나치의 지구 침공"
+  },
+  "looper": {
+   "space": "아니오",
+   "why": "늙은 자신 처리 청부"
+  },
+  "psycho_pass": {
+   "space": "아니오",
+   "why": "마음 수치 감시 사회"
+  },
+  "primordia": {
+   "space": "아니오",
+   "why": "기계만 남은 세계"
+  },
+  "redshirts": {
+   "space": "예",
+   "why": "드라마 속 우주선 선원"
+  },
+  "revolution": {
+   "space": "아니오",
+   "why": "전기 꺼진 미국"
+  },
+  "saga_vaughan": {
+   "space": "예",
+   "why": "두 종족 연인이 은하를 떠돎"
+  },
+  "star_citizen": {
+   "space": "예",
+   "why": "지구 연합 제국 변경 우주"
+  },
+  "long_earth": {
+   "space": "경계",
+   "why": "옆 지구로 퍼짐, 후속에 화성"
+  },
+  "lunar_chronicles": {
+   "space": "예",
+   "why": "달 왕국과 사이보그 신데렐라"
+  },
+  "troisieme_humanite": {
+   "space": "아니오",
+   "why": "작은 인류와 말하는 지구"
+  },
+  "wayward_pines": {
+   "space": "아니오",
+   "why": "긴 잠 뒤 미래 마을"
+  },
+  "akta_manniskor": {
+   "space": "아니오",
+   "why": "일꾼 로봇"
+  },
+  "phantasy_star_online_2": {
+   "space": "예",
+   "why": "별 사이를 떠도는 함대"
+  },
+  "ajin": {
+   "space": "아니오",
+   "why": "되살아나는 사람"
+  },
+  "beijing_zhedie": {
+   "space": "아니오",
+   "why": "접히는 베이징"
+  },
+  "land_of_the_lustrous": {
+   "space": "경계",
+   "why": "달에서 오는 자들, 후반 달 무대"
+  },
+  "shisha_no_teikoku": {
+   "space": "아니오",
+   "why": "시체 일꾼 대체 역사"
+  },
+  "hyakunenho": {
+   "space": "아니오",
+   "why": "백 년 뒤 죽는 법"
+  },
+  "duty_after_school": {
+   "space": "경계",
+   "why": "하늘의 구체와 학도병, 지구"
+  },
+  "doomsday_book": {
+   "space": "아니오",
+   "why": "인류 끝 세 이야기"
+  },
+  "jo_universe": {
+   "space": "아니오",
+   "why": "몸속 문명과 거대 물고기"
+  },
+  "jiguesoe_hanappun": {
+   "space": "경계",
+   "why": "2억 광년 건너온 외계인, 지구"
+  },
+  "chiryinui_jiphaenggwan": {
+   "space": "아니오",
+   "why": "되풀이 사형 선고"
+  },
+  "almost_human": {
+   "space": "아니오",
+   "why": "인조인간 경찰"
+  },
+  "black_science": {
+   "space": "아니오",
+   "why": "평행 세계 떠돌기"
+  },
+  "cataclysm_dda": {
+   "space": "아니오",
+   "why": "차원문 괴물, 뉴잉글랜드"
+  },
+  "defiance": {
+   "space": "경계",
+   "why": "외계 종족 정착 지구 변경"
+  },
+  "east_of_west": {
+   "space": "아니오",
+   "why": "묵시록 기사 대체 역사"
+  },
+  "elysium": {
+   "space": "예",
+   "why": "궤도 바퀴 거주지"
+  },
+  "blood_dragon": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 사이보그 요원"
+  },
+  "her": {
+   "space": "아니오",
+   "why": "운영 체제와의 사랑"
+  },
+  "imperial_radch": {
+   "space": "예",
+   "why": "배 인공지능 제국"
+  },
+  "kenshi": {
+   "space": "아니오",
+   "why": "몰락한 거친 땅 떠돌이"
+  },
+  "lazarus_rucka": {
+   "space": "아니오",
+   "why": "가문이 나눈 세상"
+  },
+  "numenera": {
+   "space": "아니오",
+   "why": "10억 년 뒤 지구 유물"
+  },
+  "oblivion": {
+   "space": "경계",
+   "why": "외계 침공 뒤 지구, 끝에 궤도 기지"
+  },
+  "orphan_black": {
+   "space": "아니오",
+   "why": "복제 인간 실험"
+  },
+  "pacific_rim": {
+   "space": "아니오",
+   "why": "바다 차원 틈 괴수"
+  },
+  "remember_me": {
+   "space": "아니오",
+   "why": "기억 사고파는 파리"
+  },
+  "rick_and_morty": {
+   "space": "예",
+   "why": "차원과 은하를 넘나드는 과학자"
+  },
+  "rimworld": {
+   "space": "예",
+   "why": "은하 변두리 행성 정착지"
+  },
+  "risk_of_rain": {
+   "space": "예",
+   "why": "화물선 추락 행성 생존"
+  },
+  "space_engineers": {
+   "space": "예",
+   "why": "배와 기지를 짓는 근미래 우주"
+  },
+  "starbound": {
+   "space": "예",
+   "why": "은하 행성을 누비는 생존자"
+  },
+  "steamworld": {
+   "space": "경계",
+   "why": "증기 로봇 서부, 일부 작품 우주"
+  },
+  "steven_universe": {
+   "space": "예",
+   "why": "보석 종족 제국과 지구, 우주 편"
+  },
+  "the_100": {
+   "space": "예",
+   "why": "우주 정거장 인류가 땅으로"
+  },
+  "fifth_wave": {
+   "space": "경계",
+   "why": "외계 침공의 물결, 지구"
+  },
+  "the_last_of_us": {
+   "space": "아니오",
+   "why": "곰팡이 재앙"
+  },
+  "the_swapper": {
+   "space": "예",
+   "why": "외딴 행성 연구 기지"
+  },
+  "the_technomancer": {
+   "space": "예",
+   "why": "지구와 끊긴 화성 개척지"
+  },
+  "utopia_uk": {
+   "space": "아니오",
+   "why": "인류 줄이려는 비밀 조직"
+  },
+  "warframe": {
+   "space": "예",
+   "why": "태양계 무너진 제국 유산"
+  },
+  "kill_la_kill": {
+   "space": "경계",
+   "why": "우주서 온 실의 옷, 끝에 궤도전"
+  },
+  "patema_inverted": {
+   "space": "아니오",
+   "why": "중력 거꾸로 된 두 무리"
+  },
+  "johannesburg_no_tenshitachi": {
+   "space": "아니오",
+   "why": "여자 모양 로봇 연작"
+  },
+  "world_trigger": {
+   "space": "경계",
+   "why": "다른 세계 침략자, 원정은 배로"
+  },
+  "kaikin_no_to": {
+   "space": "아니오",
+   "why": "기괴한 먼 미래 세계"
+  },
+  "gargantia": {
+   "space": "예",
+   "why": "우주 전쟁 소년병이 바다 지구에"
+  },
+  "huangchao": {
+   "space": "아니오",
+   "why": "전자 쓰레기 섬"
+  },
+  "dice_webtoon": {
+   "space": "아니오",
+   "why": "능력 주사위 다툼"
+  },
+  "ajigeun_sini_aniya": {
+   "space": "경계",
+   "why": "초능력 연작, 일부 편 100광년"
+  },
+  "cheonghon": {
+   "space": "예",
+   "why": "먼 우주에서 복무하는 군인 편지"
+  },
+  "ex_machina": {
+   "space": "아니오",
+   "why": "인조인간 시험"
+  },
+  "interstellar": {
+   "space": "예",
+   "why": "웜홀 지나 살 행성 찾기"
+  },
+  "jackpot": {
+   "space": "아니오",
+   "why": "미래가 과거와 통신"
+  },
+  "lucy": {
+   "space": "아니오",
+   "why": "뇌를 다 쓰는 여자"
+  },
+  "neo_scavenger": {
+   "space": "경계",
+   "why": "황무지 생존, 같은 세계 후속은 우주"
+  },
+  "out_there": {
+   "space": "예",
+   "why": "길 잃은 우주인의 귀환"
+  },
+  "pantheon": {
+   "space": "아니오",
+   "why": "디지털 의식 기업 다툼"
+  },
+  "planetary_annihilation": {
+   "space": "예",
+   "why": "행성째 부수는 기계 지휘관"
+  },
+  "red_rising": {
+   "space": "예",
+   "why": "빛깔 계급 화성 사회"
+  },
+  "southern_reach": {
+   "space": "경계",
+   "why": "정체 모를 외계 힘 구역, 지구"
+  },
+  "station_eleven": {
+   "space": "아니오",
+   "why": "독감 뒤 떠돌이 극단"
+  },
+  "subnautica": {
+   "space": "예",
+   "why": "바다 외계 행성 생존"
+  },
+  "harry_august": {
+   "space": "아니오",
+   "why": "다시 태어나는 사람들"
+  },
+  "girl_with_all_the_gifts": {
+   "space": "아니오",
+   "why": "곰팡이 감염 아이들"
+  },
+  "the_talos_principle": {
+   "space": "아니오",
+   "why": "사람 사라진 뒤 기계 지성"
+  },
+  "titanfall": {
+   "space": "예",
+   "why": "개척 행성 기업 전쟁"
+  },
+  "transistor": {
+   "space": "아니오",
+   "why": "지워지는 도시"
+  },
+  "wayfarers": {
+   "space": "예",
+   "why": "웜홀 뚫는 작은 배 사람들"
+  },
+  "xenonauts": {
+   "space": "경계",
+   "why": "외계 침공 막는 비밀 조직"
+  },
+  "inuyashiki": {
+   "space": "경계",
+   "why": "외계인 사고로 기계 몸, 지구"
+  },
+  "boku_wa_ashita_kino_no_kimi_to_date_suru": {
+   "space": "아니오",
+   "why": "시간 비밀의 사랑"
+  },
+  "aldnoah_zero": {
+   "space": "예",
+   "why": "화성 기사 제국의 지구 침공"
+  },
+  "orbital_cloud": {
+   "space": "예",
+   "why": "궤도 물체와 우주 음모"
+  },
+  "girly_air_force": {
+   "space": "경계",
+   "why": "정체 모를 침략자, 일본 하늘"
+  },
+  "space_dandy": {
+   "space": "예",
+   "why": "외계인 사냥꾼의 엉뚱한 우주"
+  },
+  "no_guns_life": {
+   "space": "아니오",
+   "why": "머리가 총인 해결사"
+  },
+  "freedom_wars": {
+   "space": "아니오",
+   "why": "죄수 도시 전쟁"
+  },
+  "girls_last_tour": {
+   "space": "아니오",
+   "why": "끝난 문명의 도시를 떠돎"
+  },
+  "expelled_from_paradise": {
+   "space": "예",
+   "why": "궤도 전자 낙원, 우주선 발사가 축"
+  },
+  "kentoshi": {
+   "space": "아니오",
+   "why": "문 닫은 일본"
+  },
+  "silent_sea": {
+   "space": "예",
+   "why": "버려진 달 기지"
+  },
+  "muan_manyong_garbanion": {
+   "space": "아니오",
+   "why": "영웅물 비튼 웃음"
+  },
+  "closers": {
+   "space": "아니오",
+   "why": "차원종 서울"
+  },
+  "hive_webtoon": {
+   "space": "아니오",
+   "why": "거대 곤충 서울"
+  },
+  "hello_carbot": {
+   "space": "아니오",
+   "why": "변신 자동차 로봇"
+  },
+  "homo_dominans": {
+   "space": "아니오",
+   "why": "지배하는 새 인류"
+  },
+  "ark_survival": {
+   "space": "예",
+   "why": "지구를 맴도는 방주 정거장"
+  },
+  "axiom_verge": {
+   "space": "아니오",
+   "why": "낯선 기계 세계"
+  },
+  "binti": {
+   "space": "예",
+   "why": "은하 대학 가는 우주선"
+  },
+  "caves_of_qud": {
+   "space": "아니오",
+   "why": "무너진 문명 겹친 땅"
+  },
+  "chappie": {
+   "space": "아니오",
+   "why": "생각하는 경찰 로봇"
+  },
+  "children_of_time": {
+   "space": "예",
+   "why": "거미 문명 행성과 방주"
+  },
+  "descender": {
+   "space": "예",
+   "why": "로봇 몰아낸 은하"
+  },
+  "el_ministerio_del_tiempo": {
+   "space": "아니오",
+   "why": "시간의 문 비밀 부처"
+  },
+  "empyrion": {
+   "space": "예",
+   "why": "행성과 우주를 오가는 생존"
+  },
+  "grey_goo": {
+   "space": "예",
+   "why": "먼 성계 세 세력"
+  },
+  "helldivers": {
+   "space": "예",
+   "why": "궤도에서 떨어지는 병사"
+  },
+  "into_the_night": {
+   "space": "아니오",
+   "why": "햇빛 재앙 피하는 여객기"
+  },
+  "invisible_inc": {
+   "space": "아니오",
+   "why": "기업 국가 첩보"
+  },
+  "jupiter_ascending": {
+   "space": "예",
+   "why": "우주 귀족 가문의 지구 농장"
+  },
+  "killjoys": {
+   "space": "예",
+   "why": "네 행성계 현상금 사냥꾼"
+  },
+  "kipo_and_the_age_of_wonderbeasts": {
+   "space": "아니오",
+   "why": "동물이 차지한 땅"
+  },
+  "opus": {
+   "space": "예",
+   "why": "별 사이 작은 로봇"
+  },
+  "paper_girls": {
+   "space": "아니오",
+   "why": "시간 전쟁 신문 배달 소녀"
+  },
+  "rebel_galaxy": {
+   "space": "예",
+   "why": "낡은 배의 우주 서부극"
+  },
+  "soma": {
+   "space": "경계",
+   "why": "해저 기지, 끝에 방주 위성 발사"
+  },
+  "satellite_reign": {
+   "space": "아니오",
+   "why": "의식 이전 기업 도시"
+  },
+  "sense8": {
+   "space": "아니오",
+   "why": "감각이 이어진 여덟 사람"
+  },
+  "seveneves": {
+   "space": "예",
+   "why": "우주로 피한 인류"
+  },
+  "broken_earth": {
+   "space": "경계",
+   "why": "떠나간 달이 축, 우주 항행 없음"
+  },
+  "underrail": {
+   "space": "아니오",
+   "why": "지하철 역 나라들"
+  },
+  "splatoon": {
+   "space": "아니오",
+   "why": "오징어 종족 땅따먹기"
+  },
+  "xenoblade_chronicles_x": {
+   "space": "예",
+   "why": "피난선이 떨어진 낯선 행성"
+  },
+  "laplace_no_majo": {
+   "space": "아니오",
+   "why": "앞일 계산하는 소녀"
+  },
+  "onshu_seiiki": {
+   "space": "예",
+   "why": "세대 우주선과 먼저 닿은 별"
+  },
+  "yokohama_eki_sf": {
+   "space": "아니오",
+   "why": "혼슈 덮은 역"
+  },
+  "gundam_iron_blooded_orphans": {
+   "space": "예",
+   "why": "화성 소년병과 우주 전쟁"
+  },
+  "stella_odyssey": {
+   "space": "예",
+   "why": "광속 우주를 도는 연인"
+  },
+  "moving_kangfull": {
+   "space": "아니오",
+   "why": "초능력 가족"
+  },
+  "eternal_return": {
+   "space": "아니오",
+   "why": "외딴 섬 실험"
+  },
+  "cheotsum": {
+   "space": "예",
+   "why": "거대 우주 정착지 첫숨"
+  },
+  "three_percent": {
+   "space": "아니오",
+   "why": "3% 선발 사회"
+  },
+  "astroneer": {
+   "space": "예",
+   "why": "작은 별계 행성 탐사"
+  },
+  "all_the_birds_in_the_sky": {
+   "space": "아니오",
+   "why": "마녀와 과학 소년"
+  },
+  "arc_of_a_scythe": {
+   "space": "경계",
+   "why": "인공지능 통치 사회, 끝에 별 이주선"
+  },
+  "ashes_of_the_singularity": {
+   "space": "예",
+   "why": "행성을 다투는 초월 존재"
+  },
+  "bobiverse": {
+   "space": "예",
+   "why": "자기 복제 탐사선"
+  },
+  "colony": {
+   "space": "경계",
+   "why": "외계 점령 로스앤젤레스"
+  },
+  "coriolis": {
+   "space": "예",
+   "why": "관문 다시 열린 별 무리"
+  },
+  "dark_matter_crouch": {
+   "space": "아니오",
+   "why": "평행 세계 헤맴"
+  },
+  "dr_brain": {
+   "space": "아니오",
+   "why": "뇌 기억 읽기"
+  },
+  "duskers": {
+   "space": "예",
+   "why": "버려진 배 뒤지는 무인 기계"
+  },
+  "event0": {
+   "space": "예",
+   "why": "버려진 우주선 인공지능"
+  },
+  "factorio": {
+   "space": "예",
+   "why": "외계 행성 공장과 로켓"
+  },
+  "inside": {
+   "space": "아니오",
+   "why": "조종 실험 시설"
+  },
+  "no_mans_sky": {
+   "space": "예",
+   "why": "끝없는 행성 우주"
+  },
+  "obduction": {
+   "space": "경계",
+   "why": "외계 땅으로 옮겨진 마을, 항행 없음"
+  },
+  "offworld_trading_company": {
+   "space": "예",
+   "why": "화성 개척 기업 시장전"
+  },
+  "overwatch": {
+   "space": "경계",
+   "why": "영웅 부대, 달 기지는 배경"
+  },
+  "passengers": {
+   "space": "예",
+   "why": "개척지행 우주선"
+  },
+  "quantum_break": {
+   "space": "아니오",
+   "why": "시간이 부서짐"
+  },
+  "scavengers_reign": {
+   "space": "예",
+   "why": "화물선 생존자의 낯선 행성"
+  },
+  "slime_rancher": {
+   "space": "예",
+   "why": "지구에서 먼 행성 목장"
+  },
+  "stranger_things": {
+   "space": "아니오",
+   "why": "뒤집힌 다른 차원 괴물"
+  },
+  "machineries_of_empire": {
+   "space": "예",
+   "why": "달력 제국의 우주 전쟁"
+  },
+  "the_oa": {
+   "space": "아니오",
+   "why": "다른 차원 건넌 여자"
+  },
+  "the_power": {
+   "space": "아니오",
+   "why": "전기 쏘는 여자들"
+  },
+  "the_turing_test": {
+   "space": "예",
+   "why": "유로파 기지 인공지능"
+  },
+  "the_wild_robot": {
+   "space": "아니오",
+   "why": "무인도 로봇"
+  },
+  "travelers": {
+   "space": "아니오",
+   "why": "의식만 온 미래 요원"
+  },
+  "va_11_hall_a": {
+   "space": "아니오",
+   "why": "디스토피아 술집"
+  },
+  "boku_ga_aishita_subete_no_kimi_e": {
+   "space": "아니오",
+   "why": "평행 세계 사랑"
+  },
+  "yiyuan": {
+   "space": "아니오",
+   "why": "세상을 다스리는 병원"
+  },
+  "your_name": {
+   "space": "아니오",
+   "why": "몸 바뀜과 혜성 재해"
+  },
+  "girls_frontline": {
+   "space": "아니오",
+   "why": "전술 인형 전쟁"
+  },
+  "honkai_impact_3rd": {
+   "space": "경계",
+   "why": "붕괴 재앙 싸움, 달·화성 편"
+  },
+  "astra_lost_in_space": {
+   "space": "예",
+   "why": "낡은 배로 고향 별까지 귀환"
+  },
+  "tsuki_to_laika_to_nosferatu": {
+   "space": "예",
+   "why": "대체 역사 우주 경쟁"
+  },
+  "odyssey_galoa": {
+   "space": "예",
+   "why": "인공지능과 우주로 나간 천문학자"
+  },
+  "eighty_six": {
+   "space": "아니오",
+   "why": "무인 기계 군단과 차별"
+  },
+  "artemis_weir": {
+   "space": "예",
+   "why": "달의 첫 도시"
+  },
+  "avorion": {
+   "space": "예",
+   "why": "은하 한가운데로 파고드는 배"
+  },
+  "cogmind": {
+   "space": "아니오",
+   "why": "기계 지하 도시 로봇"
+  },
+  "counterpart": {
+   "space": "아니오",
+   "why": "평행 세계 통로"
+  },
+  "dark": {
+   "space": "아니오",
+   "why": "마을의 시간 고리"
+  },
+  "dr_stone": {
+   "space": "경계",
+   "why": "돌이 된 인류 재건, 끝에 달 로켓"
+  },
+  "elex": {
+   "space": "경계",
+   "why": "혜성 맞은 행성, 2편에 외계 침입"
+  },
+  "everspace": {
+   "space": "예",
+   "why": "무너진 성계를 떠도는 조종사"
+  },
+  "fortnite": {
+   "space": "아니오",
+   "why": "폭풍과 되풀이 섬"
+  },
+  "heat_signature": {
+   "space": "예",
+   "why": "성운의 배를 터는 우주 강도"
+  },
+  "horizon": {
+   "space": "경계",
+   "why": "기계 짐승 땅, 우주 귀환자 대목"
+  },
+  "observer": {
+   "space": "아니오",
+   "why": "뇌 접속 경찰"
+  },
+  "oxygen_not_included": {
+   "space": "예",
+   "why": "소행성 속 복제 사람 정착"
+  },
+  "prey_2017": {
+   "space": "예",
+   "why": "달 궤도 정거장 외계 생물"
+  },
+  "rain_world": {
+   "space": "아니오",
+   "why": "비의 세계, 우주 왕래 없음"
+  },
+  "starfinder": {
+   "space": "예",
+   "why": "마법과 우주선의 별들"
+  },
+  "tacoma": {
+   "space": "예",
+   "why": "기업 소유 우주 정거장"
+  },
+  "interdependency": {
+   "space": "예",
+   "why": "흐름 끊기는 성간 제국"
+  },
+  "murderbot": {
+   "space": "예",
+   "why": "경비 인조인간과 행성 탐사"
+  },
+  "the_orville": {
+   "space": "예",
+   "why": "행성 연합 탐사선"
+  },
+  "the_surge": {
+   "space": "아니오",
+   "why": "외골격 기업 재앙"
+  },
+  "universal_paperclips": {
+   "space": "예",
+   "why": "끝내 탐사선으로 우주를 집게로"
+  },
+  "another_eden": {
+   "space": "아니오",
+   "why": "시대를 오가는 시간 여행"
+  },
+  "game_no_okoku": {
+   "space": "아니오",
+   "why": "캄보디아 현대사 장편"
+  },
+  "aposimz": {
+   "space": "경계",
+   "why": "얼어붙은 인공 천체 위 싸움"
+  },
+  "kado_the_right_answer": {
+   "space": "경계",
+   "why": "고차원 존재 착륙, 지구"
+  },
+  "azur_lane": {
+   "space": "아니오",
+   "why": "함선 소녀 바다 전쟁"
+  },
+  "urasekai_picnic": {
+   "space": "아니오",
+   "why": "괴담 다른 세계 탐사"
+  },
+  "sigan_mangmyeongja": {
+   "space": "아니오",
+   "why": "과거 사람으로 인구 채우기"
+  },
+  "circle_kr": {
+   "space": "경계",
+   "why": "외계 소녀 사건과 미래 도시"
+  },
+  "okja": {
+   "space": "아니오",
+   "why": "유전자 돼지"
+  },
+  "a_quiet_place": {
+   "space": "경계",
+   "why": "소리 듣는 외계 괴물, 지구"
+  },
+  "atom_rpg": {
+   "space": "아니오",
+   "why": "소련 핵전쟁 황무지"
+  },
+  "breathedge": {
+   "space": "예",
+   "why": "우주 장례선 사고 생존"
+  },
+  "detroit_become_human": {
+   "space": "아니오",
+   "why": "기계 하인 봉기"
+  },
+  "final_space": {
+   "space": "예",
+   "why": "우주 삼킬 존재와 우주 모험"
+  },
+  "frostpunk": {
+   "space": "아니오",
+   "why": "얼어붙은 19세기 도시"
+  },
+  "into_the_breach": {
+   "space": "아니오",
+   "why": "땅 벌레와 거대 로봇"
+  },
+  "lady_astronaut": {
+   "space": "예",
+   "why": "운석 뒤 서두른 우주 진출"
+  },
+  "lobotomy_corporation": {
+   "space": "아니오",
+   "why": "괴물 에너지 회사 도시"
+  },
+  "mothership": {
+   "space": "예",
+   "why": "우주 화물선 노동자 공포"
+  },
+  "surviving_mars": {
+   "space": "예",
+   "why": "화성 돔 도시"
+  },
+  "the_rain": {
+   "space": "아니오",
+   "why": "비 바이러스 북유럽"
+  },
+  "red_strings_club": {
+   "space": "아니오",
+   "why": "마음 고치는 장치 음모"
+  },
+  "upgrade": {
+   "space": "아니오",
+   "why": "척추 인공지능 칩"
+  },
+  "better_than_us": {
+   "space": "아니오",
+   "why": "가정용 인조인간"
+  },
+  "alice_gear_aegis": {
+   "space": "예",
+   "why": "우주로 나간 인류와 장갑 소녀"
+  },
+  "darling_in_the_franxx": {
+   "space": "경계",
+   "why": "거대 로봇 아이들, 끝에 우주전"
+  },
+  "heavenly_delusion": {
+   "space": "아니오",
+   "why": "무너진 일본 떠돌기"
+  },
+  "seikei_izumo_no_heitan": {
+   "space": "예",
+   "why": "행성계 인류의 보급 전쟁"
+  },
+  "sabikui_bisco": {
+   "space": "아니오",
+   "why": "녹 바람 일본"
+  },
+  "are_you_human_too": {
+   "space": "아니오",
+   "why": "대역 인공지능 로봇"
+  },
+  "dorikil_su_inneun": {
+   "space": "아니오",
+   "why": "초능력자 싸움"
+  },
+  "simhaesu": {
+   "space": "아니오",
+   "why": "바다에 잠긴 지구 괴수"
+  },
+  "esheoui_son": {
+   "space": "아니오",
+   "why": "전자 두뇌 시대"
+  },
+  "ouroboros": {
+   "space": "아니오",
+   "why": "강한 인공지능 시대"
+  },
+  "uriga_bichui_sokdoro": {
+   "space": "예",
+   "why": "버려진 우주 정거장 노인"
+  },
+  "ai_the_somnium_files": {
+   "space": "아니오",
+   "why": "꿈속 수사"
+  },
+  "astral_chain": {
+   "space": "아니오",
+   "why": "다른 차원 괴물 경찰"
+  },
+  "age_of_wonders_planetfall": {
+   "space": "예",
+   "why": "무너진 은하 연합 유산 다툼"
+  },
+  "anthem": {
+   "space": "아니오",
+   "why": "창조의 힘 세계 용병"
+  },
+  "barotrauma": {
+   "space": "예",
+   "why": "유로파 얼음 밑 바다 잠수함"
+  },
+  "code_vein": {
+   "space": "아니오",
+   "why": "피 먹는 되살아난 이들"
+  },
+  "control": {
+   "space": "아니오",
+   "why": "초자연 정부 기관"
+  },
+  "crying_suns": {
+   "space": "예",
+   "why": "무너진 은하 제국 함대"
+  },
+  "daemon_x_machina": {
+   "space": "아니오",
+   "why": "달 조각 낙하 뒤 기계 전쟁"
+  },
+  "death_stranding": {
+   "space": "아니오",
+   "why": "죽은 자의 세계와 배달부"
+  },
+  "deliver_us": {
+   "space": "예",
+   "why": "달 에너지 기지와 화성 방주"
+  },
+  "disco_elysium": {
+   "space": "아니오",
+   "why": "항구 도시 형사"
+  },
+  "for_all_mankind": {
+   "space": "예",
+   "why": "달·화성 개척 대체 역사"
+  },
+  "beforeigners": {
+   "space": "아니오",
+   "why": "옛 사람들의 이민"
+  },
+  "heavens_vault": {
+   "space": "예",
+   "why": "성운 속 달들을 배로 오감"
+  },
+  "lancer": {
+   "space": "예",
+   "why": "별들을 잇는 연합의 로봇 전쟁"
+  },
+  "love_death_robots": {
+   "space": "경계",
+   "why": "선집, 우주 편이 섞임"
+  },
+  "machines_like_me": {
+   "space": "아니오",
+   "why": "대체 역사 기계 인간"
+  },
+  "mindustry": {
+   "space": "예",
+   "why": "행성을 오가는 공장 전쟁"
+  },
+  "observation": {
+   "space": "예",
+   "why": "지구 궤도 우주 정거장"
+  },
+  "outer_wilds": {
+   "space": "예",
+   "why": "작은 별계를 우주선으로 탐사"
+  },
+  "phoenix_point": {
+   "space": "경계",
+   "why": "외계 바이러스 괴물, 지구"
+  },
+  "remnant": {
+   "space": "경계",
+   "why": "세계석으로 다른 세계, 우주 일부"
+  },
+  "satisfactory": {
+   "space": "예",
+   "why": "외계 행성 공장"
+  },
+  "see": {
+   "space": "아니오",
+   "why": "시력 잃은 인류"
+  },
+  "teixcalaan": {
+   "space": "예",
+   "why": "정거장 대사와 제국 수도"
+  },
+  "locked_tomb": {
+   "space": "예",
+   "why": "아홉 가문 행성의 사령술사"
+  },
+  "the_outer_worlds": {
+   "space": "예",
+   "why": "기업 소유 먼 별계 개척지"
+  },
+  "they_are_billions": {
+   "space": "아니오",
+   "why": "감염 무리와 성벽 식민지"
+  },
+  "time_war": {
+   "space": "아니오",
+   "why": "시간 전쟁 요원의 편지"
+  },
+  "void_bastards": {
+   "space": "예",
+   "why": "성운 감옥선과 폐선"
+  },
+  "gen_lock": {
+   "space": "아니오",
+   "why": "의식 복사 로봇 전쟁"
+  },
+  "carole_and_tuesday": {
+   "space": "예",
+   "why": "개척 화성의 음악"
+  },
+  "promare": {
+   "space": "경계",
+   "why": "불꽃 인간, 지구 탈출선 계획"
+  },
+  "thirteen_sentinels": {
+   "space": "경계",
+   "why": "무대는 도시, 진실은 이주 우주선"
+  },
+  "punishing_gray_raven": {
+   "space": "예",
+   "why": "궤도로 피한 인류의 지구 귀환"
+  },
+  "arknights": {
+   "space": "경계",
+   "why": "행성 테라 이야기, 옛 우주 문명 배경"
+  },
+  "ling_cage": {
+   "space": "아니오",
+   "why": "하늘 요새의 등급 사회"
+  },
+  "gipa": {
+   "space": "예",
+   "why": "난파한 우주 유람선 추격"
+  },
+  "last_origin": {
+   "space": "아니오",
+   "why": "기계 군단 뒤 바이오로이드"
+  },
+  "muneojin_dari": {
+   "space": "경계",
+   "why": "제2지구행 로켓 사고 뒤 지구"
+  },
+  "forest_dam": {
+   "space": "경계",
+   "why": "부자는 우주로, 무대는 땅"
+  },
+  "teseuseuui_bae": {
+   "space": "아니오",
+   "why": "재벌 회장 경영권 다툼"
+  },
+  "paint": {
+   "space": "아니오",
+   "why": "아이가 부모를 고르는 미래"
+  },
+  "cloudpunk": {
+   "space": "아니오",
+   "why": "구름 위 도시 배달"
+  },
+  "deep_rock_galactic": {
+   "space": "예",
+   "why": "행성 혹시스 4 광산"
+  },
+  "devs": {
+   "space": "아니오",
+   "why": "양자 컴퓨터 비밀 연구"
+  },
+  "ghostrunner": {
+   "space": "아니오",
+   "why": "마지막 탑 사이보그 검객"
+  },
+  "grounded": {
+   "space": "아니오",
+   "why": "작아진 아이들 뒷마당"
+  },
+  "hardspace_shipbreaker": {
+   "space": "예",
+   "why": "궤도에서 우주선 해체"
+  },
+  "id_invaded": {
+   "space": "아니오",
+   "why": "살인자 마음 세계 수사"
+  },
+  "in_other_waters": {
+   "space": "예",
+   "why": "외계 바다 행성 생물 기록"
+  },
+  "per_aspera": {
+   "space": "예",
+   "why": "화성 개조 인공지능"
+  },
+  "raised_by_wolves": {
+   "space": "예",
+   "why": "낯선 행성의 인조인간 부모"
+  },
+  "sf8": {
+   "space": "아니오",
+   "why": "근미래 기술 선집"
+  },
+  "shadow_empire": {
+   "space": "예",
+   "why": "무너진 은하 공화국 잔해 행성"
+  },
+  "solar_opposites": {
+   "space": "경계",
+   "why": "지구 교외의 외계인 가족"
+  },
+  "space_haven": {
+   "space": "예",
+   "why": "우주선을 지어 새 터 찾기"
+  },
+  "tenet": {
+   "space": "아니오",
+   "why": "시간 역행 전쟁"
+  },
+  "ministry_for_the_future": {
+   "space": "아니오",
+   "why": "기후 위기 국제 기구"
+  },
+  "ultrakill": {
+   "space": "아니오",
+   "why": "지옥으로 가는 기계"
+  },
+  "upload": {
+   "space": "아니오",
+   "why": "가상 낙원 저승"
+  },
+  "valorant": {
+   "space": "아니오",
+   "why": "초능력자와 거울 지구"
+  },
+  "akudama_drive": {
+   "space": "아니오",
+   "why": "미래 간사이 악당"
+  },
+  "deca_dence": {
+   "space": "아니오",
+   "why": "사이보그 놀이판 요새"
+  },
+  "bright_memory": {
+   "space": "아니오",
+   "why": "검은 구멍과 괴물"
+  },
+  "kaiju_no8": {
+   "space": "아니오",
+   "why": "괴수 방위대"
+  },
+  "alice_kr": {
+   "space": "아니오",
+   "why": "시간 여행 사건"
+  },
+  "eolmana_dalmanneunga": {
+   "space": "예",
+   "why": "고장 난 우주선의 인공지능"
+  },
+  "yuryeong_haema": {
+   "space": "예",
+   "why": "우주에서 조난한 범용 인공지능"
+  },
+  "cheon_gaeui_parang": {
+   "space": "아니오",
+   "why": "기수 로봇과 경주마"
+  },
+  "counterside": {
+   "space": "아니오",
+   "why": "이면 세계 침식체"
+  },
+  "biomutant": {
+   "space": "아니오",
+   "why": "돌연변이 짐승 우화"
+  },
+  "chorus": {
+   "space": "예",
+   "why": "살아 있는 배와 광신 교단 우주"
+  },
+  "deathloop": {
+   "space": "아니오",
+   "why": "되풀이 섬"
+  },
+  "free_guy": {
+   "space": "아니오",
+   "why": "게임 속 배경 인물"
+  },
+  "highfleet": {
+   "space": "아니오",
+   "why": "사막 행성 하늘 전함, 우주 없음"
+  },
+  "icarus": {
+   "space": "예",
+   "why": "궤도에서 내려가는 독 행성 채굴"
+  },
+  "invasion_2021": {
+   "space": "경계",
+   "why": "외계 침공 겪는 사람들, 지구"
+  },
+  "iron_widow": {
+   "space": "경계",
+   "why": "외계 괴물 싸움, 후속에 우주 출신 진실"
+  },
+  "klara_and_the_sun": {
+   "space": "아니오",
+   "why": "인공 친구 로봇"
+  },
+  "monk_and_robot": {
+   "space": "아니오",
+   "why": "수도승과 로봇, 우주 왕래 없음"
+  },
+  "outriders": {
+   "space": "예",
+   "why": "냉동 수면 끝에 닿은 행성 에녹"
+  },
+  "project_hail_mary": {
+   "space": "예",
+   "why": "먼 별의 외계 기술자와 만남"
+  },
+  "returnal": {
+   "space": "예",
+   "why": "금지된 행성에 떨어진 탐사대원"
+  },
+  "scarlet_nexus": {
+   "space": "아니오",
+   "why": "하늘서 떨어지는 괴물, 미래 일본"
+  },
+  "sable": {
+   "space": "예",
+   "why": "옛 우주선 잔해의 사막 행성"
+  },
+  "the_ascent": {
+   "space": "예",
+   "why": "외계 행성 기업 도시"
+  },
+  "the_mitchells_vs_the_machines": {
+   "space": "아니오",
+   "why": "인공지능 반란 가족"
+  },
+  "the_riftbreaker": {
+   "space": "예",
+   "why": "먼 행성에 관문 세우는 과학자"
+  },
+  "vivy": {
+   "space": "아니오",
+   "why": "역사 고치는 노래 인조인간"
+  },
+  "tower_of_fantasy": {
+   "space": "예",
+   "why": "지구를 떠난 인류의 행성 아이다"
+  },
+  "dyson_sphere_program": {
+   "space": "예",
+   "why": "별을 감싸는 구조물 짓기"
+  },
+  "link_click": {
+   "space": "아니오",
+   "why": "사진 속 과거로 들어감"
+  },
+  "your_utopia": {
+   "space": "경계",
+   "why": "단편집, 일부 편 다른 행성"
+  },
+  "luca_kr": {
+   "space": "아니오",
+   "why": "유전자 조작 남자 추격"
+  },
+  "blue_archive": {
+   "space": "아니오",
+   "why": "학원 도시 키보토스"
+  },
+  "seobok": {
+   "space": "아니오",
+   "why": "복제 실험체 소년"
+  },
+  "schrodingerui_aideul": {
+   "space": "아니오",
+   "why": "가상 현실 학교"
+  },
+  "space_sweepers": {
+   "space": "예",
+   "why": "우주 쓰레기 줍는 배"
+  },
+  "sisyphus": {
+   "space": "아니오",
+   "why": "미래에서 건너오는 사람들"
+  },
+  "jigu_kkeutui_onsil": {
+   "space": "아니오",
+   "why": "먼지 재앙 뒤 지구"
+  },
+  "tacit_webtoon": {
+   "space": "아니오",
+   "why": "오염 물질 좀비 세상"
+  },
+  "netflix_1899": {
+   "space": "경계",
+   "why": "이민선 미스터리, 끝에 우주선 반전"
+  },
+  "citizen_sleeper": {
+   "space": "예",
+   "why": "낡은 우주 정거장의 기계 몸"
+  },
+  "everything_everywhere": {
+   "space": "아니오",
+   "why": "평행 세계 자신들"
+  },
+  "ixion": {
+   "space": "예",
+   "why": "지구 떠난 우주 정거장"
+  },
+  "iron_lung": {
+   "space": "예",
+   "why": "우주 생존자, 위성 피의 바다"
+  },
+  "m3gan": {
+   "space": "아니오",
+   "why": "인형 로봇 폭주"
+  },
+  "mickey_17": {
+   "space": "예",
+   "why": "얼음 행성 개척지 소모품 일꾼"
+  },
+  "norco": {
+   "space": "아니오",
+   "why": "근미래 루이지애나"
+  },
+  "nope": {
+   "space": "경계",
+   "why": "구름 속 정체 모를 존재, 지구"
+  },
+  "sea_of_tranquility": {
+   "space": "예",
+   "why": "달 이주지 시간 조사관"
+  },
+  "severance": {
+   "space": "아니오",
+   "why": "기억 나눈 직원들"
+  },
+  "signalis": {
+   "space": "예",
+   "why": "별 나라의 인조 몸과 우주 시설"
+  },
+  "strange_world": {
+   "space": "아니오",
+   "why": "거대 생물 위 세계, 우주 없음"
+  },
+  "stray": {
+   "space": "아니오",
+   "why": "로봇 지하 도시 고양이"
+  },
+  "terra_invicta": {
+   "space": "예",
+   "why": "외계인 맞서 태양계를 다툼"
+  },
+  "callisto_protocol": {
+   "space": "예",
+   "why": "칼리스토 감옥"
+  },
+  "the_lazarus_project": {
+   "space": "아니오",
+   "why": "시간 되감는 비밀 조직"
+  },
+  "the_planet_crafter": {
+   "space": "예",
+   "why": "메마른 행성 개조"
+  },
+  "heaven_burns_red": {
+   "space": "경계",
+   "why": "외계 괴물에 밀린 지구"
+  },
+  "orbital_children": {
+   "space": "예",
+   "why": "사고 난 우주 정거장의 아이들"
+  },
+  "path_to_nowhere": {
+   "space": "아니오",
+   "why": "천체 낙하 뒤 괴변 구역"
+  },
+  "gundam_witch_from_mercury": {
+   "space": "예",
+   "why": "우주 기업 연합과 수성 소녀"
+  },
+  "anno_mutationem": {
+   "space": "아니오",
+   "why": "사이버펑크 도시"
+  },
+  "grid_kr": {
+   "space": "아니오",
+   "why": "방어막 남긴 존재 추적"
+  },
+  "nikke": {
+   "space": "경계",
+   "why": "외계 기계 침공, 지하 도시"
+  },
+  "alienoid": {
+   "space": "경계",
+   "why": "외계 죄수와 고려 도사"
+  },
+  "jakbyeorinsa": {
+   "space": "아니오",
+   "why": "수용소 소년"
+  },
+  "atomic_heart": {
+   "space": "아니오",
+   "why": "로봇 번영 대체 소련"
+  },
+  "cobalt_core": {
+   "space": "예",
+   "why": "작은 배 선원들의 우주 되풀이"
+  },
+  "lethal_company": {
+   "space": "예",
+   "why": "버려진 위성 고철 줍기"
+  },
+  "lies_of_p": {
+   "space": "아니오",
+   "why": "기계 인형 도시"
+  },
+  "mars_express": {
+   "space": "예",
+   "why": "23세기 화성 도시 탐정"
+  },
+  "phantom_brigade": {
+   "space": "아니오",
+   "why": "침공군 맞선 로봇 부대"
+  },
+  "planet_of_lana": {
+   "space": "경계",
+   "why": "하늘서 온 기계, 우주 왕래 없음"
+  },
+  "rebel_moon": {
+   "space": "예",
+   "why": "변두리 위성과 은하 군국"
+  },
+  "some_desperate_glory": {
+   "space": "예",
+   "why": "마지막 인류 우주 정거장"
+  },
+  "starfield": {
+   "space": "예",
+   "why": "별들로 퍼진 24세기 인류"
+  },
+  "the_creator": {
+   "space": "경계",
+   "why": "인공지능 전쟁, 궤도 무기 대목"
+  },
+  "exoprimal": {
+   "space": "아니오",
+   "why": "시공 틈 공룡 떼"
+  },
+  "snowbreak": {
+   "space": "경계",
+   "why": "하늘서 온 타이탄 오염 구역"
+  },
+  "honkai_star_rail": {
+   "space": "예",
+   "why": "별 사이 궤도 열차"
+  },
+  "aether_gazer": {
+   "space": "아니오",
+   "why": "데이터 낙원과 신의 힘"
+  },
+  "reverse_1999": {
+   "space": "아니오",
+   "why": "시간 되돌리는 폭풍우"
+  },
+  "the_moon_kr": {
+   "space": "예",
+   "why": "달에 홀로 남은 대원 구조"
+  },
+  "sanabi": {
+   "space": "아니오",
+   "why": "사이버펑크 마을 퇴역 군인"
+  },
+  "jung_e": {
+   "space": "경계",
+   "why": "우주 쉘터 내전 배경, 무대는 연구소"
+  },
+  "jongui_giwondam": {
+   "space": "아니오",
+   "why": "로봇 문명 행성, 우주 왕래 없음"
+  },
+  "concrete_utopia": {
+   "space": "아니오",
+   "why": "대지진 서울 아파트"
+  },
+  "abiotic_factor": {
+   "space": "아니오",
+   "why": "차원문 지하 연구소"
+  },
+  "kalki": {
+   "space": "아니오",
+   "why": "마지막 도시 위 구조물"
+  },
+  "pacific_drive": {
+   "space": "아니오",
+   "why": "이상 현상 구역 차 여행"
+  },
+  "stellar_blade": {
+   "space": "예",
+   "why": "우주 피난처에서 내려온 여전사"
+  },
+  "stormgate": {
+   "space": "경계",
+   "why": "차원 악마와 외계 종족, 지구"
+  },
+  "the_first_descendant": {
+   "space": "경계",
+   "why": "외계 침략자, 대륙 잉그리스"
+  },
+  "ministry_of_time": {
+   "space": "아니오",
+   "why": "과거 사람 적응 실험"
+  },
+  "once_human": {
+   "space": "경계",
+   "why": "우주서 온 물질 재앙, 지구"
+  },
+  "nine_sols": {
+   "space": "경계",
+   "why": "외계 태양인 이주자들, 우주 일부"
+  },
+  "strinova": {
+   "space": "아니오",
+   "why": "끈 현상 능력자"
+  },
+  "zenless_zone_zero": {
+   "space": "아니오",
+   "why": "재해 구역 공동"
+  },
+  "wuthering_waves": {
+   "space": "아니오",
+   "why": "종말 재해 뒤 세계"
+  },
+  "wonderland_kr": {
+   "space": "아니오",
+   "why": "죽은 사람 인공지능 통화"
+  },
+  "dominant_species": {
+   "space": "아니오",
+   "why": "배양육 기업 음모"
+  },
+  "arc_raiders": {
+   "space": "경계",
+   "why": "하늘서 온 기계 군단, 땅속 사람"
+  },
+  "cronos": {
+   "space": "아니오",
+   "why": "괴물 폐허 시간 여행자"
+  },
+  "elio": {
+   "space": "예",
+   "why": "외계 문명 연합에 불려 간 소년"
+  },
+  "lazarus": {
+   "space": "아니오",
+   "why": "진통제 재앙"
+  },
+  "paradise_2025": {
+   "space": "아니오",
+   "why": "땅속 도시 살해 사건"
+  },
+  "pluribus": {
+   "space": "경계",
+   "why": "우주 신호로 하나 된 인류, 지구"
+  },
+  "routine": {
+   "space": "예",
+   "why": "달 기지 공포"
+  },
+  "tempest_rising": {
+   "space": "아니오",
+   "why": "덩굴 둘러싼 대체 1990년대"
+  },
+  "apocalypse_hotel": {
+   "space": "경계",
+   "why": "사람 떠난 지구 호텔, 외계 손님"
+  },
+  "gundam_gquuuuuux": {
+   "space": "예",
+   "why": "우주 식민지 여고생과 결투"
+  },
+  "mecha_break": {
+   "space": "아니오",
+   "why": "거대 로봇 대전"
+  },
+  "chaos_zero_nightmare": {
+   "space": "경계",
+   "why": "우주적 재앙과 함선, 항행 불분명"
+  },
+  "menace": {
+   "space": "예",
+   "why": "무법 성계의 해병 기동대"
+  },
+  "pragmata": {
+   "space": "예",
+   "why": "달 연구 기지 탈출"
+  },
+  "saros": {
+   "space": "예",
+   "why": "행성 카르코사 개척지"
+  },
+  "byeolbit_soge": {
+   "space": "예",
+   "why": "외계 행성 카피온 왕녀"
+  },
+  "ad_webtoon": {
+   "space": "아니오",
+   "why": "인공지능 근미래"
+  },
+  "the_host_2006": {
+   "space": "아니오",
+   "why": "한강 독극물 괴수, 지구"
+  },
+  "the_host_2008": {
+   "space": "경계",
+   "why": "별을 건너온 외계 혼, 무대는 지구"
+  },
+  "giants_hogan": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "thousand_worlds_martin": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "have_space_suit": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "last_and_first_idol": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "manifold_baxter": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "worldwar_turtledove": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "taiyofu_koten": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gor": {
+   "space": "경계",
+   "why": "숨은 반지구로 끌려감, 우주 항행 없음"
+  },
+  "all_tomorrows": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "glasshouse_stross": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "bloodchild": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "wrinkle_in_time": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "janissaries": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "illustrated_man": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "cold_equations": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "kirinyaga": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "under_the_skin": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "silver_globe": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "spaceman_of_bohemia": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "shanghai_fortress": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "midnight_sky": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "kachikujin_yapoo": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "saber_marionette": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "tylor": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "yamamoto_yoko": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "akutoku_ryoshu": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "lost_universe": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "twinstar": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "starship_operators": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "yakitori": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "queen_of_mars": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "end_of_an_era": {
+   "space": "경계",
+   "why": "시간 여행, 화성 바이러스는 지구에"
+  },
+  "orbital_harvey": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "genma_taisen": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "resident_alien": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "emon_21": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "abc_warriors": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "nemesis_the_warlock": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "dandadan": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "dededede": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "dragon_ball": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mahoromatic": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "venus_wars": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "jyu_oh_sei": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "snowball_earth": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "remina": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "locke_the_superman": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "freezing": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "edens_zero": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "space_king_kr": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "jiguinipnida": {
+   "space": "경계",
+   "why": "외계인에게 붙잡힌 학생, 무대 흐림"
+  },
+  "eunha_webtoon": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "carlvinson": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mars_yokoyama": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "magma_taishi": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "cyber_blue": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "tiramisu": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "rai_ginga": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "starzinger": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "galient": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "dragonar": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "orgun": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "daitarn_3": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "zambot_3": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "daltanious": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "zillion": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "stellvia": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "baldios": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "lagrange_rinne": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "birdy": {
+   "space": "경계",
+   "why": "외계 수사관이 지구에서 활동"
+  },
+  "combattler_v": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "danguard": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gaiking": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "j9_series": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "dancouga": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "argento_soma": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "bravern": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "god_mars": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "majestic_prince": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "captain_earth": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "kuromukuro": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "layzner": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "md_geist": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "armitage_iii": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "wander_over_yonder": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "luluco": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "interstella_5555": {
+   "space": "경계",
+   "why": "외계 악단이 지구로 끌려옴"
+  },
+  "silverhawks": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "bismarck": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "daikengo": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "sagittarius": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "space_show": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "tekkaman_1975": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mito": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "dangaioh": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "trider_g7": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "x_bomber": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "trizenon": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "galvion": {
+   "space": "경계",
+   "why": "외계가 지구를 막으로 가둠, 땅 위"
+  },
+  "planet_with": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "godian": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "god_sigma": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "yat": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "sora_kakeru": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "southern_cross": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "colony_ship": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "somerville": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "the_alters": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gnosia": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "linda_cube": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "metal_slader_glory": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "shogo": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "infinite_lagrange": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "high_on_life": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "atrox": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "rf_online": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "assault_suits": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "nova_1492": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "galaxy_angel": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mio_memories": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "cosmic_fantasy": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "subterrain": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "lagrange_point": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "children_dead_earth": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "starlink_atlas": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "hoshi_tsubasa": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "cosmic_encounter": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "spelljammer": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "zoids": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "android_ffg": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "another_life": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "captain_scarlet": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "before_we_vanish": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "star_wolf": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "message_from_space": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "zone_fighter": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "spectreman": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "captain_ultra": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "woo_2006": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "mars_natgeo": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "stars_gossip": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gorath": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "knowing": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "deep_impact": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "dont_look_up": {
+   "space": "경계",
+   "why": "혜성 충돌, 무대는 지구"
+  },
+  "mission_to_mars": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "the_blob": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "super_8": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "skyline": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "screamers": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "starman": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "spaceballs": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "outland": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "ad_astra": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "battle_la": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "geostorm": {
+   "space": "경계",
+   "why": "기상 위성 고장, 무대는 지구"
+  },
+  "last_starfighter": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "cowboys_aliens": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "prospect": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mars_attacks": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "pandorum": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "high_life": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "sputnik_2020": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "attraction_2017": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "attack_the_block": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "upside_down": {
+   "space": "경계",
+   "why": "맞붙은 두 행성, 우주로 못 나감"
+  },
+  "worlds_end": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "destination_moon": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "voyagers_2021": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "space_cowboys": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "mars_needs_moms": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "apollo_18": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gravity_2013": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "species_film": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "paul_2011": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "signs_2002": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "battleship_2012": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "evolution_2001": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "galaxy_legend_terra": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "space_black_knight": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "boy_007": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "occupation_2018": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "orbiter_9": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "kiddy_grade": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "valvrave": {
+   "space": "예",
+   "why": "세계 더 찾기 1(나무위키)에서 우주 관련으로 넣음"
+  },
+  "gravion": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "project_ako": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "1000xresist": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "alien_nine": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "giant_gorg": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "takopi": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "my_love_from_the_star": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "tommyknockers": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "to_love_ru": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "rokujouma": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "hitoribocchi": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "plan_9": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "stepmother_alien": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "coneheads": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "wangmagwi": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  },
+  "hotspot_2025": {
+   "space": "경계",
+   "why": "외계가 지구에 오기만 함"
+  }
+ }
+}

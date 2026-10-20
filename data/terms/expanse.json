@@ -1,0 +1,1037 @@
+{
+  "terms": [
+    {
+      "id": "epstein_drive",
+      "ko": "엡스타인 드라이브",
+      "orig": "Epstein drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1장 「홀던」 첫머리 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "태양계를 사람이 오갈 만한 곳으로 만든 핵융합 추진기.",
+      "note": "솔로몬 엡스타인이 고쳐 만든 핵융합 추진 장치로, 연료를 아주 적게 써서 배가 가는 내내 가속할 수 있다. 길의 절반쯤에서 배를 뒤집어 남은 길 내내 감속한다. 이것 덕분에 사람이 소행성대와 바깥 행성의 위성들까지 퍼졌지만, 다른 별까지 갈 힘은 주지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://expanse.fandom.com/wiki/Epstein_Drive"
+      ]
+    },
+    {
+      "id": "juice",
+      "ko": "주스",
+      "orig": "the juice",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "센 가속을 버티게 몸과 정신을 붙잡아 주는 약물.",
+      "note": "피를 묽게 하고 혈관을 질기게 하며 정신을 깨워 두는 여러 약을 섞은 것으로, 높은 가속에 들어가기 전에 충격 흡수 소파가 몸에 놓아 준다. 이것 없이 지구 중력의 몇 배로 오래 가속하면 정신을 잃거나 혈관이 터진다. 오래 쓰면 몸에 해롭다. 정식 번역판 미리보기와 드라마 소개문에서 이 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Acceleration_drugs",
+        "https://expanse.fandom.com/wiki/Crash_couch"
+      ]
+    },
+    {
+      "id": "crash_couch",
+      "ko": "충격 흡수 소파",
+      "orig": "crash couch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1장 「홀던」 본문, 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 2장 「홀던」 본문 — 리디 미리보기에서 확인. 두 옮긴이가 같은 말을 썼다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "높은 가속 때 몸을 받쳐 주는 승무원 자리.",
+      "note": "젤로 몸을 감싸고, 배가 미는 쪽에 맞춰 저절로 돌아가 무게가 등 쪽으로 고르게 실리게 한다. 가속을 앞두고 주스를 몸에 놓아 주는 장치도 달려 있다. 배가 세게 가속하기 전에는 모두가 이 자리에 들어가 몸을 묶는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://expanse.fandom.com/wiki/Crash_couch"
+      ]
+    },
+    {
+      "id": "protomolecule",
+      "ko": "원시분자",
+      "orig": "protomolecule",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 1회 「뉴 테라」·2회 「표류자」, 시즌 5 1회 「탈주」·7회 「오예뎅(이별)」 소개. 시즌 2 소개와 2·4·6·8·9회, 시즌 3 소개는 '원시 분자'로 띄어 쓴다",
+      "alt_ko": [
+        {
+          "ko": "프로토분자",
+          "src": "아작 『칼리반의 전쟁 2』(2017, 박슬라 옮김) 전자책 28·29장 본문 — 리디 미리보기, 『칼리반의 전쟁 1』 리디 작품 소개와 출판사 서평"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "nanotech",
+        "parasite"
+      ],
+      "one": "생명의 몸을 빌려 제 짜임대로 고쳐 쓰는 외계의 물질.",
+      "note": "태양계 바깥에서 온 물질로, 그 자체로는 생명이 아니라 다른 생명을 붙잡아 이끌도록 짜인 아주 작은 기계에 가깝다. 들어간 몸을 녹이고 다시 짜서 제 목적에 쓰며, 방사능을 먹고 빨리 자란다. 누가 무엇을 하려고 만들었는지가 이야기 전체의 큰 수수께끼다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://www.primevideo.com/-/ko/detail/0OBDSPAICFE4VNWZNFPW2I8TYU",
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY",
+        "https://ridibooks.com/books/2119000027/preview",
+        "https://ridibooks.com/books/2119000026",
+        "https://expanse.fandom.com/wiki/Protomolecule"
+      ]
+    },
+    {
+      "id": "protomolecule_hybrid",
+      "ko": "프로토분자 괴물",
+      "orig": "protomolecule hybrid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 리디 작품 소개, 『칼리반의 전쟁 2』 전자책 28장 본문 — 리디 미리보기에서 확인. 드라마 소개문은 '새로운 괴물'이라고만 쓴다",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine",
+        "super_soldier"
+      ],
+      "one": "원시분자를 사람 몸에 심어 만든 싸움 병기.",
+      "note": "원시분자를 사람에게 심고 그 변화를 붙잡아 두어 만든 병기로, 강화복을 입은 해병도 당해 내지 못할 만큼 힘이 세고 총에 맞아도 쉽게 멈추지 않는다. 가니메데에서 이것이 지구군과 화성군을 함께 덮치면서 두 나라가 서로를 의심하게 된다. 2권의 사건이 여기서 시작된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/2119000026",
+        "https://ridibooks.com/books/2119000027/preview",
+        "https://www.primevideo.com/-/ko/detail/0QGUP4W6GL3ZLYRD6RC3WWZEZ2"
+      ]
+    },
+    {
+      "id": "ring_gate",
+      "ko": "링 게이트",
+      "orig": "Ring gate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 소개('링 게이트 바깥으로'), 시즌 6 6회 「바빌론의 재」 소개",
+      "alt_ko": [
+        {
+          "ko": "링",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 3 13회 「지옥의 문」 소개, 시즌 5·6 소개('링 너머') — 줄여 부르는 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "다른 별계로 곧장 이어지는 거대한 고리 모양의 문.",
+      "note": "천왕성 궤도 바깥에 떠 있는 지름 천 킬로미터쯤의 고리로, 지나가면 슬로 존이라는 빈 공간에 닿는다. 그곳에 둘러선 천삼백여 개의 고리가 저마다 다른 별계로 이어진다. 원리를 아는 사람은 없다. 이 문이 열리며 인류는 수많은 새 행성을 두고 다투게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://www.primevideo.com/-/ko/detail/0QGUP4W6GL3ZLYRD6RC3WWZEZ2",
+        "https://expanse.fandom.com/wiki/Ring_Gates"
+      ]
+    },
+    {
+      "id": "slow_zone",
+      "ko": "슬로 존",
+      "orig": "slow zone (ring space)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "모든 링이 모이는, 별 하나 없는 둥근 공간.",
+      "note": "링을 지나면 닿는 지름 백만 킬로미터쯤의 어두운 공간으로, 가장자리에 천삼백여 개의 링이 고르게 둘러서 있다. 정해진 빠르기를 넘어 움직이는 것은 붙잡혀 멈춘다. 다른 별계로 가려면 반드시 이곳을 거쳐야 한다. 번역되지 않은 3권부터 나오는 말이라 정식 표기가 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Slow_zone_(Books)"
+      ]
+    },
+    {
+      "id": "ring_station",
+      "ko": "링 스테이션",
+      "orig": "Ring Station (hub station)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "슬로 존 한가운데 떠 있는 옛 문명의 구조물.",
+      "note": "지름 몇 킬로미터의 푸르게 빛나는 공 모양 구조물로, 슬로 존의 빠르기 한계를 거는 곳이다. 공격을 받으면 그 한계를 확 낮춰 둘레의 배들을 한꺼번에 멈춰 세운다. 안에서는 링 전체를 다루는 장치와 그것을 지은 문명의 기록을 엿볼 수 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Ring_Station_(Books)"
+      ]
+    },
+    {
+      "id": "ring_builders",
+      "ko": "링 빌더",
+      "orig": "Ring Builders (the builders)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor",
+        "hive_mind"
+      ],
+      "one": "원시분자와 링을 만든, 이제는 없는 외계 문명.",
+      "note": "수십억 년 전 은하 곳곳에 퍼졌던 문명으로, 수많은 몸이 이어져 하나의 마음처럼 생각했다. 원시분자를 여러 별로 보내 그곳의 생명을 재료 삼아 링을 짓게 했다. 무언가에 무너져 지금은 링과 유적만 남았다. 정식 번역판이 나오지 않은 권에서 밝혀지는 존재라 정식 표기가 없다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Ring_Builders"
+      ]
+    },
+    {
+      "id": "goths",
+      "ko": "고스",
+      "orig": "the goths (dark gods, Ring entities)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "링 빌더를 무너뜨린, 이 우주 바깥의 무언가.",
+      "note": "다른 우주에 있는 듯한 정체 모를 존재로, 링 빌더의 이어진 마음을 끊어 그 문명을 무너뜨렸다. 링을 지나던 배가 사라지거나 태양계 사람 모두가 한꺼번에 정신을 잃는 일이 이들 탓으로 드러난다. 링 빌더를 로마에 빗대 그 로마를 무너뜨린 고트족이라는 뜻으로 부른 이름이고, 신이라 부르는 사람도 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Ring_Entities",
+        "https://expanse.fandom.com/wiki/Ring_Builders"
+      ]
+    },
+    {
+      "id": "laconia",
+      "ko": "라코니아",
+      "orig": "Laconia",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "옛 문명의 배 짓는 시설이 남은 링 너머 행성.",
+      "note": "링 너머의 한 행성으로, 궤도에 링 빌더가 남긴 거대한 조선 시설이 떠 있다. 화성 해군의 한 무리가 몰래 이곳으로 빠져나가 그 시설로 새 함대를 짓는다. 드라마는 시즌 6에서 처음 이곳을 보여 주고, 소설은 7권부터 이곳이 이야기의 중심이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Laconia",
+        "https://expanse.fandom.com/wiki/Laconian_Empire"
+      ]
+    },
+    {
+      "id": "laconian_empire",
+      "ko": "라코니아 제국",
+      "orig": "Laconian Empire",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "링으로 이어진 인류 세계 전체를 손에 넣는 독재 제국.",
+      "note": "화성 해군에서 떨어져 나온 무리가 라코니아에 세운 나라로, 옛 문명의 기술로 지은 함대를 앞세워 링으로 이어진 인류 세계를 차례로 손에 넣는다. 한 사람의 지도자가 끝없이 다스리려 하며, 화성 사람들의 규율과 효율을 극단까지 밀고 간다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Laconian_Empire"
+      ]
+    },
+    {
+      "id": "transport_union",
+      "ko": "트랜스포트 유니언",
+      "orig": "Transport Union",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "guild_monopoly"
+      ],
+      "one": "링을 오가는 모든 배의 길을 쥔 벨터 중심의 조합.",
+      "note": "자유 해군과의 싸움이 끝난 뒤 지구·화성·벨트가 함께 세운 조직으로, 슬로 존을 지나는 배의 길과 차례를 정한다. 오래 밑바닥이던 벨터들이 이것으로 인류의 길목을 쥐고 넉넉해지며, 벨트와 내행성 사이에 처음으로 평화다운 평화가 온다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Transport_Union"
+      ]
+    },
+    {
+      "id": "free_navy",
+      "ko": "자유 해군",
+      "orig": "Free Navy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 6 소개('그의 자유 해군'), 6회 「바빌론의 재」 소개",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "벨터 강경파가 내행성을 상대로 일으킨 함대.",
+      "note": "외행성 동맹 안의 과격한 무리들이 한 지도자 아래 모여 만든 함대로, 감지기에 잡히지 않게 덮은 소행성을 지구에 떨어뜨리는 공격으로 전쟁을 연다. 벨트의 독립을 내걸지만 벨터 사이에서도 따르는 쪽과 맞서는 쪽이 갈린다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://expanse.fandom.com/wiki/Free_Navy"
+      ]
+    },
+    {
+      "id": "earth_bombardment",
+      "ko": "지구 폭격",
+      "orig": "bombardment of Earth (Free Navy attack)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "mass_driver",
+        "colonial_war"
+      ],
+      "one": "감춘 소행성 여럿을 지구에 떨어뜨린 공격.",
+      "note": "자유 해군이 감지기에 잡히지 않게 겉을 덮은 소행성들을 지구로 떨어뜨린 일로, 폭약 없이 떨어지는 빠르기만으로 도시를 지우고 하늘을 먼지로 덮는다. 충돌과 그 뒤의 재해·굶주림으로 수십억 명이 목숨을 잃고, 지구는 오랫동안 무너진 채 남는다. 드라마 시즌 5·6 소개문에도 나오지만 정해진 이름 없이 '마르코의 소행성들'처럼 풀어 쓴다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0OBDSPAICFE4VNWZNFPW2I8TYU",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://expanse.fandom.com/wiki/Free_Navy"
+      ]
+    },
+    {
+      "id": "united_nations",
+      "ko": "UN",
+      "orig": "United Nations",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 1 소개('UN의 정치가'), 시즌 3 2회 「IFF」 소개('UN 사무총장'). 아작 『익스팬스: 깨어난 괴물 1』 리디 작품 소개, 『칼리반의 전쟁 1』 1장 본문('UN 해병대')도 같다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구와 달을 하나로 다스리는 정부.",
+      "note": "23세기의 지구는 나라들이 UN 아래 하나로 묶여 있고, 달도 그 땅이다. 사람은 넘치고 일자리는 모자라 인구의 절반쯤이 나라의 보조로 산다. 큰 함대를 거느려 화성과 맞서고, 벨트에는 계약을 맺은 기업을 거쳐 힘을 미친다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://www.primevideo.com/-/ko/detail/0QGUP4W6GL3ZLYRD6RC3WWZEZ2",
+        "https://ridibooks.com/books/2119000011",
+        "https://ridibooks.com/books/2119000026/preview"
+      ]
+    },
+    {
+      "id": "mcr",
+      "ko": "화성 의회 공화국",
+      "orig": "Martian Congressional Republic (MCR)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구에서 떨어져 나와 세운 화성의 나라.",
+      "note": "화성 개척지가 지구에서 독립해 세운 나라로, 사람 수는 지구보다 훨씬 적지만 더 앞선 배와 무기로 맞먹는다. 화성을 숨 쉴 수 있는 땅으로 바꾸는 일에 온 나라가 힘을 모은다. 정식 번역판 미리보기 본문과 드라마 소개문은 그냥 '화성'이라 부르고, 이 나라 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Martian_Congressional_Republic",
+        "https://ridibooks.com/books/2119000011"
+      ]
+    },
+    {
+      "id": "mcrn",
+      "ko": "화성 해군",
+      "orig": "Martian Congressional Republic Navy (MCRN)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 1 3회 「캔터베리호를 기억하라」 소개('화성 해군 기함'), 아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 전자책 2장 「홀던」 본문 — 리디 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "태양계에서 가장 앞선 배를 가진 화성의 함대.",
+      "note": "배의 수는 지구 함대보다 적지만 하나하나가 더 새롭고 빠르다. 화성이 지구와 맞설 수 있는 힘의 바탕이며, 벨트와 바깥 행성 곳곳을 순찰한다. 화성 해병대도 이 함대에 딸려 강화복을 입고 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://expanse.fandom.com/wiki/Martian_Congressional_Republic"
+      ]
+    },
+    {
+      "id": "powered_armor",
+      "ko": "강화복",
+      "orig": "powered armor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 전자책 1장 「바비」 본문('강화복', '전투강화복'), 『칼리반의 전쟁 2』 28·30장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "화성 해병이 입는 동력 갑옷.",
+      "note": "입은 사람의 힘을 몇 곱절로 키우고 총탄을 막는 갑옷으로, 눈앞 화면에 적과 탄도를 띄워 조준을 돕는다. 충격을 받으면 안의 젤이 순식간에 굳어 몸을 지킨다. 화성 해병대는 이것을 입고 낮은 중력에서도 몸을 다루도록 훈련받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://ridibooks.com/books/2119000027/preview",
+        "https://expanse.fandom.com/wiki/Power_armor"
+      ]
+    },
+    {
+      "id": "pdc",
+      "ko": "국지방어포",
+      "orig": "point defense cannon (PDC)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 전자책 2장 「홀던」 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "날아오는 어뢰를 탄막으로 떨어뜨리는 방어포.",
+      "note": "배 겉면 곳곳에 달린 빠르게 쏘는 기관포로, 컴퓨터가 조준해 다가오는 어뢰와 작은 배를 총알 비로 막아 낸다. 이 작품의 우주 전투는 어뢰를 쏘고 이것으로 막는 싸움인 경우가 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://expanse.fandom.com/wiki/Point_defense_cannon"
+      ]
+    },
+    {
+      "id": "railgun",
+      "ko": "레일건",
+      "orig": "railgun",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "자기장의 힘으로 쇳덩이를 아주 빠르게 쏘는 포.",
+      "note": "전자기의 힘으로 금속 탄을 엄청난 빠르기로 밀어내 쏘는 무기로, 맞으면 배를 그대로 꿰뚫고 빗나간 탄은 멈추지 않고 날아간다. 큰 전함에 달린 것과, 주인공들의 배처럼 배 밑에 길게 단 것이 있다. 정식 번역판 미리보기 본문과 드라마 소개문에서는 이 이름을 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Railgun"
+      ]
+    },
+    {
+      "id": "stealth_ship",
+      "ko": "스텔스 우주선",
+      "orig": "stealth ship",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "감지기에 잘 잡히지 않게 지은 전함.",
+      "note": "레이더 신호를 빨아들이는 겉면과 바깥으로 새는 열을 줄이는 짜임으로 다른 배의 눈을 피한다. 1권 초반 정체 모를 배의 공격이 사건의 불씨가 되고, 누가 그런 배를 지었는지가 수수께끼가 된다. 1권 출판사 서평은 우주선에 스텔스 기술을 쓴 것을 이 작품의 특징으로 들지만, 배를 부르는 정해진 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011",
+        "https://expanse.fandom.com/wiki/Stealth"
+      ]
+    },
+    {
+      "id": "nauvoo",
+      "ko": "나우부",
+      "orig": "Nauvoo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 2 4회 「성공」 소개('모르몬 세대의 거대한 우주선인 나우부')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "generation_ship"
+      ],
+      "one": "모르몬교도가 다른 별로 가려고 지은 세대선.",
+      "note": "타이코 스테이션에서 짓던 길이 2킬로미터가 넘는 배로, 모르몬교도들이 여러 세대에 걸쳐 다른 별에 닿으려고 마련했다. 1권 첫머리에서 인류가 닿은 가장 먼 곳은 천왕성의 한 위성이고, 이 배는 그 너머의 별을 바라본다. 1권 번역판은 배 이름 없이 모르몬교도의 세대 우주선이라고만 적는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY",
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://expanse.fandom.com/wiki/Nauvoo_(Books)"
+      ]
+    },
+    {
+      "id": "belters",
+      "ko": "벨터",
+      "orig": "Belters",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 2회 「표류자」 소개('RCE와 벨터'), 시즌 6 6회 「바빌론의 재」 소개('벨터들')",
+      "alt_ko": [
+        {
+          "ko": "벨트인",
+          "src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1~3장 본문과 리디 작품 소개, 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 2장 본문('벨트인(소행성대 사람)') — 리디 미리보기"
+        },
+        {
+          "ko": "소행성대인",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 3 7회 「델타-V」 소개"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "spacers"
+      ],
+      "one": "소행성대와 바깥 행성에서 나고 자란 사람들.",
+      "note": "낮은 중력에서 자라 키가 크고 뼈가 가늘며, 지구 중력에서는 약 없이 오래 버티지 못한다. 우주복을 입고도 뜻이 통하도록 손짓 말이 발달했고, 여러 말이 섞인 저희 말을 쓴다. 공기와 물과 먹을 것을 바깥에 기대며 내행성의 업신여김을 받아, 독립을 바라는 마음이 크다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://www.primevideo.com/-/ko/detail/0QGUP4W6GL3ZLYRD6RC3WWZEZ2",
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://expanse.fandom.com/wiki/Belters"
+      ]
+    },
+    {
+      "id": "the_belt",
+      "ko": "벨트",
+      "orig": "the Belt (asteroid belt)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 1회 「뉴 테라」 소개('벨트의 해적 행위'), 시즌 5 소개, 시즌 6 1회 「기묘한 개」 소개",
+      "alt_ko": [
+        {
+          "ko": "소행성대",
+          "src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1장 본문('소행성대(asteroid belt)')과 리디 작품 소개, 프라임 비디오 한국 『익스팬스』 시즌 1 소개·1·2회 소개"
+        },
+        {
+          "ko": "소행성 벨트",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 4 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "화성과 목성 사이, 광산과 정거장이 흩어진 곳.",
+      "note": "엡스타인 드라이브 뒤로 사람이 몰려든 광산 지대로, 쇠붙이와 귀한 광물이 나지만 물과 먹을 것은 바깥에서 들여온다. 세레스·에로스 같은 큰 소행성의 속을 파고 돌려 도시로 쓴다. 바깥 행성의 위성들까지 아울러 벨터의 세계 전체를 가리키는 말로도 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://www.primevideo.com/-/ko/detail/0OBDSPAICFE4VNWZNFPW2I8TYU",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://ridibooks.com/books/2119000011/preview"
+      ]
+    },
+    {
+      "id": "inner_planets",
+      "ko": "내행성",
+      "orig": "the inner planets",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 프롤로그·1·2장 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 6 소개문 가운데 하나('내행성을 지키기 위해')",
+      "alt_ko": [
+        {
+          "ko": "내행성계",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 6 소개, 아작 『익스팬스: 깨어난 괴물 1』 리디 작품 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구·달·화성, 소행성대 안쪽의 세계.",
+      "note": "태양 가까이의 지구와 화성, 그 둘레를 아우르는 말이다. 벨터들은 이곳 사람들을 한데 묶어 내행성 사람으로 여기며, 무거운 중력 바닥에 사는 이들로 낮춰 본다. 드라마 소개문은 이 사람들을 '내행성인'이라 쓰고, 1권 번역판은 '내행성 출신'이라 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8"
+      ]
+    },
+    {
+      "id": "outer_planets",
+      "ko": "외행성",
+      "orig": "the outer planets",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1·2장 본문('외행성들'), 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 1~3장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "목성 너머의 거대 행성들과 그 위성들.",
+      "note": "목성·토성·천왕성의 위성들에 정착지가 있고, 소행성대와 함께 벨터의 터전이다. 가니메데의 온실이 이 일대를 먹여 살리고, 토성의 고리에서 캐 온 얼음이 물이 된다. 이 일대 사람들이 하나로 뭉치자는 움직임이 외행성 동맹이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview"
+      ]
+    },
+    {
+      "id": "opa",
+      "ko": "외행성 동맹",
+      "orig": "Outer Planets Alliance (OPA)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 8회 「애꾸눈」 소개('외행성 동맹의 미래')",
+      "alt_ko": [
+        {
+          "ko": "OPA",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 2 2회 「문과 모서리」·8회 「장작더미」 소개, 아작 『익스팬스: 깨어난 괴물 1』 2장 본문 — 줄인 이름으로 가장 자주 쓰인다"
+        },
+        {
+          "ko": "외행성 연합",
+          "src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문, 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 2장 본문 — 리디 미리보기, 두 권의 리디 출판사 서평"
+        },
+        {
+          "ko": "외계 행성 연합",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 1 2회 「큰 공허함」 소개 — 원어의 '바깥 행성'을 '외계 행성'으로 옮겼다"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "벨터의 권리와 독립을 내건 느슨한 조직.",
+      "note": "벨트와 바깥 행성 곳곳에 지부를 둔 조직으로, 벨터의 처우를 바꾸려는 운동에서 무장 단체까지 여러 갈래가 한 이름 아래 모여 있다. 하나의 지휘를 받지 않아 지부마다 생각과 수단이 크게 다르다. 둘로 갈린 원을 표지로 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://expanse.fandom.com/wiki/Outer_Planets_Alliance"
+      ]
+    },
+    {
+      "id": "ceres",
+      "ko": "세레스",
+      "orig": "Ceres (Ceres Station)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문('세레스 스테이션') — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 6 1·4·5회 소개('세레스')",
+      "alt_ko": [
+        {
+          "ko": "세리스 기지",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 1 소개·1·2회 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "벨트에서 가장 큰, 돌려서 무게를 만든 항구 도시.",
+      "note": "아주 큰 소행성의 속을 층층이 굴로 파고 통째로 돌려, 바깥쪽 층일수록 무게가 더 실리게 했다. 수백만 명이 살고 날마다 수많은 배가 드나드는 벨트 교역의 한복판이다. 1권에서는 지구의 보안 회사가 계약을 맺고 경찰 일을 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://www.primevideo.com/-/ko/detail/0P5PBGVVW11X6D7IBS6OP020Q8",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://expanse.fandom.com/wiki/Ceres"
+      ]
+    },
+    {
+      "id": "tycho_station",
+      "ko": "타이코 스테이션",
+      "orig": "Tycho Station",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문, 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 2장 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 5 2회 「혼돈」 소개('타이코')",
+      "alt_ko": [
+        {
+          "ko": "티코 기지",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 1 5회 「다시 도살업자에게로」, 시즌 2 3회 「정지」 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "큰 배를 짓는 벨트의 회전 정거장.",
+      "note": "도는 고리에서 사람이 살고, 가운데의 큰 공 안에서 거대한 배를 짓는 조선소 정거장이다. 벨트에서 손꼽히는 기술자들이 모여 있고, 외행성 동맹의 온건한 쪽이 이곳을 근거지로 삼는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://www.primevideo.com/-/ko/detail/0OBDSPAICFE4VNWZNFPW2I8TYU",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://expanse.fandom.com/wiki/Tycho_Station"
+      ]
+    },
+    {
+      "id": "eros",
+      "ko": "에로스",
+      "orig": "Eros",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 2』(2016, 최용준 옮김) 전자책 29~32장 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 1 9·10회 소개",
+      "alt_ko": [
+        {
+          "ko": "에로스 기지",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 2 1회 「안전」·4회 「성공」 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "카지노 거리로 이름난 벨트의 소행성 도시.",
+      "note": "속을 파고 돌려서 사람이 사는 소행성 정거장이다. 백만 명이 넘는 사람이 살고, 카지노와 싸구려 숙소가 늘어선 거리로 이름났다. 중력이 약해 사람이 뛰면 나는 것처럼 보인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000012/preview",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY"
+      ]
+    },
+    {
+      "id": "eros_incident",
+      "ko": "에로스 사건",
+      "orig": "Eros incident",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 전자책 1장 「바비」·2장 「홀던」 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "에로스 사람 모두에게 원시분자를 퍼뜨린 사건.",
+      "note": "한 기업이 원시분자가 사람에게 무엇을 하는지 보려고, 방사능 대피를 핑계로 에로스 주민 백만여 명을 몰아넣고 감염시킨 일이다. 감염된 사람들은 갈색 덩어리를 토하며 쓰러지고 정거장 전체가 원시분자의 몸이 된다. 태양계는 이 일로 외계의 물질이 있다는 것을 처음 알게 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://ridibooks.com/books/2119000012/preview",
+        "https://expanse.fandom.com/wiki/Protogen"
+      ]
+    },
+    {
+      "id": "protogen",
+      "ko": "프로토젠",
+      "orig": "Protogen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 2』(2016, 최용준 옮김) 전자책 30·31장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "원시분자를 몰래 연구한 지구의 보안·연구 기업.",
+      "note": "에로스의 경비를 맡은 지구 기업이지만 큰 연구 부서를 두고, 화성과 함께 찾아낸 외계의 물질을 독차지해 사람에게 실험한다. 회사가 앞서 나가기 위해서라면 정거장 하나의 목숨도 실험 재료로 여긴다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/2119000012/preview",
+        "https://expanse.fandom.com/wiki/Protogen"
+      ]
+    },
+    {
+      "id": "star_helix",
+      "ko": "스타 헬릭스 치안대",
+      "orig": "Star Helix Security",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "세레스의 경찰 일을 맡은 지구의 보안 회사.",
+      "note": "나라의 경찰 대신 계약을 맺고 세레스의 치안과 경비를 맡은 지구 기업이다. 형사들도 회사 직원이라 위에서 새 계약이 내려오면 그 일을 해야 한다. 법 대신 회사의 계약이 질서를 지키는 셈이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://expanse.fandom.com/wiki/Star_Helix_Security"
+      ]
+    },
+    {
+      "id": "rce",
+      "ko": "RCE",
+      "orig": "Royal Charter Energy (RCE)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 2회 「표류자」 소개('RCE와 벨터의 긴장감')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "링 너머 새 행성의 개척권을 받은 지구 기업.",
+      "note": "UN에게서 일러스의 조사와 개발 권리를 받아 과학자와 경비대를 보낸 지구의 에너지 기업이다. 먼저 내려와 살던 벨터 난민들을 불법 점거자로 보고, 회사 경비대가 그 행성에서 사실상 법 노릇을 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://expanse.fandom.com/wiki/Royal_Charter_Energy"
+      ]
+    },
+    {
+      "id": "ilus",
+      "ko": "일러스",
+      "orig": "Ilus (New Terra)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 4 3·5·6·7·8·9·10회 소개",
+      "alt_ko": [
+        {
+          "ko": "아일러스",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 4 소개('아일러스 행성')"
+        },
+        {
+          "ko": "뉴 테라",
+          "src": "프라임 비디오 한국 『익스팬스』 시즌 4 1회 제목 「뉴 테라」 — 지구 쪽이 붙인 이름"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "colonization",
+        "alien_ecology"
+      ],
+      "one": "링 너머에서 사람이 처음 정착하려 한 행성.",
+      "note": "지구와 비슷한 공기와 중력을 가진 행성으로, 먼저 내려온 벨터 난민들은 일러스라 부르고 개척권을 받은 지구 기업은 뉴 테라라 부르며 다툰다. 닿기만 해도 사람을 죽이는 민달팽이, 사람의 눈을 멀게 하는 병처럼 토착 생물이 사람에게 해롭고, 곳곳에 옛 문명의 유적이 잠들어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7",
+        "https://expanse.fandom.com/wiki/Ilus_IV"
+      ]
+    },
+    {
+      "id": "ganymede",
+      "ko": "가니메데",
+      "orig": "Ganymede",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 리디 작품 소개와 전자책 프롤로그·1~3장 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 2 6·7·8·10회 소개",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "온실 돔으로 바깥 행성을 먹여 살리는 목성의 위성.",
+      "note": "궤도에 띄운 거울로 모은 햇빛을 온실 돔에 비춰 작물을 기르는 곳으로, 벨트와 바깥 행성의 먹을 것이 여기서 난다. 바깥 행성 가운데 아이를 낳고 기르기에 가장 안전한 곳으로 꼽힌다. 2권에서는 지구와 화성이 이곳을 두고 맞선다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000026",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY",
+        "https://expanse.fandom.com/wiki/Ganymede"
+      ]
+    },
+    {
+      "id": "phoebe",
+      "ko": "포에베",
+      "orig": "Phoebe",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 2』(2016, 최용준 옮김) 전자책 30장 본문('포에베 스테이션'), 『칼리반의 전쟁 2』(2017, 박슬라 옮김) 28장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "원시분자가 처음 발견된 토성의 작은 위성.",
+      "note": "토성 둘레를 비뚤게 도는 작은 얼음 위성으로, 화성의 조사대가 이곳 속에서 외계의 물질을 찾아낸다. 사실은 수십억 년 전 누군가 지구를 겨냥해 쏘아 보낸 것이 토성에 붙잡힌 것이었다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/2119000012/preview",
+        "https://ridibooks.com/books/2119000027/preview",
+        "https://expanse.fandom.com/wiki/Phoebe"
+      ]
+    },
+    {
+      "id": "venus",
+      "ko": "금성",
+      "orig": "Venus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 리디 작품 소개와 전자책 2장 본문, 『칼리반의 전쟁 2』 28장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "원시분자가 떨어져 무언가를 짓고 있는 행성.",
+      "note": "1권 끝에 원시분자가 떨어진 곳으로, 두꺼운 구름 아래에서 사람이 알 수 없는 거대한 짜임이 자라난다. 2권 내내 온 태양계가 이곳을 지켜보며, 그 일이 끝날 때 무엇이 나올지 두려워한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/2119000026",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://ridibooks.com/books/2119000027/preview"
+      ]
+    },
+    {
+      "id": "ice_hauler",
+      "ko": "얼음 수송선",
+      "orig": "ice hauler",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1장 「홀던」 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 1 1회 「연인」 소개",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "토성 고리의 얼음을 벨트로 실어 나르는 배.",
+      "note": "벨트에 쓸 물을 대려고 토성의 고리에서 얼음덩어리를 잘라 오는 낡은 화물선이다. 백만 톤이 넘는 얼음을 싣고 한 달 넘게 느리게 가속하며, 일이 위험하고 벌이가 적어 갈 곳 없는 사람들이 탄다. 이야기는 이런 배 한 척에서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX"
+      ]
+    },
+    {
+      "id": "gravity_well",
+      "ko": "중력 우물",
+      "orig": "gravity well",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1·2장 본문, 『칼리반의 전쟁 2』(2017, 박슬라 옮김) 28장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "행성의 무거운 중력을 우물에 빗댄 말.",
+      "note": "행성 표면은 무게에서 빠져나오기 어려운 깊은 우물 바닥과 같다는 뜻이다. 벨터들은 지구와 화성 사람을 이 우물 바닥에서 온 이들로 낮춰 보고, 거꾸로 우물 밖에서 자란 몸은 행성의 무게를 견디지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000027/preview"
+      ]
+    },
+    {
+      "id": "tightbeam",
+      "ko": "좁은광선",
+      "orig": "tightbeam",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문('좁은광선 전송'), 『칼리반의 전쟁 1』(2017, 박슬라 옮김) 2장·『칼리반의 전쟁 2』 30장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "받는 쪽만 겨냥해 가는 빛줄기로 보내는 통신.",
+      "note": "넓게 퍼지는 전파 대신 가는 빛줄기로 상대만 겨냥해 보내, 가로채기 어려워 비밀 연락에 쓴다. 빛보다 빠른 통신이 없는 세계라 먼 곳과는 몇 분에서 몇 시간씩 늦게 말이 오간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000026/preview"
+      ]
+    },
+    {
+      "id": "basic",
+      "ko": "베이직",
+      "orig": "Basic (Basic Assistance)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "overpopulation"
+      ],
+      "one": "지구 인구 절반쯤이 기대 사는 나라의 생활 보조.",
+      "note": "일자리가 없는 지구 사람에게 집과 먹을 것과 치료를 거저 주는 UN의 제도로, 삼백억 지구 인구의 절반쯤이 여기에 기대 산다. 그 대신 피임이 의무여서 마음대로 아이를 가질 수 없고, 여기서 벗어나려면 일자리나 교육을 얻어야 한다. 정식 번역판 미리보기에서 이 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Basic_Assistance"
+      ]
+    },
+    {
+      "id": "belter_creole",
+      "ko": "벨터 크레올",
+      "orig": "Belter Creole (Lang Belta)",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "여러 나라 말이 섞여 생긴 벨터들의 말.",
+      "note": "여러 나라 말의 낱말과 짜임이 섞인 말로, 벨터끼리 쓰고 지구 사람은 알아듣기 어렵다. 드라마에서는 언어학자가 문법과 낱말을 크게 넓혔다. 1권 번역판은 이 말을 소리대로 적고 괄호에 뜻을 달았으며, 지구 출신 형사는 이것을 '바깥세계 언어'라 부른다. 정해진 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://expanse.fandom.com/wiki/Belter_Creole_(Books)"
+      ]
+    },
+    {
+      "id": "mars_terraforming",
+      "ko": "화성 테라포밍",
+      "orig": "Mars Terraforming Project",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "여러 세대에 걸쳐 화성을 숨 쉴 땅으로 바꾸는 일.",
+      "note": "백 년이 넘게 걸려 지금 사람들은 끝을 볼 수 없는 일로, 화성 사람들은 이것을 나라와 삶의 목표로 삼고 그동안 돔 아래에서 산다. 규율과 효율을 무엇보다 중히 여기는 화성의 기질이 여기서 나온다. 링 너머에 이미 살 만한 행성이 많다는 것이 알려지자 이 일의 뜻이 흔들린다.",
+      "spoiler": false,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Mars_Terraforming_Project",
+        "https://www.primevideo.com/-/ko/detail/0R245YWI2U7TB3YKMV1JWUFGT7"
+      ]
+    },
+    {
+      "id": "martian_marines",
+      "ko": "화성 해병대",
+      "orig": "Martian Marines",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "프라임 비디오 한국 『익스팬스』 시즌 1 7회 「풍차」·시즌 2 1회 「안전」 소개('화성 해병대'). 아작 『칼리반의 전쟁 1』·『칼리반의 전쟁 2』(2017, 박슬라 옮김) 본문은 '화성 해병'이라 쓴다 — 리디 미리보기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "강화복을 입고 싸우는 화성 해군의 육전 부대.",
+      "note": "화성 해군에 딸린 부대로, 강화복을 입고 낮은 중력과 진공 속에서 싸우도록 오래 훈련받는다. 화성에서 자라 벨터보다 몸이 튼튼하고 지구 사람보다 키가 크다. 2권에서는 가니메데에 머물던 한 분대의 일이 이야기의 한 축이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.primevideo.com/-/ko/detail/0I5H35HHPY3456HRI7TQO7EKLX",
+        "https://www.primevideo.com/-/ko/detail/0HIYALAUVS1FS8HVF299SZONEY",
+        "https://ridibooks.com/books/2119000026/preview",
+        "https://ridibooks.com/books/2119000027/preview"
+      ]
+    },
+    {
+      "id": "mao_kwikowski",
+      "ko": "마오-크비코프스키 무역",
+      "orig": "Mao-Kwikowski Mercantile",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 「밀러」 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "마오크비크",
+          "src": "같은 판 2장 본문 — 줄여 부르는 이름"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "벨트와 내행성 사이 운송으로 큰돈을 번 기업.",
+      "note": "금성의 구름 도시 사업이 망한 뒤 긴 소송을 맡던 법률 회사에서 시작해, 그 돈으로 행성 사이 운송에 뛰어들어 커졌다. 회사의 정거장은 어느 나라에도 속하지 않은 채 떠 있고, 먼 정거장의 경찰까지 돈으로 움직일 만큼 힘이 세다. 1권은 이 집안의 딸을 찾는 일에서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview"
+      ]
+    },
+    {
+      "id": "luna",
+      "ko": "루나",
+      "orig": "Luna",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 2장 본문, 『칼리반의 전쟁 2』(2017, 박슬라 옮김) 28장 본문 — 리디 미리보기, 프라임 비디오 한국 『익스팬스』 시즌 5 1회 「탈주」 소개('루나에서는')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "UN이 다스리는 지구의 달.",
+      "note": "지구의 달로, 지구와 함께 UN이 다스리는 땅이다. 지구보다 중력이 훨씬 약해 우주로 오가기 쉬워서, 벨트와 거래하는 큰 기업의 본거지와 정부 시설이 자리 잡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000027/preview",
+        "https://www.primevideo.com/-/ko/detail/0OBDSPAICFE4VNWZNFPW2I8TYU"
+      ]
+    },
+    {
+      "id": "hand_terminal",
+      "ko": "핸드터미널",
+      "orig": "hand terminal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "아작 『익스팬스: 깨어난 괴물 1』(2016, 최용준 옮김) 전자책 1·2장 본문 — 리디 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "누구나 들고 다니는 손바닥만 한 컴퓨터.",
+      "note": "통화와 기록, 자료 보기와 신원 확인을 한데 하는 작은 단말로, 정거장과 배의 망에 이어져 있다. 망이 끊기면 그저 화면 달린 판이 된다. 번역판은 줄여서 그냥 '터미널'이라고도 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/2119000011/preview",
+        "https://ridibooks.com/books/2119000012/preview"
+      ]
+    },
+    {
+      "id": "medina_station",
+      "ko": "메디나 스테이션",
+      "orig": "Medina Station",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "슬로 존 안에 자리 잡은 벨터들의 회전 정거장.",
+      "note": "슬로 존 안쪽에 머무는 거대한 배를 고쳐 사람이 사는 정거장으로 바꾼 것으로, 통 모양 몸통을 돌려 무게를 만든다. 모든 링으로 가는 길목을 내려다보는 자리라, 이곳을 쥔 쪽이 링 사이의 오고 감을 쥔다. 번역되지 않은 권에 나오는 이름이라 정식 표기가 없다.",
+      "spoiler": true,
+      "refs": [
+        "https://expanse.fandom.com/wiki/Nauvoo_(Books)",
+        "https://expanse.fandom.com/wiki/Transport_Union"
+      ]
+    }
+  ]
+}

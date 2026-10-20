@@ -1,0 +1,2077 @@
+{
+  "terms": [
+    {
+      "id": "the_force",
+      "ko": "포스",
+      "orig": "the Force",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『스타워즈: 보이지 않는 위험 (에피소드 1)』 작품 소개 '비범한 포스를 가진 소년', 『제다이의 귀환 (에피소드 6)』 소개 '포스를 둘러싼', 『라스트 제다이 (에피소드 8)』 소개 '포스의 미스터리'. 2019 문학수첩 『스타워즈 영한사전: 제다이 입문자 편』 출판사 소개에도 'Force(포스)'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "cosmic_force"
+      ],
+      "one": "모든 생명이 만들어 내고 은하를 하나로 묶는 힘.",
+      "note": "살아 있는 것들이 만들어 내는 기운으로 은하 전체에 퍼져 있다. 타고난 사람은 이 힘을 느끼고 끌어 써서 손대지 않고 물건을 움직이거나 앞일을 본다. 밝은 면과 어두운 면이 있어, 제다이와 시스가 각각 한쪽을 따른다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-4b6e7cda-daa5-4f2d-9b61-35bbe562c69c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-4c622e6e-6237-44e7-9aaf-db94de0edc3b",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=190023900",
+        "https://starwars.fandom.com/wiki/The_Force"
+      ]
+    },
+    {
+      "id": "dark_side",
+      "ko": "다크 사이드",
+      "orig": "dark side of the Force",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『시스의 복수 (에피소드 3)』 작품 소개 '다크 사이드의 힘에 대한 사실', 『클론 전쟁』 시즌 3 16회 「모티스의 제단」 소개 '다크 사이드로 이끌려는 시도'. 2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 목차 '오직 다크 사이드를 위해', 2024 AK 『스타워즈 라이트세이버 컬렉션』(권윤경 옮김) 목차 '다크 사이드를 따르는 자들'도 같다",
+      "alt_ko": [
+        {
+          "ko": "어두운 면",
+          "src": "디즈니+ 한국 『클론 전쟁』 시즌 3 17회 「모티스의 영혼」 소개 '밝은 면과 어두운 면 양쪽에'"
+        },
+        {
+          "ko": "다크 포스",
+          "src": "디즈니+ 한국 『제국의 역습 (에피소드 5)』 작품 소개 '루크를 다크 포스로 끌어들이기 위한'"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "분노와 두려움에서 힘을 끌어내는 포스의 어두운 면.",
+      "note": "미움·분노·두려움 같은 감정을 땔감 삼아 빠르고 큰 힘을 주지만, 쓰는 사람을 차츰 집어삼킨다. 시스가 이쪽을 따른다. 제다이가 이리로 넘어가는 타락이 사가 전체의 큰 줄기다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-eb1e2c5f-69bf-4240-a61f-7ffc4e0311b3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-0f5c5223-f4f6-46ef-ba8a-69cb0e17d8d3",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341725172",
+        "https://starwars.fandom.com/wiki/Dark_side_of_the_Force"
+      ]
+    },
+    {
+      "id": "force_abilities",
+      "ko": "포스 능력",
+      "orig": "Force powers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 『스타워즈 제다이: 오더의 몰락』(2019, 정사 게임) 정식 한국어판 스팀 상점 소개 '새로운 포스 능력을 개발하고', '강력한 새 포스 능력을 개발하고'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "포스로 물건을 움직이고 마음에 닿는 갖가지 힘.",
+      "note": "손대지 않고 물건을 밀고 당기기, 남의 마음 읽기, 몸을 빠르게 하기, 다친 곳 고치기 같은 것이 있다. 타고난 감응력에 훈련이 더해져야 쓸 수 있고, 어두운 면을 따르는 쪽은 손끝에서 번개를 내뿜기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1172380/?l=koreana",
+        "https://starwars.fandom.com/wiki/Force_power"
+      ]
+    },
+    {
+      "id": "force_vision",
+      "ko": "환영",
+      "orig": "Force vision",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 3 7회 「암살」 소개 '파드메 아미달라가 암살당하는 환영을 본다', 『반란군』 시즌 3 11회 제목 「환영과 목소리들」",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "precognition"
+      ],
+      "one": "포스로 앞일이나 먼 곳의 일을 미리 보는 것.",
+      "note": "꿈이나 명상 속에 앞으로 일어날 일, 지난 일, 먼 곳의 일이 보인다. 본 것이 그대로 일어난다는 보장은 없고, 본 미래를 막으려 애쓰는 일이 도리어 그 미래를 불러오기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Force_vision"
+      ]
+    },
+    {
+      "id": "mind_trick",
+      "ko": "마인드 트릭",
+      "orig": "Jedi mind trick",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "포스로 약한 마음을 흔들어 말을 따르게 하는 기술.",
+      "note": "손짓과 말 한마디로 상대가 그 말을 제 생각처럼 믿고 따르게 만든다. 의지가 약한 상대에게만 통하고, 정신이 굳센 사람이나 이 기술이 듣지 않는 종족도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Mind_trick"
+      ]
+    },
+    {
+      "id": "force_bond",
+      "ko": "포스 본드",
+      "orig": "Force bond",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy",
+        "psychic_comm"
+      ],
+      "one": "멀리 떨어진 두 사람의 마음이 포스로 이어지는 것.",
+      "note": "이어진 두 사람은 은하 반대편에 있어도 서로를 보고 말을 나누며, 물건을 건네기까지 한다. 마지막 3부작에서 두 젊은 포스 사용자가 이렇게 이어져 있다는 것이 드러나 이야기를 이끈다.",
+      "spoiler": true,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Force_bond"
+      ]
+    },
+    {
+      "id": "midichlorian",
+      "ko": "미디클로리언",
+      "orig": "midi-chlorian",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "세포 안에 살며 포스와 이어 주는 아주 작은 생명.",
+      "note": "모든 생물의 세포 속에 함께 사는 미생물로, 그 수가 많을수록 포스를 다루는 소질이 크다고 여긴다. 제다이는 피를 뽑아 이 수를 재어 아이의 소질을 가늠했다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Midi-chlorian"
+      ]
+    },
+    {
+      "id": "jedi_order",
+      "ko": "제다이 기사단",
+      "orig": "Jedi Order",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『애콜라이트』 작품 소개 '제다이 기사단과 은하 공화국', 『클론 전쟁』 시즌 6 10회 「잃어버린 조각」 소개 '제다이 기사단은', 『보이지 않는 위험 (에피소드 1)』 소개 '제다이 기사들'",
+      "alt_ko": [
+        {
+          "ko": "제다이 오더",
+          "src": "디즈니+ 한국 『클론 전쟁』 시즌 5 20회 「그릇된 제다이」 소개 '제다이 오더에서 퇴출당한다'. 정사 게임 『스타워즈 제다이: 오더의 몰락』 한국어판 상점 소개도 '제다이 오더'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "포스의 밝은 면을 따르며 은하의 평화를 지키는 수도회.",
+      "note": "아주 오랜 세월 공화국 곁에서 평화를 지켜 온 포스 사용자들의 모임이다. 감응력이 있는 아기를 데려와 사원에서 기르고, 감정과 집착을 멀리하라는 규율 아래 수련시킨다. 클론 전쟁 때는 공화국 군대의 장군이 되어 싸웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-a5c84b7d-fd4e-42c8-95e3-960e73e1a71e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://store.steampowered.com/app/1172380/?l=koreana",
+        "https://starwars.fandom.com/wiki/Jedi_Order"
+      ]
+    },
+    {
+      "id": "jedi_knight",
+      "ko": "제다이 기사",
+      "orig": "Jedi Knight",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론의 습격 (에피소드 2)』 작품 소개 '진정한 제다이 기사로 태어날 수', 『아소카』 작품 소개 '제다이 기사였던 아소카 타노'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "수련을 마치고 정식으로 인정받은 제다이.",
+      "note": "스승 밑에서 제자로 배운 뒤 시험을 거쳐 기사가 된다. 기사가 되면 혼자 임무를 맡고, 자기 제자를 들일 수도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e64c22fc-fc7c-4ada-bbec-ab8351b8db97",
+        "https://starwars.fandom.com/wiki/Jedi_Knight"
+      ]
+    },
+    {
+      "id": "jedi_master",
+      "ko": "제다이 마스터",
+      "orig": "Jedi Master",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『보이지 않는 위험 (에피소드 1)』 작품 소개 '제다이 마스터 콰이곤', 『제국의 역습 (에피소드 5)』 소개 '제다이 마스터 요다', 『애콜라이트』 작품 소개 '제다이 마스터'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "제자를 길러 낸 노련한 제다이에게 주는 칭호.",
+      "note": "기사 가운데 공을 쌓고 제자를 기사로 길러 낸 사람이 오른다. 제다이 평의회의 자리는 대개 마스터들이 차지한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-0f5c5223-f4f6-46ef-ba8a-69cb0e17d8d3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-a5c84b7d-fd4e-42c8-95e3-960e73e1a71e",
+        "https://starwars.fandom.com/wiki/Jedi_Master"
+      ]
+    },
+    {
+      "id": "padawan",
+      "ko": "파다완",
+      "orig": "Padawan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『스타워즈: 몰 - 그림자 군주』 작품 소개 '젊은 파다완', 『운명의 포스』 4회 제목 「파다완의 길」, 『어린 제다이의 모험』 시즌 2 1회 「파다완 웨스」, 『클론 전쟁』 시즌 3 21회 「파다완, 잃어버리다」. 정사 게임 『제다이: 오더의 몰락』 한국어판 상점 소개도 '파다완'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "스승 한 사람에게 붙어 배우는 제다이 제자.",
+      "note": "어린 수련생 가운데 뽑혀 기사나 마스터 한 사람의 제자가 되고, 함께 임무를 다니며 배운다. 머리 한쪽에 땋은 머리를 늘어뜨려 제자라는 것을 나타낸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-9ba0f41b-6173-4ff1-8967-71cad0620244",
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://starwars.fandom.com/wiki/Padawan"
+      ]
+    },
+    {
+      "id": "youngling",
+      "ko": "영링",
+      "orig": "Youngling",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 5 6회 「수집 임무」 소개 '제다이 영링들이 통과 의례를 거친다', 시즌 3 21회 소개 '납치된 제다이 영링들'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "사원에서 함께 자라며 배우는 어린 제다이 수련생.",
+      "note": "감응력이 있는 아이들을 무리 지어 기른다. 스스로 얼음 동굴에 들어가 카이버를 찾아오는 통과 의례를 거쳐 첫 광선검을 만든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://starwars.fandom.com/wiki/Youngling"
+      ]
+    },
+    {
+      "id": "jedi_council",
+      "ko": "제다이 평의회",
+      "orig": "Jedi High Council",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 출판사 책 소개 '제다이 평의회의 양면성', 2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '제다이 평의회', 2019 문학수첩 『스타워즈 영한사전: 제다이 기사 편』 출판사 소개 '제다이 마스터들이 모여 앉은 평의회'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "제다이 기사단을 이끄는 열두 마스터의 회의.",
+      "note": "수도 행성의 제다이 사원 탑에 모여 임무를 나누고, 누구를 기사로 올릴지, 공화국의 요청에 어떻게 답할지를 정한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193195539",
+        "https://starwars.fandom.com/wiki/Jedi_High_Council"
+      ]
+    },
+    {
+      "id": "jedi_code",
+      "ko": "제다이 규율",
+      "orig": "Jedi Code",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2019 문학수첩 『스타워즈 영한사전: 제다이 기사 편』 목차 첫머리 '들어가는 말 / 제다이 규율' — 목차 항목 이름만 보았고 본문은 보지 못했다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "감정과 집착을 멀리하라는 제다이의 가르침.",
+      "note": "분노·두려움·미움은 어두운 면으로 이끈다고 보아, 평정을 지키고 무엇에도 매이지 말라고 가르친다. 그래서 제다이는 혼인하지 않는다. 이 가르침과 사랑 사이의 갈등이 프리퀄 3부작을 이끈다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193195539",
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://starwars.fandom.com/wiki/Jedi_Code"
+      ]
+    },
+    {
+      "id": "sith",
+      "ko": "시스",
+      "orig": "Sith",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『스타워즈: 시스의 복수 (에피소드 3)』 제목, 『클론 전쟁』 시즌 5 14회 「주종관계」 소개 '시스는', 『반란군』 시즌 2 21회 소개 '시스에게 맞서는'. 2019 문학수첩 『스타워즈 영한사전: 제다이 입문자 편』 출판사 소개에도 '제다이와 시스'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "order",
+        "long_plan"
+      ],
+      "one": "포스의 어두운 면을 따르는 제다이의 오랜 적.",
+      "note": "힘을 얻어 남을 다스리려는 포스 사용자들이다. 한때 무너진 뒤 천 년 동안 스승과 제자 둘만 남기는 법칙으로 숨어서 대를 이으며, 제다이에게 복수하고 은하를 손에 넣을 때를 기다렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-eb1e2c5f-69bf-4240-a61f-7ffc4e0311b3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=190023900",
+        "https://starwars.fandom.com/wiki/Sith"
+      ]
+    },
+    {
+      "id": "darth",
+      "ko": "다스",
+      "orig": "Darth",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『보이지 않는 위험 (에피소드 1)』 작품 소개 '다스 시디어스', '다스몰', 『새로운 희망 (에피소드 4)』 소개 '다스 베이더' — 이름 앞 칭호로 씀. 칭호의 뜻 '시스 암흑 군주'는 2019 문학수첩 『스타워즈 영한사전: 제다이 기사 편』 출판사 소개 '시스 암흑 군주들'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "시스 암흑 군주가 이름 앞에 붙이는 칭호.",
+      "note": "시스 제자가 스승에게서 새 이름을 받을 때 앞에 붙는다. 본래 이름을 버리고 이 칭호로 불린다는 것이 어두운 면으로 완전히 넘어갔다는 표시가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193195539",
+        "https://starwars.fandom.com/wiki/Darth"
+      ]
+    },
+    {
+      "id": "chosen_one",
+      "ko": "선택받은 자",
+      "orig": "the Chosen One",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "prophecy"
+      ],
+      "one": "포스에 균형을 되찾아 줄 것이라 예언된 사람.",
+      "note": "제다이 사이에 전해 오는 오랜 예언으로, 포스에 균형을 가져올 자가 나타난다고 한다. 아버지 없이 태어나 미디클로리언 수가 유난히 높은 한 소년이 그 사람으로 여겨지면서, 그가 무엇을 균형이라 부르게 될지가 사가 전체의 물음이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Chosen_One"
+      ]
+    },
+    {
+      "id": "inquisitor",
+      "ko": "인퀴지터",
+      "orig": "Inquisitors",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 5회 「그들은 항상 둘이다」·10회 「포스의 미래」·22회 소개 '인퀴지터'. 정사 게임 『제다이: 오더의 몰락』 한국어판 상점 소개 '무시무시한 인퀴지터', 2024 AK 『스타워즈 라이트세이버 컬렉션』(권윤경 옮김) 목차 '그랜드 인퀴지터'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "살아남은 제다이를 사냥하는 제국의 어두운 포스 사용자.",
+      "note": "어두운 면으로 넘어간 옛 제다이 등으로 이루어진 집단으로, 숨은 제다이와 감응력이 있는 아이를 찾아 없애거나 데려간다. 양끝에서 날이 나오고 고리처럼 돌아가는 광선검을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://store.steampowered.com/app/1172380/?l=koreana",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341725172",
+        "https://starwars.fandom.com/wiki/Inquisitorius"
+      ]
+    },
+    {
+      "id": "galactic_republic",
+      "ko": "은하 공화국",
+      "orig": "Galactic Republic",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『애콜라이트』 작품 소개 '제다이 기사단과 은하 공화국'. 『보이지 않는 위험』·『클론의 습격』 소개는 줄여서 '공화국'. 2024 AK 『스타워즈 라이트세이버 컬렉션』(권윤경 옮김) 목차 '은하공화국의 제다이'(붙여 씀)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "수많은 행성이 의회를 두고 함께 다스린 옛 나라.",
+      "note": "아주 오래 이어진 공화정으로, 행성마다 의원을 보내 의회에서 법을 정한다. 평화는 제다이가 지켰고 따로 상비군이 없었다. 전쟁을 거치며 의회 스스로 한 사람에게 권력을 몰아주어 제국으로 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-a5c84b7d-fd4e-42c8-95e3-960e73e1a71e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341725172",
+        "https://starwars.fandom.com/wiki/Galactic_Republic"
+      ]
+    },
+    {
+      "id": "galactic_senate",
+      "ko": "공화국 의회",
+      "orig": "Galactic Senate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론의 습격 (에피소드 2)』 작품 소개 '공화국 의회의 저명한 의원이 된 파드메'",
+      "alt_ko": [
+        {
+          "ko": "상원 의회",
+          "src": "2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김) 목차 '상원 의회', 2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '상원의회'(붙여 씀). 디즈니+ 한국 『클론 전쟁』 시즌 2 4회 소개는 '상원'"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "공화국 행성들의 의원이 모여 법을 정하는 곳.",
+      "note": "수도 행성에 있으며 행성과 지역마다 보낸 의원이 앉고, 의장이 이끈다. 말만 오가고 일이 더디다는 불만이 커지면서, 위기 때 의장 한 사람에게 비상 권한을 몰아주게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=83009905",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Galactic_Senate"
+      ]
+    },
+    {
+      "id": "supreme_chancellor",
+      "ko": "의장",
+      "orig": "Supreme Chancellor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 4 18회 「나부에 닥친 위기」 소개 '두쿠 백작과 현상금 사냥꾼들이 의장을 납치하려고 한다', 『시스의 복수 (에피소드 3)』 작품 소개도 '의장'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "공화국 의회를 이끄는 공화국의 최고 지도자.",
+      "note": "의원들이 뽑으며, 나라 밖의 일과 비상시의 권한을 쥔다. 클론 전쟁 동안 비상 권한이 거듭 늘어나 임기가 끝나도 물러나지 않았고, 끝내 스스로 황제를 선언한다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-eb1e2c5f-69bf-4240-a61f-7ffc4e0311b3",
+        "https://starwars.fandom.com/wiki/Supreme_Chancellor"
+      ]
+    },
+    {
+      "id": "galactic_empire",
+      "ko": "은하 제국",
+      "orig": "Galactic Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 작품 소개 '은하 제국이 억압과 두려움으로', 『안도르』 작품 소개 '무자비한 은하 제국의 압제', 『애콜라이트』 작품 소개 '은하 제국 수립 100년 전', 『스타워즈: 제국 이야기』 작품 소개 '공포의 은하 제국'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "공화국을 뒤엎고 황제 한 사람이 다스린 나라.",
+      "note": "클론 전쟁이 끝날 때 공화국을 고쳐 세운 나라다. 지역마다 총독을 두고, 군대와 공포로 은하를 누른다. 행성 하나를 없앨 수 있는 무기를 지어 반란할 생각조차 못 하게 하려 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-a5c84b7d-fd4e-42c8-95e3-960e73e1a71e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-b9acb4dc-2c55-4829-9ecf-37d1f96ff29f",
+        "https://starwars.fandom.com/wiki/Galactic_Empire"
+      ]
+    },
+    {
+      "id": "rebel_alliance",
+      "ko": "반란 연합",
+      "orig": "Alliance to Restore the Republic (Rebel Alliance)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『새로운 희망 (에피소드 4)』 작품 소개 '반란 연합의 투쟁', '반란 연합의 지도자 레아 공주'",
+      "alt_ko": [
+        {
+          "ko": "반란군",
+          "src": "디즈니+ 한국 시리즈 제목 『스타워즈 반란군』, 『제국의 역습』·『제다이의 귀환』 작품 소개"
+        },
+        {
+          "ko": "반군",
+          "src": "디즈니+ 한국 『로그 원: 스타워즈 스토리』 작품 소개 '반군의 일원인'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국에 맞서 싸운 여러 저항 조직의 연합.",
+      "note": "흩어져 싸우던 저항 조직들이 옛 공화국 의원 출신 지도자들 아래 모여 만들었다. 숨겨 둔 기지를 옮겨 다니며 작은 함대와 전투기로 제국과 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.disneyplus.com/ko-kr/browse/entity-5ec74210-f970-42b7-a39f-8653c0a9eab8",
+        "https://starwars.fandom.com/wiki/Alliance_to_Restore_the_Republic"
+      ]
+    },
+    {
+      "id": "separatists",
+      "ko": "분리주의 연합",
+      "orig": "Confederacy of Independent Systems (Separatists)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 1 2·8·10·14·17회 소개 '분리주의 연합'",
+      "alt_ko": [
+        {
+          "ko": "분리주의자",
+          "src": "디즈니+ 한국 『클론 전쟁』 시즌 6 7회 「중대 위기」 소개, 2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '분리주의자'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "공화국에서 떨어져 나가 클론 전쟁을 일으킨 행성 연합.",
+      "note": "공화국의 부패와 세금에 불만을 품은 수많은 행성이 거대 기업들과 손잡고 따로 나라를 세웠다. 군대는 기업들이 찍어 낸 드로이드로 채워, 복제병을 쓰는 공화국과 맞섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=fef019a9-4eca-413a-bf6e-4be7e012bac6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Confederacy_of_Independent_Systems"
+      ]
+    },
+    {
+      "id": "trade_federation",
+      "ko": "무역 연합",
+      "orig": "Trade Federation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『스타워즈: 보이지 않는 위험 (에피소드 1)』 작품 소개 '무역항로를 독점하려는 무역 연합이 아미달라 여왕이 통치하는 나부 행성을 공격하자'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "자기 군대까지 거느린 은하의 거대 운송 기업.",
+      "note": "은하의 무역 항로를 쥔 상인 조직으로, 의회에 대표를 두고 드로이드 군대까지 거느린다. 무역 항로 세금에 반발해 한 행성을 봉쇄하고 침공한 일이 프리퀄 이야기의 출발점이고, 뒤에 분리주의 연합의 한 축이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://starwars.fandom.com/wiki/Trade_Federation"
+      ]
+    },
+    {
+      "id": "clone_trooper",
+      "ko": "클론 트루퍼",
+      "orig": "clone trooper",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 1 1회 「매복」 소개 '요다는 클론 트루퍼 셋을 이끌고', 시즌 4 7~9회, 시즌 6 1·3회 소개. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '클론 트루퍼'도 같다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "clone",
+        "super_soldier"
+      ],
+      "one": "한 사람의 유전자로 길러 낸 공화국의 병사.",
+      "note": "현상금 사냥꾼 한 사람의 유전자를 바탕으로 바다 행성 카미노에서 대량으로 길렀다. 두 배 빠르게 자라고 명령에 잘 따르도록 손본 몸으로 태어나, 어려서부터 싸움만 배운다. 얼굴은 같아도 저마다 이름과 성격을 갖는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=fef019a9-4eca-413a-bf6e-4be7e012bac6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Clone_trooper"
+      ]
+    },
+    {
+      "id": "inhibitor_chip",
+      "ko": "억제 칩",
+      "orig": "inhibitor chip",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "복제병의 뇌에 몰래 심어 둔, 명령을 강제하는 칩.",
+      "note": "겉으로는 거친 성질을 누그러뜨리는 장치라고 했지만, 특정 명령이 떨어지면 병사가 제 뜻과 상관없이 그 명령을 따르게 만든다. 이것을 알아챈 병사의 이야기가 클론 전쟁 마지막 시즌들에 나온다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://starwars.fandom.com/wiki/Inhibitor_chip"
+      ]
+    },
+    {
+      "id": "order_66",
+      "ko": "오더 66",
+      "orig": "Order 66",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 7 11회 「뒤집힌 세상」 소개 '오더 66이 발동된다'",
+      "alt_ko": [
+        {
+          "ko": "제66호 명령",
+          "src": "정사 게임 『스타워즈 제다이: 오더의 몰락』 한국어판 스팀 상점 소개"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "복제병에게 제다이를 반역자로 처단하라는 비상 명령.",
+      "note": "제다이가 공화국을 배신할 때를 대비한다는 명목으로 미리 만들어 둔 명령이다. 내려지자 복제병들은 함께 싸우던 제다이 장군을 그 자리에서 쏘았고, 살아남은 제다이는 숨어 지내야 했다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://store.steampowered.com/app/1172380/?l=koreana",
+        "https://starwars.fandom.com/wiki/Order_66"
+      ]
+    },
+    {
+      "id": "stormtrooper",
+      "ko": "스톰트루퍼",
+      "orig": "stormtrooper",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 9회 「제국의 신무기」 소개 '스톰트루퍼로 위장한다', 『운명의 포스』 3·7·12·13회 소개. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김)·2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김)·2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 목차도 '스톰트루퍼'",
+      "alt_ko": [
+        {
+          "ko": "스톰 투루퍼",
+          "src": "디즈니+ 한국 『깨어난 포스 (에피소드 7)』 작품 소개 '전직 스톰 투루퍼 핀'"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "흰 갑옷을 입은 제국의 보병.",
+      "note": "제국은 복제병을 차츰 모집한 병사로 바꿔 이 군대를 채웠다. 흰 갑옷과 얼굴을 가린 투구로 개인을 지워 제국의 힘을 드러내는 상징이 된다. 뒤의 퍼스트 오더는 어려서 데려온 아이들을 처음부터 길러 같은 이름의 병사로 만든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=83009905",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/Stormtrooper"
+      ]
+    },
+    {
+      "id": "imperial_security_bureau",
+      "ko": "제국 보안국",
+      "orig": "Imperial Security Bureau",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『안도르』 시즌 1 7회 「공표」 소개 '충격에 빠진 제국 보안국', 9회 소개 '제국 보안국은 페릭스 사건을'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "제국 안의 반란 조짐을 캐는 정보·감시 기관.",
+      "note": "시민을 감시하고 반역의 낌새를 쫓아 붙잡고 심문한다. 관리들이 실적을 다투는 차가운 조직으로 그려지며, 작은 사건 하나를 끈질기게 파고들어 반란의 실마리를 잡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://starwars.fandom.com/wiki/Imperial_Security_Bureau"
+      ]
+    },
+    {
+      "id": "new_republic",
+      "ko": "신 공화국",
+      "orig": "New Republic",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『만달로리안』 시즌 3 3회 「전향」 소개 '신 공화국을 돕는 것', 『아소카』 1~3·7회 소개, 『스타워즈: 만달로리안과 그로구』 작품 소개 '신 공화국은'. 정사 게임 『스타워즈: 스쿼드론』 한국어판 상점 소개도 '신 공화국'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "제국이 무너진 뒤 반란 연합이 세운 새 공화국.",
+      "note": "옛 공화국처럼 행성들이 의회를 두고 함께 다스린다. 군대를 크게 줄이고 옛 제국 사람들을 받아들이는 사면 제도를 두었지만, 먼 변방의 무법과 제국 잔당은 제대로 막지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e64c22fc-fc7c-4ada-bbec-ab8351b8db97",
+        "https://www.disneyplus.com/ko-kr/browse/entity-d830ec57-499e-498c-b6b3-2b85a18a5f51",
+        "https://store.steampowered.com/app/1222730/?l=koreana",
+        "https://starwars.fandom.com/wiki/New_Republic"
+      ]
+    },
+    {
+      "id": "first_order",
+      "ko": "퍼스트 오더",
+      "orig": "First Order",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『깨어난 포스 (에피소드 7)』 작품 소개 '카이로 렌과 퍼스트 오더에 맞서', 2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 목차 '퍼스트 오더'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국의 잔당이 은하 끝에서 몰래 키워 낸 군사 세력.",
+      "note": "제국이 무너진 뒤 지도에 없는 은하 끝으로 물러난 이들이 몰래 힘을 길러 세웠다. 최고지도자 아래 거대한 함대와 행성을 통째로 개조한 무기를 갖추고 신 공화국을 덮친다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/First_Order"
+      ]
+    },
+    {
+      "id": "resistance",
+      "ko": "저항군",
+      "orig": "Resistance",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김) 목차 '저항군 지휘관들', '저항군 파일럿', '저항군 지상 요원'. 디즈니+ 한국 『레고 스타워즈: 일어난 저항군』(정사 밖 작품) 제목도 '저항군'",
+      "alt_ko": [
+        {
+          "ko": "반란군",
+          "src": "2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 책 소개와 목차가 이 조직을 '반란군'이라 부른다"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "퍼스트 오더에 맞서 싸운 작은 군사 조직.",
+      "note": "신 공화국이 퍼스트 오더의 위협을 가볍게 보자, 반란 연합의 옛 지도자가 따로 꾸린 무장 조직이다. 수는 적지만 옛 반란 연합처럼 끈질기게 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=83009905",
+        "https://www.disneyplus.com/ko-kr/browse/entity-dfa03ab1-d140-419e-8b4e-a4a2bb2610a4",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/Resistance"
+      ]
+    },
+    {
+      "id": "mandalorian",
+      "ko": "만달로어인",
+      "orig": "Mandalorians",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『만달로리안』 시즌 1~3 회차 소개 '만달로어인', 『스타워즈: 만달로리안과 그로구』 작품 소개 '만달로어인 현상금 사냥꾼', 『북 오브 보바 펫』 5회 제목 「만달로어인의 귀환」",
+      "alt_ko": [
+        {
+          "ko": "만달로리안",
+          "src": "디즈니+ 한국 시리즈 제목 『만달로리안』"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "갑옷과 무예를 대대로 잇는 만달로어의 전사 민족.",
+      "note": "종족이 아니라 신조와 문화로 묶인 사람들이다. 전통 금속으로 만든 갑옷과 투구를 물려받으며, 엄격한 일파는 남 앞에서 투구를 벗지 않는다. 고향 행성이 제국에 짓밟힌 뒤 흩어져 살아간다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-d830ec57-499e-498c-b6b3-2b85a18a5f51",
+        "https://www.disneyplus.com/ko-kr/browse/entity-3749c03e-8204-46c5-b102-0410e6d51758",
+        "https://starwars.fandom.com/wiki/Mandalorian"
+      ]
+    },
+    {
+      "id": "death_watch",
+      "ko": "죽음의 파수꾼",
+      "orig": "Death Watch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 2 14회 「만달로어의 공작」 소개 '죽음의 파수꾼을 만들었다는 모함', 시즌 5 14·15회 소개 '죽음의 파수꾼'",
+      "alt_ko": [
+        {
+          "ko": "데스와치",
+          "src": "디즈니+ 한국 『클론 전쟁』 시즌 2 12회 제목 「데스와치의 계획」"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "옛 전사의 길로 돌아가려는 만달로어의 무장 집단.",
+      "note": "평화를 택한 만달로어 정부에 맞서, 싸움을 숭상하던 옛 방식을 되살리려 테러를 벌인다. 클론 전쟁 동안 분리주의 연합과 몰래 손잡고, 나중에는 어두운 면의 전사와도 손잡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://starwars.fandom.com/wiki/Death_Watch"
+      ]
+    },
+    {
+      "id": "nightsisters",
+      "ko": "밤의 자매들",
+      "orig": "Nightsisters",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 3 12회 제목 「밤의 자매들」, 14회 제목 「안개 속의 마녀들」. 『아소카』 8회 제목 「제다이, 마녀 그리고 대제독」과 소개 '흑마법의 힘'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "어두운 마법을 쓰는 외딴 행성의 마녀 집단.",
+      "note": "외딴 행성에 모여 사는 여성 포스 사용자들로, 제다이나 시스와 다른 주술로 몸을 감추거나 죽은 이를 움직이는 힘을 쓴다. 클론 전쟁 중 시스와 원한을 맺어 큰 피해를 입는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e64c22fc-fc7c-4ada-bbec-ab8351b8db97",
+        "https://starwars.fandom.com/wiki/Nightsisters"
+      ]
+    },
+    {
+      "id": "bounty_hunter",
+      "ko": "현상금 사냥꾼",
+      "orig": "bounty hunter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『만달로리안』 시즌 1 1·5회 소개 '현상금 사냥꾼', 『클론 전쟁』 시즌 2 17회 제목 「현상금 사냥꾼」, 『북 오브 보바 펫』 작품 소개 '현상금 사냥꾼 신분에서 벗어난'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "돈을 받고 사람을 쫓아 잡아 오는 직업.",
+      "note": "법이 잘 닿지 않는 변방에서는 이들이 치안과 범죄의 경계에 선다. 조합을 두고 규칙에 따라 일감을 나누며, 제국도 범죄 조직도 이들을 고용한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.disneyplus.com/ko-kr/browse/entity-3749c03e-8204-46c5-b102-0410e6d51758",
+        "https://starwars.fandom.com/wiki/Bounty_hunter"
+      ]
+    },
+    {
+      "id": "wookiee",
+      "ko": "우키",
+      "orig": "Wookiee",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『배드 배치』 시즌 2 6회 「동족」 소개 '밀수꾼에게 납치된 우키를', 『클론 전쟁』 시즌 3 22회 제목 「우키들의 사냥」·소개 '우키족 츄바카', 『어린 제다이의 모험』 시즌 1 19회 소개 '우키족 친구'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "털이 덥수룩하고 힘이 센 키 큰 종족.",
+      "note": "숲 행성 카쉬크 출신으로, 사람보다 훨씬 크고 힘이 세며 수백 년을 산다. 으르렁거리는 소리로 말하고, 목숨을 빚진 사람에게 평생을 바치는 의리로 이름났다. 제국 시대에 많은 수가 노예로 끌려갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-c93113fb-94ec-43b6-9d38-308825f7cd94",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://starwars.fandom.com/wiki/Wookiee"
+      ]
+    },
+    {
+      "id": "hutt",
+      "ko": "헛",
+      "orig": "Hutt",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『제다이의 귀환 (에피소드 6)』 작품 소개 '자바 더 헛', 『클론 전쟁』 시즌 3 9회 제목 「지로 더 헛 쫓기」·소개 '헛 의회'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "민달팽이 같은 몸으로 범죄 세계를 쥔 거대 종족.",
+      "note": "몸집이 크고 오래 살며, 여러 가문이 은하 변방의 밀수·노예·도박을 쥐고 있다. 가문 우두머리들이 모인 의회가 범죄 세계 전체를 움직인다. 포스의 마음 흔들기가 잘 듣지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-4b6e7cda-daa5-4f2d-9b61-35bbe562c69c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://starwars.fandom.com/wiki/Hutt"
+      ]
+    },
+    {
+      "id": "ewok",
+      "ko": "이웍",
+      "orig": "Ewok",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『운명의 포스』 3회 제목 「이웍 탈출」·소개 '이웍이 스톰트루퍼에게서 탈출하도록'. 디즈니+ 한국 『이웍: 엔도 전투』 제목도 같은 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "엔도의 숲 위성에 사는 작은 털복숭이 종족.",
+      "note": "키가 사람 허리쯤 되는 털 많은 종족으로, 큰 나무 위에 마을을 짓고 돌과 나무로 만든 무기와 덫으로 사냥한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-1a3764d6-c7f7-4b54-938b-18faf67c0a98",
+        "https://starwars.fandom.com/wiki/Ewok"
+      ]
+    },
+    {
+      "id": "gungan",
+      "ko": "건간",
+      "orig": "Gungan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 4 2회 제목 「건간의 공격」, 시즌 1 12회 제목 「건간족 장군, 자자 빙크스」. 2019 문학수첩 『스타워즈 영한사전: 제다이 기사 편』 출판사 소개 '건간족 대사'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "나부의 물속 도시에 사는 양서류 종족.",
+      "note": "물과 뭍을 오가며 살고, 행성 나부의 호수 밑에 공기 방울 같은 막으로 덮인 도시를 짓는다. 같은 행성의 사람들과는 오래 사이가 나빴다. 싸울 때는 군대 전체를 감싸는 에너지 방패를 친다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=fef019a9-4eca-413a-bf6e-4be7e012bac6",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193195539",
+        "https://starwars.fandom.com/wiki/Gungan"
+      ]
+    },
+    {
+      "id": "kaminoan",
+      "ko": "카미노족",
+      "orig": "Kaminoan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 6 2회 「음모」 소개 '카미노족 복제 프로그램에 숨겨진 비밀'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "복제 기술로 이름난 바다 행성의 키 큰 종족.",
+      "note": "목이 길고 피부가 흰 종족으로, 폭풍우가 그치지 않는 바다 행성 카미노에 산다. 돈을 받고 복제 군대를 길러 주는 일을 하며, 은하에서 손꼽히는 유전자 기술을 지녔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://starwars.fandom.com/wiki/Kaminoan"
+      ]
+    },
+    {
+      "id": "purrgil",
+      "ko": "퍼길",
+      "orig": "purrgil",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 15회 제목 「퍼길의 노래」·소개 '제국의 위협에서 우주 생물을 구한다'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "초공간을 제 몸으로 건너는 거대한 우주 생물.",
+      "note": "고래처럼 생긴 거대한 생물로 우주에 무리 지어 산다. 배 없이도 스스로 별과 별 사이를 뛰어넘어 빛보다 빠르게 오가며, 그 무리의 길목에 들어선 배는 위험에 빠진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Purrgil"
+      ]
+    },
+    {
+      "id": "zillo_beast",
+      "ko": "질로 비스트",
+      "orig": "Zillo Beast",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 2 18회 제목 「질로 비스트」, 19회 「질로 비스트의 역습」",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "광선검도 뚫지 못하는 비늘을 지닌 거대한 괴수.",
+      "note": "한 행성 땅 밑에 살던 거대한 파충류로, 비늘이 광선검마저 막아 낸다. 전쟁 중에 깨어나 붙잡히자, 공화국은 그 비늘의 비밀을 갑옷에 쓰려고 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://starwars.fandom.com/wiki/Zillo_Beast"
+      ]
+    },
+    {
+      "id": "the_ones",
+      "ko": "포스 집행자",
+      "orig": "the Ones (Force wielders of Mortis)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 3 15회 「포스의 지배자」 소개 '아나킨은 포스 집행자 가족으로부터 자신의 운명에 대해 알게 된다', 16·17회 제목 「모티스의 제단」·「모티스의 영혼」. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차에도 '모티스'",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "모티스에 사는, 포스의 두 면을 몸으로 지닌 셋.",
+      "note": "아버지와 딸, 아들로 이루어진 존재로, 포스가 한데 모여 흐르는 신비한 세계 모티스에 산다. 딸은 밝은 면을, 아들은 어두운 면을 지니고, 아버지가 둘 사이의 균형을 붙잡는다. 아버지는 선택받은 자가 와서 자기 자리를 이어 주기를 바란다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/The_Ones"
+      ]
+    },
+    {
+      "id": "bendu",
+      "ko": "벤두",
+      "orig": "the Bendu",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "밝은 면과 어두운 면 사이에 선다는 오래된 존재.",
+      "note": "외딴 행성에 사는 거대한 짐승 모습의 존재로, 스스로를 포스의 두 면 사이 한가운데라고 부른다. 어느 편도 들지 않으며, 화가 나면 폭풍을 불러 군대를 흩어 버린다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Bendu"
+      ]
+    },
+    {
+      "id": "lightsaber",
+      "ko": "광선검",
+      "orig": "lightsaber",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 2 11회 제목 「광선검, 잃어버리다」, 『어린 제다이의 모험』 시즌 2 10회 소개 '리스가 광선검을 잃어버린다'. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김)·2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 책 소개·목차, 2019 문학수첩 『스타워즈 영한사전: 제다이 입문자 편』 출판사 소개 'lightsaber(광선검)'도 같다. 디즈니+ 한국 『반란군』 시즌 3 15회와 『운명의 포스』 10회 소개는 '광선 검'으로 띄어 씀",
+      "alt_ko": [
+        {
+          "ko": "라이트세이버",
+          "src": "2024 AK 『스타워즈 라이트세이버 컬렉션』(권윤경 옮김) 제목과 목차"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "빛의 칼날을 내는 제다이와 시스의 칼.",
+      "note": "손잡이 속 카이버의 힘으로 빛나는 칼날을 내며, 거의 모든 것을 베고 블라스터 탄을 튕겨 낸다. 제다이는 수련 중에 제 손으로 자기 칼을 만든다. 총이 흔한 세상에서 이 칼이 포스 사용자의 상징이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=190023900",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341725172",
+        "https://starwars.fandom.com/wiki/Lightsaber"
+      ]
+    },
+    {
+      "id": "darksaber",
+      "ko": "다크세이버",
+      "orig": "Darksaber",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 3 15회 제목 「다크세이버의 시험」·소개 '만다로어의 고대 광선 검'",
+      "alt_ko": [
+        {
+          "ko": "다크 세이버",
+          "src": "2024 AK 『스타워즈 라이트세이버 컬렉션』(권윤경 옮김) 목차(띄어 씀)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "검은 칼날을 지닌 만달로어의 오래된 광선검.",
+      "note": "만달로어 출신의 첫 제다이가 만들었다고 전하는 칼이다. 이 칼을 싸워서 얻은 사람이 만달로어를 이끌 자격을 얻는다는 전통이 붙어 있어, 칼의 주인이 바뀔 때마다 다툼이 인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=341725172",
+        "https://starwars.fandom.com/wiki/Darksaber"
+      ]
+    },
+    {
+      "id": "kyber",
+      "ko": "카이버",
+      "orig": "kyber crystal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『안도르』 시즌 2 12회 제목 「제다, 카이버, 어소」 — 수정 이름만 '카이버'로 나온다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "포스에 응하여 광선검에 힘을 주는 수정.",
+      "note": "몇몇 행성에서만 나는 수정으로, 포스와 공명한다. 광선검의 심장이 되고, 크게 모아 쓰면 행성을 부수는 무기의 힘이 된다. 제국은 이를 얻으려고 성지를 점령해 캐 갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://starwars.fandom.com/wiki/Kyber_crystal"
+      ]
+    },
+    {
+      "id": "blaster",
+      "ko": "블라스터",
+      "orig": "blaster",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '블라스터: 아군', '블라스터: 악당들'. 정사 게임 『Star Wars Outlaws』(2024) 한국어판 스팀 상점 소개 '블라스터로 총격전을 벌이고'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "빛나는 에너지 탄을 쏘는 총.",
+      "note": "은하에서 가장 흔한 무기로, 권총부터 소총·대포까지 크기가 여럿이다. 쏘면 밝은 빛줄기 같은 탄이 날아가고, 광선검으로 튕겨 낼 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://store.steampowered.com/app/2842040/?l=koreana",
+        "https://starwars.fandom.com/wiki/Blaster"
+      ]
+    },
+    {
+      "id": "hyperdrive",
+      "ko": "하이퍼드라이브",
+      "orig": "hyperdrive",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "배를 초공간으로 들여보내 빛보다 빨리 가게 하는 기관.",
+      "note": "켜기 전에 항법 장치로 길을 계산해야 하고, 계산이 틀리면 별이나 행성에 부딪친다. 배마다 등급이 있어 빠르기가 다르며, 작은 전투기에는 없는 것도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Hyperdrive"
+      ]
+    },
+    {
+      "id": "hyperspace",
+      "ko": "하이퍼스페이스",
+      "orig": "hyperspace",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 13회 「콘코드 던의 수호자」 소개 '반란군은 하이퍼스페이스 노선을 사용할 허락을 구한다'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "빛보다 빨리 갈 때 배가 들어가는 다른 공간.",
+      "note": "하이퍼드라이브를 켜면 별빛이 길게 늘어지며 배가 이 공간으로 들어가, 몇 시간이나 며칠 만에 은하를 건넌다. 보통 공간의 별과 행성이 드리운 중력이 그 안에서도 길을 막아, 계산된 길로만 다닐 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Hyperspace"
+      ]
+    },
+    {
+      "id": "hyperspace_lanes",
+      "ko": "하이퍼스페이스 노선",
+      "orig": "hyperspace lane",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 13회 「콘코드 던의 수호자」 소개 '반란군은 하이퍼스페이스 노선을 사용할 허락을 구한다'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "초공간을 안전하게 지나도록 미리 찾아 둔 길.",
+      "note": "은하에는 오래전에 찾아 둔 큰 항로들이 있어 무역과 군대가 이 길을 따라 움직인다. 길을 쥔 쪽이 힘을 쥐어서, 노선을 지나갈 허락을 흥정하거나 남모르는 지름길을 찾는 일이 이야기가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Hyperspace_lane"
+      ]
+    },
+    {
+      "id": "deflector_shield",
+      "ko": "방어막",
+      "orig": "deflector shield",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『제다이의 귀환 (에피소드 6)』 작품 소개 '반란군은 죽음의 별의 방어막을 제거할 수 있는 방법을 발견하고'. 정사 게임 『스타워즈: 스쿼드론』 한국어판 상점 소개 '무기, 방어막, 엔진 간의 동력을 조절하며'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "배나 기지를 감싸 공격을 막는 보이지 않는 막.",
+      "note": "배와 기지, 큰 무기를 감싸 블라스터 탄과 부딪힘을 막는다. 발생기를 부수면 사라지므로 싸움은 흔히 발생기를 먼저 노리는 데서 시작된다. 조종사는 한정된 동력을 무기·엔진·방어막에 나눠 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-4b6e7cda-daa5-4f2d-9b61-35bbe562c69c",
+        "https://store.steampowered.com/app/1222730/?l=koreana",
+        "https://starwars.fandom.com/wiki/Deflector_shield"
+      ]
+    },
+    {
+      "id": "death_star",
+      "ko": "데스 스타",
+      "orig": "Death Star",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『로그 원: 스타워즈 스토리』 작품 소개 \"행성 하나를 파괴할 수 있는 무기 '데스 스타'\". 레고 코리아 스타워즈 제품 이름은 붙여서 '데스스타'",
+      "alt_ko": [
+        {
+          "ko": "죽음의 별",
+          "src": "디즈니+ 한국 『제국의 역습 (에피소드 5)』·『제다이의 귀환 (에피소드 6)』 작품 소개, 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '죽음의 별에서 탈출하다'. 나무위키 '죽음의 별' 문서는 시퀄 3부작 정식 자막·더빙과 『로그 원』 더빙이 '죽음의 별', 『안도르』 시즌 2 자막은 '데스 스타'라고 전한다(2차 자료)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer",
+        "megastructure"
+      ],
+      "one": "행성 하나를 통째로 부수는 위성만 한 전투 기지.",
+      "note": "제국이 반란을 겁주어 누르려고 지은 달만 한 둥근 기지로, 커다란 접시 모양 장치에서 쏜 광선 한 방으로 행성을 날려 버린다. 공포로 다스린다는 제국의 생각이 그대로 담긴 무기다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-5ec74210-f970-42b7-a39f-8653c0a9eab8",
+        "https://www.disneyplus.com/ko-kr/browse/entity-0f5c5223-f4f6-46ef-ba8a-69cb0e17d8d3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-4b6e7cda-daa5-4f2d-9b61-35bbe562c69c",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.lego.com/ko-kr/themes/star-wars",
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%20%EC%8A%A4%ED%83%80",
+        "https://starwars.fandom.com/wiki/Death_Star"
+      ]
+    },
+    {
+      "id": "starkiller_base",
+      "ko": "스타킬러 기지",
+      "orig": "Starkiller Base",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김) 목차 '스타킬러 기지', 2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 책 소개 '스타킬러 기지'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer",
+        "megastructure"
+      ],
+      "one": "행성 하나를 깎아 만든 퍼스트 오더의 초병기.",
+      "note": "얼음 행성 속을 파내 만든 기지로, 가까운 별의 에너지를 빨아들여 초공간 너머 먼 성계의 행성들을 한꺼번에 날려 버린다. 데스 스타보다 훨씬 큰 규모로, 신 공화국의 중심을 겨눈다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=83009905",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/Starkiller_Base"
+      ]
+    },
+    {
+      "id": "star_destroyer",
+      "ko": "스타 디스트로이어",
+      "orig": "Star Destroyer",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "쐐기 모양의 거대한 주력 전함.",
+      "note": "길이가 1킬로미터를 넘는 삼각형 전함으로, 전투기와 병력을 싣고 다니며 행성 궤도를 장악한다. 공화국 말기부터 제국, 퍼스트 오더까지 크기와 이름을 바꿔 가며 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Star_Destroyer"
+      ]
+    },
+    {
+      "id": "x_wing",
+      "ko": "엑스윙",
+      "orig": "X-wing starfighter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "정사 게임 『스타워즈: 스쿼드론』(2020) 한국어판 스팀 상점 소개 '엑스윙, 타이 파이터 등의 스타파이터를 조종해 보세요'",
+      "alt_ko": [
+        {
+          "ko": "X-윙 스타파이터",
+          "src": "레고 코리아 스타워즈 제품 이름 '밀레니엄 팔콘™과 X-윙 스타파이터™'"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "날개를 X자로 펼치는 반란 연합의 주력 전투기.",
+      "note": "싸울 때 날개 넷을 X자로 벌린다. 초공간 항행 장치와 방어막을 갖추고, 뒤에 작은 드로이드를 태워 항로 계산과 수리를 맡긴다. 반란 연합에서 저항군까지 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1222730/?l=koreana",
+        "https://www.lego.com/ko-kr/themes/star-wars",
+        "https://starwars.fandom.com/wiki/X-wing_starfighter"
+      ]
+    },
+    {
+      "id": "tie_fighter",
+      "ko": "타이 파이터",
+      "orig": "TIE fighter",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '타이 파이터', 2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김) 목차 '타이 파이터 파일럿'. 정사 게임 『스타워즈: 스쿼드론』 한국어판 상점 소개도 '타이 파이터'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "둥근 조종석 양쪽에 판 날개를 단 제국 전투기.",
+      "note": "값싸게 많이 찍어 내는 전투기로, 방어막도 초공간 항행 장치도 없이 빠르기와 수로 밀어붙인다. 조종사의 목숨보다 숫자를 앞세우는 제국의 방식이 드러난다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=83009905",
+        "https://store.steampowered.com/app/1222730/?l=koreana",
+        "https://starwars.fandom.com/wiki/TIE/ln_space_superiority_starfighter"
+      ]
+    },
+    {
+      "id": "millennium_falcon",
+      "ko": "밀레니엄 팔콘",
+      "orig": "Millennium Falcon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『한 솔로: 스타워즈 스토리』 작품 소개 '밀레니엄 팔콘을 손에 넣게 되는 과정', 『운명의 포스』 9회 소개 '밀레니엄 팔콘에서 폭탄을 찾는다'. 2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 목차도 '밀레니엄 팔콘'",
+      "alt_ko": [
+        {
+          "ko": "밀레니엄 팔콘호",
+          "src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차, 2016 문학수첩 『스타워즈 깨어난 포스: 비주얼 딕셔너리』(김창규 옮김) 출판사 소개"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "은하에서 가장 빠르다고 자랑하는 낡은 화물선.",
+      "note": "원래 평범한 화물선이었으나 밀수꾼들이 손보아 초공간을 아주 빠르게 건넌다. 겉은 고물 같지만 숨긴 화물칸과 포탑을 갖춰, 반란 연합과 저항군의 싸움에 거듭 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Millennium_Falcon"
+      ]
+    },
+    {
+      "id": "droid",
+      "ko": "드로이드",
+      "orig": "droid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『한 솔로: 스타워즈 스토리』 작품 소개 '시리즈 사상 최초의 여성 드로이드', 『클론 전쟁』 시즌 4 6회 제목 「떠돌이 드로이드」, 『어린 제다이의 모험』 작품 소개 '드로이드 동료들'. 2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차도 같다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot",
+        "machine_rights",
+        "memory_edit"
+      ],
+      "one": "사람을 대신해 일하는, 생각하고 말하는 기계.",
+      "note": "통역·수리·의료·전투처럼 맡은 일에 따라 모양이 제각각이다. 저마다 성격과 버릇이 있지만 대개 물건처럼 사고팔리고, 오래 쓰면 기억을 지워 다시 길들인다. 드로이드도 자유를 누려야 하는가가 이따금 물음이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Droid"
+      ]
+    },
+    {
+      "id": "battle_droid",
+      "ko": "배틀 드로이드",
+      "orig": "battle droid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '배틀 드로이드', '슈퍼 배틀 드로이드'. 디즈니+ 한국 『클론 전쟁』 시즌 1 1회 소개는 '드로이드 군대', 『반란군』 시즌 3 6회 소개는 '드로이드 군단'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "분리주의 연합이 떼로 찍어 낸 전투용 드로이드.",
+      "note": "값싸게 대량으로 만든 마른 몸의 병사 기계로, 처음에는 한 곳에서 보내는 신호로 움직였고 뒤에는 스스로 판단하는 것도 나왔다. 머릿수로 공화국의 복제병과 맞섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=fef019a9-4eca-413a-bf6e-4be7e012bac6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/B1-series_battle_droid"
+      ]
+    },
+    {
+      "id": "protocol_droid",
+      "ko": "프로토콜 드로이드",
+      "orig": "protocol droid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '프로토콜 드로이드'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot",
+        "translator"
+      ],
+      "one": "수많은 언어와 예법을 아는 통역·의전 드로이드.",
+      "note": "사람 모양을 하고, 수백만 가지 말과 몸짓을 알아 서로 다른 종족 사이를 통역하고 예법을 일러 준다. 외교와 왕실, 거래 자리에 빠지지 않는 일꾼이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Protocol_droid"
+      ]
+    },
+    {
+      "id": "astromech",
+      "ko": "아스트로맥 드로이드",
+      "orig": "astromech droid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '아스트로맥 드로이드'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "우주선을 고치고 길을 찾는 작은 수리 드로이드.",
+      "note": "깡통 같은 몸에 바퀴와 갖가지 도구 팔을 달았다. 전투기 뒤에 꽂혀 항로를 계산하고 고장을 고치며, 삑삑거리는 소리로 말한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Astromech_droid"
+      ]
+    },
+    {
+      "id": "holocron",
+      "ko": "홀로크론",
+      "orig": "holocron",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 2 1회 제목 「홀로크론 절도」, 『반란군』 시즌 3 3회 제목 「운명의 홀로크론」",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "포스로만 열리는 제다이와 시스의 지식 보관 상자.",
+      "note": "손바닥만 한 결정체 상자로, 스승들의 가르침과 비밀이 입체 영상으로 담겨 있다. 포스를 쓰는 사람만 열 수 있어, 이를 훔치거나 억지로 열려는 일이 사건이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Holocron"
+      ]
+    },
+    {
+      "id": "hologram",
+      "ko": "홀로그램",
+      "orig": "hologram",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hologram"
+      ],
+      "one": "먼 곳의 사람을 푸른 입체 영상으로 띄워 말하는 통신.",
+      "note": "작은 투사기에서 떠오른 푸르스름한 입체 영상으로 곧바로 말을 나누거나 녹화한 말을 남긴다. 회의도 이렇게 열려, 은하 곳곳의 지휘관이 영상으로 한자리에 모인다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Hologram"
+      ]
+    },
+    {
+      "id": "holonet",
+      "ko": "홀로넷",
+      "orig": "HoloNet",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl_comm"
+      ],
+      "one": "은하 전체를 곧바로 잇는 통신과 방송의 그물.",
+      "note": "초공간 중계기를 거쳐 먼 성계끼리도 거의 곧바로 소식과 영상을 주고받는다. 공화국과 제국은 이 그물로 뉴스를 흘려 사람들의 생각을 이끌었다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/HoloNet"
+      ]
+    },
+    {
+      "id": "carbonite",
+      "ko": "카보나이트",
+      "orig": "carbonite",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "사람이나 짐을 굳혀 그대로 보관하는 금속 덩어리.",
+      "note": "본디 기체를 실어 나르려고 짐을 굳히는 데 쓰던 물질로, 사람을 넣으면 산 채로 멈춘다. 현상금 사냥꾼이 사람을 산 채로 옮길 때도 쓴다. 풀려나면 한동안 눈이 보이지 않는 등 탈이 난다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Carbonite"
+      ]
+    },
+    {
+      "id": "speeder",
+      "ko": "스피더",
+      "orig": "speeder",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『한 솔로: 스타워즈 스토리』 작품 소개 '경주신은 스피더를 통해', 『운명의 포스』 16회 소개, 『어린 제다이의 모험』 시즌 1 11회·시즌 3 3회 소개. 정사 게임 『Star Wars Outlaws』 한국어판 상점 소개도 '스피더'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "땅 위에 떠서 달리는 탈것.",
+      "note": "땅을 밀어내는 부양 장치로 바퀴 없이 지면 위를 미끄러지듯 달린다. 한 사람이 타는 바이크부터 여럿이 타는 차까지 있고, 경주와 추격, 순찰에 두루 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-791bc772-d930-40c9-83ec-5ef85923573e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://store.steampowered.com/app/2842040/?l=koreana",
+        "https://starwars.fandom.com/wiki/Landspeeder"
+      ]
+    },
+    {
+      "id": "coaxium",
+      "ko": "코액시움",
+      "orig": "coaxium",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource"
+      ],
+      "one": "하이퍼드라이브를 돌리는 귀하고 불안정한 연료.",
+      "note": "몇몇 광산에서만 나는 원료로, 정제하지 않으면 작은 충격에도 폭발한다. 초공간 항행에 쓰이는 연료라 값이 매우 비싸고, 제국과 범죄 조직이 이를 두고 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Coaxium"
+      ]
+    },
+    {
+      "id": "tatooine",
+      "ko": "타투인",
+      "orig": "Tatooine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『새로운 희망 (에피소드 4)』 작품 소개 '사막 행성 타투인', 『보이지 않는 위험』 소개 '타투인 행성', 『북 오브 보바 펫』 작품 소개와 2회 제목 「타투인의 부족들」. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차도 '타투인'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "해 둘이 뜨는 은하 변방의 사막 행성.",
+      "note": "물이 귀한 모래 행성으로, 농부들은 공기 속 물기를 모아 산다. 범죄 조직이 다스리고 밀수꾼이 모이는 무법지대이며, 스카이워커 집안의 이야기가 몇 번이고 이곳에서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-9a280e53-fcc0-4e17-a02c-b1f40913eb0b",
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-3749c03e-8204-46c5-b102-0410e6d51758",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Tatooine"
+      ]
+    },
+    {
+      "id": "coruscant",
+      "ko": "코러산트",
+      "orig": "Coruscant",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 5 19회·시즌 7 11회 소개, 『만달로리안』 시즌 3 3회 소개, 『안도르』 시즌 2 5·8회 소개, 『배드 배치』 시즌 2 8회 소개 '코러산트'",
+      "alt_ko": [
+        {
+          "ko": "코루스칸트",
+          "src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '코루스칸트', '코루스칸트 전투'"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "ecumenopolis"
+      ],
+      "one": "땅 전체가 도시로 덮인 은하의 수도 행성.",
+      "note": "행성 겉이 몇 겹의 건물로 뒤덮여, 위층에는 의회와 제다이 사원이 있고 햇빛이 닿지 않는 아래층에는 가난한 사람과 범죄가 모인다. 공화국과 제국의 수도가 이곳에 있었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-c93113fb-94ec-43b6-9d38-308825f7cd94",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Coruscant"
+      ]
+    },
+    {
+      "id": "naboo",
+      "ko": "나부",
+      "orig": "Naboo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『보이지 않는 위험 (에피소드 1)』 작품 소개 '나부 행성', 『클론 전쟁』 시즌 4 18회 제목 「나부에 닥친 위기」, 『어린 제다이의 모험』 시즌 3 3회 「나부 행성 수중 임무」. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차도 '나부'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "푸른 들과 호수가 펼쳐진 평화로운 행성.",
+      "note": "사람들이 사는 아름다운 도시와 건간의 물속 도시가 한 행성에 있다. 왕을 백성이 뽑으며, 프리퀄 3부작의 침공과 정치가 여기서 시작된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-e0a9fee4-2959-4077-ad8c-8fab4fd6e4d1",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faa35b37-3287-4a7c-9d42-a3a5f9ad9185",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Naboo"
+      ]
+    },
+    {
+      "id": "hoth",
+      "ko": "호스",
+      "orig": "Hoth",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '호스', '호스 구출 작전'. 디즈니+ 한국 『제국의 역습 (에피소드 5)』 작품 소개는 이름 없이 '얼음혹성'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "온통 얼음과 눈으로 덮인 외딴 행성.",
+      "note": "사람이 살기 힘든 얼음 행성이라 오히려 숨기 좋아 반란 연합이 기지를 두었다. 눈 속에 사는 맹수와, 탈것으로 길들인 짐승이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.disneyplus.com/ko-kr/browse/entity-0f5c5223-f4f6-46ef-ba8a-69cb0e17d8d3",
+        "https://starwars.fandom.com/wiki/Hoth"
+      ]
+    },
+    {
+      "id": "dagobah",
+      "ko": "다고바",
+      "orig": "Dagobah",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『제국의 역습 (에피소드 5)』 작품 소개 '루크는 제다이 마스터 요다에게 훈련을 받으러 다고바 행성에 도착한다'",
+      "alt_ko": [
+        {
+          "ko": "대고바",
+          "src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '대고바', '대고바에서의 수련'"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "늪과 안개로 덮인 생명 가득한 행성.",
+      "note": "사람의 도시가 없는 늪지대 행성으로, 생명이 넘쳐 포스가 짙게 흐른다. 숨어 지내는 늙은 제다이 마스터가 이곳에서 젊은 제자를 가르친다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-0f5c5223-f4f6-46ef-ba8a-69cb0e17d8d3",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Dagobah"
+      ]
+    },
+    {
+      "id": "endor",
+      "ko": "엔도",
+      "orig": "Endor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '엔도', '엔도 전투'. 디즈니+ 한국 『이웍: 엔도 전투』 제목도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "거대한 숲으로 덮인 위성이 도는 외딴 행성.",
+      "note": "흔히 이 이름으로 부르는 곳은 행성 곁의 숲 위성으로, 키 큰 나무가 빽빽하고 이웍이 산다. 제국은 두 번째 행성 파괴 기지를 지으며 이 위성에 그 방어막 발생기를 두었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.disneyplus.com/ko-kr/browse/entity-1a3764d6-c7f7-4b54-938b-18faf67c0a98",
+        "https://starwars.fandom.com/wiki/Endor"
+      ]
+    },
+    {
+      "id": "mustafar",
+      "ko": "무스타파",
+      "orig": "Mustafar",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '무스타파', '무스타파에서의 결투'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "용암이 흐르는 불의 행성.",
+      "note": "화산과 용암 강이 뒤덮은 행성으로, 광물을 캐는 시설이 있다. 사가에서 가장 비극적인 결투가 이곳의 용암 위에서 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.disneyplus.com/ko-kr/browse/entity-eb1e2c5f-69bf-4240-a61f-7ffc4e0311b3",
+        "https://starwars.fandom.com/wiki/Mustafar"
+      ]
+    },
+    {
+      "id": "kamino",
+      "ko": "카미노",
+      "orig": "Kamino",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 3 2회 소개 '카미노를 방어하러', 『배드 배치』 시즌 1 15·16회 제목 「카미노로의 귀환」·「사라진 카미노」. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '카미노의 클론 군대'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "바다로만 덮인 폭풍의 행성, 복제 군대의 고향.",
+      "note": "끝없는 바다 위에 기둥으로 받친 도시가 서 있다. 이곳 종족이 공화국의 복제 군대를 길러 냈고, 복제병들이 태어나 훈련받는 곳이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-c93113fb-94ec-43b6-9d38-308825f7cd94",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Kamino"
+      ]
+    },
+    {
+      "id": "geonosis",
+      "ko": "지오노시스",
+      "orig": "Geonosis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 3 12·13회 제목 「지오노시스의 망령」·소개 '지오노시스 행성으로 간다'. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '지오노시스', '지오노시스 전투'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "드로이드 공장이 들어선 붉은 바위 행성.",
+      "note": "날개 달린 벌레를 닮은 종족이 바위 속 벌집 같은 도시에 산다. 분리주의 연합의 드로이드 군대를 만들던 곳으로, 클론 전쟁의 첫 싸움이 여기서 벌어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Geonosis"
+      ]
+    },
+    {
+      "id": "kashyyyk",
+      "ko": "카쉬크",
+      "orig": "Kashyyyk",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '카쉬크'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "거대한 나무 숲으로 덮인 우키의 고향 행성.",
+      "note": "하늘에 닿을 듯한 나무들 위에 우키들이 마을을 짓고 산다. 제국 시대에는 점령당해 많은 우키가 노예로 끌려갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Kashyyyk"
+      ]
+    },
+    {
+      "id": "yavin_4",
+      "ko": "야빈 4",
+      "orig": "Yavin 4",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '야빈 4'. 디즈니+ 한국 『안도르』 시즌 2 12회 소개 '야빈으로 돌아온다'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "반란 연합이 비밀 기지를 둔 밀림 위성.",
+      "note": "거대한 가스 행성 야빈을 도는 네 번째 위성으로, 밀림 속 옛 신전 터를 반란 연합이 기지로 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://starwars.fandom.com/wiki/Yavin_4"
+      ]
+    },
+    {
+      "id": "lothal",
+      "ko": "로탈",
+      "orig": "Lothal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 2 1·2·11·12회, 시즌 4 5·15회 소개 '로탈'. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차도 '로탈'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "제국에 짓밟힌 외곽의 초원 행성.",
+      "note": "넓은 초원과 농장이 있는 외곽 행성으로, 제국이 공장과 기지를 세우며 땅을 망가뜨렸다. 한 무리의 반란군이 여기서 싸움을 시작하고, 땅밑에는 옛 제다이 사원이 숨어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Lothal"
+      ]
+    },
+    {
+      "id": "mandalore",
+      "ko": "만달로어",
+      "orig": "Mandalore",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『만달로리안』 시즌 3 2회 「만달로어 광산」 소개 '폐허가 된 만달로어 행성', 『클론 전쟁』 시즌 3 5·6회, 시즌 7 10회 소개 '만달로어'",
+      "alt_ko": [
+        {
+          "ko": "만다로어",
+          "src": "디즈니+ 한국 『반란군』 시즌 3 7회 「만다로어의 배반자」, 시즌 4 1·2회 「만다로어의 영웅」"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "만달로어인의 고향 행성.",
+      "note": "전사 문화의 중심지였으나 오랜 전쟁으로 겉이 메마른 사막이 되어 사람들은 돔 도시에 산다. 제국 시대에 큰 폭격을 받아 폐허가 되었고, 흩어진 만달로어인들이 되찾으려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=2ab101ea-ab95-41a5-9720-c57e3969517c",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/Mandalore"
+      ]
+    },
+    {
+      "id": "jedha",
+      "ko": "제다",
+      "orig": "Jedha",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『안도르』 시즌 2 12회 제목 「제다, 카이버, 어소」",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "포스를 믿는 순례자들이 모이던 성지 위성.",
+      "note": "사막 위성으로, 오래된 신전과 성스러운 도시에 순례자들이 찾아왔다. 땅밑에 카이버가 묻혀 있어 제국이 점령하고 캐 갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-faba988a-a9f5-45f2-a074-0775a7d6f67a",
+        "https://starwars.fandom.com/wiki/Jedha"
+      ]
+    },
+    {
+      "id": "jakku",
+      "ko": "자쿠",
+      "orig": "Jakku",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『운명의 포스』 1회 제목 「자쿠의 모래」",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "큰 전투의 잔해가 모래에 묻힌 사막 행성.",
+      "note": "제국이 무너지던 무렵 마지막 큰 싸움이 벌어진 뒤 부서진 전함들이 사막에 그대로 남았다. 사람들은 그 잔해를 뒤져 고물을 팔며 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-158c4929-11c0-4b66-98f7-3bba207aac8a",
+        "https://www.disneyplus.com/ko-kr/browse/entity-438ec2e9-a05c-4b01-84f4-18960b363868",
+        "https://starwars.fandom.com/wiki/Jakku"
+      ]
+    },
+    {
+      "id": "ahch_to",
+      "ko": "아크투",
+      "orig": "Ahch-To",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 목차 '아크투: 시간 속에 잊힌 섬'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "첫 제다이 사원이 있는 바다 행성의 외딴 섬.",
+      "note": "바다로 덮인 행성의 바위섬으로, 제다이가 처음 생겨난 곳이라 전한다. 옛 사원과 오래된 경전이 남아 있어, 세상을 등진 제다이가 이곳에 숨는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/Ahch-To"
+      ]
+    },
+    {
+      "id": "cloud_city",
+      "ko": "구름 도시",
+      "orig": "Cloud City",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '구름 도시', '구름 도시에서 체포되다'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "가스 행성 하늘에 떠 있는 광산 도시.",
+      "note": "가스 행성의 구름 위에 떠 있는 도시로, 대기에서 귀한 기체를 뽑아 판다. 제국의 눈을 피해 장사하던 곳으로, 밀수꾼 출신이 도시를 맡아 다스린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Cloud_City"
+      ]
+    },
+    {
+      "id": "jedi_temple",
+      "ko": "제다이 사원",
+      "orig": "Jedi Temple",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『클론 전쟁』 시즌 2 1회·시즌 5 17회·시즌 6 11회 소개, 『반란군』 시즌 2 18회·시즌 4 12·13회 소개 '제다이 사원'. 2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차도 '제다이 사원'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "제다이가 수련하고 사는 거대한 사원.",
+      "note": "수도 행성의 큰 사원이 기사단의 본부로, 평의회와 기록 보관소, 아이들의 수련장이 있다. 은하 곳곳에는 더 오래된 사원들이 숨어 포스의 비밀을 품고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e?season=8aefaa74-f09e-4fc6-88b2-69d5bd9bddec",
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Jedi_Temple"
+      ]
+    },
+    {
+      "id": "world_between_worlds",
+      "ko": "세계 사이의 세계",
+      "orig": "World Between Worlds",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 『반란군』 시즌 4 13회 제목 「세계 사이의 세계」",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "other_realm",
+        "time_travel"
+      ],
+      "one": "포스 안에서 모든 시간과 장소가 만나는 곳.",
+      "note": "옛 제다이 사원 깊은 곳에서 들어갈 수 있는, 별빛 가득한 어둠 속에 길이 얽힌 차원이다. 길마다 다른 때와 곳으로 통하는 문이 있어, 지난 순간의 사람을 이리로 끌어내 구할 수도 있다. 그래서 시간을 손에 넣으려는 자가 노린다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-08249c74-0178-4861-a1e4-dfc7b168dce5",
+        "https://starwars.fandom.com/wiki/World_Between_Worlds"
+      ]
+    },
+    {
+      "id": "outer_rim",
+      "ko": "외곽 은하",
+      "orig": "Outer Rim Territories",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '외곽 은하'. 디즈니+ 한국 『만달로리안』 시즌 2 1회 「보안관」 소개 '외곽 은하로 간다'",
+      "alt_ko": [
+        {
+          "ko": "외곽 은하계",
+          "src": "디즈니+ 한국 『배드 배치』 시즌 1 11회 「악마의 약속」 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하 바깥 가장자리의 넓고 거친 지역.",
+      "note": "수도에서 멀어 법과 군대의 힘이 잘 미치지 않고, 범죄 조직과 밀수꾼, 가난한 행성이 많다. 반란과 은둔, 현상금 사냥 이야기가 주로 여기서 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://www.disneyplus.com/ko-kr/browse/entity-422f6dcc-226f-44e7-98d4-22de69b31cf3",
+        "https://www.disneyplus.com/ko-kr/browse/entity-c93113fb-94ec-43b6-9d38-308825f7cd94",
+        "https://starwars.fandom.com/wiki/Outer_Rim_Territories"
+      ]
+    },
+    {
+      "id": "unknown_regions",
+      "ko": "미확인 지역",
+      "orig": "Unknown Regions",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2018 시공사 『스타워즈 비주얼 백과사전』(박슬라 옮김) 목차 '미개척 우주와 미확인 지역'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지도에 거의 그려지지 않은 은하 서쪽 끝.",
+      "note": "초공간 길이 어지러워 들어가기 어렵고 아는 사람이 거의 없다. 무너진 제국의 잔당이 이곳으로 물러나 몰래 힘을 길렀다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=177213426",
+        "https://starwars.fandom.com/wiki/Unknown_Regions"
+      ]
+    },
+    {
+      "id": "exegol",
+      "ko": "엑세골",
+      "orig": "Exegol",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "미확인 지역 깊이 숨은 시스의 행성.",
+      "note": "번개가 그치지 않는 어두운 행성으로, 시스를 섬기는 무리가 대를 이어 숨어 지내며 거대한 함대를 몰래 길렀다. 사가의 마지막 싸움이 여기서 벌어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://starwars.fandom.com/wiki/Exegol"
+      ]
+    },
+    {
+      "id": "clone_wars",
+      "ko": "클론 전쟁",
+      "orig": "Clone Wars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "디즈니+ 한국 시리즈 제목 『스타워즈: 클론 전쟁』, 『클론의 습격 (에피소드 2)』 작품 소개 '클론 전쟁의 발발', 『시스의 복수 (에피소드 3)』 소개 '클론 전쟁이 시작되었던 때로부터 3년'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "공화국의 복제 군대와 분리주의 연합이 맞선 전쟁.",
+      "note": "공화국에서 떨어져 나간 행성들과 공화국 사이에 3년 동안 벌어졌다. 제다이는 복제병을 이끄는 장군이 되어 싸웠고, 전쟁이 길어질수록 의장의 권력은 커지고 제다이는 지쳐 갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-314f14b4-b70a-4ec6-b634-2559f0b1f77e",
+        "https://www.disneyplus.com/ko-kr/browse/entity-39cbdf17-1bbe-4de2-b4a4-8e342875c2c6",
+        "https://www.disneyplus.com/ko-kr/browse/entity-eb1e2c5f-69bf-4240-a61f-7ffc4e0311b3",
+        "https://starwars.fandom.com/wiki/Clone_Wars"
+      ]
+    },
+    {
+      "id": "galactic_civil_war",
+      "ko": "은하계 내전",
+      "orig": "Galactic Civil War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "정사 게임 『스타워즈: 스쿼드론』(2020) 한국어판 스팀 상점 소개 '은하계 내전이 끝날 무렵의 주요 캠페인'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "반란 연합이 제국에 맞서 벌인 긴 전쟁.",
+      "note": "제국의 압제에 맞선 작은 반란들이 모여 은하 전체의 전쟁이 되었다. 오리지널 3부작이 그 한가운데를 그리고, 제국의 중심이 무너진 뒤에도 잔당과의 싸움이 한동안 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1222730/?l=koreana",
+        "https://starwars.fandom.com/wiki/Galactic_Civil_War"
+      ]
+    },
+    {
+      "id": "battle_of_yavin",
+      "ko": "야빈 전투",
+      "orig": "Battle of Yavin",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '야빈 전투'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "반란 연합이 처음으로 제국에 크게 이긴 싸움.",
+      "note": "야빈 4의 반란군 기지를 노리고 다가온 제국의 행성 파괴 기지를 작은 전투기들이 공격했다. 은하의 해를 이 싸움을 기준으로 그 전과 그 뒤로 센다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Battle_of_Yavin"
+      ]
+    },
+    {
+      "id": "battle_of_endor",
+      "ko": "엔도 전투",
+      "orig": "Battle of Endor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2016 문학수첩 『스타워즈 백과사전』(김창규 옮김) 목차 '엔도 전투'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "반란 연합 함대와 제국 함대가 맞붙은 결전.",
+      "note": "숲 위성의 방어막 발생기를 치는 땅 위 싸움과, 그 위 궤도에서 전함들이 맞붙는 함대전이 한꺼번에 벌어졌다. 이 싸움으로 제국은 황제를 잃고 무너지기 시작한다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92988605",
+        "https://starwars.fandom.com/wiki/Battle_of_Endor"
+      ]
+    },
+    {
+      "id": "high_republic",
+      "ko": "하이 리퍼블릭",
+      "orig": "High Republic Era",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "공화국과 제다이가 가장 번성했던 옛 시대.",
+      "note": "영화 3부작들보다 수백 년 앞서, 공화국이 변방으로 뻗어 나가고 제다이가 가장 큰 힘을 떨치던 때다. 그 긴 평화의 끝자락에서 제다이를 노리는 일이 벌어지는 이야기가 『애콜라이트』다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.disneyplus.com/ko-kr/browse/entity-a5c84b7d-fd4e-42c8-95e3-960e73e1a71e",
+        "https://starwars.fandom.com/wiki/High_Republic_Era"
+      ]
+    },
+    {
+      "id": "supreme_leader",
+      "ko": "최고지도자",
+      "orig": "Supreme Leader",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "2017 시공사 『스타워즈: 라스트 제다이 오피셜 가이드』(임태현 옮김) 책 소개 '최고지도자 스노크와 그의 제자 카일로 렌이 이끄는 퍼스트 오더'",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "퍼스트 오더를 이끄는 맨 윗자리.",
+      "note": "퍼스트 오더의 군대와 정치를 한 손에 쥐는 자리다. 어두운 면의 힘을 지닌 자가 앉아, 제자와 장군들을 서로 견주고 다투게 하며 다스린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126015640",
+        "https://starwars.fandom.com/wiki/Supreme_Leader_of_the_First_Order"
+      ]
+    }
+  ]
+}

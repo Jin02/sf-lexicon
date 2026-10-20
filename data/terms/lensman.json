@@ -1,0 +1,1158 @@
+{
+  "terms": [
+    {
+      "id": "galactic_patrol",
+      "ko": "은하순찰대",
+      "orig": "Galactic Patrol",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('은하순찰대(Galactic Patrol)'). 같은 문서는 1984년 TV 애니메이션이 1990년 MBC 에서 '은하순찰대'라는 제목으로 방영되었다고 전하나, 그 더빙판 화면은 보지 못했다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "렌즈맨들이 이끄는, 여러 별을 아우르는 법 집행 조직",
+      "note": "범죄와 해적에 맞서 문명 세계의 질서를 지키는 경찰이자 군대다. 지구의 옛 조직에서 출발해 여러 행성과 종족이 함께하는 조직으로 커졌고, 렌즈를 받은 렌즈맨이 그 중심을 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "civilization",
+      "ko": "시빌리제이션",
+      "orig": "Civilization",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 작품은 이 말을 대문자로 써서 은하순찰대 편 행성들의 모둠을 고유하게 가리킨다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "은하순찰대 편에 선 행성과 종족들의 연합",
+      "note": "수많은 행성과 종족이 은하 평의회(Galactic Council)를 두고 함께 다스리는 모둠이다. 개인의 자유와 서로 돕는 일을 바탕으로 삼으며, 지배와 복종으로 굴러가는 보스콘 쪽과 맞선다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "boskone",
+      "ko": "보스콘",
+      "orig": "Boskone",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('우주해적 보스콘'). 이 세력 전체를 가리키는 Boskonia 는 국내 통용 표기가 없다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하순찰대와 맞서는 거대한 범죄 세력",
+      "note": "해적질·마약·암살로 은하 곳곳을 갉아먹는 조직으로, 위에서 아래로 엄격하게 지배하는 짜임이다. 우두머리를 잡아도 더 위의 지도부가 나타나는 여러 겹의 짜임이라, 순찰대는 한 층씩 거슬러 올라가며 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "zwilnik",
+      "ko": "즈윌닉",
+      "orig": "zwilnik",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "보스콘의 마약을 나르고 파는 자들을 부르는 말",
+      "note": "보스콘이 문명 세계를 안에서 썩히려고 퍼뜨리는 마약 거래에 가담한 자들을 통틀어 이렇게 부른다. 순찰대가 쫓는 가장 흔한 범죄자이고, 이들을 거슬러 올라가는 수사가 보스콘 지도부에 닿는 길이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "triplanetary_league",
+      "ko": "삼중행성 연맹",
+      "orig": "Triplanetary League",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서가 작품 Triplanetary 를 '삼중행성'으로 적는 데 '연맹'을 붙임 — 이 연맹 자체의 통용 표기는 없다. 정식판은 같은 원제를 '은하계 방위군'으로 옮겼지만, 책 안에서 이 조직을 무엇이라 불렀는지는 확인하지 못했다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "지구·화성·금성이 맺은 연맹",
+      "note": "태양계의 세 행성이 함께 꾸린 정부와 그 군사 조직(Triplanetary Service)이다. 해적과 첫 외계 종족을 겪으며 태양계 바깥으로 눈을 돌리고, 뒤에 은하순찰대가 태어나는 바탕이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "space_pirates",
+      "ko": "우주해적",
+      "orig": "pirates",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 목차('우주해적을 만나다', 2026-10-20 확인)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "삼중행성 시대에 태양계 항로를 노리던 해적 무리",
+      "note": "보이지 않는 소행성 기지를 근거지로 삼아 배를 습격하고 사람을 잡아간다. 뒤의 보스콘 역시 흔히 우주해적이라 불리며, 해적은 연작 내내 순찰대의 첫 상대로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8"
+      ]
+    },
+    {
+      "id": "space_marines",
+      "ko": "우주해병",
+      "orig": "Space Marines",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('우주해병(Space Marine)'). 같은 문서는 이 말이 이 연작으로 널리 퍼졌다고 적는다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "우주선에 타서 맞붙어 싸우는 순찰대의 병사들",
+      "note": "갑옷을 입고 적의 배에 올라 맞붙는 일을 맡는다. 광선이 막힌 맞붙은 싸움에서는 도끼처럼 생긴 무기를 휘두르며, 높은 중력 행성 출신의 거구들이 앞장서는 일이 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "all_highest",
+      "ko": "올하이에스트",
+      "orig": "All-Highest",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "에도르인을 다스리는 우두머리의 칭호",
+      "note": "에도르인 사회는 힘으로 줄을 세운 독재이고, 그 맨 꼭대기를 이렇게 부른다. 그 아래 가장 가까운 무리를 '이너모스트 서클'(Innermost Circle)이라 하며, 이들이 은하 정복의 큰 계획을 짠다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "black_lensman",
+      "ko": "블랙 렌즈맨",
+      "orig": "Black Lensman",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "보스콘 쪽에서 렌즈를 지닌 자들",
+      "note": "순찰대 렌즈맨과 비슷한 힘을 쓰는 적 편의 렌즈 착용자다. 이들이 렌즈를 어디서 얻는지가 순찰대에게는 큰 수수께끼로 남는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "lensman",
+      "ko": "렌즈맨",
+      "orig": "Lensman",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 출판사 책 소개('렌즈맨이라는 시리즈', 2026-10-20 확인) — 연작 이름으로 쓰인 말",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "렌즈를 받은 은하순찰대의 정예 요원",
+      "note": "엄한 훈련과 시험을 거쳐 뽑힌 이만 렌즈를 받는다. 어느 행성에서나 법을 집행할 권한을 지니고, 렌즈를 지녔다는 것 자체가 그 사람의 정직함을 보증한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "gray_lensman",
+      "ko": "그레이 렌즈맨",
+      "orig": "Gray Lensman",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서의 작품 목록에서 통용되는 표기(『그레이 렌즈맨(Gray Lensman)』). 정식 이름 Unattached Lensman 은 국내 통용 표기가 없다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "어느 명령에도 매이지 않는 자유 렌즈맨",
+      "note": "뛰어난 렌즈맨이 '풀려남'을 받으면 이렇게 된다. 누구의 지시도 받지 않고 순찰대의 자원을 마음대로 쓰며, 스스로 판단해 움직이는 그 자신이 곧 법이 된다. 입는 가죽 옷의 잿빛에서 이름이 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "second_stage_lensman",
+      "ko": "2단계 렌즈맨",
+      "orig": "Second-Stage Lensman",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서의 작품 목록에서 통용되는 표기(『2단계 렌즈맨(Second Stage Lensmen)』)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "아리시아에서 더 깊은 훈련을 받은 렌즈맨",
+      "note": "아리시아인에게 직접 마음을 단련받아, 렌즈 없이도 남의 마음을 읽고 다스리며 정신의 힘만으로 적을 쓰러뜨릴 수 있게 된다. 이 훈련을 견딜 수 있는 사람은 아주 드물다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "third_stage_lensman",
+      "ko": "3단계 렌즈맨",
+      "orig": "Third-Stage Lensman",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 나무위키 '렌즈맨' 문서의 '2단계 렌즈맨' 표기에 맞춰 단계 수만 바꿈",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "next_human"
+      ],
+      "one": "렌즈맨 너머의 새 단계에 이른 이들",
+      "note": "오랜 세월 이어진 계획의 끝에 태어난 사람들로, 어떤 2단계 렌즈맨보다도 정신의 힘이 크다. 이들은 문명 세계를 지킬 다음 세대의 수호자가 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70483",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "galactic_coordinator",
+      "ko": "갤럭틱 코디네이터",
+      "orig": "Galactic Co-ordinator",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "순찰대와 시빌리제이션의 일을 두루 잇는 최고 직위",
+      "note": "한 은하의 순찰대 일을 총괄하고 여러 세력의 움직임을 맞추는 자리다. 두 번째 은하에서 보스콘과 싸울 때 이 자리를 두고, 그 본부를 클로비아에 세운다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "unit",
+      "ko": "유닛",
+      "orig": "the Unit",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "merge"
+      ],
+      "one": "여럿의 마음이 하나로 합쳐진 정신",
+      "note": "따로 있던 이들이 마음을 완전히 하나로 녹여, 혼자서는 닿을 수 없는 힘을 내는 상태다. 합쳐진 정신은 어느 한 사람의 것도 아니며, 연작의 마지막 싸움에서 쓰인다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70483",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "arisian",
+      "ko": "아리시아인",
+      "orig": "Arisian",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 출판사 책 소개('은하계의 수호자 아리시아인들', 2026-10-20 확인)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "elder_race",
+        "benefactor"
+      ],
+      "one": "몸 대신 정신을 갈고닦은 아주 오래된 종족",
+      "note": "우리 우주에서 난 가장 오래된 지성으로, 수십억 년을 생각에만 쏟아 정신의 힘이 아득히 앞섰다. 직접 나서지 않고 젊은 종족들에게 렌즈를 주고 길을 이끌어, 그들이 스스로 에도르인과 싸울 수 있게 기른다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8"
+      ]
+    },
+    {
+      "id": "eddorian",
+      "ko": "에도르인",
+      "orig": "Eddorian",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 출판사 책 소개('우주를 정복하려는 에도르인들', 2026-10-20 확인)",
+      "alt_ko": [
+        {
+          "ko": "에도리아인",
+          "src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('에도리아인(Eddorian)')"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "galactic_threat"
+      ],
+      "one": "다른 시공에서 넘어와 우주를 지배하려는 종족",
+      "note": "힘과 지배만을 바라는 오래된 종족으로, 다른 시공간에서 우리 우주로 들어왔다. 겉에 나서지 않고 여러 세력을 뒤에서 부려 문명들을 손에 넣으려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "mentor",
+      "ko": "멘토",
+      "orig": "Mentor",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "렌즈맨들 앞에 나타나는 아리시아의 목소리",
+      "note": "아리시아를 찾은 이들이 마주하는 정신으로, 렌즈를 지어 주고 훈련을 맡는다. 앞일을 훤히 내다보는 듯 말하지만 거의 모든 것을 스스로 깨치게 두며, 꼭 필요할 때만 손을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "velantian",
+      "ko": "벨란티아인",
+      "orig": "Velantian",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "날개 달린 뱀 같은 몸의 정신력 강한 종족",
+      "note": "벨란티아 3행성의 토착 종족으로, 정신의 힘이 강하다. 오랫동안 델곤의 오버로드에게 시달리다가 사고 차단막을 만들어 맞섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "rigellian",
+      "ko": "리겔인",
+      "orig": "Rigellian",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(별 이름 Rigel 은 '리겔'로 적는 것이 국내 천문 표기)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "눈 대신 감지력으로 세상을 아는 종족",
+      "note": "리겔 4행성의 토착 종족으로, 눈이 없는 대신 둘레의 모든 것을 직접 감지한다. 사람과 감각이 너무 달라 렌즈가 있어야 제대로 뜻이 통한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "palainian",
+      "ko": "팔레인인",
+      "orig": "Palainian",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "몹시 차가운 곳에 사는, 몸이 다른 차원에 걸친 종족",
+      "note": "팔레인 7행성의 토착 종족으로, 사람에게는 견딜 수 없이 추운 곳을 좋아한다. 몸의 일부가 우리 눈에 다 보이지 않는 차원에 걸쳐 있고, 생각하는 방식도 사람과 전혀 달라 이해하기 어렵다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "valerian",
+      "ko": "발레리아인",
+      "orig": "Valerian",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "spacers"
+      ],
+      "one": "중력이 센 행성에서 대를 이어 자란 사람들",
+      "note": "지구에서 건너간 사람들이 중력이 몇 배나 센 발레리아에서 여러 대를 살며 몸이 크고 단단해졌다. 힘이 장사라 순찰대의 우주해병으로 이름이 높다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "overlords_of_delgon",
+      "ko": "델곤의 오버로드",
+      "orig": "Overlords of Delgon",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "남의 마음을 묶어 생명력을 빨아먹는 종족",
+      "note": "정신의 힘으로 다른 종족을 꼼짝 못하게 붙잡아 끌고 가, 괴롭히며 꺼져 가는 생명력을 먹이로 삼는다. 벨란티아인이 오래 시달려 온 상대다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "eich",
+      "ko": "아이크",
+      "orig": "Eich",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "피가 얼음보다 차가운, 보스콘의 한 지배 종족",
+      "note": "행성 자르네본에 사는 종족으로, 물이 아닌 몸에 피가 영하로 차가워 사람과 생김새도 생각도 전혀 다르다. 한때 보스콘의 지도부 노릇을 하며 은하순찰대와 맞섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "plooran",
+      "ko": "플루어인",
+      "orig": "Plooran",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "보스콘 지도부의 더 높은 층을 이루는 종족",
+      "note": "환경이 몹시 험한 행성 플루어의 종족으로, 순찰대가 그때까지 쫓던 우두머리들보다 한 층 위에서 보스콘을 움직여 왔다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "arisia",
+      "ko": "아리시아",
+      "orig": "Arisia",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 정식판 종족 이름 '아리시아인'(옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 출판사 책 소개)에서 행성 이름을 따 적음",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "아리시아인의 고향 행성",
+      "note": "다가가는 배는 마음의 벽에 막혀 저절로 돌아가게 되어 있어, 오래도록 아무도 들어가지 못한 곳이다. 렌즈를 받을 이들은 이곳에 불려 와 저마다 맞춘 렌즈를 받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.yes24.com/Product/Goods/386399"
+      ]
+    },
+    {
+      "id": "eddore",
+      "ko": "에도르",
+      "orig": "Eddore",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 정식판 종족 이름 '에도르인'(옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 출판사 책 소개)에서 행성 이름을 따 적음",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "에도르인의 행성",
+      "note": "크고 무겁고 뜨거운 행성으로, 숨 쉴 공기가 아닌 짙은 기체에 덮여 있다. 에도르인은 여기서 우주 정복의 계획을 짜고 아래 세력들에 명령을 내린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "tellus",
+      "ko": "텔루스",
+      "orig": "Tellus",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "작품 속에서 지구를 부르는 이름",
+      "note": "연작은 지구를 거의 언제나 이 이름으로 부르고, 지구 사람을 텔루리안이라 한다. 은하순찰대의 첫 본부와 렌즈맨 학교가 이곳에 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "nevia",
+      "ko": "네비아",
+      "orig": "Nevia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 목차('신비의 생성 네비아', '네비아의 전쟁', 2026-10-20 확인)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "물과 뭍을 오가는 네비아인이 사는 붉은 행성",
+      "note": "삼중행성 시대 사람들이 처음 마주친 외계 문명의 고향이다. 네비아에는 철이 몹시 귀해, 철을 찾아 태양계에 온 네비아인과 지구 사람들 사이에 충돌이 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://www.gutenberg.org/ebooks/20782"
+      ]
+    },
+    {
+      "id": "rogers_planetoid",
+      "ko": "로저의 소행성",
+      "orig": "Roger's planetoid",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "옹기장이 『은하계 방위군』(2003, 김유제 옮김, 원제 Triplanetary) 예스24 목차('로저의 소행성에서', 2026-10-20 확인)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "눈에도 탐지기에도 잡히지 않는 해적의 소행성 기지",
+      "note": "삼중행성 시대 해적 무리의 본거지로, 보이지 않게 가려진 채 우주를 떠다닌다. 두꺼운 방어막을 둘러 대함대의 공격도 버틴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.yes24.com/Product/Goods/386399",
+        "https://www.gutenberg.org/ebooks/20782"
+      ]
+    },
+    {
+      "id": "trenco",
+      "ko": "트렌코",
+      "orig": "Trenco",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "마약 티오나이트가 나는 단 하나의 행성",
+      "note": "밤마다 상상하기 어려운 양의 비가 퍼붓는 험한 행성이다. 마약 원료가 여기서만 나서 보스콘과 순찰대가 다투는 곳이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "jarnevon",
+      "ko": "자르네본",
+      "orig": "Jarnevon",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "아이크가 사는 보스콘의 근거지 행성",
+      "note": "한때 보스콘의 큰 지휘 본부가 자리한 행성이다. 순찰대가 이곳을 겨누면서 싸움의 판이 크게 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "thrale",
+      "ko": "스레일",
+      "orig": "Thrale",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "두 번째 은하에서 보스콘이 움켜쥔 중심 행성",
+      "note": "지구와 아주 닮아 사람과 거의 같은 종족이 사는 행성으로, 폭군이 다스리며 보스콘 쪽의 한 중심을 이룬다. 렌즈맨이 정체를 숨기고 파고드는 무대가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "onlo",
+      "ko": "온로",
+      "orig": "Onlo",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "스레일과 같은 별을 도는 보스콘의 거점 행성",
+      "note": "아이크처럼 피가 영하로 차가운, 사람과 전혀 다른 종족이 사는 행성으로 보스콘 쪽의 또 다른 거점이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "lyrane",
+      "ko": "라이레인",
+      "orig": "Lyrane",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "여자들만이 다스리는 사람 종족의 행성",
+      "note": "라이레인 2행성의 사람들은 여자들이 사회를 쥐고 남자를 낮춰 본다. 남이 끼어드는 것을 몹시 싫어해 순찰대와도 쉽게 손잡지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "medon",
+      "ko": "메돈",
+      "orig": "Medon",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "통째로 날아서 은하를 건너온 행성",
+      "note": "전기와 절연 기술이 뛰어난 메돈인의 행성이다. 보스콘에게 쫓기자 행성 자체에 무관성 장치를 달아 하나의 우주선처럼 몰고 두 번째 은하에서 첫 번째 은하로 옮겨 온다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "klovia",
+      "ko": "클로비아",
+      "orig": "Klovia",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "두 번째 은하에서 순찰대가 세운 새 중심",
+      "note": "두 번째 은하에서 보스콘과 싸우려고 순찰대가 본부를 둔 행성이다. 렌즈맨의 다음 세대가 이곳에서 나고 자란다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "grand_base",
+      "ko": "그랜드 베이스",
+      "orig": "Grand Base",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "보스콘이 첫 번째 은하에 둔 큰 기지",
+      "note": "겹겹의 방어막과 탐지망으로 둘러싸인 요새로, 순찰대를 괴롭히는 해적 활동의 지휘가 여기서 나온다. 렌즈맨이 몸소 숨어들어야 했던 곳이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "second_galaxy",
+      "ko": "세컨드 갤럭시",
+      "orig": "Second Galaxy",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 작품은 이 은하를 '룬드마르크 성운'(Lundmark's Nebula)이라고도 부른다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "우리 은하와 엇갈려 지나간 이웃 은하",
+      "note": "아득한 옛날 우리 은하와 서로 꿰뚫고 지나가며 함께 수많은 행성을 낳은 짝 은하다. 보스콘의 깊은 뿌리가 이곳에 있어, 연작 후반의 싸움은 여기로 옮겨 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "coalescence",
+      "ko": "코얼레슨스",
+      "orig": "Coalescence",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "두 은하가 서로 꿰뚫고 지나가며 행성을 낳은 일",
+      "note": "이십억 년쯤 전 두 은하가 엇갈려 지나가면서 별들이 수없이 행성을 거느리게 되었다. 아리시아인은 그때 이미 아주 오래된 종족이었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "wentworth_hall",
+      "ko": "웬트워스 홀",
+      "orig": "Wentworth Hall",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구의 렌즈맨 후보생들이 지내는 학교",
+      "note": "렌즈를 받을 후보생들이 여러 해 동안 몸과 마음을 단련하며 걸러지는 곳이다. 끝까지 남아 졸업하는 이는 처음 들어온 이들 가운데 아주 적다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "atlantis",
+      "ko": "아틀란티스",
+      "orig": "Atlantis",
+      "ko_status": "우리 표기",
+      "ko_src": "국내에서 널리 쓰는 전설 속 섬 이름 표기(나무위키 '아틀란티스' 문서 제목)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "인류 역사 이전에 있었다는 앞선 문명",
+      "note": "삼중행성 앞부분은 아득한 옛 지구의 아틀란티스에서 시작한다. 높은 문명을 이뤘던 이 나라가 무너지는 일부터, 인류 역사 뒤에서 아리시아와 에도르가 겨뤄 온 자취가 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    },
+    {
+      "id": "lens",
+      "ko": "렌즈",
+      "orig": "Lens",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('렌즈'를 손목에 차는 인식표로 설명)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "psychic_comm",
+        "translator"
+      ],
+      "one": "렌즈맨이 손목에 차는, 살아 있는 듯한 보석",
+      "note": "아리시아에서 한 사람의 생명에 꼭 맞게 지어, 그 사람이 지닐 때만 빛난다. 거리와 말을 가리지 않고 마음을 주고받게 해 주며, 다른 이가 차면 그를 죽여 위조할 수 없는 신분증이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "inertialess_drive",
+      "ko": "무관성 추진기",
+      "orig": "inertialess drive",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '렌즈맨' 문서에서 통용되는 표기('무관성 추진기(Inertialess Drives)'). 이 장치를 만드는 발생기 이름 Bergenholm 은 국내 통용 표기가 없다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl"
+      ],
+      "one": "배의 관성을 없애 빛보다 빨리 나는 장치",
+      "note": "배의 관성을 지워 버리면 아주 작은 힘으로도 순식간에 엄청난 속도를 낸다. 관성이 없는 동안은 부딪쳐도 다치지 않고, 장치를 끄면 들어가기 전의 속도와 방향을 그대로 되찾는다. 발생기의 이름을 따 베르겐홀름이라고도 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%8C%EC%A6%88%EB%A7%A8",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "ultra_wave",
+      "ko": "울트라웨이브",
+      "orig": "ultra-wave",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl_comm"
+      ],
+      "one": "빛보다 빠르게 퍼지는 통신과 탐지의 파동",
+      "note": "보통 전파보다 훨씬 빨라 먼 거리에서도 곧장 말을 주고받고 상대를 찾아낼 수 있다. 통신과 탐지, 영상 송출에 두루 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "hyperspatial_tube",
+      "ko": "하이퍼스페이셜 튜브",
+      "orig": "hyperspatial tube",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "wormhole"
+      ],
+      "one": "다른 공간을 거쳐 먼 두 곳을 잇는 통로",
+      "note": "보통 공간 바깥을 지나는 굴을 뚫어, 떨어진 두 지점을 거의 곧바로 잇는다. 적이 이 통로로 뜻밖의 곳에 갑자기 쳐들어오기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "negasphere",
+      "ko": "네가스피어",
+      "orig": "negasphere",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "보통 물질을 갉아먹는 거꾸로 된 물질의 공",
+      "note": "보통 물질과 닿으면 서로 사라져 버리는 반대 성질의 물질로 된 공이다. 눈으로 보아도 모양을 제대로 알아볼 수 없고, 항로에 놓이면 무엇이든 집어삼키는 위험물이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "sunbeam",
+      "ko": "선빔",
+      "orig": "sunbeam",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "해 하나의 에너지를 한 줄기로 모아 쏘는 무기",
+      "note": "별 하나가 내뿜는 에너지를 거의 통째로 모아 거대한 빛줄기로 쏜다. 다루기가 몹시 어려워 쏘는 쪽도 목숨을 걸어야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/70494",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "nutcracker",
+      "ko": "너트크래커",
+      "orig": "nutcracker",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성 둘로 적의 행성을 짓눌러 부수는 수",
+      "note": "관성을 없앤 행성을 적의 행성 쪽으로 날려 보내, 반대편의 행성과 사이에 끼워 짓누른다. 쓸모없는 차가운 행성을 무기로 삼는 생각이다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "delameter",
+      "ko": "델라미터",
+      "orig": "DeLameter",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "렌즈맨이 차고 다니는 손에 쥐는 광선총",
+      "note": "순찰대원의 기본 무기로, 짧은 거리에서 강한 광선을 쏜다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "space_axe",
+      "ko": "스페이스 액스",
+      "orig": "space-axe",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "갑옷을 쪼개는 우주해병의 도끼",
+      "note": "광선이 방어막에 막히는 맞붙은 싸움에서 쓰는 무거운 도끼다. 힘센 발레리아인 해병의 손에서 특히 무섭다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70483",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "tractor_pressor",
+      "ko": "트랙터·프레서",
+      "orig": "tractor and pressor beams",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "물체를 끌어당기거나 밀어내는 힘의 줄기",
+      "note": "끌어당기는 줄기(트랙터)와 밀어내는 줄기(프레서)를 짝으로 쓴다. 적의 배를 붙잡거나 떼어 내는 데 쓰여 우주 싸움의 기본 수단이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "screen",
+      "ko": "스크린",
+      "orig": "screen",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "배를 겹겹이 둘러싸 광선을 막는 힘의 벽",
+      "note": "배와 기지는 여러 겹의 방어막을 두르고, 싸움은 광선이 이 막을 뚫느냐 막이 버티느냐로 갈린다. 막이 견디다 못해 빛을 내며 무너지는 장면이 연작 내내 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "thought_screen",
+      "ko": "소트 스크린",
+      "orig": "thought-screen",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "마음을 읽거나 부리는 힘을 막는 장치",
+      "note": "몸에 지니면 남이 내 생각을 읽거나 마음을 부리지 못한다. 정신 공격이 흔한 이 세계에서 순찰대와 보스콘 모두 필수로 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "spy_ray",
+      "ko": "스파이 레이",
+      "orig": "spy-ray",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "벽 너머를 멀리서 들여다보는 광선",
+      "note": "멀리 떨어진 곳의 안쪽을 비추어 화면으로 보여 준다. 그래서 중요한 곳은 이 광선을 막는 막을 두르는 것이 보통이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/20782",
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815"
+      ]
+    },
+    {
+      "id": "detector_nullifier",
+      "ko": "디텍터 널리파이어",
+      "orig": "detector-nullifier",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "탐지기에 잡히지 않게 하는 장치",
+      "note": "탐지 파동을 지워 배나 사람이 상대의 탐지기에 나타나지 않게 한다. 렌즈맨이 적 기지에 숨어들 때 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "thionite",
+      "ko": "티오나이트",
+      "orig": "thionite",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "트렌코에서만 나는 가장 무서운 마약",
+      "note": "헤로인보다 훨씬 독한 마약으로, 아주 적은 양도 엄청난 값에 팔린다. 보스콘은 이것을 비롯한 마약을 퍼뜨려 문명 세계를 안에서 무너뜨리려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/49525"
+      ]
+    },
+    {
+      "id": "grand_fleet",
+      "ko": "그랜드 플리트",
+      "orig": "Grand Fleet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "fleet_battle"
+      ],
+      "one": "순찰대가 큰 싸움에 모으는 대함대",
+      "note": "수많은 행성에서 모은 배들을 한데 묶은 함대로, 셀 수 없이 많은 배가 진을 짜고 맞붙는다. 너무 커서 사람 하나가 다 지휘할 수 없어 따로 지휘선을 둔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "directrix",
+      "ko": "디렉트릭스",
+      "orig": "Directrix",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "대함대 전체를 지휘하는 거대한 지휘선",
+      "note": "Z9M9Z 라는 번호의 움직이는 지휘 기지로, 커다란 상황판에 모든 배의 자리를 나타내 함대를 한꺼번에 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/69584",
+        "https://www.gutenberg.org/ebooks/70494"
+      ]
+    },
+    {
+      "id": "sense_of_perception",
+      "ko": "센스 오브 퍼셉션",
+      "orig": "sense of perception",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "눈 없이 둘레를 직접 아는 감각",
+      "note": "빛에 기대지 않고 벽 너머와 몸속까지 곧바로 알아차리는 감각이다. 리겔인은 타고나고, 뛰어난 렌즈맨은 훈련으로 익힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/68815",
+        "https://www.gutenberg.org/ebooks/69584"
+      ]
+    },
+    {
+      "id": "visualization_cosmic_all",
+      "ko": "코즈믹 올의 시각화",
+      "orig": "Visualization of the Cosmic All",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로('코즈믹 올' 부분). '시각화'는 Visualization 을 뜻으로 옮김",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "precognition"
+      ],
+      "one": "우주 전체를 머릿속에 그려 앞날을 내다보는 일",
+      "note": "아리시아인이 엄청난 정신력으로 우주의 모든 것을 한꺼번에 떠올려, 앞으로 일어날 일을 미리 짚어 내는 방법이다. 그래도 빈틈이 있어 늘 맞지는 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://www.gutenberg.org/ebooks/70483"
+      ]
+    },
+    {
+      "id": "breeding_program",
+      "ko": "아리시아인의 혈통 계획",
+      "orig": "Arisian breeding program",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 작품 속 고유 이름이 아니라 내용을 가리키는 말이라 뜻으로 옮김",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "long_plan",
+        "genetic_eng"
+      ],
+      "one": "에도르인을 이길 사람을 기르려 한 아득히 긴 계획",
+      "note": "아리시아인은 여러 행성의 핏줄을 몰래 골라 이어 붙여, 대를 거듭하며 더 뛰어난 사람이 태어나게 이끈다. 인류의 역사 내내 두 핏줄이 이렇게 길러진다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.gutenberg.org/ebooks/49525",
+        "https://en.wikipedia.org/wiki/Lensman_series"
+      ]
+    }
+  ]
+}

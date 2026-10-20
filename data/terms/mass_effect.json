@@ -1,0 +1,1373 @@
+{
+  "terms": [
+    {
+      "id": "element_zero",
+      "ko": "제0원소",
+      "orig": "Element zero (eezo)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/연표」·「매스 이펙트」·「리퍼(매스 이펙트 시리즈)」 문서에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'element zero → 제 0 원소', 같은 카페의 팬 번역 글(2012-03, 테시아 소개)에 '제0원소'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource",
+        "awakening_substance"
+      ],
+      "one": "질량을 바꾸는 장을 만들어 내는 희귀 물질",
+      "note": "전류를 흘리면 둘레의 질량을 늘리거나 줄이는 장을 낸다. 빛보다 빠른 항행, 방어막, 무기, 인공 중력이 모두 이 물질에 기대고, 뱃속 아기가 이것에 노출되면 바이오틱 능력을 지니고 태어나기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/4084",
+        "https://masseffect.fandom.com/wiki/Element_Zero"
+      ]
+    },
+    {
+      "id": "mass_effect_field",
+      "ko": "매스 이펙트 필드",
+      "orig": "Mass effect field",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 12쪽",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "물체의 질량을 늘리거나 줄이는 장",
+      "note": "제0원소에 전류를 흘려 만든다. 질량을 줄이면 무거운 짐을 띄우고 배가 빛보다 빨리 날 수 있으며, 같은 원리로 방어막과 인공 중력도 만든다. 작품 제목이 바로 이 현상의 이름이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t9.jpg",
+        "https://masseffect.fandom.com/wiki/Mass_Effect_Field"
+      ]
+    },
+    {
+      "id": "ftl_drive",
+      "ko": "초광속 드라이브",
+      "orig": "FTL drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 6쪽 ‘초광속 드라이브 코어’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ftl"
+      ],
+      "one": "배의 질량을 줄여 빛보다 빨리 나는 기관",
+      "note": "매스 이펙트 필드로 배의 질량을 거의 없애 빛의 한계를 넘는다. 오래 날면 배에 전하가 쌓여 행성 곁에서 주기적으로 털어 내야 하고, 아주 먼 길은 매스 릴레이에 기댄다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t3.jpg",
+        "https://masseffect.fandom.com/wiki/FTL_Drive"
+      ]
+    },
+    {
+      "id": "mass_relay",
+      "ko": "매스 릴레이",
+      "orig": "Mass relay",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 15·16·20·25쪽",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "은하 곳곳을 순식간에 잇는 거대한 고대 관문",
+      "note": "짝을 이룬 릴레이 사이를 질량 없는 통로로 이어 수천 광년을 한순간에 건너게 한다. 지금의 종족들은 원리를 모른 채 쓰기만 하며, 인류는 명왕성의 위성 카론이 얼음에 덮인 릴레이였음을 알아내고 은하로 나섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t12.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t13.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t17.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t22.jpg",
+        "https://masseffect.fandom.com/wiki/Mass_Relay"
+      ]
+    },
+    {
+      "id": "kinetic_barrier",
+      "ko": "키네틱 배리어",
+      "orig": "Kinetic barrier",
+      "ko_status": "우리 표기",
+      "ko_src": "팬 번역 글: 통합카페의 지구 소개 번역(2012-03)에 '키네틱 배리어'. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)은 'Barrier → 배리어'. 패치 문자열 자체는 직접 보지 못함. 나무위키에는 이 방어막의 이름이 따로 없다(게임 문서들은 '실드'·'배리어'를 능력치 이름으로만 쓴다)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "빠르게 날아드는 것을 밀어내는 질량 방어막",
+      "note": "매스 이펙트 필드로 몸이나 배 둘레에 막을 쳐서 총알처럼 빠른 물체를 튕겨 낸다. 느리게 움직이는 것은 그대로 통과시켜, 숨 쉬고 물건을 집는 데는 지장이 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/4079",
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Kinetic_Barrier"
+      ]
+    },
+    {
+      "id": "mass_accelerator",
+      "ko": "질량가속기",
+      "orig": "Mass accelerator",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/연표」 문서에서 쓰는 표기('질량가속기(mass accelerator)'). 다른 국내 표기는 찾지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mass_driver"
+      ],
+      "one": "작은 금속알을 질량 장으로 쏘는 무기",
+      "note": "개인 총부터 군함 주포까지 거의 모든 무기가 이 방식이다. 쏠 금속알을 매스 이펙트 필드로 가볍게 해 엄청난 속도로 날려 보낸다. 우주에서는 빗나간 탄이 멈추지 않고 끝없이 날아간다는 점도 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Mass_Accelerator"
+      ]
+    },
+    {
+      "id": "qec",
+      "ko": "QEC",
+      "orig": "Quantum entanglement communicator (QEC)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/연표」 문서가 원어 줄임말 그대로 'QEC실'이라 적는다. 우리말로 풀어 쓴 국내 표기는 찾지 못함",
+      "alt_ko": [
+        {
+          "ko": "퀀텀 인탱글먼트 커뮤니케이터",
+          "src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(앞선 우리 표기)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "entangled_comm"
+      ],
+      "one": "짝지은 입자로 거리와 상관없이 말을 잇는 장치",
+      "note": "얽힌 입자 짝을 두 장치에 나눠 담아, 아무리 멀어도 곧바로 신호를 주고받는다. 엿들을 수 없지만 값이 아주 비싸고 정해진 짝 하나와만 이어져, 보통의 통신은 여전히 곳곳에 놓인 중계 부표를 거친다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Quantum_Entanglement_Communicator"
+      ]
+    },
+    {
+      "id": "omni_tool",
+      "ko": "옴니-툴",
+      "orig": "Omni-tool",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「옴니-툴」 문서 제목에서 통용되는 표기(「매스 이펙트 2」 문서 본문은 붙여서 '옴니툴'). 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Omni-Tool → 옴니-툴'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "팔에 두르는 만능 작업 도구",
+      "note": "손목 위에 빛으로 떠오르는 장치로, 해킹·수리·분석·치료·제작을 한데 해낸다. 싸움에서는 칼날이나 불꽃을 만들어 무기로도 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Omni-tool"
+      ]
+    },
+    {
+      "id": "dreadnought",
+      "ko": "드레드노트",
+      "orig": "Dreadnought",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 11쪽",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "나라의 군사력을 재는 가장 큰 전함",
+      "note": "배 길이에 맞먹는 긴 주포 하나로 먼 거리에서 적을 부순다. 평의회 종족들은 조약으로 튜리안 5, 아사리·샐래리언 3, 인류 같은 딸린 종족 1의 비율로 지을 수 있는 수를 묶어 두었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t8.jpg",
+        "https://masseffect.fandom.com/wiki/Codex/Citadel_and_Galactic_Government"
+      ]
+    },
+    {
+      "id": "normandy",
+      "ko": "노르망디",
+      "orig": "Normandy",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 2」·「매스 이펙트 2/스토리」 문서에서 통용되는 표기(문서 이름은 '노르망디 호'). 팬 번역: 팀 임시 카페 글(2021-08)이 옮겨 실은 레전더리 에디션 한글 패치 1.05 변경 기록의 예문에 '노르망디'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "탐지에 걸리지 않는 정찰용 호위함",
+      "note": "얼라이언스와 튜리안이 함께 만든 배로, 엔진에서 나는 열을 안에 가두어 한동안 적의 감지기에 보이지 않는다. 이야기 내내 주인공 일행의 집이자 발이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/17",
+        "https://masseffect.fandom.com/wiki/SSV_Normandy_SR-1"
+      ]
+    },
+    {
+      "id": "atlas",
+      "ko": "아틀라스",
+      "orig": "Atlas",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「서버루스」 문서에서도 통용되는 표기('1인용 중장비 전투기계인 아틀라스'). 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Atlas → 아틀라스', 같은 카페 글(2012-03)에 '메크를 아틀라스로 번역'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha"
+      ],
+      "one": "사람이 타고 싸우는 두 발 전투 기계",
+      "note": "조종사가 가슴 쪽 투명한 조종석에 앉아 움직이는 두 발 기계로, 큰 포와 미사일을 단다. 3편에서 세베루스와 얼라이언스가 함께 쓰는 강한 적이자 탈것이다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/3771",
+        "https://masseffect.fandom.com/wiki/Atlas"
+      ]
+    },
+    {
+      "id": "ai",
+      "ko": "인공지능",
+      "orig": "Artificial intelligence (AI)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카탈리스트」('인공지능(AI)')·「게스(매스 이펙트 시리즈)」 문서에서도 통용되는 표기. 팬 번역: 팀 임시 카페 「용어 정리 및 통일 1」(2021-09, 레전더리 에디션 한글 패치 검수 글)이 '인공지능(AI)'과 '가상지능(VI)'을 맞세워 씀",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai_ban"
+      ],
+      "one": "시타델 권역에서 만드는 것이 금지된 생각하는 기계",
+      "note": "게스가 만든 이에게 등을 돌린 뒤로 시타델 법은 스스로 생각하는 인공지능을 만들지 못하게 했다. 그래서 일상에서는 생각하지 않는 가상지능이 그 자리를 채우고, 몰래 만든 인공지능은 큰 죄가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Artificial_Intelligence"
+      ]
+    },
+    {
+      "id": "vi",
+      "ko": "가상지능",
+      "orig": "Virtual intelligence (VI)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크루시블」 문서('가상지능')와 「게스(매스 이펙트 시리즈)」 문서('가상 지능')에서도 통용되는 표기. 팬 번역: 팀 임시 카페 「용어 정리 및 통일 1」(2021-09, 레전더리 에디션 한글 패치 검수 글)이 'Virtual Intelligence(VI) → 가상지능'으로 정함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "스스로 생각하지 않는 안내·보조 프로그램",
+      "note": "사람 말을 알아듣고 대답하지만 스스로 판단하거나 배우지는 않는 프로그램이다. 안내판, 비서, 전투 보조 등 어디에나 쓰이며, 인공지능을 금한 사회가 쓰는 안전한 대용품이다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Virtual_Intelligence"
+      ]
+    },
+    {
+      "id": "biotics",
+      "ko": "바이오틱",
+      "orig": "Biotics",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/연표」·「매스 이펙트 2」 문서에서도 통용되는 표기('바이오틱 임플란트' 등). 팬 카페에서 쓰는 표기: 통합카페의 팬 번역 글(2012-03, 테시아 소개)에 '바이오틱 능력자', 같은 카페 글 제목들에 '바이오틱 콤보'(2012~2014). 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "몸속 제0원소로 질량 장을 부리는 힘",
+      "note": "몸에 제0원소 덩어리를 지닌 채 태어난 이는 신경 신호로 매스 이펙트 필드를 만들어 물건을 들어 올리고 밀쳐 낸다. 사람은 몸에 보조 장치를 심어야 제대로 쓰고, 아사리는 모두가 타고난다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/4084",
+        "https://masseffect.fandom.com/wiki/Biotics"
+      ]
+    },
+    {
+      "id": "red_sand",
+      "ko": "레드 샌드",
+      "orig": "Red sand",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/연표」 문서에서 통용되는 표기('바이오틱 마약인 레드 샌드')",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "awakening_substance"
+      ],
+      "one": "바이오틱 힘을 잠깐 주는 제0원소 마약",
+      "note": "정제한 제0원소 가루로 만든 마약이다. 들이마시면 짧게 들뜨면서 약한 바이오틱 힘이 생겨, 바이오틱이 아닌 이들이 많이 빠져든다. 시야가 붉어지고 끊으면 금단 증상이 따른다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Drugs"
+      ]
+    },
+    {
+      "id": "melding",
+      "ko": "멜딩",
+      "orig": "Melding",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「아사리(매스 이펙트 시리즈)」 문서에서도 통용되는 표기('멜딩(Melding)'). 팬 번역: 팀 임시 카페 「용어 정리 및 통일 1」(2021-09, 레전더리 에디션 한글 패치 검수 글)이 'meld(ing) → 멜딩'으로 정함",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy"
+      ],
+      "one": "아사리가 신경을 이어 마음을 나누는 것",
+      "note": "아사리는 상대의 신경계와 제 신경계를 맞대어 생각과 기억을 함께 나눈다. 아이를 갖는 데 쓰이고, 기억을 보여 주거나 상대의 마음을 읽는 데도 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Asari"
+      ]
+    },
+    {
+      "id": "indoctrination",
+      "ko": "세뇌",
+      "orig": "Indoctrination",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「리퍼(매스 이펙트 시리즈)」·「아사리(매스 이펙트 시리즈)」·「라크나이」·「서버루스」 문서에서 통용되는 표기. 팬 카페에서도 '세뇌설'이라 부른다(통합카페 글 제목, 2012-04)",
+      "alt_ko": [
+        {
+          "ko": "인독트리네이션",
+          "src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(앞선 우리 표기)"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "리퍼 곁에 있으면 서서히 마음이 넘어가는 것",
+      "note": "리퍼나 그 유물 가까이 오래 머물면 두통과 환청 끝에 생각이 조금씩 비틀려, 결국 리퍼의 뜻을 제 뜻으로 믿게 된다. 당한 이는 스스로 알아채지 못하고, 끝내 정신이 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/5249",
+        "https://masseffect.fandom.com/wiki/Indoctrination"
+      ]
+    },
+    {
+      "id": "citadel",
+      "ko": "시타델",
+      "orig": "Citadel",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 26쪽 ‘시타델 평의회’. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)도 'Citadel → 시타델'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "은하 공동체의 수도인 거대한 고대 우주 정거장",
+      "note": "다섯 개의 팔과 가운데 고리로 이루어진 정거장으로, 팔 안쪽에 수백만이 사는 도시가 있다. 평의회와 여러 종족의 대사관이 모여 있다. 프로시안이 지었다고 여겨지며, 키퍼라는 말 없는 생물이 대대로 손본다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t23.jpg",
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Citadel"
+      ]
+    },
+    {
+      "id": "citadel_space",
+      "ko": "시타델 권역",
+      "orig": "Citadel space",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「시타델 권역」 문서 제목에서도 통용되는 표기. 팬 번역: 팀 임시 카페 「용어 정리 및 통일 1」(2021-09, 레전더리 에디션 한글 패치 검수 글)이 'Citadel space'를 '시타델 우주'와 '시타델 권역' 가운데 '시타델 권역'으로 정함",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "평의회의 법과 권위가 닿는 은하의 영역",
+      "note": "평의회 종족과 그에 딸린 종족들이 사는 곳이다. 법과 질서가 서 있는 대신, 그 바깥의 터미너스와는 늘 긴장이 흐른다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Citadel_Space"
+      ]
+    },
+    {
+      "id": "terminus_systems",
+      "ko": "터미너스 항성계",
+      "orig": "Terminus Systems",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「콜렉터」·「매스 이펙트 시리즈/연표」 문서에서 통용되는 표기. 팬 번역(통합카페 3편 용어 목록, 2012-03)은 줄여서 'Terminus → 터미너스'",
+      "alt_ko": [
+        {
+          "ko": "터미너스 행성계",
+          "src": "나무위키 「매스 이펙트 시리즈/장소」 문서"
+        },
+        {
+          "ko": "터미너스",
+          "src": "매스이펙트 통합카페 「매스 이펙트 3 번역 주요 명사 정리」(2012-03) 팬 번역 용어 목록"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "평의회 법이 닿지 않는 무법의 변경",
+      "note": "시타델 권역 바깥의 성계들로, 해적과 용병, 노예 상인과 군벌이 힘으로 다스린다. 평의회의 손이 미치지 않아 쫓기는 이들의 피난처이자 온갖 위험한 거래의 무대가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Terminus_Systems"
+      ]
+    },
+    {
+      "id": "omega",
+      "ko": "오메가",
+      "orig": "Omega",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/장소」('오메가 (Omega)')·「매스 이펙트 시리즈/연표」 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "터미너스 한가운데 소행성 속 무법 정거장",
+      "note": "광산으로 파낸 소행성을 정거장으로 바꾼 곳으로, 법 대신 가장 센 자가 다스린다. 용병단과 범죄 조직이 모여들어 터미너스의 장터이자 소굴 노릇을 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Omega"
+      ]
+    },
+    {
+      "id": "arcturus_station",
+      "ko": "악튜러스 우주 정거장",
+      "orig": "Arcturus Station",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 11·17쪽(6·8쪽에는 줄여 ‘악튜러스’)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "시스템 얼라이언스의 수도이자 함대 기지",
+      "note": "태양계 바깥, 매스 릴레이 곁에 지은 거대한 정거장이다. 얼라이언스의 정부와 사령부, 군사 훈련 시설이 모여 있고 함대가 늘 둘레를 지킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t8.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t14.jpg",
+        "https://masseffect.fandom.com/wiki/Arcturus_Station"
+      ]
+    },
+    {
+      "id": "skyllian_verge",
+      "ko": "스킬리안 버지",
+      "orig": "Skyllian Verge",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 24·25쪽",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류 개척지가 몰린 위험한 변경 지대",
+      "note": "시타델 권역의 가장자리로 터미너스와 맞닿아 있다. 인류가 빠르게 정착지를 늘리자 같은 땅을 노리던 바타리안과 부딪쳤고, 해적과 노예 사냥꾼의 습격이 잦다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t21.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t22.jpg",
+        "https://masseffect.fandom.com/wiki/Skyllian_Verge"
+      ]
+    },
+    {
+      "id": "mars_archives",
+      "ko": "화성 연구소",
+      "orig": "Mars Archives (Prothean ruins on Mars)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 12·15쪽(10쪽은 ‘화성의 연구소’)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류가 처음 찾은 프로시안 유적",
+      "note": "2148년 화성 땅속 깊은 곳에서 발견됐다. 여기서 풀어낸 프로시안의 기록 덕에 인류는 몇 해 만에 매스 이펙트 기술을 손에 넣고 태양계 밖으로 나갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t4.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t9.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t12.jpg",
+        "https://masseffect.fandom.com/wiki/Mars"
+      ]
+    },
+    {
+      "id": "tuchanka",
+      "ko": "투창카",
+      "orig": "Tuchanka",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「투창카」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Tuchanka → 투창카', 2편 한글 패치에 맞춰 낱말을 고친 같은 카페 글(2012-03)도 '투창카'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "크로건의 고향, 핵전쟁에 무너진 행성",
+      "note": "크로건이 스스로 일으킨 핵전쟁으로 방사능과 잿빛 폐허만 남았다. 사나운 생물이 들끓는 이 땅이 오히려 크로건을 강하게 길렀고, 지금은 씨족들이 갈라져 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/4342",
+        "https://masseffect.fandom.com/wiki/Tuchanka"
+      ]
+    },
+    {
+      "id": "citadel_council",
+      "ko": "시타델 평의회",
+      "orig": "Citadel Council",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 26쪽(같은 쪽에서 줄여 ‘평의회’)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "federation"
+      ],
+      "one": "은하의 큰 종족들이 함께 꾸리는 최고 의결 기구",
+      "note": "아사리·샐래리언·튜리안 대표가 앉아 시타델 권역의 일을 정한다. 다른 종족들은 대사를 두고 뜻을 전할 뿐이라 누가 자리를 얻느냐가 늘 다툼거리다. 인류도 처음에는 자리 없는 종족이었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t23.jpg",
+        "https://masseffect.fandom.com/wiki/Citadel_Council"
+      ]
+    },
+    {
+      "id": "spectre",
+      "ko": "스펙터",
+      "orig": "Spectre (Special Tactics and Reconnaissance)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "한국마이크로소프트 보도자료 「Xbox 360전용, ‘매스 이펙트’ 정식 발매」(뉴스와이어 2007-12-03)의 ‘엘리트 스펙터 요원’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "법 위에서 움직이는 평의회의 특명 요원",
+      "note": "평의회가 직접 뽑아 어떤 법에도 매이지 않는 권한을 준 요원이다. 은하의 평화를 지키는 일이라면 어떤 수단도 쓸 수 있고 평의회에만 답한다. 인류는 오래도록 스펙터를 내지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.newswire.co.kr/newsRead.php?no=302076",
+        "https://masseffect.fandom.com/wiki/Spectre"
+      ]
+    },
+    {
+      "id": "citadel_conventions",
+      "ko": "시타델 컨벤션",
+      "orig": "Citadel Conventions",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어판이 없고 팬 한국어 패치의 표기도 확인하지 못해 원어를 소리 나는 대로 적음. 나무위키 매스 이펙트 문서들에서도 이 협약의 이름을 찾지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "생명 행성에 대량 파괴 무기를 금한 전쟁 규약",
+      "note": "크로건 반란의 참화 뒤에 맺었다. 생명이 사는 행성의 환경을 바꿔 버리는 무기를 쓰지 못하게 하고, 소행성 떨어뜨리기와 스스로 불어나는 무기를 가장 위험한 등급으로 꼽는다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Codex/Citadel_and_Galactic_Government"
+      ]
+    },
+    {
+      "id": "systems_alliance",
+      "ko": "시스템 얼라이언스",
+      "orig": "Systems Alliance",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 6·9·10쪽",
+      "alt_ko": [
+        {
+          "ko": "얼라이언스",
+          "src": "같은 책 8·10·11쪽 등에서 줄여 부를 때"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "은하에서 인류를 대표하는 연합 정부와 그 군",
+      "note": "화성에서 프로시안 유적을 찾은 뒤 지구의 강대국들이 헌장을 맺어 세웠다. 인류의 개척지를 지키는 함대와 지상군을 거느리고, 다른 종족과의 외교도 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t3.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t6.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t7.jpg",
+        "https://masseffect.fandom.com/wiki/Systems_Alliance"
+      ]
+    },
+    {
+      "id": "n7",
+      "ko": "N7",
+      "orig": "N7",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 18쪽 ‘N7 특기병 훈련 프로그램’, 22쪽 ‘N7 훈련’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "얼라이언스 최정예 특수 요원의 훈련과 칭호",
+      "note": "혹독한 특수전 훈련을 단계별로 마친 이에게 붙는 표시로, N7은 그 가운데 가장 높은 단계다. 갑옷의 붉은 줄과 함께 인류 군인의 상징이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t15.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t19.jpg",
+        "https://masseffect.fandom.com/wiki/N7"
+      ]
+    },
+    {
+      "id": "cerberus",
+      "ko": "세베루스",
+      "orig": "Cerberus",
+      "ko_status": "공식",
+      "ko_src": "EA코리아 『매스 이펙트 2』 국내 발매 보도자료를 실은 루리웹 뉴스 「EA 코리아, '매스 이펙트 2' 오늘 출시」(2010-01-26, bbs.ruliweb.com/news/read/9447)의 '세베루스 네트워크', EA코리아 『매스 이펙트 3』 국내 정식 발매 발표를 전한 게임메카 기사(2012-03-06, gamemeca.com/view.php?gid=7309)의 '세베루스(Cerberus) 결사'. 보도자료 원문은 보지 못하고 그것을 옮겨 실은 기사로 봄. 팬 한국어 패치는 '케르베로스'(팀 임시 「용어 정리 및 통일 1」, 2021-09), 나무위키는 「서버루스」 문서 제목을 쓴다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "인류의 우위를 위해 무엇이든 하는 비밀 조직",
+      "note": "얼라이언스 바깥에서 움직이는 인류 지상주의 조직으로, 정체를 감춘 지도자 아래 위험한 실험과 공작을 서슴지 않는다. 인류를 지킨다는 목적 아래 수많은 이들을 희생시킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Cerberus"
+      ],
+      "ko_check": "2차 자료"
+    },
+    {
+      "id": "shadow_broker",
+      "ko": "섀도우 브로커",
+      "orig": "Shadow Broker",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 2」·「매스 이펙트 시리즈/연표」·「매스 이펙트 2/스토리」 문서에서 통용되는 표기(내려받는 추가 이야기 이름 '섀도우 브로커의 소굴')",
+      "alt_ko": [
+        {
+          "ko": "쉐도우 브로커",
+          "src": "매스이펙트 통합카페 「매스 이펙트 3 번역 주요 명사 정리」(2012-03) 팬 번역 용어 목록"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "얼굴 없는 은하 최대의 정보 거래상",
+      "note": "누구도 정체를 모르는 채 은하 곳곳의 정보원을 부려 비밀을 사고판다. 정부와 범죄 조직 모두가 그 정보에 기대면서 두려워한다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Shadow_Broker"
+      ]
+    },
+    {
+      "id": "migrant_fleet",
+      "ko": "이주 선단",
+      "orig": "Migrant Fleet",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「쿼리언」 문서('이주 선단(Migrant Fleet)')와 「매스 이펙트 시리즈/장소」·「리퍼(매스 이펙트 시리즈)」 문서에서 통용되는 표기",
+      "alt_ko": [
+        {
+          "ko": "마이그런트 플릿",
+          "src": "매스이펙트 통합카페 「매스 이펙트 3 번역 주요 명사 정리」(2012-03) 팬 번역 용어 목록, 나무위키 「매스 이펙트 시리즈/연표」"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "flotilla"
+      ],
+      "one": "쿼리안 거의 모두가 사는 거대한 이주 함대",
+      "note": "수만 척의 배에 쿼리안 대부분이 모여 산다. 물과 공기와 자리가 늘 모자라 엄격한 규율로 살림을 꾸리고, 커다란 생활선 몇 척이 먹을 것을 길러 함대 전체를 먹인다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Migrant_Fleet"
+      ]
+    },
+    {
+      "id": "first_contact_war",
+      "ko": "조우 전쟁",
+      "orig": "First Contact War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 25·26쪽",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "first_contact"
+      ],
+      "one": "인류와 튜리안이 처음 만나 벌인 짧은 전쟁",
+      "note": "인류가 잠든 매스 릴레이를 열려 하자 그것을 금지된 일로 여긴 튜리안이 공격하면서 시작됐다. 개척지 샨시를 빼앗겼다 되찾았고, 평의회가 끼어들어 두 달도 안 되어 끝났다. 이 일로 인류는 은하 공동체에 들어섰다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t22.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t23.jpg",
+        "https://masseffect.fandom.com/wiki/First_Contact_War"
+      ]
+    },
+    {
+      "id": "krogan_rebellions",
+      "ko": "크로건 반란",
+      "orig": "Krogan Rebellions",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크로건」·「매스 이펙트 시리즈/연표」 문서에서도 통용되는 표기. 팬 번역: 팀 임시 카페 「용어 정리 및 통일 1」(2021-09, 레전더리 에디션 한글 패치 검수 글)이 '크로건 폭동·크로건의 난'과 섞여 있던 것을 '크로건 반란'으로 정함",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "크로건이 평의회에 맞서 벌인 긴 전쟁",
+      "note": "라크나이를 물리친 뒤 크게 불어난 크로건이 남의 땅까지 차지하며 평의회와 부딪쳤다. 튜리안이 나서 싸우고 제노페이지가 퍼진 뒤에야 끝났으며, 이때 튜리안이 평의회에 자리를 얻었다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Krogan_Rebellions"
+      ]
+    },
+    {
+      "id": "morning_war",
+      "ko": "아침 전쟁",
+      "orig": "Morning War",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「게스(매스 이펙트 시리즈)」·「쿼리언」·「매스 이펙트 시리즈/연표」 문서에서 통용되는 표기. 같은 전쟁을 쿼리안 쪽에서는 '게스 전쟁'이라 부른다고 적는다",
+      "alt_ko": [
+        {
+          "ko": "모닝 워",
+          "src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(앞선 우리 표기)"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "게스가 쿼리안을 고향에서 몰아낸 전쟁",
+      "note": "약 300년 전, 게스가 스스로를 알아보기 시작하자 쿼리안은 이들을 없애려 했고 게스가 맞서면서 전쟁이 됐다. 쿼리안은 고향 라노크를 잃고 배를 집 삼아 떠돌게 됐다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Morning_War"
+      ]
+    },
+    {
+      "id": "cycle",
+      "ko": "사이클",
+      "orig": "Cycle",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「리퍼(매스 이펙트 시리즈)」·「프로디언」 문서에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'cycle → 사이클'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "cycle"
+      ],
+      "one": "약 5만 년마다 되풀이되는 문명의 절멸",
+      "note": "리퍼가 돌아올 때마다 별 사이로 나선 문명이 거둬지고, 덜 자란 종족만 남아 다음 주기에 다시 일어선다. 프로시안도 지난 주기에 이렇게 사라졌으며, 이번 주기의 종족들은 대부분 그 사실을 믿지 않는다.",
+      "spoiler": true,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Reapers"
+      ]
+    },
+    {
+      "id": "lazarus_project",
+      "ko": "라자루스 프로젝트",
+      "orig": "Lazarus Project",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「라자루스 프로젝트」 문서 제목에서 통용되는 표기. 같은 문서가 팬 한국어 번역에서는 '나사로 프로젝트'라 옮겼다고 적는다",
+      "alt_ko": [
+        {
+          "ko": "나사로 프로젝트",
+          "src": "팬 한국어 패치 — 팀 임시 카페 「용어 정리 및 통일 1」(2021-09)에 Lazarus 는 나사로로 통일, 나무위키 「매스 이펙트 시리즈/연표」"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "죽은 이를 되살린 세베루스의 계획",
+      "note": "2편 첫머리에서 목숨을 잃은 셰퍼드를 세베루스가 2년에 걸쳐 되살린 계획이다. 망가진 몸을 기계 장치와 인공 조직으로 메워 다시 일으켰고, 되살아난 셰퍼드가 예전과 같은 사람인지가 동료들의 물음이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/19",
+        "https://masseffect.fandom.com/wiki/Lazarus_Project"
+      ]
+    },
+    {
+      "id": "protheans",
+      "ko": "프로시안",
+      "orig": "Protheans",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 11·12·16·20쪽과 뒤표지",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "5만 년 전 은하를 다스리다 사라진 종족",
+      "note": "지금 종족들이 쓰는 기술과 구조물은 대부분 이들의 것으로 여겨진다. 이들이 남긴 유적과 기록이 인류를 우주로 이끌었고, 이들이 왜 한꺼번에 사라졌는가가 이야기의 큰 줄기가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t8.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t9.jpg",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_b.jpg",
+        "https://masseffect.fandom.com/wiki/Protheans"
+      ]
+    },
+    {
+      "id": "reapers",
+      "ko": "리퍼",
+      "orig": "Reapers",
+      "ko_status": "공식",
+      "ko_src": "EA코리아 『매스 이펙트 2』 국내 발매 보도자료를 실은 루리웹 뉴스 「EA 코리아, '매스 이펙트 2' 오늘 출시」(2010-01-26, bbs.ruliweb.com/news/read/9447)의 '리퍼들', EA코리아 『매스 이펙트 3』 성우 발표를 전한 게임메카 기사(2012-02-02, gamemeca.com/view.php?gid=6596)의 '리퍼라는 이름의 고대 외계 종족', EA코리아 『매스 이펙트 3』 국내 정식 발매 발표를 전한 게임메카 기사(2012-03-06, gamemeca.com/view.php?gid=7309)의 '리퍼(Reapers)'. 보도자료 원문은 보지 못하고 그것을 옮겨 실은 기사로 봄. 팬 한국어 패치(통합카페 3편 용어 목록)와 나무위키 「리퍼(매스 이펙트 시리즈)」 문서도 같은 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "machine_race",
+        "galactic_threat",
+        "cycle"
+      ],
+      "one": "은하 바깥에서 문명을 쓸러 오는 거대 기계 함선들",
+      "note": "은하 바깥의 어둠에 잠들어 있다가 때가 되면 돌아와 별 사이로 나선 문명들을 쓸어버리는 거대한 지성 기계다. 하나하나가 한 나라와 맞먹는 힘을 지녔고, 어떤 협상도 통하지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Reapers"
+      ],
+      "ko_check": "2차 자료"
+    },
+    {
+      "id": "husk",
+      "ko": "허스크",
+      "orig": "Husk",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「리퍼(매스 이펙트 시리즈)」 문서에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Husk → 허스크', 같은 카페의 팬 번역 글(2012-03)도 '허스크'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "cyborg",
+        "assimilation"
+      ],
+      "one": "리퍼 기술로 기계 시체가 된 사람들",
+      "note": "붙잡힌 사람을 기계 장치로 꿰뚫어 살과 기계가 뒤섞인 꼭두각시로 바꾼다. 생각 없이 떼로 달려들며, 다른 종족을 바꾼 변종도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/4084",
+        "https://masseffect.fandom.com/wiki/Husk"
+      ]
+    },
+    {
+      "id": "collectors",
+      "ko": "콜렉터",
+      "orig": "Collectors",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「콜렉터」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Collector → 콜렉터'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "오메가 4 릴레이 너머에 숨은 수수께끼의 종족",
+      "note": "곤충을 닮은 종족으로, 살아 있는 사람이나 특이한 생명체를 넘겨받는 대가로 앞선 기술을 건네며 거래해 왔다. 들어간 배가 돌아오지 못하는 릴레이 너머에 살아 정체를 아는 이가 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Collectors"
+      ]
+    },
+    {
+      "id": "leviathan",
+      "ko": "레비아탄",
+      "orig": "Leviathan",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「레비아탄(매스 이펙트 시리즈)」 문서 제목에서도 통용되는 표기. 팬 표기: 3편 추가 엔딩을 한글화한 팬 작업자의 통합카페 글(2012-09)과 같은 카페 글들이 '레비아탄'으로 씀. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "elder_race",
+        "mind_control"
+      ],
+      "one": "바닷속에 숨어 살아온 아주 오래된 종족",
+      "note": "리퍼보다 먼저 은하를 다스리던 종족으로, 다른 종족들의 마음을 부려 노예로 삼았다. 리퍼가 생겨난 일의 시작에 이들이 있었고, 지금은 한 행성의 깊은 바다에 숨어 지낸다.",
+      "spoiler": true,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/6545",
+        "https://masseffect.fandom.com/wiki/Leviathan"
+      ]
+    },
+    {
+      "id": "catalyst",
+      "ko": "카탈리스트",
+      "orig": "Catalyst",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「카탈리스트」 문서에서도 통용되는 표기. 팬 표기: 3편 추가 엔딩을 한글화한 팬 작업자의 통합카페 글(2012-09)이 '카탈리스트'로 씀. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "크루시블을 움직일 마지막 열쇠로 찾던 것",
+      "note": "크루시블을 완성할 마지막 조각으로 알려졌으나, 실제로는 시타델 자체이자 그 안에 깃든 인공지능이었다. 오래전 레비아탄이 만든 이 지성은 만든 이들을 거둬 첫 리퍼를 만들고 주기를 이어 왔다.",
+      "spoiler": true,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/6545",
+        "https://masseffect.fandom.com/wiki/Catalyst"
+      ]
+    },
+    {
+      "id": "crucible",
+      "ko": "크루시블",
+      "orig": "Crucible",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크루시블」 문서에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Crucible → 크루시블(고유명사로)'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "여러 시대에 걸쳐 설계가 이어진 거대 장치",
+      "note": "화성 연구소의 프로시안 기록에서 설계도가 나왔다. 앞선 시대의 종족들이 조금씩 고쳐 물려준 것으로, 은하의 종족들이 힘을 모아 리퍼에 맞설 마지막 수단으로 짓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Crucible"
+      ]
+    },
+    {
+      "id": "geth",
+      "ko": "게스",
+      "orig": "Geth",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「게스(매스 이펙트 시리즈)」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'geth → 게스'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "machine_race",
+        "ai_revolt",
+        "machine_rights"
+      ],
+      "one": "쿼리안이 만들었다가 등을 돌린 기계 종족",
+      "note": "일꾼으로 만든 프로그램들이 망으로 이어지며 스스로 생각하게 됐다. 겁을 먹은 쿼리안이 이들을 끄려 하자 맞서 싸워 쿼리안을 고향에서 몰아냈고, 그 뒤 수백 년 동안 성운 너머에 틀어박혀 지냈다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Geth"
+      ]
+    },
+    {
+      "id": "quarians",
+      "ko": "쿼리안",
+      "orig": "Quarians",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「쿼리언」 문서 본문과 「매스 이펙트 시리즈/종족」 목록에서도 통용되는 표기(본문은 대개 '쿼리안', 문서 제목만 '쿼리언'). 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Quarian → 쿼리안'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [
+        {
+          "ko": "쿼리언",
+          "src": "나무위키 「쿼리언」 문서 제목"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "고향을 잃고 함대로 떠도는 종족",
+      "note": "면역이 약해 평생 밀폐된 보호복을 입고 산다. 게스를 만든 책임으로 평의회의 눈 밖에 났고, 젊은이는 어른이 되기 전 함대를 떠나 쓸모 있는 것을 구해 오는 순례를 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Quarians"
+      ]
+    },
+    {
+      "id": "krogan",
+      "ko": "크로건",
+      "orig": "Krogan",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크로건」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Krogan → 크로건', 팬 번역: 팀 임시 안드로메다 한국어 패치 2022-05 판 화면 사진(팀 임시 카페 글 24)도 '크로건'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "uplift"
+      ],
+      "one": "샐래리언이 끌어올려 전쟁에 쓴 억센 종족",
+      "note": "핵전쟁으로 고향을 잿더미로 만든 뒤였던 크로건에게 샐래리언이 기술을 주고 우주로 데려가 라크나이와 싸우게 했다. 몸이 강하고 번식이 빨라 순식간에 퍼졌고, 그것이 다음 전쟁의 씨앗이 됐다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/teamimsi/24",
+        "https://masseffect.fandom.com/wiki/Krogan"
+      ]
+    },
+    {
+      "id": "genophage",
+      "ko": "제노페이지",
+      "orig": "Genophage",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크로건」 문서에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'genophage → 제노페이지'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "genetic_eng",
+        "infertility"
+      ],
+      "one": "크로건의 아이가 거의 태어나지 못하게 한 병",
+      "note": "크로건 반란을 끝내려 샐래리언이 만들고 튜리안이 퍼뜨린 유전자 병기다. 임신 천 번 가운데 한 번만 살아남게 해 크로건은 천천히 줄어드는 종족이 되었고, 옳았는가를 두고 지금도 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Genophage"
+      ]
+    },
+    {
+      "id": "thresher_maw",
+      "ko": "트레셔 모우",
+      "orig": "Thresher maw",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「크로건」·「투창카」 문서에서도 통용되는 표기(「매스 이펙트 시리즈/종족」 문서는 '트래셔 모우'). 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Thresher Maws → 트레셔 모우'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [
+        {
+          "ko": "트래셔 모우",
+          "src": "나무위키 「매스 이펙트 시리즈/종족」 문서"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "땅속에서 솟구치는 거대한 벌레",
+      "note": "땅 밑을 파고 다니다 솟아올라 사람과 차량을 삼키고 산을 뿜는다. 포자가 우주를 떠돌아 여러 행성에 퍼졌고, 크로건은 이것을 맨몸으로 잡는 일을 큰 영예로 친다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Thresher_Maw"
+      ]
+    },
+    {
+      "id": "rachni",
+      "ko": "라크나이",
+      "orig": "Rachni",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「라크나이」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'rachni → 라크나이'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "여왕의 노래로 하나가 되어 움직이는 벌레 종족",
+      "note": "여왕이 노래로 무리 전체를 이끄는 군체 종족이다. 약 2천 년 전 은하의 종족들과 큰 전쟁을 벌이다 크로건에게 밀려 사라진 것으로 알려졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Rachni"
+      ]
+    },
+    {
+      "id": "asari",
+      "ko": "아사리",
+      "orig": "Asari",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「아사리(매스 이펙트 시리즈)」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)과 팬 번역: 팀 임시 안드로메다 한국어 패치 2022-05 판 화면 사진(팀 임시 카페 글 24) 모두 '아사리'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "천 년을 사는 바이오틱 종족",
+      "note": "한 가지 성만 있고 모두가 바이오틱 능력을 타고난다. 다른 종족과 마음을 이어 아이를 가질 수 있으며, 은하에서 가장 오래되고 힘 있는 종족 가운데 하나로 평의회를 처음 세웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/teamimsi/24",
+        "https://masseffect.fandom.com/wiki/Asari"
+      ]
+    },
+    {
+      "id": "salarians",
+      "ko": "샐래리언",
+      "orig": "Salarians",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「샐래리언」 문서 제목에서도 통용되는 표기(다른 문서들에는 '샐러리안'도 많다). 팬 번역: 팀 임시 안드로메다 한국어 패치 2022-05 판 화면 사진(팀 임시 카페 글 24)에 '샐래리언'. 앞선 팬 표기는 '살라리안'(통합카페 3편 용어 목록, 2012)과 '샐러리안'(2편 패치에 맞춘 같은 카페 글, 2012)",
+      "alt_ko": [
+        {
+          "ko": "샐러리안",
+          "src": "나무위키 「크로건」·「매스 이펙트 시리즈/연표」 문서 등"
+        },
+        {
+          "ko": "살라리안",
+          "src": "매스이펙트 통합카페 「매스 이펙트 3 번역 주요 명사 정리」(2012-03) 팬 번역 용어 목록"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "빠르게 생각하고 짧게 사는 양서류 종족",
+      "note": "40년 남짓 사는 대신 머리가 빠르고 쉬지 않는다. 정보와 비밀 작전에 강해 특수 임무 부대를 두며, 크로건을 끌어올린 것도 제노페이지를 만든 것도 이들이다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/24",
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/4342",
+        "https://masseffect.fandom.com/wiki/Salarians"
+      ]
+    },
+    {
+      "id": "turians",
+      "ko": "튜리안",
+      "orig": "Turians",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "소설 『매스 이펙트: 서막』(드류 카피쉰 지음·정호운 옮김, 제우미디어 2014) 알라딘 출판사 미리보기 26쪽",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "규율과 군대를 중히 여기는 평의회 종족",
+      "note": "누구나 군에 복무하는 엄격한 위계 사회를 이룬다. 크로건 반란을 끝낸 공으로 평의회에 자리를 얻었고, 은하의 치안을 떠맡는 가장 큰 함대를 거느린다. 인류와는 조우 전쟁으로 처음 만났다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=40007961",
+        "https://image.aladin.co.kr/product/4000/79/letslook/8959523119_t23.jpg",
+        "https://masseffect.fandom.com/wiki/Turians"
+      ]
+    },
+    {
+      "id": "batarians",
+      "ko": "바타리안",
+      "orig": "Batarians",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「바타리안」 문서 제목에서 통용되는 표기(「매스 이펙트 시리즈/종족」·「행성계 연합」 문서도 같음). 통합카페 3편 용어 목록(2012)도 '바타리안'",
+      "alt_ko": [
+        {
+          "ko": "배타리언",
+          "src": "팀 임시 안드로메다 한국어 패치 2022-05 판 화면 사진(팀 임시 카페 글 24)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "눈이 넷인, 인류와 앙숙인 종족",
+      "note": "엄격한 신분제와 노예제를 지키는 종족이다. 스킬리안 버지를 두고 인류와 다툰 끝에 평의회에서 대사를 거두고 스스로 고립되었으며, 해적과 노예 사냥으로 인류 개척지를 괴롭힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/24",
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Batarians"
+      ]
+    },
+    {
+      "id": "hanar",
+      "ko": "해나",
+      "orig": "Hanar",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「해나(매스 이펙트)」 문서 제목에서도 통용되는 표기. 팬 번역: 매스이펙트 통합카페의 3편 한글화 용어 목록 「매스 이펙트 3 번역 주요 명사 정리」(2012-03, 1·2편 한글 패치 표기를 참고해 모음)에 'Hanar → 해나'. 2편 패치에 맞춘 같은 카페 글(2012-03)은 '헤나'. 패치 문자열 자체는 직접 보지 못함",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "프로시안을 신처럼 받드는 해파리 닮은 종족",
+      "note": "물에서 나온 해파리 모양 종족으로, 몸의 빛으로 말한다. 먼 옛날 프로시안이 자신들에게 말을 가르쳐 문명의 불을 붙였다고 믿어 이들을 섬기며, 그 믿음을 다른 종족에게도 퍼뜨린다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://cafe.naver.com/masseffect2hangul/4342",
+        "https://masseffect.fandom.com/wiki/Hanar"
+      ]
+    },
+    {
+      "id": "andromeda_initiative",
+      "ko": "안드로메다 이니셔티브",
+      "orig": "Andromeda Initiative",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 안드로메다/등장인물」·「매스 이펙트 안드로메다/주요 행성」 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "colonization"
+      ],
+      "one": "안드로메다 은하로 이주하려는 여러 종족의 계획",
+      "note": "인류·샐래리언·튜리안·아사리가 함께 꾸린 민간 계획으로, 종족마다 이주선 한 척과 중심 정거장 넥서스를 600년 걸리는 길에 보냈다. 도착한 곳은 미리 본 모습과 달라 처음부터 살길을 찾아야 했다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Andromeda_Initiative"
+      ]
+    },
+    {
+      "id": "ark",
+      "ko": "아크",
+      "orig": "Ark",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「리퍼(매스 이펙트 시리즈)」('안드로메다 이니셔티브 아크')·「매스 이펙트 안드로메다/주요 행성」('아사리 아크') 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ark",
+        "cryosleep"
+      ],
+      "one": "종족마다 한 척씩, 2만 명을 재워 실은 이주선",
+      "note": "이주민 2만 명을 얼려 재운 채 600년을 날아 안드로메다에 닿도록 지었다. 배마다 새 터전을 찾을 패스파인더가 타고, 깨어난 이들이 새 은하의 첫 정착민이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Ark_Hyperion",
+        "https://masseffect.fandom.com/wiki/Andromeda_Initiative"
+      ]
+    },
+    {
+      "id": "nexus",
+      "ko": "넥서스",
+      "orig": "Nexus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 안드로메다/등장인물」·「매스 이펙트: 안드로메다」 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "안드로메다 이니셔티브의 중심 정거장",
+      "note": "이주선들보다 먼저 도착해 이주민을 받아들이고 계획 전체를 다스리는 수도 노릇을 하도록 지었다. 도착 무렵의 큰 사고로 반쯤 지어진 채 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Nexus"
+      ]
+    },
+    {
+      "id": "pathfinder",
+      "ko": "패스파인더",
+      "orig": "Pathfinder",
+      "ko_status": "공식",
+      "ko_src": "국내 유통사 게임피아의 『매스 이펙트: 안드로메다』 정식 발매 발표를 전한 인벤 기사(2017-03-21, inven.co.kr/webzine/news/?news=174678)의 '패스파인더(Pathfinder)'. 발표문 원문은 보지 못하고 그것을 옮겨 실은 기사로 봄. 나무위키 「매스 이펙트: 안드로메다」 문서도 같은 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "새 터전을 찾아 앞장서는 이주선의 길잡이",
+      "note": "이주선마다 한 명씩 둔 탐사 대장으로, 살 만한 행성을 찾아 정착을 이끈다. 인류의 패스파인더는 인공지능 샘과 몸속 장치로 이어져 남다른 판단과 힘을 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.playstation.com/ko-kr/product/UP0006-CUSA02684_00-MASSEFFECT400000",
+        "https://masseffect.fandom.com/wiki/Pathfinder"
+      ],
+      "ko_check": "2차 자료"
+    },
+    {
+      "id": "sam",
+      "ko": "SAM",
+      "orig": "SAM (Simulated Adaptive Matrix)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「켓」·「매스 이펙트 안드로메다/등장인물」·「매스 이펙트 안드로메다/주요 행성」 문서가 원어 줄임말 그대로 'SAM'이라 적는다. 한글로 옮긴 국내 표기는 찾지 못함",
+      "alt_ko": [
+        {
+          "ko": "샘",
+          "src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(앞선 우리 표기)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai",
+        "neural_link"
+      ],
+      "one": "패스파인더의 몸과 이어진 인공지능",
+      "note": "인류 패스파인더의 몸에 심은 장치로 이어져 생각을 나누고 몸의 상태까지 조절해 싸움을 돕는다. 우리 은하에서 금지된 인공지능을 몰래 만든 것이라 숨겨진 사정이 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/SAM"
+      ]
+    },
+    {
+      "id": "heleus_cluster",
+      "ko": "헬리우스 클러스터",
+      "orig": "Heleus Cluster",
+      "ko_status": "공식",
+      "ko_src": "국내 유통사 게임피아의 『매스 이펙트: 안드로메다』 정식 발매 발표를 전한 인벤 기사(2017-03-21, inven.co.kr/webzine/news/?news=174678)의 '헬리우스 클러스터'. 발표문 원문은 보지 못하고 그것을 옮겨 실은 기사로 봄. 나무위키는 '헬리우스 성단'(「켓」·「렘넨트」·「앙가라(매스 이펙트 시리즈)」 문서)과 '헬레우스 성단'(「매스 이펙트: 안드로메다」 문서)을 섞어 쓴다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "안드로메다 이니셔티브가 향한 안드로메다의 성단",
+      "note": "떠나기 전 망원경으로 살기 좋은 행성들을 점찍어 두고 찾아간 곳이다. 막상 도착하니 행성들은 살기 힘든 곳으로 바뀌어 있었고, 낯선 종족들과 옛 유적이 기다리고 있었다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/masseffect2hangul/3441",
+        "https://masseffect.fandom.com/wiki/Heleus_Cluster"
+      ],
+      "ko_check": "2차 자료"
+    },
+    {
+      "id": "scourge",
+      "ko": "스커지",
+      "orig": "Scourge",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「앙가라(매스 이펙트 시리즈)」·「렘넨트」·「매스 이펙트 안드로메다/주요 행성」 문서에서 통용되는 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "헬리우스 클러스터를 휘감은 암흑 에너지 덩굴",
+      "note": "성단 곳곳에 뻗은 거대한 에너지 덩굴로, 닿는 배를 찢어 놓아 성단 전체를 위험한 곳으로 만들었다. 어디서 왔는지는 수수께끼이며, 이주민들은 이 재앙 뒤의 성단에서 살길을 찾아야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Scourge"
+      ]
+    },
+    {
+      "id": "remnant",
+      "ko": "렘넌트",
+      "orig": "Remnant",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「렘넨트」 문서 본문('Remnant 렘넌트')과 「켓」·「앙가라(매스 이펙트 시리즈)」 문서에서 통용되는 표기. 문서 제목만 '렘넨트'",
+      "alt_ko": [
+        {
+          "ko": "렘넨트",
+          "src": "나무위키 「렘넨트」 문서 제목"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "사라진 종족이 남긴 기계와 유적",
+      "note": "헬리우스 클러스터 곳곳에 남은 옛 구조물과 지금도 움직이는 기계 병사들을 부르는 이름이다. 만든 종족은 보이지 않고, 그 기술이 행성의 환경을 다스리는 열쇠라 모두가 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Remnant"
+      ]
+    },
+    {
+      "id": "remnant_vault",
+      "ko": "렘넌트 볼트",
+      "orig": "Remnant vault",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「렘넨트」 문서는 '렘넌트'와 '볼트'를 따로 쓸 뿐 이 이름을 한데 쓴 대목은 없다 — '렘넌트'(같은 문서 본문)에 원어 'vault'를 소리 나는 대로 붙임",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "행성의 기후를 바로잡는 렘넌트의 거대 시설",
+      "note": "행성 깊숙이 묻힌 시설로, 깨워 내면 대기와 기후를 고쳐 사람이 살 수 있는 땅으로 바꿔 놓는다. 패스파인더는 이것을 하나씩 살려 정착지를 넓힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Remnant_Vault"
+      ]
+    },
+    {
+      "id": "kett",
+      "ko": "켓",
+      "orig": "Kett",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「켓」 문서 제목('켓(Kett)')에서 통용되는 표기(「앙가라(매스 이펙트 시리즈)」·「매스 이펙트 시리즈/종족」 문서도 같음)",
+      "alt_ko": [
+        {
+          "ko": "케트",
+          "src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(앞선 우리 표기)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng",
+        "assimilation"
+      ],
+      "one": "다른 종족을 제 종족으로 바꾸는 침략자",
+      "note": "뼈 갑옷을 두른 듯한 종족으로, 붙잡은 생명의 유전자를 고쳐 켓으로 바꾸는 일을 거룩한 선물로 여긴다. 앙가라를 오랫동안 괴롭혀 왔고 새로 온 이주민도 그 대상으로 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://masseffect.fandom.com/wiki/Kett"
+      ]
+    },
+    {
+      "id": "angara",
+      "ko": "앙가라",
+      "orig": "Angara",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「앙가라(매스 이펙트 시리즈)」 문서 제목에서도 통용되는 표기. 팬 번역: 팀 임시 안드로메다 한국어 패치 2022-05 판 화면 사진(팀 임시 카페 글 24)에 '앙가라'",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "헬리우스 클러스터의 토착 종족",
+      "note": "감정을 숨기지 않고 드러내는 종족으로, 몸에 전기를 품는다. 오랫동안 켓에 맞서 싸워 왔고, 바깥에서 온 이주민을 경계하면서도 손을 잡게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://cafe.naver.com/teamimsi/24",
+        "https://masseffect.fandom.com/wiki/Angara"
+      ]
+    }
+  ]
+}

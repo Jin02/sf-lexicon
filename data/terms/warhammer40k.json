@@ -1,0 +1,1925 @@
+{
+  "terms": [
+    {
+      "id": "imperium_of_man",
+      "ko": "인류 제국",
+      "orig": "Imperium of Man (the Imperium)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Warhammer 40,000: Dawn of War IV』 Steam 한국어 소식 ‘아뎁투스 메카니쿠스를 소개합니다’(2026-05-07) ‘인류 제국의 전쟁 기계 제작을 담당하는’ · 『Inquisitor - Martyr』 DLC ‘Maelstrom of Carnage’ 한국어 상점 소개 ‘인류 제국을 위하여’",
+      "alt_ko": [
+        {
+          "ko": "인류제국",
+          "src": "『Dawn of War - Anniversary Edition』 Steam 한국어 상점 소개 ‘인류제국을 지키기 위한 장대한 투쟁’"
+        },
+        {
+          "ko": "임페리움",
+          "src": "『Battlesector』 DLC ‘Black Legion’(2026-02)·『Rogue Trader』 DLC ‘Lex Imperialis’(2025-06) Steam 한국어 상점 소개 ‘임페리움에 충성했으나’, ‘임페리움 전역’"
+        },
+        {
+          "ko": "제국",
+          "src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘제국 요원’ — 줄인 이름. 여러 게임 상점 소개도 ‘제국’이라고만 부른다"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire",
+        "control_society"
+      ],
+      "one": "황제의 이름으로 수많은 행성을 묶어 다스리는 인류의 나라",
+      "note": "백만이 넘는 행성을 거느린 거대한 나라로, 만 년 동안 거의 바뀌지 않은 낡은 관료 조직과 신앙으로 굴러간다. 백성의 생각과 믿음을 늘 감시해 어긋나는 자를 가차 없이 지우고, 밖으로는 외계 종족과 끝없는 전쟁을 치른다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715",
+        "https://store.steampowered.com/app/4570/?l=koreana",
+        "https://store.steampowered.com/app/3577620/?l=koreana",
+        "https://store.steampowered.com/app/3622820/?l=koreana",
+        "https://namu.wiki/w/%EC%9D%B8%EB%A5%98%EC%A0%9C%EA%B5%AD"
+      ]
+    },
+    {
+      "id": "emperor_of_mankind",
+      "ko": "황제",
+      "orig": "the Emperor of Mankind (God-Emperor)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Boltgun 2』(앱 3115160, 2026-10) ‘황제 폐하의 무기’, 『Dawn of War - Definitive Edition』(앱 3556750, 2025-08) ‘황제를 위하여!’, 『Space Marine 2』(앱 2183900) ‘황제의 진정한 아들’",
+      "alt_ko": [
+        {
+          "ko": "신-황제",
+          "src": "『Inquisitor - Martyr』 Steam 한국어 상점 소개(2018) ‘신-황제께서 인도하시는 빛’"
+        },
+        {
+          "ko": "신왕",
+          "src": "『Rogue Trader』 Steam 한국어 상점 소개 ‘신왕에게 충성을 바치거나’ — 게임 자체는 한국어를 지원하지 않는다"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "황금 옥좌 위에서 만 년째 죽지 않고 제국을 지키는 인류의 군주",
+      "note": "인류를 다시 하나로 묶은 엄청난 정신 능력자로, 지금은 몸이 죽어 가는 채로 옥좌에 매여 있다. 살아서는 신이기를 거부했으나 제국은 그를 신으로 섬기며, 그 정신이 여전히 항로를 밝히고 악마를 막는다고 믿는다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3115160/achievements?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana",
+        "https://store.steampowered.com/app/527430/?l=koreana",
+        "https://store.steampowered.com/app/2186680/?l=koreana",
+        "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ]
+    },
+    {
+      "id": "golden_throne",
+      "ko": "골든 스론",
+      "orig": "Golden Throne",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "죽어 가는 황제의 몸을 붙들어 두는 거대한 옥좌 장치",
+      "note": "본래 다른 목적으로 만들던 장치였으나, 큰 내전에서 치명상을 입은 황제를 살려 두는 생명 유지 기계가 되었다. 황제의 정신력을 키워 항로의 등대를 밝히고, 그 대가로 날마다 수많은 정신 능력자의 목숨을 먹는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ]
+    },
+    {
+      "id": "astronomican",
+      "ko": "아스트로노미칸",
+      "orig": "Astronomican",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "navigator"
+      ],
+      "one": "테라에서 은하로 쏘아 보내는 정신의 등대",
+      "note": "황제와 그를 돕는 정신 능력자 무리가 워프 속에 띄우는 빛이다. 길잡이들은 이 빛을 보며 배를 몰고, 빛이 닿지 않는 먼 곳은 항해가 훨씬 위험해진다. 제국의 영역이 사실상 이 빛이 닿는 데까지다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%EB%85%B8%EB%AF%B8%EC%B9%B8"
+      ]
+    },
+    {
+      "id": "navigator",
+      "ko": "내비게이터",
+      "orig": "Navigator (Navis Nobilite)",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "navigator",
+        "guild_monopoly"
+      ],
+      "one": "이마의 셋째 눈으로 워프 속 길을 보는 돌연변이 혈통",
+      "note": "워프를 직접 보는 눈을 타고난 인간 혈통으로, 이들 없이는 먼 거리를 안전하게 건널 수 없다. 혈통을 지키는 가문들은 이 능력을 독점해 막대한 부와 특권을 누리고, 제국 안에서도 함부로 건드리지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%ED%84%B0(Warhammer%2040%2C000)"
+      ]
+    },
+    {
+      "id": "astropath",
+      "ko": "아스트로패스",
+      "orig": "Astropath",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "psychic_comm"
+      ],
+      "one": "정신으로 별 사이에 소식을 보내는 통신 담당 능력자",
+      "note": "황제와 영혼을 잇는 의식을 치른 정신 능력자로, 그 대가로 대개 눈이 먼다. 워프를 거쳐 먼 곳에 생각을 보내지만, 받는 쪽이 뜻을 풀어야 하는 상징 같은 형태로 닿아 오해와 지연이 잦다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%8C%A8%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "psyker",
+      "ko": "사이커",
+      "orig": "Psyker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 Steam 한국어 소식 ‘클래스 집중탐구 - 사이커’(2022-11) · 『Rogue Trader』 한국어 상점 소개 ‘뒤틀린 사이커’ · 『Battlesector』 DLC ‘Astra Militarum’(2024-12) ‘프라이머리스 사이커’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "워프의 힘을 끌어 쓰는 정신 능력자",
+      "note": "인간 가운데 드물게 태어나며, 워프에서 힘을 끌어와 불을 일으키거나 마음을 읽는다. 힘을 다루지 못하면 몸이 터지거나 악마의 통로가 되기 때문에, 제국은 이들을 찾아내 거두고 훈련하거나 바치고, 숨은 자는 사냥한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/1361210/view/5349741308800854161",
+        "https://store.steampowered.com/app/2186680/?l=koreana",
+        "https://store.steampowered.com/app/527430/?l=koreana",
+        "https://store.steampowered.com/app/3202720/?l=koreana"
+      ]
+    },
+    {
+      "id": "inquisition",
+      "ko": "이단심문소",
+      "orig": "Inquisition",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Inquisitor - Martyr』 Steam 한국어 상점 소개(2018) ‘과거 이단심문소에서 벌어졌던’ · 『Darktide』 Steam 한국어 소식 ‘개발자 블로그: 레벨 디자인’(2022-12) ‘이단심문소와 병사의 관점’. 요원은 ‘이단심문관’(『Darktide』 상점, 『Chaos Gate - Daemonhunters』 도전 과제)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "이단과 외계와 악마를 쫓는, 무한한 권한의 비밀 기관",
+      "note": "제국의 어떤 기관에도 매이지 않고, 소속 요원인 이단심문관 한 사람이 행성 하나의 운명을 정할 수 있다. 악마·이단·외계를 맡는 갈래로 나뉘며, 필요하면 행성 전체를 지우는 명령까지 내린다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/527430/?l=koreana",
+        "https://store.steampowered.com/news/app/1361210/view/6608500565553422293",
+        "https://store.steampowered.com/app/1361210/?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "exterminatus",
+      "ko": "엑스테르미나투스",
+      "orig": "Exterminatus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Boltgun 2』(앱 3115160, 2026-10) ‘엑스테르미나투스 난이도로 캠페인을 완료하라’",
+      "alt_ko": [
+        {
+          "ko": "익스터미나투스",
+          "src": "Steam 도전 과제 한국어 화면 『Boltgun』(앱 2005010, 2023) 난이도 이름, 『Chaos Gate - Daemonhunters』(앱 1611910, 2022) ‘한 캠페인에서 익스터미나투스 5번 사용하기’"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "행성 하나의 모든 생명을 없애는 최후의 처분",
+      "note": "구제할 수 없을 만큼 오염되었다고 판정된 행성에 내리는 명령으로, 바이러스 폭탄이나 지각을 깨는 어뢰로 생명을 남김없이 지운다. 이단심문관 같은 높은 권한이 있어야 내릴 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3115160/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2005010/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%9D%B5%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%82%98%ED%88%AC%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "ecclesiarchy",
+      "ko": "제국 국교회",
+      "orig": "Ecclesiarchy (Adeptus Ministorum)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Inquisitor - Martyr』 DLC ‘Desperate Crusade’(2019) Steam 한국어 상점 소개 ‘제국 국교회 유물을 수송하던 제국 함선’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "황제를 신으로 받드는 제국의 국가 교회",
+      "note": "황제 숭배를 온 제국에 퍼뜨리고 지키는 거대한 교단으로, 행성마다 성당과 사제를 둔다. 한때 너무 큰 권력을 쥐어 내란을 일으킨 뒤로 남자 군대를 두지 못하게 되었고, 대신 무장한 수녀회를 거느린다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1028894/?l=koreana"
+      ]
+    },
+    {
+      "id": "adepta_sororitas",
+      "ko": "아뎁타 소로리타스",
+      "orig": "Adepta Sororitas (Sisters of Battle)",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘게임즈 워크숍/한국어 번역 문제’ 문서의 진영 목록이 전함. 게임즈 워크숍 한국어 소식 글에서 ‘아뎁투스’ 표기는 직접 확인했다",
+      "alt_ko": [
+        {
+          "ko": "어뎁타 소로리타스",
+          "src": "『Battlesector』 DLC ‘Sisters of Battle’(2022-12) Steam 한국어 상점 소개"
+        },
+        {
+          "ko": "시스터스 오브 배틀",
+          "src": "다른 이름 ‘Sisters of Battle’ — Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘시스터스 오브 배틀로 모의 매치에서 승리’. 『Battlesector』 DLC 소개는 ‘시스터즈 오브 배틀’"
+        },
+        {
+          "ko": "시스터 오브 배틀",
+          "src": "한 사람을 가리킬 때 — 『Boltgun 2』(2026-10) Steam 한국어 상점 소개 ‘시스터 오브 배틀 니라 베이라스’"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국 국교회에 딸린 무장 수녀회",
+      "note": "어려서부터 신앙과 전투를 함께 익힌 여성 전사들로, 불꽃 무기와 강화 갑옷을 쓴다. 믿음 자체가 기적 같은 힘이 된다고 그려지며, 이단과 돌연변이를 불태우는 데 앞장선다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9B%8C%ED%81%AC%EC%88%8D/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EB%AC%B8%EC%A0%9C",
+        "https://store.steampowered.com/app/2011980/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://steamcommunity.com/stats/3115160/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "astra_militarum",
+      "ko": "아스트라 밀리타룸",
+      "orig": "Astra Militarum (Imperial Guard)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Battlesector』 DLC ‘Astra Militarum’(2024-12) Steam 한국어 상점 소개 ‘제국이 지닌 힘의 근간인 아스트라 밀리타룸’ · 『토탈워: 워해머 40,000』 한국어 상점 소개",
+      "alt_ko": [
+        {
+          "ko": "임페리얼 가드",
+          "src": "옛 이름 ‘Imperial Guard’ — Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘임페리얼 가드로 모의 매치에서 승리’"
+        },
+        {
+          "ko": "아스트라 밀리타리움",
+          "src": "『Shootas, Blood & Teef』(2022) 도전 과제 한국어 설명 한 곳(같은 게임 다른 곳은 ‘아스트라 밀리타룸’)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "평범한 인간 병사 수십억으로 이뤄진 제국의 군대",
+      "note": "행성마다 바치는 병력으로 꾸려지는 제국의 주력 군대로, 강화되지 않은 사람들이 전차와 대포를 앞세워 수로 밀어붙인다. 병사의 목숨은 값싸게 여겨지고, 겁을 먹는 자는 정치 장교가 그 자리에서 처형한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3202720/?l=koreana",
+        "https://store.steampowered.com/app/4199910/?l=koreana",
+        "https://steamcommunity.com/stats/1324530/achievements?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EB%B0%80%EB%A6%AC%ED%83%80%EB%A3%B8"
+      ]
+    },
+    {
+      "id": "commissar",
+      "ko": "커미사르",
+      "orig": "Commissar (Officio Prefectus)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Battlesector』 DLC ‘Astra Militarum’(2024-12) Steam 한국어 상점 소개 ‘규율과 충성을 강조하는 커미사르’ · Steam 도전 과제 한국어 화면 『Shootas, Blood & Teef』 ‘커미사르 1명을 처치’ · 『Darktide』 한국어 소식(2022)",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "병사의 사기와 충성을 감시하는 정치 장교",
+      "note": "군대의 규율과 충성을 지키는 장교로, 부대장보다 높은 권한을 지니기도 한다. 겁을 먹거나 명령을 어기는 자를 그 자리에서 처형할 수 있어, 병사에게 적만큼이나 두려운 존재다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3202720/?l=koreana",
+        "https://steamcommunity.com/stats/1324530/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/1361210/view/3410940946603365012",
+        "https://namu.wiki/w/%EC%BB%A4%EB%AF%B8%EC%82%AC%EB%A5%B4"
+      ]
+    },
+    {
+      "id": "officio_assassinorum",
+      "ko": "오피시오 아사시노룸",
+      "orig": "Officio Assassinorum",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Chaos Gate - Daemonhunters』 DLC ‘Execution Force’(2023-07) Steam 한국어 상점 소개 ‘엘리트 세력인 오피시오 아사시노룸’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국의 적을 몰래 없애는 암살자 기관",
+      "note": "저격, 변신, 광전사, 정신 능력 무효화 등 저마다 다른 기술을 기르는 여러 사원으로 나뉜다. 한 사람을 없애 전쟁의 판을 바꿔야 할 때 보내며, 제국의 높은 기관이 함께 허락해야 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2421890/?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "rogue_trader",
+      "ko": "로그 트레이더",
+      "orig": "Rogue Trader (Warrant of Trade)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Rogue Trader』 Steam 한국어 상점 소개 ‘로그 트레이더는 늘 크루원들과 함께’ — 게임 자체는 한국어를 지원하지 않고 상점 소개만 한국어다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "제국 바깥을 탐험하고 거래할 특허를 쥔 귀족 상인",
+      "note": "황제의 이름으로 내린 무역 특허장을 대대로 물려받는 가문의 우두머리로, 제국의 법이 닿지 않는 변경에서 함대를 이끌고 탐험·정복·교역을 한다. 특허장이 있는 한 행성의 지배자에 맞먹는 권한을 지닌다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2186680/?l=koreana"
+      ]
+    },
+    {
+      "id": "imperial_tithe",
+      "ko": "십일조",
+      "orig": "Imperial Tithe",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025-08) ‘십일조 인상’(경제적 승리)",
+      "alt_ko": [
+        {
+          "ko": "임페리얼 십일조",
+          "src": "『Rogue Trader』 DLC ‘Lex Imperialis’(2025-06) Steam 한국어 상점 소개 ‘단호한 임페리얼 십일조 징수의 책무’"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "feudal_space"
+      ],
+      "one": "행성마다 제국에 바치는 병력·물자·정신 능력자",
+      "note": "행성의 통치자는 바칠 몫만 제때 내면 자기 땅을 거의 마음대로 다스린다. 몫은 행성의 쓰임새에 따라 곡식·병사·무기·정신 능력자 등으로 매겨지고, 내지 못하면 가혹한 벌이 따른다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/3622820/?l=koreana"
+      ]
+    },
+    {
+      "id": "terra",
+      "ko": "테라",
+      "orig": "Terra (Holy Terra)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 Steam 한국어 소식 ‘Short story: The Psyker’(2022-11) ‘테라의 그분을 섬기는 데’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "인류의 고향이자 제국의 수도인 지구",
+      "note": "황제가 앉은 옥좌와 거대한 황궁이 있는 곳으로, 제국에서 가장 성스러운 행성으로 받들어진다. 제국의 높은 관료들이 모여 은하 곳곳의 일을 정하지만, 소식이 닿는 데만 몇 해가 걸리기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/1361210/view/3410940946603365012"
+      ]
+    },
+    {
+      "id": "hive_city",
+      "ko": "하이브 시티",
+      "orig": "Hive city (hive world)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Boltgun 2』(2026-10) Steam 한국어 상점 소개 ‘하이브 시티의 아찔하게 높은 고층 건물’ · 『Darktide』 한국어 상점 소개 ‘무너지기 일보 직전의 하이브 시티’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "class_divide"
+      ],
+      "one": "수십억이 사는, 몇 킬로미터 높이로 솟은 거대 도시 건물",
+      "note": "하늘 높이 솟은 꼭대기에는 귀족이, 오염된 밑바닥에는 갱단과 버려진 사람들이 산다. 이런 도시 몇 개가 행성을 덮은 곳을 하이브 행성이라 하며, 제국의 병력과 노동력을 대는 곳이다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3115160/?l=koreana",
+        "https://store.steampowered.com/app/1361210/?l=koreana",
+        "https://store.steampowered.com/app/1324530/?l=koreana",
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%96%89%EC%84%B1"
+      ]
+    },
+    {
+      "id": "space_marines",
+      "ko": "스페이스 마린",
+      "orig": "Space Marines (Adeptus Astartes)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘코덱스: 스페이스 마린 출시를 앞두고’ · 『토탈워: 워해머 40,000』·『Space Marine 2』 한국어 상점 소개",
+      "alt_ko": [
+        {
+          "ko": "아스타르테스",
+          "src": "같은 게임즈 워크숍 한국어 글 ‘모든 유형의 아스타르테스에게’ — 정식 이름 Adeptus Astartes 의 줄인 꼴"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "몸을 고쳐 만든 제국 최강의 초인 전사",
+      "note": "어린 지원자에게 수많은 인공 장기를 심고 혹독하게 길러 만든 전사로, 보통 사람보다 훨씬 큰 몸과 수백 년의 수명을 지닌다. 천 명 남짓한 단위로 나뉘어 행성과 행성 사이를 오가며 가장 위험한 싸움을 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://store.steampowered.com/app/4199910/?l=koreana",
+        "https://store.steampowered.com/app/2183900/?l=koreana",
+        "https://namu.wiki/w/%EC%95%84%EB%8E%B9%ED%88%AC%EC%8A%A4%20%EC%95%84%EC%8A%A4%ED%83%80%EB%A5%B4%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "adeptus_custodes",
+      "ko": "아뎁투스 쿠스토데스",
+      "orig": "Adeptus Custodes",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘아뎁투스 쿠스토데스의 볼트 무기군’ · 같은 사이트 한국어 첫 화면 ‘1만 년에 걸친 쿠스토데스의 전투’, ‘만인대의 힘’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "황제의 곁을 지키는 황금 갑옷의 근위 전사",
+      "note": "스페이스 마린보다 더 공들여 한 사람씩 만들어진 초인으로, 황제와 황궁을 지키는 일을 맡는다. 수는 만 명 남짓으로 적지만 하나하나가 작은 군대에 맞먹는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://www.warhammer-community.com/ko-kr/",
+        "https://namu.wiki/w/%EC%95%84%EB%8E%B9%ED%88%AC%EC%8A%A4%20%EC%BF%A0%EC%8A%A4%ED%86%A0%EB%8D%B0%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "primarch",
+      "ko": "프라이마크",
+      "orig": "Primarch",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "황제가 자기 유전자로 빚은 스무 명의 반신 장군",
+      "note": "황제가 은하 정복을 이끌게 하려고 만든 초인들로, 아기 때 은하 곳곳으로 흩어졌다가 다시 찾아져 각자 스페이스 마린 군단을 이끌었다. 그 절반이 반란에 가담하면서 제국이 둘로 갈렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%A7%88%ED%81%AC"
+      ]
+    },
+    {
+      "id": "gene_seed",
+      "ko": "진시드",
+      "orig": "Gene-seed",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "스페이스 마린을 만드는 데 쓰는 유전 장기의 씨",
+      "note": "프라이마크의 유전자에서 길러 낸 장기로, 지원자의 몸에 심어 초인의 기관을 자라게 한다. 전사가 죽으면 몸에서 거둬 다음 세대를 만드는 데 쓰므로, 잃어버리면 한 무리 전체가 대를 잇지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A7%84%EC%8B%9C%EB%93%9C"
+      ]
+    },
+    {
+      "id": "primaris",
+      "ko": "프라이머리스",
+      "orig": "Primaris Space Marine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Space Marine 2』(앱 2183900) ‘프라이머리스가 되어 일어나십시오’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "super_soldier"
+      ],
+      "one": "장기를 더 심어 한층 강하게 만든 새 세대 스페이스 마린",
+      "note": "만 년 동안 몰래 연구한 끝에 내놓은 개량형으로, 기존 전사보다 크고 강하며 새 장기를 더 지닌다. 은하가 크게 갈라진 뒤의 위기에 맞춰 대거 투입되어 지금의 주력이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana",
+        "https://namu.wiki/w/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%A8%B8%EB%A6%AC%EC%8A%A4%20%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EB%A7%88%EB%A6%B0"
+      ]
+    },
+    {
+      "id": "chapter",
+      "ko": "챕터",
+      "orig": "Chapter (Space Marine Chapter)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘챕터 마스터’, ‘챕터 행성’ · 『Space Marine 2』 DLC 한국어 상점 소개 ‘후계 챕터’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "천 명 남짓으로 꾸린 스페이스 마린의 독립 부대",
+      "note": "큰 내전 뒤 거대한 군단을 다시는 한 사람이 쥐지 못하게 잘게 나눈 단위다. 저마다 고향 행성과 전통·색을 지니고 스스로 병력을 길러, 제국 안에서도 거의 독립된 세력처럼 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/3274400/?l=koreana"
+      ]
+    },
+    {
+      "id": "power_armour",
+      "ko": "파워 아머",
+      "orig": "Power armour",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Space Marine 2』 DLC ‘Black Templars Champion Pack’(2025-09) Steam 한국어 상점 소개 ‘전신 파워 아머 스킨’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "스페이스 마린이 입는 동력 갑옷",
+      "note": "두꺼운 세라마이트 판과 인공 근육으로 된 갑옷으로, 입은 사람의 힘을 키우고 공기와 체온까지 지켜 준다. 전사의 몸에 심은 장치와 이어져 제 몸처럼 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3871330/?l=koreana",
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/"
+      ]
+    },
+    {
+      "id": "terminator_armour",
+      "ko": "터미네이터 아머",
+      "orig": "Terminator armour (Tactical Dreadnought Armour)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘택티쿠스 아머와 터미네이터 아머를 착용한 유닛’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "power_armor"
+      ],
+      "one": "파워 아머보다 훨씬 두꺼운 최정예용 중갑옷",
+      "note": "작은 전차에 버금가는 방호력을 지닌 갑옷으로, 베테랑만 입을 수 있다. 좁은 함선 안 백병전이나 순간 이동으로 적진 한가운데 내려앉는 싸움에 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "bolter",
+      "ko": "볼트건",
+      "orig": "Bolter (boltgun)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘주력 무장인 여러 볼트건, 체인소드’ · 『Boltgun』 Steam 한국어 상점 소개",
+      "alt_ko": [
+        {
+          "ko": "볼터",
+          "src": "『Boltgun』 DLC ‘Forges of Corruption’(2024) Steam 한국어 상점 소개 ‘믿을 수 있는 볼터’ — 다른 영어 이름 bolter"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "작은 로켓 폭탄을 쏘는 스페이스 마린의 주무기",
+      "note": "총알 대신 스스로 날아가 몸속에서 터지는 탄을 쏘는 큰 소총이다. 사람이 들기엔 무거워 주로 초인 전사가 쓰며, 제국 전사의 상징처럼 여겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://store.steampowered.com/app/2005010/?l=koreana",
+        "https://store.steampowered.com/app/2668290/?l=koreana"
+      ]
+    },
+    {
+      "id": "chainsword",
+      "ko": "체인소드",
+      "orig": "Chainsword",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Boltgun 2』(2026-10) Steam 한국어 상점 소개 ‘치명적인 체인소드로 적들을 갈아버리거나’ · 게임즈 워크숍 한국어 글(2026-09-30)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "blade_return"
+      ],
+      "one": "톱날이 돌아가는 칼",
+      "note": "칼날을 따라 톱니가 돌며 갑옷과 살을 갈아 버리는 근접 무기다. 총이 발달한 시대에도 칼과 도끼를 들고 맞붙는 싸움이 흔한 이 세계를 대표하는 무기다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3115160/?l=koreana",
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://store.steampowered.com/app/1361210/?l=koreana"
+      ]
+    },
+    {
+      "id": "lasgun",
+      "ko": "라스건",
+      "orig": "Lasgun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 Steam 한국어 상점 소개(2022) ‘라스건으로 적들의 살점을 태워버리세요’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "제국 병사가 드는 값싸고 튼튼한 광선 소총",
+      "note": "빛을 모아 쏘는 소총으로, 위력은 약하지만 고장이 적고 전지만 있으면 오래 쓸 수 있다. 수십억 병사에게 똑같이 쥐어 주는, 평범한 인간 군대의 상징이다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1361210/?l=koreana"
+      ]
+    },
+    {
+      "id": "dreadnought",
+      "ko": "드레드노트",
+      "orig": "Dreadnought",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Space Marine 2』 Steam 한국어 상점 소개 ‘강력한 드레드노트’ · 『Chaos Gate - Daemonhunters』 DLC ‘Duty Eternal’(2022) ‘쓰러진 그레이 나이트들은 드레드노트를 새로운 육신으로 삼아’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "죽어 가는 전사를 관에 넣어 움직이는 걷는 병기",
+      "note": "치명상을 입은 영웅을 기계 몸속 관에 봉인해 다시 싸우게 하는 거대한 보행 병기다. 안의 전사는 영원히 기계와 하나가 되어 수백 년을 버티며, 동료들에게 살아 있는 전설로 공경받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2183900/?l=koreana",
+        "https://store.steampowered.com/app/2126610/?l=koreana",
+        "https://store.steampowered.com/app/3010270/?l=koreana"
+      ]
+    },
+    {
+      "id": "drop_pod",
+      "ko": "드롭 포드",
+      "orig": "Drop pod",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War III』 Steam 한국어 패치 노트(2017-05-31) ‘드롭 포드를 통해 배치된 유닛들’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "orbital_drop"
+      ],
+      "one": "궤도에서 전사를 땅으로 내리꽂는 강하 캡슐",
+      "note": "궤도의 함선에서 쏘아 떨어뜨리는 작은 캡슐로, 땅에 박히자마자 문이 열려 전사들이 곧바로 싸움에 뛰어든다. 적의 한가운데로 단숨에 병력을 들이붓는 스페이스 마린의 대표 전술이다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/285190/view/2883948831522453901"
+      ]
+    },
+    {
+      "id": "imperial_knight",
+      "ko": "임페리얼 나이트",
+      "orig": "Imperial Knight",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War III』(앱 285190, 2017) ‘임페리얼 나이트 솔라리아 마스터리’",
+      "alt_ko": [
+        {
+          "ko": "나이트",
+          "src": "『Dawn of War IV』 Steam 한국어 소식(2026-05) ‘나이트는 막강한 화력을 자랑할’ — 줄인 이름"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha",
+        "neural_link",
+        "feudal_space"
+      ],
+      "one": "귀족 기사가 타고 모는 거대한 보행 병기",
+      "note": "기사 가문의 후계자가 옥좌 같은 조종석에 앉아 정신을 이어 모는 거대 보행 병기다. 기사 가문은 행성을 다스리며 위에 충성하는 중세식 짜임을 지금도 지킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/285190/achievements?l=koreana",
+        "https://store.steampowered.com/app/285190/?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715"
+      ]
+    },
+    {
+      "id": "titan",
+      "ko": "타이탄",
+      "orig": "Titan (Collegia Titanica)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War - Definitive Edition』(2025) Steam 한국어 상점 소개 ‘막강한 타이탄 전쟁 병기를 되찾으십시오’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mecha",
+        "neural_link"
+      ],
+      "one": "건물처럼 높이 솟아 걷는, 기계교의 신성한 전쟁 기계",
+      "note": "여러 승무원이 타고 모는 거대한 보행 병기로, 한 대가 군대 하나의 몫을 한다. 기계교는 이를 신의 화신처럼 받들고, 조종하는 우두머리는 기계와 정신을 이어 하나가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3556750/?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "void_shield",
+      "ko": "보이드 실드",
+      "orig": "Void shield",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War IV』 Steam 한국어 소식 ‘아뎁투스 메카니쿠스를 소개합니다’(2026-05-07) ‘적의 원거리 공격은 보이드 실드를 통과할 수 없습니다’ — 게임은 2026-12 출시 예정",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "함선과 병기와 기지를 감싸는 에너지 방어막",
+      "note": "날아오는 포탄과 광선의 힘을 받아 다른 곳으로 흘려보내는 보이지 않는 막이다. 크게 펼치면 기지 하나를 덮지만, 한꺼번에 많이 맞으면 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715"
+      ]
+    },
+    {
+      "id": "gellar_field",
+      "ko": "겔러 필드",
+      "orig": "Gellar field",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "워프를 건너는 배를 악마로부터 감싸는 보호막",
+      "note": "워프에 들어간 배 둘레에 보통 공간의 법칙을 붙잡아 두는 막이다. 이것이 꺼지면 악마가 배 안으로 쏟아져 들어와, 배는 흔적도 없이 사라지거나 끔찍한 유령선이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%A7%88%ED%85%8C%EB%A6%AC%EC%9B%80"
+      ]
+    },
+    {
+      "id": "adeptus_mechanicus",
+      "ko": "아뎁투스 메카니쿠스",
+      "orig": "Adeptus Mechanicus (Mechanicus)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Mechanicus II』(2026-05) Steam 도전 과제 한국어 화면 ‘아뎁투스 메카니쿠스 캠페인’·한국어 상점 소개 · 『Dawn of War IV』 Steam 한국어 소식(2026-05). 게임즈 워크숍 한국어 이름도 같다고 나무위키 ‘게임즈 워크숍/한국어 번역 문제’가 전한다",
+      "alt_ko": [
+        {
+          "ko": "어뎁투스 메카니쿠스",
+          "src": "『Mechanicus』(2018) Steam 한국어 상점 소개, 『Darktide』 DLC ‘Skitarii Class’(2026-06) 한국어 상점 소개, 『Mechanicus II』 도전 과제 한 곳(‘포지 월드’)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "기술을 신앙으로 받드는 화성의 기계 교단",
+      "note": "제국의 무기와 함선을 만드는 기술자 집단이면서, 기계 속에 신이 깃든다고 믿는 종교다. 새로 발명하기보다 옛 지식을 되찾는 것을 성스러운 일로 여기고, 몸을 기계로 바꿀수록 신에 가까워진다고 본다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2532480/?l=koreana",
+        "https://steamcommunity.com/stats/2532480/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715",
+        "https://store.steampowered.com/app/4355570/?l=koreana",
+        "https://store.steampowered.com/app/673880/?l=koreana",
+        "https://namu.wiki/w/%EC%95%84%EB%8E%B9%ED%88%AC%EC%8A%A4%20%EB%A9%94%EC%B9%B4%EB%8B%88%EC%BF%A0%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "omnissiah",
+      "ko": "옴니시아",
+      "orig": "Omnissiah (the Machine God)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 DLC ‘Skitarii Class’(2026-06) Steam 한국어 상점 소개 ‘옴니시아의 뜻을 따르는 최정예 요원’ · 『Mechanicus II』(2026-05) 한국어 상점 소개 ‘옴니시아를 섬기는 기계 교단’",
+      "alt_ko": [
+        {
+          "ko": "기계 신",
+          "src": "다른 이름 the Machine God — 『Darktide』 DLC ‘Skitarii Class’(2026-06) ‘기계 신의 분노’, Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘기계 신을 숭배하라’, 『Dawn of War IV』 소식 ‘옴니시아로도 알려진 기계 신’"
+        },
+        {
+          "ko": "기계신",
+          "src": "『Mechanicus II』 Steam 한국어 소식(2025-12) ‘기계신의 신도들’"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "기계교가 섬기는 기계의 신",
+      "note": "모든 기계와 지식의 근원이라 믿는 신으로, 기계교는 황제를 그 화신으로 받든다. 고장 난 기계를 고치는 일도 이 신에게 비는 의식으로 치르며, 지식을 쌓는 것이 곧 신앙이다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4355570/?l=koreana",
+        "https://store.steampowered.com/app/2532480/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715",
+        "https://store.steampowered.com/news/app/2532480/view/529865894144246448",
+        "https://namu.wiki/w/%EA%B8%B0%EA%B3%84%EB%A0%B9"
+      ]
+    },
+    {
+      "id": "machine_spirit",
+      "ko": "기계 영혼",
+      "orig": "Machine spirit",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(앱 3556750, 2025-08) ‘기계 영혼이여, 나의 기도를 들어주소서’",
+      "alt_ko": [
+        {
+          "ko": "기계령",
+          "src": "『Space Marine 2』(2024) 한국어판 — 나무위키 ‘기계령’ 문서가 전함(2차 자료)"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "모든 기계에 깃들어 있다고 믿는 영혼",
+      "note": "기계마다 기분과 뜻이 있어, 기도와 기름과 향으로 달래야 제대로 움직인다고 믿는다. 정비는 의식이 되고 원리는 잊혀, 고장의 까닭을 영혼이 노했기 때문이라 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EA%B8%B0%EA%B3%84%EB%A0%B9"
+      ]
+    },
+    {
+      "id": "tech_priest",
+      "ko": "기술 사제",
+      "orig": "Tech-priest",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Rogue Trader』 DLC ‘The Infinite Museion’(2026-06) Steam 한국어 상점 소개 ‘옴니시아의 신실한 종이자 어두운 과거를 지닌 기술 사제’ — 게임 자체는 한국어를 지원하지 않는다",
+      "alt_ko": [
+        {
+          "ko": "테크-프리스트",
+          "src": "『Mechanicus II』(2026-05) Steam 한국어 상점 소개 ‘테크-프리스트들을 배치하고’, 『Dawn of War IV』 한국어 소식(2026-05)"
+        },
+        {
+          "ko": "테크프리스트",
+          "src": "Steam 도전 과제 한국어 화면 『Mechanicus II』 ‘테크프리스트 리더의 증강 트리’, 『Chaos Gate』 DLC ‘Duty Eternal’ ‘테크프리스트 도미누스’"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "몸을 기계로 바꿔 가며 기계를 돌보는 기계교의 사제",
+      "note": "기계교의 사제이자 기술자로, 살은 약하다고 여겨 팔다리와 장기를 하나씩 기계로 바꾼다. 높은 사제일수록 사람의 모습이 거의 남지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4226770/?l=koreana",
+        "https://store.steampowered.com/app/2532480/?l=koreana",
+        "https://steamcommunity.com/stats/2532480/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715"
+      ]
+    },
+    {
+      "id": "servitor",
+      "ko": "서비터",
+      "orig": "Servitor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Chaos Gate - Daemonhunters』(앱 1611910) ‘전투 서비터로 적 50마리 처치하기’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "cyborg",
+        "memory_edit"
+      ],
+      "one": "뇌를 지우고 기계를 붙여 일만 하게 만든 인간",
+      "note": "죄인이나 길러 낸 몸에서 생각을 지우고 기계 부품을 이어 붙인 일꾼이다. 정해진 일만 되풀이하며, 생각하는 기계를 금한 제국에서 그 자리를 사람의 몸으로 메운다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana",
+        "https://store.steampowered.com/app/2126610/?l=koreana",
+        "https://namu.wiki/w/%EC%84%9C%EB%B9%84%ED%84%B0"
+      ]
+    },
+    {
+      "id": "servo_skull",
+      "ko": "서보 스컬",
+      "orig": "Servo-skull",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 DLC ‘Skitarii Class’(2026-06) Steam 한국어 상점 소개 ‘스키타리와 함께하는 서보 스컬’ · 『Boltgun』·『Mechanicus』 한국어 상점 소개",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "충직한 이의 해골로 만든 떠다니는 작은 기계",
+      "note": "죽은 신도나 하인의 해골에 떠오르는 장치와 도구를 달아 만든 작은 기계로, 기록·수리·정찰 같은 잔일을 한다. 죽어서도 섬기는 것이 영광이라 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4355570/?l=koreana",
+        "https://store.steampowered.com/app/2005010/?l=koreana",
+        "https://store.steampowered.com/app/673880/?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "skitarii",
+      "ko": "스키타리",
+      "orig": "Skitarii",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 DLC ‘Skitarii Class’(2026-06) Steam 한국어 상점 소개 · 『Dawn of War IV』 한국어 소식(2026-05) ‘스키타리 레인저’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "cyborg"
+      ],
+      "one": "기계교의 기계 몸 병사",
+      "note": "몸 곳곳을 기계로 바꾼 기계교의 병사로, 사제의 명령을 받아 전파로 한꺼번에 움직인다. 고향 공장 행성마다 강화 방식과 무기가 다르다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4355570/?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715"
+      ]
+    },
+    {
+      "id": "forge_world",
+      "ko": "제련 행성",
+      "orig": "Forge world",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 DLC ‘Skitarii Class’(2026-06) Steam 한국어 상점 소개 ‘소재, 강화 패턴, 출신 제련 행성을 선택해’",
+      "alt_ko": [
+        {
+          "ko": "포지 월드",
+          "src": "Steam 도전 과제 한국어 화면 『Mechanicus II』(2026-05) ‘포지 월드’, 『Dawn of War IV』 한국어 소식(2026-05), 『Boltgun』(2023) 한국어 상점 소개"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "행성 전체가 공장인 기계교의 영지",
+      "note": "땅 거의 전체가 공장과 제련소로 덮인 행성으로, 제국의 무기와 함선을 만든다. 각 행성은 기계교의 반쯤 독립된 영지로, 제국에 물건을 대는 대신 스스로 다스린다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4355570/?l=koreana",
+        "https://steamcommunity.com/stats/2532480/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715",
+        "https://store.steampowered.com/app/2005010/?l=koreana",
+        "https://namu.wiki/w/%ED%8F%AC%EC%A7%80%20%EC%9B%94%EB%93%9C"
+      ]
+    },
+    {
+      "id": "mars",
+      "ko": "화성",
+      "orig": "Mars (the Red Planet)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War IV』 Steam 한국어 소식(2026-05-07) ‘화성을 모행성으로 두고 있지만’ · 『Mechanicus II』 DLC ‘Digital Artbook’ 한국어 상점 소개 ‘화성의 대장간’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "기계교의 본거지인 붉은 행성",
+      "note": "기계교가 태어난 곳으로, 행성 전체가 거대한 공장이다. 옛날 황제와 손을 잡으며 제국에 무기를 대는 대신 스스로 다스릴 권리를 얻었고, 지금도 제국 안의 또 다른 나라처럼 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/2272360/view/521995920023224715",
+        "https://store.steampowered.com/app/4204170/?l=koreana"
+      ]
+    },
+    {
+      "id": "archeotech",
+      "ko": "고대 기술",
+      "orig": "Archeotech",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Chaos Gate - Daemonhunters』(앱 1611910) ‘모든 고대 기술 발굴지 정화하기’, ‘고대 기술 은닉소’",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "지금은 만들 수 없는 옛 황금기의 기술 유물",
+      "note": "인류가 가장 번성하던 시대에 만든 기계와 무기로, 지금은 원리를 몰라 고치지도 새로 만들지도 못한다. 발견될 때마다 기계교와 여러 세력이 앞다퉈 차지하려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana",
+        "https://store.steampowered.com/app/2126610/?l=koreana"
+      ]
+    },
+    {
+      "id": "stc",
+      "ko": "STC",
+      "orig": "Standard Template Construct (STC)",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함. 영어 약자를 그대로 두었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "무엇이든 만드는 법이 담긴 옛 설계 기록 장치",
+      "note": "황금기에 어디서나 필요한 것을 만들 수 있게 설계도를 담아 둔 장치다. 기계교는 온전한 것을 찾는 일을 가장 큰 사명으로 여기며, 거기 없는 것을 새로 고안하는 일은 이단에 가깝게 본다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/STC"
+      ]
+    },
+    {
+      "id": "dark_age_of_technology",
+      "ko": "다크 에이지 오브 테크놀로지",
+      "orig": "Dark Age of Technology",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "golden_age"
+      ],
+      "one": "인류 기술이 가장 높았던 먼 옛 황금기",
+      "note": "인류가 은하 곳곳에 퍼져 생각하는 기계를 부리며 번성하던 시대다. 그때의 기술은 지금보다 훨씬 앞섰지만 대부분 잊혔고, 남은 유물은 신앙의 대상이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0"
+      ]
+    },
+    {
+      "id": "age_of_strife",
+      "ko": "에이지 오브 스트라이프",
+      "orig": "Age of Strife (Old Night)",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "empire_fall"
+      ],
+      "one": "황금기가 무너진 뒤 인류가 흩어진 긴 어둠의 시대",
+      "note": "워프 폭풍이 항로를 끊고, 정신 능력자가 늘어나고, 기계가 반란을 일으키며 인류 문명이 무너졌다. 행성들은 수천 년 동안 서로 소식도 모른 채 고립되었다가 황제의 정복으로 다시 묶였다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%88%AC%EC%9F%81%EC%9D%98%20%EC%8B%9C%EB%8C%80"
+      ]
+    },
+    {
+      "id": "men_of_iron",
+      "ko": "멘 오브 아이언",
+      "orig": "Men of Iron",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "황금기에 만든, 사람에게 등을 돌린 생각하는 기계",
+      "note": "인류가 부리던 생각하는 기계로, 끝내 주인에게 반기를 들어 황금기 몰락의 한 원인이 되었다. 이 기억 때문에 제국은 생각하는 기계를 가장 무거운 죄로 다룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0"
+      ]
+    },
+    {
+      "id": "abominable_intelligence",
+      "ko": "어보미너블 인텔리전스",
+      "orig": "Abominable Intelligence (Silica Animus)",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "ai_ban"
+      ],
+      "one": "스스로 생각하는 기계를 가리키는 금기의 이름",
+      "note": "제국과 기계교는 사람처럼 생각하는 기계를 만드는 것을 금하고, 발견하면 없앤다. 그 자리는 영혼이 깃들었다고 믿는 단순한 기계와, 뇌를 지운 사람 일꾼이 채운다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0",
+        "https://namu.wiki/w/%EC%84%9C%EB%B9%84%ED%84%B0"
+      ]
+    },
+    {
+      "id": "warp",
+      "ko": "워프",
+      "orig": "the Warp (Immaterium, Empyrean)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Space Marine 2』(2024) ‘카오스 워프 비콘을 파괴하십시오’, 『Chaos Gate - Daemonhunters』 ‘워프 파동 이벤트’ · 『Darktide』 한국어 소식(2022) ‘워프의 위험’",
+      "alt_ko": [
+        {
+          "ko": "이마테리움",
+          "src": "다른 이름 Immaterium — Steam 도전 과제 한국어 화면 『Chaos Gate - Daemonhunters』(2022) ‘불안정한 이마테리움’"
+        },
+        {
+          "ko": "임마테리움",
+          "src": "『Darktide』 Steam 한국어 소식 ‘클래스 집중탐구 - 사이커’(2022-11) ‘신의 정수인 임마테리움’"
+        },
+        {
+          "ko": "엠피리온",
+          "src": "다른 이름 Empyrean — 같은 『Darktide』 한국어 소식 ‘엠피리온의 힘을 조작하여’"
+        },
+        {
+          "ko": "Warp",
+          "src": "『Battlesector』 DLC ‘Black Legion’(2026-02) Steam 한국어 상점 소개 — 로마자를 그대로 두었다"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "other_realm",
+        "hyperspace"
+      ],
+      "one": "감정과 정신으로 이루어진, 보통 우주와 겹친 다른 차원",
+      "note": "모든 생명의 감정이 흘러들어 이룬 차원으로, 정신 능력의 원천이자 신과 악마가 사는 곳이다. 배는 이곳에 들어가 별 사이를 질러가지만, 시간이 뒤틀리고 악마가 들끓어 길을 잃기 쉽다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/1361210/view/5349741308800854161",
+        "https://store.steampowered.com/app/527430/?l=koreana",
+        "https://store.steampowered.com/app/3577620/?l=koreana",
+        "https://namu.wiki/w/%EC%9D%B4%EB%A7%88%ED%85%8C%EB%A6%AC%EC%9B%80"
+      ]
+    },
+    {
+      "id": "chaos",
+      "ko": "카오스",
+      "orig": "Chaos (the Ruinous Powers)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Boltgun 2』(2026-10) ‘카오스 쓰레기’, 『Space Marine 2』(2024) ‘카오스의 위협’, 『Dawn of War - Definitive Edition』(2025) ‘카오스로 모의 매치에서 승리’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "pact"
+      ],
+      "one": "워프의 네 신과 그 신들을 섬기는 무리",
+      "note": "워프에 사는 네 신의 힘, 그리고 그 힘에 무릎 꿇은 자들을 함께 부르는 이름이다. 섬기는 자는 힘과 변이를 선물로 받지만 몸과 영혼을 차츰 빼앗기고, 끝내 악마가 되거나 짐승처럼 무너진다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3115160/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/1361210/?l=koreana"
+      ]
+    },
+    {
+      "id": "chaos_gods",
+      "ko": "카오스 신들",
+      "orig": "Chaos Gods (Ruinous Powers, Dark Gods)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Inquisitor - Martyr』 Steam 한국어 상점 소개(2018) ‘부패한 카오스 신들이 나타나’",
+      "alt_ko": [
+        {
+          "ko": "암흑신",
+          "src": "다른 이름 Dark Gods — 『Battlesector』 DLC ‘Black Legion’(2026-02) Steam 한국어 상점 소개 ‘암흑신들을 신봉하는 필멸자들’"
+        },
+        {
+          "ko": "암흑의 신",
+          "src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘암흑의 신에게 바치는 공물’"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "생명의 감정이 워프에 모여 태어난 네 신",
+      "note": "분노·절망·희망과 야망·쾌락처럼 모든 생명이 품는 감정이 워프에 쌓여 생긴 신들이다. 서로 다투면서도 현실을 워프로 덮으려 하며, 인간을 비롯한 모든 종족의 영혼을 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/527430/?l=koreana",
+        "https://store.steampowered.com/app/3577620/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%8A%AC%EB%9D%BC%EB%84%A4%EC%89%AC"
+      ]
+    },
+    {
+      "id": "khorne",
+      "ko": "코온",
+      "orig": "Khorne",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘코온’ 문서(‘게임즈 워크숍이 의도한 발음인 코온으로 공식 번역되었다’)가 전함",
+      "alt_ko": [
+        {
+          "ko": "코른",
+          "src": "『Inquisitor - Martyr』 DLC ‘Grim Penance’(2019) Steam 한국어 상점 소개 ‘코른의 추종자들을 확실하게 처단하여’"
+        },
+        {
+          "ko": "피의 신",
+          "src": "별칭 Blood God — Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘피의 신께 피를’, 『Chaos Gate - Daemonhunters』 ‘피의 신을 위한 피!’"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "피와 살육과 분노의 카오스 신",
+      "note": "전쟁과 살육에서 힘을 얻는 신으로, 누가 흘린 피든 상관하지 않는다. 마법을 겁쟁이의 수단으로 여기며, 추종자들은 해골을 바치려고 끝없이 싸운다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BD%94%EC%98%A8",
+        "https://store.steampowered.com/app/995652/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1611910/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "nurgle",
+      "ko": "너글",
+      "orig": "Nurgle",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) ‘너글의 은총 군대 규칙’, ‘너글이 득세한다’ · 『Chaos Gate』 DLC ‘Duty Eternal’ 한국어 상점 소개 ‘너글 군단’",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "병과 썩음과 끈질긴 삶의 카오스 신",
+      "note": "병들고 썩어 가는 것, 그리고 절망 속에서도 버티려는 마음에서 힘을 얻는 신이다. 추종자에게 고통을 잊게 하는 병을 선물로 주며, 자신을 자애로운 할아버지처럼 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://store.steampowered.com/app/2126610/?l=koreana",
+        "https://steamcommunity.com/stats/3115160/achievements?l=koreana",
+        "https://namu.wiki/w/%EB%84%88%EA%B8%80"
+      ]
+    },
+    {
+      "id": "tzeentch",
+      "ko": "친취",
+      "orig": "Tzeentch",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘친취’ 문서(‘공식 정발되면서 친취라는 공식 번역명을 받게 되었다’)와 ‘게임즈 워크숍/한국어 번역 문제’ 문서(제품명 ‘친취의 비명환요’)가 전함",
+      "alt_ko": [
+        {
+          "ko": "진츠",
+          "src": "옛 『Dawn of War』 한국어판 — 나무위키 ‘친취’ 문서가 전함(2차 자료)"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "변화와 음모와 마법의 카오스 신",
+      "note": "희망과 야망, 그리고 모든 변화에서 힘을 얻는 신으로, 끝없이 얽힌 계략을 꾸민다. 추종자에게 마법과 앞일을 보는 힘을 주지만, 그 계획이 무엇을 노리는지는 누구도 모른다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A0%A0%EC%B7%A8",
+        "https://namu.wiki/w/%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9B%8C%ED%81%AC%EC%88%8D/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EB%AC%B8%EC%A0%9C",
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "slaanesh",
+      "ko": "슬라네시",
+      "orig": "Slaanesh",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "쾌락과 지나침의 카오스 신, 가장 늦게 태어난 신",
+      "note": "넘치는 쾌락과 완벽을 향한 집착에서 힘을 얻는 신이다. 옛 엘다리 제국의 타락이 이 신을 낳았고, 그 탄생의 충격으로 제국이 무너졌다. 지금도 엘다리의 영혼을 먹으려 노린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8A%AC%EB%9D%BC%EB%84%A4%EC%89%AC"
+      ]
+    },
+    {
+      "id": "daemon",
+      "ko": "데몬",
+      "orig": "Daemon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Battlesector』 DLC ‘Black Legion’(2026-02) Steam 한국어 상점 소개 ‘데몬 엔진’, ‘데몬의 살’ · 『Boltgun』(2023) 한국어 상점 소개 ‘카오스 데몬’",
+      "alt_ko": [
+        {
+          "ko": "악마",
+          "src": "Steam 도전 과제 한국어 화면 『Space Marine 2』(2024) ‘악마숙주를 처치하고’, 『Chaos Gate - Daemonhunters』 ‘악마 사육사’. 『Boltgun 2』 상점 소개 ‘악마 저거넛’은 daemonic 을 옮긴 것"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "카오스 신의 힘이 모양을 얻어 워프에서 나온 존재",
+      "note": "신의 정수 한 조각이 몸을 이룬 존재로, 현실과 워프의 경계가 얇아진 곳이나 부름을 받은 곳에 나타난다. 사람의 몸에 깃들기도 하며, 쓰러져도 워프로 돌아갈 뿐 쉽게 사라지지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3577620/?l=koreana",
+        "https://store.steampowered.com/app/2005010/?l=koreana",
+        "https://store.steampowered.com/news/app/1361210/view/5349741308800854161",
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "chaos_space_marines",
+      "ko": "카오스 스페이스 마린",
+      "orig": "Chaos Space Marines (Traitor Legions)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임즈 워크숍 워해머 커뮤니티 한국어 글(2026-09-30) 대상 팩션 목록 ‘카오스 스페이스 마린’ · 『Boltgun』(2023) 한국어 상점 소개",
+      "alt_ko": [
+        {
+          "ko": "이단 스페이스 마린",
+          "src": "『Dawn of War - Definitive Edition』(2025) Steam 한국어 상점 소개 ‘악마의 힘과 이단 스페이스 마린의 힘을 결합합니다’"
+        },
+        {
+          "ko": "반역파 군단",
+          "src": "Traitor Legions 의 게임즈 워크숍 공식 한국어 이름(2026) — 나무위키 ‘게임즈 워크숍/한국어 번역 문제’가 전함(2차 자료)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "super_soldier",
+        "pact"
+      ],
+      "one": "황제를 배신하고 카오스를 섬기는 스페이스 마린",
+      "note": "큰 내전 때 반란에 가담했거나 그 뒤로 타락한 초인 전사들이다. 만 년 넘게 워프에 가까운 곳에 숨어 살며 신들의 선물로 몸이 뒤틀렸고, 때때로 제국을 덮치는 대규모 침공을 일으킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.warhammer-community.com/ko-kr/articles/rylbvfnv/warhammer-40000-balance-update-emboldened-astartes/",
+        "https://store.steampowered.com/app/2005010/?l=koreana",
+        "https://store.steampowered.com/app/3556750/?l=koreana",
+        "https://namu.wiki/w/%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9B%8C%ED%81%AC%EC%88%8D/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EB%AC%B8%EC%A0%9C"
+      ]
+    },
+    {
+      "id": "horus_heresy",
+      "ko": "호루스의 반역",
+      "orig": "Horus Heresy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Darktide』 Steam 한국어 소식 ‘개발자 블로그: 레벨 디자인’(2022-12) ‘제 동료들이 열심히 호루스의 반역에 대해 설명해줬을 때’",
+      "alt_ko": [
+        {
+          "ko": "Horus Heresy",
+          "src": "『Battlesector』 DLC ‘Black Legion’(2026-02) Steam 한국어 상점 소개 — 로마자를 그대로 두었다"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "만 년 전, 황제의 장군이 일으켜 제국을 둘로 가른 내전",
+      "note": "황제가 가장 믿던 장군이 카오스에 넘어가 스페이스 마린 군단 절반을 이끌고 반란을 일으켰다. 반란은 실패했지만 황제는 치명상을 입어 옥좌에 매였고, 제국은 그 뒤로 의심과 경직에 갇혔다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/1361210/view/6608500565553422293",
+        "https://store.steampowered.com/app/3577620/?l=koreana",
+        "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%20%ED%97%A4%EB%9F%AC%EC%8B%9C"
+      ]
+    },
+    {
+      "id": "xenos",
+      "ko": "제노",
+      "orig": "Xenos",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Space Marine 2』(2024) ‘제노 박멸자’, ‘못생긴 제노’ · 『토탈워: 워해머 40,000』 한국어 상점 소개 ‘고대 제노 종족’",
+      "alt_ko": [
+        {
+          "ko": "제노스",
+          "src": "『Battlesector』(2021) Steam 한국어 상점 소개 ‘제노스를 말살시키거나’, 『Inquisitor - Martyr』 DLC 소개"
+        },
+        {
+          "ko": "이종",
+          "src": "『Rogue Trader』 Steam 한국어 상점 소개 ‘신뢰할 수 없는 이종들로’"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "제국이 외계 종족을 낮춰 부르는 말",
+      "note": "인간이 아닌 모든 지성 종족을 가리키는 말로, 제국은 이들을 미워하고 없애야 할 대상으로 가르친다. 외계 기술을 쓰는 것조차 이단으로 의심받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana",
+        "https://store.steampowered.com/app/4199910/?l=koreana",
+        "https://store.steampowered.com/app/1295500/?l=koreana",
+        "https://store.steampowered.com/app/2186680/?l=koreana",
+        "https://store.steampowered.com/app/1049290/?l=koreana"
+      ]
+    },
+    {
+      "id": "orks",
+      "ko": "오크",
+      "orig": "Orks",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘오크로 모의 매치에서 승리’ · 『토탈워: 워해머 40,000』·『Speed Freeks』 한국어 상점 소개",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "싸움을 위해 사는, 포자로 퍼지는 녹색 종족",
+      "note": "아득한 옛날 사라진 옛 종족이 전쟁용으로 만들어 낸 생명이라 전한다. 포자로 번식해 없애기 어렵고, 싸울수록 몸이 커지며, 엉성한 기계도 이들이 믿으면 작동한다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/4199910/?l=koreana",
+        "https://steamcommunity.com/stats/2078450/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC(%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000)"
+      ]
+    },
+    {
+      "id": "waaagh",
+      "ko": "와아아아아!",
+      "orig": "Waaagh!",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(앱 3556750, 2025-08) ‘와아아아아!’(WAAAGH!)",
+      "alt_ko": [
+        {
+          "ko": "와아아아!",
+          "src": "Steam 도전 과제 한국어 화면 『Speed Freeks』(2025-05) ‘빠른 채팅에 '와아아아!'를 사용하십시오’, 『Shootas, Blood & Teef』(2022) ‘와아아아!’"
+        },
+        {
+          "ko": "Waaagh!",
+          "src": "『토탈워: 워해머 40,000』 한국어 상점 소개 ‘Waaagh!의 힘으로’ — 로마자를 그대로 두었다"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "psionics"
+      ],
+      "one": "오크의 함성이자 거대한 침공, 그리고 믿음이 만드는 힘",
+      "note": "강한 우두머리 아래 오크들이 모여 은하를 휩쓰는 대침공을 가리키는 동시에, 수많은 오크의 흥분이 모여 생기는 정신의 장이다. 이 장 안에서는 오크가 믿는 대로 무기와 탈것이 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2078450/achievements?l=koreana",
+        "https://steamcommunity.com/stats/1324530/achievements?l=koreana",
+        "https://store.steampowered.com/app/4199910/?l=koreana"
+      ]
+    },
+    {
+      "id": "aeldari",
+      "ko": "엘다리",
+      "orig": "Aeldari (Eldar)",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘아엘다리’ 문서(‘게임즈 워크숍이 의도한 발음인 엘다리로 공식 번역되었다’)가 전함",
+      "alt_ko": [
+        {
+          "ko": "아엘다리",
+          "src": "『토탈워: 워해머 40,000』 Steam 한국어 상점 소개 ‘아엘다리: 한때 은하를 지배하던 고대 제노 종족’"
+        },
+        {
+          "ko": "엘다",
+          "src": "옛 영어 이름 Eldar — Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘엘다로 모의 매치에서 승리’, 『Dawn of War III』"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "한때 은하를 다스리다 몰락한, 오래 사는 고대 종족",
+      "note": "수천 년을 사는 정신 능력이 강한 종족으로, 한때 은하를 지배했다. 넘치는 쾌락에 빠진 문명이 카오스의 신 하나를 낳으며 무너졌고, 살아남은 이들은 수가 줄어든 채 사라질 운명에 맞선다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%97%98%EB%8B%A4%EB%A6%AC",
+        "https://store.steampowered.com/app/4199910/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/285190/?l=koreana"
+      ]
+    },
+    {
+      "id": "craftworld",
+      "ko": "크래프트 월드",
+      "orig": "Craftworld",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(앱 3556750, 2025) ‘크래프트 월드’(엘다 건물 모두 건설)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "flotilla",
+        "habitat"
+      ],
+      "one": "엘다리가 몰락을 피해 타고 떠도는 거대한 세계선",
+      "note": "도시 여럿만 한 거대한 배로, 옛 제국이 무너지기 전에 떠난 이들이 지금도 그 안에서 산다. 배마다 죽은 이의 영혼을 모은 망을 품고, 엄격한 수행의 길을 따라 살며 다시 타락하지 않으려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%EC%9B%94%EB%93%9C"
+      ]
+    },
+    {
+      "id": "webway",
+      "ko": "웹웨이",
+      "orig": "Webway",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War III』 Steam 한국어 패치 노트(2017-08-29) ‘웹웨이 게이트’, ‘향상된 웹웨이’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "gate_network"
+      ],
+      "one": "현실과 워프 사이에 놓인 미로 같은 길의 그물",
+      "note": "사라진 옛 종족이 지은 통로망으로, 문을 지나면 워프의 위험 없이 먼 곳에 닿는다. 엘다리가 물려받아 쓰지만 몰락 때 크게 무너져, 지금은 끊기고 막힌 길이 많다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/285190/view/2883948831522452742",
+        "https://namu.wiki/w/%EC%9B%B9%EC%9B%A8%EC%9D%B4"
+      ]
+    },
+    {
+      "id": "spirit_stone",
+      "ko": "스피릿 스톤",
+      "orig": "Spirit stone",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "엘다리가 죽을 때 영혼을 담아 지키는 보석",
+      "note": "엘다리는 죽은 영혼이 카오스의 신에게 먹히지 않도록 늘 이 돌을 몸에 지닌다. 담긴 영혼은 세계선의 영혼 망으로 옮겨지거나, 기계 몸에 깃들어 다시 싸우기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8A%A4%ED%94%BC%EB%A6%BF%20%EC%8A%A4%ED%86%A4"
+      ]
+    },
+    {
+      "id": "farseer",
+      "ko": "파시어",
+      "orig": "Farseer",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War III』(앱 285190, 2017) ‘파시어 마챠 마스터리’",
+      "alt_ko": [
+        {
+          "ko": "선지자",
+          "src": "같은 게임의 Steam 한국어 상점 소개 ‘야심찬 Eldar의 선지자 Macha’"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [
+        "precognition"
+      ],
+      "one": "운명의 갈래를 읽어 앞일을 내다보는 엘다리 예언자",
+      "note": "강한 정신 능력으로 앞으로 펼쳐질 여러 갈래의 미래를 읽고, 종족이 살아남을 길을 고른다. 그 판단을 위해 다른 종족 수백만을 희생시키는 것도 서슴지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/285190/achievements?l=koreana",
+        "https://store.steampowered.com/app/285190/?l=koreana"
+      ]
+    },
+    {
+      "id": "drukhari",
+      "ko": "드루카리",
+      "orig": "Drukhari (Dark Eldar)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Inquisitor - Martyr』 DLC ‘City of Suffering’(2018) Steam 한국어 상점 소개 ‘드루카리가 대규모로 인간을 사냥하는 고통의 도시’. 게임즈 워크숍 한국어 이름도 같다고 나무위키 ‘게임즈 워크숍/한국어 번역 문제’가 전한다",
+      "alt_ko": [
+        {
+          "ko": "다크 엘다",
+          "src": "옛 영어 이름 Dark Eldar — Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘다크 엘다로 모의 매치에서 승리’"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "남의 고통을 먹고 늙지 않는, 엘다리의 어두운 갈래",
+      "note": "웹웨이 속 숨은 도시에 사는 엘다리로, 영혼을 빨아들이는 신의 손길을 남의 고통에서 얻은 힘으로 버틴다. 그래서 다른 종족을 납치해 괴롭히며 수천 년을 젊은 채 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/945830/?l=koreana",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EB%93%9C%EB%A3%A8%EC%B9%B4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "old_ones",
+      "ko": "올드 원",
+      "orig": "Old Ones",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "웹웨이를 짓고 여러 종족을 빚고 사라진 옛 종족",
+      "note": "아득한 옛날 워프를 다루며 은하를 가꾸던 종족으로, 여러 종족을 만들거나 끌어올렸다. 별의 신들과 손잡은 적과의 큰 전쟁 끝에 자취를 감췄고, 남긴 통로와 피조물이 지금도 은하를 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%AC%EB%93%9C%20%EC%9B%90",
+        "https://namu.wiki/w/%EC%B2%9C%EC%83%81%EC%9D%98%20%EC%A0%84%EC%9F%81"
+      ]
+    },
+    {
+      "id": "war_in_heaven",
+      "ko": "천국의 전쟁",
+      "orig": "War in Heaven",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(앱 3556750, 2025) ‘천국의 전쟁’(엘다로 네크론 1000명 사살)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "수천만 년 전 옛 종족과 네크론이 벌인 은하 전쟁",
+      "note": "사라진 옛 종족과, 별의 신들에게 몸을 바친 종족이 은하 전체를 걸고 맞붙은 전쟁이다. 이 싸움의 끝에 한쪽은 사라지고 다른 쪽은 긴 잠에 들었으며, 그 상처가 오늘의 은하를 빚었다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%B2%9C%EC%83%81%EC%9D%98%20%EC%A0%84%EC%9F%81"
+      ]
+    },
+    {
+      "id": "necrons",
+      "ko": "네크론",
+      "orig": "Necrons",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Mechanicus II』(2026-05) ‘네크론 캠페인’ · 『Dawn of War IV』 한국어 소식(2026-07) ‘불멸의 안드로이드 망령, 네크론’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "machine_race",
+        "elder_race"
+      ],
+      "one": "살아 있는 금속 몸으로 수천만 년을 잔 고대 종족",
+      "note": "아득한 옛날 몸을 버리고 금속 몸을 얻은 종족으로, 오랜 잠에서 깨어나 옛 영토를 되찾으려 한다. 부서져도 스스로 고쳐 일어나며, 왕조마다 귀족이 군대를 이끈다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2532480/achievements?l=koreana",
+        "https://store.steampowered.com/news/app/2272360/view/704401217928823196",
+        "https://store.steampowered.com/news/app/2272360/view/701022249480619797",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "c_tan",
+      "ko": "크탄",
+      "orig": "C'tan (Star Gods)",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘게임즈 워크숍/한국어 번역 문제’ 문서가 전하는 제품명 ‘크탄 그믐아비의 파편’",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "별의 힘을 먹고 사는 에너지의 신들",
+      "note": "별을 먹으며 살던 에너지 존재로, 한 종족을 꾀어 그 생명을 먹고 대신 금속 몸을 주었다. 그 종족이 끝내 배신해 조각조각 부숴 가두었지만, 조각 하나만으로도 행성을 위협한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9B%8C%ED%81%AC%EC%88%8D/%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%B2%88%EC%97%AD%20%EB%AC%B8%EC%A0%9C",
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ]
+    },
+    {
+      "id": "biotransference",
+      "ko": "바이오트랜스퍼런스",
+      "orig": "Biotransference",
+      "ko_status": "우리 표기",
+      "ko_src": "정식 한국어 표기를 찾지 못함(한국어를 지원하는 공식 게임의 Steam 도전 과제·상점 소개·한국어 소식, 게임즈 워크숍 한국어 소식 글에서 보이지 않았다). 원어를 소리 나는 대로 적었다",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "한 종족이 살과 영혼을 버리고 금속 몸으로 옮겨 간 일",
+      "note": "짧은 수명에 시달리던 종족이 별의 신들과 거래해, 온 백성의 정신을 영원히 썩지 않는 금속 몸으로 옮겼다. 그 대가로 영혼을 먹혀 대부분이 생각 없는 병사가 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0",
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ]
+    },
+    {
+      "id": "great_sleep",
+      "ko": "동면",
+      "orig": "the Great Sleep",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War IV』 Steam 한국어 소식(2026-07) ‘6천만 년의 기나긴 동면에서 깨어난 이들은’, ‘크로누스는 동면 중인 툼 월드이기에’ — 게임은 2026-12 출시 예정",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "cryosleep"
+      ],
+      "one": "네크론이 무덤 행성에서 6천만 년을 잔 긴 잠",
+      "note": "큰 전쟁 뒤 네크론은 젊은 종족들이 지쳐 사라지기를 기다리며 무덤 깊이 잠들었다. 이제 하나둘 깨어나지만 오랜 세월에 고장 난 무덤도 많고, 정신이 망가진 채 깨어나는 자도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/2272360/view/701022249480619797",
+        "https://store.steampowered.com/news/app/2272360/view/704401217928823196",
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "tomb_world",
+      "ko": "툼 월드",
+      "orig": "Tomb world",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War IV』 Steam 한국어 소식(2026-07) ‘동면 중인 툼 월드’ · Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘툼 월드’",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "네크론이 잠든 무덤이 숨은 행성",
+      "note": "땅속 깊이 거대한 무덤 단지를 품은 행성으로, 겉보기엔 죽은 땅이다. 무덤이 깨어나면 행성 전체가 네크론의 군대와 공장이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/news/app/2272360/view/704401217928823196",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "tyranids",
+      "ko": "티라니드",
+      "orig": "Tyranids",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "게임즈 워크숍 공식 한국어 이름(2026년 국내 정식 발매) — 나무위키 ‘티라니드’ 문서(‘게임즈 워크숍이 의도한 발음인 티라니드로 공식 번역되었다’)가 전함",
+      "alt_ko": [
+        {
+          "ko": "타이라니드",
+          "src": "『Space Marine 2』(2024) Steam 한국어 상점 소개·도전 과제 ‘타이라니드 무리’, 『Battlesector』 한국어 상점 소개"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind",
+        "galactic_threat"
+      ],
+      "one": "은하 바깥에서 와 모든 생명을 삼키는 무리",
+      "note": "은하 밖에서 몰려온 생명체 무리로, 행성의 모든 생물을 먹어 치워 제 몸을 불린다. 전사도 무기도 배도 모두 길러 낸 생물이며, 하나의 거대한 의식이 무리 전체를 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9D%B4%EB%9D%BC%EB%8B%88%EB%93%9C",
+        "https://store.steampowered.com/app/2183900/?l=koreana",
+        "https://store.steampowered.com/app/1295500/?l=koreana"
+      ]
+    },
+    {
+      "id": "hive_mind",
+      "ko": "하이브 마인드",
+      "orig": "Hive Mind",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Battlesector』 DLC ‘Tyranid Elites’(2021) Steam 한국어 상점 소개 ‘하이브 마인드의 힘을 빌리는 브루드로드’",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "티라니드 무리 전체를 하나로 움직이는 의식",
+      "note": "수없이 많은 티라니드를 손발처럼 부리는 하나의 거대한 정신이다. 지휘 역할의 생물이 그 뜻을 전하며, 이 연결이 끊긴 생물은 본능대로 흩어진다. 그 존재만으로 주변의 정신 능력이 흐려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1793050/?l=koreana",
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%EB%A7%88%EC%9D%B8%EB%93%9C"
+      ]
+    },
+    {
+      "id": "hive_ship",
+      "ko": "하이브 쉽",
+      "orig": "Hive ship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Space Marine 2』(앱 2183900) ‘대공 포대의 힘으로 하이브 쉽을 파괴하십시오’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "티라니드 함대를 이루는 살아 있는 거대한 배",
+      "note": "기계가 아니라 길러 낸 생물로 된 배로, 우주를 건너며 행성을 덮칠 무리를 몸속에서 키운다. 행성의 생물을 다 먹고 나면 그 양분을 거둬 다음 행성으로 떠난다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/2183900/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "genestealer",
+      "ko": "진스틸러",
+      "orig": "Genestealer (Genestealer Cults)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Shootas, Blood & Teef』(2022) ‘진스틸러를 물리쳤습니다’, ‘진스틸러 컬트 슬레이어’ · 『Chaos Gate – Deathwatch』 한국어 상점 소개 ‘진스틸러 하이브컬트’",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "parasite",
+        "assimilation"
+      ],
+      "one": "남의 몸에 제 유전자를 심어 교단을 키우는 티라니드의 선봉",
+      "note": "사람을 붙잡아 제 유전자를 심으면, 그 후손이 대를 이어 반쯤 괴물로 태어나 이들을 신처럼 섬긴다. 이렇게 자란 숨은 교단이 행성을 안에서 무너뜨리고 본대를 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/1324530/achievements?l=koreana",
+        "https://store.steampowered.com/app/3010270/?l=koreana",
+        "https://store.steampowered.com/app/1793050/?l=koreana",
+        "https://namu.wiki/w/%EC%A7%84%EC%8A%A4%ED%8B%B8%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "tau_empire",
+      "ko": "타우 제국",
+      "orig": "T'au Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘타우 제국으로 모의 매치에서 승리’",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "빠르게 커 가는 젊고 기술이 앞선 외계 제국",
+      "note": "은하 한쪽 끝에서 짧은 시간에 일어선 종족의 나라로, 정신 능력 대신 앞선 기술과 장거리 화력으로 싸운다. 다른 종족도 받아들여 함께 다스리지만, 가장 위에는 지배 계급이 앉는다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/2583910/?l=koreana"
+      ]
+    },
+    {
+      "id": "greater_good",
+      "ko": "대의",
+      "orig": "the Greater Good (Tau'va)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Dawn of War - Definitive Edition』(2025) ‘대의를 위하여’ · 『Battlesector』 DLC ‘T'au’(2024) 한국어 상점 소개 ‘대의를 추구하는 삶’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "모두를 위해 저마다 제 몫을 다하라는 타우의 이념",
+      "note": "개인보다 전체의 이익을 앞세우는 생각으로, 타우는 이를 은하 모든 종족에게 퍼뜨리려 한다. 따르는 자는 받아들이지만, 거부하는 자에게는 무력도 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://store.steampowered.com/app/2583910/?l=koreana"
+      ]
+    },
+    {
+      "id": "ethereal",
+      "ko": "에테리얼",
+      "orig": "Ethereal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Battlesector』 DLC ‘T'au’(2024) Steam 한국어 상점 소개 ‘에테리얼은 타우 종족의 다섯 번째 계급에 속하며’",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "타우 사회 맨 위에서 다른 계급을 이끄는 지배 계급",
+      "note": "타우는 태어날 때부터 정해지는 계급으로 나뉘며, 이 계급이 나머지를 하나로 묶고 이끈다. 다른 계급은 이들의 말이라면 의심 없이 따르는데, 그 까닭은 분명히 밝혀져 있지 않다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2583910/?l=koreana",
+        "https://namu.wiki/w/%EC%97%90%ED%85%8C%EB%A6%AC%EC%96%BC(Warhammer%2040%2C000)"
+      ]
+    },
+    {
+      "id": "forty_first_millennium",
+      "ko": "41번째 천년기",
+      "orig": "the 41st Millennium (M41)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『Dawn of War - Definitive Edition』(2025) Steam 한국어 상점 소개 ‘41번째 천년기의 머나먼 미래’ · 『Battlesector』·『토탈워: 워해머 40,000』 한국어 상점 소개",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "작품의 주 무대인 서기 40,000년대",
+      "note": "황제가 옥좌에 앉은 지 만 년쯤 지난 때로, 은하 곳곳에서 그칠 날 없는 전쟁이 이어진다. 날짜는 ‘몇 번째 천년기의 몇 년’으로 적는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3556750/?l=koreana",
+        "https://store.steampowered.com/app/1295500/?l=koreana",
+        "https://store.steampowered.com/app/4199910/?l=koreana"
+      ]
+    },
+    {
+      "id": "era_indomitus",
+      "ko": "인도미투스 시대",
+      "orig": "Era Indomitus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "『토탈워: 워해머 40,000』 Steam 한국어 상점 소개 ‘인도미투스 시대. 은하는 끝없는 전쟁의 불길에 휩싸였고’ — 게임은 출시 전",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "은하를 가르는 균열이 열린 뒤 이어지는 지금의 시대",
+      "note": "41번째 천년기 끝에 워프의 거대한 균열이 은하를 둘로 갈라, 제국의 절반이 등대의 빛을 잃었다. 그 뒤로 제국은 새 병력을 앞세워 반격에 나섰고, 모든 세력의 전쟁이 한층 거세졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/4199910/?l=koreana"
+      ]
+    }
+  ]
+}

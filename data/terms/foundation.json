@@ -1,0 +1,1276 @@
+{
+  "terms": [
+    {
+      "id": "psychohistory",
+      "ko": "심리역사학",
+      "orig": "Psychohistory",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장의 백과사전 인용('심리역사학 분야')과 2·3·6권 서문·본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "psychohistory"
+      ],
+      "one": "수많은 사람의 움직임을 수학으로 내다보는 학문.",
+      "note": "해리 셀던이 다듬은 학문이다. 한 사람은 맞히지 못해도 수십억 사람의 반응은 통계로 미리 셀 수 있다고 본다. 셈의 대상이 된 사람들이 결과를 알면 행동이 바뀌어 셈이 틀어지므로 결과는 비밀로 한다. 셀던은 이것으로 제국의 몰락을 내다본다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "seldon_plan",
+      "ko": "셀던 프로젝트",
+      "orig": "Seldon Plan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 서문·1부와 5권 1장 본문 — 리디북스 미리보기, 3·4·5권 본문 — 구글 북스 본문 검색 조각에서 확인",
+      "alt_ko": [
+        {
+          "ko": "셀던 계획",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1·5권 본문 — 구글 북스 본문 검색 조각('셀던 계획에서 종교의 역할', 5권 '셀던 계획의 종국적인 결론'). 같은 판 안의 다른 이름"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "long_plan"
+      ],
+      "one": "제국 몰락 뒤의 암흑기를 천 년으로 줄이려는 계획.",
+      "note": "셀던이 심리역사학으로 짠 계획으로, 은하 양쪽 끝에 파운데이션 둘을 세워 천 년 뒤 새 제국이 서도록 이끈다. 계획을 따르는 사람들은 그 속을 모른 채 정해진 길을 간다. 이 판은 원어의 '계획'을 '셀던 프로젝트'로도, '셀던 계획'으로도 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview",
+        "https://ridibooks.com/books/682000292/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%85%80%EB%8D%98+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%22+%EC%95%84%EC%8B%9C%EB%AA%A8%ED%94%84",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%85%80%EB%8D%98+%EA%B3%84%ED%9A%8D%22+%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98"
+      ]
+    },
+    {
+      "id": "seldon_crisis",
+      "ko": "셀던 위기",
+      "orig": "Seldon Crisis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('셀던 위기를 불러올 정도로', '셀던 위기는 끝났으며') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "다른 길이 다 막히도록 미리 계산된 고비.",
+      "note": "셀던 프로젝트가 미리 짜 둔 갈림길로, 파운데이션이 무너질 듯한 때마다 찾아온다. 그때 셀던 영상이 나타나 지나온 일을 풀어 주고, 고비를 넘길 때마다 파운데이션은 한 단계 커진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "time_vault",
+      "ko": "시간 유품관",
+      "orig": "Time Vault",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('셀던 홀은 시간 유품관, 즉 셀던이 입체 영상으로 나타나는 조그만 강당') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "셀던의 영상이 때맞춰 나타나는 터미너스의 방.",
+      "note": "셀던이 죽기 전에 남긴 영상을 위기 때마다 틀어 주는 작은 강당이다. 수백 년 뒤에는 둘레에 큰 건물이 서서 '셀던 홀'이라 불린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "seldon_hologram",
+      "ko": "셀던 영상",
+      "orig": "Seldon's image",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('실제로는 셀던 영상이지만', '셀던 영상이 나타났다가 사라진') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hologram"
+      ],
+      "one": "셀던이 살아서 찍어 둔 입체 영상.",
+      "note": "셀던이 죽기 직전에 미리 찍어 둔 영상으로, 정해진 해에 시간 유품관에 나타나 사람들에게 말한다. 몇백 년 뒤의 형편을 그대로 맞히는 것이 셀던 프로젝트가 살아 있다는 증거로 여겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "prime_radiant",
+      "ko": "프라임 레이디언트",
+      "orig": "Prime Radiant",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "셀던 계획의 방정식을 펼쳐 보이는 장치.",
+      "note": "계획의 방정식을 눈앞에 띄워 보여 주는 장치로, 제2파운데이션이 계획이 어긋나지 않았는지 살피고 고치는 데 쓴다. 정식판 표기는 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Foundation_series"
+      ]
+    },
+    {
+      "id": "galactic_empire",
+      "ko": "은하제국",
+      "orig": "Galactic Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 서문 첫 문장과 1·6권 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "제1은하제국",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3·4권 서문, 5권 아시모프 서문 — 제2은하제국과 견줄 때 쓰는 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "트랜터를 수도로 은하 전체를 다스린 제국.",
+      "note": "1만 2000년 동안 사람이 사는 행성 2500만 개를 다스렸으나 오래 썩어 가고 있다. 셀던의 셈으로는 곧 무너지고 3만 년의 암흑기가 온다. 뒤에 올 제국과 가를 때는 '제1은하제국'이라 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000290/preview"
+      ]
+    },
+    {
+      "id": "entun_dynasty",
+      "ko": "엔턴 왕조",
+      "orig": "Entun dynasty",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 1부 첫머리 백과사전 인용('엔턴 왕조 최후의 은하제국 황제') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "셀던이 살던 무렵 은하제국의 왕조.",
+      "note": "6권 첫머리의 백과사전 인용이 클레온 1세를 이 왕조의 마지막 황제로 소개한다. 황제가 거듭 시해되던 혼란기의 끝자락이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "second_empire",
+      "ko": "제2은하제국",
+      "orig": "Second Galactic Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 1장 본문('제2은하제국의 모체')과 3권 서문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "제2제국",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2·4권 서문 — 같은 판 안에서 줄여 쓰는 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "암흑기 뒤에 설 새 은하제국.",
+      "note": "셀던 프로젝트가 목표로 삼는 나라로, 파운데이션이 그 바탕이 되어 천 년 뒤에 세워질 것으로 계산된다. 무너지는 옛 제국보다 더 단단하고 사람다운 나라로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000290/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "interregnum",
+      "ko": "대공위시대",
+      "orig": "Interregnum",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3권 1장 본문('제1은하제국과 제2은하제국 사이에 나타난 대공위시대'와 옮긴이 주) — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "암흑기",
+          "src": "황금가지 완전판 출판사 책 소개('3만 년이라는 긴 시간 동안 암흑기에 접어들') — 알라딘·예스24 상품 페이지"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [
+        "empire_fall"
+      ],
+      "one": "제1·제2은하제국 사이의 혼란한 시기.",
+      "note": "제국이 무너진 뒤 강한 정부가 다시 서기까지의 공백이다. 그냥 두면 3만 년이 걸릴 것을 셀던은 천 년으로 줄이려 한다. 옮긴이는 신성로마제국 역사의 말을 빌려 옮겼고, 출판사 소개 글은 '암흑기'라 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000290/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31844172"
+      ]
+    },
+    {
+      "id": "galactic_era",
+      "ko": "은하 기원",
+      "orig": "Galactic Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장('은하 기원 11988년에 태어나')과 6권 1부 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "은하제국이 쓰던 햇수 세기.",
+      "note": "셀던과 클레온 1세가 은하 기원 11988년에 태어났다. 이야기 속 백과사전 인용문은 이 햇수와 파운데이션 기원을 나란히 적는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "foundation_era",
+      "ko": "파운데이션 기원",
+      "orig": "Foundation Era",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장('파운데이션 기원(이하 FE) 1년에 죽음') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "파운데이션이 선 해부터 세는 햇수.",
+      "note": "셀던이 죽은 해를 1년으로 삼고 줄여서 FE 라 쓴다. 이야기 곳곳의 『은하대백과사전』 인용은 FE 1020년에 펴낸 판에서 따왔다고 밝힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview"
+      ]
+    },
+    {
+      "id": "trantor",
+      "ko": "트랜터",
+      "orig": "Trantor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 1~3장 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "트렌터",
+          "src": "옛 정식판 현대정보문화사판(2002~2003, 김옥수·최서래 옮김) 5권 목차 '페허가 된 트렌터', '네오트렌터의 죽음' — 알라딘 상품 페이지. 같은 판 4권 목차는 '트랜터'"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [
+        "ecumenopolis"
+      ],
+      "one": "땅 전체가 하나의 도시인 제국의 수도 행성.",
+      "note": "육지가 모두 금속 건물로 덮여 400억이 넘는 사람이 살며, 대부분 제국 행정에 매달린다. 먹을 것을 수십 개 행성에서 실어 와야 해서 바깥의 포위에 약하다. 사람들은 지붕 아래에서 하늘을 보지 않고 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=380207"
+      ]
+    },
+    {
+      "id": "imperial_palace",
+      "ko": "황궁",
+      "orig": "Imperial Palace",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 1부 본문('열린 지역이 있었는데 그 위에 황궁이 건설되었던 것이다') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "트랜터에서 흙과 하늘이 드러난 땅에 선 궁전.",
+      "note": "온 행성이 지붕으로 덮인 트랜터에서 황궁 둘레만 넓은 열린 땅으로 남아 숲과 정원이 있다. 클레온 1세는 이 울타리 밖에 나가 본 적이 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview",
+        "https://ridibooks.com/books/682000288/preview"
+      ]
+    },
+    {
+      "id": "galactic_library",
+      "ko": "은하 도서관",
+      "orig": "Galactic Library",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 1부 본문('은하 도서관')과 5권 1장('은하도서관', '은하 도서관') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "ark"
+      ],
+      "one": "트랜터에 있는 제국의 거대한 도서관.",
+      "note": "셀던이 심리역사학을 다듬으려 드나든 곳이다. 트랜터가 약탈당할 때에도 무사했지만, 5권에서는 지구에 관한 자료만 누군가 지워 놓은 것으로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview",
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "streeling_university",
+      "ko": "스트릴링 대학",
+      "orig": "Streeling University",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 7권 1부 본문('스트릴링 대학의 수학과 학과장') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "셀던이 몸담은 트랜터의 대학.",
+      "note": "셀던이 수학과 학과장이라는 눈에 띄지 않는 자리를 지키며 심리역사학 연구를 남몰래 이어 가는 곳이다. 높은 돔 아래 나무와 잔디가 있는 교정이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000294/preview"
+      ]
+    },
+    {
+      "id": "dahl",
+      "ko": "다알",
+      "orig": "Dahl",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 7권 1부 본문('다알 구역에서 (사회 계급이 아주 낮은) 열 저장실의 노동자') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "트랜터의 가난한 노동자 구역.",
+      "note": "열 저장실에서 일하는 사람들이 사는 구역으로, 그 일은 사회 계급이 아주 낮게 여겨진다. 셀던의 수제자가 이곳 노동자 출신이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000294/preview"
+      ]
+    },
+    {
+      "id": "heatsinks",
+      "ko": "열 저장실",
+      "orig": "Heatsinks",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 목차 제13부 '열 저장실'과 7권 1부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "트랜터가 땅속 열로 에너지를 얻는 시설.",
+      "note": "1권에서 말하듯 트랜터는 땅 위와 깊은 땅속의 온도 차로 쓰는 에너지를 모두 얻는데, 그 일을 하는 곳이다. 이곳 노동자는 낮은 계급으로 여겨진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview",
+        "https://ridibooks.com/books/682000294/preview",
+        "https://ridibooks.com/books/682000288/preview"
+      ]
+    },
+    {
+      "id": "wye",
+      "ko": "와이",
+      "orig": "Wye",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 목차 제17부 '와이'와 1부 본문('와이 시장') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "황제와 맞서는 시장이 다스리는 트랜터의 구역.",
+      "note": "황제의 총리는 셀던이 이곳 시장 쪽으로 넘어갈까 걱정한다. 6권 뒷부분의 무대가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "mycogen",
+      "ko": "마이코겐",
+      "orig": "Mycogen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 목차 제7부 '마이코겐'과 7권 1부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "옛 전통과 경전을 지키는 트랜터의 구역.",
+      "note": "남자가 다스리고 종교 규율이 삶 깊이 스민 닫힌 사회다. 미생물 농장에서 독특한 음식을 기르고, 아득한 조상이 살던 옛 세계의 기억을 경전과 의식으로 지켜 왔다. 그 기억이 은하의 잊힌 역사로 이어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview",
+        "https://ridibooks.com/books/682000294/preview"
+      ]
+    },
+    {
+      "id": "sacratorium",
+      "ko": "세크라토리움",
+      "orig": "Sacratorium",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 목차 제11부 '세크라토리움' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "마이코겐 사람들이 거룩하게 여기는 성소.",
+      "note": "마이코겐의 중심 건물로 바깥사람은 들어갈 수 없다. 6권에서 셀던이 이곳에 숨은 옛 비밀을 찾아 몰래 들어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "microfarm",
+      "ko": "미생물 농장",
+      "orig": "Micro-Farm",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 6권 목차 제9부 '미생물 농장' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "마이코겐이 작은 생물로 먹을거리를 기르는 농장.",
+      "note": "효모와 조류 같은 작은 생물을 길러 맛이 뛰어난 음식과 양념을 만든다. 셀던은 마이코겐에 다녀온 뒤 그 양념을 즐기게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000293/preview",
+        "https://ridibooks.com/books/682000294/preview"
+      ]
+    },
+    {
+      "id": "helicon",
+      "ko": "헬리콘",
+      "orig": "Helicon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장('헬리콘 행성')과 6권 1부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "셀던이 태어난 변방 행성.",
+      "note": "날씨가 거칠어 춥고 눈이 많거나 덥고 비가 억수같이 오는 곳으로 그려진다. 셀던이 익힌 맨손 싸움 기술도 이곳 것이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    },
+    {
+      "id": "twisting",
+      "ko": "체술",
+      "orig": "Twisting",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 7권 1부 본문('체술(體術) 실력', '체술 선수') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "헬리콘에서 내려오는 맨손 격투술.",
+      "note": "셀던이 젊어서부터 익혀 온 싸움 기술로, 달려드는 상대의 팔을 잡아 넘기고 꺾는다. 원어는 '비틀기'라는 뜻인데 이 판은 '체술(體術)'로 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000294/preview"
+      ]
+    },
+    {
+      "id": "terminus",
+      "ko": "터미너스",
+      "orig": "Terminus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장, 2권 서문, 4권 1부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하 끝자락의 파운데이션 행성.",
+      "note": "금속이 거의 나지 않고 바다가 넓은 작은 행성으로, 셀던이 백과사전을 만든다는 명분으로 학자들을 옮겨 살게 한 곳이다. 그 뒤 파운데이션의 수도가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "foundation",
+      "ko": "파운데이션",
+      "orig": "Foundation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1~7권 제목과 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "제1파운데이션",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3·4권 서문 — 제2파운데이션과 가를 때 쓰는 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "셀던이 은하 끝에 세운 학자들의 나라.",
+      "note": "처음에는 백과사전을 엮는 학자 마을이었으나, 셀던 위기를 넘길 때마다 종교와 무역과 경제로 둘레를 묶어 은하의 강자가 된다. 또 하나의 파운데이션과 가를 때는 '제1파운데이션'이라 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000290/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "encyclopedia_galactica",
+      "ko": "은하대백과사전",
+      "orig": "Encyclopedia Galactica",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 첫 장의 인용 출처 『은하대백과사전』과 각주 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ark"
+      ],
+      "one": "인류의 모든 지식을 모으려던 백과사전.",
+      "note": "파운데이션이 처음 내세운 일이다. 소설 곳곳에 이 백과사전 116판에서 따왔다는 짧은 인용이 장 머리에 실린다. 4권 무렵에는 컴퓨터에 담아 날마다 고친다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "encyclopedists",
+      "ko": "백과사전 편찬 위원회",
+      "orig": "Encyclopedists",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 목차 제2부 '백과사전 편찬 위원회'(알라딘 목차도 같음) — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "터미너스 초기에 백과사전을 엮던 학자들.",
+      "note": "파운데이션 초기에 터미너스를 이끈 학자 집단으로, 백과사전을 만드는 일만 중히 여겨 다가오는 바깥 위협을 보지 못한다. 1권 제2부의 제목이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=32034640"
+      ]
+    },
+    {
+      "id": "mayor",
+      "ko": "시장",
+      "orig": "Mayor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 목차 제3부 '시장', 2권 서문('초대 시장'), 4권 1부('세습시장', '브라노 시장') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "파운데이션을 이끄는 우두머리 자리.",
+      "note": "처음에는 터미너스 시의 시장이었으나 파운데이션이 커지면서 나라의 우두머리가 된다. 한때는 자리를 대물림하는 '세습시장'이 다스렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "periphery",
+      "ko": "외곽성역",
+      "orig": "Periphery",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 서문·1장과 4권 서문('은하계 외곽성역') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "은하제국의 바깥 가장자리 지역.",
+      "note": "제국이 무너지면서 가장 먼저 떨어져 나가, 스스로 왕이라 부르는 이들이 나눠 다스린다. 파운데이션은 이 지역에서 출발한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "anacreon",
+      "ko": "아나크레온",
+      "orig": "Anacreon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1·2·4·7권 본문 — 구글 북스 본문 검색 조각에서 확인('원자력에 대한 비밀이 아나크레온의 수중에', 2권 '아나크레온 지방', 7권 '아나크레온 구역')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "제국을 떠나 왕국이 된 외곽의 지방.",
+      "note": "제국의 한 지방이었다가 떨어져 나와 왕이 다스리는 나라가 된다. 터미너스 가까이 있어 초기 파운데이션을 가장 크게 위협한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.google.com/search?tbm=bks&q=%22%EC%95%84%EB%82%98%ED%81%AC%EB%A0%88%EC%98%A8%22+%EC%95%84%EC%8B%9C%EB%AA%A8%ED%94%84"
+      ]
+    },
+    {
+      "id": "atomic_power",
+      "ko": "원자력",
+      "orig": "Atomic power",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 서문('원자력을 보유한 유일한 나라')과 1권 본문(구글 북스 조각) — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "제국이 무너진 뒤 파운데이션만 지킨 기술.",
+      "note": "제국이 무너지자 외곽 행성들은 석탄과 석유의 시대로 되돌아갔고, 원자력을 가진 곳은 파운데이션뿐이었다. 파운데이션은 이 기술을 종교와 무역에 실어 둘레를 묶는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%95%84%EB%82%98%ED%81%AC%EB%A0%88%EC%98%A8%22+%EC%95%84%EC%8B%9C%EB%AA%A8%ED%94%84"
+      ]
+    },
+    {
+      "id": "religion_of_science",
+      "ko": "과학 종교",
+      "orig": "religion of science",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "원자력 기술을 신앙으로 감싸 퍼뜨린 종교.",
+      "note": "파운데이션은 이웃 왕국들에 기술을 건네며 그것을 거룩한 힘으로 섬기게 하고, 기계를 다룰 사람을 사제로 길러 보냈다. 1권 본문은 이것을 그냥 '종교'라 부르며, 무역상인의 시대에 들어 힘을 잃는다. 따로 붙은 정식 이름은 찾지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview",
+        "https://www.google.com/search?tbm=bks&q=%22%EC%85%80%EB%8D%98+%EA%B3%84%ED%9A%8D%22+%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98",
+        "https://en.wikipedia.org/wiki/Foundation_series"
+      ]
+    },
+    {
+      "id": "traders",
+      "ko": "무역상인",
+      "orig": "Traders",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 목차 제4부 '무역상인'과 2권 서문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "파운데이션 물건을 싣고 외곽을 누빈 상인들.",
+      "note": "제국 전성기에도 만들지 못한 작은 원자력 장치를 싣고 수백 광년을 다니며, 장사와 함께 파운데이션의 힘을 넓힌다. 1권 제4부의 제목이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview"
+      ]
+    },
+    {
+      "id": "merchant_princes",
+      "ko": "대상",
+      "orig": "Merchant Princes",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 목차 제5부 '대상(大商)' — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "무역 왕",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 서문('파운데이션의 초대 무역 왕') — 같은 판 안의 다른 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "무역으로 큰 부와 권력을 쥔 상인 우두머리.",
+      "note": "무역이 파운데이션의 중심이 되면서 큰 상인이 정치까지 쥔다. 1권 제5부 제목은 '대상(大商)'이고, 2권 서문은 같은 사람들을 '무역 왕'이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000289/preview"
+      ]
+    },
+    {
+      "id": "korell",
+      "ko": "코렐 공화국",
+      "orig": "Korellian Republic",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 서문('코렐 공화국까지 물리칠 수 있게') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제국 잔존 세력을 등에 업은 외곽의 나라.",
+      "note": "파운데이션과 맞섰다가, 파운데이션이 무역을 끊어 버리는 경제 전쟁에 무릎 꿇는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview"
+      ]
+    },
+    {
+      "id": "siwenna",
+      "ko": "사이웨나",
+      "orig": "Siwenna",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 1장 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "한때 번성했다가 쇠락한 제국 변경의 행성.",
+      "note": "셀던이 살던 때에는 상업과 학문의 중심지였으나 200년 뒤에는 황폐한 변방이 된다. 2권에서 제국의 마지막 명장이 이곳에서 파운데이션의 소문을 쫓기 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview"
+      ]
+    },
+    {
+      "id": "personal_shield",
+      "ko": "개인용 역장 방어벽",
+      "orig": "Personal force-shield",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 2권 1장 본문('개인용 역장 방어벽') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "몸에 두르는 작은 역장 방어벽.",
+      "note": "제국 사람들은 방어벽을 사람 크기로 줄일 수 있다는 것을 믿지 못했지만, 파운데이션 상인은 호두만 한 장치를 허리띠에 달고 다녔다. 그래서 변방에서는 그를 마법사라 불렀다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000289/preview"
+      ]
+    },
+    {
+      "id": "foundation_federation",
+      "ko": "파운데이션 연방",
+      "orig": "Foundation Federation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('파운데이션 연방 중심으로 수도를 옮길') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "파운데이션 연합",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('터미너스가 지배하는 모든 파운데이션 연합') — 같은 판 안의 다른 이름(리디북스 미리보기)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "파운데이션이 거느린 행성들의 연합.",
+      "note": "500년 무렵 파운데이션은 터미너스를 수도로 많은 행성을 거느린다. 수도를 연방 한가운데로 옮기자는 다툼이 셀던 위기가 되기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "conversion",
+      "ko": "전향",
+      "orig": "Conversion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3권 1장 본문('전향', '전향자') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "뮬이 남의 감정을 고쳐 자기편으로 만드는 일.",
+      "note": "돌연변이로 태어난 뮬은 사람 마음속 감정을 바꿔 적을 충성스러운 부하로 만든다. 전향한 사람은 그것을 스스로 만족스럽게 여기며, 풀려나면 원래 마음이 돌아온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000290/preview"
+      ]
+    },
+    {
+      "id": "union_of_worlds",
+      "ko": "행성연방",
+      "orig": "Union of Worlds",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3권 1장의 백과사전 인용('행성연방')과 본문('연방의 제1시민') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "뮬이 세운 행성들의 나라.",
+      "note": "뮬은 '연방의 제1시민'이라는 이름으로 이 나라를 다스렸고, 은하의 10분의 1을 차지했다. 수도는 칼간이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000290/preview"
+      ]
+    },
+    {
+      "id": "kalgan",
+      "ko": "칼간",
+      "orig": "Kalgan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3권 1장 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "환락의 땅으로 이름난 오랜 행성.",
+      "note": "제국 시절 총독이 머물던 곳으로, 제국이 무너진 뒤에는 독립한 왕자들이, 그 뒤에는 뮬이 수도로 삼았다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000290/preview"
+      ]
+    },
+    {
+      "id": "second_foundation",
+      "ko": "제2파운데이션",
+      "orig": "Second Foundation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 3권 제목·서문·1장과 4권 서문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "셀던이 숨겨 세운 또 하나의 파운데이션.",
+      "note": "심리역사학과 정신학을 맡아, 계획이 어긋나지 않게 뒤에서 몰래 바로잡는다. 정체를 감추는 것이 가장 큰 방어여서, 이들이 어디 있는가를 찾는 일이 3·4권의 줄기가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000290/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "speaker",
+      "ko": "발언자",
+      "orig": "Speaker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 목차 제5부 '발언자' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "제2파운데이션을 이끄는 사람들.",
+      "note": "제2파운데이션의 지도자 모임을 이루는 이들로, 심리역사학과 정신학에 가장 뛰어나다. 4권 제5부의 제목이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "first_speaker",
+      "ko": "제1발언자",
+      "orig": "First Speaker",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 서문('위대한 제1발언자'). 옛 현대정보문화사판 5권 목차에도 같은 말(알라딘) — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "발언자들 가운데 우두머리.",
+      "note": "제2파운데이션 전체를 이끄는 자리다. 4권 서문은 뮬 뒤에 제2파운데이션이 드러날 위기를 넘긴 위대한 제1발언자를 소개한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=380207"
+      ]
+    },
+    {
+      "id": "mentalics",
+      "ko": "정신학",
+      "orig": "Mentalics",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 1장 본문('제2파운데이션의 정신학에 바탕을 둔') — 리디북스 미리보기에서 확인",
+      "alt_ko": [
+        {
+          "ko": "정신과학",
+          "src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 서문('심리역사학과 정신과학에 초점을 맞춘 제2파운데이션') — 같은 판 안의 다른 말(리디북스 미리보기)"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "telepathy",
+        "mind_control"
+      ],
+      "one": "남의 마음을 읽고 살짝 바꾸는 제2파운데이션의 학문.",
+      "note": "사람의 감정과 생각을 알아채고 아주 조금 고쳐 행동을 바꾸는 능력이자, 그것을 다루는 학문이다. 제1파운데이션의 물리 기술과 짝을 이룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "psychic_probe",
+      "ko": "정신 탐침기",
+      "orig": "Psychic probe",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('정신 탐침기로 검사라도') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "memory_edit"
+      ],
+      "one": "머릿속을 억지로 들여다보는 장치.",
+      "note": "4권에서 공안국장이 의원을 몰아붙이며 꺼내는 수단으로, 뇌를 다치게 해 되돌리지 못할 위험이 커서 쉽게 쓰지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "neuronic_whip",
+      "ko": "신경 채찍",
+      "orig": "Neuronic whip",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 1부 본문('무장하고 있는 신경 채찍') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "신경에 고통을 주어 제압하는 손 무기.",
+      "note": "파운데이션 경호원들이 차고 다니는 무기로, 4권에서 체포되는 의원이 이것을 보고 저항을 단념한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "hyperspace",
+      "ko": "초공간",
+      "orig": "Hyperspace",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 1장 본문('초공간을 통과하는 도약'), 4권 목차 제9부, 5권 1장 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "hyperspace",
+        "jump_drive"
+      ],
+      "one": "별 사이를 순식간에 건너는 배가 지나는 영역.",
+      "note": "보통의 공간과는 전혀 다른 곳으로 설명되며, 배는 이 안으로 '도약'해 몇만 광년도 금세 건넌다. 빛보다 빨리 갈 수 없다는 옛 지식을 넘는 유일한 길로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "gravitic_ship",
+      "ko": "중력 우주선",
+      "orig": "Gravitic ship",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 1장 본문('중력 우주선 중의 하나로서') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "antigravity"
+      ],
+      "one": "은하의 중력장 힘으로 나는, 연료가 필요 없는 배.",
+      "note": "파운데이션에도 몇 대 없는 새 배로, 은하 중력장에서 에너지를 얻어 연료를 싣지 않는다. 4·5권의 주인공들이 타는 파스타호가 그 하나다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "far_star",
+      "ko": "파스타호",
+      "orig": "Far Star",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 1장 본문('자신의 우주선인 파스타호') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "4·5권의 주인공들이 타고 다니는 배.",
+      "note": "파운데이션 시장이 의원에게 내준 작은 중력 우주선이다. 주인공들은 이 배로 제2파운데이션과 지구를 찾아 은하를 떠돈다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "gaia",
+      "ko": "가이아",
+      "orig": "Gaia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 목차 제15·17부와 5권 목차 제1부·1장 본문('나-우리-가이아') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "행성 전체가 하나의 정신을 이룬 세계.",
+      "note": "사람과 동물과 풀과 바위까지 모두가 한 의식의 일부여서 스스로를 '나-우리-가이아'라 부른다. 기억도 기록 대신 행성 전체에 나뉘어 담긴다. 4권 끝에서 은하의 앞날을 정하는 한 축이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview",
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "galaxia",
+      "ko": "갤럭시아",
+      "orig": "Galaxia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 1장 본문('갤럭시아로 변모할') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "merge"
+      ],
+      "one": "은하 전체를 하나의 정신으로 묶겠다는 앞날의 모습.",
+      "note": "가이아처럼 은하의 모든 것이 한 의식이 되는 상태다. 4권 끝의 선택으로 그쪽 길이 열리고, 5권은 그 선택이 옳았는지 확인하려는 여정이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "isolate",
+      "ko": "고립자",
+      "orig": "Isolate",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 1장 본문('고립자는 거짓말을 할지도') — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "가이아에 속하지 않은 따로 떨어진 개인.",
+      "note": "가이아 사람들은 전체에 속하지 않은 보통 사람을 이렇게 부르며, 홀로여서 두려움이 많고 거짓말을 할 수 있다고 본다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "sayshell",
+      "ko": "세이셸",
+      "orig": "Sayshell",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 목차 제11부 '세이셸' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "파운데이션에 들지 않은 독립 세력의 행성.",
+      "note": "4권의 주인공들이 지구와 가이아의 실마리를 좇아 들르는 곳이다. 파운데이션의 힘이 미치지 않는 곳으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "comporellon",
+      "ko": "콤포렐론",
+      "orig": "Comporellon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 목차 제2부 '콤포렐론' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구를 찾는 여정에서 처음 들르는 행성.",
+      "note": "파운데이션과 느슨하게 이어진 추운 행성으로, 5권의 주인공들이 지구에 관한 옛 이야기의 실마리를 얻는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "aurora",
+      "ko": "오로라",
+      "orig": "Aurora",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 목차 제3부 '오로라' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구를 처음 떠난 사람들이 세운 옛 세계.",
+      "note": "아득한 옛날 지구 사람들이 처음 개척한 세계들 가운데 으뜸이던 행성으로, 5권에 이르면 버려진 지 오래다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "solaria",
+      "ko": "솔라리아",
+      "orig": "Solaria",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 목차 제4부 '솔라리아' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "옛 세계 가운데 아직 사람이 사는 곳.",
+      "note": "바깥 사람을 몹시 꺼리며, 사람마다 넓은 영지에 홀로 살고 수많은 로봇을 부린다. 5권 주인공들이 이곳에서 큰 위험을 겪는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "melpomenia",
+      "ko": "멜포메니아",
+      "orig": "Melpomenia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 목차 제5부 '멜포메니아 행성' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "사람이 사라진 지 오래인 옛 세계.",
+      "note": "5권 여정에서 들르는 버려진 행성으로, 공기마저 거의 남지 않아 몸을 감싸는 옷을 입고 내려야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "alpha",
+      "ko": "알파",
+      "orig": "Alpha",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 5권 목차 제6부 '알파' — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구 가까이 있는 바다 행성.",
+      "note": "온통 바다인 행성의 작은 섬 하나에 사람들이 모여 산다. 5권 여정의 끝 무렵에 들른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "earth",
+      "ko": "지구",
+      "orig": "Earth",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 4권 목차 제6부, 5권 목차 제7부와 1장 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "earth_left"
+      ],
+      "one": "어디 있는지조차 잊힌 인류의 고향.",
+      "note": "이 무렵 은하 사람들은 지구가 어디 있었는지 모르고, 지구에 관한 기록은 은하 도서관에서도 지워져 있다. 지구가 방사능으로 살 수 없게 되었다는 이야기가 전해진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview",
+        "https://ridibooks.com/books/682000291/preview"
+      ]
+    },
+    {
+      "id": "spacers",
+      "ko": "스페이서",
+      "orig": "Spacers",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "spacers",
+        "longevity"
+      ],
+      "one": "지구를 처음 떠나 옛 세계를 세운 사람들.",
+      "note": "아득한 옛날 지구에서 떠나 첫 세계들을 세운 사람들로, 수백 년을 살며 로봇에 기대어 살았다. 5권 주인공들은 이들이 남긴 세계를 차례로 찾아간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview",
+        "https://en.wikipedia.org/wiki/Foundation_series"
+      ]
+    },
+    {
+      "id": "solarians",
+      "ko": "솔라리아인",
+      "orig": "Solarians",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "몸을 스스로 고쳐 홀로 사는 솔라리아 사람.",
+      "note": "남녀의 몸을 한 몸에 지니도록 스스로를 바꾸고, 머리의 특별한 기관으로 에너지를 다뤄 영지와 로봇을 움직인다. 다른 사람과 직접 마주하는 것을 견디지 못한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000292/preview",
+        "https://en.wikipedia.org/wiki/Foundation_series"
+      ]
+    },
+    {
+      "id": "robot",
+      "ko": "로봇",
+      "orig": "Robot",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 7권 1부 본문의 '로봇'과 5권 아시모프 서문의 「로봇」 시리즈 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "android",
+        "robot"
+      ],
+      "one": "사람을 섬기도록 만든 기계.",
+      "note": "솔라리아 같은 옛 세계에서는 로봇이 사람의 일을 도맡는다. 사람과 똑같이 생겨 가려낼 수 없는 로봇도 있어, 그 존재가 6·7권과 5권의 큰 뒤집기가 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ridibooks.com/books/682000294/preview",
+        "https://ridibooks.com/books/682000292/preview"
+      ]
+    },
+    {
+      "id": "three_laws",
+      "ko": "로봇 3원칙",
+      "orig": "Three Laws of Robotics",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013) 출판사 책 소개('로봇 3원칙으로 잘 알려진') — 알라딘·예스24 상품 페이지. 본문의 표기는 보지 못함",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "robot_laws"
+      ],
+      "one": "로봇이 사람을 해치지 못하게 묶는 세 원칙.",
+      "note": "로봇은 사람을 해치지 않고, 사람의 명령을 따르고, 스스로를 지키도록 만들어진다. 출판사는 이것을 심리역사학과 함께 아시모프를 대표하는 말로 소개한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=31844172",
+        "https://www.yes24.com/product/goods/11163647"
+      ]
+    },
+    {
+      "id": "zeroth_law",
+      "ko": "제0원칙",
+      "orig": "Zeroth Law",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "robot_laws"
+      ],
+      "one": "한 사람보다 인류 전체를 앞세우는 로봇의 원칙.",
+      "note": "로봇 3원칙 위에 덧붙은 생각으로, 인류 전체를 지키기 위해서라면 한 사람을 해칠 수도 있다고 본다. 사람 몰래 인류의 길을 이끌어 온 로봇이 내세우는 까닭이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Foundation_series"
+      ]
+    },
+    {
+      "id": "spaceship_and_sun",
+      "ko": "우주선과 태양",
+      "orig": "Spaceship-and-Sun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "황금가지 완전판(2013, 김옥수 옮김) 전자책 1권 1장('우주선과 태양' 문장)과 6권 1부 본문 — 리디북스 미리보기에서 확인",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "은하제국을 나타내는 문장.",
+      "note": "제국 관리와 군인의 옷, 정부 차량만 다니는 길에 새겨져 있다. 황제를 실제로 본 사람이 거의 없어, 이 문장이 황제보다 더 실감 나는 제국의 상징으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682000288/preview",
+        "https://ridibooks.com/books/682000293/preview"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "terms": [
+    {
+      "id": "nerv",
+      "ko": "네르프",
+      "orig": "ネルフ",
+      "orig_en": "NERV",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 작품 소개 '특무 기관 네르프', 21화 제목 「네르프, 탄생」. 넷플릭스 1화 소개(https://www.netflix.com/kr/title/81033445)에도 '네르프'",
+      "alt_ko": [
+        {
+          "ko": "너브",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '네르프' 문서가 '국내 더빙판에서는 영어식 발음인 너브'라고 전함(2차 자료)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "사도와 싸우려고 국제연합 아래 둔 비밀 특무 기관.",
+      "note": "제3 신도쿄시 땅 밑 지오프론트에 본부를 두고 에반게리온과 슈퍼컴퓨터 마기를 거느린다. 연구 기관 게히른을 바꿔 세운 조직이다. 이름은 독일어로 '신경'이라는 뜻이다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.tving.com/contents/P001780673",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/네르프"
+      ]
+    },
+    {
+      "id": "seele",
+      "ko": "제레",
+      "orig": "ゼーレ",
+      "orig_en": "SEELE",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 14화 제목 「제레, 혼의 자리」, 21화 소개. 넷플릭스 한국 『에반게리온: 엔드 오브 에반게리온』 작품 소개(netflix.com/kr/title/60024788)에도 '제레'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "세상을 뒤에서 움직이는 비밀 결사.",
+      "note": "옛 예언서인 사해문서를 쥐고 그 줄거리대로 인류보완계획을 밀고 나간다. 국제연합의 인류보완위원회를 겉얼굴 삼아 네르프를 부리지만, 끝내 네르프 사령관과 갈라서 본부를 치게 한다. 이름은 독일어로 '혼'이다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/60024788",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/제레"
+      ]
+    },
+    {
+      "id": "gehirn",
+      "ko": "게히른",
+      "orig": "ゲヒルン",
+      "orig_en": "Gehirn",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "네르프의 바로 앞 조직이던 비밀 연구 기관.",
+      "note": "국제연합 아래 '인공진화연구소'라는 이름을 겉에 내걸고 에반게리온과 마기를 연구했다. 마기가 완성되자 해체되어 모든 일이 네르프로 넘어갔다. 이름은 독일어로 '뇌'라는 뜻이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/네르프"
+      ]
+    },
+    {
+      "id": "human_instrumentality_committee",
+      "ko": "인류보완위원회",
+      "orig": "人類補完委員会",
+      "orig_en": "Human Instrumentality Committee",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 14화 소개 '인류보완위원회는 사도가 네르프를 침입한 사실을 두고 겐도를 추궁'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "네르프를 감독하는 국제연합 기구.",
+      "note": "네르프의 예산을 대고 사도와의 싸움을 감독하며, 일이 틀어지면 사령관을 불러 따진다. 위원들은 사실 제레의 사람들이어서, 제레가 세상을 움직이는 겉 통로 구실을 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "marduk_institute",
+      "ko": "마르두크 기관",
+      "orig": "マルドゥック機関",
+      "orig_en": "Marduk Institute",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 15화 소개 '마르두크 기관과 관련된 유령 회사'(같은 글에 '마드루크'라는 오타도 있음)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "에바 조종사를 골라낸다는 기관.",
+      "note": "칠드런을 뽑는 곳이라고 알려졌지만, 딸린 회사 백여 곳이 거의 다 이름뿐인 껍데기다. 임원 명단에 네르프 사람들이 올라 있어, 실은 네르프가 뒤에서 움직인다는 의심을 받는다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "jssdf",
+      "ko": "전략 자위대",
+      "orig": "戦略自衛隊",
+      "orig_en": "JSSDF",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 서 - Part 3」의 미사토 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224079117587)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "국제연합군과 따로 움직이는 일본의 군대.",
+      "note": "옛 자위대가 국제연합군에 들어간 뒤 일본이 따로 만든 군대로, 큰 폭탄 같은 무거운 무기를 가졌다. 극장판에서는 일본 정부의 명령을 받고 네르프 본부에 쳐들어가 직원들을 죽인다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224079117587",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/전략자위대"
+      ]
+    },
+    {
+      "id": "jhcic",
+      "ko": "일본중화학공업공동체",
+      "orig": "日本重化学工業共同体",
+      "orig_en": "Japan Heavy Chemical Industries",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 7화 소개 '일본중화학공업공동체가 만든 JA완성기념회'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "거대 로봇 JA를 만든 일본 기업 연합.",
+      "note": "네르프가 에바를 쥐고 있는 데 맞서, 정부 부처와 함께 사람이 타지 않는 거대 로봇 JA를 내놓았다. 공개 시험회에서 에바의 약점을 들추며 네르프를 비웃는다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/제트 얼론"
+      ]
+    },
+    {
+      "id": "wille",
+      "ko": "빌레",
+      "orig": "ヴィレ",
+      "orig_en": "WILLE",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『에반게리온 신극장판 : Q』 작품 소개(laftel.net/item/22888) '반네르프 조직 빌레', 라프텔 『신 에반게리온 극장판 𝄇』 작품 소개(laftel.net/item/41169)도 같음(미라지 엔터테인먼트판). 아마존 프라임 비디오 『에반게리온:3.0+1.01』 한국어 소개(2021)도 '빌레'",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "네르프에 맞서는 옛 네르프 사람들의 조직.",
+      "note": "『신극장판』(Q·신)에만 나온다. 미사토를 비롯한 옛 네르프 사람들이 네르프를 무너뜨리려고 만든 조직으로, 전함 AAA 분더를 탄다. 이름은 독일어로 '의지'다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/22888",
+        "https://laftel.net/item/41169",
+        "https://www.primevideo.com/-/ko/detail/0TYO9O7HS6FG75K7A10B6MZJX9",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "angel",
+      "ko": "사도",
+      "orig": "使徒",
+      "orig_en": "Angel",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 작품 소개, 1화 제목 「사도, 습격」, 5화 소개. 넷플릭스 1화 제목 「사도의 습격」도 같은 낱말",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "space_beast"
+      ],
+      "one": "제3 신도쿄시를 차례로 습격하는 거대하고 낯선 존재.",
+      "note": "모양도 능력도 저마다 다르고, 몸 둘레의 AT필드 때문에 보통 무기는 거의 듣지 않는다. 몸 안의 코어가 급소다. 분석해 보면 사람의 유전 정보와 아주 닮았다. 나타난 차례대로 번호를 붙여 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.tving.com/contents/P001780673",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)",
+        "https://namu.wiki/w/사도(에반게리온 시리즈)"
+      ]
+    },
+    {
+      "id": "adam",
+      "ko": "아담",
+      "orig": "アダム",
+      "orig_en": "Adam",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "남극에서 발견된 첫 번째 사도, 빛의 거인.",
+      "note": "사도들의 근원으로 여겨진다. 세컨드 임팩트는 남극에서 이 거인을 다루던 실험에서 일어났다. 그 뒤 태아만 한 크기로 되살려져, 몰래 네르프 사령관의 손에 들어간다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)"
+      ]
+    },
+    {
+      "id": "lilith",
+      "ko": "릴리스",
+      "orig": "リリス",
+      "orig_en": "Lilith",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 서 - Part 1」의 제레 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224076458509)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "네르프 맨 밑에 십자가로 묶여 있는 흰 거인.",
+      "note": "네르프는 이것을 아담이라고 속여 왔다. 두 번째 사도이며 사람의 근원으로 그려진다. 극장판에서는 거대한 모습으로 일어나 인류의 혼을 거둬들이는 그릇이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224076458509",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)"
+      ]
+    },
+    {
+      "id": "lilin",
+      "ko": "리린",
+      "orig": "リリン",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 다카포 - Part. 1」의 아스카·마리 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224096257341)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "사람을 사도의 하나로 보고 부르는 이름.",
+      "note": "사도들이 아담에서 나왔듯, 사람은 릴리스에서 나온 열여덟 번째 사도라는 뜻이다. 카오루가 사람을 이렇게 부르고, 극장판에서는 미사토도 사람이 곧 리린이라고 말한다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224096257341",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)",
+        "https://namu.wiki/w/릴림"
+      ]
+    },
+    {
+      "id": "evangelion",
+      "ko": "에반게리온",
+      "orig": "エヴァンゲリオン",
+      "orig_en": "Evangelion (EVA)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 작품 소개 '에반게리온 초호기', 회차 소개의 '에바'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "사람이 타고 싸우는 사람 모양의 거대한 인조 생명.",
+      "note": "정식 이름에 '인조인간'이 붙는다. 로봇이 아니라 만들어 낸 거대한 생명체로, 피를 흘리고 스스로 움직이기도 한다. 등에 꽂은 엔트리플러그에 아이가 타고, 등의 전선으로 힘을 받는다. 줄여서 에바.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.tving.com/contents/P001780673",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)"
+      ]
+    },
+    {
+      "id": "eva_unit_00",
+      "ko": "영호기",
+      "orig": "零号機",
+      "orig_en": "Evangelion Unit-00",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 14화 소개 '영호기와 초호기의 기체 호환 테스트', 23화 소개",
+      "alt_ko": [
+        {
+          "ko": "에바 0호기",
+          "src": "넷플릭스 한국 『신세기 에반게리온』(netflix.com/kr/title/81033445, 2019-06-21 공개판) 5화 소개 '에바 0호기의 파일럿'. 라프텔 『에반게리온 신극장판 : 서』 작품 소개(laftel.net/item/13682)도 '에바 0호기'"
+        },
+        {
+          "ko": "제로기",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '에반게리온 영호기' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "레이가 타는 원형 에바.",
+      "note": "가장 먼저 만든 원형기로, 첫 기동 실험에서 폭주해 한동안 묶여 있었다. 야시마 작전에서는 방패를 들고 초호기를 지킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://laftel.net/item/13682",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/에반게리온 영호기"
+      ]
+    },
+    {
+      "id": "eva_unit_01",
+      "ko": "에바 초호기",
+      "orig": "初号機",
+      "orig_en": "Evangelion Unit-01",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 6화 소개 '에바 초호기', 작품 소개 '에반게리온 초호기'. 넷플릭스 2화 소개도 '에바 초호기'",
+      "alt_ko": [
+        {
+          "ko": "에반게리온 1호기",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '에반게리온 초호기' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "신지가 타는 시험형 에바.",
+      "note": "자주 폭주해 조종사 없이도 날뛴다. 코어에는 신지 어머니의 혼이 깃들어 있다. 사도의 S2 기관을 먹고 전선 없이 움직이게 되며, 극장판에서는 서드 임팩트의 한가운데에 놓인다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/에반게리온 초호기"
+      ]
+    },
+    {
+      "id": "eva_unit_02",
+      "ko": "에바 2호기",
+      "orig": "弐号機",
+      "orig_en": "Evangelion Unit-02",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 8화 소개 '에바 2호기와 파일럿인 아스카'. 넷플릭스 8화 소개도 '에바 2호기'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "아스카가 타는 첫 정식 생산형 에바.",
+      "note": "독일에서 만들어 배로 일본까지 실어 왔다. 시험용이 아니라 처음부터 싸움에 쓰려고 만든 기체다. 화산의 용암 속 같은 험한 곳에는 맞춤 장비를 입고 들어간다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/에반게리온 2호기"
+      ]
+    },
+    {
+      "id": "eva_unit_03",
+      "ko": "에바 3호기",
+      "orig": "参号機",
+      "orig_en": "Evangelion Unit-03",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 17·18화 소개 '에바 3호기'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "미국에서 만들어 일본으로 넘겨진 에바.",
+      "note": "4호기 사고 뒤 일본 마츠시로에서 기동 실험을 하다가 사도에게 먹혀 적이 된다. 사령관은 이것을 사도로 보고 부수라고 명한다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/에반게리온 3호기"
+      ]
+    },
+    {
+      "id": "eva_unit_04",
+      "ko": "에바 4호기",
+      "orig": "四号機",
+      "orig_en": "Evangelion Unit-04",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 17화 소개 '에바 4호기와 네르프 제2지부가 소멸'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "S2 기관 실험 중에 사라진 에바.",
+      "note": "미국의 네르프 제2지부에서 사도의 동력원을 옮겨 다는 실험을 하다가, 지부와 둘레 땅까지 통째로 사라졌다. 이 일로 미국은 에바에 관한 권한을 일본 본부에 넘긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/에반게리온 4호기"
+      ]
+    },
+    {
+      "id": "mass_production_eva",
+      "ko": "양산형 에바",
+      "orig": "量産型エヴァンゲリオン",
+      "orig_en": "Mass Production Evangelion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『엔드 오브 에반게리온』 작품 소개(laftel.net/item/14771) — 미라지 엔터테인먼트 수입판(2024-01-17 국내 극장 개봉, 영등위 2023-MF03346). 티빙 소개도 같은 글 '제레는 양산형 에바를 투입해'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "제레가 극장판에서 내보내는 흰 에바 무리.",
+      "note": "아홉 대가 한꺼번에 내려온다. S2 기관을 달아 힘이 다하지 않고, 날개로 날며, 사람 대신 더미플러그로 움직인다. 롱기누스의 창을 본뜬 무기를 든다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/14771",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/양산형 에반게리온"
+      ]
+    },
+    {
+      "id": "entry_plug",
+      "ko": "엔트리플러그",
+      "orig": "エントリープラグ",
+      "orig_en": "Entry Plug",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 20화 소개 '엔트리플러그가 사출'. 신극장판 더빙 받아 적기(https://blog.naver.com/kwoo0221/224076458509)에도 '엔트리 플러그'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에바의 목 뒤에 꽂는 원통 조종석.",
+      "note": "조종사가 이 안에 앉으면 통째로 에바의 척추 자리에 꽂힌다. 안은 LCL로 채워지고, 위급할 때는 스스로 쏘아져 빠져나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://blog.naver.com/kwoo0221/224076458509",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/엔트리 플러그"
+      ]
+    },
+    {
+      "id": "lcl",
+      "ko": "LCL",
+      "orig": "L.C.L.",
+      "orig_en": "LCL",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 20화 소개 'LCL용액'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "엔트리플러그 안을 채우는 주황빛 액체.",
+      "note": "폐까지 채워 그 안에서 숨을 쉴 수 있게 하고, 조종사와 에바를 잇는 매개가 된다. 피 같은 비린내가 난다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "sync_ratio",
+      "ko": "싱크로율",
+      "orig": "シンクロ率",
+      "orig_en": "Synchronization ratio",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 20화 소개 '초호기와 싱크로율이 400%를 넘은', 24화 소개",
+      "alt_ko": [
+        {
+          "ko": "합체도",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '싱크로율' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "조종사와 에바가 얼마나 맞물렸는지 나타내는 수치.",
+      "note": "높을수록 에바를 마음대로 움직이지만, 에바가 입은 상처의 아픔도 조종사에게 크게 돌아온다. 시험으로 꾸준히 재며, 조종사들의 자존심이 걸린 숫자가 되기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/싱크로율"
+      ]
+    },
+    {
+      "id": "dummy_plug",
+      "ko": "더미플러그",
+      "orig": "ダミープラグ",
+      "orig_en": "Dummy Plug",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 18화 소개 '더미플러그를 써서', 23화 소개 '더미시스템의 정체'",
+      "alt_ko": [
+        {
+          "ko": "대체 시스템",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '더미 플러그' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "clone"
+      ],
+      "one": "조종사 없이 에바를 움직이게 하는 장치.",
+      "note": "에바가 사람이 탄 것으로 여기게 속이는 조종석이다. 레이의 인격을 옮겨 심었다고 설명되지만, 실은 레이와 똑같이 만든 몸들을 핵심에 쓴다. 초호기에 처음 쓰였을 때 3호기를 무참히 부순다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/더미 플러그"
+      ]
+    },
+    {
+      "id": "plug_suit",
+      "ko": "플러그 슈트",
+      "orig": "プラグスーツ",
+      "orig_en": "Plug Suit",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "neural_link"
+      ],
+      "one": "조종사가 입는 몸에 붙는 옷.",
+      "note": "에바와 신경을 잇는 일을 돕고, 충격과 온도를 막고, 목숨을 지켜 준다. 꼭 입어야 하는 것은 아니다. 조종사마다 빛깔이 다르다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/플러그 슈트"
+      ]
+    },
+    {
+      "id": "umbilical_cable",
+      "ko": "엄빌리컬 케이블",
+      "orig": "アンビリカルケーブル",
+      "orig_en": "Umbilical Cable",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에바 등에 꽂아 전기를 대는 굵은 전선.",
+      "note": "에바는 스스로 힘을 내지 못해 이 전선에 묶여 싸운다. 끊기면 안에 든 전지로 몇 분밖에 못 버텨, 남은 시간이 화면에서 줄어든다. 도시 곳곳의 건물에 갈아 끼울 전선이 있다. 이름은 탯줄에서 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)"
+      ]
+    },
+    {
+      "id": "progressive_knife",
+      "ko": "프로그레시브 나이프",
+      "orig": "プログレッシブナイフ",
+      "orig_en": "Progressive Knife",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에바가 어깨에 넣고 다니는 칼.",
+      "note": "칼날이 아주 잘게 떨려 닿는 것을 갈라낸다. 전선이 끊긴 짧은 시간 안에 사도의 코어를 찌르는 데 자주 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)",
+        "https://namu.wiki/w/프로그레시브 나이프"
+      ]
+    },
+    {
+      "id": "positron_rifle",
+      "ko": "포지트론 라이플",
+      "orig": "ポジトロンライフル",
+      "orig_en": "Positron Rifle",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "넷플릭스 한국 『신세기 에반게리온』(netflix.com/kr/title/81033445, 2019-06-21 공개판) 6화 소개 '일본 전체 에너지를 끌어모은 포지트론 라이플'. TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함",
+      "alt_ko": [
+        {
+          "ko": "양전자포",
+          "src": "라프텔 『에반게리온 신극장판 : 서』 작품 소개(laftel.net/item/13682) — 신극장판에서 같은 자리에 쓰인 무기의 표기"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "one": "양전자 다발을 쏘는 에바용 큰 총.",
+      "note": "야시마 작전에서는 전략 자위대가 만들던 시험작을 끌어와, 일본 전체의 전기를 모아 먼 산에서 사도의 방어를 꿰뚫었다. 한 발에 엄청난 전기가 든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.netflix.com/kr/title/81033445",
+        "https://laftel.net/item/13682",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/포지트론 라이플"
+      ]
+    },
+    {
+      "id": "n2_mine",
+      "ko": "N2 지뢰",
+      "orig": "N²地雷",
+      "orig_en": "N² Mine",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 서 - Part 1」의 미사토 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224076458509)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "핵이 아니면서 핵만 한 위력의 폭탄 무기.",
+      "note": "국제연합군과 전략 자위대가 가진 가장 센 무기로, 지뢰·폭뢰처럼 여러 모양이 있다. 땅 모양을 바꿀 만큼 터지지만 사도는 잠시 붙잡아 둘 뿐이다.",
+      "spoiler": false,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224076458509",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/N2 폭탄"
+      ]
+    },
+    {
+      "id": "s2_engine",
+      "ko": "S2 기관",
+      "orig": "S²機関",
+      "orig_en": "S² Engine",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사도의 몸속에 든 끝없는 동력원.",
+      "note": "지치지 않는 힘의 근원이라, 이것이 없는 에바는 전선에 묶여 싸운다. 사람들이 이것을 에바에 옮겨 달려던 실험은 큰 사고로 끝났다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/S2 기관"
+      ]
+    },
+    {
+      "id": "core",
+      "ko": "코어",
+      "orig": "コア",
+      "orig_en": "Core",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 9화 소개 '분열된 코어를 동시에 부수는 것'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "사도와 에바의 몸 안에 있는 붉은 공 모양의 핵.",
+      "note": "사도에게는 이것이 급소여서, 부서지면 쓰러진다. 에바에도 코어가 있어, 조종석이 여기에 가까울수록 조종사와 에바가 깊이 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)"
+      ]
+    },
+    {
+      "id": "magi",
+      "ko": "마기",
+      "orig": "MAGI",
+      "orig_en": "MAGI",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 13화 소개 '슈퍼컴퓨터 마기'",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "네르프와 제3 신도쿄시를 돌리는 슈퍼컴퓨터 셋.",
+      "note": "세 대가 따로 판단하고 다수결로 결론을 낸다. 각각에 개발자 한 사람의 서로 다른 면을 옮겨 심어 일부러 의견이 갈리게 했다. 이 셋을 쥐는 것이 곧 본부를 쥐는 일이다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/마기"
+      ]
+    },
+    {
+      "id": "personality_transplant_os",
+      "ko": "인격 이식 OS",
+      "orig": "人格移植OS",
+      "orig_en": "Personality transplant OS",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_upload"
+      ],
+      "one": "사람의 인격을 컴퓨터에 옮겨 심는 기술.",
+      "note": "마기를 만든 아카기 나오코 박사가 개발했고, 마기가 그 첫 작품이다. 과학자로서, 어머니로서, 여자로서의 그녀를 세 대에 하나씩 나눠 심었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "lance_of_longinus",
+      "ko": "롱기누스의 창",
+      "orig": "ロンギヌスの槍",
+      "orig_en": "Lance of Longinus",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "어떤 AT필드도 꿰뚫는 붉은 두 갈래 창.",
+      "note": "거대한 붉은 창으로, 던지면 꼬인 한 줄로 바뀌어 날아간다. 거인을 묶어 두는 데 쓰이고, 다른 무기로는 못 뚫는 AT필드를 뚫는다. 이름은 십자가 위 예수를 찔렀다는 창의 전설에서 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/롱기누스의 창"
+      ]
+    },
+    {
+      "id": "jet_alone",
+      "ko": "JA",
+      "orig": "ジェットアローン",
+      "orig_en": "Jet Alone (J.A.)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 7화 소개 'JA완성기념회', 'JA'. 넷플릭스 7화 소개는 'JA 로봇'",
+      "alt_ko": [
+        {
+          "ko": "용비호",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '제트 얼론' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "에바에 맞서 만든, 원자로를 단 거대 로봇.",
+      "note": "일본중화학공업공동체가 정부 부처와 함께 만들었다. 사람이 타지 않고 멀리서 조종하며, 원자로 덕에 오래 움직이지만 녹아내릴 위험을 안고 있다. 공개 시험 날 제어를 잃고 폭주한다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/제트 얼론"
+      ]
+    },
+    {
+      "id": "aaa_wunder",
+      "ko": "AAA 분더",
+      "orig": "AAAヴンダー",
+      "orig_en": "AAA Wunder",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『에반게리온 신극장판 : Q』 작품 소개(laftel.net/item/22888) '빌레의 전함 AAA 분더', 라프텔 『신 에반게리온 극장판 𝄇』 작품 소개(laftel.net/item/41169) '기함 AAA 분더'(미라지 엔터테인먼트판)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ark"
+      ],
+      "one": "빌레가 타는, 하늘을 나는 전함.",
+      "note": "『신극장판』(Q·신)에만 나온다. 네르프가 짓던 배를 빌레가 빼앗아 초호기를 동력으로 삼았다. 빼앗은 까닭은 보완계획에 휩쓸릴 지구의 생명을 싣고 바깥으로 피신시킬 방주로 쓰려는 것이었다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/22888",
+        "https://laftel.net/item/41169",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/AAA 분더"
+      ]
+    },
+    {
+      "id": "dead_sea_scrolls",
+      "ko": "사해문서",
+      "orig": "死海文書",
+      "orig_en": "Dead Sea Scrolls",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 Q(급) - Part. 2」의 겐도 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224092588586)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "prophecy"
+      ],
+      "one": "제레가 지닌, 사도의 도래를 적은 옛 문서.",
+      "note": "사도가 어떤 차례로 올지와 서드 임팩트까지 적혀 있다고 하며, 제레는 이 줄거리를 그대로 이루려 한다. 제레가 말하는 '시나리오'가 이것이다. 실제 역사의 사해 문서와는 다른 것이다.",
+      "spoiler": false,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224092588586",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "at_field",
+      "ko": "AT필드",
+      "orig": "A.T.フィールド",
+      "orig_en": "A.T. Field (Absolute Terror Field)",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 서 - Part 1」의 후유츠키 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224076458509)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "energy_shield"
+      ],
+      "one": "사도와 에바가 몸 둘레에 펼치는 방어의 벽.",
+      "note": "보통 무기는 거의 다 막아 내고, 세게 부딪치면 팔각형 무늬로 드러난다. 에바만이 자기 AT필드로 상대의 것을 지우거나 찢을 수 있어 사도와 싸울 수 있다. 모든 생명이 지닌 '나'의 경계, 마음의 벽이기도 하다.",
+      "spoiler": false,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224076458509",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/AT 필드"
+      ]
+    },
+    {
+      "id": "anti_at_field",
+      "ko": "안티 AT필드",
+      "orig": "アンチA.T.フィールド",
+      "orig_en": "Anti-A.T. Field",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "AT필드를 거꾸로 허물어뜨리는 힘.",
+      "note": "극장판에서 서드 임팩트가 일어날 때 온 세상에 퍼진다. 이 힘을 받으면 사람마다 지닌 경계가 풀려 몸을 지키지 못하고 액체로 녹아내린다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/AT 필드"
+      ]
+    },
+    {
+      "id": "berserk",
+      "ko": "폭주",
+      "orig": "暴走",
+      "orig_en": "Berserk",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 2화 소개 '초호기의 폭주', 14화 소개 '영호기가 갑작스럽게 폭주'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "에바가 조종을 벗어나 스스로 날뛰는 일.",
+      "note": "전원이 끊기거나 조종사가 정신을 잃어도 움직여, 짐승처럼 사도를 물어뜯기도 한다. 사람이 에바를 다 다루지 못한다는 것을 보여 준다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/エヴァンゲリオン_(架空の兵器)"
+      ]
+    },
+    {
+      "id": "dirac_sea",
+      "ko": "디랙의 바다",
+      "orig": "ディラックの海",
+      "orig_en": "Dirac Sea",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 16화 소개 '디랙의 바다에 빠지고'",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "그림자 모양 사도의 몸이 품은 끝없는 다른 공간.",
+      "note": "열두 번째 사도는 땅에 깔린 그림자가 몸이고, 그 안은 빛도 소리도 닿지 않는 텅 빈 공간이다. 초호기는 그 안에 빠져 전원이 바닥난 채 갇힌다. 물리학의 같은 이름 개념에서 딴 말이다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/使徒_(新世紀エヴァンゲリオン)",
+        "https://namu.wiki/w/디랙의 바다"
+      ]
+    },
+    {
+      "id": "fruit_of_life",
+      "ko": "생명의 열매",
+      "orig": "生命の実",
+      "orig_en": "Fruit of Life",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 서 - Part 1」의 후유츠키 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224076458509)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "사도가 가진, 끝없이 사는 힘.",
+      "note": "성서의 생명나무 열매에서 딴 말로, 사도가 지닌 지치지 않는 힘을 가리킨다. 사람은 다른 쪽 열매인 지혜의 열매를 가졌다고 한다. 두 열매를 모두 가진 존재는 신과 같아진다고 여긴다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224076458509",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/생명의 열매"
+      ]
+    },
+    {
+      "id": "fruit_of_wisdom",
+      "ko": "지혜의 열매",
+      "orig": "知恵の実",
+      "orig_en": "Fruit of Wisdom",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 다카포 - Part. 2」의 겐도 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224100486067)",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "사람이 가진, 생각하고 아는 힘.",
+      "note": "성서의 선악과에서 딴 말로, 사람이 문명과 과학을 이룬 힘으로 그려진다. 대신 사람은 사도와 달리 생명의 열매를 갖지 못했다. 네르프 무늬의 반쪽 무화과 잎도 이 이야기에서 왔다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224100486067",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/지혜의 열매"
+      ]
+    },
+    {
+      "id": "tree_of_life",
+      "ko": "생명의 나무",
+      "orig": "生命の樹",
+      "orig_en": "Tree of Life",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "서드 임팩트 때 하늘에 그려지는 나무 모양.",
+      "note": "극장판에서 양산형 에바들이 초호기를 하늘로 끌어올려 커다란 도형을 그리고, 초호기는 그 한가운데에서 생명의 나무로 바뀐다. 유대교 신비주의의 세피로트 나무에서 딴 것이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "core_ization",
+      "ko": "코어화",
+      "orig": "コア化",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신 에반게리온 극장판 𝄇』 작품 소개(laftel.net/item/41169) '코어화로 붉게 물든 파리 구시가'(미라지 엔터테인먼트판). 아마존 프라임 비디오 소개는 같은 대목을 '코어와 닮은 물질로 석화'라고 풀어 씀",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "땅과 건물이 붉은 물질로 굳어 버리는 현상.",
+      "note": "『신극장판』(Q·신)에만 나온다. 서드 임팩트를 겪은 곳은 무엇이든 붉게 바뀌어, 보통 사람은 보호 장비 없이 다가가지 못한다. 빌레는 기둥을 세워 아직 바뀌지 않은 땅을 지킨다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/41169",
+        "https://www.primevideo.com/-/ko/detail/0TYO9O7HS6FG75K7A10B6MZJX9",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "tokyo_3",
+      "ko": "제3 신도쿄시",
+      "orig": "第3新東京市",
+      "orig_en": "Tokyo-3",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 작품 소개 '제3 신도쿄시', 6화 제목 「결전, 제3 신도쿄시」(1화 소개는 '제3신도쿄시'로 붙여 씀). 넷플릭스 1·6화도 '제3 신도쿄시'",
+      "alt_ko": [
+        {
+          "ko": "제3신서울시",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '제3신동경시' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        },
+        {
+          "ko": "제3 신동경시",
+          "src": "신극장판 한국어 더빙 받아 적기, 네이버 블로그 '글쟁이의 집'(kwoo0221) 「에반게리온 : 파 - Part 1」 마코토 대사(blog.naver.com/kwoo0221/224082615296) — 어느 더빙판인지 밝히지 않음(2차 자료)"
+        }
+      ],
+      "kind": "장소",
+      "concepts": [],
+      "one": "사도를 맞받아치려고 지은 요새 도시.",
+      "note": "하코네의 호숫가에 있다. 겉으로는 다음 수도로 짓는 도시지만, 건물마다 무기와 전선이 숨어 있고, 싸움이 나면 높은 건물들이 땅 밑으로 내려간다. 그 아래에 지오프론트가 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.tving.com/contents/P001780673",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/제3신동경시"
+      ]
+    },
+    {
+      "id": "geofront",
+      "ko": "지오프론트",
+      "orig": "ジオフロント",
+      "orig_en": "GeoFront",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 6화 소개 '지오프론트의 네르프 본부'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "제3 신도쿄시 밑의 거대한 공 모양 땅굴.",
+      "note": "지름 십여 킬로미터의 빈 공간으로, 가운데에 네르프 본부가 서 있다. 위 도시와는 땅속 철길로 이어지고, 땅 위의 빛을 거울로 끌어들인다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/지오프론트"
+      ]
+    },
+    {
+      "id": "central_dogma",
+      "ko": "센트럴 도그마",
+      "orig": "セントラルドグマ",
+      "orig_en": "Central Dogma",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 Q(급) - Part. 3」의 카오루 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224094562265)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "네르프 본부 아래로 이어진 깊은 시설 구역.",
+      "note": "본부 한가운데에서 땅 밑으로 뻗은 구역으로, 마기와 여러 비밀 시설이 있다. 더 내려가면 맨 밑바닥인 터미널 도그마가 나온다. 이름은 생물학 용어에서 따왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224094562265",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/센트럴 도그마"
+      ]
+    },
+    {
+      "id": "terminal_dogma",
+      "ko": "터미널 도그마",
+      "orig": "ターミナルドグマ",
+      "orig_en": "Terminal Dogma",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 : 파 - Part.3」의 아오바 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224087009675)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "네르프 본부의 가장 깊은 밑바닥.",
+      "note": "아담이 갇혀 있다고 알려진 곳으로, 사도가 닿지 못하게 끝까지 막아야 할 자리다. 실제로 거기 십자가에 묶여 있는 것은 아담이 아니라 릴리스다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224087009675",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/터미널 도그마"
+      ]
+    },
+    {
+      "id": "black_moon",
+      "ko": "검은 달",
+      "orig": "黒き月",
+      "orig_en": "Black Moon",
+      "ko_status": "공식",
+      "ko_check": "2차 자료",
+      "ko_src": "네이버 블로그 '글쟁이의 집'(kwoo0221)이 신극장판 한국어 더빙을 받아 적은 대본 「에반게리온 다카포 - Part. 2」의 후유츠키 대사(2025). 블로거가 '더빙판 기준, 불편한 문장은 고침'이라 밝혔고 어느 더빙판인지는 적지 않았다. 신극장판의 표기이며, TV판 최신 정식판(미라지 자막판)의 표기는 찾지 못함 (https://blog.naver.com/kwoo0221/224100486067)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지오프론트의 정체인 거대한 검은 공.",
+      "note": "릴리스가 머물던 거대한 공으로, 지오프론트는 그 안쪽 빈자리다. 극장판에서 서드 임팩트가 일어나자 땅 위로 솟아오르고, 사람들의 혼이 이곳으로 돌아간다.",
+      "spoiler": true,
+      "refs": [
+        "https://blog.naver.com/kwoo0221/224100486067",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/검은 달"
+      ]
+    },
+    {
+      "id": "room_of_guf",
+      "ko": "가프의 방",
+      "orig": "ガフの部屋",
+      "orig_en": "Chamber of Guf",
+      "ko_status": "우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "생명의 혼이 태어나고 돌아가는 곳.",
+      "note": "혼은 여기서 나와 몸을 얻고, 죽으면 여기로 돌아간다고 그려진다. 극장판에서 서드 임팩트가 시작되자 그 문이 열리고 사람들의 혼이 한꺼번에 돌아간다. 유대교 전승의 혼의 창고에서 딴 이름이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/가프의 방"
+      ]
+    },
+    {
+      "id": "second_impact",
+      "ko": "세컨드 임팩트",
+      "orig": "セカンドインパクト",
+      "orig_en": "Second Impact",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 작품 소개 '세계 인구의 절반을 사라지게 만든 세컨드 임팩트'. 넷플릭스 작품 소개도 '세컨드 임팩트'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "2000년 남극에서 일어나 인류 절반을 앗아 간 대재앙.",
+      "note": "남극 대륙이 사라지고 바다가 높아져 많은 도시가 잠겼으며, 일본에서는 사계절이 없어졌다. 세상에는 큰 운석이 떨어졌다고 알려졌지만, 실제로는 남극에서 아담을 다루던 실험이 일으킨 일이다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.tving.com/contents/P001780673",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/세컨드 임팩트"
+      ]
+    },
+    {
+      "id": "third_impact",
+      "ko": "서드 임팩트",
+      "orig": "サードインパクト",
+      "orig_en": "Third Impact",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『엔드 오브 에반게리온』 작품 소개(laftel.net/item/14771) — 미라지 엔터테인먼트 수입판(2024-01-17 국내 극장 개봉, 영등위 2023-MF03346). 티빙 소개도 같은 글 '서드 임팩트 즉, 인류보완계획'. 넷플릭스 TV판 소개 '서드 임팩트를 막아라!'도 같음",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "merge"
+      ],
+      "one": "사도가 본부 밑에 닿으면 일어난다는 또 한 번의 대재앙.",
+      "note": "네르프는 이것을 막으려고 싸운다고 믿었다. 극장판에서는 제레가 에바를 써서 일부러 일으키고, 모든 사람의 경계가 풀려 하나로 녹아드는 인류보완계획이 이루어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/14771",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://www.netflix.com/kr/title/60024788",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/서드 임팩트"
+      ]
+    },
+    {
+      "id": "operation_yashima",
+      "ko": "야시마 작전",
+      "orig": "ヤシマ作戦",
+      "orig_en": "Operation Yashima",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 6화 소개 '야시마 작전'. 넷플릭스 6화 소개도 같음",
+      "alt_ko": [
+        {
+          "ko": "쌍둥이산 작전",
+          "src": "챔프영상 VHS 한국어 더빙(1996) — 나무위키 '야시마 작전' 문서가 '비디오 더빙판' 표기로 전함(2차 자료)"
+        }
+      ],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "일본 전체의 전기를 모아 사도를 저격한 작전.",
+      "note": "공격도 방어도 강한 다섯 번째 사도를 쓰러뜨리려고 미사토가 세웠다. 전국을 정전시켜 모은 전기로 초호기가 먼 산에서 포지트론 라이플을 쏘고, 영호기가 방패로 막는다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/야시마 작전"
+      ]
+    },
+    {
+      "id": "salvage_plan",
+      "ko": "샐비지 계획",
+      "orig": "サルベージ計画",
+      "orig_en": "Salvage",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 20화 소개 '샐비지 계획에 착수'",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "에바에 녹아든 조종사를 되찾아 오는 시도.",
+      "note": "싱크로율이 지나치게 올라 몸이 사라진 조종사를, 엔트리플러그 속 액체에서 몸을 다시 짓고 혼을 붙여 되돌리려 한다. 오래전에도 한 번 같은 시도가 있었으나 실패했다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "human_instrumentality_project",
+      "ko": "인류보완계획",
+      "orig": "人類補完計画",
+      "orig_en": "Human Instrumentality Project",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 25화 소개 '마침내 시작된 인류보완계획'. 라프텔 『엔드 오브 에반게리온』 작품 소개(laftel.net/item/14771) — 미라지 엔터테인먼트 수입판(2024-01-17 국내 극장 개봉, 영등위 2023-MF03346). 티빙 소개도 같은 글도 같음",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "merge"
+      ],
+      "one": "모자란 인류를 하나의 완전한 존재로 만들려는 비밀 계획.",
+      "note": "제레는 서로 이해하지 못해 막다른 데 이른 인류를 경계 없는 하나의 생명으로 끌어올리려 하고, 네르프 사령관은 이것으로 잃은 아내를 다시 만나려 한다. 극장판에서 실제로 일어나지만, 마지막 선택은 신지에게 맡겨진다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://laftel.net/item/14771",
+        "https://www.netflix.com/kr/title/60024788",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧",
+        "https://namu.wiki/w/인류보완계획"
+      ]
+    },
+    {
+      "id": "near_third_impact",
+      "ko": "니어 서드 임팩트",
+      "orig": "ニアサードインパクト",
+      "orig_en": "Near Third Impact",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『에반게리온 신극장판 : Q』 작품 소개(laftel.net/item/22888) '지구에 대재앙을 가져온 니어 서드 임팩트'(미라지 엔터테인먼트판)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "『Q』 앞 14년 사이 세상을 망가뜨린 재앙.",
+      "note": "『신극장판』에만 나온다. 『파』의 끝에서 각성한 초호기가 일으킨 재앙이 시작이 되어, 땅이 붉게 바뀌고 문명이 무너졌다. 『Q』와 『신』은 그로부터 14년이 지난 세상에서 벌어진다.",
+      "spoiler": true,
+      "refs": [
+        "https://laftel.net/item/22888",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    },
+    {
+      "id": "children",
+      "ko": "칠드런",
+      "orig": "チルドレン",
+      "orig_en": "Children",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 17화 소개 '네 번째 파일럿, 포스칠드런'. 넷플릭스 5화 소개 ''퍼스트 칠드런' 아야나미 레이'",
+      "alt_ko": [
+        {
+          "ko": "적격자",
+          "src": "라프텔 『신세기 에반게리온』(laftel.net/item/16197) — 2025-12-31부터 공개된 미라지 엔터테인먼트 판권 자막판(KT스튜디오지니 배급). 티빙 작품 소개도 같은 글 — 17화 제목 「네 번째 적격자」(일본어 適格者)"
+        }
+      ],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "에바 조종사로 뽑힌 열네 살 아이들.",
+      "note": "뽑힌 차례대로 퍼스트·세컨드·서드처럼 부르고, 한 사람을 가리켜도 '칠드런'이라 한다. 마르두크 기관이 고른다고 알려져 있다. 어른들이 아이를 싸움터에 내보낸다는 것이 이야기의 큰 줄기다.",
+      "spoiler": false,
+      "refs": [
+        "https://laftel.net/item/16197",
+        "https://www.netflix.com/kr/title/81033445",
+        "https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオンの用語一覧"
+      ]
+    }
+  ]
+}

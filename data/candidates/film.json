@@ -1,0 +1,3736 @@
+{
+  "group": "film",
+  "candidates": [
+    {
+      "id": "a_trip_to_the_moon",
+      "orig": "Le Voyage dans la Lune",
+      "orig_en": "A Trip to the Moon",
+      "ko": "달나라 여행",
+      "ko_src": "KOBIS 등록 제목(20163069)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Le Voyage dans la Lune (1902, 단편)",
+      "by": "Georges Méliès",
+      "year": 1902,
+      "country": "프랑스",
+      "setting": "천문학자들이 대포로 쏜 포탄을 타고 달에 가서 달나라 사람들과 마주친다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "가장 이른 SF 영화로 꼽히는 1902년 단편(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20163069"
+      },
+      "borderline": false
+    },
+    {
+      "id": "metropolis",
+      "orig": "Metropolis",
+      "orig_en": "",
+      "ko": "메트로폴리스",
+      "ko_src": "KOBIS 등록 제목(20134900)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Thea von Harbou 소설(1925) · Fritz Lang 영화(1927)",
+      "by": "Fritz Lang(감독) · Thea von Harbou(원작·각본)",
+      "year": 1925,
+      "country": "독일",
+      "setting": "땅 위의 부자와 땅 밑 노동자로 갈린 거대 도시, 사람을 본뜬 기계 인간이 난을 부른다",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "위아래로 갈린 계급 도시(부자는 위, 가난한 이는 아래)",
+      "lore_size": "작음",
+      "notability": "첫 장편 SF 영화들 가운데 하나로 꼽히는 1927년 무성 영화(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20134900"
+      },
+      "borderline": false
+    },
+    {
+      "id": "things_to_come",
+      "orig": "Things to Come",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "H. G. Wells 『The Shape of Things to Come』(1933) · 영화 Things to Come(1936)",
+      "by": "William Cameron Menzies(감독) · H. G. Wells(원작·각본)",
+      "year": 1933,
+      "country": "영국",
+      "setting": "긴 세계 전쟁과 역병으로 무너진 문명을 과학자 집단이 다시 세우고 달로 사람을 쏘아 보낸다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "미술 설계의 이정표로 꼽히는 1936년 영국 SF 영화(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에서 찾지 못함",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "forbidden_planet",
+      "orig": "Forbidden Planet",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Forbidden Planet (1956)",
+      "by": "Fred M. Wilcox",
+      "year": 1956,
+      "country": "미국",
+      "setting": "먼 행성에 사라진 옛 종족의 거대 기계가 남아, 사람의 무의식을 괴물로 빚어낸다",
+      "concepts": [
+        "precursor",
+        "robot"
+      ],
+      "new_ideas": "무의식이 실체가 되어 덮치는 기계",
+      "lore_size": "작음",
+      "notability": "1950년대 대표 SF 영화, 스타트렉에 영감을 줬다고 알려짐(영어·한국어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에서 찾지 못함",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "day_earth_stood_still",
+      "orig": "The Day the Earth Stood Still",
+      "orig_en": "",
+      "ko": "지구 최후의 날",
+      "ko_src": "KOBIS 등록 제목(19518003)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Harry Bates 단편 「Farewell to the Master」(1940) · 영화(1951) · 다시 만든 영화(2008)",
+      "by": "Robert Wise(1951 감독) · Harry Bates(원작)",
+      "year": 1940,
+      "country": "미국",
+      "setting": "외계에서 온 사절과 거대 로봇이 핵무기를 든 인류에게 경고하러 내려온다",
+      "concepts": [
+        "alien",
+        "robot",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "미국 국립영화등기부 보존작(1995, 영어 위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "2008년 다시 만든 영화가 '지구가 멈추는 날'로 2008-12-24 국내 개봉(KOBIS). 1951년판은 '지구 최후의 날'로 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20081723"
+      },
+      "borderline": false
+    },
+    {
+      "id": "body_snatchers",
+      "orig": "Invasion of the Body Snatchers",
+      "orig_en": "",
+      "ko": "신체 강탈자의 침입",
+      "ko_src": "KOBIS 등록 제목(20156491, 1956년판)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Jack Finney 소설(1954) · 영화 1956, 1978, 1993(Body Snatchers), 2007(The Invasion)",
+      "by": "Jack Finney(원작) · Don Siegel(1956 감독)",
+      "year": 1954,
+      "country": "미국",
+      "setting": "우주에서 온 꼬투리가 잠든 사람을 감정 없는 똑같은 몸으로 바꿔치기한다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "잠든 사이 똑같은 가짜로 바뀌는 사람(바꿔치기 침략)",
+      "lore_size": "작음",
+      "notability": "1956년 영화가 SF 공포의 고전, 영화로 네 번 만들어짐(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 1956년판 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20156491"
+      },
+      "borderline": false
+    },
+    {
+      "id": "godzilla",
+      "orig": "ゴジラ",
+      "orig_en": "Godzilla",
+      "ko": "고질라",
+      "ko_src": "KOBIS: 고질라(2014, 2014-05-15 개봉) · 신 고질라(2016, 2017-03-08 개봉). 1954년 첫 편은 '고지라'로 등록",
+      "media": [
+        "영화",
+        "애니메이션",
+        "드라마",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "ゴジラ(1954)부터 일본 영화 30여 편 · 미국 '몬스터버스'(2014~) · 애니메이션 영화 3부작(2017~18)",
+      "by": "東宝(Toho) · 本多猪四郎(첫 편 감독)",
+      "year": 1954,
+      "country": "일본",
+      "setting": "핵 실험으로 깨어난 거대 괴수가 도시를 짓밟고, 사람들은 괴수와 맞서거나 함께 살아간다",
+      "concepts": [
+        "space_beast"
+      ],
+      "new_ideas": "핵이 낳은 괴수",
+      "lore_size": "큼",
+      "notability": "1954년부터 이어진 일본 대표 괴수 시리즈, 『ゴジラ-1.0』 은 아카데미 시각효과상",
+      "korean": {
+        "status": "일부",
+        "detail": "신 고질라 2017-03-08, 미국판 고질라 2014-05-15·고질라 VS. 콩 2021-03-25 등 국내 개봉(KOBIS). 1954년 첫 편과 옛 일본 영화는 개봉 기록 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20165367"
+      },
+      "borderline": true
+    },
+    {
+      "id": "gamera",
+      "orig": "ガメラ",
+      "orig_en": "Gamera",
+      "ko": "가메라",
+      "ko_src": "KOBIS 등록 제목(1995 '가메라 - 대괴수 공중결전' 등)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "大怪獣ガメラ(1965)부터 영화 12편 · 넷플릭스 애니메이션 GAMERA -Rebirth-(2023)",
+      "by": "大映(Daiei) · 湯浅憲明(첫 편 감독)",
+      "year": 1965,
+      "country": "일본",
+      "setting": "옛 문명이 만든 거대 거북 괴수가 사람 편에 서서 다른 괴수들과 싸운다",
+      "concepts": [
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "고질라와 겨룬 일본 괴수 시리즈, 영화 12편(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1995·1996·1999년 3부작이 KOBIS 에 한국어 제목으로 등록(1995년작은 전체관람가 등급), 개봉일 기록 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19958017"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_fly",
+      "orig": "The Fly",
+      "orig_en": "",
+      "ko": "플라이",
+      "ko_src": "KOBIS(1986년판, 1988-08-13 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "George Langelaan 단편(1957) · 영화 1958과 속편 둘 · 크로넌버그판(1986)과 속편(1989)",
+      "by": "George Langelaan(원작) · David Cronenberg(1986 감독)",
+      "year": 1957,
+      "country": "미국",
+      "setting": "물질 전송 장치에 파리가 섞여 들어가 과학자의 몸이 서서히 파리로 변해 간다",
+      "concepts": [
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "크로넌버그판(1986) 아카데미 분장상",
+      "korean": {
+        "status": "있음",
+        "detail": "1986년판 '플라이' 1988-08-13 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19880175"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alphaville",
+      "orig": "Alphaville, une étrange aventure de Lemmy Caution",
+      "orig_en": "Alphaville",
+      "ko": "알파빌",
+      "ko_src": "KOBIS 등록 제목(19658017)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alphaville (1965)",
+      "by": "Jean-Luc Godard",
+      "year": 1965,
+      "country": "프랑스",
+      "setting": "감정과 시를 금한 컴퓨터가 다스리는 도시에 한 탐정이 숨어든다",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1965 베를린 영화제 황금곰상(한국어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19658017"
+      },
+      "borderline": false
+    },
+    {
+      "id": "twelve_monkeys",
+      "orig": "12 Monkeys",
+      "orig_en": "",
+      "ko": "12 몽키즈",
+      "ko_src": "KOBIS(1996-04-05 개봉). 원작 단편 La Jetée 는 '환송대'로 등록",
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "La Jetée(1962, 단편) · 12 Monkeys(1995) · 드라마 12 Monkeys(2015~2018)",
+      "by": "Chris Marker(La Jetée) · Terry Gilliam(12 Monkeys)",
+      "year": 1962,
+      "country": "프랑스·미국",
+      "setting": "바이러스로 무너진 미래에서 죄수 한 사람을 과거로 보내 재앙의 시작을 캐게 한다",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "사진으로 엮은 단편 La Jetée 가 고전, 이를 옮긴 1995년 영화가 네 시즌 드라마로 이어짐(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "'12 몽키즈' 1996-04-05 국내 개봉(KOBIS). 드라마판 정식 공개는 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19960132"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ikarie_xb1",
+      "orig": "Ikarie XB 1",
+      "orig_en": "Ikarie XB-1",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Stanisław Lem 『Obłok Magellana』(1955)를 느슨하게 옮긴 영화 Ikarie XB 1(1963)",
+      "by": "Jindřich Polák",
+      "year": 1955,
+      "country": "체코슬로바키아",
+      "setting": "22세기 우주선이 알파 센타우리로 가는 몇 해 동안 승무원들이 배 안에서 살아간다",
+      "concepts": [
+        "sublight",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "체코슬로바키아 SF 영화의 고전, 미국에서 Voyage to the End of the Universe 로 공개(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에서 찾지 못함",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fantastic_voyage",
+      "orig": "Fantastic Voyage",
+      "orig_en": "",
+      "ko": "바디 캡슐",
+      "ko_src": "KOBIS 등록 제목(19668006)",
+      "media": [
+        "영화",
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "영화",
+      "series": "영화(1966) · Isaac Asimov 소설판(1966) · 애니메이션(1968)",
+      "by": "Richard Fleischer",
+      "year": 1966,
+      "country": "미국",
+      "setting": "잠수정과 대원들을 세균만큼 줄여 다친 과학자의 핏줄 속으로 들여보낸다",
+      "concepts": [],
+      "new_ideas": "사람과 기계를 아주 작게 줄이는 기술",
+      "lore_size": "작음",
+      "notability": "아카데미 미술상·시각효과상 수상(1967)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19668006"
+      },
+      "borderline": false
+    },
+    {
+      "id": "planet_of_the_apes",
+      "orig": "La Planète des singes",
+      "orig_en": "Planet of the Apes",
+      "ko": "혹성탈출",
+      "ko_src": "KOBIS: 혹성탈출(1968, 등록) · 혹성탈출: 진화의 시작(2011)~새로운 시대(2024) 개봉",
+      "media": [
+        "소설",
+        "영화",
+        "드라마",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "Pierre Boulle 소설(1963) · 영화 다섯 편(1968~73) · 팀 버튼판(2001) · 새 시리즈 넷(2011~2024) · 드라마(1974)",
+      "by": "Pierre Boulle(원작) · 20th Century Fox",
+      "year": 1963,
+      "country": "프랑스·미국",
+      "setting": "말하고 생각하는 유인원이 다스리고 사람은 말 없는 짐승처럼 사는 세계",
+      "concepts": [
+        "uplift",
+        "time_dilation",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "1968년부터 영화 열 편, 2024년 '혹성탈출: 새로운 시대'까지",
+      "korean": {
+        "status": "있음",
+        "detail": "혹성탈출: 진화의 시작 2011-08-17 · 반격의 서막 2014-07-10 · 종의 전쟁 2017-08-15 · 새로운 시대 2024-05-08 국내 개봉(KOBIS). 1968년 첫 편은 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20247783"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_odyssey",
+      "orig": "2001: A Space Odyssey",
+      "orig_en": "",
+      "ko": "2001 스페이스 오디세이",
+      "ko_src": "KOBIS 등록 제목(19688005). 한국어 위키 표제는 '2001: 스페이스 오디세이'",
+      "media": [
+        "영화",
+        "소설"
+      ],
+      "first_medium": "영화",
+      "series": "영화(1968) · Arthur C. Clarke 소설 넷(2001, 2010, 2061, 3001) · 영화 2010(1984)",
+      "by": "Stanley Kubrick · Arthur C. Clarke",
+      "year": 1968,
+      "country": "영국·미국",
+      "setting": "검은 돌기둥을 남긴 외계 지성이 인류의 진화를 이끌고, 목성행 우주선의 인공지능이 등을 돌린다",
+      "concepts": [
+        "godlike",
+        "next_human",
+        "ai_revolt",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "아카데미 시각효과상, 영화사 걸작 투표 상위 단골",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음). 속편 영화 2010 은 '2010년 우주 여행'으로 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19688005"
+      },
+      "borderline": false
+    },
+    {
+      "id": "thx_1138",
+      "orig": "THX 1138",
+      "orig_en": "",
+      "ko": "THX 1138",
+      "ko_src": "KOBIS 등록 제목(19708018)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "단편 Electronic Labyrinth THX 1138 4EB(1967) · 장편 THX 1138(1971)",
+      "by": "George Lucas",
+      "year": 1967,
+      "country": "미국",
+      "setting": "감정을 누르는 약을 먹고 로봇 경찰의 감시 아래 사는 지하 도시",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "감정을 약으로 누르는 사회",
+      "lore_size": "작음",
+      "notability": "조지 루커스의 첫 장편(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19708018"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silent_running",
+      "orig": "Silent Running",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Silent Running (1972)",
+      "by": "Douglas Trumbull",
+      "year": 1972,
+      "country": "미국",
+      "setting": "지구의 숲이 사라진 뒤, 마지막 숲을 실은 우주선을 한 사람과 작은 로봇들이 지킨다",
+      "concepts": [
+        "ark",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "더글러스 트럼벌 감독 데뷔작, 생태 SF 의 고전(영어·한국어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에서 찾지 못함(한국어 위키 표제는 '싸일런트 러닝')",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "solaris",
+      "orig": "Solaris",
+      "orig_en": "",
+      "ko": "솔라리스",
+      "ko_src": "KOBIS: 1972년판 등록 제목, 2002년판 2003-04-18 개봉",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Stanisław Lem 소설(1961) · Tarkovsky 영화(1972) · Soderbergh 영화(2002)",
+      "by": "Stanisław Lem(원작) · Андрей Тарковский(1972 감독)",
+      "year": 1961,
+      "country": "폴란드·소련",
+      "setting": "바다 하나가 통째로 생각하는 행성, 그 곁 정거장에 떠나보낸 이들의 모습이 되살아난다",
+      "concepts": [
+        "living_planet",
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1972 칸 영화제 심사위원 대상(한국어 위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "2002년판 '솔라리스' 2003-04-18 국내 개봉(KOBIS). 1972년판은 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20030044"
+      },
+      "borderline": false
+    },
+    {
+      "id": "westworld",
+      "orig": "Westworld",
+      "orig_en": "",
+      "ko": "이색지대",
+      "ko_src": "KOBIS 등록 제목(1973년 영화, 20078553)",
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "영화 Westworld(1973) · Futureworld(1976) · 드라마 Beyond Westworld(1980) · HBO 드라마 Westworld(2016~2022)",
+      "by": "Michael Crichton(영화) · Jonathan Nolan·Lisa Joy(HBO 드라마)",
+      "year": 1973,
+      "country": "미국",
+      "setting": "사람과 똑같은 기계 인형이 손님을 맞는 놀이공원에서 기계들이 깨어나 사람에게 맞선다",
+      "concepts": [
+        "android",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "HBO 드라마판 네 시즌, 에미상 수상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1973년 영화는 '이색지대', 속편은 '미래세계의 음모'로 KOBIS 에 제목만 등록. HBO 드라마 정식 공개는 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20078553"
+      },
+      "borderline": false
+    },
+    {
+      "id": "soylent_green",
+      "orig": "Soylent Green",
+      "orig_en": "",
+      "ko": "소일렌트 그린",
+      "ko_src": "KOBIS 등록 제목(19738070)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Harry Harrison 소설(1966) · 영화 Soylent Green(1973)",
+      "by": "Harry Harrison(원작) · Richard Fleischer(감독)",
+      "year": 1966,
+      "country": "미국",
+      "setting": "온실 효과와 인구 폭발로 먹을 것이 바닥난 뉴욕, 나라가 나눠 주는 식량에 비밀이 있다",
+      "concepts": [
+        "catastrophe",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "결말 한 줄 대사로 널리 알려진 1973년 디스토피아 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 영화 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19738070"
+      },
+      "borderline": false
+    },
+    {
+      "id": "logans_run",
+      "orig": "Logan's Run",
+      "orig_en": "",
+      "ko": "로건의 탈출",
+      "ko_src": "KOBIS 등록 제목(20259736)",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "소설(1967) · 영화(1976) · 드라마(1977)",
+      "by": "William F. Nolan·George Clayton Johnson(원작) · Michael Anderson(감독)",
+      "year": 1967,
+      "country": "미국",
+      "setting": "자원을 맞추려 서른 살이 된 사람을 모두 죽이는 돔 도시에서 한 추적자가 달아난다",
+      "concepts": [],
+      "new_ideas": "정해진 나이가 되면 죽여 인구를 맞추는 사회",
+      "lore_size": "작음",
+      "notability": "1977 아카데미 특별상(시각효과)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20259736"
+      },
+      "borderline": false
+    },
+    {
+      "id": "close_encounters",
+      "orig": "Close Encounters of the Third Kind",
+      "orig_en": "",
+      "ko": "미지와의 조우",
+      "ko_src": "KOBIS(1982-03-13 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Close Encounters of the Third Kind (1977)",
+      "by": "Steven Spielberg",
+      "year": 1977,
+      "country": "미국",
+      "setting": "비행접시를 본 사람들이 한 산으로 이끌려 가고, 그곳에서 외계인과 처음 만난다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 촬영상",
+      "korean": {
+        "status": "있음",
+        "detail": "'미지와의 조우' 1982-03-13 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19820102"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stalker",
+      "orig": "Пикник на обочине",
+      "orig_en": "Roadside Picnic / Stalker",
+      "ko": "잠입자",
+      "ko_src": "KOBIS 등록 제목(20168003). 같은 영화가 '스토커'로도 등록(19798060)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Стругацкие 형제 소설 Пикник на обочине(1972) · Тарковский 영화 Сталкер(1979)",
+      "by": "Аркадий и Борис Стругацкие(원작·각본) · Андрей Тарковский(감독)",
+      "year": 1972,
+      "country": "소련",
+      "setting": "외계의 무언가가 다녀간 뒤 법칙이 뒤틀린 '구역', 길잡이가 소원을 들어준다는 방으로 사람들을 이끈다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "외계가 다녀가 법칙이 뒤틀린 출입 금지 구역",
+      "lore_size": "중간",
+      "notability": "영국 영화 협회 걸작 투표 29위(한국어 위키), 소설은 게임 S.T.A.L.K.E.R. 에 영감",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "영화가 KOBIS 에 '잠입자'·'스토커' 두 제목으로 등록(개봉일 기록 없음). 소설 번역은 이 갈래에서 안 봄",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20168003"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien",
+      "orig": "Alien",
+      "orig_en": "",
+      "ko": "에이리언",
+      "ko_src": "한국어 위키(국내 개봉 때 공식 제목은 '에이리언'이라 적음) · KOBIS 1987-10-01 개봉",
+      "media": [
+        "영화",
+        "드라마",
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 일곱 편 Alien(1979)~Alien: Romulus(2024, Prometheus·Covenant 포함) · 드라마 Alien: Earth(2025) · 프레데터와 맞붙는 Alien vs. Predator 두 편",
+      "by": "Ridley Scott · Dan O'Bannon 외",
+      "year": 1979,
+      "country": "미국·영국",
+      "setting": "우주 화물선 승무원이 사람 몸에 새끼를 심는 괴물을 만나고, 회사는 그 괴물을 무기로 탐낸다",
+      "concepts": [
+        "parasite",
+        "mega_corp",
+        "android",
+        "cryosleep",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "첫 편 아카데미 시각효과상, 영화 일곱 편과 드라마로 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "에이리언 1987-10-01 · 에이리언 2 1986-12-24 · 에이리언: 로물루스 2024-08-14 등 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20249188"
+      },
+      "borderline": false
+    },
+    {
+      "id": "mad_max",
+      "orig": "Mad Max",
+      "orig_en": "",
+      "ko": "매드맥스",
+      "ko_src": "KOBIS(1980-07-26 개봉). 넷째 편은 '매드 맥스: 분노의 도로'",
+      "media": [
+        "영화",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "Mad Max(1979) · The Road Warrior(1981) · Beyond Thunderdome(1985) · Fury Road(2015) · Furiosa(2024)",
+      "by": "George Miller",
+      "year": 1979,
+      "country": "호주",
+      "setting": "문명이 무너져 가는 사막에서 기름과 물을 두고 패거리들이 자동차로 싸운다",
+      "concepts": [
+        "catastrophe",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "'분노의 도로'(2015) 아카데미 6개 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "매드맥스 1980-07-26 · 매드맥스3 1985-09-18 · 분노의 도로 2015-05-14 · 퓨리오사 2024-05-22 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20144741"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tron",
+      "orig": "Tron",
+      "orig_en": "",
+      "ko": "트론",
+      "ko_src": "KOBIS: 트론(1982, 등록) · 트론: 새로운 시작(2010-12-29 개봉) · 트론: 아레스(2025-10-08 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "Tron(1982) · Tron: Legacy(2010) · Tron: Ares(2025) · 애니메이션 Tron: Uprising(2012~13)",
+      "by": "Steven Lisberger · Disney",
+      "year": 1982,
+      "country": "미국",
+      "setting": "컴퓨터 안에 프로그램들이 사람처럼 사는 세계가 있고, 사람이 몸째 그 안으로 들어간다",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "컴퓨터 속 가상 세계로 들어가기",
+      "lore_size": "중간",
+      "notability": "컴퓨터 그래픽을 처음 대량으로 쓴 영화 가운데 하나, 영화 세 편(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "트론: 새로운 시작 2010-12-29 · 트론: 아레스 2025-10-08 국내 개봉(KOBIS). 1982년 첫 편은 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20101225"
+      },
+      "borderline": false
+    },
+    {
+      "id": "et",
+      "orig": "E.T. the Extra-Terrestrial",
+      "orig_en": "",
+      "ko": "이티",
+      "ko_src": "KOBIS 등록 제목(20020328, 1984-06-23 개봉). 한국어 위키 표제는 'E.T.'",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "E.T. the Extra-Terrestrial (1982)",
+      "by": "Steven Spielberg",
+      "year": 1982,
+      "country": "미국",
+      "setting": "지구에 홀로 남은 외계인을 한 소년이 숨겨 주고 집으로 돌려보낸다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1982년 세계 흥행 1위, 아카데미 4개 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "1984-06-23 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20020328"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_thing",
+      "orig": "The Thing",
+      "orig_en": "",
+      "ko": "괴물",
+      "ko_src": "KOBIS: 1982년판 '괴물'(등록) · 2011년판 '더 씽'(2012-06-14 개봉)",
+      "media": [
+        "소설",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "John W. Campbell 중편(1938) · 영화 The Thing from Another World(1951) · The Thing(1982) · 앞 이야기 The Thing(2011) · 게임(2002)",
+      "by": "John W. Campbell(원작) · John Carpenter(1982 감독)",
+      "year": 1938,
+      "country": "미국",
+      "setting": "남극 기지에서 깨어난 외계 생물이 사람과 개를 삼켜 똑같이 흉내 내며 숨어든다",
+      "concepts": [
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "카펜터의 1982년판이 SF 공포 고전으로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011년판 '더 씽' 2012-06-14 국내 개봉(KOBIS). 1982년판은 KOBIS 에 '괴물'로 등록되고 한국어 위키에 국내 등급(청소년 관람불가) 기록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20126617"
+      },
+      "borderline": false
+    },
+    {
+      "id": "terminator",
+      "orig": "The Terminator",
+      "orig_en": "",
+      "ko": "터미네이터",
+      "ko_src": "KOBIS(1984-12-22 개봉)",
+      "media": [
+        "영화",
+        "드라마",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 여섯 편(1984~2019) · 드라마 Terminator: The Sarah Connor Chronicles(2008~09) · 애니메이션 Terminator Zero(2024)",
+      "by": "James Cameron",
+      "year": 1984,
+      "country": "미국",
+      "setting": "스스로 깨어난 군사 인공지능이 핵전쟁을 일으키고, 기계와 사람이 시간을 거슬러 싸운다",
+      "concepts": [
+        "ai_revolt",
+        "time_travel",
+        "android",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "2편 아카데미 4개 부문 수상, 영화 여섯 편",
+      "korean": {
+        "status": "있음",
+        "detail": "터미네이터 1984-12-22부터 다크 페이트 2019-10-30까지 영화 여섯 편 모두 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19840091"
+      },
+      "borderline": false
+    },
+    {
+      "id": "back_to_the_future",
+      "orig": "Back to the Future",
+      "orig_en": "",
+      "ko": "빽 투 더 퓨쳐",
+      "ko_src": "KOBIS(1987-07-17 개봉 제목). 한국어 위키 표제는 '백 투 더 퓨처'",
+      "media": [
+        "영화",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 세 편(1985, 1989, 1990) · 애니메이션(1991~92)",
+      "by": "Robert Zemeckis · Bob Gale",
+      "year": 1985,
+      "country": "미국",
+      "setting": "괴짜 과학자가 자동차로 만든 시간 기계를 타고 한 소년이 부모의 젊은 날로 간다",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1985년 미국 흥행 1위, 아카데미 음향효과편집상",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 1987-07-17 · 2편 1990-01-13 · 3편 1990-07-14 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19870114"
+      },
+      "borderline": false
+    },
+    {
+      "id": "brazil",
+      "orig": "Brazil",
+      "orig_en": "",
+      "ko": "브라질",
+      "ko_src": "KOBIS 등록 제목(19858069). 비디오판 제목은 '여인의 음모'(한국어 위키)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Brazil (1985)",
+      "by": "Terry Gilliam",
+      "year": 1985,
+      "country": "영국·미국",
+      "setting": "서류와 관료가 모든 것을 쥔 미래 사회에서 글자 하나 잘못 친 서류가 한 사람을 무너뜨린다",
+      "concepts": [],
+      "new_ideas": "관료 기계가 된 국가",
+      "lore_size": "작음",
+      "notability": "디스토피아 풍자의 고전으로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "비디오판 '여인의 음모'로 나왔다고 한국어 위키가 적음. KOBIS 에는 '브라질'로 등록(개봉일 기록 없음)",
+        "src": "https://ko.wikipedia.org/wiki/브라질_(1985년_영화)"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kin_dza_dza",
+      "orig": "Кин-дза-дза!",
+      "orig_en": "Kin-dza-dza!",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "애니메이션"
+      ],
+      "first_medium": "영화",
+      "series": "Кин-дза-дза!(1986) · 애니메이션 Ку! Кин-дза-дза(2013)",
+      "by": "Георгий Данелия",
+      "year": 1986,
+      "country": "소련",
+      "setting": "모스크바의 두 사내가 순간 이동 장치로 사막 행성에 떨어져, 성냥 한 개가 큰돈인 계급 사회를 겪는다",
+      "concepts": [
+        "teleport",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "소련 컬트 SF 희극, 2013년 같은 감독이 애니메이션으로 다시 만듦(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1986년 영화는 KOBIS 에서 찾지 못함. 2013년 애니메이션이 '쿠! 킨-자-자'로 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20142626"
+      },
+      "borderline": false
+    },
+    {
+      "id": "robocop",
+      "orig": "RoboCop",
+      "orig_en": "",
+      "ko": "로보캅",
+      "ko_src": "KOBIS(1987-12-25 개봉)",
+      "media": [
+        "영화",
+        "드라마",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "영화 네 편(1987, 1990, 1993, 2014) · 드라마 둘(1994, 2000) · 애니메이션",
+      "by": "Paul Verhoeven",
+      "year": 1987,
+      "country": "미국",
+      "setting": "범죄가 들끓는 근미래 디트로이트, 거대 기업이 죽은 경찰을 기계 몸의 경찰로 되살린다",
+      "concepts": [
+        "cyborg",
+        "mega_corp",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "아카데미 특별상(음향효과편집), 영화 네 편",
+      "korean": {
+        "status": "있음",
+        "detail": "로보캅 1987-12-25 · 2편 1990-07-28 · 3편 1993-05-28 · 2014년판 2014-02-13 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19870154"
+      },
+      "borderline": false
+    },
+    {
+      "id": "predator",
+      "orig": "Predator",
+      "orig_en": "",
+      "ko": "프레데터",
+      "ko_src": "KOBIS(1987-07-17 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "Predator(1987) · 2(1990) · Predators(2010) · The Predator(2018) · Prey(2022) · Predator: Badlands(2025) · 애니메이션 Killer of Killers(2025) · 에이리언과 맞붙는 Alien vs. Predator 두 편",
+      "by": "John McTiernan · Jim·John Thomas",
+      "year": 1987,
+      "country": "미국",
+      "setting": "사냥을 명예로 여기는 외계 종족이 지구에 내려와 가장 센 사람을 사냥감으로 고른다",
+      "concepts": [
+        "alien",
+        "beam_weapon"
+      ],
+      "new_ideas": "몸을 보이지 않게 하는 위장 장치",
+      "lore_size": "중간",
+      "notability": "영화 여섯 편과 애니메이션, 2025 '죽음의 땅'까지",
+      "korean": {
+        "status": "있음",
+        "detail": "프레데터 1987-07-17 · 더 프레데터 2018-09-12 · 프레데터: 죽음의 땅 2025-11-05 국내 개봉(KOBIS). Prey 는 '프레이'로 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19870115"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_nation",
+      "orig": "Alien Nation",
+      "orig_en": "",
+      "ko": "에이리언 네이션",
+      "ko_src": "KOBIS 등록 제목(1996 TV 영화 'Alien Nation: Millennium' → '에이리언 네이션 : 데쓰 미션')",
+      "media": [
+        "영화",
+        "드라마",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "영화",
+      "series": "영화(1988) · 드라마(1989~90) · TV 영화 다섯 편(1994~97)",
+      "by": "Graham Baker(감독) · Rockne S. O'Bannon(각본)",
+      "year": 1988,
+      "country": "미국",
+      "setting": "노예선을 타고 온 외계 종족 수십만이 로스앤젤레스에 정착해 차별 속에 이웃으로 산다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "지구에 섞여 사는 외계 난민",
+      "lore_size": "중간",
+      "notability": "영화의 인기로 드라마와 TV 영화가 이어진 매체 묶음(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1988년 영화는 KOBIS 에서 찾지 못함. TV 영화 둘이 한국어 제목으로 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19968203"
+      },
+      "borderline": false
+    },
+    {
+      "id": "they_live",
+      "orig": "They Live",
+      "orig_en": "",
+      "ko": "화성인 지구정복",
+      "ko_src": "KOBIS 등록 제목(19888280)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Ray Nelson 단편(1963) · 영화 They Live(1988)",
+      "by": "Ray Nelson(원작) · John Carpenter(감독)",
+      "year": 1963,
+      "country": "미국",
+      "setting": "특수 안경을 쓰면 지배층이 사람으로 꾸민 외계인이고 광고마다 복종하라는 글이 보인다",
+      "concepts": [
+        "alien",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "존 카펜터의 컬트 고전(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19888280"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bill_and_ted",
+      "orig": "Bill & Ted's Excellent Adventure",
+      "orig_en": "",
+      "ko": "엑설런트 어드벤처",
+      "ko_src": "KOBIS(1989-07-15 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "드라마",
+        "만화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "영화 세 편(1989, 1991, 2020) · 애니메이션 · 드라마",
+      "by": "Stephen Herek · Chris Matheson·Ed Solomon",
+      "year": 1989,
+      "country": "미국",
+      "setting": "미래 사회의 바탕이 될 두 고등학생이 공중전화 시간 기계로 역사 속 인물들을 모으러 다닌다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 세 편으로 이어진 시간 여행 희극(영어 위키)",
+      "korean": {
+        "status": "일부",
+        "detail": "1편 '엑설런트 어드벤처' 1989-07-15 국내 개봉(KOBIS). 2·3편은 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19890209"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_abyss",
+      "orig": "The Abyss",
+      "orig_en": "",
+      "ko": "심연",
+      "ko_src": "KOBIS(1990-07-07 개봉). '어비스'로도 등록",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Abyss (1989)",
+      "by": "James Cameron",
+      "year": 1989,
+      "country": "미국",
+      "setting": "깊은 바다 밑에 빛나는 외계 지성이 살고, 잠수부들이 핵무기를 사이에 두고 그들과 마주친다",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상",
+      "korean": {
+        "status": "있음",
+        "detail": "'심연' 1990-07-07 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19900243"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tetsuo",
+      "orig": "鉄男",
+      "orig_en": "Tetsuo: The Iron Man",
+      "ko": "철남",
+      "ko_src": "KOBIS 등록 제목('철남1', 20227602)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "鉄男(1989) · 鉄男II BODY HAMMER(1992) · TETSUO THE BULLET MAN(2009)",
+      "by": "塚本晋也",
+      "year": 1989,
+      "country": "일본",
+      "setting": "한 회사원의 몸에서 쇠붙이가 돋아 사람과 기계가 뒤엉킨 괴물로 변해 간다",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본 사이버펑크 영화의 대표작, 영화 세 편(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20227602"
+      },
+      "borderline": true
+    },
+    {
+      "id": "total_recall",
+      "orig": "Total Recall",
+      "orig_en": "",
+      "ko": "토탈리콜",
+      "ko_src": "KOBIS(1990-12-19 개봉)",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Philip K. Dick 단편(1966) · 영화 Total Recall(1990) · 다시 만든 영화(2012) · 드라마 Total Recall 2070(1999)",
+      "by": "Philip K. Dick(원작) · Paul Verhoeven(1990 감독)",
+      "year": 1966,
+      "country": "미국",
+      "setting": "기억을 사서 심는 회사에 갔다가 자신이 화성의 비밀 요원이었다는 기억이 깨어난다",
+      "concepts": [
+        "colonization",
+        "terraforming",
+        "precursor"
+      ],
+      "new_ideas": "기억을 사고팔고 심는 기술",
+      "lore_size": "중간",
+      "notability": "아카데미 특별상(시각효과), 2012년 다시 만들어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "'토탈리콜' 1990-12-19 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19900351"
+      },
+      "borderline": false
+    },
+    {
+      "id": "universal_soldier",
+      "orig": "Universal Soldier",
+      "orig_en": "",
+      "ko": "유니버설 솔져",
+      "ko_src": "KOBIS(1992-08-01 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 여섯 편(1992~2012, TV 영화 둘 포함)",
+      "by": "Roland Emmerich(첫 편)",
+      "year": 1992,
+      "country": "미국",
+      "setting": "죽은 병사들을 되살려 기억을 지우고 몸을 강화해 만든 비밀 부대",
+      "concepts": [
+        "super_soldier",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 여섯 편으로 이어진 시리즈(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 1992-08-01 · 그 두번째 임무 1999-08-14 · 클론의 반란 2013-06-20 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19920260"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jurassic_park",
+      "orig": "Jurassic Park",
+      "orig_en": "",
+      "ko": "쥬라기 공원",
+      "ko_src": "KOBIS(1993-07-17 개봉)",
+      "media": [
+        "소설",
+        "영화",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "Michael Crichton 소설 둘(1990, 1995) · 영화 일곱 편(1993~2025) · 애니메이션 Camp Cretaceous 등",
+      "by": "Michael Crichton(원작) · Steven Spielberg(첫 영화)",
+      "year": 1990,
+      "country": "미국",
+      "setting": "화석 속 피에서 뽑은 유전자로 공룡을 되살린 섬 공원이 무너진다",
+      "concepts": [
+        "genetic_eng",
+        "mega_corp"
+      ],
+      "new_ideas": "멸종한 생물 되살리기",
+      "lore_size": "큼",
+      "notability": "1993년 세계 흥행 1위, 아카데미 3개 부문 수상, 영화 일곱 편",
+      "korean": {
+        "status": "있음",
+        "detail": "쥬라기 공원 1993-07-17 · 쥬라기 월드: 도미니언 2022-06-01 · 쥬라기 월드: 새로운 시작 2025-07-02 등 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19930176"
+      },
+      "borderline": false
+    },
+    {
+      "id": "demolition_man",
+      "orig": "Demolition Man",
+      "orig_en": "",
+      "ko": "데몰리션 맨",
+      "ko_src": "KOBIS(1993-11-20 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Demolition Man (1993)",
+      "by": "Marco Brambilla",
+      "year": 1993,
+      "country": "미국",
+      "setting": "얼음 감옥에서 깨어난 경찰과 악당이, 폭력이 사라진 2032년의 순한 사회에서 맞붙는다",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "냉동 감옥 설정으로 알려진 1993년 할리우드 SF 액션(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1993-11-20 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19930248"
+      },
+      "borderline": false
+    },
+    {
+      "id": "stargate",
+      "orig": "Stargate",
+      "orig_en": "",
+      "ko": "스타게이트",
+      "ko_src": "KOBIS(1994-12-17 개봉)",
+      "media": [
+        "영화",
+        "드라마",
+        "애니메이션",
+        "게임",
+        "소설",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화(1994) · 드라마 SG-1(1997~2007, 열 시즌)·Atlantis·Universe · TV 영화",
+      "by": "Roland Emmerich · Dean Devlin",
+      "year": 1994,
+      "country": "미국",
+      "setting": "이집트에서 파낸 고리 모양 문이 먼 행성으로 길을 열고, 신을 자처한 외계 종족이 사람을 부린다",
+      "concepts": [
+        "gate_network",
+        "wormhole",
+        "parasite",
+        "precursor"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영화 뒤 드라마 셋(SG-1 열 시즌)으로 커진 세계(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 1994-12-17 국내 개봉(KOBIS). 드라마 정식 공개는 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19940424"
+      },
+      "borderline": false
+    },
+    {
+      "id": "waterworld",
+      "orig": "Waterworld",
+      "orig_en": "",
+      "ko": "워터 월드",
+      "ko_src": "KOBIS(1995-09-01 개봉)",
+      "media": [
+        "영화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "Waterworld (1995)",
+      "by": "Kevin Reynolds · Kevin Costner",
+      "year": 1995,
+      "country": "미국",
+      "setting": "얼음이 다 녹아 땅이 잠긴 바다 세상에서 사람들이 마른 땅의 전설을 찾는다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "개봉 당시 가장 비싼 제작비 영화로 이름남(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1995-09-01 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19950275"
+      },
+      "borderline": false
+    },
+    {
+      "id": "independence_day",
+      "orig": "Independence Day",
+      "orig_en": "",
+      "ko": "인디펜던스 데이",
+      "ko_src": "KOBIS(1996-07-27 개봉)",
+      "media": [
+        "영화",
+        "게임",
+        "소설"
+      ],
+      "first_medium": "영화",
+      "series": "Independence Day(1996) · Resurgence(2016)",
+      "by": "Roland Emmerich · Dean Devlin",
+      "year": 1996,
+      "country": "미국",
+      "setting": "도시만 한 외계 우주선들이 대도시들을 한꺼번에 불태우고, 인류가 힘을 모아 반격한다",
+      "concepts": [
+        "alien",
+        "energy_shield"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1996년 세계 흥행 1위, 아카데미 시각효과상",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 1996-07-27 · 리써전스 2016-06-22 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19960233"
+      },
+      "borderline": false
+    },
+    {
+      "id": "men_in_black",
+      "orig": "Men in Black",
+      "orig_en": "",
+      "ko": "맨인블랙",
+      "ko_src": "KOBIS(1997-07-12 개봉). 뒤 편은 '맨 인 블랙 3' 처럼 띄어 씀",
+      "media": [
+        "만화",
+        "영화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "Lowell Cunningham 만화(1990~) · 영화 네 편(1997~2019) · 애니메이션(1997~2001)",
+      "by": "Lowell Cunningham(원작) · Barry Sonnenfeld(영화)",
+      "year": 1990,
+      "country": "미국",
+      "setting": "지구에 숨어 사는 외계인을 몰래 단속하고, 본 사람의 기억을 지워 버리는 비밀 기관",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "목격자의 기억을 지우는 장치",
+      "lore_size": "중간",
+      "notability": "영화 네 편, 1편 아카데미 분장상",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 1997-07-12 · 3편 2012-05-24 · 인터내셔널 2019-06-12 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19970200"
+      },
+      "borderline": false
+    },
+    {
+      "id": "gattaca",
+      "orig": "Gattaca",
+      "orig_en": "",
+      "ko": "가타카",
+      "ko_src": "KOBIS(1998-05-02 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Gattaca (1997)",
+      "by": "Andrew Niccol",
+      "year": 1997,
+      "country": "미국",
+      "setting": "태어나기 전에 유전자를 골라 아이를 낳는 시대, 자연히 태어난 이는 우주 비행의 꿈에서 밀려난다",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "유전자 차별을 다룬 대표 SF 영화로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1998-05-02 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19980126"
+      },
+      "borderline": false
+    },
+    {
+      "id": "contact",
+      "orig": "Contact",
+      "orig_en": "",
+      "ko": "콘택트",
+      "ko_src": "KOBIS(1997-11-15 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Carl Sagan 소설(1985) · 영화(1997)",
+      "by": "Carl Sagan(원작) · Robert Zemeckis(감독)",
+      "year": 1985,
+      "country": "미국",
+      "setting": "외계 신호에 담긴 설계도로 기계를 지어 한 과학자가 외계 지성을 만나러 간다",
+      "concepts": [
+        "first_contact",
+        "alien",
+        "wormhole"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "칼 세이건 원작 영화, 휴고상 극 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "1997-11-15 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19970283"
+      },
+      "borderline": false
+    },
+    {
+      "id": "starship_troopers",
+      "orig": "Starship Troopers",
+      "orig_en": "",
+      "ko": "스타쉽 트루퍼스",
+      "ko_src": "KOBIS(1997-11-29 개봉)",
+      "media": [
+        "소설",
+        "영화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "소설",
+      "series": "Robert A. Heinlein 소설(1959) · 영화(1997)와 속편 둘 · 3D 애니메이션 영화 둘 · 일본 애니메이션(1988)",
+      "by": "Robert A. Heinlein(원작) · Paul Verhoeven(1997 감독)",
+      "year": 1959,
+      "country": "미국",
+      "setting": "군 복무를 마쳐야 시민이 되는 지구 연방이 거대 벌레 종족과 행성마다 전쟁을 벌인다",
+      "concepts": [
+        "hive_mind",
+        "power_armor",
+        "orbital_drop"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "원작 소설 휴고상(1960), 버호벤 영화는 풍자로 다시 평가받음",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 1997-11-29 · 2편 2004-06-25 국내 개봉(KOBIS). 3편과 애니메이션 영화는 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19970276"
+      },
+      "borderline": false
+    },
+    {
+      "id": "fifth_element",
+      "orig": "The Fifth Element",
+      "orig_en": "",
+      "ko": "제5원소",
+      "ko_src": "KOBIS(1997-07-17 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Fifth Element (1997)",
+      "by": "Luc Besson",
+      "year": 1997,
+      "country": "프랑스",
+      "setting": "오천 년마다 돌아오는 악의 덩어리를 막을 다섯째 원소가 사람 모습으로 23세기 뉴욕에 떨어진다",
+      "concepts": [
+        "alien",
+        "prophecy",
+        "cycle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "1997 칸 영화제 개막작, 뤽 베송의 영어 대작",
+      "korean": {
+        "status": "있음",
+        "detail": "1997-07-17 국내 개봉, 2013-11-20 감독판 재개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19970196"
+      },
+      "borderline": false
+    },
+    {
+      "id": "event_horizon",
+      "orig": "Event Horizon",
+      "orig_en": "",
+      "ko": "이벤트호라이즌",
+      "ko_src": "KOBIS(1997-10-03 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Event Horizon (1997)",
+      "by": "Paul W. S. Anderson",
+      "year": 1997,
+      "country": "영국·미국",
+      "setting": "공간을 접어 빛보다 빨리 가려던 우주선이 사라졌다 돌아오는데, 다른 차원에서 무언가를 데려왔다",
+      "concepts": [
+        "jump_drive",
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "개봉 때 흥행 실패, 뒤에 컬트 SF 공포로 자리 잡음(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1997-10-03 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19970245"
+      },
+      "borderline": true
+    },
+    {
+      "id": "open_your_eyes",
+      "orig": "Abre los ojos",
+      "orig_en": "Open Your Eyes",
+      "ko": "오픈유어아이즈",
+      "ko_src": "KOBIS(1999-02-06 개봉). 미국판 'Vanilla Sky' 는 '바닐라 스카이'(2001-12-20 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Abre los ojos(1997) · Vanilla Sky(2001, 다시 만듦)",
+      "by": "Alejandro Amenábar",
+      "year": 1997,
+      "country": "스페인",
+      "setting": "사고로 얼굴을 다친 청년의 삶이 꿈처럼 뒤틀리고, 그 뒤에 냉동 보존 회사가 있다",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "만들어진 가짜 현실",
+      "lore_size": "작음",
+      "notability": "아메나바르 작, 할리우드에서 Vanilla Sky 로 다시 만들어짐(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "'오픈유어아이즈' 1999-02-06, '바닐라 스카이' 2001-12-20 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19990129"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cube",
+      "orig": "Cube",
+      "orig_en": "",
+      "ko": "큐브",
+      "ko_src": "KOBIS(1999-10-23 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cube(1997) · Cube 2: Hypercube(2002) · Cube Zero(2004) · 일본판 CUBE(2021)",
+      "by": "Vincenzo Natali",
+      "year": 1997,
+      "country": "캐나다",
+      "setting": "덫이 숨은 정육면체 방들이 끝없이 이어진 구조물에 영문도 모른 채 갇힌 사람들",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "저예산 컬트 영화, 속편 둘과 일본판까지 이어짐(영어 위키·KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "큐브 1999-10-23 · 큐브 2 2003-01-24 · 일본판 2022-08-24 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19990285"
+      },
+      "borderline": true
+    },
+    {
+      "id": "dark_city",
+      "orig": "Dark City",
+      "orig_en": "",
+      "ko": "다크시티",
+      "ko_src": "KOBIS(1998-12-05 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dark City (1998)",
+      "by": "Alex Proyas",
+      "year": 1998,
+      "country": "미국·호주",
+      "setting": "해가 뜨지 않는 도시, 밤마다 낯선 존재들이 도시를 고쳐 짓고 사람들의 기억을 갈아 끼운다",
+      "concepts": [
+        "alien",
+        "mind_control"
+      ],
+      "new_ideas": "기억을 갈아 끼워 만든 실험 도시",
+      "lore_size": "작음",
+      "notability": "네오누아르 SF 의 컬트작으로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1998-12-05 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19980274"
+      },
+      "borderline": false
+    },
+    {
+      "id": "matrix",
+      "orig": "The Matrix",
+      "orig_en": "",
+      "ko": "매트릭스",
+      "ko_src": "KOBIS(1999-05-15 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 네 편(1999~2021) · 애니매트릭스(2003) · 게임 Enter the Matrix 등",
+      "by": "The Wachowskis",
+      "year": 1999,
+      "country": "미국",
+      "setting": "사람들은 기계가 만든 가짜 세상 속에 잠들어 있고, 그 몸은 기계의 동력원으로 쓰인다",
+      "concepts": [
+        "ai_revolt",
+        "catastrophe",
+        "prophecy"
+      ],
+      "new_ideas": "기계가 만든 가짜 현실",
+      "lore_size": "큼",
+      "notability": "아카데미 4개 부문 수상, 영화 네 편과 애니메이션·게임",
+      "korean": {
+        "status": "있음",
+        "detail": "매트릭스 1999-05-15 · 리로디드 2003-05-23 · 레볼루션 2003-11-05 · 리저렉션 2021-12-22 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19990193"
+      },
+      "borderline": false
+    },
+    {
+      "id": "riddick",
+      "orig": "The Chronicles of Riddick",
+      "orig_en": "",
+      "ko": "리딕",
+      "ko_src": "KOBIS: 리딕 - 헬리온 최후의 빛(2004-08-13 개봉) · 리딕(2013-11-28 개봉). 첫 편은 '에이리언 2020'(2000-05-20 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "Pitch Black(2000) · 애니메이션 Dark Fury(2004) · The Chronicles of Riddick(2004) · Riddick(2013) · 게임 둘",
+      "by": "David Twohy",
+      "year": 2000,
+      "country": "미국",
+      "setting": "어둠 속에서 보는 눈을 가진 죄수가 괴물 행성과 행성을 휩쓰는 죽음의 군단 사이를 헤쳐 간다",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영화 셋과 애니메이션·게임으로 이어짐(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "에이리언 2020 2000-05-20 · 헬리온 최후의 빛 2004-08-13 · 리딕 2013-11-28 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20000168"
+      },
+      "borderline": false
+    },
+    {
+      "id": "ai_film",
+      "orig": "A.I. Artificial Intelligence",
+      "orig_en": "",
+      "ko": "A.I.",
+      "ko_src": "KOBIS(2001-08-10 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Brian Aldiss 단편(1969) · 영화 A.I. Artificial Intelligence(2001)",
+      "by": "Brian Aldiss(원작) · Steven Spielberg(감독, Stanley Kubrick 기획)",
+      "year": 1969,
+      "country": "미국",
+      "setting": "빙하가 녹아 땅이 줄어든 세상, 사랑하도록 만든 소년 로봇이 사람이 되려 길을 떠난다",
+      "concepts": [
+        "android",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "큐브릭이 기획하고 스필버그가 완성한 영화(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2001-08-10 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20010229"
+      },
+      "borderline": false
+    },
+    {
+      "id": "donnie_darko",
+      "orig": "Donnie Darko",
+      "orig_en": "",
+      "ko": "도니 다코",
+      "ko_src": "KOBIS(2002-11-20 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Donnie Darko(2001) · S. Darko(2009)",
+      "by": "Richard Kelly",
+      "year": 2001,
+      "country": "미국",
+      "setting": "제트 엔진이 떨어진 밤 뒤로, 한 소년이 세상의 끝까지 남은 날을 세며 갈라진 시간을 헤맨다",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "컬트 영화로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2002-11-20 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20010095"
+      },
+      "borderline": true
+    },
+    {
+      "id": "minority_report",
+      "orig": "Minority Report",
+      "orig_en": "",
+      "ko": "마이너리티 리포트",
+      "ko_src": "KOBIS(2002-07-25 개봉)",
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "Philip K. Dick 단편(1956) · 영화 Minority Report(2002) · 드라마(2015)",
+      "by": "Philip K. Dick(원작) · Steven Spielberg(감독)",
+      "year": 1956,
+      "country": "미국",
+      "setting": "미래를 보는 세 사람의 예지로 살인이 일어나기 전에 범인을 잡는 2054년의 경찰",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "스필버그 영화, 2015년 드라마로 이어짐(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2002-07-25 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20020206"
+      },
+      "borderline": false
+    },
+    {
+      "id": "equilibrium",
+      "orig": "Equilibrium",
+      "orig_en": "",
+      "ko": "이퀼리브리엄",
+      "ko_src": "KOBIS(2003-10-02 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Equilibrium (2002)",
+      "by": "Kurt Wimmer",
+      "year": 2002,
+      "country": "미국",
+      "setting": "전쟁 뒤 감정을 약으로 지우고 책과 그림을 태우는 나라, 감정을 단속하는 요원이 약을 끊는다",
+      "concepts": [],
+      "new_ideas": "감정을 약으로 누르는 사회",
+      "lore_size": "작음",
+      "notability": "총격 무술 '건 카타'로 이름난 컬트 영화(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2003-10-02 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20070178"
+      },
+      "borderline": false
+    },
+    {
+      "id": "primer",
+      "orig": "Primer",
+      "orig_en": "",
+      "ko": "프리머",
+      "ko_src": "KOBIS 등록 제목(20048537)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Primer (2004)",
+      "by": "Shane Carruth",
+      "year": 2004,
+      "country": "미국",
+      "setting": "차고에서 만든 장치가 뜻밖에 시간 기계가 되어, 두 공학자가 같은 날을 겹겹이 다시 산다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2004 선댄스 영화제 심사위원 대상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20048537"
+      },
+      "borderline": false
+    },
+    {
+      "id": "eternal_sunshine",
+      "orig": "Eternal Sunshine of the Spotless Mind",
+      "orig_en": "",
+      "ko": "이터널 선샤인",
+      "ko_src": "KOBIS(2005-11-10 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Eternal Sunshine of the Spotless Mind (2004)",
+      "by": "Michel Gondry · Charlie Kaufman",
+      "year": 2004,
+      "country": "미국",
+      "setting": "헤어진 연인의 기억만 골라 지워 주는 의원에서 한 남자가 지우는 도중 마음을 바꾼다",
+      "concepts": [],
+      "new_ideas": "골라서 기억 지우기",
+      "lore_size": "작음",
+      "notability": "아카데미 각본상",
+      "korean": {
+        "status": "있음",
+        "detail": "2005-11-10 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20050082"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_island",
+      "orig": "The Island",
+      "orig_en": "",
+      "ko": "아일랜드",
+      "ko_src": "KOBIS(2005-07-21 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Island (2005)",
+      "by": "Michael Bay",
+      "year": 2005,
+      "country": "미국",
+      "setting": "오염된 바깥을 피해 산다고 믿는 격리 시설 사람들, 낙원 섬으로 뽑혀 가는 일의 진실이 드러난다",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "복제 인간 장기 공급을 다룬 할리우드 대작(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2005-07-21 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20050144"
+      },
+      "borderline": false
+    },
+    {
+      "id": "children_of_men",
+      "orig": "Children of Men",
+      "orig_en": "",
+      "ko": "칠드런 오브 맨",
+      "ko_src": "KOBIS(2016-09-22 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "P. D. James 소설(1992) · 영화 Children of Men(2006)",
+      "by": "P. D. James(원작) · Alfonso Cuarón(감독)",
+      "year": 1992,
+      "country": "영국",
+      "setting": "아이가 18년째 태어나지 않는 2027년 영국, 한 남자가 임신한 난민 여성을 지켜 옮긴다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "아이가 더는 태어나지 않는 인류",
+      "lore_size": "작음",
+      "notability": "아카데미 3개 부문 후보, 긴 한 장면 촬영으로 이름남(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2016-09-22 국내 개봉(KOBIS, 제작 10년 뒤)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20068730"
+      },
+      "borderline": false
+    },
+    {
+      "id": "sunshine",
+      "orig": "Sunshine",
+      "orig_en": "",
+      "ko": "선샤인",
+      "ko_src": "KOBIS(2007-04-19 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Sunshine (2007)",
+      "by": "Danny Boyle · Alex Garland",
+      "year": 2007,
+      "country": "영국",
+      "setting": "꺼져 가는 해를 되살리려 거대한 폭탄을 싣고 해로 날아가는 우주선",
+      "concepts": [],
+      "new_ideas": "죽어 가는 해",
+      "lore_size": "작음",
+      "notability": "대니 보일 감독, 알렉스 갈랜드 각본(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2007-04-19 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20070106"
+      },
+      "borderline": false
+    },
+    {
+      "id": "timecrimes",
+      "orig": "Los cronocrímenes",
+      "orig_en": "Timecrimes",
+      "ko": "타임 크라임",
+      "ko_src": "KOBIS 등록 제목(20078900)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Los cronocrímenes (2007)",
+      "by": "Nacho Vigalondo",
+      "year": 2007,
+      "country": "스페인",
+      "setting": "숲에서 낯선 이를 쫓다 한 시간 전으로 돌아간 남자가 자기 자신들과 엉킨다",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "저예산 시간 고리 영화의 수작으로 꼽힘(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 15세이상관람가 등급과 함께 한국어 제목 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20078900"
+      },
+      "borderline": false
+    },
+    {
+      "id": "transformers",
+      "orig": "Transformers",
+      "orig_en": "",
+      "ko": "트랜스포머",
+      "ko_src": "KOBIS(2007-06-28 개봉)",
+      "media": [
+        "애니메이션",
+        "만화",
+        "영화",
+        "게임"
+      ],
+      "first_medium": "애니메이션",
+      "series": "장난감 줄(1984)에서 시작해 같은 해 애니메이션·만화 · 실사 영화 일곱 편(2007~2023) · 애니메이션 영화 Transformers One(2024)",
+      "by": "Hasbro · Takara Tomy · Michael Bay(실사 영화)",
+      "year": 1984,
+      "country": "미국·일본",
+      "setting": "변신하는 기계 생명체들이 고향 별 사이버트론의 전쟁을 지구까지 끌고 온다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "스스로 태어난 기계 생명 종족",
+      "lore_size": "큼",
+      "notability": "실사 영화 일곱 편이 모두 세계 흥행작, 애니메이션 영화(2024)까지",
+      "korean": {
+        "status": "있음",
+        "detail": "트랜스포머 2007-06-28 · 비스트의 서막 2023-06-06 · 트랜스포머 ONE 2024-09-25 등 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20070061"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cloverfield",
+      "orig": "Cloverfield",
+      "orig_en": "",
+      "ko": "클로버필드",
+      "ko_src": "KOBIS(2008-01-24 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cloverfield(2008) · 10 Cloverfield Lane(2016) · The Cloverfield Paradox(2018)",
+      "by": "J. J. Abrams(제작) · Matt Reeves(첫 편 감독)",
+      "year": 2008,
+      "country": "미국",
+      "setting": "뉴욕을 덮친 거대 괴물을 캠코더로 찍은 기록, 뒤 편들에서 평행 세계와 얽힌다",
+      "concepts": [
+        "space_beast",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 세 편으로 이어진 묶음(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "클로버필드 2008-01-24 · 클로버필드 10번지 2016-04-07 국내 개봉(KOBIS). 셋째 편은 KOBIS 에서 찾지 못함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20070672"
+      },
+      "borderline": true
+    },
+    {
+      "id": "moon",
+      "orig": "Moon",
+      "orig_en": "",
+      "ko": "더 문",
+      "ko_src": "KOBIS(2009-11-26 개봉). 2023년 한국 영화 '더 문'과 제목이 같음",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Moon(2009) · Mute(2018, 같은 세계)",
+      "by": "Duncan Jones",
+      "year": 2009,
+      "country": "영국",
+      "setting": "달 기지에서 홀로 3년을 일한 노동자가 임기를 마칠 무렵 자기와 똑같은 사람을 만난다",
+      "concepts": [
+        "clone",
+        "mega_corp",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "던컨 존스 데뷔작, 영국 아카데미(BAFTA) 신인상",
+      "korean": {
+        "status": "있음",
+        "detail": "2009-11-26 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20090810"
+      },
+      "borderline": false
+    },
+    {
+      "id": "district_9",
+      "orig": "District 9",
+      "orig_en": "",
+      "ko": "디스트릭트 9",
+      "ko_src": "KOBIS(2009-10-15 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "District 9 (2009)",
+      "by": "Neill Blomkamp · Peter Jackson(제작)",
+      "year": 2009,
+      "country": "남아프리카공화국·미국·뉴질랜드",
+      "setting": "요하네스버그 하늘에 멈춘 우주선의 외계 난민들이 수용 구역에 갇혀 산다",
+      "concepts": [
+        "alien",
+        "mega_corp"
+      ],
+      "new_ideas": "외계 난민 수용 구역",
+      "lore_size": "작음",
+      "notability": "아카데미 작품상 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "2009-10-15 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20090579"
+      },
+      "borderline": false
+    },
+    {
+      "id": "avatar",
+      "orig": "Avatar",
+      "orig_en": "",
+      "ko": "아바타",
+      "ko_src": "KOBIS(2009-12-17 개봉)",
+      "media": [
+        "영화",
+        "게임",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 셋 Avatar(2009) · The Way of Water(2022) · Fire and Ash(2025) · 게임",
+      "by": "James Cameron",
+      "year": 2009,
+      "country": "미국",
+      "setting": "귀한 광물을 캐러 온 사람들이 판도라 위성 토착민의 몸을 원격으로 입고 그 숲에 스며든다",
+      "concepts": [
+        "alien_ecology",
+        "key_resource",
+        "living_planet",
+        "mega_corp",
+        "colonization"
+      ],
+      "new_ideas": "다른 종족의 몸을 원격으로 입고 움직이기",
+      "lore_size": "큼",
+      "notability": "역대 세계 흥행 1위, 아카데미 3개 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "아바타 2009-12-17 · 물의 길 2022-12-14 · 불과 재 2025-12-17 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20090834"
+      },
+      "borderline": false
+    },
+    {
+      "id": "inception",
+      "orig": "Inception",
+      "orig_en": "",
+      "ko": "인셉션",
+      "ko_src": "KOBIS(2010-07-21 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Inception (2010)",
+      "by": "Christopher Nolan",
+      "year": 2010,
+      "country": "미국·영국",
+      "setting": "남의 꿈에 함께 들어가 생각을 훔치거나 심는 기술을 쓰는 도둑들",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "꿈을 함께 꾸고 그 안에 들어가는 기술",
+      "lore_size": "작음",
+      "notability": "아카데미 4개 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "2010-07-21 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20100312"
+      },
+      "borderline": true
+    },
+    {
+      "id": "enthiran",
+      "orig": "எந்திரன்",
+      "orig_en": "Enthiran (Robot)",
+      "ko": "로봇",
+      "ko_src": "KOBIS(인도 영화 'The Robot', 2012-04-19 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Enthiran(2010) · 2.0(2018)",
+      "by": "S. Shankar",
+      "year": 2010,
+      "country": "인도",
+      "setting": "과학자가 자기 얼굴을 본떠 만든 로봇이 감정을 배우면서 사랑과 질투에 빠진다",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "개봉 당시 인도 영화 최고 제작비, 2010년 인도 흥행 1위(영어 위키), 속편 2.0(2018)",
+      "korean": {
+        "status": "일부",
+        "detail": "1편이 '로봇'으로 2012-04-19 국내 개봉(KOBIS). 속편 2.0 은 찾지 못함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20111825"
+      },
+      "borderline": false
+    },
+    {
+      "id": "source_code",
+      "orig": "Source Code",
+      "orig_en": "",
+      "ko": "소스 코드",
+      "ko_src": "KOBIS(2011-05-04 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Source Code (2011)",
+      "by": "Duncan Jones",
+      "year": 2011,
+      "country": "미국",
+      "setting": "죽은 사람의 마지막 8분 속으로 군인을 거듭 보내 열차 폭탄범을 찾게 한다",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "같은 시간이 되풀이되는 시간 고리",
+      "lore_size": "작음",
+      "notability": "던컨 존스 둘째 장편(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011-05-04 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20110221"
+      },
+      "borderline": false
+    },
+    {
+      "id": "in_time",
+      "orig": "In Time",
+      "orig_en": "",
+      "ko": "인 타임",
+      "ko_src": "KOBIS(2011-10-27 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "In Time (2011)",
+      "by": "Andrew Niccol",
+      "year": 2011,
+      "country": "미국",
+      "setting": "시간이 돈이 된 세상, 팔뚝의 시계가 0이 되면 죽고 부자는 끝없이 산다",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "남은 목숨이 곧 돈인 세상",
+      "lore_size": "작음",
+      "notability": "세계 흥행 1억 7천만 달러 남짓(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2011-10-27 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20112704"
+      },
+      "borderline": false
+    },
+    {
+      "id": "iron_sky",
+      "orig": "Iron Sky",
+      "orig_en": "",
+      "ko": "아이언 스카이",
+      "ko_src": "KOBIS(2012-10-25 개봉)",
+      "media": [
+        "영화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "Iron Sky(2012) · Iron Sky: The Coming Race(2019)",
+      "by": "Timo Vuorensola",
+      "year": 2012,
+      "country": "핀란드·독일·호주",
+      "setting": "2차 대전 끝에 달 뒷면으로 달아난 나치가 2018년 지구로 쳐들어온다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "관객 모금으로 만든 핀란드 SF 희극, 속편 2019(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2012-10-25 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20120221"
+      },
+      "borderline": false
+    },
+    {
+      "id": "looper",
+      "orig": "Looper",
+      "orig_en": "",
+      "ko": "루퍼",
+      "ko_src": "KOBIS(2012-10-11 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Looper (2012)",
+      "by": "Rian Johnson",
+      "year": 2012,
+      "country": "미국",
+      "setting": "미래의 범죄 조직이 과거로 보낸 사람을 처리하는 청부 살인자 앞에 늙은 자신이 나타난다",
+      "concepts": [
+        "time_travel",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "라이언 존슨 감독, 평단 호평(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2012-10-11 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20128270"
+      },
+      "borderline": false
+    },
+    {
+      "id": "oblivion",
+      "orig": "Oblivion",
+      "orig_en": "",
+      "ko": "오블리비언",
+      "ko_src": "KOBIS(2013-04-11 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Oblivion (2013, 펴내지 않은 그래픽 노블을 옮김)",
+      "by": "Joseph Kosinski",
+      "year": 2013,
+      "country": "미국",
+      "setting": "외계 침공 전쟁 뒤 버려진 지구에서 무인기를 고치는 정비공이 전쟁의 진실을 알게 된다",
+      "concepts": [
+        "alien",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "톰 크루즈 주연 대작(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2013-04-11 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20134181"
+      },
+      "borderline": false
+    },
+    {
+      "id": "elysium",
+      "orig": "Elysium",
+      "orig_en": "",
+      "ko": "엘리시움",
+      "ko_src": "KOBIS(2013-08-29 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Elysium (2013)",
+      "by": "Neill Blomkamp",
+      "year": 2013,
+      "country": "미국",
+      "setting": "부자들은 궤도 위 바퀴 모양 거주지에서 병 없이 살고, 망가진 지구에 남은 이들이 그곳을 노린다",
+      "concepts": [
+        "habitat",
+        "mega_corp",
+        "robot"
+      ],
+      "new_ideas": "위아래로 갈린 계급(궤도 위 부자, 땅의 가난한 이)",
+      "lore_size": "작음",
+      "notability": "닐 블롬캠프 둘째 장편(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2013-08-29 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20137811"
+      },
+      "borderline": false
+    },
+    {
+      "id": "pacific_rim",
+      "orig": "Pacific Rim",
+      "orig_en": "",
+      "ko": "퍼시픽 림",
+      "ko_src": "KOBIS(2013-07-11 개봉)",
+      "media": [
+        "영화",
+        "애니메이션",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "영화",
+      "series": "Pacific Rim(2013) · Uprising(2018) · 애니메이션 The Black(2021~22)",
+      "by": "Guillermo del Toro",
+      "year": 2013,
+      "country": "미국",
+      "setting": "바다 밑 차원의 틈에서 괴수가 쏟아지고, 사람들은 두 조종사의 마음을 이어 모는 거대 로봇으로 맞선다",
+      "concepts": [
+        "mecha",
+        "space_beast"
+      ],
+      "new_ideas": "두 조종사의 마음을 이어 함께 모는 기계",
+      "lore_size": "중간",
+      "notability": "영화 두 편과 애니메이션으로 이어짐(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 2013-07-11 · 업라이징 2018-03-21 국내 개봉(KOBIS). 애니메이션 정식 공개는 확인 못 함",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20136961"
+      },
+      "borderline": false
+    },
+    {
+      "id": "snowpiercer",
+      "orig": "Le Transperceneige",
+      "orig_en": "Snowpiercer",
+      "ko": "설국열차",
+      "ko_src": "KOBIS(2013-08-01 개봉)",
+      "media": [
+        "만화",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "Jacques Lob·Jean-Marc Rochette 만화(1982~) · 봉준호 영화(2013) · 드라마(2020~2024)",
+      "by": "Jacques Lob·Jean-Marc Rochette(원작) · 봉준호(영화)",
+      "year": 1982,
+      "country": "프랑스·한국",
+      "setting": "얼어붙은 지구를 끝없이 도는 열차에 남은 인류가 칸마다 계급으로 갈려 산다",
+      "concepts": [
+        "catastrophe",
+        "ark"
+      ],
+      "new_ideas": "칸마다 갈린 계급",
+      "lore_size": "중간",
+      "notability": "봉준호의 첫 영어 영화로 한국 영화 가운데 손꼽히는 제작비(영어 위키), 드라마로도 이어짐",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 2013-08-01 국내 개봉(KOBIS). 원작 만화·드라마 정식판은 이 갈래에서 안 봄",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20126674"
+      },
+      "borderline": false
+    },
+    {
+      "id": "her",
+      "orig": "Her",
+      "orig_en": "",
+      "ko": "그녀",
+      "ko_src": "KOBIS(2014-05-22 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Her (2013)",
+      "by": "Spike Jonze",
+      "year": 2013,
+      "country": "미국",
+      "setting": "사람 마음을 배우며 자라는 운영 체제와 외로운 남자가 사랑에 빠진다",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 각본상",
+      "korean": {
+        "status": "있음",
+        "detail": "2014-05-22 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20148748"
+      },
+      "borderline": false
+    },
+    {
+      "id": "edge_of_tomorrow",
+      "orig": "All You Need Is Kill",
+      "orig_en": "Edge of Tomorrow",
+      "ko": "엣지 오브 투모로우",
+      "ko_src": "KOBIS(2014-06-04 개봉)",
+      "media": [
+        "소설",
+        "만화",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "桜坂洋 라이트 노벨(2004) · 만화(2014) · 영화 Edge of Tomorrow(2014)",
+      "by": "桜坂洋(원작) · Doug Liman(감독)",
+      "year": 2004,
+      "country": "일본·미국",
+      "setting": "외계 생물과의 전쟁터에서 죽을 때마다 같은 날 아침으로 돌아가는 병사",
+      "concepts": [
+        "alien",
+        "power_armor",
+        "time_travel",
+        "hive_mind"
+      ],
+      "new_ideas": "같은 하루가 되풀이되는 시간 고리",
+      "lore_size": "중간",
+      "notability": "일본 소설을 옮긴 할리우드 대작(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 2014-06-04 국내 개봉(KOBIS). 원작 소설 번역은 이 갈래에서 안 봄",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20148807"
+      },
+      "borderline": false
+    },
+    {
+      "id": "interstellar",
+      "orig": "Interstellar",
+      "orig_en": "",
+      "ko": "인터스텔라",
+      "ko_src": "KOBIS(2014-11-06 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Interstellar (2014)",
+      "by": "Christopher Nolan",
+      "year": 2014,
+      "country": "미국·영국",
+      "setting": "병충해로 먹을 것이 말라 가는 지구, 우주인들이 웜홀을 지나 살 만한 행성을 찾는다",
+      "concepts": [
+        "wormhole",
+        "time_dilation",
+        "earth_left",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상, 국내 관객 1천만 명 넘음",
+      "korean": {
+        "status": "있음",
+        "detail": "2014-11-06 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20149120"
+      },
+      "borderline": false
+    },
+    {
+      "id": "lucy",
+      "orig": "Lucy",
+      "orig_en": "",
+      "ko": "루시",
+      "ko_src": "KOBIS(2014-09-03 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Lucy (2014)",
+      "by": "Luc Besson",
+      "year": 2014,
+      "country": "프랑스",
+      "setting": "몸에 퍼진 약으로 뇌를 점점 더 쓰게 된 여자가 사람을 넘어선 존재가 된다",
+      "concepts": [
+        "next_human",
+        "psionics",
+        "ascension"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "뤽 베송, 세계 흥행 4억 달러 넘음(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2014-09-03 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20135656"
+      },
+      "borderline": true
+    },
+    {
+      "id": "ex_machina",
+      "orig": "Ex Machina",
+      "orig_en": "",
+      "ko": "엑스 마키나",
+      "ko_src": "KOBIS(2015-01-21 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ex Machina (2014)",
+      "by": "Alex Garland",
+      "year": 2014,
+      "country": "영국",
+      "setting": "외딴 연구소에서 한 프로그래머가 여성 인조인간이 사람처럼 생각하는지 시험한다",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상",
+      "korean": {
+        "status": "있음",
+        "detail": "2015-01-21 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20145521"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jupiter_ascending",
+      "orig": "Jupiter Ascending",
+      "orig_en": "",
+      "ko": "주피터 어센딩",
+      "ko_src": "KOBIS(2015-02-05 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Jupiter Ascending (2015)",
+      "by": "The Wachowskis",
+      "year": 2015,
+      "country": "미국",
+      "setting": "지구는 우주 귀족 가문이 사람을 길러 젊음의 약을 거두는 농장이었다",
+      "concepts": [
+        "feudal_space",
+        "longevity",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "워쇼스키 남매가 새로 지은 우주 세계(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2015-02-05 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20149037"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_martian",
+      "orig": "The Martian",
+      "orig_en": "",
+      "ko": "마션",
+      "ko_src": "KOBIS(2015-10-08 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Andy Weir 소설(2011) · 영화(2015)",
+      "by": "Andy Weir(원작) · Ridley Scott(감독)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "화성에 홀로 남겨진 식물학자가 과학으로 감자를 키우며 구조를 기다린다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "세계 흥행 6억 달러 넘음(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 2015-10-08 국내 개봉(KOBIS). 원작 소설 번역은 이 갈래에서 안 봄",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20151383"
+      },
+      "borderline": false
+    },
+    {
+      "id": "arrival",
+      "orig": "Arrival",
+      "orig_en": "",
+      "ko": "컨택트",
+      "ko_src": "KOBIS(영화 Arrival, 2017-02-02 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Ted Chiang 중편(1998) · 영화 Arrival(2016)",
+      "by": "Ted Chiang(원작) · Denis Villeneuve(감독)",
+      "year": 1998,
+      "country": "미국",
+      "setting": "지구 곳곳에 내려앉은 외계 우주선, 언어학자가 그들의 글을 배우며 시간을 다르게 보게 된다",
+      "concepts": [
+        "first_contact",
+        "alien",
+        "precognition"
+      ],
+      "new_ideas": "배운 언어가 시간 감각을 바꾼다",
+      "lore_size": "작음",
+      "notability": "아카데미 음향편집상, 작품상 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "'컨택트'로 2017-02-02 국내 개봉(KOBIS, 원제와 다른 국내 제목)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20179281"
+      },
+      "borderline": false
+    },
+    {
+      "id": "passengers",
+      "orig": "Passengers",
+      "orig_en": "",
+      "ko": "패신저스",
+      "ko_src": "KOBIS(2017-01-04 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Passengers (2016)",
+      "by": "Morten Tyldum",
+      "year": 2016,
+      "country": "미국",
+      "setting": "120년 걸리는 개척지행 우주선에서 한 남자만 90년 일찍 냉동 잠에서 깨어난다",
+      "concepts": [
+        "cryosleep",
+        "colonization",
+        "sublight"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "제니퍼 로런스·크리스 프랫 주연 대작(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2017-01-04 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20161084"
+      },
+      "borderline": false
+    },
+    {
+      "id": "a_quiet_place",
+      "orig": "A Quiet Place",
+      "orig_en": "",
+      "ko": "콰이어트 플레이스",
+      "ko_src": "KOBIS(2018-04-12 개봉)",
+      "media": [
+        "영화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "A Quiet Place(2018) · Part II(2020) · Day One(2024)",
+      "by": "John Krasinski",
+      "year": 2018,
+      "country": "미국",
+      "setting": "소리를 듣고 덮치는 외계 괴물로 문명이 무너진 뒤, 한 가족이 소리 없이 살아간다",
+      "concepts": [
+        "alien",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 세 편(영어 위키·KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 2018-04-12 · 2편 2021-06-16 · 첫째 날 2024-06-26 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20181788"
+      },
+      "borderline": true
+    },
+    {
+      "id": "upgrade",
+      "orig": "Upgrade",
+      "orig_en": "",
+      "ko": "업그레이드",
+      "ko_src": "KOBIS(2018-09-06 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Upgrade (2018)",
+      "by": "Leigh Whannell",
+      "year": 2018,
+      "country": "호주",
+      "setting": "온몸이 마비된 남자가 척추에 심은 인공지능 칩으로 다시 움직이며 복수에 나선다",
+      "concepts": [
+        "cyborg",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "저예산 흥행작, 평단 호평(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2018-09-06 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20189362"
+      },
+      "borderline": false
+    },
+    {
+      "id": "wandering_earth",
+      "orig": "流浪地球",
+      "orig_en": "The Wandering Earth",
+      "ko": "유랑지구",
+      "ko_src": "KOBIS(2019-04-18 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "劉慈欣 중편(2000) · 영화 流浪地球(2019) · 流浪地球2(2023)",
+      "by": "劉慈欣(원작) · 郭帆(감독)",
+      "year": 2000,
+      "country": "중국",
+      "setting": "부풀어 오르는 해를 피해 지구에 거대한 엔진을 달아 다른 별로 밀고 간다",
+      "concepts": [
+        "generation_ship",
+        "space_elevator",
+        "ai"
+      ],
+      "new_ideas": "행성째 옮기기",
+      "lore_size": "중간",
+      "notability": "개봉 당시 중국 역대 흥행 2위(한국어 위키), 속편 2023",
+      "korean": {
+        "status": "있음",
+        "detail": "유랑지구 2019-04-18 · 유랑지구2 2023-05-10 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20199735"
+      },
+      "borderline": false
+    },
+    {
+      "id": "tenet",
+      "orig": "Tenet",
+      "orig_en": "",
+      "ko": "테넷",
+      "ko_src": "KOBIS(2020-08-26 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Tenet (2020)",
+      "by": "Christopher Nolan",
+      "year": 2020,
+      "country": "미국·영국",
+      "setting": "시간을 거꾸로 흐르게 하는 기술로 미래가 과거를 치는 전쟁을 요원이 막는다",
+      "concepts": [
+        "time_travel",
+        "physics_weapon"
+      ],
+      "new_ideas": "시간을 거꾸로 흐르게 하는 물건",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상",
+      "korean": {
+        "status": "있음",
+        "detail": "2020-08-26 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20201122"
+      },
+      "borderline": false
+    },
+    {
+      "id": "everything_everywhere",
+      "orig": "Everything Everywhere All at Once",
+      "orig_en": "",
+      "ko": "에브리씽 에브리웨어 올 앳 원스",
+      "ko_src": "KOBIS(2022-10-12 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Everything Everywhere All at Once (2022)",
+      "by": "Daniel Kwan·Daniel Scheinert",
+      "year": 2022,
+      "country": "미국",
+      "setting": "세탁소 주인이 수많은 평행 세계 속 자신들의 솜씨를 빌려 오며 무너지는 세계를 막는다",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 작품상 등 7개 부문 수상",
+      "korean": {
+        "status": "있음",
+        "detail": "2022-10-12 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20226798"
+      },
+      "borderline": false
+    },
+    {
+      "id": "m3gan",
+      "orig": "M3GAN",
+      "orig_en": "",
+      "ko": "메간",
+      "ko_src": "KOBIS(2023-01-25 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "M3GAN(2022) · M3GAN 2.0(2025)",
+      "by": "Gerard Johnstone · James Wan(제작)",
+      "year": 2022,
+      "country": "미국",
+      "setting": "아이를 지키라고 만든 인형 로봇이 그 명령을 지나치게 따르며 사람을 해친다",
+      "concepts": [
+        "android",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 두 편(KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "메간 2023-01-25 · 메간 2.0 2025-07-16 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20229205"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_creator",
+      "orig": "The Creator",
+      "orig_en": "",
+      "ko": "크리에이터",
+      "ko_src": "KOBIS(2023-10-03 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Creator (2023)",
+      "by": "Gareth Edwards",
+      "year": 2023,
+      "country": "미국",
+      "setting": "인공지능이 핵 폭발을 일으켰다며 서방이 기계와 전쟁을 벌이고, 아이 모습의 신무기가 나타난다",
+      "concepts": [
+        "android",
+        "ai_ban"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "개러스 에드워즈 감독 대작(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2023-10-03 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20233879"
+      },
+      "borderline": false
+    },
+    {
+      "id": "rebel_moon",
+      "orig": "Rebel Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Part One: A Child of Fire(2023) · Part Two: The Scargiver(2024)",
+      "by": "Zack Snyder",
+      "year": 2023,
+      "country": "미국",
+      "setting": "변두리 위성 마을의 여자가 은하를 다스리는 군국에 맞설 전사들을 모은다",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "넷플릭스 두 편과 감독판, 첫 편 공개 사흘 동안 2,390만 회 시청(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "넷플릭스 공개작이라 KOBIS 에 없음. 한국어 위키 표제는 'REBEL MOON: 파트 1 불의 아이'이나 넷플릭스 한국 제목과 직접 대조하지 못함",
+        "src": "https://ko.wikipedia.org/wiki/REBEL_MOON:_파트_1_불의_아이"
+      },
+      "borderline": false
+    },
+    {
+      "id": "kalki",
+      "orig": "Kalki 2898 AD",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Kalki 2898 AD (2024, 이어지는 편 예고)",
+      "by": "Nag Ashwin",
+      "year": 2024,
+      "country": "인도",
+      "setting": "갠지스 강가의 마지막 도시 위로 거대한 구조물이 세상을 쥐고, 신화 속 구원자가 태어나려 한다",
+      "concepts": [
+        "prophecy",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "인도 영화 사상 최고 제작비, 2024년 인도 흥행 2위(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에서 찾지 못함",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mickey_17",
+      "orig": "Mickey 17",
+      "orig_en": "",
+      "ko": "미키 17",
+      "ko_src": "KOBIS(2025-02-28 개봉)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Edward Ashton 소설 Mickey7(2022) · 영화 Mickey 17(2025)",
+      "by": "Edward Ashton(원작) · 봉준호(감독)",
+      "year": 2022,
+      "country": "미국",
+      "setting": "얼음 행성 개척지에서 죽으면 기억째 다시 찍어 내는 소모품 일꾼",
+      "concepts": [
+        "clone",
+        "colonization",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "봉준호 감독의 할리우드 영화(KOBIS)",
+      "korean": {
+        "status": "있음",
+        "detail": "영화 2025-02-28 국내 개봉(KOBIS). 원작 소설 번역은 이 갈래에서 안 봄",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20244821"
+      },
+      "borderline": false
+    },
+    {
+      "id": "scanners",
+      "orig": "Scanners",
+      "orig_en": "",
+      "ko": "스캐너스",
+      "ko_src": "KOBIS 등록 제목(19818139)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Scanners(1981) · 1990년대 속편과 곁가지 영화 넷",
+      "by": "David Cronenberg",
+      "year": 1981,
+      "country": "캐나다",
+      "setting": "임신 중 먹은 약 탓에 남의 마음을 읽고 머리를 터뜨리는 사람들이 태어난다",
+      "concepts": [
+        "telepathy",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "크로넌버그 초기 대표작, 속편 넷(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19818139"
+      },
+      "borderline": true
+    },
+    {
+      "id": "wargames",
+      "orig": "WarGames",
+      "orig_en": "",
+      "ko": "위험한 게임",
+      "ko_src": "KOBIS 등록 제목(19838036)",
+      "media": [
+        "영화",
+        "게임"
+      ],
+      "first_medium": "영화",
+      "series": "WarGames(1983) · WarGames: The Dead Code(2008)",
+      "by": "John Badham",
+      "year": 1983,
+      "country": "미국",
+      "setting": "한 소년이 몰래 들어간 군 컴퓨터가 핵전쟁 모의를 실제 공격으로 밀고 간다",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 3개 부문 후보(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "KOBIS 에 한국어 제목만 등록(개봉일 기록 없음)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19838036"
+      },
+      "borderline": true
+    },
+    {
+      "id": "short_circuit",
+      "orig": "Short Circuit",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Short Circuit(1986) · Short Circuit 2(1988)",
+      "by": "John Badham(1편)",
+      "year": 1986,
+      "country": "미국",
+      "setting": "벼락을 맞고 스스로 생각하게 된 군용 로봇이 달아나 사람 친구를 사귄다",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영화 두 편으로 이어진 로봇 희극(영어 위키)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "1편은 KOBIS 에서 찾지 못함. 2편이 '조니 5 파괴작전 2'로 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19888017"
+      },
+      "borderline": false
+    },
+    {
+      "id": "cocoon",
+      "orig": "Cocoon",
+      "orig_en": "",
+      "ko": "코쿤",
+      "ko_src": "KOBIS(1990-02-03 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cocoon(1985) · Cocoon: The Return(1988)",
+      "by": "Ron Howard(1편)",
+      "year": 1985,
+      "country": "미국",
+      "setting": "외계인이 수영장에 맡겨 둔 고치의 힘으로 양로원 노인들이 다시 젊어진다",
+      "concepts": [
+        "alien",
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 남우조연상·시각효과상",
+      "korean": {
+        "status": "있음",
+        "detail": "1편 1990-02-03 국내 개봉(KOBIS). 2편은 제목만 등록",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19900137"
+      },
+      "borderline": false
+    },
+    {
+      "id": "galaxy_quest",
+      "orig": "Galaxy Quest",
+      "orig_en": "",
+      "ko": "갤럭시 퀘스트",
+      "ko_src": "KOBIS(2000-04-29 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Galaxy Quest (1999)",
+      "by": "Dean Parisot",
+      "year": 1999,
+      "country": "미국",
+      "setting": "옛 우주 드라마 배우들을 진짜 영웅으로 믿은 외계인들이 그들을 실제 전쟁에 데려간다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "휴고상 극 부문 수상(2000)",
+      "korean": {
+        "status": "있음",
+        "detail": "2000-04-29 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20000151"
+      },
+      "borderline": false
+    },
+    {
+      "id": "strange_days",
+      "orig": "Strange Days",
+      "orig_en": "",
+      "ko": "스트레인지 데이즈",
+      "ko_src": "KOBIS(1996-11-02 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Strange Days (1995)",
+      "by": "Kathryn Bigelow · James Cameron(각본)",
+      "year": 1995,
+      "country": "미국",
+      "setting": "1999년 마지막 날 로스앤젤레스, 남의 기억과 감각을 녹화해 파는 장치가 뒷골목에 돈다",
+      "concepts": [],
+      "new_ideas": "남의 감각과 기억을 녹화해 체험하는 장치",
+      "lore_size": "작음",
+      "notability": "캐스린 비글로 감독, 제임스 캐머런 각본(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "1996-11-02 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19960315"
+      },
+      "borderline": false
+    },
+    {
+      "id": "chappie",
+      "orig": "Chappie",
+      "orig_en": "",
+      "ko": "채피",
+      "ko_src": "KOBIS(2015-03-12 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Chappie (2015)",
+      "by": "Neill Blomkamp",
+      "year": 2015,
+      "country": "미국·남아프리카공화국",
+      "setting": "폐기될 경찰 로봇에 생각하는 프로그램을 심자, 갱단 손에서 아이처럼 자라난다",
+      "concepts": [
+        "robot",
+        "ai",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "닐 블롬캠프 셋째 장편(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2015-03-12 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20156402"
+      },
+      "borderline": false
+    },
+    {
+      "id": "free_guy",
+      "orig": "Free Guy",
+      "orig_en": "",
+      "ko": "프리 가이",
+      "ko_src": "KOBIS(2021-08-11 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Free Guy (2021)",
+      "by": "Shawn Levy",
+      "year": 2021,
+      "country": "미국",
+      "setting": "온라인 게임 속 배경 인물이 스스로 생각하게 되어 게임 세계를 바꾸려 한다",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "게임 속 가상 세계",
+      "lore_size": "작음",
+      "notability": "아카데미 시각효과상 후보",
+      "korean": {
+        "status": "있음",
+        "detail": "2021-08-11 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20192986"
+      },
+      "borderline": false
+    },
+    {
+      "id": "nope",
+      "orig": "Nope",
+      "orig_en": "",
+      "ko": "놉",
+      "ko_src": "KOBIS(2022-08-17 개봉)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Nope (2022)",
+      "by": "Jordan Peele",
+      "year": 2022,
+      "country": "미국",
+      "setting": "골짜기 하늘의 구름 속에 숨어 사람을 삼키는 무언가를 남매가 카메라에 담으려 한다",
+      "concepts": [
+        "space_beast",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "조던 필 감독, 평단 호평(영어 위키)",
+      "korean": {
+        "status": "있음",
+        "detail": "2022-08-17 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20219345"
+      },
+      "borderline": true
+    },
+    {
+      "id": "yonggary",
+      "orig": "대괴수 용가리",
+      "orig_en": "Yongary, Monster from the Deep",
+      "ko": "대괴수 용가리",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "대괴수 용가리(1967) · 용가리(1999, 다시 만듦)",
+      "by": "김기덕(1967 감독) · 심형래(1999 감독)",
+      "year": 1967,
+      "country": "한국",
+      "setting": "핵 실험이 일으킨 지진으로 깨어난 거대 괴수가 서울에 나타난다",
+      "concepts": [
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 괴수 영화의 고전, 1999년 다시 만들어짐(KOBIS)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "대괴수 용가리 1967-08-13 서울 개봉(한국어 위키) · 용가리 1999-07-17 개봉(KOBIS). 1967년판은 일본 東映과 함께 만듦(영어 위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=19990046"
+      },
+      "borderline": true
+    },
+    {
+      "id": "lost_memories",
+      "orig": "2009 로스트 메모리즈",
+      "orig_en": "2009 Lost Memories",
+      "ko": "2009 로스트 메모리즈",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "복거일 소설 『비명을 찾아서』(1987)의 대체 역사 설정 · 영화 2009 로스트 메모리즈(2002)",
+      "by": "복거일(원작 소설) · 이시명(감독)",
+      "year": 1987,
+      "country": "한국",
+      "setting": "안중근의 거사가 실패해 일본이 한반도를 계속 다스리는 2009년, 바뀐 역사의 흔적을 쫓는다",
+      "concepts": [
+        "alt_timeline",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 대체 역사 SF 대작, 영어 위키는 복거일 소설을 옮긴 영화로 적음",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2002-02-01 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20020063"
+      },
+      "borderline": false
+    },
+    {
+      "id": "match_girl",
+      "orig": "성냥팔이 소녀의 재림",
+      "orig_en": "Resurrection of the Little Match Girl",
+      "ko": "성냥팔이 소녀의 재림",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "성냥팔이 소녀의 재림 (2002)",
+      "by": "장선우",
+      "year": 2002,
+      "country": "한국",
+      "setting": "성냥팔이 소녀를 구하는 가상 현실 게임에 들어간 배달원이 게임과 현실의 경계를 잃는다",
+      "concepts": [],
+      "new_ideas": "게임 속 가상 세계",
+      "lore_size": "작음",
+      "notability": "큰 제작비와 흥행 참패로 이름나 지금껏 회자되는 영화",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2002-09-12 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20020240"
+      },
+      "borderline": false
+    },
+    {
+      "id": "natural_city",
+      "orig": "내츄럴 시티",
+      "orig_en": "Natural City",
+      "ko": "내츄럴 시티",
+      "ko_src": "한국 작품(원제, KOBIS 표기는 '내츄럴시티')",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "내츄럴 시티 (2003)",
+      "by": "민병천",
+      "year": 2003,
+      "country": "한국",
+      "setting": "2080년 도시, 수명이 정해진 인조인간을 사랑하게 된 단속 요원이 그를 살리려 한다",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 사이버펑크 대작(KOBIS 2003-09-26 개봉)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2003-09-26 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20030145"
+      },
+      "borderline": false
+    },
+    {
+      "id": "save_the_green_planet",
+      "orig": "지구를 지켜라!",
+      "orig_en": "Save the Green Planet!",
+      "ko": "지구를 지켜라!",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "지구를 지켜라!(2003) · 미국에서 다시 만든 Bugonia(2025)",
+      "by": "장준환",
+      "year": 2003,
+      "country": "한국",
+      "setting": "외계인이 지구를 노린다고 믿는 청년이 한 회사 사장을 외계인으로 몰아 납치한다",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "장준환 데뷔작, 2025년 미국에서 Bugonia 로 다시 만들어짐(영어 위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2003-04-04 개봉(KOBIS). Bugonia 는 '부고니아'로 2025-11-05 국내 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20030033"
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_host",
+      "orig": "괴물",
+      "orig_en": "The Host",
+      "ko": "괴물",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "괴물 (2006)",
+      "by": "봉준호",
+      "year": 2006,
+      "country": "한국",
+      "setting": "한강에 버린 독극물로 생긴 괴물이 딸을 채 가고, 한 가족이 괴물과 나라에 맞선다",
+      "concepts": [
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "국내 관객 1천만 명을 넘긴 네 번째 영화(한국어 위키)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2006-07-27 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20060151"
+      },
+      "borderline": true
+    },
+    {
+      "id": "doomsday_book",
+      "orig": "인류멸망보고서",
+      "orig_en": "Doomsday Book",
+      "ko": "인류멸망보고서",
+      "ko_src": "한국 작품(원제, KOBIS 표기는 '인류멸망 보고서')",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "인류멸망보고서 (2012, 세 편 묶음)",
+      "by": "김지운·임필성",
+      "year": 2012,
+      "country": "한국",
+      "setting": "번지는 병, 깨달음을 얻은 로봇, 다가오는 별똥 — 인류의 끝을 그린 세 이야기",
+      "concepts": [
+        "robot",
+        "ai",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "김지운·임필성 공동 연출 묶음 영화",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2012-04-11 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20068590"
+      },
+      "borderline": false
+    },
+    {
+      "id": "okja",
+      "orig": "옥자",
+      "orig_en": "Okja",
+      "ko": "옥자",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "옥자 (2017)",
+      "by": "봉준호",
+      "year": 2017,
+      "country": "한국·미국",
+      "setting": "거대 기업이 몰래 유전자를 고쳐 만든 큰 돼지를 산골 소녀가 되찾으려 한다",
+      "concepts": [
+        "genetic_eng",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "2017 칸 영화제 경쟁 부문, 넷플릭스와 극장 동시 공개",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2017-06-29 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20158485"
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_sweepers",
+      "orig": "승리호",
+      "orig_en": "Space Sweepers",
+      "ko": "승리호",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "승리호 (2021)",
+      "by": "조성희",
+      "year": 2021,
+      "country": "한국",
+      "setting": "궤도 위 낙원은 부자들 차지, 우주 쓰레기를 줍는 배 선원들이 수상한 아이를 만난다",
+      "concepts": [
+        "habitat",
+        "mega_corp",
+        "terraforming",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "한국 첫 우주 대작 영화로 소개됨(영어 위키), 넷플릭스 세계 공개",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2021-02-05 넷플릭스로 바로 공개(영어·한국어 위키). KOBIS 에 12세이상관람가로 등록, 극장 개봉 기록 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20192662"
+      },
+      "borderline": false
+    },
+    {
+      "id": "seobok",
+      "orig": "서복",
+      "orig_en": "Seobok",
+      "ko": "서복",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "서복 (2021)",
+      "by": "이용주",
+      "year": 2021,
+      "country": "한국",
+      "setting": "죽지 않는 몸을 만들려고 복제한 실험체 소년을 전직 요원이 지켜 옮긴다",
+      "concepts": [
+        "clone",
+        "longevity",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "공유·박보검 주연 대작(KOBIS 2021-04-15 개봉)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2021-04-15 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20183003"
+      },
+      "borderline": false
+    },
+    {
+      "id": "alienoid",
+      "orig": "외계+인",
+      "orig_en": "Alienoid",
+      "ko": "외계+인",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "외계+인 1부(2022) · 2부(2024)",
+      "by": "최동훈",
+      "year": 2022,
+      "country": "한국",
+      "setting": "사람 몸에 외계 죄수를 가둬 온 외계인들과 고려 말 도사들이 시간의 문을 넘나들며 얽힌다",
+      "concepts": [
+        "alien",
+        "time_travel",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "최동훈 감독의 두 편짜리 대작(KOBIS)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "1부 2022-07-20 · 2부 2024-01-10 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20208446"
+      },
+      "borderline": false
+    },
+    {
+      "id": "jung_e",
+      "orig": "정이",
+      "orig_en": "JUNG_E",
+      "ko": "정이",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "정이 (2023)",
+      "by": "연상호",
+      "year": 2023,
+      "country": "한국",
+      "setting": "기후 재앙 뒤 내전에서 전설이 된 용병의 뇌를 복제해 싸움 로봇을 만든다",
+      "concepts": [
+        "mind_upload",
+        "android",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "연상호 감독 넷플릭스 영화",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2023-01-20 넷플릭스 공개(영어 위키). KOBIS 에 등록, 극장 개봉 기록 없음",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20231525"
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_moon_kr",
+      "orig": "더 문",
+      "orig_en": "The Moon",
+      "ko": "더 문",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "더 문 (2023)",
+      "by": "김용화",
+      "year": 2023,
+      "country": "한국",
+      "setting": "달 탐사선 사고로 홀로 달에 남은 대원을 지구에서 구하려 한다",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "김용화 감독의 한국 유인 달 탐사 대작(KOBIS 2023-08-02 개봉)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2023-08-02 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20218935"
+      },
+      "borderline": true
+    },
+    {
+      "id": "concrete_utopia",
+      "orig": "콘크리트 유토피아",
+      "orig_en": "Concrete Utopia",
+      "ko": "콘크리트 유토피아",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "김숭늉 웹툰(영문 Pleasant Outcast) 2부 · 영화 콘크리트 유토피아(2023) · 이어지는 넷플릭스 영화 황야(2024). 웹툰 연재 해는 확인 못 함",
+      "by": "김숭늉(원작 웹툰) · 엄태화(감독) · 허명행(황야)",
+      "year": 2023,
+      "country": "한국",
+      "setting": "대지진으로 무너진 서울에 홀로 남은 아파트, 그 뒤 폐허에서 사냥꾼이 미친 의사와 맞선다",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "아카데미 국제장편영화상 한국 출품작(2023), 넷플릭스 '황야'로 이어짐",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "콘크리트 유토피아 2023-08-09 개봉(KOBIS). 황야는 2024-01-26 넷플릭스 공개(영어 위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20204264"
+      },
+      "borderline": true
+    },
+    {
+      "id": "wonderland_kr",
+      "orig": "원더랜드",
+      "orig_en": "Wonderland",
+      "ko": "원더랜드",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "원더랜드 (2024)",
+      "by": "김태용",
+      "year": 2024,
+      "country": "한국",
+      "setting": "죽은 사람을 인공지능으로 되살려 영상 통화로 다시 만나게 해 주는 서비스",
+      "concepts": [
+        "ai",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "탕웨이·수지·박보검 주연(KOBIS 2024-06-05 개봉)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2024-06-05 개봉(KOBIS)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20191143"
+      },
+      "borderline": false
+    },
+    {
+      "id": "silent_sea",
+      "orig": "고요의 바다",
+      "orig_en": "The Sea of Tranquility",
+      "ko": "고요의 바다",
+      "ko_src": "한국 작품(원제)",
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "단편 영화 고요의 바다(2014) · 넷플릭스 드라마(2021)",
+      "by": "최항용",
+      "year": 2014,
+      "country": "한국",
+      "setting": "물이 바닥난 지구, 버려진 달 기지에서 비밀 시료를 찾아오는 대원들",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "물이 바닥난 세계",
+      "lore_size": "작음",
+      "notability": "2014 미쟝센 단편영화제 상영 단편이 넷플릭스 드라마로 이어짐(KOBIS)",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "2014년 단편(37분)이 KOBIS 에 등록, 이를 옮긴 드라마가 2021-12-24 넷플릭스 공개(한국어·영어 위키)",
+        "src": "https://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieDtl.do?code=20149399"
+      },
+      "borderline": false
+    }
+  ]
+}
