@@ -6,6 +6,7 @@
     python scripts/ready.py add "커밋 메시지 첫 줄" [--body "둘째 줄부터"] 파일 [파일 …]
     python scripts/ready.py list
     python scripts/ready.py commit     # 커밋해도 되는 때이고 점검이 통과하면, 적힌 차례대로 커밋하고 푸시
+    python scripts/ready.py commit --now   # 진님이 "지금 커밋해"라고 한 때만 — 시간 검사를 건너뜀(점검은 그대로)
 """
 import json
 import subprocess
@@ -52,10 +53,12 @@ def add(argv):
     print(f"적어 둠({len(items)}번째): {msg} — 파일 {len(files)}개")
 
 
-def commit():
+def commit(now=False):
     ok, why = commit_window.check()
-    if not ok:
+    if not ok and not now:
         sys.exit("커밋 안 됨: " + why)
+    if not ok:
+        why = "진님이 지금 커밋하라고 함 — " + why
     items = load()
     if not items:
         print("커밋할 것 없음")
@@ -84,7 +87,7 @@ if __name__ == "__main__":
     if cmd == "add":
         add(sys.argv[2:])
     elif cmd == "commit":
-        commit()
+        commit(now="--now" in sys.argv[2:])
     else:
         for i, it in enumerate(load(), 1):
             print(i, it["message"], "|", " ".join(it["files"]))
