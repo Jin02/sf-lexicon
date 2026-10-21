@@ -79,6 +79,11 @@ def main():
              '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'
              '<style>body{margin:0}[hidden]{display:none!important}</style></head><body>' + out + "</body></html>")
     (ROOT / "dist" / "local.html").write_text(local, encoding="utf-8")
+    # 서버(iwinv, https://sf.jinhyerimsync.duckdns.org)가 내보내는 판 — 이 폴더 하나만 공개한다(2026-10-21 진님: "서버에 올려줘 iwinv").
+    site = local.replace('<meta charset="utf-8">', '<meta charset="utf-8"><title>SF 개념 사전</title>'
+                         '<meta name="description" content="SF 세계관을 작품을 가로지르는 개념으로 묶어 보는 사전">', 1)
+    (ROOT / "dist" / "site").mkdir(exist_ok=True)
+    (ROOT / "dist" / "site" / "index.html").write_text(site, encoding="utf-8")
     print(f"dist/index.html — 개념 {len(bundle['concepts'])} · 작품 {len(works)} · 용어 {len(terms)} · 로어 {len(lore)} · 찾은 세계 {len(cands)} · {len(out.encode('utf-8')) // 1024}KB")
 
 
