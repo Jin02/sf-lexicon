@@ -1,0 +1,3385 @@
+{
+ "group": "sweep_09a_anime_to1989",
+ "candidates": [
+  {
+   "id": "bander_book",
+   "orig": "100万年地球の旅 バンダーブック",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화 (1978, 니혼 TV 『24시간 TV』)",
+   "by": "手塚治虫, 手塚プロダクション·日本テレビ",
+   "year": 1978,
+   "country": "일본",
+   "setting": "외계 행성에서 왕자로 자란 지구인 소년이 제 출생을 알고 우주로 나가 독재자와 맞선다.",
+   "concepts": [
+    "cryosleep",
+    "alien",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2시간 TV 특별편(1978) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「100万年地球の旅 バンダーブック」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "diapolon",
+   "orig": "UFO戦士ダイアポロン",
+   "orig_en": "",
+   "ko": "UFO전사 다이아포론",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/UFO%EC%A0%84%EC%82%AC%20%EB%8B%A4%EC%9D%B4%EC%95%84%ED%8F%AC%EB%A1%A0",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 26화(1976), 재편집 속편 『ダイアポロンII アクションシリーズ』 21화(1976~1977) — 원작 표기 雁屋哲·土山しげる 만화 『銀河戦士アポロン』",
+   "by": "エイケン",
+   "year": 1976,
+   "country": "일본",
+   "setting": "멸망한 아폴론 별의 왕자가 지구 고아원에서 자라, 몸에 숨은 열쇠로 거대 로봇과 하나 되어 침략군과 싸운다.",
+   "concepts": [
+    "mecha",
+    "alien_invasion",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화+21화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「UFO戦士ダイアポロン」 · 나무위키 「UFO전사 다이아포론」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "한국에서는 비디오도 나오지 않았다고 함(나무위키)",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "w3_tezuka",
+   "orig": "W3",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 애니메이션(1965, 무시 프로) · 만화(1965~1966)",
+   "by": "手塚治虫, 虫プロダクション",
+   "year": 1965,
+   "country": "일본",
+   "setting": "은하 연맹이 보낸 세 조사원이 동물 모습으로 지구에 숨어, 인류를 없앨지 1년 동안 지켜본다.",
+   "concepts": [
+    "alien",
+    "planet_killer"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "무시 프로 세 번째 TV 애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「W3」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "x_densha",
+   "orig": "X電車で行こう",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "山野浩一 단편 소설(1964) · OVA(1987, 매드하우스)",
+   "by": "山野浩一(원작), りんたろう(OVA 감독)",
+   "year": 1964,
+   "country": "일본",
+   "setting": "일본 곳곳에 정체 모를 유령 열차가 나타나고, 사라진 기관차와 마주친 젊은이가 그 뒤를 쫓는다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「X電車で行こう」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "birth_ova",
+   "orig": "BIRTH",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1984, 극장 선행 상영) · 金田伊功 만화판(연재 중단)",
+   "by": "カナメプロダクション, 貞光紳也(감독)",
+   "year": 1984,
+   "country": "일본",
+   "setting": "무기물 지성체가 다스리는 별에서, 그들을 없앨 유일한 성검을 얻은 소년이 쫓기며 떠돈다.",
+   "concepts": [
+    "machine_race",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "빅터 음악산업의 첫 OVA(1984) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「BIRTH (OVA)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "grey_tagami",
+   "orig": "GREY",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1985~1986) · 극장 애니메이션 『GREY デジタル・ターゲット』(1986)",
+   "by": "たがみよしひさ(원작), 出崎哲(감독)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "황폐해진 먼 미래, 기계 두뇌의 명령으로 도시끼리 싸우는 병사가 시민권을 얻으려 살아남는다.",
+   "concepts": [
+    "ai",
+    "catastrophe",
+    "control_society",
+    "class_divide"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "극장 애니메이션(1986) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「GREY」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "future_war_198x",
+   "orig": "FUTURE WAR 198X年",
+   "orig_en": "",
+   "ko": "FUTURE WAR 198X년",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/FUTURE%20WAR%20198X%EB%85%84",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1982)",
+   "by": "舛田利雄·勝間田具治(감독), 東映",
+   "year": 1982,
+   "country": "일본",
+   "setting": "198X년, 미국의 레이저 요격 위성 시험을 계기로 미소 대립이 핵전쟁으로 번져 간다.",
+   "concepts": [
+    "deterrence",
+    "beam_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1982) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「FUTURE WAR 198X年」 · 나무위키 「FUTURE WAR 198X년」",
+   "korean": {
+    "status": "있음",
+    "detail": "1991년 MBC 설날 특선으로 방영, 1980년대 비디오 출시(나무위키)",
+    "src": "https://namu.wiki/w/FUTURE%20WAR%20198X%EB%85%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "good_morning_althea",
+   "orig": "Good Morning アルテア",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "BlackPoint 만화(1985, 『C-LIVE』 1호) · OVA(1987)",
+   "by": "BlackPoint(원작), アニメイトフィルム",
+   "year": 1985,
+   "country": "일본",
+   "setting": "2400년대, 외계 종족에 져 점령당한 인류의 생존자들이 미친 기계 생명이 장악한 함선에 뛰어든다.",
+   "concepts": [
+    "alien",
+    "ai_decay",
+    "assimilation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「Good Morningアルテア」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "lily_cat",
+   "orig": "LILY-C.A.T.",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1987)",
+   "by": "スタジオぴえろ, 鳥海永行(감독)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "20년 걸리는 행성 탐사 길, 냉동 수면에서 깬 승무원들이 정체 모를 세균에 하나씩 쓰러진다.",
+   "concepts": [
+    "cryosleep",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "SF 공포 OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「LILY-C.A.T.」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "starzan_s",
+   "orig": "OKAWARI-BOY スターザンS",
+   "orig_en": "",
+   "ko": "OKAWARI-BOY 스타잔S",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/OKAWARI-BOY%20%EC%8A%A4%ED%83%80%EC%9E%94S",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 34화(1984)",
+   "by": "タツノコプロ",
+   "year": 1984,
+   "country": "일본",
+   "setting": "우주 어딘가의 전설의 낙원을 찾다 사라진 아버지를 좇아 소년이 우주로 떠나고, 거대 기업 일가가 뒤쫓는다.",
+   "concepts": [
+    "alien",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 34화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「OKAWARI-BOY スターザンS」 · 나무위키 「OKAWARI-BOY 스타잔S」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 「스타잔」 더빙 방영(1993), 정식 VHS(나무위키)",
+    "src": "https://namu.wiki/w/OKAWARI-BOY%20%EC%8A%A4%ED%83%80%EC%9E%94S"
+   },
+   "borderline": false
+  },
+  {
+   "id": "twd_express",
+   "orig": "TWD EXPRESS",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(『月刊コミックNORA』 연재, 4권 — 연재 해 확인 못 함) · OVA(1987)",
+   "by": "聖悠紀(원작), 湯山邦彦(OVA 감독)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "가난한 사내 셋의 별 사이 운송 회사가 해적이 숨긴 전투 우주선을 잘못 사들여 해적 조직과 맞선다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「TWD EXPRESS」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ikinari_dagon",
+   "orig": "いきなりダゴン",
+   "orig_en": "",
+   "ko": "갑작스레 다곤",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B0%91%EC%9E%91%EC%8A%A4%EB%A0%88%20%EB%8B%A4%EA%B3%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(1988)",
+   "by": "日本アニメーション·テレビ朝日, デニス・ボンド·ケン・モートン(원작)",
+   "year": 1988,
+   "country": "일본",
+   "setting": "곤충만 한 외계인 견습 조종사가 지구에 불시착해 곤충들의 우두머리가 되어 모험을 떠난다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「いきなりダゴン」 · 나무위키 「갑작스레 다곤」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kimagure_orange_road",
+   "orig": "きまぐれオレンジ☆ロード",
+   "orig_en": "",
+   "ko": "변덕쟁이 오렌지☆로드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B3%80%EB%8D%95%EC%9F%81%EC%9D%B4%20%EC%98%A4%EB%A0%8C%EC%A7%80%E2%98%86%EB%A1%9C%EB%93%9C",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1984~1987) · TV 애니메이션(1987~) · 극장판(1988) · OVA",
+   "by": "まつもと泉(원작), スタジオぴえろ(애니메이션)",
+   "year": 1984,
+   "country": "일본",
+   "setting": "초능력을 숨기려 이사를 거듭하는 집안의 맏아들이 새 동네에서 두 소녀 사이에서 흔들린다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV·극장판·OVA — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「きまぐれオレンジ☆ロード」 · 나무위키 「변덕쟁이 오렌지☆로드」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "memoll",
+   "orig": "とんがり帽子のメモル",
+   "orig_en": "",
+   "ko": "고깔 모자의 메모루",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B3%A0%EA%B9%94%20%EB%AA%A8%EC%9E%90%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A3%A8",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 50화(1984~1985) · 극장 단편(1985)",
+   "by": "東映動画, 葛西治(시리즈 디렉터)",
+   "year": 1984,
+   "country": "일본",
+   "setting": "우주선 사고로 유럽 산골 호수 섬에 숨어 사는 손가락만 한 외계인 소녀가 병약한 지구 소녀와 사귄다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 50화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「とんがり帽子のメモル」 · 나무위키 「고깔 모자의 메모루」",
+   "korean": {
+    "status": "있음",
+    "detail": "KBS 1TV 「고깔모자 삼총사」 방영(1985~1987), VHS 「꼬마요정 웬디」(나무위키)",
+    "src": "https://namu.wiki/w/%EA%B3%A0%EA%B9%94%20%EB%AA%A8%EC%9E%90%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A3%A8"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mutekiking",
+   "orig": "とんでも戦士ムテキング",
+   "orig_en": "",
+   "ko": "터무니없는 전사 무테킹",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A1%A4%EB%9F%AC%EC%99%95%20%ED%8C%8C%EC%9B%8C%ED%82%B9",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 56화(1980~1981)",
+   "by": "タツノコプロ",
+   "year": 1980,
+   "country": "일본",
+   "setting": "지구 정복에 나선 엉성한 우주 문어 악당 형제를, 착한 외계인의 힘으로 변신한 소년 영웅이 막는다.",
+   "concepts": [
+    "alien_invasion",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 56화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「とんでも戦士ムテキング」 · 나무위키 「롤러왕 파워킹」",
+   "korean": {
+    "status": "있음",
+    "detail": "SBS 「롤러왕 파워킹」 방영(1994), VHS 출시(나무위키)",
+    "src": "https://namu.wiki/w/%ED%84%B0%EB%AC%B4%EB%8B%88%EC%97%86%EB%8A%94%20%EC%A0%84%EC%82%AC%20%EB%AC%B4%ED%85%8C%ED%82%B9"
+   },
+   "borderline": true
+  },
+  {
+   "id": "tonde_monpe",
+   "orig": "とんでモン・ペ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 42화(1982~1983)",
+   "by": "東京ムービー新社",
+   "year": 1982,
+   "country": "일본",
+   "setting": "디자이너를 꿈꾸며 상경한 시골 처녀가 초능력을 쓰는 아기의 장난에 이리저리 휘둘린다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 42화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「とんでモン・ペ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "manbo_jibako_space",
+   "orig": "どくとるマンボウ&怪盗ジバコ 宇宙より愛をこめて",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1983, 『日生ファミリースペシャル』)",
+   "by": "北杜夫(원작 인물), フジテレビ·東映動画",
+   "year": 1983,
+   "country": "일본",
+   "setting": "젊은 의사와 괴도가 손을 잡고, 악당 대통령에게 붙잡힌 옛 대신의 딸을 우주에서 되찾는다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1983) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「どくとるマンボウ&怪盗ジバコ 宇宙より愛をこめて」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tamageta",
+   "orig": "となりのたまげ太くん",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1965~) · TV 『たまげ太くん』 5분물 60화(1974~1975)",
+   "by": "石森章太郎, スタジオ・ゼロ",
+   "year": 1965,
+   "country": "일본",
+   "setting": "타임머신을 가지고 이웃집에 이사 온 미래 소년이 동네 친구와 함께 과거와 미래를 오가며 소동을 벌인다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 60화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「となりのたまげ太くん」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "nanako_sos",
+   "orig": "ななこSOS",
+   "orig_en": "",
+   "ko": "나나코 SOS",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%98%EB%82%98%EC%BD%94%20SOS",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1980~1985) · TV 애니메이션(1983)",
+   "by": "吾妻ひでお(원작), 国際映画社",
+   "year": 1980,
+   "country": "일본",
+   "setting": "실험 도중 하늘에서 떨어진 기억 잃은 초능력 소녀를, 세계 정복을 꿈꾸는 괴짜 고교생이 부려 먹는다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션(1983) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ななこSOS」 · 나무위키 「나나코 SOS」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "나무위키는 한국 정식 방영이 없다고 적음",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "step_jun",
+   "orig": "はーいステップジュン",
+   "orig_en": "",
+   "ko": "하이스텝 쥰",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%98%EC%9D%B4%EC%8A%A4%ED%85%9D%20%EC%A5%B0",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1984~) · TV 45화(1985~1986)",
+   "by": "大島やすいち(원작), 東映動画",
+   "year": 1984,
+   "country": "일본",
+   "setting": "기계 만들기를 좋아하는 몸집 작은 중학생 소녀가 손수 만든 로봇 둘의 도움으로 사랑과 학교생활을 헤쳐 간다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 45화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「はーいステップジュン」 · 나무위키 「하이스텝 쥰」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dotakon",
+   "orig": "めちゃっこドタコン",
+   "orig_en": "",
+   "ko": "메챳코 도타콘",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A9%94%EC%B1%B3%EC%BD%94%20%EB%8F%84%ED%83%80%EC%BD%98",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 28화(1981)",
+   "by": "国際映画社(애니메이션 東映動画)",
+   "year": 1981,
+   "country": "일본",
+   "setting": "열한 살 천재 소녀가 동생이 갖고 싶어 만든 소년 로봇이 학교에 다니며 소동을 벌인다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 28화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「めちゃっこドタコン」 · 나무위키 「메챳코 도타콘」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "robokko_beeton",
+   "orig": "ろぼっ子ビートン",
+   "orig_en": "",
+   "ko": "로봇 아이 비톤",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A1%9C%EB%B4%87%20%EC%95%84%EC%9D%B4%20%EB%B9%84%ED%86%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 94화(1976~1977)",
+   "by": "大隅正秋(원작·감독), 創映社(지금의 サンライズ)",
+   "year": 1976,
+   "country": "일본",
+   "setting": "엉터리로 조립된 탓에 제 뜻을 갖게 된, 하늘을 나는 꼬마 로봇이 소년과 함께 동네에서 소동을 벌인다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 94화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「ろぼっ子ビートン」 · 나무위키 「로봇 아이 비톤」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "outlanders",
+   "orig": "アウトランダーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1985~1987, 『月刊コミコミ』) · OVA(1986)",
+   "by": "真鍋譲治(원작), タツノコプロ",
+   "year": 1985,
+   "country": "일본",
+   "setting": "지구가 제 발상지라며 점령하러 온 은하 제국의 공주가 지구 청년에게 반해 제국에 맞선다.",
+   "concepts": [
+    "galactic_empire",
+    "alien_invasion",
+    "living_machine"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「アウトランダーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "assemble_insert",
+   "orig": "アッセンブル・インサート",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1985) · OVA(1989)",
+   "by": "ゆうきまさみ(원작)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "강화 갑옷 강도단에 시달리던 경찰이 공개 오디션으로 뽑은 열네 살 소녀를 영웅으로 내세운다.",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1989) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「アッセンブル・インサート」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "arei_no_kagami",
+   "orig": "アレイの鏡 Way to the Virgin Space",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "단편 애니메이션(1985, 쓰쿠바 과학 박람회 공개)",
+   "by": "松本零士(원작)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "우주 끝의 별 '아레이'를 찾는 두 사람과 몰래 탄 기계 인간이, 보이지 않는 주민들의 별에 닿는다.",
+   "concepts": [
+    "cyborg",
+    "merge"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "박람회 공개 단편(1985) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「アレイの鏡」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "andromeda_stories",
+   "orig": "アンドロメダ・ストーリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1980~, 3권) · TV 특별편(1982, 『24時間テレビ』)",
+   "by": "光瀬龍(원작), 竹宮惠子(만화), 東映動画",
+   "year": 1980,
+   "country": "일본",
+   "setting": "안드로메다의 한 왕국에 기계 침략자가 스며들어 사람들의 마음을 바꾸고, 갈라져 자란 쌍둥이가 맞선다.",
+   "concepts": [
+    "machine_race",
+    "mind_control",
+    "assimilation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 특별편(1982) — 일본어 위키백과 분류 「1982年のテレビアニメ」 · 일본어 위키백과 「アンドロメダ・ストーリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "earthian",
+   "orig": "アーシアン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1987~1995) · OVA(1989)",
+   "by": "高河ゆん(원작)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "인류를 없앨지 오래 조사해 온 천사들 가운데, 검은 날개의 돌연변이 천사가 인류를 감싸려 땅에 내려온다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1989) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「アーシアン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "wingman",
+   "orig": "ウイングマン",
+   "orig_en": "",
+   "ko": "윙맨",
+   "ko_src": "나무위키 문서 제목 「윙맨(만화)」",
+   "media": [
+    "만화",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1983~1985) · TV 『夢戦士ウイングマン』(1984~1985) · 실사 드라마(2024)",
+   "by": "桂正和(원작), 東映動画",
+   "year": 1983,
+   "country": "일본",
+   "setting": "변신 영웅을 동경하는 중학생이 다른 차원에서 떨어진 소녀의 공책에 그린 영웅으로 실제로 변신하게 된다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니메이션(1984) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ウイングマン」 · 나무위키 「윙맨(만화)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "elf_17",
+   "orig": "エルフ・17",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1985~1988) · OVA(1987)",
+   "by": "山本貴嗣(원작), アニメイトフィルム·J.C.STAFF",
+   "year": 1985,
+   "country": "일본",
+   "setting": "은하 무술 대회에서 이긴 날개 종족 소녀와 정비공이 은하 제국 황자의 몰래 여행을 따라 별들을 떠돈다.",
+   "concepts": [
+    "galactic_empire",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「エルフ・17」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "odin_starlight",
+   "orig": "オーディーン 光子帆船スターライト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1985)",
+   "by": "舛田利雄(총감독), 白土武·山本暎一(감독)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "2099년, 빛을 받아 나는 우주 범선이 구조 임무 길에 정체 모를 적과 싸우며 태양계 바깥으로 나아간다.",
+   "concepts": [
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1985) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「オーディーン 光子帆船スターライト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "california_crisis",
+   "orig": "カリフォルニア・クライシス 追撃の銃火",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "西久保瑞穂(감독), ヒロメディア·スタジオ・ユニコーン",
+   "year": 1986,
+   "country": "일본",
+   "setting": "미국 서부를 달리던 청년과 소녀가 하늘에서 떨어진 비행체에서 나온 구슬을 쥐고 군에 쫓긴다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「カリフォルニア・クライシス 追撃の銃火」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "gulliver_space",
+   "orig": "ガリバーの宇宙旅行",
+   "orig_en": "Gulliver Space Travel",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1965)",
+   "by": "東映動画, 黒田昌郎(감독)",
+   "year": 1965,
+   "country": "일본",
+   "setting": "갈 곳 없는 고아 소년이 늙은 가리버 박사와 함께 '희망의 별'을 찾아 우주로 떠난다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "도에이 동화 첫 우주 SF 극장 애니메이션 — 일본어 위키백과 「日本のアニメ映画作品一覧 (1960年代)」 · 일본어 위키백과 「ガリバーの宇宙旅行」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_supergal",
+   "orig": "ザ・超女",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "단편 만화(1980) · OVA 『るーみっくわーるど ザ・超女』(1986)",
+   "by": "高橋留美子(원작), スタジオぴえろ",
+   "year": 1980,
+   "country": "일본",
+   "setting": "지구인 여섯 배의 힘을 지닌 외계인 우주 순찰대원이 가난을 벗으려 부잣집 아들 구출 임무에 나선다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「ザ・超女」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kinnikuman",
+   "orig": "キン肉マン",
+   "orig_en": "",
+   "ko": "근육맨",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B7%BC%EC%9C%A1%EB%A7%A8%28%ED%86%A0%EC%97%90%EC%9D%B4%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1979~) · TV 1기 137화(1983~1986) · 극장판(1984~)",
+   "by": "ゆでたまご(원작), 東映動画",
+   "year": 1979,
+   "country": "일본",
+   "setting": "영웅물을 비튼 개그로 시작해, 우주의 초인들이 레슬링 시합으로 맞붙는 이야기로 바뀐다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 137화·극장판 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「キン肉マン (テレビアニメ)」 · 나무위키 「근육맨(토에이 애니메이션)」",
+   "korean": {
+    "status": "있음",
+    "detail": "TV 1기 정식 VHS(대원동화), 후속작 투니버스 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EA%B7%BC%EC%9C%A1%EB%A7%A8%28%ED%86%A0%EC%97%90%EC%9D%B4%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29"
+   },
+   "borderline": true
+  },
+  {
+   "id": "garaga",
+   "orig": "ギャラガ HYPER-PSYCHIC-GEO GARAGA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "御厨さと美 만화 『惑星ギャラガ』(미완) · 장편 OVA(1989, 단관 극장 공개)",
+   "by": "御厨さと美(원작), 窪秀巳(감독)",
+   "year": 1989,
+   "country": "일본",
+   "setting": "2755년, 도약 항법 사고로 낯선 별에 떨어진 우주선 승무원들이 사람이 처음 보는 생태계와 마주친다.",
+   "concepts": [
+    "ftl",
+    "cryosleep",
+    "alien_ecology",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "장편 OVA(1989) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「ギャラガ (映画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "groizer_x",
+   "orig": "グロイザーX",
+   "orig_en": "",
+   "ko": "그로이저X",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B7%B8%EB%A1%9C%EC%9D%B4%EC%A0%80X",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 애니메이션(1976~1977) · 桜多吾作 만화",
+   "by": "桜多吾作(원작), ナック",
+   "year": 1976,
+   "country": "일본",
+   "setting": "지구에 불시착한 외계 탐험대가 제국을 세워 침략하자, 평화파 과학자의 딸이 변신 폭격기 로봇으로 맞선다.",
+   "concepts": [
+    "mecha",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「グロイザーX」 · 나무위키 「그로이저X」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 방영(1979~1980)(나무위키)",
+    "src": "https://namu.wiki/w/%EA%B7%B8%EB%A1%9C%EC%9D%B4%EC%A0%80X"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cosmos_pink_shock",
+   "orig": "コスモス・ピンクショック",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "비디오 잡지 연재 단편 3화를 묶은 OVA(1986)",
+   "by": "首藤剛志",
+   "year": 1986,
+   "country": "일본",
+   "setting": "2106년, 명왕성 기지에서 허가 없이 날아오른 로켓 조종사를 쫓는, 유명 SF 애니메이션 패러디.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「コスモス・ピンクショック」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "god_mazinger",
+   "orig": "ゴッドマジンガー",
+   "orig_en": "",
+   "ko": "갓마징가",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B0%93%EB%A7%88%EC%A7%95%EA%B0%80",
+   "media": [
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 23화(1984) · 만화·소설",
+   "by": "永井豪(원작), 東京ムービー新社",
+   "year": 1984,
+   "country": "일본",
+   "setting": "현대의 고교생이 마신의 부름으로 1만 년 전 대륙에 건너가, 거대한 마신과 함께 그 땅의 싸움에 뛰어든다.",
+   "concepts": [
+    "time_travel",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 23화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ゴッドマジンガー」 · 나무위키 「갓마징가」",
+   "korean": {
+    "status": "없음",
+    "detail": "나무위키: 국내 방영된 적 없음(완구만 수입)",
+    "src": "https://namu.wiki/w/%EA%B0%93%EB%A7%88%EC%A7%95%EA%B0%80"
+   },
+   "borderline": false
+  },
+  {
+   "id": "govarian",
+   "orig": "サイコアーマー ゴーバリアン",
+   "orig_en": "",
+   "ko": "사이코아머 고바리안",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EC%BD%94%EC%95%84%EB%A8%B8%20%EA%B3%A0%EB%B0%94%EB%A6%AC%EC%95%88",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 26화(1983)",
+   "by": "永井豪(원작), 奥田誠治(총감독)",
+   "year": 1983,
+   "country": "일본",
+   "setting": "다른 차원의 군대가 지구를 노리자, 무에서 물질을 만드는 초능력자들이 그 힘으로 빚은 로봇을 타고 싸운다.",
+   "concepts": [
+    "psionics",
+    "mecha",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「サイコアーマー ゴーバリアン」 · 나무위키 「사이코아머 고바리안」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 방영, 삼원비디오 정식 VHS(나무위키)",
+    "src": "https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EC%BD%94%EC%95%84%EB%A8%B8%20%EA%B3%A0%EB%B0%94%EB%A6%AC%EC%95%88"
+   },
+   "borderline": false
+  },
+  {
+   "id": "cybot_robotchi",
+   "orig": "サイボットロボッチ",
+   "orig_en": "",
+   "ko": "사이봇 로보치",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EB%B4%87%20%EB%A1%9C%EB%B3%B4%EC%B9%98",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 39화(1982~1983)",
+   "by": "石川賢·安藤豊弘(원작), ナック",
+   "year": 1982,
+   "country": "일본",
+   "setting": "시골 마을의 괴짜 박사가 만든 꼬마 로봇과 로봇 친구들이 마을 소동과 악당 과학자의 기계에 맞선다.",
+   "concepts": [
+    "robot",
+    "hologram"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 39화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「サイボットロボッチ」 · 나무위키 「사이봇 로보치」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "한국에서 「개구장이 로비의 모험」으로 비디오가 나왔다고 함(나무위키, 정식 여부 미정)",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "elfie_coral_reef",
+   "orig": "サンゴ礁伝説 青い海のエルフィ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1986)",
+   "by": "日本アニメーション·フジテレビ",
+   "year": 1986,
+   "country": "일본",
+   "setting": "400년 전 홍수로 땅이 잠긴 미래, 바다 위 인공 도시에서 자란 소녀가 제가 물속 종족임을 깨닫는다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1986) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「サンゴ礁伝説 青い海のエルフィ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "humanoid_lezaria",
+   "orig": "ザ・ヒューマノイド 哀の惑星レザリア",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "政木伸一(감독), 東芝EMI",
+   "year": 1986,
+   "country": "일본",
+   "setting": "지구인과 외계인이 함께 사는 별에서, 습격당한 우주선 승무원들이 과학자가 만든 인조인간 소녀를 만난다.",
+   "concepts": [
+    "android",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「ザ・ヒューマノイド 哀の惑星レザリア」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "jetter_mars",
+   "orig": "ジェッターマルス",
+   "orig_en": "",
+   "ko": "제트소년 마르스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A0%9C%ED%8A%B8%EC%86%8C%EB%85%84%20%EB%A7%88%EB%A5%B4%EC%8A%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 27화(1977)",
+   "by": "手塚治虫(원안), 東映動画, りんたろう(감독)",
+   "year": 1977,
+   "country": "일본",
+   "setting": "2015년, 과학성 장관이 나라를 지킬 병기로 만든 소년 로봇이 맞수 박사의 전자 두뇌를 달고 깨어난다.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 27화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「ジェッターマルス」 · 나무위키 「제트소년 마르스」",
+   "korean": {
+    "status": "있음",
+    "detail": "한국 TV 더빙 방영(나무위키 「한국 방영」 절)",
+    "src": "https://namu.wiki/w/%EC%A0%9C%ED%8A%B8%EC%86%8C%EB%85%84%20%EB%A7%88%EB%A5%B4%EC%8A%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "justy",
+   "orig": "ジャスティ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1981~1984) · OVA(1985) · 속편 만화 『ジャスティ 〜ESPERS LEGEND〜』",
+   "by": "岡崎つぐお(원작)",
+   "year": 1981,
+   "country": "일본",
+   "setting": "은하 감찰 우주국에 속한 최강의 초능력자가 우주 곳곳의 초능력 범죄자를 쫓아 처분한다.",
+   "concepts": [
+    "psionics",
+    "law_above"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1985) — 일본어 위키백과 분류 「1985年のOVA」 · 일본어 위키백과 「ジャスティ (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "johnny_cypher",
+   "orig": "Johnny Cypher in Dimension Zero",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 131화(1967~1968), 미일 합작",
+   "by": "Seven Arts, Oriolo Film Studios, テレビ動画(제작 협력)",
+   "year": 1967,
+   "country": "미국·일본",
+   "setting": "'영 차원'의 힘으로 시간과 공간을 마음대로 넘나들게 된 과학자가 동료와 함께 우주의 악과 싸운다.",
+   "concepts": [
+    "teleport",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "미일 합작 TV 131화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「ジョニーサイファー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "scoopers",
+   "orig": "スクーパーズ",
+   "orig_en": "SCOOPERS",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1987)",
+   "by": "モンキー・パンチ(원작), ACCプロダクション",
+   "year": 1987,
+   "country": "일본",
+   "setting": "22세기 미래 도시에서 위성 추락과 우주선 폭파가 잇따르자, 신문 기자와 사진기자가 배후의 인물을 쫓는다.",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「スクーパーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "super_jetter",
+   "orig": "未来からきた少年 スーパージェッター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 52화(1965~1966)",
+   "by": "久松文雄(원작), TCJ, TBS",
+   "year": 1965,
+   "country": "일본",
+   "setting": "30세기의 시간 순찰대원이 범인을 쫓다 타임머신 사고로 20세기에 떨어져, 이곳의 범죄 수사를 돕는다.",
+   "concepts": [
+    "time_travel",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「スーパージェッター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "zero_tester",
+   "orig": "ゼロテスター",
+   "orig_en": "",
+   "ko": "우주삼총사",
+   "ko_src": "나무위키 문서 제목 「우주삼총사」(국내 방영 제목)",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 66화(1973~1974)",
+   "by": "鈴木良武(원작), 高橋良輔(감독), 創映社(サンライズスタジオ)",
+   "year": 1973,
+   "country": "일본",
+   "setting": "2100년, 우주로 나간 인류가 바깥 우주의 기계화 인류에게 공격받자 특수 팀 '제로 테스터'가 맞선다.",
+   "concepts": [
+    "machine_race",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 66화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「ゼロテスター」 · 나무위키 「제로 테스터」",
+   "korean": {
+    "status": "있음",
+    "detail": "TBC 「우주삼총사」 방영(1974~1975)(나무위키)",
+    "src": "https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EC%82%BC%EC%B4%9D%EC%82%AC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "chikkun_takkun",
+   "orig": "チックンタックン",
+   "orig_en": "",
+   "ko": "칙쿤 탁쿤",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B9%99%EC%BF%A4%ED%83%81%EC%BF%A4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "학습 만화(1978~1985) · TV 애니메이션(1984)",
+   "by": "石森章太郎(원작), スタジオぴえろ",
+   "year": 1978,
+   "country": "일본",
+   "setting": "나쁜 짓 사전을 들고 지구에 온 외계 악당을, 뒤쫓아 온 왕자와 신하가 지구 아이들과 함께 막는다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션(1984) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「チックンタックン」 · 나무위키 「칙쿤탁쿤」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "technopolis_21c",
+   "orig": "テクノポリス21C",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1982)",
+   "by": "松本正志(감독), スタジオぬえ(설정 협력)",
+   "year": 1982,
+   "country": "일본",
+   "setting": "2001년 미래 도시에서 기계를 쓴 범죄가 잇따르자, 경찰 특수대가 인공지능 로봇 셋과 함께 수사에 나선다.",
+   "concepts": [
+    "ai",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1982) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「テクノポリス21C」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "dead_heat_ova",
+   "orig": "デッドヒート",
+   "orig_en": "DEAD HEAT",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "입체 영상 OVA 1편(1987)",
+   "by": "日本ビクター·日本サンライズ",
+   "year": 1987,
+   "country": "일본",
+   "setting": "21세기 일본, 작은 차량 로봇 팀 경주가 인기를 끄는 가운데 최하위 팀 넷이 세계 정상을 노린다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「デッドヒート (OVA)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "delpower_x",
+   "orig": "デルパワーX 爆発みらくる元気!!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "日本コロムビア(발매)",
+   "year": 1986,
+   "country": "일본",
+   "setting": "로봇 공학자 할아버지를 노리는 옛 제자의 강화 갑옷에, 손녀가 할아버지가 만든 로봇을 몰고 맞선다.",
+   "concepts": [
+    "robot",
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「デルパワーX 爆発みらくる元気!!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "twilight_q",
+   "orig": "トワイライトQ",
+   "orig_en": "",
+   "ko": "트와일라잇 Q",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%8A%B8%EC%99%80%EC%9D%BC%EB%9D%BC%EC%9E%87%20Q",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 2화(1987, 6화 예정에서 중단) — 「時の結び目」·「迷宮物件 FILE538」",
+   "by": "伊藤和典(원안), 望月智充·押井守(감독), 亜細亜堂",
+   "year": 1987,
+   "country": "일본",
+   "setting": "이상한 이야기를 모은 단편집 — 시간이 맺힌 매듭, 사라지는 여객기와 수상한 부녀의 수수께끼를 다룬다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「トワイライトQ」 · 나무위키 「트와일라잇 Q」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "prime_rose",
+   "orig": "プライム・ローズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1982~1983) · TV 특별편 『タイムスリップ10000年プライム・ローズ』(1983, 『24時間テレビ』)",
+   "by": "手塚治虫",
+   "year": 1982,
+   "country": "일본",
+   "setting": "먼 미래, 다른 종족의 지배를 받는 사람들 속에서 자란 소녀가 칼을 익혀 총독을 무너뜨리려 한다.",
+   "concepts": [
+    "time_travel",
+    "time_police",
+    "blade_return"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1983) — 일본어 위키백과 분류 「1983年のテレビアニメ」 · 일본어 위키백과 「プライム・ローズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dokachin",
+   "orig": "ドカチン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 52화(1968~1969)",
+   "by": "吉田竜夫(원작), タツノコプロ",
+   "year": 1968,
+   "country": "일본",
+   "setting": "박사의 시간 재현 장치 탓에 원시 시대 일가족이 1960년대 도시 한복판에 나타나 소동을 벌인다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「ドカチン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hi_speed_jecy",
+   "orig": "ハイスピード・ジェシー",
+   "orig_en": "Hi-SPEED JECY",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설(1984~1987, 6권)·외전 · 속편 『深宇宙のジェシー』(1992) · 『ハートランド星史』 · 만화 · OVA(1989)",
+   "by": "斉藤英一朗(원작), 美樹本晴彦(그림), スタジオぴえろ",
+   "year": 1984,
+   "country": "일본",
+   "setting": "옛 은하 문명의 생체 우주선을 거느린 소년이, 악인을 죽이는 것이 교리인 신부와 짝을 이뤄 악당과 싸운다.",
+   "concepts": [
+    "living_machine",
+    "precursor",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1989) — 일본어 위키백과 분류 「1989年のOVA」 · 일본어 위키백과 「ハイスピード・ジェシー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "perman",
+   "orig": "パーマン",
+   "orig_en": "",
+   "ko": "퍼맨",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%8D%BC%EB%A7%A8",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1966~1968, 1983~1986) · TV(1967, 1983~1985) · 극장판(2003·2004년 작 포함)",
+   "by": "藤子不二雄(원작), 東京ムービー·スタジオ・ゼロ(1967), シンエイ動画(1983)",
+   "year": 1966,
+   "country": "일본",
+   "setting": "외계 초인에게서 가면·망토·배지를 받아 반쪽 초인 '퍼맨'이 된 소년들이 남몰래 사람들을 돕는다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 두 차례(1967·1983)와 극장판 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「パーマン」 · 나무위키 「퍼맨」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "나무위키에 한국어 더빙판 성우가 언급되나 방영 경로는 확인 못 함",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "big_x",
+   "orig": "ビッグX",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1963~1966) · TV 애니메이션(1964~1965)",
+   "by": "手塚治虫(원작), 東京ムービー",
+   "year": 1963,
+   "country": "일본",
+   "setting": "나치가 만들게 한, 몸을 거대하고 단단하게 하는 약을 이어받은 소년이 그 약을 노리는 신나치 조직과 싸운다.",
+   "concepts": [
+    "super_soldier",
+    "awakening_substance"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「ビッグX」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bremen4",
+   "orig": "ブレーメン4 地獄の中の天使たち",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1981, 『24時間テレビ』)",
+   "by": "手塚治虫(원작)",
+   "year": 1981,
+   "country": "일본",
+   "setting": "전쟁통에 주인을 잃은 동물 넷이, 목숨을 구해 준 외계인에게서 사람으로 변하는 도구를 받아 길을 떠난다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1981) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ブレーメン4 地獄の中の天使たち」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "machine_blaster",
+   "orig": "ブロッカー軍団IV マシーンブラスター",
+   "orig_en": "",
+   "ko": "브로커 군단 머신 블래스터",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B8%8C%EB%A1%9C%EC%BB%A4%20%EA%B5%B0%EB%8B%A8%20%EB%A8%B8%EC%8B%A0%20%EB%B8%94%EB%9E%98%EC%8A%A4%ED%84%B0",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 38화(1976~1977)",
+   "by": "日本アニメーション·葦プロダクション",
+   "year": 1976,
+   "country": "일본",
+   "setting": "해저 제국이 쳐들어오자, 초능력이 있어야만 움직이는 로봇 넷에 소년원 출신 소년 등이 뽑혀 탄다.",
+   "concepts": [
+    "mecha",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 38화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「ブロッカー軍団IV マシーンブラスター」 · 나무위키 「브로커 군단 머신 블래스터」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hell_target",
+   "orig": "ヘル・ターゲット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "中村圭図(감독), 中村プロダクション",
+   "year": 1986,
+   "country": "일본",
+   "setting": "알 수 없는 행성에서 연락이 끊긴 탐사대를 찾아 두 번째 탐사선이 내려가, 그 별의 무서운 비밀과 마주친다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "SF 공포 OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「ヘル・ターゲット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mighty_orbots",
+   "orig": "マイティ・オーボッツ",
+   "orig_en": "Mighty Orbots",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(1984, 미국 ABC 방송)",
+   "by": "東京ムービー新社",
+   "year": 1984,
+   "country": "일본·미국",
+   "setting": "우주 정복을 꾀하는 컴퓨터 마왕에 맞서, 은하 순찰대원과 합체해 거대해지는 로봇 다섯이 싸운다.",
+   "concepts": [
+    "ai",
+    "robot",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "미국 ABC가 직접 맡긴 TV 13화 — 일본어 위키백과 분류 「1984年のテレビアニメ」 · 일본어 위키백과 「マイティ・オーボッツ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "machine_robo",
+   "orig": "マシンロボ",
+   "orig_en": "",
+   "ko": "머신로보 크로노스의 대역습",
+   "ko_src": "나무위키 문서 제목 「머신로보 크로노스의 대역습」(첫 TV판)",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "『マシンロボ クロノスの大逆襲』 TV 44화(1986~1987) · 『マシンロボ ぶっちぎりバトルハッカーズ』(1987) · OVA",
+   "by": "葦プロダクション",
+   "year": 1986,
+   "country": "일본",
+   "setting": "영원한 생명의 에너지가 잠든 로봇 생명체의 별에서, 그것을 노리는 악의 군단에 맞서 남매 전사가 싸운다.",
+   "concepts": [
+    "machine_race",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 두 시리즈 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「マシンロボ クロノスの大逆襲」 · 나무위키 「머신로보 크로노스의 대역습」",
+   "korean": {
+    "status": "일부",
+    "detail": "대영 비디오 정식 VHS(1987~1989)(나무위키)",
+    "src": "https://namu.wiki/w/%EB%A8%B8%EC%8B%A0%EB%A1%9C%EB%B3%B4%20%ED%81%AC%EB%A1%9C%EB%85%B8%EC%8A%A4%EC%9D%98%20%EB%8C%80%EC%97%AD%EC%8A%B5"
+   },
+   "borderline": false
+  },
+  {
+   "id": "marine_snow_legend",
+   "orig": "マリンスノーの伝説",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1980)",
+   "by": "松本零士(원작), 藤川桂介(각본)",
+   "year": 1980,
+   "country": "일본",
+   "setting": "인구가 늘어 바다 도시를 짓는 미래, 폭발 사고 뒤 사라진 동료 여성의 정체를 청년이 좇아 나선다.",
+   "concepts": [
+    "overpopulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1980) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「マリンスノーの伝説」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "microid_s",
+   "orig": "ミクロイドS",
+   "orig_en": "",
+   "ko": "미크로이드 S",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AF%B8%ED%81%AC%EB%A1%9C%EC%9D%B4%EB%93%9C%20S",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1973) · TV 애니메이션(1973)",
+   "by": "手塚治虫(원작)",
+   "year": 1973,
+   "country": "일본",
+   "setting": "지능이 발달한 개미가 사람을 작게 줄여 노예로 부리며 인류 정복을 꾀하고, 줄어든 아이 셋이 맞선다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션(1973) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「ミクロイドS」 · 나무위키 「미크로이드 S」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mu_no_hakugei",
+   "orig": "ムーの白鯨",
+   "orig_en": "",
+   "ko": "무의 백경",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AC%B4%EC%9D%98%20%EB%B0%B1%EA%B2%BD",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 26화(1980)",
+   "by": "東京ムービー(トムス), よみうりテレビ",
+   "year": 1980,
+   "country": "일본",
+   "setting": "컴퓨터가 다스리는 무기력한 노인 사회가 된 먼 미래, 꿈속 흰 고래와 소녀에 이끌린 소년이 모험에 나선다.",
+   "concepts": [
+    "control_society",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ムーの白鯨」 · 나무위키 「무의 백경」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "roots_search",
+   "orig": "ルーツ・サーチ 食心物体X",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "日本コロムビア(발매)",
+   "year": 1986,
+   "country": "일본",
+   "setting": "난파선 생존자를 거둔 우주선이 수수께끼의 공간에 갇히고, 외계 존재가 승무원들의 지난 죄를 환영으로 들춘다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "SF 공포 OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「ルーツ・サーチ 食心物体X」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rainbow_sentai_robin",
+   "orig": "レインボー戦隊ロビン",
+   "orig_en": "",
+   "ko": "레인보우전대 로빈",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%EC%A0%84%EB%8C%80%20%EB%A1%9C%EB%B9%88",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 48화(1966~1967)",
+   "by": "東映動画, スタジオ・ゼロ(원안)",
+   "year": 1966,
+   "country": "일본",
+   "setting": "파르타 별 사람과 지구인 사이에서 태어난 소년이 로봇 여섯과 함께 파르타 별의 지구 침략에 맞선다.",
+   "concepts": [
+    "robot",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 48화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「レインボー戦隊ロビン」 · 나무위키 「레인보우전대 로빈」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "relic_armor_legaciam",
+   "orig": "レリックアーマーLEGACIAM",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1987, 후편은 만들지 못함)",
+   "by": "北爪宏幸(원작·감독), アトリエ戯雅",
+   "year": 1987,
+   "country": "일본",
+   "setting": "리버티아 별 시골의 소녀가 연구자 할아버지가 맞춰 둔 로봇 갑옷 '레가시암'의 조종사가 된다.",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「レリックアーマーLEGACIAM」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "robotan",
+   "orig": "ロボタン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1966~) · TV(1966~1968, 195화) · 리메이크 TV(1986, 66화) · 극장판(1989)",
+   "by": "森田拳次(원작), 大広",
+   "year": 1966,
+   "country": "일본",
+   "setting": "메이지 시대에 만든 첫 로봇이라는 엉뚱한 꼬마 로봇이 벌이는 소동을 그린 개그물.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 두 차례·극장판 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ロボタン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "robot_carnival",
+   "orig": "ロボットカーニバル",
+   "orig_en": "Robot Carnival",
+   "ko": "로봇 카니발",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A1%9C%EB%B4%87%20%EC%B9%B4%EB%8B%88%EB%B0%9C",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "옴니버스 OVA 1편(1987, 단편 7편)",
+   "by": "A.P.P.P., 大友克洋·なかむらたかし 등",
+   "year": 1987,
+   "country": "일본",
+   "setting": "로봇을 주제로 감독마다 따로 만든 단편 일곱 편을 묶은 모음집.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "옴니버스 OVA(1987) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「ロボットカーニバル」 · 나무위키 「로봇 카니발」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니원 더빙 방영, 그 더빙이 정식 DVD에 실림(나무위키)",
+    "src": "https://namu.wiki/w/%EB%A1%9C%EB%B4%87%20%EC%B9%B4%EB%8B%88%EB%B0%9C"
+   },
+   "borderline": false
+  },
+  {
+   "id": "wonder_beat_s",
+   "orig": "ワンダービートS",
+   "orig_en": "Wonder Beat Scramble",
+   "ko": "원더비트 스크램블",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9B%90%EB%8D%94%EB%B9%84%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 애니메이션(1986)",
+   "by": "手塚治虫(기획·감수), 出崎哲·有原誠治(감독)",
+   "year": 1986,
+   "country": "일본",
+   "setting": "22세기 과학 도시에 원인 모를 병이 번지자, 특수 의료대가 몸을 작게 줄여 환자 몸속에서 이물질과 싸운다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「ワンダービートS」 · 나무위키 「원더비트 스크램블」",
+   "korean": {
+    "status": "있음",
+    "detail": "「우리는 우주」로 국내 방영, 대영팬더 정식 VHS(나무위키)",
+    "src": "https://namu.wiki/w/%EC%9B%90%EB%8D%94%EB%B9%84%ED%8A%B8%20%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "mitsume_ga_tooru",
+   "orig": "三つ目がとおる",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1974~1978) · TV 특별편(1985) · TV 애니메이션(1990~1991)",
+   "by": "手塚治虫(원작), 東映動画",
+   "year": 1974,
+   "country": "일본",
+   "setting": "세 눈 종족의 후손인 소년이 이마의 셋째 눈을 뜨면 무서운 지능과 초능력을 드러내 고대 유산을 쫓는다.",
+   "concepts": [
+    "psionics",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 특별편(1985) — 일본어 위키백과 분류 「1985年のテレビアニメ」 · 일본어 위키백과 「三つ目がとおる」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "shadar",
+   "orig": "冒険少年シャダー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 10분물 156회(1967~1968)",
+   "by": "岡本光輝(원작), 日本放送映画",
+   "year": 1967,
+   "country": "일본",
+   "setting": "후지산 동굴에서 깨어난 고대 문명의 생존자 소년이 현대 과학을 익혀, 세계 정복을 꾀하는 마인에 맞선다.",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 156회 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「冒険少年シャダー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mechander_robo",
+   "orig": "合身戦隊メカンダーロボ",
+   "orig_en": "",
+   "ko": "합신전대 메칸더 로보",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%A9%EC%8B%A0%EC%A0%84%EB%8C%80%20%EB%A9%94%EC%B9%B8%EB%8D%94%20%EB%A1%9C%EB%B3%B4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 35화(1977)",
+   "by": "和光プロダクション",
+   "year": 1977,
+   "country": "일본",
+   "setting": "공해로 망가진 별에서 태어난 황제가 그 별 사람들을 사이보그로 바꿔 지구를 점령하자, 합체 로봇이 맞선다.",
+   "concepts": [
+    "cyborg",
+    "alien_invasion",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 35화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「合身戦隊メカンダーロボ」 · 나무위키 「합신전대 메칸더 로보」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 방영, 대영팬더 정식 비디오(나무위키)",
+    "src": "https://namu.wiki/w/%ED%95%A9%EC%8B%A0%EC%A0%84%EB%8C%80%20%EB%A9%94%EC%B9%B8%EB%8D%94%20%EB%A1%9C%EB%B3%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "chiteijin",
+   "orig": "地底人",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "4쪽 단편 연작 만화(1979~) · OVA(1989)",
+   "by": "いしいひさいち",
+   "year": 1979,
+   "country": "일본",
+   "setting": "사람과 다른 세계에 숨어 사는 땅속 사람들을 그린 4쪽짜리 SF 엉터리 개그 연작.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1989) — 일본어 위키백과 분류 「1989年のOVA」 · 일본어 위키백과 「地底人 (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "bagi",
+   "orig": "大自然の魔獣バギ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1984, 『24時間テレビ』)",
+   "by": "手塚治虫(원안), 手塚プロダクション·日本テレビ",
+   "year": 1984,
+   "country": "일본",
+   "setting": "유전자 조작으로 태어나 사람들이 두려워하는 짐승 '바기'를 쫓아, 일본인 총잡이가 먼 나라로 간다.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1984) — 일본어 위키백과 분류 「1984年のテレビアニメ」 · 일본어 위키백과 「大自然の魔獣バギ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "wicked_city",
+   "orig": "妖獣都市",
+   "orig_en": "",
+   "ko": "요수도시",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9A%94%EC%88%98%EB%8F%84%EC%8B%9C",
+   "media": [
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "菊地秀行 소설 『闇ガード』 연작(1985~) · 극장 애니메이션(1987) · 홍콩 실사 영화",
+   "by": "菊地秀行(원작), 川尻善昭(감독)",
+   "year": 1985,
+   "country": "일본",
+   "setting": "사람 사이에 숨어든 요수에 맞서, 특수 경비대 '야미 가드'가 사건을 쫓는 이야기.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "극장 애니메이션(1987) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「妖獣都市」 · 나무위키 「요수도시」",
+   "korean": {
+    "status": "있음",
+    "detail": "일본 대중문화 개방 뒤 정식 비디오 발매, XTM 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%9A%94%EC%88%98%EB%8F%84%EC%8B%9C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "uchu_ace_tatsunoko",
+   "orig": "宇宙エース",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 52화(1965~1966)",
+   "by": "吉田竜夫(원작), 竜の子プロダクション",
+   "year": 1965,
+   "country": "일본",
+   "setting": "얼어붙은 고향 별을 떠난 우주 선단에서 떨어져 21세기 지구에 온 외계 왕자가 특별한 힘으로 평화를 지킨다.",
+   "concepts": [
+    "alien",
+    "flotilla"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "다쓰노코 첫 TV 애니메이션, 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「宇宙エース」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_patrol_hoppa",
+   "orig": "宇宙パトロールホッパ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 44화(1965, 32화부터 『パトロール・ホッパ 宇宙っ子ジュン』)",
+   "by": "東映動画",
+   "year": 1965,
+   "country": "일본",
+   "setting": "외계인을 만나러 우주로 간 배에서 크게 다친 소년이, 구해 준 외계 순찰대의 과학으로 사이보그가 된다.",
+   "concepts": [
+    "cyborg",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 44화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「宇宙パトロールホッパ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "uchujin_pipi",
+   "orig": "宇宙人ピピ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "NHK TV 52회(1965~1966), 실사와 애니메이션 합성",
+   "by": "NHK",
+   "year": 1965,
+   "country": "일본",
+   "setting": "100만 년 앞선 별에서 온 작은 외계인이 남매와 친구가 되어, 원반으로 시간 여행까지 하며 소동을 벌인다.",
+   "concepts": [
+    "alien",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "실사·애니메이션 합성 TV 52회 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「宇宙人ピピ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_boy_soran",
+   "orig": "宇宙少年ソラン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 96화(1965~1967)",
+   "by": "福本和也·宮腰義勝(원작), TCJ, TBS",
+   "year": 1965,
+   "country": "일본",
+   "setting": "지구를 떠난 과학자의 아이가 중력이 15배인 별 사람들에게 구조돼 사이보그가 되고, 누나를 찾으며 싸운다.",
+   "concepts": [
+    "cyborg",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 96화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「宇宙少年ソラン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "blue_noah",
+   "orig": "宇宙空母ブルーノア",
+   "orig_en": "Thundersub",
+   "ko": "우주공모 블루노아",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9A%B0%EC%A3%BC%EA%B3%B5%EB%AA%A8%20%EB%B8%94%EB%A3%A8%EB%85%B8%EC%95%84",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 애니메이션(1979~1980)",
+   "by": "西崎義展(원작), アカデミー制作",
+   "year": 1979,
+   "country": "일본",
+   "setting": "2052년, 지구 궤도에 멈춘 인공 행성의 외계인에게 인류의 9할이 죽고, 살아남은 이들이 반격에 나선다.",
+   "concepts": [
+    "alien_invasion",
+    "megastructure",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "해외 여러 나라에서도 방영 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「宇宙空母ブルーノア」 · 나무위키 「우주공모 블루노아」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "komatsu_sakyo_anime",
+   "orig": "小松左京アニメ劇場",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 5분물 24화+특별편 3화(1989~1990, MBS 심야)",
+   "by": "小松左京(원작), 毎日放送",
+   "year": 1989,
+   "country": "일본",
+   "setting": "SF 작가 고마쓰 사쿄의 짧은 이야기들을 5분짜리 애니메이션으로 옮긴 단편 모음.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "MBS 첫 심야 애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「小松左京アニメ劇場」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "leda",
+   "orig": "幻夢戦記レダ",
+   "orig_en": "Leda: The Fantastic Adventure of Yohko",
+   "ko": "환몽전기 레다",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%99%98%EB%AA%BD%EC%A0%84%EA%B8%B0%20%EB%A0%88%EB%8B%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1985)",
+   "by": "湯山邦彦(감독), カナメプロダクション",
+   "year": 1985,
+   "country": "일본",
+   "setting": "짝사랑을 고백하려던 여고생이 갑자기 낯선 세계로 끌려가, 그곳의 싸움에 휘말린다.",
+   "concepts": [
+    "other_realm",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1985) — 일본어 위키백과 분류 「1985年のOVA」 · 일본어 위키백과 「幻夢戦記レダ」 · 나무위키 「환몽전기 레다」",
+   "korean": {
+    "status": "있음",
+    "detail": "「레다의 비밀」 한국 방영판 성우가 기록됨(나무위키, 방송사는 확인 못 함)",
+    "src": "https://namu.wiki/w/%ED%99%98%EB%AA%BD%EC%A0%84%EA%B8%B0%20%EB%A0%88%EB%8B%A4"
+   },
+   "borderline": true
+  },
+  {
+   "id": "izenborg",
+   "orig": "恐竜大戦争アイゼンボーグ",
+   "orig_en": "",
+   "ko": "공룡대전쟁 아이젠보그",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B3%B5%EB%A3%A1%EB%8C%80%EC%A0%84%EC%9F%81%20%EC%95%84%EC%9D%B4%EC%A0%A0%EB%B3%B4%EA%B7%B8",
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "TV 39화(1977~1978), 실사 특촬과 셀 애니메이션을 섞은 '円谷恐竜三部作' 둘째",
+   "by": "円谷プロダクション",
+   "year": 1977,
+   "country": "일본",
+   "setting": "1986년, 사라졌던 공룡들이 초능력을 지니고 되살아나 인류에 전쟁을 걸고, 사이보그 남매가 맞선다.",
+   "concepts": [
+    "cyborg",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "특촬·애니메이션 TV 39화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「恐竜大戦争アイゼンボーグ」 · 나무위키 「공룡대전쟁 아이젠보그」",
+   "korean": {
+    "status": "있음",
+    "detail": "KBS 「어린이 특공대」 방영(1979~1980)(나무위키)",
+    "src": "https://namu.wiki/w/%EA%B3%B5%EB%A3%A1%EB%8C%80%EC%A0%84%EC%9F%81%20%EC%95%84%EC%9D%B4%EC%A0%A0%EB%B3%B4%EA%B7%B8"
+   },
+   "borderline": false
+  },
+  {
+   "id": "bornfree",
+   "orig": "恐竜探険隊ボーンフリー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "TV 25화(1976~1977), '円谷恐竜三部作' 첫째(인물은 셀 애니메이션, 공룡은 실사 특촬)",
+   "by": "円谷プロダクション",
+   "year": 1976,
+   "country": "일본",
+   "setting": "1996년, 혜성이 일으킨 지각 변동으로 땅속 공룡들이 지상에 나타나자, 공룡을 보호할 포획대가 꾸려진다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "특촬·애니메이션 TV 25화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「恐竜探険隊ボーンフリー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rainbowman",
+   "orig": "愛の戦士レインボーマン",
+   "orig_en": "",
+   "ko": "사랑의 전사 레인보우맨",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%82%AC%EB%9E%91%EC%9D%98%20%EC%A0%84%EC%82%AC%20%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%EB%A7%A8",
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "특촬 드라마(1972) · TV 애니메이션 22화(1982~1983, 설정을 새로 짬)",
+   "by": "川内康範(원작), 土田プロダクション(애니메이션)",
+   "year": 1972,
+   "country": "일본",
+   "setting": "일본을 노리는 비밀 조직과 싸우는 변신 영웅물 — 애니메이션판은 거대 로봇과 외계인 수장을 더했다.",
+   "concepts": [
+    "alien",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션 22화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「愛の戦士レインボーマン (アニメ)」 · 나무위키 「사랑의 전사 레인보우맨」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "opsar",
+   "orig": "戦え!オスパー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(『週刊少年キング』) · TV 52화(1965~1967)",
+   "by": "山野浩一(원작·각본), 伊奈たかし(그림), 日本放送映画",
+   "year": 1965,
+   "country": "일본",
+   "setting": "가라앉은 무 대륙 사람들이 바다 밑 돔에서 초능력자가 되고, 그 소년이 땅 위로 나와 악당 소년과 맞선다.",
+   "concepts": [
+    "psionics",
+    "precursor",
+    "next_human"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「戦え!オスパー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shuten_doji",
+   "orig": "手天童子",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1976~1978) · OVA 4권(1989)",
+   "by": "永井豪とダイナミックプロ(원작), スタジオシグナル",
+   "year": 1976,
+   "country": "일본",
+   "setting": "귀신의 세계 '귀옥계'와 사람의 세계, 시간을 넘나들며 귀신의 피를 둘러싼 싸움을 그린 전기물.",
+   "concepts": [
+    "time_travel",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1989) — 일본어 위키백과 분류 「1989年のOVA」 · 일본어 위키백과 「手天童子」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "toki_no_tabibito",
+   "orig": "時空の旅人",
+   "orig_en": "",
+   "ko": "시공의 여행자",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%8B%9C%EA%B3%B5%EC%9D%98%20%EC%97%AC%ED%96%89%EC%9E%90",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "眉村卓 소설 『とらえられたスクールバス』(1977~1978 연재) · 극장 애니메이션 『時空の旅人』(1986)",
+   "by": "眉村卓(원작), 真崎守(감독)",
+   "year": 1977,
+   "country": "일본",
+   "setting": "미래에서 타임머신으로 달아난 소년이 여고생들이 탄 버스를 과거로 끌고 가, 역사가 바뀔 위기를 맞는다.",
+   "concepts": [
+    "time_travel",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1986) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「時空の旅人」 · 나무위키 「시공의 여행자」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "dairugger_xv",
+   "orig": "機甲艦隊ダイラガーXV",
+   "orig_en": "",
+   "ko": "기갑함대 다이라가XV",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B8%B0%EA%B0%91%ED%95%A8%EB%8C%80%20%EB%8B%A4%EC%9D%B4%EB%9D%BC%EA%B0%80XV",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 52화(1982~1983)",
+   "by": "八手三郎(원안), 東映動画",
+   "year": 1982,
+   "country": "일본",
+   "setting": "세 행성 연합이 15대 합체 로봇을 실은 함대를 은하 지도를 만들러 보내고, 함대는 길에서 적과 맞선다.",
+   "concepts": [
+    "federation",
+    "mecha",
+    "fleet_battle",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1980年代)」 · 일본어 위키백과 「機甲艦隊ダイラガーXV」 · 나무위키 「기갑함대 다이라가XV」",
+   "korean": {
+    "status": "있음",
+    "detail": "대우비디오 정식 VHS(나무위키)",
+    "src": "https://namu.wiki/w/%EA%B8%B0%EA%B0%91%ED%95%A8%EB%8C%80%20%EB%8B%A4%EC%9D%B4%EB%9D%BC%EA%B0%80XV"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gaislugger",
+   "orig": "氷河戦士ガイスラッガー",
+   "orig_en": "",
+   "ko": "빙하전사 가이스러거",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B9%99%ED%95%98%EC%A0%84%EC%82%AC%20%EA%B0%80%EC%9D%B4%EC%8A%A4%EB%9F%AC%EA%B1%B0",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 20화(1977)",
+   "by": "石森章太郎(원작), 石黒昇(감독)",
+   "year": 1977,
+   "country": "일본",
+   "setting": "3만 년 전 외계 침략자에게 멸망한 왕국의 생존자 다섯이 사이보그 전사가 되어 침략자와 싸운다.",
+   "concepts": [
+    "cyborg",
+    "alien_invasion",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 20화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「氷河戦士ガイスラッガー」 · 나무위키 「빙하전사 가이스러거」",
+   "korean": {
+    "status": "없음",
+    "detail": "나무위키: 한국에서 방영되거나 비디오로 들어온 적 없음",
+    "src": "https://namu.wiki/w/%EB%B9%99%ED%95%98%EC%A0%84%EC%82%AC%20%EA%B0%80%EC%9D%B4%EC%8A%A4%EB%9F%AC%EA%B1%B0"
+   },
+   "borderline": false
+  },
+  {
+   "id": "umi_no_yami",
+   "orig": "海の闇、月の影",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1987~) · OVA(1989)",
+   "by": "篠原千絵(원작)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "옛 무덤에 잠들어 있던, 감염된 이에게 초능력을 주는 바이러스에서 살아남은 쌍둥이 자매가 서로 맞서게 된다.",
+   "concepts": [
+    "psionics",
+    "awakening_substance",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1989) — 일본어 위키백과 분류 「1989年のOVA」 · 일본어 위키백과 「海の闇、月の影」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kaitei_3man_mile",
+   "orig": "海底3万マイル",
+   "orig_en": "30000 Miles Under Sea",
+   "ko": "해저 3만마일",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%B4%EC%A0%80%203%EB%A7%8C%EB%A7%88%EC%9D%BC",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1970)",
+   "by": "石森章太郎(원작), 東映動画",
+   "year": 1970,
+   "country": "일본",
+   "setting": "화산섬 해양 연구소의 소년이 수수께끼의 소녀를 만난 날, 화구에서 괴수 로봇이 나타나 싸움에 휘말린다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1970) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1970年代)」 · 일본어 위키백과 「海底3万マイル」 · 나무위키 「해저 3만마일」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "marine_express",
+   "orig": "海底超特急マリンエクスプレス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편(1979, 『24時間テレビ』) · 만화판",
+   "by": "手塚治虫(원안), 出﨑哲(감독), 虫プロダクション 등",
+   "year": 1979,
+   "country": "일본",
+   "setting": "해저 초특급의 시험 운행에 속셈이 저마다 다른 승객이 타고, 열차는 먼 옛날 무 제국의 싸움에 휘말린다.",
+   "concepts": [
+    "time_travel",
+    "alien",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 특별편(1979) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「海底超特急マリンエクスプレス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "akai_kiba",
+   "orig": "紅い牙",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화 연작(1975~, 「ブルー・ソネット」 등) · OVA 『紅い牙 ブルー・ソネット』(1989)",
+   "by": "柴田昌弘",
+   "year": 1975,
+   "country": "일본",
+   "setting": "고대 초인류의 피를 이은 초능력 소녀가 악의 비밀 결사와 오래도록 싸우는 SF 대작.",
+   "concepts": [
+    "psionics",
+    "next_human",
+    "order"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1989) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「紅い牙」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "baratack",
+   "orig": "超人戦隊バラタック",
+   "orig_en": "",
+   "ko": "초인전대 바라타크",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B4%88%EC%9D%B8%EC%A0%84%EB%8C%80%20%EB%B0%94%EB%9D%BC%ED%83%80%ED%81%AC",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 31화(1977~1978), 『マグネロボシリーズ』 셋째",
+   "by": "池原成利·小林檀(원작), 東映動画",
+   "year": 1977,
+   "country": "일본",
+   "setting": "워프 항법을 연구하는 박사의 아내와 아들을 외계인이 납치하자, 초능력자들이 자석 합체 로봇으로 맞선다.",
+   "concepts": [
+    "psionics",
+    "mecha",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 31화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「超人戦隊バラタック」 · 나무위키 「초인전대 바라타크」",
+   "korean": {
+    "status": "있음",
+    "detail": "삼화비디오 정식 VHS 「슈퍼특전대 바라타크」(1983)(나무위키)",
+    "src": "https://namu.wiki/w/%EC%B4%88%EC%9D%B8%EC%A0%84%EB%8C%80%20%EB%B0%94%EB%9D%BC%ED%83%80%ED%81%AC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tobira_wo_akete",
+   "orig": "扉を開けて",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "新井素子 소설(1981) · 극장 애니메이션(1986) · 만화(1986) · PC 게임(1987) — 『ラビリンス』·『ディアナ・ディア・ディアス』와 같은 세계",
+   "by": "新井素子(원작)",
+   "year": 1981,
+   "country": "일본",
+   "setting": "초능력자 대학생 셋이 시공의 틈에 빨려 들어가고, 그중 하나가 이세계에서 전설의 여왕으로 떠받들린다.",
+   "concepts": [
+    "psionics",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "극장 애니메이션(1986) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「扉を開けて (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "ariel_sasamoto",
+   "orig": "ARIEL",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "笹本祐一 소설(1987~2006, 소노라마 문고) · OVA(1989·1991) · 만화",
+   "by": "笹本祐一(원작), 鈴木雅久(그림)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "외계인의 지구 침략에 맞서 여성형 거대 로봇 'ARIEL'이 출동하는 코믹 로봇 SF 소설.",
+   "concepts": [
+    "mecha",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1989) — 일본어 위키백과 분류 「1989年のOVA」 · 일본어 위키백과 「ARIEL (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "yusei_kamen",
+   "orig": "遊星仮面",
+   "orig_en": "",
+   "ko": "유성가면",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9C%A0%EC%84%B1%EA%B0%80%EB%A9%B4",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 39화(1966~1967) · 楠高治 만화",
+   "by": "仁田信夫(원작), TCJ",
+   "year": 1966,
+   "country": "일본",
+   "setting": "평화롭게 오가던 지구와 행성 피네론이 갑자기 전쟁에 빠지고, 가면의 영웅이 싸움을 막으려 나선다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 39화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「遊星仮面」 · 나무위키 「유성가면」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 「유성가면 피터」 방영(1975)(나무위키)",
+    "src": "https://namu.wiki/w/%EC%9C%A0%EC%84%B1%EA%B0%80%EB%A9%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yusei_shonen_papii",
+   "orig": "遊星少年パピイ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 52화(1965~1966) · 井上英沖 만화",
+   "by": "吉倉正一郎(원작), TCJ",
+   "year": 1965,
+   "country": "일본",
+   "setting": "앞선 문명의 태양계 행성들이 전쟁 많은 지구를 경계하는 가운데, 한 별의 소년이 지구의 평화를 지키러 온다.",
+   "concepts": [
+    "alien",
+    "non_interference"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 52화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「遊星少年パピイ」",
+   "korean": {
+    "status": "있음",
+    "detail": "MBC 「우주의 왕자 빠삐」 방영(1971)(나무위키 「유성가면」 문서)",
+    "src": "https://namu.wiki/w/%EC%9C%A0%EC%84%B1%EA%B0%80%EB%A9%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "marine_boy",
+   "orig": "海底少年マリン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "『ドルフィン王子』 3화(1965) · 『がんばれ!マリンキッド』(1966) · 『海底少年マリン』(1969~1970)",
+   "by": "テレビ動画",
+   "year": 1965,
+   "country": "일본",
+   "setting": "산소를 내는 껌과 발바닥 분사 장치를 쓰는 소년이 일곱 바다를 홀로 맡아 악당에게서 지킨다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 첫 30분 컬러 TV 애니메이션(『ドルフィン王子』) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「海底少年マリン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kenritsu_chikyu_boeigun",
+   "orig": "県立地球防衛軍",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1983~1985) · OVA(1986)",
+   "by": "安永航一郎(원작)",
+   "year": 1983,
+   "country": "일본",
+   "setting": "목재상이 몰래 꾸린 악의 결사가 규슈 어느 현을 부수자, 현이 직접 '지구 방위군'을 꾸려 맞서는 개그물.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 분류 「1986年のOVA」 · 일본어 위키백과 「県立地球防衛軍」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "love_position_halley",
+   "orig": "ラブ・ポジション ハレー伝説",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1985)",
+   "by": "手塚治虫(원작), 手塚プロダクション",
+   "year": 1985,
+   "country": "일본",
+   "setting": "핼리 혜성의 운석을 쫓던 청년이 늙지 않는 소녀를 만나고, 소녀는 지구를 없애러 보내진 존재라고 털어놓는다.",
+   "concepts": [
+    "alien",
+    "impostor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "데즈카 프로 첫 오리지널 OVA — 일본어 위키백과 분류 「1985年のOVA」 · 일본어 위키백과 「ラブ・ポジション ハレー伝説」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "fight_pyuta",
+   "orig": "ファイトだ!!ピュー太",
+   "orig_en": "",
+   "ko": "파이트다!!퓨타",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%ED%8A%B8%EB%8B%A4%21%21%ED%93%A8%ED%83%80",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "ムロタニツネ象 만화 『ドクター・ツルリ』 · TV 26화(1968)",
+   "by": "ムロタニツネ象(원작), 放送動画制作·毎日放送",
+   "year": 1968,
+   "country": "일본",
+   "setting": "발명 잘하는 소년이 박사 할아버지와 묘한 기계를 만들어 맞수 발명가와 겨루는 개그 SF.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「ファイトだ!!ピュー太」 · 나무위키 「파이트다!!퓨타」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gingaizer",
+   "orig": "超合体魔術ロボ ギンガイザー",
+   "orig_en": "",
+   "ko": "초합체마술로보 깅가이저",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B4%88%ED%95%A9%EC%B2%B4%EB%A7%88%EC%88%A0%EB%A1%9C%EB%B3%B4%20%EA%B9%85%EA%B0%80%EC%9D%B4%EC%A0%80",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 26화(1977)",
+   "by": "日本アニメーション·葦プロダクション, 案納正美(감독)",
+   "year": 1977,
+   "country": "일본",
+   "setting": "땅속에서 되살아난 옛 제국이 일본을 휩쓸자, 옛 일족이 모은 젊은이들이 합체 로봇으로 맞선다.",
+   "concepts": [
+    "mecha",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「超合体魔術ロボ ギンガイザー」 · 나무위키 「초합체마술로보 깅가이저」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "samy_missing_99",
+   "orig": "超時空ロマネスク SAMY MISSING・99",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 1편(1986)",
+   "by": "奥田誠治(원작), 窪秀巳(감독)",
+   "year": 1986,
+   "country": "일본",
+   "setting": "우주를 지배하려는 마에 의해 마수가 들끓는 다른 차원으로 날려 간 소녀를, 신이 보낸 전사 넷이 지킨다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(1986) — 일본어 위키백과 「日本のOVA作品一覧」 · 일본어 위키백과 「超時空ロマネスク SAMY MISSING・99」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "meikyu_monogatari",
+   "orig": "迷宮物語",
+   "orig_en": "Neo Tokyo (Manie-Manie)",
+   "ko": "미궁 이야기",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AF%B8%EA%B6%81%20%EC%9D%B4%EC%95%BC%EA%B8%B0",
+   "media": [
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "眉村卓 단편 원작의 옴니버스 극장 애니메이션(1987, 단편 셋)",
+   "by": "眉村卓(원작), りんたろう·川尻善昭·大友克洋(감독)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "마유무라 다쿠의 단편 셋을 감독 셋이 따로 옮긴 옴니버스 극장 애니메이션.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "옴니버스 극장 애니메이션 — 일본어 위키백과 「日本のアニメ映画作品一覧 (1980年代)」 · 일본어 위키백과 「迷宮物語」 · 나무위키 「미궁 이야기」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "yatsu_no_na_wa_gold",
+   "orig": "遠山桜宇宙帖 奴の名はゴールド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "結城恭介 소설(1987) · OVA(1987)",
+   "by": "結城恭介(원작), 梅澤淳稔(감독), 東映動画",
+   "year": 1987,
+   "country": "일본",
+   "setting": "거대 컴퓨터가 다스려 전쟁이 사라진 미래, 집정관의 아들이 아버지를 노린 '유령'을 우주 식민지에서 쫓는다.",
+   "concepts": [
+    "ai",
+    "habitat",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA — 일본어 위키백과 분류 「1988年のOVA」 · 일본어 위키백과 「遠山桜宇宙帖 奴の名はゴールド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nayuta_sasaki",
+   "orig": "那由他",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1981~) · OVA(1986)",
+   "by": "佐々木淳子(원작), 波多正美(감독)",
+   "year": 1981,
+   "country": "일본",
+   "setting": "평범한 고교생 소녀가 초능력을 끌어내는 '고리'를 얻고, 초능력자와 괴물들의 남모를 싸움에 뛰어든다.",
+   "concepts": [
+    "psionics",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "OVA(1986) — 일본어 위키백과 분류 「1986年のOVA」 · 일본어 위키백과 「那由他 (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ginga_shonentai",
+   "orig": "銀河少年隊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "NHK 인형극 92화(1963~1965), 기계 장면에 무시 프로 애니메이션을 섞음",
+   "by": "手塚治虫(원작), NHK, 虫プロダクション",
+   "year": 1963,
+   "country": "일본",
+   "setting": "태양이 식어 생명이 사라질 위기에, 소년이 로봇 개와 외계인 동료들과 태양을 살릴 물질을 찾아 우주로 간다.",
+   "concepts": [
+    "alien",
+    "robot",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "인형극+애니메이션 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1950年代-1960年代)」 · 일본어 위키백과 「銀河少年隊」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "border_planet",
+   "orig": "銀河探査2100年 ボーダープラネット",
+   "orig_en": "",
+   "ko": "은하탐사 2100년 보더 플래닛",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9D%80%ED%95%98%ED%83%90%EC%82%AC%202100%EB%85%84%20%EB%B3%B4%EB%8D%94%20%ED%94%8C%EB%9E%98%EB%8B%9B",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 특별편 1화(1986, 『24時間テレビ』)",
+   "by": "手塚治虫(원안·각본·감독), 手塚プロダクション",
+   "year": 1986,
+   "country": "일본",
+   "setting": "어릴 적 단짝 셋이 자라 우주 비행사가 되고, 먼 행성 탐사 길에 우주 바이러스와 엇갈린 사랑을 마주한다.",
+   "concepts": [
+    "colonization",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "데즈카 생전 마지막 완성작 — 일본어 위키백과 분류 「1986年のテレビアニメ」 · 일본어 위키백과 「銀河探査2100年 ボーダープラネット」 · 나무위키 「은하탐사 2100년 보더 플래닛」",
+   "korean": {
+    "status": "있음",
+    "detail": "1990년 MBC 설날 특집으로 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%9D%80%ED%95%98%ED%83%90%EC%82%AC%202100%EB%85%84%20%EB%B3%B4%EB%8D%94%20%ED%94%8C%EB%9E%98%EB%8B%9B"
+   },
+   "borderline": false
+  },
+  {
+   "id": "daimos",
+   "orig": "闘将ダイモス",
+   "orig_en": "",
+   "ko": "투장 다이모스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%88%AC%EC%9E%A5%20%EB%8B%A4%EC%9D%B4%EB%AA%A8%EC%8A%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 44화(1978~1979)",
+   "by": "八手三郎(원작), 長浜忠夫(감독), 東映·日本サンライズ",
+   "year": 1978,
+   "country": "일본",
+   "setting": "고향 별을 잃고 온 외계인과의 회담이 암살로 깨져 전쟁이 나고, 적과 아군으로 갈린 남녀가 사랑에 빠진다.",
+   "concepts": [
+    "alien_invasion",
+    "mecha",
+    "flotilla"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'나가하마 낭만 로봇' 셋째, TV 44화 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (1970年代)」 · 일본어 위키백과 「闘将ダイモス」 · 나무위키 「투장 다이모스」",
+   "korean": {
+    "status": "있음",
+    "detail": "대영팬더 정식 비디오(나무위키)",
+    "src": "https://namu.wiki/w/%ED%88%AC%EC%9E%A5%20%EB%8B%A4%EC%9D%B4%EB%AA%A8%EC%8A%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "liner_0011",
+   "orig": "魔犬ライナー0011変身せよ!",
+   "orig_en": "Go Get Team 0011",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(1972)",
+   "by": "東映動画",
+   "year": 1972,
+   "country": "일본",
+   "setting": "1980년대, 곤충형 외계인이 지구를 침략하자 박사가 사이보그로 바꿔 둔 개 넷이 아들과 함께 맞선다.",
+   "concepts": [
+    "cyborg",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(1972) — 일본어 위키백과 「日本のアニメ映画作品一覧 (1970年代)」 · 일본어 위키백과 「魔犬ライナー0011変身せよ!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "okashina_hoshi_no_kuni",
+   "orig": "おかしなおかしな星の国",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "단편 홍보 애니메이션 20분(1968, 공공시설 상영회로 공개)",
+   "by": "東映動画, 貯蓄増強中央委員会",
+   "year": 1968,
+   "country": "일본",
+   "setting": "21세기 수학여행 우주선이 낯선 별로 끌려가고, 아이들은 만들자마자 부수는 낭비를 권하는 별의 실상을 본다.",
+   "concepts": [
+    "alien",
+    "post_scarcity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "1968년 단편 — 일본어 위키백과 분류 「SFアニメ」·「1968年のアニメ」 · 일본어 위키백과 「おかしなおかしな星の国」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  }
+ ]
+}
