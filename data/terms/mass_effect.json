@@ -1368,6 +1368,253 @@
         "https://cafe.naver.com/teamimsi/24",
         "https://masseffect.fandom.com/wiki/Angara"
       ]
+    },
+    {
+      "id": "drell",
+      "ko": "드렐",
+      "orig": "Drell",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「드렐」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "해나에게 구조되어 그들을 섬기는 파충류 종족",
+      "note": "스스로 망친 고향에서 해나가 일부를 구해 내 바다 행성 카제로 옮겼다. 그 빚을 갚으려 맹약을 맺고 해나가 몸으로 못 하는 일을 돕는다. 메마른 땅 출신이라 축축한 피난처에서 폐병에 시달린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/드렐",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "elcor",
+      "ko": "엘코어",
+      "orig": "Elcor",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「엘코어」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "높은 중력 행성에서 온 느리고 신중한 네 발 종족",
+      "note": "넘어지면 죽는 환경에서 자라 느리게 움직이고 보수적으로 생각한다. 저희끼리는 냄새와 낮은 소리로 미묘한 뜻을 나누어, 다른 종족에게는 감정을 말로 먼저 밝힌다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/엘코어",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "volus",
+      "ko": "볼러스",
+      "orig": "Volus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「볼러스」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "튜리안의 보호를 받으며 은하 경제를 돌보는 종족",
+      "note": "압력 높은 암모니아 대기 행성 출신이라 다른 종족 앞에서는 압력복을 입는다. 장사 솜씨를 튜리안의 군사 보호와 맞바꾸었고, 시타델의 은행법을 만들어 은하 경제를 지켜본다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/볼러스",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "keepers",
+      "ko": "키퍼",
+      "orig": "Keepers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「키퍼(매스 이펙트 시리즈)」 문서에서 통용되는 표기(문서 이름) — 괄호 안 작품 이름은 뺐다. 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "시타델을 말없이 돌보는 정체 모를 벌레 종족",
+      "note": "아사리가 시타델을 찾았을 때부터 정거장을 고치고 돌보고 있었다. 말이 통하지 않고 수가 늘 같아, 시타델 깊은 곳에서 만들어지는 생체 인조물이라는 짐작이 있다. 이들을 방해하는 것은 법으로 금지되어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/키퍼(매스 이펙트 시리즈)",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "vorcha",
+      "ko": "볼챠",
+      "orig": "Vorcha",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「볼챠」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "겪는 고통에 맞춰 몸이 바뀌는 단명 종족",
+      "note": "몸 곳곳의 미분화 세포가 다치거나 험한 환경에 놓이면 그에 맞게 바뀐다. 스무 해밖에 살지 못하고 다른 사회가 해충 취급해, 크로건 용병단 말고는 일할 곳이 거의 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/볼챠",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "yahg",
+      "ko": "야그",
+      "orig": "Yahg",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「야그」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "평의회가 출입을 막은 거대한 포식자 종족",
+      "note": "우두머리가 정해져야 무리가 움직이고, 눈 여덟 개로 상대의 몸짓을 읽어 거짓말이 통하지 않는다. 평의회 사절이 대등하게 대한 것을 모욕으로 여겨 공격했고, 그 뒤 고향 행성은 출입이 막혔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/야그",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Non-Council_Races"
+      ]
+    },
+    {
+      "id": "stg",
+      "ko": "샐래리언 특수임무부대",
+      "orig": "Special Tasks Group (STG)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「샐래리언 특수임무부대」 문서에서 통용되는 표기(문서 이름). 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "문제가 커지기 전에 몰래 꺾는 샐래리언 첩보 조직",
+      "note": "서로 떨어진 작은 무리로 잠입·정찰·암살·파괴 공작을 맡는다. 위험한 흐름을 세력이 되기 전에 꺾는 것이 방식이며, 임무를 위해 희생을 가리지 않아 스펙터와 닮았다는 말을 듣는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/샐래리언%20특수임무부대",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Aliens:_Council_Races"
+      ]
+    },
+    {
+      "id": "palaven",
+      "ko": "팔라벤",
+      "orig": "Palaven",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/장소」 문서에서 통용되는 표기(문서 이름) — 그 문서의 목록에 실린 이름. 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "자기장이 약해 생물이 금속 껍질을 지닌 튜리안 고향",
+      "note": "약한 자기장 탓에 별빛 방사선이 많이 들어와 동물 대부분이 금속질 껍질을 지녔다. 요새로 둘러싼 도시들이 싸우는 사회를 보여 주며, 3편에서 리퍼의 폭격을 받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/매스%20이펙트%20시리즈/장소",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Planets_and_Locations"
+      ]
+    },
+    {
+      "id": "thessia",
+      "ko": "테시아",
+      "orig": "Thessia",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/장소」 문서에서 통용되는 표기(문서 이름) — 그 문서의 목록에 실린 이름. 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "key_resource"
+      ],
+      "one": "제0원소가 넘쳐 은하 경제의 중심인 아사리 고향",
+      "note": "제0원소가 하도 많아 은하 전체의 값을 흔든다. 하나의 정부 대신 여러 공화국이 있고 오래도록 전쟁 없이 지냈지만, 그 느슨한 짜임 탓에 큰 전쟁에 대비하지 못했다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/매스%20이펙트%20시리즈/장소",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Planets_and_Locations"
+      ]
+    },
+    {
+      "id": "rannoch",
+      "ko": "라노크",
+      "orig": "Rannoch",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 시리즈/장소」 문서에서 통용되는 표기(문서 이름) — 그 문서의 목록에 실린 이름. 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "게스에게 빼앗긴 쿼리안의 옛 고향",
+      "note": "300년 가까이 전 게스가 쿼리안을 쫓아낸 뒤 거의 비어 있지만, 게스가 생태와 옛 건물을 돌보고 있다. 곤충 없이 동물이 꽃가루를 나르는 생태 탓에 쿼리안의 면역이 약해졌다고 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/매스%20이펙트%20시리즈/장소",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex/Planets_and_Locations"
+      ]
+    },
+    {
+      "id": "jardaan",
+      "ko": "자르단",
+      "orig": "Jardaan",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「앙가라(매스 이펙트 시리즈)」 문서 본문에서 통용되는 표기. 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor",
+        "benefactor"
+      ],
+      "one": "렘넌트를 짓고 생명을 만들다 떠난 옛 종족",
+      "note": "헬리우스 클러스터 전체의 행성을 고치는 렘넌트 기술을 지었고, 지성 생명을 만드는 실험도 했다. 큰 무기가 터지자 중심 시설을 안전한 곳으로 떼어 보내고 클러스터를 떠났다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/앙가라(매스%20이펙트%20시리즈)",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex_(Mass_Effect:_Andromeda)/Andromeda_Species"
+      ]
+    },
+    {
+      "id": "meridian",
+      "ko": "메리디안",
+      "orig": "Meridian",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「매스 이펙트 안드로메다/주요 행성」 문서에서 통용되는 표기(문서 이름) — 그 문서의 절 제목. 다섯 게임 모두 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "dyson"
+      ],
+      "one": "렘넌트 볼트망을 다스리는 거대한 중심 구조물",
+      "note": "여기와 이어져야 볼트들이 행성을 제대로 고치고 지키며, 끊기면 잠들거나 고장 난다. 그래서 이것을 쥐는 자는 클러스터 행성들의 생태를 다스릴 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/매스%20이펙트%20안드로메다/주요%20행성",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex_(Mass_Effect:_Andromeda)/Planets_And_Locations"
+      ]
+    },
+    {
+      "id": "exaltation",
+      "ko": "엑잘테이션",
+      "orig": "Exaltation",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못함 — 원어를 소리 나는 대로. 나무위키 「켓」 문서는 원어를 그대로 두고 직역을 덧붙인다",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [
+        "assimilation"
+      ],
+      "one": "다른 종족을 켓으로 바꾸고 그 형질을 거두는 과정",
+      "note": "켓은 붙잡은 이의 쓸모 있는 유전 형질을 제 종족에 옮기고, 그 사람에게는 켓의 형질을 심어 충성하는 켓으로 바꾼다. 켓에게는 신성한 의식이다.",
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/켓",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex_(Mass_Effect:_Andromeda)/Andromeda_Species"
+      ]
+    },
+    {
+      "id": "roekaar",
+      "ko": "로카",
+      "orig": "Roekaar",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 「앙가라(매스 이펙트 시리즈)」 문서 본문에서 통용되는 표기. 정식 한국어판이 없어 우리 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "모든 외계인을 몰아내려는 앙가라 무장 세력",
+      "note": "켓의 수용소에 버려졌던 앙가라가 저항군과 외계 생명 모두를 원망하며 세웠다. 켓뿐 아니라 은하수에서 온 이주민까지 침략자로 보고 유격전을 벌인다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/앙가라(매스%20이펙트%20시리즈)",
+        "https://web.archive.org/web/2024/https://masseffect.fandom.com/wiki/Codex_(Mass_Effect:_Andromeda)/Andromeda_Species"
+      ]
     }
   ]
 }
