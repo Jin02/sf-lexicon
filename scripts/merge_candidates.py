@@ -42,6 +42,7 @@ SAME = {
     "who_goes_there": "the_thing",                     # 캠벨 원작 소설과 영화 「괴물」(1982)
     "download_devils_circuit": "download_pce",         # 게임 「다운로드」와 그 뒤를 잇는 애니메이션
     "kyukyoku_shinka_full_dive_rpg": "full_dive_kusoge",  # 같은 라이트 노벨의 일본어판·한국어판 제목
+    "story_of_the_days_to_come": "when_the_sleeper_wakes",  # 웰스 — 같은 미래를 무대로 한 단편과 장편
 }
 STOP = {"games", "game", "studios", "studio", "entertainment", "interactive", "software", "productions", "pictures",
         "animation", "films", "film", "the", "and", "inc", "ltd", "co", "netflix", "hbo", "bbc", "nbc", "cbs", "abc",

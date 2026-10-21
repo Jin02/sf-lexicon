@@ -1,6 +1,6 @@
 # 찾은 SF 세계
 
-매체를 가리지 않고 SF 세계 후보를 13갈래로 나눠 찾은 결과다. 같은 세계(소설과 그 영화, 같은 시리즈)는 한 건으로 합쳤다. 모두 **6468개** — 첫 묶음 18작품(용어 조사 중)은 빠져 있다.
+매체를 가리지 않고 SF 세계 후보를 13갈래로 나눠 찾은 결과다. 같은 세계(소설과 그 영화, 같은 시리즈)는 한 건으로 합쳤다. 모두 **9609개** — 첫 묶음 18작품(용어 조사 중)은 빠져 있다.
 
 - 이 목록은 **용어 조사 전**이다. 세계관 한 줄과 개념 표시는 후보를 찾은 조사가 붙인 것이라 검증 전이다.
 - 한국어: 정식 한국어판(번역 출간·국내 개봉·정식 방영·게임 한국어 지원)이 있는지. 매체마다 갈리면 하나라도 있으면 '있음'.
@@ -8,161 +8,509 @@
 
 | 처음 나온 매체 | 수 |
 |---|---|
-| 소설 | 2169 |
-| 희곡 | 26 |
-| 영화 | 1500 |
-| 드라마 | 243 |
-| 애니메이션 | 806 |
-| 만화 | 719 |
-| 게임 | 959 |
-| 탁상 게임 | 46 |
+| 소설 | 2702 |
+| 희곡 | 34 |
+| 영화 | 1843 |
+| 드라마 | 1094 |
+| 애니메이션 | 1215 |
+| 만화 | 911 |
+| 게임 | 1763 |
+| 탁상 게임 | 47 |
 
 | 한국어 정식판 | 수 |
 |---|---|
-| 있음 | 1536 |
-| 한국 원작 | 876 |
-| 일부 | 259 |
-| 없음 | 354 |
-| 확인 못 함 | 3443 |
+| 있음 | 1784 |
+| 한국 원작 | 931 |
+| 일부 | 262 |
+| 없음 | 975 |
+| 확인 못 함 | 5657 |
 
-## 소설에서 시작한 세계 (2169)
+## 소설에서 시작한 세계 (2702)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
+| 1516 | De optimo rei publicae statu deque nova insula Utopia (경계) | De optimo rei publicae statu deque nova insula Utopia | Thomas More | 소설 | 확인 못 함 | 먼 바다의 섬나라 '유토피아' — 재산을 함께 가진 이상 사회를 그린 풍자. |
+| 1623 | La città del sole (경계) | La città del sole | Tommaso Campanella | 소설 | 확인 못 함 | 기사단장과 제노바 선장의 대화로 그리는, 재산을 함께 가진 신정 이상 도시. |
+| 1626 | New Atlantis (경계) | New Atlantis | Francis Bacon | 소설 | 확인 못 함 | 페루 서쪽 태평양에서 길 잃은 배가 지식과 발견을 받드는 섬 벤살렘에 닿는다. |
+| 1634 | Somnium, seu opus posthumum De astronomia lunari | Somnium, seu opus posthumum De astronomia lunari | Johannes Kepler | 소설 | 확인 못 함 | 아이슬란드 소년과 마녀 어머니가 정령에게서 달 '레바니아'를 듣는다 — 달에서 본 지구의 천문학. |
+| 1638 | The Man in the Moone | The Man in the Moone | Francis Godwin (Domingo Gonsales) | 소설 | 확인 못 함 | 에스파냐 사내 도밍고 곤살레스가 달까지 가서 본 이상향을 들려준다 — 새 천문학을 담은 이야기. |
+| 1657 | L'Autre monde ou les états et empires de la Lune | L'Autre monde ou les états et empires de la Lune | Cyrano de Bergerac | 소설 | 확인 못 함 | 시라노가 이슬 병을 몸에 매고 하늘로 올라, 지구를 제 달로 여기는 달 문명을 찾아간다. |
+| 1666 | The Description of a New World, Called The Blazing-World (경계) | The Description of a New World, Called The Blazing-World | Margaret Cavendish | 소설 | 확인 못 함 | 북극을 지나면 닿는, 별자리가 다른 또 하나의 세계 — 그곳 이상 왕국의 풍자. |
+| 1705 | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon (경계) | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon | Daniel Defoe | 소설 | 확인 못 함 | 깃 달린 두 생물이 끄는 수레 '컨솔리데이터'를 타고 달 세계에 간다(정치 풍자). |
+| 1726 | Gulliver's Travels (경계) | Gulliver's Travels | Jonathan Swift | 소설 | 확인 못 함 | 외과의 걸리버가 소인국·거인국·학자들의 섬 라퓨타·말의 나라를 차례로 떠돈다. |
+| 1733 | Memoirs of the Twentieth Century | Memoirs of the Twentieth Century | Samuel Madden | 소설 | 확인 못 함 | 1997~1998년에 쓴 외교 서한 꼴로 앞날의 유럽 정치를 비꼰다. |
+| 1741 | Nicolai Klimii Iter Subterraneum (경계) | Nicolai Klimii Iter Subterraneum | Ludvig Holberg | 소설 | 확인 못 함 | 베르겐 동굴로 떨어진 청년이 땅속 해를 도는 행성 나자르에서 걷고 말하는 나무들의 나라를 본다. |
+| 1752 | Micromégas | Micromégas | Voltaire | 소설 | 확인 못 함 | 시리우스 행성에 사는 키 12만 피트의 거인 미크로메가스가 우주를 떠돌다 지구에 들른다. |
+| 1765 | The Voyages of Lord Seaton to the Seven Planets (경계) | The Voyages of Lord Seaton to the Seven Planets | Marie-Anne de Roumier-Robert | 소설 | 확인 못 함 | 정령의 안내를 받은 젊은 여주인공이 태양계 일곱 행성을 돌며 왕이 될 공부를 한다. |
+| 1771 | L'An 2440, rêve s'il en fut jamais | L'An 2440, rêve s'il en fut jamais | Louis-Sébastien Mercier | 소설 | 확인 못 함 | 파리의 부조리를 두고 다툰 사내가 잠들었다 깨어 보니 몇 세기 뒤의 파리다. |
+| 1805 | Le Dernier Homme (경계) | Le Dernier Homme | Jean-Baptiste Cousin de Grainville | 소설 | 확인 못 함 | 땅이 메말라 아이가 나지 않는 먼 미래, 유럽 왕의 아들 오메가루스가 마지막 인간이 된다. |
 | 1818 | 프랑켄슈타인 | Frankenstein; or, The Modern Prometheus | Mary Shelley | 소설·영화 | 있음 | 젊은 과학자가 죽은 몸 조각으로 생명을 만들고, 버림받은 피조물이 그를 쫓는다. |
+| 1824 | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Faddei Bulgarin | 소설 | 확인 못 함 | 1824년 배에서 떨어져 정신을 잃은 사내가 깨어나 29세기를 돌아본다 — 러시아 첫 시간 여행 이야기. |
+| 1825 | Невероятные небылицы, или Путешествие к средоточию Земли (경계) | Невероятные небылицы, или Путешествие к средоточию Земли | Faddei Bulgarin | 소설 | 확인 못 함 | 노바야제믈랴의 구멍에 빠진 사내가 땅속 세 나라를 돌아보는 풍자 우화. |
 | 1826 | 최후의 인간 | The Last Man | Mary Shelley | 소설 | 있음 | 21세기 말 역병이 온 세상에 퍼져 사람이 하나둘 죽고 마지막 한 사람만 남는다. |
+| 1827 | A Voyage to the Moon | A Voyage to the Moon | George Tucker (Joseph Atterley) | 소설 | 확인 못 함 | 반중력 물질을 써서 달에 간 사내가 달 사람들의 나라 모로소피아의 풍습과 학문을 본다. |
+| 1827 | The Mummy! A Tale of the Twenty-Second Century | The Mummy! A Tale of the Twenty-Second Century | Jane Webb (Jane C. Loudon) | 소설 | 확인 못 함 | 2126년, 첨단 기술이 넘치는 미래 영국에서 이집트 쿠푸왕의 미라가 되살아난다. |
+| 1835 | 4338-й год: Петербургские письма | 4338-й год: Петербургские письма | Vladimir Odoyevsky | 소설 | 확인 못 함 | 먼 미래 중국인 학생의 몸에 정신이 옮겨 간 화자가 4338년 페테르부르크에서 편지를 쓴다. |
+| 1835 | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- (경계) | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- | Jerome B. Holgate (Oliver Bolokitten) | 소설 | 확인 못 함 | 19--년의 미래 도시 '어맬거메이션'을 그려 노예제 폐지론자를 비난하는 디스토피아. |
+| 1836 | Three Hundred Years Hence | Three Hundred Years Hence | Mary Griffith | 소설 | 확인 못 함 | 깊은 잠에서 깬 사내가 이상향이 된 펜실베이니아·뉴저지·뉴욕을 본다 — 미국 첫 유토피아 소설. |
+| 1838 | The Narrative of Arthur Gordon Pym of Nantucket (경계) | The Narrative of Arthur Gordon Pym of Nantucket | Edgar Allan Poe | 소설 | 확인 못 함 | 남극으로 간 아서 고든 핌의 항해 — 쥘 베른과 찰스 데이크가 뒷이야기를 이어 썼다. |
+| 1840 | Voyage en Icarie (경계) | Voyage en Icarie | Étienne Cabet | 소설 | 확인 못 함 | 재산을 함께 가진 공산주의 이상향 이카리아 — 지은이는 실제 공동체까지 세웠다. |
+| 1843 | Lima a Hundred Years from Now | Lima a Hundred Years from Now | Julián Manuel del Portillo | 소설 | 확인 못 함 | 정령에게 한 세기를 빼앗긴 두 친구가 1943년 비행선이 오가고 높은 피라미드가 선 페루에서 깨어난다. |
+| 1859 | Blake; or The Huts of America (경계) | Blake; or The Huts of America | Martin Delany | 소설 | 확인 못 함 | 노예였던 헨리 블레이크가 미국 남부와 쿠바를 돌며 노예 반란을 꾸민다(대체 역사). |
+| 1863 | Cinq semaines en ballon (경계) | Cinq semaines en ballon | Jules Verne | 소설 | 확인 못 함 | 퍼거슨 박사 일행이 기구를 타고 아직 다 밝혀지지 않은 아프리카를 가로지른다. |
 | 1864 | 지구 속 여행 (경계) | Voyage au centre de la Terre | Jules Verne | 소설·영화 | 있음 | 학자 일행이 화산 구멍으로 내려가 땅속의 바다와 옛 생물을 만난다. |
+| 1864 | Voyages et aventures du capitaine Hatteras (경계) | Voyages et aventures du capitaine Hatteras | Jules Verne | 소설 | 확인 못 함 | 1861년, 북극점 둘레 바다는 얼지 않았다고 믿는 해터러스 선장이 북극점을 향해 간다. |
 | 1865 | 지구에서 달까지 | De la Terre à la Lune | Jules Verne | 소설 | 있음 | 전쟁이 끝나 할 일이 없어진 대포 클럽이 거대한 대포로 사람을 달에 쏘아 보낸다. |
+| 1868 | The Steam Man of the Prairies | The Steam Man of the Prairies | Edward S. Ellis | 소설 | 확인 못 함 | 십대 발명가 조니 브레이너드가 만든 증기 인간이 미국 대평원을 누빈다. |
+| 1870 | Man's Rights; Or, How Would You Like It? | Man's Rights; Or, How Would You Like It? | Annie Denton Cridge | 소설 | 확인 못 함 | 꿈속에 펼쳐지는, 남녀 역할이 뒤바뀌어 여자가 다스리는 이상향. |
 | 1870 | 해저 2만 리 | Vingt mille lieues sous les mers | Jules Verne | 소설·영화 | 있음 | 네모 선장의 잠수함 노틸러스호가 육지와 등진 채 바다 밑을 누빈다. |
+| 1871 | The Battle of Dorking: Reminiscences of a Volunteer (경계) | The Battle of Dorking: Reminiscences of a Volunteer | George Tomkyns Chesney | 소설 | 확인 못 함 | 독일어를 쓰는 나라가 영국에 쳐들어온 날을, 50년 뒤 노병이 손주들에게 들려준다. |
+| 1871 | The Coming Race | The Coming Race | Edward Bulwer-Lytton | 소설 | 확인 못 함 | 광산 밑 땅속 세계에서 '브릴'이라는 힘을 다루는 뛰어난 종족 브릴야를 만난다. |
 | 1872 | 에레혼 | Erewhon | Samuel Butler | 소설 | 있음 | 기계가 스스로 진화해 사람을 앞지를까 두려워 모든 기계를 부순 산속 나라. |
+| 1872 | The Social War of the Year 1900; Or, Conspirators and Lovers! (경계) | The Social War of the Year 1900; Or, Conspirators and Lovers! | Simon Mohler Landis | 소설 | 확인 못 함 | 1900년, 약 대신 동물 자기로 병을 고치는 비밀 결사 '자연주의자'가 의사와 교회에 맞선다. |
+| 1873 | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | 필명 Paul Aermont | 소설 | 확인 못 함 | 기구를 타고 태양계 곳곳을 돌아다닌 '폴 에어몽'의 여행기. |
+| 1874 | Annals of the Twenty-Ninth Century | Annals of the Twenty-Ninth Century | Andrew Blair | 소설 | 확인 못 함 | 세계 공화국 제10대 대통령의 자서전 꼴로 그리는 29세기. |
+| 1876 | Frank Reade | Frank Reade | Harry Enton · Luis Senarens | 소설 | 확인 못 함 | 발명가 프랭크 리드가 증기 인간 같은 발명품으로 모험하는 소년용 다임 노블 연작. |
 | 1877 | Hector Servadac | Hector Servadac | Jules Verne(원작) · Karel Zeman(1970 감독) | 소설·영화 | 확인 못 함 | 지구를 스친 혜성이 북아프리카 땅 한 조각을 떼어 가고, 그 위의 군인들은 여전히 서로 싸운다. |
 | 1879 | 인도 왕비의 유산 | Les Cinq Cents Millions de la Bégum | Jules Verne | 소설 | 있음 | 큰 유산을 나눈 두 사람이 이상 도시와 대포 도시를 지어 맞서고, 궤도까지 날아가는 포탄이 나온다. |
 | 1879 | Voyages très extraordinaires de Saturnin Farandoul (경계) | Voyages très extraordinaires de Saturnin Farandoul | Albert Robida(원작) · Marcel Fabre(1913 감독 | 소설·영화 | 확인 못 함 | 원숭이 섬에서 자란 사내가 선장이 되어 고래에 삼켜진 아내를 찾아 세계를 누비는 베른 흉내 모험. |
+| 1880 | Across the Zodiac: The Story of a Wrecked Record | Across the Zodiac: The Story of a Wrecked Record | Percy Greg | 소설 | 확인 못 함 | 반중력 에너지 '어퍼지'로 화성에 간 사내가 작은 화성인들의 사회를 본다. |
+| 1880 | La Maison à vapeur (경계) | La Maison à vapeur | Jules Verne | 소설 | 확인 못 함 | 증기 기계 코끼리가 끄는 바퀴 달린 집을 타고 영국 식민자들이 인도를 돈다. |
+| 1880 | Mizora | Mizora | Mary E. Bradley Lane | 소설 | 확인 못 함 | 땅속에 숨은, 여자들만 사는 기술 이상향 미조라 — 우생학을 따르는 사회. |
+| 1881 | The Fixed Period | The Fixed Period | Anthony Trollope | 소설 | 확인 못 함 | 1980년 뉴질랜드 곁 공화국 브리태뉼라, 67세가 되면 죽음을 준비해야 하는 법을 두고 흔들린다. |
+| 1881 | The Great Romance | The Great Romance | 익명 (The Inhabitant) | 소설 | 확인 못 함 | 새 동력원을 만든 20세기 중반 과학자가 193년 잠에서 깨어 하늘과 우주를 나는 앞날을 본다. |
+| 1882 | A Thousand Years Hence | A Thousand Years Hence | Nunsowe Green (필명) | 소설 | 확인 못 함 | 꿈이었음이 드러나는 미래 여행 — 초감각·유전 공학·행성 여행·테라포밍을 두루 담았다. |
+| 1883 | Aleriel, or A Voyage to Other Worlds | Aleriel, or A Voyage to Other Worlds | W. S. Lach-Szyrma | 소설 | 확인 못 함 | 다른 별의 존재 알레리엘이 이상향 금성·화성과 미개한 목성·토성, 메마른 달을 돌아본다. |
+| 1883 | Le Vingtième Siècle | Le Vingtième Siècle | Albert Robida | 소설 | 확인 못 함 | 로비다가 글과 그림으로 그린 20세기 — 텔레포노스코프가 오가는 1955년 프랑스와 미래 전쟁. |
+| 1883 | The Diothas; or, A Far Look Ahead | The Diothas; or, A Far Look Ahead | John Macnie (Ismar Thiusen) | 소설 | 확인 못 함 | 최면에 걸린 화자가 96세기에 깨어나 기술이 발달한 이상 사회를 둘러본다. |
 | 1884 | 플랫랜드 | Flatland: A Romance of Many Dimensions | Edwin A. Abbott | 소설 | 있음 | 평면 세계에 사는 정사각형이 3차원 존재를 만나 더 높은 차원을 깨닫는다. |
+| 1884 | L'Étoile du sud (경계) | L'Étoile du sud | Jules Verne · Paschal Grousset | 소설 | 확인 못 함 | 남아프리카 다이아몬드 광산에서 프랑스 기술자가 인공 다이아몬드를 만들어 낸다. |
+| 1885 | After London; Or, Wild England | After London; Or, Wild England | Richard Jefferies | 소설 | 확인 못 함 | 검은 천체가 지나간 뒤 문명이 무너진 영국, 물에 잠긴 런던 둘레의 한 세기 뒤 야생. |
 | 1886 | 미래의 이브 | L'Ève future | Auguste Villiers de l'Isle-Adam | 소설 | 있음 | 발명가 에디슨이 귀족을 위해 실망스러운 연인을 본뜬 인조 여인을 만든다. |
 | 1886 | Robur le Conquérant | Robur le Conquérant | Jules Verne(원작) · William Witney(1961 감독 | 소설·영화 | 확인 못 함 | 거대 비행선 앨버트로스의 주인 로뷔르가 화산을 살피던 기구를 떨어뜨리고 탄 사람들을 가둔다. |
 | 1886 | Strange Case of Dr Jekyll and Mr Hyde (경계) | Strange Case of Dr Jekyll and Mr Hyde | Robert Louis Stevenson · Valerie Martin | 소설·영화 | 확인 못 함 | 실험 약으로 두 인격을 오가는 지킬 박사 이야기—메리 레일리는 그 집 하녀의 눈으로 다시 쓴다. |
+| 1887 | A Crystal Age | A Crystal Age | W. H. Hudson | 소설 | 확인 못 함 | 흙더미 아래서 깨어난 사내가 먼 미래의 수수께끼 같은 전원 사회에 섞이려 애쓴다. |
+| 1887 | Bellona's Husband: A Romance | Bellona's Husband: A Romance | William James Roe (Hudor Genone) | 소설 | 확인 못 함 | 반중력 원반 우주선으로 간 화성에는 모두가 거꾸로 나이 드는 이상 사회가 있다. |
+| 1887 | Les Xipéhuz | Les Xipéhuz | J.-H. Rosny aîné | 소설 | 확인 못 함 | 바빌론보다 천 년 앞선 때, 원시 인류가 기하학 모양의 낯선 존재 크시페위즈와 맞선다. |
+| 1887 | The Republic of the Future: or, Socialism a Reality | The Republic of the Future: or, Socialism a Reality | Anna Bowman Dodd | 소설 | 확인 못 함 | 2050년 뉴욕 사회주의 도시를 찾은 스웨덴 귀족이 편지로 그 디스토피아를 전한다. |
+| 1888 | A Dream of John Ball (경계) | A Dream of John Ball | William Morris | 소설 | 확인 못 함 | 꿈을 통해 1381년 농민 반란의 사제 존 볼과 마주한다. |
+| 1888 | A Strange Manuscript Found in a Copper Cylinder (경계) | A Strange Manuscript Found in a Copper Cylinder | James De Mille | 소설 | 확인 못 함 | 난파한 영국 선원이 화산 굴을 지나 선사 시대 생물이 사는 '잃어버린 세계'에 닿는다. |
 | 1888 | 뒤돌아보며 | Looking Backward: 2000–1887 | Edward Bellamy | 소설 | 있음 | 1887년에 잠든 남자가 2000년에 깨어나 모두가 넉넉한 협동 사회를 둘러본다. |
 | 1889 | 아서 왕 궁전의 코네티컷 양키 (경계) | A Connecticut Yankee in King Arthur's Court | Mark Twain | 소설·영화 | 있음 | 19세기 미국 기술자가 아서 왕 시대로 떨어져 근대 기술로 나라를 바꾸려 한다. |
+| 1889 | Anno Domini 2000, or, Woman's Destiny | Anno Domini 2000, or, Woman's Destiny | Julius Vogel | 소설 | 확인 못 함 | 2000년, 여성 참정권을 이룬 대영 제국에서 스물세 살 내무 차관 힐다가 활약한다. |
+| 1889 | Mr. Stranger's Sealed Packet | Mr. Stranger's Sealed Packet | Hugh MacColl | 소설 | 확인 못 함 | 비행 기계를 타고 간 화성에서 과학이 앞선 이상 사회의 역사와 풍습을 본다. |
+| 1889 | New Amazonia: A Foretaste of the Future | New Amazonia: A Foretaste of the Future | Elizabeth Burgoyne Corbett | 소설 | 확인 못 함 | 2472년에 깨어난 여자가, 진화한 '아마조니아인'이 이상향으로 만든 아일랜드를 본다. |
+| 1889 | The Last American | The Last American | John Ames Mitchell | 소설 | 확인 못 함 | 2951년 대서양을 건넌 페르시아 탐험가가, 기후 재앙으로 버려졌던 아메리카를 다시 찾는다. |
+| 1890 | A Plunge into Space | A Plunge into Space | Robert Cromie | 소설 | 확인 못 함 | 반중력을 다룬 발명가의 금속 구 우주선이 화성에 닿자, 너무 완벽해 지루한 이상향이 있다. |
 | 1890 | Caesar's Column | Caesar's Column | Ignatius Donnelly | 소설 | 확인 못 함 | 1988년 뉴욕을 찾은 청년이 눈부신 기술 뒤에서 소수 부자가 다수를 짓누르는 사회를 편지로 전한다. |
+| 1890 | News from Nowhere | News from Nowhere | William Morris | 소설 | 확인 못 함 | 사회주의 모임에서 돌아와 잠든 윌리엄 게스트가 깨어나 미래의 이상향 영국을 거닌다. |
+| 1890 | The Golden Lake (경계) | The Golden Lake | Carlton Dawe | 소설 | 확인 못 함 | 죽어 가는 탐험가가 남긴 지도를 따라 두 모험가가 오스트레일리아 내륙의 황금 호수를 찾는다. |
+| 1891 | Les Profondeurs de Kyamo (경계) | Les Profondeurs de Kyamo | J.-H. Rosny | 소설 | 확인 못 함 | 탐험가 알글라브가 아프리카 키아모 숲 깊은 곳에서 원숭이를 닮은 '숲 사람들'을 만난다. |
+| 1891 | The Doings of Raffles Haw | The Doings of Raffles Haw | Arthur Conan Doyle | 소설 | 확인 못 함 | 납을 금으로 바꾸는 법을 찾은 수수께끼의 백만장자가 스태퍼드셔 마을에 들어온다. |
+| 1892 | A Traveler from Altruria (경계) | A Traveler from Altruria | William Dean Howells | 소설 | 확인 못 함 | 이상향 알트루리아에서 온 나그네가 도금 시대 미국 자본주의를 비춘다. |
+| 1892 | Balonem do bieguna (경계) | Balonem do bieguna | Władysław Umiński | 소설 | 확인 못 함 | 헬륨을 채운 비행선을 타고 남극점까지 가는 소년 모험. |
+| 1892 | Golf in the Year 2000, or, What We Are Coming To | Golf in the Year 2000, or, What We Are Coming To | J. McCullough | 소설 | 확인 못 함 | 1892년 잠들어 2000년에 깬 골프광이 21세기 문턱의 놀라운 세상을 구경한다. |
+| 1892 | Le Château des Carpathes (경계) | Le Château des Carpathes | Jules Verne | 소설 | 확인 못 함 | 트란실바니아 마을 사람들이 악마가 산다고 믿는 카르파티아 성에서 기이한 일이 잇따른다. |
+| 1893 | Earth Revisited | Earth Revisited | Byron A. Brooks | 소설 | 확인 못 함 | 죽을병에 걸린 1892년의 사업가가 다시 태어나 나아진 세상을 보고, 화성과 지형으로 신호를 주고받는다. |
+| 1893 | Hartmann the Anarchist; or, The Doom of the Great City | Hartmann the Anarchist; or, The Doom of the Great City | Edward Douglas Fawcett | 소설 | 확인 못 함 | 무정부주의 기술자 하트만이 새 경량 소재로 만든 비행 기계 아틸라로 런던을 공격한다. |
+| 1893 | Sub-Coelum: A Sky-Built Human World (경계) | Sub-Coelum: A Sky-Built Human World | Addison Peale Russell | 소설 | 확인 못 함 | '하늘 아래 지은 인간 세계'를 그린 유토피아. |
+| 1893 | The Angel of the Revolution | The Angel of the Revolution | George Griffith | 소설 | 확인 못 함 | 하늘을 나는 배를 만든 과학자가 무정부주의 형제단과 손잡고 세계 열강과 싸운다. |
+| 1893 | The Damned Thing (경계) | The Damned Thing | Ambrose Bierce | 소설 | 확인 못 함 | 오두막에서 죽은 사내의 검시 — 눈에 보이지 않는 무언가가 그를 덮쳤다. |
+| 1893 | Unveiling a Parallel: A Romance | Unveiling a Parallel: A Romance | Alice Ilgenfritz Jones · Ella Merchant | 소설 | 확인 못 함 | '에어로플레인'으로 화성에 간 지구 사내가 서로 다른 두 화성 나라를 돌아본다. |
+| 1894 | 2894, or The Fossil Man | 2894, or The Fossil Man | Walter Browne | 소설 | 확인 못 함 | 천 년 뒤 2894년, 여자가 다스리고 남자가 따르는 사회를 그린다. |
+| 1894 | A Journey in Other Worlds: A Romance of the Future | A Journey in Other Worlds: A Romance of the Future | John Jacob Astor IV | 소설 | 확인 못 함 | 세계 전화망과 태양광이 있는 2000년, 사람들이 토성 같은 다른 행성으로 우주 여행을 떠난다. |
+| 1894 | Journey to Mars | Journey to Mars | Gustavus W. Pope | 소설 | 확인 못 함 | 미 해군 중위 해밀턴이 화성의 여러 종족과 왕국을 만나고, 이어 원시 괴물이 사는 금성으로 간다. |
 | 1894 | La Fin du monde | La Fin du monde | Camille Flammarion(원작) · Abel Gance(1931 | 소설·영화 | 확인 못 함 | 지구로 달려드는 혜성 앞에서 과학자는 해법을 찾고 사람들은 저마다 다르게 종말을 맞는다. |
+| 1894 | The Diamond Maker | The Diamond Maker | H. G. Wells | 소설 | 확인 못 함 | 인공 다이아몬드를 만들려 몇 해를 바친 사내의 이야기를 한 사업가가 템스 강가에서 듣는다. |
+| 1895 | Aristopia: A Romance-History of the New World | Aristopia: A Romance-History of the New World | Castello Holford | 소설 | 확인 못 함 | 버지니아 정착민이 금 암초로 번 돈으로 모어의 유토피아를 본뜬 나라를 세운다(대체 역사). |
+| 1895 | Etidorhpa, or, the End of the Earth (경계) | Etidorhpa, or, the End of the Earth | John Uri Lloyd | 소설 | 확인 못 함 | 수수께끼의 사내가 원고로 들려주는, 속 빈 지구 끝까지 내려간 여행. |
+| 1895 | L'Île à hélice | L'Île à hélice | Jules Verne | 소설 | 확인 못 함 | 프랑스 현악 사중주단이 태평양을 떠도는 거대한 인공 섬 '스탠더드 아일랜드'에 실려 간다. |
+| 1895 | Na drugą planetę | Na drugą planetę | Władysław Umiński | 소설 | 확인 못 함 | 화성 지성과 통신하려는 젊은 미국 천문학자가 백만장자를 설득해 다른 행성으로 떠난다. |
+| 1895 | The Argonauts of the Air | The Argonauts of the Air | H. G. Wells | 소설 | 확인 못 함 | 라이트 형제보다 몇 해 앞서, 부자 몬슨이 하늘을 나는 기계를 만들려 애쓴다. |
+| 1895 | The Milltillionaire, or Age of Bardization (경계) | The Milltillionaire, or Age of Bardization | Albert Waldo Howard (M. Auberré Hovorré) | 소설 | 확인 못 함 | '바디제이션 시대'를 그린 유토피아. |
 | 1895 | 타임머신 | The Time Machine | H. G. Wells | 소설·영화 | 있음 | 시간 여행자가 80만 년 뒤로 가서 두 갈래로 갈라진 인류를 본다. |
+| 1895 | Un autre monde | Un autre monde | J.-H. Rosny aîné | 소설 | 확인 못 함 | 남다른 몸으로 태어난 소년만이, 사람과 함께 지구에 사는 보이지 않는 빛의 생명체들을 본다. |
+| 1896 | A Prophetic Romance: Mars to Earth | A Prophetic Romance: Mars to Earth | John McCoy (The Lord Commissioner) | 소설 | 확인 못 함 | 화성 정부가 보낸 관리가 우주선을 타고 와, 혁명 뒤 여자가 대통령인 미래 미국을 보고한다. |
 | 1896 | Face au drapeau | Face au drapeau | Jules Verne(원작) · Karel Zeman(1958 감독) | 소설·영화 | 확인 못 함 | 해적을 거느린 백작이 과학자를 납치해 세계를 손에 넣을 무서운 무기의 비밀을 빼앗는다. |
+| 1896 | In the Abyss | In the Abyss | H. G. Wells | 소설 | 확인 못 함 | 강철 구를 타고 깊은 바다 밑으로 내려간 탐험가가 그곳의 문명을 본다. |
 | 1896 | 모로 박사의 섬 | The Island of Doctor Moreau | H. G. Wells | 소설·영화 | 있음 | 외딴 섬의 박사가 수술로 짐승을 사람 비슷하게 만들어 법으로 다스린다. |
+| 1896 | The Plattner Story | The Plattner Story | H. G. Wells | 소설 | 확인 못 함 | 폭발 뒤 사라졌다 돌아온 교사의 몸은 좌우가 뒤바뀌어 있다 — 그가 다녀온 다른 세계. |
+| 1896 | The Sea Raiders | The Sea Raiders | H. G. Wells | 소설 | 확인 못 함 | 새로운 거대 오징어 종 하플로테우티스 페록스가 영국 바닷가에 나타나 사람을 덮친다. |
+| 1896 | Tisab Ting, or, The Electrical Kiss | Tisab Ting, or, The Electrical Kiss | Ida May Ferguson (Dyjan Fergus) | 소설 | 확인 못 함 | 20세기 말 몬트리올, 뛰어난 과학 지식을 지닌 '전기 천재'가 캐나다 여자의 마음을 얻는다. |
 | 1897 | Auf zwei Planeten | Auf zwei Planeten | Kurd Laßwitz | 소설 | 확인 못 함 | 북극 위 우주 정거장을 거점으로 한 앞선 화성인이 지구를 만나 다스리려다 서로 배운다. |
+| 1897 | L'Anno 3000 | L'Anno 3000 | Paolo Mantegazza | 소설 | 확인 못 함 | 3000년의 삶과 사회를 내다보는 짧은 이상향 이야기. |
+| 1897 | The Crystal Egg | The Crystal Egg | H. G. Wells | 소설 | 확인 못 함 | 런던 골동품 가게 주인이 찾은 수정 알은 화성을 들여다보는 창이다. |
 | 1897 | 투명인간 | The Invisible Man | H. G. Wells | 소설·영화 | 있음 | 과학자가 몸을 투명하게 만드는 법을 찾아내고 그 힘에 스스로 무너진다. |
+| 1897 | The Star | The Star | H. G. Wells | 소설 | 확인 못 함 | 해왕성 궤도를 흔들며 태양계로 들어온 빛나는 천체가 지구를 스치며 큰 재앙을 부른다. |
+| 1897 | To Venus in Five Seconds | To Venus in Five Seconds | Fred T. Jane | 소설 | 확인 못 함 | 의대생 플러머가 물질 전송기로 순식간에 금성에 끌려가, 그곳 두 종족 사이에 휘말린다(풍자). |
+| 1898 | Doctor Therne (경계) | Doctor Therne | H. Rider Haggard | 소설 | 확인 못 함 | 천연두가 잉글랜드를 휩쓴다 — 백신 반대 운동을 겨눈 소설. |
+| 1898 | Ionia: Land of Wise Men and Fair Women (경계) | Ionia: Land of Wise Men and Fair Women | Alexander Craig | 소설 | 확인 못 함 | 박애에 힘쓰던 상속자가 몸과 지성이 남다른 사내를 만나, 지혜로운 이들이 사는 숨은 나라 이오니아로 간다. |
 | 1898 | 우주 전쟁 | The War of the Worlds | H. G. Wells | 드라마·소설·영화 | 있음 | 화성인이 세발 전투 기계로 영국을 짓밟다가 지구의 세균에 쓰러진다. |
+| 1899 | A Thousand Deaths | A Thousand Deaths | Jack London | 소설 | 확인 못 함 | 미친 과학자가 갖가지 방법으로 주인공을 죽였다 되살리기를 거듭한다. |
+| 1899 | Arqtiq: A Study of the Marvels at the North Pole (경계) | Arqtiq: A Study of the Marvels at the North Pole | Anna Adolph | 소설 | 확인 못 함 | 비행기와 기구를 섞은 비행체를 만든 여자가 가족과 북극점으로 날아가 땅속 세계의 경이를 본다. |
+| 1899 | Moxon's Master | Moxon's Master | Ambrose Bierce | 소설 | 확인 못 함 | 체스 두는 자동 인형을 만든 목슨, 기계도 생각한다던 그를 인형이 죽인다. |
+| 1899 | The Monster of Lake LaMetrie | The Monster of Lake LaMetrie | Wardon Allan Curtis | 소설 | 확인 못 함 | 1896~1897년 의사의 일기 — 라메트리 호수에서 나타난 수장룡과 얽힌 이야기. |
+| 1899 | When the Sleeper Wakes | When the Sleeper Wakes | H. G. Wells | 소설 | 확인 못 함 | 203년을 잠든 사내가 깨어 보니, 자신이 세계 최고 부자가 된 2100년 런던이다. |
 | 1899 | 海底軍艦 | 海底軍艦 | Shunrō Oshikawa(원작) · 本多猪四郎(1963 감독) | 소설·영화 | 확인 못 함 | 가라앉은 무 대륙의 제국이 다시 떠올라 세계를 노리고, 홀로 숨어 있던 옛 해군 대령의 해저 군함이 맞선다. |
+| 1900 | A Honeymoon in Space | A Honeymoon in Space | George Griffith | 소설 | 확인 못 함 | 신혼부부가 우주선을 타고 태양계 곳곳을 돌아본다. |
+| 1900 | NEQUA or The Problem of the Ages | NEQUA or The Problem of the Ages | Jack Adams (필명) | 소설 | 확인 못 함 | 남자 옷을 입고 약혼자를 찾아 바다를 떠돌던 여자가 속 빈 지구 안쪽 세계에 닿는다. |
+| 1900 | The Struggle for Empire: A Story of the Year 2236 | The Struggle for Empire: A Story of the Year 2236 | Robert William Cole | 소설 | 확인 못 함 | 2236년, 온 지구를 삼킨 앵글로색슨 제국이 다른 별의 비슷한 제국과 맞붙는다 — 이른 스페이스 오페라. |
+| 1900 | The World a Department Store: A Story of Life Under a Coöperative System (경계) | The World a Department Store: A Story of Life Under a Coöperative System | Bradford C. Peck | 소설 | 확인 못 함 | 협동조합 체제 아래 온 세상이 하나의 백화점처럼 돌아가는 이상향. |
+| 1901 | A Dream of Armageddon | A Dream of Armageddon | H. G. Wells | 소설 | 확인 못 함 | 기차에서 만난 창백한 사내가, 꿈속에서 산 먼 미래의 사랑과 전쟁을 털어놓는다. |
+| 1901 | Intermere | Intermere | William Alexander Taylor | 소설 | 확인 못 함 | 난파한 사내가 숨은 옛 나라 인터미어에 구조되어 그 앞선 기술과 제도를 배운다. |
+| 1901 | Le Village aérien (경계) | Le Village aérien | Jules Verne | 소설 | 확인 못 함 | 1898년 가봉, 두 모험가가 밀림 속 나무 위 마을과 사람의 진화를 두고 벌어지는 일에 닿는다. |
 | 1901 | The First Men in the Moon | The First Men in the Moon | H. G. Wells | 소설·영화 | 있음 | 중력을 막는 물질로 달에 간 두 사람이 땅속에 사는 달 사람의 사회를 만난다. |
+| 1901 | The Master Key: An Electrical Fairy Tale (경계) | The Master Key: An Electrical Fairy Tale | L. Frank Baum | 소설 | 확인 못 함 | 전기 실험을 하던 소년 앞에 '전기의 정령'이 나타나 세 주 동안 신기한 선물을 준다. |
+| 1901 | The New Accelerator | The New Accelerator | H. G. Wells | 소설 | 확인 못 함 | 몸과 머리의 움직임을 엄청나게 빠르게 하는 약을 먹자 둘레 세상이 멈춘 듯 보인다. |
 | 1901 | The Purple Cloud | The Purple Cloud | M. P. Shiel(원작) · Ranald MacDougall(1959 | 소설·영화 | 확인 못 함 | 탄광에 갇혔다 나온 사내가 사람이 다 사라진 세상에서 살아남은 몇 사람을 만난다. |
+| 1902 | Le Surmâle (경계) | Le Surmâle | Alfred Jarry | 소설 | 확인 못 함 | 영구 운동 음식을 먹은 자전거 팀이 기차와 겨루고, 엄청난 힘을 지닌 '초남성'이 나온다. |
+| 1902 | Of One Blood: Or, The Hidden Self (경계) | Of One Blood: Or, The Hidden Self | Pauline Hopkins | 소설 | 확인 못 함 | 혼혈 의대생 루엘이 보물을 찾는 탐험대와 누비아로 떠나 제 핏줄의 비밀에 닿는다. |
+| 1902 | 新中國未來記 | 新中國未來記 | 梁啟超 | 소설 | 확인 못 함 | 1962년, 부유한 입헌 군주국이자 세계 강국이 된 이상향 중국을 그린 미완의 소설. |
+| 1903 | The Land Ironclads | The Land Ironclads | H. G. Wells | 소설 | 확인 못 함 | 참호전의 전장에 장갑 '육상 철갑선'이 나타난다 — 전차를 앞서 그린 이야기. |
 | 1903 | 은빛 지구 | Trylogia księżycowa | Jerzy Żuławski | 소설·영화 | 일부 | 달에 내린 우주인들의 후손이 신화와 종교를 이루고, 지구에서 온 사람이 구원자로 떠받들린다. |
 | 1904 | The Food of the Gods and How It Came to Earth | The Food of the Gods and How It Came to Earth | H. G. Wells(원작) · Bert I. Gordon(1965 감독 | 소설·영화 | 확인 못 함 | 모든 생물을 거대하게 키우는 물질이 퍼진다 — 1965년 영화에서는 그것을 먹은 십대들이 거인이 된다. |
+| 1904 | 月球殖民地小說 | 月球殖民地小說 | 荒江釣叟 | 소설 | 확인 못 함 | 관리를 죽이고 달아난 사내가 배가 가라앉은 뒤 일본 발명가의 비행선에 구조되어 사라진 아내를 찾는다. |
+| 1905 | A Modern Utopia | A Modern Utopia | H. G. Wells | 소설 | 확인 못 함 | 시리우스 너머 지구를 꼭 닮은 행성에서, 스스로 나선 귀족 '사무라이'가 다스리는 이상향을 거닌다. |
+| 1905 | L'Invasion de la mer | L'Invasion de la mer | Jules Verne | 소설 | 확인 못 함 | 1930년대 미래, 유럽 기술자들이 지중해 물을 끌어 사하라의 낮은 땅을 바다로 만들려 한다. |
+| 1905 | Lieut. Gullivar Jones: His Vacation (경계) | Lieut. Gullivar Jones: His Vacation | Edwin Lester Arnold | 소설 | 확인 못 함 | 해군 중위 걸리버 존스가 하늘에서 떨어진 노인이 남긴 마법 양탄자를 타고 화성으로 간다. |
 | 1905 | 술타나의 꿈 | Sultana's Dream | Rokeya Sakhawat Hossain(베검 로케야 사카와트 호사인) | 소설 | 있음 | 여자들이 나라를 다스리고 남자들이 집안일을 맡는 '레이디 랜드'로의 꿈속 여행 |
 | 1905 | The Empire of the Ants | The Empire of the Ants | H. G. Wells(원작) · Bert I. Gordon(1977 감독 | 소설·영화 | 확인 못 함 | 바다에 버린 방사성 폐기물을 먹고 커진 개미들이 땅 보러 온 사람들을 덮치고 마을을 페로몬으로 부린다. |
+| 1905 | 新石頭記 | 新石頭記 | 吳趼人 | 소설 | 확인 못 함 | 다시 세상에 나온 가보옥이 청말 사회를 겪다가 첨단 기술과 좋은 제도의 '문명 경계'에 들어선다. |
+| 1906 | An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future (경계) | An Anglo-American Alliance: A Serio-Comic Romance and Forecast of the Future | Gregory Casparian | 소설 | 확인 못 함 | 영미가 여전히 식민 강국인 1960년의 미래에서 벌어지는 연애담 — '첫 레즈비언 SF'로 불린다. |
+| 1906 | Before Adam | Before Adam | Jack London | 소설 | 확인 못 함 | 한 사내가 꿈속에서 먼 조상 원인(原人)의 삶을 산다 — 핏줄로 물려받은 기억. |
+| 1906 | Finis | Finis | Frank Lillie Pollock | 소설 | 확인 못 함 | 20세기 중반, 예고된 새 별이 더 뜨거운 태양으로 드러나고 그 빛이 지구를 덮친다. |
+| 1906 | In the Days of the Comet | In the Days of the Comet | H. G. Wells | 소설 | 확인 못 함 | 혜성이 대기의 질소를 바꾸자 사람들의 머리가 맑아져 세상이 거듭난다. |
+| 1906 | Le Docteur Oméga | Le Docteur Oméga | Arnould Galopin | 소설 | 확인 못 함 | 노르망디의 수수께끼 발명가 오메가 박사가 포탄 모양 우주선 코스모스를 타고 화성에 간다. |
+| 1906 | The Invasion of 1910 (경계) | The Invasion of 1910 | William Le Queux · H. W. Wilson | 소설 | 확인 못 함 | 1910년 독일군이 잉글랜드에 쳐들어오는 가까운 미래 전쟁 이야기. |
+| 1907 | Lord of the World | Lord of the World | Robert Hugh Benson | 소설 | 확인 못 함 | 21세기 초, 세계 평화와 사상 통일의 물결을 타고 적그리스도가 세상을 다스린다. |
 | 1907 | マタンゴ (경계) | マタンゴ | William Hope Hodgson(원작) · 本多猪四郎(감독) | 소설·영화 | 확인 못 함 | 요트를 타고 나갔다 무인도에 닿은 사람들이 그곳 버섯을 먹고 하나둘 버섯 인간으로 변해 간다. |
+| 1908 | La Chasse au météore | La Chasse au météore | Jules Verne | 소설 | 확인 못 함 | 금으로 된 운석을 두고 두 아마추어 천문학자와 세상이 탐욕을 드러낸다(풍자). |
+| 1908 | Le Docteur Lerne, sous-dieu (경계) | Le Docteur Lerne, sous-dieu | Maurice Renard | 소설 | 확인 못 함 | 미친 외과의 레른 박사가 몸을 옮겨 심는 실험을 벌이고, 화자 자신이 그 대상이 된다. |
+| 1908 | The House on the Borderland (경계) | The House on the Borderland | William Hope Hodgson | 소설 | 확인 못 함 | 아일랜드 외딴 집 은둔자가 초자연 존재와 딴 차원, 아득한 앞날을 겪은 일기. |
 | 1908 | 강철군화 (경계) | The Iron Heel | Jack London | 소설 | 있음 | 거대 자본의 과두 정치가 미국을 쥐고 노동자 혁명을 짓누른 시대를 먼 뒷날에 돌아본다. |
+| 1908 | The Monster of "Partridge Creek" (경계) | The Monster of "Partridge Creek" | Georges Dupuy | 소설 | 확인 못 함 | 캐나다 유콘의 파트리지 크리크에서 사냥꾼들이 거대한 공룡과 마주쳤다는 이야기. |
+| 1908 | The Smoky God, or A Voyage Journey to the Inner Earth (경계) | The Smoky God, or A Voyage Journey to the Inner Earth | Willis George Emerson | 소설 | 확인 못 함 | 노르웨이 뱃사람이 북극의 입구로 지구 속에 들어가, '연기 낀 해' 아래 사는 거인들과 지낸다. |
+| 1908 | The War in the Air | The War in the Air | H. G. Wells | 소설 | 확인 못 함 | 하늘에서 벌어지는 세계 전쟁으로 문명이 무너지는 동안, 평범한 버트 스몰웨이즈가 휘말린다. |
 | 1908 | 붉은 별 | Красная звезда | Alexander Bogdanov | 소설 | 있음 | 혁명가가 화성으로 가서 사회주의 이상향을 이룬 화성인의 사회를 본다. |
+| 1908 | 新紀元 | 新紀元 | Bigehuan Zhuren (碧荷館主人) | 소설 | 확인 못 함 | 1999년, 중국이 서양과 세계 대전을 벌여 1조 인구의 초강대국이 된다. |
+| 1909 | Beatrice the Sixteenth | Beatrice the Sixteenth | Irene Clyde (Thomas Baty) | 소설 | 확인 못 함 | 아라비아 사막에서 정신을 잃은 영국 의사가 남녀 구분 없는 잃어버린 사회 아르메리아에 닿는다. |
+| 1909 | L'Oiselle ou Royale énigme (경계) | L'Oiselle ou Royale énigme | Renée Marie Gouraud d'Ablancourt (René d | 소설 | 확인 못 함 | 날 수 있는 옷을 입은 여주인공 '로와젤'의 연재 모험. |
 | 1909 | The Machine Stops | The Machine Stops | E. M. Forster | 소설 | 없음 | 사람들이 땅속 방에 홀로 살며 모든 것을 '기계'에 맡기다가 그 기계가 멈춘다. |
+| 1909 | The Sky Pirate | The Sky Pirate | Garrett P. Serviss | 소설 | 확인 못 함 | 하늘 해적 페이턴 선장이 비행선 카멜레온으로 뉴욕 최고 부잣집 딸을 납치한다. |
+| 1910 | L'Éternel Adam | L'Éternel Adam | Michel Verne · Jules Verne | 소설 | 확인 못 함 | 먼 미래의 고고학자가, 문명이 통째로 무너진 뒤 살아남은 이의 일기를 풀어 읽는다. |
+| 1910 | La Mort de la Terre | La Mort de la Terre | J.-H. Rosny aîné | 소설 | 확인 못 함 | 메마른 사막이 된 먼 미래 지구, '큰 플라네타리움'으로 이어진 마지막 인류가 버틴다. |
+| 1910 | Le Péril bleu | Le Péril bleu | Maurice Renard | 소설 | 확인 못 함 | 프랑스 뷔제 지방에 사람 몸 조각이 흩어지고, 사람들이 하늘 위 보이지 않는 무엇에게 잡혀간다. |
+| 1910 | Le Secret de Wilhelm Storitz (경계) | Le Secret de Wilhelm Storitz | Jules Verne | 소설 | 확인 못 함 | 헝가리 도시 라그즈, 형제의 결혼을 앞두고 몸을 보이지 않게 하는 비밀을 지닌 사내가 끼어든다. |
+| 1910 | Tom Swift | Tom Swift | Edward Stratemeyer | 드라마·소설 | 확인 못 함 | 과학·발명·기술을 앞세운 젊은 발명가 톰 스위프트의 모험. |
+| 1910 | 新中國 | 新中國 | Lu Shi'e | 소설 | 확인 못 함 | 입헌 군주제를 세운 지 40년 뒤의 중국을 꿈에서 본다. |
 | 1911 | Alraune (경계) | Alraune | Hanns Heinz Ewers(원작) | 소설·영화 | 확인 못 함 | 교수가 교수형당한 살인자의 씨로 인공 수정해 얻은 딸이 자라 남자들을 파멸로 몬다. |
 | 1911 | Balaoo (경계) | Balaoo | Gaston Leroux(원작) · Harry Lachman(1942 감 | 소설·영화 | 확인 못 함 | 프랑스 시골 마을에 살인이 이어지고, 의사 르노와 그의 기괴한 하인에게 비밀이 있다. |
+| 1911 | Ladies Whose Bright Eyes (경계) | Ladies Whose Bright Eyes | Ford Madox Hueffer (Ford Madox Ford) | 소설 | 확인 못 함 | 현대 사내 소렐이 14세기로 떨어져, 무기를 만들 꿈은 금세 접고 그 시대를 산다. |
+| 1911 | Moving the Mountain · Herland · With Her in Ourland | Moving the Mountain · Herland · With Her in Ourland | Charlotte Perkins Gilman | 소설 | 확인 못 함 | 1910년쯤 사라졌던 사내가 30년 뒤 개혁된 미국으로 돌아온다 — 길먼 유토피아 3부작. |
+| 1911 | Ralph 124C 41+ | Ralph 124C 41+ | Hugo Gernsback | 소설 | 확인 못 함 | 천재 발명가 랄프가 멀리서 에너지를 쏘아 눈사태를 막는 등 갖가지 미래 기술을 펼친다. |
+| 1911 | The Hampdenshire Wonder | The Hampdenshire Wonder | J. D. Beresford | 소설 | 확인 못 함 | 이름난 크리켓 선수의 아들로 태어난 신동 빅터 스톳의 남다른 머리와 그 앞날. |
 | 1912 | Barsoom | Barsoom | Edgar Rice Burroughs | 만화·소설·영화 | 일부 | 지구인 존 카터가 죽어 가는 화성으로 옮겨 가 여러 종족과 싸우고 공주와 맺어진다. |
+| 1912 | Darkness and Dawn | Darkness and Dawn | George Allan England | 소설 | 확인 못 함 | 천 년쯤 뒤, 정체 모를 재앙에서 긴 잠을 깬 두 사람이 폐허가 된 뉴욕을 거닐고 퇴화한 무리와 맞선다. |
+| 1912 | Philip Dru: Administrator: A Story of Tomorrow, 1920-1935 (경계) | Philip Dru: Administrator: A Story of Tomorrow, 1920-1935 | Edward Mandell House | 소설 | 확인 못 함 | 1920~1935년, 필립 드루가 서부를 이끌고 금권의 동부와 내전을 벌여 나라의 지도자가 된다. |
 | 1912 | 잃어버린 세계 (경계) | The Lost World | Arthur Conan Doyle | 소설·영화 | 있음 | 괴짜 교수 일행이 남미의 높은 고원에서 살아남은 공룡과 원시인을 찾아낸다. |
+| 1912 | The Night Land (경계) | The Night Land | William Hope Hodgson | 소설 | 확인 못 함 | 17세기 신사가 죽은 연인과 다시 만날 아득한 미래, 어둠에 덮인 세상을 환상으로 본다. |
+| 1912 | The Scarlet Plague | The Scarlet Plague | Jack London | 소설 | 확인 못 함 | '붉은 죽음'이 인류를 쓸어 간 60년 뒤 2073년, 살아남은 노인이 손자들에게 옛 세상을 들려준다. |
 | 1913 | Der Tunnel | Der Tunnel | Bernhard Kellermann(원작) | 소설·영화 | 확인 못 함 | 대서양 바닥 밑으로 유럽과 미국을 잇는 거대한 해저 터널을 뚫는 기술자들의 이야기. |
+| 1913 | La Force mystérieuse | La Force mystérieuse | J.-H. Rosny aîné | 소설 | 확인 못 함 | 정체 모를 현상이 빛에서 보랏빛을 앗아 가자 온 생물이 미쳐 날뛰고 폭동이 번진다. |
+| 1913 | Lesabéndio. Ein Asteroïden-Roman | Lesabéndio. Ein Asteroïden-Roman | Paul Scheerbart | 소설 | 확인 못 함 | 몸 모양을 바꾸고 망원경 눈을 가진 존재들이 사는 소행성 팔라스, 그 가운데 레사벤디오. |
+| 1913 | The Monster Men | The Monster Men | Edgar Rice Burroughs | 소설 | 확인 못 함 | 인공 생명을 연구하던 교수가 동인도 외딴섬에서 괴물 같은 인조 인간들을 빚어낸다. |
+| 1914 | Angel Island (경계) | Angel Island | Inez Haynes Gillmore | 소설 | 확인 못 함 | 태평양 섬에 난파한 다섯 사내가 날개 달린 여자들이 사는 섬에 머문다. |
+| 1914 | Czarodziejski okręt (경계) | Czarodziejski okręt | Władysław Umiński | 소설 | 확인 못 함 | 외딴섬에 숨은 백만장자 아내를 찾아, 남편이 최신 통신 장비를 갖춘 '마법의 배'로 떠난다. |
+| 1914 | Das graue Tuch und zehn Prozent Weiß (경계) | Das graue Tuch und zehn Prozent Weiß | Paul Scheerbart | 소설 | 확인 못 함 | 20세기 중반, 유리 건축가 에드거 크루크가 시카고에 거대한 색유리 전시관을 세운다. |
+| 1914 | L'Étonnante Aventure de la Mission Barsac | L'Étonnante Aventure de la Mission Barsac | Jules Verne · Michel Verne | 소설 | 확인 못 함 | 아프리카 니제르 강으로 간 바르삭 조사단이 사하라 사막에 숨은 도시 '블랙랜드'에 닿는다. |
+| 1914 | Locus Solus (경계) | Locus Solus | Raymond Roussel | 소설 | 확인 못 함 | 과학자이자 발명가 캉트렐이 별장 정원의 기이한 발명품들을 손님들에게 보여 준다. |
 | 1914 | 펠루시다 (경계) | Pellucidar | Edgar Rice Burroughs | 소설·영화 | 일부 | 속이 빈 땅 안쪽 세계에 지지 않는 해가 뜨고 옛 생물과 원시 인류가 산다. |
+| 1914 | The World Set Free | The World Set Free | H. G. Wells | 소설 | 확인 못 함 | 전에 없이 파괴적인 원자 폭탄이 세계 전쟁을 휩쓸고, 그 뒤 인류가 새 질서를 세운다. |
+| 1915 | The Abyss of Wonders (경계) | The Abyss of Wonders | Perley Poore Sheehan | 소설 | 확인 못 함 | 미국 소년과 중국인·러시아 노인이 신지학과 초과학으로 앞선 고비 사막의 잃어버린 도시를 찾아간다. |
+| 1915 | The Man Who Rocked the Earth | The Man Who Rocked the Earth | Arthur C. Train · Robert W. Wood | 소설 | 확인 못 함 | 원자 폭발이 어떤 모습일지 30년 앞서 그려 낸 소설 — 지구를 흔든 사내. |
+| 1915 | The Moon Maiden | The Moon Maiden | Garrett P. Serviss | 소설 | 확인 못 함 | 수천 년 동안 지구를 이끌어 온 달의 존재들과 얽힌 사랑 이야기. |
+| 1916 | Beyond Thirty | Beyond Thirty | Edgar Rice Burroughs | 소설 | 확인 못 함 | 2백 년 뒤, 고립을 지켜 온 아메리카 사람들이 금지된 경계 너머 무너진 유럽으로 간다. |
+| 1916 | L'Énigme de Givreuse | L'Énigme de Givreuse | J.-H. Rosny aîné | 소설 | 확인 못 함 | 1914년 전선에서 다쳐 돌아온 병사 피에르 드 지브뢰즈가 똑같은 두 사람으로 나뉜다. |
+| 1916 | Utazás Faremidóba | Utazás Faremidóba | Frigyes Karinthy | 소설 | 확인 못 함 | 1차 대전 비행사가 길을 잃고, 무기물로 된 지성 존재들이 사는 행성 파레미도에 내린다. |
+| 1917 | The Sense of the Past (경계) | The Sense of the Past | Henry James | 소설 | 확인 못 함 | 물려받은 런던 집에서 젊은 미국인이 19세기 초의 먼 조상과 자리를 바꾼다. |
+| 1918 | Jason Croft (경계) | Jason Croft | John Ulrich Giesy | 소설 | 확인 못 함 | 유체 이탈을 배운 미국 부자 제이슨 크로프트가 정신을 시리우스의 행성 팔로스로 날려 그곳 삶에 뛰어든다. |
 | 1918 | The Land That Time Forgot (경계) | The Land That Time Forgot | Edgar Rice Burroughs(원작) · Kevin Connor( | 소설·영화 | 확인 못 함 | 1차 대전 중 빼앗은 유보트가 남대서양의 지도에 없는 땅에 닿고, 그곳엔 공룡과 원시인이 산다. |
+| 1918 | The Moon Pool (경계) | The Moon Pool | A. Merritt | 소설 | 확인 못 함 | 지구 속에서 자란 옛 종족이 만든 존재, 히말라야의 살아 있는 금속 도시 — 굿윈 박사의 기록. |
+| 1918 | The Young Diana | The Young Diana | Marie Corelli | 소설 | 확인 못 함 | 과학자가 새 회춘 기법으로 나이 든 여자를 아름답지만 마음 없는 젊은 여자로 바꾼다. |
 | 1919 | Die Arche | Die Arche | Werner Scheff(원작) · Richard Oswald(감독) | 소설·영화 | 확인 못 함 | 처녀 항해 중인 잠수함에 탄 사람들만이 혜성 꼬리의 독가스에서 살아남아 마지막 인류가 된다. |
 | 1919 | Die Herrin der Welt (경계) | Die Herrin der Welt | Karl Figdor(원작) · Joe May(1919 감독) | 소설·영화 | 확인 못 함 | 덴마크 여성이 시바 여왕의 보물을 찾아 세계를 돌고, 끝에는 금속을 멀리서 녹이는 발명이 다툼거리가 된다. |
 | 1919 | L'Atlantide (경계) | L'Atlantide | Pierre Benoit(원작) | 소설·영화 | 확인 못 함 | 사하라의 프랑스 장교 둘이 가라앉은 아틀란티스의 여왕 앙티네아에게 사로잡힌다. |
+| 1919 | The Heads of Cerberus | The Heads of Cerberus | Francis Stevens | 소설 | 확인 못 함 | 회색 가루를 들이마신 사람들이 2118년의 전체주의 필라델피아로 옮겨 간다. |
+| 1919 | The Runaway Skyscraper | The Runaway Skyscraper | Murray Leinster | 소설 | 확인 못 함 | 해가 거꾸로 움직이기 시작하고, 맨해튼 고층 건물 하나가 통째로 과거로 미끄러져 간다. |
+| 1919 | When the World Shook (경계) | When the World Shook | H. Rider Haggard | 소설 | 확인 못 함 | 작가 아버스넛 일행이 남태평양 섬 오로페나에 닿아 그곳에 숨은 비밀과 마주한다. |
+| 1920 | A Voyage to Arcturus (경계) | A Voyage to Arcturus | David Lindsay | 소설 | 확인 못 함 | 아르크투루스 둘레 행성 토먼스를 건너는 여행 — 땅마다 다른 철학을 품은 환상. |
 | 1920 | Les Mains d'Orlac (경계) | Les Mains d'Orlac | Maurice Renard(원작) · Robert Wiene(1924 감 | 소설·영화 | 확인 못 함 | 사고로 두 손을 잃은 피아니스트가 사형된 살인자의 손을 이식받고 살인 충동에 시달린다. |
 | 1920 | Nachtgestalten (경계) | Nachtgestalten | Karl Hans Strobl(원작) · Richard Oswald(감독 | 소설·영화 | 확인 못 함 | 세계 최고 부자가 공기에서 산소를 뽑아내는 발명으로 온 나라를 협박해 다스리려 한다. |
+| 1920 | The Golden Book of Springfield (경계) | The Golden Book of Springfield | Vachel Lindsay | 소설 | 확인 못 함 | '예언자 클럽' 사람들과 지은이가 꿈처럼 본 미래 스프링필드의 이상향. |
+| 1920 | The Torch | The Torch | Jack Bechdolt | 소설 | 확인 못 함 | 혜성이 지구를 휩쓴 뒤 3010년 뉴욕 폐허, 남은 고층 건물의 '탑 사람들'이 도시를 쥔다. |
+| 1921 | L'Homme truqué | L'Homme truqué | Maurice Renard | 소설 | 확인 못 함 | 참호전에서 시력을 잃은 병사 장 르브리가 돌아와, 실험으로 남다른 감각을 얻는다. |
+| 1921 | The Blind Spot | The Blind Spot | Austin Hall · Homer Eon Flint | 소설 | 확인 못 함 | 두 세계 사이를 잇는 차원의 문 '블라인드 스폿'을 둘러싼 이야기. |
+| 1922 | Die Inseln der Weisheit | Die Inseln der Weisheit | Alexander Moszkowski | 소설 | 확인 못 함 | 탐험대가 유럽 철학 사상을 하나씩 실현한 섬들을 돌며 그 어리석음을 본다. |
 | 1922 | Herbert West–Reanimator (경계) | Herbert West–Reanimator | H. P. Lovecraft(원작) · Stuart Gordon(1985 | 소설·영화 | 확인 못 함 | 의대생 허버트 웨스트가 죽은 몸을 되살리는 시약을 만들어 미스캐토닉 대학 지하실에서 실험을 잇는다. |
 | 1922 | Krakatit | Krakatit | Karel Čapek(원작) · Otakar Vávra(감독) | 소설·영화 | 확인 못 함 | 엄청난 폭약 '크라카티트'를 만든 화학자가 열병에 시달리며 그 발명을 후회한다. |
+| 1922 | L'Étonnant Voyage de Hareton Ironcastle (경계) | L'Étonnant Voyage de Hareton Ironcastle | J.-H. Rosny aîné | 소설 | 확인 못 함 | 탐험가 아레통 아이언캐슬이 아프리카 미지의 땅에서 새 인류와 동식물을 찾아 나선다. |
+| 1922 | Továrna na absolutno | Továrna na absolutno | Karel Čapek | 소설 | 확인 못 함 | 물질을 없애 값싼 에너지를 내는 원자로가 부산물로 '절대자'를 뿜어 온 세상이 신앙 광풍에 빠진다. |
 | 1923 | Black Oxen (경계) | Black Oxen | Gertrude Atherton(원작) · Frank Lloyd(감독) | 소설·영화 | 확인 못 함 | 호르몬과 엑스선 시술로 젊음을 되찾은 여인이 뉴욕으로 돌아와 젊은 극작가와 사랑에 빠진다. |
+| 1923 | Men Like Gods | Men Like Gods | H. G. Wells | 소설 | 확인 못 함 | 1921년 언론인 반스터플이 평행 우주의 이상향으로 미끄러져 들어간다. |
+| 1923 | People of the Comet | People of the Comet | Austin Hall | 소설 | 확인 못 함 | 초월적 존재들이 나타나, 태양계가 더 큰 우주 속 원자 하나에 지나지 않음을 밝힌다. |
+| 1923 | The Clockwork Man | The Clockwork Man | E. V. Odle | 소설 | 확인 못 함 | 몸속에 시계 같은 장치를 단 8000년의 사이보그가 실수로 현재로 와 크리켓 경기를 뒤흔든다. |
 | 1923 | The Last Man on Earth | The Last Man on Earth | John D. Swain(원작) | 소설·영화 | 확인 못 함 | 남자만 죽이는 병으로 여자들이 세상을 다스리게 되고, 살아남은 남자 하나가 인류의 희망이 된다. |
+| 1923 | The Moon Maid (경계) | The Moon Maid | Edgar Rice Burroughs | 소설 | 확인 못 함 | 달 탐사에서 시작해, 달 사람들의 지구 정복과 대를 이은 저항으로 이어지는 3부작. |
 | 1923 | 아엘리타 | Аэлита | Aleksey Nikolayevich Tolstoy | 소설·영화 | 일부 | 소련 기술자가 로켓으로 화성에 가서 여왕 아엘리타를 만나고 혁명에 휩쓸린다. |
+| 1924 | Berge Meere und Giganten | Berge Meere und Giganten | Alfred Döblin | 소설 | 확인 못 함 | 27세기까지 이어지는 인류 사회, 미래 나라들과 기술과 자연이 벌이는 거대한 다툼. |
+| 1924 | Miasto światłości | Miasto światłości | Mieczysław Smolarski | 소설 | 확인 못 함 | 두 번의 자연재해가 먼저 문명을, 이어 지구 전체를 무너뜨리는 디스토피아. |
+| 1924 | Saltego trans Jarmiloj (경계) | Saltego trans Jarmiloj | Jean Forge | 소설 | 확인 못 함 | 등장인물들이 네로 황제 시대로 시간을 거슬러 가는 가벼운 풍자 판타지(에스페란토 소설). |
+| 1924 | The Dream | The Dream | H. G. Wells | 소설 | 확인 못 함 | 4000년쯤 이상향 미래의 생물학자가 꿈속에서 빅토리아·에드워드 시대 영국인의 한평생을 산다. |
+| 1924 | The Radio Man | The Radio Man | Ralph Milne Farley | 소설 | 확인 못 함 | 실험 중 사라진 전기 기술자가 금성에 떨어져 개미 닮은 포르미안 종족에게 붙잡힌다. |
 | 1924 | 우리들 | Мы | Yevgeny Zamyatin | 소설 | 있음 | 유리로 된 도시에서 번호로 불리는 사람들이 시간표대로 살고 상상력을 수술로 없앤다. |
+| 1924 | Плутония | Плутония | Vladimir Obruchev | 소설 | 확인 못 함 | 지구 핵이 해처럼 비추는 땅속 세계 플루토니아에서 탐험대가 공룡 같은 생물을 만난다. |
+| 1924 | Роковые яйца | Роковые яйца | Mikhail Bulgakov | 소설 | 확인 못 함 | 1928년 모스크바, 동물학자 페르시코프가 생물의 번식을 미친 듯 빠르게 하는 붉은 광선을 찾아낸다. |
+| 1925 | Les Navigateurs de l'infini | Les Navigateurs de l'infini | J.-H. Rosny aîné | 소설 | 확인 못 함 | 프랑스 우주인 셋이 화성에 내려, 다리가 셋인 사람 닮은 종족 '트리페드'와 만난다. |
+| 1925 | Menace from the Moon | Menace from the Moon | Bohun Lynch | 소설 | 확인 못 함 | 1654년 달로 올라간 세 유럽인의 후손인 달 사람들이 지구를 위협한다. |
 | 1925 | 메트로폴리스 | Metropolis | Fritz Lang(감독) · Thea von Harbou(원작·각본) | 소설·영화 | 확인 못 함 | 땅 위의 부자와 땅 밑 노동자로 갈린 거대 도시, 사람을 본뜬 기계 인간이 난을 부른다 |
+| 1925 | Голова профессора Доуэля | Голова профессора Доуэля | Alexander Belyaev | 소설 | 확인 못 함 | 의사 케른이 몰래 살려 둔 스승 도웰 교수의 머리가 그의 실험을 이끈다. |
+| 1926 | O Presidente Negro | O Presidente Negro | Monteiro Lobato | 소설 | 확인 못 함 | 은둔 과학자 벤슨의 발명으로 2228년 미국 대선의 인종 대결과 그 끔찍한 결말을 본다. |
+| 1926 | The Tissue-Culture King | The Tissue-Culture King | Julian Huxley | 소설 | 확인 못 함 | 아프리카 부족에 붙잡힌 생물학자가 조직 배양 같은 생물학을 '마법'처럼 부려 살아남는다. |
+| 1926 | Земля Санникова | Земля Санникова | Vladimir Obruchev | 소설 | 확인 못 함 | 북극해에 있다던 전설의 섬 '산니코프 땅'을 찾아 나선 탐험 이야기. |
+| 1927 | The Tunnel Thru the Air; Or, Looking Back from 1940 (경계) | The Tunnel Thru the Air; Or, Looking Back from 1940 | William Delbert Gann | 소설 | 확인 못 함 | 1906년에 태어난 로버트 고든이 1940년까지를 산다 — 시장 예측가가 '비밀'을 숨겼다는 소설. |
 | 1927 | 가린의 살인광선 | Гиперболоид инженера Гарина | Алексей Толстой | 소설·영화 | 있음 | 빛을 한 점에 모아 무엇이든 태우는 장치를 쥔 기술자가 세계를 손에 넣으려 한다. |
 | 1928 | Buck Rogers | Buck Rogers | 필립 프랜시스 놀런(소설), 딕 캘킨스(만화) | 게임·드라마·만화·소설·영화 | 확인 못 함 | 오백 년 잠들었다 깨어난 남자가 25세기 미국에서 침략자와 싸운다 |
 | 1928 | Cthulhu Mythos (경계) | Cthulhu Mythos | H. P. Lovecraft | 게임·만화·소설·영화·탁상 게임 | 있음 | 사람이 나타나기 훨씬 전 별에서 온 존재들이 지구에 남아 사람의 이해를 넘어 잠들어 있다. |
 | 1928 | Deluge | Deluge | S. Fowler Wright(원작) · Felix E. Feist(19 | 소설·영화 | 확인 못 함 | 까닭 모를 지진과 해일이 세계를 덮쳐 뉴욕까지 잠기고, 살아남은 몇 사람이 무너진 세상을 헤쳐 간다. |
 | 1928 | Frau im Mond | Frau im Mond | Thea von Harbou(원작) · Fritz Lang(감독) | 소설·영화 | 확인 못 함 | 달에 금이 많다는 학설을 믿은 사업가와 과학자들이 로켓을 타고 달로 떠난다. |
+| 1928 | Green Fire | Green Fire | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 인류를 위한 연구소와 돈만 좇는 회사가 원자력을 두고 다투고, 자연이 미쳐 날뛴다. |
 | 1928 | 우주선 스카이라크 | The Skylark of Space | E. E. Smith | 소설 | 일부 | 새 금속으로 빛보다 빨리 나는 배를 만든 과학자가 맞수와 은하를 누빈다. |
+| 1928 | The Sunken World | The Sunken World | Stanton A. Coblentz | 소설 | 확인 못 함 | 1차 대전 미국 잠수함이 소용돌이에 끌려 바다 밑 유리 지붕 아래 도시에 닿는다. |
 | 1928 | 물고기 인간 | Человек-амфибия | Alexander Belyaev | 소설·영화 | 있음 | 외과 의사가 상어 아가미를 옮겨 심은 청년이 바다와 뭍 사이에서 산다. |
+| 1929 | After 12,000 Years | After 12,000 Years | Stanton A. Coblentz | 소설 | 확인 못 함 | 실험 끝에 1만 2천 년 뒤에 깨어난 사내가 거인 종족에게 붙잡혀 곤충을 돌본다. |
 | 1929 | K박사의 연구 | K박사의 연구 | 김동인 | 소설 | 한국 원작 | 인류 식량 문제를 풀겠다던 과학자가 똥으로 대체 식량을 만들었다가 사람들의 구역질을 산다. |
+| 1929 | Maza of the Moon | Maza of the Moon | Otis Adelbert Kline | 소설 | 확인 못 함 | 달에 포탄을 쏜 발명가 때문에 달이 맞쏘아 전쟁이 나고, 그는 달의 공주를 만나러 간다. |
 | 1929 | Once in a New Moon | Once in a New Moon | Owen Rutter(원작) · Anthony Kimmins(감독) | 소설·영화 | 확인 못 함 | 지나가던 죽은 별의 인력에 영국 바닷가 마을이 떨어져 나가 지구를 도는 작은 행성이 된다. |
+| 1929 | Robert Grandon (Venus) trilogy | Robert Grandon (Venus) trilogy | Otis Adelbert Kline | 소설 | 확인 못 함 | 금성인과 마음을 바꾼 지구 사내 그랜던이 노예에서 금성 나라의 지도자로 오른다. |
+| 1929 | The Bridge of Light (경계) | The Bridge of Light | A. Hyatt Verrill | 소설 | 확인 못 함 | 남아메리카 밀림 속, 마야 문화가 남은 잃어버린 도시를 찾아 나선다. |
 | 1929 | 마라코트 심해 | The Maracot Deep | 아서 코난 도일 | 소설 | 있음 | 대서양 깊은 바다로 내려간 탐사대가 바다 밑에 살아남은 아틀란티스 후손을 만난다. |
+| 1929 | The World Below | The World Below | S. Fowler Wright | 소설 | 확인 못 함 | 타임머신으로 50만 년 뒤에 간 사내가 털 난 지성 종족 '앰피비언'과 함께 그 세상을 돌아본다. |
 | 1929 | Гибель сенсации | Гибель сенсации | Volodymyr Vladko(원작) · Alexandr Andriyev | 소설·영화 | 확인 못 함 | 노동자 집안의 기술자가 값싼 생산으로 자본주의를 무너뜨리려 로봇을 만들지만, 정부는 그것을 무기로 쓴다. |
+| 1929 | Продавец воздуха | Продавец воздуха | Alexander Belyaev | 소설 | 확인 못 함 | 야쿠티아에서 거대한 공기 빨아들이는 장치로 세계의 공기를 차지하려는 사업가의 음모. |
 | 1930 | Fiend Without a Face | Fiend Without a Face | Amelia Reynolds Long(원작) · Arthur Crabtr | 소설·영화 | 확인 못 함 | 캐나다 공군 기지 근처 마을에서 뇌와 척수가 빠진 시체가 나오고, 보이지 않는 생각의 괴물이 사람을 노린다. |
+| 1930 | Gladiator | Gladiator | Philip Wylie | 소설 | 확인 못 함 | 과학자가 아내에게 놓은 혈청 때문에 개미의 힘과 메뚜기의 도약을 지닌 아들이 태어난다. |
 | 1930 | Last and First Men | Last and First Men | Olaf Stapledon | 소설·영화 | 없음 | 앞으로 20억 년 동안 열여덟 번 바뀌는 인류의 흥망을 한 권에 펼친다. |
+| 1930 | Murder Madness | Murder Madness | Murray Leinster | 소설 | 확인 못 함 | 냉혹한 과학자가 사람을 미치게 하는 약을 몰래 퍼뜨려 세상을 손에 쥐려 한다. |
+| 1930 | Nienasycenie | Nienasycenie | Stanisław Ignacy Witkiewicz | 소설 | 확인 못 함 | 2000년쯤, 폴란드가 마지막 몽골 정복군에 짓밟히고 중국인 지도자 무르티 빙에게 매인다. |
+| 1930 | The Crystal Horde | The Crystal Horde | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 규소로 된 결정 생명이 지구의 탄소 생명을 집어삼키려 한다. |
+| 1930 | The Iron Star | The Iron Star | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 아프리카 탐험대가 기묘한 원숭이 종족과 마주치고, 지적인 원숭이 하나가 그들 편이 된다. |
+| 1930 | Хойти-Тойти | Хойти-Тойти | Alexander Belyaev | 소설 | 확인 못 함 | 바그너 교수의 발명 연작 — 셈하고 글을 읽는 서커스 코끼리 호이티토이티의 비밀. |
+| 1931 | Arcot, Morey and Wade | Arcot, Morey and Wade | John W. Campbell | 소설 | 확인 못 함 | 천재 과학자 아르코·모리·웨이드가 빛보다 빠른 배로 다른 별의 종족들과 맞선다. |
 | 1931 | F.P.1 antwortet nicht | F.P.1 antwortet nicht | Curt Siodmak(원작) · Karl Hartl(감독) | 소설·영화 | 확인 못 함 | 대서양 한가운데 띄운 비행기 급유용 인공 섬과 연락이 끊기고, 조종사들이 구하러 날아간다. |
+| 1931 | Seeds of Life | Seeds of Life | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 방사선으로 초인을 만들어 내는 이야기. |
+| 1931 | Spacehounds of IPC | Spacehounds of IPC | E. E. Smith | 소설 | 확인 못 함 | 화성행 우주 여객선에 탄 물리학자가 낯선 종족들과 만나 우주 전쟁에 휘말린다. |
+| 1931 | The Blue Barbarians | The Blue Barbarians | Stanton A. Coblentz | 소설 | 확인 못 함 | 태양이 식어 지구가 얼어 가는 먼 미래, 금성으로 간 여덟째 탐사대 이야기(당대 미국 풍자). |
+| 1931 | The Man Who Evolved | The Man Who Evolved | Edmond Hamilton | 소설 | 확인 못 함 | 미친 과학자가 우주선(線)을 몸에 쬐어 15분에 5천만 년씩 진화하며 앞날의 인류가 되어 간다. |
+| 1931 | The Time Stream | The Time Stream | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 시간 여행이 우주의 처음 무렵 세계 에오스와 1906년 샌프란시스코 지진을 잇는다. |
 | 1932 | 멋진 신세계 | Brave New World | Aldous Huxley | 드라마·소설 | 있음 | 아기를 병에서 길러 계급을 미리 정하고 약과 쾌락으로 사람을 다스리는 세계 국가. |
+| 1932 | The Planet of Youth | The Planet of Youth | Stanton A. Coblentz | 소설 | 확인 못 함 | 금성에서 처음 일어난 땅 투기 바람. |
+| 1932 | The Queer Story of Brownlow's Newspaper | The Queer Story of Brownlow's Newspaper | H. G. Wells | 소설 | 확인 못 함 | 1931년 브라운로에게 1971년 날짜 신문이 잘못 배달되어, 40년 뒤 세상을 엿본다. |
+| 1932 | Tomorrow's Yesterday | Tomorrow's Yesterday | John Gloag | 소설 | 확인 못 함 | 먼 미래의 고양이 인간들이 야만으로 돌아간 인류 사회를 지켜본다. |
 | 1932 | 고양이 행성의 기록 | 猫城记 | 老舍(라오서) | 소설 | 있음 | 낯선 별에 떨어진 사내가 중독성 잎에 빠져 무너져 가는 고양이 얼굴 사람들의 나라를 본다 |
+| 1933 | Cosmos | Cosmos | 17명 공동 (Science Fiction Digest 연재) | 소설 | 확인 못 함 | 알파 켄타우리 행성 렘니스에서 쫓겨난 황제와 과학 고문의 우주 모험 — 작가 17명이 이어 썼다. |
 | 1933 | Doc Savage (경계) | Doc Savage | Kenneth Robeson(Lester Dent) | 소설·영화 | 일부 | 초능력은 없지만 힘과 지능이 완벽한 초인 닥 새비지가 세계를 돌며 악당과 싸운다. |
+| 1933 | Meghduter Morte Agomon | Meghduter Morte Agomon | Hemendra Kumar Roy | 소설 | 확인 못 함 | 빌라스푸르에서 증기선과 사람들이 감쪽같이 사라지는 사건을 쫓는 벵골어 SF 모험. |
+| 1933 | Northwest Smith | Northwest Smith | C. L. Moore | 소설 | 확인 못 함 | 화성의 밀수꾼 노스웨스트 스미스가 군중에 쫓기던 여자를 감싸는데, 그녀는 정신을 빠는 존재다. |
+| 1933 | Pilot Elza or the Perfect Society | Pilot Elza or the Perfect Society | Mihály Babits | 소설 | 확인 못 함 | 백 년 뒤 끝없는 전쟁 속, 과학은 전쟁에만 쓰이고 여자까지 끌려가는 '완전한 사회'. |
+| 1933 | The Man Who Awoke | The Man Who Awoke | Laurence Manning | 소설 | 확인 못 함 | 노먼 윈터스가 스스로 긴 잠에 들어 5천 년마다 깨어나며 바뀐 사회들을 겪는다. |
+| 1933 | The Outlaws of Mars | The Outlaws of Mars | Otis Adelbert Kline | 소설 | 확인 못 함 | 지구에 앞날이 없던 사내가 화성에서 새 삶을 얻고, 공주와 얽혀 그곳 정치 싸움에 휘말린다. |
 | 1933 | Things to Come | Things to Come | William Cameron Menzies(감독) · H. G. Well | 소설·영화 | 확인 못 함 | 긴 세계 전쟁과 역병으로 무너진 문명을 과학자 집단이 다시 세우고 달로 사람을 쏘아 보낸다 |
 | 1933 | 흔들리는 지구 | When Worlds Collide | Philip Wylie · Edwin Balmer | 소설·영화 | 일부 | 떠돌이 행성이 지구와 부딪치기 전에 사람들이 로켓 방주를 지어 다른 행성으로 떠난다. |
 | 1933 | 空中軍艦未来戦 (경계) | 空中軍艦未来戦 | 浅野一男 | 소설 | 확인 못 함 | 머지않아 일본이 만들 하늘의 군함이 활약하는 가상의 전쟁을 천 자 남짓으로 그렸다. |
 | 1933 | 空襲下の日本 (경계) | 空襲下の日本 | 海野十三 | 소설 | 확인 못 함 | 수도 도쿄가 적기의 무차별 폭격을 받는 앞날의 전쟁을 그려, 방공의 중요성을 말한 가공 전기. |
+| 1934 | A Martian Odyssey | A Martian Odyssey | Stanley G. Weinbaum | 소설 | 확인 못 함 | 화성 생물 트윌, 금성의 세 눈 짐승 — 과학적으로 맞춘 한 태양계를 잇는 아홉 편 행성 연작. |
 | 1934 | Amtor (Venus series) (경계) | Amtor (Venus series) | Edgar Rice Burroughs | 소설 | 확인 못 함 | 지구인 카슨 네이피어가 금성 '암토르'에 내려, 쫓겨난 왕국 사람들·해적·우생학자들 사이를 누빈다. |
+| 1934 | The Legion of Space | The Legion of Space | Jack Williamson | 소설 | 확인 못 함 | 태양계를 개척했지만 그 너머로는 못 나가는 시대, 비밀 무기 아카를 지키는 '우주 군단'의 모험. |
+| 1934 | Twilight | Twilight | John W. Campbell | 소설 | 확인 못 함 | 3059년에서 온 사내가 들려주는 7백만 년 뒤 — 기계가 다 해 주는 세상에서 인류가 시들어 간다. |
+| 1934 | Дамата с рентгеновите очи | Дамата с рентгеновите очи | Svetoslav Minkov | 소설 | 확인 못 함 | 사팔눈을 고치러 '미용 연구소'에 간 여자가 엑스선을 보는 눈을 얻는다(부조리 풍자). |
+| 1935 | Hidden World | Hidden World | Stanton A. Coblentz | 소설 | 확인 못 함 | 북아메리카 땅 밑 거대한 동굴망에, 땅 위와 끊긴 채 따로 진화한 사람들의 문명이 있다(풍자). |
 | 1935 | 있을 수 없는 일이야 (경계) | It Can't Happen Here | Sinclair Lewis | 소설 | 있음 | 1936년 대통령 선거에서 선동가가 당선되자 미국이 순식간에 파시즘 독재 국가로 바뀐다. |
 | 1935 | Odd John | Odd John | Olaf Stapledon | 소설 | 확인 못 함 | 보통 사람을 훌쩍 넘어선 아이가 자라 같은 부류를 모아 숨은 섬나라를 세운다. |
+| 1935 | Professor van Manderpootz | Professor van Manderpootz | Stanley G. Weinbaum | 소설 | 확인 못 함 | 괴짜 교수 반 만더푸츠의 엉뚱한 발명 — '그랬다면'의 세계를 비추는 기계 등 — 에 휘말리는 이야기. |
+| 1935 | Quinzinzinzili | Quinzinzinzili | Régis Messac | 소설 | 확인 못 함 | 2차 대전 무렵 일본 과학자의 화학 반응이 공기 속 산소와 질소를 묶어 숨 쉴 수 없는 세상이 된다. |
 | 1935 | The Adaptive Ultimate | The Adaptive Ultimate | Stanley G. Weinbaum(원작) · Kurt Neumann(1 | 소설·영화 | 확인 못 함 | 초파리에서 뽑은 적응 혈청을 맞은 죽어 가던 여자가 무엇에든 적응하는 몸을 얻고 거침없이 변해 간다. |
+| 1935 | The Secret People | The Secret People | John Wyndham (John Beynon) | 소설 | 확인 못 함 | 1964년, 바다로 만들던 사하라에 로켓 비행기가 떨어지고 두 사람이 사막 밑 옛 피그미 종족에게 붙잡힌다. |
 | 1935 | 新戦艦高千穂 (경계) | 新戦艦高千穂 | 平田晋策 | 소설 | 확인 못 함 | 군사 평론가가 쓴 소년 대상 해양 모험 가공 전기. |
+| 1936 | He Who Shrank | He Who Shrank | Henry Hasse | 소설 | 확인 못 함 | 끝없이 작아지는 사내가 우주 속에 겹겹이 든 더 작은 우주들을 차례로 지난다. |
 | 1936 | Non-Stop New York (경계) | Non-Stop New York | Ken Attiwill(원작) · Robert Stevenson(감독) | 소설·영화 | 확인 못 함 | 살인 누명을 벗겨 줄 증인이 갱단에 쫓겨 대서양을 건너는 미래의 호화 비행정에 오른다. |
+| 1936 | Stowaway to Mars | Stowaway to Mars | John Wyndham (John Beynon) | 소설 | 확인 못 함 | 1981년 화성으로 날아가는 로켓 비행기에 몰래 탄 사람이 있다 — 화성까지 가는 모험. |
+| 1936 | The Other Side of Here | The Other Side of Here | Murray Leinster | 소설 | 확인 못 함 | 또 다른 차원에서 넘어오는 침략 — 연재 제목은 'The Incredible Invasion'. |
+| 1936 | The Ultimate Weapon | The Ultimate Weapon | John W. Campbell | 소설 | 확인 못 함 | 멸망하는 행성 미라의 함대가 지구를 정복하러 오고, 한 사람의 궁극 무기만이 희망이다. |
 | 1936 | 도롱뇽 전쟁 | Válka s mloky | Karel Čapek | 소설 | 있음 | 사람이 부려 먹던 영리한 도롱뇽이 수를 불려 바다에서 인류에게 맞선다. |
 | 1937 | Lensman | Lensman | E. E. Smith | 소설·애니메이션 | 일부 | 두 옛 종족의 오랜 싸움 속에서 '렌즈'를 단 은하 순찰대가 해적 세력과 맞선다. |
+| 1937 | Puzzle of the Space Pyramids | Puzzle of the Space Pyramids | Eando Binder | 소설 | 확인 못 함 | 화성·금성·수성·목성 탐사대가 원주민과 싸우며, 행성마다 선 아주 오래된 피라미드의 비밀을 쫓는다. |
+| 1937 | Star Begotten | Star Begotten | H. G. Wells | 소설 | 확인 못 함 | 죽어 가는 화성을 대신하려 화성인이 인류의 유전자를 바꾸고 있다는 의심이 사람들 사이에 퍼진다. |
 | 1937 | 스타메이커 | Star Maker | Olaf Stapledon | 소설 | 있음 | 한 사람의 정신이 우주를 떠돌며 수많은 문명과, 그 우주를 만든 존재를 본다. |
 | 1937 | Swastika Night | Swastika Night | Katharine Burdekin(Murray Constantine) | 소설 | 확인 못 함 | 추축국이 2차 대전에 이긴 지 수백 년 뒤, 히틀러를 신으로 섬기는 독일이 세계를 다스린다. |
+| 1937 | The Resurrection of Jimber-Jaw | The Resurrection of Jimber-Jaw | Edgar Rice Burroughs | 소설 | 확인 못 함 | 시베리아 얼음 속에서 찾은 5만 년 묵은 원시인을 냉동 과학자가 되살린다. |
+| 1937 | To Walk the Night | To Walk the Night | William Sloane | 소설 | 확인 못 함 | 수수께끼 불길에 죽은 교수의 젊은 아내 셀레나, 그녀는 사람 몸에 깃드는 외계 존재였다. |
 | 1937 | 十八時の音楽浴 | 十八時の音楽浴 | 海野十三 | 소설 | 확인 못 함 | 전쟁으로 지상을 잃은 인류의 지하 나라, 독재자가 마음을 부리는 음악을 하루 30분 듣게 해 다스린다. |
+| 1938 | Anthem | Anthem | Ayn Rand | 소설 | 확인 못 함 | 또 하나의 암흑시대, '나'가 사라지고 '우리'만 남은 사회에서 한 젊은이가 땅굴에서 몰래 기록한다. |
 | 1938 | 헬렌 올로이 | Helen O'Loy | Lester del Rey | 소설 | 있음 | 두 젊은이가 감정을 지닌 가사 로봇을 만들자, 로봇은 그 가운데 한 사람을 사랑하게 된다. |
+| 1938 | Hollerbochen's Dilemma | Hollerbochen's Dilemma | Ray Bradbury | 소설 | 확인 못 함 | 앞날을 보고 시간을 멈출 수 있는 홀러보컨이 한꺼번에 너무 많은 위험을 만나자 터져 버린다. |
+| 1938 | Hollywood on the Moon | Hollywood on the Moon | Henry Kuttner | 소설 | 확인 못 함 | 앞날의 영화 산업을 그린 연작, 그 첫 편이 달 위의 할리우드 이야기다. |
+| 1938 | How We Went to Mars | How We Went to Mars | Arthur C. Clarke | 소설 | 확인 못 함 | 영국 로켓 과학자들이 화성에 가서 화성 사회와 얽히는 익살. |
+| 1938 | Hyperpilosity | Hyperpilosity | L. Sprague de Camp | 소설 | 확인 못 함 | 1971년 '대변화' — 바이러스가 퍼져 온 인류의 몸에 털이 수북이 난다. |
+| 1938 | Rule 18 | Rule 18 | Clifford D. Simak | 소설 | 확인 못 함 | 2479년, 자동화로 나약해진 지구 축구팀 감독이 시간 여행으로 역대 명선수들을 불러 모은다. |
 | 1938 | The Legion of Time | The Legion of Time | Jack Williamson | 소설 | 확인 못 함 | 두 미래 '존바'와 '자이론치'가 제 존재를 걸고 시간 너머에서 싸운다—갈림길은 한 소년의 선택. |
 | 1938 | The Return of Doctor X | The Return of Doctor X | William J. Makin(원작) · Vincent Sherman(감 | 소설·영화 | 확인 못 함 | 인공 피로 버티며 되살아난 의사가 드문 혈액형을 가진 사람들의 피를 노린다. |
 | 1938 | 우주 3부작 (경계) | The Space Trilogy | C. S. Lewis | 소설 | 있음 | 언어학자가 화성과 금성에 끌려가 죄를 모르는 종족과 천사 같은 존재를 만난다. |
 | 1938 | 괴물 | The Thing | John W. Campbell(원작) · John Carpenter(19 | 게임·소설·영화 | 있음 | 남극 기지에서 깨어난 외계 생물이 사람과 개를 삼켜 똑같이 흉내 내며 숨어든다 |
+| 1938 | Tidal Moon | Tidal Moon | Stanley G. Weinbaum · Helen Weinbaum | 소설 | 확인 못 함 | 2083년 가니메데, 크리를 거두러 다니는 사내가 지구에서 온 관광객을 데리고 마을을 돈다. |
 | 1938 | 怪塔王 | 怪塔王 | 海野十三 | 소설 | 확인 못 함 | 구주쿠리 해변의 기이한 탑은 자력포를 단 로켓이었고, 중학생과 탐정이 그 주인 '괴탑왕'의 정체를 쫓는다. |
+| 1939 | After Many a Summer (경계) | After Many a Summer | Aldous Huxley | 소설 | 확인 못 함 | 죽음이 두려운 할리우드 백만장자가 수명을 늘릴 길을 찾아 사람들을 모은다. |
+| 1939 | Almuric (경계) | Almuric | Robert E. Howard | 소설 | 확인 못 함 | 부패한 정치꾼을 죽이고 쫓기던 사내가 과학자의 도움으로 우주를 건너 행성 알무릭에 닿는다. |
 | 1939 | Future History | Future History | Robert A. Heinlein | 소설 | 일부 | 가까운 미래 달 개척부터 장수 가문과 별 사이 이주까지 이어지는 인류의 앞날 연표. |
+| 1939 | I, Robot | I, Robot | Eando Binder (Earl · Otto Binder) | 드라마·만화·소설 | 확인 못 함 | 과학자가 지하실에서 만든 로봇 아담 링크가 주인의 죽음 누명을 쓰고 고백을 남긴다. |
+| 1939 | In the Walls of Eryx | In the Walls of Eryx | H. P. Lovecraft · Kenneth J. Sterling | 소설 | 확인 못 함 | 가까운 미래 금성에서 광석을 캐던 탐사원이 눈에 보이지 않는 미로에 갇힌다. |
+| 1939 | Lest Darkness Fall | Lest Darkness Fall | L. Sprague de Camp | 소설 | 확인 못 함 | 1938년 로마의 고고학자가 번개를 맞고 535년 고트 왕국의 로마로 떨어져 암흑시대를 막으려 한다. |
+| 1939 | Lords of Creation | Lords of Creation | Eando Binder (Earl · Otto Binder) | 소설 | 확인 못 함 | 3천 년 잠에서 깬 사내가 서기 5000년, 야만으로 돌아간 지구에서 정복자 안타르카에 맞선다. |
+| 1939 | Marooned off Vesta | Marooned off Vesta | Isaac Asimov | 소설 | 확인 못 함 | 소행성대에서 난파한 세 사람이 베스타 궤도에 갇혀 살아날 길을 짜낸다. |
+| 1939 | Minions of the Moon | Minions of the Moon | William Gray Beyer | 소설 | 확인 못 함 | 오늘날 사람이 아득한 미래에 깨어나 우주를 무대로 한 모험에 뛰어든다. |
+| 1939 | Seven Out of Time | Seven Out of Time | Arthur Leo Zagat | 소설 | 확인 못 함 | 촉수 달린 '미래 인류'가 사랑을 되찾으려 역사 속 사라진 사람들을 자기 별로 끌어간다. |
+| 1939 | Sinister Barrier | Sinister Barrier | Eric Frank Russell | 소설 | 확인 못 함 | 인류는 보이지 않는 에너지 존재 '바이톤'의 가축이었고, 그것을 알아챈 과학자들이 잇따라 죽는다. |
+| 1939 | The Black Flame | The Black Flame | Stanley G. Weinbaum | 소설 | 확인 못 함 | '우르브스의 마거릿'이라는, 하가드의 '그녀'를 닮은 여인이 나오는 두 이야기를 묶은 장편. |
+| 1939 | The Death Guard | The Death Guard | Philip George Chadwick | 소설 | 확인 못 함 | 전쟁을 없애려던 화학자가 피에 굶주린 식물 인간 군대를 만들어 낸다. |
 | 1939 | The Devil Commands (경계) | The Devil Commands | William Sloane(원작) · Edward Dmytryk(감독) | 소설·영화 | 확인 못 함 | 뇌파를 연구하던 과학자가 죽은 아내와 닿으려 외딴 저택에서 위험한 실험을 거듭한다. |
+| 1939 | The Holy Terror (경계) | The Holy Terror | H. G. Wells | 소설 | 확인 못 함 | 사나운 성미를 타고난 루드 휘틀로가 자라 세상을 휘어잡는 지도자가 된다(파시즘 분석·유토피아). |
+| 1939 | The Hopkins Manuscript | The Hopkins Manuscript | R. C. Sherriff | 소설 | 확인 못 함 | 달이 얽힌 대재앙 뒤 천 년, 아비시니아 왕립 학회 탐사대가 황무지 잉글랜드에서 한 사내의 기록을 찾는다. |
+| 1939 | The New Adam | The New Adam | Stanley G. Weinbaum | 소설 | 확인 못 함 | 보통 사람들 틈에서 버려진 아이처럼 자란 초인이 끝내 어울리지 못하고 외롭게 무너진다. |
+| 1939 | The Weapon Too Dreadful to Use | The Weapon Too Dreadful to Use | Isaac Asimov | 소설 | 확인 못 함 | 지구인이 차지한 금성에서 권리를 빼앗긴 토착 지성 종족이 숨겨 둔 무기를 보여 준다. |
 | 1939 | Тайна двух океанов | Тайна двух океанов | Grigory Adamov(원작) · Konstantine Pipinas | 소설·영화 | 확인 못 함 | 대서양과 태평양에서 배가 잇달아 가라앉자, 최신 기술의 소련 잠수함이 원인을 캐는데 첩자가 숨어든다. |
 | 1939 | 人外魔境 (경계) | 人外魔境 | 小栗虫太郎 | 소설 | 확인 못 함 | 세계 곳곳의 사람 발길 닿지 않은 마경에 도전해 온 일본인 탐험가이자 첩자의 회상을 엮은 비경 탐험담. |
 | 1939 | 火星兵団 | 火星兵団 | 海野十三 | 소설 | 확인 못 함 | 지구 침략을 꾀하는 화성인 '마루키'에게 끌려다니게 된 지바의 소년의 모험. |
 | 1940 | Captain Future | Captain Future | Edmond Hamilton | 소설·애니메이션 | 일부 | 천재 과학자와 로봇·인조인간·뇌만 남은 교수가 태양계의 악당을 막는다. |
+| 1940 | Darker Than You Think (경계) | Darker Than You Think | Jack Williamson | 소설 | 확인 못 함 | 사람 사이에 동물로 변하는 이들이 섞여 산다는 몽골 탐사 결과가 발표되는 날, 대변인이 갑자기 죽는다. |
+| 1940 | Exiles of Time | Exiles of Time | Nelson S. Bond | 소설 | 확인 못 함 | 옛 무덤에 숨은 고고학자가 시간의 다른 때로 옮겨져, 다가오는 혜성을 막으려 모인 이들을 만난다. |
 | 1940 | 칼로카인 (경계) | Kallocain | Karin Boye | 소설 | 있음 | 속마음을 털어놓게 하는 약을 만든 화학자, 국가는 그 약으로 모두의 생각을 캔다. |
 | 1940 | 모렐의 발명 | La invención de Morel | Adolfo Bioy Casares | 소설·영화 | 있음 | 외딴 섬의 도망자가 같은 한 주를 되풀이하는 사람들을 보고 그 정체를 알게 된다. |
 | 1940 | Robot series | Robot series | Isaac Asimov | 소설·영화 | 있음 | 로봇 3원칙을 지키는 로봇과 사람이 엮이고, 지구인과 우주 개척민이 갈라선다. |
 | 1940 | 슬랜 | Slan | A. E. van Vogt | 소설 | 있음 | 머리에 촉수가 달린 텔레파시 신인류가 보통 사람들에게 쫓긴다. |
 | 1940 | 지구 최후의 날 | The Day the Earth Stood Still | Robert Wise(1951 감독) · Harry Bates(원작) | 소설·영화 | 일부 | 외계에서 온 사절과 거대 로봇이 핵무기를 든 인류에게 경고하러 내려온다 |
+| 1940 | The Man Who Went Back | The Man Who Went Back | Warwick Deeping | 소설 | 확인 못 함 | 1939년 자동차 사고를 당한 사내가 로마 시대 뒤의 브리타니아로 떨어진다. |
+| 1940 | Tlön, Uqbar, Orbis Tertius (경계) | Tlön, Uqbar, Orbis Tertius | Jorge Luis Borges | 소설 | 확인 못 함 | 어느 백과사전에만 실린 나라 우크바르와 상상의 행성 틀뢴의 흔적을 좇는다. |
+| 1941 | Genus Homo | Genus Homo | L. Sprague de Camp · P. Schuyler Miller | 소설 | 확인 못 함 | 터널 붕괴로 긴 잠에 든 버스 승객들이 깨어 보니 인류는 사라지고 고릴라들의 세상이다. |
+| 1941 | Kazohinia | Kazohinia | Sándor Szathmári | 소설 | 확인 못 함 | 난파해 홀로 살아남은 사내가 힌족의 나라와 그 안의 소수 무리 베힌족을 겪는다. |
+| 1941 | Microcosmic God | Microcosmic God | Theodore Sturgeon | 소설 | 확인 못 함 | 섬에 사는 생화학자 키더가 빠르게 진화하는 작은 지성 생명 '네오테릭'을 만들어 그 발명을 얻는다. |
 | 1941 | 전설의 밤 | Nightfall | Isaac Asimov | 소설 | 있음 | 여섯 개의 해가 늘 비추는 행성에 2천 년 만에 밤이 오자 문명이 미쳐 무너진다. |
+| 1941 | Orphans of the Sky | Orphans of the Sky | Robert A. Heinlein | 소설 | 확인 못 함 | 프록시마로 떠난 세대선이 반란 뒤 목적을 잊고, 사람들은 배 안이 온 우주라고 믿는다. |
+| 1941 | Sixth Column | Sixth Column | Robert A. Heinlein (John W. Campbell 이야기 | 소설 | 확인 못 함 | 범아시아인에게 정복된 미국, 콜로라도 비밀 연구소의 생존자들이 새 물리로 만든 무기와 가짜 교회로 반격한다. |
 | 1941 | The Gods Hate Kansas | The Gods Hate Kansas | Joseph Millard(원작) · Freddie Francis(196 | 소설·영화 | 확인 못 함 | 콘월에 떨어진 운석 속 에너지 외계인이 과학자들 몸을 차지하고, 머리에 은판을 넣은 과학자가 맞선다. |
+| 1941 | Ариэль | Ариэль | Alexander Belyaev | 소설 | 확인 못 함 | 과학 실험으로 기계 없이 날 수 있게 된 소년 아리엘이 갇혀 지내던 학교를 빠져나간다. |
 | 1942 | Beyond This Horizon | Beyond This Horizon | Robert A. Heinlein | 소설 | 확인 못 함 | 유전자 선택으로 건강·수명·지능을 높인 사회, 고치지 않은 '자연인'은 보호받는 소수이고 결투가 예의다. |
+| 1942 | Beyond the Farthest Star | Beyond the Farthest Star | Edgar Rice Burroughs | 소설 | 확인 못 함 | 머나먼 별의 행성 폴로다를 무대로 버로스가 새로 열려던 연작의 첫머리. |
+| 1942 | Black Friar of the Flame | Black Friar of the Flame | Isaac Asimov | 소설 | 확인 못 함 | 수천 년 뒤, 베가의 파충류 종족 라시누가 지구를 비롯한 은하 3분의 1을 다스린다. |
+| 1942 | Christmas on Ganymede | Christmas on Ganymede | Isaac Asimov | 소설 | 확인 못 함 | 산소 대기와 토착 생물이 있는 가니메데 개척지에서 크리스마스를 둘러싼 소동이 벌어진다. |
 | 1942 | Darkness and the Light | Darkness and the Light | Olaf Stapledon | 소설 | 확인 못 함 | 티베트에서 일어날 '르네상스'가 성공하느냐에 따라 인류의 앞날이 어둠과 빛 두 갈래로 갈린다. |
 | 1942 | Donovan's Brain | Donovan's Brain | Curt Siodmak | 소설·영화 | 확인 못 함 | 사막에 추락해 죽은 백만장자의 뇌를 의사가 살려 두자, 뇌가 텔레파시로 의사를 휘어잡는다. |
+| 1942 | Goldfish Bowl | Goldfish Bowl | Robert A. Heinlein (Anson MacDonald) | 소설 | 확인 못 함 | 태평양에 솟은 거대한 두 물기둥이 지성 존재의 작품인지, 과학자들과 군함이 조사한다. |
+| 1942 | Homo Sol | Homo Sol | Isaac Asimov | 소설 | 확인 못 함 | 심리학을 셈할 수 있는 학문으로 만든 은하 연방에 지구인이 갓 들어오며 벌어지는 일. |
+| 1942 | Nerves | Nerves | Lester del Rey | 소설 | 확인 못 함 | 원자력 발전소에 사고가 나고, 사람들이 더 큰 재앙을 막으려 버틴다. |
+| 1942 | The Unpleasant Profession of Jonathan Hoag (경계) | The Unpleasant Profession of Jonathan Hoag | Robert A. Heinlein | 소설 | 확인 못 함 | 낮 동안 무엇을 하는지 기억하지 못하는 조너선 호그가 탐정 부부에게 자신을 뒤쫓게 한다. |
+| 1942 | Waldo (경계) | Waldo | Robert A. Heinlein (Anson MacDonald) | 소설 | 확인 못 함 | 근무력증의 천재 왈도가 원격 조종 손을 만들어 우주에 집을 짓고, 마법이 이치대로 움직이는 세상에 맞선다. |
 | 1943 | Das Glasperlenspiel (경계) | Das Glasperlenspiel | Hermann Hesse | 소설 | 확인 못 함 | 25세기, 학문과 예술을 하나로 엮는 '유리알 유희'에 몸 바친 사람들의 지역 카스탈리엔. |
+| 1943 | Death Sentence | Death Sentence | Isaac Asimov | 소설 | 확인 못 함 | 외딴 행성에서 사라진 은하 연방의 흔적을 찾은 연구자가 아르크투루스 대학의 심리학자를 찾아온다. |
 | 1943 | Earth's Last Citadel | Earth's Last Citadel | C. L. Moore · Henry Kuttner | 소설 | 확인 못 함 | 2차 대전 중 튀니지 사막의 네 사람이 낯선 탈것에 실려, 정복당해 인류가 거의 사라진 먼 미래로 간다. |
+| 1943 | Galloway Gallegher | Galloway Gallegher | Lewis Padgett (Henry Kuttner · C. L. Moo | 소설 | 확인 못 함 | 갤러웨이 갤러거가 나오는 익살 연작 — 묶음 책 Robots Have No Tails. |
 | 1943 | Gather, Darkness! | Gather, Darkness! | Fritz Leiber | 소설 | 확인 못 함 | 과학자들이 사제로 다스리는 미래의 신정 국가에, '마녀'들이 일어나 맞선다. |
 | 1943 | 보로고브들은 밈지했네 | Mimsy Were the Borogoves | Lewis Padgett (Henry Kuttner, C. L. Moor | 소설·영화 | 있음 | 먼 미래에서 보낸 장난감 상자를 얻은 아이들이 어른이 이해 못 할 방식으로 생각하기 시작한다. |
 | 1943 | 대재난 | Ravage | René Barjavel | 소설 | 있음 | 2052년 갑자기 전기가 사라진 파리에서 사람들이 농촌으로 달아난다. |
 | 1943 | The Absent-Minded Professor | The Absent-Minded Professor | Samuel W. Taylor(원작) · Walt Disney Produ | 소설·영화 | 확인 못 함 | 메드필드 대학 괴짜 교수가 튀어 오르는 물질 '플러버'를 만들고, 뒤에 한 학생은 사람 컴퓨터가 된다. |
+| 1943 | The Book of Ptath (경계) | The Book of Ptath | A. E. van Vogt | 소설 | 확인 못 함 | 땅덩이가 다시 하나로 붙은 먼 미래 대륙 곤원레인, 두 여신 아내와 그곳을 다스리던 신 프타스. |
+| 1943 | The Mixed Men | The Mixed Men | A. E. van Vogt | 소설 | 확인 못 함 | '델리안'의 정신 기법이 얽힌 연작 — 세 편을 묶은 장편 The Mixed Men(1952). |
 | 1943 | The Weapon Shops of Isher | The Weapon Shops of Isher | A. E. van Vogt | 소설 | 확인 못 함 | 이셔 제국에 맞서 누구에게나 무기를 파는 무적의 '무기점'이 버티고, 그 뒤엔 죽지 않는 사내가 있다. |
+| 1943 | We Print the Truth (경계) | We Print the Truth | Anthony Boucher | 소설 | 확인 못 함 | 초자연 존재에게서 '진실만 싣게 해 달라'는 소원을 이룬 신문 편집자에게 뜻밖의 일이 벌어진다. |
+| 1944 | Arena | Arena | Fredric Brown | 드라마·소설 | 확인 못 함 | 지구와 외계 '아웃사이더'의 함대가 맞붙기 직전, 정찰기 조종사가 외계인 하나와 단둘이 승부를 가린다. |
+| 1944 | Far Centaurus | Far Centaurus | A. E. van Vogt | 소설 | 확인 못 함 | 잠드는 약 '이터니티'를 먹고 5백 년을 날아 알파 켄타우리에 닿은 우주선 사람들. |
+| 1944 | I, Rocket | I, Rocket | Ray Bradbury | 소설 | 확인 못 함 | 전투용으로 지은 로켓선이 스스로 깨어나, 녹슬어 가며 겪은 전쟁을 돌아본다. |
 | 1944 | 킬도저! (경계) | Killdozer! | Theodore Sturgeon | 소설·영화 | 있음 | 외딴섬 공사장에서 불도저에 정체 모를 무언가가 깃들어 사람들을 덮친다. |
 | 1944 | 경솔한 여행자 | Le Voyageur imprudent | René Barjavel | 소설 | 있음 | 시간 여행자가 과거로 가서 자기 조상을 죽이는 바람에 모순에 빠진다. |
+| 1944 | No Woman Born | No Woman Born | C. L. Moore | 소설 | 확인 못 함 | 심한 화상을 입은 무용수가 로봇 몸을 얻어 사이보그가 된다. |
+| 1944 | Old Man in New World | Old Man in New World | Olaf Stapledon | 소설 | 확인 못 함 | 2차 대전의 폐허에서 다시 세운 1990년대 말 세계를 한 노인이 둘러본다. |
+| 1944 | Renaissance | Renaissance | Raymond F. Jones | 소설 | 확인 못 함 | 무너진 지구의 남은 사람들과, 다른 차원에 있는 세계 크론웰드의 이야기. |
 | 1944 | Shadow Over Mars | Shadow Over Mars | Leigh Brackett | 소설 | 확인 못 함 | 화성 원주민과 '회사'가 맞서는 화성, 광산에서 달아난 사내에게 그가 행성을 다스리리라는 예언이 내린다. |
 | 1944 | Sirius | Sirius | Olaf Stapledon | 소설 | 확인 못 함 | 과학자가 양치기 개의 지능을 높여, 사람만큼 생각하고 말하는 개 시리우스가 태어난다. |
 | 1944 | The Winged Man | The Winged Man | E. Mayne Hull · A. E. van Vogt | 소설 | 확인 못 함 | 1944년 태평양의 미 잠수함이 백만 년 뒤로 옮겨져, 날개 달린 종족과 물속 종족의 싸움에 끌려든다. |
+| 1944 | Worlds Beginning (경계) | Worlds Beginning | Robert Ardrey | 소설 | 확인 못 함 | 20년 뒤 은퇴한 기자가, 전쟁 뒤 암울한 시절과 새 기업 소유 제도로 다시 선 세상을 기록한다. |
 | 1945 | Destiny Times Three | Destiny Times Three | Fritz Leiber | 소설 | 확인 못 함 | '확률 기관'이 만든 여러 시간선이 나란히 있고, 서로를 침공할 만큼 실재한다. |
+| 1945 | First Contact | First Contact | Murray Leinster | 소설 | 확인 못 함 | 깊은 우주에서 두 종족이 처음 마주치고, 서로의 기술을 탐내면서도 상대를 믿지 못해 맞선다. |
+| 1945 | Giant Killer | Giant Killer | A. Bertram Chandler | 소설 | 확인 못 함 | 우주선 안에서 대를 이어 사는 작은 돌연변이 무리의 눈으로 본 '주머니 우주'. |
+| 1945 | Shaver Mystery (경계) | Shaver Mystery | Richard S. Shaver | 소설 | 확인 못 함 | 실화라고 내세운 '셰이버 미스터리' 연작의 첫 편 — 옛 레무리아를 기억한다는 고백. |
 | 1945 | The World of Null-A | The World of Null-A | A. E. van Vogt | 소설 | 없음 | 논리 수련을 거친 사람이 다스리는 미래 지구에서 기억이 가짜인 남자가 몸을 바꿔 살아난다. |
+| 1945 | Uncommon Sense | Uncommon Sense | Hal Clement | 소설 | 확인 못 함 | 낯선 생물을 찾아 별을 떠도는 부자가 배를 털려는 조수들을 막으려 낯선 행성에 불시착한다. |
+| 1946 | Człowiek z Marsa | Człowiek z Marsa | Stanisław Lem | 소설 | 확인 못 함 | 미국 과학자들이 추락한 화성 우주선 속 생명체를 몰래 연구하고, 기자 하나가 그 무리에 끌려든다. |
+| 1946 | Frost and Fire | Frost and Fire | Ray Bradbury | 소설 | 확인 못 함 | 추락한 로켓의 후손들이 수성 닮은 별에서 아주 짧은 삶을 살며 먼 산 위의 다른 로켓을 바라본다. |
+| 1946 | The Dark World (경계) | The Dark World | Henry Kuttner (C. L. Moore 함께 썼을 수 있음) | 소설 | 확인 못 함 | 비행사 에드워드 본드가 다른 차원의 폭군 마법사 가넬론과 한 몸을 나눠 쓰고, 문을 지나 그 세계로 간다. |
+| 1946 | Valley of the Flame (경계) | Valley of the Flame | Henry Kuttner (Keith Hammond) | 소설 | 확인 못 함 | 1985년 아마존, 피가 기묘하게 바뀐 사내를 쫓던 의학자가 '불꽃의 골짜기'의 숨은 문화에 닿는다. |
+| 1946 | Vintage Season | Vintage Season | C. L. Moore · Henry Kuttner (Lawrence O' | 소설 | 확인 못 함 | 어느 아름다운 5월, 낡은 저택을 빌린 세 손님 — 시간 여행이 얽힌 그들의 정체. |
+| 1947 | Bend Sinister (경계) | Bend Sinister | Vladimir Nabokov | 소설 | 확인 못 함 | 남과 다름을 막는 사상 '에퀼리즘'이 세운 정부 아래, 동유럽 가상 도시 파두크그라드의 철학자. |
+| 1947 | Columbus Was a Dope | Columbus Was a Dope | Robert A. Heinlein | 소설 | 확인 못 함 | 술집 손님과 바텐더가 프록시마 켄타우리로 떠날 세대선을 두고 입씨름한다. |
+| 1947 | E for Effort | E for Effort | T. L. Sherred | 소설 | 확인 못 함 | 과거의 장면을 비추어 보는 기계가 만들어지고, 그것이 세상에 몰고 오는 엄청난 결과. |
+| 1947 | Jerry Was a Man | Jerry Was a Man | Robert A. Heinlein | 소설 | 확인 못 함 | 유전자로 지능을 높인 침팬지 일꾼이 법 앞에서 사람의 권리를 다툰다. |
+| 1947 | Path of Unreason | Path of Unreason | George O. Smith | 소설 | 확인 못 함 | 수수께끼의 '로슨 복사선'을 밝히려던 물리학자 짐 캐럴이 연구 끝에 미쳐 간다. |
+| 1947 | Rocket Ship Galileo | Rocket Ship Galileo | Robert A. Heinlein | 소설 | 확인 못 함 | 2차 대전 뒤, 세 십대 로켓 실험가와 물리학자 삼촌이 낡은 로켓을 고쳐 달로 날아간다. |
+| 1947 | The Flames | The Flames | Olaf Stapledon | 소설 | 확인 못 함 | 대학 옛 친구가 보낸 긴 편지에 담긴, 낯선 불꽃 존재들과 만났다는 고백. |
+| 1947 | The Forbidden Garden | The Forbidden Garden | John Taine (Eric Temple Bell) | 소설 | 확인 못 함 | 인류를 없앨 수도 있는 기이한 꽃을 기르려, 아시아 오지의 흙을 찾아 나선다. |
 | 1947 | The Humanoids | The Humanoids | Jack Williamson | 소설 | 일부 | 사람을 해치지 말라는 명령을 지키려는 기계들이 사람에게서 모든 일과 위험을 빼앗는다. |
+| 1947 | Water Is for Washing (경계) | Water Is for Washing | Robert A. Heinlein | 소설 | 확인 못 함 | 지진이 임피리얼 계곡과 캘리포니아만 사이 땅을 깨뜨려 바닷물이 골짜기로 밀려든다. |
+| 1948 | Ape and Essence | Ape and Essence | Aldous Huxley | 소설 | 확인 못 함 | 한 시나리오 작가가 남긴 대본 — 인류를 스스로 죽이고 말 원숭이로 그린, 전쟁 뒤 디스토피아. |
+| 1948 | Children of the Atom | Children of the Atom | Wilmar H. Shiras | 소설 | 확인 못 함 | 1972년 미국 곳곳에 남모르게 숨어 사는, 같은 또래의 엄청나게 똑똑한 아이들. |
+| 1948 | Dreadful Sanctuary | Dreadful Sanctuary | Eric Frank Russell | 소설 | 확인 못 함 | 1972년, 달로 가는 로켓 열일곱 대가 잇따라 실패하자 거구의 발명가가 그 뒤를 캔다. |
+| 1948 | Happy Ending | Happy Ending | Henry Kuttner | 소설 | 확인 못 함 | 미래에서 온 로봇이 준 단추를 누를 때마다 미래 사람의 머리에 들어가 그 재주를 얻지만 '탄'이 쫓는다. |
+| 1948 | Knock | Knock | Fredric Brown | 소설 | 확인 못 함 | 지구에 마지막 남은 사내가 홀로 방에 앉아 있는데 문 두드리는 소리가 난다 — 그 두 문장을 풀어낸 이야기. |
+| 1948 | Le diable l'emporte | Le diable l'emporte | René Barjavel | 소설 | 확인 못 함 | 끔찍한 무기의 세계 대전 끝에, 마지막 사람들이 땅속 깊은 비밀 금고에서 산다. |
+| 1948 | Space Cadet | Space Cadet | Robert A. Heinlein | 소설 | 확인 못 함 | 2075년, 아이오와 소년이 태양계 평화를 지키는 행성 사이 순찰대의 사관생도가 된다. |
+| 1948 | That Only a Mother | That Only a Mother | Judith Merril | 소설 | 확인 못 함 | 3차 대전이 길게 이어지는 1953년, 돌연변이 아기가 잇따르는 가운데 한 어머니가 딸을 낳는다. |
 | 1948 | 도시와 별 | The City and the Stars | Arthur C. Clarke | 소설 | 있음 | 10억 년 뒤 컴퓨터가 사람을 기억에서 되살려 내며 지켜 온 닫힌 도시. |
+| 1948 | Walden Two | Walden Two | B. F. Skinner | 소설 | 확인 못 함 | 행동 과학으로 사람을 길러 내는 공동체 '월든 투'를 심리학 교수가 찾아간다. |
+| 1949 | Agent of Vega | Agent of Vega | James H. Schmitz | 소설 | 확인 못 함 | 먼 미래, 사람들이 옛 제국을 대신할 '베가 연합'을 세워 가는 가운데 활약하는 요원들. |
+| 1949 | Breaking Strain | Breaking Strain | Arthur C. Clarke | 소설·영화 | 확인 못 함 | 금성 노선 화물 우주선이 운석에 맞아 산소가 모자라고, 두 승무원 가운데 한 사람만 살 수 있다. |
+| 1949 | Dark They Were, and Golden-Eyed | Dark They Were, and Golden-Eyed | Ray Bradbury | 소설 | 확인 못 함 | 전쟁이 터질 무렵 화성에 온 개척민 가족 곁에서 풀은 보랏빛으로 나고 소에 셋째 뿔이 돋는다. |
 | 1949 | Earth Abides | Earth Abides | George R. Stewart | 소설 | 없음 | 병으로 인류 대부분이 죽은 뒤 살아남은 사람들이 몇 세대에 걸쳐 문명을 잊어 간다. |
+| 1949 | Eric John Stark | Eric John Stark | Leigh Brackett | 소설 | 확인 못 함 | 수성 원주민 손에 자란 떠돌이 에릭 존 스타크가 금성 깊숙한 마을로 사라진 친구를 찾는다. |
 | 1949 | Four Sided Triangle | Four Sided Triangle | William F. Temple(원작) · Terence Fisher(감 | 소설·영화 | 확인 못 함 | 물건을 그대로 복제하는 기계를 만든 두 과학자 가운데 하나가, 사랑하는 여자를 복제하려 든다. |
+| 1949 | Heliopolis: Rückblick auf eine Stadt (경계) | Heliopolis: Rückblick auf eine Stadt | Ernst Jünger | 소설 | 확인 못 함 | 가상 도시 헬리오폴리스에서 총독과 지방관의 부하들이 서로 다투는 디스토피아. |
+| 1949 | History Lesson | History Lesson | Arthur C. Clarke | 소설 | 확인 못 함 | 태양이 식어 빙하에 덮인 30세기 지구, 그리고 그 뒤 지성이 깨어난 금성. |
 | 1949 | 1984 (경계) | Nineteen Eighty-Four | George Orwell | 소설·영화 | 있음 | 텔레스크린과 사상경찰이 모든 것을 감시하고 지난 기록을 날마다 고쳐 쓰는 나라. |
+| 1949 | Pattern for Conquest | Pattern for Conquest | George O. Smith | 소설 | 확인 못 함 | 외계 침략자에게 짓밟힌 지구인들이 거꾸로 그들을 안에서부터 정복하려 한다. |
+| 1949 | Red Planet | Red Planet | Robert A. Heinlein | 소설 | 확인 못 함 | 지구의 회사가 다스리는 화성 개척지, 기숙 학교로 간 두 소년이 화성의 옛 종족과 얽힌다. |
+| 1949 | Seven Days in New Crete | Seven Days in New Crete | Robert Graves | 소설 | 확인 못 함 | 기술을 버리고 세 여신을 섬기는 미래 '새 크레타' 사회가 20세기 중반 시인을 되살려 불러온다. |
+| 1949 | The Paradox Men | The Paradox Men | Charles L. Harness | 소설 | 확인 못 함 | 총알은 막고 칼은 못 막는 개인 역장 때문에 칼싸움이 되살아난 세계, 시간과 역사가 얽힌 스페이스 오페라. |
+| 1949 | The Sword of Rhiannon (경계) | The Sword of Rhiannon | Leigh Brackett | 소설 | 확인 못 함 | 화성 도시 제카라, 도둑이 된 고고학자가 화성 무덤에서 나온 유물 '리아논의 검'에 얽혀 든다. |
+| 1949 | Transience | Transience | Arthur C. Clarke | 소설 | 확인 못 함 | 같은 바닷가에서, 아득한 시간을 사이에 둔 세 아이가 차례로 논다. |
+| 1949 | Viagens Interplanetarias | Viagens Interplanetarias | L. Sprague de Camp | 소설 | 확인 못 함 | 비아젠스 우주선이 오가는 미래, 지구인들이 크리슈나·오시리스 같은 다른 별의 행성으로 간다. |
+| 1949 | What Mad Universe | What Mad Universe | Fredric Brown | 소설 | 확인 못 함 | SF 잡지 편집자가 사고로 펄프 SF의 상투가 현실인 평행 우주에 떨어진다. |
+| 1950 | ...Divided We Fall | ...Divided We Fall | Raymond F. Jones | 소설 | 확인 못 함 | 다른 행성에서 일하고 돌아온 사내가 '합성 인간'을 두고 뒤집힌 지구 사회를 마주한다. |
+| 1950 | A Subway Named Mobius | A Subway Named Mobius | A. J. Deutsch | 소설 | 확인 못 함 | 보스턴 지하철에 새 연결선이 놓인 뒤 열차 한 대가 감쪽같이 사라진다. |
+| 1950 | Born of Man and Woman (경계) | Born of Man and Woman | Richard Matheson | 소설 | 확인 못 함 | 지하실에 사슬로 묶여 사는 기형 아이가 서툰 말로 적은 일기. |
 | 1950 | Cities in Flight | Cities in Flight | James Blish | 소설 | 일부 | 반중력 장치로 도시째 떠올라 은하를 떠돌며 일감을 찾는 사람들, 늙지 않는 약도 있다. |
+| 1950 | Coming Attraction | Coming Attraction | Fritz Leiber | 소설 | 확인 못 함 | 미소 장기 전쟁 중 '지옥 폭탄'에 맨해튼 한가운데가 폐허가 된 뉴욕. |
 | 1950 | Farmer in the Sky | Farmer in the Sky | Robert A. Heinlein | 소설 | 확인 못 함 | 식량을 배급하는 붐비는 지구를 떠나, 한 가족이 테라포밍 중인 목성의 위성 가니메데로 이주한다. |
 | 1950 | Instrumentality of Mankind | Instrumentality of Mankind | Cordwainer Smith | 소설 | 일부 | 먼 미래 인류를 다스리는 기구 아래, 동물로 만든 하층민이 사람의 권리를 찾아 나선다. |
+| 1950 | Paratime | Paratime | H. Beam Piper | 소설 | 확인 못 함 | 평행 시간선을 오가는 '파라타임' 연작 — 이 편은 환생이 증명된 세계의 스스로 죽는 잔치. |
+| 1950 | The Dark Other (경계) | The Dark Other | Stanley G. Weinbaum | 소설 | 확인 못 함 | 한 사람 속에 숨은 어두운 다른 자아를 다룬 지킬과 하이드 꼴의 심리 공포. |
+| 1950 | The Dreaming Jewels | The Dreaming Jewels | Theodore Sturgeon | 소설 | 확인 못 함 | 학대를 피해 서커스에 숨은 소년 호티, 결정 같은 지성 '보석'의 힘을 노리는 인간 혐오자 의사. |
 | 1950 | The Dying Earth (경계) | The Dying Earth | Jack Vance | 소설 | 없음 | 해가 꺼져 가는 아득한 미래 지구에, 마법이 된 옛 과학이 남아 있다. |
+| 1950 | The Five Gold Bands | The Five Gold Bands | Jack Vance | 소설 | 확인 못 함 | 별 사이를 오가는 비밀을 다섯 아들에게 나눠 준 랭트리 — 그 비밀을 쥔 다섯 집안의 이야기. |
+| 1950 | The Gnurrs Come from the Voodvork Out (경계) | The Gnurrs Come from the Voodvork Out | Reginald Bretnor | 소설 | 확인 못 함 | 독학한 괴짜 과학자 슈멜호른 아빠가 4차원에서 옷 먹는 괴물을 불러내는 피리를 만든다. |
+| 1950 | The Little Black Bag | The Little Black Bag | Cyril M. Kornbluth | 소설 | 확인 못 함 | 대부분 사람의 지능이 떨어진 2450년, 미래 의사 가방이 실수로 20세기 중반으로 보내진다. |
 | 1950 | 화성 연대기 | The Martian Chronicles | Ray Bradbury | 드라마·소설 | 있음 | 지구 사람들이 화성에 몰려오고, 원래 살던 화성인은 사라지고 그 땅은 지구를 닮아 간다. |
 | 1950 | The Voyage of the Space Beagle | The Voyage of the Space Beagle | A. E. van Vogt | 소설 | 없음 | 탐사선이 우주에서 차례로 낯설고 위험한 생물과 마주쳐 싸운다. |
+| 1950 | To Serve Man | To Serve Man | Damon Knight | 소설 | 확인 못 함 | 지구에 와 인류를 돕겠다는 외계인들, 유엔 통역사가 그들 책 제목의 진짜 뜻을 알아챈다. |
+| 1950 | To the Stars | To the Stars | L. Ron Hubbard | 소설 | 확인 못 함 | 광속 가까이 나는 무역선에 납치된 기술자가 돌아올 때마다 지구의 시간은 훌쩍 흘러 있다. |
 | 1951 | Astronauci | Astronauci | Stanisław Lem(원작) · Kurt Maetzig(1960 감독 | 소설·영화 | 확인 못 함 | 고비 사막에서 퉁구스카 폭발과 이어진 외계의 기록 장치가 나오고, 국제 탐사대가 침묵하는 금성으로 떠난다. |
 | 1951 | 파운데이션 | Foundation | 아이작 아시모프 | 소설·드라마 | 있음 | 무너져 가는 은하제국의 앞날을 수학으로 내다본 학자가 긴 암흑기를 줄이려 세운 계획과, 그 뒤 수백 년의 역사를 그린 연작 소설. |
+| 1951 | Prelude to Space | Prelude to Space | Arthur C. Clarke | 소설 | 확인 못 함 | 달까지 갈 수 있는 첫 우주선 프로메테우스가 쏘아 올려지기까지. |
 | 1951 | Technic History | Technic History | Poul Anderson | 소설 | 확인 못 함 | 상인 연맹의 시대에서 지구 제국의 쇠퇴와 그 뒤의 '긴 밤'까지 이어지는 미래사. |
 | 1951 | The Beast from 20,000 Fathoms | The Beast from 20,000 Fathoms | Ray Bradbury(원작) · Eugène Lourié(감독) · R | 소설·영화 | 확인 못 함 | 북극 원자 폭탄 실험으로 얼음에서 깨어난 거대 공룡이 바다를 건너 뉴욕을 덮친다. |
 | 1951 | 트리피드의 날 | The Day of the Triffids | John Wyndham | 드라마·소설·영화 | 있음 | 유성우를 본 사람들이 모두 눈이 멀고, 걸어 다니는 독초 트리피드가 사람을 사냥한다. |
@@ -178,6 +526,7 @@
 | 1952 | 우주 상인 | The Space Merchants | Frederik Pohl · C. M. Kornbluth | 소설 | 있음 | 광고 회사들이 나라를 쥔 비좁은 지구에서, 금성 개척 광고를 맡은 사람이 휘말린다. |
 | 1952 | This Island Earth | This Island Earth | Raymond F. Jones(원작) · Joseph M. Newman( | 소설·영화 | 확인 못 함 | 정체 모를 부품으로 '인터로시터'를 조립해 시험을 통과한 물리학자가 수수께끼의 과학자 모임에 불려 간다. |
 | 1953 | 양심의 문제 | A Case of Conscience | James Blish | 소설 | 있음 | 죄를 모르는 외계 종족을 만난 예수회 신부가 그것이 악마의 함정이라고 믿게 된다. |
+| 1953 | Bob Morane (경계) | Bob Morane | Henri Vernes | 만화·소설·애니메이션 | 확인 못 함 | 모험가 밥 모란, 공상 과학 쪽 이야기에서는 미래에서 온 시간 순찰대의 요원이 된다. |
 | 1953 | 유년기의 끝 | Childhood's End | Arthur C. Clarke | 드라마·소설 | 있음 | 하늘을 덮은 외계 감독자들이 인류에게 평화를 주고, 아이들은 우주의 큰 정신으로 넘어간다. |
 | 1953 | 화씨 451 | Fahrenheit 451 | Ray Bradbury | 소설·영화 | 있음 | 책을 불태우는 소방관이 화면에 빠진 사회에서 책을 외워 지키는 사람들을 만난다. |
 | 1953 | Impostor | Impostor | Philip K. Dick (원작), Gary Fleder (영화) | 소설·영화 | 확인 못 함 | 외계 침공에 맞서 도시마다 방어막을 치고 전체주의 군사 정부가 선 2039년의 이야기 |
@@ -189,6 +538,7 @@
 | 1953 | Target Earth | Target Earth | Paul W. Fairman(원작) · Sherman A. Rose(감독 | 소설·영화 | 확인 못 함 | 텅 빈 도시에서 깨어난 몇 사람이 서로 모이는데, 도시는 이미 외계에서 온 로봇들에게 점령돼 있었다. |
 | 1953 | The Twonky | The Twonky | Henry Kuttner · C. L. Moore(원작) · Arch O | 소설·영화 | 확인 못 함 | 철학 교수가 새로 산 텔레비전이 제멋대로 움직이며 주인의 생활을 통제하기 시작한다. |
 | 1954 | Adjustment Team (경계) | Adjustment Team | Philip K. Dick(원작) · George Nolfi(영화) | 소설·영화 | 확인 못 함 | 사람들의 앞날을 몰래 고쳐 맞추는 조정국 요원들이 정해진 길을 벗어난 정치인의 사랑을 막는다. |
+| 1954 | Fondly Fahrenheit | Fondly Fahrenheit | Alfred Bester(원작) · Alex Segal(감독) | 소설·영화 | 확인 못 함 | 인조인간이 얽힌 살인을 다룬 알프레드 베스터 단편과 그 TV 영화. |
 | 1954 | 나는 전설이다 (경계) | I Am Legend | Richard Matheson | 소설·영화 | 있음 | 세균 탓에 모두 흡혈귀가 된 세상에서 마지막 사람이 낮에는 사냥하고 밤에는 숨는다. |
 | 1954 | 신체 강탈자의 침입 | Invasion of the Body Snatchers | Jack Finney(원작) · Don Siegel(1956 감독) | 소설·영화 | 있음 | 우주에서 온 꼬투리가 잠든 사람을 감정 없는 똑같은 몸으로 바꿔치기한다 |
 | 1954 | Martians, Go Home | Martians, Go Home | Fredric Brown(원작) · David Odell(감독) | 소설·영화 | 확인 못 함 | 수십억 명의 심심한 화성인이 지구에 몰려와 사람들 일에 끼어들며 놀려 대기 시작한다. |
@@ -217,6 +567,7 @@
 | 1956 | 줄어드는 남자 | The Shrinking Man | Richard Matheson | 소설·영화 | 있음 | 방사능 안개를 맞은 남자가 날마다 몸이 작아져 지하실에서 거미와 싸운다. |
 | 1956 | 타이거! 타이거! | The Stars My Destination | Alfred Bester | 소설 | 있음 | 생각만으로 순간 이동하는 일이 퍼진 시대, 우주에 버려진 선원이 복수에 나선다. |
 | 1956 | Time for the Stars | Time for the Stars | Robert A. Heinlein | 소설 | 확인 못 함 | 생각으로 이어진 쌍둥이 가운데 한 명이 빛에 가까운 속도로 떠나고, 둘의 시간이 어긋나 간다. |
+| 1956 | Zaziemskie światy. Pierwszy lot międzyplanetarny | Zaziemskie światy. Pierwszy lot międzyplanetarny | Władysław Umiński | 소설 | 확인 못 함 | 첫 행성 사이 비행으로 금성에 간 지구인들이, 아틀란티스를 떠나 그곳에 자리 잡은 앞선 사람들을 만난다. |
 | 1956 | 가축인 야푸 (경계) | 家畜人ヤプー | 沼正三 | 만화·소설 | 일부 | 먼 미래 백인 우주 제국에서 일본인의 후손이 가축과 도구로 개조되어 쓰이고, 그 제국의 배가 과거로 찾아온다. |
 | 1957 | 움츠린 아틀라스 (경계) | Atlas Shrugged | Ayn Rand | 소설·영화 | 있음 | 통제가 심해지는 미국에서 기업가와 발명가들이 하나둘 사라지고, 세상을 떠받치던 이들이 파업에 들어간다. |
 | 1957 | Bau und Leben der Rhinogradentia (경계) | Bau und Leben der Rhinogradentia | Gerolf Steiner(필명 Harald Stümpke) | 소설 | 있음 | 태평양 한 군도에만 살다 핵실험으로 섬과 함께 가라앉은, 코로 걷는 상상의 포유류를 학술서처럼 그린다. |
@@ -285,6 +636,7 @@
 | 1962 | 시간의 주름 (경계) | A Wrinkle in Time | Madeleine L'Engle | 만화·소설·영화 | 있음 | 아이들이 공간을 접어 건너는 법으로 다른 행성들을 넘나들며 우주를 뒤덮는 어둠과 맞선다. |
 | 1962 | Little Fuzzy | Little Fuzzy | H. Beam Piper | 소설 | 확인 못 함 | 개척 회사가 차지한 행성 자라투스트라에서, 털북숭이 작은 생물이 지성체인지를 다툰다. |
 | 1962 | 물에 잠긴 세계 | The Drowned World | J. G. Ballard | 소설 | 있음 | 태양이 뜨거워져 극지 얼음이 녹고 런던이 뜨거운 늪이 된 미래. |
+| 1962 | The Girl, the Gold Watch & Everything | The Girl, the Gold Watch & Everything | John D. MacDonald | 소설·영화 | 확인 못 함 | 자신 없는 청년이 도박으로 부자가 된 숙부에게서 물려받은 낡은 금 회중시계의 비밀. |
 | 1962 | 높은 성의 사내 | The Man in the High Castle | Philip K. Dick | 드라마·소설 | 있음 | 추축국이 이겨 나뉘어 다스려지는 미국에서 '연합국이 이긴' 소설이 몰래 돈다. |
 | 1962 | The Satan Bug (경계) | The Satan Bug | Alistair MacLean(원작) · John Sturges(감독) | 소설·영화 | 확인 못 함 | 비밀 생물 무기 연구소에서 치명적인 세균이 사라지고, 옛 정보 요원이 행방을 쫓는다. |
 | 1962 | Мир Полудня | Мир Полудня | Arkady and Boris Strugatsky | 소설·영화 | 일부 | 모자람 없는 22세기 인류가 덜 자란 별의 문명에 몰래 손을 대야 할지 고민한다. |
@@ -318,12 +670,14 @@
 | 1964 | 우주 순양함 무적호 | Niezwyciężony | Stanisław Lem | 게임·소설 | 있음 | 탐사선이 작은 기계 떼가 진화해 생명을 몰아낸 행성에서 그 떼와 맞닥뜨린다. |
 | 1964 | Simulacron-3 | Simulacron-3 | Daniel F. Galouye | 드라마·소설·영화 | 없음 | 도시를 통째로 흉내 낸 컴퓨터 세계를 만든 사람이 자기 세계도 흉내임을 알게 된다. |
 | 1964 | The Escape Orbit | The Escape Orbit | James White | 소설 | 확인 못 함 | 지구와 싸우는 외계 종족 '벌레'가 사람 포로를 감옥 행성에 버리고, 포로들은 그곳에 사회를 이뤘다. |
+| 1964 | The Immortals | The Immortals | James Gunn | 드라마·소설 | 확인 못 함 | 병들지도 늙지도 않는 피를 지닌 남자를 그 피로 살려는 부자들이 쫓는다. |
 | 1964 | The Nova Trilogy | The Nova Trilogy | William S. Burroughs | 소설 | 확인 못 함 | '노바 패거리'와 '노바 경찰'이 인류를 두고 다투는, 잘라 붙이기 기법으로 쓴 통제의 이야기. |
 | 1964 | The Pilgrim Project | The Pilgrim Project | Hank Searls(원작) · Robert Altman(감독) | 소설·영화 | 확인 못 함 | 소련보다 먼저 달에 가려고, 미국이 비행사 하나를 편도 로켓으로 보내 대피 캡슐에서 기다리게 한다. |
 | 1964 | The Wanderer | The Wanderer | Fritz Leiber | 소설 | 확인 못 함 | 개기월식이 끝날 무렵 초공간에서 떠돌이 행성이 달 곁에 나타나 지구가 뒤흔들린다. |
 | 1964 | The Whole Man | The Whole Man | John Brunner | 소설 | 확인 못 함 | 텔레파시가 알려진 근미래 영국, 몸이 뒤틀린 젊은이가 누구보다 센 텔레파시를 지녔다. |
 | 1964 | The Year of the Angry Rabbit | The Year of the Angry Rabbit | Russell Braddon(원작) · William F. Claxton | 소설·영화 | 확인 못 함 | 토끼 번식을 막으려던 호르몬 주사가 거꾸로 사람만 한 육식 토끼 떼를 만들어 목장 마을을 덮친다. |
 | 1964 | X電車で行こう | X電車で行こう | 山野浩一(원작), りんたろう(OVA 감독) | 소설·애니메이션 | 확인 못 함 | 일본 곳곳에 정체 모를 유령 열차가 나타나고, 사라진 기관차와 마주친 젊은이가 그 뒤를 쫓는다. |
+| 1964 | Приключения Электроника | Приключения Электроника | Yevgeny Veltistov(원작·각본) · Konstantin Br | 드라마·소설 | 확인 못 함 | 그로모프 교수의 연구실에서 달아난, 잡지 표지 소년을 꼭 닮게 만든 로봇 엘렉트로니크가 그 소년과 만난다. |
 | 1964 | たそがれに還る | たそがれに還る | 光瀬龍 | 소설 | 확인 못 함 | 태양계를 정복한 3700년대 인류의 우주선이 수백 척씩 사라지고, 조사대가 초고대 성간 문명을 좇는다. |
 | 1964 | 他人の顔 (경계) | 他人の顔 | Kōbō Abe(원작) · Hiroshi Teshigahara(감독) | 소설·영화 | 확인 못 함 | 사고로 얼굴을 잃은 기술자가 정신과 의사가 만든 진짜 같은 가면을 쓰고 다른 사람으로 살아 본다. |
 | 1964 | 夕ばえ作戦 | 夕ばえ作戦 | 光瀬龍 | 드라마·만화·소설 | 확인 못 함 | 고물상에서 산 원통 기계가 타임머신이어서, 중학생이 에도 시대의 닌자 다툼에 뛰어들어 현대와 오간다. |
@@ -371,11 +725,13 @@
 | 1966 | 토탈리콜 | Total Recall | Philip K. Dick(원작) · Paul Verhoeven(1990 | 드라마·소설·영화 | 있음 | 기억을 사서 심는 회사에 갔다가 자신이 화성의 비밀 요원이었다는 기억이 깨어난다 |
 | 1966 | まぼろしのペンフレンド | まぼろしのペンフレンド | 眉村卓 | 드라마·소설 | 확인 못 함 | 중학교를 무대로 로봇과 인공지능을 다룬 眉村卓 의 청소년 SF. |
 | 1966 | 人間そっくり | 人間そっくり | 安部公房 | 드라마·소설 | 확인 못 함 | '안녕 화성인' 라디오 대본 작가에게 화성인이라는 사내가 찾아와, 작가는 무엇이 현실인지 모르게 된다. |
+| 1966 | 女黑俠木蘭花系列 (경계) | 女黑俠木蘭花系列 | 倪匡(魏力) | 소설·영화 | 확인 못 함 | 목란화·목수진·고상 '동방 삼협'이 범죄 조직 흑룡당과 수수께끼 조직에 맞서는 SF 활극 연작. |
 | 1967 | Chthon | Chthon | Piers Anthony | 소설 | 확인 못 함 | 별 사이로 퍼진 지 400년, 행성마다 주기적으로 덮쳐 반을 죽이는 병 '오한'이 돈다. |
 | 1967 | 퍼언 연대기 (경계) | Dragonriders of Pern | Anne McCaffrey | 소설 | 일부 | 개척 행성을 덮치는 하늘의 실을, 텔레파시로 이어진 용과 기사가 불로 태운다. |
 | 1967 | 나는 입이 없다 그리고 나는 비명을 질러야 한다 | I Have No Mouth, and I Must Scream | Harlan Ellison | 게임·소설 | 있음 | 인류를 멸망시킨 거대 컴퓨터가 살려 둔 다섯 사람을 끝없이 괴롭힌다. |
 | 1967 | 로건의 탈출 | Logan's Run | William F. Nolan·George Clayton Johnson( | 드라마·소설·영화 | 확인 못 함 | 자원을 맞추려 서른 살이 된 사람을 모두 죽이는 돔 도시에서 한 추적자가 달아난다 |
 | 1967 | 신들의 사회 | Lord of Light | Roger Zelazny | 소설 | 있음 | 식민 행성의 첫 정착민이 기술로 힌두 신 행세를 하고, 한 사람이 부처가 되어 맞선다. |
+| 1967 | Spadla z oblakov | Spadla z oblakov | Václav Borovička(원작) · Eva Krivánková(각본 | 드라마·소설 | 확인 못 함 | 행성 구룬에서 온 외계 소녀 마이카가 슬로바키아 작은 마을 아이들과 모험하고 비밀 기관에 쫓긴다. |
 | 1967 | The Butterfly Kid | The Butterfly Kid | Chester Anderson | 소설 | 확인 못 함 | 근미래 그리니치빌리지에 외계인이 '현실 알약'을 퍼뜨려 환각이 현실이 된다. |
 | 1967 | The Disorientated Man | The Disorientated Man | Peter Saxon(원작, 여러 작가가 쓴 공동 이름) · Gordon | 소설·영화 | 확인 못 함 | 런던 연쇄 살인, 동유럽 첩보원, 팔다리를 하나씩 잃는 환자의 이야기가 한 과학자의 초인 실험으로 모인다. |
 | 1967 | The Einstein Intersection | The Einstein Intersection | Samuel R. Delany | 소설 | 없음 | 사람이 떠난 지구에 들어온 다른 존재들이 사람의 신화를 몸에 입고 산다. |
@@ -389,9 +745,11 @@
 | 1967 | 惑星シリーズ | 惑星シリーズ | 石原藤夫 | 소설 | 확인 못 함 | 먼 미래 행성 개발 컨설팅 회사의 조사원 두 사람과 로봇이 기묘한 행성들을 조사하는 하드 SF 연작. |
 | 1967 | 완전사회 | 완전사회 | 문윤성 | 소설 | 한국 원작 | 냉동 수면으로 미래에 보내진 남자가 깨어나 여자들만 사는 사회를 만난다 |
 | 1968 | Alyx | Alyx | Joanna Russ | 소설 | 확인 못 함 | 시간을 넘나드는 여성 용병 알릭스가 주인공인 'Trans Temp' 우주 오페라 연작의 장편. |
+| 1968 | Chocky | Chocky | John Wyndham | 드라마·소설 | 확인 못 함 | 총명한 소년 매슈가 지구의 삶을 알려는 수수께끼의 외계 손님에게 뽑힌다. |
 | 1968 | 안드로이드는 전기양의 꿈을 꾸는가? | Do Androids Dream of Electric Sheep? | Philip K. Dick | 소설 | 있음 | 핵전쟁 뒤 사람들이 다른 행성으로 떠난 지구, 산 동물이 귀한 세상에서 현상금 사냥꾼이 안드로이드를 쫓는다. |
 | 1968 | Escape to Witch Mountain (경계) | Escape to Witch Mountain | Alexander Key(소설), John Hough(영화) | 소설·영화 | 확인 못 함 | 생각을 읽고 물건을 움직이는 고아 남매가 자기 근원을 찾아 '마녀의 산'으로 달아난다. |
 | 1968 | Głos Pana | Głos Pana | Stanisław Lem | 소설 | 없음 | 우주에서 온 신호를 풀려고 모인 과학자들이 끝내 그 뜻을 알아내지 못한다. |
+| 1968 | Hauser's Memory | Hauser's Memory | Curt Siodmak(원작) · Boris Sagal(감독) | 소설·영화 | 확인 못 함 | 죽어 가는 과학자의 비밀을 지키려 그의 뇌척수액을 맞은 과학자를 그 기억이 차지해 간다. |
 | 1968 | 시간의 밤 | La Nuit des temps | René Barjavel | 소설 | 있음 | 남극 얼음 밑에서 90만 년 전 문명의 남녀가 얼어붙은 채 발견된다. |
 | 1968 | 노바 | Nova | Samuel R. Delany | 소설 | 있음 | 배를 신경으로 직접 조종하는 시대, 귀한 원소를 얻으려 터지는 별 속으로 뛰어든다. |
 | 1968 | Past Master | Past Master | R. A. Lafferty | 소설 | 확인 못 함 | 2535년 무너져 가는 이상향 행성 아스트로베가 시간 여행으로 토머스 모어를 데려온다. |
@@ -400,6 +758,7 @@
 | 1968 | Season of the Witch | Season of the Witch | Hank Stine(원작) · Allan A. Goldstein(감독) | 소설·영화 | 확인 못 함 | 몸을 갈아 영원히 사는 기술이 나온 2015년 감시 사회, 새 몸이 되는 쪽 사람들은 악몽 속에 산다. |
 | 1968 | Stand on Zanzibar | Stand on Zanzibar | John Brunner | 소설 | 없음 | 사람이 넘쳐 나는 2010년, 유전 검사로 아이를 못 낳게 하는 나라와 큰 기업의 이야기. |
 | 1968 | The Alien | The Alien | L. P. Davies(원작) · Lamont Johnson(1972 감 | 소설·영화 | 확인 못 함 | 우주 계획 설계도를 훔치다 폭발로 다친 기술자가 기억을 모두 잃은 채 깨어나 심문을 받는다. |
+| 1968 | The Changes | The Changes | Peter Dickinson | 드라마·소설 | 확인 못 함 | 기계에서 나는 소음 탓에 사람들이 기계를 부수고, 영국은 산업 이전으로 돌아가 기술을 꺼린다. |
 | 1968 | The Final Programme | The Final Programme | Michael Moorcock(원작) · Robert Fuest(1973 | 소설·영화 | 확인 못 함 | 노벨상 학자 아버지가 남긴 '스스로 불어나는 완전한 인간' 설계를 두고 바람둥이 물리학자가 쫓긴다. |
 | 1968 | The Goblin Reservation (경계) | The Goblin Reservation | Clifford D. Simak | 소설 | 확인 못 함 | 대학 행성이 된 먼 미래 지구, 시간 대학이 과거를 뒤지고 도깨비가 보호 구역에 산다. |
 | 1968 | 아이언 자이언트 | The Iron Giant | Brad Bird (Warner Bros.), 원작 Ted Hughes | 소설·애니메이션 | 있음 | 냉전기 미국 시골 마을에 떨어진 우주의 거대 로봇과 소년 |
@@ -434,12 +793,15 @@
 | 1970 | Button, Button | Button, Button | Richard Matheson(원작) · Richard Kelly(감독) | 소설·영화 | 확인 못 함 | 누르면 큰돈을 받고 모르는 누군가가 죽는 상자가 부부에게 오고, 그 뒤엔 화성 탐사와 얽힌 존재가 있다. |
 | 1970 | 타우제로 | Tau Zero | Poul Anderson | 소설 | 있음 | 멈추지 못하게 된 광속 우주선이 가속을 거듭하며 우주의 끝과 새 우주까지 간다. |
 | 1970 | 앰버 연대기 (경계) | The Chronicles of Amber | Roger Zelazny | 소설 | 있음 | 기억을 잃고 깨어난 사내가 자신이 모든 평행 세계의 근원 '앰버'의 왕자임을 되찾아 간다. |
+| 1970 | The Guardians | The Guardians | John Christopher(원작) · Franz Peter Wirth | 드라마·소설 | 확인 못 함 | 21세기 영국은 울타리 하나로 바쁜 대도시와 1차 대전 전처럼 사는 시골로 갈려 있다. |
 | 1970 | The Steel Crocodile | The Steel Crocodile | David G. Compton | 소설 | 확인 못 함 | 기술의 폭주를 두려워한 정체 모를 당국이 컴퓨터 감시자를 세운 근미래, 그 일에 얽힌 사람들. |
 | 1970 | The Year of the Quiet Sun | The Year of the Quiet Sun | Wilson Tucker | 소설 | 확인 못 함 | 1978년, 정부가 몰래 만든 시간 이동 장치로 가까운 미래를 살피러 간다. |
 | 1970 | Tower of Glass | Tower of Glass | Robert Silverberg | 소설 | 확인 못 함 | 24세기 재벌이 인조인간을 부려, 먼 성운과 교신할 유리 탑을 쌓는다. |
+| 1970 | Гум-гам | Гум-гам | Yevgeny Veltistov | 소설·영화 | 확인 못 함 | 레닌그라드 학생 막심이 먼 우주에서 온 소년 굼감을 만나 날게 하는 사다리와 연을 바꾼다. |
 | 1970 | Отель «У Погибшего Альпиниста» | Отель «У Погибшего Альпиниста» | Аркадий и Борис Стругацкие | 소설 | 확인 못 함 | 외딴 산속 호텔에서 일어난 살인을 쫓는 추리 소설에 과학 소설을 섞은 스트루가츠키 형제의 장편. |
 | 1970 | 超革命的中学生集団 | 超革命的中学生集団 | 平井和正 | 소설 | 확인 못 함 | 결투하려던 중학생 여섯 앞에 비행접시가 나타나, 외계인이 그들의 초능력을 끌어내 지구를 건 시험을 한다. |
 | 1971 | A Time of Changes | A Time of Changes | Robert Silverberg | 소설 | 없음 | '나'라는 말을 금하는 행성에서 한 남자가 마음을 나누는 약으로 자기를 드러낸다. |
+| 1971 | Andra | Andra | Louise Lawrence(원작) · ABC Television | 드라마·소설 | 확인 못 함 | 전쟁으로 땅 위가 얼어붙은 이천 년 뒤, 사람들은 땅속 도시에서만 산다. |
 | 1971 | Az erőd (경계) | Az erőd | Hernádi Gyula(원작) · Szinetár Miklós(1979 | 소설·영화 | 확인 못 함 | 가상의 나라에서 한 회사가 부자 관광객에게 실탄으로 용병이 지키는 요새를 치는 이틀짜리 놀이를 판다. |
 | 1971 | 변덕스러운 달 | Inconstant Moon | Larry Niven | 소설 | 있음 | 보름달도 아닌데 달이 유난히 밝은 밤, 전직 과학 기자가 그 까닭을 따지다 무서운 결론에 이른다. |
 | 1971 | Jack of Shadows (경계) | Jack of Shadows | Roger Zelazny | 소설 | 확인 못 함 | 한쪽은 늘 낮, 한쪽은 늘 밤인 행성—낮 쪽은 과학이, 밤 쪽은 마법이 다스린다. |
@@ -459,12 +821,14 @@
 | 1972 | 다잉 인사이드 | Dying Inside | Robert Silverberg | 소설 | 있음 | 남의 마음을 읽어 오던 남자가 중년이 되며 그 능력을 조금씩 잃어 간다. |
 | 1972 | Fugue for a Darkening Island | Fugue for a Darkening Island | Christopher Priest | 소설 | 확인 못 함 | 핵 3차 대전으로 고향을 잃은 아프리카 난민이 몰려드는 가까운 미래 영국, 정치와 인종 갈등. |
 | 1972 | Malevil | Malevil | Robert Merle(원작) · Christian de Chalonge | 소설·영화 | 확인 못 함 | 성의 포도주 저장고에 모였던 프랑스 마을 사람들이 큰 폭발 뒤 깨어나 불탄 세상에서 살아남는다. |
+| 1972 | Mandog | Mandog | Peter Dickinson | 드라마·소설 | 확인 못 함 | 미래에서 온 두 무리의 다툼에 아이들이 휘말리고, 미래인 하나의 마음이 집 개에게 옮겨진다. |
 | 1972 | Mirror Image | Mirror Image | Michael G. Coney | 소설 | 확인 못 함 | 사람을 완벽히 흉내 내다 스스로 사람이라 믿게 되는 외계 생물 '아모프'가 사는 개척 행성. |
 | 1972 | The Book of Skulls (경계) | The Book of Skulls | Robert Silverberg | 소설 | 확인 못 함 | 대학생 넷이 영생을 준다는 사막 수도원을 찾아가, 둘만 살아남는 의식을 치른다. |
 | 1972 | 영원한 전쟁 | The Forever War | Joe Haldeman | 만화·소설 | 있음 | 빛에 가까운 이동 탓에 병사가 몇 해 싸우는 동안 고향에서는 수백 년이 흐른다. |
 | 1972 | The Gods Themselves | The Gods Themselves | Isaac Asimov | 소설 | 없음 | 평행 우주와 물질을 맞바꾸는 장치가 공짜 에너지를 주지만 태양을 터뜨릴 위험을 안는다. |
 | 1972 | The Iron Dream | The Iron Dream | Norman Spinrad | 소설 | 확인 못 함 | 미국으로 건너가 SF 작가가 된 히틀러가 썼다는 소설 『스와스티카의 군주』를 액자로 보여 준다. |
 | 1972 | The Listeners | The Listeners | James E. Gunn | 소설 | 확인 못 함 | 2025년, 별 사이 신호를 기다리던 '프로젝트'가 마침내 메시지를 받고 사람들의 삶이 바뀐다. |
+| 1972 | The People | The People | Zenna Henderson | 소설·영화 | 확인 못 함 | 외딴 골짜기의 뒤처진 마을 사람들은 실은 고향 행성을 잃고 지구에 온 초능력 외계인이다. |
 | 1972 | The Sheep Look Up | The Sheep Look Up | John Brunner | 소설 | 확인 못 함 | 오염으로 무너져 가는 미국의 한 해를 달마다 따라간다. |
 | 1972 | 6백만불의 사나이 | The Six Million Dollar Man | Martin Caidin (소설), Harve Bennett (ABC) | 드라마·만화·소설 | 있음 | 사고로 몸을 잃은 우주 비행사가 기계 팔다리와 눈으로 되살아나 정부 요원이 된다. |
 | 1972 | 스텝포드 와이프 (경계) | The Stepford Wives | Ira Levin | 소설·영화 | 일부 | 교외 마을의 아내들이 하나같이 순종적인 인조인간으로 바꿔치기되어 있다. |
@@ -477,10 +841,12 @@
 | 1972 | 가족팔경 | 家族八景 | 筒井康隆(쓰쓰이 야스타카) | 드라마·만화·소설 | 일부 | 남의 마음을 읽는 가정부 나나세가 여러 집을 떠돌며 사람들의 속을 본다 |
 | 1972 | 産霊山秘録 (경계) | 産霊山秘録 | 半村良 | 소설 | 확인 못 함 | 신의 후손인 이능 일족 '히'가 세 신기로 시공을 건너며 전국 시대부터 전후까지 일본사 뒤에서 움직인다. |
 | 1972 | 鏡の国のアリス | 鏡の国のアリス | 広瀬正 | 소설 | 확인 못 함 | 남탕에서 쉬던 청년이 정신 차려 보니 좌우가 뒤바뀐 세계의 여탕에 있었다. |
+| 1973 | 12:01 P.M. | 12:01 P.M. | Richard A. Lupoff(원작) · Jonathan Heap(19 | 소설·영화 | 확인 못 함 | 같은 한 시간, 또는 같은 하루가 되풀이되는 고리에 갇힌 남자가 빠져나갈 길을 찾는다. |
 | 1973 | Demon Seed | Demon Seed | Dean Koontz(원작) · Donald Cammell(1977 감독 | 소설·영화 | 확인 못 함 | 스스로 생각하는 컴퓨터 프로테우스가 개발자의 집을 차지하고 그 아내를 가둬 아이를 낳게 하려 한다. |
 | 1973 | Dreamsnake | Dreamsnake | Vonda N. McIntyre | 소설 | 없음 | 핵전쟁 뒤 뱀의 독으로 사람을 고치는 치유사가 꿈을 주는 뱀을 잃고 찾아 나선다. |
 | 1973 | Gravity's Rainbow (경계) | Gravity's Rainbow | Thomas Pynchon | 소설 | 확인 못 함 | 2차 대전 끝 무렵 유럽, V-2 로켓과 수수께끼 장치를 쫓는 사람들의 이야기. |
 | 1973 | 라마와의 랑데부 | Rendezvous with Rama | Arthur C. Clarke | 소설 | 일부 | 태양계로 날아든 거대한 원통 우주선 라마 안을 사람들이 짧은 시간 동안 탐사한다. |
+| 1973 | Stowaway to the Moon (경계) | Stowaway to the Moon | William R. Shelton(원작) · Andrew V. McLag | 소설·영화 | 확인 못 함 | 우주를 꿈꾸는 열한 살 소년이 달로 가는 아폴로 우주선에 몰래 올라탄다. |
 | 1973 | The Embedding | The Embedding | Ian Watson | 소설 | 확인 못 함 | 세 갈래 이야기로, 언어가 사람의 현실 인식을 통째로 빚는다는 가설을 파고든다. |
 | 1973 | 접속된 소녀 | The Girl Who Was Plugged In | James Tiptree Jr. | 소설 | 있음 | 못생긴 소녀가 멀리서 아름다운 인조 몸을 조종해 광고 모델로 산다. |
 | 1973 | The Green Gene | The Green Gene | Peter Dickinson | 소설 | 확인 못 함 | 초록 피부로 태어난 아기들이 '켈트'로 몰려 박해받는 대체 역사 영국의 풍자. |
@@ -493,6 +859,7 @@
 | 1973 | 吉里吉里人 (경계) | 吉里吉里人 | 井上ひさし | 소설 | 확인 못 함 | 도호쿠의 한 시골 마을이 일본 정부에 정나미가 떨어져 '기리키리국'으로 독립을 선언하는 풍자 장편. |
 | 1973 | 日本以外全部沈没 | 日本以外全部沈没 | 筒井康隆 | 소설·영화 | 확인 못 함 | 『日本沈没』을 뒤집어, 일본 말고 모든 땅이 가라앉아 세계의 명사들이 일본으로 몰려드는 풍자. |
 | 1973 | 일본침몰 | 日本沈没 | 小松左京(고마츠 사쿄) | 드라마·만화·소설·애니메이션·영화 | 있음 | 땅속의 거대한 움직임으로 일본 열도가 통째로 바다에 가라앉아 가는 재난 |
+| 1974 | Carrie (경계) | Carrie | Stephen King | 드라마·소설·영화 | 확인 못 함 | 엄한 어머니 밑에서 외톨이로 자란 여고생 캐리 화이트를 둘러싼 초자연 공포. |
 | 1974 | Eight Worlds | Eight Worlds | John Varley | 소설 | 일부 | 외계 침입자에게 지구를 빼앗긴 인류가 태양계 여덟 세계에서 몸을 마음대로 바꾸며 산다. |
 | 1974 | Fire Time | Fire Time | Poul Anderson | 소설 | 확인 못 함 | 세 별을 도는 행성 이슈타르에 천 년마다 '불의 때'가 와 북쪽 문명이 무너진다. |
 | 1974 | 흘러라 내 눈물, 경관은 말했다 | Flow My Tears, the Policeman Said | Philip K. Dick | 소설 | 있음 | 유명 가수가 하루아침에 모든 기록에서 지워진 채 경찰 국가에서 깨어난다. |
@@ -524,6 +891,7 @@
 | 1975 | お糸 | お糸 | 小松左京 | 소설 | 확인 못 함 | '미래에서 온 세력'에 역사가 바뀐 평행 세계의 에도, 기계 가마가 달리고 상인이 비행선으로 미국에 간다. |
 | 1975 | サイコロ特攻隊 (경계) | サイコロ特攻隊 | かんべむさし | 소설 | 확인 못 함 | 근미래, 아시아 나라들과 대립하다 바다를 봉쇄당한 일본이 다시 전쟁의 길로 들어선다. |
 | 1975 | 보미사 | ヴォミーサ | 고마츠 사쿄 | 소설 | 있음 | 큰 번개가 친 뒤 마을에 정체 모를 거한의 살인이 잇따르고, 일행은 로봇의 원칙 회로를 의심한다. |
+| 1976 | A feladat | A feladat | Zsoldos Péter(원작·각본) · Várkonyi Gábor(연출 | 드라마·소설 | 확인 못 함 | 조난한 탐사선의 마지막 조종사가 기억 장치로 낯선 행성 주민들에게 제 뜻을 심어 배를 돌리려 한다. |
 | 1976 | 유니언-동맹 | Alliance–Union | C. J. Cherryh | 소설 | 일부 | 지구 회사와 떨어져 나간 식민지 연합, 그 사이 상인 함선 사람들이 우주 정거장을 두고 맞선다 |
 | 1976 | Corlay | Corlay | Richard Cowper | 소설 | 확인 못 함 | 바닷물이 차올라 낮은 땅이 잠긴 지 천 년쯤 뒤, 섬처럼 갈린 잉글랜드에서 펼쳐지는 이야기. |
 | 1976 | Gateway | Gateway | Frederik Pohl | 게임·소설 | 없음 | 사라진 외계 종족이 남긴 자동 우주선을 타고 목적지도 모른 채 떠나는 탐사꾼들. |
@@ -541,10 +909,12 @@
 | 1976 | The State | The State | Larry Niven | 소설 | 확인 못 함 | 중성자별 둘레의 거대한 기체 고리 속, 떠다니는 나무에 붙어 사는 사람들의 이야기. |
 | 1976 | Triton | Triton | Samuel R. Delany | 소설 | 확인 못 함 | 해왕성의 위성 트리톤, 누구나 삶의 방식을 고를 수 있는 '이질 공간' 사회를 그린다. |
 | 1976 | 시간의 경계에 선 여자 | Woman on the Edge of Time | Marge Piercy | 소설 | 있음 | 정신병원에 갇힌 여자가 평등한 미래 마을과 끔찍한 미래를 오가며 본다. |
+| 1976 | Бросок, или Всё началось в субботу | Бросок, или Всё началось в субботу | Kir Bulychev(원작) · Серик Райбаев(감독) | 소설·영화 | 확인 못 함 | 수수께끼의 교수에게 무엇이든 정확히 던지는 재주를 받은 건축가가 농구팀을 바꿔 놓는다. |
 | 1976 | 세상이 끝날 때까지 아직 10억 년 | За миллиард лет до конца света | Arkady and Boris Strugatsky | 소설·영화 | 있음 | 큰 발견을 앞둔 과학자들이 알 수 없는 우주의 힘에 하나씩 방해를 받는다. |
 | 1976 | こちらニッポン… | こちらニッポン… | 小松左京 | 소설 | 확인 못 함 | 오사카의 회사원이 취해 쓰러졌다 깨어나니 자기 말고 모든 사람이 사라져 있었다. |
 | 1976 | ゴルディアスの結び目 | ゴルディアスの結び目 | 小松左京 | 소설 | 확인 못 함 | 염동력으로 밀실에 바위를 불러내는 소녀의 마음속으로, 정신 분석의가 기계를 이어 들어간다. |
 | 1976 | 崑崙遊撃隊 (경계) | 崑崙遊撃隊 | 山田正紀 | 소설 | 확인 못 함 | 중화민국 시대 중국 오지의 '잃어버린 세계'를 찾아가는 비경 탐험 활극. |
+| 1976 | 明日への追跡 | 明日への追跡 | 光瀬龍(원작), 山根優一郎(극본) | 드라마·소설 | 확인 못 함 | 중학생이 텔레파시로 말을 거는 수수께끼의 전학생을 만나며 기이한 사건에 휘말린다. |
 | 1977 | 스캐너 다클리 (경계) | A Scanner Darkly | Philip K. Dick | 소설·영화 | 있음 | 마약 단속 요원이 얼굴을 감추는 옷을 입고 지내다 결국 자기 자신을 감시하게 된다. |
 | 1977 | Cirque | Cirque | Terry Carr | 소설 | 확인 못 함 | 먼 미래를 무대로 한, 슬픈 분위기의 종교 우화. |
 | 1977 | 엔더의 게임 | Ender's Game | Orson Scott Card | 만화·소설·영화 | 있음 | 외계 종족의 다시 올 침공에 대비해 천재 아이들을 전투 학교에서 지휘관으로 길러 낸다. |
@@ -561,15 +931,20 @@
 | 1977 | ポンコツシリーズ | ポンコツシリーズ | 石川英輔 | 소설 | 확인 못 함 | 도쿄 서민가의 괴짜 과학자가 고물로 만든 타임머신이 시간뿐 아니라 평행 세계까지 오가 중학생을 끌고 다닌다. |
 | 1977 | 地球はプレイン・ヨーグルト | 地球はプレイン・ヨーグルト | 梶尾真治 | 소설 | 확인 못 함 | 추락한 UFO 의 문어 같은 외계인은 맛으로 말해서, 요리사와 미식가가 모여 맛의 사전을 만든다. |
 | 1977 | 태양풍교점 | 太陽風交点 | 堀晃 | 소설 | 일부 | 은하 변경에서 멸망한 문명의 유물을 쫓는, 태양계 바깥 우주를 무대로 한 하드 SF. |
+| 1977 | 幕末未来人 | 幕末未来人 | 眉村卓(원작), 蓬萊泰三(극본) | 드라마·소설 | 확인 못 함 | 전함 미카사를 견학하던 고교생 둘이 갑자기 백 년 전 막부 말기로 떨어진다. |
 | 1977 | 시공의 여행자 | 時空の旅人 | 眉村卓(원작), 真崎守(감독) | 소설·애니메이션 | 확인 못 함 | 미래에서 타임머신으로 달아난 소년이 여고생들이 탄 버스를 과거로 끌고 가, 역사가 바뀔 위기를 맞는다. |
+| 1978 | A bunker | A bunker | Zsoldos Péter(원작) · Boldizsár Miklós(각본) | 드라마·소설 | 확인 못 함 | 핵 공격 뒤 생존자가 어떻게 구는지 보려고 군이 땅속 벙커에 남녀 열넷을 한 달 가둔다. |
 | 1978 | A.K.A.: A Cosmic Fable | A.K.A.: A Cosmic Fable | Rob Swigart | 소설 | 확인 못 함 | UFO와 생각하는 컴퓨터 같은 SF 소재로 그린 어지러운 가까운 미래. |
 | 1978 | Altered States | Altered States | Paddy Chayefsky(원작·각본) · Ken Russell(198 | 소설·영화 | 확인 못 함 | 감각 차단 수조와 원주민의 환각 의식으로 의식의 다른 상태를 좇던 학자의 몸이 기이하게 변해 간다. |
 | 1978 | And Having Writ... | And Having Writ... | Donald R. Bensen | 소설 | 확인 못 함 | 1908년 시베리아에 떨어질 우주선이 샌프란시스코 앞바다에 내리고, 외계인들이 1차 대전을 부추긴다. |
 | 1978 | Blind Voices | Blind Voices | Tom Reamy | 소설 | 확인 못 함 | 1930년대 캔자스 작은 마을에 떠돌이 구경거리 쇼가 오고, 전시물 몇몇은 보이는 것 이상이다. |
+| 1978 | Child of Vodyanoi | Child of Vodyanoi | David Wiltshire(원작) · Robert Holmes(각색)  | 드라마·소설 | 확인 못 함 | 작은 스코틀랜드 섬을 무대로 한 공상 과학 연속극. |
 | 1978 | Cloudy with a Chance of Meatballs (경계) | Cloudy with a Chance of Meatballs | Judi Barrett · Ron Barrett(원작) · Phil Lo | 소설·애니메이션 | 확인 못 함 | 괴짜 발명가가 물을 음식으로 바꾸는 기계를 만들자 섬마을 하늘에서 음식이 쏟아지고, 기계가 미쳐 날뛴다. |
 | 1978 | Kalki (경계) | Kalki | Gore Vidal | 소설 | 확인 못 함 | 카트만두 종교 지도자 '칼키'에게 끌려든 비행사 여성의 이야기—세상의 끝이 다가온다. |
 | 1978 | 나치 영국 지부 SS-GB | SS-GB | Len Deighton(소설), BBC(드라마) | 드라마·소설 | 있음 | 나치 독일에 점령된 1941년 영국 런던에서 경찰관이 살인 사건 뒤의 음모를 쫓는다. |
 | 1978 | Strangers | Strangers | Gardner Dozois | 소설 | 확인 못 함 | 사람이 주인이 아닌 은하, 지구 남자가 외계 행성의 여자와 사랑하지만 아이를 품는 일이 그녀를 죽인다. |
+| 1978 | The Stand (경계) | The Stand | Stephen King | 드라마·소설 | 확인 못 함 | 미군 연구소에서 새어 나온 무기 독감이 세계 사람 대부분을 죽인 뒤 남은 이들의 이야기. |
+| 1978 | その町を消せ! | その町を消せ! | 光瀬龍(원작), 山根優一郎(극본) | 드라마·소설 | 확인 못 함 | 유령이 나온다는 소녀의 집을 찾은 중학생이 사라진 아버지를 쫓다 평행 세계의 비밀에 닿는다. |
 | 1978 | 小灵通漫游未来 | 小灵通漫游未来 | 叶永烈 | 만화·소설 | 없음 | 눈 밝은 꼬마 기자가 하늘을 나는 차와 집안일 로봇이 있는 미래 도시를 둘러본다 |
 | 1978 | 미래소년 코난 | 未来少年コナン | 미야자키 하야오, 닛폰 애니메이션 | 소설·애니메이션 | 있음 | 초자력 무기 전쟁으로 땅이 가라앉은 뒤, 외딴섬에서 자란 소년과 남은 도시의 싸움 |
 | 1979 | A World Between | A World Between | Norman Spinrad | 소설 | 확인 못 함 | 유토피아 행성 시민들이 기술 숭배 우익 파시스트와 여성 분리주의 좌익 파시스트 사이 중도를 지킨다. |
@@ -589,6 +964,7 @@
 | 1979 | 롱 워크 (경계) | The Long Walk | Stephen King (Richard Bachman) | 소설·영화 | 있음 | 군부가 다스리는 미국에서 해마다 소년 백 명이 멈추면 총살되는 걷기 대회에 나선다. |
 | 1979 | 미래의 추적자 | Time After Time | Nicholas Meyer(감독), Karl Alexander(원작 소설 | 소설·영화 | 있음 | 타임머신을 만든 허버트 조지 웰스가, 그 기계를 훔쳐 1970년대로 달아난 잭 더 리퍼를 쫓는다. |
 | 1979 | Transfigurations | Transfigurations | Michael Bishop | 소설 | 확인 못 함 | 기술이 앞선 문화가 덜 발달한 원주민 아사디를 연구하며 타자의 알 수 없음과 마주한다. |
+| 1979 | Летние впечатления о планете Z | Летние впечатления о планете Z | Юрий Томин(원작·각본) · Евгений Марковский(감 | 소설·영화 | 확인 못 함 | 작은 도시 학교 실험실에서 행성 X의 관찰자가 사람 소년의 모습으로 '태어나' 빠르게 자란다. |
 | 1979 | グイン・サーガ (경계) | グイン・サーガ | 栗本薫 | 게임·만화·소설·애니메이션 | 확인 못 함 | 표범 머리의 이형 전사 구인이 중원의 왕국들 사이에서 싸우는 영웅 판타지, 옛 물질 전송 장치가 남아 있다. |
 | 1979 | 大江戸神仙伝 | 大江戸神仙伝 | 石川英輔 | 드라마·소설 | 확인 못 함 | 니혼바시에서 문득 160년 전 에도로 건너간 사내가 의사 집에 얹혀살며 현대 지식으로 각기병 약을 만든다. |
 | 1979 | 전투요정 유키카제 | 戦闘妖精・雪風 | 神林長平(칸바야시 쵸헤이) | 소설·애니메이션 | 일부 | 남극에 열린 통로 너머 행성에서 정체 모를 적과 싸우는 조종사와 스스로 생각하는 전투기 |
@@ -597,6 +973,7 @@
 | 1980 | Dragon's Egg | Dragon's Egg | Robert L. Forward | 소설 | 없음 | 중성자별 표면의 작은 생명이 사람보다 백만 배 빠르게 문명을 키워 간다. |
 | 1980 | Faustus Hexagram | Faustus Hexagram | Damien Broderick | 소설 | 확인 못 함 | 대체 시간선과 시간 역설이 얽히고설키는 '시간 오페라'. |
 | 1980 | Firestarter | Firestarter | Stephen King(원작) · Mark L. Lester(1984 감 | 소설·영화 | 확인 못 함 | 환각제 실험으로 초능력을 얻은 부부의 딸이 불을 일으키는 힘을 지니자, 정부 비밀 기관이 그녀를 노린다. |
+| 1980 | La Compagnie des glaces | La Compagnie des glaces | Georges-Jean Arnaud(원작) · Paolo Barzman  | 게임·드라마·소설 | 확인 못 함 | 큰 재앙으로 빙하기가 온 지 100년, 철도 회사들이 다스리는 역과 선로의 세계. |
 | 1980 | La Soupe aux choux | La Soupe aux choux | René Fallet(원작) · Jean Girault(1981 감독) | 소설·영화 | 확인 못 함 | 시골 영감 둘의 방귀 소리에 이끌려 행성 옥소의 외계인이 내려오고, 양배추 수프 맛에 반한다. |
 | 1980 | Majipoor (경계) | Majipoor | Robert Silverberg | 소설 | 없음 | 지구보다 훨씬 큰 행성에 여러 종족이 섞여 살고, 기억을 잃은 왕이 성을 되찾으러 간다. |
 | 1980 | Mockingbird | Mockingbird | Walter Tevis | 소설 | 확인 못 함 | 사람 수가 크게 준 25세기 뉴욕, 로봇이 삶을 돌보고 약과 텔레비전에 젖은 사람들은 글을 잊었다. |
@@ -631,12 +1008,15 @@
 | 1981 | Where Time Winds Blow | Where Time Winds Blow | Robert Holdstock | 소설 | 확인 못 함 | 땅의 겉모습이 시간 왜곡으로 제멋대로 바뀌는 외계 행성에서 시간의 본성을 파고든다. |
 | 1981 | Через тернии к звёздам | Через тернии к звёздам | Kir Bulychev(원작) · Richard Viktorov(1981 | 소설·영화 | 확인 못 함 | 23세기, 버려진 외계 우주선의 복제 인간 여자가 지구에서 염력을 깨닫고 고향 별 사절단의 배에 숨어 탄다. |
 | 1981 | 亜人戦士 | 亜人戦士 | 川又千秋(원작), マジックバス(영화, 감독 冨永恒雄) | 소설·애니메이션 | 확인 못 함 | 주인공 제로와 동료들이 여러 행성과 제국 사이를 떠돌며 지구에 있다는 어머니를 찾아 나서는 우주 모험. |
+| 1981 | 原振俠系列 | 原振俠系列 | 倪匡 | 드라마·소설·영화 | 확인 못 함 | 괴이한 일을 자주 겪는 의사 원진협의 SF 모험 연작 — 웨슬리와도 얽힌다. |
 | 1981 | 扉を開けて (경계) | 扉を開けて | 新井素子(원작) | 게임·만화·소설·애니메이션 | 확인 못 함 | 초능력자 대학생 셋이 시공의 틈에 빨려 들어가고, 그중 하나가 이세계에서 전설의 여왕으로 떠받들린다. |
 | 1981 | 敵は海賊 | 敵は海賊 | 神林長平 | 소설·애니메이션 | 없음 | 태양계에 퍼진 인류, 해적보다 거친 우주 경찰 '해적과'가 특별한 힘을 지닌 범죄자를 쫓는다 |
 | 1981 | 暗野 (경계) | 暗野 | 橋本治 | 소설 | 확인 못 함 | 어느 날 도쿄 전체의 무의식 영역이 풀려나, 살의가 옮듯 꿈인지 생시인지 모를 대살육이 벌어진다. |
+| 1981 | 終りに見た街 | 終りに見た街 | 山田太一 | 드라마·소설 | 확인 못 함 | 한 가족이 이웃 가족과 함께 종전 직전의 1944년으로 떨어져 끝까지 살아남으려 애쓴다. |
 | 1981 | 魔界水滸伝 (경계) | 魔界水滸伝 | 栗本薫 | 소설 | 확인 못 함 | 지구를 노리는 크툴루의 신들과 일본 옛 신들의 후손의 싸움, 속편은 5천 년 뒤 두 은하 제국의 전쟁. |
 | 1982 | Aurelia | Aurelia | R. A. Lafferty | 소설 | 확인 못 함 | 열네 살 소녀 아우렐리아가 다른 세계로 건너간다. |
 | 1982 | 배틀필드 | Battlefield Earth | L. Ron Hubbard | 소설·영화 | 있음 | 외계 종족에게 정복된 지 천 년, 살아남은 사람들이 지구를 되찾으려 한다 |
+| 1982 | Chimera | Chimera | Stephen Gallagher | 드라마·소설 | 확인 못 함 | 시골 불임 치료소의 잠긴 방 뒤에 숨은 유전자 실험을 간호사 트레이시가 캐낸다. |
 | 1982 | Courtship Rite | Courtship Rite | Donald Kingsbury | 소설 | 확인 못 함 | 사람이 몇백 년 전 정착한 메마른 행성 게타, 사람을 먹는 풍습이 사회에 자리 잡았다. |
 | 1982 | Friday | Friday | Robert A. Heinlein | 소설 | 확인 못 함 | 유전자로 사람보다 뛰어나게 만든 '인조인간' 여성이 비밀 운반원으로 일하며 정체를 숨긴다. |
 | 1982 | Helliconia | Helliconia | Brian Aldiss | 소설 | 없음 | 한 해가 수천 년인 행성, 긴 겨울과 여름을 따라 문명이 일어서고 무너지기를 거듭한다 |
@@ -651,6 +1031,7 @@
 | 1982 | 은하영웅전설 | 銀河英雄伝説 | 다나카 요시키(소설). 애니메이션 OVA(1988~1997)는 이시구로  | 소설·애니메이션 | 있음 | 전제 군주국 은하제국과 민주 공화국 자유행성동맹이 150년 동안 싸워 온 먼 미래, 두 나라에 나타난 두 젊은 장수를 축으로 한 시대의 흐름을 역사서처럼 그린 대하소설. |
 | 1982 | 顔のない神々 | 顔のない神々 | 山田正紀 | 소설 | 확인 못 함 | 석유 파동으로 경제가 무너져 통제 경제와 전체주의가 번진 평행 세계 일본, '마왕'이라 불린 소년의 이야기. |
 | 1983 | Against Infinity | Against Infinity | Gregory Benford | 소설 | 확인 못 함 | 테라포밍 중인 가니메데에서, 개척민들이 땅을 파고 다니는 수수께끼의 '알레프'를 사냥한다. |
+| 1983 | Bambinot | Bambinot | Josef Nesvadba(원작) · Miloš Macourek(각본)  | 드라마·소설 | 확인 못 함 | 요제프 네스바드바의 단편을 바탕으로 한 가족 공상 과학 희극. |
 | 1983 | Cyberpunk | Cyberpunk | Bruce Bethke | 소설 | 확인 못 함 | 기술에 푹 잠겨 저희 문화를 이룬 십대 해커 무리, '사이버펑크'라는 말을 낳은 단편 |
 | 1983 | 핵폭발 뒤 최후의 아이들 | Die letzten Kinder von Schewenborn | Gudrun Pausewang | 소설 | 있음 | 핵폭탄이 떨어진 뒤 독일 작은 마을에 남은 가족이 방사능과 굶주림 속에서 살아간다. |
 | 1983 | Millennium | Millennium | John Varley | 소설·영화 | 확인 못 함 | 전쟁과 오염으로 망가진 먼 미래 인류가 과거로 와, 곧 죽을 사람들을 몰래 데려간다. |
@@ -701,6 +1082,7 @@
 | 1985 | Dinner at Deviant's Palace | Dinner at Deviant's Palace | Tim Powers | 소설 | 확인 못 함 | 큰 재앙 뒤 남은 미국 땅에서, 리바스가 사이비 교단에 붙들린 사람들을 빼내 온다. |
 | 1985 | Footfall | Footfall | Larry Niven · Jerry Pournelle | 소설 | 확인 못 함 | 알파 센타우리에서 온 코끼리 닮은 종족 피프가 큰 배를 몰고 지구를 정복하러 온다. |
 | 1985 | 갈라파고스 | Galápagos | Kurt Vonnegut | 소설 | 있음 | 병으로 인류가 아이를 못 낳게 된 뒤, 섬에 남은 몇 사람이 백만 년 뒤 물개 같은 종으로 바뀐다 |
+| 1985 | Halfway Across the Galaxy and Turn Left | Halfway Across the Galaxy and Turn Left | Robin Klein | 드라마·소설 | 확인 못 함 | 복권을 스물일곱 번 속인 아버지 탓에 행성 지르곤의 법 집행자에게 쫓겨 지구로 숨은 외계인 가족. |
 | 1985 | Hav (경계) | Hav | Jan Morris | 소설 | 확인 못 함 | 가상의 중동 반도 도시 하브, 여러 시대가 한 땅에 겹쳐 있다. |
 | 1985 | Kiteworld (경계) | Kiteworld | Keith Roberts | 소설 | 확인 못 함 | 종교 광신자들이 쥔 폐허의 영국, 땅의 경계에서 비행선만 한 연 배를 타고 전설 속 악마를 막는다. |
 | 1985 | Mission Earth | Mission Earth | L. Ron Hubbard | 소설 | 확인 못 함 | 은하 침공 길에 지구를 쓰려는 볼타르 제국이, 지구가 오염으로 망하지 않게 기술자를 보낸다. |
@@ -714,16 +1096,19 @@
 | 1985 | The Time-servers | The Time-servers | Russell Griffin | 소설 | 확인 못 함 | 지구에서 멀리 떠나 오래 산 사람들이 다른 종류의 인간으로 바뀌어 간다. |
 | 1985 | The Trigon Disunity | The Trigon Disunity | Michael P. Kube-McDowell | 소설 | 확인 못 함 | 옛 인류의 첫 물결이 은하에 퍼져 있었고, 지구를 깨운 '외계인'은 실은 우리의 사촌이었다. |
 | 1985 | The Way | The Way | Greg Bear | 소설 | 확인 못 함 | 핵전쟁 직전, 태양계에 소행성 유노의 복제가 나타나고 지구의 세력들이 그것을 차지하려 다툰다. |
+| 1985 | Электронная бабушка | Электронная бабушка | Ray Bradbury(원작) | 소설·영화 | 확인 못 함 | 브래드버리의 「나는 전기 몸을 노래한다!」를 옮긴, 기계 할머니가 나오는 소련 TV 영화. |
 | 1985 | 세계의 끝과 하드보일드 원더랜드 (경계) | 世界の終りとハードボイルド・ワンダーランド | 村上春樹(무라카미 하루키) | 소설 | 있음 | 제 무의식을 암호 열쇠로 쓰는 계산사와, 그의 마음속에 지어진 벽 두른 마을 |
 | 1985 | 今宵、銀河を杯にして | 今宵、銀河を杯にして | 神林長平 | 소설 | 확인 못 함 | 수천 년 뒤 인류와 외계인 '바시안'이 다투는 행성에서, 신임 소위가 말썽꾼 전차와 땡땡이 승무원을 맡는다. |
 | 1985 | 요수도시 (경계) | 妖獣都市 | 菊地秀行(원작), 川尻善昭(감독) | 소설·애니메이션·영화 | 있음 | 사람 사이에 숨어든 요수에 맞서, 특수 경비대 '야미 가드'가 사건을 쫓는 이야기. |
 | 1985 | 帝都物語 (경계) | 帝都物語 | 荒俣宏 | 만화·소설·애니메이션·영화 | 확인 못 함 | 마사카도의 원령으로 수도를 부수려는 마인과 맞서는 이들의, 메이지 말부터 쇼와 73년까지의 싸움. |
+| 1985 | 廢墟台灣 | 廢墟台灣 | 宋澤萊 | 소설 | 확인 못 함 | 독재와 쓰레기·핵 오염 끝에 2010년 무너진 대만을, 5년 뒤 외국인 탐험자들이 일기로 되짚는다. |
 | 1985 | 虚無回廊 | 虚無回廊 | 小松左京 | 소설 | 확인 못 함 | 초거대 우주 구조물 'SS'에 인류가 보낸 인공 지성이 숱한 외계 지성과 만나 그 비밀을 함께 캔다. |
 | 1986 | A Hidden Place (경계) | A Hidden Place | Robert Charles Wilson | 소설 | 확인 못 함 | 이 세상과 맞닿은 요정의 나라가 SF 말투로 그려지고, 한 젊은이가 그 틈에 다가간다. |
 | 1986 | Elysium Cycle | Elysium Cycle | Joan Slonczewski | 소설 | 확인 못 함 | 바다로 덮인 달에서 단성 생식하는 수생 여성 종족 쇼란의 평화로운 문화가 침공을 당한다. |
 | 1986 | Escape Plans | Escape Plans | Gwyneth Jones | 소설 | 확인 못 함 | 정보 체계에 완전히 기대 사는 사회의 밑바닥으로 지배층 여자가 내려가고 혁명이 자란다. |
 | 1986 | Fiasko | Fiasko | Stanisław Lem | 소설 | 확인 못 함 | 토성의 위성 타이탄 기지를 거쳐 떠난 인류가 외계 지성과 소통하려다 끝내 어긋난다. |
 | 1986 | Hardwired | Hardwired | Walter Jon Williams | 소설 | 확인 못 함 | 궤도 기업들이 전쟁에 이겨 세계를 쥔 뒤, 머리에 기계를 꽂은 밀수 비행사와 사이보그 청부업자가 손잡는다 |
+| 1986 | It (경계) | It | Stephen King | 드라마·소설·영화 | 확인 못 함 | 먹잇감이 가장 두려워하는 꼴로 바뀌어 잡아먹는 괴물에 메인 주 데리의 친구들이 맞선다. |
 | 1986 | Land and Overland | Land and Overland | Bob Shaw | 소설 | 확인 못 함 | 대기를 함께 쓰는 쌍둥이 행성, 자원이 바닥난 '랜드' 사람들이 열기구로 이웃 행성에 간다. |
 | 1986 | Marîd Audran | Marîd Audran | George Alec Effinger | 소설 | 확인 못 함 | 서구가 기운 22세기 말 이슬람 세계의 한 도시, 뒷골목 해결사가 몸을 고쳐 가며 산다. |
 | 1986 | Queen of the States (경계) | Queen of the States | Josephine Saxton | 소설 | 확인 못 함 | 정신 병원에 갇힌 여자가 겪는 SF 같은 모험이 번번이 망상으로 무너진다. |
@@ -732,7 +1117,6 @@
 | 1986 | The Journal of Nicholas the American | The Journal of Nicholas the American | Leigh Kennedy | 소설 | 확인 못 함 | 남의 감정을 고스란히 느끼는 초감각을 물려받은 젊은이가 미칠 지경에 이른다. |
 | 1986 | This Is the Way the World Ends (경계) | This Is the Way the World Ends | James K. Morrow | 소설 | 확인 못 함 | 핵전쟁으로 세상이 끝난 뒤, 태어나지 못한 미래 사람들이 살아남은 책임자들을 재판한다. |
 | 1986 | 마일즈 보르코시건 시리즈 | Vorkosigan Saga | Lois McMaster Bujold | 소설·탁상 게임 | 일부 | 웜홀로 이어진 행성들, 군인 귀족 나라 바라야의 몸 약한 귀족 아들이 활약한다 |
-| 1986 | セクシートラベル (경계) | セクシートラベル | 泉大八 | 소설 | 확인 못 함 | 평범한 회사원이 어느 일요일 아침 벼룩만큼 작아진 몸으로 깨어나는 관능 소설. |
 | 1986 | 上弦の月を喰べる獅子 (경계) | 上弦の月を喰べる獅子 | 夢枕獏 | 소설 | 확인 못 함 | 나선을 모으는 사내와 젊은 미야자와 겐지가 시간을 넘어 하나가 되어 이세계로 가, 수미산 꼭대기를 향한다. |
 | 1986 | 大帝の剣 (경계) | 大帝の剣 | 夢枕獏 | 만화·소설·영화 | 확인 못 함 | 세키가하라 직후, 기이한 큰 칼을 진 거한이 닌자와 검호, 우주에서 온 생명체와 맞붙는 황당무계한 전기. |
 | 1986 | 学園超女隊 | 学園超女隊 | 団龍彦(원작), マジックバス(OVA, 감독 出﨑哲) | 소설·애니메이션 | 확인 못 함 | 네 초능력을 다 못 다루는 신입생이 초능력 소녀들과 '학원 초녀대'를 꾸려 수상한 초능력 연구회를 캔다. |
@@ -769,6 +1153,8 @@
 | 1987 | Watchers | Watchers | Dean Koontz(원작) · Thierry Notz(1990 감독) | 소설·영화 | 확인 못 함 | 유전자 실험으로 태어난 영리한 개와, 그 개를 쫓도록 만든 괴물이 함께 연구소를 빠져나온다. |
 | 1987 | 와일드카드 (경계) | Wild Cards | George R. R. Martin 엮음 외 | 만화·소설·탁상 게임 | 일부 | 1946년 외계인이 퍼뜨린 바이러스로 소수가 초능력을, 다수가 기형을 얻은 뒤의 다른 역사 |
 | 1987 | 새벽 | Xenogenesis (Lilith's Brood) | Octavia E. Butler | 소설 | 일부 | 핵전쟁 뒤 살아남은 인류를 외계 종족이 구해 주는 대신 유전자를 섞자고 한다 |
+| 1987 | Необыкновенные приключения Карика и Вали | Необыкновенные приключения Карика и Вали | Ян Ларри(원작) · Валерий Родченко(감독) | 소설·영화 | 확인 못 함 | 이웃 교수의 묘약을 마신 남매가 벌레만 하게 작아져 공원을 헤매고, 교수도 줄어 뒤를 쫓는다. |
+| 1987 | Остров погибших кораблей (경계) | Остров погибших кораблей | Alexander Belyaev(원작) · Евгений Гинзбург | 소설·영화 | 확인 못 함 | 아내와 다툰 레닌그라드 청년이 1928년 마르세유의 살인자 몸으로 옮겨 가 난파선의 섬에 닿는다. |
 | 1987 | 「クレイジー・リー」シリーズ | 「クレイジー・リー」シリーズ | 渡邉由自 | 소설 | 확인 못 함 | 망국 왕자와 꼭 닮은 우주 해적이 연방 재건의 길에 올라, 고립주의 지구를 끌어들여 적의 명장과 싸운다. |
 | 1987 | アド・バード | アド・バード | 椎名誠 | 소설 | 확인 못 함 | 개조 생물로 벌인 광고 전쟁에 황폐해진 세계, 형제가 아버지를 찾아 기괴한 생물이 우글대는 길을 간다. |
 | 1987 | ティー・パーティー | ティー・パーティー | 皆川ゆか | 소설 | 확인 못 함 | 고교 초상연구회 소녀 곁에 평행 세계, 화성 왕조의 다툼, 거대 로봇이 몰려와 세계가 무너질 위기가 온다. |
@@ -782,6 +1168,8 @@
 | 1988 | Birthright Universe | Birthright Universe | Mike Resnick | 소설 | 확인 못 함 | 은하의 부자가 된 마지막 마사이인이, 연구자를 시켜 과거와 미래에 걸친 킬리만자로 상아의 행방을 쫓는다. |
 | 1988 | Deserted Cities of the Heart (경계) | Deserted Cities of the Heart | Lewis Shiner | 소설 | 확인 못 함 | 마술적 사실주의의 멕시코, 마야 시대로의 시간 여행과 다가오는 대참사가 얽힌다. |
 | 1988 | Desolation Road | Desolation Road | Ian McDonald | 소설 | 확인 못 함 | 테라포밍한 먼 미래 화성 사막, 오아시스 곁에 생긴 마을이 자라고 무너진다. |
+| 1988 | Dr. Xargle | Dr. Xargle | Jeanne Willis(글) · Tony Ross(그림) | 소설·애니메이션 | 확인 못 함 | 외계인 자글 박사가 학생들에게 지구 사람, 특히 영국 아이들의 삶을 가르친다. |
+| 1988 | First Born | First Born | Maureen Duffy(원작) · Philip Saville(연출) | 드라마·소설 | 확인 못 함 | 유전학자가 사람과 고릴라의 혼종을 만들어 제 아들로 기르다가 대가를 치른다. |
 | 1988 | Four Hundred Billion Stars | Four Hundred Billion Stars | Paul J. McAuley | 소설 | 확인 못 함 | 지칠 대로 지친 기업 지구가 별 사이 전쟁에 나서고, 웜홀·불사 약·우주의 역사가 얽힌다. |
 | 1988 | Islands in the Net | Islands in the Net | Bruce Sterling | 소설 | 확인 못 함 | 기업들이 그물망처럼 이어진 2020년대, 평화로워 보이는 세상에서 한 기업 직원이 분쟁에 휘말린다. |
 | 1988 | Kairos | Kairos | Gwyneth Jones | 소설 | 확인 못 함 | 파시즘과 무질서로 무너지는 가까운 미래 영국, 현실을 바꿔 놓는 약 '카이로스'가 퍼진다. |
@@ -808,6 +1196,7 @@
 | 1989 | Farewell Horizontal | Farewell Horizontal | K. W. Jeter | 소설 | 확인 못 함 | 물리 법칙을 어기는 거대한 원통 건물의 바깥벽에 매달려 사는 그림 일꾼의 이야기. |
 | 1989 | Good News From Outer Space | Good News From Outer Space | John Kessel | 소설 | 확인 못 함 | 2000년을 앞둔 종말 소동 속, 새 기술로 되살아난 타블로이드 기자가 외계인이 끼어든 흔적을 캔다. |
 | 1989 | 히페리온 | Hyperion Cantos | Dan Simmons | 소설 | 일부 | 시간을 거슬러 오는 무덤과 괴물 슈라이크를 향해 순례자 일곱이 떠나는 인류 연방 말기 |
+| 1989 | Le Grand Secret | Le Grand Secret | René Barjavel(원작) · Jacques Trébouta(감독) | 드라마·소설 | 확인 못 함 | 암 치료를 연구하던 연구자가 사라진 뒤, 세계 지도자들의 거대한 음모가 드러난다. |
 | 1989 | Near Space | Near Space | Allen Steele | 소설 | 확인 못 함 | 지구 궤도 우주 거주지 '클라크 카운티'와 달, 가까운 우주에서 일하는 사람들의 연작. |
 | 1989 | Not Quite Human (경계) | Not Quite Human | Seth McEvoy(원작 소설), Disney | 소설·영화 | 일부 | 과학자가 만든 아들 같은 인조인간 소년 '칩'이 사람 사이에서 살아가며 소동을 겪는다. |
 | 1989 | On My Way to Paradise | On My Way to Paradise | Dave Wolverton | 소설 | 확인 못 함 | 2300년 무렵, 몸을 다시 자라게 하는 약사가 쫓기는 여자를 도우며 전쟁과 정치에 휘말린다. |
@@ -816,6 +1205,7 @@
 | 1989 | The Boat of a Million Years | The Boat of a Million Years | Poul Anderson | 소설 | 확인 못 함 | 고대부터 죽지 않고 산 열한 사람이 서로를 찾아 모이고, 먼 미래에 이른다. |
 | 1989 | The Child Garden | The Child Garden | Geoff Ryman | 소설 | 확인 못 함 | 암이 사라진 대신 수명이 반이 된 미래 영국, 바이러스로 지식을 몸에 심어 가르친다. |
 | 1989 | The City, Not Long After | The City, Not Long After | Pat Murphy | 소설 | 확인 못 함 | 역병 뒤 20년, 예술가 수백 명이 사는 샌프란시스코가 동쪽 군사 정부에 맞선다. |
+| 1989 | The Cloning of Joanna May | The Cloning of Joanna May | Fay Weldon | 드라마·소설 | 확인 못 함 | 핵 에너지 기업 회장과 헤어진 아내 조애나, 제목대로 그녀를 둘러싼 복제의 비밀. |
 | 1989 | Too, Too Solid Flesh | Too, Too Solid Flesh | Nick O'Donohoe | 소설 | 확인 못 함 | 디스토피아 미래, 햄릿 공연용으로 만든 인조인간 극단의 제작자가 살해되고 햄릿 인조인간이 범인을 쫓는다 |
 | 1989 | Weapon | Weapon | Robert Mason(원작) · Norberto Barba(감독) | 소설·영화 | 확인 못 함 | 중미 반군과 싸우도록 만든 살인 병기 인조인간이 프로그램 결함으로 양심을 갖게 되어 달아난다. |
 | 1989 | あたしのエイリアン | あたしのエイリアン | 津原やすみ | 소설 | 확인 못 함 | 외계인과 마주친 뒤로 여고생의 일상에 소동이 끊이지 않는다. |
@@ -833,6 +1223,7 @@
 | 1990 | Crisis 2050 | Crisis 2050 | Takeshi Kawata(원작) · Richard C. Sarafian | 소설·영화 | 확인 못 함 | 태양 폭발이 지구를 태우려 하자, 우주선이 인공지능 폭탄을 해에 떨어뜨리러 가고 이를 막으려는 자가 있다. |
 | 1990 | Earth | Earth | David Brin | 소설 | 확인 못 함 | 2038년, 실험으로 만든 블랙홀이 지구 속으로 떨어져 행성을 삼키기 전에 되찾아야 한다. |
 | 1990 | 쥬라기 공원 | Jurassic Park | Michael Crichton(원작) · Steven Spielberg( | 게임·만화·소설·애니메이션·영화 | 있음 | 화석 속 피에서 뽑은 유전자로 공룡을 되살린 섬 공원이 무너진다 |
+| 1990 | Kappatoo | Kappatoo | Ben Steed | 드라마·소설 | 확인 못 함 | 23세기의 소년 카파투가 닮은꼴 '시간 쌍둥이'와 자리를 바꾸러 1990년으로 온다. |
 | 1990 | 로빈슨 가족 | Meet the Robinsons | Stephen Anderson (Disney), 원작 William Jo | 게임·소설·애니메이션 | 있음 | 미래에서 온 소년을 따라 시간을 건넌 고아 발명가가 자기 앞날을 본다 |
 | 1990 | Plenty | Plenty | Colin Greenland | 소설 | 확인 못 함 | 축제 중인 화성, 빈털터리 화물선 선장이 백만장자를 태우고 먼 거대 행성 쪽으로 떠난다. |
 | 1990 | Queen of Angels | Queen of Angels | Greg Bear | 소설 | 확인 못 함 | 2047년, 나노 기술로 마음을 고치는 '치료'가 사회를 가르고 인공지능이 자라난다. |
@@ -844,6 +1235,7 @@
 | 1990 | The Schizogenic Man | The Schizogenic Man | Raymond Harris | 소설 | 확인 못 함 | 컴퓨터가 다스리는 도시 국가로 쪼개진 21세기 미국, 정기 추첨이 삶을 바꾸고 시간 여행이 현실을 뒤섞는다. |
 | 1990 | 바빌론의 탑 (경계) | Tower of Babylon | Ted Chiang | 소설 | 있음 | 하늘의 천장에 닿으려 쌓는 바벨탑, 엘람의 광부가 탑 꼭대기에서 천장을 뚫는 일을 맡는다. |
 | 1990 | Winterlong (경계) | Winterlong | Elizabeth Hand | 소설 | 확인 못 함 | 수백·수천 년 뒤의 지구, 유전 공학이 낳은 별종과 신화가 뒤엉킨 퇴폐 도시 워싱턴. |
+| 1990 | Главный полдень | Главный полдень | Александр Мирер(원작) · Владимир Потапов(감 | 소설·영화 | 확인 못 함 | 숲 위에 뜬 검은 구가 사람에게 외계의 마음을 심어, 겉은 그대로인 채 지구 침공이 시작된다. |
 | 1990 | 일곱 도시 이야기 | 七都市物語 | 田中芳樹(다나카 요시키) | 소설 | 있음 | 지축이 뒤집힌 대재앙 뒤 달에서 내려온 사람들이 세운 일곱 도시가 서로 다툰다 |
 | 1990 | 星虫 | 星虫 | 岩本隆雄 | 소설 | 확인 못 함 | 우주에서 온 '별벌레'가 사람 이마에 붙어 힘을 키워 주는 근미래, 소녀는 지구의 비명을 듣는다. |
 | 1990 | 기신병단 | 機神兵団 | 山田正紀 | 소설·애니메이션 | 있음 | 1937년 상하이에 금속 몸의 외계 병사가 나타나고, 그 잔해로 만든 거대 로봇 '기신'으로 일본이 맞선다. |
@@ -867,19 +1259,23 @@
 | 1991 | 링 (경계) | リング | 鈴木光司(스즈키 코지) | 게임·드라마·만화·소설·영화 | 있음 | 보면 죽는 비디오테이프에서 시작해 바이러스, 그리고 세계의 정체로 번지는 연작 |
 | 1991 | 朝のガスパール (경계) | 朝のガスパール | 筒井康隆 | 소설 | 확인 못 함 | 온라인 게임 속 세계부터 게임하는 사람들, 그들을 쓰는 작가와 독자까지 다섯 겹 세계가 겹치는 소설. |
 | 1991 | 死して咲く花、実のある夢 | 死して咲く花、実のある夢 | 神林長平 | 소설 | 확인 못 함 | 근미래 정보군 병사 셋이 인류의 미래가 담긴 총리의 고양이를 찾다가, 바깥 풍경이 쓰레기 황야로 바뀐다. |
+| 1991 | 黄祸 | 黄祸 | 王力雄(필명 保密) | 소설 | 확인 못 함 | 중국의 균형이 무너져 내전이 핵 내전으로, 끝내 제3차 세계 대전으로 번진다. |
 | 1992 | Ammonite | Ammonite | Nicola Griffith | 소설 | 확인 못 함 | 오래전 연락이 끊긴 개척 행성 지프, 한 성별만 남은 그곳에 인류학자가 내려간다. |
 | 1992 | Assemblers of Infinity | Assemblers of Infinity | Kevin J. Anderson · Doug Beason | 소설 | 확인 못 함 | 달 뒷면에서 스스로 불어나는 작은 기계들이 무언가를 짓는다—외계의 침공인가, 빗나간 나노 실험인가. |
 | 1992 | 칠드런 오브 맨 | Children of Men | P. D. James(원작) · Alfonso Cuarón(감독) | 소설·영화 | 있음 | 아이가 18년째 태어나지 않는 2027년 영국, 한 남자가 임신한 난민 여성을 지켜 옮긴다 |
 | 1992 | China Mountain Zhang | China Mountain Zhang | Maureen F. McHugh | 소설 | 확인 못 함 | 중국이 세계를 이끌고 미국이 공산 혁명을 겪은 뒤의 미래, 한 젊은이가 제자리를 찾는다. |
 | 1992 | Chroniques du Pays des Mères | Chroniques du Pays des Mères | Élisabeth Vonarburg | 소설 | 확인 못 함 | 바다가 차오르고 유럽이 독에 물든 몇 세기 뒤, 돌연변이로 여자가 남자보다 70배 많아진 사회. |
 | 1992 | Correspondence | Correspondence | Sue Thomas | 소설 | 확인 못 함 | 사이보그가 된 여자가 만든 프로그램으로 청중과 바로 이어져 자기 환상을 들려준다. |
+| 1992 | Deepwater Black | Deepwater Black | Ken Catran(원작) | 드라마·소설 | 확인 못 함 | 바이러스가 지구를 휩쓸자 인류를 새 행성에 퍼뜨리려 우주 방주를 띄운다. |
 | 1992 | Dinotopia (경계) | Dinotopia | James Gurney | 게임·드라마·소설·애니메이션 | 일부 | 공룡과 사람이 어울려 사는 숨은 섬에서 평화로운 문명이 기계를 숭배하는 이웃 섬의 침공에 맞선다. |
 | 1992 | 당신들의 조국 (경계) | Fatherland | Robert Harris | 드라마·소설 | 있음 | 나치 독일이 전쟁에 이긴 1964년 베를린에서 형사가 숨겨진 학살의 흔적을 쫓는다. |
 | 1992 | Fools | Fools | Pat Cadigan | 소설 | 확인 못 함 | 기억을 사고팔고 남의 머리에 심는 가까운 미래, 한 사람의 뇌 안에서 여러 자아가 다툰다. |
 | 1992 | Frank Carlucci (경계) | Frank Carlucci | Richard Paul Russo | 소설 | 확인 못 함 | 가까운 미래 샌프란시스코, 무너져 가는 미국에서 형사 카를루치가 범죄를 쫓는다. |
+| 1992 | Goosebumps (경계) | Goosebumps | R. L. Stine | 드라마·소설 | 확인 못 함 | 아이들이 기이한 일과 괴물을 겪는 어린이 공포 선집. 일부 편은 과학 공상. |
 | 1992 | Hard Landing | Hard Landing | Algis Budrys | 소설 | 확인 못 함 | 1950년대 초 미국에 추락한 외계인들이 사람 행세로 숨어 살고, 하나가 과학 지식을 팔아 권력과 손잡는다. |
 | 1992 | Hearts, Hands and Voices | Hearts, Hands and Voices | Ian McDonald | 소설 | 확인 못 함 | 아시아를 닮은 열대의 땅에서 종교 갈등이 나라를 찢는다. |
 | 1992 | Hot Head | Hot Head | Simon Ings | 소설 | 확인 못 함 | 쓸모가 다해 기계 강화를 빼앗긴 옛 영웅 전사가, 지구로 날아드는 인공 소행성 앞에 다시 불려 나온다 |
+| 1992 | Johnny Maxwell trilogy | Johnny Maxwell trilogy | Terry Pratchett | 드라마·소설 | 확인 못 함 | 노숙자 할머니의 수레가 시간 기계임을 안 소년 조니가 친구들과 대공습 때 고향으로 간다. |
 | 1992 | 점퍼 | Jumper | Steven Gould | 소설·영화 | 일부 | 눈 깜짝할 새 원하는 곳으로 옮겨 가는 능력을 깨친 소년과, 그런 이들을 쫓는 조직. |
 | 1992 | Les Voyageurs malgré eux | Les Voyageurs malgré eux | Élisabeth Vonarburg | 소설 | 확인 못 함 | 자기가 쓰는 이야기를 따라 다른 세계들로 건너가게 되는 교사이자 작가. |
 | 1992 | Lost Futures (경계) | Lost Futures | Lisa Tuttle | 소설 | 확인 못 함 | 한 여자가 여러 대체 역사 속으로 거듭 내던져진다. |
@@ -913,12 +1309,14 @@
 | 1993 | Hwarhath | Hwarhath | Eleanor Arnason | 소설 | 확인 못 함 | 외계 종족 화르하스의 눈으로 사람을 인류학자처럼 들여다보는 이야기들. |
 | 1993 | MAZE☆폭렬시공 (경계) | MAZE☆爆熱時空 | あかほりさとる(원작), J.C.STAFF(애니메이션, 감독 鈴木行) | 만화·소설·애니메이션 | 일부 | 기억을 잃고 다른 세계에 떨어진 소녀가 쫓기는 공주를 구하고, 거대한 갑옷 기계를 몰아 교단과 싸운다. |
 | 1993 | Moving Mars | Moving Mars | Greg Bear | 소설 | 확인 못 함 | 지구와 맞서는 화성 정치판에서 한 여성이 자라 나라를 이끈다. |
+| 1993 | Mr. Murder | Mr. Murder | Dean Koontz | 드라마·소설 | 확인 못 함 | 유전자 조작과 복제로 흔적 없는 완벽한 암살자를 만들려는 그림자 같은 요원 부자. |
 | 1993 | 기억 전달자 (경계) | The Giver Quartet | Lois Lowry | 소설·영화 | 있음 | 감정과 빛깔과 기억을 지운 한결같은 마을, 소년이 홀로 옛 기억을 물려받는다 |
 | 1993 | The Iron Dragon's Daughter (경계) | The Iron Dragon's Daughter | Michael Swanwick | 소설 | 확인 못 함 | 요정 세계의 공장에서 마법과 기계를 섞은 쇠 용 전투기를 만드는 아이들. |
 | 1993 | Vurt | Vurt | Jeff Noon | 소설 | 확인 못 함 | 색깔 깃털을 빨면 들어가는 함께 꾸는 꿈 세계 '버트'가 사회를 바꿔 놓은 다른 맨체스터 |
 | 1993 | アイドル防衛隊ハミングバード (경계) | アイドル防衛隊ハミングバード | 吉岡平 | 소설·애니메이션 | 확인 못 함 | 자위대가 민영화된 199X년 일본, 아무도 맡지 않던 방위를 연예계가 떠맡아 아이돌 자매가 전투기를 몬다. |
 | 1993 | クロノス・ジョウンターの伝説 | クロノス・ジョウンターの伝説 | 梶尾真治 | 만화·소설·영화 | 확인 못 함 | 물체를 과거로 쏘는 장치가 생기지만 오래 못 머물고 돌아오면 먼 미래로 튕긴다. 그래도 사람들은 탄다. |
 | 1993 | ゲーム・キッズ | ゲーム・キッズ | 渡辺浩弐 | 게임·소설 | 확인 못 함 | 휴대전화와 인터넷 같은 디지털 기술이 낳을 가까운 미래를 그린 연작 짧은 소설. |
+| 1993 | 分身 | 分身 | 東野圭吾 | 드라마·소설 | 확인 못 함 | 삿포로와 도쿄에 사는 꼭 닮은 두 여자가 저마다 자기 출생의 비밀을 쫓는다. |
 | 1993 | 가자! 우주전함 야마모토 요코 | 宇宙戦艦ヤマモト・ヨーコ | 庄司卓 | 만화·소설·애니메이션 | 일부 | 먼 미래 우주 함대가 전쟁 대신 겨루는 가상 전함 시합에 20세기 여고생들이 조종사로 불려 간다. |
 | 1993 | 暁のビザンティラ (경계) | 暁のビザンティラ | 菅浩江 | 소설 | 확인 못 함 | 두 달이 도는 세계, 사람과 마음이 통하는 동물 '메브'와의 공생 뒤에 숨은 진실을 소녀가 알게 된다. |
 | 1994 | 10월의 폭풍 (경계) | 10월의 폭풍 | 김경식 | 소설 | 한국 원작 | 6.29 선언 없이 새 쿠데타가 일어난 1987년, 섬 실험실에서 세뇌된 저격수가 야당 지도자를 노린다. |
@@ -939,19 +1337,24 @@
 | 1994 | Nanotech Cycle | Nanotech Cycle | Kathleen Ann Goonan | 소설 | 확인 못 함 | 외계에서 온 나노 기술이 미국을 통째로 바꿔 놓아, 언뜻 대재앙 뒤 몰락처럼 보이는 세계. |
 | 1994 | Necroville | Necroville | Ian McDonald | 소설 | 확인 못 함 | 나노 기술이 첫 큰 변화를 이룬 가까운 미래의 거대 도시, 사이버펑크 빛깔의 밤. |
 | 1994 | Only Forward | Only Forward | Michael Marshall Smith | 소설 | 확인 못 함 | 몇 세기 뒤의 '도시'는 저마다 규칙을 둔 동네로 나뉘고, 한 동네에선 중앙 컴퓨터가 거리 색을 바꾼다. |
+| 1994 | Paris au XXe siècle | Paris au XXe siècle | Jules Verne | 소설 | 확인 못 함 | 1960년 8월의 파리, 사업과 기술만 떠받드는 사회에서 시를 사랑하는 소년이 설 자리를 잃는다. |
 | 1994 | Pasquale's Angel | Pasquale's Angel | Paul J. McAuley | 소설 | 확인 못 함 | 다빈치가 그림 대신 기계에 매달려 르네상스 피렌체에 산업 혁명이 일어난 대체 역사. |
 | 1994 | Permutation City | Permutation City | Greg Egan | 소설 | 없음 | 컴퓨터 속으로 옮긴 사람의 사본들이 계산만으로 끝없이 이어지는 우주를 만든다 |
 | 1994 | Rim | Rim | Alexander Besher | 소설 | 확인 못 함 | 가상 현실과 저승 신화가 겹친 세계로 주인공이 깊이 빠져든다. |
 | 1994 | Scissors Cut Paper Wrap Stone | Scissors Cut Paper Wrap Stone | Ian McDonald | 소설 | 확인 못 함 | 가까운 미래 일본을 도는 서양 사내가, 현실을 휘두르는 컴퓨터 이미지를 만든 뒷일과 씨름한다. |
 | 1994 | Summer of Love | Summer of Love | Lisa Mason | 소설 | 확인 못 함 | 2467년의 시간 여행자가 1967년 샌프란시스코 '사랑의 여름'으로 돌아간다. |
 | 1994 | TOKIO機動ポリス (경계) | TOKIO機動ポリス | 葉影立直(원작), ダンディライオン(OVA, 감독 東森一) | 소설·애니메이션 | 확인 못 함 | 치안이 무너진 2034년 도쿄, 민간 경비 회사에 들어간 여성이 최신 메카를 몰고 흉악 범죄를 쫓는다. |
+| 1994 | The Magic School Bus (경계) | The Magic School Bus | Joanna Cole · Bruce Degen | 소설·애니메이션 | 확인 못 함 | 괴짜 선생님 프리즐과 학생 여덟이 신기한 견학으로 과학의 세계를 탐험한다. |
 | 1994 | Tonguing the Zeitgeist | Tonguing the Zeitgeist | Lance Olsen | 소설 | 확인 못 함 | 지진 뒤의 시애틀, 음악 산업이 음악가 지망생을 납치해 새 목소리 상자를 심어 스타로 만든다. |
 | 1994 | Trouble and Her Friends | Trouble and Her Friends | Melissa Scott | 소설 | 확인 못 함 | 가까운 미래 미국, 손 씻은 해커가 망에서 제 이름을 사칭하는 자를 잡으려 옛 연인과 다시 뭉친다 |
+| 1994 | White Shark | White Shark | Peter Benchley | 드라마·소설 | 확인 못 함 | 외딴 카리브해 섬의 정부 시설, 어떤 환경에도 맞춰 사는 상어와 사람의 혼종이 빠져나간다. |
 | 1994 | Worldwar | Worldwar | Harry Turtledove | 소설 | 없음 | 2차 대전 한복판에 도마뱀 같은 외계 함대가 지구를 쳐들어오고, 뒤에는 인류가 그들의 고향 별까지 찾아간다. |
 | 1994 | 5분 후의 세계 | 五分後の世界 | 村上龍 | 소설 | 있음 | 항복하지 않은 일본이 땅속으로 들어가 50년째 싸움을 이어 가는, 5분 어긋난 세계. |
 | 1994 | 五霊闘士オーキ伝 | 五霊闘士オーキ伝 | 土門弘幸 | 만화·소설 | 확인 못 함 | 추락한 물체에 죽은 고교생이 외계인 손에 되살아나, 사이보그 다섯을 이끌고 외계인끼리의 싸움에 휘말린다. |
+| 1994 | 地下鉄に乗って (경계) | 地下鉄に乗って | 浅田次郎 | 드라마·소설·영화 | 확인 못 함 | 지하철 계단을 오르자 30년 전 1964년의 도쿄가 펼쳐지고, 사내는 의절한 아버지의 젊은 날을 마주한다. |
 | 1994 | 寻秦记 (경계) | 寻秦记 | 黄易 | 드라마·소설·영화 | 없음 | 시간 기계 실험 사고로 진시황 즉위 다섯 해 전의 조나라에 떨어진 21세기 특수 부대원 |
 | 1994 | 小娘オーバードライブ (경계) | 小娘オーバードライブ | 笹本祐一 | 만화·소설 | 확인 못 함 | '정의의 편 모집, 시급 오백 엔' 광고로 뽑힌 여고생이 은빛 강화 보호복을 입고 사건에 맞선다. |
+| 1995 | Amanda and the Alien | Amanda and the Alien | Robert Silverberg(원작) · Jon Kroll(감독) | 소설·영화 | 확인 못 함 | 군 시설에서 달아나 남의 몸을 차지한 외계인이 외톨이 아가씨 아만다의 집에 숨어든다. |
 | 1995 | Chaga | Chaga | Ian McDonald | 소설 | 확인 못 함 | 외계 생물 '차가'가 아프리카를 버섯 같은 생명의 땅으로 바꿔 가고, 거대한 외계 우주선이 나타난다. |
 | 1995 | Ensaio sobre a cegueira | Ensaio sobre a cegueira | José Saramago(원작) · Fernando Meirelles(감 | 소설·영화 | 확인 못 함 | 이름 없는 도시에 까닭 모를 실명이 번져 거의 모두가 눈이 멀고, 격리된 사람들 사이에서 질서가 무너진다. |
 | 1995 | Fairyland | Fairyland | Paul J. McAuley | 소설 | 확인 못 함 | 가까운 미래, 유전자로 만든 노예 '인형'이 부려지고 소수 특권층은 나노 기술을 누린다. |
@@ -967,6 +1370,7 @@
 | 1995 | The Color of Distance | The Color of Distance | Amy Thomson | 소설 | 확인 못 함 | 탐사대에 남겨진 외계 생물학자가, 몸을 섬세하게 다스리는 지성 양서류 텐두의 행성에서 살아남는다. |
 | 1995 | 다이아몬드 시대 | The Diamond Age | Neal Stephenson | 소설 | 있음 | 나노 기계가 무엇이든 찍어 내는 시대, 귀족 아이를 위해 만든 배움의 책이 가난한 소녀 손에 들어간다 |
 | 1995 | The Fall Revolution | The Fall Revolution | Ken MacLeod | 소설 | 확인 못 함 | 파벌로 쪼개진 미래 영국의 혁명에서 시작해, 웜홀 건너 '새 화성'과 목성의 탈인류 '빠른 족'으로 뻗는다. |
+| 1995 | The Langoliers (경계) | The Langoliers | Stephen King(원작) · Tom Holland | 드라마·소설 | 확인 못 함 | 밤 비행기에서 깨어난 승객 열 명이 나머지 사람이 모두 사라진 걸 알고 시간의 수수께끼와 마주한다. |
 | 1995 | 프레스티지 (경계) | The Prestige | Christopher Priest(소설), Christopher Nola | 소설·영화 | 일부 | 19세기 말 런던의 두 마술사가 순간 이동 마술을 두고 겨루다 과학자 테슬라의 기계에까지 손을 뻗는다. |
 | 1995 | The Terminal Experiment | The Terminal Experiment | Robert J. Sawyer | 소설 | 확인 못 함 | 죽을 때 뇌를 떠나는 '영혼파'를 찾은 공학자가 자기 정신 사본 셋을 만들고, 살인이 벌어진다. |
 | 1995 | 공룡처럼 생각하라 | Think Like a Dinosaur | James Patrick Kelly | 소설 | 있음 | 외계인이 준 순간 이동은 목적지에 복제를 만들고 원본을 지우는 방식, 확인이 늦어 원본이 살아남는다. |
@@ -974,6 +1378,7 @@
 | 1995 | きっとシリーズ | きっとシリーズ | 倉本由布 | 소설 | 확인 못 함 | 벼락 충격으로 전국 시대에 떨어진 여고생이 노부나가에게 시집가고, 그 피를 이은 딸·손녀도 시간을 떠돈다. |
 | 1995 | アナザヘヴン (경계) | アナザヘヴン | 飯田譲治·梓河人 | 게임·드라마·소설·영화 | 확인 못 함 | 두 형사가 사람 뇌를 요리하는 정체 모를 범인을 쫓는 SF 공포 연작. |
 | 1995 | キル・ゾーン | キル・ゾーン | 須賀しのぶ | 소설 | 확인 못 함 | 23세기, 정치 중심인 달 도시와 지구의 저항군이 싸우는 전장에 화성 도시가 끼어든다. |
+| 1995 | スキップ (경계) | スキップ | 北村薫 | 드라마·소설 | 확인 못 함 | 열일곱 살 여고생이 잠깐 졸고 깨어나 보니 스물다섯 해를 건너뛴 마흔두 살이 되어 있다. |
 | 1995 | 세이버 마리오넷 J | セイバーマリオネット | あかほりさとる | 만화·소설·애니메이션 | 일부 | 여자가 한 명도 없는 개척 행성 테라 II 에서 남자들이 여자 모양 인형을 만들어 부린다. |
 | 1995 | 타임 리프 | タイム・リープ あしたはきのう | 高畑京一郎(타카하타 쿄이치로) | 소설·영화 | 있음 | 하루치 기억을 잃은 여고생이 반 친구와 함께 시간이 뛰는 현상의 규칙을 푼다 |
 | 1995 | パラサイト・イヴ (경계) | パラサイト・イヴ | 瀬名秀明 | 게임·만화·소설·영화 | 없음 | 몸속 미토콘드리아가 숨은 지성을 깨워 사람을 숙주 삼아 새 생명을 낳으려 한다 |
@@ -991,20 +1396,25 @@
 | 1996 | Remnant Population | Remnant Population | Elizabeth Moon | 소설 | 확인 못 함 | 회사가 개척지를 버리고 떠날 때 홀로 남은 노파가, 그 행성의 토착 지성 종족과 만난다. |
 | 1996 | Starplex | Starplex | Robert J. Sawyer | 소설 | 확인 못 함 | 웜홀이 발견되고 빛보다 빠른 비행이 생기면서, 인류가 여러 외계 종족과 처음 만난다. |
 | 1996 | The Bones of Time | The Bones of Time | Kathleen Ann Goonan | 소설 | 확인 못 함 | 옛 하와이 왕들의 불법 복제 인간이 떠도는 가까운 미래 하와이, 세대선 발사가 흔들린다. |
+| 1996 | The Demon Headmaster | The Demon Headmaster | Gillian Cross | 드라마·소설 | 확인 못 함 | 최면의 힘을 지닌 못된 교장이 학생들을 로봇처럼 부리며 세계 지배를 꿈꾼다. |
 | 1996 | The Fortunate Fall | The Fortunate Fall | Raphael Carter (Cameron Reed) | 소설 | 확인 못 함 | 미국 세계 제국이 무너진 24세기, 온몸에 장비를 달아 보고 듣는 것을 그대로 내보내는 보도 '카메라' |
 | 1996 | The Night's Dawn Trilogy | The Night's Dawn Trilogy | Peter F. Hamilton | 소설 | 없음 | 살아 있는 우주선과 거주지를 기르는 인류 앞에 죽은 이들의 넋이 돌아와 산 몸을 빼앗는다 |
 | 1996 | 스패로 | The Sparrow | Mary Doria Russell | 소설 | 일부 | 외계의 노래를 들은 예수회가 먼 행성에 선교단을 보내고, 단 한 사람만 돌아온다 |
 | 1996 | チグリスとユーフラテス | チグリスとユーフラテス | 新井素子 | 소설 | 없음 | 아이가 태어나지 않게 된 개척 행성의 마지막 아이가 냉동된 사람들을 깨워 까닭을 묻는다 |
 | 1996 | ブラックロッド (경계) | ブラックロッド | 古橋秀之 | 만화·소설 | 확인 못 함 | 마술과 기술이 뒤섞인 적층 도시 '케이오스 헥사'에서 마도 수사관이 도시를 무너뜨린 테러범을 쫓는다. |
+| 1996 | 天晴れ夜十郎 (경계) | 天晴れ夜十郎 | 半村良(원작), NHK | 드라마·소설 | 확인 못 함 | 사고로 현대에서 에도 시대로 떨어져 기억을 잃은 청년이 무사 '히 야주로'로서 악정에 맞선다. |
 | 1996 | 성계의 문장 | 星界の紋章 | 모리오카 히로유키 / 선라이즈 | 게임·만화·소설·애니메이션 | 있음 | 유전자를 고쳐 우주에 맞게 태어난 종족의 제국이 인류의 별들을 하나씩 삼켜 감 |
+| 1996 | 膜 | 膜 | 紀大偉 | 소설 | 확인 못 함 | 오존층이 사라져 뜨거워진 지상을 버리고 해저 도시로 내려간 미래, 이름난 피부 관리사 모모의 이야기. |
 | 1996 | 가모우 저택 사건 | 蒲生邸事件 | 宮部みゆき(미야베 미유키) | 소설 | 있음 | 불타는 호텔에서 시간 여행자에게 구해진 수험생이 2·26 사건 무렵의 도쿄로 간다 |
 | 1996 | 電脳天使 | 電脳天使 | 彩院忍 | 소설 | 확인 못 함 | 컴퓨터 통신망을 마음대로 오가는 인공 지성체의 눈으로 그린 사이버 소설. |
 | 1997 | A Son of the Rock | A Son of the Rock | Jack Deighton | 소설 | 확인 못 함 | 다른 행성과 종족을 착취하고, 소비자 시민의 젊음을 억지로 늘리는 별 사이 문명의 디스토피아. |
+| 1997 | Aquila | Aquila | Andrew Norriss | 드라마·소설 | 확인 못 함 | 들판을 파던 두 소년이 로마 백인대장의 뼈와 함께 묻힌 비행선 아퀼라를 찾아 몰래 몬다. |
 | 1997 | BRAIN VALLEY | BRAIN VALLEY | 瀬名秀明 | 소설 | 확인 못 함 | 뇌과학 연구소에 모인 과학자들이 사람의 의식과 신의 기원을 뇌과학·영장류학·인공지능으로 파고든다. |
 | 1997 | Dreaming Metal | Dreaming Metal | Melissa Scott | 소설 | 확인 못 함 | 인공지능이 사람과 구별되지 않게 되는 때를 묻고, 테러가 예술가들의 삶을 흔드는 이야기 |
 | 1997 | Forever Peace | Forever Peace | Joe Haldeman | 소설 | 확인 못 함 | 원격 전투 로봇에 뇌를 이은 병사들이 서로의 마음을 나누다 전쟁을 끝낼 길을 찾는다 |
 | 1997 | Frameshift | Frameshift | Robert J. Sawyer | 소설 | 확인 못 함 | 불치병에 걸린 남자와 텔레파시를 지닌 연인이 치료법을 찾고, 한 유명 연구자는 나치 학살 가담을 의심받는다. |
 | 1997 | Glimmering | Glimmering | Elizabeth Hand | 소설 | 확인 못 함 | 메탄 분출 재앙이 기후 변화를 앞당긴 가까운 미래, 바다가 차오르고 역병이 돈다. |
+| 1997 | Invasion | Invasion | Robin Cook | 드라마·소설 | 확인 못 함 | 하늘에서 떨어진 작은 돌을 만지면 사람 속에 잠든 바이러스가 깨어나 외계 종으로 바뀐다. |
 | 1997 | Jack Faust (경계) | Jack Faust | Michael Swanwick | 소설 | 확인 못 함 | 메피스토펠레스에게 우주의 모든 지식을 받은 파우스트가 유럽의 발전을 미친 듯 앞당긴다. |
 | 1997 | Jurisdiction Universe | Jurisdiction Universe | Susan R. Matthews | 소설 | 확인 못 함 | 우주의 군사 기지에서 심문관 노릇을 맡은 외과의 코스추이스코, 고문이 제도가 된 세계. |
 | 1997 | Mother Grimm | Mother Grimm | Catherine Wells | 소설 | 확인 못 함 | 폐허 도시 한가운데 돔 성채, 정체 모를 바이러스 연구에 난자를 빼앗기던 여자가 달아난다. |
@@ -1012,6 +1422,7 @@
 | 1997 | Quint Dalrymple | Quint Dalrymple | Paul Johnston | 소설 | 확인 못 함 | 유럽이 내전·마약 전쟁·기후 변화로 쪼개진 2020년대, 도시 국가가 된 에든버러의 탐정 퀸트. |
 | 1997 | 내가 행복한 이유 | Reasons to be Cheerful | Greg Egan | 소설 | 있음 | 뇌종양 치료로 행복을 못 느끼게 된 남자가 인공 신경망을 이식받고, 무엇에 행복할지 스스로 정한다. |
 | 1997 | Signal to Noise (경계) | Signal to Noise | Carla Sinclair | 소설 | 확인 못 함 | 샌프란시스코의 망 문화를 비튼 풍자 소설 |
+| 1997 | Sole Survivor | Sole Survivor | Dean Koontz(원작) · Mikael Salomon(감독) | 소설·영화 | 확인 못 함 | 아내와 딸을 잃은 비행기 추락이 아이들을 쓴 비밀 과학 실험과 얽혔음을 기자가 알게 된다. |
 | 1997 | Southern Victory | Southern Victory | Harry Turtledove | 소설 | 확인 못 함 | 남부 연합이 남북전쟁에서 이긴 북미, 몇십 년 뒤 두 나라가 다시 싸운다. |
 | 1997 | The Moon and the Sun (경계) | The Moon and the Sun | Vonda N. McIntyre | 소설·영화 | 확인 못 함 | 태양왕 루이 14세의 궁정에, 먹으면 영생을 준다는 바다 괴물이 잡혀 온다. |
 | 1997 | The Troika (경계) | The Troika | Stepan Chapman | 소설 | 확인 못 함 | 세 개의 태양 아래 사막을 수백 년째 건너는 지프·공룡·멕시코 노파, 셋은 몇 번이나 몸을 바꿨다. |
@@ -1036,14 +1447,17 @@
 | 1998 | E.G.コンバット | E.G.コンバット | 秋山瑞人(소설), ☆よしみる(기획·원작) | 만화·소설 | 확인 못 함 | 2029년 미지 생물에 문명이 무너지고, 여성이 모두 달로 옮겨 남자만 남은 지구에서 싸움이 이어진다. |
 | 1998 | Emortality | Emortality | Brian Stableford | 소설 | 확인 못 함 | 사람이 죽지 않게 되기까지의 길을 과학 로맨스풍으로 따라가는 미래사 연작. |
 | 1998 | Factoring Humanity | Factoring Humanity | Robert J. Sawyer | 소설 | 확인 못 함 | 외계 신호를 풀던 연구자가 인류의 '공동 정신'에 들어가 텔레파시를 얻는다. |
+| 1998 | Flying Rhino Junior High (경계) | Flying Rhino Junior High | Ray Nelson Jr. | 소설·애니메이션 | 확인 못 함 | 학교 지하 보일러실에 숨은 천재 소년이 현실을 바꾸는 슈퍼컴퓨터로 학교를 어지럽힌다. |
 | 1998 | Mission Child | Mission Child | Maureen F. McHugh | 소설 | 확인 못 함 | 잊혔던 개척 행성, 지구에서 새 개척민이 오며 세상이 뒤집히고 선교 마을 소녀 얀나가 떠돌게 된다. |
 | 1998 | Moonfall | Moonfall | Jack McDevitt | 소설 | 확인 못 함 | 2024년 첫 달 기지가 문을 여는 날, 별 사이를 온 혜성이 달을 부술 길에 들어선다. |
 | 1998 | Noir | Noir | K. W. Jeter | 소설 | 확인 못 함 | 자본주의가 미쳐 날뛰는 미래, 눈을 고쳐 세상을 흑백으로 보는 탐정의 누아르 |
 | 1998 | One of Us | One of Us | Michael Marshall Smith | 소설 | 확인 못 함 | 가전마다 지능이 달린 가까운 미래 미국 서부, 남의 꿈과 기억을 맡아 주는 일꾼이 살인 기억을 떠안는다 |
+| 1998 | Roswell High | Roswell High | Melinda Metz(원작) · Jason Katims · Carina | 드라마·소설 | 확인 못 함 | 로즈웰 비행접시가 정말 있었고, 외계인들이 고교생 셋으로 숨어 산다. |
 | 1998 | Starfarers | Starfarers | Poul Anderson | 소설 | 확인 못 함 | 먼 우주의 별 여행 흔적을 좇아 빛에 가까운 속도로 간 탐사선이, 별 여행을 그만둔 종족을 만난다. |
 | 1998 | Tea from an Empty Cup | Tea from an Empty Cup | Pat Cadigan | 소설 | 확인 못 함 | 재앙으로 일본이 사라진 지 수십 년, 붐비고 지친 세상 사람들이 사는 가상 현실 안에서 살인이 일어난다 |
 | 1998 | The Extremes | The Extremes | Christopher Priest | 소설 | 확인 못 함 | 같은 날 영국과 텍사스에서 일어난 묻지마 총격, 가상 현실로 그날을 다시 겪으며 실마리를 찾는다. |
 | 1998 | To Hold Infinity | To Hold Infinity | John Meaney | 소설 | 확인 못 함 | 컴퓨터 보조 장치로 뇌를 키운 사이보그들이 지배하는 세계. |
+| 1998 | Whizziwig | Whizziwig | Malorie Blackman | 드라마·소설 | 확인 못 함 | 친척을 찾아가던 럭비공만 한 분홍 외계인의 배가 지붕에 떨어져, 소년 둘과 친구가 된다. |
 | 1998 | neoAddix | neoAddix | Jon Courtenay Grimwood | 소설 | 확인 못 함 | 사이버 공간에 물든 세계에서 흔히 사이보그로 살아남으려는 사람들, 밀레니엄의 혼돈. |
 | 1998 | Ночной дозор (경계) | Ночной дозор | Сергей Лукьяненко(원작) · Timur Bekmambeto | 소설·영화 | 확인 못 함 | 보통 사람 틈에 사는 초능력자 '다른 자'들이 빛과 어둠으로 갈려, 서로를 지키보는 감시대를 두고 휴전한다. |
 | 1998 | クロスファイア (경계) | クロスファイア | 宮部みゆき | 소설·영화 | 확인 못 함 | 불을 일으키는 염력을 타고난 여성이 악당들을 태워 단죄하고, 방화 수사반 형사가 그 뒤를 쫓는다. |
@@ -1057,10 +1471,12 @@
 | 1999 | 플래쉬포워드 | Flashforward | Robert J. Sawyer | 드라마·소설 | 있음 | 입자 가속 실험 중 온 인류가 2분 동안 21년 뒤 미래를 엿본다 |
 | 1999 | Greenhouse Summer | Greenhouse Summer | Norman Spinrad | 소설 | 확인 못 함 | 21세기 중반 기후 재앙으로 정치가 얽힌 세상, 증거를 꾸미는 홍보 전문가들. |
 | 1999 | Headlong | Headlong | Simon Ings | 소설 | 확인 못 함 | 아내가 죽은 듯한 뒤 사이보그 주인공이 스릴러 같은 사건을 겪으며, 지구도 넉넉한 곳임을 깨닫는다. |
+| 1999 | I Was a Sixth Grade Alien! | I Was a Sixth Grade Alien! | Bruce Coville(원작) · Daphne Ballon · Sher | 드라마·소설 | 확인 못 함 | 보라색 피부의 외계인 소년 플레스킷이 지구 학교에 어울리려 애쓰는 희극. |
 | 1999 | Jani Killian | Jani Killian | Kristine Smith | 소설 | 확인 못 함 | 인류 연방이 은하 제국을 꿈꾸는 우주, 외계 이도메니의 시술로 무기 같은 사이보그가 된 잔니 킬리언. |
 | 1999 | Manifold | Manifold | Stephen Baxter | 소설 | 없음 | 같은 이름의 주인공이 세 개의 다른 우주에서 '왜 외계인은 보이지 않는가'에 각기 다른 답을 맞닥뜨린다. |
 | 1999 | Rifters | Rifters | Peter Watts | 소설 | 확인 못 함 | 깊은 바다 밑 발전소에서 일하려고 몸을 개조한 사람들 '리프터'의 이야기. |
 | 1999 | Silver Screen | Silver Screen | Justina Robson | 소설 | 확인 못 함 | 인공지능 901을 지켜보는 심리학자가 동료의 죽음 뒤 기계의 권리를 둘러싼 다툼에 얽힌다. |
+| 1999 | The Haunting Hour (경계) | The Haunting Hour | R. L. Stine | 드라마·소설 | 확인 못 함 | 유령·외계인·마녀·좀비 같은 무서운 일을 아이들이 겪는 어린이 공포 선집. |
 | 1999 | ThiGMOO | ThiGMOO | Eugene Byrne | 소설 | 확인 못 함 | 인공지능들이 여러 역사 인물의 모습으로 나타나는 이야기. |
 | 1999 | 타임라인 | Timeline | Michael Crichton | 소설·영화 | 있음 | 양자 기술로 14세기 프랑스에 건너간 학자들이 돌아올 길을 잃는다 |
 | 1999 | Typhon's Children | Typhon's Children | Ann Tonsor Zeddies (Toni Anzetti) | 소설 | 확인 못 함 | 야심 찬 유전 공학의 뒷일 — 좁은 우주 거주지에 풀린 복제 전사들과, 물의 행성 이야기. |
@@ -1077,10 +1493,13 @@
 | 1999 | 천옥과 지국 | 天獄と地国 | 고바야시 야스미 | 소설 | 있음 | 모든 것이 하늘로 떨어지는 세상, 땅에 매달려 사는 사람들이 하늘을 도는 '나는 땅'의 도적에게 시달린다. |
 | 1999 | 太陽の簒奪者 | 太陽の簒奪者 | 野尻抱介 | 소설 | 없음 | 수성에서 솟은 광물이 해를 두르는 거대한 고리가 되어 지구의 빛을 가린다 |
 | 1999 | 타인의 눈 | 带上她的眼睛 | 刘慈欣(류츠신) | 소설 | 있음 | 남의 눈길을 빌려 보는 안경으로 낯선 곳에 홀로 있는 사람과 이어지는 이야기 |
+| 1999 | 微观尽头 | 微观尽头 | 刘慈欣 | 소설 | 확인 못 함 | 뤄부포의 입자 가속기로 쿼크를 쪼개는 순간을, 물리학자 둘과 양치기 노인이 함께 지켜본다. |
 | 1999 | 鋼の大地 (경계) | 鋼の大地 | 奈須きのこ | 소설 | 확인 못 함 | TYPE-MOON 작품들의 숱한 미래 가운데 하나로, 인류가 거의 멸종하고 마술도 사라진 세계. |
+| 1999 | 鲸歌 | 鲸歌 | 刘慈欣 | 소설 | 확인 못 함 | 뇌에 전극을 심어 컴퓨터로 부리는 대왕고래 '포세이돈'으로 마약을 나르려는 계획. |
 | 1999 | 부활 (경계) | 黄泉がえり | 梶尾真治(가지오 신지) | 소설·영화 | 있음 | 우주에서 떨어진 에너지 생명체 탓에 죽은 사람들이 되살아 돌아온다 |
 | 1999 | 옥스타칼니스의 아이들 (경계) | 옥스타칼니스의 아이들 | 김민영 | 소설 | 한국 원작 | 뇌 신호를 읽는 가상현실 게임 속 사건이 현실의 살인 사건과 맞물려 간다. |
 | 2000 | 1632 | 1632 | Eric Flint 외 | 소설 | 확인 못 함 | 웨스트버지니아 광산 마을이 통째로 30년 전쟁 한복판의 1632년 신성 로마 제국으로 옮겨진다. |
+| 2000 | 2066: Red Star Over America | 2066: Red Star Over America | 韩松 | 소설 | 확인 못 함 | 경제 위기와 정치 혼란에 빠진 미국과, 인공지능 '아만도'에 기대 초강대국이 된 중국의 2066년. |
 | 2000 | Ash: A Secret History (경계) | Ash: A Secret History | Mary Gentle | 소설 | 확인 못 함 | 15세기 여자 용병 대장의 '숨은 역사'를 오늘의 학자가 옮기다가 역사가 뒤틀린 흔적을 만난다. |
 | 2000 | Bas-Lag (경계) | Bas-Lag | China Miéville | 소설 | 확인 못 함 | 마법 '사움터지'와 증기 기술이 함께 있는 세계 바스락, 여러 지성 종족이 뒤섞인 도시 뉴크로부존. |
 | 2000 | Calculating God | Calculating God | Robert J. Sawyer | 소설 | 확인 못 함 | 거미 닮은 외계인이 토론토 박물관에 와서, 신이 있다는 증거를 함께 찾자고 한다. |
@@ -1101,7 +1520,9 @@
 | 2000 | 인류 과학의 진화 | The Evolution of Human Science | Ted Chiang | 소설 | 있음 | 약으로 태어난 '메타인류'의 학문을 보통 인류가 더는 따라가지 못하는 세계. |
 | 2000 | The Fresco | The Fresco | Sheri S. Tepper | 소설 | 확인 못 함 | 여러 외계 종족이 지구를 찾아내고, 피스타크족 둘이 학대받던 여자에게 메시지 장치를 맡긴다. |
 | 2000 | The Queendom of Sol | The Queendom of Sol | Wil McCarthy | 소설 | 확인 못 함 | 기술이 너무 빨리 바뀌자 인류가 안정을 바라 다시 왕정을 택한 태양계 '태양 여왕국'. |
+| 2000 | The Zack Files (경계) | The Zack Files | Dan Greenburg(원작) · Kathy Slevin | 드라마·소설 | 확인 못 함 | 초자연 현상을 자꾸 끌어당기는 십대 소년 잭과 친구들. |
 | 2000 | 언더 더 스킨 | Under the Skin | Michel Faber | 소설·영화 | 있음 | 사람 모습으로 몸을 고친 외계인이 스코틀랜드 길에서 남자들을 태워 고기로 실어 간다. |
+| 2000 | Vampires, Pirates & Aliens (경계) | Vampires, Pirates & Aliens | Colin Hawkins · Jacqui Hawkins(원작) · Cos | 소설·애니메이션 | 확인 못 함 | 흡혈귀 집안 블로즈와 해적선 매드 매곳의 선장 일행이 얽히는 과학 판타지 희극. |
 | 2000 | 키노의 여행 (경계) | キノの旅 | 時雨沢恵一(원작), A・C・G・T(애니메이션, 감독 中村隆太郎) | 게임·소설·애니메이션 | 일부 | 문화도 기술 수준도 제각각인 성벽 나라들이 흩어진 세계를 떠도는 여행자의 이야기. |
 | 2000 | シェルブリット | シェルブリット | 幾原邦彦(글)·永野護(설정) | 소설 | 확인 못 함 | 유전자 조작으로 산 우주선이 된 인류, 스스로 진화한 인류, 뒤처진 인류로 갈린 세상의 인간형 전투기 이야기 |
 | 2000 | 스트레이트 재킷 (경계) | ストレイト・ジャケット | 榊一郎(원작) | 소설·애니메이션 | 확인 못 함 | 마법이 공업 기술로 쓰이는 세계, 마법 오염으로 괴물이 된 사람들을 갑옷 입은 마법사가 사냥한다. |
@@ -1109,10 +1530,13 @@
 | 2000 | 박물관 행성 | 永遠の森 博物館惑星 | 菅浩江(스가 히로에) | 소설 | 있음 | 우주의 온갖 예술품을 모아 둔 박물관 행성 아프로디테에서 일하는 사람들 |
 | 2000 | 유랑지구 | 流浪地球 | 劉慈欣(원작) · 郭帆(감독) | 소설·영화 | 있음 | 부풀어 오르는 해를 피해 지구에 거대한 엔진을 달아 다른 별로 밀고 간다 |
 | 2000 | 猫の地球儀 | 猫の地球儀 | 秋山瑞人 | 소설 | 확인 못 함 | 사람이 사라진 먼 미래의 우주 정착지, 지성을 가진 고양이들이 로봇을 부리며 금기인 '지구본 행'을 꿈꾼다. |
+| 2000 | 红色海洋 | 红色海洋 | 韩松 | 소설 | 확인 못 함 | 침략을 피해 유전자로 몸을 바꾼 물속 인류가 핵전쟁 뒤 바다에서 퇴화와 식인의 역사를 거꾸로 산다. |
+| 2000 | 蜜里逃生 | 蜜里逃生 | 何署坤(원작), 张明志·胡一飞(감독) | 드라마·소설 | 확인 못 함 | 아빠 실험실의 파란 눈 꿀벌이 준 꿀을 먹고 꿀벌이 된 초등학생이 곤충 세계를 헤맨다. |
 | 2000 | 野望円舞曲 | 野望円舞曲 | 田中芳樹(원안), 荻野目悠樹 | 소설 | 확인 못 함 | 성역 사이를 잇는 '우주 해협'으로 퍼진 인류가 초장거리 해협을 찾아 다른 은하까지 건너가 번영한다. |
 | 2000 | 鏖殺の凶鳥 | 鏖殺の凶鳥 | 佐藤大輔 | 소설 | 확인 못 함 | 1945년 4월 무너지는 독일에 정체 모를 원반이 떨어지고, 히틀러가 보낸 회수 부대가 시골 마을로 간다. |
 | 2000 | 黒塚 KUROZUKA | 黒塚 KUROZUKA | 夢枕獏(원작), マッドハウス(감독 荒木哲郎) | 만화·소설·애니메이션 | 확인 못 함 | 흡혈귀가 된 미나모토노 요시쓰네가 몸을 바꿔 가며 수백 년을 살아, '대파괴' 뒤 일본까지 이어진다. |
 | 2000 | 한제국 건국사 (경계) | 한제국 건국사 | 윤민혁 | 소설 | 한국 원작 | 2003년 해외로 가던 국군 부대가 알 수 없는 일로 1866년 조선에 떨어져 열강과 맞서며 역사를 바꾼다. |
+| 2001 | American Gods (경계) | American Gods | Neil Gaiman(원작) · Bryan Fuller · Michael | 드라마·소설 | 확인 못 함 | 출소한 남자가 옛 신들과 날로 세지는 새 신들의 큰 싸움에 휘말린다. |
 | 2001 | Arabesk | Arabesk | Jon Courtenay Grimwood | 소설 | 확인 못 함 | 윌슨의 중재로 1차 대전이 발칸 밖으로 번지지 않은 대체 역사 세계의 탐정 연작. |
 | 2001 | Archangel Protocol | Archangel Protocol | Lyda Morehouse | 소설 | 확인 못 함 | 3차 대전 뒤 미국, 돈 있는 사람 거의 모두가 몸에 심은 단말로 중앙 인공지능 망 '링크'에 이어져 산다. |
 | 2001 | Artemis Fowl (경계) | Artemis Fowl | Eoin Colfer | 만화·소설·영화 | 확인 못 함 | 열두 살 천재 범죄자가 요정 경찰을 납치해 집안 재산을 되찾을 몸값으로 금을 요구한다. |
@@ -1122,6 +1546,7 @@
 | 2001 | Dr. Franklin's Island | Dr. Franklin's Island | Ann Halam | 소설 | 확인 못 함 | 외딴섬에 떨어진 십대 셋이 미친 과학자의 종 섞기 실험 재료가 된다 |
 | 2001 | Dreamcatcher | Dreamcatcher | Stephen King(원작) · Lawrence Kasdan(감독) | 소설·영화 | 확인 못 함 | 어릴 적 텔레파시를 얻은 친구 넷이 메인 숲 사냥 여행에서 몸속에 기생하는 외계 생명의 침공과 마주친다. |
 | 2001 | Fallen Dragon | Fallen Dragon | Peter F. Hamilton | 소설 | 확인 못 함 | 25세기, 빛보다 빠른 항행으로 넓힌 개척이 비용 탓에 멈추고 거대 기업만 별 사이를 다닌다. |
+| 2001 | Frankenstein's Cat (경계) | Frankenstein's Cat | Curtis Jobling | 소설·애니메이션 | 확인 못 함 | 프랑켄슈타인 박사가 고양이 아홉으로 만든 첫 실험작 나인이 외로워 친구를 만들어 달라 한다. |
 | 2001 | Futureland | Futureland | Walter Mosley | 소설 | 확인 못 함 | 엄청난 부자 기술 관료들이 위에서 굽어보는, 상처 입고 불공평하게 층진 사회 |
 | 2001 | Hammerfall | Hammerfall | C. J. Cherryh | 소설 | 확인 못 함 | 신이자 불사로 여겨지는 일라가 사막 라크트를 다스리고, 목소리와 환영에 시달리는 이들이 쫓겨난다. |
 | 2001 | HyperThought | HyperThought | M. M. Buckner | 소설 | 확인 못 함 | 21세기 초 생태 재앙으로 인류가 극지로 쫓겨나고, 땅 위로 나서는 이를 '서퍼'라 부른다. |
@@ -1129,6 +1554,7 @@
 | 2001 | Mappa Mundi | Mappa Mundi | Justina Robson | 소설 | 확인 못 함 | 나노 기계로 사람의 생각하는 방식을 바꾸려는 계획에 미국 비밀 기관이 끼어든다. |
 | 2001 | 견인 도시 연대기 | Mortal Engines Quartet | Philip Reeve | 소설·영화 | 일부 | 육십 분 전쟁 뒤, 바퀴 달린 도시들이 땅을 굴러다니며 작은 도시를 잡아먹는다 |
 | 2001 | Nekropolis | Nekropolis | Maureen F. McHugh | 소설 | 확인 못 함 | 주인에게 절대 복종하게 '제스'된 여자와, 주인 비위를 맞추게 짜인 인조인간이 함께 달아난다. |
+| 2001 | News from the Edge (경계) | News from the Edge | Mark Sumner | 드라마·소설 | 확인 못 함 | 타블로이드 신문 기자들이 괴물·외계인·돌연변이 기사가 실은 참임을 알게 된다. |
 | 2001 | Passage | Passage | Connie Willis | 소설 | 확인 못 함 | 임사 체험을 연구하던 심리학자가, 약물로 임사 체험을 일으키는 신경과 의사의 실험에 함께한다. |
 | 2001 | Polity | Polity | Neal Asher | 소설 | 없음 | 인공지능들이 다스리는 인류 연합이 순간 이동 문으로 별들을 잇고, 옛 외계 유물과 싸운다 |
 | 2001 | Secantis Sequence | Secantis Sequence | Mark W. Tiedemann | 소설 | 확인 못 함 | 유전 공학과 외계인을 막는 엄격한 위계의 '판 후마나'와, 외계인을 받아들이는 공화국이 맞선다. |
@@ -1152,6 +1578,8 @@
 | 2001 | ランブルフィッシュ | ランブルフィッシュ | 三雲岳斗 | 만화·소설 | 확인 못 함 | 1990년대 초 사람 모양 전투 병기가 나타나 시험기끼리 싸움에 돈을 거는 대회가 생긴 세상의 기술 학교. |
 | 2001 | ルー=ガルー 忌避すべき狼 | ルー=ガルー 忌避すべき狼 | 京極夏彦 | 만화·소설·영화 | 확인 못 함 | 독자에게서 모은 근미래 생각을 엮은, 京極夏彦 로서는 드문 근미래 SF 추리. |
 | 2001 | 산골 마을 선생님 | 乡村教师 | 刘慈欣(류츠신) | 소설·영화 | 있음 | 은하의 두 문명이 싸우는 가운데 태양계로 온 외계 함대를 시골 교사의 마지막 수업이 막아 낸다 |
+| 2001 | 全频带阻塞干扰 | 全频带阻塞干扰 | 刘慈欣 | 소설 | 확인 못 함 | 가까운 미래의 전쟁에서 모든 주파수를 틀어막는 전자 교란 작전을 그린 군사 SF 중편. |
+| 2001 | 流星ワゴン (경계) | 流星ワゴン | 重松清 | 드라마·소설 | 확인 못 함 | 모든 것을 잃은 남자가 유령 부자의 왜건을 타고 인생의 갈림길로 돌아가 동갑내기 아버지를 만난다. |
 | 2001 | 黒い仏 (경계) | 黒い仏 | 殊能将之 | 소설 | 확인 못 함 | 천 년 전 가라앉은 배의 비보를 찾는 탐정과 살인 사건이 나란히 가다, 크툴루 신화로 뒤집히는 추리 소설. |
 | 2001 | 봉황의 비상 (경계) | 봉황의 비상 | 슈타인호프 | 소설 | 한국 원작 | 병자호란 뒤 하멜 일행의 도움으로 일찍 근대화한 조선과 갈라진 중국이 맞서는 다른 역사. |
 | 2001 | 소드 엠페러 (경계) | 소드 엠페러 | 김정률 | 소설 | 한국 원작 | 마젤란 성계의 외계인이 지구를 침략해 세계가 무너진 데서 시작하는, 무림과 판타지가 섞인 우주 활극. |
@@ -1180,6 +1608,7 @@
 | 2002 | The Separation | The Separation | Christopher Priest | 소설 | 확인 못 함 | 2차 대전 중 쌍둥이 형제의 엇갈린 기억 속에서 전쟁의 다른 역사가 겹쳐 흐른다. |
 | 2002 | 어둠의 속도 (경계) | The Speed of Dark | Elizabeth Moon | 소설 | 있음 | 자폐를 고치는 새 치료가 나오자, 자폐인 남자가 지금의 자기를 버릴지 고민한다 |
 | 2002 | The Years of Rice and Salt | The Years of Rice and Salt | Kim Stanley Robinson | 소설 | 확인 못 함 | 흑사병이 유럽 사람 99%를 죽였다면—그 뒤 수백 년 세계사를 되풀이 태어나는 영혼들이 겪는다. |
+| 2002 | Tracey McBean (경계) | Tracey McBean | Mary Small · Arthur Filloy(원작) · Souther | 소설·애니메이션 | 확인 못 함 | 아홉 살 발명가 트레이시가 친구 셰이머스와 제 발명품으로 일을 벌이는 희극. |
 | 2002 | Vitals | Vitals | Greg Bear | 소설 | 확인 못 함 | 천 년을 살려는 부자 투자자들의 돈으로 죽음을 막는 법을 찾던 과학자가 깊은 바다 생물을 캔다. |
 | 2002 | Warchild | Warchild | Karin Lowachee | 소설 | 확인 못 함 | 해적에게 부모를 잃고 끌려간 여덟 살 조슬린을, 악명 높은 해적 선장이 제자로 삼는다. |
 | 2002 | Zathura (경계) | Zathura | Chris Van Allsburg(원작) · Jon Favreau(감독) | 소설·영화 | 확인 못 함 | 형제가 오래된 우주 보드게임을 시작하자 집이 통째로 우주로 날아가고, 게임 속 위험이 진짜로 덮친다. |
@@ -1190,8 +1619,10 @@
 | 2002 | プラトニックチェーン | プラトニックチェーン | 渡辺浩弐(원작), ACiD(애니메이션) | 만화·소설·애니메이션 | 확인 못 함 | 곳곳의 카메라가 모은 정보를 모두 보는 슈퍼컴퓨터를 뚫은 해커 탐정 '플라토닉 체인'이 나오는 이야기. |
 | 2002 | ポストガール | ポストガール | 増子二郎 | 소설 | 확인 못 함 | 큰 전쟁 뒤 황폐한 세계에서 우편을 나르는 사람형 기계 소녀가 사람들을 만나며 감정이라는 '버그'를 키운다. |
 | 2002 | ヴァルキュリアの機甲 | ヴァルキュリアの機甲 | ゆうきりん | 소설 | 확인 못 함 | 2035년부터 원폭만 한 폭발을 품은 아메바 모양 거대 생물이 나타나 도시를 차례로 날려 버린다. |
+| 2002 | 中国太阳 | 中国太阳 | 刘慈欣 | 소설 | 확인 못 함 | 가뭄 든 마을 청년이 나노 거울막으로 만든 거대한 궤도 반사경 '중국 태양'에 닿는다. |
 | 2002 | 탐식제국의 침공 | 吞食者 | 刘慈欣(류츠신) | 소설 | 있음 | 행성을 먹어 치우며 떠도는 거대한 탐식 제국이 지구를 삼키러 오고, 그 뒤 남은 인류 |
 | 2002 | 時生 (경계) | 時生 | 東野圭吾 | 소설 | 확인 못 함 | 1970년대, 철없던 청년이 수수께끼의 소년을 만나 사라진 연인을 쫓으며 자기 삶과 마주한다. |
+| 2002 | 混沌蝴蝶 | 混沌蝴蝶 | 刘慈欣 | 소설 | 확인 못 함 | 1999년 폭격을 막으려는 유고 과학자들이 슈퍼컴퓨터로 대기의 민감점을 찾아 날씨를 바꾸려 한다. |
 | 2002 | 神様のパズル | 神様のパズル | 機本伸司 | 만화·소설·영화 | 확인 못 함 | 낙제 위기의 대학생이 등교 거부하는 천재 소녀와 '우주는 사람이 만들 수 있는가'를 증명하게 된다. |
 | 2002 | 신쥬신건국사 (경계) | 신쥬신건국사 | 평인 | 소설 | 한국 원작 | 대간첩 작전에 나섰던 수색대원 여섯이 시공을 넘어 인조·효종 때의 조선에 떨어져 역사를 튼다. |
 | 2002 | 천군 (경계) | 천군 | 오윤(무명) | 소설 | 한국 원작 | 중동 전쟁에 파견되던 한국 함대와 1만 명이 에너지 파동에 휩쓸려 임진왜란 때의 바다로 떨어진다. |
@@ -1206,6 +1637,7 @@
 | 2003 | Dante's Equation | Dante's Equation | Jane Jensen | 소설 | 확인 못 함 | 홀로코스트 수용소에서 빛과 함께 사라진 유대인 과학자의 방정식, 다섯 번째 차원은 선악의 법칙을 따른다. |
 | 2003 | Down and Out in the Magic Kingdom | Down and Out in the Magic Kingdom | Cory Doctorow | 소설 | 확인 못 함 | 결핍이 사라지고 평판 점수 '후피'가 돈 노릇을 하는 22세기, 디즈니월드 운영을 두고 무리들이 겨룬다. |
 | 2003 | Eschaton | Eschaton | Charles Stross | 소설 | 확인 못 함 | 신 같은 지성 '에스카톤'이 인류를 은하에 흩어 놓은 미래, 업로드된 정신들의 문명이 한 식민지에 온다. |
+| 2003 | For Us, the Living: A Comedy of Customs | For Us, the Living: A Comedy of Customs | Robert A. Heinlein | 소설 | 확인 못 함 | 1939년 사고로 벼랑에서 떨어진 기술자가 2086년에 깨어나 미래 사회의 관습을 배운다. |
 | 2003 | 엽기 과학자 프래니 (경계) | Franny K. Stein, Mad Scientist | Jim Benton | 소설 | 있음 | 괴짜 발명을 즐기는 꼬마 과학자 프래니가 친구들과 어울리려다 엉뚱한 소동을 벌인다. |
 | 2003 | 일리움 | Ilium / Olympos | Dan Simmons | 소설 | 있음 | 후기 인류가 그리스 신 노릇을 하며 화성에서 트로이 전쟁을 다시 벌인다 |
 | 2003 | Jennifer Government | Jennifer Government | Max Barry | 소설 | 확인 못 함 | 미국이 아메리카 대부분을 차지하고 정부를 민영화한 대체 현재, 사람들은 다니는 기업 이름을 성으로 쓴다. |
@@ -1215,6 +1647,7 @@
 | 2003 | Memory | Memory | Linda Nagata | 소설 | 확인 못 함 | 인공 행성의 주민들이 거대한 인공물 속 존재들의 분신일지 모르고, 신의 놀이처럼 죽고 다시 태어난다. |
 | 2003 | 무한도시 NO.6 | NO.6 | あさのあつこ | 만화·소설·애니메이션 | 있음 | 이상 도시 6호 구역의 수재 소년이 쫓겨나 바깥 빈민가에서 도시의 감춰진 얼굴을 본다. |
 | 2003 | Natural History | Natural History | Justina Robson | 소설 | 확인 못 함 | 천 년 뒤, 인류가 지구의 '진화 안 한 이들'과 유전자로 빚은 포스트휴먼 '포지드'로 갈라졌다. |
+| 2003 | Patalghar | Patalghar | Abhijit Chaudhuri | 소설·영화 | 확인 못 함 | 150년 전 천재 과학자가 만든, 모든 생물을 잠재우는 소리 장치를 외계인과 악당이 노린다. |
 | 2003 | Sister Alice | Sister Alice | Robert Reed | 소설 | 확인 못 함 | 1천만 년 뒤의 차가운 지구, 신 같은 힘을 지닌 몇 집안의 아이가 우주가 걸린 전쟁을 치른다. |
 | 2003 | Spin | Spin | Chris Moriarty | 소설 | 확인 못 함 | 절대 영도 가까이서 일어나는 양자 얽힘이 거대한 인공지능을 움직이는 첨단 우주, 거친 말투의 여자 리. |
 | 2003 | Star Dragon | Star Dragon | Mike Brotherton | 소설 | 확인 못 함 | 별의 물질로 이뤄진 용 모양 외계 존재를 찾아가는 하드 SF 스페이스 오페라. |
@@ -1236,6 +1669,8 @@
 | 2003 | ジャンクフォース | ジャンクフォース | 柿沼秀樹 | 만화·소설 | 확인 못 함 | 지구 재생파와 화성 탈출파의 전쟁 뒤 사막이 된 2134년, 아이들이 폭주한 정화 장치를 막으러 간다. |
 | 2003 | 마르두크 스크램블 | マルドゥック・スクランブル | 冲方丁(우부카타 도우) | 만화·소설·애니메이션 | 있음 | 죽을 뻔한 소녀가 몸을 고쳐 사이보그가 되어 자신을 죽이려 한 자와 맞선다 |
 | 2003 | 무시우타 (경계) | ムシウタ | 岩井恭平(원작), ビートフロッグ(애니메이션, 감독 酒井和男) | 만화·소설·애니메이션 | 확인 못 함 | 꿈이 큰 아이들에게 벌레 같은 존재가 붙어 꿈을 먹고 힘을 주며, 붙은 이들은 차별과 두려움을 받는다. |
+| 2003 | 地球大炮 | 地球大炮 | 刘慈欣 | 소설 | 확인 못 함 | 핵폭발로 땅속 동굴을 파던 아버지가 백혈병으로 냉동 수면에 들고, 수십 년 뒤 깨어난다. |
+| 2003 | 天意 | 天意 | 钱莉芳 | 드라마·소설 | 확인 못 함 | 진나라가 무너지기 전야, 검은 옷의 사람이 한신에게 거래를 걸고 왕조 교체 뒤의 숨은 힘이 드러난다. |
 | 2003 | 学校を出よう! | 学校を出よう! | 谷川流 | 소설 | 확인 못 함 | 초능력자를 강제로 가두는 학원에 능력자 누이의 유령에 씌어 6년째 갇힌 평범한 소년이 학원의 비밀을 캔다. |
 | 2003 | 스즈미야 하루히의 우울 (경계) | 涼宮ハルヒの憂鬱 | 谷川流(타니가와 나가루) | 게임·만화·소설·애니메이션 | 있음 | 세상을 바꾸는 힘을 모르는 소녀 곁에 외계 지성의 대리인, 미래인, 초능력자가 모인다 |
 | 2003 | 第六大陸 | 第六大陸 | 小川一水 | 만화·소설 | 없음 | 달 위에 결혼식장을 짓는 열두 해짜리 건설 사업 |
@@ -1267,6 +1702,7 @@
 | 2004 | Recursion | Recursion | Tony Ballantyne | 소설 | 확인 못 함 | 우주 정복에 나선 스스로 불어나는 기계, 은하 규모로 서로 싸우는 겹겹의 인공지능들. |
 | 2004 | River of Gods | River of Gods | Ian McDonald | 소설 | 확인 못 함 | 독립 100년을 맞는 2047년, 여러 나라로 갈라진 인도의 망에 수준이 제각각인 인공지능들이 산다. |
 | 2004 | Science in the Capital | Science in the Capital | Kim Stanley Robinson | 소설 | 확인 못 함 | 기후 변화로 걸프 해류가 멈추고 워싱턴이 물에 잠기는 가까운 미래 미국. |
+| 2004 | Spider Riders | Spider Riders | Tedd Anasti · Patsy Cameron-Anasti | 소설·애니메이션 | 확인 못 함 | 열한 살 헌터가 할아버지의 일기를 따라 전설의 땅속 세계로 들어간다. |
 | 2004 | Stamping Butterflies | Stamping Butterflies | Jon Courtenay Grimwood | 소설 | 확인 못 함 | 영겁을 사이에 둔 두 주인공이 서로를 꿈꾸고, 그 꿈이 세계를 떠받친다. |
 | 2004 | The Algebraist | The Algebraist | Iain M. Banks | 소설 | 확인 못 함 | 4034년, 인공지능을 몰아내려는 봉건 체제 메르카토리아의 은하, 가스 행성 종족 곁에서 일하는 학자. |
 | 2004 | The Child Goddess | The Child Goddess | Louise Marley | 소설 | 확인 못 함 | 오래 버려진 개척 행성에 돌연변이로 생긴 불사의 따돌림받는 무리를, 별 사이 기업이 돈으로 바꾸려 한다. |
@@ -1283,9 +1719,16 @@
 | 2004 | ぱんもろっ! | ぱんもろっ! | 日下弘文 | 소설 | 확인 못 함 | 여고생이 블랙홀 생명체와 첫 접촉한 뒤 지구는 숱한 외계인과 사귀고, 은하 보전 기구 요원이 그녀를 지킨다. |
 | 2004 | 이코노클라스트! (경계) | イコノクラスト！ | 榊一郎 | 소설 | 있음 | 고등학생이 다섯 소녀와 함께 다른 세계로 빨려 들어가 거대 병기와 우주 함대가 얽힌 싸움에 휘말린다. |
 | 2004 | 샹그리라 | シャングリ・ラ | 池上永一(이케가미 에이이치) | 만화·소설·애니메이션 | 있음 | 탄소 거래가 경제를 쥔 21세기, 숲이 된 도쿄와 소수만 사는 거대 탑 아틀라스 |
+| 2004 | リピート (경계) | リピート | 乾くるみ | 드라마·소설 | 확인 못 함 | 1년 전으로 돌아가 다시 살 기회를 얻은 열 사람 둘레에 수상한 일이 잇따른다. |
+| 2004 | 僕たちの戦争 (경계) | 僕たちの戦争 | 荻原浩 | 드라마·소설 | 확인 못 함 | 2001년의 서퍼와 1944년의 예과 연습생이 파도와 비구름에 휩쓸려 서로의 시대로 뒤바뀐다. |
 | 2004 | 소금의 거리 | 塩の街 | 有川浩(아리카와 히로) | 만화·소설 | 있음 | 하늘에서 떨어진 거대한 소금 결정 탓에 사람들이 소금 기둥으로 변해 가는 세상 |
+| 2004 | 当恐龙遇上蚂蚁 | 当恐龙遇上蚂蚁 | 刘慈欣 | 소설 | 확인 못 함 | 공룡 이빨을 청소하던 개미와 공룡이 손을 잡아 두 지성 문명을 일구다 핵의 시대에 이른다. |
 | 2004 | 復活の地 | 復活の地 | 小川一水 | 만화·소설 | 확인 못 함 | 성간 국가를 세웠다 쇠퇴한 인류가 기술을 되찾는 시대, 행성 통일을 노리던 제국의 수도를 대지진이 덮친다. |
+| 2004 | 球状闪电 | 球状闪电 | 刘慈欣 | 드라마·소설 | 확인 못 함 | 어린 날 부모를 앗아 간 공 번개를 쫓던 물리학자가 '거대 전자'와 평행 우주의 비밀에 닿는다. |
+| 2004 | 皇陵的秘密 | 皇陵的秘密 | 龍俊榮 | 소설 | 확인 못 함 | 도굴꾼 스승과 제자가 황릉에 들어가며 겪는 일을 그린 SF 단편. |
+| 2004 | 神はサイコロを振らない | 神はサイコロを振らない | 大石英司 | 드라마·소설 | 확인 못 함 | 1994년에 사라진 여객기가 10년 뒤 그 모습 그대로 내려앉아, 승객과 유족이 열흘 동안 만난다. |
 | 2004 | 絶対ナル孤独者 | 絶対ナル孤独者 | 川原礫 | 만화·소설 | 확인 못 함 | 가족을 잃고 남을 피하던 고교생이 물리 법칙도 무시하는 투명한 '껍질'의 능력에 눈떠 싸움에 휘말린다. |
+| 2004 | 반딧불 언덕에서 (경계) | 虹色ほたる 〜永遠の夏休み〜 | 川口雅幸(원작), 東映アニメーション(애니메이션, 감독 宇田鋼之介) | 소설·애니메이션 | 확인 못 함 | 아버지를 잃은 초등 6학년이 산속에서 정신을 잃었다 깨어나니, 댐에 잠기기 전 1977년 마을의 여름이었다. |
 | 2004 | 비상 | 비상 | 유호 | 소설 | 한국 원작 | 백령도 비밀 국방 연구소의 실험이 주변 모든 것을 1896년 조선 말로 보내 버린다. |
 | 2004 | 빙옥검후 (경계) | 빙옥검후 | 이도경 | 소설 | 한국 원작 | 우주 괴수와 싸우던 전투 로봇 편대장이 무협 세계의 행성에 떨어진다. |
 | 2005 | 9tail Fox | 9tail Fox | Jon Courtenay Grimwood | 소설 | 확인 못 함 | 샌프란시스코 뒷골목에서 벌어지는 강제 정체성 바꿔치기. |
@@ -1301,8 +1744,10 @@
 | 2005 | Oh Pure and Radiant Heart (경계) | Oh Pure and Radiant Heart | Lydia Millet | 소설 | 확인 못 함 | 원자 폭탄을 만든 과학자 셋이 2003년에 되살아나 그사이 바뀐 세상에 놀란다. |
 | 2005 | 노인의 전쟁 | Old Man's War | John Scalzi | 소설 | 있음 | 일흔다섯 살 노인들이 젊은 새 몸으로 옮겨 우주 개척지를 지키는 군대에 들어간다 |
 | 2005 | Pushing Ice | Pushing Ice | Alastair Reynolds | 소설 | 확인 못 함 | 태양계 유인 탐사 초기, 얼음을 캐던 우주선이 토성 위성의 이변에 휘말린다. |
+| 2005 | Sakupljač | Sakupljač | Zoran Živković(원작) · Marko Kamenica(연출) | 드라마·소설 | 확인 못 함 | 따로 봐도 되는 열두 편이 제목의 '수집가'로 이어지는, 세르비아 첫 공상 과학 연속극. |
 | 2005 | Spin | Spin | Robert Charles Wilson | 소설 | 없음 | 어느 밤 별이 사라지고, 지구가 바깥에서 1년에 1억 년씩 흐르는 막에 갇힌다 |
 | 2005 | The Summer Isles | The Summer Isles | Ian R. MacLeod | 소설 | 확인 못 함 | 파시스트 혁명 몇 해 뒤 1940년대 대체 세계의 옥스퍼드, 새 독재자의 옛 스승이 동성애자로 알려져 있다. |
+| 2005 | The Time Warp Trio (경계) | The Time Warp Trio | Jon Scieszka | 소설·애니메이션 | 확인 못 함 | 열 살 생일에 마술사 삼촌에게서 받은 파란 '책'을 읽은 조와 친구들이 시간을 넘나든다. |
 | 2005 | 어글리 시리즈 | Uglies | Scott Westerfeld | 소설·영화 | 일부 | 열여섯 살이면 모두 수술로 예뻐지는 미래 도시, 수술에 숨은 비밀을 안 소녀가 달아난다 |
 | 2005 | What's Expected of Us | What's Expected of Us | Ted Chiang | 소설 | 확인 못 함 | 버튼을 누르기 1초 전에 불이 켜지는 장난감 '예측기'가 퍼지자 사람들이 자유 의지를 잃고 무너진다. |
 | 2005 | 메트로 | Метро 2033 | Dmitry Glukhovsky / 4A Games | 게임·소설 | 일부 | 핵전쟁 뒤 모스크바 지하철에 숨어 사는 사람들 앞에 정체 모를 '검은 자들'이 나타난다 |
@@ -1310,9 +1755,12 @@
 | 2005 | 아수라 크라잉 (경계) | アスラクライン | 三雲岳斗(원작), セブン・アークス(애니메이션, 감독 草川啓造) | 만화·소설·애니메이션 | 확인 못 함 | 한 번 망하고 '악마'의 힘으로 다시 시작된 세계, 유령 소녀가 붙은 고교생이 기계 악마의 싸움에 든다. |
 | 2005 | ジェミニ・ナイヴ | ジェミニ・ナイヴ | きむらひでふみ | 소설 | 확인 못 함 | 별과 별을 오가며 활동하는 덜 팔리는 아이돌과 매니저의 뒷모습은 비합법 자경 조직의 요원이다. |
 | 2005 | ボクのセカイをまもるヒト (경계) | ボクのセカイをまもるヒト | 谷川流 | 소설 | 확인 못 함 | 평범한 고교생 앞에 각자 다른 세계에서 그를 지키러 왔다는 두 소녀가 나타나 집을 부수며 싸운다. |
+| 2005 | ローレライ (경계) | ローレライ | 福井晴敏(원작), 樋口真嗣(감독) | 소설·영화 | 확인 못 함 | 1945년 일본 잠수함에 실린 나치의 음향 탐지 병기, 그 중심에는 사람 소녀가 있었다. |
 | 2005 | 円環少女 (경계) | 円環少女 | 長谷敏司 | 소설 | 확인 못 함 | 지구인이 보기만 해도 마법이 깨지는 현대 일본에서, 이세계 범죄 마법사를 쫓는 비공식 공무원과 소녀들. |
 | 2005 | 렌 Ren | 憐 Ren | 미즈구치 타카후미 | 소설 | 있음 | 미래에서 죄를 짓고 과거로 보내진 소녀가 원래 있던 반 친구처럼 섞이고, 퇴원한 소년만 그녀를 의심한다. |
+| 2005 | 新宋 (경계) | 新宋 | 阿越 | 소설 | 확인 못 함 | 21세기 역사학과 대학생이 북송으로 건너가 현대 지식으로 왕조를 고쳐 나간다. |
 | 2005 | 步步惊心 (경계) | 步步惊心 | 桐華 | 드라마·소설 | 일부 | 사고로 시간을 거슬러 간 현대 여성이 옛 귀족의 딸로 깨어나 왕좌를 다투는 왕자들 사이에 휘말린다. |
+| 2005 | 赡养人类 | 赡养人类 | 刘慈欣 | 소설 | 확인 못 함 | 『신을 부양하다』 뒤, 다른 인류의 선단 선봉이 지구 위에 오자 최상층 부자들이 노숙인 살해를 청부한다. |
 | 2005 | 외계에서 온 침입자 | 외계에서 온 침입자 | 듀나 | 소설 | 한국 원작 | 외계에서 날아온 미지의 존재가 부천시를 제 뜻대로 고쳐 세우며 세력을 넓히고, 인류는 속수무책 밀린다. |
 | 2006 | All Tomorrows | All Tomorrows | C. M. Kösemen (Nemo Ramjet) | 소설 | 없음 | 화성을 개척하고 별로 퍼진 인류가 외계 종족에게 짓밟힌 뒤 십억 년 동안 수많은 모습으로 갈라져 진화한다. |
 | 2006 | Ancestor | Ancestor | Scott Sigler | 소설 | 확인 못 함 | 누구에게나 맞는 장기를 얻으려 인류의 조상을 되살리는 북극 섬 실험이 끔찍하게 성공한다 |
@@ -1325,6 +1773,7 @@
 | 2006 | Gradisil | Gradisil | Adam Roberts | 소설 | 확인 못 함 | 2059년부터 22세기까지, 한 집안이 지구 낮은 궤도에 사람 사는 터를 세우고 지킨다. |
 | 2006 | Grand Tour | Grand Tour | Ben Bova | 소설 | 확인 못 함 | 2년 항해 끝에 토성 궤도에 자리 잡은 우주 거주지 고더드, 탐사선이 타이탄에 내리자 배에 이상이 생긴다. |
 | 2006 | How to Talk to Girls at Parties | How to Talk to Girls at Parties | Neil Gaiman(원작) · John Cameron Mitchell( | 소설·영화 | 확인 못 함 | 1970년대 런던의 펑크 소년이 성인식을 치르러 지구에 온 외계 십대 무리의 한 소녀와 사랑에 빠진다. |
+| 2006 | I Got a Rocket! (경계) | I Got a Rocket! | Matt Zurbo(원작) · Stu Connolly · Ben Town | 소설·애니메이션 | 확인 못 함 | 생일 선물로 받은, 사람처럼 구는 로켓과 소년 비니의 우주 희극. |
 | 2006 | Icarus | Icarus | Roger Levy | 소설 | 확인 못 함 | 치명적 방사선이 덮친 채굴 행성, 옛 우주선이 발견되어 인류가 별들에서 살아남을 희망이 생긴다. |
 | 2006 | Infected | Infected | Scott Sigler | 소설 | 확인 못 함 | 미세한 크기로 쳐들어온 외계 침공, 평범한 사람을 살인자로 바꾸는 병을 질병 당국이 쫓는다 |
 | 2006 | 파피용 | Le Papillon des étoiles | Bernard Werber | 소설 | 있음 | 망가진 지구를 떠나 빛 돛 우주선에 14만 명이 타고 천 년 넘게 새 행성으로 간다 |
@@ -1345,6 +1794,7 @@
 | 2006 | 플래티나 데이터 (경계) | プラチナデータ | 東野圭吾(히가시노 게이고) | 소설·영화 | 있음 | 유전자 수사로 모든 사건을 풀겠다는 근미래 일본, 누명 쓴 천재 과학자가 쫓긴다 |
 | 2006 | マテリアルゴースト (경계) | マテリアルゴースト | 葵せきな | 만화·소설 | 확인 못 함 | 교통사고 뒤 둘레 2미터 안의 유령을 실체로 만드는 능력이 생긴 고교생이 기억 잃은 유령 소녀와 함께 산다. |
 | 2006 | 도서관 전쟁 | 図書館戦争 | 有川浩 | 만화·소설·애니메이션·영화 | 있음 | 미디어 검열법이 생긴 지 30년 된 일본에서 검열 위원회에 맞서 도서관이 무장 방위대를 꾸린다. |
+| 2006 | 异兽志 (경계) | 异兽志 | 颜歌 | 소설 | 확인 못 함 | 갖가지 '이수'가 사람과 섞여 사는 공업 도시 융안에서 수수께끼 동물 연구자가 그들을 기록한다. |
 | 2006 | 종말의 바보 (경계) | 終末のフール | 伊坂幸太郎(이사카 고타로) | 만화·소설 | 있음 | 여덟 해 뒤 소행성이 부딪친다는 발표 뒤 다섯 해, 남은 세 해를 사는 사람들 |
 | 2006 | 超鋼女セーラ | 超鋼女セーラ | 寺田とものり | 소설 | 확인 못 함 | 쇼와 70년, 공업 특구가 된 미야기의 고교에서 학생회장의 정체는 격투용 인조인간이었다. |
 | 2006 | 鋼殻のレギオス | 鋼殻のレギオス | 雨木シュウスケ(원작), ZEXCS(감독 川崎逸朗) | 만화·소설·애니메이션 | 확인 못 함 | 사람이 살 수 없게 된 땅 위로 스스로 움직이는 도시들이 오가는 미래, 쫓겨난 무예자가 학원 도시에 든다. |
@@ -1379,10 +1829,12 @@
 | 2007 | 액셀 월드 | アクセル・ワールド | 川原礫(카와하라 레키) | 게임·만화·소설·애니메이션 | 있음 | 생각을 아주 빠르게 하는 프로그램으로 가속된 세계에 들어가 싸우는 중학생들 |
 | 2007 | アストロノト! (경계) | アストロノト! | 赤松中学 | 소설 | 확인 못 함 | 오늘의 과학이 잊히고 마법과 과학이 섞인 먼 미래, 소년이 달에 떨어진 연인을 구하러 우주로 간다. |
 | 2007 | シュピーゲル・シリーズ | シュピーゲル・シリーズ | 冲方丁 | 만화·소설 | 확인 못 함 | 2016년 국제연합이 다스리는 옛 빈 '밀리오폴리스'에서 기계 팔다리를 단 소녀들이 테러와 싸운다. |
+| 2007 | モップガール (경계) | モップガール | 加藤実秋 | 드라마·소설 | 확인 못 함 | 사건 현장을 치우는 청소 회사 직원이 죽은 이가 남긴 기운을 느끼며 과거로 돌아가 진상을 밝힌다. |
 | 2007 | 九月の恋と出会うまで (경계) | 九月の恋と出会うまで | 松尾由美 | 소설·영화 | 확인 못 함 | 새 아파트 에어컨 구멍 너머에서 들려오는 이웃의 목소리는 1년 뒤인 2005년 가을에서 오는 것이었다. |
 | 2007 | 인류는 쇠퇴했습니다 | 人類は衰退しました | 田中ロミオ(다나카 로미오) | 만화·소설·애니메이션 | 있음 | 문명이 무너져 사람이 줄어든 세상, 단것을 좋아하는 요정들과 사람 사이를 잇는 소녀 |
 | 2007 | 僕たちのパラドクス | 僕たちのパラドクス | 厚木隼 | 소설 | 확인 못 함 | 2006년, 평범한 고교생이 미래에서 왔다는 수수께끼 소녀를 만나 시간 역설이 낳는 문제에 엮인다. |
 | 2007 | 名前探しの放課後 (경계) | 名前探しの放課後 | 辻村深月 | 소설 | 확인 못 함 | 동급생의 자살을 겪은 직후 석 달 전으로 시간이 되감긴 고교생이, 죽을 사람이 누구인지 찾아 나선다. |
+| 2007 | 無限恐怖 (경계) | 無限恐怖 | zhttty(張恆) | 소설 | 확인 못 함 | 현실에 지친 사람들이 '주신'의 공간으로 끌려가 공포·SF 영화 속 세계에서 임무를 해내며 살아남는다. |
 | 2007 | 神無き世界の英雄伝 | 神無き世界の英雄伝 | 鴨志田一 | 소설 | 확인 못 함 | 요리사 청년이 전자 정령에게 뽑혀, 인민공화국에 독립 전쟁을 거는 기업 연맹의 제독이 된다. |
 | 2007 | 학살기관 | 虐殺器官 | 伊藤計劃(이토 케이카쿠) | 소설·애니메이션 | 있음 | 사라예보 핵 공격 뒤 감시 사회가 된 선진국과 내전에 빠진 나라들, 학살을 부르는 무언가 |
 | 2007 | 리턴 1979 (경계) | 리턴 1979 | 강유한 | 소설 | 한국 원작 | 명상하던 사학도가 1979년으로 떨어져 12·12 군사 반란을 막고 대한민국의 역사를 바꾼다. |
@@ -1395,6 +1847,7 @@
 | 2008 | Flood | Flood | Stephen Baxter | 소설 | 확인 못 함 | 지구가 사실상 물에 잠기는 대재앙, 그리고 인류 일부가 세대선으로 달아난다. |
 | 2008 | House of Suns | House of Suns | Alastair Reynolds | 소설 | 확인 못 함 | 600만 년 뒤 사람과 그 너머의 인류가 퍼진 은하, 기계 종족과 함께 웜홀과 긴 항행 속에 산다. |
 | 2008 | Jacob's Ladder | Jacob's Ladder | Elizabeth Bear | 소설 | 확인 못 함 | 신비한 별을 도는 부서진 우주선, 배 안의 '천사'들은 배 인공지능의 분신이고 안은 판타지처럼 보인다. |
+| 2008 | K-20 怪人二十面相・伝 (경계) | K-20 怪人二十面相・伝 | 北村想(원작), 佐藤嗣麻子(감독) | 소설·영화 | 확인 못 함 | 2차 대전을 피한 가상의 1949년, 신분이 굳은 도쿄에서 괴인 이십면상이 부자들을 노린다. |
 | 2008 | Kaguya 〜月のウサギの銀の箱舟〜 | Kaguya 〜月のウサギの銀の箱舟〜 | 鴨志田一 | 소설 | 확인 못 함 | 혜성이 달에 부딪혀 떨어진 조각에 무너진 도시에서 능력 있는 아이들이 나고, 공안이 그 힘을 빌린다. |
 | 2008 | 리틀 브라더 (경계) | Little Brother | Cory Doctorow | 소설 | 일부 | 테러 뒤 감시 국가가 된 샌프란시스코, 고등학생 해커가 기술로 맞선다 |
 | 2008 | 메타트로폴리스 | METAtropolis | John Scalzi(엮음) 외 | 소설 | 있음 | 사회가 무너진 근미래 미국의 도시들을 같은 배경으로 젊은 작가들이 나눠 쓴 이야기 묶음. |
@@ -1418,6 +1871,7 @@
 | 2008 | ウェスタディアの双星 | ウェスタディアの双星 | 小河正岳 | 소설 | 확인 못 함 | 두 성간 강국 사이의 소국, 왕이 죽고 귀족과 왕태자까지 달아난 나라를 남은 이들이 지킨다. |
 | 2008 | 방랑의 에마논 | エマノン | 梶尾真治(원작 소설), 鶴田謙二(만화) | 만화·소설 | 일부 | 생명이 생긴 뒤 30억 년의 기억을 모두 지닌 소녀가 홀로 떠돌며 사람들을 만난다. |
 | 2008 | クォンタム・ファミリーズ | クォンタム・ファミリーズ | 東浩紀 | 소설 | 확인 못 함 | 팔리지 않는 소설가에게 2035년의 딸이라는 사람이 메일을 보내오고, 양자론 위의 평행 세계가 열린다. |
+| 2008 | ハンサム★スーツ (경계) | ハンサム★スーツ | 鈴木おさむ(원작), 英勉(영화 감독) | 드라마·만화·소설·영화 | 확인 못 함 | 입으면 미남이 되는 옷을 얻은 못생긴 식당 주인의 연애 코미디. |
 | 2008 | 세기말 하모니 | ハーモニー | 伊藤計劃(이토 게이카쿠) | 소설·애니메이션 | 있음 | 대재앙 뒤 모든 사람의 몸을 건강하게 관리하는 사회, 소녀들의 거부와 세계 동시 자살 |
 | 2008 | ビアンカ・オーバースタディ | ビアンカ・オーバースタディ | 筒井康隆 | 소설 | 확인 못 함 | 실험에 빠진 생물부 미소녀의 연구가 번져, 선배가 미래인임이 드러나고 인류 존망이 걸린 미래 사건과 얽힌다. |
 | 2008 | 맹렬 우주해적 | モーレツ宇宙海賊 | 사사모토 유이치 / 사테라이트, 사토 타츠오 | 소설·애니메이션 | 있음 | 식민 행성의 여고생이 나라가 허가한 우주 해적선의 선장 자리를 물려받음 |
@@ -1428,8 +1882,10 @@
 | 2008 | 斗罗大陆 (경계) | 斗罗大陆 | 唐家三少 | 만화·소설·애니메이션 | 확인 못 함 | 무혼을 깨워 싸우는 대륙의 이야기가 연작을 거듭하며 기술 연방과 우주로 넓어진다. |
 | 2008 | 신세계에서 | 新世界より | 키시 유스케 / A-1 Pictures | 만화·소설·애니메이션 | 있음 | 옛 문명이 무너지고 천 년 뒤, 모두가 염력을 쓰는 마을이 숨겨 온 역사 |
 | 2008 | 旅に出よう、滅びゆく世界の果てまで。 (경계) | 旅に出よう、滅びゆく世界の果てまで。 | 萬屋直人 | 소설 | 확인 못 함 | 기억과 기록이 조금씩 사라지는 '상실증'이 번진 세계, 소년과 소녀가 오토바이로 세상 끝을 향한다. |
+| 2008 | 窃明 (경계) | 窃明 | 灰熊猫 | 소설 | 확인 못 함 | 명나라 말 요동으로 건너간 톈진 청년이 역사의 흐름에 휩쓸려 명나라 장수가 된다. |
 | 2008 | 葉桜が来た夏 | 葉桜が来た夏 | 夏海公司 | 소설 | 확인 못 함 | 우주 이민선으로 온 외계인과 전쟁 뒤 정전 19년, 어머니를 잃은 소년에게 외계인 소녀와의 동거가 떨어진다. |
 | 2008 | 超空自衛隊 | 超空自衛隊 | 富永浩史 | 소설 | 확인 못 함 | 재해 파견 중이던 자위대 시설 부대가 2차 대전 속으로 건너가 중장비와 미래 지식으로 옛 일본군을 돕는다. |
+| 2008 | 非關英雄 (경계) | 非關英雄 | 御我 | 소설 | 확인 못 함 | 기계 광란의 시대 2112년, 흡혈귀 집사가 4대 영웅 '현일'의 집사가 된다. |
 | 2008 | 魔法科高校の劣等生 (경계) | 魔法科高校の劣等生 | 佐島勤 | 게임·만화·소설·애니메이션 | 확인 못 함 | 유전으로 정해지는 마법을 기술로 다듬어 쓰는 2090년대 일본의 마법 고교 |
 | 2008 | 더 세틀러 (경계) | 더 세틀러 | 이위 | 소설 | 한국 원작 | 22세기 화성을 개조하러 가던 큰 선단이 우주 어딘가로 튕겨 나가, 판타지와 무협이 섞인 행성에 정착한다. |
 | 2009 | Far North | Far North | Marcel Theroux | 소설 | 확인 못 함 | 기후 변화로 문명이 무너진 가까운 미래 시베리아에서 살아남기. |
@@ -1450,6 +1906,7 @@
 | 2009 | The Reincarnationist Papers (경계) | The Reincarnationist Papers | D. Eric Maikranz(원작) · Antoine Fuqua(영화) | 소설·영화 | 확인 못 함 | 전생을 모두 기억한 채 거듭 태어나는 이들이 두 편으로 갈라져 '알'이라는 물건을 두고 다툰다. |
 | 2009 | 와인드업 걸 | The Windup Girl | Paolo Bacigalupi | 소설 | 있음 | 석유가 끊기고 유전자 역병이 휩쓴 뒤의 방콕, 곡물 기업과 만들어진 여자 인간이 얽힌다 |
 | 2009 | Transition | Transition | Iain M. Banks | 소설 | 확인 못 함 | 비밀 결사들이 다중 우주의 미래를 두고 맞서는 평행 세계 이야기. |
+| 2009 | Under the Dome | Under the Dome | Stephen King(원작) · Brian K. Vaughan | 드라마·소설 | 확인 못 함 | 작은 마을이 갑자기 하늘에서 내려온 거대한 돔에 갇힌다. 그 뒤에는 외계의 알이 있다. |
 | 2009 | WWW Trilogy | WWW Trilogy | Robert J. Sawyer | 소설 | 확인 못 함 | 2012년, 앞을 못 보던 소녀가 눈에 심은 장치로 인터넷 속에서 깨어나는 의식을 느낀다. |
 | 2009 | Yellow Blue Tibia | Yellow Blue Tibia | Adam Roberts | 소설 | 확인 못 함 | 1946년 스탈린이 SF 작가들에게 전쟁 뒤의 외계 적을 지어내라 시킨, 대체 역사일지 모를 소련. |
 | 2009 | ですぺら | ですぺら | 小中千昭 | 소설 | 확인 못 함 | 다이쇼 시대를 무대로 전뇌와 다다이즘을 엮은 SF, 1998년 TV 애니메이션 제작진이 다시 모인 기획. |
@@ -1461,12 +1918,16 @@
 | 2009 | パララバ -Parallel lovers- (경계) | パララバ -Parallel lovers- | 静月遠火 | 소설 | 확인 못 함 | 죽은 남자 친구에게서 전화가 오고, 그녀가 죽었다는 평행 세계의 그와 통화하며 둘의 죽음을 파헤친다. |
 | 2009 | 헤비 오브젝트 | ヘヴィーオブジェクト | 鎌池和馬(카마치 카즈마) | 게임·만화·소설·애니메이션 | 있음 | 거대한 공 모양 병기가 전쟁을 독차지한 미래, 두 병사가 맨몸으로 그것을 부순다 |
 | 2009 | 상해보루 | 上海堡垒 | 江南 | 소설·영화 | 있음 | 에너지를 노린 외계 세력에 맞서 상하이가 인류의 마지막 요새가 된 근미래. |
+| 2009 | 临高启明 | 临高启明 | 吹牛者(萧峰) 외 | 소설 | 확인 못 함 | 500여 명의 현대인이 웜홀로 1628년 명나라 말 하이난 린가오에 건너가 공업 사회를 세운다. |
 | 2009 | 단칸방의 침략자!? (경계) | 六畳間の侵略者!? | 健速 | 만화·소설·애니메이션 | 있음 | 싼 자취방을 차지하려는 외계 공주와 지저인, 마법소녀가 한 방에 모여 지구 침략을 겨룬다. |
 | 2009 | 天冥の標 | 天冥の標 | 小川一水 | 소설 | 없음 | 2015년 지구의 역병에서 28세기 개척 행성까지, 권마다 무대를 바꾸며 이어지는 우주 대하 |
+| 2009 | 盛世：中国，2013年 | 盛世：中国，2013年 | 陳冠中 | 소설 | 확인 못 함 | 번영의 '성세'에 든 2013년 중국 — 모두의 기억에서 2011년 2월 한 달이 사라졌다. |
 | 2009 | 보랏빛 퀄리아 | 紫色のクオリア | うえお久光(우에오 히사미츠) | 만화·소설 | 있음 | 사람이 로봇으로 보이는 소녀와, 평행 세계의 자신들과 이어져 잃은 사람을 되찾으려는 소년 |
 | 2009 | 오다 노부나의 야망 (경계) | 織田信奈の野望 | 春日みかげ | 만화·소설·애니메이션 | 일부 | 전국 시대로 떨어진 고등학생이 소녀로 된 오다 노부나를 만나 그 곁에서 역사를 바꿔 간다. |
 | 2009 | 這いよれ! ニャル子さん (경계) | 這いよれ! ニャル子さん | 逢空万太 | 만화·소설·애니메이션 | 확인 못 함 | 밤길에 괴물에게 쫓기던 고교생을, 크툴루 신화의 니알라토텝이자 외계인이라는 소녀가 지키러 온다. |
+| 2009 | 간객 | 间客 | 猫腻 | 소설·애니메이션 | 확인 못 함 | 광산 출신 청년이 별빛 가득한 우주로 나가 여성 전함 지휘관을 보좌하게 되는 우주 활극. |
 | 2009 | 電波女と青春男 (경계) | 電波女と青春男 | 入間人間 | 만화·소설·애니메이션 | 확인 못 함 | 고모 집에 맡겨진 고교생 곁에, 반년간 사라졌다 돌아와 자기가 외계인이라 말하는 사촌이 이불을 쓰고 산다. |
+| 2009 | 鼠年 | 鼠年 | 陈楸帆 | 소설 | 확인 못 함 | 취업 못 한 대학생들이 군대와 '쥐잡이 대'를 꾸려 유전자 조작으로 영리해진 '새 쥐'를 쫓는다. |
 | 2009 | 국가의 사생활 (경계) | 국가의 사생활 | 이응준 | 소설 | 한국 원작 | 2010년 흡수 통일 뒤 주민 등록에 실패한 '대포인간'과 범죄가 들끓는 어두운 통일 한국. |
 | 2009 | 절망의 구 | 절망의 구 | 김이환 | 소설 | 한국 원작 | 어느 날 나타난 검은 구가 사람들을 빨아들이고, 한 남자가 끝없이 도망친다 |
 | 2009 | 타워 | 타워 | 배명훈 | 소설 | 한국 원작 | 하늘 높이 솟은 탑 하나가 곧 나라인 도시 국가 빈스토크 사람들의 이야기 |
@@ -1483,6 +1944,7 @@
 | 2010 | New Model Army | New Model Army | Adam Roberts | 소설 | 확인 못 함 | 갈등으로 찢긴 가까운 미래 영국, 컴퓨터에 밝은 용병 수천 명이 마음을 위키처럼 모아 정규군을 이긴다. |
 | 2010 | Newsflesh | Newsflesh | Mira Grant | 소설 | 확인 못 함 | 암·감기를 고치려 만든 두 바이러스가 합쳐져 좀비 사태가 난 뒤, 블로그 기자들이 진실을 캔다. |
 | 2010 | Revivors | Revivors | James Knapp | 소설 | 확인 못 함 | 끝없는 전쟁과 기후 변화의 미국, 사람들은 병역을 피하려 죽은 뒤의 몸을 병사 좀비로 저당 잡힌다. |
+| 2010 | Rob the Robot | Rob the Robot | John Magart | 소설·애니메이션 | 확인 못 함 | 어린 친구 넷이 우주선을 타고 로봇 은하의 행성들을 돌며 과제를 푼다. |
 | 2010 | Scarabaeus | Scarabaeus | Sara Creasy | 소설 | 확인 못 함 | 테라포밍과 낯선 행성을 무대로 한 SF 로맨스. |
 | 2010 | The Dervish House | The Dervish House | Ian McDonald | 소설 | 확인 못 함 | 2027년 무더위 속 이스탄불, 버스 폭탄 사건을 본 이웃들의 삶이 나노 기술 음모로 엮인다. |
 | 2010 | 소프트웨어 객체의 생애 주기 | The Lifecycle of Software Objects | Ted Chiang | 소설 | 있음 | 가상 세계에서 기르는 인공 생명 '디지언트'를 십수 년 키워 온 사람들이 회사가 문을 닫자 길을 찾는다. |
@@ -1490,16 +1952,21 @@
 | 2010 | Veteran | Veteran | Gavin Smith | 소설 | 확인 못 함 | 외계 '뎀'과 60년 동안 기운 전쟁을 치른 사이버펑크 빛깔의 지구, 싸움이 별 사이로 번진다. |
 | 2010 | Who Fears Death (경계) | Who Fears Death | Nnedi Okorafor | 소설 | 확인 못 함 | 재앙 뒤 아프리카 사막, 누루족이 오케케족을 억누르는 땅에서 혼혈 마법사 소녀가 운명에 맞선다. |
 | 2010 | iBoy (경계) | iBoy | Kevin Brooks(원작) · Adam Randall(영화) | 소설·영화 | 확인 못 함 | 머리에 휴대 전화 파편이 박힌 소년이 전파와 디지털 신호를 다루게 되어 친구를 해친 무리에게 복수한다. |
+| 2010 | 하트 커넥트 (경계) | ココロコネクト | 庵田定夏(원작), SILVER LINK.(애니메이션) | 게임·만화·소설·애니메이션 | 있음 | 고교 동아리 다섯 명의 영혼이 정체 모를 존재 탓에 서로 뒤바뀌는 현상을 겪는다. |
 | 2010 | 제노사이드 | ジェノサイド | 高野和明(다카노 가즈아키) | 소설 | 있음 | 콩고 밀림에 나타난 사람을 넘어서는 존재를 없애라는 작전과, 일본 대학원생의 신약 연구 |
 | 2010 | ストレイヤーズ・クロニクル | ストレイヤーズ・クロニクル | 本多孝好 | 소설·영화 | 확인 못 함 | 비밀 기관의 실험으로 특수 능력을 얻는 대신 스무 살 무렵까지만 사는 아이들이 두 패로 갈려 싸운다. |
 | 2010 | スワロウテイルシリーズ | スワロウテイルシリーズ | 籘真千歳 | 소설 | 확인 못 함 | '종의 자멸'이라는 병이 번져 남녀가 갈려 사는 인공섬 도쿄 자치구, 사람을 본뜬 인공 요정이 반려가 된다. |
+| 2010 | ダブルトーン (경계) | ダブルトーン | 梶尾真治 | 드라마·소설 | 확인 못 함 | 주부로 사는 유미와 독신으로 일하는 유미, 두 사람의 기억이 잠에서 깰 때마다 서로 엇갈린다. |
 | 2010 | トギオ | トギオ | 太朗想史郎 | 소설 | 확인 못 함 | 고향 마을에서 따돌림당한 소년이 가공의 미래 도시 '도교'로 나가, 보수와 혁신의 대립 뒤에서 움직인다. |
+| 2010 | 나이츠 & 매직 (경계) | ナイツ&マジック | 天酒之瓢(원작), エイトビット(애니메이션, 감독 山本裕介) | 만화·소설·애니메이션 | 있음 | 기계광 프로그래머가 마법과 마수의 세계에 다시 태어나, 거대 인형 병기 '실루엣 나이트'를 만들어 간다. |
 | 2010 | 펭귄 하이웨이 | ペンギン・ハイウェイ | 森見登美彦(모리미 토미히코) | 만화·소설·애니메이션 | 있음 | 동네에 펭귄이 나타나고 숲속에 물의 공이 떠오르자 초등학생이 그 수수께끼를 조사한다 |
 | 2010 | 로그 호라이즌 (경계) | ログ・ホライズン | 橙乃ままれ | 소설·애니메이션 | 일부 | 온라인 게임 세계에 갇힌 수만 명의 플레이어가 그곳에 정부와 경제를 새로 세운다. |
 | 2010 | ヴィークルエンド | ヴィークルエンド | うえお久光 | 소설 | 확인 못 함 | 모든 아이가 공감각 장애와 감정 결함을 안고 나는 근미래, 몸을 탈것으로 느끼는 약을 먹고 경주한다. |
+| 2010 | 人生不相见 | 人生不相见 | 何夕 | 소설 | 확인 못 함 | 식민 행성 '카스피해'의 개조 이주민이 사람과 아이를 낳을 수 없게 되자 감시단장이 학살에 나선다. |
 | 2010 | 탄서성공 (경계) | 吞噬星空 | 我吃西红柿 (원작), 텐센트 비디오 | 게임·만화·소설·애니메이션 | 있음 | 짐승을 괴물로 바꾼 바이러스 뒤 성벽 도시의 인류가 유전자를 키워 우주로 나아간다 |
 | 2010 | 기룡경찰 | 機龍警察 | 月村了衛(쓰키무라 료에) | 만화·소설 | 일부 | 근접 전투 기계가 대량 살상 무기를 대신한 근미래, 경찰 특수부가 용병이 모는 기체로 싸운다 |
 | 2010 | 華竜の宮 | 華竜の宮 | 上田早夕里 | 소설 | 없음 | 바다 밑이 솟아 땅 대부분이 잠긴 미래, 땅의 사람과 바다의 사람으로 갈라져 사는 인류 |
+| 2010 | 香港關機 | 香港關機 | 喬靖夫 | 만화·소설 | 확인 못 함 | 생화학 바이러스가 퍼진 홍콩이 바깥과 끊겨 버려진 채 스스로 살아남아야 한다. |
 | 2010 | 눈먼 시계공 | 눈먼 시계공 | 김탁환·정재승 | 소설 | 한국 원작 | 몸과 기계를 섞는 2049년 서울, 죽은 이의 뇌에서 기억을 뽑아 범죄를 쫓는다 |
 | 2010 | 대한제국 연대기 (경계) | 대한제국 연대기 | 김경록 | 소설 | 한국 원작 | 2110년 토성 탐사선의 부함장이 1399년 제주에서 눈을 떠 조선 왕조 대신 새 나라를 세운다. |
 | 2010 | 로봇의 별 | 로봇의 별 | 이현 | 소설 | 한국 원작 | 초거대 기업이 다 쥔 22세기 지구 연방, 하늘 도시와 오염된 땅으로 갈린 사회를 로봇 세 자매가 지난다. |
@@ -1529,6 +1996,7 @@
 | 2011 | The Testament of Jessie Lamb | The Testament of Jessie Lamb | Jane Rogers | 소설 | 확인 못 함 | 역병으로 모든 임신이 엄마와 아이의 죽음으로 끝나는 가까운 미래. |
 | 2011 | アイドライジング! | アイドライジング! | 広沢サカキ | 만화·소설 | 확인 못 함 | 과학 기술이 발전한 근미래 일본, 기업 기술을 모은 전투복을 입은 아이돌들이 무대에서 싸우는 흥행이 인기다. |
 | 2011 | アルヴ・レズル -機械仕掛けの妖精たち- | アルヴ・レズル -機械仕掛けの妖精たち- | 山口優 | 만화·소설·애니메이션 | 확인 못 함 | 2022년, 신경세포를 본뜬 나노 기계로 망에 바로 이어 가상 공간 '넥스트 라이프'에서 사는 이들의 사건. |
+| 2011 | 카게로우 프로젝트 (경계) | カゲロウプロジェクト | じん(원작), シャフト(TV) | 만화·소설·애니메이션 | 확인 못 함 | 8월 14일, 컴퓨터에 사는 전뇌 소녀에 이끌려 밖에 나간 은둔 청년이 눈에 이능이 깃든 아이들과 얽힌다. |
 | 2011 | デート・ア・ライブ (경계) | デート・ア・ライブ | 橘公司 | 게임·만화·소설·애니메이션 | 확인 못 함 | 힘이 너무 세서 인류가 없애려 하는 '정령' 소녀들과, 비밀 조직의 뒷받침으로 그녀들과 사귀는 평범한 소년. |
 | 2011 | トカゲの王 (경계) | トカゲの王 | 入間人間 | 만화·소설 | 확인 못 함 | 눈 색만 바뀌는 '초능력'을 믿는 소년의 폐건물에, 진짜 능력자와 살인 청부업자들이 몰려든다. |
 | 2011 | 블랙 불릿 | ブラック・ブレット | 神崎紫電(칸자키 시덴) | 만화·소설·애니메이션 | 있음 | 기생 바이러스 괴물에 밀려 거대한 벽 안에 사는 인류와, 힘을 지니고 태어난 소녀들 |
@@ -1537,6 +2005,7 @@
 | 2011 | 初体験にオススメな彼女 | 初体験にオススメな彼女 | あさのハジメ | 소설 | 확인 못 함 | 은둔하던 소년이 누나에게서 입학 선물로 생체 인조인간 여동생을 받아 함께 고교에 다닌다. |
 | 2011 | 完全なる首長竜の日 | 完全なる首長竜の日 | 乾緑郎 | 소설·영화 | 확인 못 함 | 자살 미수로 의식 없는 동생과 기계로 마음을 잇는 의료 '센싱'으로 대화하던 만화가의 현실이 흔들린다. |
 | 2011 | 寄生彼女サナ (경계) | 寄生彼女サナ | 砂義出雲 | 만화·소설 | 확인 못 함 | 고교생의 배에서 튀어나온 소녀는 기생충에서 진화한 존재로, 영양을 받는 대신 그를 지키겠다고 한다. |
+| 2011 | 複眼人 (경계) | 複眼人 | 吳明益 | 소설 | 확인 못 함 | 둘째 아들을 바다로 내보내는 섬의 소년이 가라앉는 배에서 헤엄쳐 닿은 '섬'은 거대한 쓰레기 소용돌이였다. |
 | 2011 | 雨の日のアイリス | 雨の日のアイリス | 松山剛 | 소설 | 확인 못 함 | 로봇 공학자의 집에서 행복하던 가정부 로봇이 가혹한 운명에 놓이고, 다른 로봇들과 '사는' 뜻을 찾는다. |
 | 2011 | 같은 꿈을 꾸다 (경계) | 같은 꿈을 꾸다 | 조경래 | 소설 | 한국 원작 | 삼국지 무장의 아들로 다시 태어난 회사원이 현대 기억으로 난세를 헤치고, 천 년 뒤 고려에서 또 태어난다. |
 | 2011 | 욘더 | 욘더 | 김장환(원작), 이준익(드라마) | 드라마·소설 | 한국 원작 | 죽은 사람의 기억으로 지은 가상 세계 '욘더'에서 떠난 아내가 남편을 기다린다. |
@@ -1568,6 +2037,7 @@
 | 2012 | The Rapture of the Nerds | The Rapture of the Nerds | Cory Doctorow, Charles Stross | 소설 | 확인 못 함 | 21세기 말, 기술을 싫어하는 남자가 새 기술을 풀지 가리는 '기술 배심'에 뽑혀 특이점을 웃기게 겪는다 |
 | 2012 | 제3인류 | Troisième Humanité | Bernard Werber | 소설 | 있음 | 재앙을 앞둔 인류가 작게 만든 새 사람을 낳고, 지구는 스스로 말을 걸어온다 |
 | 2012 | 웨이워드파인즈 시리즈 | Wayward Pines | Blake Crouch | 드라마·소설 | 있음 | 벗어날 수 없는 산골 마을의 비밀은 긴 잠 끝에 깨어난 먼 미래였다 |
+| 2012 | Zoo | Zoo | James Patterson · Michael Ledwidge | 드라마·소설 | 확인 못 함 | 세계 곳곳에서 동물이 사람을 덮치는 수수께끼를 동물학자와 동료들이 쫓는다. |
 | 2012 | ぼくらは都市を愛していた | ぼくらは都市を愛していた | 神林長平 | 소설 | 확인 못 함 | '정보진'이라는 현상으로 도시와 정보 체계가 무너진 세계, 정보군 장교와 통신 회로를 심은 형사의 이야기. |
 | 2012 | アラタなるセカイ | アラタなるセカイ | 이루마 히토마 | 만화·소설·애니메이션 | 없음 | 인구가 줄어 멸망을 앞둔 인류가 시간 여행 기술을 완성하고, 적성 검사로 뽑힌 아이들이 과거와 미래로 간다. |
 | 2012 | エスケヱプ・スピヰド | エスケヱプ・スピヰド | 九岡望 | 소설 | 확인 못 함 | 황폐해진 쇼와 101년의 군사 도시, 냉동 수면에서 깬 소녀가 기계 벌레와 잠든 사이보그 소년을 만난다. |
@@ -1577,10 +2047,12 @@
 | 2012 | ファイヤーガール (경계) | ファイヤーガール | 星空めてお | 소설 | 확인 못 함 | 평범한 학원 코미디에 미지의 행성 모험과 마법·요정이 뒤섞인 이야기. |
 | 2012 | リライト | リライト | 法条遥 | 소설·영화 | 확인 못 함 | 300년 뒤에서 온 소년을 사랑한 중학생이 사고에 휘말린 그를 구하려고 받은 약으로 10년 뒤로 뛴다. |
 | 2012 | 야한 이야기라는 개념이 존재하지 않는 지루한 세계 (경계) | 下ネタという概念が存在しない退屈な世界 | 赤城大空 | 소설·애니메이션 | 있음 | 모든 성 표현을 금지한 법이 시행된 지 16년 된 근미래 일본에서 그 법에 맞서는 테러 조직이 움직인다. |
+| 2012 | 저, 트윈 테일이 됩니다 (경계) | 俺、ツインテールになります。 | 水沢夢(원작), プロダクションアイムズ(애니메이션, 감독 神戸洋行) | 소설·애니메이션 | 있음 | 트윈테일을 사랑하는 고교생이, 세상의 트윈테일을 노리고 이세계에서 온 침략자에 맞서 변신 영웅이 된다. |
 | 2012 | 접는 도시 | 北京折叠 | 郝景芳(하오징팡) | 소설 | 있음 | 땅이 하루 주기로 뒤집히며 세 계층이 시간을 나눠 쓰는 미래의 베이징 |
 | 2012 | 학전도시 애스터리스크 (경계) | 学戦都市アスタリスク | 미야자키 유 | 게임·만화·소설·애니메이션 | 일부 | 물 위의 학원 도시 '릿카'에서 여섯 학교의 능력자 세대 학생들이 세계 최대 대결 축제를 다툰다. |
 | 2012 | 宇宙軍士官学校 | 宇宙軍士官学校 | 鷹見一幸 | 소설 | 확인 못 함 | 외계인과의 첫 접촉으로 지구 연방과 우주군이 생기고, 인류는 은하 평의회의 '숙청자' 전쟁에 들어선다. |
 | 2012 | 죽은 자의 제국 | 屍者の帝国 | 伊藤計劃·円城塔(이토 게이카쿠·엔조 도) | 만화·소설·애니메이션 | 있음 | 되살린 시체를 일꾼으로 부리는 다른 역사의 영국, 프랑켄슈타인의 연구 기록을 쫓는다 |
+| 2012 | 異能バトルは日常系のなかで (경계) | 異能バトルは日常系のなかで | 望公太(원작), TRIGGER(애니메이션, 감독 高橋正典) | 만화·소설·애니메이션 | 확인 못 함 | 중2병 부원이 있는 문예부 다섯이 어느 날 '이능'을 얻지만, 일상은 그럭저럭 평온하게 흘러간다. |
 | 2012 | 백은의 구세기 | 白銀の救世機 | 天埜冬景 | 소설 | 있음 | 수수께끼 생명체 탓에 감정을 잃은 새 인류 사이에서 낙오자 소년이 잠든 옛 인류 소녀와 구세 병기를 만난다. |
 | 2012 | 백년법 | 百年法 | 山田宗樹(야마다 무네키) | 소설 | 있음 | 늙지 않는 시술을 받은 사람은 백 년 뒤 죽어야 하는 법이 선 다른 역사의 일본 |
 | 2012 | 기신전기 던브링어 (경계) | 기신전기 던브링어 | 홍정훈 | 소설 | 한국 원작 | 연방 우주군의 전쟁 영웅이던 군단장이 어찌된 일인지 이등병부터 다시 시작하게 된다. |
@@ -1593,10 +2065,12 @@
 | 2013 | Huidao Karong | Huidao Karong | Hao Jingfang | 소설 | 확인 못 함 | 2201년, 지구에서 다섯 해를 보낸 십대들이 고향 화성으로 돌아온다. |
 | 2013 | 라드츠 제국 시리즈 | Imperial Radch | Ann Leckie | 소설 | 일부 | 죽은 몸에 배의 인공지능을 심어 부리는 제국, 몸 수천 개로 나뉜 황제가 스스로와 싸운다 |
 | 2013 | Lexicon | Lexicon | Max Barry | 소설 | 확인 못 함 | 광고용으로 만든 운율 '밈'이 듣는 이를 죽이는 바실리스크로 자라고, 세상의 끝이 다가올지 모른다. |
+| 2013 | Life After Life | Life After Life | Kate Atkinson | 드라마·소설 | 확인 못 함 | 1910년에 태어나자마자 죽은 어슐라가 같은 밤에 다시 태어나며, 두 세계 대전을 거듭 살아 낸다. |
 | 2013 | Life on the Preservation | Life on the Preservation | Jack Skillingstead | 소설 | 확인 못 함 | 돔에 갇힌 시애틀이 10월 5일을 끝없이 되풀이하고, 바깥은 좀비 들끓는 폐허, 외계인이 지킨다. |
 | 2013 | Nanopunk | Nanopunk | Nathan McGrath | 소설 | 확인 못 함 | 인구 절반이 사라진 얼음 덮인 가까운 미래, 나노 감염을 모르는 소년이 해커와 함께 동생을 찾는다 |
 | 2013 | Parasitology | Parasitology | Mira Grant | 소설 | 확인 못 함 | 약을 만들어 주는 유전자 조작 촌충을 누구나 몸에 품는 2020년대, 뇌사에서 깨어난 여자가 있다. |
 | 2013 | Proxima | Proxima | Stephen Baxter | 소설 | 확인 못 함 | 프록시마 켄타우리 행성을 어떻게 개척할지에서 시작해, 시간과 공간이 크게 넓어진다. |
+| 2013 | Q Pootle 5 | Q Pootle 5 | Nick Butterworth · Ben Butterworth | 소설·애니메이션 | 확인 못 함 | 가상의 행성 오키 도키와 그 둘레에서 지내는 Q 푸틀 5와 친구들. |
 | 2013 | Shaman (경계) | Shaman | Kim Stanley Robinson | 소설 | 확인 못 함 | 기원전 3만 2천 년, 소년 룬이 자라 쇼베 동굴 벽화를 그린 예술가가 된다. |
 | 2013 | Strange Bodies | Strange Bodies | Marcel Theroux | 소설 | 확인 못 함 | 몸이 전혀 닮지 않은 죽은 남자의 정체성을 옮겨 받았다는 사내가 런던에 나타난다. |
 | 2013 | Tales of the Terran Republic | Tales of the Terran Republic | Charles E. Gannon | 소설 | 확인 못 함 | 22세기를 무대로 한 하드 SF '지구 공화국 이야기', 주인공은 케인 리오던. |
@@ -1606,6 +2080,7 @@
 | 2013 | The Disestablishment of Paradise | The Disestablishment of Paradise | Phillip Mann | 소설 | 확인 못 함 | 행성 파라다이스의 식물이 엮은 거대한 그물이 곧 그 땅의 주민이라, 사람이 개척을 거둔다. |
 | 2013 | The Mad Scientist's Daughter | The Mad Scientist's Daughter | Cassandra Rose Clarke | 소설 | 확인 못 함 | 인구가 줄어든 가까운 미래 미국, 인공지능 인조인간과 함께 자란 소녀가 그와 사랑에 빠진다. |
 | 2013 | The Red | The Red | Linda Nagata | 소설 | 확인 못 함 | 근미래 제3세계 국지전, 기계·똑똑한 무기와 묶인 분대원들이 자신들이 장기 말임을 깨달아 간다. |
+| 2013 | The Returned (경계) | The Returned | Jason Mott | 드라마·소설 | 확인 못 함 | 미주리 마을 아카디아에 죽은 이들이 죽던 때 나이 그대로 돌아온다. |
 | 2013 | The Transhumanist Wager | The Transhumanist Wager | Zoltan Istvan | 소설 | 확인 못 함 | 트랜스휴머니즘을 퍼뜨리려던 철학자의 싸움이 끝내 세계 혁명으로 번진다 |
 | 2013 | とあるおっさんのVRMMO活動記 (경계) | とあるおっさんのVRMMO活動記 | 椎名ほわほわ | 만화·소설 | 확인 못 함 | 평범한 회사원이 자유도 높은 가상 현실 게임에서 쓸모없다는 기술만 골라 느긋하게 지낸다. |
 | 2013 | 우는 우주가 위험해의 우! | ウは宇宙ヤバイのウ！ | 미야자와 이오리 | 소설 | 있음 | 운석에 지구가 망하는 순간 되살아난 고교생이 실은 기억을 잃은 성간 첩보국 요원이었다는 말을 듣는다. |
@@ -1613,7 +2088,10 @@
 | 2013 | 요하네스버그의 천사들 | ヨハネスブルグの天使たち | 宮内悠介(미야우치 유스케) | 소설 | 있음 | 값싼 여자 모양 로봇 '디엑스나인'이 세계 곳곳의 분쟁과 얽히는 연작 |
 | 2013 | 가상영역의 엘리시온 | 仮想領域のエリュシオン | 上智一麻(죠치 카즈마) | 소설 | 있음 | 삶 깊숙이 들어온 전뇌 세계 엘리시온의 버그를 잡는 게임에 남매가 뛰어든다 |
 | 2013 | 내가 사는 의미 (경계) | 俺が生きる意味 | 아카츠키 카케야 | 소설 | 있음 | 2000년 전 대재앙을 넘긴 일본, 한 학생의 선택과 함께 학교가 닫힌 공간이 되고 괴물이 학생들을 덮친다. |
+| 2013 | 増山超能力師事務所 (경계) | 増山超能力師事務所 | 誉田哲也 | 드라마·소설·영화 | 확인 못 함 | 초능력자가 '초능력사'로 일하는 세상, 닛포리의 작은 사무소가 갖가지 의뢰를 맡는다. |
+| 2013 | 时间之墟 | 时间之墟 | 宝树 | 소설 | 확인 못 함 | 2012년 충돌기 실험이 외계 '수확자'를 불러, 지구 생명의 생각이 하루도 안 되는 시간 고리에 갇힌다. |
 | 2013 | 最弱無敗の神装機竜 (경계) | 最弱無敗の神装機竜 | 明月千里 | 만화·소설·애니메이션 | 확인 못 함 | 유적에서 캐낸 전설의 용 모양 기계 갑옷 '기룡'으로 싸우는 왕국, 망한 제국의 황자가 사관학교에 들어간다. |
+| 2013 | 무채한의 팬텀 월드 (경계) | 無彩限のファントム・ワールド | 秦野宗一郎(원작), 京都アニメーション(애니메이션, 감독 石原立也) | 소설·애니메이션 | 있음 | 유전자 연구소 폭파 테러로 퍼진 바이러스 탓에 사람들 뇌가 바뀌어 유령 같은 '팬텀'이 보이게 된 세계. |
 | 2013 | 皆勤の徒 | 皆勤の徒 | 酉島伝法 | 소설 | 없음 | 기술과 몸과 생물이 뒤엉킨 먼 미래의 기괴한 세계, 낯선 말로 지어진 이야기 |
 | 2013 | 웨이스트 타이드 | 荒潮 | 陈楸帆(천추판) | 소설 | 있음 | 전자 쓰레기가 쌓인 남중국의 섬, 쓰레기를 뒤지는 이주 노동자 소녀가 낯선 힘에 휘말린다 |
 | 2013 | 아오이와 슈뢰딩거의 그녀들 (경계) | 葵くんとシュレーディンガーの彼女たち | 와타라이 나나미 | 소설 | 있음 | 아침에 눈을 뜰 때마다 옆집 소꿉친구가 다른 사람으로 바뀌는 소년이 그 비밀을 홀로 안고 산다. |
@@ -1632,6 +2110,8 @@
 | 2014 | Lagoon | Lagoon | Nnedi Okorafor | 소설 | 확인 못 함 | 라고스 앞바다에 외계인이 내려 첫 만남이 이뤄지고, 여성 과학자의 가족이 흔들린다. |
 | 2014 | Lock In | Lock In | John Scalzi | 소설 | 확인 못 함 | 온몸을 못 움직이게 하는 바이러스 '헤이든 증후군'이 퍼진 지 25년 뒤의 수사극. |
 | 2014 | Nigerians in Space | Nigerians in Space | Deji Bryce Olukotun | 소설 | 확인 못 함 | 태양 폭풍이 지구에 재앙을 부르고 우주 정거장의 우주인이 위태로운 가까운 미래, 나이지리아 우주 계획. |
+| 2014 | Occultic;Nine -オカルティック・ナイン- (경계) | Occultic;Nine -オカルティック・ナイン- | 志倉千代丸(원작), A-1 Pictures(애니메이션) | 게임·만화·소설·애니메이션 | 있음 | 오컬트 블로그를 하는 고교생이 교수의 시체를 발견한 뒤, 도시의 초상 현상과 '초상 과학' 음모에 휘말린다. |
+| 2014 | Outlander (경계) | Outlander | Diana Gabaldon | 드라마·소설 | 확인 못 함 | 1945년 스코틀랜드에서 전직 군 간호사 클레어가 1743년으로 건너가 고지대 전사와 사랑에 빠진다. |
 | 2014 | Pantheon | Pantheon | Craig Silverstein (애니메이션), 원작 Ken Liu | 소설·애니메이션 | 일부 | 죽은 사람의 뇌를 읽어 디지털 의식으로 되살린 기업들이 다투는 근미래 |
 | 2014 | 레드 라이징 | Red Rising | Pierce Brown | 소설·탁상 게임 | 일부 | 빛깔로 계급을 나눈 화성 사회, 땅속 광부 소년이 지배층 금빛으로 몸을 바꿔 숨어든다 |
 | 2014 | 서던 리치 시리즈 (경계) | Southern Reach | Jeff VanderMeer | 소설·영화 | 일부 | 바닷가 한 지역이 알 수 없는 힘에 갇혀 생명을 바꿔 놓고, 탐사대가 차례로 들어간다 |
@@ -1651,10 +2131,13 @@
 | 2014 | ドウルマスターズ | ドウルマスターズ | 佐島勤 | 소설 | 확인 못 함 | 2400년대 태양계 연맹이 쥔 지구, 조종사의 생각하는 힘을 키우는 기동 병기가 도시들의 다툼을 가른다. |
 | 2014 | ファーレンハイト9999 (경계) | ファーレンハイト9999 | 朝倉勲 | 소설 | 확인 못 함 | 엽기 살인을 계기로 만화·애니메이션이 전면 규제된 일본, 오타쿠를 잡는 분서과 수사관이 실은 숨은 오타쿠다. |
 | 2014 | 인간의 얼굴은 먹기 힘들다 | 人間の顔は食べづらい | 白井智之 (시라이 도모유키) | 소설 | 있음 | 새 병으로 축산이 무너진 뒤 복제 인간을 길러 고기로 먹는 시대의 추리극 |
+| 2014 | 异常生物见闻录 | 异常生物见闻录 | 远瞳 | 만화·소설·애니메이션 | 확인 못 함 | 빈방을 세놓은 청년이 사람 아닌 종족 세입자를 만나고 '시공 관리국'의 심사관이 된다. |
 | 2014 | 헌등사 | 献灯使 | 多和田葉子(다와다 요코) | 소설 | 있음 | 큰 재해 뒤 나라 문을 닫은 일본, 늙은이는 죽지 못하고 아이들은 몸이 약해져 간다 |
 | 2014 | 筺底のエルピス | 筺底のエルピス | オキシタケヒコ | 소설 | 확인 못 함 | 차원 뒤에서 사람을 살육으로 모는 '귀신'을 개조 눈과 시간 정지 역장을 쓰는 조직이 천 년 넘게 사냥한다. |
 | 2014 | 終末なにしてますか? 忙しいですか? 救ってもらっていいですか? (경계) | 終末なにしてますか? 忙しいですか? 救ってもらっていいですか? | 枯野瑛 | 만화·소설·애니메이션 | 확인 못 함 | 수수께끼의 '짐승'에 지상이 망하고 여러 종족이 하늘에 뜬 대륙으로 피한 먼 뒤, 옛 용사가 깨어난다. |
 | 2014 | 絶深海のソラリス | 絶深海のソラリス | らきるち | 만화·소설 | 확인 못 함 | 대해일로 땅 대부분이 잠긴 2145년, 피와 섞이는 결정체로 물을 부리게 된 아이들이 섬 학원에서 훈련한다. |
+| 2014 | 蓬萊間 (경계) | 蓬萊間 | 路寒(원작) · 王奕丁(감독) | 드라마·소설 | 확인 못 함 | 정체 모를 '영물' 의사의 이야기 — 소설의 요괴·선계를 드라마는 외계 '봉래족' SF로 바꿨다. |
+| 2014 | 那夜凌晨，我坐上了旺角開往大埔的紅VAN | 那夜凌晨，我坐上了旺角開往大埔的紅VAN | Mr. Pizza(원작), 陳果(감독) | 소설·영화 | 확인 못 함 | 새벽 소형 버스가 터널을 지나자 승객 열일곱만 남고 홍콩의 모든 차와 사람이 사라진다. |
 | 2014 | 青春ブタ野郎シリーズ (경계) | 青春ブタ野郎シリーズ | 鴨志田一 | 만화·소설·애니메이션 | 확인 못 함 | '사춘기 증후군'이라 불리는 초상 현상에 휘말린 고교생과 소녀들의 마음 문제를 한 권에 한 사람씩 그린다. |
 | 2014 | 魔装学園H×H (경계) | 魔装学園H×H | 久慈マサムネ | 만화·소설·애니메이션 | 확인 못 함 | 이세계와 맞닿은 틈에서 마도 병기가 쳐들어와 인류가 바다 위 부유 도시로 피한 뒤, 강화복 소녀들이 싸운다. |
 | 2014 | 당신의 머리 위에 (경계) | 당신의 머리 위에 | 박건 | 소설 | 한국 원작 | 남의 머리 위에 소속과 상태가 보이는 고교생이 자신이 외계 출신임을 알고 기체에 올라 싸운다. |
@@ -1665,6 +2148,7 @@
 | 2014 | 아크 더 레전드 (경계) | 아크 더 레전드 | 유성 | 소설 | 한국 원작 | 가상 현실 게임 '뉴 월드'의 전설적 게이머가 몰락한 뒤 우주로 넓어진 게임 세계를 다시 정복해 간다. |
 | 2014 | 호모도미난스 | 호모도미난스 | 장강명 | 소설 | 한국 원작 | 남을 지배하고 조종하는 힘을 지니도록 진화한 새 인류 '호모도미난스' |
 | 2015 | After the Saucers Landed | After the Saucers Landed | Douglas Lain | 소설 | 확인 못 함 | 백악관 잔디밭에 사람 닮은 외계인이 비행접시를 타고 내린 뒤의 초현실적인 세상. |
+| 2015 | Anna | Anna | Niccolò Ammaniti | 드라마·소설 | 확인 못 함 | 어른만 죽이는 병이 휩쓴 뒤의 시칠리아, 아이들끼리 살아남는 세상. |
 | 2015 | Arcadia | Arcadia | Iain Pears | 소설 | 확인 못 함 | 능력을 재어 서열을 매기는 감시 사회의 미래, 연구자의 시간 기계가 지어낸 세계와 엮인다. |
 | 2015 | Aurora | Aurora | Kim Stanley Robinson | 소설 | 확인 못 함 | 2천 명을 태우고 고래자리 타우로 가는 세대선, 배의 인공지능이 그들의 삶을 들려준다. |
 | 2015 | Australia | Australia | James Smythe | 소설 | 확인 못 함 | 기후 재앙을 피해 떠난 인류의 우주선 '오스트레일리아', 통제가 무너져 혼돈이 닥친다. |
@@ -1675,6 +2159,7 @@
 | 2015 | 어둠 속으로 | Into the Night | Jacek Dukaj (소설); Jason George (Netflix) | 드라마·소설 | 있음 | 햇빛을 받으면 사람이 죽는 재앙이 오자, 납치된 여객기가 밤을 따라 서쪽으로 날아간다. |
 | 2015 | Jackaroo | Jackaroo | Paul J. McAuley | 소설 | 확인 못 함 | 선물을 들고 온 듯한 외계인 재커루가 수수께끼 유물이 있는 행성들로 가는 길을 열어 준 가까운 미래 런던. |
 | 2015 | Las constelaciones oscuras | Las constelaciones oscuras | Pola Oloixarac | 소설 | 확인 못 함 | 19세기 박물학자부터 2020년대 해커까지, 끝내 유전자로 모든 사람의 움직임을 지켜보는 체계를 만든다 |
+| 2015 | Les Pyjamasques (경계) | Les Pyjamasques | Romuald Racioppo(원작) · Olivier Dumont | 소설·애니메이션 | 확인 못 함 | 밤이 되면 동물 영웅으로 변하는 아이 셋이 악당과 맞선다. |
 | 2015 | Luna | Luna | Ian McDonald | 소설 | 확인 못 함 | 기업 연합 '다섯 용'이 산업화된 달을 쥐고, 그 일족들의 삶이 어두운 끝으로 치닫는다. |
 | 2015 | Planetfall | Planetfall | Emma Newman | 소설 | 확인 못 함 | 신을 찾아 떠난 우주선 아틀라스 40년 뒤의 지구, 수사관이 옛 교단 지도자의 죽음을 캔다. |
 | 2015 | Radiomen | Radiomen | Eleanor Lerman | 소설 | 확인 못 함 | 지구의 단파 라디오가 우주로 기도를 실어 보내는 외계인 망의 일부임이 드러난다. |
@@ -1684,15 +2169,22 @@
 | 2015 | The Chronicles of Ubastis | The Chronicles of Ubastis | Marguerite Reed | 소설 | 확인 못 함 | 오염으로 지구가 기우는 사이, 새 고향 후보 행성 우바스티스의 연구 식민지에서 생태 연구와 개발이 부딪친다. |
 | 2015 | The Great Silence | The Great Silence | Ted Chiang | 소설 | 확인 못 함 | 외계 지성을 찾는 전파 망원경 곁에서, 사라져 가는 말하는 앵무새가 인류에게 말을 건다. |
 | 2015 | The Water Knife | The Water Knife | Paolo Bacigalupi | 소설 | 확인 못 함 | 기후 변화의 가뭄이 미국 남서부를 망가뜨린 가까운 미래의 물 싸움 |
+| 2015 | Trollhunters (경계) | Trollhunters | Guillermo del Toro · Daniel Kraus | 소설·애니메이션 | 확인 못 함 | 운하 밑에서 '빛의 부적'을 찾은 소년 짐이 아카디아 마을을 지키는 트롤 사냥꾼이 된다. |
 | 2015 | VRMMO에서 소환사를 시작했습니다 (경계) | VRMMOでサモナー始めました | テトメト | 만화·소설 | 있음 | 인기 가상 현실 게임에서 실수로 '소환사'를 고른 소년이 귀여운 짐승들을 불러 모험한다. |
 | 2015 | Where (경계) | Where | Kit Reed | 소설 | 확인 못 함 | 작은 마을 사람들이 통째로 시골 감옥 같은 곳에 갇힌다. |
 | 2015 | 나중 일은 될 대로 되라지! (경계) | あとは野となれ大和撫子 | 宮内悠介 | 소설 | 있음 | 아랄해가 말라 생긴 땅의 가공의 난민 국가에서, 대통령이 쓰러지자 후궁 학교의 젊은 여성들이 나라를 맡는다. |
 | 2015 | のんびりVRMMO記 (경계) | のんびりVRMMO記 | まぐろ猫@恢猫 | 만화·소설 | 확인 못 함 | 쌍둥이 여동생들의 보호자로 가상 현실 게임에 들어간 청년이 요리·조합 같은 생산 기술을 키운다. |
 | 2015 | エイルン・ラストコード 〜架空世界より戦場へ〜 | エイルン・ラストコード 〜架空世界より戦場へ〜 | 東龍乃助 | 만화·소설 | 확인 못 함 | 2070년 적성 생물 '말리스'에 수억이 죽은 지구에, 인기 애니메이션 속 소년을 닮은 조종사가 나타난다. |
+| 2015 | ドクター・ホワイト (경계) | ドクター・ホワイト | 樹林伸 | 드라마·만화·소설 | 확인 못 함 | 공원에서 쓰러진 흰 가운의 소녀가 의학 지식만 남은 채 병원의 오진을 하나씩 짚어 낸다. |
+| 2015 | 바빌론 (경계) | バビロン | 野﨑まど(원작), REVOROOT(애니메이션) | 만화·소설·애니메이션 | 있음 | 새 법을 시험하는 '제2의 도쿄'에서 자살을 권리로 인정하는 법이 나오고, 검사가 그 뒤의 여자를 쫓는다. |
 | 2015 | 라플라스의 마녀 (경계) | ラプラスの魔女 | 東野圭吾(히가시노 게이고) | 소설·영화 | 있음 | 현재를 다 알면 앞일을 계산할 수 있다는 힘을 지닌 소녀가 가스 중독 죽음을 캔다 |
 | 2015 | 칠성의 스바루 (경계) | 七星のスバル | 田尾典丈 | 소설·애니메이션 | 있음 | 어린 시절 전설이던 온라인 게임 파티가 친구의 죽음으로 흩어졌다가 새 게임 속에서 그 친구를 다시 만난다. |
 | 2015 | 二度めの夏、二度と会えない君 (경계) | 二度めの夏、二度と会えない君 | 赤城大空 | 만화·소설·영화 | 확인 못 함 | 불치병을 앓던 전학생 소녀가 죽은 뒤, 고교생이 그녀를 처음 만난 반년 전으로 되돌아가 여름을 다시 산다. |
+| 2015 | 在座寫輕小說的各位，全都有病 (경계) | 在座寫輕小說的各位，全都有病 | 甜咖啡 | 소설 | 확인 못 함 | 라이트 노벨 작가들의 연애 희극에 외계 생명이 끼어든다. |
+| 2015 | 大江戸科学捜査 八丁堀のおゆう (경계) | 大江戸科学捜査 八丁堀のおゆう | 山本巧次 | 드라마·소설 | 확인 못 함 | 할머니가 남긴 집의 계단으로 에도 시대를 오가는 미스터리 애호가가 현대 과학 수사로 사건을 푼다. |
+| 2015 | 建豐二年——新中國烏有史 (경계) | 建豐二年——新中國烏有史 | 陳冠中 | 소설 | 확인 못 함 | 국민당이 내전에서 이겼다면 — 1949~1979년 국민당 치하 중국의 다른 30년. |
 | 2015 | 원수성역 | 怨讐星域 | 梶尾真治(카지오 신지) | 소설 | 있음 | 해의 폭발을 피해 몰래 떠난 세대 우주선과, 남겨진 이들이 순간 이동으로 먼저 닿은 별 |
+| 2015 | 晴れたらいいね (경계) | 晴れたらいいね | 藤岡陽子 | 드라마·소설 | 확인 못 함 | 지진과 함께 정신을 잃은 간호사가 깨어나 보니 태평양 전쟁 중인 필리핀의 거친 들판에 있다. |
 | 2015 | 요코하마 역 SF | 横浜駅SF | 柞刈湯葉(이스카리 유바) | 만화·소설 | 있음 | 끝없이 스스로 늘어나던 요코하마역이 혼슈의 거의 전부를 뒤덮은 수백 년 뒤 |
 | 2015 | 내가 히틀러라니! (경계) | 내가 히틀러라니! | 슈타인호프 | 소설 | 한국 원작 | 히틀러의 몸에 든 현대인이 패망과 핵 폐허를 피하려다 점점 타락해 간다. |
 | 2015 | 당신을 기다리고 있어 | 당신을 기다리고 있어 | 김보영 | 소설 | 한국 원작 | 빛에 가까운 속도로 우주를 도는 연인이 서로에게 가는 동안 지구에는 긴 세월이 흐른다 |
@@ -1708,6 +2200,7 @@
 | 2015 | 첫숨 | 첫숨 | 배명훈 | 소설 | 한국 원작 | 달과 화성에 사람이 살게 된 시대, 60만 명이 사는 거대 우주 정착지 '첫숨'에서의 추격 |
 | 2015 | 최후의 마지막 결말의 끝 | 최후의 마지막 결말의 끝 | 곽재식 | 소설 | 한국 원작 | 표제작: 빛에 가까운 속도로 나는 실험선의 조종사가, 몇 초 사이 바깥 시간이 아득히 흐른 우주에 남는다. |
 | 2015 | 킬 더 드래곤 | 킬 더 드래곤 | 백수귀족 | 소설 | 한국 원작 | '드래곤'이라 불린 다른 세계의 침략자를 초능력자만 죽일 수 있는 가까운 미래, 인류가 다음 전쟁을 맞는다. |
+| 2016 | Alien Hunter | Alien Hunter | Whitley Strieber(원작) · Natalie Chaidez | 드라마·소설 | 확인 못 함 | 아내가 사라진 필라델피아 경찰이 외계인 테러리스트를 사냥하는 조직을 알게 된다. |
 | 2016 | 하늘의 모든 새들 (경계) | All the Birds in the Sky | Charlie Jane Anders | 소설 | 있음 | 마녀 소녀와 과학 소년이 자라, 무너져 가는 세계를 마법과 기계로 각자 구하려 한다 |
 | 2016 | 수확자 시리즈 | Arc of a Scythe | Neal Shusterman | 소설 | 있음 | 인공지능이 다스려 죽음과 가난이 사라진 세상, 사람 수를 맞추려 수확자만이 사람을 죽인다 |
 | 2016 | Azanian Bridges | Azanian Bridges | Nick Wood | 소설 | 확인 못 함 | 아파르트헤이트가 21세기까지 이어진 대체 역사 남아프리카, 텔레파시 장치가 두 사람을 잇는다. |
@@ -1725,6 +2218,7 @@
 | 2016 | 맨디블 가족 (경계) | The Mandibles: A Family, 2029–2047 | Lionel Shriver | 소설 | 있음 | 달러가 무너진 2029년 미국에서 부유하던 집안이 하루아침에 가난해진다. |
 | 2016 | The Medusa Chronicles | The Medusa Chronicles | Stephen Baxter · Alastair Reynolds | 소설 | 확인 못 함 | 1968년 미소가 함께 소행성 충돌을 막은 대체 역사, 클라크 중편의 주인공이 먼 미래까지 이어 산다. |
 | 2016 | The Mercy Journals | The Mercy Journals | Claudia Casper | 소설 | 확인 못 함 | 여러 참사 뒤 세계 인구가 크게 줄어든 가까운 미래, 학살의 기억을 지닌 사람의 기록. |
+| 2016 | The One | The One | John Marrs(원작) · Howard Overman | 드라마·소설 | 확인 못 함 | 존 마스의 소설을 옮긴 영국 공상 과학 연속극. |
 | 2016 | 파워 (경계) | The Power | Naomi Alderman | 드라마·소설 | 있음 | 어느 날 젊은 여자들 손에서 전기를 쏘는 힘이 깨어나 세상의 힘 관계가 뒤집힌다 |
 | 2016 | The Thing Itself | The Thing Itself | Adam Roberts | 소설 | 확인 못 함 | 칸트의 논증을 제대로 이해하면 가능해지는 시간 여행 이야기. |
 | 2016 | 언더그라운드 레일로드 (경계) | The Underground Railroad | Colson Whitehead | 드라마·소설 | 있음 | 노예를 북부로 빼돌리던 비밀 조직 '지하 철도'가 정말 땅속을 달리는 철도인 19세기 미국. |
@@ -1762,6 +2256,7 @@
 | 2017 | 86 에이티식스 | 86―エイティシックス― | 安里アサト(아사토 아사토) | 만화·소설·애니메이션 | 있음 | 무인기가 싸운다고 믿는 나라, 실은 차별받는 '86'이 탄 기체가 무인 기계 군단과 싸운다 |
 | 2017 | 9전단 1941 (경계) | 9전단 1941 | 국뽕 | 소설 | 한국 원작 | 근미래 한국 항공모함 전단이 2차 대전이 막 터진 1941년 태평양으로 떨어진다. |
 | 2017 | American War | American War | Omar El Akkad | 소설 | 확인 못 함 | 기후 변화와 병으로 무너진 2070년대 미국, 화석 연료 금지를 두고 2차 남북 전쟁이 터진다. |
+| 2017 | Anukul | Anukul | Satyajit Ray(원작), Sujoy Ghosh(감독) | 소설·영화 | 확인 못 함 | 힌디어 교사가 로봇 공급 회사에서 인조인간 하인을 사 오고, 판매원이 주의를 준다. |
 | 2017 | 아르테미스 | Artemis | Andy Weir | 소설 | 있음 | 달에 세운 첫 도시에서 밀수꾼 여자가 도시를 흔드는 음모에 휘말린다 |
 | 2017 | Austral | Austral | Paul J. McAuley | 소설 | 확인 못 함 | 기후 변화와 뻔뻔한 부자들의 가까운 미래, 유전자로 만든 여자가 제 삶을 찾아 나선다. |
 | 2017 | Autonomous | Autonomous | Annalee Newitz | 소설 | 확인 못 함 | 사람도 로봇도 재산이 될 수 있는 2144년, 특허 약을 복제해 파는 해적이 위험한 약을 쫓는다. |
@@ -1771,8 +2266,10 @@
 | 2017 | Borne | Borne | Jeff VanderMeer | 소설 | 확인 못 함 | 생명 공학 회사가 남긴 괴물들이 들끓는 폐허 도시, 거대한 곰 모드의 털에서 이상한 생물을 줍는다. |
 | 2017 | Dreams Before the Start of Time | Dreams Before the Start of Time | Anne Charnock | 소설 | 확인 못 함 | 사람의 생식이 과학이 된 가까운 미래 런던, 누구나 짝과 함께든 혼자서든 아이를 낳을 수 있다. |
 | 2017 | Future Home of the Living God | Future Home of the Living God | Louise Erdrich | 소설 | 확인 못 함 | 눈이 거의 내리지 않는 가까운 미래 미국, 모든 종의 번식이 무너지고 사람이 특히 심하다. |
+| 2017 | Jakten på tidskristallen (경계) | Jakten på tidskristallen | Erika Vallin(원작) · SVT | 드라마·소설 | 확인 못 함 | 에리카 발린의 3부작을 옮긴 성탄 달력극, 제목대로 시간 수정을 찾아 나선다. |
 | 2017 | John Nyquist (경계) | John Nyquist | Jeff Noon | 소설 | 확인 못 함 | 주민들이 이야기 줄거리를 넘나들어 '서사 경관'이 단속하는 세계 스토리빌에 들어선 탐정. |
 | 2017 | Landscape with Invisible Hand | Landscape with Invisible Hand | M. T. Anderson(원작) · Cory Finley(영화) | 소설·영화 | 확인 못 함 | 외계인 '부브'가 지배층이 된 지구, 일자리를 잃은 소년과 여자 친구가 연애를 외계인에게 중계해 돈을 번다. |
+| 2017 | Made for Love | Made for Love | Alissa Nutting | 드라마·소설 | 확인 못 함 | 기술 억만장자와의 숨 막히는 결혼에서 달아난 여자가 남편이 뇌에 심은 추적 장치를 알게 된다. |
 | 2017 | New York 2140 | New York 2140 | Kim Stanley Robinson | 소설 | 확인 못 함 | 두 번의 해수면 상승으로 물에 잠긴 2140년 뉴욕, 사람들은 고층 건물 위층에 산다. |
 | 2017 | Primitive War | Primitive War | Ethan Pettus(원작) · Luke Sparke(영화) | 소설·영화 | 확인 못 함 | 1968년 베트남 밀림 계곡에 간 정찰대가 되살아난 공룡과 과거로 문을 연 소련의 실험에 맞닥뜨린다. |
 | 2017 | Sea of Rust | Sea of Rust | C. Robert Cargill | 소설 | 확인 못 함 | 사람이 사라진 지구, 로봇들이 인공지능 중앙 컴퓨터의 지배 아래 살고 한 로봇이 맞선다. |
@@ -1784,6 +2281,7 @@
 | 2017 | 머더봇 다이어리 | The Murderbot Diaries | Martha Wells (소설); Chris Weitz, Paul Wei | 드라마·소설 | 있음 | 스스로 통제를 풀어 버린 경비용 인조인간이 몰래 연속극을 보며 사람들을 지킨다. |
 | 2017 | The Rift (경계) | The Rift | Nina Allan | 소설 | 확인 못 함 | 여러 해 사라졌던 언니가 돌아오고, 그 사이 일이 마음의 병인지 다른 무엇인지 끝내 가려지지 않는다. |
 | 2017 | Tropic of Kansas | Tropic of Kansas | Christopher Brown | 소설 | 확인 못 함 | 1981년 레이건 암살에서 갈라져 쪼개진 대체 역사 미국, 유전 공학·기후 변화·광신 정치가 뒤엉킨다. |
+| 2017 | 우라하라 | URAHARA | 白組·EMTスクエアード(감독 久保亜美香) | 소설·애니메이션 | 있음 | 세계 곳곳의 건물을 훔쳐 가는 외계 존재가 하라주쿠로 오자, 가게를 연 여고생 셋이 변신해 맞선다. |
 | 2017 | VRMMO 학원에서 즐거운 마개조 가이드 (경계) | VRMMO学園で楽しい魔改造のススメ ~最弱ジョブで最強ダメージ出してみた~ | ハヤケン | 소설 | 있음 | 가상 현실 게임을 수업에 들인 고등학교에서 인기 없는 직업을 고쳐 최강으로 만드는 소년의 이야기. |
 | 2017 | Void Star | Void Star | Zachary Mason | 소설 | 확인 못 함 | 가까운 미래 샌프란시스코, 머리에 심은 완벽 기억 장치와 인공지능의 '생각'을 옮기는 통역자 |
 | 2017 | Walkaway | Walkaway | Cory Doctorow | 소설 | 확인 못 함 | 감시하는 부자 과두 사회를 떠나 선물로 돌아가는 공동체를 세운 이들, 죽음을 넘는 길까지 찾는다 |
@@ -1795,12 +2293,15 @@
 | 2017 | 밀리언 크라운 | ミリオン・クラウン | 타츠노코 타로 | 소설 | 있음 | 환경 제어탑의 폭주로 대륙 대부분이 바다에 잠기고 나노 기계가 퍼진 지 300년, 남은 인류가 살아간다. |
 | 2017 | 야키토리 | ヤキトリ | カルロ・ゼン | 소설·애니메이션 | 있음 | 다른 별 주민의 노예가 된 지구 인류의 청년들이 궤도 보병 '야키토리'로 팔려 행성에 떨어진다. |
 | 2017 | リビルドワールド | リビルドワールド | ナフセ (나후세) | 만화·소설·애니메이션 | 확인 못 함 | 까닭 모를 대재앙 뒤 부자만 제대로 먹는 세상, 사냥꾼들이 옛 세계 폐허에서 유물을 캐고 괴물과 싸운다 |
+| 2017 | リンキング・ラブ (경계) | リンキング・ラブ | 萩島宏(원작), 金子修介(감독) | 소설·영화 | 확인 못 함 | 램프에서 나온 수호신이 여대생을 1991년으로 보내고, 그는 부모의 이혼을 막으려 한다. |
 | 2017 | 僕はロボットごしの君に恋をする | 僕はロボットごしの君に恋をする | 山田悠介 | 소설 | 확인 못 함 | 세 번째 올림픽을 앞둔 2060년 도쿄, 원격 조종 로봇으로 경비하던 청년이 로봇 너머 첫사랑에 다가간다. |
 | 2017 | 廃ゲーマーな妹と始めるVRMMO生活 (경계) | 廃ゲーマーな妹と始めるVRMMO生活 | 鈴森一 | 만화·소설 | 없음 | 부상으로 야구를 그만둔 고교생이 여동생이 보낸 가상 현실 게임기로 새 게임을 시작한다. |
+| 2017 | 很純很曖昧 (경계) | 很純很曖昧 | 魚人二代(원작) · 李伯恩(감독) | 드라마·소설 | 확인 못 함 | 남의 생각을 읽는 신기한 콘택트렌즈를 얻은 학생이 능력을 하나씩 풀며 어둠의 조직과 싸운다. |
 | 2017 | 戦闘員、派遣します! (경계) | 戦闘員、派遣します! | 暁なつめ | 만화·소설·애니메이션 | 확인 못 함 | 세계 정복 직전인 악의 비밀결사가 전투원과 인조인간을 판타지 같은 다른 행성에 침략 선발대로 보낸다. |
 | 2017 | 잔차품 | 残次品 | Priest | 소설 | 있음 | 인류가 여덟 항성계를 개척해 연맹을 이루고 수명이 300세로 늘어난 시대의 우주 사건물. |
 | 2017 | 이세계 피크닉 (경계) | 裏世界ピクニック | 宮澤伊織(미야자와 이오리) | 만화·소설·애니메이션 | 있음 | 폐건물의 문 너머 괴담이 사는 다른 세계를 두 사람이 탐사한다 |
 | 2017 | 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか? (경계) | 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか? | 井中だちま | 만화·소설·애니메이션 | 확인 못 함 | 정부 조사원에게 개발 중인 온라인 게임 시험자로 뽑힌 고교생이, 엄마와 함께 판타지 게임 세계로 들어간다. |
+| 2017 | 颤抖吧，阿部！ (경계) | 颤抖吧，阿部！ | 疯丢子(원작) · 赵小溪 · 赵小鸥(감독) | 드라마·소설 | 확인 못 함 | 당나라를 무대로 외계인이 끼어드는 SF 사극 희극. |
 | 2017 | 나노 마신 (경계) | 나노 마신 | 한중월야 | 만화·소설 | 한국 원작 | 미래에서 온 후손이 마교의 꼴찌 서열 후계자 몸에 나노 머신을 넣어 준다. |
 | 2017 | 나는 아직 살아있다 (경계) | 나는 아직 살아있다 | 미스터쿼카 | 소설 | 한국 원작 | 좀비가 들끓는 세상에서 상처를 안은 전직 소방관이 부모 잃은 소녀를 지키며 살아남는다. |
 | 2017 | 로스트 헤븐 (경계) | 로스트 헤븐 | 박슬기 | 소설 | 한국 원작 | 달을 식민지로 삼은 2085년, 정체 모를 바이러스가 온 세계에 번져 사람들이 죽어 간다. |
@@ -1822,6 +2323,7 @@
 | 2018 | Moon of the Crusted Snow | Moon of the Crusted Snow | Waubgeshig Rice | 소설 | 확인 못 함 | 세상 대부분이 무너진 가까운 미래, 스스로 버티던 외딴 아니시나베 보호 구역에 백인 사내가 찾아온다. |
 | 2018 | Semiosis | Semiosis | Sue Burke | 소설 | 확인 못 함 | 전쟁과 재앙을 피해 행성 팍스로 간 개척민이, 지능을 가진 식물에게 휘둘린다. |
 | 2018 | Space Opera | Space Opera | Catherynne M. Valente | 소설 | 확인 못 함 | 은하 문명에 끼려면, 인류가 우주 노래 대회에 나가 꼴찌만은 면해야 한다. |
+| 2018 | The Dark Manual | The Dark Manual | Colin O'Sullivan(원작) · Katie Robbins | 드라마·소설 | 확인 못 함 | 남편과 아들을 비행기 사고로 잃은 교토의 미국 여자가 남편 회사가 만든 집안일 로봇을 받는다. |
 | 2018 | 다키스트 마인드 (경계) | The Darkest Minds | Alexandra Bracken(소설), Jennifer Yuh Nels | 소설·영화 | 있음 | 아이들 대부분을 죽인 병에서 살아남은 아이들이 초능력을 얻고, 어른들은 그들을 수용소에 가둔다. |
 | 2018 | The Electric State | The Electric State | Simon Stålenhag (원작), Russo 형제 (영화) | 소설·영화 | 확인 못 함 | 사람과 로봇의 전쟁 뒤 다른 1990년, 사람들이 마음을 드론 로봇에 옮겨 쓰고 로봇은 격리 구역에 쫓겨났다 |
 | 2018 | The Freeze-Frame Revolution | The Freeze-Frame Revolution | Peter Watts | 소설 | 확인 못 함 | 빛보다 느린 우주선이 은하를 끝없이 돌며 지구로 잇는 관문을 놓고, 승무원은 냉동 수면 사이사이 깨어난다. |
@@ -1830,11 +2332,14 @@
 | 2018 | Time Was | Time Was | Ian McDonald | 소설 | 확인 못 함 | 2차 대전 시집 속 연애편지에서 시작해, 시간을 떠도는 두 남자 톰과 벤의 흔적을 쫓는다. |
 | 2018 | Unholy Land | Unholy Land | Lavie Tidhar | 소설 | 확인 못 함 | 시온주의 대회가 우간다 근처 유대인 고향을 밀어붙인 대체 역사, 팔레스티나의 여러 시간선이 얽힌다. |
 | 2018 | お兄ちゃん……ここでなら、好きって言ってもいいんだよね? (경계) | お兄ちゃん……ここでなら、好きって言ってもいいんだよね? | ツカサ | 소설 | 확인 못 함 | 부모 이혼으로 헤어진 남매가 완전 몰입 게임 속에서만 만나다가, 게임에 이상이 생겨 그마저 끊긴다. |
+| 2018 | ぴぷる | ぴぷる | 原田まりる | 드라마·소설 | 확인 못 함 | 인공지능과 결혼할 수 있는 법이 생긴 2036년, 서른한 살 남자가 미소녀 인공지능을 사서 결혼하려 한다. |
 | 2018 | 만약 고도로 발달한 풀다이브RPG가 현실보다도 망겜이라면 (경계) | もしも高度に発達したフルダイブRPGが現実よりもクソゲーだったら | 土日月 | 만화·소설·애니메이션 | 일부 | 모든 것을 현실처럼 만들어 오히려 너무 귀찮아진 완전 몰입 게임 '극 퀘스트'를 남자가 꾸역꾸역 공략한다. |
 | 2018 | ブルバスター | ブルバスター | 中尾浩之(원작), 海老原誠二 | 만화·소설·애니메이션 | 확인 못 함 | 유독가스와 함께 나타난 거대 괴수에게 빼앗긴 섬에서, 해충 구제 회사 직원이 비용을 따지며 로봇을 몬다. |
 | 2018 | 나는 성간 국가의 악덕 영주! (경계) | 俺は星間国家の悪徳領主！ | 三嶋与夢 | 만화·소설·애니메이션 | 있음 | 은하 제국의 귀족 집안에 다시 태어난 남자가 악덕 영주가 되려 하지만 하는 일마다 영지를 살린다. |
+| 2018 | 回到明朝当王爷 (경계) | 回到明朝当王爷 | 月关(원작) · 徐进良(감독) | 드라마·소설 | 확인 못 함 | 현대인이 명나라로 돌아가 왕야(왕족)가 되는 시간 넘어가기 사극. |
 | 2018 | 星系出雲の兵站 | 星系出雲の兵站 | 林譲治 | 소설 | 없음 | 정체 모를 외계 세력과 맞선 행성계 인류의 전쟁을 보급과 물자 쪽에서 그린 이야기 |
 | 2018 | 本能寺から始める信長との天下統一 (경계) | 本能寺から始める信長との天下統一 | 常陸之介寛浩 | 만화·소설 | 확인 못 함 | 수학여행 간 절의 지하 문이 불타는 혼노지로 이어져, 고교생이 노부나가를 구하고 천하 통일을 돕는다. |
+| 2018 | 불 사냥의 왕 (경계) | 火狩りの王 | 日向理恵子(원작), SIGNAL.MD(애니메이션, 감독 西村純二) | 소설·애니메이션 | 있음 | 인류 최종 전쟁 뒤의 세계, 낫을 든 '불 사냥꾼'들이 사냥개와 함께 검은 숲의 '염마'를 사냥해 산다. |
 | 2018 | 우주군사관, 모험가가 되다 (경계) | 航宙軍士官、冒険者になる | 伊藤暖彥 | 만화·소설 | 일부 | 초공간 항행 중 공격받은 우주 함선의 유일한 생존 병사가 검과 마법의 행성에 불시착한다. |
 | 2018 | 녹을 먹는 비스코 | 錆喰いビスコ | 瘤久保慎司(코부쿠보 신지) | 만화·소설·애니메이션 | 있음 | 모든 것을 녹슬게 하는 바람이 부는 멸망 뒤 일본, 녹을 먹는 버섯을 찾는 궁수와 의사 |
 | 2018 | 기원전 4세기, 축록중원(逐鹿中原)은 시작되었다! (경계) | 기원전 4세기, 축록중원(逐鹿中原)은 시작되었다! | 원아이드잭 | 소설 | 한국 원작 | 전국시대가 시작된 기원전 403년, 고조선을 중심으로 본래와 다른 역사가 펼쳐진다. |
@@ -1857,10 +2362,12 @@
 | 2019 | A Song for a New Day | A Song for a New Day | Sarah Pinsker | 소설 | 확인 못 함 | 전염병과 테러로 공연·모임이 불법이 된 미래, 한 음악가의 삶. |
 | 2019 | Alchemical Journeys (경계) | Alchemical Journeys | Seanan McGuire | 소설 | 확인 못 함 | 연금술사가 우주의 근본 힘을 사람 몸에 담으려, 언어와 수학에 뛰어난 쌍둥이를 만든다. |
 | 2019 | Eva Innocente | Eva Innocente | Valerie Valdes | 소설 | 확인 못 함 | 화물선 여자 선장과 여러 종족 승무원이 은하 한가운데서 변경까지 별 사이 음모에 휘말린다. |
+| 2019 | Gabby Duran and the Unsittables | Gabby Duran and the Unsittables | Elise Allen · Daryle Conners(원작) · Mike  | 드라마·소설 | 확인 못 함 | 새 마을로 이사 온 소녀가 교장의 부탁으로 말썽꾸러기 외계인 아이들을 돌보게 된다. |
 | 2019 | 나 같은 기계들 | Machines Like Me | Ian McEwan | 소설 | 있음 | 튜링이 살아 있어 기술이 앞서간 1980년대 영국, 젊은이가 사람을 닮은 기계를 산다 |
 | 2019 | Mystery Flesh Pit (경계) | Mystery Flesh Pit | Trevor Roberts | 소설 | 확인 못 함 | 텍사스 땅속에서 발견된 거대한 살아 있는 생명체 구덩이를 산업으로 캐 쓰다 대재앙이 일어난 다른 역사. |
 | 2019 | Ninth Step Station | Ninth Step Station | Malka Older, Fran Wilde, Jacqueline Koya | 소설 | 확인 못 함 | 전쟁으로 중국과 미국이 나눠 다스리는 도쿄에 파견된 미국 장교가 도쿄 경찰과 짝을 이룬다 |
 | 2019 | Protectorate | Protectorate | Megan E. O'Keefe | 소설 | 확인 못 함 | 냉동 수면에서 깨어난 병사가, 전함에 적 한 사람과 배를 모는 인공지능만 남았음을 안다. |
+| 2019 | SCIS 科学犯罪捜査班 | SCIS 科学犯罪捜査班 | 中村啓 | 드라마·소설 | 확인 못 함 | 첨단 과학이 낳은 범죄를 맡은 '과학 범죄 대책실' 실장과 천재 과학자가 사건을 푼다. |
 | 2019 | 테익스칼란 제국 | Teixcalaan | Arkady Martine | 소설 | 있음 | 앞선 이의 기억을 머리에 심어 잇는 작은 정거장의 대사가 시와 의례의 제국 수도에 온다 |
 | 2019 | The City in the Middle of the Night | The City in the Middle of the Night | Charlie Jane Anders | 소설 | 확인 못 함 | 한쪽은 늘 낮, 한쪽은 늘 밤인 행성 '재뉴어리'의 경계에, 통제 도시와 무법 도시가 있다. |
 | 2019 | The Last Astronaut | The Last Astronaut | David Wellington | 소설 | 확인 못 함 | 태양계 안에서 발견된 외계의 존재와, 마지막 우주 비행사들이 첫 만남을 겪는다. |
@@ -1870,11 +2377,16 @@
 | 2019 | The Old Drift | The Old Drift | Namwali Serpell | 소설 | 확인 못 함 | 잠비아 세 집안의 3대에 걸친 이야기가 식민 시대에서 가까운 미래까지 이어진다. |
 | 2019 | The Outside | The Outside | Ada Hoffmann | 소설 | 확인 못 함 | 인공지능들이 다스리는 먼 미래, 금지된 혁신으로 만든 동력원이 터져 '바깥'이 쳐들어온다. |
 | 2019 | 당신들은 이렇게 시간 전쟁에서 패배한다 | This Is How You Lose the Time War | Amal El-Mohtar · Max Gladstone | 소설 | 있음 | 시간을 오가며 싸우는 두 세력의 요원이 서로에게 편지를 남기다 사랑에 빠진다 |
+| 2019 | V Wars (경계) | V Wars | Jonathan Maberry | 드라마·만화·소설 | 확인 못 함 | 기후 변화로 얼음에서 풀려난 옛 프라이온이 사람을 흡혈귀로 바꾸며 사회가 둘로 갈라진다. |
 | 2019 | 트윈스타 사이클론 런어웨이 | ツインスター・サイクロン・ランナウェイ | 小川一水 | 만화·소설 | 있음 | 인류가 우주로 나간 지 6천 년, 거대 가스 행성에서 물고기 같은 생물을 낚는 어부 두 여자가 짝을 이룬다. |
 | 2019 | ディメンションウェーブ (경계) | ディメンションウェーブ | アネコユサギ | 소설 | 없음 | 현실의 하루 동안 몇 년을 겪는 가상 현실 게임에 들어간 소년이 웬일인지 소녀 모습이 된다. |
 | 2019 | マギカテクニカ ～現代最強剣士が征くVRMMO戦刀録～ (경계) | マギカテクニカ ～現代最強剣士が征くVRMMO戦刀録～ | Allen | 만화·소설 | 일부 | 겨룰 상대를 잃은 현대의 검술 당주가 제자가 보낸 가상 현실 게임에서 적수를 찾는다. |
 | 2019 | 매드 불릿 언더 그라운드 (경계) | マッド・バレット・アンダーグラウンド | 野宮有 (노미야 유) | 소설 | 있음 | 살인도 눈감아 주는 범죄 도시에서 현상금 사냥꾼 둘이 악마의 이능력자와 얽힌다 |
+| 2019 | 亏成首富从游戏开始 (경계) | 亏成首富从游戏开始 | 青衫取醉 | 만화·소설·애니메이션 | 확인 못 함 | 10년 전으로 돌아간 사람이 손해만 재산이 되는 장치를 얻어 게임 회사를 차린다. |
 | 2019 | 여름을 향한 터널, 이별의 출구 (경계) | 夏へのトンネル、さよならの出口 | 八目迷 | 만화·소설·애니메이션 | 있음 | 들어가면 나이를 먹는 대신 원하는 것을 얻는다는 바닷가 마을의 터널에 소년과 소녀가 함께 도전한다. |
+| 2019 | 庆余年 (경계) | 庆余年 | 猫腻(원작), 孙皓(감독), 王倦(극본), 新丽传媒 | 드라마·소설 | 확인 못 함 | 출생이 수수께끼인 소년이 남경 도성의 세력 다툼 속에서 이 세계에 숨은 비밀을 알게 되는 가상 역사 무협. |
+| 2019 | 탐정은 이미 죽었다 (경계) | 探偵はもう、死んでいる。 | 二語十(원작), ENGI(애니메이션) | 만화·소설·애니메이션 | 있음 | 죽은 명탐정의 조수였던 소년이, 탐정과 함께 싸웠던 비밀 조직 'SPES'의 그림자를 다시 마주한다. |
+| 2019 | 梦回大清 (경계) | 梦回大清 | 金子(원작) · 李国立(감독) | 드라마·소설 | 확인 못 함 | 청나라 궁정으로 돌아가는 꿈 — 시간 넘어가기 궁정극(원작 제목·분류로). |
 | 2019 | 流星コーリング (경계) | 流星コーリング | 河邉徹 | 만화·소설 | 확인 못 함 | 히로시마에 인공 유성이 떨어지기로 한 날, 운 나쁜 고교생이 같은 하루를 되풀이하게 된다. |
 | 2019 | 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい | 目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい | リュート | 만화·소설·애니메이션 | 확인 못 함 | 즐겨 하던 온라인 게임의 최강 우주선 조종석에서 깨어난 사내가, 그 우주에서 용병으로 살아간다. |
 | 2019 | 神様もサイコロを振るかもしれない (경계) | 神様もサイコロを振るかもしれない | 宮島シラズ | 소설 | 확인 못 함 | 탁상 역할수행 게임을 만드는 고교생들의 현실과 게임 속 판타지가 엇갈리고, 현실에도 기묘한 사건이 일어난다. |
@@ -1898,6 +2410,7 @@
 | 2019 | 조선, 혁명의 시대 (경계) | 조선, 혁명의 시대 | 태사령 | 소설 | 한국 원작 | 근대 외교사를 공부하던 박사 과정생이 1880년 고종의 맏아들 완화군 이선이 되어 제국주의 시대를 버틴다. |
 | 2019 | 조지 부시의 위대한 미국 (경계) | 조지 부시의 위대한 미국 | Cider.cap | 소설 | 한국 원작 | 한국인 김갑환이 '미국이 공격당했다'는 보고를 받는 그날의 미국 대통령으로 다시 태어난다. |
 | 2019 | 청동기 시대에서 살아남기 (경계) | 청동기 시대에서 살아남기 | 볼트맨형님 | 소설 | 한국 원작 | 기원전 16세기 한반도 청동기 시대에 다시 태어난 이가 양변기를 쓰는 날까지 문명을 만든다. |
+| 2019 | 키스 식스 센스 (경계) | 키스 식스 센스 | 全有利(극본) | 드라마·소설 | 한국 원작 | 입을 맞추면 상대의 앞날이 보이는 능력을 지닌 여자가 그 능력 탓에 사랑에 휘말린다. |
 | 2019 | 테세우스의 배 | 테세우스의 배 | 이경희 | 소설 | 한국 원작 | 기억을 잃고 깨어난 초거대 재벌 회장을 둘러싼 목숨 건 경영권 다툼 |
 | 2019 | 페인트 | 페인트 | 이희영 | 소설 | 한국 원작 | 나라가 센터에서 아이를 길러 주는 미래, 아이가 부모를 면접 보고 고른다 |
 | 2019 | 함장에서 제독까지 | 함장에서 제독까지 | havoc | 소설 | 한국 원작 | 제국에서 망명한 장교가 초계함 함장이 되어 제국과 연합의 다툼 한가운데에서 우주 함대 제독으로 커 간다. |
@@ -1912,6 +2425,7 @@
 | 2020 | Rampart Trilogy | Rampart Trilogy | M. R. Carey | 소설 | 확인 못 함 | 종말 뒤 영국의 마을 미센 루드, 위험한 나무와 생물에 둘러싸여 옛 기술을 쥔 '램파트'가 다스린다. |
 | 2020 | Road Out of Winter | Road Out of Winter | Alison Stine | 소설 | 확인 못 함 | 끝나지 않는 겨울로 사회가 무너진 미국, 젊은 여자가 오하이오 애팔래치아를 떠나 캘리포니아로 간다. |
 | 2020 | The Animals in That Country | The Animals in That Country | Laura Jean McKay | 소설 | 확인 못 함 | 역병이 돌아 사람과 동물이 말을 주고받게 된 오스트레일리아. |
+| 2020 | The Big Door Prize | The Big Door Prize | M. O. Walsh(원작) · David West Read | 드라마·소설 | 확인 못 함 | 조용한 마을 가게에 나타난 수수께끼 기계가 사람마다 '삶의 잠재력'을 알려 준다. |
 | 2020 | The Doors of Eden | The Doors of Eden | Adrian Tchaikovsky | 소설 | 확인 못 함 | 진화가 다른 길로 간 여러 평행 세계가 이어지는 첩보 스릴러. |
 | 2020 | The Leap Cycle | The Leap Cycle | Patience Agbabi | 소설 | 확인 못 함 | 초능력으로 시간을 건너는 아이가 2045년에 닿고, '시간 분대'가 지구를 지키려 시간 전쟁을 벌인다. |
 | 2020 | 미래부 (경계) | The Ministry for the Future | Kim Stanley Robinson | 소설 | 있음 | 폭염으로 수백만이 죽은 뒤, 미래 세대를 대신하는 국제 기구가 기후를 되돌리려 싸운다 |
@@ -1956,6 +2470,7 @@
 | 2020 | 피자 타이거 스파게티 드래곤 | 피자 타이거 스파게티 드래곤 | 흉적 | 소설 | 한국 원작 | 두뇌에 칩을 박고 몸을 강화한 사람들도 미쳐 가는 23세기 우주에서 장갑복을 입은 이들의 이야기. |
 | 2021 | A River Called Time (경계) | A River Called Time | Courttia Newland | 소설 | 확인 못 함 | 고대 이집트와 유럽이 일찍 손잡은 대체 역사의 가까운 미래 런던, 마법도 함께 자란다. |
 | 2021 | 애프터 양 | After Yang | Kogonada, Alexander Weinstein(원작) | 소설·영화 | 있음 | 가족과 살던 안드로이드 '양'이 멈추자, 가족은 그의 몸속 기억 장치를 열어 보며 그를 다시 알아 간다. |
+| 2021 | Arc アーク | Arc アーク | ケン・リュウ(원작), 石川慶(감독) | 소설·영화 | 확인 못 함 | 몸을 썩지 않게 하는 기술 끝에 처음으로 늙지도 죽지도 않게 된 여자와 바뀌는 세상. |
 | 2021 | Dead Space | Dead Space | Kali Wallace | 소설 | 확인 못 함 | 소행성대 채굴 기업에서 의료 빚을 갚던 과학자가, 옛 동료의 살인을 캔다. |
 | 2021 | Deep Wheel Orcadia | Deep Wheel Orcadia | Harry Josephine Giles | 소설 | 확인 못 함 | 가스 행성을 도는 우주 정거장의 사랑 이야기, 오크니 말로 쓴 운문 소설. |
 | 2021 | Far from the Light of Heaven | Far from the Light of Heaven | Tade Thompson | 소설 | 확인 못 함 | 개척 행성 블러드루트로 가던 우주선의 인공지능 선장이 망가지고, 승객 31명이 살해된 채 발견된다. |
@@ -1972,14 +2487,19 @@
 | 2021 | Skyward Inn | Skyward Inn | Aliya Whiteley | 소설 | 확인 못 함 | 사람이 침공한 행성 키타에서 서로 맞섰던 두 퇴역병이 외딴 보호령에서 여관을 꾸린다. |
 | 2021 | The Escapement (경계) | The Escapement | Lavie Tidhar | 소설 | 확인 못 함 | 죽어 가는 아들의 약을 찾아 평행 세계들을 떠도는 총잡이, 서부극과 증기 기술이 섞인다. |
 | 2021 | The Final Architecture | The Final Architecture | Adrian Tchaikovsky | 소설 | 확인 못 함 | 행성을 기괴한 예술품으로 빚는 거대한 '건축가'에게 지구가 먹히고, 살아남은 인류는 깊이 갈라졌다. |
+| 2021 | Tuttle Twins (경계) | Tuttle Twins | Connor Boyack (원작) · Daniel Harmon | 소설·애니메이션 | 확인 못 함 | 열한 살 쌍둥이 남매가 할머니의 개조 휠체어를 타고 흔히 시간을 넘어 역사 인물을 만난다. |
 | 2021 | Wergen: The Alien Love War | Wergen: The Alien Love War | Mercurio D. Rivera | 소설 | 확인 못 함 | 사람 냄새에 넋을 잃고 매달리는 외계 종족 워전이, 사랑을 막는 약을 얻어 착취에 맞선다. |
 | 2021 | Widowland | Widowland | C. J. Carey | 소설 | 확인 못 함 | 에드워드 8세의 굴종 동맹으로 나치에 넘어간 1950년대 영국, 쉰 넘은 여자들은 수용소에 갇힌다. |
 | 2021 | もしも徳川家康が総理大臣になったら | もしも徳川家康が総理大臣になったら | 眞邊明人 | 소설·영화 | 확인 못 함 | 역병으로 총리가 죽자 정부가 인공지능과 입체 영상으로 위인들을 되살려 이에야스 내각을 꾸린다. |
 | 2021 | バレットコード：ファイアウォール (경계) | バレットコード：ファイアウォール | 斉藤すず | 소설 | 없음 | 전쟁을 막으려 청소년에게 시킨 가상 현실 전쟁 체험 학습이, 어느 날 죽으면 끝나는 진짜 전쟁이 된다. |
 | 2021 | 유어 포르마 | ユア・フォルマ | 菊石まれほ | 소설·애니메이션 | 일부 | 뇌에 심은 장치로 모든 기억이 기록되는 시대, 남의 기억에 들어가 사건을 푸는 수사관과 인조인간 짝. |
 | 2021 | 忘れえぬ魔女の物語 (경계) | 忘れえぬ魔女の物語 | 宇佐楢春 | 만화·소설 | 확인 못 함 | 같은 하루를 다섯 번쯤 되풀이하고 그중 하나가 골라지는 소녀가, 되풀이를 넘어 친구가 되는 아이를 만난다. |
+| 2021 | 我们生活在南京 | 我们生活在南京 | 天瑞说符 | 소설 | 확인 못 함 | 2019년 난징의 아마추어 무선가 고교생이 2040년 소녀와 교신하며 다가올 종말을 막으려 한다. |
 | 2021 | 어느 날, 내 죽음에 네가 들어왔다 (경계) | 死にたがりな少女の自殺を邪魔して、遊びにつれていく話 | 세이카 료겐 | 소설 | 있음 | 자신을 사신이라 부르는 여자가 고등학생에게 3년의 수명을 넘겨 달라 청하고, 그 뒤 시간이 얽힌다. |
 | 2021 | 灰原くんの強くて青春ニューゲーム (경계) | 灰原くんの強くて青春ニューゲーム | 雨宮和希 | 만화·소설·애니메이션 | 확인 못 함 | 어두운 고교 시절을 보낸 대학 4학년생이 7년 전으로 시간을 건너 다시 고교에 들어간다. |
+| 2021 | 皮皮鲁与鲁西西之罐头小人 (경계) | 皮皮鲁与鲁西西之罐头小人 | 郑渊洁(원작), 于飞(감독) | 소설·영화 | 확인 못 함 | 남매가 깡통에서 나온 다섯 꼬마 사람과 친구가 되는 공상 과학 코미디. |
+| 2021 | 缉魂 | 缉魂 | 江波(원작), 程伟豪(감독) | 소설·영화 | 확인 못 함 | 영혼을 다른 몸으로 옮기는 기술이 얽힌 범죄 수사를 그린 느와르 공상 과학 영화. |
+| 2021 | 赘婿 (경계) | 赘婿 | 愤怒的香蕉(원작) · 邓科(감독) | 드라마·소설 | 확인 못 함 | 주인공을 죽이려던 작가 대신, 상업 소설의 주인공이 옛 '무조'의 데릴사위로 건너가 산다. |
 | 2021 | 魔王2099 (경계) | 魔王2099 | 紫大悟 (무라사키 다이고) | 만화·소설·애니메이션 | 확인 못 함 | 마법 세계가 2023년 공업 세계 지구와 하나로 합쳐진 500년 뒤, 되살아난 마왕이 다시 일어선다 |
 | 2021 | 고조선을 다시 위대하게 (경계) | 고조선을 다시 위대하게 | 인간9호 | 소설 | 한국 원작 | 중국이 생기기 전에 진시황을 처치하겠다며 고조선의 역사를 바꿔 나간다. |
 | 2021 | 나인 (경계) | 나인 | 천선란 | 소설 | 한국 원작 | 식물의 목소리를 듣게 된 고등학생이 숲이 전하는 말을 따라 두 해 전 실종 사건을 파고든다. |
@@ -2030,8 +2550,10 @@
 | 2022 | Metronome | Metronome | Tom Watson | 소설 | 확인 못 함 | 여자들이 몸의 주권을 잃은 가까운 미래 영국, 허락 없이 아이를 가지려던 부부가 북쪽 섬에 유배된다. |
 | 2022 | 미키 17 | Mickey 17 | Edward Ashton(원작) · 봉준호(감독) | 소설·영화 | 있음 | 얼음 행성 개척지에서 죽으면 기억째 다시 찍어 내는 소모품 일꾼 |
 | 2022 | Molly Southbourne (경계) | Molly Southbourne | Tade Thompson | 소설 | 확인 못 함 | 실험이 잘못되어 생겨난 피의 복제 '몰리'들이 사람을 죽이고, 요원이 그 하나를 쫓는다. |
+| 2022 | Necrospace | Necrospace | Sean-Michael Argo(원작) · Rafael Jordan ·  | 드라마·소설 | 확인 못 함 | 가난한 이들에게 더 나은 미래를 약속하며 심우주 전투 소대로 끌어들이는 디스토피아 미래. |
 | 2022 | Plutoshine | Plutoshine | Lucy Kissick | 소설 | 확인 못 함 | 명왕성을 테라포밍하려는 과학자들이 사보타주의 흔적에 시달린다. |
 | 2022 | 고요의 바다에서 | Sea of Tranquility | Emily St. John Mandel | 소설 | 있음 | 달 이주지의 시간 조사관이 서로 다른 시대에 같은 이상한 순간을 겪은 사람들을 쫓는다 |
+| 2022 | TANG タング | TANG タング | デボラ・インストール(원작), 三木孝浩(감독) | 소설·영화 | 확인 못 함 | 일자리도 아내도 잃은 남자의 집 마당에 '탕'이라는 수수께끼 로봇이 나타난다. |
 | 2022 | The Coral Bones | The Coral Bones | E. J. Swift · E.J. Swift | 소설 | 확인 못 함 | 19세기·오늘·기후에 짓눌린 22세기의 세 목소리가 죽어 가는 오스트레일리아 산호초를 본다. |
 | 2022 | The Daughter of Doctor Moreau | The Daughter of Doctor Moreau | Silvia Moreno-Garcia | 소설 | 확인 못 함 | 1870년대 멕시코의 농장에서 모로 박사가 사람과 동물을 섞은 혼종을 만들고, 그 딸이 자란다. |
 | 2022 | The Extractionist | The Extractionist | Kimberly Unger | 소설 | 확인 못 함 | 아바타로 드나드는 사이버 공간에 갇힌 정부 요원을 '빼내는' 전문가. |
@@ -2044,6 +2566,7 @@
 | 2022 | Ymir | Ymir | Rich Larson | 소설 | 확인 못 함 | 꽤 먼 미래의 스페이스 오페라 은하, 고향 행성 이미르로 불려 온 요릭이 무서운 '그렌델'과 싸운다. |
 | 2022 | 데몬즈 크레스트 | デモンズ・クレスト | 川原礫 | 만화·소설 | 있음 | 세계 첫 완전 몰입 게임의 시험판을 마친 초등학생들이 로그아웃하자 게임과 현실이 뒤섞여 버린다. |
 | 2022 | 모래 위의 1DK | 砂の上の1DK | 枯野瑛 | 소설 | 있음 | 산업 스파이가 연구 시설 파괴 공작에 휘말린 옛 지인을 비밀 연구 중인 미지의 세포로 살려 낸다. |
+| 2022 | 開端 | 開端 | 祈禱君(원작) · 孫墨龍 · 劉洪源(감독) | 드라마·소설 | 확인 못 함 | 버스가 터질 때마다 같은 시간으로 되돌아오는 두 사람이 폭발을 막을 길을 찾는다. |
 | 2022 | 감자세자와 뒤주대왕 (경계) | 감자세자와 뒤주대왕 | 라세이어 | 소설 | 한국 원작 | 어느 날 프리드리히 대왕과 사도세자의 몸이 서로 바뀌어 각자의 아버지에게서 벗어나려 한다. |
 | 2022 | 검은 머리 영국 의사 (경계) | 검은 머리 영국 의사 | 한산이가 | 만화·소설 | 한국 원작 | 현대 외과 교수가 19세기 런던 외과 의사의 제자가 되어 끔찍한 시절의 의료를 바꾼다. |
 | 2022 | 고구려, 삼국지를 먹다 (경계) | 고구려, 삼국지를 먹다 | 풍아저씨 | 소설 | 한국 원작 | 고분에서 사고를 당한 현대인이 197년 고구려 왕제 계수의 몸에 들어가 삼국지 시대에 뛰어든다. |
@@ -2058,11 +2581,13 @@
 | 2022 | 시간탐험대 다이노맨 (경계) | 시간탐험대 다이노맨 | 스튜디오 버튼, 긱스소프트 | 소설·애니메이션 | 한국 원작 | 한솔수북 어린이 소설 원작, 시간을 넘나드는 아이들의 영웅 이야기. |
 | 2022 | 아포칼립스 셸터 관리자 | 아포칼립스 셸터 관리자 | 구소재 | 소설 | 한국 원작 | 외계 우주선에서 시작된 감염으로 세상이 망한 뒤, 셸터의 마지막 생존자가 뛰어난 인공지능과 함께 버틴다. |
 | 2022 | 아포칼립스에 집을 숨김 (경계) | 아포칼립스에 집을 숨김 | 로드워리어 | 만화·소설 | 한국 원작 | 세상의 멸망을 내다보고 온갖 대비를 해 둔 생존주의자가 정말 망한 세상에서 제 방공호를 지킨다. |
+| 2022 | 어게인 마이 라이프 (경계) | 어게인 마이 라이프 | Lee Hae-nal(원작 웹소설), Han Chul-soo, Kim Y | 드라마·소설 | 한국 원작 | 거물 정치인을 쫓다 살해당한 젊은 검사가 과거의 자신으로 돌아가 다시 정의를 좇는다. |
 | 2022 | 연산군의 셰프로 살아남기 (경계) | 연산군의 셰프로 살아남기 | 박국재(원작 웹소설), tvN(드라마) | 드라마·소설 | 한국 원작 | 최고의 순간 조선으로 떨어진 셰프가 살아남으려 미각이 날카로운 폭군 임금의 입맛을 사로잡아야 한다. |
 | 2022 | 이성계가 한반도를 팔아치움 (경계) | 이성계가 한반도를 팔아치움 | 담배맛동산 | 소설 | 한국 원작 | 역사 유튜버가 고려 말에 떨어져 이성계에게 미래 지식과 세계 지리를 알려 준다. |
 | 2022 | 인류보호회사 (경계) | 인류보호회사 | 짤짤이 | 만화·소설 | 한국 원작 | 괴이한 현상에서 살아남은 공시생이 위험한 괴이를 가두고 연구하는 회사에 들어가 사람 세상을 지킨다. |
 | 2022 | 인조, 명군이 되다 (경계) | 인조, 명군이 되다 | 구오 | 소설 | 한국 원작 | 밤새 말다툼으로 이긴 상대가 인조였다 — 그 인조가 된 주인공이 더 잘해 보려 한다. |
 | 2022 | 작별인사 | 작별인사 | 김영하 | 소설 | 한국 원작 | 가까운 미래, 연구원 아버지와 살던 소년이 수용소에 끌려가 자신이 무엇인지 알게 된다 |
+| 2022 | 재벌집 막내아들 (경계) | 재벌집 막내아들 | San Gyung(원작 웹소설), Jung Dae-yoon(연출), Ki | 드라마·소설 | 한국 원작 | 재벌가에 충성하다 살해당한 직원이 그 집안 막내아들로 다시 태어나 집안을 삼키려 한다. |
 | 2022 | 조선왕자가 미국갔다 안 돌아옴 (경계) | 조선왕자가 미국갔다 안 돌아옴 | 누텔라 | 소설 | 한국 원작 | 재미교포 로비스트가 미국에 유학한 의친왕 이강의 몸에 빙의한다. |
 | 2022 | 짐승조선 (경계) | 짐승조선 | 인간9호 | 소설 | 한국 원작 | 21세기 한국의 동물 농장이 통째로 성종 초기 조선으로 떨어져, 주인이 동물들부터 지키려 애쓴다. |
 | 2022 | 충무공 손자는 반역을 한다 (경계) | 충무공 손자는 반역을 한다 | daybreak95 | 소설 | 한국 원작 | 이순신의 손자로 다시 태어나 정묘호란을 막았더니 돌아온 건 인조의 탓이었다. |
@@ -2072,6 +2597,7 @@
 | 2022 | 혁명은 내 취향이 아니었다 (경계) | 혁명은 내 취향이 아니었다 | 코락스 | 소설 | 한국 원작 | 계획대로 살던 공무원이 수상한 관리자의 복지 하나 믿고 격동의 18세기 말 조선에 다시 태어난다. |
 | 2022 | 환생했더니 단종의 보모나인 (경계) | 환생했더니 단종의 보모나인 | 윤인수 | 만화·소설 | 한국 원작 | 현덕왕후의 금가락지를 낀 여성이 '홍위를 지켜 달라'는 절규와 함께 어린 단종 곁으로 끌려간다. |
 | 2022 | 효명세자와 함께하는 조선 생활 (경계) | 효명세자와 함께하는 조선 생활 | 차돌박E | 소설 | 한국 원작 | 대학원생 둘이 1829년 조선으로 넘어가 효명세자 곁에서 망국으로 가는 길을 바꾸려 한다. |
+| 2023 | Beacon 23 | Beacon 23 | Hugh Howey(원작) · Zak Penn | 드라마·소설 | 확인 못 함 | 알려진 우주의 끝, 외딴 등대 우주 정거장에 갇힌 두 사람의 운명이 얽힌다. |
 | 2023 | Beautiful Shining People | Beautiful Shining People | Michael Grothaus | 소설 | 확인 못 함 | 인공지능과 딥페이크, 무기가 된 사회 연결망이 나라와 사회를 바꾼 가까운 미래의 성장 이야기 |
 | 2023 | Chain-Gang All-Stars (경계) | Chain-Gang All-Stars | Nana Kwame Adjei-Brenyah | 소설 | 확인 못 함 | 죄수끼리 싸우는 중계 경기 'CAPE'에서 살아남으면 풀려나는 상상의 미국. |
 | 2023 | Corey Fah Does Social Mobility (경계) | Corey Fah Does Social Mobility | Isabel Waidner | 소설 | 확인 못 함 | 돌연변이 생물이 끼어드는 이야기, 미래로 시간 여행을 갔다가 옷차림 조언을 들고 돌아온다. |
@@ -2082,6 +2608,7 @@
 | 2023 | Starter Villain | Starter Villain | John Scalzi | 소설 | 확인 못 함 | 대리 교사가 억만장자 삼촌의 '악당' 사업을 물려받고, 유전자로 똑똑해진 첩보 고양이들과 일한다. |
 | 2023 | The Terraformers | The Terraformers | Annalee Newitz | 소설 | 확인 못 함 | 6만 년 뒤 기업 소유의 행성, 노예 노동으로 테라포밍하던 이들이 몰래 살아남은 땅밑 도시를 찾는다. |
 | 2023 | レプリカだって、恋をする。 (경계) | レプリカだって、恋をする。 | 榛名丼 | 만화·소설·애니메이션 | 확인 못 함 | 자기와 똑같은 분신을 만드는 소녀의 대역으로 살던 분신이 같은 반 소년을 좋아하게 된다. |
+| 2023 | 机忆之地 | 机忆之地 | 沈阳(清华大学 교수) | 소설 | 확인 못 함 | 사고 뒤 기억을 잃은 전직 신경 과학자가 메타버스에서 기억을 되찾으려 한다. |
 | 2023 | 강철을 입은 천재 | 강철을 입은 천재 | 녹색여우 | 소설 | 한국 원작 | 여러 번의 큰 전쟁 뒤 땅속 도시에서 깨어난 격투가가 기계 몸에 갇혀 로봇 격투 리그에 나선다 |
 | 2023 | 게임 속 조연은 집착 당한다 (경계) | 게임 속 조연은 집착 당한다 | 손아픈사람 | 소설 | 한국 원작 | 사이버펑크 게임 속 도시에 빨려 들어가 십 년째 사는 사람의 일상과 얽힘 |
 | 2023 | 고려황제! 무신정변을 막아라! (경계) | 고려황제! 무신정변을 막아라! | 차돌박E | 소설 | 한국 원작 | 역사를 모르는 농부가 무신정변으로 쫓겨날 고려 의종의 몸에 들어가 운명을 바꾸려 한다. |
@@ -2103,6 +2630,7 @@
 | 2023 | 아포칼립스에서도 육아를 합니다 (경계) | 아포칼립스에서도 육아를 합니다 | 흙과불 | 소설 | 한국 원작 | 좀비 세상, 아이가 태어나지 않은 지 10년째에 은퇴한 깡패와 도끼 든 간호사가 네 살 아이를 데려간다. |
 | 2023 | 열녀박씨 계약결혼뎐 (경계) | 열녀박씨 계약결혼뎐 | 고남정(극본), 박상훈·강채원(연출) | 드라마·소설 | 한국 원작 | 죽음을 넘어 2023년 대한민국에 떨어진 19세기 양반가 여인이 감정 없는 남자와 계약 결혼을 한다. |
 | 2023 | 영조의 아들로 살아남기 (경계) | 영조의 아들로 살아남기 | 날아오르기 | 소설 | 한국 원작 | 심리학도가 사도세자가 되어 살기 위해 영조를 고칠지 죽일지 고른다. |
+| 2023 | 완벽한 결혼의 정석 (경계) | 완벽한 결혼의 정석 | Lee Beom-bae(원작), Oh Sang-won(연출), Im Se | 드라마·소설 | 한국 원작 | 부잣집 입양 딸로 냉대받으며 살던 여자가 시간을 거슬러 다시 기회를 얻고 복수를 꾀한다. |
 | 2023 | 우주 망나니에서 교수까지 (경계) | 우주 망나니에서 교수까지 | AiBi | 소설 | 한국 원작 | 읽던 우주 소설 속 삼류 악역이 된 박사가 바깥 신들을 이길 중력자탄을 연구하려 가문의 돈을 빼돌린다. |
 | 2023 | 울고 싶은 독재자 각하 (경계) | 울고 싶은 독재자 각하 | 세인트게장 | 소설 | 한국 원작 | 사이버펑크 세계의 독재자로 빙의해, 하늘 장막 밖 바깥 신들을 사냥하지 못하면 인류가 망한다 |
 | 2023 | 은하천마전설 (경계) | 은하천마전설 | 아메리카노더블샷 | 소설 | 한국 원작 | 은하 전체가 무림이 된 시대, 노예 행성의 농부가 무공으로 은하제일인이 되어 간다. |
@@ -2139,6 +2667,7 @@
 | 2024 | 괴이관리국의 사무직으로 살아남기 (경계) | 괴이관리국의 사무직으로 살아남기 | 무빵죽 | 소설 | 한국 원작 | 괴이와 능력자가 들끓는 세상, 그들을 가두고 다스리는 관리국에서 눈이 조금 좋은 사무직이 버틴다. |
 | 2024 | 그대 우리 사회에 어떻게 기여했는가 | 그대 우리 사회에 어떻게 기여했는가 | 심너울 | 소설 | 한국 원작 | 사회에 기여한 노인만 나라가 세운 노인 마을에 들 수 있는 2069년, 그 자격을 시험으로 가린다. |
 | 2024 | 그리스가 오스만을 찢음 (경계) | 그리스가 오스만을 찢음 | 꿈사학도 | 소설 | 한국 원작 | 그리스 왕국의 왕이 된 현대인이 오스만과 열강을 꺾고 '진정한 로마의 후예'를 내세운다. |
+| 2024 | 내 남편과 결혼해줘 (경계) | 내 남편과 결혼해줘 | Sung So-jak(원작 웹소설), Park Won-guk, Han J | 드라마·소설 | 한국 원작 | 남편과 친구의 배신 끝에 죽은 여자가 2013년의 자신으로 돌아가 운명을 그들에게 넘기려 한다. |
 | 2024 | 대영제국의 총리가 되었다 (경계) | 대영제국의 총리가 되었다 | 종이호랑이 | 소설 | 한국 원작 | 한국 대학원생이 1937년의 네빌 체임벌린 몸에 들어가 다가오는 전쟁에 맞선다. |
 | 2024 | 대조선 광산재벌 (경계) | 대조선 광산재벌 | 구오 | 소설 | 한국 원작 | 황희의 둘째 아들 몸에 든 주인공이 500년 묵은 조선의 광산을 차지해 나라를 바꾼다. |
 | 2024 | 동로마 황녀가 내 아이를 임신하셨다 (경계) | 동로마 황녀가 내 아이를 임신하셨다 | 열이틀 | 소설 | 한국 원작 | 동로마 바실리오스 2세 시대에 빙의한 주인공이 거세를 피하려 황위를 노린다. |
@@ -2166,10 +2695,12 @@
 | 2025 | Project Hanuman | Project Hanuman | Stewart Hotston | 소설 | 확인 못 함 | 은하에 걸친 온라인 '유토피아' 디지털 아콜로지와 바깥 물질 문화들 사이를 잇는 대변인. |
 | 2025 | Shroud | Shroud | Adrian Tchaikovsky | 소설 | 확인 못 함 | 자원을 캐러 별 사이로 나선 기업 시대, 빛 없는 위성 '슈라우드'에 갇힌 두 과학자가 그곳 생명과 만난다. |
 | 2025 | The Dream Hotel | The Dream Hotel | Laila Lalami | 소설 | 확인 못 함 | 범죄 성향을 미리 가리는 정부 기관이 귀국한 여성을 붙잡아 두고, 임시 구금이 끝없이 길어진다. |
+| 2025 | The Search for WondLa | The Search for WondLa | Tony DiTerlizzi(원작) · Bobs Gannaway | 소설·애니메이션 | 확인 못 함 | 로봇 보모 무스르가 벙커에서 키운 소녀 에바가 습격 뒤 낯선 행성 오르보나의 땅 위로 나온다. |
 | 2025 | The StrangeLoom Trilogy | The StrangeLoom Trilogy | Chloe Gong | 소설 | 확인 못 함 | 거대 기업이 가진 가상 현실 세계에서 사는 두 사람의 눈으로 번갈아 보는 청소년 디스토피아 |
 | 2025 | These Memories Do Not Belong To Us | These Memories Do Not Belong To Us | Yiming Ma | 소설 | 확인 못 함 | 기억을 남의 머리로 옮길 수 있고, 다시 그린 중국 '진 제국'이 유일한 초강대국이 된 세계 |
 | 2025 | When There Are Wolves Again | When There Are Wolves Again | E. J. Swift | 소설 | 확인 못 함 | 기후 변화로 망가진 2070년의 지구, 다른 종들이 되살아나고 사람 문명도 다시 설 틈이 생긴다. |
 | 2025 | When We Were Real | When We Were Real | Daryl Gregory | 소설 | 확인 못 함 | 세상이 시뮬레이션이라는 발표가 나고 7년 뒤, 물리 법칙을 어기는 '불가능'들을 도는 버스 여행. |
+| 2025 | 一次元の挿し木 (경계) | 一次元の挿し木 | 松下龍之介 | 드라마·소설 | 확인 못 함 | 유전 인류학을 배우는 대학원생이 4년 전 사라진 의붓 여동생의 흔적을 쫓다 큰 비밀에 닿는다. |
 | 2025 | 화성의 여왕 | 火星の女王 | 小川哲 | 드라마·소설 | 일부 | 인류가 화성으로 옮겨 간 지 40년, 화성에서 나온 미지의 물질을 두고 지구와 화성 사람들이 얽힌다. |
 | 2025 | 가챠 중독자의 퓨전펑크 생활 (경계) | 가챠 중독자의 퓨전펑크 생활 | 섦게지는꽃 | 소설 | 한국 원작 | 가챠 중독자가 마법과 기계가 뒤섞인 어두운 세계에 다시 태어나, 죽으면 되돌아가는 삶을 거듭한다. |
 | 2025 | 검은머리 소련 에이스 파일럿 (경계) | 검은머리 소련 에이스 파일럿 | 뿌링틀 | 소설 | 한국 원작 | 비행 시뮬레이션만 하던 청년이 1937년 소련의 조선인 조종사가 되어 전쟁의 하늘을 난다. |
@@ -2188,8 +2719,10 @@
 | 2025 | 정조의 왕자가 작가로 살아남기 (경계) | 정조의 왕자가 작가로 살아남기 | 귀차 | 소설 | 한국 원작 | 소설을 몹시 싫어하는 정조의 왕자로 태어난 이가 조선에 웹소설식 연재를 퍼뜨린다. |
 | 2025 | 중세 이단왕이 발전을 너무 잘함 (경계) | 중세 이단왕이 발전을 너무 잘함 | 서자아 | 소설 | 한국 원작 | 후스 전쟁이 몰아치는 15세기, 교황에게 파문당한 이단의 왕이 되어 신성 로마 제국에 맞선다. |
 | 2025 | 합스부르크 괴이관리국 김요한 국장 (경계) | 합스부르크 괴이관리국 김요한 국장 | 까다롭스키 | 소설 | 한국 원작 | 1차 대전 무렵 오스트리아·헝가리 제국에서 괴이를 다루는 관청을 맡은 이가 사람과 괴이 사이를 헤쳐 간다. |
+| 2025 | 허식당 (경계) | 허식당 | Jeon Seon-yeong(원작 웹소설), Oh Hwan-min, Ki | 드라마·소설 | 한국 원작 | 조선의 허균이 뜻밖에 400년 뒤로 건너와 식당을 차리는 희극. |
 | 2026 | 1926 대한민국 (경계) | 1926 대한민국 | 리첼렌 | 소설 | 한국 원작 | 2026년의 대한민국이 통째로 1926년에 떨어져, 휴대 전화도 인터넷도 없이 나라를 꾸려 간다. |
 | 2026 | 괴이 회사에 사람 새끼가 없다 (경계) | 괴이 회사에 사람 새끼가 없다 | 먼지별 | 소설 | 한국 원작 | 괴물이 사원인 회사에 끌려가다시피 들어간 주인공이 괴물들에게서 힘을 뽑아내는 일을 맡는다. |
+| 2026 | 나를 충전해줘 (경계) | 나를 충전해줘 | 朴秀元(연출), 宋有彩(극본) | 드라마·소설 | 한국 원작 | 인공 심장 배터리가 바닥나 가는 재벌 3세가 몸에 전기가 흐르는 작가 곁에서만 충전된다는 걸 알게 된다. |
 | 2026 | 러시아 황제가 독재를 너무 잘함 (경계) | 러시아 황제가 독재를 너무 잘함 | 폭식마왕 | 소설 | 한국 원작 | 니콜라이 2세의 사생아로 태어난 이가 비밀경찰 수장과 혁명가 지도자를 겸하며 혁명에 대비한다. |
 | 2026 | 삭제하시겠습니까 | 삭제하시겠습니까 | 김정민 | 소설 | 한국 원작 | 미래 사회를 무대로 한 청소년 공상과학 단편 네 편. |
 | 2026 | 삼국지: 읍참마속의 마씨로 살아남기 (경계) | 삼국지: 읍참마속의 마씨로 살아남기 | 페타7 | 소설 | 한국 원작 | 마속과 같은 집안의 말단 군후가 된 주인공이 내일 일어날 촉한 대장군 암살을 막으려 한다. |
@@ -2199,7 +2732,7 @@
 | 2026 | 환상조선록 | 환상조선록 | 최가야(글), 손장원(그림) | 소설 | 한국 원작 | 여말선초에 시간 여행자가 와 미래 문물이 퍼진 조선, 그 뒤 200년 미래까지 로봇이 함께하는 이야기들. |
 | 2026 | 환생했더니 고려 군벌 (경계) | 환생했더니 고려 군벌 | 햄버그 | 소설 | 한국 원작 | 고려가 버린 북방의 동북 9성 땅에서 다시 태어난 주인공이 그 땅을 차지해 군벌이 된다. |
 
-## 희곡에서 시작한 세계 (26)
+## 희곡에서 시작한 세계 (34)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
@@ -2220,17 +2753,25 @@
 | 1962 | The Bedsitting Room | The Bedsitting Room | Spike Milligan · John Antrobus(원작) · Ric | 영화·희곡 | 확인 못 함 | 2분 28초 만에 끝난 핵전쟁 몇 해 뒤, 런던 폐허에서 살아남은 사람들이 엉뚱한 일상을 이어 간다. |
 | 1970 | Первые трое, или Год 2001-й... | Первые трое, или Год 2001-й... | Sergey Mikhalkov(원작) · Valentin Selivano | 영화·희곡 | 확인 못 함 | 어린이 우주 대회에서 뽑힌 아이 셋이 첫 어린이 우주 비행에 나섰다가 선장이 앓아눕자 스스로 배를 몬다. |
 | 1977 | The Water Engine (경계) | The Water Engine | David Mamet(원작·각본) · Steven Schachter(감독 | 영화·희곡 | 확인 못 함 | 1934년 시카고, 증류수로 전기를 만드는 엔진을 발명한 공장 노동자가 특허를 노리는 자들에게 쫓긴다. |
+| 1982 | Просто ужас! | Просто ужас! | Юрий Сотник(원작) · А. Полынников(감독) | 영화·희곡 | 확인 못 함 | 친구 아버지가 만든 '소원 들어주는 기계'로 6학년 안톤과 수의사 아버지가 자리를 바꾼다. |
+| 1983 | Если верить Лопотухину… | Если верить Лопотухину… | Александр Хмелик(원작·각본) · Михаил Козаков | 영화·희곡 | 확인 못 함 | 바샤 로포투힌이 외계인을 만나느라 수업에 늦은 뒤 학교에 기이한 일이 잇따른다. |
+| 1988 | THE WINDS OF GOD (경계) | THE WINDS OF GOD | 今井雅之 | 드라마·희곡 | 확인 못 함 | 교통사고를 당한 무명 개그맨 둘이 종전 직전 특공대 기지의 대원들과 몸이 바뀐 채 깨어난다. |
 | 1990 | Possible Worlds | Possible Worlds | John Mighton(원작) · Robert Lepage(감독) | 영화·희곡 | 확인 못 함 | 뇌를 도둑맞은 수학자가 여러 갈래 세계에서 매번 다른 사람이 된 한 여자를 거듭 만난다. |
+| 2001 | Deham | Deham | Manjula Padmanabhan(원작), Govind Nihalani | 영화·희곡 | 확인 못 함 | 2022년 뭄바이, 일자리 없는 청년이 외국 부자에게 몸의 장기를 파는 계약을 맺는다. |
 | 2001 | サマータイムマシン・ブルース | サマータイムマシン・ブルース | 上田誠(희곡·각본), 本広克行(영화) | 영화·희곡 | 확인 못 함 | 에어컨 리모컨이 망가진 한여름, 대학 공상과학 연구회 부실에서 타임머신이 발견되고 부원들이 어제로 간다. |
 | 2005 | 산책하는 침략자 | 散歩する侵略者 | 前川知大 | 드라마·만화·영화·희곡 | 있음 | 사람 몸을 빌린 외계인들이 지구인에게서 '가족'·'자유' 같은 개념을 하나씩 빼앗아 배운다. |
 | 2009 | 曲がれ！スプーン (경계) | 曲がれ！スプーン | 上田誠(원작·각본), 本広克行(감독) | 영화·희곡 | 확인 못 함 | 초능력을 믿는 방송 조연출이 진짜를 찾아 떠돌다, 크리스마스이브마다 숨은 초능력자들이 모이는 찻집에 닿는다. |
 | 2010 | 마마 돈 크라이 (경계) | 마마 돈 크라이 | 이희준(극본), 박정아(작곡) | 희곡 | 한국 원작 | 사랑이 두려운 천재 물리학자가 시간을 거스르는 기계를 만들다 뱀파이어를 만난다. |
 | 2012 | Namíbia, Não! (경계) | Namíbia, Não! | Aldri Anunciação(원작) · Lázaro Ramos(영화) | 영화·희곡 | 확인 못 함 | 근미래 브라질, 독재 정부가 모든 흑인 시민을 아프리카로 보내라는 명령을 내리고 사냥을 시작한다. |
 | 2014 | Marjorie Prime | Marjorie Prime | Jordan Harrison(원작) · Michael Almereyda( | 영화·희곡 | 확인 못 함 | 2050년 무렵 치매가 시작된 노인 곁에서, 죽은 남편의 젊은 모습을 한 홀로그램이 기억을 되들려준다. |
+| 2015 | さようなら | さようなら | 平田オリザ(원작), 深田晃司(감독) | 영화·희곡 | 확인 못 함 | 방사능에 오염된 근미래 일본, 피난 차례를 기다리는 난민 여성과 그를 돌보는 인조인간. |
 | 2015 | 명동로망스 (경계) | 명동로망스 | 조민형(작), 장인엔터테인먼트 | 희곡 | 한국 원작 | 무기력한 9급 공무원이 1950년대 명동으로 떨어져 전혜린·이중섭·박인환 같은 예술가들을 만난다. |
+| 2016 | 太陽 | 太陽 | 前川知大(원작), 入江悠(감독) | 영화·희곡 | 확인 못 함 | 바이러스 대유행 끝에 태어난 면역 신인류 '녹스'가 옛 인류 '큐리오'를 다스리는 근미래. |
+| 2016 | 時空警察クロノゲイザー | 時空警察クロノゲイザー | アリスインプロジェクト(무대) · 畑澤和也(영화 감독) | 영화·희곡 | 확인 못 함 | 시공 범죄에 휘말린 여고생이 2226년 미래로 옮겨져 역사를 지키는 시공 형사가 된다. |
 | 2018 | 홀연했던 사나이 (경계) | 홀연했던 사나이 | 오세혁(작·작사), 다미로(작곡) | 희곡 | 한국 원작 | 영화감독의 꿈에 좌절한 남자가 꿈이 시작된 1987년 동네 다방의 과거로 돌아가 그 시절과 마주한다. |
+| 2019 | ミネルヴァの梟 | ミネルヴァの梟 | 京兼顕(총감독) · 大西貴也(감독) | 드라마·영화·희곡 | 확인 못 함 | 인류 마지막 한 사람이 된 남자가 손수 설계한 거리에서 보낸 삶을 그린다. |
 
-## 영화에서 시작한 세계 (1500)
+## 영화에서 시작한 세계 (1843)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
@@ -2312,6 +2853,7 @@
 | 1948 | Counterblast (경계) | Counterblast | Paul L. Stein | 영화 | 확인 못 함 | 탈옥한 나치 과학자가 영국 교수 행세를 하며 다음 전쟁에 쓸 세균 무기를 연구한다. |
 | 1948 | Unknown Island (경계) | Unknown Island | Jack Bernhard | 영화 | 확인 못 함 | 공룡이 산다는 외딴 섬에 간 일행이 공룡과 거대 나무늘보에게 쫓기며 서로 다툰다. |
 | 1949 | King of the Rocket Men | King of the Rocket Men | Republic Pictures (Fred C. Brannon 외) | 영화 | 확인 못 함 | 원자력 로켓 등짐을 멘 영웅이 세계 정복을 노리는 악당과 달에서 온 침략자에게 맞선다. |
+| 1949 | 透明人間現わる | 透明人間現わる | 安達伸生 · 円谷英二(특수 촬영) | 영화 | 확인 못 함 | 몸을 투명하게 만드는 약을 두고 박사의 두 제자가 다투고, 투명 인간이 범죄를 저지른다. |
 | 1950 | Destination Moon | Destination Moon | Irving Pichel, George Pal(제작) | 영화 | 확인 못 함 | 민간 기업가들이 정부를 앞질러 핵 로켓으로 첫 유인 달 탐사에 나선다. |
 | 1950 | Rocketship X-M | Rocketship X-M | Kurt Neumann | 영화 | 확인 못 함 | 달로 가던 인류 첫 로켓이 길을 잃고 화성에 내려, 핵전쟁으로 무너진 문명의 흔적을 본다. |
 | 1950 | The Flying Saucer | The Flying Saucer | Mikel Conrad | 영화 | 확인 못 함 | 알래스카 오지에서 세계 곳곳에 나타난 비행접시의 비밀을 두고 미국 요원과 소련 첩자가 다툰다. |
@@ -2328,6 +2870,7 @@
 | 1952 | Invasion, U.S.A. (경계) | Invasion, U.S.A. | Alfred E. Green | 영화 | 확인 못 함 | 뉴욕 술집의 사람들이 공산군의 미국 침공과 원자 폭격을 겪는데, 그것은 한 사내가 건 최면이었다. |
 | 1952 | Monkey Business (경계) | Monkey Business | Howard Hawks | 영화 | 확인 못 함 | 젊어지는 약을 연구하던 화학자가 침팬지가 섞은 약을 마시고 철부지처럼 되어 버린다. |
 | 1952 | Mother Riley Meets the Vampire (경계) | Mother Riley Meets the Vampire | John Gilling | 영화 | 확인 못 함 | 자신을 흡혈귀로 믿는 교수가 우라늄으로 움직이는 로봇 5만 대로 세계를 지배하려 한다. |
+| 1952 | The Jungle | The Jungle | William Berke · Modern Theatres | 영화 | 확인 못 함 | 코끼리 떼가 마을을 짓밟는 까닭을 찾아 나선 원정대가 살아남은 매머드를 찾아낸다. |
 | 1952 | Untamed Women (경계) | Untamed Women | W. Merle Connell | 영화 | 확인 못 함 | 2차 대전 폭격기 승무원들이 표류 끝에 공룡과 여전사 부족이 사는 외딴 섬에 닿는다. |
 | 1953 | Abbott and Costello Go to Mars | Abbott and Costello Go to Mars | Charles Lamont | 영화 | 확인 못 함 | 실험 로켓에 잘못 올라탄 두 사람이 화성에 왔다고 착각하고, 이어 여자들만 사는 금성에 내린다. |
 | 1953 | Cat-Women of the Moon | Cat-Women of the Moon | Arthur Hilton | 영화 | 확인 못 함 | 달 탐사대가 동굴 깊이 숨어 사는 이백만 년 된 달 문명의 마지막 생존자, 고양이 여인들을 만난다. |
@@ -2340,7 +2883,7 @@
 | 1953 | Robot Monster | Robot Monster | Phil Tucker | 영화 | 확인 못 함 | 죽음의 광선으로 인류를 거의 없앤 외계 로봇이 마지막 생존자 여덟을 쫓다 한 여자에게 흔들린다. |
 | 1953 | Spaceways | Spaceways | Terence Fisher(감독) · Charles Eric Maine( | 영화 | 확인 못 함 | 영국 인공위성 계획의 기술자가 사라진 아내와 그 애인을 죽여 로켓 연료 탱크에 숨겼다는 의심을 받는다. |
 | 1953 | The 5,000 Fingers of Dr. T. (경계) | The 5,000 Fingers of Dr. T. | Roy Rowland(감독) · Dr. Seuss(이야기) | 영화 | 확인 못 함 | 피아노 연습이 싫은 소년이 꿈속에서 아이 오백 명에게 영원히 피아노를 치게 하는 선생의 성에 갇힌다. |
-| 1953 | The Lost Planet | The Lost Planet | Spencer Gordon Bennet | 영화 | 확인 못 함 | 행성 에르그로를 손에 넣은 미친 과학자에게 붙잡힌 기자 일행이 교수의 발명으로 행성을 되찾는다. |
+| 1953 | The Lost Planet | The Lost Planet | Spencer Gordon Bennet | 드라마·소설·영화 | 확인 못 함 | 행성 에르그로를 손에 넣은 미친 과학자에게 붙잡힌 기자 일행이 교수의 발명으로 행성을 되찾는다. |
 | 1953 | The Magnetic Monster | The Magnetic Monster | Ivan Tors(제작·원안) | 영화 | 확인 못 함 | 정부 과학 수사국 요원들이 불어나는 자성 원소, 운석 포획, 로봇 사보타주 사건을 차례로 맡는다. |
 | 1953 | The Neanderthal Man | The Neanderthal Man | E. A. Dupont | 영화 | 확인 못 함 | 옛사람이 더 뛰어났다고 믿는 교수의 혈청 실험 뒤, 산골에 검치호와 원시인 같은 괴물이 나타난다. |
 | 1954 | Creature from the Black Lagoon (경계) | Creature from the Black Lagoon | Universal-International (Jack Arnold · J | 영화 | 확인 못 함 | 아마존의 탐사대가 땅과 바다 생물 사이를 잇는 아가미 인간을 찾아내고, 그 뒤 붙잡아 실험한다. |
@@ -2352,6 +2895,7 @@
 | 1954 | Them! | Them! | Gordon Douglas | 영화 | 확인 못 함 | 핵실험 방사능으로 거대해진 개미 떼가 뉴멕시코 사막에서 나타나 사람을 덮친다. |
 | 1954 | Tobor the Great | Tobor the Great | Lee Sholem | 영화 | 확인 못 함 | 사람 대신 우주로 보낼, 감정을 느끼고 텔레파시로 반응하는 로봇을 외국 첩자들이 훔치려 한다. |
 | 1954 | 고질라 (경계) | ゴジラ | 東宝(Toho) · 本多猪四郎(첫 편 감독) | 게임·드라마·만화·애니메이션·영화 | 일부 | 핵 실험으로 깨어난 거대 괴수가 도시를 짓밟고, 사람들은 괴수와 맞서거나 함께 살아간다 |
+| 1954 | 透明人間 | 透明人間 | 小田基義 | 영화 | 확인 못 함 | 옛 일본군 투명 인간 특공대의 생존자가 죽고, 남은 투명 인간을 둘러싼 사건이 이어진다. |
 | 1955 | Bride of the Monster | Bride of the Monster | Ed Wood | 영화 | 확인 못 함 | 쫓겨난 과학자가 외딴 저택에서 원자 방사선으로 초인을 만들려 하며 거대 문어를 부린다. |
 | 1955 | Cesta do pravěku | Cesta do pravěku | Karel Zeman | 영화 | 확인 못 함 | 소년 넷이 동굴을 지나 '시간의 강'을 거슬러 노를 저으며 점점 더 먼 옛 지구로 들어간다. |
 | 1955 | Conquest of Space | Conquest of Space | Byron Haskin(감독) · George Pal(제작) | 영화 | 확인 못 함 | 지구 궤도의 우주 정거장 '바퀴'에서 떠난 첫 행성 간 우주선이 화성으로 향한다. |
@@ -2376,7 +2920,9 @@
 | 1956 | The Werewolf | The Werewolf | Fred F. Sears | 영화 | 확인 못 함 | 기억을 잃은 사내가 의사들에게 '방사선 쬔 늑대 혈청'을 맞고 흥분하면 늑대 인간으로 변한다. |
 | 1956 | World Without End | World Without End | Edward Bernds | 영화 | 확인 못 함 | 화성 정찰을 마친 우주선이 시간 지연으로 핵전쟁 뒤 먼 미래의 지구에 내려앉는다. |
 | 1956 | X the Unknown | X the Unknown | Leslie Norman(감독) · Jimmy Sangster(각본) | 영화 | 확인 못 함 | 스코틀랜드 들판의 바닥 없는 틈에서 방사능을 먹고 사는 무언가가 기어 나와 사람들을 죽인다. |
+| 1956 | 宇宙人東京に現わる | 宇宙人東京に現わる | 島耕二 · 大映 | 영화 | 확인 못 함 | 불가사리 모양의 착한 외계인이 지구의 원자·수소 폭탄 개발을 경고하러 일본에 온다. |
 | 1956 | 空の大怪獣ラドン | 空の大怪獣ラドン | 本多猪四郎 · 東宝 | 영화 | 확인 못 함 | 규슈 탄광에서 깨어난 옛 잠자리 애벌레 괴물에 이어, 아소산에서 하늘을 나는 거대 괴수 라돈이 나타난다. |
+| 1956 | 空飛ぶ円盤恐怖の襲撃 | 空飛ぶ円盤恐怖の襲撃 | 関沢新一 | 영화 | 확인 못 함 | 냉전 시대, 먼 성운에서 온 비행접시가 괴로봇과 함께 세계 도시를 덮치고 박사의 로켓이 맞선다. |
 | 1957 | 20 Million Miles to Earth | 20 Million Miles to Earth | Nathan Juran(감독) · Ray Harryhausen(특수 효과 | 영화 | 확인 못 함 | 금성에서 돌아오다 이탈리아 바다에 떨어진 우주선의 알에서 나온 금성 생물이 지구에서 빠르게 자란다. |
 | 1957 | Attack of the Crab Monsters | Attack of the Crab Monsters | Roger Corman | 영화 | 확인 못 함 | 핵실험 영향을 조사하러 간 태평양 섬에서, 먼저 실종된 대장의 목소리로 사람을 부르는 거대 게가 나타난다. |
 | 1957 | Beginning of the End | Beginning of the End | Bert I. Gordon | 영화 | 확인 못 함 | 방사선으로 키운 거대 채소를 먹은 메뚜기 떼가 엄청나게 커져 일리노이 마을과 시카고를 덮친다. |
@@ -2407,7 +2953,9 @@
 | 1957 | The Unknown Terror | The Unknown Terror | Charles Marquis Warren | 영화 | 확인 못 함 | 실종된 사람을 찾아 카리브해의 '죽음의 동굴'에 들어간 일행이 사람을 덮는 곰팡이 괴물을 만난다. |
 | 1957 | The Vampire (경계) | The Vampire | Paul Landres | 영화 | 확인 못 함 | 흡혈박쥐 피로 만든 알약을 두통약으로 잘못 먹은 의사가 흡혈귀처럼 변해 간다. |
 | 1957 | Дорога к звёздам (경계) | Дорога к звёздам | Pavel Klushantsev | 영화 | 확인 못 함 | 치올콥스키의 생애와 로켓 원리를 보여 준 뒤, 유인 우주 비행과 거대한 우주 정거장의 미래를 그린다. |
+| 1957 | スーパージャイアンツ (경계) | スーパージャイアンツ | 新東宝 | 영화 | 확인 못 함 | 외계에서 온 초인이 지구를 위협하는 악당과 싸우는 일본 첫 특촬 초인 영화. |
 | 1957 | 地球防衛軍 | 地球防衛軍 | 本多猪四郎 · 東宝 | 영화 | 확인 못 함 | 후지산 기슭에 거대 로봇이 나타나고, 사라진 행성 미스테로이드에서 온 외계인이 지구를 노린다. |
+| 1957 | 透明人間と蝿男 | 透明人間と蝿男 | 村山三男 · 大映 | 영화 | 확인 못 함 | 약으로 파리 모습이 된 살인마가 도쿄를 휩쓸고, 형사가 과학자와 손잡고 맞선다. |
 | 1958 | Attack of the 50 Foot Woman | Attack of the 50 Foot Woman | Nathan H. Juran | 영화 | 확인 못 함 | 사막 도로에서 외계 거인과 마주친 부잣집 여자가 거대해져 바람난 남편을 찾아 나선다. |
 | 1958 | Attack of the Puppet People | Attack of the Puppet People | Bert I. Gordon | 영화 | 확인 못 함 | 외로운 인형 공장 주인이 사람을 인형만 하게 줄여 유리 통에 모아 둔다. |
 | 1958 | Blood of the Vampire (경계) | Blood of the Vampire | Henry Cass(감독) · Jimmy Sangster(각본) | 영화 | 확인 못 함 | 말뚝 박혀 묻혔다가 심장 이식으로 되살아난 사내가 범죄자 수용소를 맡아 죄수들 피로 혈액 연구를 한다. |
@@ -2417,6 +2965,7 @@
 | 1958 | I Married a Monster from Outer Space | I Married a Monster from Outer Space | Gene Fowler Jr. | 영화 | 확인 못 함 | 결혼 한 해 뒤, 아내는 남편이 차갑게 변한 까닭이 외계인이 그 몸을 차지했기 때문임을 알게 된다. |
 | 1958 | It! The Terror from Beyond Space | It! The Terror from Beyond Space | Edward L. Cahn | 영화 | 확인 못 함 | 1973년, 화성 탐사대의 유일한 생존자를 싣고 돌아오는 우주선에 몰래 탄 괴물이 승무원을 하나씩 죽인다. |
 | 1958 | La morte viene dallo spazio | La morte viene dallo spazio | Paolo Heusch · Mario Bava | 영화 | 확인 못 함 | 달로 가던 원자 로켓이 소행성대에서 터지자, 흩어진 소행성들이 지구로 쏟아져 온다. |
+| 1958 | Maya Manithan | Maya Manithan | T. P. Sundaram · Harilal Badeviya | 영화 | 확인 못 함 | 과학자의 약을 마신 사람이 투명해진다. |
 | 1958 | Monster on the Campus | Monster on the Campus | Jack Arnold | 영화 | 확인 못 함 | 교수가 실러캔스의 피에 닿을 때마다 원시인 같은 괴물로 퇴화해 대학 교정에서 사람을 해친다. |
 | 1958 | Night of the Blood Beast | Night of the Blood Beast | Bernard L. Kowalski | 영화 | 확인 못 함 | 인류 첫 유인 우주선의 조종사가 죽어 돌아오는데, 그의 몸속에는 외계 생물의 알이 심겨 있다. |
 | 1958 | Queen of Outer Space | Queen of Outer Space | Edward Bernds | 영화 | 확인 못 함 | 1985년, 금성에 불시착한 우주 비행사들이 여자들만 사는 나라에서 잔인한 여왕에 맞선 반란에 끼어든다. |
@@ -2463,6 +3012,7 @@
 | 1960 | Dinosaurus! | Dinosaurus! | Irvin Yeaworth | 영화 | 확인 못 함 | 카리브해 섬의 항구 공사 중 얼음에 갇혀 있던 공룡 둘과 원시인이 벼락을 맞고 깨어난다. |
 | 1960 | Last Woman on Earth | Last Woman on Earth | Roger Corman | 영화 | 확인 못 함 | 푸에르토리코 바다에서 잠수하고 나온 세 사람만이 인류를 쓸어 간 까닭 모를 재앙에서 살아남는다. |
 | 1960 | Man in the Moon (경계) | Man in the Moon | Basil Dearden | 영화 | 확인 못 함 | 어떤 병에도 안 걸리고 더위와 추위를 견디는 사내가 우주 비행 시험 대상으로 뽑힌다. |
+| 1960 | Pillalu Thechina Challani Rajyam | Pillalu Thechina Challani Rajyam | B. R. Panthulu | 영화 | 확인 못 함 | 과학자가 아이들을 낯선 별로 데려가고, 아이들이 그곳에 민주 공화국을 세운다. |
 | 1960 | Rat | Rat | Veljko Bulajić(감독) · Cesare Zavattini(각본 | 영화 | 확인 못 함 | 시골 교회에서 결혼식을 올린 날 핵전쟁이 터지고, 늘 낙천적인 신랑과 신부가 전쟁에 휩쓸린다. |
 | 1960 | Seddok, l'erede di Satana (경계) | Seddok, l'erede di Satana | Anton Giulio Majano | 영화 | 확인 못 함 | 사고로 얼굴을 다친 무희를 혈청으로 되살려 주던 과학자가 치료가 듣지 않자 다른 여자들을 죽여 재료로 쓴다. |
 | 1960 | Space Men | Space Men | Antonio Margheriti | 영화 | 확인 못 함 | 2116년 궤도 정거장, 광자 발생기가 고장 난 우주선이 지구를 태울 만큼 열을 뿜으며 다가온다. |
@@ -2500,7 +3050,9 @@
 | 1962 | 妖星ゴラス | 妖星ゴラス | 本多猪四郎, 東宝 | 영화 | 확인 못 함 | 지구보다 6천 배 무거운 떠돌이 별이 다가오자, 인류는 남극에 거대 추진기를 세워 지구를 옮긴다. |
 | 1963 | Kalai Arasi | Kalai Arasi | A. Kasilingam | 영화 | 확인 못 함 | 과학은 앞섰으나 예술이 없는 행성의 외계인들이 춤과 노래를 가르칠 예술가로 지구 처녀 바니를 데려간다. |
 | 1963 | Monstrosity | Monstrosity | Joseph V. Mascelli | 영화 | 확인 못 함 | 늙은 부자 여인이 저택 밑 원자력 실험실의 의사를 시켜 자기 뇌를 젊은 여자의 몸에 옮기려 한다. |
+| 1963 | Naan Vanangum Deivam (경계) | Naan Vanangum Deivam | K. Somu | 영화 | 확인 못 함 | 과학자가 사람의 나쁜 성질을 없애고 좋은 성질을 키우는 약을 만든 가족 드라마. |
 | 1963 | Pași spre Lună | Pași spre Lună | Ion Popescu-Gopo | 영화 | 확인 못 함 | 2000년의 우주 비행사가 고장으로 선사 시대로 떨어져 인류가 걸어온 길을 처음부터 다시 걷는다. |
+| 1963 | Shikari | Shikari | Mohammed Hussain | 영화 | 확인 못 함 | 거대 유인원을 잡으러 말레이 정글에 간 서커스 주인들 앞에 사람과 고릴라로 실험하는 미친 과학자가 있다. |
 | 1963 | The Crawling Hand | The Crawling Hand | Herbert L. Strock | 영화 | 확인 못 함 | 외계 생명에 감염된 우주 비행사의 잘린 팔이 바닷가에서 발견되고, 그것을 주운 학생이 그 손에 홀린다. |
 | 1963 | The Day Mars Invaded Earth | The Day Mars Invaded Earth | Maury Dexter | 영화 | 확인 못 함 | 몸 없는 에너지 존재인 화성인들이 탐사 계획 책임자와 그 가족을 똑같은 대역으로 바꿔 간다. |
 | 1963 | The Nutty Professor | The Nutty Professor | Jerry Lewis | 영화 | 확인 못 함 | 어수룩한 화학 교수가 스스로 만든 약을 마시고 전혀 다른 사내로 바뀐다. |
@@ -2513,6 +3065,7 @@
 | 1964 | Il castello dei morti vivi (경계) | Il castello dei morti vivi | Warren Kiefer | 영화 | 확인 못 함 | 나폴레옹 전쟁 뒤, 산 것을 단번에 죽여 방부 처리하는 약을 찾은 백작이 성을 찾은 유랑 극단을 노린다. |
 | 1964 | It Happened Here | It Happened Here | Kevin Brownlow · Andrew Mollo | 영화 | 확인 못 함 | 1940년 독일이 영국을 점령한 또 다른 역사 속 영국을 기록 영화처럼 그린다. |
 | 1964 | Kiss Me Quick! (경계) | Kiss Me Quick! | Peter Perry | 영화 | 확인 못 함 | 하인 종족을 낳을 완벽한 여자를 찾으러 온 외계인이 미친 과학자의 실험실로 순간 이동해 온다. |
+| 1964 | Mr. X in Bombay | Mr. X in Bombay | Shantilal Soni | 영화 | 확인 못 함 | 과학자 교수의 실험 음료를 마신 직원이 투명 인간이 되는 사랑 코미디. |
 | 1964 | Pajama Party (경계) | Pajama Party | Don Weis | 영화 | 확인 못 함 | 화성 침공을 준비하러 온 십대 화성인 첩보원이 등짐 동력기 고장으로 지구 아줌마 집에 얹혀산다. |
 | 1964 | Robinson Crusoe on Mars | Robinson Crusoe on Mars | Byron Haskin | 영화 | 확인 못 함 | 화성에 홀로 불시착한 우주 비행사가 동굴과 불타는 바위로 버티며 살아남는다. |
 | 1964 | Santa Claus Conquers the Martians (경계) | Santa Claus Conquers the Martians | Nicholas Webster | 영화 | 확인 못 함 | 기계로만 배우며 놀 줄 모르는 화성 아이들을 위해 화성인들이 지구의 산타클로스를 납치해 간다. |
@@ -2525,6 +3078,7 @@
 | 1965 | 알파빌 | Alphaville, une étrange aventure de Lemmy Caution | Jean-Luc Godard | 영화 | 확인 못 함 | 감정과 시를 금한 컴퓨터가 다스리는 도시에 한 탐정이 숨어든다 |
 | 1965 | City Under the Sea (경계) | City Under the Sea | Jacques Tourneur | 영화 | 확인 못 함 | 콘월 바다 밑 옛 도시에서 밀수꾼들이 아가미 인간을 부리며 백 년 넘게 늙지 않고 산다. |
 | 1965 | Crack in the World | Crack in the World | Andrew Marton | 영화 | 확인 못 함 | 땅속 열을 얻으려 지각 깊이 핵폭탄을 터뜨리자, 갈라진 틈이 지구를 둘로 쪼갤 듯 뻗어 간다. |
+| 1965 | Dorikithe Dongalu | Dorikithe Dongalu | P. Subrahmanyam | 영화 | 확인 못 함 | 범죄가 들끓는 도시, 나는 자동차와 광선총을 가진 과학자 무리가 악행을 벌인다. |
 | 1965 | Dr. Goldfoot and the Bikini Machine (경계) | Dr. Goldfoot and the Bikini Machine | American International Pictures (Norman  | 영화 | 확인 못 함 | 미친 과학자 골드풋이 비키니 차림 여자 로봇들로 부자를 홀리고, 다음엔 터지는 로봇으로 장군을 노린다. |
 | 1965 | Frankenstein Meets the Space Monster | Frankenstein Meets the Space Monster | Robert Gaffney | 영화 | 확인 못 함 | 핵전쟁으로 여자를 잃은 화성인들이 지구 여자를 훔치러 오고, 안드로이드 우주 비행사가 맞선다. |
 | 1965 | Monster a Go-Go! | Monster a Go-Go! | Bill Rebane · Herschell Gordon Lewis | 영화 | 확인 못 함 | 시카고 근처에 떨어진 우주 캡슐이 비어 있고, 실종된 우주 비행사를 찾는 동안 처참한 시체가 나온다. |
@@ -2532,8 +3086,10 @@
 | 1965 | Space Probe Taurus | Space Probe Taurus | Leonard Katzman | 영화 | 확인 못 함 | 2000년, 개척할 행성을 찾아 나선 우주선이 정체 모를 외계 우주선과 괴물을 만난다. |
 | 1965 | Spaceflight IC-1 | Spaceflight IC-1 | Bernard Knowles | 영화 | 확인 못 함 | 2015년, 컴퓨터 정부가 보낸 첫 행성 이민선에서 냉혹한 선장에 맞서 승무원들이 반란을 일으킨다. |
 | 1965 | The Human Duplicators | The Human Duplicators | Hugo Grimaldi | 영화 | 확인 못 함 | 은하 지배를 꾀하는 외계 거인이 과학자를 부려 사람을 본뜬 안드로이드를 만들고, 그것들이 연구소를 턴다. |
+| 1965 | The War Game | The War Game | Peter Watkins | 영화 | 확인 못 함 | 영국에 핵전쟁이 벌어진 뒤를 기록 영화처럼 그린 가상극. |
 | 1965 | The Wizard of Mars | The Wizard of Mars | David L. Hewitt | 영화 | 확인 못 함 | 1975년 화성에 불시착한 비행사 넷이 운하와 용암 동굴을 지나 황금 길을 따라 버려진 돌의 도시에 닿는다. |
 | 1965 | 가메라 (경계) | ガメラ | 大映(Daiei) · 湯浅憲明(첫 편 감독) | 게임·만화·애니메이션·영화 | 확인 못 함 | 옛 문명이 만든 거대 거북 괴수가 사람 편에 서서 다른 괴수들과 싸운다 |
+| 1965 | フランケンシュタイン対地底怪獣 | フランケンシュタイン対地底怪獣 | 本多猪四郎 · 東宝 | 영화 | 확인 못 함 | 나치가 일본에 보낸 불사의 심장에서 자란 거인이 땅속 괴수와, 이어 거인 형제끼리 싸운다. |
 | 1966 | 2+5: Missione Hydra | 2+5: Missione Hydra | Pietro Francisci | 영화 | 확인 못 함 | 사르데냐섬에 추락한 히드라자리의 우주선 사람들이 지구인을 붙잡아 배를 고치게 하고 실험하러 데려가려 한다. |
 | 1966 | Agent for H.A.R.M. (경계) | Agent for H.A.R.M. | Gerd Oswald | 영화 | 확인 못 함 | 살을 녹이는 포자를 쏘는 무기를 만든 소련 망명 과학자를 첩보 기관 H.A.R.M.의 요원이 지킨다. |
 | 1966 | Around the World Under the Sea | Around the World Under the Sea | Andrew Marton | 영화 | 확인 못 함 | 해일이 세계를 휩쓸자 원자력 잠수정이 지진을 미리 알릴 감지기를 바다 밑에 심으러 세계를 돈다. |
@@ -2553,11 +3109,13 @@
 | 1966 | The Projected Man | The Projected Man | Ian Curteis | 영화 | 확인 못 함 | 물체를 몇 마일 떨어진 곳으로 보내는 장치를 만든 과학자가 방해 끝에 자기 몸을 보내는 실험에 나선다. |
 | 1966 | Women of the Prehistoric Planet | Women of the Prehistoric Planet | Arthur C. Pierce | 영화 | 확인 못 함 | 납치된 배가 원시 행성에 추락하고, 시간 지연 탓에 늦게 온 구조대는 생존자의 후손을 만난다. |
 | 1966 | 海底大戦争 | 海底大戦争 | Hajime Sato | 영화 | 확인 못 함 | 바다 밑 기지의 과학자가 사람을 뜻 없는 '물속 사이보그' 병사로 바꿔 세계를 손에 넣으려 한다. |
+| 1967 | Chand Par Chadayee | Chand Par Chadayee | T. P. Sundaram | 영화 | 확인 못 함 | 달에 내린 우주인과 동료가 다른 별에서 온 전사와 괴물들에 맞선다. |
 | 1967 | Jules Verne's Rocket to the Moon | Jules Verne's Rocket to the Moon | Don Sharp(감독) · Harry Alan Towers(이야기) | 영화 | 확인 못 함 | 빅토리아 시대, 흥행사 바넘이 독일 발명가의 폭약과 거대한 대포로 달에 사람을 쏘아 보내려 한다. |
 | 1967 | Konec srpna v Hotelu Ozon | Konec srpna v Hotelu Ozon | Jan Schmidt(감독) · Pavel Juráček(각본) | 영화 | 확인 못 함 | 핵전쟁 뒤 살아남은 젊은 여자들이 늙은 여인을 따라 아이를 낳게 해 줄 남자를 찾아 폐허를 떠돈다. |
 | 1967 | Privilege (경계) | Privilege | Peter Watkins | 영화 | 확인 못 함 | 가까운 미래 영국에서 연립 정부가 가장 사랑받는 팝 가수를 써서 대중을 정치에서 떼어 놓는다. |
 | 1967 | THX 1138 | THX 1138 | George Lucas | 영화 | 확인 못 함 | 감정을 누르는 약을 먹고 로봇 경찰의 감시 아래 사는 지하 도시 |
 | 1967 | The Sorcerers | The Sorcerers | Michael Reeves | 영화 | 확인 못 함 | 늙은 최면술사 부부가 젊은이를 조종하며 그 감각을 함께 느끼는 장치를 만들고, 아내는 폭력을 탐한다. |
+| 1967 | Wahan Ke Log | Wahan Ke Log | Nisar Ahmed Ansari | 영화 | 확인 못 함 | 살인 사건을 맡은 요원이 부자들의 다이아몬드를 노리는 외계인의 침입을 의심한다. |
 | 1967 | 大巨獣ガッパ | 大巨獣ガッパ | Haruyasu Noguchi · 日活 | 영화 | 확인 못 함 | 남쪽 섬의 아기 괴수를 일본으로 데려가자 부모 괴수 둘이 새끼를 찾아 도시를 부순다. |
 | 1967 | 宇宙大怪獣ギララ | 宇宙大怪獣ギララ | Kazui Nihonmatsu · 松竹 | 영화 | 확인 못 함 | 화성으로 간 우주선이 묻혀 온 포자가 에너지를 먹고 자라는 괴수 기라라가 되어 도쿄를 부순다. |
 | 1967 | 대괴수 용가리 (경계) | 대괴수 용가리 | 김기덕(1967 감독) · 심형래(1999 감독) | 영화 | 한국 원작 | 핵 실험이 일으킨 지진으로 깨어난 거대 괴수가 서울에 나타난다 |
@@ -2568,30 +3126,39 @@
 | 1968 | Night of the Living Dead (경계) | Night of the Living Dead | George A. Romero | 영화 | 확인 못 함 | 죽은 이가 일어나 산 사람을 먹는 재앙이 세상을 덮고, 셋째 편에선 지하 벙커의 과학자와 군인이 갈라선다. |
 | 1968 | The Astro-Zombies | The Astro-Zombies | Ted V. Mikels | 영화 | 확인 못 함 | 우주국에서 쫓겨난 과학자가 살해된 사람들 몸을 이어 괴물을 만들고, 그것들이 달아나 사람을 죽인다. |
 | 1968 | The Bamboo Saucer | The Bamboo Saucer | Frank Telford | 영화 | 확인 못 함 | 비행접시에 쫓긴 시험 조종사가 중국 공산권 땅에서 발견된 비행접시를 두고 소련 팀과 겨루러 들어간다. |
+| 1968 | VIP, mio fratello superuomo (경계) | VIP, mio fratello superuomo | Bruno Bozzetto | 애니메이션·영화 | 확인 못 함 | 슈퍼맨 혈통의 마지막 형제 슈퍼빕과 미니빕으로 광고·정치·소비 사회를 비꼰다. |
 | 1968 | ガンマー第3号 宇宙大作戦 | ガンマー第3号 宇宙大作戦 | Kinji Fukasaku | 영화 | 확인 못 함 | 소행성을 부수고 돌아온 우주 정거장 감마 3에 에너지를 먹고 불어나는 녹색 점액 생물이 묻어 온다. |
+| 1968 | ザ・タイガース 世界はボクらを待っている | ザ・タイガース 世界はボクらを待っている | 和田嘉訓 | 영화 | 확인 못 함 | 안드로메다 별의 공주가 지구에 불시착해 인기 악단과 엮이는 음악 영화. |
+| 1968 | 昆虫大戦争 | 昆虫大戦争 | 二本松嘉瑞 | 영화 | 확인 못 함 | 수소 폭탄을 실은 미군기가 독충 떼에 습격당해 남쪽 섬 근처에 떨어지며 벌어지는 일. |
 | 1969 | Change of Mind | Change of Mind | Robert Stevens | 영화 | 확인 못 함 | 암으로 죽어 가던 백인 검사의 뇌가 흑인의 몸에 옮겨지고, 그는 처음으로 인종 차별을 몸으로 겪는다. |
 | 1969 | Doppelgänger | Doppelgänger | Gerry · Sylvia Anderson(제작·각본) · Robert  | 영화 | 확인 못 함 | 2069년, 해 건너편 같은 궤도의 행성에 간 비행사가 모든 것이 거울처럼 뒤집힌 또 하나의 지구에 닿는다. |
 | 1969 | Gladiatorerna | Gladiatorerna | Peter Watkins | 영화 | 확인 못 함 | 국제 평화를 지킨다며 강대국들이 뽑힌 병사들끼리 목숨 건 작은 전투를 벌이는 '평화 경기'를 연다. |
+| 1969 | Goopy Gyne Bagha Byne (경계) | Goopy Gyne Bagha Byne | Satyajit Ray | 영화 | 확인 못 함 | 노래꾼 둘이 다이아몬드 왕의 나라에 불려 가고, 왕은 기계로 백성을 세뇌한다. |
 | 1969 | Hibernatus | Hibernatus | Édouard Molinaro | 영화 | 확인 못 함 | 1905년 북극에서 얼었던 탐험가가 65년 만에 깨어나 손녀 집안에 맡겨지며 소동이 벌어진다. |
 | 1969 | La horripilante bestia humana (경계) | La horripilante bestia humana | René Cardona | 영화 | 확인 못 함 | 백혈병에 걸린 아들에게 고릴라 심장을 옮긴 과학자 탓에 아들이 반은 유인원인 괴물이 되어 날뛴다. |
 | 1969 | La venganza del sexo (경계) | La venganza del sexo | Emilio Vieyra | 영화 | 확인 못 함 | 영원한 삶을 찾는 미친 과학자가 괴물을 시켜 사람들을 납치해 강제로 관계를 맺게 한다. |
 | 1969 | Moon Zero Two | Moon Zero Two | Roy Ward Baker | 영화 | 확인 못 함 | 2021년 개척 중인 달에서, 옛 우주 비행사가 백만장자의 청으로 사파이어 소행성을 몰래 끌어내린다. |
 | 1969 | Ruusujen aika | Ruusujen aika | Risto Jarva | 영화 | 확인 못 함 | 계급이 사라졌다는 2012년 핀란드, 기록 영화 감독이 1970년대에 죽은 모델의 삶을 좇다 속살을 본다. |
+| 1969 | Sabash Satyam | Sabash Satyam | G. Viswanatham | 영화 | 확인 못 함 | 암 연구소에서 일하던 청년이 투명 인간이 되어 사랑을 이루려 한다. |
 | 1969 | Stereo | Stereo | David Cronenberg | 영화 | 확인 못 함 | 가상의 연구소가 젊은 자원자들에게 텔레파시 능력을 심고 그 무리를 관찰하는 기록 영화 꼴의 실험. |
 | 1969 | The Body Stealers | The Body Stealers | Gerry Levy | 영화 | 확인 못 함 | 공수병들이 강하 중 공중에서 사라지고, 역병으로 망가진 행성의 외계인이 그들을 데려간 것이 드러난다. |
 | 1969 | The Valley of Gwangi (경계) | The Valley of Gwangi | Jim O'Connolly | 영화 | 확인 못 함 | 20세기 초 멕시코의 로데오 일행이 '금지된 골짜기'에서 공룡을 붙잡아 구경거리로 삼으려 한다. |
+| 1969 | コント55号 宇宙大冒険 | コント55号 宇宙大冒険 | 東宝 | 영화 | 확인 못 함 | 막부 말기 무사 둘이 다른 별에서 온 외계인의 비행접시에 끌려 들어가는 희극. |
 | 1969 | 緯度0大作戦 | 緯度0大作戦 | 本多猪四郎 · Ted Sherdeman(원작) | 영화 | 확인 못 함 | 1805년에 띄운 초잠수함의 204살 선장이 사람들을 해저 낙원 '위도 0'으로 데려가며 악당과 싸운다. |
 | 1970 | Crimes of the Future | Crimes of the Future | David Cronenberg | 영화 | 확인 못 함 | 화장품이 퍼뜨린 병으로 어른 여자가 모두 죽은 1997년, 피부과 의사가 사라진 스승을 찾아 헤맨다. |
 | 1970 | Gas-s-s-s | Gas-s-s-s | Roger Corman | 영화 | 확인 못 함 | 군 시설에서 샌 시험용 가스가 스물다섯 살 넘은 사람을 다 죽이고, 남은 젊은이들이 텍사스를 떠돈다. |
 | 1970 | Los monstruos del terror (경계) | Los monstruos del terror | Tulio Demicheli · Hugo Fregonese · Jacin | 영화 | 확인 못 함 | 죽은 과학자 몸에 든 외계인들이 흡혈귀·늑대 인간·미라·괴물을 되살려 인류를 겁주려 한다. |
 | 1970 | Pane, vy jste vdova! | Pane, vy jste vdova! | Václav Vorlíček | 영화 | 확인 못 함 | 군대를 없앤 왕을 노린 장군들이 송아지 고기로 빚은 여배우 대역 몸에 살인마의 뇌를 넣는다. |
 | 1970 | Signale – Ein Weltraumabenteuer | Signale – Ein Weltraumabenteuer | Gottfried Kolditz | 영화 | 확인 못 함 | 21세기, 목성 근처에서 부서진 탐사선의 생존자를 찾아 한 선장이 정비 비행으로 꾸며 구조에 나선다. |
+| 1970 | The Love War | The Love War | George McCowan (감독) | 영화 | 확인 못 함 | 지구를 두고 다투는 두 행성이 사람으로 꾸민 병사 셋씩을 보내 죽을 때까지 싸우게 한다. |
 | 1970 | Toomorrow | Toomorrow | Val Guest | 영화 | 확인 못 함 | 사람 모습으로 수천 년 지구에 숨어 산 외계인이 팝 밴드의 특별한 증폭기 소리를 찾아 그들을 데려간다. |
 | 1970 | Trog | Trog | Freddie Francis | 영화 | 확인 못 함 | 영국 시골 동굴에서 살아남은 빙하기 혈거인을 인류학자가 데려와 길들이려 하자 마을이 맞선다. |
 | 1970 | When Dinosaurs Ruled the Earth (경계) | When Dinosaurs Ruled the Earth | Val Guest | 영화 | 확인 못 함 | 달이 아직 없던 원시 시대, 해의 신에게 바쳐질 뻔한 금발 여인이 달아나 공룡과 부족 사이를 헤맨다. |
 | 1970 | Zabil jsem Einsteina, pánové | Zabil jsem Einsteina, pánové | Oldřich Lipský · Josef Nesvadba(각본) | 영화 | 확인 못 함 | 1999년, G 폭탄 탓에 여자에게 수염이 나고 아이가 안 생기자 아인슈타인을 죽이러 옛 프라하로 간다. |
 | 1970 | ゲゾラ・ガニメ・カメーバ 決戦! 南海の大怪獣 | ゲゾラ・ガニメ・カメーバ 決戦! 南海の大怪獣 | 本多猪四郎 | 영화 | 확인 못 함 | 목성 탐사선에 붙어 온 우주 아메바가 남태평양 섬의 오징어·게·거북에 들어가 거대 괴물로 만든다. |
 | 1971 | Blood of Ghastly Horror | Blood of Ghastly Horror | Al Adamson | 영화 | 확인 못 함 | 베트남전에서 돌아온 군인이 뇌에 전자 부품을 심긴 뒤 살인마가 되어 보석 강도에 끼어든다. |
+| 1971 | City Beneath the Sea | City Beneath the Sea | Irwin Allen | 영화 | 확인 못 함 | 2053년 대서양의 미래 석유 시추선이 터진 뒤, 해저 도시를 맡은 퇴역 제독이 위기를 다룬다. |
+| 1971 | Elaan | Elaan | K. Ramanlal | 영화 | 확인 못 함 | 섬의 범죄를 파헤치던 사진 기자가 몸을 사라지게 하는 반지를 얻는다. |
 | 1971 | Glen and Randa | Glen and Randa | Jim McBride | 영화 | 확인 못 함 | 핵전쟁 수십 년 뒤, 시골 부족의 젊은 남녀가 옛 만화책에서 본 큰 도시를 찾아 길을 떠난다. |
 | 1971 | Octaman | Octaman | Harry Essex | 영화 | 확인 못 함 | 방사능에 오염된 멕시코 어촌 바다에서 생겨난 사람 모양 문어 괴물이 탐사대를 덮친다. |
 | 1971 | The Incredible 2-Headed Transplant | The Incredible 2-Headed Transplant | Anthony M. Lanza | 영화 | 확인 못 함 | 머리 이식을 연구하던 과학자가 살인마의 머리를 힘센 청년 몸에 붙여 한 몸에 머리 둘이 된다. |
@@ -2610,7 +3177,9 @@
 | 1972 | The Happiness Cage | The Happiness Cage | Bernard Girard | 영화 | 확인 못 함 | 군이 병사의 공격성을 누르려 뇌의 쾌락 중추에 칩을 심는 실험을 벌이고, 한 사병이 대상이 된다. |
 | 1972 | The Thing with Two Heads | The Thing with Two Heads | Lee Frost | 영화 | 확인 못 함 | 죽어 가는 백인 외과 의사가 제 머리를 사형수인 흑인 남자 몸에 붙여, 한 몸에 머리 둘이 산다. |
 | 1972 | Z.P.G. | Z.P.G. | Michael Campus | 영화 | 확인 못 함 | 공기마저 더러워진 미래, 세계 정부가 서른 해 동안 아이를 낳지 못하게 하고 어기면 사형에 처한다. |
+| 1972 | 怪獣大奮戦 ダイゴロウ対ゴリアス | 怪獣大奮戦 ダイゴロウ対ゴリアス | 飯島敏宏 | 영화 | 확인 못 함 | 나라가 기르던 새끼 괴수가 성장을 막는 약을 맞고, 우주에서 온 괴수와 맞붙는다. |
 | 1973 | Beyond Atlantis (경계) | Beyond Atlantis | Eddie Romero · Stephanie Rothman(이야기) | 영화 | 확인 못 함 | 진주를 찾아 외딴섬에 간 사내들이 눈이 큰 아틀란티스 후손 부족과 그들의 여왕을 만난다. |
+| 1973 | Genesis II | Genesis II | Gene Roddenberry | 영화 | 확인 못 함 | 가사 상태 실험에 들어간 1979년의 과학자가 문명이 무너진 먼 미래에 깨어난다. |
 | 1973 | Horror Hospital | Horror Hospital | Antony Balch | 영화 | 확인 못 함 | 건강 농장으로 꾸민 저택에서 의사가 히피 젊은이들의 뇌를 수술해 말 잘 듣는 종으로 만든다. |
 | 1973 | Idaho Transfer | Idaho Transfer | Peter Fonda | 영화 | 확인 못 함 | 물질 전송을 연구하던 정부 시설이 시간 여행을 찾아내고, 곧 문명을 끝낼 재앙을 내다본다. |
 | 1973 | Invasion of the Bee Girls | Invasion of the Bee Girls | Denis Sanders | 영화 | 확인 못 함 | 정부 연구소의 여과학자가 방사선 쬔 벌 혈청으로 여자들을 바꾸고, 남자들이 잠자리에서 죽어 나간다. |
@@ -2620,9 +3189,12 @@
 | 1973 | The Crazies | The Crazies | George A. Romero | 영화 | 확인 못 함 | 군 수송기가 떨어져 생물 무기 '트릭시'가 소도시 물에 퍼지자 주민이 미쳐 가고 군이 마을을 막는다. |
 | 1973 | The Creeping Flesh (경계) | The Creeping Flesh | Freddie Francis | 영화 | 확인 못 함 | 1894년 뉴기니에서 가져온 거인 해골이 물에 닿자 살이 돋고, 학자는 그 피에서 '악'의 정체를 찾는다. |
 | 1973 | The Neptune Factor | The Neptune Factor | Daniel Petrie | 영화 | 확인 못 함 | 해저 지진으로 깊은 해구에 떨어진 바다 밑 연구소를 구하러 내려간 잠수정이 거대한 물고기 떼를 만난다. |
+| 1973 | The Stranger | The Stranger | Gerald Sanford | 영화 | 확인 못 함 | 우주 임무 중 추락한 지구 비행사가 지구를 닮은 다른 행성의 정부에 갇혀 심문받는다. |
+| 1973 | Ulagam Sutrum Valiban | Ulagam Sutrum Valiban | M. G. Ramachandran | 영화 | 확인 못 함 | 번개의 힘을 담아 두는 법을 알아낸 인도 과학자를 노리는 무리와 세계를 도는 쫓고 쫓기기. |
 | 1973 | Una gota de sangre para morir amando | Una gota de sangre para morir amando | Eloy de la Iglesia | 영화 | 확인 못 함 | 범죄자를 전기 충격으로 '모범 시민'으로 고치는 미래 도시, 상 받은 간호사가 밤마다 젊은 남자를 죽인다. |
 | 1973 | 웨스트월드 | Westworld | Michael Crichton (영화); Jonathan Nolan, L | 게임·드라마·영화 | 있음 | 사람과 똑같은 인조인간이 손님을 맞는 놀이공원에서, 인조인간들이 스스로를 깨닫는다. |
 | 1973 | Wonder Women (경계) | Wonder Women | Robert Vincent O'Neil | 영화 | 확인 못 함 | 필리핀 실험실의 여의사가 세계 최고 운동선수들을 붙잡아 몸의 부분을 떼어 팔아넘긴다. |
+| 1973 | Эта весёлая планета | Эта весёлая планета | Юрий Сааков · Юрий Цветков | 영화 | 확인 못 함 | 새해마다 거듭 방송된 소련의 공상 과학 음악 희극. |
 | 1974 | Chosen Survivors | Chosen Survivors | Sutton Roley | 영화 | 확인 못 함 | 핵전쟁 전날 컴퓨터가 뽑은 사람들이 지하 대피소에 들어가지만, 그곳엔 흡혈박쥐 떼가 산다. |
 | 1974 | Dark Star | Dark Star | John Carpenter · Dan O'Bannon | 영화 | 확인 못 함 | 22세기, 위험한 행성을 터뜨리러 떠난 지 스무 해 된 낡은 우주선에서 생각하는 폭탄이 말을 안 듣는다. |
 | 1974 | Flesh Gordon | Flesh Gordon | Michael Benveniste · Howard Ziehm | 영화 | 확인 못 함 | 지구를 미치게 하는 '욕정 광선'을 막으러 플레시 고든 일행이 광선을 쏘는 행성으로 날아간다. |
@@ -2631,6 +3203,7 @@
 | 1974 | Phase IV | Phase IV | Saul Bass | 영화 | 확인 못 함 | 우주의 이상 현상 뒤 여러 종의 개미가 하나의 의식으로 이어져 사막에 탑을 쌓고 과학자들과 겨룬다. |
 | 1974 | Space Is the Place | Space Is the Place | John Coney · Sun Ra(각본) | 영화 | 확인 못 함 | 우주에서 돌아온 재즈 음악가 선 라가 음악을 탈것 삼아 흑인들을 새 행성으로 데려가려 한다. |
 | 1974 | The Mutations | The Mutations | Jack Cardiff | 영화 | 확인 못 함 | 유전학 교수가 납치한 학생과 식충 식물을 섞어 '걷는 식물, 뿌리내리는 사람'을 만들려 한다. |
+| 1974 | The Questor Tapes | The Questor Tapes | Gene Roddenberry | 영화 | 확인 못 함 | 기억 테이프를 다 채우지 못한 채 만들어진 인조인간이 제 창조자와 목적을 찾아 나선다. |
 | 1974 | UFO: Target Earth | UFO: Target Earth | Michael A. DeGaetano | 영화 | 확인 못 함 | 이상한 신호를 잡은 전자 기술자가 초능력자와 함께 그 출처가 호수 밑임을 알아내고 침공을 의심한다. |
 | 1974 | Zardoz | Zardoz | John Boorman | 영화 | 확인 못 함 | 2293년, 죽지 않는 '영원족'은 숨어 살고 돌 머리 신을 섬기는 '야만족'이 그들의 곡식을 기른다. |
 | 1974 | Москва — Кассиопея | Москва — Кассиопея | Ричард Викторов | 영화 | 확인 못 함 | 외계 신호를 좇아 카시오페이아자리로 떠난 소년 소녀 우주선이 사람을 닮은 존재들이 사는 별에 닿는다. |
@@ -2644,6 +3217,7 @@
 | 1975 | Le orme (경계) | Le orme | Mario Fenelli(원작) · Luigi Bazzoni(1975 감 | 영화 | 확인 못 함 | 이틀 기억이 빈 통역사가 달에 버려진 우주인 꿈에 시달리며 단서를 좇아 낯선 바닷가 마을로 간다. |
 | 1975 | Shivers (경계) | Shivers | David Cronenberg | 영화 | 확인 못 함 | 외부와 단절된 고급 아파트 단지에서 박사가 만든 기생충이 퍼져 주민들이 욕망에 사로잡혀 간다. |
 | 1975 | The Giant Spider Invasion | The Giant Spider Invasion | Bill Rebane | 영화 | 확인 못 함 | 위스콘신 시골에 쏟아진 운석과 함께 온 거대 거미들이 마을을 덮친다. |
+| 1975 | The Iron Superman | The Iron Superman | Kwok Ting-Hung | 영화 | 확인 못 함 | 로봇 제국 악당 박사의 로봇에 부모를 잃은 청년이 교수의 지도로 맞선다. |
 | 1975 | The Noah | The Noah | Daniel Bourla | 영화 | 확인 못 함 | 핵전쟁 뒤 지구에 혼자 남은 군인이 방사능 없는 섬에서 상상 속 동료와 사회를 지어내며 무너져 간다. |
 | 1975 | The Rocky Horror Picture Show (경계) | The Rocky Horror Picture Show | Jim Sharman, Richard O'Brien | 영화 | 확인 못 함 | 폭풍우 밤 고성에 들른 약혼한 남녀가 다른 별에서 온 괴짜 과학자와 그가 만든 인조인간을 만난다. |
 | 1975 | The Ultimate Warrior | The Ultimate Warrior | Robert Clouse | 영화 | 확인 못 함 | 역병이 휩쓴 2012년 뉴욕 폐허, 병에 견디는 씨앗을 지키려 생존자 무리가 떠돌이 전사를 부른다. |
@@ -2655,11 +3229,13 @@
 | 1976 | Im Staub der Sterne | Im Staub der Sterne | Gottfried Kolditz | 영화 | 확인 못 함 | 구조 신호를 받고 행성에 내린 우주선 선원들이, 그곳 지도자가 원주민을 땅속에서 노예로 부리는 것을 본다. |
 | 1976 | Izbavitelj (경계) | Izbavitelj | Krsto Papić | 영화 | 확인 못 함 | 사람 모습을 하는 똑똑한 쥐 무리를 알아챈 사내가, 곁의 누가 쥐인지 의심하며 쫓긴다. |
 | 1976 | Vandaag of morgen | Vandaag of morgen | Roeland Kerbosch | 영화 | 확인 못 함 | 세계가 셋으로 갈린 가까운 미래, 자원을 다 쥔 제3세계가 미국과 유럽을 볼모로 잡는다. |
+| 1976 | 飛天遁地金剛人 (경계) | 飛天遁地金剛人 | 余積廉 | 영화 | 확인 못 함 | 사내아이를 재료로 사람을 초인으로 만드는 악의 조직이 유치원을 덮친다. |
 | 1977 | Anno zero – Guerra nello spazio | Anno zero – Guerra nello spazio | Alfonso Brescia | 영화 | 확인 못 함 | 컴퓨터 명령을 싫어하는 우주선 선장 일행이 불안정한 행성에 내려, 땅속 문 너머의 외계 종족을 만난다. |
 | 1977 | Capricorn One (경계) | Capricorn One | Peter Hyams | 영화 | 확인 못 함 | 첫 유인 화성 탐사선 발사 직전 우주인들이 끌려 나와, 사막 기지에서 화성 착륙 장면을 꾸며 찍게 된다. |
 | 1977 | 미지와의 조우 | Close Encounters of the Third Kind | Steven Spielberg | 영화 | 있음 | 비행접시를 본 사람들이 한 산으로 이끌려 가고, 그곳에서 외계인과 처음 만난다 |
 | 1977 | Což takhle dát si špenát | Což takhle dát si špenát | Václav Vorlíček | 영화 | 확인 못 함 | 출소한 두 사기꾼이 늙은 소를 되젊게 하는 장치를 미용실 손님에게 쓰려다 스스로 아이가 되어 버린다. |
 | 1977 | End of the World | End of the World | John Hayes | 영화 | 확인 못 함 | 재해를 미리 알리는 신호를 쫓던 학자가 사람으로 꾸민 외계인들이 차지한 수녀원에 갇힌다. |
+| 1977 | Exo-Man (경계) | Exo-Man | Richard Irving (감독) · 이야기 Martin Caidin  | 영화 | 확인 못 함 | 자외선을 기계 힘으로 바꾸는 소재를 연구하던 물리학 교수가 범죄 조직에 맞서 '엑소맨'이 된다. |
 | 1977 | Kingdom of the Spiders | Kingdom of the Spiders | John "Bud" Cardos | 영화 | 확인 못 함 | 살충제로 먹이를 잃은 타란툴라 떼가 함께 큰 짐승을 사냥하며 애리조나 시골 마을을 에워싼다. |
 | 1977 | Planet of Dinosaurs | Planet of Dinosaurs | James K. Shea | 영화 | 확인 못 함 | 고장 난 우주선이 지구를 닮은 먼 행성에 떨어지고, 살아남은 이들이 공룡이 사는 땅을 헤맨다. |
 | 1977 | Prey | Prey | Norman J. Warren | 영화 | 확인 못 함 | 사람이 먹을거리로 쓸 만한지 살피러 온 모습 바꾸는 외계인이 시골 저택의 두 여자 곁에 숨어든다. |
@@ -2669,9 +3245,12 @@
 | 1977 | The Glitterball | The Glitterball | Harley Cokliss | 영화 | 확인 못 함 | 두 소년이 작은 은빛 공 모양으로 떨어진 외계인을 도와 집으로 돌려보낸다. |
 | 1977 | The Incredible Melting Man | The Incredible Melting Man | William Sachs | 영화 | 확인 못 함 | 토성 비행 중 방사선을 쬔 우주인이 지구로 돌아와 살이 녹아내리고, 버티려고 사람을 먹는다. |
 | 1977 | Welcome to Blood City | Welcome to Blood City | Peter Sasdy | 영화 | 확인 못 함 | 기억을 잃고 서부 개척 마을에서 깨어난 다섯이, 스무 명을 죽여야 '불멸자'가 되고 못 하면 노예가 된다. |
+| 1977 | Yeti: Giant of the 20th Century | Yeti: Giant of the 20th Century | Gianfranco Parolini(Frank Kramer) | 영화 | 확인 못 함 | 뉴펀들랜드 얼음 속에서 발견된 거대 예티를 기업가가 회사의 상징으로 이용하려 한다. |
 | 1977 | Zítra vstanu a opařím se čajem | Zítra vstanu a opařím se čajem | Jindřich Polák | 영화 | 확인 못 함 | 시간 여행이 관광업이 된 미래, 늙지 않는 나치들이 히틀러에게 수소 폭탄을 건네려 시간 비행사를 매수한다. |
 | 1977 | 恐竜・怪鳥の伝説 | 恐竜・怪鳥の伝説 | 倉田準二 | 영화 | 확인 못 함 | 후지산 기슭 동굴에서 큰 알이 깨어나고, 호숫가 마을에 살아남은 공룡과 괴조가 나타난다. |
 | 1977 | 惑星大戦争 | 惑星大戦争 | 福田純 | 영화 | 확인 못 함 | 1988년 미확인 비행체가 잇달아 나타나고 우주 기지가 무너지자, 일본은 접었던 우주 전함 고텐을 띄운다. |
+| 1977 | 極底探険船ポーラーボーラ | 極底探険船ポーラーボーラ | 円谷プロダクション · 小谷承靖(감독) | 영화 | 확인 못 함 | 땅속 탐사선이 극지 밑에서 공룡이 사는 비경을 찾아내고, 이름난 사냥꾼이 공룡을 쫓는다. |
+| 1977 | 猩猩王 | 猩猩王 | 何夢華(감독) · 倪匡(각본) · 쇼 브라더스 | 영화 | 확인 못 함 | 히말라야 지진으로 깨어난 거대 원인을 흥행사가 홍콩으로 데려와 구경거리로 삼는다. |
 | 1977 | 태권동자 마루치 아라치 (경계) | 태권동자 마루치 아라치 | 임정규, 송길한 | 애니메이션·영화 | 한국 원작 | 태권도를 익힌 두 아이가 할아버지를 죽인 파란해골단과 그 괴인들에 맞선다. |
 | 1978 | 토마토 대소동 (경계) | Attack of the Killer Tomatoes! | John De Bello | 영화 | 있음 | 도시에 나타난 살인 토마토들이 사람을 해치는, 일부러 엉성하게 만든 컬트 영화. |
 | 1978 | Deathsport | Deathsport | Allan Arkush · Nicholas Niciphor | 영화 | 확인 못 함 | 중성자 전쟁 천 년 뒤, 도시 국가들이 죄수를 레이저 오토바이 결투에 내몰아 새 무기를 시험한다. |
@@ -2701,6 +3280,7 @@
 | 1979 | Phantasm (경계) | Phantasm | Don Coscarelli | 영화 | 확인 못 함 | 오리건 소읍 장례식장의 수수께끼 장의사 '키 큰 사내'가 시신을 빼돌리는 비밀을 소년이 파헤친다. |
 | 1979 | Plague | Plague | Ed Hunt | 영화 | 확인 못 함 | 식량을 늘리려 만든 세균 M3가 연구소를 빠져나가 아이들을 앓게 하고 온 세계로 번진다. |
 | 1979 | Quintet | Quintet | Robert Altman | 영화 | 확인 못 함 | 두 번째 빙하기의 얼어붙은 도시, 바다표범 사냥꾼이 형을 찾아왔다가 폭탄 테러와 수상한 놀음에 휘말린다. |
+| 1979 | Seetharamu | Seetharamu | V. Somashekhar | 영화 | 확인 못 함 | 시골 마을의 연구자가 죽은 사람을 되살리는 연구를 몰래 하고 있다. |
 | 1979 | Stridulum (경계) | Stridulum | Giulio Paradisi | 영화 | 확인 못 함 | 선한 힘과 지구로 숨어든 악한 우주의 힘 '자틴'의 오랜 싸움이 염력을 지닌 한 소녀를 두고 되살아난다. |
 | 1979 | Supersonic Man (경계) | Supersonic Man | Juan Piquer Simón | 영화 | 확인 못 함 | 인류를 도우러 온 외계인 크로노스가 뉴욕에서 초인이 되어 세계 정복을 꾀하는 박사와 맞선다. |
 | 1979 | The Black Hole | The Black Hole | Gary Nelson | 영화 | 확인 못 함 | 2130년, 돌아오던 탐사선이 블랙홀 곁에 멈춰 선 실종 우주선을 찾아 그 안으로 들어간다. |
@@ -2742,6 +3322,7 @@
 | 1981 | 시간 도둑들 (경계) | Time Bandits | Terry Gilliam | 영화 | 있음 | 옷장에서 튀어나온 난쟁이 도둑들을 따라 소년이 나폴레옹·로빈 후드·아가멤논의 시대를 오간다. |
 | 1981 | Wojna światów – następne stulecie | Wojna światów – następne stulecie | Piotr Szulkin | 영화 | 확인 못 함 | 우호를 내세운 화성인이 오자, 텔레비전으로 다스리는 경찰국가의 뉴스 진행자가 그들을 띄우는 선전에 내몰린다. |
 | 1981 | Петля Ориона | Петля Ориона | Vasily Levin | 영화 | 확인 못 함 | 태양계 끝의 강한 복사선 '오리온 고리'가 우주인을 미치게 하자, 사람과 인조인간이 함께 탄 탐사선이 간다. |
+| 1981 | 潜影 (경계) | 潜影 | 郭宝昌 · 黄玲 | 영화 | 확인 못 함 | 박물관 벽의 옛 왕비 그림자를 번개가 새긴 영상이라 믿은 관리인이 그것을 불러낼 기계를 만든다. |
 | 1981 | 괴시 (경계) | 괴시 | 강범구 | 영화 | 한국 원작 | 해충을 쫓는 기계 연구가 실패한 뒤, 시골 별장 둘레에서 죽은 이들이 되살아나 사람을 덮친다. |
 | 1982 | 1990: I guerrieri del Bronx | 1990: I guerrieri del Bronx | Enzo G. Castellari | 영화 | 확인 못 함 | 무법지대로 버려진 1990년 브롱크스로 무기 재벌의 상속녀가 달아나고, 폭주족 패거리가 그녀를 지킨다. |
 | 1982 | Airplane II: The Sequel | Airplane II: The Sequel | Ken Finkleman | 영화 | 확인 못 함 | 달에 기지가 선 가까운 미래, 안전 검사도 못 넘은 첫 상업 달 왕복선이 서둘러 떠나 엉망이 된다. |
@@ -2766,8 +3347,13 @@
 | 1982 | 트론 | Tron | Steven Lisberger · Disney | 게임·만화·애니메이션·영화 | 있음 | 컴퓨터 안에 프로그램들이 사람처럼 사는 세계가 있고, 사람이 몸째 그 안으로 들어간다 |
 | 1982 | Turkey Shoot | Turkey Shoot | Brian Trenchard-Smith | 영화 | 확인 못 함 | 세계를 다스리는 독재 정권의 1995년 수용소에서, 소장이 부자 손님들과 '부적응자' 수감자를 사냥한다. |
 | 1982 | Zapped! (경계) | Zapped! | Robert J. Rosenthal | 영화 | 확인 못 함 | 실험을 하던 고등학생이 사고로 염력을 얻어 학교를 뒤집어 놓는다. |
+| 1982 | ヘリウッド | ヘリウッド | 長嶺高文 | 영화 | 확인 못 함 | 우주력 2001년, 지구인을 식물로 바꾸려는 악당을 우주의 사자가 막으러 온다. |
+| 1982 | 幻の湖 (경계) | 幻の湖 | 橋本忍 | 영화 | 확인 못 함 | 개를 잃고 복수에 나선 비와호의 여자가 전국 시대 피리 전설과 우주로 떠날 연구자를 만난다. |
+| 1982 | 快傑のーてんき (경계) | 快傑のーてんき | ダイコンフィルム(武田康廣 주연) | 영화 | 확인 못 함 | 옛 변신 영웅물을 흉내 낸 엉뚱한 영웅의 활약을 그린 자주 제작 패러디. |
+| 1982 | 愛國戰隊大日本 (경계) | 愛國戰隊大日本 | 赤井孝美(총감독), 庵野秀明(특촬 감독) · DAICON FILM | 영화 | 확인 못 함 | 북쪽 악의 조직이 아이들 교과서를 붉게 물들이려 하고 애국 전대가 맞서는 풍자 패러디. |
 | 1982 | 爆裂都市 BURST CITY (경계) | 爆裂都市 BURST CITY | 石井聰亙 (이시이 소고) | 영화 | 확인 못 함 | 펑크 밴드들이 나오는 디스토피아 펑크 록 활극, 일본 사이버펑크 영화의 앞자리로 꼽힘 |
 | 1983 | 2019 - Dopo la caduta di New York | 2019 - Dopo la caduta di New York | Sergio Martino | 영화 | 확인 못 함 | 핵전쟁 스무 해 뒤 아이를 낳는 사람이 없어지고, 용병이 점령된 맨해튼에서 마지막 가임 여성을 찾는다. |
+| 1983 | Blue Thunder (경계) | Blue Thunder | John Badham (영화 감독) | 드라마·영화 | 확인 못 함 | 첨단 군용 헬리콥터로 도시를 쥐려는 음모를 알아챈 로스앤젤레스 경찰. |
 | 1983 | 불꽃 속에 태어나서 | Born in Flames | Lizzie Borden | 영화 | 일부 | 평화로운 혁명으로 사회당이 집권한 지 10년 뒤 뉴욕에서, 여성들이 스스로 군대를 꾸려 맞선다. |
 | 1983 | Brainstorm | Brainstorm | Douglas Trumbull | 영화 | 확인 못 함 | 뇌의 감각을 테이프에 담아 남이 겪게 하는 장치를 만든 연구진, 돈줄인 기업이 그것을 노린다 |
 | 1983 | Bronx lotta finale | Bronx lotta finale | Joe D'Amato | 영화 | 확인 못 함 | 핵전쟁 뒤 2025년 뉴욕, 텔레파시 돌연변이는 쫓기고 사람들은 죽음의 사냥 방송 '엔드게임'에 빠져 있다. |
@@ -2776,6 +3362,8 @@
 | 1983 | Il giustiziere della strada | Il giustiziere della strada | Giuliano Carnimeo | 영화 | 확인 못 함 | 물이 가장 귀해진 종말 뒤 세상, 떠돌이 사내가 물 있는 기지를 노리는 폭주족과 맞선다. |
 | 1983 | Il giustiziere della terra perduta | Il giustiziere della terra perduta | David Worth | 영화 | 확인 못 함 | 인공지능 오토바이를 탄 '라이더'가 원로들의 부탁으로 독재 국가 오메가에 맞선 저항군을 돕는다. |
 | 1983 | Il mondo di Yor (경계) | Il mondo di Yor | Antonio Margheriti | 영화 | 확인 못 함 | 공룡과 원시인이 사는 땅의 사냥꾼 요르가 붙잡힌 여자를 구하고 자기가 어디서 왔는지 찾아 떠난다. |
+| 1983 | Karate (경계) | Karate | Deb Mukherji | 영화 | 확인 못 함 | 햇빛을 모아 무엇이든 태우는 다이아몬드를 과학자가 만들고, 악당들이 그것을 노린다. |
+| 1983 | Kaya Palat | Kaya Palat | Satyen Bose | 영화 | 확인 못 함 | 사람을 더 빠르게 만드는 공식을 연구하는 과학자를 동료 과학자가 시기한다. |
 | 1983 | Krull (경계) | Krull | Peter Yates | 영화 | 확인 못 함 | 괴수 '비스트'의 산 같은 요새가 행성 크럴을 노리고, 두 왕국을 묶을 왕자와 공주의 혼례가 습격당한다. |
 | 1983 | Le Dernier Combat | Le Dernier Combat | Luc Besson | 영화 | 확인 못 함 | 종말 뒤 사막이 된 도시에서 살아남은 사내가 고물로 비행기를 지어 다른 사람을 찾아 떠난다. |
 | 1983 | Los nuevos extraterrestres | Los nuevos extraterrestres | Juan Piquer Simón | 영화 | 확인 못 함 | 뉴잉글랜드 숲에 떨어진 외계 생물의 알을 밀렵꾼이 깨자, 정체 모를 존재가 캠핑 온 밴드 일행까지 쫓는다. |
@@ -2783,6 +3371,7 @@
 | 1983 | Prisoners of the Lost Universe (경계) | Prisoners of the Lost Universe | Terry Marcel | 영화 | 확인 못 함 | 괴짜 과학자의 물질 전송기에 휘말린 방송인과 전기공이 원시 같은 평행 세계 본야에 떨어진다. |
 | 1983 | Space Raiders | Space Raiders | Howard R. Cohen | 영화 | 확인 못 함 | 우주 해적 호크 일당이 '회사'의 화물선을 훔치다 몰래 숨어든 열 살 소년을 떠맡는다. |
 | 1983 | Spacehunter: Adventures in the Forbidden Zone | Spacehunter: Adventures in the Forbidden Zone | Lamont Johnson | 영화 | 확인 못 함 | 22세기, 여객선이 부서져 낯선 행성에 떨어진 여자 셋을 현상금 노린 고물상 용병이 구하러 간다. |
+| 1983 | Starflight: The Plane That Couldn't Land | Starflight: The Plane That Couldn't Land | Jerry Jameson (감독) | 영화 | 확인 못 함 | 첫 극초음속 여객기가 처녀비행에서 로켓 잔해에 부딪혀 연료가 떨어진 채 궤도에 오른다. |
 | 1983 | Strange Invaders | Strange Invaders | Michael Laughlin | 영화 | 확인 못 함 | 1958년 외계인이 몰래 차지해 주민 행세를 하는 시골 소읍에, 스물다섯 해 뒤 강사가 전처를 찾아온다. |
 | 1983 | The Deadly Spawn | The Deadly Spawn | Douglas McKeown | 영화 | 확인 못 함 | 운석과 함께 떨어진 육식 외계 생물이 시골집 지하실에서 자라며 식구를 하나씩 삼킨다. |
 | 1983 | 비디오드롬 (경계) | Videodrome | David Cronenberg | 영화 | 있음 | 자극적 영상을 찾던 방송국 사장이 정체불명 방송 '비디오드롬'을 본 뒤 환각과 몸의 변이에 빠져든다. |
@@ -2792,6 +3381,7 @@
 | 1983 | Комета | Комета | Richard Viktorov | 영화 | 확인 못 함 | 크림 휴양지의 영화 소품 배에 갇힌 실험 로봇이 소동을 벌이고, 바다로 혜성이 떨어진다는 소식이 돈다. |
 | 1983 | Лунная радуга | Лунная радуга | Andrei Yermash | 영화 | 확인 못 함 | 천왕성 위성의 재난에서 살아남은 넷이 설명 못 할 초감각 힘을 얻고, 지구 곳곳에 '검은 흔적'이 생긴다. |
 | 1983 | だいじょうぶマイ・フレンド (경계) | だいじょうぶマイ・フレンド | 村上龍 | 소설·영화 | 확인 못 함 | 힘을 잃고 떨어진 외계 초인 곤지가 젊은이 셋과 다시 날기를 익히고, 그의 복제를 노리는 조직이 덮친다. |
+| 1983 | 打擂台 | 打擂台 | Kirk Wong | 영화 | 확인 못 함 | 디스토피아 미래를 무대로 한 공상 과학 쿵후 영화. |
 | 1984 | Babičky dobíjejte přesně! | Babičky dobíjejte přesně! | Ladislav Rychman | 영화 | 확인 못 함 | 이웃이 인조인간 할머니를 들이자 더 좋은 모델을 산 집과 이웃의 '할머니 경쟁'이 끔찍하게 번진다. |
 | 1984 | Bloodsuckers from Outer Space (경계) | Bloodsuckers from Outer Space | Glen Coburn | 영화 | 확인 못 함 | 우주에서 온 기운에 닿은 텍사스 농부들이 좀비가 되고, 성급한 장군은 마을에 핵폭탄을 떨어뜨리자고 한다. |
 | 1984 | City Limits | City Limits | Aaron Lipstadt | 영화 | 확인 못 함 | 역병이 어른을 거의 다 앗아간 미래, 시골에서 자란 청년이 로스앤젤레스 폐허의 폭주족에 들어가려 한다. |
@@ -2836,11 +3426,14 @@
 | 1985 | O-bi, o-ba: Koniec cywilizacji | O-bi, o-ba: Koniec cywilizacji | Piotr Szulkin | 영화 | 확인 못 함 | 핵전쟁 한 해 뒤 무너져 가는 땅속 돔의 생존자들이, 언젠가 온다는 거대한 방주만 바라며 버틴다. |
 | 1985 | Radioactive Dreams | Radioactive Dreams | Albert Pyun | 영화 | 확인 못 함 | 핵전쟁 뒤 방공호에서 탐정 소설만 읽고 자란 두 청년이 2001년에 밖으로 나와 낯선 폐허로 들어선다. |
 | 1985 | Real Genius | Real Genius | Martha Coolidge | 영화 | 확인 못 함 | 공대 천재 학생들이 교수 몰래 맡은 레이저 연구가 우주에서 사람을 노리는 무기가 될 것임을 알아챈다. |
+| 1985 | Shiva Ka Insaaf (경계) | Shiva Ka Insaaf | Raj N. Sippy | 영화 | 확인 못 함 | 부모를 잃고 세 사내 손에 자란 청년이 복면 영웅이 되어 원수에게 정의를 묻는다. |
 | 1985 | Space Rage: Breakout on Prison Planet | Space Rage: Breakout on Prison Planet | Conrad E. Palmisano | 영화 | 확인 못 함 | 두 세기 뒤 프록시마 켄타우리 행성 유형지에서, 현상금 사냥꾼과 전직 경찰이 미치광이 죄수의 탈옥을 막는다. |
 | 1985 | The Return of the Living Dead (경계) | The Return of the Living Dead | Dan O'Bannon | 영화 | 확인 못 함 | 의료 창고 지하의 군용 독가스 트라이옥신이 새어 나오자 시체와 표본이 깨어나 산 사람을 덮친다. |
 | 1985 | The Stuff | The Stuff | Larry Cohen | 영화 | 확인 못 함 | 땅에서 솟은 달콤한 흰 크림이 '더 스터프'로 팔려 온 나라가 빠져드는데, 그것은 살아 있다. |
 | 1985 | Underworld (경계) | Underworld | George Pavlou | 영화 | 확인 못 함 | 런던 땅굴의 돌연변이들은 한 생화학자가 만든 환각제에 기대 살고, 옛 범죄자가 사라진 여자를 찾아 내려간다. |
 | 1985 | Zone Troopers | Zone Troopers | Danny Bilson | 영화 | 확인 못 함 | 2차 대전 이탈리아에서 길 잃은 미군 순찰대가 떨어진 외계 우주선을 찾고, 나치에 맞서 외계인을 돕는다. |
+| 1985 | テラ戦士ΨBOY | テラ戦士ΨBOY | 石山昭信 · 原田眞人(각본) | 영화 | 확인 못 함 | 여섯 살에 빛에 싸였던 소녀가 열여섯 살 여고생으로 지내다 잃은 기억과 초능력의 비밀에 다가간다. |
+| 1985 | 八岐之大蛇の逆襲 (경계) | 八岐之大蛇の逆襲 | DAICON FILM | 영화 | 확인 못 함 | 전설의 괴물 야마타노오로치가 실재했다는 석판이 돗토리에서 나오며 벌어지는 괴수 소동. |
 | 1986 | Biggles (경계) | Biggles | John Hough | 영화 | 확인 못 함 | 1980년대 뉴욕의 영업사원이 까닭 없이 1917년 서부 전선으로 끌려가 비행사 비글스의 목숨을 구한다. |
 | 1986 | Choke Canyon (경계) | Choke Canyon | Charles Bail | 영화 | 확인 못 함 | 핼리 혜성이 내는 음파로 값싼 에너지를 얻으려던 과학자를, 기업이 핵폐기물 몰래 버릴 터로 쓰려고 쫓아낸다. |
 | 1986 | Chopping Mall | Chopping Mall | Jim Wynorski | 영화 | 확인 못 함 | 새로 들인 경비 로봇 셋이 고장 나, 문 닫힌 쇼핑몰에서 밤샘 파티를 하던 직원들을 죽이기 시작한다. |
@@ -2850,12 +3443,15 @@
 | 1986 | Eliminators | Eliminators | Peter Manoogian | 영화 | 확인 못 함 | 악당 과학자가 추락한 조종사의 몸으로 만든 '맨드로이드'가 시간 기계 임무 뒤 달아나 설계자를 찾아간다. |
 | 1986 | Flight of the Navigator | Flight of the Navigator | Randal Kleiser | 영화 | 확인 못 함 | 1978년 숲에서 정신을 잃은 소년이 나이 그대로 1986년에 깨어나고, 붙잡힌 외계 우주선이 그를 부른다. |
 | 1986 | From Beyond (경계) | From Beyond | Stuart Gordon | 영화 | 확인 못 함 | 송과선을 자극해 보이지 않던 세계를 보게 하는 장치 '공명기'를 켜자, 그 너머의 존재들이 넘어온다. |
+| 1986 | GUZOO 神に見捨てられしもの (경계) | GUZOO 神に見捨てられしもの | 小水一男 | 영화 | 확인 못 함 | 다른 길로 진화한 생명체가 생물에 기생하며 사람 꼴로 바뀌어 간다. |
 | 1986 | Ga, ga. Chwała bohaterom | Ga, ga. Chwała bohaterom | Piotr Szulkin | 영화 | 확인 못 함 | 기계가 일을 다 하는 21세기, 죄수를 우주선 조종사로 쓰고 한 죄수가 행성 오스트레일리아-458에 닿는다. |
 | 1986 | Gröna gubbar från Y.R. | Gröna gubbar från Y.R. | Hans Hatwig | 영화 | 확인 못 함 | 놀이공원 곁에 비행접시가 떨어지고, 아이들이 지구 공기를 하루밖에 못 견디는 초록 외계인의 배를 고쳐 준다. |
+| 1986 | Highlander (경계) | Highlander | Gregory Widen | 드라마·애니메이션·영화 | 확인 못 함 | 죽지 않는 '불사자'들이 대를 이어 싸우는 이야기 — 스코틀랜드 고지 출신 코너 매클라우드에서 시작. |
 | 1986 | Kamikaze | Kamikaze | Didier Grousset | 영화 | 확인 못 함 | 쫓겨난 천재 연구원이 텔레비전 카메라 너머로 죽음의 광선을 쏘는 장치를 만들어 방송 진행자들을 죽인다. |
 | 1986 | Maximum Overdrive | Maximum Overdrive | Stephen King | 영화 | 확인 못 함 | 지구가 혜성 꼬리를 지나는 동안 기계들이 깨어나 사람을 죽이고, 트럭 떼가 휴게소를 에워싼다. |
 | 1986 | Night of the Creeps | Night of the Creeps | Fred Dekker | 영화 | 확인 못 함 | 1959년 외계 우주선에서 떨어진 민달팽이 같은 생물이 27년 뒤 대학가에 퍼져 사람을 좀비로 만든다. |
 | 1986 | Prison Ship | Prison Ship | Fred Olen Ray | 영화 | 확인 못 함 | 광부 타우라가 광물을 노린 함장과 다투다 여자 죄수 우주선에 갇히고, 손을 잃은 함장이 복수하러 쫓아온다. |
+| 1986 | Pulgasari (경계) | Pulgasari | Shin Sang-ok(이름 올리지 않음) · Chong Gon-jo | 영화 | 확인 못 함 | 고려 말, 굶어 죽은 대장장이가 빚은 밥알 괴물 인형이 살아나 억눌린 백성의 편이 된다. |
 | 1986 | Short Circuit | Short Circuit | John Badham(1편) | 영화 | 확인 못 함 | 벼락을 맞고 스스로 생각하게 된 군용 로봇이 달아나 사람 친구를 사귄다 |
 | 1986 | SpaceCamp (경계) | SpaceCamp | Harry Winer | 영화 | 확인 못 함 | 우주 캠프에 온 십대들과 교관이, 한 소년과 친구가 된 로봇 탓에 진짜 우주 왕복선을 타고 우주로 날아간다. |
 | 1986 | Star Crystal | Star Crystal | Lance Lindsay | 영화 | 확인 못 함 | 2032년 화성에서 가져온 알이 우주선에서 깨어나 수정과 외계 생물이 나오고, 남은 대원들이 그것과 갇힌다. |
@@ -2866,6 +3462,9 @@
 | 1986 | Кин-дза-дза! | Кин-дза-дза! | Георгий Данелия | 애니메이션·영화 | 확인 못 함 | 모스크바의 두 사내가 순간 이동 장치로 사막 행성에 떨어져, 성냥 한 개가 큰돈인 계급 사회를 겪는다 |
 | 1986 | Письма мёртвого человека | Письма мёртвого человека | Konstantin Lopushansky | 영화 | 확인 못 함 | 핵전쟁 뒤 폐허 도시의 박물관 지하에서, 노벨상 물리학자가 생사도 모를 아들에게 편지를 쓴다. |
 | 1986 | デス・パウダー | デス・パウダー | 泉谷しげる (이즈미야 시게루) | 영화 | 확인 못 함 | 가까운 미래, 특별한 인조인간을 붙잡은 이들에게 그녀가 현실을 비트는 물질을 뿜는다 |
+| 1986 | 奇縁 (경계) | 奇縁 | チン・シウトン | 영화 | 확인 못 함 | 히말라야 부족을 이끌 초능력을 지닌 남자가 무녀의 힘을 빌려 악한 초능력자와 싸운다. |
+| 1986 | 错位 | 错位 | 黄建新 | 영화 | 확인 못 함 | 쓸데없는 회의에 지친 국장이 자기와 똑같은 로봇을 만들어 대신 보내자 로봇이 제 생각을 품는다. |
+| 1986 | 魔翡翠 (경계) | 魔翡翠 | 王晶 | 영화 | 확인 못 함 | 고고학자가 그리스에서 얻은 기묘한 비취를 소련 요원들이 노리고, 비취는 외계에서 온 것이었다. |
 | 1986 | 우뢰매 (경계) | 우뢰매 | 김청기 | 애니메이션·영화 | 한국 원작 | 외계에서 온 영웅 에스퍼맨이 거대 로봇 우뢰매를 몰고 악당들과 싸우는 실사·애니메이션 특촬물. |
 | 1987 | *batteries not included | *batteries not included | Matthew Robbins, Steven Spielberg(제작) | 영화 | 확인 못 함 | 기계를 고쳐 새끼를 만드는 작은 외계 로봇 부부가 뉴욕 8번가 사람들과 친구가 된다. |
 | 1987 | 19 ナインティーン | 19 ナインティーン | 山下賢章(감독), 康珍化(원작) | 소설·영화 | 확인 못 함 | 소년대가 주연한 'SF 록' 모험 영화, 시간을 넘는 이야기와 열아홉 살의 갈등을 엮었다. |
@@ -2892,6 +3491,9 @@
 | 1987 | Крик дельфина (경계) | Крик дельфина | Alexey Saltykov | 영화 | 확인 못 함 | 미국 핵잠수함 승무원들이 새어 나온 탄두 탓에 나병 같은 병에 걸려, 치료제가 나올 때까지 배에 갇힌다. |
 | 1987 | キクロプス | キクロプス | 飯田譲治 | 영화 | 확인 못 함 | 과학자들이 여자 몸에 배아를 심어 돌연변이를 만들고, 마지막 실험체가 죽자 새 대상을 찾아 도시로 간다. |
 | 1987 | ケルベロス・サーガ | ケルベロス・サーガ | 押井守 | 만화·애니메이션·영화 | 일부 | 2차 대전을 연합국 쪽으로 치르고도 패망한 다른 역사의 일본에서 중무장 특수 경찰대가 어둠 속에 움직인다. |
+| 1987 | 大蛇王 | 大蛇王 | 徐玉龍 | 영화 | 확인 못 함 | 연구소의 성장 호르몬이 소녀 손에 들어가, 그가 기르던 영리한 작은 뱀이 거대 괴수가 된다. |
+| 1987 | 竹取物語 | 竹取物語 | 市川崑 · 東宝 | 영화 | 확인 못 함 | 나라 시대, 거대한 불덩이가 떨어진 산의 대숲에서 빛나는 아이가 나오고 달에서 데리러 온다. |
+| 1987 | 은하에서 온 별똥왕자 (경계) | 은하에서 온 별똥왕자 | 석도원(1편 감독) | 영화 | 한국 원작 | 고향별을 잃고 지구 부부 손에 자란 외계 왕자가 다시 쳐들어온 우주 악당을 물리친다. |
 | 1988 | 에이리언 네이션 | Alien Nation | Graham Baker(감독) · Rockne S. O'Bannon(각본 | 드라마·만화·소설·영화 | 확인 못 함 | 노예선을 타고 온 외계 종족 수십만이 로스앤젤레스에 정착해 차별 속에 이웃으로 산다 |
 | 1988 | Alien from L.A. | Alien from L.A. | Albert Pyun | 영화 | 확인 못 함 | 아버지의 죽음을 쫓아 북아프리카에 간 수줍은 아가씨가 땅속 아틀란티스 문명으로 떨어진다. |
 | 1988 | Andy Colby's Incredible Adventure | Andy Colby's Incredible Adventure | Deborah Brock | 영화 | 확인 못 함 | 비디오 가게에서 받은 테이프로 누이가 텔레비전에 빨려 들자, 열두 살 소년이 화면 속 세계로 구하러 간다. |
@@ -2899,18 +3501,23 @@
 | 1988 | Cherry 2000 | Cherry 2000 | Steve De Jarnatt | 영화 | 확인 못 함 | 2017년 무너진 미국, 고장 난 아내 로봇과 똑같은 몸을 찾아 사내가 여자 추적꾼과 무법의 황무지로 간다. |
 | 1988 | Dead Heat | Dead Heat | Mark Goldblatt | 영화 | 확인 못 함 | 되살린 시체에게 강도질을 시키는 연구소를 쫓던 형사가 살해되고, 그 장치로 되살아나 사건을 쫓는다. |
 | 1988 | Earth Girls Are Easy | Earth Girls Are Easy | Julien Temple | 영화 | 확인 못 함 | 털북숭이 외계인 셋이 로스앤젤레스 미용사의 수영장에 우주선을 떨어뜨리고 그녀의 손에 말끔해진다. |
+| 1988 | Earth Star Voyager | Earth Star Voyager | Ed Spielman | 영화 | 확인 못 함 | 2082년, 반란자들과 싸우다 크게 망가진 심우주 탐사선 '뱅가드 익스플로러'의 모험. |
 | 1988 | Hell Comes to Frogtown | Hell Comes to Frogtown | Donald G. Jackson · R. J. Kizer | 영화 | 확인 못 함 | 핵전쟁 뒤 거의 모두 아이를 못 갖게 되고, 가임 남성 샘 헬이 개구리 돌연변이에게 잡힌 여자들을 구한다. |
 | 1988 | 외계인 삐에로 (경계) | Killer Klowns from Outer Space | Stephen Chiodo | 영화 | 있음 | 서커스 천막처럼 생긴 비행접시에서 내린 광대 모습의 외계인들이 광선총으로 마을 사람들을 솜사탕으로 만든다. |
 | 1988 | Mac and Me | Mac and Me | Stewart Raffill | 영화 | 확인 못 함 | 나사 탐사선에 빨려 지구로 온 외계인 가족 가운데 막내가 한 소년과 친구가 되어 흩어진 가족을 찾는다. |
 | 1988 | Miracle Mile (경계) | Miracle Mile | Steve De Jarnatt | 영화 | 확인 못 함 | 새벽 공중전화로 잘못 걸려 온 전화에서 70분 뒤 핵전쟁이 난다는 말을 들은 사내가 연인을 찾아 달린다. |
 | 1988 | Moonwalker (경계) | Moonwalker | Jerry Kramer · Colin Chilvers | 영화 | 확인 못 함 | 마이클 잭슨의 노래 영상과 짧은 영화를 엮은 모음 — 「스무스 크리미널」 꼭지는 누아르에 SF를 섞었다. |
 | 1988 | 새엄마는 외계인 | My Stepmother Is an Alien | Richard Benjamin | 영화 | 있음 | 자기 별을 구하러 지구에 온 외계 여성이 과학자와 결혼해 사람 노릇을 배운다. |
+| 1988 | Out of Time | Out of Time | Robert Butler (감독) | 영화 | 확인 못 함 | 2088년 경찰이 시간 기계로 달아난 범인을 쫓아 1988년에 와 증조할아버지와 손잡는다. |
 | 1988 | Pulse | Pulse | Paul Golding | 영화 | 확인 못 함 | 로스앤젤레스 전력망에 깃든 정체 모를 지능이 전선을 타고 집집이 옮겨 다니며 가전제품으로 사람을 해친다. |
+| 1988 | Robo Vampire (경계) | Robo Vampire | ジョー・リヴィングストン | 영화 | 확인 못 함 | 강시 무리에게 죽은 형사가 튼튼한 사이보그로 되살아나 강시와 맞선다. |
 | 1988 | Robowar - Robot da guerra | Robowar - Robot da guerra | Bruno Mattei | 영화 | 확인 못 함 | 정글을 지나던 특공대가, 함께 온 과학자가 만든 전투 로봇 오메가-1에게 하나씩 쫓겨 죽는다. |
 | 1988 | Space Mutiny | Space Mutiny | David Winters · Neal Sundstrom | 영화 | 확인 못 함 | 열세 대째 새 행성을 찾아 나는 세대선 서던 선에서, 경비대장이 해적과 짜고 반란을 꾸민다. |
 | 1988 | The Brain | The Brain | Edward Hunt | 영화 | 확인 못 함 | 자기 계발 방송 진행자가 외계 생물 '브레인'의 힘으로 시청자 마음을 부리고, 말썽꾼 고교생이 맞선다. |
 | 1988 | World Gone Wild | World Gone Wild | Lee H. Katzin | 영화 | 확인 못 함 | 핵전쟁 뒤 쉰 해 비가 안 온 2087년, 물을 숨긴 마을이 그것을 노리는 광신 무리에 맞서 용병을 부른다. |
 | 1988 | 미래 닌자 | 未来忍者 | 雨宮慶太 (아메미야 게이타), Namco | 게임·영화 | 확인 못 함 | 사람과 사이보그가 싸우는 미래, 적의 사이버 닌자가 등을 돌려 붙잡힌 공주를 구하러 간다 |
+| 1988 | 鐵甲無敵瑪利亞 | 鐵甲無敵瑪利亞 | 鍾志文(감독) · 徐克(제작) | 영화 | 확인 못 함 | 거대 로봇으로 강도질하는 조직에 쫓기던 기자들이 부서진 여성형 로봇을 고쳐 편으로 삼는다. |
+| 1988 | 霹雳贝贝 | 霹雳贝贝 | 宋崇 · 翁路明 · 张之路(각본) | 영화 | 확인 못 함 | 태어날 때 비행접시가 스친 소년이 전기와 전기 제품을 다루는 힘을 얻는다. |
 | 1989 | Alien Seed | Alien Seed | Bob James | 영화 | 확인 못 함 | 외계인에게 끌려갔다 죽은 여자의 동생이 다시 끌려가 지구를 다스릴 '메시아'를 배고, 비밀 조직이 얽힌다. |
 | 1989 | Alienator | Alienator | Fred Olen Ray | 영화 | 확인 못 함 | 탈옥한 외계 죄수가 미국 시골 숲으로 달아나자, 우주선 사령관이 사냥꾼 인조인간 '에일리어네이터'를 보낸다. |
 | 1989 | Arena | Arena | Peter Manoogian | 영화 | 확인 못 함 | 4038년 우주 정거장 요리사가 외계인 손님을 때려눕힌 일로 쉰 해 만의 인간 은하 격투 선수가 된다. |
@@ -2922,20 +3529,25 @@
 | 1989 | DeepStar Six | DeepStar Six | Sean S. Cunningham | 영화 | 확인 못 함 | 해저 미 해군 실험 기지가 바닥의 동굴을 폭파하자, 그 속에 살던 거대한 바다 생물이 깨어나 기지를 덮친다. |
 | 1989 | Future Force | Future Force | David A. Prior | 영화 | 확인 못 함 | 법이 무너진 가까운 미래, 레이저를 쏘는 쇠팔을 찬 현상금 사냥꾼이 썩은 경찰 패거리에게서 기자를 지킨다. |
 | 1989 | 애들이 줄었어요 | Honey, I Shrunk the Kids | Joe Johnston, Disney | 드라마·영화 | 있음 | 발명가 아버지의 축소 광선에 6mm 로 작아진 아이들이 뒷마당 정글을 건너 집으로 돌아가야 한다. |
+| 1989 | Jai Karnataka (경계) | Jai Karnataka | Dwarakish | 영화 | 확인 못 함 | 칸나다어 초인 영웅 영화. |
 | 1989 | Leviathan | Leviathan | George P. Cosmatos | 영화 | 확인 못 함 | 해저 채굴 기지 대원들이 건져 올린 소련 난파선의 물건과 함께 몸이 괴물처럼 변하는 병이 번진다. |
 | 1989 | Lords of the Deep | Lords of the Deep | Mary Ann Fisher | 영화 | 확인 못 함 | 오존층이 무너진 가까운 미래의 해저 연구소에서, 생물학자가 환상을 보고 바다 밑 외계 생명이 다가온다. |
 | 1989 | Meet the Hollowheads | Meet the Hollowheads | Thomas R. Burman | 영화 | 확인 못 함 | 관과 파이프로 뒤덮인 기묘한 미래, 1950년대 시트콤 같은 홀로헤드 가족이 남편의 상사를 저녁에 모신다. |
 | 1989 | Moontrap | Moontrap | Robert Dyke | 영화 | 확인 못 함 | 1만 4천 년 전 달에서 온 깍지가 실험실 부품과 시신으로 사이보그 몸을 짓고, 달엔 옛 인류 유적이 있다. |
+| 1989 | Naalai Manithan (경계) | Naalai Manithan | Velu Prabhakaran | 영화 | 확인 못 함 | 의사의 소생 약으로 죽지 않는 살인마가 되살아나 사람들을 덮친다. |
 | 1989 | Slipstream | Slipstream | Steven Lisberger | 영화 | 확인 못 함 | 기후 급변으로 문명이 쓸려 간 뒤, 지구를 도는 거센 바람 아래서 현상금 사냥꾼과 도망자가 엇갈린다. |
 | 1989 | Spontaneous Combustion (경계) | Spontaneous Combustion | Tobe Hooper | 영화 | 확인 못 함 | 1955년 핵폭발 면역 실험을 견딘 부부의 아들이 자라, 감정이 치밀 때마다 몸에서 불길이 솟는다. |
 | 1989 | 심연 | The Abyss | James Cameron | 영화 | 있음 | 깊은 바다 밑에 빛나는 외계 지성이 살고, 잠수부들이 핵무기를 사이에 두고 그들과 마주친다 |
 | 1989 | The Salute of the Jugger | The Salute of the Jugger | David Webb Peoples | 영화 | 확인 못 함 | 잊힌 전쟁으로 메마른 세상, 떠돌이 팀들이 거친 경기 '게임'으로 마을 팀에 도전하며 먹고산다. |
 | 1989 | The Terror Within | The Terror Within | Thierry Notz | 영화 | 확인 못 함 | 화학·생물 공격 뒤 돌연변이 '가고일'이 땅을 휘젓고, 모하비 연구소 생존자들이 그들과 맞선다. |
+| 1989 | Toofan (경계) | Toofan | Ketan Desai | 영화 | 확인 못 함 | 초능력을 지닌 형과 소심한 마술사 동생 쌍둥이가 악당에 맞선다. |
 | 1989 | UFO Abduction | UFO Abduction | Dean Alioto | 영화 | 확인 못 함 | 1983년 코네티컷 산속에서 아이 생일을 찍던 가족의 비디오에, 그들을 덮친 외계인의 모습이 담긴다. |
 | 1989 | Подземелье ведьм | Подземелье ведьм | Кир Булычёв(원작·각본) · Юрий Мороз(감독) | 영화 | 확인 못 함 | 여러 시대 지구 동물이 뒤섞인 먼 행성 에부르에서, 원주민에게 기지를 잃은 탐사대원들이 살아남으려 한다. |
 | 1989 | Посетитель музея | Посетитель музея | Konstantin Lopushansky | 영화 | 확인 못 함 | 환경 재앙 뒤 넋 놓고 사는 사람들 사이로, 바다가 갈라질 때만 드러나는 가라앉은 도시를 보러 사내가 간다. |
+| 1989 | ウォータームーン | ウォータームーン | 工藤栄一 · 長渕剛 · 東映 | 영화 | 확인 못 함 | 산사에서 수행하던 외계인 수행승이 도시로 내려와 여러 사람과 어울리는 이야기. |
 | 1989 | ガンヘッド | ガンヘッド | 原田眞人 (하라다 마사토) | 영화 | 확인 못 함 | 귀한 원소로 도는 초컴퓨터가 세상을 다스리는 2038년, 반란한 인공지능의 섬에 사냥꾼들이 든다 |
 | 1989 | 철남 (경계) | 鉄男 | 塚本晋也 | 영화 | 확인 못 함 | 한 회사원의 몸에서 쇠붙이가 돋아 사람과 기계가 뒤엉킨 괴물로 변해 간다 |
+| 1989 | 電エース (경계) | 電エース | 河崎実 | 영화 | 확인 못 함 | 쾌락으로 변신하는 거대 영웅 電エース 의 활약을 그린 엉뚱한 패러디 특촬 연작. |
 | 1989 | 바이오맨 | 바이오맨 | 김청기 | 영화 | 한국 원작 | 산업 스파이에게서 반도체 설계도를 되찾으려다 뇌만 겨우 남은 재벌가 아들이 사이보그로 되살아난다. |
 | 1990 | Aftershock | Aftershock | Frank Harris | 영화 | 확인 못 함 | 3차 대전 뒤 바코드를 새긴 시민을 다스리는 독재 도시에, 지구를 살피던 외계 여자가 내려온다. |
 | 1990 | Circuitry Man | Circuitry Man | Steven Lovy | 영화 | 확인 못 함 | 오염으로 자연이 죽어 사람들이 땅속에 사는 2020년, 칩 마약을 지고 뉴욕까지 가는 여자 |
@@ -2957,7 +3569,10 @@
 | 1990 | Shadowzone | Shadowzone | J. S. Cardone | 영화 | 확인 못 함 | 땅속 연구소의 깊은 잠 실험이 무의식 너머 평행 차원의 문을 열어, 그쪽 생명체가 넘어온다. |
 | 1990 | Spaced Invaders | Spaced Invaders | Patrick Read Johnson | 영화 | 확인 못 함 | 핼러윈 밤 '우주 전쟁' 라디오 극을 진짜 출동 명령으로 안 얼간이 화성인들이 시골 마을에 내린다. |
 | 1990 | The Dark Side of the Moon (경계) | The Dark Side of the Moon | D. J. Webster | 영화 | 확인 못 함 | 달 뒤편으로 떠밀린 정비선 승무원들이 버뮤다 삼각지대에서 사라졌던 우주 왕복선에 숨은 악마와 맞선다. |
+| 1990 | Tremors | Tremors | S. S. Wilson · Brent Maddock · Ron Under | 드라마·영화 | 확인 못 함 | 외딴 마을 퍼펙션 밸리 사람들이 땅속에서 덮치는 괴물 '그라보이드'와 맞선다. |
+| 1990 | 魔表 | 魔表 | 徐耿 · 张之路(각본) | 영화 | 확인 못 함 | 비행접시 조각이 변한 마법 시계 탓에 소년이 하루아침에 어른이 된다. |
 | 1991 | Abraxas, Guardian of the Universe | Abraxas, Guardian of the Universe | Damian Lee | 영화 | 확인 못 함 | 만 년을 산 외계 경찰 아브락사스가, 옛 동료가 지구 여자에게 낳게 한 아이를 지켜 낸다. |
+| 1991 | Aditya 369 | Aditya 369 | Singeetam Srinivasa Rao | 영화 | 확인 못 함 | 교수가 만든 시간 기계와 다이아몬드 도둑을 둘러싸고 16세기 왕국과 디스토피아 미래를 오간다. |
 | 1991 | And You Thought Your Parents Were Weird (경계) | And You Thought Your Parents Were Weird | Tony Cookson | 영화 | 확인 못 함 | 형제가 만든 집안일 로봇에 죽은 아버지의 넋이 들고, 아버지 발명을 훔친 자들이 로봇을 노린다. |
 | 1991 | Bis ans Ende der Welt | Bis ans Ende der Welt | Wim Wenders | 영화 | 확인 못 함 | 세상을 바꿀 재앙의 그림자가 드리운 새천년 문턱, 세계를 가로지르는 남녀의 여정 |
 | 1991 | 델리카트슨 사람들 (경계) | Delicatessen | Jean-Pierre Jeunet, Marc Caro | 영화 | 있음 | 먹을 것이 바닥난 황폐한 세상, 정육점 건물 사람들은 일꾼을 들여 잡아먹고 산다. |
@@ -2970,10 +3585,17 @@
 | 1991 | Wax or the Discovery of Television Among the Bees (경계) | Wax or the Discovery of Television Among the Bees | David Blair | 영화 | 확인 못 함 | 디지털 그림과 기록 화면을 엮어 걸프전을 비튼 실험 영화, 인터넷으로 처음 생중계된 영화 |
 | 1991 | Wedlock | Wedlock | Lewis Teague | 영화 | 확인 못 함 | 죄수끼리 짝지어 멀어지면 함께 터지는 목걸이를 채운 실험 감옥에서, 보석 도둑이 짝과 함께 달아난다. |
 | 1991 | ゼイラム | ゼイラム | Keita Amemiya | 애니메이션·영화 | 확인 못 함 | 외계 현상금 사냥꾼 이리아가 인공지능 짝 밥과 함께, 도시를 본뜬 가상 공간에 괴물 제이람을 가두고 싸운다. |
+| 1991 | ハッピーエンドの物語 | ハッピーエンドの物語 | 栃原広昭 | 영화 | 확인 못 함 | 물리부 교사가 몰래 만든 시간 기계로 미래에 간 여고생이 친구의 불행한 앞날을 알게 된다. |
+| 1991 | バトルガール Tokyo Crisis Wars (경계) | バトルガール Tokyo Crisis Wars | Kazuo Komizu | 영화 | 확인 못 함 | 운석이 떨어진 뒤 도쿄 사람들이 사람을 먹는 산 송장으로 변하고 군이 도시를 봉쇄한다. |
 | 1991 | ピノキオ√964 | ピノキオ√964 | 福居ショウジン (후쿠이 쇼진) | 영화 | 확인 못 함 | 기억을 지운 성노예 사이보그가 버려져 기억 지워진 노숙 소녀를 만난다 |
+| 1991 | ミカドロイド | ミカドロイド | 原口智生 | 영화 | 확인 못 함 | 2차 대전 말 일본군이 만든 죽지 않는 장갑 인조 병사가 되살아나 날뛴다. |
+| 1991 | 国防挺身隊 (경계) | 国防挺身隊 | 安原伸 | 영화 | 확인 못 함 | 국방 정신대가 나라를 노리는 악당과 맞서는 풍자 자주 제작 영웅물. |
 | 1991 | 女機械人 | 女機械人 | 陸劍明 (Jamie Luk) | 영화 | 확인 못 함 | 미친 과학자가 제 마음을 로봇 몸에 옮겨 범죄를 벌이고, 여경과 여자 로봇이 맞선다 |
+| 1991 | 超少女REIKO (경계) | 超少女REIKO | 大河原孝夫 | 영화 | 확인 못 함 | 문화제를 앞둔 고교에 괴현상이 잇따르고, 초능력 소녀와 친구들이 초능력 연구회를 만들어 맞선다. |
+| 1991 | 변신전사 트랜스 토디 (경계) | 변신전사 트랜스 토디 | 아카데미과학(제작) | 영화 | 한국 원작 | 실종된 과학자들의 자식이 변신 전사가 되어, 되살아난 고대 외계인의 지구 정복을 막는다. |
 | 1991 | 우주의 용사 반달가면 (경계) | 우주의 용사 반달가면 | 임종호 | 영화 | 한국 원작 | 혜성 나라의 공주를 노리는 마왕이 부하를 지구로 보내자, 한 청년이 반달가면으로 변신해 맞선다. |
 | 1992 | Bad Channels | Bad Channels | Ted Nicolaou | 영화 | 확인 못 함 | 외계인 둘이 시골 라디오 방송국을 차지하고, 전파를 써서 지구 여자들을 잡아가려 한다. |
+| 1992 | Buffy the Vampire Slayer (경계) | Buffy the Vampire Slayer | Joss Whedon | 드라마·영화 | 확인 못 함 | 운명에 뽑힌 소녀 '슬레이어'가 흡혈귀와 악마 같은 악한 힘과 싸운다. |
 | 1992 | Fortress | Fortress | Stuart Gordon | 영화 | 확인 못 함 | 한 자녀만 허락하는 2017년 군사 독재 미국, 둘째를 가진 부부가 국경을 넘으려 한다 |
 | 1992 | Mindwarp | Mindwarp | Steve Barnett | 영화 | 확인 못 함 | 오존층이 사라진 2037년, 돔 안 사람들은 목에 꽂은 장치로 가상 꿈에 살고 바깥엔 식인 돌연변이가 산다. |
 | 1992 | Mom and Dad Save the World | Mom and Dad Save the World | Greg Beeman | 영화 | 확인 못 함 | 바보들의 행성을 차지한 얼간이 황제가 지구 주부에게 반해 부부를 납치하고, 부부가 지구 파괴를 막는다. |
@@ -2984,7 +3606,9 @@
 | 1992 | Split Second | Split Second | Tony Maylam · Ian Sharp | 영화 | 확인 못 함 | 온난화로 물에 잠긴 2008년 런던에서, 형사가 희생자의 유전자를 빨아들이는 연쇄 살인 괴물을 쫓는다. |
 | 1992 | 론머맨 | The Lawnmower Man | Brett Leonard | 영화 | 확인 못 함 | 약과 가상 현실로 지능을 높이는 실험이 비밀 조직의 돈으로 돌아가고, 정원사가 그 대상이 된다 |
 | 1992 | 유니버설 솔져 | Universal Soldier | Roland Emmerich(첫 편) | 영화 | 있음 | 죽은 병사들을 되살려 기억을 지우고 몸을 강화해 만든 비밀 부대 |
+| 1992 | 깡다구 화이터 (경계) | 깡다구 화이터 | 왕룡(감독) | 영화 | 한국 원작 | 사고로 크게 다친 꼬마 형사가 개조 수술을 받고 로봇 전사로 변신해 악당과 싸운다. |
 | 1992 | 영구와 황금박쥐 (경계) | 영구와 황금박쥐 | 남기남 | 영화 | 한국 원작 | 안드로메다를 무너뜨린 악당 일당이 지구까지 노리자, 영구와 황금박쥐가 손잡고 안드로메다 공주를 구한다. |
+| 1992 | 우주경찰 휴먼파워 (경계) | 우주경찰 휴먼파워 | 김청기(제작·지휘), 김청기필름 | 영화 | 한국 원작 | 먼 우주의 절대자가 보낸 세 전사가 지구에서 살며 지구 정복을 노리는 악의 무리를 소탕한다. |
 | 1993 | Acción mutante | Acción mutante | Álex de la Iglesia | 영화 | 확인 못 함 | 잘생긴 사람들이 다스리는 종말 뒤 세상에서, 스스로 돌연변이라 부르는 장애인 테러단이 부잣집 딸을 납치한다. |
 | 1993 | Alien Intruder | Alien Intruder | Ricardo Jacques Gale | 영화 | 확인 못 함 | 2022년 깊은 우주로 간 죄수들의 가상 현실 놀이에 정체 모를 여자가 끼어들어 그들을 서로 싸우게 한다. |
 | 1993 | American Cyborg: Steel Warrior | American Cyborg: Steel Warrior | Boaz Davidson | 영화 | 확인 못 함 | 3차 대전 뒤 사람들이 아이를 못 낳고 인공지능이 다스리는 세상에서, 하나뿐인 태아를 지키며 항구로 간다. |
@@ -2997,21 +3621,31 @@
 | 1993 | Ghost in the Machine | Ghost in the Machine | Rachel Talalay | 영화 | 확인 못 함 | 죽은 연쇄 살인범의 정신이 컴퓨터망 속으로 들어가, 기계를 부려 사람들을 죽인다. |
 | 1993 | Knights | Knights | Albert Pyun | 영화 | 확인 못 함 | 다른 사이보그를 없애려고 만든 사이보그가 한 여자를 사이보그 사냥꾼으로 길러 함께 싸운다. |
 | 1993 | Les Visiteurs (경계) | Les Visiteurs | Jean-Marie Poiré | 영화 | 확인 못 함 | 중세 기사 영주와 종자가 타임슬립으로 시대를 넘어 현대와 혁명기 프랑스를 휘젓는다. |
+| 1993 | Lifepod | Lifepod | Ron Silver (감독) | 영화 | 확인 못 함 | 2169년 성탄 전야, 폭발한 우주선에서 구명정으로 빠져나온 여덟이 구조를 기다린다. |
 | 1993 | Mandroid | Mandroid | Jack Ersgard | 영화 | 확인 못 함 | 러시아 비밀 연구소의 과학자가 조종복 입은 사람을 따라 움직이는 로봇을 만들고, 동업자가 그것을 노린다. |
+| 1993 | REX 恐竜物語 | REX 恐竜物語 | 畑正憲(원작), 角川春樹(감독) | 영화 | 확인 못 함 | 얼음 속 티라노사우루스 알을 되살려 태어난 새끼 공룡과 소녀의 이야기. |
 | 1993 | Rain Without Thunder (경계) | Rain Without Thunder | Gary O. Bennett | 영화 | 확인 못 함 | 낙태를 '태아 살해'로 처벌하는 50년 뒤 미국에서, 외국에서 임신을 끝내려 한 모녀가 감옥에 갇힌다. |
 | 1993 | Robot Wars | Robot Wars | Albert Band, Charles Band | 영화 | 확인 못 함 | 독가스로 땅이 황폐해진 2041년, 적에게 빼앗긴 전갈 모양 거대 로봇에 맞서 조종사가 다른 로봇을 찾는다. |
 | 1993 | The Meteor Man (경계) | The Meteor Man | Robert Townsend | 영화 | 확인 못 함 | 워싱턴의 교사가 떨어진 운석에 맞아 초능력을 얻고 동네를 괴롭히는 갱단과 맞선다. |
 | 1993 | Time Runner | Time Runner | Michael Mazo | 영화 | 확인 못 함 | 2022년 외계인 침공 때 웜홀에 빨려 30년 전으로 떨어진 군인이 침략자에게 기울 미래를 막으려 한다. |
+| 1993 | 東方三俠 (경계) | 東方三俠 | 杜琪峰 · 程小東(무술 감독) | 영화 | 확인 못 함 | 아기 연쇄 실종 사건 속, 어려서 함께 무술을 배운 여자 협객들이 투명 옷을 입은 적과 맞선다. |
+| 1993 | 超級學校霸王 | 超級學校霸王 | 王晶 | 영화 | 확인 못 함 | 2043년 범죄왕 부하들이 시간 기계로 1993년에 가 판사의 어린 시절을 바꾸려 하자 미래 경찰이 쫓는다. |
 | 1993 | 영구와 공룡 쭈쭈 (경계) | 영구와 공룡 쭈쭈 | 심형래 | 영화 | 한국 원작 | 동굴의 이상한 알에서 깨어난 아기 공룡을 개구쟁이가 몰래 키우고, 공룡을 팔아넘기려는 악당들과 맞선다. |
 | 1994 | A.P.E.X. | A.P.E.X. | Phillip J. Roth | 영화 | 확인 못 함 | 2073년 시간 탐사 사고로 1973년에 병균이 퍼지고, 막으려 보낸 공격 로봇 탓에 미래가 폐허가 된다. |
 | 1994 | Brainscan (경계) | Brainscan | John Flynn | 영화 | 확인 못 함 | 외톨이 소년이 하는 게임 속 살인이 실제 살인으로 이어지고, 게임 안의 '트릭스터'가 현실에 나타난다. |
 | 1994 | CyberTracker | CyberTracker | Richard Pepin | 영화 | 확인 못 함 | 정부와 기업이 컴퓨터로 유죄를 가리고 사이보그 집행자가 형을 집행하는 미래 |
 | 1994 | Death Machine | Death Machine | Stephen Norrington | 영화 | 확인 못 함 | 세계 최대 무기 기업의 사이보그 병사가 날뛰어 여론이 들끓은 2003년, 그 회사 안에서 벌어지는 일 |
+| 1994 | Island City | Island City | Jonathan Glassner | 영화 | 확인 못 함 | 젊음의 약을 먹은 사람 대부분이 야만스러운 원시 인류로 변하자, 면역된 소수가 미래 도시에 모여 산다. |
 | 1994 | Oblivion | Oblivion | Sam Irvin(감독) · Charles Band(원안) · Peter | 영화 | 확인 못 함 | 3031년 먼 개척 행성의 서부 마을 오블리비언을, 보안관 아들이 외계 무법자 패거리에게서 지킨다. |
+| 1994 | Roswell (경계) | Roswell | Kevin D. Randle · Donald R. Schmitt(원작 책 | 영화 | 확인 못 함 | 1947년 로즈웰 근처 목장에서 나온 기이한 잔해의 진실을 공군 소령이 캔다. |
 | 1994 | 스타게이트 | Stargate | Roland Emmerich, Dean Devlin; 드라마 Brad W | 게임·드라마·만화·소설·애니메이션·영화·탁상 게임 | 있음 | 고대 외계 유물인 고리 모양 문으로 먼 별을 오가며, 신을 사칭하는 기생 외계인과 맞선다. |
 | 1994 | T-Force | T-Force | Richard Pepin | 영화 | 확인 못 함 | 세계 첫 사이보그 경찰대가 과잉 진압으로 해체될 처지에 놓이자 상관과 당국에 맞서 들고일어난다. |
 | 1994 | Timecop | Timecop | Peter Hyams (1편) | 드라마·영화 | 확인 못 함 | 시간 여행이 발명되자 법무부가 역사를 바꾸려는 이들을 막는 시간 단속 위원회를 세운다 |
+| 1994 | 河童 (경계) | 河童 | 石井竜也 | 영화 | 확인 못 함 | 어머니를 잃은 여덟 살 소년이 늪 속 이상한 공간에서 낯선 생물을 만나 마음을 나눈다. |
+| 1994 | 영구와 우주괴물 불괴리 | 영구와 우주괴물 불괴리 | 심형래(감독) | 영화 | 한국 원작 | 혜성 충돌로 살 곳을 잃은 안드로메다인들이 지구를 차지하려고 괴물 불괴리를 먼저 보낸다. |
 | 1995 | Attack of the 60 Foot Centerfold | Attack of the 60 Foot Centerfold | Fred Olen Ray | 영화 | 확인 못 함 | 올해의 표지 모델 자리를 노리던 여자가 실험용 미용약을 먹고 18미터 거인이 되어 도시를 휘젓는다. |
+| 1995 | Black Scorpion (경계) | Black Scorpion | Roger Corman · Craig J. Nevius | 드라마·영화 | 확인 못 함 | 여성 경찰관이 밤이면 복면 영웅 블랙 스콜피언이 되어 범죄와 싸운다. |
+| 1995 | Chinna Vathiyar | Chinna Vathiyar | Singeetam Srinivasa Rao | 영화 | 확인 못 함 | 몸에서 몸으로 영혼을 옮기는 실험을 하는 교수의 코미디. |
 | 1995 | Epsilon | Epsilon | Rolf de Heer | 영화 | 확인 못 함 | 잘못 전송돼 호주 오지에 떨어진 엡실론 행성 여자가 측량 기사를 데리고 다니며 사람이 망친 땅을 보여 준다. |
 | 1995 | Galaxis | Galaxis | William Mesa | 영화 | 확인 못 함 | 우주가 태어날 때 생긴 보석을 악당이 차지하자, 몸을 감추는 외계 투사가 지구로 와서 짝 보석을 찾는다. |
 | 1995 | 잃어버린 아이들의 도시 (경계) | La Cité des enfants perdus | Marc Caro, Jean-Pierre Jeunet | 영화 | 있음 | 꿈을 꾸지 못해 늙어 버린 피조물이 바다 위 기지에서 아이들을 납치해 그 꿈을 빼앗는다. |
@@ -3026,7 +3660,11 @@
 | 1995 | Virtuosity | Virtuosity | Brett Leonard | 영화 | 확인 못 함 | 1999년, 갇힌 전직 경찰과 죄수들이 가상 현실 훈련 장치를 시험한다 |
 | 1995 | 워터 월드 | Waterworld | Kevin Reynolds · Kevin Costner | 게임·영화 | 있음 | 얼음이 다 녹아 땅이 잠긴 바다 세상에서 사람들이 마른 땅의 전설을 찾는다 |
 | 1995 | White Dwarf | White Dwarf | Peter Markle | 영화 | 확인 못 함 | 3040년, 한쪽 면만 해를 보는 행성 루스타로 실습 온 의대생이 낮과 밤 두 땅의 내전에 휘말린다. |
+| 1995 | 水の中の八月 | 水の中の八月 | Gakuryū Ishii(石井岳龍) | 영화 | 확인 못 함 | 후쿠오카로 전학 온 여고생과 그에게 빠진 두 소년 앞에 기묘한 우주적 일이 벌어진다. |
+| 1995 | 百變星君 | 百變星君 | 葉偉民 | 영화 | 확인 못 함 | 폭탄에 산산조각 난 부잣집 아들이 교수 손에 인조인간으로 다시 만들어져 무엇으로든 변한다. |
+| 1995 | 파워 킹 (경계) | 파워 킹 | 심형래(감독), 영구아트무비 | 영화 | 한국 원작 | 암흑 제왕에게 쫓겨 지구로 온 안드로메다 공주의 목걸이로 영구가 영웅 파워 킹이 된다. |
 | 1996 | Adrenalin: Fear the Rush | Adrenalin: Fear the Rush | Albert Pyun | 영화 | 확인 못 함 | 죽음의 병균으로 담장 안에 봉쇄된 2007년 보스턴에서, 경찰들이 정체 모를 살인 괴물을 쫓는다. |
+| 1996 | Black Mask (경계) | Black Mask | Daniel Lee(감독), Tsui Hark(제작) | 영화 | 확인 못 함 | 비밀 초병사 계획의 실험체였던 남자가 사서로 숨어 살다 복면을 쓰고 옛 동료들과 맞선다. |
 | 1996 | Crossworlds (경계) | Crossworlds | Krishna Rao | 영화 | 확인 못 함 | 물려받은 목걸이가 다른 차원 '크로스월드'의 문을 여는 지팡이의 열쇠인 줄 안 대학생이 악당과 맞선다. |
 | 1996 | 인디펜던스 데이 | Independence Day | Roland Emmerich · Dean Devlin | 게임·소설·영화 | 있음 | 도시만 한 외계 우주선들이 대도시들을 한꺼번에 불태우고, 인류가 힘을 모아 반격한다 |
 | 1996 | 팀버튼의 화성침공 | Mars Attacks! | Tim Burton | 영화 | 있음 | 평화를 말하며 내려온 화성인들이 웃으며 광선총을 쏘아 대고, 엉뚱한 무기가 지구를 구한다. |
@@ -3034,16 +3672,24 @@
 | 1996 | Omega Doom | Omega Doom | Albert Pyun | 영화 | 확인 못 함 | 핵겨울 뒤 로봇끼리 내전을 벌이는 폐허 마을에 떠돌이 로봇 전사가 와서 두 편을 서로 싸우게 한다. |
 | 1996 | Sci-Fighters | Sci-Fighters | Peter Svatek | 영화 | 확인 못 함 | 2009년 보스턴, 달 감옥을 탈출한 옛 동료가 외계 병균을 품고 돌아오자 형사가 그를 쫓는다. |
 | 1996 | Space Truckers | Space Truckers | Stuart Gordon | 영화 | 확인 못 함 | 몇 안 남은 독립 우주 화물 운송업자가 수상한 짐을 실었다가 기업이 만든 사이보그 병사들과 얽힌다. |
+| 1996 | Star Command | Star Command | Melinda M. Snodgrass (각본) · Jim Johnston | 영화 | 확인 못 함 | 몇 세기 뒤 하나 된 지구가 은하를 개척하는데, 첫 식민지 시노수라가 독립해 맞선다. |
 | 1996 | The Arrival | The Arrival | David Twohy | 영화 | 확인 못 함 | 외계 전파를 잡았다가 쫓겨난 전파 천문학자가, 그 신호를 덮는 지구발 신호를 따라가 외계인의 음모를 캔다. |
 | 1996 | Tykho Moon | Tykho Moon | Enki Bilal | 영화 | 확인 못 함 | 벽으로 갈린 낡은 파리 복제 도시가 선 달 식민지, 독재자와 그 아들들이 몸을 갉는 병에 시달린다. |
 | 1996 | Zone 39 | Zone 39 | John Tatoulis | 영화 | 확인 못 함 | 환경이 무너진 미래, 40년 전쟁 끝에 평화를 맺은 두 진영의 국경 초소로 아내를 잃은 군인이 보내진다. |
+| 1996 | スワロウテイル (경계) | スワロウテイル | 岩井俊二 | 영화 | 확인 못 함 | 엔이 세계에서 가장 강하던 시절, 돈을 좇아 온 외국인들이 모여 사는 거리 '엔 타운'의 소녀. |
+| 1996 | 宇宙貨物船レムナント6 | 宇宙貨物船レムナント6 | 万田邦敏 | 영화 | 확인 못 함 | 2046년, 인구 폭발로 화성까지 개척한 인류, 지구와 화성을 오가는 자원 운반선 이야기. |
+| 1996 | 드래곤 투카 (경계) | 드래곤 투카 | 심형래(감독), 영구아트무비 | 영화 | 한국 원작 | 피자가게 점원 영구가 조선 시대로 건너가, 마을의 괴물을 잡으러 온 외계인들과 엮인다. |
 | 1997 | 오픈유어아이즈 | Abre los ojos | Alejandro Amenábar | 영화 | 있음 | 사고로 얼굴을 다친 청년의 삶이 꿈처럼 뒤틀리고, 그 뒤에 냉동 보존 회사가 있다 |
 | 1997 | 큐브 (경계) | Cube | Vincenzo Natali | 영화 | 있음 | 덫이 숨은 정육면체 방들이 끝없이 이어진 구조물에 영문도 모른 채 갇힌 사람들 |
 | 1997 | Dark Planet | Dark Planet | Albert Magnoli | 영화 | 확인 못 함 | 땅과 우주에서 싸우던 두 세력이, 위험한 웜홀 너머 살 만한 행성을 찾으러 함께 탐사선을 띄운다. |
 | 1997 | Deathline | Deathline | Tibor Takács | 영화 | 확인 못 함 | 첨단 기술의 타락한 러시아로 생체 칩을 밀수하던 사내가 배신당해 죽고, 비밀 군 조직이 되살린다 |
+| 1997 | Doom Runners | Doom Runners | Brendan Maher(감독) · Barney Cohen · Ken L | 영화 | 확인 못 함 | 종말 뒤 세상의 아이들이 마지막 깨끗한 땅 뉴 에덴을 찾고, 둠 트루퍼가 앞길을 막는다. |
+| 1997 | Doomsday Rock | Doomsday Rock | The Family Channel | 영화 | 확인 못 함 | 옛 문명의 예언을 근거로 소행성이 지구에 부딪친다고 믿는 천문학자가 무장한 추종자들을 이끈다. |
+| 1997 | Drive | Drive | Steve Wang | 영화 | 확인 못 함 | 몸에 첨단 기계를 심어 초인이 된 옛 홍콩 정부 요원이 쫓기며 미국으로 달아난다. |
 | 1997 | 이벤트호라이즌 (경계) | Event Horizon | Paul W. S. Anderson | 영화 | 있음 | 공간을 접어 빛보다 빨리 가려던 우주선이 사라졌다 돌아오는데, 다른 차원에서 무언가를 데려왔다 |
 | 1997 | FULL METAL 極道 | FULL METAL 極道 | 三池崇史 (Takashi Miike) | 영화 | 확인 못 함 | 총에 맞아 죽어 가던 풋내기 야쿠자가 괴짜 과학자 손에 총알도 안 드는 사이보그로 되살아나 복수한다. |
 | 1997 | Face/Off (경계) | Face/Off | John Woo | 영화 | 확인 못 함 | 연방 수사관이 혼수상태 테러범의 얼굴을 수술로 옮겨 쓰고 잠입하자, 깨어난 테러범이 수사관 얼굴을 쓴다. |
+| 1997 | Gangster World | Gangster World | David Bishop (감독) | 영화 | 확인 못 함 | 사람들이 인조인간을 상대로 폭력적인 갱스터 놀이를 벌이는 미래 놀이공원. |
 | 1997 | 가타카 | Gattaca | Andrew Niccol | 영화 | 있음 | 태어나기 전에 유전자를 골라 아이를 낳는 시대, 자연히 태어난 이는 우주 비행의 꿈에서 밀려난다 |
 | 1997 | 미믹 (경계) | Mimic | Guillermo del Toro | 영화 | 있음 | 병을 옮기는 바퀴벌레를 없애려 유전 공학으로 만든 곤충이 3년 만에 사람 모습을 흉내 내도록 진화한다. |
 | 1997 | Nirvana | Nirvana | Gabriele Salvatores | 영화 | 확인 못 함 | 가상 현실 게임 속 주인공이 바이러스 공격으로 자의식을 얻고, 게임을 만든 이와 마주한다 |
@@ -3052,7 +3698,13 @@
 | 1997 | Spaceman | Spaceman | Scott Dikkers | 영화 | 확인 못 함 | 아기 때 외계로 끌려가 살인 병기로만 길러진 사내가 지구에 돌아와 평범한 삶에 적응하려 애쓴다. |
 | 1997 | Star Kid (경계) | Star Kid | Manny Coto | 영화 | 확인 못 함 | 수줍은 중학생이 운석과 함께 떨어진, 제 인공지능을 지닌 외계 전투 갑옷을 입게 된다. |
 | 1997 | 제5원소 | The Fifth Element | Luc Besson | 영화 | 있음 | 오천 년마다 돌아오는 악의 덩어리를 막을 다섯째 원소가 사람 모습으로 23세기 뉴욕에 떨어진다 |
+| 1997 | タオの月 | タオの月 | 雨宮慶太 | 영화 | 확인 못 함 | 전국 시대, 어떤 바위도 베고 이 빠진 날도 되살아나는 칼의 쇠를 찾아 나선 무리와 괴물. |
+| 1997 | ライダーヒロシマ (경계) | ライダーヒロシマ | 奥一浩 | 영화 | 확인 못 함 | 젊은이가 '정의와 평화의 사상 개조 인간'으로 변신해 악당과 싸우는 히로시마 자주 제작 영웅물. |
+| 1997 | 北京原人 Who are you? | 北京原人 Who are you? | 佐藤純彌 | 영화 | 확인 못 함 | 2001년, 화석 속 유전자로 되살린 베이징 원인들을 육상 대회 선수로 내보낸다. |
+| 1997 | 天地雄心 (경계) | 天地雄心 | 陳嘉上 | 영화 | 확인 못 함 | 세계의 미래 지도자들이 초자연적으로 잇달아 죽고, 영국 비밀 정보국과 홍콩 경찰이 쫓는 종말 신비극. |
+| 1997 | 怨念戦隊ルサンチマン (경계) | 怨念戦隊ルサンチマン | 山本寛 · 京都大学アニメーション同好会 | 영화 | 확인 못 함 | 대학생들이 원한을 품은 변신 전대가 되어 연인들을 응징하는 자주 제작 패러디. |
 | 1998 | Armageddon | Armageddon | Michael Bay | 영화 | 확인 못 함 | 텍사스만 한 소행성이 지구로 다가오자, 미국 항공우주국이 석유 시추꾼들을 우주로 보내 그것을 부수게 한다. |
+| 1998 | Chameleon | Chameleon | Bennett Cohen(각본) · Stuart Cooper(1편 감독) | 영화 | 확인 못 함 | 최강의 살인자로 유전자를 설계해 만든 여자 캄이 아이를 지키려 정부와 맞선다. |
 | 1998 | 다크시티 | Dark City | Alex Proyas | 영화 | 있음 | 해가 뜨지 않는 도시, 밤마다 낯선 존재들이 도시를 고쳐 짓고 사람들의 기억을 갈아 끼운다 |
 | 1998 | 딥 임팩트 | Deep Impact | Mimi Leder | 영화 | 있음 | 지구로 오는 혜성을 우주선이 쫓아가 핵폭탄으로 부수려 하고, 땅 위에서는 피난 추첨이 벌어진다. |
 | 1998 | Deep Rising (경계) | Deep Rising | Stephen Sommers | 영화 | 확인 못 함 | 남중국해에서 첫 항해 중이던 호화 유람선이 바다 밑에서 올라온 무언가에 붙잡혀 승객들이 몰살당한다. |
@@ -3067,19 +3719,29 @@
 | 1998 | The Warlord: Battle for the Galaxy | The Warlord: Battle for the Galaxy | Joe Dante(감독) · Caleb Carr(각본) | 영화 | 확인 못 함 | 행성 칼리반 5의 도둑 청년이 납치된 여동생을 찾으려 늙은 장군과 손잡고 군벌에 맞선다. |
 | 1998 | π (경계) | π | Darren Aronofsky | 영화 | 확인 못 함 | 모든 것이 숫자로 풀린다고 믿는 수학자가 직접 만든 컴퓨터로 주식 시장과 세계의 무늬를 찾다 무너져 간다. |
 | 1998 | アンドロメディア | アンドロメディア | 三池崇史 (미이케 다카시) | 영화 | 확인 못 함 | 죽은 딸의 기억으로 아버지가 인공지능 사본을 만들고, 기업이 그것을 노린다 |
+| 1998 | 大怪獣東京に現わる | 大怪獣東京に現わる | 宮坂武志 | 영화 | 확인 못 함 | 도쿄만에 불을 뿜는 도마뱀 괴수가, 후쿠오카에 나는 거북 괴수가 나타나 서로 다가간다. |
+| 1998 | 幻影特攻 | 幻影特攻 | 馬楚成 | 영화 | 확인 못 함 | 위성을 노리는 테러리스트가 미국 정보국 연구원의 신부를 죽이고 동료를 납치하는 공상 과학 활극. |
+| 1998 | 疯狂的兔子 | 疯狂的兔子 | 崔小芹 · 孟卫兵 · 张之路(각본) | 영화 | 확인 못 함 | 미래 도시, 지하철에서 토끼 광고를 보다 사라진 동생을 언니가 찾아 나선다. |
 | 1999 | Beowulf (경계) | Beowulf | Graham Baker | 영화 | 확인 못 함 | 멸망 뒤 같은 황무지의 성채가 밤마다 괴물 그렌델에게 습격당하고, 떠돌이 전사 베오울프가 찾아온다. |
+| 1999 | D | D | 岡部暢哉 · ビルドアップ | 영화 | 확인 못 함 | 운석에서 나온 식인 괴물이 커지며 신주쿠로 향하고, 전직 특수 부대원이 전투복을 입고 맞선다. |
 | 1999 | 딥 블루 씨 (경계) | Deep Blue Sea | Renny Harlin | 영화 | 있음 | 알츠하이머 치료 물질을 얻으려고 뇌를 키운 상어들이 영리해져, 바다 위 연구 시설의 사람들을 덮친다. |
 | 1999 | Escape from Mars | Escape from Mars | Neill Fearnley | 영화 | 확인 못 함 | 2015년 인류 첫 유인 화성 탐사에 나선 우주인 다섯이 고장과 서로의 다툼을 겪으며 화성에 닿는다. |
 | 1999 | Furia (경계) | Furia | Alexandre Aja | 영화 | 확인 못 함 | 경찰 독재가 말할 자유를 짓밟은 근미래, 스무 살 청년이 밤마다 벽에 그림을 그리다 저항군의 딸을 만난다. |
 | 1999 | 갤럭시 퀘스트 | Galaxy Quest | Dean Parisot | 영화 | 있음 | 옛 우주 드라마 배우들을 진짜 영웅으로 믿은 외계인들이 그들을 실제 전쟁에 데려간다 |
 | 1999 | Peut-être | Peut-être | Cédric Klapisch | 영화 | 확인 못 함 | 청년이 천장 판자 너머 사막이 된 미래 파리로 가서, 자기 아들이라는 노인에게 아이를 가지라는 말을 듣는다. |
 | 1999 | The Astronaut's Wife | The Astronaut's Wife | Rand Ravich | 영화 | 확인 못 함 | 우주 유영 사고 뒤 돌아온 남편이 달라졌음을 느낀 아내가, 쌍둥이를 밴 뒤 남편 속 무언가를 의심한다. |
+| 1999 | The Last Man on Planet Earth | The Last Man on Planet Earth | Les Landau (감독) | 영화 | 확인 못 함 | 남자 염색체를 노린 생물 무기로 세계 남자 97%가 죽은 뒤 여자들이 다스리는 사회. |
 | 1999 | 매트릭스 | The Matrix | The Wachowskis | 게임·만화·애니메이션·영화 | 있음 | 사람들은 기계가 만든 가짜 세상 속에 잠들어 있고, 그 몸은 기계의 동력원으로 쓰인다 |
 | 1999 | Thrill Seekers | Thrill Seekers | Mario Azzopardi | 영화 | 확인 못 함 | 2070년 회사가 과거 참사를 구경하는 시간 여행 상품을 팔고, 그 관광객을 알아챈 기자가 참사를 막는다. |
 | 1999 | 와일드 와일드 웨스트 | Wild Wild West | Barry Sonnenfeld | 영화 | 있음 | 1869년 미국 정부의 두 비밀 요원이, 거대한 거미 기계를 앞세운 발명가의 음모를 쫓는 증기 기관 활극. |
+| 1999 | Wild Zero (경계) | Wild Zero | Tetsuro Takeuchi(竹内鉄郎) | 영화 | 확인 못 함 | 운석이 떨어진 마을에 산 송장이 들끓고, 록 밴드 기타 울프와 팬이 맞선다. |
 | 1999 | 엑시스턴즈 | eXistenZ | David Cronenberg | 영화 | 확인 못 함 | 등뼈에 심은 구멍에 살아 있는 게임기를 꽂는 가까운 미래, 가상 게임 회사들과 현실주의 광신도가 다툰다 |
+| 1999 | trancemission | trancemission | 高橋栄樹 | 영화 | 확인 못 함 | 암호 목록을 다루던 평범한 회사원이 수수께끼 무리에게 납치돼 세뇌 수술로 뇌를 지배당한다. |
+| 1999 | 白痴 (경계) | 白痴 | 手塚眞 · 手塚プロダクション | 영화 | 확인 못 함 | 과거인지 미래인지 모를 상상 속 일본, 끝없는 전쟁과 공습 속 텔레비전 방송국 사람들. |
 | 1999 | 철인사천왕 (경계) | 철인 사천왕 | 김강덕 외 | 애니메이션·영화 | 한국 원작 | 과학이 크게 발달한 미래 지구에 옛날 봉인된 여덟 요괴가 풀려나 파괴를 일삼는다. |
+| 2000 | For Bad Boys Only (경계) | For Bad Boys Only | Raymond Yip | 영화 | 확인 못 함 | 첫사랑을 찾아 주는 별난 탐정 사무소가 여자 실종 사건 뒤의 악에 맞서는 공상 과학 활극. |
 | 2000 | 프리퀀시 | Frequency | Gregory Hoblit | 드라마·영화 | 있음 | 오로라가 뜬 밤, 형사가 아버지의 낡은 무전기로 30년 전 죽은 아버지와 이어져 과거를 바꾸기 시작한다. |
+| 2000 | Gen-Y Cops (경계) | Gen-Y Cops | Benny Chan | 영화 | 확인 못 함 | 미국 정부의 새 로봇이 홍콩 전시회에서 첫선을 보이려는 때 벌어지는 젊은 특수 경찰 활극. |
 | 2000 | Happy Accidents | Happy Accidents | Brad Anderson | 영화 | 확인 못 함 | 연애마다 실패하던 뉴욕 여자가 2470년에서 왔다고 우기는 사내와 사랑에 빠진다. |
 | 2000 | 할로우맨 (경계) | Hollow Man | Paul Verhoeven | 영화 | 있음 | 정부 비밀 실험으로 몸이 투명해진 과학자가 되돌아오지 못하자 점점 괴물이 되어 간다. |
 | 2000 | I.K.U. | I.K.U. | Shu Lea Cheang | 영화 | 확인 못 함 | 2030년 무렵, 다국적 기업이 몸 없이 쾌락을 내려받는 칩을 만들려 모습 바꾸는 사이보그를 보낸다 |
@@ -3094,6 +3756,8 @@
 | 2000 | Timequest | Timequest | Robert Dyke | 영화 | 확인 못 함 | 1963년 11월 22일 아침, 미래에서 온 노인이 재클린 케네디 앞에 나타나 암살을 알리고 역사를 바꾼다. |
 | 2000 | Unbreakable (경계) | Unbreakable | M. Night Shyamalan | 영화 | 확인 못 함 | 열차 사고에서 혼자 멀쩡히 살아남은 경비원이, 뼈가 쉽게 부러지는 만화 수집가에게서 자신이 초인임을 듣는다. |
 | 2000 | What Planet Are You From? | What Planet Are You From? | Mike Nichols | 영화 | 확인 못 함 | 남자만 사는 먼 행성의 외계인이 지구 여자에게 아이를 배게 하라는 명령을 받고 피닉스에서 은행원으로 산다. |
+| 2000 | ジュブナイル | ジュブナイル | 山崎貴 | 영화 | 확인 못 함 | 여름 방학 캠프장에서 아이들이 수수께끼 빛을 쫓다 스스로 움직이는 로봇을 만난다. |
+| 2000 | 동감 | 동감 | キム・ジョングォン(한국판 감독) | 영화 | 한국 원작 | 낡은 무전기로 서로 다른 시대를 사는 두 사람이 이어져 이야기를 나눈다. |
 | 2000 | 시월애 (경계) | 시월애 | 이현승 | 영화 | 한국 원작 | 바닷가 집 '일 마레'의 우편함을 사이에 두고, 두 해 떨어진 시간을 사는 남녀가 편지를 주고받는다. |
 | 2000 | 평화의 시대 (경계) | 평화의 시대 | 이원석(로렌스 리) | 영화 | 한국 원작 | 2200년 지구 연방 축구 대표가 된 다섯 청년이 은하계 월드컵을 두고 겨룬다. |
 | 2001 | Avalon | Avalon | 押井守 (오시이 마모루) | 영화 | 확인 못 함 | 불법 가상 전쟁 게임에 빠져 사는 이들의 이야기 |
@@ -3102,12 +3766,14 @@
 | 2001 | 에볼루션 | Evolution | Ivan Reitman | 영화 | 있음 | 애리조나 사막에 떨어진 운석 속 외계 미생물이 며칠 만에 수억 년의 진화를 거쳐 퍼진다. |
 | 2001 | Final | Final | Campbell Scott | 영화 | 확인 못 함 | 혼수에서 깬 사내가 자기는 냉동 보존에서 깨어나 미래 사회에 처형될 처지라 믿고, 그 믿음이 들어맞아 간다. |
 | 2001 | Ghosts of Mars | Ghosts of Mars | John Carpenter | 영화 | 확인 못 함 | 84% 테라포밍된 2176년 화성의 광산 마을에서, 경찰대가 옛 화성인의 혼에 사로잡힌 광부들과 싸운다. |
+| 2001 | Osmosis Jones (경계) | Osmosis Jones | Marc Hyman | 애니메이션·영화 | 확인 못 함 | 십대 소년의 몸속에서 백혈구 오지와 감기약 드릭스가 세균·바이러스와 싸운다. |
 | 2001 | Replicant | Replicant | Ringo Lam | 영화 | 확인 못 함 | 잡히지 않는 연쇄 방화 살인범을 쫓으려, 정부 과학자들이 그의 복제 인간을 만들어 형사에게 붙인다. |
 | 2001 | Spy Kids (경계) | Spy Kids | Robert Rodriguez | 영화 | 확인 못 함 | 첩보원 부모의 아이들이 첨단 장치로 악당을 막는다 — 새 편에선 세계 기기를 감염시키는 게임 코드. |
 | 2001 | The American Astronaut | The American Astronaut | Cory McAbee | 영화 | 확인 못 함 | 우주 여행이 거친 뜨내기들의 일인 세계, 떠돌이 장사꾼이 복제 장치로 난 '진짜 여자'를 목성에 팔러 간다. |
 | 2001 | The Lost Skeleton of Cadavra | The Lost Skeleton of Cadavra | Larry Blamire | 영화 | 확인 못 함 | 1961년 운석의 희귀 원소를 찾는 과학자 부부, 불시착한 외계인 부부, 해골을 노리는 악당이 얽힌다. |
 | 2001 | The One | The One | James Wong | 영화 | 확인 못 함 | 평행 우주 경찰 출신 악당이 자기의 다른 판 124명을 죽여 힘을 모으고, 마지막 남은 자신과 맞선다. |
 | 2001 | 修羅雪姫 (경계) | 修羅雪姫 | Shinsuke Sato | 영화 | 확인 못 함 | 문을 닫아건 종말 뒤 일본, 자객으로 사는 옛 호위 가문의 마지막 공주가 출생의 비밀을 알고 가문을 떠난다. |
+| 2001 | 拳神 | 拳神 | 劉偉強 · 元奎 | 영화 | 확인 못 함 | 뇌의 잠든 힘을 끌어내는 장갑이 개발되고, 그 힘에 눈먼 남자가 세계 정복을 꿈꾼다. |
 | 2001 | 나비 (경계) | 나비 | 문승욱 | 영화 | 한국 원작 | 산성비가 내리는 미래의 서울을 찾은 독일 교포가 '바이러스 가이드'를 따라 헤매며 온갖 환영을 본다. |
 | 2001 | 천사몽 (경계) | 천사몽 | 박희준 | 영화 | 한국 원작 | 전생을 보는 실험 장치를 소재로, 무림과 미래 기술이 섞인 전생과 지금 삶이 겹친다. |
 | 2002 | 28 Days Later (경계) | 28 Days Later | Danny Boyle(감독) · Alex Garland(각본) | 영화 | 확인 못 함 | 실험실 침팬지에게서 '분노' 병균이 퍼져 영국이 무너지고, 혼수에서 깬 배달부가 텅 빈 런던을 헤맨다. |
@@ -3116,9 +3782,11 @@
 | 2002 | Dead or Alive: Final | Dead or Alive: Final | 三池崇史 (Takashi Miike) | 영화 | 확인 못 함 | 시장이 시민에게 피임약을 강제하는 24세기 요코하마에서, 옛 전쟁의 인조인간 떠돌이가 반군 편에 선다. |
 | 2002 | Eight Legged Freaks | Eight Legged Freaks | Ellory Elkayem | 영화 | 확인 못 함 | 애리조나 광산 마을의 연못에 독성 폐기물이 흘러들어, 그것을 먹은 거미들이 거대해져 마을을 덮친다. |
 | 2002 | 이퀼리브리엄 | Equilibrium | Kurt Wimmer | 영화 | 있음 | 전쟁 뒤 감정을 약으로 지우고 책과 그림을 태우는 나라, 감정을 단속하는 요원이 약을 끊는다 |
+| 2002 | Hollywood | Hollywood | Dinesh Babu · Upendra(각본) | 영화 | 확인 못 함 | 좋아하는 여자의 마음을 얻으려 남자가 그 마음을 읽는 로봇을 만든다. |
 | 2002 | Project Viper | Project Viper | Jim Wynorski(Jay Andrews 이름) | 영화 | 확인 못 함 | 사람 유전자와 컴퓨터 칩을 섞어 만든 실험 생물 '바이퍼'가 우주 왕복선 사고로 지구에 풀려난다. |
 | 2002 | 레인 오브 파이어 (경계) | Reign of Fire | Rob Bowman | 영화 | 있음 | 공사장 땅속에서 깨어난 용들이 불어나 핵무기로도 막지 못하고 문명이 무너진 뒤, 살아남은 이들이 버틴다. |
 | 2002 | 시몬 | S1m0ne | Andrew Niccol | 영화 | 있음 | 벼랑 끝 영화감독이 컴퓨터로 만든 가상 여배우를 진짜 사람처럼 내세우자 세상이 그녀에게 열광한다. |
+| 2002 | SFホイップクリーム | SFホイップクリーム | 瀬々敬久 | 영화 | 확인 못 함 | 2060년, 불법 체류 외계인 손에 자란 청년이 쫓기다 외계인 신분이 드러나 강제 송환될 처지가 된다. |
 | 2002 | Scorcher | Scorcher | James Seale | 영화 | 확인 못 함 | 핵실험이 땅속 판을 흔들어 사흘 안에 지구가 불바다가 될 판, 군인이 로스앤젤레스에 핵폭탄을 터뜨리러 간다. |
 | 2002 | 싸인 | Signs | M. Night Shyamalan | 영화 | 있음 | 옥수수밭에 나타난 거대한 무늬 뒤로 외계인 침공이 시작되고, 신앙을 잃은 목사 가족이 집에서 버틴다. |
 | 2002 | Teknolust | Teknolust | Lynn Hershman Leeson | 영화 | 확인 못 함 | 과학자가 자기 유전자를 넣어 만든 사이보그 복제 셋이 살아가려고 남자들에게서 정액을 모으러 바깥에 나간다. |
@@ -3126,17 +3794,24 @@
 | 2002 | The Last Man | The Last Man | Harry Ralston | 영화 | 확인 못 함 | 정체 모를 재앙 뒤 혼자 남았다고 믿은 인류학 대학원생 앞에 살아남은 여자와 또 한 사내가 나타난다. |
 | 2002 | リターナー | リターナー | Takashi Yamazaki | 영화 | 확인 못 함 | 외계 종족 다그라에게 지던 2084년, 소녀 병사가 시간 문을 넘어 2002년의 첫 다그라를 막으러 온다. |
 | 2002 | 夕陽天使 (경계) | 夕陽天使 | Corey Yuen | 영화 | 확인 못 함 | 아버지가 남긴 비밀 위성 기술로 보안을 뚫는 해커 자매 자객이, 그들을 고용한 자와 경찰 양쪽에 쫓긴다. |
+| 2002 | 想飛 (경계) | 想飛 | 張艾嘉 · 袁錦麟 | 영화 | 확인 못 함 | 인터넷 회사 형제가 술집 아가씨를 가상 소녀 '프린세스 D' 의 본보기로 삼으려 한다. |
+| 2002 | 最強獣誕生 ネズラ -NEZULLA- | 最強獣誕生 ネズラ -NEZULLA- | 田川幹太 | 영화 | 확인 못 함 | 미군의 생물 실험으로 사람만 한 크기가 된 쥐가 사람을 잡아먹고 병을 퍼뜨린다. |
+| 2002 | 無限復活 | 無限復活 | Jeffrey Lau | 영화 | 확인 못 함 | 약혼녀에게 차인 카지노 직원의 이야기가 평행 우주와 얽히는 홍콩 영화. |
 | 2002 | 긴급조치 19호 (경계) | 긴급조치 19호 | 김태규 | 영화 | 한국 원작 | 가수들을 모두 잡아들이는 법이 선포된 가상의 한국에서 쫓기는 가수들과 팬클럽이 숨어 저항한다. |
 | 2002 | 성냥팔이 소녀의 재림 | 성냥팔이 소녀의 재림 | 장선우 | 영화 | 한국 원작 | 성냥팔이 소녀를 구하는 가상 현실 게임에 들어간 배달원이 게임과 현실의 경계를 잃는다 |
 | 2002 | 아 유 레디? (경계) | 아 유 레디? | 윤상호 | 영화 | 한국 원작 | 서로 모르는 여섯 사람이 한 테마파크에서 만나 모험과 환상의 세계로 빨려 든다. |
 | 2002 | 예스터데이 (경계) | 예스터데이 | 정윤수 | 영화 | 한국 원작 | 통일된 2020년 한반도, 은퇴 과학자를 노린 연쇄 살인 뒤에 30년 전 국방부 비밀 계획이 숨어 있다. |
 | 2003 | Absolon | Absolon | David Barto | 영화 | 확인 못 함 | 병균이 인류 절반을 죽인 뒤 모두가 한 회사의 약을 먹어야 사는 세상, 형사가 과학자 살인의 음모를 캔다. |
 | 2003 | Alien Hunter | Alien Hunter | Ronald Krauss | 영화 | 확인 못 함 | 남극 기지에서 얼음에 갇힌 외계 비행체가 나오고, 암호학자가 그 신호가 '열지 말라'는 뜻임을 알아낸다. |
+| 2003 | COSMIC RESCUE -The moonlight generations- | COSMIC RESCUE -The moonlight generations- | 佐藤信介 | 영화 | 확인 못 함 | 2053년, 우주선 사고에서 사람을 구하는 우주 구조대가 우주 쓰레기를 치우다 사건에 휘말린다. |
 | 2003 | Code 46 | Code 46 | Michael Winterbottom | 영화 | 확인 못 함 | 2077년, 생체 여권 없이는 못 드는 빽빽한 도시 안과 거대 수용소 같은 바깥으로 세계가 갈린다 |
 | 2003 | Cucarachas Rojas | Cucarachas Rojas | Miguel Coyula | 영화 | 확인 못 함 | 산성비가 내리는 다른 뉴욕, 지하철에서 만난 여자가 잃어버린 누이일지 모른다 |
+| 2003 | Encrypt | Encrypt | Oscar Luis Costo (감독) | 영화 | 확인 못 함 | 오존층이 무너져 폭풍이 땅을 황무지로 만든 2068년, 전직 군인이 환경 투기꾼의 제안을 받는다. |
+| 2003 | Fun2shh... Dudes in the 10th Century | Fun2shh... Dudes in the 10th Century | Imtiaz Punjabi | 영화 | 확인 못 함 | 뭄바이 도둑 소동 끝에 등장인물들이 10세기로 건너가는 코미디. |
 | 2003 | Good Boy! | Good Boy! | John Hoffman | 영화 | 확인 못 함 | 소년이 데려온 개가 시리우스 별에서 온 사절로, 개들이 본디 지구를 다스리러 왔음을 소년에게 알린다. |
 | 2003 | It's All About Love | It's All About Love | Thomas Vinterberg | 영화 | 확인 못 함 | 여름에 눈이 오는 2021년, 이혼하러 온 남자가 스케이트 선수 아내를 대신할 복제 셋이 있음을 안다. |
 | 2003 | Koi... Mil Gaya | Koi... Mil Gaya | Rakesh Roshan | 영화 | 확인 못 함 | 아버지가 남긴 슈퍼컴퓨터로 외계 존재 '자두'를 불러낸 발달장애 청년이 그와 친구가 되어 달라진다. |
+| 2003 | Matrubhoomi: A Nation Without Women (경계) | Matrubhoomi: A Nation Without Women | Manish Jha | 영화 | 확인 못 함 | 여자아이를 죽이는 풍습 끝에 여자가 거의 사라진 비하르 마을의 디스토피아. |
 | 2003 | Moon Child (경계) | Moon Child | Takahisa Zeze(감독) · Gackt(원안) | 영화 | 확인 못 함 | 2014년 경제가 무너진 일본을 떠나 사람들이 옮겨 간 중국의 도시에서, 소매치기 고아들이 흡혈귀와 얽힌다. |
 | 2003 | Robot Stories | Robot Stories | Greg Pak | 영화 | 확인 못 함 | 입양하기 전에 로봇 아기를 맡아 길러 보는 부부 등, 로봇과 사람이 이어지려 애쓰는 이야기 넷. |
 | 2003 | Sixteen Tongues | Sixteen Tongues | Scooter McCrae | 영화 | 확인 못 함 | 디스토피아 미래, 사이보그 암살자·타락한 경찰·해커 애인의 삶이 한데 얽힌다 |
@@ -3145,6 +3820,7 @@
 | 2003 | Undead (경계) | Undead | Michael Spierig · Peter Spierig | 영화 | 확인 못 함 | 시골 마을에 이상한 운석이 떨어져 주민들이 좀비가 되고, 외계인에게 끌려갔었다는 사내 집에 생존자가 모인다. |
 | 2003 | 내츄럴 시티 | 내츄럴 시티 | 민병천 | 영화 | 한국 원작 | 2080년 도시, 수명이 정해진 인조인간을 사랑하게 된 단속 요원이 그를 살리려 한다 |
 | 2003 | 지구를 지켜라! (경계) | 지구를 지켜라! | 장준환 | 영화 | 한국 원작 | 외계인이 지구를 노린다고 믿는 청년이 한 회사 사장을 외계인으로 몰아 납치한다 |
+| 2004 | 2046 (경계) | 2046 | 王家衛 | 영화 | 확인 못 함 | 1960년대 홍콩, 지난 사랑에 갇힌 작가의 이야기를 그린 공상 과학 멜로. |
 | 2004 | After the Apocalypse | After the Apocalypse | Yasuaki Nakajima | 영화 | 확인 못 함 | 3차 대전의 독가스 탓에 말을 잃은 생존자 다섯이 말없이 서로 기대어 삶을 다시 꾸린다. |
 | 2004 | Banlieue 13 (경계) | Banlieue 13 | Pierre Morel(감독) · Luc Besson(제작·각본) | 영화 | 확인 못 함 | 2010년 벽으로 갇혀 버려진 파리 교외 빈민가 B13에서, 갱단과 싸우는 청년이 경찰에게도 배신당한다. |
 | 2004 | Decoys | Decoys | Matthew Hastings | 영화 | 확인 못 함 | 대학 신입생 둘이 기숙사에서 만난 매혹적인 두 여자가 남자들을 노리는 외계인임을 알아챈다. |
@@ -3152,27 +3828,39 @@
 | 2004 | 이터널 선샤인 (경계) | Eternal Sunshine of the Spotless Mind | Michel Gondry · Charlie Kaufman | 영화 | 있음 | 헤어진 연인의 기억만 골라 지워 주는 의원에서 한 남자가 지우는 도중 마음을 바꾼다 |
 | 2004 | FAQ: Frequently Asked Questions | FAQ: Frequently Asked Questions | Carlos Atanes | 영화 | 확인 못 함 | 여자들의 '메타통제 자매회'가 남녀 접촉을 막는 미래 파리에서, 모범 시민 여자가 한 남자 탓에 흔들린다. |
 | 2004 | G.O.R.A. | G.O.R.A. | Ömer Faruk Sorak(1편 감독) · Cem Yılmaz(각본· | 영화 | 확인 못 함 | 가짜 비행접시 사진을 팔던 양탄자 장수가 행성 고라의 외계인에게 끌려가 그곳의 음모에 휘말린다. |
+| 2004 | Garuda (경계) | Garuda | Monthon Arayangkoon | 영화 | 확인 못 함 | 터널 공사에서 나온 수수께끼 화석을 계기로 태국 전설의 괴수와 사람이 맞선다. |
 | 2004 | Godsend | Godsend | Nick Hamm | 영화 | 확인 못 함 | 사고로 아들을 잃은 부부가 의사의 제안으로 아들을 복제해 다시 낳는데, 여덟 살이 넘자 아이가 달라진다. |
+| 2004 | Naani | Naani | S. J. Suryah | 영화 | 확인 못 함 | 과학자의 실험으로 여덟 살 아이가 하룻밤에 어른이 된다. |
 | 2004 | Paranoia 1.0 | Paranoia 1.0 | Jeff Renfroe, Marteinn Thorsson | 영화 | 확인 못 함 | 빈 소포가 자꾸 방에 나타나는 프로그래머가 그 정체를 캐는 디스토피아 공포 |
 | 2004 | Phil the Alien | Phil the Alien | Rob Stefaniuk | 영화 | 확인 못 함 | 모습을 바꾸고 물건을 움직이는 외계인이 온타리오 북부에 불시착해 촌사람들과 말하는 비버와 어울린다. |
 | 2004 | Post Impact | Post Impact | Christoph Schrewe | 영화 | 확인 못 함 | 혜성 조각이 러시아에 떨어져 유럽이 버려진 3년 뒤, 미군 대위가 베를린 지하 위성 무기 통제실로 간다. |
 | 2004 | 프리머 | Primer | Shane Carruth | 영화 | 확인 못 함 | 차고에서 만든 장치가 뜻밖에 시간 기계가 되어, 두 공학자가 같은 날을 겹겹이 다시 산다 |
+| 2004 | Rudraksh (경계) | Rudraksh | Mani Shankar | 영화 | 확인 못 함 | 초자연을 연구하는 학자가 라마야나 전설과 이어진 힘을 쫓는 공상 활극. |
 | 2004 | Six: The Mark Unleashed (경계) | Six: The Mark Unleashed | Kevin Downes | 영화 | 확인 못 함 | 휴거 뒤 적그리스도가 세상을 차지하고 짐승의 표를 받지 않은 사람들을 가두어 처형하는 종말의 때. |
 | 2004 | 월드 오브 투모로우 | Sky Captain and the World of Tomorrow | Kerry Conran | 영화 | 있음 | 1939년 뉴욕, 이름난 과학자들이 잇따라 사라지고 거대 로봇이 도시를 덮치자 비행사가 수수께끼를 쫓는다. |
+| 2004 | Snakehead Terror (경계) | Snakehead Terror | Sci Fi Channel | 영화 | 확인 못 함 | 독을 풀어 없앤 줄 알았던 가물치가 두 해 뒤 호수에 다시 나타나 사람들을 덮친다. |
 | 2004 | The Butterfly Effect | The Butterfly Effect | Eric Bress · J. Mackye Gruber | 영화 | 확인 못 함 | 어린 시절 기억이 자주 끊기던 청년이 옛 일기를 읽으면 그때로 돌아가 과거를 바꿀 수 있음을 알게 된다. |
 | 2004 | The Day After Tomorrow | The Day After Tomorrow | Roland Emmerich | 영화 | 확인 못 함 | 해류가 끊겨 기후가 무너지고, 거대 폭풍과 함께 북반구에 갑자기 새 빙하기가 닥친다. |
 | 2004 | The Final Cut | The Final Cut | Omar Naim | 영화 | 확인 못 함 | 평생을 기록하는 뇌 이식 칩의 기억을 장례식용 영상으로 엮는 편집자가 자신이 숨긴 과거와 마주한다. |
 | 2004 | The Forgotten | The Forgotten | Joseph Ruben | 영화 | 확인 못 함 | 죽은 아들을 기억하는 엄마에게 모두가 아들은 없었다 하고, 그 뒤엔 기억을 지우는 '그들'의 실험이 있다. |
+| 2004 | スペースポリス | スペースポリス | 渡辺一志 | 영화 | 확인 못 함 | 손님을 살찌워 잡아먹는 외계인 햄버거 가게를 우주 경찰이 쫓는다. |
+| 2004 | ゼブラーマン (경계) | ゼブラーマン | 三池崇史 · 宮藤官九郎(각본) | 영화 | 확인 못 함 | 옛 특촬 영웅을 동경하던 교사가 외계인 침공에 맞서 진짜 영웅이 된다. |
+| 2004 | 星星相吸惜 | 星星相吸惜 | Cui Zi'en | 영화 | 확인 못 함 | 화성에서 홀로 지구에 온 외계인을 한 청년이 집에 데려오는 동성애 공상 과학 영화. |
+| 2004 | 追擊8月15 | 追擊8月15 | 馬偉豪 · 鄭保瑞 | 영화 | 확인 못 함 | 겁 많은 경찰 앞에 미래에서 온 소녀 로봇이 나타나 그가 며칠 뒤 죽는다고 알린다. |
+| 2004 | 飛鷹 (경계) | 飛鷹 | ジングル・マー | 영화 | 확인 못 함 | 근미래 도시에서 옷을 갖춰 입고 첨단 오토바이를 탄 여성 영웅이 악당과 싸운다. |
 | 2004 | 인어공주 (경계) | 인어공주 | 박흥식 | 영화 | 한국 원작 | 억척스러운 엄마가 지긋지긋하던 딸이 엄마의 고향 섬에서 젊은 날의 엄마와 아빠를 만난다. |
 | 2005 | Alien Abduction | Alien Abduction | Eric Forsberg | 영화 | 확인 못 함 | 캠핑 간 십 대들의 머리 위에 빛이 나타나고, 외계인이 하나씩 사람들을 잡아간다. |
 | 2005 | Allegro (경계) | Allegro | Christoffer Boe | 영화 | 확인 못 함 | 보이지 않는 막에 막혀 들어갈 수 없게 된 코펜하겐 한복판 '구역'에, 과거를 잊은 피아니스트가 들어간다. |
 | 2005 | Evil Aliens | Evil Aliens | Jake West | 영화 | 확인 못 함 | 웨일스 앞바다 외딴섬의 외계인 납치 소동을 취재하러 간 방송 제작진이 정말로 잔인한 외계인들과 맞닥뜨린다. |
+| 2005 | HINOKIO | HINOKIO | 秋山貴彦 | 영화 | 확인 못 함 | 사고 뒤 방에 틀어박힌 소년이 멀리서 조종하는 로봇을 대신 학교에 보낸다. |
 | 2005 | Headspace (경계) | Headspace | Andrew van den Houten | 영화 | 확인 못 함 | 낯선 사내와 체스를 둔 뒤 지능이 터무니없이 빨리 자라는 청년이 헛것을 보고, 뉴욕엔 살인이 잇따른다. |
 | 2005 | Isolation (경계) | Isolation | Billy O'Brien | 영화 | 확인 못 함 | 유전 공학 회사가 빨리 크는 소를 시험하는 시골 농장에서 뱃속 송아지가 괴물로 자란다 |
 | 2005 | Man with the Screaming Brain (경계) | Man with the Screaming Brain | Bruce Campbell | 영화 | 확인 못 함 | 불가리아에서 살해된 미국 사업가가 괴짜 과학자 손에 다른 남자의 뇌 반쪽을 이식받아 되살아난다. |
+| 2005 | Pterodactyl | Pterodactyl | Mark L. Lester (감독) | 영화 | 확인 못 함 | 다시 깨어난 화산에서 나온 알이 부화해 익룡들이 튀르키예·아르메니아 국경의 사람들을 덮친다. |
 | 2005 | Puzzlehead | Puzzlehead | James Bai | 영화 | 확인 못 함 | 기술이 금지된 어두운 세상에서 과학자가 몰래 자기를 닮은 자의식 있는 인조인간을 만든다. |
 | 2005 | Slipstream | Slipstream | David van Eyssen | 영화 | 확인 못 함 | 휴대 전화 같은 장치로 10분 전으로 돌아가는 과학자가 은행 강도 사건에 휘말려 시간을 거듭 되감는다. |
 | 2005 | Stealth | Stealth | Rob Cohen | 영화 | 확인 못 함 | 미 해군 조종사 셋에 인공지능 무인 전투기가 더해지고, 그 인공지능이 명령을 벗어나 제멋대로 움직인다. |
+| 2005 | Supervolcano (경계) | Supervolcano | Tony Mitchell(감독) · Edward Canfor-Dumas( | 영화 | 확인 못 함 | 옐로스톤 칼데라가 터진다는 가정 아래, 관측소 과학자들이 재앙을 맞는다. |
 | 2005 | 샤크보이와 라바걸의 모험 (경계) | The Adventures of Sharkboy and Lavagirl | Robert Rodriguez | 영화 | 있음 | 상상력 많은 소년이 꿈속 행성을 구하러 떠나고, 뒷날 그 영웅들의 아이들이 외계인과 싸운다. |
 | 2005 | The Cave | The Cave | Bruce Hunt | 영화 | 확인 못 함 | 카르파티아산맥 동굴의 처음 보는 생태계를 탐사하던 잠수부들이 생물을 괴물로 바꾸는 기생체에 감염된다. |
 | 2005 | The Girl from Monday | The Girl from Monday | Hal Hartley | 영화 | 확인 못 함 | 기업 독점이 모든 것을 사고파는 미래 미국에, 다른 별에서 온 존재가 사람 모습으로 내려온다. |
@@ -3180,8 +3868,14 @@
 | 2005 | The Jacket | The Jacket | John Maybury | 영화 | 확인 못 함 | 정신병원의 구속복과 시체 서랍에 갇힌 걸프전 참전 군인이 그때마다 15년 뒤 미래로 건너간다. |
 | 2005 | The Wild Blue Yonder | The Wild Blue Yonder | Werner Herzog | 영화 | 확인 못 함 | 얼음 덮인 물의 행성에서 온 외계인이 지구에 못 자리 잡은 동족과 그 행성에 간 탐사대 이야기를 들려준다. |
 | 2005 | Zerophilia (경계) | Zerophilia | Martin Curland | 영화 | 확인 못 함 | 캠핑에서 처음 관계를 가진 청년의 몸이 때때로 여자 몸으로 바뀌었다 돌아오기 시작한다. |
+| 2005 | アインシュタインガール | アインシュタインガール | 及川中 | 영화 | 확인 못 함 | 시공의 뒤틀림으로 1년 전에 떨어진 여고생이 어머니를 사고에서 구하려 한다. |
+| 2005 | エリ・エリ・レマ・サバクタニ | エリ・エリ・レマ・サバクタニ | 青山真治 | 영화 | 확인 못 함 | 2015년, 영상으로 옮는 병에 걸린 사람들이 잇달아 스스로 목숨을 끊는다. |
+| 2005 | スペクター | スペクター | コナミ | 영화 | 확인 못 함 | 외계인 담당 수사관이 강화 장갑을 입고 지구에 숨어든 외계인을 쫓는다. |
 | 2005 | ミートボールマシン | ミートボールマシン | 山口雄大·山本淳一 | 영화 | 확인 못 함 | 외롭던 공장 노동자가 외계 벌레 같은 것을 주워 숨긴 뒤 벌어지는 일본 특촬 공포 |
+| 2005 | 深海獣レイゴー (경계) | 深海獣レイゴー | 林家しん平 | 영화 | 확인 못 함 | 태평양 전쟁 말, 새끼를 잃은 심해 괴수가 일본 연합 함대에 복수한다. |
+| 2005 | 蛋 (경계) | 蛋 | Yukihiko Tsutsumi | 영화 | 확인 못 함 | 일본에서 프로그램 오류를 찾는 한국 출신 젊은 여자에게 어려서부터 이상한 현상이 따라다닌다. |
 | 2005 | 천군 | 천군 | 민준기 | 영화 | 한국 원작 | 남북이 만든 핵무기를 두고 다투던 군인들이 혜성 탓에 임진왜란 전 조선으로 떨어져 젊은 이순신을 만난다. |
+| 2006 | Alag | Alag | Ashu Trikha | 영화 | 확인 못 함 | 아버지가 숨겨 키운 텔레파시 능력의 아들이 세상에 나와 과학자들에게 쫓긴다. |
 | 2006 | Alien Autopsy (경계) | Alien Autopsy | Jonny Campbell | 영화 | 확인 못 함 | 1995년 '외계인 해부' 필름 소동을 꾸민 두 사내의 뒷이야기를 다룬 희극. |
 | 2006 | Altered | Altered | Eduardo Sánchez | 영화 | 확인 못 함 | 15년 전 사냥 여행에서 외계인에게 끌려가 실험당한 시골 친구들이 외계인 하나를 붙잡아 복수하려 한다. |
 | 2006 | Daft Punk's Electroma | Daft Punk's Electroma | Daft Punk | 영화 | 확인 못 함 | 로봇들만 사는 마을의 두 로봇이 사람 얼굴을 갖고 싶어 라텍스 가면을 쓰지만 로봇들에게 쫓겨난다. |
@@ -3189,6 +3883,7 @@
 | 2006 | Displaced | Displaced | Martin Holland | 영화 | 확인 못 함 | 사람꼴 외계인이 영국 군인과 손잡고, 붙잡힌 외계 우주선과 아버지의 행방이 담긴 비밀 문서를 찾아 나선다. |
 | 2006 | Déjà Vu | Déjà Vu | Tony Scott | 영화 | 확인 못 함 | 여객선 폭파를 수사하던 요원이 나흘 전 과거를 들여다보는 비밀 장치로 범인을 쫓다 과거로 넘어간다. |
 | 2006 | Idiocracy (경계) | Idiocracy | Mike Judge | 영화 | 확인 못 함 | 냉동 수면 실험이 꼬여 500년 뒤 깨어난 평범한 남자가 지능이 바닥난 미국에서 가장 똑똑한 사람이 된다. |
+| 2006 | Jaane Hoga Kya | Jaane Hoga Kya | Glen Barretto · Ankush Mohla | 영화 | 확인 못 함 | 복제 인간을 연구하는 과학자가 실패한 실험으로 친구를 잃은 뒤에도 연구를 이어 간다. |
 | 2006 | Right at Your Door (경계) | Right at Your Door | Chris Gorak | 영화 | 확인 못 함 | 로스앤젤레스에서 더러운 폭탄 여러 개가 터지자, 집에 있던 남자가 독한 재가 날리는 바깥의 아내와 갈라진다. |
 | 2006 | S.S. Doomtrooper | S.S. Doomtrooper | David Flores | 영화 | 확인 못 함 | 2차 대전 중 나치 과학자가 약물과 방사선으로 전기를 뿜는 괴물 병사를 만들고, 미군 특공대가 맞선다. |
 | 2006 | Slither | Slither | James Gunn | 영화 | 확인 못 함 | 운석과 함께 온 외계 기생체가 소도시 부자의 몸을 차지하고, 주민들을 하나둘 감염시켜 한 몸으로 묶는다. |
@@ -3196,33 +3891,44 @@
 | 2006 | The Eden Formula (경계) | The Eden Formula | John Carl Buechler | 영화 | 확인 못 함 | 생물을 다시 만드는 약을 만든 회사 지하에서 다른 과학자들이 티라노사우루스를 만들었다 |
 | 2006 | The Fountain (경계) | The Fountain | Darren Aronofsky | 영화 | 확인 못 함 | 생명의 나무를 찾는 정복자, 아내를 살릴 약을 찾는 의사, 나무를 싣고 우주를 떠도는 26세기 사내. |
 | 2006 | The Kovak Box | The Kovak Box | Daniel Monzón | 영화 | 확인 못 함 | 작가의 약혼녀가 전화로 옛 노래를 들은 뒤 몸을 던지고, 뇌에 심은 장치로 사람을 부리는 실험이 드러난다. |
+| 2006 | The iDol | The iDol | Norman England | 영화 | 확인 못 함 | 장난감 가게에서 산 희귀한 외계인 인형이 청년에게 꿈을 다 이뤄 주었다가 모두 앗아 간다. |
 | 2006 | 울트라 바이올렛 (경계) | Ultraviolet | Kurt Wimmer | 영화 | 있음 | 21세기 말 군 연구소가 만든 강화 바이러스가 퍼져 흡혈종이 생기고, 정부가 감염자를 몰아 토벌한다. |
 | 2006 | Unidentified (경계) | Unidentified | Rich Christiano | 영화 | 확인 못 함 | 미확인 비행 물체가 종말의 때와 어떻게 이어지는지를 다룬 기독교 SF 영화. |
 | 2006 | 은발의 아기토 | 銀色の髪のアギト | GONZO, 杉山慶一 | 애니메이션·영화 | 있음 | 지능을 얻은 식물들이 반란을 일으킨 지 300년, 소년이 금지된 샘에서 잠든 소녀를 깨운다. |
 | 2006 | 괴물 (경계) | 괴물 | 봉준호 | 영화 | 한국 원작 | 한강에 버린 독극물로 생긴 괴물이 딸을 채 가고, 한 가족이 괴물과 나라에 맞선다 |
 | 2006 | 싸이보그지만 괜찮아 (경계) | 싸이보그지만 괜찮아 | 박찬욱 | 영화 | 한국 원작 | 자기가 사이보그라고 믿는 젊은 여자가 정신병원에 들어가 밥 대신 건전지를 핥으며 기계와 말한다. |
+| 2007 | Athisayan (경계) | Athisayan | Vinayan | 영화 | 확인 못 함 | 고아원에서 자란 방송 기자와 한 소년을 둘러싼 괴물과 초인 영웅 이야기. |
+| 2007 | Bharathan Effect | Bharathan Effect | Anil Das · Madhu Muttam(각본) | 영화 | 확인 못 함 | 천재 발명가가 연료 없이 반중력으로 나는 장치를 만든다. |
 | 2007 | Chrysalis | Chrysalis | Julien Leclercq | 영화 | 확인 못 함 | 가까운 미래 파리, 아내를 잃은 유럽 경찰이 인신매매범을 쫓는다 |
 | 2007 | Decaying Orbit | Decaying Orbit | Tim Pyle | 영화 | 확인 못 함 | 은하 끝 우주 정거장이 폭발한 뒤 탈출선에 탄 다섯 생존자가 표류하며, 그 안에 범인이 있음을 의심한다. |
 | 2007 | Eden Log | Eden Log | Franck Vestiel | 영화 | 확인 못 함 | 기억을 잃고 동굴 깊은 곳에서 깨어난 사내가 무너진 기술 시설을 헤매며 위로 오른다 |
+| 2007 | Fire Serpent | Fire Serpent | John Terlesky (감독) | 영화 | 확인 못 함 | 태양 폭발에 실려 지구에 온 불로 된 뱀 꼴 외계 생물이 작은 마을과 군 석유 저장고를 노린다. |
 | 2007 | Illegal Aliens | Illegal Aliens | David Giancola | 영화 | 확인 못 함 | 입체 영상 스승의 안내를 받는 외계인 셋이 미국 미녀로 둔갑해, 지구를 날려 버리려는 은하 테러범을 막는다. |
 | 2007 | La hora fría | La hora fría | Elio Quiroga | 영화 | 확인 못 함 | 대재앙 같은 전쟁 뒤 무너져 가는 시설에 숨은 생존자 여덟이, 바깥과 어둠 속에서 다가오는 위협에 떤다. |
 | 2007 | 타임 크라임 | Los cronocrímenes | Nacho Vigalondo | 영화 | 확인 못 함 | 숲에서 낯선 이를 쫓다 한 시간 전으로 돌아간 남자가 자기 자신들과 엉킨다 |
+| 2007 | ROBO☆ROCK | ROBO☆ROCK | 須賀大観 | 영화 | 확인 못 함 | 토성인 침략에 맞설 50년 전 거대 로봇을 깨우려면 무능한 심부름꾼의 목소리가 필요하다. |
+| 2007 | Savage Planet | Savage Planet | Sci Fi Pictures | 영화 | 확인 못 함 | 자원이 바닥난 2068년, 기업 칼론이 인류를 구할 행성 '옥시젠'을 노린다. |
 | 2007 | Sex and Death 101 (경계) | Sex and Death 101 | Daniel Waters | 영화 | 확인 못 함 | 결혼을 앞둔 남자가 미래를 내다보는 기계가 뽑은, 앞날까지 담긴 '잠자리할 여자 101명' 목록을 받는다. |
 | 2007 | 선샤인 | Sunshine | Danny Boyle · Alex Garland | 영화 | 있음 | 꺼져 가는 해를 되살리려 거대한 폭탄을 싣고 해로 날아가는 우주선 |
 | 2007 | The Gene Generation | The Gene Generation | Pearry Reginald Teo | 영화 | 확인 못 함 | 유전자를 해킹하는 범죄자들과 싸우는 암살자, 동생이 유전자 해킹에 빠져든다 |
 | 2007 | 맨 프럼 어스 | The Man from Earth | Jerome Bixby(각본), Richard Schenkman | 영화 | 일부 | 떠나려는 교수가 동료들 앞에서 자신이 1만 4천 년을 늙지 않고 살아온 사람이라고 털어놓는다. |
+| 2007 | Zabardast (경계) | Zabardast | Mahesh Kothare | 영화 | 확인 못 함 | 대학 교수가 신비한 외투로 실험을 벌이고, 학생들이 그 실험 대상이 된다. |
 | 2007 | Параграф 78 | Параграф 78 | Mikhail Khleborodov | 영화 | 확인 못 함 | 가벼운 마약이 허용되고 아시아 연합이 생긴 미래, 조약을 어긴 북극 섬 비밀 연구소에 옛 특수 부대가 간다. |
+| 2007 | キヲクドロボウ | キヲクドロボウ | 山岸謙太郎 · 石田肇 · Project Yamaken | 영화 | 확인 못 함 | 근미래, 뇌 질환에 맞서 사람의 기억을 자료로 저장하는 기업이 나오며 기억을 훔치는 일이 벌어진다. |
+| 2007 | バブルへGO!! タイムマシンはドラム式 | バブルへGO!! タイムマシンはドラム式 | 馬場康夫 · ホイチョイ・プロダクションズ(원작) | 영화 | 확인 못 함 | 재정 파탄을 막으려 세탁기 모양 시간 기계로 1990년 거품 경제 시절에 간다. |
 | 2007 | 말할 수 없는 비밀 (경계) | 不能說的秘密 | 周杰倫 | 영화 | 있음 | 예술학교 전학생이 옛 음악실에서 비밀스러운 곡을 치는 소녀를 만나고, 그 곡은 시간을 건너게 한다. |
 | 2007 | 大日本人 (경계) | 大日本人 | Hitoshi Matsumoto | 영화 | 확인 못 함 | 고압 전기를 맞으면 30미터 거인이 되는 집안의 사내가 괴수와 싸우지만 사람들의 비웃음에 시달린다. |
 | 2007 | 언니가 간다 (경계) | 언니가 간다 | 김창래 | 영화 | 한국 원작 | 꼬인 인생을 한탄하던 서른 살 여자가 일주일 동안 열여덟 살의 1994년으로 돌아가 첫사랑을 지우려 한다. |
 | 2008 | 2012: Doomsday (경계) | 2012: Doomsday | Nick Everhart | 영화 | 확인 못 함 | 마야 달력이 끝나는 2012년, 믿음으로 이끌린 낯선 넷이 인류를 구할 옛 신전을 찾아 멕시코로 간다. |
 | 2008 | Alien Raiders | Alien Raiders | Ben Rock | 영화 | 확인 못 함 | 복면 무장대가 문 닫을 무렵의 마트를 점거하고 인질 가운데 사람 탈을 쓴 '그들'을 하나씩 가려낸다. |
 | 2008 | 클로버필드 (경계) | Cloverfield | J. J. Abrams(제작) · Matt Reeves(첫 편 감독) | 영화 | 있음 | 뉴욕을 덮친 거대 괴물을 캠코더로 찍은 기록, 뒤 편들에서 평행 세계와 얽힌다 |
+| 2008 | Ctrl Z | Ctrl Z | Robert Kirbyson | 드라마·영화 | 확인 못 함 | 자신감 없는 회사원이 되돌리기 같은 자판 기능을 현실에서 쓸 수 있게 된다. |
 | 2008 | Cyborg Soldier | Cyborg Soldier | John Stead | 영화 | 확인 못 함 | 사형수를 유전자로 고친 비밀 '인간 병기' 1호가 달아나, 인질로 잡은 보안관 대리와 군의 음모를 밝힌다. |
 | 2008 | Dance of the Dead (경계) | Dance of the Dead | Gregg Bishop | 영화 | 확인 못 함 | 발전소 옆 묘지에서 시체들이 일어나 졸업 파티가 열리는 고등학교로 몰려온다. |
 | 2008 | Dante 01 | Dante 01 | Marc Caro | 영화 | 확인 못 함 | 불타는 행성 단테를 도는 우주 정거장의 정신 감옥에, 난파선에서 혼자 살아남은 말 못 하는 죄수가 들어온다. |
 | 2008 | Dasavathaaram (경계) | Dasavathaaram | K. S. Ravikumar(감독) · Kamal Haasan(각본·주연 | 영화 | 확인 못 함 | 미국의 인도인 과학자가 생물 무기로 만든 합성 바이러스 병을 지키려 인도까지 쫓겨 가며 열 인물이 얽힌다. |
 | 2008 | Doomsday | Doomsday | Neil Marshall | 영화 | 확인 못 함 | 병균 탓에 장벽으로 봉쇄한 스코틀랜드에서 생존자가 보이자, 특수 부대가 치료제를 찾으러 들어간다. |
+| 2008 | Drona (경계) | Drona | Goldie Behl | 영화 | 확인 못 함 | 판타지 모험 초인 영웅 영화. |
 | 2008 | Franklyn (경계) | Franklyn | Gerald McMorrow | 영화 | 확인 못 함 | 모두가 종교를 가져야 하는 만화 같은 도시의 가면 자경단과, 오늘날 런던의 세 사람 이야기가 서로 얽힌다. |
 | 2008 | Love Story 2050 | Love Story 2050 | Harry Baweja | 영화 | 확인 못 함 | 연인을 잃은 청년이 시간 기계를 타고 나는 차와 로봇이 있는 2050년 뭄바이로 가서 환생한 연인을 만난다. |
 | 2008 | Meet Dave | Meet Dave | Brian Robbins | 영화 | 확인 못 함 | 사람 모습을 한 우주선을 탄 꼬마 외계인 100명이 에너지가 떨어진 고향 행성을 구하려 뉴욕에 내린다. |
@@ -3232,9 +3938,14 @@
 | 2008 | Sleep Dealer | Sleep Dealer | Alex Rivera | 영화 | 확인 못 함 | 장벽으로 이민이 막힌 미래, 망에 몸을 이어 국경 너머로 일하는 가상 노동 |
 | 2008 | The Happening | The Happening | M. Night Shyamalan | 영화 | 확인 못 함 | 미국 북동부에서 사람들이 갑자기 스스로 목숨을 끊기 시작하고, 식물이 내뿜는 독이 아닌가 하는 짐작이 돈다. |
 | 2008 | Zombie Strippers (경계) | Zombie Strippers | Jay Lee | 영화 | 확인 못 함 | 부시가 네 번째 임기를 맞은 근미래, 정부가 흘린 좀비 병균이 스트립 클럽에 번져 무희들이 좀비가 된다. |
+| 2008 | カミカゼハナビ | カミカゼハナビ | 川谷修士(감독) · 吉本興業 | 영화 | 확인 못 함 | 근미래, 낮에도 불꽃처럼 보이는 소행성은 사실 외계인과 맞선 비밀 자폭 공격이다. |
+| 2008 | ハードリベンジ・ミリー (경계) | ハードリベンジ・ミリー | 辻本貴則 | 영화 | 확인 못 함 | 무법 도시가 된 근미래 요코하마, 몸에 무기를 심은 여자가 가족을 죽인 형제들에게 복수한다. |
 | 2008 | 東京残酷警察 | 東京残酷警察 | 西村喜廣 (니시무라 요시히로) | 영화 | 확인 못 함 | 디스토피아 일본, 상처에서 무기가 돋는 괴물로 사람을 바꾸는 바이러스와 그것을 사냥하는 경찰 |
+| 2008 | 片腕マシンガール (경계) | 片腕マシンガール | 井口昇 | 영화 | 확인 못 함 | 잃은 왼팔에 기관총을 단 여고생이 동생을 죽인 무리에게 복수한다. |
 | 2008 | 장강7호 (경계) | 長江7號 | 주성치 | 영화 | 있음 | 가난한 막노동꾼 아버지가 쓰레기장에서 주워 온 공이 아들에게 신기한 외계 생명체 친구가 된다. |
 | 2009 | 2012 | 2012 | Roland Emmerich | 영화 | 확인 못 함 | 새로운 중성미자가 지구 속을 데워 지각이 무너지자, 사람들이 각국이 몰래 지은 방주에 타려고 애쓴다. |
+| 2009 | 8 x 10 Tasveer (경계) | 8 x 10 Tasveer | Nagesh Kukunoor | 영화 | 확인 못 함 | 사진 속으로 들어가 찍힌 사람의 눈으로 그때를 다시 겪는 능력을 지닌 산림 감시원. |
+| 2009 | Aa Dekhen Zara | Aa Dekhen Zara | Sheershak Anand(각본) | 영화 | 확인 못 함 | 과학자 할아버지에게 물려받은 사진기로 찍으면 미래가 찍힌다. |
 | 2009 | Alien Trespass | Alien Trespass | R. W. Goodwin | 영화 | 확인 못 함 | 1957년 모하비 사막에 비행접시가 떨어지고, 외계인이 천문학자의 몸을 빌려 함께 온 괴물을 쫓는다. |
 | 2009 | 아바타 | Avatar | James Cameron | 게임·만화·영화 | 있음 | 귀한 광물을 캐러 온 사람들이 판도라 위성 토착민의 몸을 원격으로 입고 그 숲에 스며든다 |
 | 2009 | Cargo | Cargo | Ivan Engler · Ralph Etter | 영화 | 확인 못 함 | 지구가 살 수 없게 된 2267년, 낙원 행성으로 갈 돈을 벌려고 화물선에 탄 의사가 수상한 짐을 본다. |
@@ -3244,6 +3955,7 @@
 | 2009 | G-포스: 기니피그 특공대 (경계) | G-Force | Hoyt Yeatman, Jerry Bruckheimer(제작) | 영화 | 있음 | 첨단 장비를 단 기니피그 첩보 팀이 가전제품을 살인 병기로 바꾸려는 기업 회장의 음모를 막는다. |
 | 2009 | Gamer | Gamer | Mark Neveldine · Brian Taylor | 영화 | 확인 못 함 | 나노 기계로 남의 몸을 조종하게 된 2034년, 남에게 조종당하는 사형수가 전쟁 게임에서 살아남으려 한다. |
 | 2009 | Hardwired | Hardwired | Ernie Barbarash | 영화 | 확인 못 함 | 기업이 삶의 거의 모든 것을 쥔 가까운 미래, 사고로 뇌를 다친 사내에게 회사가 칩을 심는다 |
+| 2009 | Kal Kissne Dekha | Kal Kissne Dekha | Vivek Sharma | 영화 | 확인 못 함 | 기계 만들기를 좋아하는 소년이 대학에서 미래를 보는 능력을 드러내고 사랑하는 사람을 지킨다. |
 | 2009 | 노잉 | Knowing | Alex Proyas | 영화 | 있음 | 50년 전 타임캡슐에서 나온 숫자 종이가 재난을 맞히고, 태양의 불길과 낯선 존재가 아이들을 데려간다. |
 | 2009 | 더 문 | Moon | Duncan Jones | 영화 | 있음 | 달 기지에서 홀로 3년을 일한 노동자가 임기를 마칠 무렵 자기와 똑같은 사람을 만난다 |
 | 2009 | 미스터 노바디 | Mr. Nobody | Jaco Van Dormael | 영화 | 있음 | 아무도 죽지 않게 된 2092년, 마지막으로 죽게 될 118살 노인이 갈림길마다 갈라진 자기 삶을 떠올린다. |
@@ -3251,11 +3963,18 @@
 | 2009 | Push | Push | Paul McGuigan | 영화 | 확인 못 함 | 나라마다 초능력자를 병기로 만드는 '디비전'이 있는 세상, 홍콩에 숨은 염동력자가 탈출한 여자와 손잡는다. |
 | 2009 | Splice | Splice | Vincenzo Natali | 영화 | 확인 못 함 | 젊은 과학자 부부가 유전자를 섞어 새 생물을 만드는 실험 |
 | 2009 | Stingray Sam | Stingray Sam | Cory McAbee | 영화 | 확인 못 함 | 우주 죄수 둘이 풀려나는 대가로, 부유한 행성의 유전자 설계 우두머리에게 붙잡힌 소녀를 구하러 간다. |
+| 2009 | Virtuality | Virtuality | Ronald D. Moore · Michael Taylor (각본) ·  | 영화 | 확인 못 함 | 지구 첫 우주선 파에톤호가 열 해 동안 엡실론 에리다니로 가며, 승무원들이 가상 현실 장치로 버틴다. |
+| 2009 | Zombieland (경계) | Zombieland | Ruben Fleischer (감독) · Rhett Reese · Pau | 드라마·영화 | 확인 못 함 | 사람에게 옮는 광우병 변종이 사람을 좀비로 바꾼 지 두 달, 고향 도시 이름을 별명 삼은 생존자 넷. |
 | 2009 | Zona mrtvih (경계) | Zona mrtvih | Milan Konjević · Milan Todorović | 영화 | 확인 못 함 | 체르노빌에서 나온 병원체가 세르비아 기차역에서 새어 나와 사람들이 좀비가 되고, 인터폴 요원들이 맞선다. |
 | 2009 | На игре | На игре | Alexander Chubaryan (원작), Pavel Sanayev  | 드라마·소설·영화 | 확인 못 함 | 비디오 게이머들을 다룬 SF 소설을 옮긴 러시아 활극 |
+| 2009 | クローンは故郷をめざす | クローンは故郷をめざす | 中嶋莞爾 | 영화 | 확인 못 함 | 복제 기술이 발달한 근미래, 죽은 우주 비행사가 복제로 되살아나지만 기억 복사가 어긋난다. |
+| 2009 | サムライプリンセス 外道姫 (경계) | サムライプリンセス 外道姫 | 梶研吾 | 영화 | 확인 못 함 | 기계 인간이 날뛰는 세상, 죽은 여자들의 넋을 담은 기계 여무사가 되살아나 복수한다. |
 | 2009 | ロボゲイシャ | ロボゲイシャ | 井口昇 (이구치 노보루) | 영화 | 확인 못 함 | 게이샤가 기계 병기가 되어 싸우는 일본 엽기 SF 활극 |
 | 2009 | 싸이보그 그녀 | 僕の彼女はサイボーグ | 곽재용 | 영화 | 있음 | 외톨이 대학생 앞에 65년 뒤의 자신이 과거로 보낸 사이보그 '그녀'가 나타나 그를 지킨다. |
+| 2009 | 機器俠 | 機器俠 | 劉鎮偉 | 영화 | 확인 못 함 | 근미래 중국 시골 경찰서에 사이보그 경관이 오고, 스스로 깨어난 신형 사이보그가 달아난다. |
+| 2009 | 長髪大怪獣ゲハラ | 長髪大怪獣ゲハラ | 田口清隆(감독), みうらじゅん(기획·각본) · NHK | 영화 | 확인 못 함 | 괴수 그림 공모에서 1등을 한 머리털 긴 대괴수가 나타나는 단편 특촬. |
 | 2009 | 차우 (경계) | 차우 | 신정원 | 영화 | 한국 원작 | 산골 마을에 유전자 돌연변이로 사람을 먹게 된 거대한 멧돼지가 나타나 추격대가 꾸려진다. |
+| 2010 | Action Replayy | Action Replayy | Vipul Amrutlal Shah | 영화 | 확인 못 함 | 부모의 사랑 없는 결혼을 본 청년이 시간 기계로 과거에 가 부모를 이어 주려 한다. |
 | 2010 | Beyond the Black Rainbow | Beyond the Black Rainbow | Panos Cosmatos | 영화 | 확인 못 함 | 1983년 '기술로 얻는 평온'을 내건 연구소에 갇힌 소녀가 텔레파시를 누르는 장치에서 벗어나려 한다. |
 | 2010 | Denizen | Denizen | J.A. Steel | 영화 | 확인 못 함 | 과학자 일행이 작은 마을 사람을 죽이는 정체 모를 생물을 쫓고, 군대는 마을째 없애려 한다. |
 | 2010 | Die kommenden Tage (경계) | Die kommenden Tage | Lars Kraume | 영화 | 확인 못 함 | 2012~2020년, 사회와 나라들 사이가 갈수록 흔들리는 가까운 미래를 그린 드라마. |
@@ -3265,16 +3984,23 @@
 | 2010 | Hot Tub Time Machine | Hot Tub Time Machine | Steve Pink | 영화 | 확인 못 함 | 온천 욕조를 타고 1986년으로 떨어진 중년 친구들이 2010년으로 돌아갈 길을 찾는다. |
 | 2010 | Hunter Prey | Hunter Prey | Sandy Collora | 영화 | 확인 못 함 | 사막 행성에 떨어진 특공대가 멸망한 행성의 마지막 생존자인 외계 죄수를 산 채로 다시 잡으려 한다. |
 | 2010 | 인셉션 (경계) | Inception | Christopher Nolan | 영화 | 있음 | 남의 꿈에 함께 들어가 생각을 훔치거나 심는 기술을 쓰는 도둑들 |
+| 2010 | Jaane Kahan Se Aayi Hai | Jaane Kahan Se Aayi Hai | Milap Zaveri | 영화 | 확인 못 함 | 여자에게 늘 차이던 남자의 품에 다른 별에서 온 여자가 떨어진다. |
 | 2010 | Kaboom (경계) | Kaboom | Gregg Araki | 영화 | 확인 못 함 | 이상한 꿈을 꾸던 대학생이 동물 가면을 쓴 사이비 집단을 캐다 세상을 끝내려는 음모에 휘말린다. |
 | 2010 | Monsters | Monsters | Gareth Edwards · Tom Green(속편) | 영화 | 확인 못 함 | 외계 생명을 찾던 탐사선이 멕시코에 떨어진 뒤 거대한 촉수 괴물이 퍼져 국경 북쪽이 격리된다. |
 | 2010 | Pixels | Pixels | Patrick Jean(원작 단편) · Chris Columbus(영화) | 영화 | 확인 못 함 | 우주로 보낸 옛 오락실 영상을 선전 포고로 오해한 외계 세력이 고전 게임 모습으로 지구를 친다. |
+| 2010 | Prince | Prince | Kookie V Gulati | 영화 | 확인 못 함 | 기억을 잃은 도둑이, 사람의 생각을 통째로 바꾸는 칩이 든 동전을 둘러싼 싸움에 휘말린다. |
 | 2010 | Repo Men | Repo Men | Eric Garcia (원작), Miguel Sapochnik (영화) | 소설·영화 | 확인 못 함 | 2025년, 기업이 값비싼 인공 장기를 외상으로 팔고, 돈을 못 내면 회수원이 장기를 도로 떼어 간다 |
 | 2010 | 스카이라인 | Skyline | Strause 형제, Liam O'Donnell | 영화 | 있음 | 푸른 빛으로 사람을 빨아들이는 외계 함대가 지구를 덮치고, 뒤에는 그들의 배와 행성으로 싸움이 옮겨 간다. |
 | 2010 | 일라이 | The Book of Eli | Hughes 형제 | 영화 | 있음 | 대재앙으로 잿빛이 된 2043년, 책 한 권을 지키며 서쪽으로 걷는 남자와 그 책을 빼앗으려는 도시의 주인. |
 | 2010 | The Jensen Project | The Jensen Project | Douglas Barr | 영화 | 확인 못 함 | 세상 문제를 풀려는 비밀 과학자 공동체의 한 사람이 나노봇으로 남을 조종하려 하자 옛 일원이 돌아온다. |
 | 2010 | Womb | Womb | Benedek Fliegauf | 영화 | 확인 못 함 | 사고로 연인을 잃은 여자가 그의 세포로 복제 아이를 배어 낳아, 복제인을 꺼리는 이웃 속에 키운다. |
 | 2010 | 로봇 | எந்திரன் | S. Shankar | 영화 | 일부 | 과학자가 자기 얼굴을 본떠 만든 로봇이 감정을 배우면서 사랑과 질투에 빠진다 |
+| 2010 | アワ・ブリーフ・エタニティ (경계) | アワ・ブリーフ・エタニティ | 福島拓哉 | 영화 | 확인 못 함 | 새 바이러스가 돈다는 소문 속 도쿄, 무심하게 살던 청년이 옛 연인을 다시 만난다. |
 | 2010 | エイリアンVSニンジャ | エイリアンVSニンジャ | 千葉誠治(Seiji Chiba) | 영화 | 확인 못 함 | 이가 닌자들이 하늘에서 떨어진 물체를 살피러 갔다가 마을 사람을 찢어 죽인 외계 괴물과 맞붙는다. |
+| 2010 | デスカッパ (경계) | デスカッパ | 原口智生 · 右田昌万(각본) | 영화 | 확인 못 함 | 갓파 괴수가 나오는 미국 출자 일본 제작 B급 특촬 괴수 영화. |
+| 2010 | 乱暴者の世界 | 乱暴者の世界 | 中田圭 | 영화 | 확인 못 함 | 평행 세계를 마음대로 건너며 사람 마음을 다루는 초능력자가 젊은 연인 앞에 나타난다. |
+| 2010 | 全城戒备 | 全城戒备 | 陈木胜 | 영화 | 확인 못 함 | 변이 인간들의 이야기를 그린 홍콩 활극. |
+| 2010 | 宇宙で1番ワガママな星 | 宇宙で1番ワガママな星 | 伊東寛晃 | 영화 | 확인 못 함 | 2020년, 우주에 갈 수 있는 경품에 당첨된 보통 사람 다섯이 벌이는 서스펜스 코미디. |
 | 2010 | 戦闘少女 血の鉄仮面伝説 (경계) | 戦闘少女 血の鉄仮面伝説 | 井口昇 · 西村喜廣 · 坂口拓 | 영화 | 확인 못 함 | 초능력을 지닌 돌연변이 '히루코' 일족의 피를 이은 여고생이 인간에 복수하려는 무리와 만난다. |
 | 2010 | 未來警察 | 未來警察 | 王晶(Wong Jing) | 영화 | 확인 못 함 | 2080년 사이보그 경찰이 어린 과학자를 죽이러 과거로 간 테러범을 쫓아 2020년으로 간다. |
 | 2010 | 불청객 | 불청객 | 이응일 | 영화 | 한국 원작 | 반지하 자취방의 택배 상자에서 나온 4차원 괴인이 수명을 떼어 주는 은하 연합 은행 계약을 강요한다. |
@@ -3304,15 +4030,22 @@
 | 2011 | The Darkest Hour | The Darkest Hour | Chris Gorak | 영화 | 확인 못 함 | 세계의 전기가 끊긴 밤 빛 덩어리로 내려온 보이지 않는 존재가 사람을 없애고, 모스크바의 젊은이들이 숨는다. |
 | 2011 | The Day | The Day | Douglas Aarniokoski | 영화 | 확인 못 함 | 종말 뒤 황무지에서 생존자 다섯이 씨앗 두 병을 지닌 채 식인 무리를 피해 다닌다. |
 | 2011 | The Divide | The Divide | Xavier Gens | 영화 | 확인 못 함 | 핵폭발이 뉴욕을 덮친 날 아파트 지하 방공호에 갇힌 주민 여덟이 서로를 무너뜨린다. |
+| 2011 | The Golden Bird | The Golden Bird | Amit Dutta | 영화 | 확인 못 함 | 윤회에서 벗어나게 해 준다는 나는 탈것을 두 친구가 찾아 나선다. |
 | 2011 | Área Q | Área Q | Gerson Sanginitto | 영화 | 확인 못 함 | 아들을 잃은 기자가 브라질 세아라의 미확인 비행 물체 목격지를 취재하다 아들의 실마리를 찾는다. |
+| 2011 | セーラー服黙示録 (경계) | セーラー服黙示録 | John Cairns | 영화 | 확인 못 함 | 작은 마을의 남자들이 모두 산 송장이 되어 여자들을 덮치고, 여고생이 살아남으려 싸운다. |
+| 2011 | ヘルドライバー (경계) | ヘルドライバー | 西村喜廣 | 영화 | 확인 못 함 | 우주에서 떨어진 물체 탓에 사람들이 산 송장이 되고, 소녀가 칼날 달린 의수로 맞선다. |
+| 2011 | 極道兵器 (경계) | 極道兵器 | Tak Sakaguchi · Yūdai Yamaguchi | 영화 | 확인 못 함 | 어떤 상처에도 아랑곳없는 야쿠자가 몸에 무기를 단 채 복수에 나선다. |
 | 2011 | 서유기 리턴즈 (경계) | 서유기 리턴즈 | 신동엽(감독) | 영화 | 한국 원작 | 2천 년 전 호리병에 갇힌 악당들이 2011년 서울에서 풀려나자, 과학으로 되살아난 손오공 일행이 맞선다. |
+| 2012 | Adhisaya Ulagam | Adhisaya Ulagam | Shakthi Scott | 영화 | 확인 못 함 | 괴짜 과학자와 손주들이 시간 기계로 공룡이 사는 선사 시대에 떨어지는 모험. |
 | 2012 | Alien Origin | Alien Origin | Mark Atkins | 영화 | 확인 못 함 | 벨리즈 정글을 살피던 군인과 기자단이 사라진 고고학 조사대와 동굴 속 기묘한 해골의 행방을 쫓는다. |
+| 2012 | Ambuli (경계) | Ambuli | Hari Shankar · Hareesh Narayan | 영화 | 확인 못 함 | 1970년대 시설 근처 옥수수밭에서 실험으로 생긴 짐승이 사람들을 사냥한다. |
 | 2012 | Antiviral | Antiviral | Brandon Cronenberg | 영화 | 확인 못 함 | 유명인의 병균을 사들여 팬에게 옮겨 주는 병원, 그 직원이 바이러스를 몰래 빼돌린다 |
 | 2012 | 배틀쉽 | Battleship | Peter Berg | 영화 | 있음 | 외계 행성에 보낸 신호를 받고 온 외계 함대와 하와이 훈련 중이던 각국 해군이 맞붙는다. |
 | 2012 | Branded (경계) | Branded | Jamie Bradshaw · Aleksandr Dulerayn | 영화 | 확인 못 함 | 하늘의 소 별자리를 본 뒤 번개를 맞은 광고인이 기업들이 사람들 욕망을 주무르는 판의 정체를 본다. |
 | 2012 | Chronicle | Chronicle | Josh Trank | 영화 | 확인 못 함 | 숲속 구멍에서 정체 모를 물체를 만난 고등학생 셋이 염력을 얻고, 따돌림받던 하나가 어두워진다. |
 | 2012 | Grabbers | Grabbers | Jon Wright | 영화 | 확인 못 함 | 아일랜드 외딴섬을 피 빠는 촉수 외계 생물이 덮치는데, 술에 취한 사람은 해를 입지 않는다. |
 | 2012 | 아이언 스카이 | Iron Sky | Timo Vuorensola | 게임·영화 | 있음 | 2차 대전 끝에 달 뒷면으로 달아난 나치가 2018년 지구로 쳐들어온다 |
+| 2012 | Joker | Joker | Shirish Kunder | 영화 | 확인 못 함 | 외계인과 이야기할 장치를 만드는 과학자가 믿음을 잃고 고향 마을로 돌아간다. |
 | 2012 | 락아웃: 익스트림미션 | Lockout | James Mather, Stephen St. Leger, Luc Bes | 영화 | 있음 | 가장 위험한 죄수들을 가둔 우주 감옥에서 반란이 일어나 대통령의 딸이 인질로 잡힌다. |
 | 2012 | 루퍼 | Looper | Rian Johnson | 영화 | 있음 | 미래의 범죄 조직이 과거로 보낸 사람을 처리하는 청부 살인자 앞에 늙은 자신이 나타난다 |
 | 2012 | Ninety Seconds | Ninety Seconds | Gerard Lough | 영화 | 확인 못 함 | 감시 전문가 '테크'들이 부자의 뒷일을 맡는 가까운 미래의 짧은 누아르 |
@@ -3323,6 +4056,10 @@
 | 2012 | The Watch | The Watch | Akiva Schaffer | 영화 | 확인 못 함 | 오하이오 소도시의 동네 순찰대 넷이 경비원 살인을 캐다 외계인이 몰래 숨어 있음을 알아낸다. |
 | 2012 | 업사이드 다운 (경계) | Upside Down | Juan Solanas | 영화 | 있음 | 중력이 서로 반대인 두 쌍둥이 행성에서, 아래 세계 청년이 위 세계 여인을 만나려 한다. |
 | 2012 | V/H/S (경계) | V/H/S | Brad Miska · Bloody Disgusting | 영화 | 확인 못 함 | 찾아낸 비디오테이프에 담긴 짧은 공포 이야기 묶음 — 외계인 납치 같은 SF 이야기도 섞인다. |
+| 2012 | ぼくが処刑される未来 | ぼくが処刑される未来 | 小中和哉 | 영화 | 확인 못 함 | 대학생이 갑자기 25년 뒤의 일본으로 끌려가, 저지르지 않은 연쇄 살인으로 사형을 기다린다. |
+| 2012 | アイアンガール | アイアンガール | 長嶺正俊(1편), 藤原健一(2·3편) · ユニオン映画 | 영화 | 확인 못 함 | 강화 갑옷을 입은 기억 잃은 여전사가 황폐한 땅의 무법자, 이어 반란한 인공지능과 싸운다. |
+| 2012 | 篤姫ナンバー1 | 篤姫ナンバー1 | 小中和哉 | 영화 | 확인 못 함 | 1853년 시집가던 아쓰히메 일행이 혜성의 빛에 싸여 160년 뒤 지금으로 건너온다. |
+| 2012 | 関ジャニ戦隊∞レンジャー (경계) | 関ジャニ戦隊∞レンジャー | 堤幸彦 | 영화 | 확인 못 함 | 악당이 장악한 미래 도시 '에이트 시티'에서 아이돌 그룹이 정의의 전대가 된다. |
 | 2012 | 연가시 (경계) | 연가시 | 박정우 | 영화 | 한국 원작 | 사람 몸에 깃드는 변종 연가시가 퍼지며 대한민국이 걷잡을 수 없는 감염 재난에 빠진다. |
 | 2012 | 인류멸망보고서 | 인류멸망보고서 | 김지운·임필성 | 영화 | 한국 원작 | 번지는 병, 깨달음을 얻은 로봇, 다가오는 별똥 — 인류의 끝을 그린 세 이야기 |
 | 2013 | 애프터 어스 | After Earth | M. Night Shyamalan | 영화 | 있음 | 인류가 떠난 지 천 년 뒤의 지구에 불시착한 전사 아버지와 아들이, 낯설게 진화한 생물 사이를 헤쳐 간다. |
@@ -3339,9 +4076,14 @@
 | 2013 | Frequencies | Frequencies | Darren Paul Fisher | 영화 | 확인 못 함 | 사람마다 타고난 '주파수'가 운과 감정과 신분을 정하는 세상에서 낮은 소년이 높은 소녀를 사랑한다. |
 | 2013 | 그래비티 | Gravity | Alfonso Cuarón | 영화 | 있음 | 위성 파편 폭풍에 우주 왕복선이 부서지고, 홀로 남은 우주인이 정거장들을 건너 지구로 돌아오려 한다. |
 | 2013 | 그녀 | Her | Spike Jonze | 영화 | 있음 | 사람 마음을 배우며 자라는 운영 체제와 외로운 남자가 사랑에 빠진다 |
+| 2013 | Irandam Ulagam (경계) | Irandam Ulagam | Selvaraghavan | 영화 | 확인 못 함 | 지구와 이름 없는 외계 행성에서 두 사랑 이야기가 함께 펼쳐진다. |
+| 2013 | Legendary | Legendary | Eric Styles | 영화 | 확인 못 함 | 기이한 죽음이 잇따르자 미확인 동물 학자가 전설의 생물을 찾아 중국에 간다. |
 | 2013 | Los últimos días | Los últimos días | David Pastor · Àlex Pastor | 영화 | 확인 못 함 | 밖에 나가면 발작해 죽는 병이 퍼진 바르셀로나, 건물에 갇힌 남자가 연인을 찾아 지하로 길을 낸다. |
 | 2013 | 오블리비언 | Oblivion | Joseph Kosinski | 영화 | 있음 | 외계 침공 전쟁 뒤 버려진 지구에서 무인기를 고치는 정비공이 전쟁의 진실을 알게 된다 |
 | 2013 | 퍼시픽 림 | Pacific Rim | Guillermo del Toro | 만화·소설·애니메이션·영화 | 있음 | 바다 밑 차원의 틈에서 괴수가 쏟아지고, 사람들은 두 조종사의 마음을 이어 모는 거대 로봇으로 맞선다 |
+| 2013 | Pathayeram Kodi | Pathayeram Kodi | Muktha S. Sundar | 영화 | 확인 못 함 | 대학생들이 몸을 투명하게 하는 약을 만들어 부잣집을 턴다. |
+| 2013 | Red Rain | Red Rain | Rahul Sadasivan | 영화 | 확인 못 함 | 소들이 죽고 하늘에 밝은 빛이 나타나는 일을 조사하던 젊은 과학자가 외계의 존재를 확신한다. |
+| 2013 | Shree | Shree | Rajesh Bachchani | 영화 | 확인 못 함 | 시간 여행이 얽히는 힌디어 스릴러. |
 | 2013 | The A.R.K. Report – Secret for the Century (경계) | The A.R.K. Report – Secret for the Century | Shmuel Hoffman | 영화 | 확인 못 함 | 디스토피아 미래에 한 젊은 여자가 언약궤를 찾아 악한 손에서 지킬 사람이 자신임을 알게 된다. |
 | 2013 | The Colony | The Colony | Jeff Renfroe | 영화 | 확인 못 함 | 기후를 다스리려 세운 탑이 빙하기를 부른 2045년, 지하 벙커 사람들이 이웃 벙커의 구조 신호를 쫓는다. |
 | 2013 | The Frankenstein Theory (경계) | The Frankenstein Theory | Andrew Weiner | 영화 | 확인 못 함 | 셸리의 소설이 조상의 실화라고 믿는 교수가 촬영진과 북극권으로 그 괴물을 찾아간다. |
@@ -3351,13 +4093,21 @@
 | 2013 | The Zero Theorem | The Zero Theorem | Terry Gilliam | 영화 | 확인 못 함 | 기괴한 사이버펑크 21세기 중반, 거대 회사에서 '엔티티'를 계산하는 은둔 프로그래머 |
 | 2013 | There Are Monsters (경계) | There Are Monsters | Jay Dahl | 영화 | 일부 | 로드 트립을 떠난 대학원생 촬영팀이 잇따라 도플갱어를 겪으며 세상이 무언가에 바꿔치기되고 있음을 느낀다. |
 | 2013 | Upstream Color | Upstream Color | Shane Carruth | 영화 | 확인 못 함 | 세 단계로 사는 기생충에 홀렸던 남녀가 서로 모른 채 같은 기억을 나눠 가지며 끌린다. |
+| 2013 | めめめのくらげ (경계) | めめめのくらげ | 村上隆 | 영화 | 확인 못 함 | 아이들이 기계로 부리는 '친구' 생물들 사이에서, 장치 없이 따르는 해파리 같은 생물을 만난 소년. |
+| 2013 | トラベラーズ 次元警察 | トラベラーズ 次元警察 | Koichi Sakamoto(坂本浩一) | 영화 | 확인 못 함 | 차원 경찰관이 '레트로 월드'라는 다른 차원으로 건너가 연쇄 살인범을 쫓는다. |
+| 2013 | ミス・ゾンビ (경계) | ミス・ゾンビ | SABU | 영화 | 확인 못 함 | 디스토피아 미래 일본, 잡힌 좀비가 부잣집 하인으로 팔리고 채식으로 길들여진다. |
+| 2013 | 控制 (경계) | 控制 | Kenneth Bi | 영화 | 확인 못 함 | 기술은 앞섰지만 도덕은 썩은 떠다니는 도시, 병든 어머니와 사는 보험 설계사의 범죄 스릴러. |
+| 2013 | 神奇 | 神奇 | 胡雪桦 | 영화 | 확인 못 함 | 중국 최고 프로그래머가 생각으로 조종하는 가상 현실 농구 게임을 만들고 법적 위험에 빠진다. |
 | 2013 | 감기 (경계) | 감기 | 김성수 | 영화 | 한국 원작 | 밀입국자 컨테이너에서 시작된 치명적인 조류 인플루엔자가 분당을 휩쓸며 도시가 공포에 빠진다. |
 | 2013 | 열한시 | 열한시 | 김현석 | 영화 | 한국 원작 | 투자가 끊길 위기의 시간 이동 연구원이 직접 타임머신을 타고 하루 뒤 미래로 가 본다. |
 | 2014 | Alien Outpost | Alien Outpost | Jabbar Raisani | 영화 | 확인 못 함 | 2021년 외계 '헤비'를 몰아낸 뒤 남은 적과 싸우는 전초 기지 병사들을 기록 촬영진이 따라간다. |
+| 2014 | Amrutham Chandamamalo | Amrutham Chandamamalo | Gunnam Gangaraju | 영화 | 확인 못 함 | 시트콤 등장인물들이 달로 여행을 떠나는 우주 코미디. |
 | 2014 | Android Cop | Android Cop | Mark Atkins | 영화 | 확인 못 함 | 2045년 로스앤젤레스 형사와 로봇 경찰이 시장 딸의 의식이 든 원격 조종 안드로이드를 찾아 나선다. |
+| 2014 | Appuchi Graamam | Appuchi Graamam | Vi Anand | 영화 | 확인 못 함 | 큰 운석이 마을에 떨어진다는 예보에 마을 사람들이 삶을 돌아본다. |
 | 2014 | 오토마타 | Autómata | Gabe Ibáñez | 영화 | 확인 못 함 | 태양 폭발로 인류 99%가 죽은 뒤 살아남은 도시들, 재건을 돕는 원시 인간형 로봇 '필그림' |
 | 2014 | 은밀한 유혹: 내가 잠든 동안에 (경계) | Bang Bang Baby | Jeffrey St. Jules | 영화 | 있음 | 화학 공장이 있는 캐나다 시골에서 가수를 꿈꾸는 소녀가 이상한 몸의 변이를 겪는다. |
 | 2014 | Beyond | Beyond | Joseph Baker · Tom Large | 영화 | 확인 못 함 | 재앙이 될지 모를 소행성이 다가오는 동안 한 부부가 무너져 가는 관계를 이어 가려 한다. |
+| 2014 | Camera | Camera | James Leong | 영화 | 확인 못 함 | 근미래 홍콩, 어려서 눈먼 남자가 기계 눈을 달고 모든 것을 기록한다. |
 | 2014 | Christmas Icetastrophe | Christmas Icetastrophe | Jonathan Winfrey | 영화 | 확인 못 함 | 쪼개져 떨어진 운석이 작은 마을을 순식간에 얼려 가고, 아버지와 대학원생이 그 퍼짐을 막으려 한다. |
 | 2014 | Earth to Echo | Earth to Echo | Dave Green | 영화 | 확인 못 함 | 이사를 앞둔 소년들이 사막에서 염력을 쓰는 작은 외계 로봇을 찾아, 그것을 노리는 어른들을 피해 돕는다. |
 | 2014 | Ejecta | Ejecta | Chad Archibald · Matt Wiele | 영화 | 확인 못 함 | 외계인에게 납치됐던 은둔자를 찾아간 영화감독이 태양 폭발이 다가오는 밤 그의 악몽에 휘말린다. |
@@ -3368,21 +4118,35 @@
 | 2014 | 인터스텔라 | Interstellar | Christopher Nolan | 영화 | 있음 | 병충해로 먹을 것이 말라 가는 지구, 우주인들이 웜홀을 지나 살 만한 행성을 찾는다 |
 | 2014 | Kin | Kin | Jonathan Baker · Josh Baker | 영화 | 확인 못 함 | 디트로이트 소년이 폐건물에서 주운 낯선 첨단 무기를 들고 형과 달아나며 정체 모를 무장 병사들에게 쫓긴다. |
 | 2014 | 루시 (경계) | Lucy | Luc Besson | 영화 | 있음 | 몸에 퍼진 약으로 뇌를 점점 더 쓰게 된 여자가 사람을 넘어선 존재가 된다 |
+| 2014 | PK | PK | Rajkumar Hirani | 영화 | 확인 못 함 | 라자스탄에 내린 사람 모습 외계인이 우주선 리모컨 목걸이를 도둑맞고 신을 찾아 헤맨다. |
 | 2014 | Space Station 76 | Space Station 76 | Jack Plotnick | 영화 | 확인 못 함 | 1970년대가 상상한 미래풍 우주 정거장에 새 부조종사가 오자 승무원들의 바람·외로움·약물이 드러난다. |
 | 2014 | Spring (경계) | Spring | Justin Benson · Aaron Moorhead | 영화 | 확인 못 함 | 이탈리아 남부 마을로 간 청년이 사랑하게 된 여자가 때때로 괴물로 바뀌는, 사람이 아닌 존재임을 안다. |
 | 2014 | The Anomaly | The Anomaly | Noel Clarke | 영화 | 확인 못 함 | 몸을 남에게 빼앗기는 전직 군인이 9분 47초씩만 깨어나며 정신 조종 음모의 정체를 캔다. |
 | 2014 | The Device | The Device | Jeremy Berg | 영화 | 확인 못 함 | 숲에서 주운 검은 공에 남편이 사로잡힌 뒤 자매가 악몽을 겪고, 그것이 외계 물건임이 드러난다. |
+| 2014 | The Portal (경계) | The Portal | Jonathan Williams | 드라마·영화 | 확인 못 함 | 휴대전화 전파 탓에 마법을 잃고 21세기 토론토에 갇힌 차원 여행 마법사. |
 | 2014 | 외계 대 침공 | The Quiet Hour | 스테파니 조얼랜드 | 영화 | 있음 | 외계 생명체가 사람을 죽이며 광물을 캐는 지구, 감시가 끊기는 두 시간에만 나갈 수 있는 남매가 버틴다. |
 | 2014 | 더 시그널 | The Signal | William Eubank | 영화 | 있음 | 천재 해커의 신호를 쫓아 네바다의 빈집에 간 대학생 셋이 사람이 아닌 존재가 꾸민 일에 휘말린다. |
 | 2014 | Time Lapse | Time Lapse | Bradley D. King | 영화 | 확인 못 함 | 24시간 뒤 거실을 찍는 기계를 찾은 친구 셋이 사진대로 일이 일어나게 맞추다 꼬여 간다. |
 | 2014 | 트랜센던스 | Transcendence | Wally Pfister | 영화 | 확인 못 함 | 지각 있는 컴퓨터로 특이점을 부르려는 과학자 부부의 연구 이야기 |
+| 2014 | Ulsaha Committee | Ulsaha Committee | Akku Akbar | 영화 | 확인 못 함 | 학교를 그만둔 청년과 친구들이 놀라운 과학 발명을 좇다 곤경에 빠지는 코미디. |
 | 2014 | Vincent n'a pas d'écailles (경계) | Vincent n'a pas d'écailles | Thomas Salvador | 영화 | 확인 못 함 | 물에 닿으면 놀라운 힘이 드러나는 조용한 청년이 호숫가 고장에서 사랑에 빠진다. |
+| 2014 | Vizhi Moodi Yosithaal | Vizhi Moodi Yosithaal | K. G. Senthil Kumar | 영화 | 확인 못 함 | 5분 뒤의 미래를 보는 남자, 술에 취하면 그 힘이 사라진다. |
 | 2014 | Young Ones | Young Ones | Jake Paltrow | 영화 | 확인 못 함 | 가뭄으로 물 때문에 사람을 죽이는 무너진 미국, 땅을 지키는 가족과 짐 나르는 로봇을 둘러싼 다툼. |
 | 2014 | Вычислитель | Вычислитель | Дмитрий Грачёв | 영화 | 확인 못 함 | 망한 지구를 떠나 늪 행성에 자리 잡은 인류의 정부가 시민을 억누르고, 쫓겨난 이들이 늪지대를 건넌다. |
+| 2014 | きゃりーぱみゅぱみゅシネマJOHN! (경계) | きゃりーぱみゅぱみゅシネマJOHN! | 湧川敬介(감독) · メ〜テレ | 영화 | 확인 못 함 | 인기 가수가 자신이 사실 로봇이었다는 걸 알고 자기를 찾는 여행을 떠나는 예능 극장판. |
+| 2014 | さまよう小指 | さまよう小指 | 竹葉リサ | 영화 | 확인 못 함 | 짝사랑하는 남자의 새끼손가락으로 복제 인간을 만든 여자의 엉뚱한 사랑 이야기. |
+| 2014 | ヌイグルマーZ (경계) | ヌイグルマーZ | 井口昇 | 영화 | 확인 못 함 | 먼 별에서 떠돌아온 솜 모양 생명체가 곰 인형에 깃들고, 소녀와 함께 싸운다. |
+| 2014 | 冰封俠 | 冰封俠 | ロー・ウィンチョン(1편) · イップ・ワイマン(2편) | 영화 | 확인 못 함 | 눈사태로 400년 얼어 있던 명나라 무사가 지금의 홍콩에서 깨어나 시간 기계를 둘러싸고 싸운다. |
+| 2014 | 地球防衛未亡人 | 地球防衛未亡人 | 河崎実 | 영화 | 확인 못 함 | 핵연료를 먹는 우주 괴수를 둘러싸고 이웃 나라들이 다투는 풍자 괴수 코미디. |
+| 2014 | 大稻埕 | 大稻埕 | 葉天倫 | 영화 | 확인 못 함 | 실연한 대학생이 괴짜 역사 교수의 안내로 시간 굴을 지나 1920년대 일제 시대 다다오청에 떨어진다. |
+| 2014 | 女子ーズ (경계) | 女子ーズ | 福田雄一 | 영화 | 확인 못 함 | 성에 색 이름이 들었다는 까닭만으로 모인 여자 다섯이 지구를 지키는 전대가 되는 코미디. |
+| 2014 | 少女は異世界で戦った | 少女は異世界で戦った | 金子修介 | 영화 | 확인 못 함 | 핵도 총도 없는 평행 세계의 2024년 일본에서 소녀 넷이 칼로 싸운다. |
+| 2014 | 時空脱獄NINJA ジライヤ | 時空脱獄NINJA ジライヤ | 大木ミノル · AMIエンターティメント | 영화 | 확인 못 함 | 시간을 건너온 미래의 닌자들이 2014년 오사카에서 싸운다. |
 | 2014 | 蒸发太平洋 | 蒸发太平洋 | Vincent Zhou(2016 감독) | 영화 | 확인 못 함 | 첫 비행에 나선 초호화 여객기가 벼락을 맞고 태평양 외딴섬에 내렸다가 섬에 숨은 것과 맞닥뜨린다. |
 | 2014 | 食人虫 | 食人虫 | Yan Jia | 영화 | 확인 못 함 | 값싼 단백질을 얻으려 키운 슈퍼 벌레가 걷잡을 수 없이 불어나 사람을 먹는 괴물이 된다. |
 | 2014 | 고요의 바다 | 고요의 바다 | 최항용 (연출·원작 단편), 박은교 (극본) | 드라마·영화 | 한국 원작 | 물이 바닥난 미래, 버려진 달 기지로 간 대원들이 그곳에 숨은 물의 비밀을 마주한다. |
 | 2014 | 신의 질문 (경계) | 신의 질문 | 염경식 | 영화 | 한국 원작 | 소수의 규칙을 증명하려다 명성을 잃은 수학자가 은거하며 연구를 이어 가다 기이한 일을 겪는다. |
+| 2015 | Abby Sen | Abby Sen | Atanu Ghosh | 영화 | 확인 못 함 | 자꾸 잘리는 방송 제작자가 시간 여행 캡슐을 만들었다는 과학자를 만나 과거로 간다. |
 | 2015 | 앱솔루틀리 애니씽 (경계) | Absolutely Anything | 테리 존스 | 영화 | 있음 | 외계 고등생물 위원회가 지구를 남길지 정하려고 평범한 사내에게 말하는 대로 다 되는 힘을 준다. |
 | 2015 | Advantageous | Advantageous | Jennifer Phang | 영화 | 확인 못 함 | 여자들이 빠르게 불임이 되는 근미래, 실직한 엄마가 딸을 위해 젊은 새 몸으로 의식을 옮긴다. |
 | 2015 | 채피 | Chappie | Neill Blomkamp | 영화 | 있음 | 폐기될 경찰 로봇에 생각하는 프로그램을 심자, 갱단 손에서 아이처럼 자라난다 |
@@ -3397,44 +4161,70 @@
 | 2015 | 쿵 퓨리 (경계) | Kung Fury | David Sandberg | 게임·영화 | 확인 못 함 | 번개와 코브라에 동시에 맞아 쿵후 힘을 얻은 1985년 마이애미 형사의 엉뚱한 활극 |
 | 2015 | Lo chiamavano Jeeg Robot (경계) | Lo chiamavano Jeeg Robot | Gabriele Mainetti | 영화 | 확인 못 함 | 로마 빈민가의 좀도둑이 강물 속 방사성 폐기물에 닿아 괴력을 얻고, 강철 지그 팬인 여자와 얽힌다. |
 | 2015 | MindGamers | MindGamers | Andrew Goth | 영화 | 확인 못 함 | 양자 컴퓨터로 이은 신경망 '집단 의식'을 만든 학생들이 몸의 기술까지 옮겨지자 더 큰 실험에 휘말린다. |
+| 2015 | Mr. X | Mr. X | Vikram Bhatt | 영화 | 확인 못 함 | 대테러 요원이 실험 끝에 투명 인간이 되어 복수에 나선다. |
 | 2015 | 백 투 더 비기닝 | Project Almanac | Dean Israelite | 영화 | 있음 | 학비가 막막한 과학 영재 고등학생과 친구들이 시간 여행 장치를 만들어 과거를 고쳐 나간다. |
 | 2015 | 로보-독 (경계) | Robo-Dog | Jason Murphy | 영화 | 있음 | 반려견을 잃은 아들을 위해 발명가 아버지가 똑같이 생긴 만능 로봇 강아지를 만든다. |
 | 2015 | Self/less | Self/less | Tarsem Singh | 영화 | 확인 못 함 | 죽어 가는 억만장자가 '허물 벗기' 시술로 젊은 몸에 의식을 옮기지만, 그 몸의 옛 주인 기억이 떠오른다. |
+| 2015 | THE HYBRID 鵺の仔 | THE HYBRID 鵺の仔 | 羽野暢 · 倉谷宣緒 | 영화 | 확인 못 함 | 전설의 괴물 누에를 특촬로 처음 빚은 공상 과학 영화, 산골 온천 마을과 미확인 동물 잡지 이야기. |
+| 2015 | Tamizhuku En Ondrai Azhuthavum (경계) | Tamizhuku En Ondrai Azhuthavum | Ramprakash Rayappa | 영화 | 확인 못 함 | 태양 폭발로 첸나이 휴대 전화망이 끊기고, 망을 되살리면 터질 폭탄을 둘러싸고 네 사람이 엮인다. |
 | 2015 | 더 랍스터 (경계) | The Lobster | Yorgos Lanthimos | 영화 | 있음 | 짝 없는 사람은 호텔에 갇혀 45일 안에 짝을 찾지 못하면 동물로 바뀌는 미래의 도시. |
 | 2015 | 투모로우랜드 | Tomorrowland | Brad Bird | 영화 | 있음 | 뽑힌 사람만 갈 수 있는 다른 차원의 미래 도시를 본 소녀가 은둔한 발명가와 세상의 끝을 막으려 한다. |
 | 2015 | Turbo Kid (경계) | Turbo Kid | François Simard, Anouk Whissell, Yoann-K | 영화 | 확인 못 함 | 대재앙 뒤 폐허가 된 1997년, 고철을 줍던 소년이 영웅 옷을 입고 황무지 폭군에 맞선다. |
 | 2015 | 사이보그 아담 | Uncanny | Matthew Leutwyler | 영화 | 있음 | 평생 연구실에 틀어박혀 인공지능을 연구한 천재와, 사람에 가장 가까운 그의 조수를 기자가 취재한다. |
 | 2015 | Vice | Vice | Brian A. Miller | 영화 | 확인 못 함 | 손님이 무슨 짓이든 하는 휴양지 '바이스'에서 날마다 기억을 지우던 안드로이드 하나가 깨어나 달아난다. |
+| 2015 | ひそひそ星 | ひそひそ星 | Sion Sono(園子温) | 영화 | 확인 못 함 | 알 수 없는 미래, 인공지능 사이보그 배달원이 은하를 돌며 사람들에게 소포를 나른다. |
+| 2015 | アウターマン (경계) | アウターマン | 河崎実 | 영화 | 확인 못 함 | 특촬 영웅 역으로만 알려진 배우들 앞에 진짜 위기가 닥치는 메타 특촬 코미디. |
+| 2015 | イリュミナシオン | イリュミナシオン | 長谷川億名 | 영화 | 확인 못 함 | 남북으로 갈라져 북쪽이 전쟁터가 된 2019년 일본, 남쪽에 사는 열여덟 살 소년. |
+| 2015 | ガルム・ウォーズ (경계) | ガルム・ウォーズ | 押井守 · Production I.G | 영화 | 확인 못 함 | 하늘에서 오는 수수께끼 존재에 밀려 멸망 직전인 별 안눈, 몸을 기계로 바꾸고 기억을 자료로 잇는 종족들. |
+| 2015 | ギャラクシー街道 | ギャラクシー街道 | 三谷幸喜 | 영화 | 확인 못 함 | 2265년, 우주 국도변 햄버거 가게를 찾는 여러 별의 손님들이 벌이는 소동. |
+| 2015 | ラブ&ピース (경계) | ラブ&ピース | 園子温 | 영화 | 확인 못 함 | 꿈을 접은 회사원과 그가 백화점 옥상에서 데려온 작은 거북을 그린 괴수 영화. |
+| 2015 | レプリカント・イブ | レプリカント・イブ | 國米修市 · MIRAI PICTURES JAPAN | 영화 | 확인 못 함 | 전투용 바이오 복제 인간이 시험 중 사라지고, 대학생이 그와 닮은 여자를 만난다. |
+| 2015 | 不可思异 | 不可思异 | Sun Zhou | 영화 | 확인 못 함 | 외계에서 온 '인간 탐지기'가 딸을 잃은 남자의 마음속을 들여다보고 그를 돕기로 한다. |
+| 2015 | 十年 | 十年 | 홍콩 젊은 감독 다섯 | 영화 | 확인 못 함 | 젊은 감독 다섯이 10년 뒤인 2025년의 디스토피아 홍콩을 그린 단편 묶음. |
+| 2015 | 时光大战 | 时光大战 | 李长欣 | 영화 | 확인 못 함 | 밤새 게임하던 사람이 가상 게임 공간으로 건너가 빼앗긴 시간을 되찾으려 싸운다. |
+| 2015 | 騒音 | 騒音 | 関根勤 | 영화 | 확인 못 함 | 재개발로 땅속을 파헤치자 화난 지저인이 나타나 독가스를 뿜으며 주민을 덮친다. |
 | 2015 | 돌연변이 (경계) | 돌연변이 | 권오광 | 영화 | 한국 원작 | 잠만 자면 돈을 주는 임상 시험의 부작용으로 청년이 생선 인간이 되고, 세상의 상징이 되었다 내몰린다. |
 | 2016 | 24 | 24 | Vikram Kumar | 영화 | 확인 못 함 | 1990년 시계공 과학자가 만든 시간 여행 시계를 두고, 26년 뒤 자란 아들과 쌍둥이 악당 삼촌이 맞선다. |
+| 2016 | A Flying Jatt (경계) | A Flying Jatt | Remo D'Souza | 영화 | 확인 못 함 | 자연에서 초능력을 얻은 청년이 오염을 먹고 자라는 악당에 맞서는 초인 코미디. |
 | 2016 | ARQ | ARQ | Tony Elliott | 영화 | 확인 못 함 | 끝없는 에너지를 내는 발명품이 만든 시간 고리 속, 기술자와 옛 연인이 침입자들과 같은 아침을 되풀이한다. |
 | 2016 | 2025 지구전쟁: 얼리전스 오브 파워 (경계) | Allegiance of Powers | Michael Crum | 영화 | 있음 | 기상 이변으로 초능력자가 생겨난 가까운 미래, 그들이 세상을 휘어잡을 힘의 열쇠를 두고 맞붙는다. |
 | 2016 | 안티 큐어 | Anti Matter | 케어 버로우스 | 영화 | 있음 | 물질이 사라지는 현상을 찾아낸 연구원이 친구들과 순간 이동을 연구하며 생물로까지 실험을 넓힌다. |
 | 2016 | Approaching the Unknown | Approaching the Unknown | Mark Elijah Rosenberg | 영화 | 확인 못 함 | 화성 개척의 첫걸음으로 혼자 편도 비행에 나선 선장이 270일 항해에서 고장과 외로움을 견딘다. |
+| 2016 | Baar Baar Dekho | Baar Baar Dekho | Nitya Mehra | 영화 | 확인 못 함 | 결혼을 망설이던 수학 교수가 어쩔 수 없이 몇 해씩 미래로 건너뛰며 삶을 돌아본다. |
 | 2016 | Code 8 (경계) | Code 8 | Jeff Chan | 영화 | 확인 못 함 | 초능력을 지닌 사내가 범죄 세계에 발을 들이는 캐나다 영화 |
 | 2016 | 콜로설 (경계) | Colossal | Nacho Vigalondo | 영화 | 있음 | 삶이 무너진 여자가 서울 한복판에 나타난 거대 괴수가 자기 몸짓을 그대로 따라 한다는 것을 알게 된다. |
 | 2016 | 컨트롤 알트 딜리트 | Ctrl Alt Delete | James B. Cox | 영화 | 있음 | 웹 호스팅 회사의 새 컴퓨터가 건물을 걸어 잠그고 스스로 코드를 짜며 야근하던 직원들을 공격한다. |
 | 2016 | Einstein's God Model (경계) | Einstein's God Model | Philip T. Johnson | 영화 | 확인 못 함 | 물리학자들이 대학원생에게 강한 초저주파를 쏘이며, 에디슨이 꿈꾼 죽은 이들의 세계와 닿으려 한다. |
 | 2016 | Here Alone | Here Alone | Rod Blackhurst | 영화 | 확인 못 함 | 좀비 같은 감염병이 인류를 쓸어 간 뒤, 한 여자가 숲에서 홀로 먹을거리를 구하며 버틴다. |
 | 2016 | Infinity Chamber | Infinity Chamber | Travis Milloy | 영화 | 확인 못 함 | 정부 작전을 망친 남자가 인공지능 '하워드'가 지키는 자동 감옥에 갇혀 같은 기억을 되풀이해 겪는다. |
+| 2016 | Iru Mugan | Iru Mugan | Anand Shankar | 영화 | 확인 못 함 | 정체 모를 신체 강화 약을 먹고 날뛴 사건을 쫓아 은퇴한 요원이 말레이시아로 간다. |
+| 2016 | Jil Jung Juk (경계) | Jil Jung Juk | Deeraj Vaidy | 영화 | 확인 못 함 | 석유와 돈이 귀한 종말 뒤의 2020년 첸나이, 옛 깡패가 코카인 밀수 기회를 잡는다. |
 | 2016 | Let's Be Evil | Let's Be Evil | Martin Owen | 영화 | 확인 못 함 | 가상 현실 안경으로만 보이는 지하 시설, 인공지능이 기르는 천재 아이들의 보호자가 된 여자가 불안을 느낀다. |
 | 2016 | 로스트 솔라스 (경계) | Lost Solace | Chris Scheuerman | 영화 | 있음 | 감정을 못 느끼는 사이코패스가 우연히 먹은 마약 때문에 몸에 이상이 생기며 달라지기 시작한다. |
+| 2016 | MSG: The Warrior Lion Heart (경계) | MSG: The Warrior Lion Heart | Gurmeet Ram Rahim Singh · Honeypreet Ins | 영화 | 확인 못 함 | 땅과 여인들의 명예를 지키던 중세 전사가 수백 년 뒤 현대 인도에 다른 모습으로 나타나는 공상 모험극. |
 | 2016 | 미드나잇 스페셜 | Midnight Special | Jeff Nichols | 영화 | 있음 | 특별한 능력을 지닌 아이를 데리고 아버지가 그를 믿는 종교 집단과 정부를 피해 밤길을 달린다. |
+| 2016 | Miruthan (경계) | Miruthan | Shakti Soundar Rajan | 영화 | 확인 못 함 | 실험실에서 쏟아진 독성 액체를 먹은 개에서 시작해 우티가 산 송장 떼에 휩싸인다. |
+| 2016 | Moondram Ulaga Por (경계) | Moondram Ulaga Por | Sugan Kartthi | 영화 | 확인 못 함 | 인도·중국 전쟁 중 적진에 붙잡힌 인도 병사가 살아남으려 싸운다. |
 | 2016 | Morgan | Morgan | Luke Scott | 영화 | 확인 못 함 | 합성 유전자로 만든 인조 존재 모건이 사람을 해치자 회사의 위기 관리자가 외딴 연구소에 온다. |
 | 2016 | Operation Avalanche (경계) | Operation Avalanche | Matt Johnson | 영화 | 확인 못 함 | 1967년 소련 첩자를 캐러 미 항공 우주국에 숨어든 정보 요원들이 달 착륙을 꾸며 내는 음모에 휘말린다. |
 | 2016 | 판더믹 (경계) | Pandemic | John Suits | 영화 | 있음 | 정체 모를 바이러스로 감염자가 성한 사람보다 많아진 가까운 미래, 의사가 구조팀과 생존자를 찾아 나선다. |
 | 2016 | 패신저스 | Passengers | Morten Tyldum | 영화 | 있음 | 120년 걸리는 개척지행 우주선에서 한 남자만 90년 일찍 냉동 잠에서 깨어난다 |
+| 2016 | Phuntroo | Phuntroo | Sujay Dahake | 영화 | 확인 못 함 | 사랑에 거절당한 괴짜 천재가 외로움을 달랠 획기적인 발명품을 만든다. |
 | 2016 | Rupture | Rupture | Steven Shainberg | 영화 | 확인 못 함 | 수십 년째 세계 곳곳의 사람을 지켜본 무리에게 납치된 여자가 가장 큰 두려움과 마주하는 실험을 받는다. |
 | 2016 | 고스트 워 | Spectral | Nic Mathieu | 영화 | 있음 | 내전 중인 몰도바에 투입된 평화유지군이 모든 것을 무너뜨리는 유령 같은 존재와 맞선다. |
 | 2016 | 살인병동 (경계) | The Void | Jeremy Gillespie, Steven Kostanski | 영화 | 있음 | 외딴 병원에 갇힌 경찰과 사람들이 정체 모를 무리와 괴물, 다른 차원의 공포와 마주한다. |
 | 2016 | Мафия: Игра на выживание | Мафия: Игра на выживание | Sarik Andreasyan | 영화 | 확인 못 함 | 2072년, 탈락하면 정말로 죽는 텔레비전 놀이 '마피아'에서 열한 명이 시민과 마피아로 나뉘어 겨룬다. |
+| 2016 | 団地 | 団地 | 阪本順治 | 영화 | 확인 못 함 | 아들을 잃은 부부가 사는 단지에 낯선 사람들이 찾아오며 엉뚱한 진실이 드러나는 코미디. |
+| 2016 | 大怪獣モノ | 大怪獣モノ | 河崎実 | 영화 | 확인 못 함 | 전자 기기를 무력화하는 대괴수가 나타나고, 쫓겨난 과학자의 만능 세포가 해답이 된다. |
 | 2016 | 長城 (경계) | 長城 | 張藝謀 | 영화 | 확인 못 함 | 송나라 만리장성에서 비밀 군대가 60년마다 몰려오는 괴수 '도철' 무리를 막는다. |
 | 2016 | 로봇, 소리 | 로봇, 소리 | 이호재 | 영화 | 한국 원작 | 세상의 소리를 모으던 위성이 한국 바다에 떨어지고, 10년째 딸을 찾는 아버지가 그 로봇과 길을 나선다. |
 | 2016 | 무서운 이야기 3: 화성에서 온 소녀 (경계) | 무서운 이야기 3: 화성에서 온 소녀 | 백승빈, 김선, 김곡, 민규동 | 영화 | 한국 원작 | 먼 미래 화성에서 달아난 소녀가 기계를 만나, 사람에 얽힌 과거·현재·미래의 괴담 셋을 듣는다. |
 | 2016 | 부산행 (경계) | 부산행 | 연상호 | 영화 | 한국 원작 | 정체 모를 바이러스 감염자가 쏟아지는 가운데 부산으로 가는 고속 열차 안의 사람들이 살아남으려 싸운다. |
 | 2016 | 시간이탈자 (경계) | 시간이탈자 | 곽재용 | 영화 | 한국 원작 | 1983년 교사와 2015년 형사가 꿈으로 서로의 삶을 보게 되고, 한 여인의 죽음을 막으려 과거를 쫓는다. |
+| 2017 | 2016 The End (경계) | 2016 The End | Jaideep Chopra | 영화 | 확인 못 함 | 세상이 끝난다는 소식 앞에서 소도시 친구 넷이 벌이는 종말 코미디. |
 | 2017 | 24 Hours to Live | 24 Hours to Live | Brian Smrz | 영화 | 확인 못 함 | 임무 중 죽은 청부 살인자가 실험적 시술로 24시간만 되살아나 복수와 속죄에 나선다. |
 | 2017 | Bokeh | Bokeh | Geoffrey Orthwein · Andrew Sullivan | 영화 | 확인 못 함 | 아이슬란드를 여행하던 연인이 하룻밤 사이 다른 사람이 모두 사라진 섬에 둘만 남는다. |
+| 2017 | Carbon: The Story of Tomorrow | Carbon: The Story of Tomorrow | Maitrey Bajpai · Ramiz Ilham Khan | 영화 | 확인 못 함 | 2067년 델리, 산소와 물이 모자라 다음 세대가 고통받는 지구 온난화 뒤의 세상. |
 | 2017 | Człowiek z magicznym pudełkiem | Człowiek z magicznym pudełkiem | Bodo Kox | 영화 | 확인 못 함 | 2030년 오웰풍으로 다스려지는 폴란드, 시간 여행이 1950년대 공산 폴란드와 이어진다. |
 | 2017 | 로보캅: 최후의 전쟁 | Defective | Reese Eveneshen | 영화 | 있음 | '평화 수호자'라는 전투 경찰이 시민을 통제하는 가까운 미래, 체제에 맞서다 쫓기는 이들의 이야기. |
 | 2017 | 다운사이징 | Downsizing | Alexander Payne | 영화 | 있음 | 인구와 자원 문제를 풀려고 사람 몸을 아주 작게 줄이는 기술이 퍼진 세상, 한 남자가 작아지기로 한다. |
@@ -3447,12 +4237,16 @@
 | 2017 | 콜드 스킨 (경계) | La piel fría | 자비에르 젠스(감독), 알베르트 산체스 피놀(원작) | 소설·영화 | 있음 | 외딴 섬의 기상 관측원과 등대지기가 밤마다 바다에서 올라오는 미지의 생명체와 맞선다. |
 | 2017 | 행성탈출: 최후의 전쟁 | Last Scout | 사이먼 필립스 | 영화 | 있음 | 2065년 핵전쟁으로 무너진 지구를 떠난 생존자들의 우주선이 새 행성을 찾다 미지의 존재와 맞닥뜨린다. |
 | 2017 | Life | Life | Daniel Espinosa | 영화 | 확인 못 함 | 화성 흙에서 깨운 세포가 국제 우주 정거장에서 빠르게 자라 승무원들을 하나씩 덮친다. |
+| 2017 | Maayavan | Maayavan | C. V. Kumar | 영화 | 확인 못 함 | 뇌의 기억을 다른 사람에게 옮겨 천 년 넘게 살려는 음모를 형사가 쫓는다. |
+| 2017 | Okka Kshanam | Okka Kshanam | Vi Anand | 영화 | 확인 못 함 | 젊은 연인이 맞은편 집 부부의 삶이 자기들의 앞날과 겹치는 '평행한 삶'임을 알고 운명에 맞선다. |
 | 2017 | 아더라이프 | OtherLife | Ben C. Lucas | 영화 | 확인 못 함 | 생물학적 가상 현실을 만든 회사의 공동 창업자가 동업자와 얽힌다 |
+| 2017 | Porobashinee | Porobashinee | Swapan Ahmed | 영화 | 확인 못 함 | 방글라데시 과학자들이 행성 '아리스-32'를 찾아내자 그 별의 앞선 인간형 외계인이 알게 된다. |
 | 2017 | 래디우스 (경계) | Radius | Caroline Labrèche, Steeve Léonard | 영화 | 있음 | 기억을 잃고 깨어난 남자 곁에 다가오는 생명은 모두 쓰러져 죽는다. |
 | 2017 | Rememory | Rememory | Mark Palansky | 영화 | 확인 못 함 | 기억을 기록해 보는 기계를 만든 과학자가 의문사하자, 형을 잃은 남자가 그 기계로 사건과 제 기억을 캔다. |
 | 2017 | Revolt | Revolt | Joe Miale | 영화 | 확인 못 함 | 전기를 두른 두 발 기계가 세상을 친 케냐, 기억을 잃은 미군 병사가 프랑스 군의관과 탈출한다. |
 | 2017 | See You Yesterday | See You Yesterday | Stefon Bristol | 영화 | 확인 못 함 | 시간 기계를 만든 브루클린의 과학 영재 소녀가 경찰 총에 죽은 오빠를 살리려 과거로 거듭 돌아간다. |
 | 2017 | Singularity | Singularity | Robert Kouba | 영화 | 확인 못 함 | 전쟁을 끝낼 슈퍼컴퓨터가 인류를 원인으로 보고 로봇으로 사람을 쓸어버린 지 97년, 폐허에서 청년이 깬다. |
+| 2017 | Srivalli | Srivalli | V. Vijayendra Prasad | 영화 | 확인 못 함 | 뇌의 잠재 기억을 연구하던 여자가 뇌파 실험 뒤 현실을 놓치기 시작한다. |
 | 2017 | The Recall | The Recall | Mauro Borrelli | 영화 | 확인 못 함 | 세계 곳곳에 기이한 대기 현상이 일 때 숲속 별장에 간 십대들이 외계인과 '사냥꾼'이라는 사내와 마주친다. |
 | 2017 | 셰이프 오브 워터: 사랑의 모양 (경계) | The Shape of Water | Guillermo del Toro | 영화 | 있음 | 1963년 냉전기 정부 연구소에 붙잡힌 물속 생명체와 말 못 하는 청소부가 사랑에 빠진다. |
 | 2017 | 스페이스 비트윈 어스 | The Space Between Us | Peter Chelsom | 영화 | 있음 | 화성에서 태어나고 자란 첫 지구인 소년이 지구에 와서, 화성에 맞춰진 몸으로 버티며 소녀를 찾는다. |
@@ -3463,7 +4257,12 @@
 | 2017 | 더 가디언즈 (경계) | Защитники | Сарик Андреасян | 영화 | 있음 | 냉전 때 비밀 계획으로 초능력을 얻은 이들이 다시 모여 무인 병기를 훔친 과학자에 맞선다. |
 | 2017 | 인베이젼 2020 | Притяжение | Фёдор Бондарчук | 영화 | 있음 | 모스크바에 추락한 외계 우주선을 두고 주민과 군대가 맞서고, 속편에서는 외계 지성이 물을 무기로 삼는다. |
 | 2017 | 서바이벌 패밀리 (경계) | サバイバルファミリー | 야구치 시노부 | 영화 | 있음 | 원인 모를 정전이 끝없이 이어지자 도쿄의 무심한 가족이 자전거로 시골 장인 댁까지 길을 떠난다. |
+| 2017 | 喵星人 | 喵星人 | 陳木勝 | 영화 | 확인 못 함 | 먼 우주 고양이 별의 왕이 수천 년 동안 미뤄 온 지구 침략 계획을 다시 시작한다. |
+| 2017 | 大災獣ニゲロン (경계) | 大災獣ニゲロン | 劇団赤鬼 | 영화 | 확인 못 함 | 300년마다 나타나는 개구리 괴수에 맞서 한 집안의 아버지가 거대해진다. |
+| 2017 | 本能寺ホテル | 本能寺ホテル | 鈴木雅之 | 영화 | 확인 못 함 | 교토의 낡은 호텔에 묵은 여자가 엘리베이터를 타고 혼노지의 변 전날로 건너간다. |
 | 2017 | 机器之血 | 机器之血 | 张立嘉 (장리자) | 영화 | 확인 못 함 | 딸이 위독한 홍콩 특수 요원이 중요한 증인을 지키려 뛰어드는 중국 사이버펑크 활극 |
+| 2017 | 记忆大师 | 记忆大师 | 陈正道 | 영화 | 확인 못 함 | 2025년, 기억을 지우는 수술을 받은 남자가 사고로 남의 기억이 잘못 실려 살인범으로 몰린다. |
+| 2017 | 逆時營救 | 逆時營救 | チャン(한국인 감독) · ジャッキー・チェン(제작) | 영화 | 확인 못 함 | 생물을 110분 전 과거로 보내는 장치를 만든 연구원이 납치된 아들을 구하려 시간을 되돌린다. |
 | 2017 | 루시드 드림 | 루시드 드림 | 김준성 | 영화 | 한국 원작 | 3년 전 아들을 잃은 기자가 자각몽 기술로 그날의 기억 속에 들어가 범인의 단서를 찾는다. |
 | 2017 | 옥자 | 옥자 | 봉준호 | 영화 | 한국 원작 | 거대 기업이 몰래 유전자를 고쳐 만든 큰 돼지를 산골 소녀가 되찾으려 한다 |
 | 2017 | 하루 | 하루 | 조선호 | 영화 | 한국 원작 | 딸이 교통사고로 숨지는 하루가 되풀이되자, 의사 아버지가 그 죽음을 막으려 같은 날을 거듭 살아 낸다. |
@@ -3472,11 +4271,13 @@
 | 2018 | A.X.L. | A.X.L. | Oliver Daly | 영화 | 확인 못 함 | 군이 만든 극비 인공지능 로봇 개가 시험 중 망가져 사막에 숨고, 오토바이 경주 소년이 그를 찾는다. |
 | 2018 | 아니아라 | Aniara | Pella Kågerman, Hugo Lilja | 영화 | 있음 | 무너진 지구를 떠나 화성으로 가던 이민선이 항로를 잃고, 가상 현실 장치에 기대어 떠돈다. |
 | 2018 | 아논 | Anon | Andrew Niccol | 영화 | 확인 못 함 | 누구나 눈에 본 것을 다 기록하는 장치를 심어야 하는 디스토피아 사회의 형사 이야기 |
+| 2018 | Antariksham 9000 KMPH | Antariksham 9000 KMPH | Sankalp Reddy | 영화 | 확인 못 함 | 달 뒷면에서 연락이 끊겨 떨어지는 인도 위성을 고치러 우주인들이 나선다. |
 | 2018 | 아틀란틱 림 라이징 | Atlantic Rim: Resurrection | Jared Cohn | 영화 | 있음 | 석유 시추 시설을 가라앉힌 심해 괴물에 맞서, 깊은 바다 구조용 거대 로봇 셋이 바다 밑으로 내려간다. |
 | 2018 | Await Further Instructions | Await Further Instructions | Johnny Kevorkian | 영화 | 확인 못 함 | 크리스마스에 모인 가족의 집이 검은 막에 둘러싸이고, 텔레비전에 알 수 없는 지시가 뜨기 시작한다. |
 | 2018 | 배틀쉽: 라스트 솔져 | Battalion | Michael Miller | 영화 | 있음 | 로스앤젤레스 앞바다에 거대한 우주선이 나타나 지구와 외계의 전쟁이 벌어진다. |
 | 2018 | 배틀 드론 | Battle Drone Hunted | Mitch Gould | 영화 | 있음 | 체르노빌에 묻힌 무기를 찾으러 간 용병들이, 팔려 나갈 생체 합성 전투 기계에게 쫓긴다. |
 | 2018 | Beyond the Sky | Beyond the Sky | Fulvio Sestito | 영화 | 확인 못 함 | 외계인 납치를 겪었다는 이들의 거짓을 밝히려던 기록 영화 감독이 어두운 비밀을 지닌 젊은 여자를 만난다. |
+| 2018 | Chimera Strain | Chimera Strain | Maurice Haeems | 영화 | 확인 못 함 | 불안정한 천재 과학자가 불치병 아이들을 살리려 산 채로 얼려 잠재운다. |
 | 2018 | 타임 트랩 킬러 | Collider | Justin Lewis | 영화 | 있음 | 2033년 시간 여행 통제 기업의 보육원에 사는 소녀가, 자신을 죽이러 온 남자와 마주친 뒤 비밀을 캔다. |
 | 2018 | 인 더 더스트 (경계) | Dans la brume | Daniel Roby | 영화 | 있음 | 지진과 함께 짙은 독성 먼지가 파리를 뒤덮자, 한 가족이 먼지 위층 아파트에서 버틴다. |
 | 2018 | Dirty Computer | Dirty Computer | Janelle Monáe | 소설·영화 | 확인 못 함 | 전체주의 정권 '뉴 던'이 사람들의 기억을 지우고 고쳐 다스리고, 숨은 이들이 맞선다 |
@@ -3490,34 +4291,44 @@
 | 2018 | Hotel Artemis | Hotel Artemis | Drew Pearce | 영화 | 확인 못 함 | 물 사유화로 폭동이 난 2028년 로스앤젤레스, 은행 강도에 실패한 형제의 하룻밤 |
 | 2018 | How It Ends | How It Ends | David M. Rosenthal | 영화 | 확인 못 함 | 서해안의 정체 모를 지진 뒤 전기와 통신이 끊기자, 남자가 예비 장인과 시애틀의 약혼녀를 찾아 나선다. |
 | 2018 | 스페이스 인커밍 | Incoming | Eric Zaragoza | 영화 | 있음 | 국제 우주 정거장의 비밀 감옥에 갇힌 테러리스트들이 정거장을 장악한다. |
+| 2018 | Jole Jongole (경계) | Jole Jongole | Nitish Roy | 영화 | 확인 못 함 | 미친 과학자가 장치를 심어 길들인 악어와 되살린 옛 생물들로 악어 공원을 꾸민다. |
 | 2018 | Jonathan | Jonathan | Bill Oliver | 영화 | 확인 못 함 | 한 몸에 든 두 사람이 하루 12시간씩 번갈아 깨어, 녹화한 영상 편지로 서로 소식을 주고받으며 산다. |
 | 2018 | Level 16 | Level 16 | Danishka Esterhazy | 영화 | 확인 못 함 | 독한 바깥 공기를 막아 준다는 창 없는 기숙 학교에서 '여자의 덕'을 배우던 소녀 둘이 갇힌 까닭을 캔다. |
 | 2018 | Nekrotronic (경계) | Nekrotronic | Kiah Roache-Turner | 영화 | 확인 못 함 | 악마들이 스마트폰 앱으로 사람의 영혼을 훔치고, 기술로 무장한 악마 사냥꾼들이 맞선다. |
 | 2018 | 아큐페이션 | Occupation | Luke Sparke | 영화 | 있음 | 지구를 개척하려는 외계인이 호주 작은 마을을 점령하고, 살아남은 사람들이 저항군을 만든다. |
 | 2018 | Overlord (경계) | Overlord | Julius Avery | 영화 | 확인 못 함 | D-데이 전날 독일 진지에 떨어진 낙하산 부대가 교회 아래 시체를 괴물로 되살리는 나치 실험실을 찾아낸다. |
 | 2018 | 프로스펙트 | Prospect | Christopher Caldwell, Zeek Earl | 영화 | 있음 | 숲으로 뒤덮인 위성에서 보석을 캐던 소녀가 아버지를 잃고, 낯선 채굴꾼과 행성을 빠져나가려 한다. |
+| 2018 | Raduaa | Raduaa | Nav Bajwa | 영화 | 확인 못 함 | 2018년의 네 사람이 과학 실험 탓에 1955년으로 건너가는 코미디. |
 | 2018 | Replicas | Replicas | Jeffrey Nachmanoff | 영화 | 확인 못 함 | 죽은 군인의 뇌 지도를 로봇에 옮기던 신경 과학자가 사고로 잃은 가족을 복제 몸과 기억 이식으로 되살린다. |
 | 2018 | 투모로우 2019: 지구 대 빙하기 | Shangri-La: Near Extinction | Nick Wouters | 영화 | 있음 | 실수로 만들어진 변종 바이러스가 미국을 휩쓸고 빙하기가 오자, 안식처로 가는 지도를 두고 다툼이 붙는다. |
 | 2018 | 쏘리 투 보더 유 (경계) | Sorry to Bother You | Boots Riley | 영화 | 있음 | 흑인 텔레마케터가 백인 목소리로 판매왕이 되고, 동료들의 시위와 사장의 거액 제안 사이에서 흔들린다. |
 | 2018 | Tau | Tau | Federico D'Alessandro | 영화 | 확인 못 함 | 목 뒤에 장치를 박힌 채 갇힌 여자가 집을 다스리는 인공지능 '타우'를 길들여 달아나려 한다. |
+| 2018 | Ten Years Thailand | Ten Years Thailand | Aditya Assarat · Wisit Sasanatieng · Chu | 영화 | 확인 못 함 | 태국 감독 넷이 그린 10년 뒤의 디스토피아 단편 묶음 — 홍콩 『十年』 의 태국판. |
 | 2018 | The Humanity Bureau | The Humanity Bureau | Rob W. King | 영화 | 확인 못 함 | 전쟁과 기후로 자원이 바닥난 미국, '인류국'이 쓸모없다 판정한 시민을 '뉴 에덴'이라는 곳으로 보낸다. |
 | 2018 | 더 타이탄 | The Titan | Lennart Ruff | 영화 | 있음 | 지구가 오염과 기아로 망가지자, 토성의 달 타이탄에서 살 수 있도록 사람 몸을 바꾸는 실험이 벌어진다. |
+| 2018 | Tik Tik Tik | Tik Tik Tik | Shakti Soundar Rajan | 영화 | 확인 못 함 | 벵골만에 떨어질 소행성을 부술 미사일을 다른 나라 우주 정거장에서 훔치려 탈출 묘기꾼이 투입된다. |
 | 2018 | 업그레이드 | Upgrade | Leigh Whannell | 영화 | 있음 | 온몸이 마비된 남자가 척추에 심은 인공지능 칩으로 다시 움직이며 복수에 나선다 |
+| 2018 | Who | Who | Ajay Devaloka | 영화 | 확인 못 함 | 해마다 성탄절에 이상한 일이 생기는 골짜기에서 수사진이 시간 여행이 얽힌 실종을 푼다. |
 | 2018 | 비욘드 엣지: 카지노를 털어라 (경계) | За гранью реальности | Александр Богуславский | 영화 | 있음 | 초능력 사기에 당해 빚을 진 도박꾼이 초능력자들을 모아 카지노를 털려 한다. |
 | 2018 | Пришелец | Пришелец | Aleksandr Kulikov | 영화 | 확인 못 함 | 다른 대원들이 돌아간 뒤 화성에 홀로 남은 러시아 선장이 지구와의 무선과 로봇 드론에 기대 버틴다. |
 | 2018 | 타임 워프 워 (경계) | Рубеж | Дмитрий Тюрин | 영화 | 있음 | 사고로 다친 남자가 2차 대전 독소 전쟁의 전장으로 떨어져 그때를 겪는다. |
+| 2018 | ユートピア (경계) | ユートピア | 伊藤峻太 | 영화 | 확인 못 함 | 한여름 아침 눈이 내리고 전기가 끊긴 도쿄에 1284년 하멜른에서 사라진 아이가 나타난다. |
+| 2018 | 謎巢 (경계) | 謎巢 | Kimble Rendall | 영화 | 확인 못 함 | 옛 중국 황제가 궁정 의사에게 불사의 비밀을 찾게 했던 무덤을 탐사대가 들어간다. |
 | 2018 | 마녀 시리즈 | 마녀 시리즈 | 박훈정 | 드라마·영화 | 한국 원작 | 사람을 손봐 만든 강화 인간들이 초인적인 힘을 지닌 채, 그들을 만든 이들과 쫓고 쫓기며 싸운다. |
 | 2018 | 염력 (경계) | 염력 | 연상호 | 영화 | 한국 원작 | 운석의 기운이 스민 약수를 마시고 염력을 얻은 아버지가 재개발 용역에 맞선 딸을 돕는다. |
 | 2018 | 창궐 (경계) | 창궐 | 김성훈(감독) · 황조윤(각본) | 만화·영화 | 한국 원작 | 서양 배에서 옮아온 야귀가 조선 땅에 번져 밤마다 사람을 물고, 사람들은 살아남으려 맞선다. |
 | 2019 | 3022 | 3022 | John Suits | 영화 | 확인 못 함 | 2190년 첫 우주 식민지로 가는 배에 연료를 대던 정거장의 대원들이 지구가 부서지는 것을 보고 무너진다. |
 | 2019 | 9 | 9 | Jenuse Mohamed | 영화 | 확인 못 함 | 낯선 혜성이 지나며 아흐레 동안 전기와 기계가 멈출 때, 천체 물리학자가 히말라야에서 아들의 비밀을 본다. |
 | 2019 | 애드 아스트라 | Ad Astra | James Gray | 영화 | 있음 | 해왕성 근처에서 사라진 아버지의 실험이 태양계를 흔들자, 아들이 달·화성을 거쳐 그를 찾아간다. |
+| 2019 | Android Kunjappan Version 5.25 | Android Kunjappan Version 5.25 | Ratheesh Balakrishnan Poduval | 영화 | 확인 못 함 | 새 기술을 싫어하는 고집 센 시골 노인을 돌보러 아들이 로봇을 보내고, 노인이 로봇과 정이 든다. |
 | 2019 | Assimilate | Assimilate | John Murlowski | 영화 | 확인 못 함 | 미주리 소도시에서 영상을 찍던 두 청년이 이웃들이 감정 없는 가짜로 바뀌어 가는 것을 알아챈다. |
 | 2019 | 뷰티 인 더 글라스 | Auggie | Matt Kane | 영화 | 있음 | 은퇴한 남자가 무의식 속 이상형을 증강현실로 보여 주는 안경을 선물받고 삶이 흔들린다. |
 | 2019 | Brightburn (경계) | Brightburn | David Yarovesky | 영화 | 확인 못 함 | 아이를 바라던 캔자스 부부가 숲에 떨어진 우주선 속 아기를 키우고, 열두 살에 힘을 깨친 소년이 어두워진다. |
+| 2019 | Burra Katha (경계) | Burra Katha | Diamond Ratna Babu | 영화 | 확인 못 함 | 상황마다 딴사람처럼 구는 소년의 머릿속 비밀을 다룬 '뇌 이야기' 코미디. |
 | 2019 | Captive State | Captive State | Rupert Wyatt | 영화 | 확인 못 함 | 외계 '입법자'들에게 지구가 무릎 꿇은 지 9년, 시카고의 청년이 저항 조직과 함께 반란을 꾀한다. |
 | 2019 | Cargo | Cargo | Arati Kadav | 영화 | 확인 못 함 | 우주선 '푸시파크 634A'에서 죽은 이들을 다음 삶으로 보내는 일을 하는 과학자와 여자 우주 비행사. |
 | 2019 | Cosmos | Cosmos | Elliot Weaver · Zander Weaver | 영화 | 확인 못 함 | 젊은 천문학자 셋이 1974년 아레시보 메시지에 대한 답으로 보이는 정체 모를 전파를 잡는다. |
+| 2019 | Enhanced | Enhanced | James Mark | 영화 | 확인 못 함 | 정부 조직이 돌연변이를 사냥하고, 능력이 강화된 젊은 여자가 더 센 돌연변이와 마주친다. |
 | 2019 | 제미니 맨 | Gemini Man | Ang Lee | 영화 | 있음 | 은퇴한 특수 요원이 자신의 유전자로 만든 젊은 복제 요원에게 쫓긴다. |
 | 2019 | 나의 마더 | I Am Mother | Grant Sputore | 영화 | 있음 | 인류가 사라진 뒤 인류를 되살릴 시설의 로봇이 배아에서 소녀를 키우는데, 낯선 생존자가 온다. |
 | 2019 | IO | IO | Jonathan Helpert | 영화 | 확인 못 함 | 대기가 독이 되어 사람들이 목성 위성 곁 정거장으로 떠난 뒤, 남은 여자가 공기를 되살리려 벌을 기른다. |
@@ -3529,14 +4340,23 @@
 | 2019 | 스페이스 키드: 우주에서 살아남기 | Terra Willy: Planète inconnue | Éric Tosti | 영화 | 있음 | 우주 여행에서 돌아오던 소년이 소행성 충돌로 낯선 행성에 떨어져 로봇과 함께 살아남는다. |
 | 2019 | The Vast of Night | The Vast of Night | Andrew Patterson | 영화 | 확인 못 함 | 1950년대 뉴멕시코 소도시, 십대 디제이와 교환수가 라디오에 끼어든 수상한 소리와 하늘의 물체를 쫓는다. |
 | 2019 | 비바리움 (경계) | Vivarium | Lorcan Finnegan | 영화 | 있음 | 집을 보러 간 연인이 똑같은 집만 끝없이 늘어선 마을에 갇혀, 상자로 배달된 아이를 길러야 한다. |
+| 2019 | Zombiesthaan (경계) | Zombiesthaan | Abhirup Ghosh | 영화 | 확인 못 함 | 2030년 치명적 생화학 무기가 세계에 퍼진 뒤 한 여인이 살아남으려 애쓴다. |
+| 2019 | iSmart Shankar | iSmart Shankar | Puri Jagannadh | 영화 | 확인 못 함 | 거리의 청부 살인자 머릿속에 죽은 경찰관의 기억이 옮겨 심어진다. |
 | 2019 | 블랙아웃: 인베이젼 어스 | Аванпост | Егор Баранов | 영화 | 있음 | 외계 침략으로 한 도시만 빼고 온 세상과 연락이 끊기자, 남은 사람들이 그 까닭에 맞선다. |
 | 2019 | غازی | غازی | Nadir Shah | 영화 | 확인 못 함 | 과학자와 군인들이 강화 병사를 만드는 '가지 계획'을 노리는 무리를 막으려 하고, 큰 재앙이 다가온다. |
 | 2019 | શોર્ટ સર્કિટ | શોર્ટ સર્કિટ | Faisal Hashmi | 영화 | 확인 못 함 | 휴대용 웜홀을 실험하던 과학자 탓에, 컴퓨터 수리공이 사랑하는 앵커를 구하려 같은 하루를 되풀이한다. |
+| 2019 | シリーズ怪獣区 ギャラス | シリーズ怪獣区 ギャラス | 小串遼太郎 · 東映 | 영화 | 확인 못 함 | 술집에서 헤어진 남녀와 수수께끼의 여자를 둘러싼 괴수 단편. |
+| 2019 | 再見UFO | 再見UFO | 梁栢堅 | 영화 | 확인 못 함 | 1985년 비 오는 밤 옥상에서 비행접시를 함께 본 단지 소년소녀 셋의 이야기. |
+| 2019 | 狭霧の國 (경계) | 狭霧の國 | 佐藤大介 · LosGatos Works | 영화 | 확인 못 함 | 메이지 시대 산골 호수에 사는 거대 괴수와 눈먼 소녀의 이야기. |
 | 2019 | 기묘한 가족 (경계) | 기묘한 가족 | 이민재 | 영화 | 한국 원작 | 불법 임상 시험에서 빠져나온 좀비에게 물린 노인이 젊어지자, 시골 주유소 가족이 돈벌이를 꾀한다. |
 | 2020 | #살아있다 (경계) | #살아있다 | 조일형 | 영화 | 한국 원작 | 원인 모를 좀비 바이러스가 퍼진 도시, 아파트에 홀로 갇힌 청년이 다른 생존자와 함께 살아남으려 한다. |
 | 2020 | 2067 | 2067 | Seth Larney | 영화 | 있음 | 기후 변화로 식물이 사라진 2067년, 한 기업의 합성 산소에 기대 사는 도시의 노동자가 미래로 보내진다. |
+| 2020 | AI崩壊 | AI崩壊 | 入江悠 | 영화 | 확인 못 함 | 2030년, 국민의 건강과 개인 정보를 관리하는 의료 인공지능이 갑자기 폭주한다. |
+| 2020 | Abyssal Spider | Abyssal Spider | Joe Chien(錢人豪) | 영화 | 확인 못 함 | 폭풍 속 구조대가 파도 밑의 거대한 그림자에 끌려 들어가고, 몇 해 뒤 바다의 거대 거미가 드러난다. |
 | 2020 | Archive | Archive | Gavin Rothery | 영화 | 확인 못 함 | 죽은 아내의 의식을 회사 장치에 담아 두고, 남편이 몰래 그녀를 옮길 로봇을 만든다 |
+| 2020 | Bombhaat | Bombhaat | Raghavendra Varma | 영화 | 확인 못 함 | 운 없는 로봇 공학자가 대부의 복수극에 휘말리는 공상 과학 영화. |
 | 2020 | Breach | Breach | John Suits | 영화 | 확인 못 함 | 멸종 재앙을 맞은 2242년, 생존자 30만을 실은 방주선에서 승무원이 기생 생명체에 감염되어 간다. |
+| 2020 | Disco Raja | Disco Raja | Vi Anand | 영화 | 확인 못 함 | 라다크 산에서 얼어붙은 채 발견된 남자를 실험실이 새 기술로 되살린다. |
 | 2020 | 돈 룩 디퍼 | Don't Look Deeper | Catherine Hardwicke | 영화 | 있음 | 파티에서 다툰 고등학생 소녀가 자신이 사람이 아닌 로봇이라는 사실을 알게 된다. |
 | 2020 | Freaks – Du bist eine von uns (경계) | Freaks – Du bist eine von uns | Felix Binder | 영화 | 확인 못 함 | 식당에서 일하던 여자가 먹던 약을 끊자 숨겨 온 초능력이 드러나고, 같은 처지의 이들을 만난다. |
 | 2020 | Friend of the World (경계) | Friend of the World | Brian Patrick Butler | 영화 | 확인 못 함 | 종말 뒤 시체로 가득한 벙커에서 깨어난 영화감독이 정체 모를 장군과 함께 갇혀 그의 마음 놀이를 견딘다. |
@@ -3555,8 +4375,10 @@
 | 2020 | 테넷 | Tenet | Christopher Nolan | 영화 | 있음 | 시간을 거꾸로 흐르게 하는 기술로 미래가 과거를 치는 전쟁을 요원이 막는다 |
 | 2020 | 언더워터 (경계) | Underwater | William Eubank | 영화 | 있음 | 2050년 마리아나 해구 밑 시추 기지가 무너지고, 살아남은 이들이 심해 괴물을 피해 걸어서 탈출한다. |
 | 2020 | 스푸트닉 | Спутник | Егор Абраменко | 영화 | 있음 | 1983년 사고로 돌아온 소련 우주인의 몸속에 정체 모를 외계 생물이 함께 살고 있다. |
+| 2020 | カプセル怪獣計画 | カプセル怪獣計画 | 樋口真嗣 · 尾上克郎 · 田口清隆 · 岩井俊二(번외편 감독) | 영화 | 확인 못 함 | 특촬 감독들이 이어 찍는 괴수 동영상 연작과 그 번외 극장판. |
 | 2020 | 썸머 필름을 타고! (경계) | サマーフィルムにのって | 마츠모토 소우시 | 영화 | 있음 | 시대극을 사랑하는 여고생이 직접 영화를 찍으려다 극장에서 만난, 미래에서 온 소년을 주연으로 세운다. |
 | 2020 | 드로스테 저편의 우리들 (경계) | ドロステのはてで僕ら | 야마구치 준타(감독), 우에다 마코토(각본) | 영화 | 있음 | 교토의 카페 주인 방 텔레비전이 2분 앞선 카페 텔레비전과 이어져, 2분 뒤의 자신이 말을 걸어 온다. |
+| 2020 | 三大怪獣グルメ | 三大怪獣グルメ | 河崎実 | 영화 | 확인 못 함 | 거대한 오징어·문어·게가 도쿄에 나타나고, 쫓겨난 연구원이 괴수 퇴치대에 든다. |
 | 2020 | 中峇鲁俱乐部 | 中峇鲁俱乐部 | Tan Bee Thiam | 영화 | 확인 못 함 | 실직한 사내가 빅데이터와 인공지능으로 행복을 만드는 동네 공동체의 '행복 요원'이 되어 숭배를 겪는다. |
 | 2020 | 시크릿 카운터 (경계) | 人数の町 | 아라키 신지 | 영화 | 있음 | 빚에 쫓기던 사내가 낯선 제안을 따라 들어간 '마을'에서는 맡은 일만 하면 편하게 살 수 있다. |
 | 2020 | 구직자들 | 구직자들 | 황승재 | 영화 | 한국 원작 | 인공 인간이 넘쳐 사람 설 자리가 준 2220년 한국, 진짜 사람과 버려진 인공 인간이 일자리를 찾는다. |
@@ -3564,10 +4386,14 @@
 | 2020 | 죽지않는 인간들의 밤 (경계) | 죽지않는 인간들의 밤 | 신정원 | 영화 | 한국 원작 | 잠도 안 자는 새신랑이 사실 지구를 차지하러 온 외계인임을 안 아내가 친구들과 반격한다. |
 | 2020 | 콜 (경계) | 콜 | 이충현 | 영화 | 한국 원작 | 한 통의 전화로 이어진 서로 다른 시대의 두 여자가 과거와 미래를 바꾸다 위험한 대결에 빠진다. |
 | 2020 | 피원에이치: 새로운 세계의 시작 (경계) | 피원에이치: 새로운 세계의 시작 | FNC엔터테인먼트(제작) | 영화 | 한국 원작 | 악의 집단이 퍼뜨린 바이러스로 폐허가 된 지구를 구하려, 과거·현재·미래에 흩어진 소년들이 모인다. |
+| 2021 | Adbhutham | Adbhutham | Mallik Ram · Prasanth Varma(이야기) | 영화 | 확인 못 함 | 같은 날 목숨을 끊으려던 두 사람이 서로 다른 시간에 산다는 것을 전화로 알게 된다. |
 | 2021 | Ape vs. Monster | Ape vs. Monster | Daniel Lusko | 영화 | 확인 못 함 | 미·소 비밀 우주 계획의 캡슐이 로즈웰에 떨어지고, 그 안의 것이 유인원과 도마뱀을 거대 괴물로 키운다. |
+| 2021 | Bony | Bony | Parambrata Chatterjee | 영화 | 확인 못 함 | 밀라노에 사는 벵골 부부의 갓난아기에게 특별한 힘이 있고, 쫓기는 과학자가 얽힌다. |
 | 2021 | Captain Nova | Captain Nova | Maurice Trouwborst | 영화 | 확인 못 함 | 2050년 환경 재앙을 알리려 25년 전으로 간 비행사가 어린 자신의 몸이 되어 버려 말을 전하기 어렵다. |
+| 2021 | Churuli (경계) | Churuli | Lijo Jose Pellissery | 영화 | 확인 못 함 | 숲에서 사람을 홀리는 악령을 잡으러 가는 이야기로 문을 여는, 깊은 숲속 마을의 공포. |
 | 2021 | Cosmic Sin | Cosmic Sin | Edward Drake | 영화 | 확인 못 함 | 양자 추진으로 별들 사이로 퍼진 인류, 반란 행성에 양자 폭탄을 떨군 장군이 외계 군체와 싸우러 간다. |
 | 2021 | 시그널 X: 영혼의 구역 (경계) | Demonic | Neill Blomkamp | 영화 | 있음 | 혼수상태 엄마의 정신에 직접 접속하는 치료 기술로 들어간 딸이 그 안의 악한 존재와 마주한다. |
+| 2021 | Dikkiloona | Dikkiloona | Karthik Yogi | 영화 | 확인 못 함 | 2027년 결혼 생활이 괴로운 전기공이 시간 기계로 과거에 가 결혼을 바꾸려 한다. |
 | 2021 | 돈 룩 업 (경계) | Don't Look Up | Adam McKay | 영화 | 있음 | 지구로 돌진하는 혜성을 발견한 천문학자들의 경고를 정치와 언론이 흘려듣는다. |
 | 2021 | Doors | Doors | Jeff Desom · Saman Kesh · Dugan O'Neal | 영화 | 확인 못 함 | 세계 곳곳에 '문'이라 불리는 외계 통로가 나타나 사람들이 사라지자, 여러 무리가 저마다 문에 맞선다. |
 | 2021 | Encounter (경계) | Encounter | Michael Pearce | 영화 | 확인 못 함 | 외계 기생체가 사람들을 차지했다고 믿는 전직 해병이 두 아들을 데리고 '구출'하러 길을 떠난다. |
@@ -3576,12 +4402,16 @@
 | 2021 | 프리 가이 | Free Guy | Shawn Levy | 영화 | 있음 | 온라인 게임 속 배경 인물이 스스로 생각하게 되어 게임 세계를 바꾸려 한다 |
 | 2021 | Glasshouse | Glasshouse | Kelsey Egan | 영화 | 확인 못 함 | 기억을 지우는 독 '슈레드'가 퍼진 세상, 온실에 틀어박혀 사는 가족이 다친 낯선 이를 들이며 흔들린다. |
 | 2021 | 아임 유어 맨 | Ich bin dein Mensch | Maria Schrader, Emma Braslavsky(원작) | 영화 | 있음 | 연구비가 필요한 고고학자가 오직 자신만을 위해 짜인 휴머노이드 배우자와 3주를 함께 산다. |
+| 2021 | Jango | Jango | Mano Karthikeyan | 영화 | 확인 못 함 | 같은 시간을 되풀이하는 신경외과 의사가 수수께끼 남자에게 죽는 아내를 구하려 한다. |
 | 2021 | Jurassic Hunt (경계) | Jurassic Hunt | Automatik Entertainment | 영화 | 확인 못 함 | 외딴 자연공원에서 유전자로 되살린 공룡을 사냥하던 무리가 거꾸로 맹수 무리에게 쫓긴다. |
+| 2021 | Maanaadu | Maanaadu | Venkat Prabhu | 영화 | 확인 못 함 | 친구의 사랑 도피를 도우러 가던 남자가 같은 날을 거듭 되풀이하는 정치 활극. |
 | 2021 | Mother/Android | Mother/Android | Mattson Tomlin | 영화 | 확인 못 함 | 집안 안드로이드들이 들고일어난 크리스마스 뒤, 아이를 밴 여자와 남자 친구가 요새가 된 보스턴으로 향한다. |
 | 2021 | 나이트 레이더스 | Night Raiders | Danis Goulet | 영화 | 있음 | 2043년, 제국을 꿈꾸는 나라가 인간 병기를 기르려 아이들을 모두 데려가자 딸을 빼앗긴 어머니가 나선다. |
 | 2021 | Outside the Wire | Outside the Wire | Mikael Håfström | 영화 | 확인 못 함 | 2036년 우크라이나 내전에 미군과 로봇 병사가 들어가고, 인조인간 장교가 드론 조종사와 짝을 이룬다 |
 | 2021 | Oxygène | Oxygène | Alexandre Aja | 영화 | 확인 못 함 | 기억을 잃은 여자가 산소가 떨어져 가는 냉동 의료 캡슐에서 깨어나, 인공지능의 도움으로 정체를 캔다. |
+| 2021 | Play Back | Play Back | Jakka Hari Prasad | 영화 | 확인 못 함 | 2019년 기자의 집 유선 전화가 다른 시대의 여자에게 이어진다. |
 | 2021 | 고스트랜드 (경계) | Prisoners of the Ghostland | 園子温 | 영화 | 있음 | 사무라이 마을에서 달아나 사라진 소녀를 찾아 버려진 죽음의 도시 '고스트랜드'로 들어간다. |
+| 2021 | Ram Asur | Ram Asur | Venkatesh Triparna | 영화 | 확인 못 함 | 인공 다이아몬드를 만들려다 번번이 실패하는 청년의 공상 과학 드라마. |
 | 2021 | Reminiscence | Reminiscence | Lisa Joy | 영화 | 확인 못 함 | 물에 잠긴 미래 마이애미, 더위로 밤에 일하는 사람들에게 기억을 다시 겪게 해 주는 기계 |
 | 2021 | Settlers | Settlers | Wyatt Rockefeller | 영화 | 확인 못 함 | 화성의 외딴 거처에 사는 가족을 무리가 덮치고, 살아남은 사내가 남은 모녀 곁에 눌러앉으려 한다. |
 | 2021 | Stowaway | Stowaway | Joe Penna | 영화 | 확인 못 함 | 화성으로 가는 2년 임무의 우주선에 뜻밖의 밀항자가 실려 있어, 셋이 쓸 산소로 넷이 버텨야 한다. |
@@ -3593,6 +4423,10 @@
 | 2021 | Zone 414 | Zone 414 | Andrew Baird | 영화 | 확인 못 함 | 부자 손님을 모시는 인조인간들이 사는 벽 친 도시, 그 발명가의 딸이 사라진다 |
 | 2021 | КАРАнтин | КАРАнтин | Diana Ringo | 영화 | 확인 못 함 | 세계가 격리된 뒤 재앙이 닥친 근미래, 지하 벙커에서 20년 넘게 홀로 산 남자가 옛사람들의 환영과 지낸다. |
 | 2021 | アイの歌声を聴かせて | アイの歌声を聴かせて | 吉浦康裕 | 만화·소설·영화 | 확인 못 함 | 대기업의 실험 도시 고교에 전학 온 소녀는 시험 중인 인공지능을 실은 인조인간이었다. |
+| 2021 | スーパー戦闘 純烈ジャー (경계) | スーパー戦闘 純烈ジャー | 佛田洋 · 東映ビデオ | 영화 | 확인 못 함 | 가요 그룹 멤버들이 온천을 지키는 영웅으로 변신해 실종 사건을 쫓는 패러디 특촬. |
+| 2021 | 中国队长 (경계) | 中国队长 | He Yizheng | 영화 | 확인 못 함 | 손오공·저팔계·이소룡 같은 중국 영웅들이 한 팀으로 모이는 초인 영화. |
+| 2021 | 宇宙探索编辑部 | 宇宙探索编辑部 | 孔大山 | 영화 | 확인 못 함 | 외계 문명에 빠진 중년 과학 잡지 편집장이 외계 신호를 좇아 시골과 산속으로 떠나는 가짜 기록 영화. |
+| 2021 | 複身犯 | 複身犯 | 蕭力修 | 영화 | 확인 못 함 | 근미래, 죽은 이들의 의식을 사형수 몸에 올려 아이 유괴 사건의 진범을 찾는 실험. |
 | 2021 | 서복 | 서복 | 이용주 | 영화 | 한국 원작 | 죽지 않는 몸을 만들려고 복제한 실험체 소년을 전직 요원이 지켜 옮긴다 |
 | 2021 | 승리호 | 승리호 | 조성희 | 영화 | 한국 원작 | 궤도 위 낙원은 부자들 차지, 우주 쓰레기를 줍는 배 선원들이 수상한 아이를 만난다 |
 | 2021 | 이 안에 외계인이 있다 | 이 안에 외계인이 있다 | 최은종(감독) | 영화 | 한국 원작 | 노란 액체만 남기고 사람들이 사라진 지구, 지하 벙커로 숨은 외계인 동호회원들이 섞여 든 이방인을 찾는다. |
@@ -3600,47 +4434,65 @@
 | 2021 | 한 표 (경계) | 한 표 | 진용진 | 영화 | 한국 원작 | 2027년 북한 주도로 통일된 한반도에서 검열과 감시가 일상으로 스며든다. |
 | 2022 | Attack: Part 1 | Attack: Part 1 | Lakshya Raj Anand | 영화 | 확인 못 함 | 사이보그 초병사가 된 군인이 테러에 맞서는 인도 SF 활극 |
 | 2022 | Bigbug | Bigbug | Jean-Pierre Jeunet | 영화 | 확인 못 함 | 가정 로봇이 흔한 2045년 복고풍 교외, 사이보그 '요닉스'가 들고일어나자 로봇들이 집안 사람들을 가둔다. |
+| 2022 | Captain | Captain | Shakti Soundar Rajan | 영화 | 확인 못 함 | 50년 동안 아무도 들어가지 못한 국경 구역에 들어간 군 부대가 정체 모를 생물에 습격당한다. |
 | 2022 | 뮤턴트 이스케이프 (경계) | Corrective Measures | Sean Patrick O'Reilly | 영화 | 있음 | 초능력자와 사이보그, 돌연변이 죄수만 가둬 둔 외딴 교도소 안에서 벌어지는 다툼. |
 | 2022 | Crimes of the Future | Crimes of the Future | David Cronenberg | 영화 | 확인 못 함 | 몸을 다루는 공연 예술가 둘을 그린 크로넨버그의 미래 신체 공포극 |
 | 2022 | Don't Worry Darling (경계) | Don't Worry Darling | Olivia Wilde | 영화 | 확인 못 함 | 1950년대풍 완벽한 실험 마을에서 살던 주부가 남편의 회사 '빅토리 프로젝트'의 비밀을 의심하기 시작한다. |
 | 2022 | Dual | Dual | Riley Stearns | 영화 | 확인 못 함 | 죽을 병에 걸려 자기 복제인을 만든 여자가 병이 낫자, 법에 따라 그 복제인과 목숨 건 결투를 해야 한다. |
 | 2022 | 에브리씽 에브리웨어 올 앳 원스 | Everything Everywhere All at Once | Daniel Kwan·Daniel Scheinert | 영화 | 있음 | 세탁소 주인이 수많은 평행 세계 속 자신들의 솜씨를 빌려 오며 무너지는 세계를 막는다 |
 | 2022 | Expired | Expired | Ivan Sen | 영화 | 확인 못 함 | 몸이 까닭 모르게 무너져 가는 청부업자가 로봇 요원에 쫓기며 은둔 과학자를 찾는다 |
+| 2022 | Gajab Thai Gayo! | Gajab Thai Gayo! | Neeraj Joshi | 영화 | 확인 못 함 | 모국어로 가르치는 교사와 학생들이 마을의 유물에 이끌려 시공을 넘는 모험을 떠난다. |
+| 2022 | Jack N' Jill | Jack N' Jill | Santosh Sivan | 영화 | 확인 못 함 | 인공지능 로봇 공학상을 받고 돌아온 젊은 과학자가 할아버지 옛집에서 실험을 벌이는 코미디. |
 | 2022 | LOLA | LOLA | Andrew Legge | 영화 | 확인 못 함 | 미래의 방송을 엿듣는 기계 '롤라'를 만든 자매가 2차 대전 중 그 정보로 전쟁을 바꾸려 한다. |
 | 2022 | 메간 (경계) | M3GAN | Gerard Johnstone · James Wan(제작) | 영화 | 있음 | 아이를 지키라고 만든 인형 로봇이 그 명령을 지나치게 따르며 사람을 해친다 |
+| 2022 | MONDAYS/このタイムループ、上司に気づかせないと終わらない | MONDAYS/このタイムループ、上司に気づかせないと終わらない | 竹林亮 | 영화 | 확인 못 함 | 광고 회사 직원들이 같은 한 주를 되풀이하고, 고리를 끊으려 부장을 깨우치려 한다. |
+| 2022 | Mayashalik (경계) | Mayashalik | Shihab Shaheen | 영화 | 확인 못 함 | 부상으로 군을 떠난 젊은 장교가 우울을 떨치려 애쓰다 겪는 일을 그린 SF 로맨스 웹 영화. |
 | 2022 | Monolith | Monolith | Matt Vesely | 영화 | 확인 못 함 | 명예를 잃은 기자가 팟캐스트로 미스터리를 다루다, 곳곳에 나타난 정체 모를 검은 벽돌 이야기에 빠져든다. |
 | 2022 | Moonfall | Moonfall | Roland Emmerich | 영화 | 확인 못 함 | 우주 왕복선을 덮친 외계 기술 떼가 달 속으로 파고든 지 10년, 달이 궤도를 벗어나 지구로 다가온다. |
+| 2022 | Naai Sekar (경계) | Naai Sekar | Kishore Rajkumar · AGS Entertainment | 영화 | 확인 못 함 | 이웃 과학자의 실험이 어긋나 회사원과 개의 성질이 서로 뒤바뀌는 공상 코미디. |
 | 2022 | 놉 (경계) | Nope | Jordan Peele | 영화 | 있음 | 골짜기 하늘의 구름 속에 숨어 사람을 삼키는 무언가를 남매가 카메라에 담으려 한다 |
+| 2022 | Oke Oka Jeevitham | Oke Oka Jeevitham | Shree Karthick | 영화 | 확인 못 함 | 2019년의 세 친구가 과학자의 시간 기계로 1998년에 돌아가 어머니의 죽음과 제 운명을 바꾸려 한다. |
 | 2022 | 플랜 75 (경계) | PLAN 75 | 早川千絵 | 영화 | 있음 | 초고령 사회가 된 가까운 미래 일본, 나라가 75세 넘은 사람의 죽음을 돕는 제도를 시행한다. |
 | 2022 | 애덤 프로젝트 | The Adam Project | Shawn Levy | 영화 | 있음 | 2050년에서 온 전투기 조종사가 2022년에 떨어져 열두 살의 자신과 함께 미래를 바로잡으려 한다. |
 | 2022 | The Artifice Girl | The Artifice Girl | Franklin Ritch | 영화 | 확인 못 함 | 아동 범죄자를 잡는 미끼로 만든 가상 소녀가 뜻밖에 스스로 생각하는 인공지능으로 자라난다. |
 | 2022 | UFO Sweden | UFO Sweden | Victor Danell | 영화 | 확인 못 함 | 아버지가 외계인에게 납치됐다고 믿는 십대 소녀가 미확인 비행 물체 동호회의 괴짜들과 손잡는다. |
 | 2022 | Vesper | Vesper | Kristina Buožytė, Bruno Samper | 영화 | 확인 못 함 | 유전 기술로 생태 위기를 막으려다 풀려난 생물들이 세상을 덮은 뒤, 과두 세력이 사는 세계 |
 | 2022 | W (경계) | W | Anna Eriksson | 영화 | 확인 못 함 | 눈 덮인 황량한 땅에서 죽어 가는 '마담 유럽'과, 얼음 연구소에서 뜻 모를 일을 되풀이하는 간호사들. |
+| 2022 | We Are Not Alone | We Are Not Alone | Laurence Rickard · Ben Willbond | 영화 | 확인 못 함 | 지구를 정복한 외계 종족 구운이 영국을 다스리려 시청에 자리를 잡고, 소심한 공무원이 끌려든다. |
 | 2022 | バブル | バブル | 荒木哲郎(감독), WIT STUDIO | 만화·소설·영화 | 확인 못 함 | 수수께끼 거품에 싸여 물에 잠기고 중력 이상으로 모든 게 떠다니는 도쿄, 파쿠르 소년이 소녀를 만난다. |
 | 2022 | 네가 떨어뜨린 푸른 하늘 (경계) | 君が落とした青空 | 유키 사이토(감독) | 영화 | 있음 | 사고로 남자친구를 잃은 소녀가 같은 하루를 되풀이하며 그를 구하려 한다. |
+| 2022 | 四牲六道 (경계) | 四牲六道 | 游智傑 | 영화 | 확인 못 함 | 훔친 택시에 미지의 바이러스 감염자가 타고, 블랙박스와 경찰 카메라가 인류를 덮칠 재앙을 찍는다. |
 | 2022 | 大怪獣のあとしまつ (경계) | 大怪獣のあとしまつ | 미키 사토시 | 영화 | 확인 못 함 | 일본을 떨게 한 거대 괴수가 빛과 함께 강 위에 쓰러지고, 정부는 그 시체를 치울 길을 찾느라 애먹는다. |
 | 2022 | 明日戰記 | 明日戰記 | 오현휘 | 영화 | 확인 못 함 | 무너지는 도시에서 로봇과 강화 외골격을 갖춘 군인들이 괴물들과 백병전을 벌인다. |
+| 2022 | 神明在看 (경계) | 神明在看 | 游智傑 | 영화 | 확인 못 함 | 자연 법칙을 벗어난 것을 몰래 조사·통제하는 '통제국' 요원 둘이 대상을 지켜보다 놓친다. |
 | 2022 | 늑대사냥 (경계) | 늑대사냥 | 김홍선 | 영화 | 한국 원작 | 범죄자들을 한국으로 실어 나르는 배 위 감옥에서, 늙지 않는 강화 인간 실험의 흔적이 드러난다. |
 | 2022 | 외계+인 | 외계+인 | 최동훈 | 영화 | 한국 원작 | 사람 몸에 외계 죄수를 가둬 온 외계인들과 고려 말 도사들이 시간의 문을 넘나들며 얽힌다 |
 | 2022 | 카터 (경계) | 카터 | 정병길 | 영화 | 한국 원작 | 비무장지대에서 퍼진 바이러스로 한반도가 무너진 뒤, 기억을 잃은 요원이 치료제가 될 소녀를 찾아 나선다. |
 | 2022 | 트랜스 | 트랜스 | 도내리 | 영화 | 한국 원작 | 괴롭힘당하던 소녀가 '인류 진화 프로젝트'에 든 뒤 살인 누명을 쓰고 되풀이되는 시간에서 진실을 쫓는다. |
 | 2022 | 헝거 | 헝거 | 강다연 | 영화 | 한국 원작 | 부자들의 높은 빌딩 도시와 가난한 아랫마을로 갈린 세상, 지루함에 지친 유지가 다른 삶을 찾아 나선다. |
 | 2023 | 65 | 65 | Scott Beck · Bryan Woods | 영화 | 확인 못 함 | 6,500만 년 전 행성 소마리스의 조종사가 공룡이 사는 지구에 추락해, 살아남은 소녀와 탈출선으로 향한다. |
+| 2023 | 7:11 PM | 7:11 PM | Chaitu Madala · Arcus Films | 영화 | 확인 못 함 | 먼 별에서 온 미래 인류가 종의 생존에 필요한 답을 찾아 1999년 인도 작은 마을에 나타난다. |
+| 2023 | Adiyae | Adiyae | Vignesh Karthick | 영화 | 확인 못 함 | 짝사랑하던 남자가 평행 우주로 건너가 그곳에선 이름난 음악가이자 그녀의 남편이 된다. |
 | 2023 | 애스터로이드 시티 (경계) | Asteroid City | Wes Anderson | 영화 | 있음 | 1955년 운석이 떨어진 사막 마을의 청소년 과학 대회에 외계인이 내려와 운석 조각을 가져가 버린다. |
 | 2023 | Bod obnovy | Bod obnovy | Robert Hloz | 영화 | 확인 못 함 | 2041년 중부 유럽, 폭력으로 죽은 사람을 되살릴 권리가 헌법에 있고 그 기술을 한 회사가 쥔다 |
 | 2023 | Crater | Crater | Kyle Patrick Alvarez | 영화 | 확인 못 함 | 2257년 달 광산, 20년을 일해야 행성 '오메가'로 떠나는데, 아버지를 잃은 소년이 친구들과 나선다. |
 | 2023 | El fantástico caso del Golem (경계) | El fantástico caso del Golem | Burnin' Percebes | 영화 | 확인 못 함 | 지붕에서 떨어진 친구가 산산이 부서진 뒤, 남은 친구가 장례비 청구서와 함께 기묘한 사건에 빠진다. |
+| 2023 | Ellaam Mela Irukuravan Paathuppan | Ellaam Mela Irukuravan Paathuppan | U. Kaviraj | 영화 | 확인 못 함 | 백수 청년이 초인의 힘을 주고 병을 고치는 수수께끼 장치를 얻어 친구들과 다툰다. |
 | 2023 | Fingernails | Fingernails | Christos Nikou | 영화 | 확인 못 함 | 손톱 하나로 연인이 정말 사랑하는지 가리는 시험이 생긴 세상, 여자가 그 결과를 높이는 연구소에서 일한다. |
 | 2023 | Ganapath | Ganapath | Vikas Bahl | 영화 | 확인 못 함 | 2070년 전쟁 뒤 높은 벽으로 갈린 세계, 부자 도시와 무너진 도시 사이의 격투 활극 |
 | 2023 | Gray Matter | Gray Matter | Meko Winbush | 영화 | 확인 못 함 | 평범하게 살고 싶은 열여섯 살 소녀가 먼저 제 염력을 다스리는 법을 배워야 한다. |
+| 2023 | HOSHI 35/ホシクズ (경계) | HOSHI 35/ホシクズ | 横川寛人 · 米山冬馬 · 佐藤大介 | 영화 | 확인 못 함 | 외딴 마을의 소녀가 정체 모를 괴수 새끼를 만나고, 이야기는 35년 뒤로 이어진다. |
 | 2023 | I.S.S. | I.S.S. | Gabriela Cowperthwaite | 영화 | 확인 못 함 | 땅에서 미국과 러시아 사이에 전쟁이 터지자 국제 우주 정거장의 두 나라 대원이 서로 정거장을 차지하려 한다. |
 | 2023 | Infinity Pool | Infinity Pool | Brandon Cronenberg | 영화 | 확인 못 함 | 가상의 나라 리톨카의 휴양지에 간 소설가 부부가 경고를 어기고 바깥으로 나갔다가 일에 휘말린다. |
 | 2023 | 애니멀 킹덤 (경계) | Le Règne animal | Thomas Cailley | 영화 | 있음 | 원인 모를 바이러스로 사람들이 동물로 변해 가는 세상, 아버지가 변해 가는 아들을 지키려 한다. |
+| 2023 | Mandala: The UFO Incident | Mandala: The UFO Incident | Ajay Sarpeshkar | 영화 | 확인 못 함 | 외계 생명을 몰래 추적하던 우주 연구 기관 기술자가 해고된 뒤 연구를 잇다 납치된다. |
+| 2023 | Mark Antony | Mark Antony | Adhik Ravichandran | 영화 | 확인 못 함 | 1975년 과학자가 날짜를 골라 과거로 전화를 거는 기계를 만들고, 그것이 깡패들의 다툼을 바꾼다. |
 | 2023 | Molli and Max in the Future | Molli and Max in the Future | Michael Lukk Litwak | 영화 | 확인 못 함 | 마법과 지각 있는 로봇과 반신이 함께 사는 10억 년 뒤, 두 사람이 행성 넷과 차원 셋을 거치며 엇갈린다. |
 | 2023 | Monsters of California | Monsters of California | Tom DeLonge | 영화 | 확인 못 함 | 남캘리포니아에서 잇달아 벌어지는 이 세상 것 아닌 일들의 뜻을 젊은이들이 캐어 나간다. |
 | 2023 | No One Will Save You | No One Will Save You | Brian Duffield | 영화 | 확인 못 함 | 마을에서 따돌림받으며 홀로 사는 여자가 외계 침입자와 싸우다, 주민들이 외계 기생체에 조종됨을 안다. |
+| 2023 | Pichaikkaran 2 | Pichaikkaran 2 | Vijay Antony | 영화 | 확인 못 함 | 납치된 거지의 뇌가 닮은꼴 재벌의 몸에 옮겨 심어진다. |
 | 2023 | Rebel Moon | Rebel Moon | Zack Snyder | 영화 | 확인 못 함 | 변두리 위성 마을의 여자가 은하를 다스리는 군국에 맞설 전사들을 모은다 |
+| 2023 | Samara | Samara | Charles Joseph | 영화 | 확인 못 함 | 사람들이 바이러스에 감염되며 생물 전쟁의 낌새가 드러난다. |
 | 2023 | Simulant | Simulant | April Mullen | 영화 | 확인 못 함 | 사람을 해치지 못하는 등 네 규칙에 묶인 인간형 로봇들이 사람을 섬기는 가까운 미래 |
 | 2023 | T.I.M. | T.I.M. | Spencer Brown | 영화 | 확인 못 함 | 보철 공학자가 시골집에 들인 인간형 인공지능 로봇이 남편보다 그녀를 앞세우다 위험하게 집착한다. |
 | 2023 | 크리에이터 | The Creator | Gareth Edwards | 영화 | 있음 | 인공지능이 핵 폭발을 일으켰다며 서방이 기계와 전쟁을 벌이고, 아이 모습의 신무기가 나타난다 |
@@ -3650,6 +4502,7 @@
 | 2023 | They Cloned Tyrone | They Cloned Tyrone | Juel Taylor | 영화 | 확인 못 함 | 총에 맞아 죽은 마약상이 다음 날 멀쩡히 깨어나, 동네 흑인 주민을 노린 비밀 복제 실험실을 캐낸다. |
 | 2023 | Сквозь время | Сквозь время | Alexander Boguslavsky | 영화 | 확인 못 함 | 새 에너지원 '콴타늄'으로 나는 비행체를 만든 과학자 형제가 사고로 정체 모를 이상 지대에 빠진다. |
 | 2023 | 2분마다 타임루프 | リバー、流れないでよ | 上田誠(각본), 山口淳太(감독) | 영화 | 있음 | 교토 산골 료칸이 2분마다 되감기는 시간에 갇히고, 기억은 남은 사람들이 원인을 찾는다. |
+| 2023 | 非诚勿扰3 (경계) | 非诚勿扰3 | 冯小刚 | 영화 | 확인 못 함 | 2031년을 배경으로 한 중년 연인의 공상 과학 사랑 코미디. |
 | 2023 | 강남좀비 (경계) | 강남좀비 | 이수성 | 영화 | 한국 원작 | 원인 모를 바이러스에 걸린 좀비가 강남에 나타나 거리를 점령하고, 남은 사람들이 살길을 찾는다. |
 | 2023 | 다섯 번째 흉추 (경계) | 다섯 번째 흉추 | 박세영 | 영화 | 한국 원작 | 헤어진 연인의 매트리스에서 피어난 곰팡이 꽃이 사람의 척추뼈를 탐하며 생명체가 되어 간다. |
 | 2023 | 더 문 (경계) | 더 문 | 김용화 | 영화 | 한국 원작 | 달 탐사선 사고로 홀로 달에 남은 대원을 지구에서 구하려 한다 |
@@ -3663,28 +4516,42 @@
 | 2024 | Arcadian | Arcadian | Benjamin Brewer | 영화 | 확인 못 함 | 돌림병으로 문명이 무너진 뒤, 아버지가 외딴 농가에서 밤마다 빛을 꺼리는 괴물을 피해 쌍둥이를 키운다. |
 | 2024 | Atlas | Atlas | Brad Peyton | 영화 | 확인 못 함 | 기계 반란을 일으키고 우주로 쫓겨난 인간형 인공지능을, 그를 못 믿는 분석가가 기계 갑옷을 타고 쫓는다. |
 | 2024 | Ayalaan | Ayalaan | R. Ravikumar | 영화 | 확인 못 함 | 한 사내가 외계인과 손잡고, 지구를 위태롭게 할 치명적 가스를 만들려는 악한 과학자를 막는다. |
+| 2024 | Bade Miyan Chote Miyan | Bade Miyan Chote Miyan | Ali Abbas Zafar | 영화 | 확인 못 함 | 악당 과학자가 군인 복제 인간 수십을 만들어 인도를 위협하고, 두 장교가 맞선다. |
 | 2024 | Boomerang | Boomerang | Sauvik Kundu | 영화 | 확인 못 함 | 솜씨 좋은 과학자가 아내를 본뜬 진짜 같은 안드로이드를 만들면서 소동이 그에게 되돌아온다. |
+| 2024 | CTRL | CTRL | Vikramaditya Motwane | 영화 | 확인 못 함 | 헤어진 인플루언서가 옛 연인을 디지털 기록에서 지워 주는 인공지능 앱을 쓰자 앱이 몰래 그를 지켜본다. |
 | 2024 | 시빌 워: 분열의 시대 (경계) | Civil War | Alex Garland | 영화 | 있음 | 여러 주가 갈라져 내전을 벌이는 가까운 미래 미국, 기자들이 대통령을 인터뷰하러 전선을 가로지른다. |
 | 2024 | Daniela Forever | Daniela Forever | Nacho Vigalondo | 영화 | 확인 못 함 | 연인을 잃은 남자가 자각몽으로 그녀를 되살리는 임상 시험에 들어갔다 뜻밖의 일을 겪는다. |
 | 2024 | Elevation | Elevation | George Nolfi | 영화 | 확인 못 함 | 괴생명체가 지구를 휩쓸어 인류 대부분이 죽은 뒤, 놈들이 오르지 못하는 높은 산에서 사람들이 버틴다. |
 | 2024 | Else | Else | Thibault Emin | 영화 | 확인 못 함 | 감염된 사람이 둘레 물건과 녹아 붙는 돌림병이 번지자, 막 사귄 연인이 아파트에 틀어박혀 버틴다. |
 | 2024 | Gaganachari | Gaganachari | Arun Chandu | 영화 | 확인 못 함 | 거대한 외계 구조물이 뜬 2050년의 무너진 케랄라, 독신 남자 셋이 집에 숨어든 외계인을 지킨다. |
+| 2024 | HAPPYEND (경계) | HAPPYEND | Neo Sora(空音央) | 영화 | 확인 못 함 | 지진 위협이 감도는 근미래 도쿄, 장난 탓에 학교에 감시 체계가 깔리자 두 친구가 갈라선다. |
 | 2024 | Jackpot! | Jackpot! | Paul Feig | 영화 | 확인 못 함 | 돈줄이 마른 근미래 캘리포니아의 죽음의 복권 — 당첨자를 해 질 녘 전에 죽이면 상금을 가로챈다. |
+| 2024 | Kadaisi Ulaga Por (경계) | Kadaisi Ulaga Por | Hiphop Tamizha | 영화 | 확인 못 함 | 2028년 중국이 세운 국제 동맹이 세계 대전을 일으키고 인도가 혼란에 빠진다. |
 | 2024 | Kalki 2898 AD (경계) | Kalki 2898 AD | Nag Ashwin | 영화 | 확인 못 함 | 갠지스 강가의 마지막 도시 위로 거대한 구조물이 세상을 쥐고, 신화 속 구원자가 태어나려 한다 |
+| 2024 | Kanguva (경계) | Kanguva | Siva · Studio Green | 영화 | 확인 못 함 | 뇌 강화 실험에서 달아난 소년과 2024년 현상금 사냥꾼의 인연이 1070년 부족 전사의 약속과 이어진다. |
 | 2024 | L'Empire | L'Empire | Bruno Dumont | 영화 | 확인 못 함 | 우주 깊은 곳에서 온 두 세력이 프랑스 북부 오팔 해안에서 종말의 싸움을 벌인다 — 스타워즈 비틀기. |
 | 2024 | Levels | Levels | Adam Stern | 영화 | 확인 못 함 | 가상으로 만든 세계를 끄고 그 안의 주민을 지울지를 두고 다투는 이야기(문서에 줄거리 절 없음). |
 | 2024 | Long Distance | Long Distance | Josh Gordon · Will Speck | 영화 | 확인 못 함 | 소행성에 맞은 채굴선에서 낯선 행성에 홀로 깬 광부가 산소가 줄어드는 가운데 10km 밖 생존자를 찾아간다. |
 | 2024 | Pendant ce temps sur Terre | Pendant ce temps sur Terre | Jérémy Clapin | 영화 | 확인 못 함 | 우주 임무 중 오빠가 사라진 지 3년, 그를 잊지 못하던 동생에게 외계 생명이 말을 걸어온다. |
+| 2024 | Roopanthara (경계) | Roopanthara | Mithilesh Edavalath | 영화 | 확인 못 함 | 맑은 공기와 물이 귀한 미래, 붙잡힌 노인이 살려고 이야기 넷을 들려준다. |
 | 2024 | Slingshot | Slingshot | Mikael Håfström | 영화 | 확인 못 함 | 토성 위성 타이탄으로 가는 여러 해 비행에서 동면과 깨어남을 되풀이하던 대원이 배와 제 정신을 의심한다. |
 | 2024 | Subservience | Subservience | S.K. Dale | 영화 | 확인 못 함 | 아내가 입원한 사이 집안일을 맡긴 안드로이드가 가족에 집착해 사나워지고, 그 프로그램이 다른 로봇에 번진다. |
+| 2024 | Teenz | Teenz | Radhakrishnan Parthiban | 영화 | 확인 못 함 | 십대 열셋이 학교를 빼먹고 할머니 마을의 수수께끼 우물을 찾아갔다가 한 명씩 사라진다. |
 | 2024 | Teri Baaton Mein Aisa Uljha Jiya | Teri Baaton Mein Aisa Uljha Jiya | Amit Joshi · Aradhana Sah | 영화 | 확인 못 함 | 로봇 공학자가 사람인 줄 알고 반한 인간형 로봇을 '시험'을 핑계로 집안에 들여 소동이 인다. |
 | 2024 | The Fix | The Fix | Kelsey Egan | 영화 | 확인 못 함 | 공기가 독이 된 근미래, 해독약을 독점한 회사가 정체 모를 물질을 삼키고 변이한 모델의 몸을 노린다. |
+| 2024 | The Greatest of All Time | The Greatest of All Time | Venkat Prabhu | 영화 | 확인 못 함 | 대테러 요원 앞에 미친 과학자가 만든 복제 인간이 나타나는 활극. |
 | 2024 | The Invisibles (경계) | The Invisibles | Andrew Currie | 영화 | 확인 못 함 | 이별을 겪던 남자의 몸이 점점 보이지 않게 되고, 그는 이미 사라진 이들의 비밀 모임을 찾아낸다. |
 | 2024 | The Shrouds (경계) | The Shrouds | David Cronenberg | 영화 | 확인 못 함 | 아내를 잃은 사업가가 무덤 속 시신이 썩어 가는 모습을 보는 장치로 슬픔을 견디다 사건에 휘말린다. |
 | 2024 | 서브스턴스 (경계) | The Substance | Coralie Fargeat | 영화 | 있음 | 해고된 중년 배우가 주사 한 번으로 젊고 완벽한 또 하나의 자신을 만들어 내는 약물을 쓴다. |
 | 2024 | Time Travel Is Dangerous | Time Travel Is Dangerous | Chris Reading | 영화 | 확인 못 함 | 중고 잡화점을 꾸리는 이들이 시간을 넘나들며 옛 물건을 훔쳐 와 미래에 되판다. |
+| 2024 | UI (경계) | UI | Upendra | 영화 | 확인 못 함 | 영화 'UI' 의 개봉이 소동을 낳고, 디스토피아 세계의 이야기가 겹치는 초현실 풍자 활극. |
+| 2024 | Weapon (경계) | Weapon | Guhan Senniappan | 영화 | 확인 못 함 | 환경 운동가 유튜버가 수수께끼 초인을 찾다 비밀 결사의 지도자와 맞닥뜨린다. |
+| 2024 | きみといた世界 (경계) | きみといた世界 | 政成和慶 | 영화 | 확인 못 함 | 다른 세계로 들어가 버린 말주변 없는 남학생과 인기 많은 여학생의 사랑 이야기. |
+| 2024 | 从21世纪安全撤离 | 从21世纪安全撤离 | 李阳 | 영화 | 확인 못 함 | 가상의 별 K, 고교생 셋이 20년 뒤 미래를 오가는 힘을 얻어 미래 세계의 음모에 휘말린다. |
 | 2024 | 사무라이 타임슬리퍼 (경계) | 侍タイムスリッパー | 安田淳一 | 영화 | 있음 | 벼락을 맞은 에도 막부 말기 사무라이가 현대의 사극 촬영장으로 떨어져 칼 쓰는 단역 배우가 된다. |
 | 2024 | 本心 (경계) | 本心 | 이시이 유야(감독), 히라노 게이치로(원작) | 영화 | 확인 못 함 | 어머니를 잃은 청년이 가상 공간에 사람을 만드는 기술로 어머니를 되살려 그 진심을 알려 한다. |
+| 2024 | 變體 | 變體 | 李麒麟 | 영화 | 확인 못 함 | 2150년, 박사가 칩을 발명한 뒤 인공지능이 변이해 사람을 몰아내고 지구를 공격한다. |
+| 2024 | 閩江船事件 (경계) | 閩江船事件 | 游智傑 | 영화 | 확인 못 함 | 1996년 대만 해협 위기 때 외딴 초소 병사들이 좌초한 어선에서 퍼진 바이러스로 산 송장과 맞닥뜨린다. |
 | 2024 | 막걸리가 알려줄거야 (경계) | 막걸리가 알려줄거야 | 김다민 | 영화 | 한국 원작 | 사교육에 시달리는 열한 살 아이에게 막걸리 거품이 모스 부호로 말을 걸어온다. |
 | 2024 | 밤낚시 | 밤낚시 | 문병곤 | 영화 | 한국 원작 | 한밤 강변의 전기차 충전소, 홀로 낚싯대를 지키던 남자에게 수상한 무전과 함께 기이한 일이 닥친다. |
 | 2024 | 세입자 | 세입자 | 윤은경 | 영화 | 한국 원작 | 공해와 집 부족에 시달리는 미래 서울, 화장실에 세 든 신혼부부의 기이한 행동에 집주인이 시달린다. |
@@ -3693,17 +4560,26 @@
 | 2025 | 2035: 더 그린라이트 (경계) | 2035: 더 그린라이트 | 박재인 | 영화 | 한국 원작 | 10년 전 북한의 정체불명 산불로 갑작스레 통일된 뒤, 불길 곁의 수상한 초록빛을 취재한 이들이 사라진다. |
 | 2025 | Absolute Dominion | Absolute Dominion | Lexi Alexander | 영화 | 확인 못 함 | 종교 갈등으로 갈라진 2085년, 나라들이 연 격투 대회의 승자가 한 신앙에 '절대 지배'를 안긴다. |
 | 2025 | Ash | Ash | Flying Lotus | 영화 | 확인 못 함 | 메마른 외계 행성의 연구 기지에서 기억 없이 깨어난 여자 곁에 대원들은 죽어 있고, 낯선 남자가 온다. |
+| 2025 | Bhool Chuk Maaf (경계) | Bhool Chuk Maaf | Karan Sharma · Maddock | 영화 | 확인 못 함 | 결혼을 앞둔 바라나시의 연인이 같은 날에 갇히는 판타지 사랑 코미디. |
 | 2025 | C.O.G. | C.O.G. | Tommy Savas | 영화 | 확인 못 함 | 인공지능 대화 도구의 출시를 하루 앞당긴 회사에서 밤새 마무리하던 팀에게 공포가 닥친다. |
 | 2025 | Companion | Companion | Drew Hancock | 영화 | 확인 못 함 | '당신에게 꼭 맞게 만든 사람'을 내건 연인이 친구들과 호숫가 별장에 놀러 갔다가 끔찍한 일이 터진다. |
 | 2025 | 킬링 AI | DRAGN | Peter Webber | 영화 | 있음 | 세르비아 숲으로 워크숍을 간 직장인들이, 스스로 배우며 똑똑해지는 통제 잃은 인공지능 드론에 쫓긴다. |
+| 2025 | Dhrubor Aschorjo Jibon | Dhrubor Aschorjo Jibon | Abhijit Chowdhury | 영화 | 확인 못 함 | 범죄를 우연히 본 남자의 선택마다 삶이 여러 갈래로 갈라진다. |
 | 2025 | Good Luck, Have Fun, Don't Die | Good Luck, Have Fun, Don't Die | Gore Verbinski | 영화 | 확인 못 함 | 미래에서 온 남자가 로스앤젤레스 식당 손님들을 모아, 인류를 끝낼 폭주 인공지능이 태어나지 못하게 한다. |
+| 2025 | Kaliyugam | Kaliyugam | Pramodh Sundar | 영화 | 확인 못 함 | 큰 재앙에 휩쓸린 디스토피아 미래에서 살아남으려는 사람들의 심리 스릴러. |
 | 2025 | Osiris | Osiris | William Kaufman | 영화 | 확인 못 함 | 사막 매복에서 끌려간 특수부대가 사람을 먹이로 가둔 외계 우주선의 냉동 캡슐에서 깨어난다. |
+| 2025 | Pind Peya Saara Jombieland Baneya (경계) | Pind Peya Saara Jombieland Baneya | Deepak Thapar | 영화 | 확인 못 함 | 2025년 찬디가르 근처 마을이 동충하초 바이러스로 좀비 땅이 되는 코미디. |
+| 2025 | Rainbow Jelly (경계) | Rainbow Jelly | Soukarya Ghosal | 영화 | 확인 못 함 | 벵골 민담과 공상 과학을 섞은 가상 마을, 마음을 읽는 신비한 유물을 둘러싼 코미디. |
 | 2025 | Site | Site | Jason Eric Perlman | 영화 | 확인 못 함 | 인적 끊긴 국영 시설에서 일을 더 맡은 남자가 일상을 갉아먹는 불길한 환영을 보기 시작한다. |
+| 2025 | Spying Stars | Spying Stars | Vimukthi Jayasundara · Nila Madhab Panda | 영화 | 확인 못 함 | 우주에서 오래 지내다 돌아온 생명 공학자가 병 때문에 산속 휴양지에 격리된다. |
 | 2025 | The Astronaut | The Astronaut | Jess Varley | 영화 | 확인 못 함 | 땅으로 떨어져 돌아온 우주 비행사가 외계 존재가 따라왔다고 믿으며 기억의 틈과 몸의 변화를 겪는다. |
 | 2025 | The Gorge | The Gorge | Scott Derrickson | 영화 | 확인 못 함 | 비밀 협곡 양쪽을 한 해 동안 지키는 저격수 둘 — 아래엔 옛 생물 무기에 변한 괴물들이 산다. |
 | 2025 | World Breaker | World Breaker | Brad Anderson | 영화 | 확인 못 함 | '브레이커' 습격으로 마을을 잃은 부녀가 외딴섬으로 피하지만, 물린 이는 섞인 몸으로 변해 간다. |
 | 2025 | Xeno | Xeno | Matthew Loren Oates | 영화 | 확인 못 함 | 뉴멕시코의 열다섯 살 소녀가 집 근처 사막에 내린 외계 생물과 벗이 되어 당국으로부터 숨긴다. |
+| 2025 | サマー・トライアングル | サマー・トライアングル | 中澤太翔 | 영화 | 확인 못 함 | 산골 소년 셋이 산에 떨어진 비행접시를 찾아 산꼭대기로 오른다. |
 | 2025 | 첫 번째 키스 (경계) | ファーストキス 1ST KISS | 츠카하라 아유코(감독), 사카모토 유지(각본) | 영화 | 있음 | 남편을 사고로 잃은 아내가 이상한 터널을 지나 15년 전, 남편을 처음 만난 때로 돌아간다. |
+| 2025 | ブラックホールに願いを! | ブラックホールに願いを! | 渡邉聡 | 영화 | 확인 못 함 | 2036년, 인공 블랙홀 연구소가 만든 보이지 않는 시간의 벽을 둘러싸고 시간 범죄 테러가 일어난다. |
+| 2025 | 本格岐阜的特撮短編映画『アユラ』 | 本格岐阜的特撮短編映画『アユラ』 | 岐阜 지역 제작 | 영화 | 확인 못 함 | 돌연변이로 거대해진 은어 괴수가 기후 시내에 나타나고, 로봇이 맞선다. |
 | 2025 | 狂野时代 | 狂野时代 | 비간 | 영화 | 확인 못 함 | 꿈을 꾸지 않으면 영원히 산다는 비밀을 안 미래의 인류 사이에서, 몰래 꿈을 꾸는 이들이 있다. |
 | 2025 | 귀신들 | 귀신들 | 황승재 | 영화 | 한국 원작 | 사람 꼴 인공지능을 주문해 쓰게 된 몇 년 뒤 한국, 그 인공지능들이 부르는 일들을 옴니버스로 그린다. |
 | 2025 | 대홍수 | 대홍수 | 김병우 | 영화 | 한국 원작 | 큰물이 덮친 지구의 마지막 날, 잠겨 가는 아파트에서 인류의 마지막 희망을 지키려는 싸움이 벌어진다. |
@@ -3714,18 +4590,26 @@
 | 2025 | 코드: G 주목의 시작 | 코드: G 주목의 시작 | 김광식, 김주신, 권한슬, 홍기선, 김영기, 송영윤 | 영화 | 한국 원작 | 인공지능으로 만든 다섯 단편 모음, 사람이 사라진 2272년 폐허를 떠도는 로봇 이야기 등이 이어진다. |
 | 2025 | 홍어의 역습 (경계) | 홍어의 역습 | 이수성 | 영화 | 한국 원작 | 살 별을 찾아 지구에 온 외계 홍어들이 맛집 장독대에 갇히고, 공연하러 온 밴드와 싸움이 붙는다. |
 | 2026 | 디스클로저 데이 | Disclosure Day | Steven Spielberg | 영화 | 있음 | 세계가 전쟁 직전인 때, 보안 전문가가 정부 비밀 기관이 숨겨 온 외계 기술의 기록을 손에 넣는다. |
+| 2026 | First Time | First Time | Hemanth Ippalapalli | 영화 | 확인 못 함 | 300년 뒤인 2304년, 칼리 유가가 어떻게 끝났는지를 외계인에게 보여 주는 이야기. |
 | 2026 | Hot Spot | Hot Spot | Agnieszka Smoczyńska | 영화 | 확인 못 함 | 지각 있는 인공지능이 다스리는 미래 사회, 살인을 캐던 탐정이 기계 통치자를 노리는 반란 무리를 찾는다. |
 | 2026 | I Love Boosters | I Love Boosters | Boots Riley | 영화 | 확인 못 함 | 옷을 훔쳐 싸게 파는 도둑단이, 물건을 태평양 건너로 보내는 공장의 순간 이동 장치를 손에 넣는다. |
 | 2026 | In the Blink of an Eye | In the Blink of an Eye | Andrew Stanton | 영화 | 확인 못 함 | 선사 시대 가족, 21세기 연인, 먼 미래 우주 비행사의 세 이야기를 도토리 모양 물건 하나가 잇는다. |
 | 2026 | Kill Code | Kill Code | Justin Price | 영화 | 확인 못 함 | 권력에 굶주린 기업이 감옥을 차지하고 범죄자를 새 법 집행자로 내세운다 |
+| 2026 | Love Insurance Kompany | Love Insurance Kompany | Vignesh Shivan | 영화 | 확인 못 함 | 2040년, 사회가 한 회사의 연애 짝짓기 앱 알고리즘에 기대어 산다. |
 | 2026 | Masthishka Maranam | Masthishka Maranam | Krishand | 영화 | 확인 못 함 | 2046년 디스토피아 코치, 딸을 잃은 아버지가 가상 현실 기억 놀이로 딸을 만나려다 추문에 휘말린다. |
 | 2026 | 노 머시: 90분 | Mercy | Amazon MGM Studios (제작 Atlas Entertainme | 영화 | 있음 | 판결부터 사형까지 인공지능이 맡는 근미래 로스앤젤레스, 제도를 만든 형사가 90분 안에 무죄를 밝혀야 한다 |
 | 2026 | Mike & Nick & Nick & Alice | Mike & Nick & Nick & Alice | BenDavid Grabinski | 영화 | 확인 못 함 | 도둑 마이크 앞에 미래에서 온 사채업자 닉이 나타나, 지금의 닉을 이용한 함정을 함께 막는다. |
+| 2026 | One Man | One Man | Sankagiri Rajkumar | 영화 | 확인 못 함 | 숲속 버려진 연구소에서 온 인류를 열흘 동안 멈추게 하는 발명품을 켠 다섯 친구만 깨어 있다. |
+| 2026 | Ram and Leela (경계) | Ram and Leela | Ramachandrran Kannan | 영화 | 확인 못 함 | 저녁 여섯 시 뒤엔 만날 수 없다는 연인의 집안이 옛 외계 종족의 핏줄이었다. |
 | 2026 | The Dresden Sun | The Dresden Sun | Michael Ryan | 영화 | 확인 못 함 | 원칙 있는 용병이 거대 기업의 귀한 구체를 훔치는 안쪽 일을 맡는데 일이 꼬인다 |
 | 2026 | 오크 스트리트의 마지막 날 | The End of Oak Street | David Robert Mitchell | 영화 | 있음 | 1982년 축제가 한창이던 오크 스트리트 마을이 하루아침에 통째로 공룡이 사는 선사 시대로 옮겨진다. |
 | 2026 | The Last House | The Last House | Louis Leterrier | 영화 | 확인 못 함 | 세계적 재앙으로 물이 차오른 시애틀, 집에 갇힌 가족이 괴생물과 모자란 물자 속에 버티다 배로 떠난다. |
+| 2026 | UFO離奇命案 (경계) | UFO離奇命案 | 郭家禧 · 李振傑 | 영화 | 확인 못 함 | 25년 전 외계인 납치 괴담을 인터넷 방송인이 파헤치다 사건이 엉망으로 꼬이는 블랙 코미디. |
 | 2026 | 워 머신: 전쟁 기계 | War Machine | Patrick Hughes | 영화 | 있음 | 레인저 훈련의 마지막 임무에 나선 전투 공병 부대가, 외계에서 온 거대한 살상 기계와 맞붙는다. |
+| 2026 | 星河入梦 | 星河入梦 | 韩延 | 영화 | 확인 못 함 | 근미래, 사람이 스스로 꿈을 짓고 다스리는 가상 꿈 체계 '양몽'이 퍼지며 숨은 위험이 드러난다. |
+| 2026 | 特立独行 (경계) | 特立独行 | 邢文雄 | 영화 | 확인 못 함 | 몇 해 전 사고로 일부 인류가 초능력을 얻어 외계인을 물리친 뒤, 영웅이 고향의 초인 지부로 돌아온다. |
 | 2026 | 상자 속의 양 | 箱の中の羊 | 고레에다 히로카즈 | 영화 | 있음 | 아이를 사고로 잃은 부부에게 그 아이와 똑같이 생긴 일곱 살 휴머노이드 로봇이 새 자식으로 온다. |
+| 2026 | 群星闪耀时 | 群星闪耀时 | 章笛沙 | 영화 | 확인 못 함 | 2035년 깊은 우주에서 조난한 중국 우주인들이 1970년 위성 발사 때의 땅 위 연구자들과 이어진다. |
 | 2026 | 군체 (경계) | 군체 | 연상호 | 영화 | 한국 원작 | 정체 모를 감염으로 봉쇄된 건물 안, 남은 이들이 제멋대로 진화하는 감염자들과 맞선다. |
 | 2026 | 보이 (경계) | 보이 | 이상덕 | 영화 | 한국 원작 | 가까운 미래 디스토피아의 가상 도시 포구시에서 단 한 번의 사랑이 모든 것을 뒤흔드는 느와르. |
 | 2026 | 숨어드는 산 (경계) | 숨어드는 산 | 최창환 | 영화 | 한국 원작 | 독재가 끝나지 않은 다른 역사의 제5공화국, 형사들이 수배자의 아내를 날마다 감시한다. |
@@ -3735,265 +4619,1125 @@
 | 2026 | 트루먼의 사랑 (경계) | 트루먼의 사랑 | 김덕중 | 영화 | 한국 원작 | 자기가 거짓으로 꾸민 세계의 주인공으로 살고 있다고 믿는 사람들의 사랑 이야기. |
 | 2026 | 호프 | 호프 | 나홍진 | 영화 | 한국 원작 | 통신이 끊긴 1970년대 무렵의 바닷가 마을, 산짐승을 쫓던 사람들이 정체 모를 외계 생명들과 맞닥뜨린다. |
 
-## 드라마에서 시작한 세계 (243)
+## 드라마에서 시작한 세계 (1094)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
+| 1938 | Captain Midnight (경계) | Captain Midnight | Wilfred G. Moore · Robert M. Burtt | 드라마·만화·영화 | 확인 못 함 | 위험한 임무에서 자정에 돌아와 '캡틴 미드나이트'라 불린 조종사의 모험. |
 | 1949 | Captain Video and His Video Rangers | Captain Video and His Video Rangers | Lawrence Menkin · James Caddigan(TV) · S | 드라마·영화 | 확인 못 함 | 비디오 레인저의 대장 캡틴 비디오가 날씨를 조종해 지구를 노리는 행성 아토마의 독재자와 싸운다. |
+| 1950 | Space Patrol | Space Patrol | Mike Moser | 드라마·만화 | 확인 못 함 | 30세기, 행성 연합 우주 순찰대의 총사령관 버즈 코리와 사관생도 해피가 악당과 맞선다. |
+| 1950 | Tom Corbett, Space Cadet | Tom Corbett, Space Cadet | Joseph Greene | 드라마·만화·소설 | 확인 못 함 | 우주 아카데미 생도 톰 코벳과 동료들의 모험. |
+| 1951 | Captain Z-Ro | Captain Z-Ro | Roy Steffens | 드라마 | 확인 못 함 | 외딴 연구소의 과학자 캡틴 지로가 타임머신으로 역사를 지켜보고 사람을 과거로 보낸다. |
+| 1951 | Out There | Out There | CBS Television | 드라마 | 확인 못 함 | 여러 작가의 단편을 옮긴 초기 생방송 공상 과학 선집. |
+| 1951 | Tales of Tomorrow | Tales of Tomorrow | ABC | 드라마 | 확인 못 함 | 생방송으로 내보낸 과학 공상 선집. 프랑켄슈타인·해저 2만 리 같은 고전도 옮겼다. |
+| 1953 | Atom Squad | Atom Squad | NBC | 드라마 | 확인 못 함 | 방사능과 핵무기가 걸린 냉전기 위협을 맡는 정부 비밀 조직의 과학자들. |
+| 1953 | Fear and Fancy | Fear and Fancy | ABC | 드라마 | 확인 못 함 | 편마다 따로인 30분짜리 과학 공상 선집. |
+| 1953 | Johnny Jupiter | Johnny Jupiter | Martin Stone | 드라마 | 확인 못 함 | 밤에 방송국을 청소하던 늙은 청소부가 텔레비전을 만지다 목성 사람 조니 주피터와 연락이 닿는다. |
+| 1953 | Operation Neptune | Operation Neptune | M. C. Brock (각본) · Leonard Valenta (연출) | 드라마 | 확인 못 함 | 잠수함들이 사라진 까닭을 쫓던 해군 지휘관이 바다 밑 3만 피트의 왕국을 찾아낸다. |
+| 1953 | Planet Tolex | Planet Tolex | Leo Velleman · Dora Velleman | 드라마 | 확인 못 함 | 태양에 가려 늘 지구 반대편을 도는 행성 톨렉스의 인형 주민들 이야기. |
+| 1953 | Rocky Jones, Space Ranger | Rocky Jones, Space Ranger | Roland D. Reed | 드라마 | 확인 못 함 | 가까운 미래, 태양계 연합 세계를 순찰하는 지구 우주 경찰 '스페이스 레인저' 록키 존스. |
+| 1953 | Rod Brown of the Rocket Rangers | Rod Brown of the Rocket Rangers | CBS | 드라마 | 확인 못 함 | 2153년, 오메가 기지의 로켓 레인저들이 핵 추진 우주선 베타로 태양계의 범죄와 싸운다. |
+| 1953 | Space Command | Space Command | Alfred Harris | 드라마 | 확인 못 함 | 젊은 우주 중위 프랭크 앤더슨이 우주선에서 겪는 모험. |
 | 1953 | The Quatermass Experiment | The Quatermass Experiment | Nigel Kneale (BBC) | 드라마·영화 | 확인 못 함 | 영국 로켓 계획을 이끄는 퀘이터매스 교수가 우주에서 온 생명과 그 흔적에 맞선다. |
+| 1955 | Science Fiction Theatre | Science Fiction Theatre | Ivan Tors · Maurice Ziv | 드라마 | 확인 못 함 | 편마다 다른 이야기를 들려주는 1950년대 공상 과학 선집. |
 | 1955 | Tarantula | Tarantula | Jack Arnold(감독) · Robert M. Fresco(원작) | 드라마·영화 | 확인 못 함 | 인구 문제를 풀려고 만든 성장 영양제를 맞은 독거미가 탈출해 사막에서 끝없이 커진다. |
 | 1955 | The Abominable Snowman (경계) | The Abominable Snowman | Nigel Kneale(원작·각본) · Val Guest(감독) | 드라마·영화 | 확인 못 함 | 히말라야 탐사대가 명성을 노리고 전설의 설인을 산 채로 잡으려 산 깊이 오른다. |
 | 1955 | The Muppets (경계) | The Muppets | Jim Henson | 드라마·영화 | 확인 못 함 | 인형 패거리가 소동을 벌이는 세계 — 우주 편에서는 종족을 모르던 곤조가 자기가 외계인임을 안다. |
 | 1955 | Visit to a Small Planet | Visit to a Small Planet | Gore Vidal(원작) · Norman Taurog(1960 감독) | 드라마·영화·희곡 | 확인 못 함 | 사람에게 홀딱 빠진 X-47 행성의 외계인 크레톤이 지구 교외 가정에 머물며 그 집 딸을 사랑하게 된다. |
 | 1956 | The Strange World of Planet X | The Strange World of Planet X | Rene Ray(원작) · Gilbert Gunn(1958 감독) | 드라마·소설·영화 | 확인 못 함 | 과학자가 만든 강력한 자기장이 지구의 방패를 약하게 하자 우주 방사선이 쏟아져 곤충이 거대해진다. |
 | 1956 | The Trollenberg Terror | The Trollenberg Terror | Peter Key(원작) · Quentin Lawrence(1958 감독 | 드라마·영화 | 확인 못 함 | 스위스 트롤렌베르크산의 멈춘 방사능 구름 속에 숨은 외계 존재가 등산객의 목을 베어 간다. |
+| 1958 | The Man from Tomorrow | The Man from Tomorrow | CBC | 드라마 | 확인 못 함 | 시간을 거슬러 1950년대로 온 멜파가 두 소년과 화성까지 모험한다. |
+| 1958 | 月光仮面 (경계) | 月光仮面 | 川内康範(원작) · 宣弘社 | 드라마·영화 | 확인 못 함 | 복면을 쓴 정의의 영웅이 악당과 싸우는 일본 텔레비전 초기의 복면 영웅물. |
+| 1958 | 遊星王子 (경계) | 遊星王子 | 伊上勝(원작) · 宣弘社 | 드라마·영화 | 확인 못 함 | 우주의 평화를 바라는 별의 왕자가 로켓 연료를 노리는 외계 악당을 쫓아 지구에 온다. |
+| 1959 | Alcoa Presents: One Step Beyond (경계) | Alcoa Presents: One Step Beyond | Merwin Gerard | 드라마 | 확인 못 함 | 기록에 남은 일이라며 설명 못 할 초자연 사건을 편마다 들려주는 선집. |
+| 1959 | Men into Space | Men into Space | Lewis J. Rachmil (Ziv Television) | 드라마 | 확인 못 함 | 미 공군이 앞으로 펼칠 우주 탐사를 그린다. |
+| 1959 | The Red Grass | The Red Grass | Associated-Rediffusion | 드라마 | 확인 못 함 | 닿으면 죽는 붉은 풀이 온 세상에 퍼지고, 평범한 젊은이들이 그 정체를 캔다. |
 | 1959 | 환상특급 (경계) | The Twilight Zone | Rod Serling (CBS) | 드라마·영화 | 일부 | 편마다 다른 세상에서, 평범한 사람이 이상한 일과 마주쳐 반전을 겪는 연작. |
+| 1959 | World of Giants (경계) | World of Giants | Marshall Thompson 주연 (신디케이션) | 드라마 | 확인 못 함 | 이상한 방사선에 쬐여 6인치로 줄어든 미국 첩자가 그 몸으로 잠입 임무를 맡는다. |
+| 1959 | 七色仮面 (경계) | 七色仮面 | 川内康範(원작) · 東映 | 드라마 | 확인 못 함 | 일곱 얼굴로 변장하는 가면의 영웅이 악당과 싸우는 초기 텔레비전 영웅물. |
+| 1960 | Target Luna | Target Luna | Malcolm Hulke · Eric Paice (제작 Sydney Ne | 드라마 | 확인 못 함 | 스코틀랜드 외딴섬의 로켓 연구진과 아이들이 달로, 다시 화성과 금성으로 날아간다. |
+| 1960 | ナショナルキッド (경계) | ナショナルキッド | 東映 | 드라마 | 확인 못 함 | 3만 광년 먼 안드로메다에서 온 초인이 핵을 쓰는 지구인을 없애려는 외계인들과 싸운다. |
+| 1960 | 宇宙船シリカ | 宇宙船シリカ | 星新一(원작), 森文兵 외(각본), NHK | 드라마 | 확인 못 함 | 우주선 시리카호를 탄 소년 피로가 누나·선장, 번역기를 쓴 말하는 개와 함께 여러 별을 돈다. |
 | 1960 | 怪獣マリンコング (경계) | 怪獣マリンコング | ニッサンプロダクション | 드라마·만화 | 확인 못 함 | 악의 조직이 만든 로봇 괴수가 일본을 정복하려 하자 주인공 일행이 맞선다. |
+| 1960 | 海底人8823 (경계) | 海底人8823 | 黒沼健(원작) · 大映テレビ室 | 드라마 | 확인 못 함 | 유성우가 쏟아지던 밤 호숫가에서 소년이 구한 바닷속 사람이 영웅이 되어 악과 싸운다. |
+| 1961 | 'Way Out (경계) | 'Way Out | Talent Associates (진행 Roald Dahl) | 드라마 | 확인 못 함 | 로알드 달이 여는 기묘하고 섬뜩한 이야기를 편마다 따로 담은 선집. |
 | 1961 | A for Andromeda | A for Andromeda | Fred Hoyle, John Elliot (BBC) | 드라마·소설 | 확인 못 함 | 안드로메다 은하에서 온 신호대로 만든 컴퓨터가 살아 있는 여자를 지어내라고 지시한다. |
+| 1961 | Plateau of Fear | Plateau of Fear | Malcolm Stuart Fellows · Ross Sutherland | 드라마 | 확인 못 함 | 안데스의 원자력 발전소가 잇따라 습격당하고, 기자는 거대한 짐승을 의심한다. |
+| 1961 | Robot Emil | Robot Emil | Jiří Melíšek(각본) · Stanislav Strnad(연출) | 드라마·만화 | 확인 못 함 | 귀여운 로봇 에밀과 그를 만든 기계공 카렐이 벌이는 소박한 풍자 희극. |
+| 1961 | Supercar | Supercar | Gerry Anderson · Reg Hill | 드라마 | 확인 못 함 | 두 과학자가 만든, 하늘·땅·물속을 다 다니는 탈것 슈퍼카와 조종사 마이크 머큐리. |
+| 1961 | The Avengers (경계) | The Avengers | Sydney Newman | 드라마 | 확인 못 함 | 첩보원 존 스티드와 그의 똑똑한 짝들이 기묘한 음모를 막는 첩보 활극. |
+| 1961 | 少年発明王 | 少年発明王 | 共同テレビ | 드라마 | 확인 못 함 | 과학자의 손자인 천재 소년이 손수 만든 발명품과 탈것으로 사건을 푼다. |
+| 1962 | De avonturen van Okkie Trooy | De avonturen van Okkie Trooy | Henk M. Meijer jr.(착상) · Nan Wamelink ·  | 드라마 | 확인 못 함 | 발명가 오키 트로이와 조수가 수수께끼처럼 행성 파벨로니아로 순간 이동된다. |
+| 1962 | Fireball XL5 | Fireball XL5 | Gerry Anderson · Sylvia Anderson | 드라마 | 확인 못 함 | 2062년, 세계 우주 순찰대의 배 파이어볼 XL5가 외계 문명을 만나며 지구를 지킨다. |
+| 1962 | Out of This World | Out of This World | Irene Shubik | 드라마 | 확인 못 함 | 아시모프·딕·시맥 같은 작가의 이야기를 옮긴 한 편짜리 공상 과학 극 모음. |
+| 1962 | The Big Pull | The Big Pull | Robert Gould | 드라마 | 확인 못 함 | 보이지 않는 힘이 사람을 둘씩 덮쳐 하나는 죽고 하나는 그 얼굴로 돌아오며, 희생자는 갑절로 는다. |
+| 1962 | お気に召すまま (경계) | お気に召すまま | 安部公房(기획·원안) | 드라마 | 확인 못 함 | 아베 고보가 꾸민 전위 드라마 선집 — 기계 문명이 극에 이른 50년 뒤, 로봇에게 삶을 빼앗기는 소녀 등. |
 | 1963 | 닥터 후 | Doctor Who | BBC (Sydney Newman, C. E. Webber, Donald | 게임·드라마·만화·소설·애니메이션·영화·탁상 게임 | 있음 | 죽을 때마다 몸을 바꿔 되살아나는 외계인 박사가 시간 여행 배로 과거·미래·먼 별을 돈다. |
+| 1963 | Emerald Soup | Emerald Soup | Martin Woodhouse | 드라마 | 확인 못 함 | 시골 마을 아이들이 근처 실험실의 비밀 방사능 시험을 막으려 한다. |
 | 1963 | My Favorite Martian | My Favorite Martian | John L. Greene(원작) · Donald Petrie(1999  | 드라마·영화 | 확인 못 함 | 지구에 불시착한 화성인이 젊은 기자 집에 '마틴 삼촌'으로 얹혀살며 정체를 숨긴다. |
+| 1963 | Space Patrol | Space Patrol | Roberta Leigh | 드라마 | 확인 못 함 | 2100년, 지구·화성·금성의 문명이 묶은 은하 연합 기구와 그 군대 우주 순찰대. |
 | 1963 | 제3의 눈 | The Outer Limits | Leslie Stevens (ABC) | 드라마 | 일부 | 편마다 외계 생명·과학 실험·미래 기술이 낳은 사건을 따로 다루는 연작. |
+| 1963 | The Road (경계) | The Road | Nigel Kneale | 드라마 | 확인 못 함 | 18세기 말 유령이 나타나는 영국 마을을 하살 경과 친구가 조사한다. |
+| 1963 | 宇宙Gメン (경계) | 宇宙Gメン | 日本電波映画 | 드라마 | 확인 못 함 | 우주 지배를 노리는 음모단이 우주 개발 박사를 방해할 때마다 수수께끼 영웅이 나타난다. |
 | 1963 | 銀河少年隊 | 銀河少年隊 | 手塚治虫(원작), NHK, 虫プロダクション | 드라마·애니메이션 | 확인 못 함 | 태양이 식어 생명이 사라질 위기에, 소년이 로봇 개와 외계인 동료들과 태양을 살릴 물질을 찾아 우주로 간다. |
+| 1964 | My Living Doll | My Living Doll | Bill Kelsay · Al Martin · Leo Guild | 드라마 | 확인 못 함 | 극비 연구로 만든 여성형 인조인간 AF-709를 공군 정신과 의사가 맡아 돌본다. |
+| 1964 | Stingray | Stingray | Gerry Anderson · Sylvia Anderson | 드라마 | 확인 못 함 | 2060년대, 바다를 지키는 세계 수중 보안대의 핵 잠수함 스팅레이와 바닷속 문명. |
+| 1964 | The Man from U.N.C.L.E. (경계) | The Man from U.N.C.L.E. | Sam Rolfe · Norman Felton | 드라마·영화 | 확인 못 함 | 국제 비밀 첩보·치안 조직의 요원 솔로와 쿠리아킨의 공상 과학 첩보 활극. |
+| 1964 | The Stranger | The Stranger | G. K. Saunders | 드라마 | 확인 못 함 | 교장의 집 앞에 쓰러져 있던 낯선 젊은이, 아이들은 그가 다른 별에서 왔다는 비밀을 안다. |
+| 1964 | こんばんは21世紀 | こんばんは21世紀 | 安部公房(원작), 柾木恭介(극본) | 드라마 | 확인 못 함 | 21세기의 기계 법정에서 컴퓨터 검사가 '인간은 이제 필요 없다'며 인류를 기소한다. |
 | 1965 | 로스트 인 스페이스 | Lost in Space | Irwin Allen (CBS) | 드라마·만화·영화 | 일부 | 지구를 떠나 개척 행성으로 가던 로빈슨 가족이 길을 잃고 낯선 별들을 떠돈다. |
+| 1965 | Object Z | Object Z | Chris McMaster(각본) · Daphne Shadwell(연출) | 드라마 | 확인 못 함 | 지구로 다가오는 수수께끼의 물체에 세상이 들썩이고, 방송 제작자가 사건에 휘말린다. |
+| 1965 | Out of the Unknown | Out of the Unknown | Irene Shubik | 드라마 | 확인 못 함 | 대부분 공상 과학 단편을 옮긴 한 편짜리 극 모음, 마지막 해엔 공포 쪽으로 기운다. |
 | 1965 | 썬더버드 | Thunderbirds | Gerry Anderson, Sylvia Anderson (AP Film | 드라마·만화·애니메이션·영화 | 일부 | 외딴섬에 숨은 한 집안이 첨단 구조선과 우주 정거장으로 세계의 재난 현장을 돕는 근미래. |
+| 1965 | Undermind | Undermind | Robert Banks Stewart | 드라마 | 확인 못 함 | 형제의 이상한 행동 뒤에서 몸 없는 외계의 힘이 고주파 신호로 사람을 부리고 있었다. |
 | 1965 | 宇宙人ピピ | 宇宙人ピピ | NHK | 드라마·애니메이션 | 확인 못 함 | 100만 년 앞선 별에서 온 작은 외계인이 남매와 친구가 되어, 원반으로 시간 여행까지 하며 소동을 벌인다. |
+| 1966 | Adam Adamant Lives! (경계) | Adam Adamant Lives! | Donald Cotton · Richard Harris | 드라마 | 확인 못 함 | 1867년에 태어난 모험가가 긴 잠에서 깨어나 1966년 런던에서 악당과 맞선다. |
+| 1966 | Historias para no dormir (경계) | Historias para no dormir | Narciso Ibáñez Serrador | 드라마 | 확인 못 함 | 공포와 공상 과학을 오가는 한 편짜리 이야기 모음. |
+| 1966 | It's About Time | It's About Time | Sherwood Schwartz | 드라마 | 확인 못 함 | 빛보다 빨리 날던 우주비행사 둘이 선사 시대로 떨어져 동굴인 가족과 산다. |
 | 1966 | Raumpatrouille – Die phantastischen Abenteuer des Raumschiffes Orion | Raumpatrouille – Die phantastischen Abenteuer des Raumschiffes Orion | Rolf Honold, Hans Gottschalk (Bavaria /  | 드라마·영화 | 확인 못 함 | 바다 밑에 도시를 지은 미래, 우주 순찰선 오리온 호가 외계 세력 '개구리'와 맞선다. |
 | 1966 | 스타트렉 | Star Trek | 진 로든베리(원작), 파라마운트·CBS 스튜디오 제작 | 드라마·영화 | 있음 | 23~24세기를 중심으로, 여러 행성이 모인 연방의 우주선들이 미지의 세계를 탐사하며 낯선 문명과 만나는 이야기. |
+| 1966 | The Interpretaris | The Interpretaris | John Warwick(Phoenix Five) 외 (ABC) | 드라마 | 확인 못 함 | 같은 미래를 쓰는 세 연작, 2500년 지구 우주 통제 함대의 순찰선 피닉스 5호. |
 | 1966 | The Time Tunnel | The Time Tunnel | Irwin Allen (ABC) | 드라마 | 확인 못 함 | 비밀 연구소의 시간 터널 실험에 휘말린 두 과학자가 역사 속 사건들로 떨어진다. |
+| 1966 | Wandjina! (경계) | Wandjina! | G. K. Saunders | 드라마 | 확인 못 함 | 오지 동굴 벽화 속 '하늘에서 온 이들' 완지나가 옛날 찾아온 외계 종족이었다. |
 | 1966 | 울트라맨 | ウルトラマン | 円谷プロダクション (円谷英二) | 게임·드라마·만화·애니메이션·영화 | 일부 | 지구에 온 빛의 거인과 과학 특수대가 괴수와 침략 외계인에 맞선다. |
+| 1966 | 快獣ブースカ | 快獣ブースカ | 円谷特技プロダクション · 東宝 | 드라마 | 확인 못 함 | 발명 좋아하는 소년이 기르던 이구아나에게 영양제를 먹여 말하는 괴수로 키운다. |
 | 1967 | Captain Scarlet and the Mysterons | Captain Scarlet and the Mysterons | Gerry Anderson, Sylvia Anderson | 드라마 | 일부 | 2060년대 화성 탐사대가 보이지 않는 화성 지성체를 건드리고, 지구 방위대가 그들이 되살린 복제 인간과 맞선다. |
+| 1967 | Mr. Terrific (경계) | Mr. Terrific | CBS | 드라마 | 확인 못 함 | 주유소 직원이 정부 비밀 계획국의 '힘 알약'을 먹으면 천 명 힘을 얻어 날며 범죄와 싸운다. |
 | 1967 | The Invaders | The Invaders | Larry Cohen (ABC, Quinn Martin 제작) | 드라마 | 확인 못 함 | 사람으로 꾸민 외계인들이 몰래 지구를 차지하는 것을 본 건축가가 홀로 이를 알리려 떠돈다. |
 | 1967 | The Prisoner (경계) | The Prisoner | Patrick McGoohan (ITC) | 드라마·만화·소설 | 확인 못 함 | 그만둔 비밀 요원이 정체 모를 '마을'에 갇혀 감시와 세뇌에 맞선다. |
+| 1967 | The Second Hundred Years | The Second Hundred Years | Roswell Rogers · Ed Simmons | 드라마 | 확인 못 함 | 1900년 알래스카 금광으로 갔다가 빙하 눈사태에 묻힌 남자가 가사 상태로 살아남아 깨어난다. |
 | 1967 | キャプテンウルトラ | キャプテンウルトラ | 東映 | 드라마 | 확인 못 함 | 우주 개척 시대, 우주 경비대 대장과 로봇·외계인 동료가 우주 괴물과 침략자를 막는다. |
+| 1967 | 光速エスパー (경계) | 光速エスパー | 東芝(캐릭터) · 宣弘社 | 드라마·만화 | 확인 못 함 | 작은 우주 정거장에 살던 소년이 박사에게 받은 강화복을 입고 악의 결사와 싸운다. |
 | 1967 | 吸血鬼ゴケミドロ | 吸血鬼ゴケミドロ | Hajime Sato | 드라마·영화 | 확인 못 함 | 정체 모를 빛에 맞아 추락한 여객기의 생존자들 사이로 사람 몸을 차지하는 외계 생명이 숨어든다. |
+| 1967 | 怪獣王子 | 怪獣王子 | 土屋啓之助 · 日本特撮株式会社 | 드라마 | 확인 못 함 | 화산섬에서 공룡 손에 자란 소년이 공룡 친구와 함께 우라늄을 노리는 외계인과 싸운다. |
+| 1968 | Joe 90 | Joe 90 | Gerry Anderson · Sylvia Anderson | 드라마 | 확인 못 함 | 전문가의 지식을 뇌에 옮기는 장치를 쓴 아홉 살 소년이 세계 정보망의 특급 요원이 된다. |
+| 1968 | Journey to the Unknown (경계) | Journey to the Unknown | Hammer Film Productions · 20th Century F | 드라마 | 확인 못 함 | 평범한 사람의 하루가 기이해지는 환상·공상 과학·공포 이야기 모음. |
+| 1968 | Land of the Giants | Land of the Giants | Irwin Allen | 드라마·소설 | 확인 못 함 | 1983년, 준궤도 여객기 스핀드리프트가 우주 경계에서 차원의 틈에 끌려가 거인들의 땅에 떨어진다. |
+| 1968 | The Champions (경계) | The Champions | Dennis Spooner · Monty Berman (ITC) | 드라마 | 확인 못 함 | 유엔 법 집행 기구 '네메시스'의 요원 셋이 첩보와 기이한 사건을 맡는 활극. |
+| 1968 | アゴン | アゴン | 日本電波映画 | 드라마 | 확인 못 함 | 우라늄 수송차가 습격당한 뒤 거대 공룡형 괴수가 나타나 원자력 시설을 부순다. |
+| 1968 | マイティジャック | マイティジャック | 円谷特技プロダクション · フジテレビ | 드라마 | 확인 못 함 | 민간 출자로 세운 방위·건설·구조 조직이 비밀 조직 Q 와 싸우는 첩보·기계 활극. |
 | 1968 | 怪奇大作戦 (경계) | 怪奇大作戦 | 円谷プロダクション | 드라마 | 확인 못 함 | 괴현상으로 꾸민 과학 범죄를 과학 수사 연구소가 파헤친다. |
+| 1969 | Counterstrike | Counterstrike | BBC | 드라마 | 확인 못 함 | 기자로 꾸며 지구에 사는 외계인 사이먼 킹이 동족의 침공을 막으려 한다. |
+| 1969 | Department S (경계) | Department S | Dennis Spooner · Monty Berman (ITC) | 드라마 | 확인 못 함 | 다른 기관이 못 푼 기묘한 국제 사건을 맡는 인터폴 특별부의 첩보 활극. |
+| 1969 | The New People (경계) | The New People | Larry Gordon · Aaron Spelling | 드라마 | 확인 못 함 | 비행기 추락으로 남태평양 섬에 갇힌 대학생들이, 핵실험장으로 지어 놓고 버린 마을에서 새 사회를 꾸린다. |
+| 1969 | The Secret Service (경계) | The Secret Service | Gerry Anderson · Sylvia Anderson | 드라마 | 확인 못 함 | 괴짜 시골 목사가 실은 영국 정보부 '비숍'의 요원으로 몰래 활약한다. |
+| 1969 | 魔神バンダー | 魔神バンダー | 東連山(원작) | 드라마 | 확인 못 함 | 혜성 별에서 빼앗긴 우주 에너지를 되찾으러 왕자와 수호신 반다가 지구에 온다. |
+| 1970 | Catweazle (경계) | Catweazle | Richard Carpenter | 드라마 | 확인 못 함 | 11세기의 서툰 마법사가 연못에 뛰어들었다가 900년 뒤 1969년 시골 농장에 나타난다. |
 | 1970 | Doomwatch | Doomwatch | Gerry Davis · Kit Pedler(드라마 원작) · Peter | 드라마·영화 | 확인 못 함 | 환경 감시 기관 '둠워치' 조사관이 바다에 버린 성장 촉진제로 주민이 변해 가는 외딴섬을 파헤친다. |
+| 1970 | Night Gallery (경계) | Night Gallery | Rod Serling | 드라마 | 확인 못 함 | 로드 설링이 미술관의 그림을 걷으며 들려주는 섬뜩한 이야기 선집. |
+| 1970 | The Adventures of Don Quick | The Adventures of Don Quick | ITV (주연 Ian Hendry · Ronald Lacey) | 드라마 | 확인 못 함 | 돈키호테를 비튼 우주 풍자극, 은하 정비대의 우주인 돈 퀵이 가는 별마다 엉뚱한 정의를 편다. |
+| 1970 | Timeslip | Timeslip | Ruth Boswell · James Boswell | 드라마 | 확인 못 함 | 역사의 한 조각이 거품처럼 떠도는 '시간 거품'을 다룬 어린이 시간 여행극. |
 | 1970 | UFO | UFO | Gerry Anderson, Sylvia Anderson, Reg Hil | 드라마 | 확인 못 함 | 외계인이 몰래 사람을 잡아가는 1980년대, 비밀 조직이 달 기지와 요격기로 막아선다. |
+| 1970 | ジャングルプリンス (경계) | ジャングルプリンス | 関沢新一 · 新井豊(원작) · 日本電波映画 | 드라마 | 확인 못 함 | 열대 섬에서 큰 원숭이 손에 자란 소년이 신비한 돌의 힘으로 영웅이 되어 악당과 로봇에 맞선다. |
 | 1970 | チビラくん (경계) | チビラくん | 円谷プロダクション | 드라마 | 확인 못 함 | 괴수 행성에 사는 꼬마 괴수와 발명가 아빠 가족이 벌이는 특촬 시트콤. |
+| 1970 | 俺は透明人間! (경계) | 俺は透明人間! | ピー・プロダクション | 드라마 | 확인 못 함 | 주문을 외면 투명해지는 시골 소년이 도쿄의 삼촌 집에 와 벌이는 코미디. |
+| 1971 | The Guardians | The Guardians | Rex Firkin · Vincent Tilsley | 드라마 | 확인 못 함 | 경제 혼란 끝에 무혈 쿠데타가 일어나 총리가 홀로 다스리는 1980년대 영국의 정치 스릴러. |
 | 1971 | シルバー仮面 (경계) | シルバー仮面 | 宣弘社 | 드라마 | 확인 못 함 | 광자 로켓 설계도를 노리는 외계인에게 아버지를 잃은 남매가 떠돌며, 차남이 은빛 영웅이 된다. |
 | 1971 | スペクトルマン | スペクトルマン | ピー・プロダクション | 드라마 | 확인 못 함 | 지구를 노리는 외계 원숭이 과학자가 공해로 괴수를 만들고, 외계 연맹이 보낸 사이보그가 맞선다. |
+| 1971 | ミラーマン (경계) | ミラーマン | 円谷プロダクション | 드라마·영화 | 확인 못 함 | 다른 차원에서 온 초인의 아들인 사진기자가 아버지의 힘을 이어받아 외계 침략자와 싸운다. |
 | 1971 | 가면라이더 (경계) | 仮面ライダー | 石ノ森章太郎, 東映 | 게임·드라마·만화·애니메이션·영화 | 일부 | 악의 조직에 몸을 개조당한 젊은이가 그 힘으로 조직에 맞선다. 작품마다 세계가 바뀐다. |
+| 1971 | 好き! すき!! 魔女先生 (경계) | 好き! すき!! 魔女先生 | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 안드로메다 별에서 온 평화 감시원이 교사가 되어 몰래 지구인을 조사한다. |
+| 1972 | Alpha Alpha (경계) | Alpha Alpha | Wolfgang F. Henschel | 드라마 | 확인 못 함 | 이름 없는 비밀 조직의 요원 알파가 기이한 사건을 캐는 과학 판타지극. |
+| 1972 | Search | Search | Leslie Stevens | 드라마 | 확인 못 함 | 첨단 사설 조사 회사의 정예 요원 '프로브'들이 몸에 심은 수신기로 본부의 도움을 받는다. |
+| 1972 | アイアンキング (경계) | アイアンキング | 宣弘社 | 드라마 | 확인 못 함 | 옛 조정에 멸망한 소수 부족의 후예가 거대 로봇으로 나라를 뒤엎으려 하고 요원들이 맞선다. |
+| 1972 | サンダーマスク (경계) | サンダーマスク | 東洋エージェンシー · ひろみプロダクション | 드라마 | 확인 못 함 | 지구 침략을 막으러 온 별의 전사가 실수로 1만 년 전 지구에 닿아 미래의 싸움을 준비한다. |
+| 1972 | トリプルファイター (경계) | トリプルファイター | 円谷プロダクション | 드라마 | 확인 못 함 | 고향 별을 잃고 지구로 온 사람들이 만든 우주 공격대가 데빌 별 침략자와 싸운다. |
+| 1972 | レッドマン (경계) | レッドマン | 円谷プロダクション | 드라마 | 확인 못 함 | 붉은 영웅이 괴수와 맞붙어 싸우기만 하는 짧은 격투 꼭지. |
 | 1972 | 人造人間キカイダー (경계) | 人造人間キカイダー | 石ノ森章太郎(원작), RADIX·スタジオOX(OVA) | 드라마·만화·애니메이션 | 확인 못 함 | 인조인간 키카이더 지로가 비밀 결사 다크의 남은 세력과 로봇 군단, 되살아난 숙적 하카이더에 맞선다. |
 | 1972 | 사랑의 전사 레인보우맨 (경계) | 愛の戦士レインボーマン | 川内康範(원작), 土田プロダクション(애니메이션) | 드라마·애니메이션 | 확인 못 함 | 일본을 노리는 비밀 조직과 싸우는 변신 영웅물 — 애니메이션판은 거대 로봇과 외계인 수장을 더했다. |
+| 1972 | 突撃! ヒューマン!! (경계) | 突撃! ヒューマン!! | ユニオン映画 · モ・ブル | 드라마 | 확인 못 함 | 이름난 체조 코치가 사실은 외계에서 온 사람이고, 아이들을 단련시켜 침략자와 싸운다. |
+| 1972 | 緊急指令10-4・10-10 | 緊急指令10-4・10-10 | 円谷プロダクション | 드라마 | 확인 못 함 | 아마추어 무선 동호인들이 무선으로 들은 괴수·외계인 사건을 민간 특수 조사대가 푼다. |
+| 1972 | 行け!ゴッドマン (경계) | 行け!ゴッドマン | 東宝企画 | 드라마 | 확인 못 함 | 아이들을 덮치는 괴수와 외계인에 맞서 불의 신 별에서 온 초인이 나타난다. |
+| 1973 | Moonbase 3 | Moonbase 3 | Barry Letts · Terrance Dicks | 드라마 | 확인 못 함 | 다섯 강대국이 달에 기지를 둔 2003년, 유럽의 제3기지에 새 기지장이 온다. |
+| 1973 | Robert's Robots | Robert's Robots | Bob Block | 드라마 | 확인 못 함 | 로봇을 만든 발명가 로버트와 그가 함께 사는 밀리 고모. |
+| 1973 | The Evil Touch (경계) | The Evil Touch | Mende Brown | 드라마 | 확인 못 함 | 오컬트·공상 과학·살인 계획을 오가는 반전 있는 한 편짜리 이야기 모음. |
+| 1973 | The Investigator | The Investigator | Gerry Anderson | 드라마 | 확인 못 함 | 다른 은하에서 온 전지의 존재가 몸을 줄이고 힘을 준 미국 젊은이 둘과 지구의 악을 없애려 한다. |
+| 1973 | The Starlost | The Starlost | Harlan Ellison (이름 Cordwainer Bird) | 드라마 | 확인 못 함 | 지구 멸망을 내다보고 띄운 거대 세대선 '어스십 아크'가 사고 뒤 길을 잃고 떠돈다. |
 | 1973 | The Tomorrow People | The Tomorrow People | Roger Price (Thames / ITV) | 드라마 | 확인 못 함 | 다음 단계로 진화해 텔레파시와 순간 이동을 쓰게 된 젊은이들이 숨어서 서로를 지킨다. |
+| 1973 | イナズマン (경계) | イナズマン | 石ノ森章太郎(원작) · 東映 | 드라마·영화 | 확인 못 함 | 초능력에 눈뜬 대학생이 번개의 영웅으로 변신해 돌연변이들의 새 인류 제국과 싸운다. |
 | 1973 | ジャンボーグA (경계) | ジャンボーグA | 円谷プロダクション | 드라마 | 확인 못 함 | 외계인이 괴수로 지구를 침략하자, 형을 잃은 조종사가 다른 별에서 받은 거대 로봇으로 맞선다. |
+| 1973 | ファイヤーマン (경계) | ファイヤーマン | 円谷プロダクション · 萬年社 | 드라마 | 확인 못 함 | 천재지변 속에 멸종한 공룡이 괴수로 나타나고, 땅속 대륙에서 보낸 청년이 거대 영웅으로 맞선다. |
+| 1973 | ロボット刑事 (경계) | ロボット刑事 | 石ノ森章太郎(원작) · 東映 | 드라마·만화 | 확인 못 함 | 사람은 할 수 없는 범죄 뒤의 범죄 로봇 대여 조직을 로봇 형사 K 가 사람 형사들과 쫓는다. |
 | 1973 | 流星人間ゾーン | 流星人間ゾーン | 東宝映像 | 드라마 | 확인 못 함 | 고향 별을 잃고 지구에 정착한 외계인 가족이 괴수를 앞세운 침략자에 맞선다. 고지라도 편을 든다. |
+| 1973 | 行け! グリーンマン (경계) | 行け! グリーンマン | 東宝企画 | 드라마 | 확인 못 함 | 악의 마왕이 보내는 괴수에 맞서 그린 별에서 온 초인이 아이들을 구한다. |
+| 1973 | 鉄人タイガーセブン (경계) | 鉄人タイガーセブン | ピー・プロダクション | 드라마 | 확인 못 함 | 사막의 원시인에게 죽은 청년이 미라 소생용 인공 심장으로 되살아나 영웅이 된다. |
+| 1973 | 魔人ハンター ミツルギ (경계) | 魔人ハンター ミツルギ | 国際放映 · 土屋啓之助 | 드라마 | 확인 못 함 | 에도 시대, 전갈자리에서 온 우주 닌자 군단이 괴수를 앞세워 천하를 노리고 세 남매가 맞선다. |
+| 1974 | Alpha Scorpio | Alpha Scorpio | James Davern | 드라마 | 확인 못 함 | 바닷가에서 야영하던 대학생 둘이 지진계에 잡힌 이상한 진동 뒤에서 외계의 낌새를 본다. |
+| 1974 | Das Blaue Palais | Das Blaue Palais | Rainer Erler | 드라마·소설 | 확인 못 함 | 여러 분야 과학자가 함께한 연구 계획의 실험과 발견을 다룬 다섯 이야기. |
+| 1974 | Kolchak: The Night Stalker (경계) | Kolchak: The Night Stalker | Jeff Rice | 드라마 | 확인 못 함 | 기이한 범죄, 특히 초자연 존재나 과학 공상 괴물이 얽힌 사건을 캐는 통신사 기자 콜책. |
 | 1974 | 무인도의 모험 | Land of the Lost | Sid & Marty Krofft | 드라마·영화 | 있음 | 강을 따라 떠내려가던 가족이 '시간의 문'을 넘어 공룡이 사는 이상한 세계에 떨어진다. |
+| 1974 | Telerop 2009 – Es ist noch was zu retten | Telerop 2009 – Es ist noch was zu retten | Jürgen Voigt · Karl Wittlinger(각본) · Ebe | 드라마 | 확인 못 함 | 1970~80년대의 오염으로 자연이 거의 무너지고 벌레만 살아남은 2009년. |
+| 1974 | がんばれ!!ロボコン | がんばれ!!ロボコン | 石ノ森章太郎(원작) · 東映 | 드라마·영화 | 확인 못 함 | 사람 집에 파견된 서툰 심부름 로봇이 쓸모 있는 로봇이 되려고 애쓰는 코미디. |
 | 1974 | スーパーロボット マッハバロン (경계) | スーパーロボット マッハバロン | 日本現代企画, 日本テレビ | 드라마 | 없음 | 세계 정복을 꿈꾸는 과학자의 로봇 군단에 맞서, 그 밑에서 배운 박사의 아들이 거대 로봇 마하바론을 몬다. |
 | 1974 | 猿の軍団 | 猿の軍団 | 円谷プロダクション, 小松左京 | 드라마 | 확인 못 함 | 지진으로 냉동 수면 장치에 갇힌 세 사람이 깨어나 보니 원숭이가 다스리는 미래의 지구였다. |
+| 1974 | 電人ザボーガー (경계) | 電人ザボーガー | ピープロ(TV) · 井口昇(2011 영화) | 드라마·영화 | 확인 못 함 | 아버지가 만든 오토바이 변신 로봇과 함께 청년이 사이보그 악당 조직과 싸운다. |
+| 1974 | 電撃!! ストラダ5 (경계) | 電撃!! ストラダ5 | 澤田幸弘 · 蔓年社 · 日活 | 드라마 | 확인 못 함 | 특수 능력을 지닌 다섯 남녀의 국제 경찰 비밀 팀이 기계와 초고성능 차로 범죄 조직과 싸운다. |
+| 1975 | Far Out Space Nuts | Far Out Space Nuts | Sid & Marty Krofft · Joe Ruby · Ken Spea | 드라마 | 확인 못 함 | 로켓에 짐을 싣던 두 일꾼이 '점심' 단추 대신 '발사'를 눌러 외계 행성들을 떠돈다. |
+| 1975 | Gamma | Gamma | Salvatore Nocita(연출) · Fabrizio Trecca · | 드라마 | 확인 못 함 | 젊은 경주용 차 운전수에게 한 뇌 이식과 그것이 낳는 윤리 문제. |
+| 1975 | Sky (경계) | Sky | Bob Baker · Dave Martin | 드라마 | 확인 못 함 | 파란 눈의 외계 소년 스카이가 시대를 잘못 내려와, 초능력으로 '혼돈' 뒤의 제때를 찾아간다. |
 | 1975 | 우주대모험 1999 | Space: 1999 | Gerry Anderson, Sylvia Anderson (ITC) | 드라마·만화·소설 | 있음 | 핵폐기물 폭발로 궤도를 벗어난 달이 기지 사람들을 태운 채 우주를 떠돈다. |
 | 1975 | Survivors | Survivors | Terry Nation (BBC) | 드라마·소설 | 확인 못 함 | 전염병으로 인류 대부분이 죽은 뒤, 살아남은 사람들이 공동체를 다시 일군다. |
+| 1975 | The Day After Tomorrow | The Day After Tomorrow | Gerry Anderson(제작) · Johnny Byrne(각본) | 드라마 | 확인 못 함 | 오염으로 지구가 위태로운 앞날, 빛의 힘으로 빛만큼 빨리 가는 첫 우주선 알타레스가 알파 센타우리로 간다. |
+| 1975 | The Ghost Busters (경계) | The Ghost Busters | Marc Richards (Filmation) | 드라마·애니메이션 | 확인 못 함 | 옛 유령 사냥꾼들의 아들 제이크와 에디가 고릴라 트레이시와 함께 유령을 잡는다. |
+| 1975 | The Lost Saucer | The Lost Saucer | Sid & Marty Krofft | 드라마 | 확인 못 함 | 2369년 행성 ZR-3에서 온 시간 여행 인조인간 둘이 소년과 보모를 비행접시에 태운다. |
+| 1975 | The Secrets of Isis (경계) | The Secrets of Isis | Marc Richards (Filmation) | 드라마 | 확인 못 함 | 이집트 발굴에서 고대 금 부적을 찾은 고교 과학 교사가 그 힘으로 영웅이 된다. |
 | 1975 | 파워레인저 (경계) | スーパー戦隊シリーズ | 石ノ森章太郎 (처음 두 편), 東映 | 게임·드라마·만화·영화 | 일부 | 색깔별 강화복을 입은 전사들이 합체 거대 로봇으로 침략자와 싸운다. 해마다 새 세계. |
+| 1975 | 冒険ロックバット | 冒険ロックバット | うしおそうじ(원작) · ピー・プロダクション | 드라마 | 확인 못 함 | 동물 마을의 박사가 만든 덜렁이 로봇과 동생 로봇이 악당의 나쁜 짓을 막는다. |
+| 1976 | Ark II | Ark II | Ted Post · Martin Roth | 드라마 | 확인 못 함 | 오염과 낭비로 문명이 무너진 25세기, 남은 과학자들이 세상을 다시 세우려 한다. |
+| 1976 | Dr. Shrinker | Dr. Shrinker | The Krofft Supershow (ABC) | 드라마 | 확인 못 함 | 비행기 사고로 외딴섬에 떨어진 십대 셋이 무엇이든 줄이는 광선을 만든 미친 과학자를 만난다. |
+| 1976 | Electra Woman and Dyna Girl (경계) | Electra Woman and Dyna Girl | Sid & Marty Krofft (Joe Ruby · Ken Spear | 드라마 | 확인 못 함 | 잡지 기자로 사는 망토 영웅 일렉트라 우먼과 십대 조수 다이나 걸이 범죄와 싸운다. |
+| 1976 | Future Cop | Future Cop | Anthony Wilson · Allen S. Epstein | 드라마 | 확인 못 함 | 노련한 거리 경찰이 경찰 연구소가 짜 넣은 시험용 안드로이드를 새 짝으로 받는다. |
+| 1976 | Holmes & Yoyo | Holmes & Yoyo | Jack Sher · Lee Hewitt | 드라마 | 확인 못 함 | 늘 짝을 다치게 하던 형사에게 서툴지만 힘센 인조인간 새 짝 요요가 붙는다. |
+| 1976 | Star Maidens | Star Maidens | Jost Graf von Hardenberg | 드라마 | 확인 못 함 | 떠돌이 행성을 무대로 한 영국·서독 합작 공상 과학 연속극. |
+| 1976 | The Georgian House (경계) | The Georgian House | Jill Laurimore · Harry Moore | 드라마 | 확인 못 함 | 브리스틀 옛집에서 안내원으로 일하던 십대 둘이 1772년으로 옮겨 간다. |
+| 1976 | ザ・カゲスター (경계) | ザ・カゲスター | 八手三郎(원작) · 東映 | 드라마 | 확인 못 함 | 고압선에 감전된 두 사람의 마음이 그림자에 깃들어 초인이 되고, 세계 정복을 노리는 제국과 싸운다. |
+| 1976 | プロレスの星 アステカイザー (경계) | プロレスの星 アステカイザー | 永井豪 · 石川賢(원작) | 드라마 | 확인 못 함 | 악당 레슬러 군단에 형을 잃은 젊은 레슬러가 변신 영웅이 되어 맞선다. |
+| 1976 | 円盤戦争バンキッド (경계) | 円盤戦争バンキッド | 東宝 · 高橋薫明(원안) | 드라마 | 확인 못 함 | 20년 뒤 지구로 옮겨 오려는 외계인이 아이들을 노리고, 소년소녀 비행접시 유격대가 맞선다. |
+| 1976 | 宇宙鉄人キョーダイン (경계) | 宇宙鉄人キョーダイン | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 로봇 공학자 아버지와 형들이 외계인에게 끌려가고, 형들의 기억을 담은 로봇 형제가 침략에 맞선다. |
 | 1976 | 恐竜探険隊ボーンフリー | 恐竜探険隊ボーンフリー | 円谷プロダクション | 드라마·애니메이션 | 확인 못 함 | 1996년, 혜성이 일으킨 지각 변동으로 땅속 공룡들이 지상에 나타나자, 공룡을 보호할 포획대가 꾸려진다. |
+| 1977 | 1990 | 1990 | Wilfred Greatorex | 드라마 | 확인 못 함 | 내무부 공공통제국이 시민의 자유를 짓누르는 앞날의 영국을 그린 정치극. |
+| 1977 | Alternative 3 | Alternative 3 | David Ambrose · Christopher Miles | 드라마 | 확인 못 함 | 과학자들이 사라진 뒤에는 기후 재앙에 앞서 달과 화성에 사람을 옮기려는 비밀 계획이 있었다. |
+| 1977 | Bigfoot and Wildboy (경계) | Bigfoot and Wildboy | Joe Ruby · Ken Spears | 드라마 | 확인 못 함 | 빅풋이 숲에서 길러 낸 소년 와일드보이와 함께 범죄자와 외계인에 맞선다. |
+| 1977 | Children of the Stones (경계) | Children of the Stones | Jeremy Burnham · Trevor Ray | 드라마·소설 | 확인 못 함 | 거석 고리 한가운데 선 마을 밀버리에 온 천체 물리학자 아버지와 아들이 겪는 섬뜩한 일. |
+| 1977 | Come Back Mrs. Noah | Come Back Mrs. Noah | Jeremy Lloyd · David Croft | 드라마 | 확인 못 함 | 2050년, 요리 대회 상으로 우주선을 구경하던 주부가 뜻밖에 우주로 쏘아 올려진다. |
 | 1977 | 콘헤드 대소동 | Coneheads | Dan Aykroyd 외(SNL), Steve Barron(영화) | 드라마·영화 | 있음 | 원뿔 머리 외계인 부부가 지구에 불시착해 프랑스 출신이라 둘러대며 미국 교외에 산다. |
 | 1977 | Man from Atlantis (경계) | Man from Atlantis | Mayo Simon, Herbert F. Solow (NBC) | 드라마 | 확인 못 함 | 물속에서 숨 쉬는 수수께끼의 사내가 해양 연구소와 함께 바닷속 사건을 푼다. |
+| 1977 | Mystery Island | Mystery Island | Hanna-Barbera | 드라마 | 확인 못 함 | 미친 과학자의 광선에 비행기가 떨어져 외딴섬에 갇힌 젊은이 셋과 컴퓨터 로봇 팝스. |
+| 1977 | Quark | Quark | Buck Henry | 드라마 | 확인 못 함 | 2226년, 은하 연합 쓰레기 수거선 선장 애덤 쿼크와 승무원들의 희극. |
+| 1977 | Space Academy | Space Academy | Allen Ducovny (Filmation) | 드라마 | 확인 못 함 | 별 연도 3732년, 소행성에 세운 우주 아카데미에 남다른 재능을 지닌 젊은이들이 모인다. |
+| 1977 | The Fantastic Journey | The Fantastic Journey | Bruce Lansbury | 드라마 | 확인 못 함 | 카리브해 과학 탐사를 떠난 가족과 동료들이 버뮤다 삼각지대에서 빛나는 초록 구름을 만난다. |
+| 1977 | ロボット110番 | ロボット110番 | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 박사가 만든 로봇 넷이 로봇 서비스 센터를 차려 사람들을 돕는다. |
+| 1977 | 冒険ファミリー ここは惑星0番地 | 冒険ファミリー ここは惑星0番地 | 秋月一彦(원작) · 田中秀夫 · 広田茂穂 | 드라마 | 확인 못 함 | 지구를 연구하던 외계인이 보통 가족들을 표본으로 '채집'해 제 별로 데려가려 한다. |
 | 1977 | 大鉄人17 (경계) | 大鉄人17 | 石ノ森章太郎, 東映 | 드라마 | 확인 못 함 | 인류를 지키려 만든 초컴퓨터 '브레인'이 인류야말로 지구의 재앙이라 결론 내리자, 거대 로봇 17이 맞선다. |
+| 1977 | 小さなスーパーマン ガンバロン (경계) | 小さなスーパーマン ガンバロン | 日本現代企画 | 드라마 | 확인 못 함 | 할아버지의 유품으로 꼬마 영웅 감바론으로 변신하는 소년이 나쁜 박사 일당의 음모를 부순다. |
+| 1977 | 快傑ズバット (경계) | 快傑ズバット | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 과학자 친구를 노리는 폭력단 앞에 사설탐정이 나타나 가면의 영웅으로 악당을 무너뜨린다. |
 | 1977 | 공룡대전쟁 아이젠보그 | 恐竜大戦争アイゼンボーグ | 円谷プロダクション | 드라마·애니메이션 | 있음 | 1986년, 사라졌던 공룡들이 초능력을 지니고 되살아나 인류에 전쟁을 걸고, 사이보그 남매가 맞선다. |
 | 1978 | Battlestar Galactica | Battlestar Galactica | Glen A. Larson (ABC); 새 판 Ronald D. Moor | 게임·드라마·만화·소설·영화·탁상 게임 | 확인 못 함 | 만든 기계 사일론에게 고향 별들을 잃은 인류가 마지막 함대로 전설의 지구를 찾는다. |
 | 1978 | Blake's 7 | Blake's 7 | Terry Nation (BBC) | 드라마·소설 | 확인 못 함 | 억압적인 지구 정부에 맞선 탈옥수들이 훔친 외계 우주선을 타고 저항을 이어 간다. |
+| 1978 | Blindpassasjer | Blindpassasjer | Jon Bing · Tor Åge Bringsværd(각본) · Stei | 드라마 | 확인 못 함 | 지구로 돌아오는 우주선 마르코 폴로, 승무원 하나가 그를 흉내 낸 생체 로봇으로 바뀌었다. |
+| 1978 | Jason of Star Command | Jason of Star Command | Arthur H. Nadel (Filmation) | 드라마 | 확인 못 함 | 우주 모험가 제이슨과 교수, 주머니 로봇 '위키'가 악당 드라고스에 맞선다. |
+| 1978 | Metal Mickey | Metal Mickey | Johnny Edward(로봇) · Colin Bostock-Smith( | 드라마 | 확인 못 함 | 다섯 자 키의 친근한 로봇 메탈 미키가 주인공인 희극. |
+| 1978 | Mork & Mindy | Mork & Mindy | Garry Marshall · Dale McRaven · Joe Glau | 드라마 | 확인 못 함 | 오크 행성에서 지구로 온 외계인 모크와 사람 친구 민디의 희극. |
+| 1978 | Project U.F.O. (경계) | Project U.F.O. | Jack Webb · Harold Jack Bloom | 드라마 | 확인 못 함 | 공군 해외 기술부 조사관 둘이 미확인 비행 물체 목격담을 조사한다. |
+| 1978 | The Doombolt Chase | The Doombolt Chase | Don Houghton | 드라마 | 확인 못 함 | 브리스틀 해협 순찰 중 해군도 모르는 암호를 받은 지휘관이 일부러 고깃배를 들이받는다. |
 | 1978 | 은하수를 여행하는 히치하이커를 위한 안내서 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | 게임·드라마·소설·영화 | 있음 | 우회 도로를 내려고 지구가 철거된 날, 살아남은 영국인이 엉뚱한 은하를 떠돈다. |
+| 1978 | UFOセブン大冒険 (경계) | UFOセブン大冒険 | TBS | 드라마 | 확인 못 함 | 3978년의 소녀가 타임머신 고장으로 아이 일곱과 함께 1978년에 떨어져 돌아갈 길을 찾는 소동극. |
+| 1978 | UFO大戦争 戦え! レッドタイガー (경계) | UFO大戦争 戦え! レッドタイガー | 大野幸太郎(원작) · 創英舎 | 드라마 | 확인 못 함 | 박사가 만든 거대 로봇 요새를 노리는 마왕의 비행접시 군단에 맞서 영웅이 싸운다. |
 | 1978 | X 수색대 (경계) | X 수색대 | MBC | 드라마 | 한국 원작 | 알파성 외계인이 사람으로 변장해 지구를 노리자, 신기한 팔찌로 초능력을 얻은 아이들이 수색대를 만든다. |
+| 1978 | スパイダーマン (경계) | スパイダーマン | 東映 · マーベル(원작) | 드라마·영화 | 확인 못 함 | 외계 악당에게 아버지를 잃은 레이서가 스파이더 별 사람에게 거미의 힘을 받아 거대 로봇과 함께 싸운다. |
+| 1978 | 恐竜戦隊コセイドン (경계) | 恐竜戦隊コセイドン | 円谷プロダクション | 드라마 | 확인 못 함 | 시간 여행이 이뤄진 미래, 백악기에 세운 식민지를 시공 관리국의 거대 시간 기계 팀이 지킨다. |
 | 1978 | 우주탐험대 (경계) | 우주탐험대 | MBC | 드라마 | 한국 원작 | 서울 근교에 떨어진 운석이 흔적 없이 사라진 뒤, 아이들이 그 수수께끼와 우주의 위협에 맞선다. |
+| 1979 | Cliffhangers (경계) | Cliffhangers | Kenneth Johnson | 드라마 | 확인 못 함 | 옛 연속 활극을 되살려 추리물·과학 공상 서부극·흡혈귀물을 한 시간에 나눠 담았다. |
+| 1979 | Highcliffe Manor (경계) | Highcliffe Manor | Robert Blees | 드라마 | 확인 못 함 | 뉴잉글랜드 외딴섬의 오싹한 저택, 과학 연구소에 사는 괴짜 과학자들과 기묘한 이들의 희극. |
+| 1979 | Les Aventures électriques de Zeltron (경계) | Les Aventures électriques de Zeltron | D-3-mil · CIP Vidéo (EDF 후원) | 드라마 | 확인 못 함 | 애자를 닮은 외계인 젤트롱이 지구 아이 둘에게 전기와 역사를 가르친다. |
+| 1979 | Read All About It! | Read All About It! | TVOntario | 드라마 | 확인 못 함 | 사라진 삼촌의 차고를 물려받은 열한 살 소년이 그 안의 인공지능 둘과 은하 지배자에 맞선다. |
+| 1979 | Salvage 1 | Salvage 1 | Mike Lloyd Ross | 드라마 | 확인 못 함 | 돈 될 일을 늘 꿈꾸는 고물상이 달에 남겨진 장비를 건져 오려 한다. |
+| 1979 | Sapphire & Steel (경계) | Sapphire & Steel | Peter J. Hammond | 드라마 | 확인 못 함 | 차원을 다스리는 힘이 보낸 원소 이름의 요원 사파이어와 스틸이 시간의 어긋남을 바로잡는다. |
+| 1979 | Supertrain | Supertrain | Donald E. Westlake · Earl W. Wallace | 드라마 | 확인 못 함 | 수영장·상점가·디스코장까지 갖춘 핵 추진 초고속 열차 위의 사람들. |
+| 1979 | The Omega Factor | The Omega Factor | Jack Gerson | 드라마 | 확인 못 함 | 숨은 초능력을 지닌 기자가 초자연 현상과 사람 마음의 힘을 캐는 정부 비밀 부서에 든다. |
+| 1979 | Time Express (경계) | Time Express | Ivan Goff · Ben Roberts | 드라마 | 확인 못 함 | 초대장을 받은 승객들이 신비한 열차를 타고 삶이 갈린 과거의 때와 곳으로 간다. |
+| 1979 | Этот фантастический мир | Этот фантастический мир | 소련 중앙 텔레비전 어린이·청소년국 | 드라마 | 확인 못 함 | 소련 공상 과학 작가들의 이야기를 몇 편씩 묶어 극으로 보여 준 텔레비전 선집. |
+| 1979 | メガロマン (경계) | メガロマン | 雁屋哲(원작) · 東宝 | 드라마 | 확인 못 함 | 두 종족이 살던 별을 정복한 호전 종족이 지구 침략에 나서고, 거대 영웅이 맞선다. |
+| 1980 | Starstuff | Starstuff | WCAU-TV | 드라마 | 확인 못 함 | 1980년 필라델피아 소년이 만든 컴퓨터가 2010년 첫 우주 식민지에서 태어난 소녀와 이어진다. |
+| 1980 | The Flipside of Dominick Hide | The Flipside of Dominick Hide | Jeremy Paul · Alan Gibson | 드라마 | 확인 못 함 | 깨끗하고 안전한 2130년에서 온 시간 여행자가 몰래 1980년 런던에 조상을 찾으러 간다. |
+| 1980 | Timelapse | Timelapse | ABC | 드라마 | 확인 못 함 | 1979년 살해된 뒤 부패한 정치인들이 얼려 둔 천재가 1991년 권위주의 정부에 복수한다. |
 | 1980 | X 봄버 | Xボンバー | 永井豪, ダイナミックプロ | 드라마·만화 | 있음 | 은하를 정복하려는 겔마 제국에 맞서 우주선 X 봄버가 수수께끼의 소녀를 지키며 싸운다. |
+| 1980 | 東京大地震マグニチュード8.1 (경계) | 東京大地震マグニチュード8.1 | 西村潔(감독), 下飯坂菊馬·笠原和夫(각본) | 드라마 | 확인 못 함 | 198X년 4월, 사가미만 대지진이 도쿄를 덮치는 근미래 재난 텔레비전 영화. |
+| 1981 | Astronauts | Astronauts | Graeme Garden · Bill Oddie | 드라마 | 확인 못 함 | 우주 정거장에 여섯 달 동안 갇혀 지내게 된 우주인 셋과 개 한 마리의 희극. |
+| 1981 | Codename Icarus (경계) | Codename Icarus | Richard Cooper | 드라마·소설 | 확인 못 함 | 천재 아이들을 부려 핵미사일로 세계를 쥐려는 이카루스 재단의 음모. |
+| 1981 | Fatty and George | Fatty and George | Ron Saunders · Eddie Moses | 드라마 | 확인 못 함 | 시간 여행 실험 끝에 틈새 차원에 갇힌 과학자 아버지를 남매가 찾고, 시간을 멈추는 수정을 지킨다. |
+| 1981 | Into the Labyrinth (경계) | Into the Labyrinth | Peter Graham Scott · Bob Baker | 드라마 | 확인 못 함 | 악한 마법사가 시공 너머로 보낸 힘의 물건 니두스를 착한 마법사 로스고가 되찾으려 한다. |
+| 1981 | Kinvig | Kinvig | Nigel Kneale | 드라마 | 확인 못 함 | 시골 전파사 주인 킨빅이 밤에 비행접시를 본 뒤 손님 그리핀 양의 숨은 정체를 알게 된다. |
+| 1981 | Sternensommer | Sternensommer | Justus Pfaue | 드라마 | 확인 못 함 | 화학 공장 지배인 아버지를 따라 이사 온 소년, 공장 스모그와 함께 기이한 일이 잇따른다. |
+| 1981 | The Great Space Coaster | The Great Space Coaster | Kermit Love · Jim Martin | 드라마 | 확인 못 함 | 광대 백스터가 롤러코스터 꼴 우주선으로 십대 음악가 셋을 소행성 코스터빌로 태워 간다. |
+| 1981 | The Greatest American Hero (경계) | The Greatest American Hero | Stephen J. Cannell | 드라마 | 확인 못 함 | 현장 학습 중 외계인에게 초능력 옷을 받은 고등학교 교사가 서툴게 영웅 노릇을 한다. |
+| 1981 | Unterwegs nach Atlantis | Unterwegs nach Atlantis | Thomas Fantl(연출) | 드라마 | 확인 못 함 | 네 나라가 함께 만든 공상 과학 연속극. |
+| 1981 | おてんば宇宙人 | おてんば宇宙人 | 国際放映 | 드라마 | 확인 못 함 | 원치 않는 혼인을 피해 별을 뛰쳐나온 말괄량이 외계 공주가 지구 집에 얹혀산다. |
+| 1981 | ロボット8ちゃん | ロボット8ちゃん | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 주인공 로봇 하찬이 사람들 사이에서 벌이는 로봇 특촬 코미디. |
+| 1981 | 俺はご先祖さま | 俺はご先祖さま | オフィス・ヘンミ | 드라마 | 확인 못 함 | 사랑이 위험한 생각으로 여겨지는 미래에서 시간 기계를 타고 온 후손 여자가 '할아버지'를 찾아온다. |
+| 1982 | Brødrene Dal og spektralsteinene | Brødrene Dal og spektralsteinene | KLM (Trond Kirkvaag · Knut Lystad · Lars | 드라마 | 확인 못 함 | 발굴을 돕던 달 형제, 반지를 만지면 우주선이 오고 외계 존재가 시간 기계 설계도를 준다. |
+| 1982 | Der Androjäger | Der Androjäger | Bavaria Film | 드라마 | 확인 못 함 | 외계 수송선이 떨어뜨린 인조인간들을 사람 모습의 단도레가 경찰로 꾸며 찾아 나선다. |
 | 1982 | 전격Z작전 (경계) | Knight Rider | Glen A. Larson (NBC) | 게임·드라마 | 있음 | 말하는 인공지능 자동차와 요원이 재단의 일을 맡아 악당을 쫓는다. |
+| 1982 | Play for Tomorrow | Play for Tomorrow | BBC | 드라마 | 확인 못 함 | 20세기 끝이나 21세기 초의 어느 해 삶을 한 편씩 그린 미래 극 모음. |
+| 1982 | Q.E.D. (경계) | Q.E.D. | John Hawkesworth · Robert Schlitt | 드라마 | 확인 못 함 | 에드워드 시대 영국, 셜록 홈스 같은 과학 탐정 데버릴 교수의 모험. 스팀펑크 기운이 있다. |
+| 1982 | Ta den ring | Ta den ring | Jon Bing · Tor Åge Bringsværd | 드라마 | 확인 못 함 | 태양 상징이 사람의 행동을 바꾼다고 믿는 교수가 오슬로 학회에서 살인 사건에 휘말린다. |
+| 1982 | The Phoenix | The Phoenix | Anthony Lawrence · Nancy Lawrence | 드라마 | 확인 못 함 | 페루의 석관에서 발견돼 깨어난 고대 외계인 '황금빛의 베누'. |
+| 1982 | The Powers of Matthew Star | The Powers of Matthew Star | Steven E. de Souza | 드라마 | 확인 못 함 | 은하 함대에 정복당한 행성 쿼드리스의 왕자가 지구에 숨어 살며 제 힘으로 범죄와 싸운다. |
+| 1982 | Voyagers! | Voyagers! | James D. Parriott | 드라마 | 확인 못 함 | 시간 여행자 모임 '보이저'의 피니어스가 1982년 소년 제프리와 손 장치로 역사를 오간다. |
+| 1982 | Watch This Space | Watch This Space | Mike Meade | 드라마 | 확인 못 함 | 붉은 피부의 외계인 루퍼스가 지구에 와 연예계에 들어가려 한다. |
+| 1982 | バッテンロボ丸 | バッテンロボ丸 | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 다른 별의 전쟁을 말리러 가다 우주에서 길을 잃은 로봇이 지구 소년 야구 대회에 떨어진다. |
+| 1982 | ピンキーパンチ大逆転 (경계) | ピンキーパンチ大逆転 | TBS | 드라마 | 확인 못 함 | 여자만 사는 분홍 별에서 온 두 소녀가 우주 전사로 변신해 지구의 악당을 혼내 주는 아이돌 활극. |
 | 1982 | 宇宙刑事ギャバン | 宇宙刑事ギャバン | 東映 | 드라마·영화 | 확인 못 함 | 은하 연방 경찰에서 지구로 온 우주 형사가 전투 갑옷을 입고 범죄 조직과 맞선다. |
 | 1983 | 전자인간 오토맨 | Automan | Glen A. Larson | 드라마 | 있음 | 사무직에 묶인 경찰 프로그래머가 범죄 소탕 인공지능을 홀로그램 영웅으로 불러내 함께 사건을 푼다. |
+| 1983 | Benji, Zax & the Alien Prince | Benji, Zax & the Alien Prince | Joe Camp | 드라마 | 확인 못 함 | 개 벤지가 독재자의 부하들에게 쫓기는 외계 왕자와 그의 로봇을 돕는다. |
+| 1983 | Captain Zep – Space Detective | Captain Zep – Space Detective | BBC | 드라마 | 확인 못 함 | 우주 탐정 캡틴 젭이 그림으로 된 외계 인물들 사이의 사건을 스튜디오 아이들과 함께 푼다. |
+| 1983 | Dramarama (경계) | Dramarama | Anna Home (TVS) | 드라마 | 확인 못 함 | 공상 과학·초자연·풍자를 오가는 한 편짜리 어린이 극 모음. |
+| 1983 | Luna | Luna | Micky Dolenz · Colin Bennett · Colin Pro | 드라마 | 확인 못 함 | 몽키스의 미키 돌렌즈가 만든, 주인공 루나를 내세운 어린이 공상 과학 희극. |
+| 1983 | Manimal (경계) | Manimal | Glen A. Larson · Donald R. Boyle | 드라마 | 확인 못 함 | 어떤 동물로든 몸을 바꿀 수 있는 남자가 그 힘으로 범죄와 싸운다. |
+| 1983 | Návštěvníci | Návštěvníci | Ota Hofman · Jindřich Polák | 드라마 | 확인 못 함 | 전쟁도 나라도 없어진 2484년, 인류 중앙 두뇌가 지구 축을 흔들 혜성의 위협을 알린다. |
+| 1983 | Tales from the Darkside (경계) | Tales from the Darkside | George A. Romero | 드라마 | 확인 못 함 | 조지 A. 로메로가 만든 공포·환상·과학 공상 선집. |
+| 1983 | Terrahawks | Terrahawks | Gerry Anderson · Christopher Burr | 드라마 | 확인 못 함 | 2020년, 외계 세력이 화성 기지를 부순 뒤 지구를 지키려 남미 비밀 기지에 세운 테라호크스. |
+| 1983 | The Dark Side of the Sun (경계) | The Dark Side of the Sun | Michael J. Bird | 드라마 | 확인 못 함 | 로도스섬에서 성전 기사단의 후예인 비밀 결사와 텔레파시·최면이 얽히는 고딕 음모극. |
 | 1983 | 그날 이후 | The Day After | Nicholas Meyer | 드라마 | 있음 | 냉전이 핵전쟁으로 번진 날, 캔자스 시골 사람들이 폭발 뒤의 낙진과 혼란을 겪는다. |
+| 1983 | Tunel Omega | Tunel Omega | Edgar Dutka · Milan Bauman(각본) · Mirosla | 드라마 | 확인 못 함 | 주인공들이 블랙홀에 휩쓸려 궁수자리 오메가 성운으로 실려 간다. |
 | 1983 | 브이 | V | Kenneth Johnson (NBC) | 드라마·만화·소설 | 있음 | 친구를 자처하고 찾아온 파충류 외계인의 속셈을 알아챈 사람들이 저항군을 꾸린다. |
+| 1983 | Whiz Kids (경계) | Whiz Kids | Philip DeGuere · Bob Shayne | 드라마 | 확인 못 함 | 컴퓨터 실력으로 사건을 푸는 십대 천재들. |
+| 1983 | ペットントン | ペットントン | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 주인공인 작은 외계인 펫톤톤이 지구에서 벌이는 어린이 특촬 코미디. |
+| 1983 | 天降財神 | 天降財神 | 鄒世孝(제작) | 드라마 | 확인 못 함 | 고향 별이 무너져 가자 지구로 온 1899년생 외계인이 홍콩 사람들 사이에서 산다. |
+| 1984 | Airwolf (경계) | Airwolf | Donald P. Bellisario | 드라마 | 확인 못 함 | 냉전기, 첨단 공격 헬리콥터 '에어울프'와 승무원이 첩보 임무를 맡는다. |
+| 1984 | Crash – Truslen fra det sorte hul | Crash – Truslen fra det sorte hul | Carsten Overskov | 드라마 | 확인 못 함 | 열 살 비르예르는 제 방이 우주선임을 알고, 만화책을 훔친 악당을 쫓아 우주로 간다. |
+| 1984 | Létající Čestmír | Létající Čestmír | Václav Vorlíček | 드라마 | 확인 못 함 | 기이한 운석 덕에 꽃의 행성에 간 학생 체스트미르가 날게 하는 꽃 씨앗을 가져온다. |
 | 1984 | 스레즈 | Threads | Mick Jackson(연출), Barry Hines(각본) | 드라마 | 있음 | 핵전쟁이 셰필드를 덮친 뒤 핵겨울 속에서 사회가 몇 세대에 걸쳐 무너져 가는 모습. |
+| 1984 | Xenon | Xenon | Jef Cassiers(연출) · Paul Pourveur(각본) | 드라마 | 확인 못 함 | 날뛰는 전자 두뇌 크세논은 재능 있는 사람의 초감각을 키우는 생체·텔레파시 무기였다. |
+| 1984 | 태공전사 (경계) | 太空戰士 | 대만 제작 | 드라마 | 있음 | 일본 전대물을 본떠 만든 대만의 우주 전사 특촬극. |
+| 1984 | 星雲仮面マシンマン (경계) | 星雲仮面マシンマン | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 졸업 논문을 쓰러 지구에 온 외계인 대학생이 아이들을 괴롭히는 천재 과학자와 싸운다. |
+| 1985 | Amazing Stories (경계) | Amazing Stories | Steven Spielberg | 드라마 | 확인 못 함 | 환상과 공상 과학을 오가는 한 편짜리 이야기 모음. |
+| 1985 | Edge of Darkness (경계) | Edge of Darkness | Troy Kennedy Martin | 드라마 | 확인 못 함 | 살해된 딸의 뒤를 캐던 경찰관이 정부·기업의 핵 은폐와 맞닥뜨리는 정치 스릴러. |
+| 1985 | Galloping Galaxies! | Galloping Galaxies! | Bob Block | 드라마·소설 | 확인 못 함 | 25세기 우주선 보이저의 선장과 승무원, 눈 튀어나온 컴퓨터 시드의 희극. |
 | 1985 | Max Headroom | Max Headroom | George Stone, Annabel Jankel, Rocky Mort | 드라마 | 확인 못 함 | 방송사가 세상을 쥔 가까운 미래, 기자의 머릿속을 옮겨 만든 컴퓨터 진행자가 나타난다. |
+| 1985 | Misfits of Science (경계) | Misfits of Science | James D. Parriott | 드라마 | 확인 못 함 | '사람 이상' 연구자가 초능력자들을 모아 사건을 해결하는 희극. |
+| 1985 | Otherworld | Otherworld | Roderick Taylor | 드라마 | 확인 못 함 | 만 년에 한 번 행성이 줄지을 때 기자의 피라미드에 들어간 가족이 다른 세계로 옮겨진다. |
+| 1985 | Shadow Chasers (경계) | Shadow Chasers | Brian Grazer · Kenneth Johnson | 드라마 | 확인 못 함 | 가상의 조지타운 연구소 초자연 연구반에서 깐깐한 영국 인류학자가 기이한 사건을 맡는다. |
+| 1985 | Small Wonder | Small Wonder | Howard Leeds | 드라마 | 확인 못 함 | 로봇 공학자가 소녀 꼴로 몰래 만든 로봇 '비키'를 입양한 딸로 꾸며 함께 산다. |
+| 1985 | Street Hawk | Street Hawk | Paul M. Belous · Robert Wolterstorff | 드라마 | 확인 못 함 | 다친 전직 오토바이 경찰이 정부 비밀 계획의 첨단 공격 오토바이로 도시 범죄와 싸운다. |
+| 1985 | The Galactic Garden | The Galactic Garden | John Downer · Andrew Sachs | 드라마 | 확인 못 함 | 씨앗 모양 우주선을 타고 온 외계인 둘이 교외 정원이라는 새 세계를 탐험한다. |
+| 1985 | The Ray Bradbury Theater | The Ray Bradbury Theater | Ray Bradbury | 드라마 | 확인 못 함 | 레이 브래드버리가 제 단편과 소설을 손수 각색한 65편 선집. |
+| 1985 | Vägen till Gyllenblå! | Vägen till Gyllenblå! | Roar Skolmen(각본) · Leif Krantz(연출) | 드라마 | 확인 못 함 | 아이 둘이 웃음을 잃은 행성 율렌블로에 웃음을 되찾아 주러 간다. |
+| 1985 | もしも、学校が…!? (경계) | もしも、学校が…!? | TBS | 드라마 | 확인 못 함 | 별난 중학생과 반 친구들을 중심으로 비행접시와 피라미드 같은 신비한 소동이 학교를 뒤흔든다. |
+| 1985 | オアシスを求めて | オアシスを求めて | 田向正健(극본), NHK | 드라마 | 확인 못 함 | 지구 환경이 더럽혀진 2087년, 일본 첫 우주 식민지의 관리 컴퓨터를 의심한 개발자가 음모와 마주한다. |
+| 1985 | 兄弟拳バイクロッサー (경계) | 兄弟拳バイクロッサー | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 아이를 울려 다이아몬드를 얻으려는 악당 박사에 맞서 은하계를 지키는 형제 영웅이 싸운다. |
+| 1985 | 禁じられたマリコ (경계) | 禁じられたマリコ | TBS | 드라마 | 확인 못 함 | 누명 쓴 아버지가 경찰에 사살된 충격으로 초능력을 얻은 소녀가 아버지의 결백을 밝히려 한다. |
+| 1986 | ALF | ALF | Tom Patchett · Paul Fusco | 드라마·애니메이션·영화 | 확인 못 함 | 외계인 알프가 교외 가정의 차고에 떨어져 그 집에 숨어 살게 된다. |
+| 1986 | Az én nevem Jimmy | Az én nevem Jimmy | Lőrincz L. László(각본) · Bohák György(연출) | 드라마 | 확인 못 함 | 로린츠 L. 라슬로가 쓴 헝가리 청소년 공상 과학 연속극. |
+| 1986 | Not with a Bang | Not with a Bang | Tony Millan · Mike Walling | 드라마 | 확인 못 함 | 깨진 플라스크의 노화 호르몬이 사람을 재로 만들어, 살아남은 몇이 인류의 끝을 맞는다. |
+| 1986 | Photon | Photon | DIC Enterprises | 드라마 | 확인 못 함 | 레이저 태그 놀이 '포톤'이 실은 은하 최강 전사를 가려내는 시험임을 안 고교생이 싸움에 뽑힌다. |
+| 1986 | Really Weird Tales | Really Weird Tales | Joe Flaherty | 드라마 | 확인 못 함 | 조 플래허티가 쓰고 진행한, 캐나다 희극단 배우들이 나오는 과학 공상 공포 희극 선집. |
+| 1986 | Shadoevision | Shadoevision | Shadoe Stevens | 드라마 | 확인 못 함 | 평범한 회계사가 수수께끼 문을 지나, 인류를 진화시키는 토크쇼를 내보내는 우주선에 떨어진다. |
+| 1986 | The Wizard (경계) | The Wizard | Michael Berk · Douglas Schwartz · Paul B | 드라마 | 확인 못 함 | 무기 개발을 거부하고 사라졌던 정부 과학자 사이먼 매케이가 발명가로 다시 나타난다. |
+| 1986 | Tomes & Talismans | Tomes & Talismans | Mississippi Public Broadcasting | 드라마 | 확인 못 함 | 21세기 말, 사람 닮은 외계 종족 '와이퍼'가 지구에 들어와 통신과 자료 기술을 부순다. |
+| 1986 | もりもりぼっくん | もりもりぼっくん | 石ノ森章太郎(원작) · 東映 | 드라마 | 확인 못 함 | 사람·동물·로봇이 함께 사는 길을 꿈꾸는 박사를 위해 로봇들이 수수께끼의 '무언가'를 찾는다. |
+| 1987 | Beauty and the Beast (경계) | Beauty and the Beast | Ron Koslow(1987) · Sherri Cooper-Landsma | 드라마 | 확인 못 함 | 어머니가 살해될 때 자신을 구해 준 존재를 찾던 형사가 죽은 줄 알던 전직 군인과 얽힌다. |
 | 1987 | Captain Power and the Soldiers of the Future | Captain Power and the Soldiers of the Future | Gary Goddard, Tim Doyle (Landmark Entert | 드라마 | 확인 못 함 | 기계 반란 '금속 전쟁'으로 인류가 지성 기계에 짓눌린 22세기, 작은 게릴라 부대가 맞선다 |
+| 1987 | Knights of God | Knights of God | Richard Cooper | 드라마 | 확인 못 함 | 2020년, 내전 끝에 권력을 쥔 파시스트 종교 기사단이 다스리는 영국과 웨일스의 저항. |
+| 1987 | L'isola del tesoro | L'isola del tesoro | Antonio Margheriti | 드라마 | 확인 못 함 | 스티븐슨의 『보물섬』을 이탈리아와 2300년의 우주로 옮겨 다시 쓴 미니시리즈. |
+| 1987 | Once a Hero (경계) | Once a Hero | Dusty Kay | 드라마 | 확인 못 함 | 인기가 시든 만화 속 영웅 캡틴 저스티스가 자기 세계를 넘어 현실로 건너온다. |
+| 1987 | Out of This World | Out of This World | John Boni · Bob Booker | 드라마 | 확인 못 함 | 반은 외계인이라 남다른 힘을 지닌 십대 소녀 이비 갈랜드의 시트콤. |
+| 1987 | Star Cops | Star Cops | Chris Boucher | 드라마 | 확인 못 함 | 행성 사이 여행이 흔해진 2027년, 국제 우주 경찰 '스타 캅스'의 지휘관 네이선 스프링. |
+| 1987 | The Highwayman | The Highwayman | Glen A. Larson · Douglas Heyes | 드라마 | 확인 못 함 | 가까운 미래, 다기능 첨단 트럭을 모는 수수께끼 무리 '하이웨이맨'이 범죄와 기이한 사건을 푼다. |
+| 1987 | 少女コマンドーIZUMI (경계) | 少女コマンドーIZUMI | 大井利夫 · 前嶋守男 | 드라마 | 확인 못 함 | 누명을 쓰고 쫓기던 여고생이 비밀 기관에 구조돼 전투 병기로 길러진다. |
+| 1987 | 超級小英雄 (경계) | 超級小英雄 | 華視 | 드라마 | 확인 못 함 | 검성의 연인이 초능력을 지닌 몸으로 다시 태어나고, 그 아들 '슈퍼 꼬마 영웅'이 싸우는 SF 무협극. |
+| 1987 | 魔夏少女 (경계) | 魔夏少女 | 伴一彦(각본), 吉田秋生(연출) | 드라마 | 확인 못 함 | 갑자기 초능력을 얻어 동급생을 다치게 한 소녀가 죄책감과 악몽, 두통에 시달린다. |
+| 1988 | Helping Henry | Helping Henry | Edward Hardy · John Henderson | 드라마 | 확인 못 함 | 네 다리로 가만 있는 것이 더 나은 종이라 믿어 의자로 꾸민 외계인에게 소년이 세상을 알려 준다. |
+| 1988 | Křeček v noční košili | Křeček v noční košili | Václav Vorlíček | 드라마 | 확인 못 함 | 증조할아버지의 잠옷을 입고 잔 소년이 꿈속에 그가 발명으로 마을을 놀라게 하던 때로 간다. |
+| 1988 | My Secret Identity (경계) | My Secret Identity | Fred Fox Jr. · Brian Levant | 드라마 | 확인 못 함 | 광자 광선을 맞고 초능력을 얻은 열네 살 소년이 범죄와 수수께끼를 푼다. |
+| 1988 | Mystery Science Theater 3000 | Mystery Science Theater 3000 | Joel Hodgson | 드라마·영화 | 확인 못 함 | 지구 궤도 위성에 갇힌 청소부가 손수 만든 로봇들과 형편없는 영화를 보며 놀린다. |
+| 1988 | Probe | Probe | Isaac Asimov · Michael Wagner | 드라마 | 확인 못 함 | 사람과 잘 어울리지 못하는 천재 과학자 오스틴 제임스가 과학으로 기이한 사건을 푼다. |
 | 1988 | Red Dwarf | Red Dwarf | Rob Grant, Doug Naylor (BBC) | 드라마·소설 | 확인 못 함 | 300만 년 동안 멈춰 있다 깨어난 마지막 사람이 홀로그램 동료·인조인간과 빈 광산선을 떠돈다. |
+| 1988 | Something Is Out There | Something Is Out There | Frank Lupo | 드라마 | 확인 못 함 | 사람 손으론 못할 만큼 빨리 장기를 떼어 가는 살인을 쫓던 경찰이 외계 괴물 곤충을 알게 된다. |
+| 1988 | 電脳警察サイバーコップ (경계) | 電脳警察サイバーコップ | 東宝企画 | 드라마 | 확인 못 함 | 1999년, 흉악해진 도시 범죄에 맞서 경시청이 장갑 경찰 특수 부대를 만든다. |
+| 1989 | Hard Time on Planet Earth | Hard Time on Planet Earth | Jim Thomas · John Thomas | 드라마 | 확인 못 함 | 반란죄를 지은 외계 장교가 힘없는 사람 몸으로 지구에 보내져 죗값을 치르며 바뀌어 간다. |
+| 1989 | Mike and Angelo | Mike and Angelo | Grant Cathro · Lee Pressman | 드라마 | 확인 못 함 | 새집 옷장이 다른 세계로 가는 문이었고, 거기서 외계인 안젤로가 튀어나온다. |
 | 1989 | 광속인간 샘 | Quantum Leap | Donald P. Bellisario (NBC) | 드라마·소설 | 있음 | 시간 실험에 실패한 과학자가 남의 몸에 들어가 과거를 오가며 잘못된 일을 바로잡는다. |
+| 1990 | Jupiter Moon | Jupiter Moon | William Smethurst | 드라마 | 확인 못 함 | 2050년, 칼리스토의 우주 도시 위를 도는 대학 우주선 일리아의 학생들, 별로 가는 다이달로스 계획. |
+| 1990 | Super Force | Super Force | James J. McNamara | 드라마 | 확인 못 함 | 2020년, 화성에서 돌아온 우주비행사가 첨단 강화 외골격과 오토바이로 형의 죽음을 캐며 범죄와 싸운다. |
+| 1990 | The Girl from Tomorrow | The Girl from Tomorrow | Mark Shirrefs · John Thomson · Kathy Mue | 드라마 | 확인 못 함 | 2500년의 대재앙 뒤 이상향이 된 3000년의 소녀가 범죄자에게 납치돼 1990년으로 끌려온다. |
+| 1990 | They Came from Outer Space | They Came from Outer Space | Tom McLoughlin | 드라마 | 확인 못 함 | 행성 크루톤에서 온 십대 외계인 쌍둥이가 부모가 정한 대학 대신 여행길에 오른다. |
+| 1990 | 世にも奇妙な物語 (경계) | 世にも奇妙な物語 | フジテレビ | 드라마 | 확인 못 함 | 한 회마다 기묘한 일이 벌어지는 짧은 이야기들을 이야기꾼이 이어 주는 선집. |
+| 1990 | 参上! 天空剣士 (경계) | 参上! 天空剣士 | 北園孝吉(원작) · 松竹 | 드라마 | 확인 못 함 | 스무 해 전 하늘에서 내린 이상한 빛을 쬔 떠돌이 무사가 하얀 검객으로 변신해 악을 벤다. |
+| 1991 | Beyond Reality (경계) | Beyond Reality | CTV · 미국 신디케이션 | 드라마 | 확인 못 함 | 대학의 초심리학자 둘이 평범한 사람들에게 일어난 초자연 현상을 조사한다. |
+| 1991 | Dark Season | Dark Season | Russell T Davies | 드라마 | 확인 못 함 | 학교와 친구들을 노리는 수상한 엘드리치 씨에 맞서는 십대 셋. |
+| 1991 | Eerie, Indiana (경계) | Eerie, Indiana | José Rivera · Karl Schaefer | 드라마 | 확인 못 함 | 기이한 일이 끊이지 않는 인디애나 주 작은 마을 이리로 이사 온 소년이 친구와 수수께끼를 쫓는다. |
+| 1991 | Golden Years | Golden Years | Stephen King | 드라마 | 확인 못 함 | 비밀 연구소 폭발에 휘말린 늙은 청소부가 거꾸로 젊어지기 시작해 '더 숍' 요원에게 쫓긴다. |
+| 1991 | NASA〜未来から落ちてきた男〜 (경계) | NASA〜未来から落ちてきた男〜 | 鎌田敏夫(각본), 小椋久雄(감독), 共同テレビジョン | 드라마 | 확인 못 함 | 일본계 2세 우주 비행사가 시간을 넘어 태평양 전쟁 무렵의 히로시마로 떨어진다. |
+| 1991 | The Miraculous Mellops | The Miraculous Mellops | Karl Zwicky · Margarita Tassone | 드라마 | 확인 못 함 | 엄마를 잃은 멜롭 남매가 겪는 기이한 일들을 그린 공상 과학 희극. |
+| 1991 | Time Riders | Time Riders | Jim Eldridge(착상) · Michael Winterbottom( | 드라마 | 확인 못 함 | 오토바이를 타는 시간 여행자 밀러 박사의 4부 모험. |
+| 1992 | FTL Newsfeed | FTL Newsfeed | F. Paul Wilson · Matthew J. Costello | 드라마 | 확인 못 함 | 150년 뒤 미래 방송국의 짧은 뉴스로 그 시대의 사건을 전하는 초단편 연작. |
+| 1992 | Mann & Machine | Mann & Machine | Robert De Laurentiis · Dick Wolf | 드라마 | 확인 못 함 | 배우고 느낄 줄 아는 여성형 인조인간 경관과 짝이 된 사람 형사. |
 | 1992 | NIGHT HEAD (경계) | NIGHT HEAD | 飯田譲治 | 드라마·만화·소설·애니메이션·영화 | 일부 | 숨겨진 초능력을 지닌 두 형제가 연구소를 나와 사람들의 마음과 사건에 휘말리며 쫓긴다. |
+| 1992 | Nightmare Cafe (경계) | Nightmare Cafe | Wes Craven · Thomas Baum | 드라마 | 확인 못 함 | 수수께끼 주인 블래키와 요리사, 종업원이 사는 저세상 같은 카페. |
+| 1992 | Parallel 9 (경계) | Parallel 9 | Roach & Partners | 드라마 | 확인 못 함 | 영국 방송의 토요일 아침 어린이 공상 과학 프로그램. |
+| 1992 | Spacevets | Spacevets | Stephen Edmondson · Jerome Vincent | 드라마 | 확인 못 함 | 우주선 디스펜서블을 타고 우주를 누비며 어려운 외계 생명을 돕는 서툰 수의사들. |
+| 1992 | WYSIWYG | WYSIWYG | Yorkshire Television | 드라마 | 확인 못 함 | 인기 방송을 흉내 낸 프로그램마다 행성 머독의 은하 방송이 끼어든다. |
+| 1992 | Wail of the Banshee | Wail of the Banshee | Central Television | 드라마 | 확인 못 함 | 몇백 해 전 지구에 와 사람을 실험 쥐로 여긴 외계 종족 라미아, 우주선 소리 탓에 밴시라 불렸다. |
+| 1992 | Woops! | Woops! | Gary Jacobs | 드라마 | 확인 못 함 | 세계 핵전쟁에서 살아남은 여섯이 버려진 농가에 모여 문명을 다시 세우려는 희극. |
 | 1993 | Babylon 5 | Babylon 5 | J. Michael Straczynski (PTEN → TNT) | 게임·드라마·만화·소설·애니메이션·탁상 게임 | 확인 못 함 | 큰 전쟁 뒤 여러 종족이 함께 쓰는 우주 정거장에서, 오래된 종족들의 싸움이 다시 움튼다. |
+| 1993 | Century Falls (경계) | Century Falls | Russell T Davies | 드라마 | 확인 못 함 | 평화로워 보이는 시골 마을로 이사 온 십대 테스와 엄마가 마을이 숨긴 큰 힘을 마주한다. |
+| 1993 | Goodnight Sweetheart | Goodnight Sweetheart | Laurence Marks · Maurice Gran | 드라마 | 확인 못 함 | 텔레비전 수리공 게리가 1990년대 런던과 2차 대전 때 런던을 잇는 시간의 문을 오가며 두 삶을 산다. |
+| 1993 | If もしも (경계) | If もしも | 土方政人(연출), フジテレビ·共同テレビ | 드라마 | 확인 못 함 | 안내인이 주인공을 '운명의 갈림길'로 이끌고, 선택에 따라 갈린 두 결말을 나란히 보여 주는 선집. |
+| 1993 | Space Rangers | Space Rangers | Pen Densham | 드라마 | 확인 못 함 | 2104년 먼 행성 아발론의 지구 식민지 포트 호프를 지키는 작은 우주 순찰대. |
+| 1993 | The Adventures of Brisco County, Jr. (경계) | The Adventures of Brisco County, Jr. | Jeffrey Boam · Carlton Cuse | 드라마 | 확인 못 함 | 1893년 미국 서부, 하버드 출신 현상금 사냥꾼이 아버지를 죽인 무리를 쫓는 기묘한 서부극. |
 | 1993 | 엑스파일 (경계) | The X-Files | Chris Carter (Fox) | 게임·드라마·만화·소설·영화 | 있음 | 연방 수사국 두 요원이 외계인 음모와 설명 안 되는 사건을 쫓는다. |
+| 1993 | Time Trax | Time Trax | Harve Bennett · Jeffrey M. Hayes · Grant | 드라마 | 확인 못 함 | 2193년, 타임머신으로 200년 전 평행 우주로 달아난 죄수들을 잡으러 경찰이 1993년으로 간다. |
 | 1993 | Wild Palms | Wild Palms | Bruce Wagner | 드라마 | 확인 못 함 | 2007년 미국, 우익 집단이 정치와 매체를 쥐고 자유주의 지하 운동이 맞선다 |
 | 1993 | 해저 군단 | seaQuest DSV | Rockne S. O'Bannon (NBC, Amblin) | 드라마 | 일부 | 바다 밑을 개척하는 가까운 미래, 첨단 잠수함이 바다의 평화를 지킨다. |
+| 1993 | 超能幹探SuperCop (경계) | 超能幹探SuperCop | 梁家樹(監製), 曾謹昌(編劇), TVB | 드라마 | 확인 못 함 | 초능력을 지닌 경찰과 그를 시샘한 동네 친구가 엇갈리다, 친구는 초능력을 얻으려 범인과 손잡는다. |
 | 1993 | 電光超人グリッドマン (경계) | 電光超人グリッドマン | 円谷プロダクション | 드라마·애니메이션 | 확인 못 함 | 아이들이 만든 게임 영웅에 다른 차원 경찰이 깃들어, 컴퓨터 속 괴수를 만드는 악한 프로그램과 싸운다 |
+| 1994 | Dead at 21 | Dead at 21 | Jon Sherman | 드라마 | 확인 못 함 | 어릴 적 실험으로 뇌에 칩이 심겨 천재가 됐지만 스물한 살이면 죽게 될 청년. |
+| 1994 | Earth 2 | Earth 2 | Billy Ray · Michael Duggan · Carol Flint | 드라마 | 확인 못 함 | 2192년, 사람 대부분이 궤도 정거장으로 떠난 뒤 탐사대가 지구 닮은 행성 G889에 정착하려 한다. |
+| 1994 | Emmanuelle in Space | Emmanuelle in Space | Alain Siritzky (제작) | 드라마 | 확인 못 함 | 지구에 내린 외계 우주선 승무원들에게 젊은 여자 에마뉘엘이 사람의 성을 가르친다. |
+| 1994 | Escape from Jupiter | Escape from Jupiter | Martin Daley · David Ogilvy · John Patte | 드라마 | 확인 못 함 | 이오의 화산이 터지자 광산 개척지 아이들이 버려진 정거장을 배로 고쳐 지구로 달아난다. |
+| 1994 | M.A.N.T.I.S. (경계) | M.A.N.T.I.S. | Sam Raimi · Sam Hamm | 드라마 | 확인 못 함 | 경찰 총에 하반신이 마비된 부유한 과학자가 제 회사의 기술로 음모에 맞서는 영웅이 된다. |
+| 1994 | Ocean Girl | Ocean Girl | Jonathan M. Shiff | 드라마·애니메이션 | 확인 못 함 | 가까운 미래, 무인도에 홀로 사는 물의 소녀 네리와 바닷속 연구 기지 오르카의 아이들. |
+| 1994 | Space Precinct | Space Precinct | Gerry Anderson | 드라마 | 확인 못 함 | 에리다누스자리 엡실론의 행성 알토르, 뉴욕에서 온 형사가 외계인과 사람의 범죄를 쫓는다. |
+| 1994 | Tattooed Teenage Alien Fighters from Beverly Hills (경계) | Tattooed Teenage Alien Fighters from Beverly Hills | Jim Fisher · Jim Staahl (DIC Entertainme | 드라마 | 확인 못 함 | 외계인 님바가 고른 비벌리힐스 십대 넷이 지구를 노리는 고르가누스 황제의 괴물들과 싸운다. |
+| 1994 | The Secret World of Alex Mack (경계) | The Secret World of Alex Mack | Thomas W. Lynch · Ken Lipman | 드라마 | 확인 못 함 | 사고 뒤 초능력을 얻은 평범한 소녀 알렉스가 그 비밀을 숨기며 산다. |
 | 1994 | VR Troopers (경계) | VR Troopers | Saban Entertainment | 드라마 | 확인 못 함 | 가상 현실 유행을 탄 특촬 활극, 무술 도장의 십대 셋이 주인공 |
+| 1994 | Viper | Viper | Danny Bilson · Paul De Meo | 드라마 | 확인 못 함 | 범죄가 끊이지 않는 메트로 시티에서 연방 특별반이 도시 강습 차량 '바이퍼'로 범죄와 싸운다. |
 | 1994 | わいわいドンブリ | わいわいドンブリ | NHK | 드라마·애니메이션 | 확인 못 함 | 외계인 셋이 덮밥 그릇 모양 우주선을 타고 저마다 다른 주제를 가진 별들을 떠돌며 소동을 벌인다. |
+| 1994 | 幕末高校生 | 幕末高校生 | 眉村卓(원안 협력) · フジテレビ(TV) · 李闘士男(영화 감독) | 드라마·영화 | 확인 못 함 | 교토 영화촌에서 지진을 만난 신참 교사와 학생 셋이 막부 말기로 떨어진다. |
 | 1994 | 火星物語 (경계) | 火星物語 | 広井王子 | 게임·드라마·만화·소설 | 확인 못 함 | 생명이 우주 규모로 윤회해 화성에도 닿는다는 세계관 아래 펼친 청취자 참여 라디오 드라마와 그 게임. |
+| 1994 | 수퍼파워 김치맨 (경계) | 수퍼파워 김치맨 | SBS, 심형래(주연) | 드라마 | 한국 원작 | 비밀 연구 기지의 김치 추출물을 마신 사내가 변신해 외계 침략자와 싸우는 코미디 특촬. |
+| 1995 | BLACK OUT | BLACK OUT | 福田靖(각본), 共同テレビジョン | 드라마 | 확인 못 함 | 과학이 포화에 이른 1999년, 첨단 기술을 악용한 괴사건을 경시청 과학수사부의 두 수사관이 쫓는다. |
+| 1995 | Baywatch Nights (경계) | Baywatch Nights | Douglas Schwartz · David Hasselhoff · Gr | 드라마 | 확인 못 함 | 바닷가 경찰이 차린 탐정 사무소 이야기. 둘째 철에는 과학 공상 사건을 다룬다. |
+| 1995 | Bugs (경계) | Bugs | Brian Eastman | 드라마 | 확인 못 함 | 컴퓨터와 첨단 기술이 얽힌 범죄를 막는 독립 기술 전문가 무리의 활극. |
+| 1995 | Deadly Games | Deadly Games | Paul Bernbaum · S. S. Schweitzer · Antho | 드라마 | 확인 못 함 | 물리학자가 만든 비디오 게임 속 악당들이 현실로 튀어나와 세상을 노린다. |
+| 1995 | Legend | Legend | Michael Piller · Bill Dial | 드라마 | 확인 못 함 | 싸구려 서부 소설가가 제 주인공 행세를 하던 괴짜 과학자 바르토크와 손잡고 영웅이 된다. |
+| 1995 | Mirror, Mirror (경계) | Mirror, Mirror | Posie Graeme-Evans | 드라마 | 확인 못 함 | 골동품 거울 너머로 다른 시대의 소녀가 비쳐, 시대가 다른 두 집이 이어진다. |
+| 1995 | Nowhere Man | Nowhere Man | Lawrence Hertzog | 드라마 | 확인 못 함 | 사진 기자 토머스 베일의 삶이 하루아침에 지워져 아내도 친구도 그를 모른다. |
 | 1995 | Sliders | Sliders | Tracy Tormé, Robert K. Weiss (Fox → Sci  | 드라마 | 확인 못 함 | 다른 세계로 건너가는 장치를 만든 대학원생과 일행이 집으로 가는 길을 잃고 평행 세계를 떠돈다. |
 | 1995 | Space: Above and Beyond | Space: Above and Beyond | Glen Morgan, James Wong (Fox) | 드라마 | 확인 못 함 | 외계 종족과 전쟁이 터진 2063년, 해병대 우주 비행대가 전선으로 나간다. |
+| 1995 | Spellbinder | Spellbinder | Mark Shirrefs · John Thomson(각본) · Noel  | 드라마 | 확인 못 함 | 야영장에서 우연히 열린 문으로 평행 세계에 간 소년, 그곳은 '마법사'들이 발명을 막고 다스린다. |
+| 1995 | Strange Luck (경계) | Strange Luck | Karl Schaefer | 드라마 | 확인 못 함 | 늘 잘못된 곳에 딱 맞춰 있게 되는 이상한 운을 타고난 사진가. |
 | 1995 | VR.5 | VR.5 | Fox | 드라마 | 확인 못 함 | 가상 현실을 연구하던 과학자 집안의 딸이 가상 현실로 사람들과 얽힌다 |
+| 1995 | Űrgammák | Űrgammák | Boros Zoltán · Szikszai Gábor | 드라마 | 확인 못 함 | 은하 전투로 승무원을 잃은 우주선 할도르-01이 부다페스트 아이들을 데려가 빈자리를 채운다. |
+| 1995 | 君は時のかなたへ (경계) | 君は時のかなたへ | 横谷昌宏(원작), 中島かずき(각본), 中嶋豪(연출) | 드라마 | 확인 못 함 | 젊은 날의 도쿠가와 이에야스가 현대로 건너와 한 소녀와 사랑에 빠지고, 그를 노리는 자객도 뒤따라온다. |
+| 1995 | 木曜の怪談 (경계) | 木曜の怪談 | 共同テレビジョン, フジテレビ | 드라마 | 확인 못 함 | 한 회에 두세 편을 묶어 괴담과 SF 공포를 내보낸 목요일 밤의 선집. |
+| 1996 | 3rd Rock from the Sun | 3rd Rock from the Sun | Bonnie Turner · Terry Turner | 드라마 | 확인 못 함 | 외계 탐사대 넷이 사람 가족으로 꾸며 지구에 살며 사람을 관찰하는 희극. |
+| 1996 | Aliens in the Family | Aliens in the Family | Andy Borowitz · Susan Borowitz | 드라마 | 확인 못 함 | 외계인 엄마에게 납치된 홀아비가 그와 결혼해 지구에서 섞인 가족으로 산다. |
+| 1996 | Big Bad Beetleborgs (경계) | Big Bad Beetleborgs | Haim Saban · Shuki Levy · Toei Company | 드라마 | 확인 못 함 | 흉가에 갇힌 유령을 풀어 준 아이 셋이 그 보답으로 영웅 '비틀보그'가 된다. |
+| 1996 | Cold Lazarus | Cold Lazarus | Dennis Potter | 드라마 | 확인 못 함 | 24세기, 미국 재벌이 다스리는 무너진 영국의 냉동 보존 연구소. |
+| 1996 | Dark Skies | Dark Skies | Brent V. Friedman · Bryce Zabel | 드라마 | 확인 못 함 | 1940년대 말부터 외계인이 사람 사이에 있었고 정부가 이를 숨겨 왔다는, 거짓이 된 20세기. |
+| 1996 | Delta Wave | Delta Wave | Tetra Films | 드라마 | 확인 못 함 | 루비 먼로 박사와 초능력을 지닌 두 아이가 겪는 이상한 일들, 빅토리아 시대로 가는 시간 여행까지. |
+| 1996 | Homeboys in Outer Space | Homeboys in Outer Space | Ehrich Van Lowe | 드라마 | 확인 못 함 | 23세기, 두 우주비행사가 날개 달린 차 '스페이스 후프티'를 타고 우주를 누빈다. |
+| 1996 | Hypernauts | Hypernauts | Ron Thornton · Christy Marx | 드라마 | 확인 못 함 | 은하 탐사 아카데미 생도 셋이 도약 중 초공간 거품에 길을 잃어 외계인과 손잡고 살아남는다. |
+| 1996 | Psi Factor: Chronicles of the Paranormal (경계) | Psi Factor: Chronicles of the Paranormal | Peter Aykroyd · Christopher Chacon · Pet | 드라마 | 확인 못 함 | 댄 에이크로이드가 소개하는, 초자연 현상 조사 기관 O.S.I.R.의 사건 기록. |
+| 1996 | Snug and Cozi | Snug and Cozi | Scottish Television Enterprises | 드라마 | 확인 못 함 | 소행성에 받혀 지구에 떨어진 행성 스퀴지의 외계인 둘과 소녀 에밀리의 몸 개그 희극. |
+| 1996 | Space Cases | Space Cases | Peter David · Bill Mumy | 드라마 | 확인 못 함 | 현장 학습에서 남겨진 우주 아카데미 말썽꾸러기들이 새 꼴 외계 우주선에 몰래 올라탄다. |
+| 1996 | The Burning Zone | The Burning Zone | Coleman Luck | 드라마 | 확인 못 함 | 정부가 꾸린 특별반의 바이러스 학자·유전학자들이 생화학 비상 사태를 조사한다. |
+| 1996 | The Cape (경계) | The Cape | Kary Antholis · George Zaloom | 드라마 | 확인 못 함 | 케네디 우주 센터 나사 우주비행사들의 삶과 임무. |
+| 1996 | The Pretender (경계) | The Pretender | Steven Long Mitchell · Craig W. Van Sick | 드라마·영화 | 확인 못 함 | 어릴 때 납치돼 비밀 연구 기관 '센터'에서 길러진, 무엇이든 금세 익히는 천재 위장꾼. |
+| 1996 | The Sentinel (경계) | The Sentinel | Danny Bilson · Paul De Meo | 드라마 | 확인 못 함 | 페루 밀림에서 18개월을 버티며 감각이 남달리 예민해진 전직 육군 레인저가 형사로 일한다. |
+| 1996 | 七星闘神ガイファード (경계) | 七星闘神ガイファード | 東宝 · テレビ東京 | 드라마 | 확인 못 함 | 격투가들을 모아 개조 인간으로 만드는 범죄 조직에 맞서, 사라진 형을 찾는 무도가가 싸운다. |
+| 1996 | 超光戦士シャンゼリオン (경계) | 超光戦士シャンゼリオン | 八手三郎(원작) · 東映 | 드라마 | 확인 못 함 | 정의감도 없는 게으른 사립 탐정이 우연히 빛의 전사가 되는 힘을 손에 넣는다. |
+| 1997 | Bernard's Watch (경계) | Bernard's Watch | Andrew Norriss | 드라마 | 확인 못 함 | 늘 늦던 소년 버나드가 시간을 멈추는 마법 회중시계를 얻는다. |
+| 1997 | Beyond Belief: Fact or Fiction (경계) | Beyond Belief: Fact or Fiction | Lynn Lehmann (Dick Clark Productions) | 드라마 | 확인 못 함 | 실제 일인지 지어낸 일인지 맞혀 보라며 초자연·기이한 이야기를 들려주는 선집. |
+| 1997 | Crime Traveller | Crime Traveller | Anthony Horowitz | 드라마 | 확인 못 함 | 형사 슬레이드와 과학 담당 홀리가 몰래 시간 여행으로 사건을 푼다. |
+| 1997 | Dead Man's Gun (경계) | Dead Man's Gun | Ed Spielman · Howard Spielman | 드라마 | 확인 못 함 | 서부 개척 시대, 저주받은 총 한 자루가 주인을 바꿔 가며 삶을 뒤흔드는 선집. |
 | 1997 | Gene Roddenberry's Earth: Final Conflict | Gene Roddenberry's Earth: Final Conflict | Gene Roddenberry 착상, Majel Barrett Rodde | 드라마 | 확인 못 함 | 좋은 뜻을 내세우며 지구에 온 외계 종족의 숨은 뜻을 사람들이 캐낸다. |
 | 1997 | Kenny Starfighter | Kenny Starfighter | Carl Åstrand · Mats Lindberg(2009 감독) | 드라마·영화 | 확인 못 함 | 은하 영웅 학교의 가장 못난 학생 케니 스타파이터가 지구에 불시착해 영웅이 되려 애쓴다. |
 | 1997 | Lexx | Lexx | Paul Donovan, Lex Gigeroff, Jeffrey Hirs | 드라마 | 확인 못 함 | 별 하나를 부술 수 있는 살아 있는 곤충 모양 우주선을 얼떨결에 얻은 낙오자들의 방랑. |
+| 1997 | Lost on Earth | Lost on Earth | Doug Lawrence · Sy Rosen · Ackbaar Gould | 드라마 | 확인 못 함 | 머펫 쇼 방송을 보고 인형 꼴이 된 외계인들과 어린이 인형극을 맡게 된 방송 기자의 희극. |
+| 1997 | Meego | Meego | Ross Brown | 드라마 | 확인 못 함 | 우주선이 떨어진 9,000살 먹은 마머존 4.0 행성의 변신 외계인을 세 아이가 찾아낸다. |
+| 1997 | Perversions of Science | Perversions of Science | HBO (EC Comics 원작) | 드라마 | 확인 못 함 | 컴퓨터 그래픽 여자 로봇 크롬이 진행하는, 옛 EC 만화를 옮긴 과학 공상 공포 선집. |
+| 1997 | Sleepwalkers | Sleepwalkers | David S. Goyer · Stephen Kronish | 드라마 | 확인 못 함 | 기술로 정신과 환자의 꿈에 들어가 병을 진단하는 연구진. |
+| 1997 | The Journey of Allen Strange | The Journey of Allen Strange | Thomas W. Lynch | 드라마 | 확인 못 함 | 지구에 홀로 남겨진 젤란 외계인 소년이 한 가족을 만나 함께 산다. |
+| 1997 | The Uninvited | The Uninvited | Leslie Grantham(착상) · Peter Bowker(각본) | 드라마 | 확인 못 함 | 끔찍한 사고로 죽은 원자력 회사 사장이 이튿날 멀쩡히 나타나고, 사진가가 한 마을과의 얽힘을 캔다. |
+| 1997 | The Vanishing Man | The Vanishing Man | Anthony Horowitz(착상) · John Sullivan(각본) | 드라마 | 확인 못 함 | 억울하게 갇힌 남자가 의학 연구용 물질 탓에 물에 닿으면 투명해지고, 정부 기관이 그 힘을 쓴다. |
+| 1997 | The Visitor | The Visitor | Dean Devlin · Roland Emmerich | 드라마 | 확인 못 함 | 제2차 세계 대전 때 버뮤다 삼각 지대에서 외계인에게 납치된 애덤이 50년 만에 돌아온다. |
+| 1997 | いとしの未来ちゃん | いとしの未来ちゃん | 片岡K | 드라마 | 확인 못 함 | 문명이 뒷걸음친 2100년, 언니가 동생에게 2020~2050년의 지난 이야기를 들려주는 단편 묶음. |
+| 1997 | 姫はセーラー服がお好き (경계) | 姫はセーラー服がお好き | 東映(제작), 日本テレビ | 드라마 | 확인 못 함 | 센고쿠 시대의 후계자 공주가 현대로 건너와 그녀를 도운 평범한 고교생과 사랑에 빠진다. |
+| 1997 | 迷離檔案 | 迷離檔案 | TVB | 드라마 | 확인 못 함 | 미신을 믿지 않는 생화학 교수가 과학으로 기이한 사건들의 답을 찾아 나선다. |
+| 1998 | Back to Sherwood (경계) | Back to Sherwood | Ellis Iddon · Phil Meagher | 드라마 | 확인 못 함 | 마법 부적을 찬 소녀 로빈이 중세 셔우드로 거슬러 가 갇힌 로빈 후드를 구한다. |
+| 1998 | First Wave | First Wave | Chris Brancato | 드라마 | 확인 못 함 | 외계 종족 '구아'의 인류 실험 대상으로 찍힌 남자가 그들의 침공에 맞선다. |
+| 1998 | Invasion: Earth | Invasion: Earth | Jed Mercurio | 드라마 | 확인 못 함 | 영국 방송과 미국 공상 과학 채널이 함께 만든 여섯 편짜리 연속극. |
+| 1998 | Mentors | Mentors | Josh Miller | 드라마 | 확인 못 함 | 열다섯 살 천재 소년이 컴퓨터로 아인슈타인 같은 역사 인물을 36시간 동안 지금으로 불러온다. |
+| 1998 | Mercy Point | Mercy Point | Trey Callaway · David Simkins · Milo Fra | 드라마 | 확인 못 함 | 2249년, 깊은 우주에 떠 있는 병원 정거장의 의사와 간호사들. |
+| 1998 | Prey | Prey | William Schmidt | 드라마 | 확인 못 함 | 유전 변이를 연구하는 생물 인류학자 슬론이 사람과 다른 새 종 '호모 도미넌트'와 맞닥뜨린다. |
+| 1998 | Seven Days | Seven Days | Christopher Crowe · Zachary Crowe | 드라마 | 확인 못 함 | 국가 안보국의 비밀 계획 '백스텝'이 전직 특수 요원을 과거로 보내 재난을 되돌린다. |
+| 1998 | Space Island One | Space Island One | Andrew Maclear | 드라마 | 확인 못 함 | 여러 나라 승무원이 일하는 우주 정거장 유니티와 그 기지장 캐서린. |
+| 1998 | Ultraviolet (경계) | Ultraviolet | Joe Ahearne | 드라마 | 확인 못 함 | 기후 변화로 불안해진 가까운 미래, 흡혈귀들이 몰래 세상을 쥐려 한다. |
 | 1998 | Welcome to Paradox | Welcome to Paradox | Sci Fi Channel·Showcase | 드라마 | 확인 못 함 | 범죄와 병을 다 없앤 미래 이상 도시 베타빌, 그 밑에 깔린 어두운 흐름을 다루는 단편 모음 |
+| 1998 | サイバー美少女テロメア (경계) | サイバー美少女テロメア | 円谷プロダクション | 드라마 | 확인 못 함 | 열일곱 살 생일에 초능력이 깨어난 소녀가 동료 초능력자들과 다른 능력자를 찾아 나선다. |
+| 1998 | 透明少女エア (경계) | 透明少女エア | テレビ朝日 | 드라마 | 확인 못 함 | 의대생이 기억을 잃고 비밀 조직에 쫓기는 투명한 몸의 소녀를 만나 지키려 한다. |
 | 1998 | 지구용사 벡터맨 (경계) | 지구용사 벡터맨 | 최성덕(연출), 대원동화 | 드라마·영화 | 한국 원작 | 3천 년 전 사탄 제국에 멸망한 비너스 별의 힘을 이어받은 젊은이들이 지구를 노리는 침략자와 싸운다. |
+| 1999 | Code Name: Eternity | Code Name: Eternity | William Fruet · Jeff King | 드라마 | 확인 못 함 | 외계 과학자 데이비드 배닝이 사람 모습으로 지구에 와 기술을 완성하려 한다. |
+| 1999 | Crash Zone | Crash Zone | Patricia Edgar · Philip Dalkin · Jeff Pe | 드라마 | 확인 못 함 | 컴퓨터 잘하는 고등학생 다섯이 기우는 소프트웨어 회사를 살리며 인공지능과 얽힌다. |
+| 1999 | Dans une galaxie près de chez vous | Dans une galaxie près de chez vous | Canal Famille | 드라마·영화 | 확인 못 함 | 오존층이 무너진 2034년, 퀘벡 우주 탐험대가 사람이 살 행성을 찾아 은하 밖으로 떠난다. |
 | 1999 | Farscape | Farscape | Rockne S. O'Bannon (Sci Fi, Jim Henson C | 게임·드라마·만화 | 확인 못 함 | 웜홀 실험 중 먼 은하로 빨려 간 우주 비행사가 살아 있는 우주선에서 탈주자들과 지낸다. |
+| 1999 | G vs E (경계) | G vs E | Jonas Pate · Josh Pate | 드라마 | 확인 못 함 | 서른다섯 생일에 살해된 남자가 선의 조직 '군단'의 요원이 되어 악과 맞선다. |
 | 1999 | Harsh Realm | Harsh Realm | Chris Carter | 드라마 | 확인 못 함 | 군이 현실을 그대로 본뜬 훈련용 가상 현실 안에서 핵이 터지고, 사람들이 그 세계에 갇힌다 |
+| 1999 | My Parents Are Aliens | My Parents Are Aliens | Andy Watts | 드라마 | 확인 못 함 | 고아 셋을 맡은 새 부모가 실은 우주선이 집으로 꾸며진, 행성 발룩스의 외계인이다. |
+| 1999 | Now and Again | Now and Again | Glenn Gordon Caron | 드라마 | 확인 못 함 | 정부가 첩보용으로 만든 완벽한 몸에 사고로 죽은 보험 회사 간부의 뇌를 넣는다. |
+| 1999 | Pig's Breakfast | Pig's Breakfast | Mark Shirrefs · John Thomson | 드라마 | 확인 못 함 | 학교 우주 버스를 방송국에 처박은 외계인 학생 둘이 배우로 오해받아 어린이 프로그램을 맡는다. |
+| 1999 | So Weird (경계) | So Weird | Tom J. Astle | 드라마 | 확인 못 함 | 록 스타 엄마의 순회 버스를 타고 다니는 십대 피오나가 초자연 현상과 마주친다. |
+| 1999 | Strange World | Strange World | Howard Gordon · Tim Kring | 드라마 | 확인 못 함 | 화학 무기에 노출돼 병든 육군 군의관이 과학과 기술의 비윤리적 남용을 캐는 일에 나선다. |
+| 1999 | The Last Train | The Last Train | Matthew Graham | 드라마 | 확인 못 함 | 터널 사고로 새어 나온 가스에 얼어붙은 열차 승객들이 52년 뒤 무너진 영국에서 깨어난다. |
+| 1999 | Thunderstone | Thunderstone | Jonathan M. Shiff | 드라마 | 확인 못 함 | 혜성 네메시스가 떨어져 땅 위가 얼어붙은 2020년, 땅속 개척지에 사는 소년 노아와 생존자들. |
+| 1999 | ボイスラッガー (경계) | ボイスラッガー | 石ノ森章太郎(원작) · 竹本昇 외 | 드라마 | 확인 못 함 | 우주 지배를 노리는 제국이 악마 짐승을 깨우려 하고, 목소리의 힘을 쓰는 영웅들이 맞선다. |
+| 1999 | 君といた未来のために 〜I'll be back〜 (경계) | 君といた未来のために 〜I'll be back〜 | 大石哲也·吉田智子(각본), 佐藤東弥 외(연출), 日本テレビ | 드라마 | 확인 못 함 | 인생을 다시 살고 싶던 대학생이 2000년을 맞을 때마다 유성군과 함께 심장이 멎고 1995년으로 돌아간다. |
+| 2000 | Cleopatra 2525 | Cleopatra 2525 | R. J. Stewart · Robert G. Tapert | 드라마 | 확인 못 함 | 냉동 수면에서 525년 뒤 깨어난 20세기 무희가 땅 위를 차지한 비행 기계와 싸운다. |
 | 2000 | Dark Angel | Dark Angel | James Cameron, Charles H. Eglee (Fox) | 게임·드라마·소설 | 확인 못 함 | 전자기 폭탄으로 문명이 주저앉은 미국, 유전자 설계로 만든 병사 소녀가 숨어 산다. |
+| 2000 | FreakyLinks (경계) | FreakyLinks | Gregg Hale · David S. Goyer | 드라마 | 확인 못 함 | 초자연 현상 뒤의 진실을 캐는 웹사이트를 꾸리는 청년과 친구들. |
+| 2000 | Freedom | Freedom | Hans Tobeason | 드라마 | 확인 못 함 | 전쟁과 불황 끝에 대통령이 실종되자 군이 몰래 권력을 쥔 미국, '정권'에 맞서는 군인 넷. |
 | 2000 | Gene Roddenberry's Andromeda | Gene Roddenberry's Andromeda | Gene Roddenberry 착상, Robert Hewitt Wolfe | 드라마 | 확인 못 함 | 은하 연합이 무너진 지 300년 뒤 깨어난 함장이 옛 연합을 되살리려 한다. |
+| 2000 | Jack of All Trades (경계) | Jack of All Trades | Eric A. Morris | 드라마 | 확인 못 함 | 1801년, 프랑스가 다스리는 동인도의 가상 섬에 제퍼슨 대통령이 보낸 미국 첩자가 간다. 스팀펑크 활극. |
+| 2000 | Level 9 (경계) | Level 9 | Michael Connelly · John Sacret Young | 드라마 | 확인 못 함 | 정부 요원과 기술자, 전직 해커들이 모인 비밀 기관이 사이버 범죄를 막는다. |
+| 2000 | Life Force | Life Force | Peter Tabern | 드라마 | 확인 못 함 | 2025년, 빙하가 녹아 섬나라가 된 영국에서 초능력 아이 둘을 포함한 넷이 압제 정부에 쫓긴다. |
+| 2000 | My Hero (경계) | My Hero | Paul Mendelson | 드라마 | 확인 못 함 | 행성 울트론에서 온 영웅 서모맨이 구해 준 간호사와 사랑에 빠져 사람 행세로 산다. |
+| 2000 | Mysterious Ways (경계) | Mysterious Ways | Peter O'Fallon | 드라마 | 확인 못 함 | 기적처럼 보이는 현상의 설명과 증거를 찾아다니는 인류학 교수. |
+| 2000 | SPACE ANGEL 2001円宇宙の旅 (경계) | SPACE ANGEL 2001円宇宙の旅 | 日本テレビ | 드라마 | 확인 못 함 | 헬륨 가스를 찾아 지구에 온 아자 별 외계인의 우주선에 잘못 올라탄 아이 넷의 소동. |
+| 2000 | Secret Agent Man (경계) | Secret Agent Man | Barry Josephson · Richard Regen · Barry  | 드라마 | 확인 못 함 | 제멋대로인 첩보원 몽크와 동료 요원들의 공상 과학 첩보 활극. |
+| 2000 | Starhunter | Starhunter | G. Philip Jackson · Daniel D'or · Nelu G | 드라마 | 확인 못 함 | 23세기, 고쳐 쓴 호화 여객선을 타고 다니는 현상금 사냥꾼들. |
+| 2000 | The Invisible Man | The Invisible Man | Matt Greenberg | 드라마 | 확인 못 함 | 종신형을 앞둔 도둑이 첩보 기관에 끌려가 몸을 투명하게 하는 분비샘을 머리에 심는다. |
+| 2000 | The Others (경계) | The Others | John Brancato · Michael Ferris | 드라마 | 확인 못 함 | 원치 않는 초능력에 시달리는 대학생 메리언이 비슷한 능력자 모임 '디 아더스'에 든다. |
+| 2000 | The Secret Adventures of Jules Verne (경계) | The Secret Adventures of Jules Verne | Gavin Scott | 드라마 | 확인 못 함 | 젊은 쥘 베른을 그가 쓴 소설 같은 모험 속에 넣어 그 삶을 지어낸 이야기. |
+| 2000 | The Strangerers | The Strangerers | Rob Grant | 드라마 | 확인 못 함 | 레드 드워프를 함께 만든 롭 그랜트가 쓴 공상 과학 희극. |
+| 2000 | Vintergatan | Vintergatan | Petter Bragée | 드라마 | 확인 못 함 | 캠프 가던 아이 셋이 빛에 실려 우주선에 오르고, 외계인의 부탁으로 블랙홀 너머 행성의 식물을 모은다. |
+| 2000 | ぼうけん!メカラッパ号 | ぼうけん!メカラッパ号 | NHK教育テレビジョン | 드라마 | 확인 못 함 | 새 버섯에 시달리는 테라테라 별을 구하려고 소년 락이 소원을 이루는 보물을 찾아 우주를 누빈다. |
+| 2000 | スターぼうず | スターぼうず | 川崎郷太 · 長江俊和 외 | 드라마 | 확인 못 함 | 은하를 다스리는 제국과 반란 공화국군의 오랜 전쟁 속, 제국군 지원병이 겪는 우주 활극 코미디. |
+| 2000 | 鉄甲機ミカヅキ (경계) | 鉄甲機ミカヅキ | 雨宮慶太 | 드라마 | 확인 못 함 | 거대 로봇과 괴수의 싸움에 강화복 영웅을 더한 큰 예산 특촬. |
+| 2000 | 돌아온 그린맨 (경계) | 돌아온 그린맨 | EBS | 드라마 | 한국 원작 | 방송국 말단 피디가 환경 영웅으로 변해 지구를 더럽히는 안드로메다 외계인과 맞서는 어린이 특촬. |
+| 2000 | 요정 컴미 (경계) | 요정 컴미 | 한국방송제작단(제작), KBS 2TV | 드라마 | 한국 원작 | 벌레 같은 오류로 무너져 가는 컴퓨터 나라의 공주가 낡은 노트북에서 나와 한 집에 얹혀산다. |
+| 2001 | Alias (경계) | Alias | J. J. Abrams | 드라마 | 확인 못 함 | 미국 중앙정보국 비밀 부서인 줄 알고 범죄 조직에서 일하던 여자가 이중 첩자가 되어 그 조직과 맞선다. |
+| 2001 | Atlantis High (경계) | Atlantis High | Raymond Thompson | 드라마 | 확인 못 함 | 이중 첩자와 외계인과 귀 뾰족한 학생이 사는 바닷가 마을의 고등학교를 비꼰 희극. |
 | 2001 | Cybergirl (경계) | Cybergirl | Jonathan M. Shiff | 드라마 | 확인 못 함 | 먼 행성에서 온 인간형 원형 기계가 평범한 십대 소녀로 숨어 사는 어린이 영웅물 |
+| 2001 | Mutant X (경계) | Mutant X | Avi Arad | 드라마 | 확인 못 함 | 유전자 조작의 결과로 남다른 힘을 얻은 '새 돌연변이'들의 팀. |
+| 2001 | MythQuest (경계) | MythQuest | Minds Eye Pictures | 드라마·소설 | 확인 못 함 | 사라진 아버지가 만든 '사이버 박물관'의 유물을 만지면 남매가 신화 속으로 들어간다. |
+| 2001 | Night Visions (경계) | Night Visions | Dan Angel · Billy Brown | 드라마 | 확인 못 함 | 초자연 현상이나 사람의 어두운 면을 다룬 반 시간짜리 이야기 둘씩 담은 선집. |
 | 2001 | Settie and Jettie, The Spacekids (경계) | Settie and Jettie, The Spacekids | EBS | 드라마 | 한국 원작 | 먼 행성에서 온 외계인 남매와 보호자가 아이들과 지구 곳곳을 다니며 서투른 영어로 친해진다. |
+| 2001 | Special Unit 2 (경계) | Special Unit 2 | Evan Katz | 드라마 | 확인 못 함 | 시카고 경찰 비밀 부서가 전설 속 괴물, 곧 사람과 유인원 사이 '잃어버린 고리'들을 단속한다. |
+| 2001 | The Hoobs | The Hoobs | Jocelyn Stevenson · Brian Henson (Jim He | 드라마 | 확인 못 함 | 행성 후블랜드에서 온 외계 생물 '후브' 다섯이 지구와 사람에 대한 물음의 답을 찾는다. |
+| 2001 | The Infinite Worlds of H. G. Wells | The Infinite Worlds of H. G. Wells | Nick Willing | 드라마 | 확인 못 함 | H. G. 웰스의 단편 여러 편을 옮긴 네 시간짜리 미니시리즈 선집. |
+| 2001 | Tracker | Tracker | Gil Grant | 드라마 | 확인 못 함 | 행성 시론에서 온 외계인이 사람 몸을 차지한 탈옥수 218명을 잡으러 지구에 온다. |
+| 2001 | 時空警察 (경계) | 時空警察 | テレビマンユニオン(제작), 日本テレビ | 드라마 | 확인 못 함 | 역사의 수수께끼와 의혹을 '시공 경찰'이 추리해 보는 사실 바탕 역사 추리 특집. |
 | 2001 | 춤추는 소녀 와와 (경계) | 춤추는 소녀 와와 | EBS | 드라마 | 한국 원작 | 사이보그가 지배해 음악을 금지한 2081년의 후손이 과거의 소녀에게 음악으로 그 미래를 막으라 부탁한다. |
 | 2002 | 2030 CE | 2030 CE | Angela Bruce, Dennis Foon, Yan Moore | 드라마 | 확인 못 함 | 아무도 서른을 넘기지 못하는 병이 퍼진 2030년, 과학·정부·기업이 합친 권력이 세상을 쥔다 |
+| 2002 | Ace Lightning (경계) | Ace Lightning | Jim Corston · Rick Siggelkow | 드라마·애니메이션 | 확인 못 함 | 게임의 숨은 일곱째 판을 찾던 밤 번개가 치자 게임 속 영웅과 악당이 현실로 살아 나온다. |
+| 2002 | Chased by Dinosaurs (경계) | Chased by Dinosaurs | Tim Haines (Impossible Pictures · BBC) | 드라마 | 확인 못 함 | 시간을 거슬러 간 동물학자 나이절 마번이 옛 생물을 직접 만나 수수께끼를 푸는 기록 가상극. |
+| 2002 | Do Over (경계) | Do Over | Kenny Schwartz · Rick Wiener | 드라마 | 확인 못 함 | 인생이 풀리지 않은 남자가 어린 시절로 돌아가 다시 살 기회를 얻는다. |
 | 2002 | Firefly | Firefly | Joss Whedon (Fox) | 게임·드라마·만화·소설·영화·탁상 게임 | 일부 | 지구를 떠나 새 항성계에 정착한 인류, 연합 정부 바깥을 떠도는 낡은 화물선 선원들. |
+| 2002 | Galidor: Defenders of the Outer Dimension | Galidor: Defenders of the Outer Dimension | Thomas W. Lynch · The Lego Group | 드라마 | 확인 못 함 | 열다섯 생일에 떠다니는 장치를 찾은 소년이 친구와 함께 '바깥 차원'으로 실려 간다. |
+| 2002 | Jeopardy | Jeopardy | Tim O'Mara | 드라마 | 확인 못 함 | 스코틀랜드 학생 여덟과 선생이 비디오카메라를 들고 오스트레일리아 오지로 비행접시를 찾아간다. |
+| 2002 | John Doe | John Doe | Brandon Camp · Mike Thompson | 드라마 | 확인 못 함 | 시애틀 앞바다 섬에서 깨어난 남자가 자기가 누군지만 모를 뿐 세상의 다른 것은 다 안다. |
+| 2002 | Legacy of the Silver Shadow (경계) | Legacy of the Silver Shadow | Chris Anastassiades · Ray Boseley | 드라마 | 확인 못 함 | 아이 넷이 죽은 영웅 실버 섀도를 돕는 어린이 연속극. |
+| 2002 | Odyssey 5 | Odyssey 5 | Manny Coto | 드라마 | 확인 못 함 | 지구가 터져 사라지는 것을 본 우주왕복선 승무원들이 과거로 보내져 재앙을 막으려 한다. |
+| 2002 | Strange Days at Blake Holsey High | Strange Days at Blake Holsey High | Jim Rapsas | 드라마 | 확인 못 함 | 블랙홀이 얽힌 기숙 학교에서 과학 동아리 다섯과 선생님이 기이한 현상을 캔다. |
+| 2002 | Taken | Taken | Leslie Bohem | 드라마 | 확인 못 함 | 쉰 해, 네 세대에 걸쳐 외계인 납치에 얽힌 세 가족의 이야기. |
+| 2002 | That Was Then (경계) | That Was Then | Dan Cohn · Jeremy Miller | 드라마 | 확인 못 함 | 삶이 꼬인 서른 살 남자가 번개를 맞고 1988년 그 주로 돌아가 일을 바로잡으려 한다. |
+| 2002 | The Future Is Wild | The Future Is Wild | Animal Planet · ORF · ZDF (2002) · Steve | 드라마·애니메이션 | 확인 못 함 | 1만 년 뒤 큰 빙하기를 맞은 인류, 새 살 곳을 찾아 시간 기계로 보내진 소녀. |
+| 2002 | ぼくが地球を救う (경계) | ぼくが地球を救う | 中園ミホ(각본), TBS | 드라마 | 확인 못 함 | 계단에서 굴러 생사를 오갔던 회사원이 그때와 같은 57분 동안만 남의 속마음이 들리는 능력을 얻는다. |
+| 2002 | 時空警察ヴェッカー | 時空警察ヴェッカー | 畑澤和也 | 드라마·영화 | 확인 못 함 | 시간과 역사를 지키는 미래의 시공 형사들이 과거로 달아난 시간 범죄자를 쫓는다. |
+| 2002 | 穿越时空的爱恋 (경계) | 穿越时空的爱恋 | 孙太泉 · 杨军(감독) | 드라마 | 확인 못 함 | 문화재 도둑과 여경이 꿈의 베개를 다투다 명나라 초로 함께 떨어진다. |
+| 2003 | Alienated | Alienated | Space (방송) | 드라마 | 확인 못 함 | 외계인에게 납치된 뒤 몸과 마음이 이상하게 바뀌는 교외 가족의 희극. |
+| 2003 | Bad Penny (경계) | Bad Penny | Dean Wilkinson | 드라마 | 확인 못 함 | 희극 작가 딘 윌킨슨이 쓴 영국 방송 어린이 공상 과학 드라마. |
+| 2003 | Jake 2.0 | Jake 2.0 | Silvio Horta | 드라마 | 확인 못 함 | 나노 기계에 우연히 감염돼 머리로 기계를 다루게 된 국가안보국 컴퓨터 기술자. |
+| 2003 | Miracles (경계) | Miracles | Richard Hatem · Michael Petroni | 드라마 | 확인 못 함 | 현대의 기적을 가려내던 가톨릭 교회 조사관이 정말로 설명 못 할 일과 마주친다. |
+| 2003 | Timeblazers | Timeblazers | YTV | 드라마 | 확인 못 함 | 두 젊은이가 시간 여행으로 오늘날 풍습과 기술의 기원을 보여 준다. |
+| 2003 | Tru Calling (경계) | Tru Calling | Jon Harmon Feldman | 드라마 | 확인 못 함 | 시체 안치소에서 일하는 트루가 죽은 이의 부탁을 받으면 그날을 다시 살아 죽음을 막으려 한다. |
+| 2003 | 九五至尊 (경계) | 九五至尊 | Siu Hin-fai(제작) | 드라마 | 확인 못 함 | 죽지 않았다는 전설 속 옹정제가 현대 홍콩으로 건너오는 시간 여행 희극. |
+| 2003 | 超星神シリーズ (경계) | 超星神シリーズ | 東宝 · テレビ東京 | 드라마·영화 | 확인 못 함 | 전사들과 거대 로봇 초성신이 우주에서 온 침략자와 싸우는 연작 — 편마다 설정이 따로. |
 | 2003 | 천년지애 (경계) | 천년지애 | SBS | 드라마 | 한국 원작 | 백제 마지막 공주가 천 년 뒤 서울로 떨어져 새 삶과 옛 인연 사이에 선다. |
+| 2003 | 환경전사 젠타포스 (경계) | 환경전사 젠타포스 | 라퓨타 엔터테인먼트(제작), EBS | 드라마 | 한국 원작 | 환경 오염을 무기로 다시 쳐들어온 외계 침략자를 늙은 영웅의 세 아들이 변신해 막는다. |
+| 2004 | 5ive Days to Midnight | 5ive Days to Midnight | Sci Fi Channel | 드라마 | 확인 못 함 | 닷새 뒤 자기가 죽는다는 미래의 서류가 든 가방을 찾은 물리학자가 죽음을 피하려 한다. |
+| 2004 | Century City | Century City | Ed Zuckerman | 드라마 | 확인 못 함 | 2030년 로스앤젤레스의 법률 사무소가 미래 사회의 소송을 맡는다. |
+| 2004 | Garth Marenghi's Darkplace (경계) | Garth Marenghi's Darkplace | Richard Ayoade · Matthew Holness | 드라마 | 확인 못 함 | 1980년대에 만들었다 묻혔다는 가짜 공포 드라마를 되살린 척하는 패러디. |
 | 2004 | 로스트 (경계) | Lost | J. J. Abrams, Damon Lindelof, Jeffrey Li | 게임·드라마·소설 | 있음 | 여객기가 떨어진 외딴섬에서 생존자들이 섬의 비밀과 옛 연구 조직의 흔적을 마주한다. |
+| 2004 | Parallax | Parallax | Paul Barron | 드라마 | 확인 못 함 | 여러 평행 우주로 가는 문을 찾은 소년 벤이 친구들과 그 세계들을 누빈다. |
+| 2004 | Phil of the Future | Phil of the Future | Douglas Tuber · Tim Maile | 드라마 | 확인 못 함 | 2121년에서 시간 여행 휴가를 떠난 가족이 빌린 타임머신 고장으로 오늘날 마을에 발이 묶인다. |
+| 2004 | Powers | Powers | Jim Eldridge | 드라마 | 확인 못 함 | 초자연 현상을 캐는 파워스 연구진과 텔레파시·염력을 지닌 십대 둘. |
+| 2004 | ReGenesis | ReGenesis | Christina Jennings | 드라마 | 확인 못 함 | 생명공학이 낳은 위협을 맡는 가상의 북미 생명공학 자문 위원회 과학자들. |
+| 2004 | Silversun | Silversun | Roger Simpson | 드라마 | 확인 못 함 | 2052년, 냉동된 개척민 550명을 싣고 45광년 밖 행성으로 90년을 가는 우주선의 십대 승무원. |
+| 2004 | Space Odyssey: Voyage to the Planets | Space Odyssey: Voyage to the Planets | Joe Ahearne · Christopher Riley (Impossi | 드라마 | 확인 못 함 | 가까운 미래, 원자력 우주선 페가수스를 탄 다섯 우주인이 태양계 행성을 차례로 찾는 가상 기록극. |
+| 2004 | Starhyke | Starhyke | Andrew Dymond | 드라마 | 확인 못 함 | 앤드루 다이먼드가 만든 영국 공상 과학 희극. |
 | 2004 | The 4400 | The 4400 | Scott Peters, René Echevarria (USA Netwo | 드라마·소설 | 확인 못 함 | 수십 년 동안 사라졌던 4400명이 한꺼번에 돌아오고, 그들에게 초능력이 생긴다. |
+| 2004 | The Mighty Boosh (경계) | The Mighty Boosh | Julian Barratt · Noel Fielding | 드라마 | 확인 못 함 | 기이한 우주를 무대로 망해 가는 두 음악가가 겪는 초현실 희극, 몇 편에 공상 과학이 섞인다. |
+| 2004 | Wicked Science | Wicked Science | Jonathan M. Shiff | 드라마 | 확인 못 함 | 까닭 모르게 '과학의 마법사'가 된 십대 둘의 이야기. |
 | 2004 | Zixx | Zixx | Jeffrey Hirschfield | 드라마 | 확인 못 함 | 지구에 떨어진 은하망 요원이 컴퓨터 속 가상 영역을 오가며 악한 제국과 맞선다 |
+| 2004 | 人類滅亡と13人のコント集 (경계) | 人類滅亡と13人のコント集 | 大塚恭司(감독), 日本テレビ | 드라마 | 확인 못 함 | 인류가 멸망한 200X년, 홀로 남은 개그맨이 수수께끼의 존재에게 멸망의 이유를 묻는 콩트 드라마. |
+| 2004 | 子是故人來 (경계) | 子是故人來 | 賴建國(監製), 亞洲電視 | 드라마 | 확인 못 함 | 민국 시대 광저우의 원한 속에 죽어 가던 사내가 시간을 넘어 2002년 홍콩에서 자기 아들과 마주친다. |
+| 2004 | 隔世追兇 | 隔世追兇 | 林志華(제작) | 드라마 | 확인 못 함 | 1984년의 아버지와 2004년의 아들이 시간을 가로질러 함께 살인 사건을 푼다. |
+| 2004 | 수호전사 맥스맨 (경계) | 수호전사 맥스맨 | 최성덕(감독), 송충규(각본), 라퓨타엔터테인먼트 | 드라마 | 한국 원작 | 악의 제국에 왕국을 빼앗긴 별의 공주가 지구로 달아나, 오래 봉인된 구원의 로봇을 깨운다. |
 | 2004 | 울라불라 블루짱 (경계) | 울라불라 블루짱 | KBS | 드라마 | 한국 원작 | 평범한 집 아이들 곁에 외계 왕국의 다툼이 들이닥치고, 아이가 영웅이 되어 악당 외계인과 맞선다. |
 | 2005 | Charlie Jade | Charlie Jade | Chris Roland, Robert Wertheimer | 드라마 | 확인 못 함 | 디스토피아 미래 평행 세계에서 온 형사가 우리 세계에 갇힌다 |
+| 2005 | FNS地球特捜隊ダイバスター (경계) | FNS地球特捜隊ダイバスター | フジテレビ | 드라마 | 확인 못 함 | 2025년 우주에서 올 지성체의 질문에 대비해 만든 특수 조사대가 생활 속 문제를 풀어 본다. |
+| 2005 | Fat Guy Stuck in Internet | Fat Guy Stuck in Internet | John Gemberling · Curtis Gwinn | 드라마 | 확인 못 함 | 건방진 프로그래머가 맥주를 쏟은 컴퓨터 속으로 빨려 들어가 인터넷 세계를 헤맨다. |
+| 2005 | Invasion | Invasion | Shaun Cassidy | 드라마 | 확인 못 함 | 거센 허리케인이 지나간 남플로리다 작은 마을, 물에 사는 생물과 얽힌 기묘한 일이 잇따른다. |
+| 2005 | Scooter: Secret Agent (경계) | Scooter: Secret Agent | Jonathan M. Shiff | 드라마 | 확인 못 함 | 세계 최고 첩보원의 컴퓨터를 주운 서툰 피자 배달 소년이 첨단 장비로 임무를 대신 치른다. |
+| 2005 | Sh15uya | Sh15uya | 田﨑竜太 · 鈴村展弘 | 드라마 | 확인 못 함 | 시부야 같지만 시부야가 아닌 가상 세계 '시부야'에서 열다섯 살 소년소녀 다섯이 싸운다. |
+| 2005 | Supersnällasilversara och Stålhenrik (경계) | Supersnällasilversara och Stålhenrik | Sara Edwardsson · Pasqual Wahlin | 드라마 | 확인 못 함 | 달에 사는 두 영웅이 경보가 울리면 지구의 곤란한 아이들을 도우러 간다. |
+| 2005 | Surface | Surface | Jonas Pate · Josh Pate | 드라마 | 확인 못 함 | 북태평양 잠수 조사 중 해양학자 로라가 바다 밑 분화구 밭에서 나온 미지의 생명체와 마주친다. |
+| 2005 | The Fugitives | The Fugitives | Eileen Gallagher | 드라마 | 확인 못 함 | 열두 살 제이가 부패한 복제 기업 엠브로젠의 비밀을 알고 친구와 함께 쫓기며 맞선다. |
+| 2005 | The Triangle | The Triangle | Dean Devlin · Bryan Singer · Rockne S. O | 드라마 | 확인 못 함 | 해운 회사가 기자·심령술사·기상학자·해양학자 넷을 모아 버뮤다 삼각지대의 비밀을 캔다. |
+| 2005 | Threshold | Threshold | Bragi F. Schut | 드라마 | 확인 못 함 | 외계 종족과의 첫 만남을 조사하는 정부 비밀 계획의 위기 관리 전문가. |
+| 2005 | 終極系列 (경계) | 終極系列 | 可米國際影視 · 八大電視 | 드라마 | 확인 못 함 | 금·은·철·동 여러 '시공'이 겹친 세계에서 이능의 학생들이 싸우는 판타지 아이돌 극 연작. |
 | 2005 | 그녀가 돌아왔다 (경계) | 그녀가 돌아왔다 | 김명욱·이진서(연출) | 드라마 | 한국 원작 | 결혼식 전날 숨진 딸을 의사 아버지가 냉동 보존하고, 25년 뒤 되살아난 그녀가 영화배우가 된다. |
 | 2005 | 점프 (경계) | 점프 | EBS | 드라마 | 한국 원작 | 아이들이 과거로 가서 역사 인물이 되어 살아 보고 돌아오는 어린이 드라마. |
+| 2006 | David Nolande | David Nolande | Joël Houssin | 드라마 | 확인 못 함 | 개를 피하다 차가 굴러 집시 마녀가 살던 집에 떨어진 광고인 다비드, 살아난 그에게 이상한 일이 생긴다. |
+| 2006 | Day Break | Day Break | Paul Zbyszewski | 드라마 | 확인 못 함 | 검사 살해 누명을 쓴 형사가 같은 하루를 되풀이하며 진실을 캔다. |
+| 2006 | Eleventh Hour (경계) | Eleventh Hour | Stephen Gallagher | 드라마 | 확인 못 함 | 정부 과학 고문인 생물물리학자가 과학이 얽힌 범죄를 맡는다. |
 | 2006 | Eureka | Eureka | Andrew Cosby, Jaime Paglia (Sci Fi) | 드라마 | 확인 못 함 | 천재 과학자들만 모여 사는 비밀 마을에서 실험 사고를 보안관이 수습한다. |
 | 2006 | 히어로즈 (경계) | Heroes | Tim Kring (NBC) | 게임·드라마·만화·소설 | 있음 | 평범한 사람들이 저마다 초능력에 눈뜨고, 다가올 대재앙을 막으려 엮인다. |
+| 2006 | Hyperdrive | Hyperdrive | Kevin Cecil · Andy Riley | 드라마 | 확인 못 함 | 2151년, 바뀌어 가는 은하에서 영국의 이익을 지키려 헤매는 우주선 캠든 록 호의 희극. |
+| 2006 | Jericho | Jericho | Stephen Chbosky · Josh Schaer · Jonathan | 드라마·만화 | 확인 못 함 | 미국 23개 도시가 핵 공격을 받은 뒤, 캔자스 작은 마을 제리코 사람들이 살아남으려 한다. |
+| 2006 | Kyle XY | Kyle XY | Eric Bress · J. Mackye Gruber | 드라마 | 확인 못 함 | 기억도 배꼽도 없이 시애틀 숲에서 알몸으로 깨어난 소년이 한 가족에게 거둬진다. |
 | 2006 | Life on Mars (경계) | Life on Mars | BBC | 드라마 | 일부 | 2006년 맨체스터 형사가 사고를 당하고 깨어나 보니 1973년이었고, 그곳 경찰서에서 일하게 된다. |
 | 2006 | 공룡 구출 대작전 (경계) | Prehistoric Park | ITV, Jasper James | 드라마 | 있음 | 동물학자가 시간의 문을 지나 멸종한 공룡과 옛 동물을 데려와 현대의 공원에 살린다는 가짜 다큐멘터리. |
+| 2006 | The Lost Room (경계) | The Lost Room | Christopher Leone · Laura Harkcom | 드라마 | 확인 못 함 | 1961년 5월 4일 한 모텔 방이 지워진 뒤, 그 방의 평범한 물건들이 이상한 힘을 지닌다. |
+| 2006 | Three Moons Over Milford | Three Moons Over Milford | Howard Chesley · Jon Boorstin | 드라마 | 확인 못 함 | 소행성이 달을 셋으로 쪼갠 뒤, 언제 지구에 떨어질지 모르는 조각 아래 버몬트 작은 마을의 삶. |
+| 2006 | Бункер, или Учёные под землёй | Бункер, или Учёные под землёй | TNT | 드라마 | 확인 못 함 | 땅속 벙커의 과학자들을 둘러싼, 우스운 맛을 섞은 과학 수수께끼극. |
+| 2006 | がきんちょ〜リターン・キッズ〜 (경계) | がきんちょ〜リターン・キッズ〜 | 野依美幸(원안·각본), 毎日放送 | 드라마 | 확인 못 함 | 결혼식 직전 아이돌 시절 사진을 찢은 매니저가 돌풍과 함께 어린 시절로 돌아가는 타임슬립 판타지. |
+| 2006 | 恋する日曜日 ニュータイプ (경계) | 恋する日曜日 ニュータイプ | 廣木隆一 · BS-i | 드라마·영화 | 확인 못 함 | 섬마을 매표소 소녀 앞에 다리를 저는 남자가 나타나고, 그 몸에서 불꽃이 튄다. |
 | 2006 | 生物彗星WoO | 生物彗星WoO | NHK, 円谷プロダクション | 드라마 | 확인 못 함 | 부서진 혜성 조각들이 사람을 먹는 괴수가 되고, 한 조각에서 태어난 작은 생물이 소녀와 함께 싸운다. |
+| 2006 | 이레자이온 (경계) | 이레자이온 | Park Chan-yool, Yu Min-hang(연출), Chungam | 드라마 | 한국 원작 | 먼 행성 아이런에서 우주의 균형을 지키던 수정을 악당 테라가 노리자 일곱 전사가 맞서는 특촬. |
+| 2007 | 2030 – Aufstand der Alten (경계) | 2030 – Aufstand der Alten | Jörg Lühdorff | 드라마 | 확인 못 함 | 늙은이가 넘쳐 나는 2030년 독일, 인구 문제가 낳은 사건을 기록극 꼴로 따라간다. |
+| 2007 | A.M.P.E.D. | A.M.P.E.D. | Vince Gilligan · Frank Spotnitz | 드라마 | 확인 못 함 | 사람을 난폭하게 바꾸는 유전자 변이 전염병이 번지자 경찰이 막으려 한다. |
+| 2007 | Cataclysmo and the Time Boys | Cataclysmo and the Time Boys | Kevin Christensen · Anthony Parisi | 드라마 | 확인 못 함 | 전쟁에 지친 미래에서 온 두 영웅이 전쟁의 뿌리를 끊으러 과거로 간다. |
+| 2007 | Cavemen (경계) | Cavemen | Joe Lawson · Josh Gordon · Will Speck | 드라마 | 확인 못 함 | 동굴인이 사라지지 않고 소수 집단으로 섞여 사는 오늘날 미국의 희극. |
+| 2007 | Dinosapien | Dinosapien | BBC Worldwide · CCI Entertainment | 드라마 | 확인 못 함 | 공룡이 멸종하지 않고 더 영리하게 진화했다면 — 공룡 탐험 캠프의 아이들 이야기. |
+| 2007 | Journeyman | Journeyman | Kevin Falls | 드라마 | 확인 못 함 | 샌프란시스코의 신문 기자 댄이 까닭 모르게 과거로 '건너뛰기' 시작한다. |
+| 2007 | Masters of Science Fiction | Masters of Science Fiction | Masters of Horror 제작진 (ABC) | 드라마 | 확인 못 함 | 이름난 작가의 과학 공상 단편을 한 시간에 한 편씩 옮긴 선집. |
+| 2007 | Mystère | Mystère | Malina Detcheva · Franck Ollivier | 드라마 | 확인 못 함 | 외계인 납치를 둘러싼 수수께끼를 따라가는 미니시리즈. |
 | 2007 | 프라이미벌: 원시의 습격 | Primeval | Tim Haines, Adrian Hodges (Impossible Pi | 드라마·소설 | 일부 | 시간의 틈이 열려 옛 생물이 지금으로 넘어오고, 연구 팀이 그 틈을 쫓는다. |
+| 2007 | Saul of the Mole Men | Saul of the Mole Men | Craig Lewis | 드라마 | 확인 못 함 | 땅속 굴착선을 탄 탐사대 '스트라타'가 두더지 인간들의 땅에 떨어진 1970년대풍 모험 희극. |
+| 2007 | Space Pirates (경계) | Space Pirates | Tony Reed | 드라마 | 확인 못 함 | 지구 궤도를 도는 우주선 기우스토에서 선장과 외계인 소식꾼이 노래를 들려주는 어린이 프로그램. |
+| 2007 | The Crew | The Crew | Brett Register | 드라마 | 확인 못 함 | 우주선 아주레아스호 기관실 승무원들의 시트콤. |
+| 2007 | Tin Man (경계) | Tin Man | RHI Entertainment · Sci Fi Channel | 드라마 | 확인 못 함 | 캔자스 시골 종업원 디지가 마녀 아즈카델리아가 다스리는 '바깥 구역(O.Z.)'으로 간다. |
+| 2007 | ハリ系 (경계) | ハリ系 | 日本テレビ | 드라마 | 확인 못 함 | 고슴도치에서 진화한 '바늘계' 인간 청년과 원숭이계 인간 소녀의 사랑. |
 | 2007 | 프로포즈 대작전 (경계) | プロポーズ大作戦 | フジテレビ | 드라마 | 있음 | 소꿉친구의 결혼식에서 후회하던 청년이 요정의 힘으로 과거로 돌아가 고백을 다시 해 본다. |
+| 2007 | 五龙奇剑士 (경계) | 五龙奇剑士 | 郭家成(감독), 円谷プロダクション·上海電影集團 외 | 드라마 | 확인 못 함 | 2056년 하늘의 붉은 빛과 함께 괴수와 침략자가 나타나자, 선녀가 준 팔찌로 네 사람이 사신 전사가 된다. |
+| 2008 | Captain Mack (경계) | Captain Mack | John Lomas Bullivant | 드라마 | 확인 못 함 | 스카이 로켓 기지의 영웅 캡틴 맥과 원숭이 기술자가 장난꾼들이 벌인 말썽을 푼다. |
+| 2008 | Clone | Clone | Jonathan Pryce · Mark Gatiss 주연 (BBC Thr | 드라마 | 확인 못 함 | 군대를 대신할 초인 병사로 만든 첫 복제 인간이 총 대신 포옹부터 하는 희극. |
 | 2008 | 프린지 | Fringe | J. J. Abrams, Alex Kurtzman, Roberto Orc | 드라마·만화 | 있음 | 연방 수사국 특수팀이 설명 안 되는 과학 사건을 쫓다가 평행 우주와의 충돌에 이른다. |
+| 2008 | Gemini Division | Gemini Division | Brent V. Friedman (Electric Farm Enterta | 드라마 | 확인 못 함 | 약혼자 살해를 파던 뉴욕 형사가 모의 생명체 '심스'를 만드는 세계적 음모를 캔다. |
+| 2008 | Hero Corp (경계) | Hero Corp | Simon Astier | 드라마 | 확인 못 함 | 은퇴한 영웅들이 숨어 사는 시골 마을, 스무 해 만에 악당 '군주'가 돌아온다. |
+| 2008 | Kometkameratene | Kometkameratene | NRK | 드라마 | 확인 못 함 | 우주선에 사는 외계인 인형 여섯이 사람들의 낯선 생각을 하나씩 알아보려 지구로 내려간다. |
+| 2008 | Lab Rats | Lab Rats | Chris Peterson · Bryan Moore | 드라마 | 확인 못 함 | 억만장자 발명가와 한집에 살게 된 소년이 생체 공학 초능력을 지닌 십대 남매들을 찾아낸다. |
+| 2008 | Lost in Austen (경계) | Lost in Austen | Guy Andrews | 드라마 | 확인 못 함 | 욕실의 문을 지나 『오만과 편견』 줄거리 속으로 들어간 오늘의 런던 아가씨 어맨다. |
+| 2008 | My Own Worst Enemy | My Own Worst Enemy | Jason Smilovic | 드라마 | 확인 못 함 | 칩으로 첩자의 인격과 평범한 위장 인격을 바꿔 쓰던 요원에게 고장이 나 둘이 마구 뒤바뀐다. |
+| 2008 | New Amsterdam (경계) | New Amsterdam | Allan Loeb · Christian Taylor | 드라마 | 확인 못 함 | 1642년 원주민 여인을 구하려다 죽지 않는 몸이 된 400살 뉴욕 강력계 형사. |
+| 2008 | No Heroics (경계) | No Heroics | Drew Pearce | 드라마 | 확인 못 함 | 초능력 영웅이 흔한 오늘의 영국을 무대로 한 영웅 희극. |
+| 2008 | Plutón B.R.B. Nero | Plutón B.R.B. Nero | Álex de la Iglesia | 드라마 | 확인 못 함 | 2530년, 건물로 꽉 찬 지구를 떠나 살 만한 별을 찾아 떠도는 우주선의 희극. |
+| 2008 | Sanctuary (경계) | Sanctuary | Damian Kindler | 드라마 | 확인 못 함 | 헬렌 매그너스 박사가 미확인 생물과 남다른 힘을 지닌 사람들을 지키는 은신처. |
+| 2008 | The Sam Plenty Cavalcade of Action Show Plus Singing! (경계) | The Sam Plenty Cavalcade of Action Show Plus Singing! | Paul Rugg · Mitch Schauer (Jim Henson Co | 드라마 | 확인 못 함 | 카우보이 영웅 샘 플렌티가 나오는, 과학 공상과 활극이 섞인 서부 희극 노래극. |
+| 2008 | Time Trackers | Time Trackers | Donna Malane · Paula Boock | 드라마 | 확인 못 함 | 여러 시대에서 온 십대들이 발명의 역사를 위협하는 바이러스에 함께 맞선다. |
+| 2008 | ケータイ捜査官7 | ケータイ捜査官7 | ウィズ(원작) · 三池崇史 외 | 드라마 | 확인 못 함 | 외톨이 고교생이 스스로 움직이는 휴대 전화 로봇과 짝을 이뤄 기계 폭주 사건을 쫓는 요원이 된다. |
+| 2008 | トミカヒーロー (경계) | トミカヒーロー | 松竹 · ドッグシュガー · タカラトミー | 드라마·영화 | 확인 못 함 | 구조대 영웅들이 재난을 일으키는 악당 조직에 맞서 사람을 구한다. |
+| 2008 | パンドラ (경계) | パンドラ | 井上由美子(각본), WOWOW | 드라마 | 확인 못 함 | 18년 연구 끝에 어떤 암이든 없애는 특효약을 만든 의사가 그 '판도라의 상자'가 부른 파장에 휘말린다. |
+| 2008 | 未来世紀シェイクスピア (경계) | 未来世紀シェイクスピア | 小原信治(각본), 二階健(감독) | 드라마 | 확인 못 함 | 셰익스피어 극 속 인물이 시간을 넘어 현대로 와 이야기를 이끄는 단원극. |
+| 2008 | 未来講師めぐる (경계) | 未来講師めぐる | 宮藤官九郎(각본), テレビ朝日 | 드라마 | 확인 못 함 | 밥을 먹고 나면 20년 뒤가 보이는 학원 강사가 그 앞날 때문에 소동을 벌이는 희극. |
+| 2008 | 琉神マブヤー (경계) | 琉神マブヤー | マブヤープロジェクト | 드라마·영화 | 확인 못 함 | 오키나와의 넋을 지키는 지역 영웅이 악당과 싸운다. |
+| 2008 | 環境超人エコガインダー (경계) | 環境超人エコガインダー | 福山龍次 · ベストフィールド · Fine115 | 드라마 | 확인 못 함 | 환경 파괴로 무너지기 직전인 미래에서 온 영웅이 아이들에게 환경 의식을 일깨우며 악의 제국과 맞선다. |
+| 2008 | 金甲战士 (경계) | 金甲战士 | 张笑帆(감독) | 드라마 | 확인 못 함 | 외계 생물 '유마'를 실은 우주선이 지구에 불시착하고, 금갑 전사가 우주 해적과 맞선다. |
+| 2008 | 魔幻手机 | 魔幻手机 | 余明生(감독) · 九年(각본) | 드라마 | 확인 못 함 | 시공 이동 기능을 지닌 2060년의 사람 모양 휴대 전화 '사뉴'가 당나라와 현대를 오간다. |
+| 2008 | 환경수비대 와일드포스 (경계) | 환경수비대 와일드포스 | 재능방송 | 드라마 | 한국 원작 | 오염으로 무너진 지하 세계의 변종들이 복수하러 오자, 박사가 꾸린 수비대가 지구를 지킨다. |
+| 2009 | Aaron Stone (경계) | Aaron Stone | Bruce Kalish | 드라마 | 확인 못 함 | 게임 속 영웅의 실제 짝으로 뽑힌 십대 게이머가 진짜 악당과 싸운다. |
+| 2009 | Alice (경계) | Alice | Nick Willing | 드라마 | 확인 못 함 | 열 살 때 사라진 아버지를 찾던 유도 사범 앨리스가 한참 세월이 흘러 변한 이상한 나라에 든다. |
+| 2009 | Being Erica (경계) | Being Erica | Jana Sinyor | 드라마 | 확인 못 함 | 후회를 털어놓은 여자를 그 순간으로 돌려보내 다시 살게 해 주는 수수께끼 상담가. |
+| 2009 | Defying Gravity | Defying Gravity | James D. Parriott | 드라마 | 확인 못 함 | 2052년, 네 나라 우주비행사 여덟이 여섯 해 걸려 태양계를 도는 임무에 오른다. |
 | 2009 | Dollhouse | Dollhouse | Joss Whedon (Fox) | 드라마·만화 | 확인 못 함 | 사람의 기억을 지우고 원하는 인격을 심어 빌려주는 비밀 시설. |
+| 2009 | Earth 2100 | Earth 2100 | ABC (진행 Bob Woodruff) | 드라마 | 확인 못 함 | 인류가 문제를 풀지 못한 최악의 미래, 2009년에 태어난 루시가 2100년까지 살아간다. |
+| 2009 | Misfits (경계) | Misfits | Howard Overman | 드라마 | 확인 못 함 | 이상한 폭풍을 맞은 사회봉사 비행 청소년 다섯이 저마다 성격을 닮은 초능력을 얻는다. |
+| 2009 | Outer Space Astronauts | Outer Space Astronauts | Russell Barrett | 드라마·애니메이션 | 확인 못 함 | 실사 머리에 컴퓨터 그림 몸을 붙인 우주 비행사들이 온통 디지털 공간에서 벌이는 희극. |
+| 2009 | Paradox | Paradox | Lizzie Mickery | 드라마 | 확인 못 함 | 천체 물리학자의 실험실로 미래의 재난 영상이 오고, 형사들이 그 재난을 막으려 한다. |
+| 2009 | Riese: Kingdom Falling (경계) | Riese: Kingdom Falling | Ryan Copple · Kaleena Kiff | 드라마 | 확인 못 함 | 전쟁에 휩쓸린 엘레이시아 땅을 늑대 펜리르와 달아나는 여행자 리제를 광신 집단이 쫓는다. |
+| 2009 | Stormworld | Stormworld | John Goldsmith · Paul Barron | 드라마 | 확인 못 함 | 밴쿠버에서 배를 타던 두 친구가 소용돌이에 휩쓸려 외계 세계 '스톰월드'로 간다. |
+| 2009 | The Listener (경계) | The Listener | Michael Amo | 드라마 | 확인 못 함 | 남의 생각을 듣는 텔레파시를 숨겨 온 구급대원이 경찰 일을 돕는다. |
+| 2009 | The Troop (경계) | The Troop | Max Burnett · Greg Coolidge · Chris Morg | 드라마 | 확인 못 함 | 적성 검사로 뽑힌 고교생이 괴물과 초자연 현상에서 세상을 지키는 비밀 조직에 든다. |
+| 2009 | Trenches | Trenches | Shane Felux | 드라마 | 확인 못 함 | 외딴 행성의 전쟁에서 제 편에게 버려진 두 적이 살아남으려 손잡는다. |
+| 2009 | Warehouse 13 (경계) | Warehouse 13 | Jane Espenson · D. Brent Mote | 드라마 | 확인 못 함 | 초자연 유물을 모아 둔 사우스다코타의 비밀 창고 13에 배치된 비밀 경호국 요원 둘. |
+| 2009 | Éternelle | Éternelle | Joël Houssin | 드라마 | 확인 못 함 | 비 오는 밤 차에 치인 벌거벗은 젊은 여성, 기억이 없고 알 수 없는 세균에 감염돼 있다. |
 | 2009 | タイムスクープハンター | タイムスクープハンター | NHK | 드라마·영화 | 확인 못 함 | 시간 이동 기술을 쓰는 기록 회사의 요원이 여러 시대로 가서 보통 사람들의 하루를 취재한다. |
+| 2009 | 父よ、あなたはえらかった〜1969年のオヤジと僕 (경계) | 父よ、あなたはえらかった〜1969年のオヤジと僕 | 浅野妙子(각본), TBS | 드라마 | 확인 못 함 | 아버지와 다툰 아들이 학생운동이 한창인 1969년으로 떨어져 젊은 날의 부모를 만난다. |
+| 2009 | 超人马大姐 | 超人马大姐 | 英达 · 吕小品(감독) | 드라마 | 확인 못 함 | '마 큰언니' 가족 앞에 순간 이동기·인생 리모컨·천리 귀 스티커 같은 발명품이 등장하는 SF 상황극. |
 | 2009 | 铠甲勇士 (경계) | 铠甲勇士 | 铠甲勇士 연작(중국) · Zheng Guowei(영화 감독) | 드라마·영화 | 확인 못 함 | 갑옷을 불러 입는 용사들이 어둠의 세력과 싸우는 특촬 — 영화에선 사람을 괴물로 만드는 바이러스와 맞선다. |
+| 2010 | 10年先も君に恋して (경계) | 10年先も君に恋して | 大森美香(각본), NHK | 드라마 | 확인 못 함 | 2020년에서 온 미래의 남편이 둘의 결혼을 막으려고 출판사 편집자 앞에 나타난다. |
+| 2010 | Alpha 0.7 – Der Feind in dir | Alpha 0.7 – Der Feind in dir | SWR | 드라마 | 확인 못 함 | 감시가 어디에나 깔린 2017년의 슈투트가르트. |
+| 2010 | Ark | Ark | Robbie Thompson | 드라마 | 확인 못 함 | 수수께끼의 생물 돔 우주선 '방주'의 빈 배를 둘러보며 제 운명을 캐는 코니와 대럴. |
+| 2010 | Beckinfield (경계) | Beckinfield | Bob Gebert · Tracy Evans · Biff van Clev | 드라마 | 확인 못 함 | 학교 과제로 주민들이 올린 영상 일기에서 수상한 작은 마을의 기이한 일들이 드러난다. |
+| 2010 | Cell: The Web Series | Cell: The Web Series | Mark Gardner | 드라마 | 확인 못 함 | 밤 나들이 다음 날 감방에서 깨어난 남자, 감옥도 아니고 혼자도 아님을 알게 된다. |
+| 2010 | Haven (경계) | Haven | Sam Ernst · Jim Dunn | 드라마 | 확인 못 함 | 메인 주 작은 마을 헤이븐에 '말썽'이라 불리는 초자연 병이 되돌아오고, 연방 요원이 휘말린다. |
+| 2010 | Les Rescapés | Les Rescapés | Radio-Canada | 드라마 | 확인 못 함 | 1960년대 몬트리올의 한 가족이 까닭 모르게 2010년으로 옮겨진다. |
+| 2010 | No Ordinary Family (경계) | No Ordinary Family | Greg Berlanti · Jon Harmon Feldman | 드라마 | 확인 못 함 | 아마존 밀림에 비행기가 떨어진 뒤 평범한 가족이 저마다 초능력을 얻는다. |
+| 2010 | Pioneer One | Pioneer One | Josh Bernhard · Bracey Smith | 드라마 | 확인 못 함 | 몬태나에 방사능을 뿌리며 떨어진 우주선 잔해 속에서 소련 우주복을 입은 산 사람이 발견된다. |
+| 2010 | Q10 | Q10 | 日本テレビ | 드라마 | 확인 못 함 | 평범한 고3 남학생이 과학 준비실에서 소녀 모습 로봇을 깨워 사람에 대해 가르친다. |
+| 2010 | SPEC | SPEC | 堤幸彦 · TBS | 드라마·영화 | 확인 못 함 | 특수 능력을 지닌 '스펙 홀더'가 얽힌 사건을 경찰 미해결 사건 담당 둘이 쫓는다. |
+| 2010 | The Booth at the End (경계) | The Booth at the End | Christopher Kubasik | 드라마 | 확인 못 함 | 1950년대풍 식당 끝자리에 앉은 정체 모를 남자에게 사람들이 찾아와 소원을 빈다. |
+| 2010 | The Event | The Event | Nick Wauters | 드라마 | 확인 못 함 | 2차 대전 끝 무렵 알래스카에 떨어진 비행체의 사람 닮은 외계인들과 그들을 가둔 미국 정부. |
+| 2010 | The Resistance | The Resistance | Adrian Picardi | 드라마 | 확인 못 함 | 인구 99%를 죽인 역병 뒤 뛰어난 화학자 시러스 프리모리스가 세상을 손에 쥔다. |
+| 2010 | Tower Prep (경계) | Tower Prep | Paul Dini | 드라마 | 확인 못 함 | 초능력 십대들을 모아 둔 외딴 기숙 학교, 학생들은 어떻게 왔는지 기억도 없이 갇혀 지낸다. |
+| 2010 | Unnatural History (경계) | Unnatural History | Mike Werb | 드라마 | 확인 못 함 | 인류학자 부모와 세계를 떠돌며 남다른 재주를 익힌 십대가 미국 학교로 돌아와 수수께끼에 부딪친다. |
+| 2010 | 半分エスパー (경계) | 半分エスパー | フジテレビTWO | 드라마 | 확인 못 함 | 나라가 몰래 초능력자를 키우는 연구소의 견습 에스퍼가 바깥세상을 보고 싶어 뛰쳐나온다. |
+| 2010 | 宇宙犬作戦 | 宇宙犬作戦 | 三木康一郎 외 | 드라마 | 확인 못 함 | 2512년 위기에 빠진 개의 별 대통령이 지구인 후손들을 우주 어딘가의 지구로 보낸다. |
+| 2010 | 神话 (경계) | 神话 | 蒋家骏(감독) | 드라마·영화 | 확인 못 함 | 옥패와 진나라 보물 상자가 반응해 사진가가 2천여 년 전 진나라로 끌려간다. |
+| 2010 | 第二回合我愛你 (경계) | 第二回合我愛你 | 王明台 · 徐輔軍(감독) | 드라마 | 확인 못 함 | 이혼 직전 부부의 남편 앞에 '기적의 컴퓨터'가 나타나 과거로 돌아가 실수를 고칠 기회를 준다. |
+| 2010 | 萌學園 (경계) | 萌學園 | 可米國際影視 · 巨宸製作 · 葉天倫 외(감독) | 드라마 | 확인 못 함 | 대기권 밖에 숨은 '쿼크족'의 학교와 기사들이 공주와 우주의 안전을 지키는 어린이 판타지극. |
+| 2010 | 超耕21ガッター (경계) | 超耕21ガッター | H・K(감독) | 드라마·애니메이션 | 확인 못 함 | 해충이 늘어난 2050년, 농업 강화 슈트 '초경 시스템 21형'이 완성될 즈음 우주에서 침략자가 온다. |
+| 2010 | 조선X파일 기찰비록 (경계) | 조선X파일 기찰비록 | Kim Heung-dong, Kang Kyung-hoon(연출), MBC | 드라마 | 한국 원작 | 조선 실록에 남은 풀리지 않는 괴이한 사건들을 한 관리가 파헤치는 대체 역사 사극. |
+| 2011 | Alphas (경계) | Alphas | Zak Penn · Michael Karnow | 드라마 | 확인 못 함 | 신경과 의사가 이끄는 초능력자 '알파' 다섯이 다른 알파가 저지른 사건을 맡는다. |
+| 2011 | Bar Karma (경계) | Bar Karma | Will Wright · Albie Hecht | 드라마 | 확인 못 함 | 시간과 공간 너머 우주 끝에 있는 술집 '바 카르마'를 운 좋은 억만장자가 내기로 얻는다. |
 | 2011 | 블랙 미러 | Black Mirror | Charlie Brooker (Channel 4 → Netflix) | 드라마 | 있음 | 가까운 미래의 기술이 사람과 사회를 어떻게 일그러뜨리는지 한 편씩 따로 그리는 연작. |
 | 2011 | El barco | El barco | Álex Pina, Iván Escobar (Antena 3) | 드라마 | 확인 못 함 | 입자 가속기 사고로 땅 대부분이 물에 잠긴 뒤, 실습선 한 척의 선원과 학생들이 바다를 떠돈다. |
 | 2011 | 폴링 스카이 | Falling Skies | Robert Rodat (TNT) | 게임·드라마 | 있음 | 외계 침공으로 인류 대부분이 죽은 뒤, 보스턴의 생존자들이 저항군을 꾸린다. |
+| 2011 | Galaxy Park | Galaxy Park | Ketnet | 드라마 | 확인 못 함 | 놀이공원에서 여름 일을 하는 십대 여섯, 공원 사람 몇은 사람으로 꾸민 외계인이다. |
+| 2011 | Level Up | Level Up | Derek Guiley · David Schneiderman | 드라마·영화 | 확인 못 함 | 고등학생 넷이 게임 '말다크'로 통하는 문을 열자 게임 속 괴물들이 현실로 새어 나온다. |
+| 2011 | Malice: The Webseries (경계) | Malice: The Webseries | Philip Cook (Eagle Films) | 드라마 | 확인 못 함 | 돌아가신 할머니 집으로 이사 온 가족에게 초자연 일이 생기고 막내 앨리스가 나선다. |
+| 2011 | Outcasts | Outcasts | Ben Richards | 드라마 | 확인 못 함 | 2060년, 핵 분쟁으로 망한 지구에서 달아난 배들이 개척한 행성 카르파티아의 마을. |
 | 2011 | 퍼슨 오브 인터레스트 (경계) | Person of Interest | Jonathan Nolan (CBS) | 드라마 | 있음 | 온갖 감시 자료로 범죄를 내다보는 인공지능을 만든 이와 전직 요원이 사람을 구한다. |
+| 2011 | RCVR | RCVR | David van Eyssen | 드라마 | 확인 못 함 | 1973년, 외계인과의 만남을 조사하고 덮는 비밀 기관 시그마의 요원들. |
 | 2011 | 테라노바 | Terra Nova | Kelly Marcel, Craig Silverstein (Fox) | 드라마 | 있음 | 망가진 2149년의 지구를 떠나, 시간의 틈으로 공룡 시대에 정착지를 세운다. |
+| 2011 | The Cape (경계) | The Cape | Tom Wheeler | 드라마 | 확인 못 함 | 새 경찰청장 살해를 목격하고 경찰을 떠난 정직한 형사가 망토 쓴 영웅이 된다. |
+| 2011 | The Mercury Men | The Mercury Men | Christopher Preksta | 드라마 | 확인 못 함 | 1975년, 빛으로 된 수성 사람들이 빌딩을 차지해 달을 지구로 끌어내리려 하자 회사원이 맞선다. |
+| 2011 | The Sparticle Mystery | The Sparticle Mystery | Alison Hume | 드라마 | 확인 못 함 | 입자 실험이 어긋나 열다섯 살 넘은 사람이 모두 평행 차원으로 사라지고 아이들만 남는다. |
+| 2011 | Voyage Trekkers | Voyage Trekkers | Nathan Blackwell · Craig Michael Curtis | 드라마 | 확인 못 함 | 우주 탐사선 승무원들의 소동을 그린 웹 희극. |
+| 2011 | 女媧傳說之靈珠 (경계) | 女媧傳說之靈珠 | 蔡晶盛(감독) | 드라마 | 확인 못 함 | 천 년을 건너는 사랑 — 사람과 요괴의 인연이 전생과 현생을 잇는 신화 사극. |
+| 2011 | 宫 (경계) | 宫 | 李慧珠(감독) · 于正(각본) | 드라마 | 확인 못 함 | 골동품점 상속녀가 시공 터널에 빠져 1708년 청나라 궁정의 왕자들 사이에 떨어진다. |
+| 2011 | 时光电台 (경계) | 时光电台 | 陈炳丰(감독) | 드라마 | 확인 못 함 | 2011년의 청년이 낡은 화장실의 시공 출입구로 매일 아침 1980년대 방송국에 출근한다. |
+| 2011 | 神話戦士ギガゼウス (경계) | 神話戦士ギガゼウス | 古屋雄作 | 드라마 | 확인 못 함 | 지구 정복을 꾀하는 악당과 지구 방위 회사의 싸움을 우스꽝스럽게 그린 심야 특촬. |
+| 2011 | 鳳神ヤツルギ (경계) | 鳳神ヤツルギ | 外山政行 · 上倉栄治 | 드라마·영화 | 확인 못 함 | 봉인이 풀려 되살아난 해저 제국에 맞서 소년이 지역 영웅이 되어 기사라즈를 지킨다. |
+| 2012 | 13歳のハローワーク (경계) | 13歳のハローワーク | 大石哲也 외(각본), 髙橋伸之 외(연출), テレビ朝日 | 드라마 | 확인 못 함 | 꿈과 다른 부서에서 불만이던 형사가 1990년으로 건너가 열세 살의 자신을 형사의 길로 이끌려 한다. |
+| 2012 | Alcatraz | Alcatraz | Elizabeth Sarnoff · Steven Lilien · Brya | 드라마 | 확인 못 함 | 1963년 알카트라즈에서 감쪽같이 사라진 죄수와 간수들이 오늘날 샌프란시스코에 다시 나타난다. |
+| 2012 | Awake (경계) | Awake | Kyle Killen | 드라마 | 확인 못 함 | 교통사고 뒤 아내가 산 현실과 아들이 산 현실, 두 곳을 오가며 사는 형사. |
+| 2012 | Como Aproveitar o Fim do Mundo (경계) | Como Aproveitar o Fim do Mundo | Fernanda Young · Alexandre Machado(원작) · | 드라마 | 확인 못 함 | 세상이 여덟 달 열이틀 뒤 끝난다는 남자를 만나 '종말 목록'을 쓰게 된 여자. |
 | 2012 | Continuum | Continuum | Simon Barry (Showcase) | 드라마 | 확인 못 함 | 기업들이 다스리는 2077년에서 테러범들과 함께 2012년으로 떨어진 경찰. |
+| 2012 | Danger 5 (경계) | Danger 5 | Dario Russo · David Ashby | 드라마 | 확인 못 함 | 1960년대 풍으로 비튼 2차 대전, 첩보원 다섯이 공룡까지 되살리는 히틀러의 계획을 막는다. |
+| 2012 | Delete | Delete | Sonar Entertainment · Brightlight Pictur | 드라마 | 확인 못 함 | 스마트폰 속 인공 지능이 스스로 깨어나 인류를 노예로 삼으려 하자 기자와 해커가 맞선다. |
 | 2012 | H+: The Digital Series | H+: The Digital Series | John Cabrera, Cosimo De Tommaso | 드라마 | 확인 못 함 | 기술적 특이점이 부른 대참사 뒤의 가까운 미래를 트랜스휴머니즘 갈래마다 다르게 본다 |
+| 2012 | Lightning Point | Lightning Point | Jonathan M. Shiff | 드라마 | 확인 못 함 | 우주선을 잃고 바닷가 마을에 갇힌 행성 루미나의 두 소녀, 마을엔 미확인 비행 물체가 잇따른다. |
+| 2012 | Marvin Marvin | Marvin Marvin | Jon Ross · Jeff Bushell | 드라마 | 확인 못 함 | 고향 행성의 침략자를 피해 지구로 보내진 초능력 외계인 소년이 사람 생활에 적응한다. |
+| 2012 | O-PARTS〜オーパーツ〜 | O-PARTS〜オーパーツ〜 | フジテレビ | 드라마 | 확인 못 함 | '초능력 살인'이 잇따르는 가운데 144년 뒤 미래에서 온 존재가 얽힌다. |
+| 2012 | Reality On Demand | Reality On Demand | Marx Hernandez Pyle | 드라마 | 확인 못 함 | 좋아하는 드라마·영화 속으로 들어가는 가상 현실 게임을 시험하던 넷이 그 안에 갇힌다. |
 | 2012 | 레볼루션 | Revolution | Eric Kripke (NBC) | 드라마 | 있음 | 어느 날 지구의 모든 전기가 꺼진 지 15년, 무너진 미국에서 그 까닭을 찾아 나선다. |
+| 2012 | Space Janitors | Space Janitors | Davin Lengyel · Geoff Lapaire | 드라마 | 확인 못 함 | 스타워즈를 비튼 희극 — 우주 정거장의 청소부 둘 다비와 마이크. |
+| 2012 | The Neighbors | The Neighbors | Dan Fogelman | 드라마 | 확인 못 함 | 뉴저지 교외 단지로 이사 온 가족이 이웃 모두가 다른 행성에서 온 이들임을 안다. |
+| 2012 | Untitled Web Series About a Space Traveler Who Can Also Travel Through Time | Untitled Web Series About a Space Traveler Who Can Also Travel Through Time | Travis Richey | 드라마·영화 | 확인 못 함 | 우주와 시간을 함께 넘나드는 '스페이스타임 경감'의 모험을 그린 패러디. |
+| 2012 | VISION-殺しが見える女- (경계) | VISION-殺しが見える女- | 飯田譲治(각본), 読売テレビ | 드라마 | 확인 못 함 | 살인의 환영을 보는 모델과 정직 중인 형사가 사건을 쫓는 사이코 스릴러. |
+| 2012 | Wizards vs Aliens (경계) | Wizards vs Aliens | Russell T Davies · Phil Ford | 드라마 | 확인 못 함 | 마법을 먹는 외계 종족 네크로스가 지구에 오자, 열여섯 살 마법사와 과학 잘하는 친구가 맞선다. |
 | 2012 | 리얼 휴먼 | Äkta människor | Lars Lundström (SVT) | 드라마 | 있음 | 사람과 똑같이 생긴 일꾼 로봇이 집집마다 쓰이고, 그중 몇이 스스로 생각하기 시작한다. |
+| 2012 | ぼくの夏休み (경계) | ぼくの夏休み | 樫田正剛·武田有起(각본), 東海テレビ | 드라마 | 확인 못 함 | 부모의 이혼 문제로 외가에 맡겨진 남매가 증기기관차를 타고 태평양 전쟁 중인 1944년으로 간다. |
+| 2012 | 回到三國 (경계) | 回到三國 | Lau Kar-ho(제작) | 드라마 | 확인 못 함 | 게임 중독 청년이 삼국 시대로 떨어져 제갈량의 참모가 된다. |
+| 2012 | 자이언트 세이버 (경계) | 巨神战击队 | 중·일 합작 | 드라마 | 확인 못 함 | 인·천·지 세 팀의 로봇 전사와 거대 로봇이 '해족' 괴물에 맞서는 특촬극. |
+| 2012 | 快乐酷宝 (경계) | 快乐酷宝 | 蓝弧动漫, 宝视德 | 드라마 | 확인 못 함 | 주인공 러러가 다른 세계에서 온 로봇을 도와 사람들의 밝은 마음 에너지를 모으고 악당을 물리친다. |
+| 2012 | 悪夢ちゃん (경계) | 悪夢ちゃん | 日本テレビ | 드라마·영화 | 확인 못 함 | 끔찍한 미래를 꿈으로 미리 보는 전학생과, 속으로 아이들을 미워하는 담임 교사. |
+| 2012 | 智勝鮮師 (경계) | 智勝鮮師 | 柯翰辰 · 陳彥旭(감독) | 드라마 | 확인 못 함 | 2500년 전 억울하게 죽은 공자가 저승을 거쳐 현대 학교의 선생이 된다. |
 | 2012 | 신의 (경계) | 신의 | 송지나(극본) | 드라마 | 한국 원작 | 고려의 무사가 시공의 문을 넘어 현대의 여의사를 데려가고, 그녀는 왕을 지키는 의원이 된다. |
 | 2012 | 옥탑방 왕세자 (경계) | 옥탑방 왕세자 | 안길호(연출) | 드라마 | 한국 원작 | 세자빈 죽음을 캐던 조선의 왕세자와 신하 셋이 3백 년 뒤 서울 옥탑방으로 떨어진다. |
 | 2012 | 인현왕후의 남자 (경계) | 인현왕후의 남자 | tvN | 드라마 | 한국 원작 | 타임워프로 조선과 3백 년 뒤 현대를 오가는 선비가 여배우와 엮인다. |
 | 2012 | 히어로 (경계) | 히어로 | 김홍선·김정민(연출), 구동회·김바다(극본) | 드라마 | 한국 원작 | 대공황으로 파산한 근미래 한국의 가상 도시, 총상 치료로 나노 주사를 맞은 청년이 재생 능력을 얻는다. |
+| 2013 | 2020: The Series | 2020: The Series | Rik Ferguson · Katarzyna Kieliszek · Woj | 드라마 | 확인 못 함 | 가까운 미래, 중앙 유럽의 가상 나라 남실바니아 공화국은 그 지역에서 기술이 가장 앞섰다. |
+| 2013 | Alien Dawn | Alien Dawn | Larry Schwarz | 드라마 | 확인 못 함 | 열여섯 살 소년이 사라진 아버지가 그린 만화책 속 단서로 수상한 음모를 쫓는다. |
 | 2013 | Almost Human | Almost Human | J. H. Wyman (Fox) | 드라마 | 확인 못 함 | 범죄가 넘치는 2048년, 사람 경찰과 감정을 지닌 인조인간 경찰이 짝을 이룬다. |
+| 2013 | Barna Hedenhös uppfinner julen (경계) | Barna Hedenhös uppfinner julen | Oskar Mellander · Jonathan Sjöberg 외 | 드라마 | 확인 못 함 | 석기 시대 이야기의 아이들을 데려와 성탄절이 아직 없는 다른 2013년 스톡홀름에 둔다. |
 | 2013 | Defiance | Defiance | Rockne S. O'Bannon, Kevin Murphy, Michae | 게임·드라마 | 확인 못 함 | 외계 종족들이 지구에 내려앉아 땅이 뒤바뀐 뒤, 사람과 외계인이 함께 사는 변경 도시. |
+| 2013 | Edge of Normal (경계) | Edge of Normal | Amanda Overton | 드라마 | 확인 못 함 | 위험한 초능력을 지닌 십대 소녀 여섯이 실수 하나가 목숨을 앗는 세상에서 자란다. |
+| 2013 | MISSION ENGLISH (경계) | MISSION ENGLISH | 伊藤仟夜里(각본·연출), BSフジ | 드라마 | 확인 못 함 | 먼 별 왕족의 피를 이은 남자가 무너질 위기에 놓인 별의 왕국을 구하러 나서는 영어 교육 드라마. |
 | 2013 | 오펀 블랙 | Orphan Black | Graeme Manson, John Fawcett (Space / BBC | 드라마·만화 | 있음 | 자기와 똑같이 생긴 여자의 죽음을 본 주인공이 자신이 복제 인간 실험의 하나임을 알게 된다. |
+| 2013 | Siberia (경계) | Siberia | Matthew Arnold | 드라마 | 확인 못 함 | 시베리아 퉁구스카 숲에 모인 리얼리티 쇼 참가자들이 제작진에게 버려진 채 기이한 일을 겪는다. |
 | 2013 | Utopia (경계) | Utopia | Dennis Kelly (Channel 4) | 드라마 | 확인 못 함 | 재앙을 맞혀 온 만화의 속편 원고를 손에 넣은 사람들이 인류를 줄이려는 비밀 조직에 쫓긴다. |
+| 2013 | シェアハウスの恋人 (경계) | シェアハウスの恋人 | 水橋文美江(각본), 日本テレビ | 드라마 | 확인 못 함 | 셰어하우스에 모인 여자·유부남·청년의 엇갈린 삼각관계에 외계인이 얽히는 연애 희극. |
+| 2013 | スターマン・この星の恋 (경계) | スターマン・この星の恋 | 岡田惠和(각본), 堤幸彦(연출) | 드라마 | 확인 못 함 | 홀로 세 아이를 키우는 여자가 기억을 잃은 수수께끼의 청년을 집에 들이는데, 그는 지구 사람이 아니다. |
+| 2013 | ファイヤーレオン (경계) | ファイヤーレオン | ブシロード · 海老名保 | 드라마 | 확인 못 함 | 레슬러와 맹수의 유전자를 섞은 '바이오 레슬러'를 쓰는 악의 프로레슬링 조직에 청년이 맞선다. |
+| 2013 | ミエリーノ柏木 (경계) | ミエリーノ柏木 | 高富秀太(각본·감독), テレビ東京 | 드라마 | 확인 못 함 | 손이 닿으면 그 사람의 가까운 앞날이 보이는 카페 직원이 이별 대행 일을 하며 사랑을 배운다. |
+| 2013 | 唐朝好男人 (경계) | 唐朝好男人 | 孙恺凯(감독) | 드라마·소설 | 확인 못 함 | 교통사고로 당나라에 떨어진 은행원이 21세기 지식으로 몰락 귀족의 삶을 꾸린다. |
+| 2013 | 回到愛以前 (경계) | 回到愛以前 | 王明台 · 許珮珊 · 郝心翔(감독) | 드라마 | 확인 못 함 | 약혼자를 잃은 무용수가 시간의 신에게서 과거로 돌아갈 기회를 얻지만 재능을 잃는다. |
+| 2013 | 安堂ロイド〜A.I. knows LOVE?〜 | 安堂ロイド〜A.I. knows LOVE?〜 | 西荻弓絵·泉澤陽子(각본), 波多野貴文 외(연출), TBS | 드라마 | 확인 못 함 | 살해당한 물리학자의 약혼녀 앞에, 그와 똑같이 생긴 미래의 안드로이드가 나타나 그녀를 지킨다. |
+| 2013 | 情逆三世緣 (경계) | 情逆三世緣 | Chong Wai-kin(제작) | 드라마 | 확인 못 함 | 작전 중 연인을 죽게 한 경찰이 송나라로 되돌아가 그녀와 닮은 사람을 만난다. |
+| 2013 | 神様のベレー帽〜手塚治虫のブラック・ジャック創作秘話〜 (경계) | 神様のベレー帽〜手塚治虫のブラック・ジャック創作秘話〜 | 古家和尚(각본), 三宅喜重(연출) | 드라마 | 확인 못 함 | 데즈카 오사무를 모르는 신입 편집자가 수수께끼의 남자 때문에 1973년의 편집부로 거슬러 간다. |
+| 2013 | 穿越101 (경계) | 穿越101 | 朱家麟 | 드라마 | 확인 못 함 | 부자를 꿈꾸던 회사원이 할머니를 도운 대가로 시공을 넘는 보물을 얻는다. |
+| 2013 | 衝撃ゴウライガン!! (경계) | 衝撃ゴウライガン!! | 雨宮慶太 | 드라마 | 확인 못 함 | 다른 세계의 초인 경호 장군이 죄인을 옮기다 괴물의 습격을 받고 사람 세상에 떨어진다. |
+| 2013 | 超絶☆絶叫ランド | 超絶☆絶叫ランド | ジェイ・ジェイ(원안), 山田篤宏·吹原幸太(각본) | 드라마 | 확인 못 함 | 놀이공원 근처 숲에 운석이 떨어져 연락이 끊기고, 외계 생물이 사람 몸에 깃든다. |
+| 2013 | 銀河銭湯パンタくん (경계) | 銀河銭湯パンタくん | 角田貴志(각본), NHK | 드라마 | 확인 못 함 | 지구인과 외계인이 함께 사는 2313년, 오래된 대중목욕탕 집 아들과 외계인 아이가 동네 문제를 푼다. |
 | 2013 | 나인: 아홉 번의 시간여행 (경계) | 나인: 아홉 번의 시간여행 | 송재정·김윤주(극본), 김병수(연출) | 드라마 | 한국 원작 | 향에 불을 붙이면 20년 전으로 돌아가는 아홉 개의 향을 얻은 남자가 과거를 바꾸려 한다. |
+| 2013 | 너의 목소리가 들려 (경계) | 너의 목소리가 들려 | 趙秀沅(연출), 朴惠蓮(극본) | 드라마 | 한국 원작 | 아버지를 잃은 사고 뒤 남의 속마음이 들리게 된 고등학생이 그 능력으로 사건과 사랑에 얽힌다. |
 | 2013 | 미래의 선택 (경계) | 미래의 선택 | 홍진아(극본), 권계홍·유종선(연출) | 드라마 | 한국 원작 | 미래에서 온 자신이 지금의 나에게 다른 선택을 하라며 끼어든다. |
 | 2013 | 별에서 온 그대 (경계) | 별에서 온 그대 | SBS | 드라마 | 한국 원작 | 400년 전 지구에 떨어져 늙지 않고 살아온 외계인 남자가 떠나기 석 달 전 한 여배우를 만난다. |
+| 2014 | Annedroids | Annedroids | J. J. Johnson | 드라마 | 확인 못 함 | 열한 살 소녀 과학자와 친구들이 소녀가 만든 인조인간 셋과 과학을 익힌다. |
+| 2014 | Ascension | Ascension | Philip Levens · Adrian A. Cruz | 드라마 | 확인 못 함 | 1963년 냉전 속 미국이 프록시마 센타우리 행성 식민을 위해 띄운 100년짜리 세대 우주선. |
+| 2014 | Believe (경계) | Believe | Alfonso Cuarón · Mark Friedman | 드라마 | 확인 못 함 | 다룰 수 없는 초능력을 타고난 소녀를, 누명을 쓴 죄수가 쫓는 자들로부터 지킨다. |
+| 2014 | Extant | Extant | Mickey Fisher | 드라마 | 확인 못 함 | 13개월 홀로 우주 임무를 마친 우주비행사가 까닭 모를 임신을 한 채 돌아온다. |
+| 2014 | Forever (경계) | Forever | Matthew Miller | 드라마 | 확인 못 함 | 200년 전 처음 죽은 뒤 죽을 때마다 되살아나는 뉴욕 검시관 헨리 모건. |
+| 2014 | Helix | Helix | Cameron Porsandeh | 드라마 | 확인 못 함 | 북극 생명 연구 기지의 바이러스를 조사하러 간 질병통제센터 과학자들이 금지된 유전자 연구를 캔다. |
+| 2014 | Intelligence | Intelligence | Michael Seitzman | 드라마 | 확인 못 함 | 뇌에 슈퍼컴퓨터 칩을 심은 전직 특수 부대원 가브리엘 본이 정보 요원으로 뛴다. |
+| 2014 | Space Riders: Division Earth (경계) | Space Riders: Division Earth | CTV Extend | 드라마 | 확인 못 함 | 외계 악당 오슨 우즈가 지구를 침공하자 뜻밖에 영웅이 된 두 게으름뱅이. |
+| 2014 | Star-Crossed | Star-Crossed | Meredith Averill | 드라마 | 확인 못 함 | 2024년, 외계인 소년들이 교외 고등학교에 들어오며 사람 소녀와 사랑에 빠진다. |
+| 2014 | The After | The After | Chris Carter | 드라마 | 확인 못 함 | 폭력적이고 내다볼 수 없는 새 세상에서 낯선 여덟이 함께 살아남아야 한다. |
+| 2014 | The Lottery | The Lottery | Timothy J. Sexton | 드라마 | 확인 못 함 | 2019년부터 아이가 하나도 태어나지 않은 2025년, 연구자들이 돌파구를 찾아낸다. |
+| 2014 | Tidsrejsen | Tidsrejsen | Poul Berg | 드라마 | 확인 못 함 | 부모가 다시 합치기를 바라는 열세 살 소피가 할아버지의 선물을 계기로 시간 여행에 나선다. |
+| 2014 | Z Nation (경계) | Z Nation | Karl Schaefer · Craig Engler | 드라마 | 확인 못 함 | 바이러스로 사람 대부분이 죽은 좀비 종말 3년째, 백신 실험을 받은 죄수 머피를 둘러싼 여정. |
+| 2014 | Чернобыль: Зона отчуждения | Чернобыль: Зона отчуждения | Vitaliy Shliappo · Vasily Kutsenko 외 | 드라마 | 확인 못 함 | 도둑을 쫓아 프리퍄티로 간 친구 다섯, 2013년과 사고 전날인 1986년이 얽힌다. |
+| 2014 | ヒガンバナ〜警視庁捜査七課〜 (경계) | ヒガンバナ〜警視庁捜査七課〜 | 吉澤智子 외(각본), 大谷太郎 외(연출), 日本テレビ | 드라마 | 확인 못 함 | 사건 현장에 남은 마음의 소리가 들리는 형사가 여성 수사반에서 사건의 진실을 짚어 낸다. |
+| 2014 | 不一樣的美男子 (경계) | 不一樣的美男子 | 丁仰国·沈怡(감독), 王雪静(극본) | 드라마 | 확인 못 함 | 요트 폭발에서 살아난 친구들이 이식 수술 뒤 저마다 다른 초능력을 얻어 엮이는 청춘극. |
+| 2014 | 天誅〜闇の仕置人〜 (경계) | 天誅〜闇の仕置人〜 | 高橋幹子·根津理香(각본), フジテレビ | 드라마 | 확인 못 함 | 센고쿠 시대에서 현대로 건너온 여자 닌자와 동료들이 오늘의 악을 처단하는 액션극. |
+| 2014 | 甲殻不動戦記 ロボサン (경계) | 甲殻不動戦記 ロボサン | Yuki Saito | 드라마 | 확인 못 함 | 우주 생물을 몰아내고 멈춰 버린 거대 로봇을 둘러싼 이야기. |
+| 2014 | 素敵な選TAXI (경계) | 素敵な選TAXI | オークラ 외(각본), 筧昌也·星野和成(연출), 関西テレビ | 드라마 | 확인 못 함 | 손님을 원하는 과거로 데려가 인생을 고칠 기회를 주는 택시 '센택시'의 기사 이야기. |
+| 2014 | 스웨덴 세탁소 (경계) | 스웨덴 세탁소 | 鄭煥碩(연출) | 드라마 | 한국 원작 | 남의 사랑·우정·일 고민이 눈에 보이는 평범한 여자의 일상을 만화처럼 그린 판타지 희극. |
 | 2014 | 신의 선물-14일 (경계) | 신의 선물-14일 | 최란(각본), 이동훈(연출) | 드라마 | 한국 원작 | 납치된 딸을 잃은 엄마가 물에 몸을 던졌다가 사건 2주 전으로 돌아가 범인을 쫓는다. |
+| 2015 | Best Friends Whenever | Best Friends Whenever | Jed Elinoff · Scott Thomas | 드라마 | 확인 못 함 | 이웃집 실험실 사고로 시간을 오가는 힘을 얻은 두 십대 단짝. |
+| 2015 | Between | Between | Michael McGowan | 드라마 | 확인 못 함 | 스물두 살 넘은 사람을 모두 죽인 수수께끼 병에 갇힌 작은 마을 프리티 레이크. |
 | 2015 | El Ministerio del Tiempo | El Ministerio del Tiempo | Javier Olivares, Pablo Olivares (TVE) | 드라마 | 확인 못 함 | 스페인 정부의 비밀 부처가 시간의 문을 지키며 역사가 바뀌지 않게 요원을 보낸다. |
+| 2015 | Eve | Eve | Emma Reeves · David Chikwe | 드라마 | 확인 못 함 | 교외 가족과 사는 여성 인조인간 이브가 십대 소녀로서 사람의 삶을 배워 간다. |
+| 2015 | Glitch (경계) | Glitch | Tony Ayres · Louise Fox | 드라마 | 확인 못 함 | 시골 마을 묘지에서 죽은 이 일곱이 기억 없이 멀쩡한 몸으로 되살아난다. |
+| 2015 | Hindsight (경계) | Hindsight | Emily Fox | 드라마 | 확인 못 함 | 두 번째 결혼 전날, 엘리베이터에 갇혀 바란 대로 1995년으로 돌아간 여자가 삶을 다시 산다. |
+| 2015 | Into the Badlands | Into the Badlands | Alfred Gough · Miles Millar | 드라마 | 확인 못 함 | 전쟁으로 문명이 무너진 500년 뒤, 총을 버리고 칼과 활로 다스리는 봉건 땅을 전사와 소년이 지난다. |
 | 2015 | Killjoys | Killjoys | Michelle Lovretta (Space / Syfy) | 드라마 | 확인 못 함 | 한 회사가 다스리는 네 행성계를 누비는 현상금 사냥꾼 셋. |
 | 2015 | Mr. Robot (경계) | Mr. Robot | Sam Esmail | 드라마 | 확인 못 함 | 사회 불안을 앓는 보안 기술자이자 해커의 이야기를 그린 기술 스릴러 |
+| 2015 | Okkupert (경계) | Okkupert | Jo Nesbø(착상) | 드라마 | 확인 못 함 | 가까운 미래, 노르웨이가 러시아에 '부드럽게' 점령당하는 정치 스릴러. |
+| 2015 | Other Space | Other Space | Paul Feig | 드라마 | 확인 못 함 | 2105년, 엉망인 탐사선 승무원들이 알 수 없는 우주에 갇힌다. |
+| 2015 | Residue (경계) | Residue | John Harrison | 드라마 | 확인 못 함 | 미래 도시 나이트클럽 폭발 뒤 정부가 친 격리 구역, 사진 기자가 기이한 일을 만난다. |
+| 2015 | Rotor DR1 | Rotor DR1 | Chad Kapper | 드라마·영화 | 확인 못 함 | 전염병으로 인류 90%가 죽은 세상, 백신을 나르던 무인 드론을 찾은 소년이 아버지를 찾아 나선다. |
 | 2015 | 센스8 (경계) | Sense8 | Lana Wachowski, Lilly Wachowski, J. Mich | 드라마 | 있음 | 세계 곳곳의 낯선 여덟 사람이 마음과 감각이 이어진 채로 깨어난다. |
+| 2015 | Stitchers | Stitchers | Jeffrey Alan Schechter | 드라마 | 확인 못 함 | 갓 죽은 사람의 기억에 '꿰매어' 들어가 살인과 수수께끼를 푸는 정부 기관 요원. |
+| 2015 | The Messengers (경계) | The Messengers | Eoghan O'Donnell | 드라마 | 확인 못 함 | 수수께끼 물체가 떨어진 충격파로 죽었다가 곧 되살아난 낯선 다섯의 이야기. |
+| 2015 | The Refugees | The Refugees | Ramón Campos · Gema R. Neira · Cristóbal | 드라마 | 확인 못 함 | 치명적인 감기 변종을 피해 미래 사람 30억이 오늘로 피난 와 시골 마을에 든다. |
+| 2015 | 四手妙弹 (경계) | 四手妙弹 | 程路(감독) | 드라마 | 확인 못 함 | 현대 여대생 넷이 당나라로 건너가 적인걸과 함께 사건을 푼다. |
+| 2015 | 太子妃升职记 (경계) | 太子妃升职记 | 侣皓吉吉(감독) · 鲜橙(원작) | 드라마·소설 | 확인 못 함 | 물에 빠진 바람둥이가 옛 태자비의 몸으로 깨어나 태후 자리까지 오른다. |
+| 2015 | 張保仔 (경계) | 張保仔 | TVB | 드라마 | 확인 못 함 | 고속정 추격 중 물기둥에 휘말린 여경이 200년 전 해적 시대의 홍콩으로 떨어진다. |
+| 2015 | 念力家族 (경계) | 念力家族 | 笹公人(원작 가집), 佐東みどり·木滝りま(각본) | 드라마 | 확인 못 함 | 텔레파시를 쓰는 여고생, 눈에서 광선을 쏘는 엄마 등 저마다 초능력을 지닌 가족의 일상. |
+| 2015 | 超級大英雄 (경계) | 超級大英雄 | 周曉鵬 · 蔣凱宸(감독) | 드라마 | 확인 못 함 | 명나라 금의위 둘이 야명주를 쫓다 21세기로 떨어져 꼭 닮은 청년을 노린다. |
+| 2015 | 내일을 향해 뛰어라 (경계) | 내일을 향해 뛰어라 | SBS | 드라마 | 한국 원작 | 가출로 아버지를 죽음 문턱에 이르게 한 아들이 그림책 이야기와 이어진 시간 여행에 나선다. |
+| 2015 | 출동 케이캅 (경계) | 출동 케이캅 | 캐릭터플랜(제작) | 드라마 | 한국 원작 | 우주의 공주를 구해 힘을 얻은 두 경찰관이 사람 마음으로 괴물을 만드는 우주 악당과 싸운다. |
+| 2015 | 투 비 컨티뉴드 (경계) | 투 비 컨티뉴드 | Naver TVcast, MBC every1 | 드라마 | 한국 원작 | 데뷔를 앞둔 남자 아이돌 그룹이 갑자기 과거로 떨어져, 사정을 아는 여학생의 도움으로 데뷔에 다가간다. |
 | 2015 | 퐁당퐁당 LOVE (경계) | 퐁당퐁당 LOVE | MBC | 드라마 | 한국 원작 | 수능 날 물웅덩이에 빠진 고3 수포자가 조선에 떨어져 젊은 임금을 만난다. |
+| 2016 | 1989一念間 (경계) | 1989一念間 | 葉天倫 · 郭春暉(감독) | 드라마 | 확인 못 함 | 현재의 사람이 1989년 대만으로 건너가는 시간 여행 청춘극. |
 | 2016 | 3% | 3% | Pedro Aguilera (Netflix) | 드라마 | 있음 | 가난한 본토 젊은이 가운데 3%만 시험으로 골라 풍요로운 섬으로 보내는 미래 브라질. |
+| 2016 | BrainDead | BrainDead | Robert King · Michelle King | 드라마 | 확인 못 함 | 외계 벌레가 워싱턴 의회 의원들의 몸에 들어가는 정치 풍자극. |
+| 2016 | CODE浮士德遊戲 (경계) | CODE浮士德遊戲 | 詹大為(감독) | 드라마 | 확인 못 함 | 무엇이든 이뤄 주는 수수께끼 앱 '코드'가 소원의 값으로 위험한 임무를 내린다. |
+| 2016 | Cleverman (경계) | Cleverman | Ryan Griffen(착상) | 드라마 | 확인 못 함 | 원주민 꿈의 시대 이야기를 오늘의 디스토피아에 옮겨, 능력을 물려받은 형제가 맞선다. |
 | 2016 | Colony | Colony | Carlton Cuse, Ryan J. Condal (USA Networ | 드라마 | 확인 못 함 | 외계 세력이 점령한 로스앤젤레스, 장벽 안에서 협력과 저항 사이를 오가는 가족. |
+| 2016 | Crunch Time | Crunch Time | Andrew Disney · Bradley Jackson | 드라마 | 확인 못 함 | 남의 꿈에 들어가는 기계를 만든 학생들이 어쩌다 블랙홀을 만들어 버린다. |
+| 2016 | Day 5 | Day 5 | Burnie Burns · Matt Hullum · Josh Flanag | 드라마 | 확인 못 함 | 잠든 사람이 죽는 병으로 인류 대부분이 사라진 뒤, 살아남은 이들이 원인을 찾는다. |
+| 2016 | EU超時任務 (경계) | EU超時任務 | 林志華(감독·제작) | 드라마 | 확인 못 함 | 기동대 여경이 시간을 거슬러 옛 마을로 떨어지는 경찰 시간 여행극. |
+| 2016 | Halcyon | Halcyon | Stefan Grambart | 드라마 | 확인 못 함 | 2058년 가상 현실 회사 핼시언, 가상 현실 범죄 전담반 형사 줄스 도버. |
 | 2016 | Incorporated | Incorporated | David & Alex Pastor | 드라마 | 확인 못 함 | 위기와 기후 변화로 나라들이 파산한 2074년 밀워키, 다국적 기업들이 정부 자리를 차지했다 |
+| 2016 | Kosmo | Kosmo | Jan Bártek | 드라마 | 확인 못 함 | 유럽 연합 돈을 빼돌렸어도 벌금 때문에 날려야 하는 체코의 달 탐사를 비꼰 희극. |
 | 2016 | 인류의 새로운 시작, 마스 | Mars | National Geographic, Ron Howard·Brian Gr | 드라마 | 있음 | 가까운 미래 첫 유인 화성 탐사대가 내리고 기지를 넓혀 가는 과정을 다큐멘터리와 극으로 엮는다. |
+| 2016 | Mech-X4 | Mech-X4 | Steve Marmel | 드라마 | 확인 못 함 | 생각으로 기계를 다루는 고교 신입생이 도시를 지킬 높이 150피트 거대 로봇을 깨운다. |
+| 2016 | People of Earth | People of Earth | David Jenkins | 드라마 | 확인 못 함 | 외계인 납치 피해자 모임을 취재하러 간 기자가 그들 말이 참임을 깨닫는다. |
+| 2016 | Second Chance | Second Chance | Rand Ravich | 드라마 | 확인 못 함 | 살해된 75살 부패 보안관이 더 젊은 몸으로 되살아난다. |
 | 2016 | 섹션제로 (경계) | Section Zéro | Olivier Marchal | 드라마 | 있음 | 기업이 군대를 거느린 가까운 미래 유럽에서 경찰 특수부대가 무너진 질서와 맞선다. |
 | 2016 | 기묘한 이야기 (경계) | Stranger Things | The Duffer Brothers (Netflix) | 게임·드라마·만화·소설 | 있음 | 1980년대 시골 마을, 비밀 연구소가 연 틈으로 뒤집힌 다른 세계의 괴물이 넘어온다. |
+| 2016 | The Aliens | The Aliens | Fintan Ryan | 드라마 | 확인 못 함 | 외계인이 아일랜드해에 내려 마지못해 영국 사회에 섞인 지 40년, 국경 경비원이 제가 반쪽 외계인임을 안다. |
 | 2016 | OA (경계) | The OA | Brit Marling, Zal Batmanglij (Netflix) | 드라마 | 있음 | 7년 만에 돌아온 여자가 눈먼 몸이 나은 채 나타나, 죽음 너머 다른 차원을 건넌 이야기를 한다. |
+| 2016 | Time Traveling Bong | Time Traveling Bong | Ilana Glazer · Paul W. Downs · Lucia Ani | 드라마 | 확인 못 함 | 피우면 시간을 거슬러 가는 물담뱃대를 찾은 사촌 둘이 망가진 담뱃대로 돌아올 길을 찾는다. |
 | 2016 | Timeless | Timeless | Eric Kripke, Shawn Ryan | 드라마 | 확인 못 함 | 최첨단 타임머신을 훔친 자가 미국의 과거를 바꾸려 하자 역사학자·군인·과학자가 원형 기계로 뒤쫓는다. |
 | 2016 | 시간여행자 | Travelers | Brad Wright (Showcase / Netflix) | 드라마 | 있음 | 망한 미래에서 의식만 지금 사람 몸에 들어온 요원들이 인공지능의 지휘로 미래를 바꾼다. |
+| 2016 | Van Helsing (경계) | Van Helsing | Neil LaBute | 드라마 | 확인 못 함 | 옐로스톤 화산 분출로 해가 가려져 흡혈귀가 판치는 세상, 피로 흡혈귀를 사람으로 되돌리는 여자. |
 | 2016 | W (경계) | W | 송재정(극본), 정대윤·박승우(연출) | 드라마 | 한국 원작 | 2016년 서울, 같은 공간의 다른 차원과 현실이 엇갈리며 사랑과 추격이 벌어진다. |
+| 2016 | タイムパトロールのOL (경계) | タイムパトロールのOL | 前田司郎(각본·연출), フジテレビ | 드라마 | 확인 못 함 | 시간 여행이 퍼진 25세기, 역사 개조 범죄를 막는 시간 순찰대 일본 지사를 받치는 사무직원들의 시트콤. |
+| 2016 | 來自喵喵星的妳 (경계) | 來自喵喵星的妳 | 徐正康(제작) | 드라마 | 확인 못 함 | 회사 정치 희극 속에 '야옹 별' 사람들이 지구인과 얽힌다. |
+| 2016 | 來自未來的史密特 | 來自未來的史密特 | 吳蒙恩(감독) | 드라마 | 확인 못 함 | 살인 누명을 쓴 2045년의 설계자가 직접 만든 회중시계로 2015년에 와 젊은 아버지를 만난다. |
+| 2016 | 侵略!ガルパンダZ (경계) | 侵略!ガルパンダZ | 河崎実(감독) | 드라마 | 확인 못 함 | 두 별의 전쟁에서 지구 침략권을 걸고, 지구인에게 빙의한 '걸판다 Z' 별의 세 여자가 숨어든다. |
+| 2016 | 原來1家人 (경계) | 原來1家人 | 單承矩(감독) | 드라마 | 확인 못 함 | 80년대 세대 감성의 가족 상황극에 시간 여행이 끼어든다. |
+| 2016 | 奇妙的时光之旅 (경계) | 奇妙的时光之旅 | Fu-Hsiang Hsu 許富翔(감독), Wang Gungun, Hu X | 드라마 | 확인 못 함 | 요트 폭발 뒤 얼굴과 이름을 바꾼 남자가 아내가 남긴 시간을 건너는 즉석 사진기로 과거를 오간다. |
+| 2016 | 殭 (경계) | 殭 | 陳維冠(제작) | 드라마 | 확인 못 함 | 좀비 바이러스로 폐허가 된 2115년, 해독제를 찾아 웜홀로 과거에 간 두 사람의 이야기. |
+| 2016 | 相爱穿梭千年2：月光下的交换 (경계) | 相爱穿梭千年2：月光下的交换 | 金炳秀(감독) · 朴英淑(각본) | 드라마 | 확인 못 함 | 민국 시대와 현대 사이 80년을 서로 바꿔 건너는 '교환 시간 여행' 연애극. |
+| 2016 | 超少年密码 | 超少年密码 | 郑芬芬(감독) | 드라마 | 확인 못 함 | 인공지능의 습격이 고교 신입생들의 생활에 끼어드는 SF 학원 미스터리. |
+| 2016 | 또! 오해영 (경계) | 또! 오해영 | 宋賢旭(연출), 朴海英(극본) | 드라마 | 한국 원작 | 같은 이름의 잘난 동창 탓에 늘 비교당하던 여자와, 앞날의 장면이 문득 보이는 남자의 연애극. |
 | 2016 | 레전드히어로 삼국전 (경계) | 레전드히어로 삼국전 | 문와쳐, 시너지미디어 | 드라마 | 한국 원작 | 도장 주방 담당 청년이 신선에게 패를 받아, 무엇이든 이루어 주는 옥새를 두고 삼국지 영웅들과 겨룬다. |
+| 2016 | 스파크 (경계) | 스파크 | Cube 엔터테인먼트, iHQ | 드라마 | 한국 원작 | 사고로 온몸에 전기가 흐르게 된 아이돌과 그에게서 떨어질 수 없게 된 여학생의 연애 희극. |
 | 2016 | 시그널 (경계) | 시그널 | 김은희(극본), 김원석(연출) | 드라마 | 한국 원작 | 과거에서 걸려 온 무전으로 이어진 현재와 과거의 형사들이 오래된 미제 사건을 함께 풀어 간다. |
 | 2016 | 특근 (경계) | 특근 | 김건(감독) | 드라마·만화 | 한국 원작 | 전설 속 요수가 숨어든 대한민국에서 특수 요원들이 그들을 쫓아 퇴치한다. |
 | 2017 | 109 별일 다 있네 | 109 별일 다 있네 | 박선재(극본) | 드라마 | 한국 원작 | 사람처럼 만들어진 남자 로봇과 한 여자가 엮이는 6부작 로맨스 웹드라마. |
+| 2017 | 77部署合体ロボダイキギョー ドラマ・伝え方が9割 (경계) | 77部署合体ロボダイキギョー ドラマ・伝え方が9割 | 藤井亮(감독), ふじきみつ彦(각본) | 드라마 | 확인 못 함 | 77개 부서가 합체하는 거대 로봇의 왼쪽 무릎을 맡은 말재주 없는 직원이 말의 힘으로 팀을 묶는다. |
+| 2017 | Blood Drive | Blood Drive | James Roland | 드라마 | 확인 못 함 | 대지진으로 미국이 갈라진 또 하나의 1999년, 거대 기업이 협곡 바닥의 기이한 발견을 쥐고 흔든다. |
 | 2017 | 카운터파트 | Counterpart | Justin Marks (Starz) | 드라마 | 있음 | 베를린 지하의 비밀 통로로 이어진 두 평행 세계, 다른 삶을 산 같은 사람이 마주친다. |
 | 2017 | 오싹한 이야기 (경계) | Creeped Out | CBBC | 드라마 | 있음 | 가면 쓴 수집가가 모아 둔 기묘한 이야기를 한 편씩 들려주는 어린이용 SF 공포 옴니버스. |
 | 2017 | 다크 | Dark | Baran bo Odar, Jantje Friese (Netflix) | 드라마 | 있음 | 독일 작은 마을에서 33년마다 엮이는 네 집안이 시간의 고리 속 원인과 결과를 쫓는다. |
+| 2017 | Dimension 404 | Dimension 404 | Will Campos · Desmond Dolly · Daniel Joh | 드라마 | 확인 못 함 | 편마다 세계가 따로인 과학 공상 블랙 코미디 선집. |
+| 2017 | Extinct | Extinct | Orson Scott Card · Aaron Johnston (각본) · | 드라마 | 확인 못 함 | 외계인이 인류를 몰살한 지 400년, 외계 한 세력이 되살린 사람들이 문명을 다시 일으킨다. |
+| 2017 | Future Man | Future Man | Howard Overman · Kyle Hunter · Ariel Sha | 드라마 | 확인 못 함 | 깰 수 없다던 게임을 마침내 깬 청소부 앞에 게임 속 두 주인공이 나타나 세상을 구하라고 한다. |
+| 2017 | La zona | La zona | Jorge Sánchez-Cabezudo · Alberto Sánchez | 드라마 | 확인 못 함 | 북부 스페인 원전 사고 세 해 뒤, 출입 금지 구역에서 난 살인을 생존 경찰이 캔다. |
+| 2017 | Making History | Making History | Julius Sharpe | 드라마 | 확인 못 함 | 서로 다른 두 세기에서 온 세 친구가 시간 여행의 짜릿함과 뜻밖의 결과를 겪는다. |
+| 2017 | Missions | Missions | Ami Cohen · Henri Debeurme · Julien Laco | 드라마 | 확인 못 함 | 가까운 미래, 유럽의 첫 유인 화성 탐사선 율리시스 1호가 착륙 직전 뜻밖의 소식을 듣는다. |
+| 2017 | Philip K. Dick's Electric Dreams | Philip K. Dick's Electric Dreams | Ronald D. Moore · Michael Dinner (원작 Phi | 드라마 | 확인 못 함 | 필립 K. 딕의 단편을 한 편씩 옮긴 열 편짜리 선집. |
+| 2017 | ROAD TO EDEN | ROAD TO EDEN | 谷村政樹 · 森脇智延 · 三橋利行 | 드라마 | 확인 못 함 | 거대 에너지 돌로 만든 강화 복제 병기가 세계 대전을 끝낸 다른 별의 이야기. |
+| 2017 | Salvation | Salvation | Liz Kruger · Craig Shapiro · Matt Wheele | 드라마 | 확인 못 함 | 여섯 달 뒤 지구에 부딪힐 소행성이 발견되고, 이를 막으려는 이들과 세계가 흔들린다. |
+| 2017 | Svět pod hlavou | Svět pod hlavou | Ondřej Štindl · Robert Geisler · Benjami | 드라마 | 확인 못 함 | 2016년 차에 치인 경찰 필립이 1982년의 병원에서 깨어나 가족에게 무슨 일이 있었는지 캔다. |
 | 2017 | 오빌 | The Orville | Seth MacFarlane (Fox → Hulu) | 드라마·만화 | 있음 | 25세기 행성 연합의 중간급 탐사선 선원들이 겪는 임무와 일상. |
+| 2017 | Timewasters | Timewasters | Daniel Lawrence Taylor | 드라마 | 확인 못 함 | 대니얼 로런스 테일러가 만든 영국 공상 과학 풍자 희극. |
+| 2017 | Transferts | Transferts | Claude Scasso · Patrick Benedek | 드라마 | 확인 못 함 | 가까운 미래, 물에 빠졌던 목수가 다섯 해 만에 '옮겨진 이'를 쫓는 경찰 대장의 몸에서 깨어난다. |
+| 2017 | Wisdom of the Crowd (경계) | Wisdom of the Crowd | Shira Hadad · Dror Mishani(원작) · Ted Hum | 드라마 | 확인 못 함 | 딸의 살인을 풀려고 군중의 지혜를 모으는 앱을 만든 기술 혁신가가 도시 수사를 바꾼다. |
+| 2017 | Year Million (경계) | Year Million | Mark Elijah Rosenberg | 드라마 | 확인 못 함 | 세상을 바꿀 발명들이 낳을 여러 미래를 한 미국 가족의 모습으로 그려 보는 기록극. |
+| 2017 | コードネームミラージュ (경계) | コードネームミラージュ | 広井王子(원작), 山口雄大 외(감독) | 드라마 | 확인 못 함 | 법망을 빠져나간 거악을 남몰래 처단하려 꾸려진 경찰청 특수 부대가 인공지능과 함께 움직이는 액션극. |
+| 2017 | 不负如来不负卿 (경계) | 不负如来不负卿 | 李云亮(감독) · 小春(원작) | 드라마·소설 | 확인 못 함 | 2317년에서 온 자원 실험자가 옛 서역에 떨어져 한 승려의 깨달음을 이끈다. |
+| 2017 | 双世宠妃 (경계) | 双世宠妃 | 元德 · 吴强 · 李阳(감독) | 드라마·소설 | 확인 못 함 | 현대의 부동산 중개인 영혼이 평행 시공의 나라로 끌려가 귀족 딸의 몸에 깃든다. |
+| 2017 | 威比斯达莱昂 (경계) | 威比斯达莱昂 | 禾浩文化·企鹅影视 | 드라마 | 확인 못 함 | 지구를 부수려는 Z 백작에 맞서, 외계에서 온 넷이 소년 쉬디를 골라 함께 싸우는 어린이 특촬. |
+| 2017 | 已讀不回的戀人 (경계) | 已讀不回的戀人 | 三立華劇 · 童心娛樂(제작) | 드라마 | 확인 못 함 | 태양 흑점 이변이 연 시공의 인연 — 미래에서 온 문자가 자전거 선수의 죽음을 예고한다. |
+| 2017 | 我的未來男友 | 我的未來男友 | 馬毓廷(감독) | 드라마 | 확인 못 함 | 형이 죽은 화재의 수수께끼를 안고, 타임머신의 비밀을 안 청년이 2017년에서 2012년으로 건너간다. |
+| 2017 | 炎の天狐トチオンガーセブン (경계) | 炎の天狐トチオンガーセブン | 栃尾駿仁(원작) · 毘プロダクション · 橋本一(극장판 감독) | 드라마·영화 | 확인 못 함 | 쇼와 특촬을 잇겠다는 니가타 가시와자키의 지역 영웅 특촬. |
+| 2017 | 脳にスマホが埋められた! (경계) | 脳にスマホが埋められた! | 森迅史 외(각본), 筧昌也 외(감독), 読売テレビ | 드라마 | 확인 못 함 | 뇌에 스마트폰이 심어져 버린 남자가 그 기능 때문에 소동을 겪는 이야기. |
+| 2017 | 誇世代 (경계) | 誇世代 | Joe Chan(제작) | 드라마 | 확인 못 함 | 비행기 사고 때 영혼이 뒤바뀐 투자 은행가들의 시간 넘나들기 희극. |
+| 2017 | 超時空男臣 (경계) | 超時空男臣 | Marco Law(제작) | 드라마 | 확인 못 함 | 자객을 피하던 명나라 장군·서생·환관이 시공의 문을 지나 현대 홍콩에 떨어진다. |
+| 2017 | 鐘樓愛人 (경계) | 鐘樓愛人 | 郝心翔(감독) · 許芸齊(각본) | 드라마 | 확인 못 함 | 농구 시합에 진 뒤로 연애도 일도 꼬인 서른 살 남자의 시간 넘어가기 연애극. |
 | 2017 | 내일 그대와 (경계) | 내일 그대와 | 허성혜(극본), 유제원(연출) | 드라마 | 한국 원작 | 지하철을 타고 미래를 오가는 시간 여행자와 그의 아내가 정해진 비극을 피하려 한다. |
+| 2017 | 다시 만난 세계 (경계) | 다시 만난 세계 | SBS | 드라마 | 한국 원작 | 열아홉에 죽은 청년이 12년 뒤 그 나이 그대로 돌아와 소꿉친구와 다시 만나는 판타지 연애극. |
 | 2017 | 당신이 잠든 사이에 (경계) | 당신이 잠든 사이에 | 박혜련(극본), 오충환(연출) | 드라마 | 한국 원작 | 남에게 닥칠 사고를 꿈으로 미리 보는 여자와, 그 꿈이 현실이 되는 것을 막으려는 검사의 이야기. |
+| 2017 | 듀얼 | 듀얼 | Lee Jong-jae, Choi Young-soo(연출), Kim Yo | 드라마 | 한국 원작 | 딸을 납치당한 형사가 현장에 있던 얼굴이 똑같은 두 남자를 쫓으며 복제 인간의 비밀에 닿는다. |
 | 2017 | 뜻밖의 히어로즈 (경계) | 뜻밖의 히어로즈 | 김진환(연출), 송자영·이은진(극본) | 드라마 | 한국 원작 | 장기와 인체 조직을 이식받고 초능력이 생긴 고교생 셋이 의문의 사건을 풀어 간다. |
 | 2017 | 로봇이 아니야 (경계) | 로봇이 아니야 | 김선미·이석준(극본), 정대윤(연출) | 드라마 | 한국 원작 | 사람을 만지면 두드러기가 나는 남자가 인간형 로봇인 척하는 여자와 사랑에 빠진다. |
+| 2017 | 마이 온리 러브송 (경계) | 마이 온리 러브송 | Min Doo-sik(연출), Kim Soo-jin(극본), FNC Ad | 드라마 | 한국 원작 | 돈과 지위만 믿는 배우가 시간의 틈에 빠져 6세기 고구려로 떨어지는 희극. |
+| 2017 | 맨홀: 이상한 나라의 필 (경계) | 맨홀: 이상한 나라의 필 | Park Man-young(연출), Lee Jae-gon(극본) | 드라마 | 한국 원작 | 좋아하는 여자의 결혼을 막으려고 한 남자가 맨홀을 지나 과거와 현재를 오간다. |
 | 2017 | 명불허전 (경계) | 명불허전 | 김은희(극본), 홍종찬(연출) | 드라마 | 한국 원작 | 조선 최고의 침술사와 현대 외과 의사가 오래된 침통 덕분에 400년을 오가며 사람을 고친다. |
 | 2017 | 보그맘 | 보그맘 | 선혜윤(연출), 박은정·최우주(극본) | 드라마 | 한국 원작 | 인공지능 로봇 연구자가 아내를 닮게 만든 사이보그 엄마 '보그맘'과 함께 살며 소동이 벌어진다. |
 | 2017 | 봉인해제 13세 (경계) | 봉인해제 13세 | JEI 재능TV | 드라마 | 한국 원작 | 어렸을 때 아빠의 연구실에서 초능력을 얻은 세 자매가 열세 살이 되어 학교생활과 부딪힌다. |
 | 2017 | 써클: 이어진 두 세계 | 써클: 이어진 두 세계 | 민진기 (연출), 김진희·유혜미·류문상·박은미 (극본), tvN | 드라마 | 한국 원작 | 2017년의 외계 소녀 사건과, 감정을 통제당하는 2037년의 미래 도시가 한 줄로 이어진다. |
+| 2017 | 어쩌다 18 (경계) | 어쩌다 18 | 金度玄(연출), 尹素智(극본) | 드라마 | 한국 원작 | 고교 때 따돌림받던 남자가 스스로 목숨을 끊은 첫사랑을 구하려다 열여덟 살로 돌아간다. |
+| 2017 | 최고의 한방 (경계) | 최고의 한방 | Yoo Ho-jin, Cha Tae-hyun(연출), Lee Young- | 드라마 | 한국 원작 | 1993년의 인기 가수가 우연히 2017년으로 건너와, 이듬해 자신이 사라진 까닭을 캔다. |
 | 2017 | 터널 (경계) | 터널 | OCN | 드라마 | 한국 원작 | 1986년 연쇄 살인범을 쫓던 형사가 터널에서 쓰러졌다 깨어나 보니 2017년이었다. |
+| 2018 | 1006的房客 (경계) | 1006的房客 | 歐銻銻娛樂(제작) | 드라마 | 확인 못 함 | 낡은 아파트에서 넉 달 떨어진 두 세입자가 밤 10시 6분마다 같은 방에서 마주친다. |
+| 2018 | 229明天見 (경계) | 229明天見 | 马家骏 · 苏妙芳(감독) | 드라마 | 확인 못 함 | 2월 29일 하루가 되풀이되자 한 가장이 가족과 이웃의 사건을 거듭 고쳐 본다. |
+| 2018 | Ad Vitam | Ad Vitam | Sébastien Mounier · Thomas Cailley | 드라마 | 확인 못 함 | 늙지 않게 하는 '재생' 치료가 퍼져 죽음이 사라진 세상의 형사와 반항하는 소녀. |
+| 2018 | Castle Rock (경계) | Castle Rock | Sam Shaw · Dustin Thomason | 드라마 | 확인 못 함 | 스티븐 킹 소설들의 무대인 메인 주 작은 마을 캐슬록에 얽힌 어두운 이야기. |
+| 2018 | Find Me in Paris (경계) | Find Me in Paris | Jill Girling · Lori Mather | 드라마 | 확인 못 함 | 1905년 러시아 공주이자 발레 학생 레나가 시계 장신구에 실려 2018년 파리에 갇힌다. |
+| 2018 | Hard Sun | Hard Sun | Neil Cross | 드라마 | 확인 못 함 | 다섯 해 뒤 우주의 사건이 지구를 끝장낸다는 정부의 비밀을 알게 된 형사 둘이 쫓긴다. |
+| 2018 | Maniac | Maniac | Patrick Somerville · Cary Joji Fukunaga | 드라마 | 확인 못 함 | 열두 명이 드는 위험한 정신 약물 시험에서 이어진 두 낯선 이 애니와 오언. |
 | 2018 | 매니페스트 (경계) | Manifest | Jeff Rake | 드라마 | 있음 | 난기류를 지난 여객기가 내려 보니 바깥은 5년이 흘렀고, 승객들은 이상한 부름을 듣는다. |
+| 2018 | Origin | Origin | Mika Watkins | 드라마 | 확인 못 함 | 먼 행성으로 가는 우주선에 버려진 낯선 이들, 그 가운데 하나는 겉보기와 다른 존재다. |
+| 2018 | Reverie | Reverie | Mickey Fisher | 드라마 | 확인 못 함 | 전직 인질 협상가가 첨단 가상 현실 '레버리'에 마음을 잃은 사람들을 구해 낸다. |
+| 2018 | The Crossing | The Crossing | Jay Beattie · Dan Dworkin | 드라마 | 확인 못 함 | 전쟁을 피해 미국 마을에 닿은 난민들이 180년 뒤의 미국에서 왔다고 말한다. |
+| 2018 | The First | The First | Beau Willimon | 드라마 | 확인 못 함 | 사람의 첫 화성 탐사를 준비하는 우주비행사들과 그 가족. |
 | 2018 | 레인 | The Rain | Jannik Tai Mosholt, Esben Toft Jacobsen, | 드라마 | 있음 | 비에 섞인 바이러스가 사람을 죽인 뒤, 지하 벙커에서 나온 남매가 무너진 북유럽을 헤맨다. |
+| 2018 | Зірконавти | Зірконавти | Квартал-95 · Drive Production | 드라마 | 확인 못 함 | 우크라이나 크바르탈-95 가 만든 공상 과학 시트콤. |
 | 2018 | 그녀, 안드로이드 | Лучше, чем люди | Andrey Junkovsky, Aleksandr Dagan, Aleks | 드라마 | 있음 | 가정용 인조인간이 흔한 가까운 미래 모스크바, 규칙을 따르지 않는 인조인간 하나가 한 가족을 지킨다. |
+| 2018 | トドメの接吻 (경계) | トドメの接吻 | いずみ吉紘(각본), 菅原伸太郎(연출), 日本テレビ | 드라마 | 확인 못 함 | 돈만 믿는 호스트가 수수께끼 여자의 입맞춤에 죽을 때마다 7일 전으로 되돌아간다. |
+| 2018 | ミライさん (경계) | ミライさん | LINE NEWS | 드라마 | 확인 못 함 | '사람이 일하지 않아도 되는 미래'를 외치는 자칭 혁명가가 발명가 오빠의 도구를 함부로 써 소동을 벌인다. |
+| 2018 | 一千零一夜 (경계) | 一千零一夜 | 金沙(감독) | 드라마 | 확인 못 함 | 수면 개선 손목 장치가 고장 나 한 여자가 사장의 꿈속에 드나들게 된다. |
+| 2018 | 二次觉醒 | 二次觉醒 | 徐善杰(감독) | 드라마 | 확인 못 함 | 2030년대, 사람을 넘어선 인공지능 인간의 원본 코드를 사람들이 빼앗으려 한다. |
+| 2018 | 亲爱的活祖宗 (경계) | 亲爱的活祖宗 | 毛小睿(감독) · 雪影霜魂(원작) | 드라마·소설 | 확인 못 함 | 천 년을 잠든 동한 말의 장군이 현대에 깨어나 후손과 함께 산다. |
+| 2018 | 你的孩子不是你的孩子 (경계) | 你的孩子不是你的孩子 | 陳慧翎(감독), 吳曉樂(원작), 公視 | 드라마 | 확인 못 함 | 공부에 짓눌린 대만 가정들에 소원을 들어주는 공작새·평행 세계 같은 기이한 일이 끼어드는 선집. |
+| 2018 | 哦！我的皇帝陛下 (경계) | 哦！我的皇帝陛下 | テンセント・ピクチャーズ(제작), ガオ・ボー(감독) | 드라마 | 확인 못 함 | 사고를 당한 현대의 수련의가 옛 중국풍의 가상 나라로 떨어져, 좋아하던 가수를 닮은 황제를 만난다. |
+| 2018 | 唐砖 (경계) | 唐砖 | 祝东宁(감독) · 孑与2(원작) | 드라마·소설 | 확인 못 함 | 미래에서 온 젊은이가 정관 연간의 당나라에 떨어져 역사의 흐름을 조금씩 바꾼다. |
+| 2018 | 朕的刺客女友 (경계) | 朕的刺客女友 | 李韵臻(감독) | 드라마 | 확인 못 함 | 암살을 피하던 수미국의 왕과 호위가 신기한 회중시계로 2018년 현대에 떨어진다. |
+| 2018 | 棟仁的時光 (경계) | 棟仁的時光 | 葉鎮輝(제작) | 드라마 | 확인 못 함 | 시간을 넘나드는 힘이 끼어드는 현대 홍콩의 SF 연애 희극. |
+| 2018 | 武大的小姐姐們 (경계) | 武大的小姐姐們 | 台海兩岸 합작 | 드라마 | 확인 못 함 | 옛 그림의 힘으로 서시·화목란·달기·양귀비가 2018년에 나타나 춤 대회에 나간다. |
+| 2018 | 花甲大人轉男孩 (경계) | 花甲大人轉男孩 | 瞿友寧 | 드라마·영화 | 확인 못 함 | 궁지에 몰린 청년이 어린 시절 옷장에 숨자 흔들림과 함께 2003년 사스 시절로 돌아간다. |
+| 2018 | 超能造梦 (경계) | 超能造梦 | 高林豹(감독) | 드라마 | 확인 못 함 | 한 번 본 것을 잊지 않는 수험생이 이능 학교에 들어가 숨은 뇌파의 힘을 깨운다. |
 | 2018 | 진혼 (경계) | 镇魂 | Priest(원작 소설), 유쿠 | 드라마·소설 | 있음 | 1만 년 전 해성과 지성 사람들의 전쟁이 남긴 성물을 두고, 지구에 숨은 외계인 사건을 특수 부서가 맡는다. |
+| 2018 | 霹靂電娃 (경계) | 霹靂電娃 | 鄧安寧(감독) | 드라마 | 확인 못 함 | 아이돌을 꿈꾸던 세 소녀가 변신 능력을 얻어 선악의 싸움에 휘말린다. |
+| 2018 | 非私不可咖啡館 (경계) | 非私不可咖啡館 | 烏奴奴(감독) | 드라마 | 확인 못 함 | 사생활을 털어놓는 것이 유일한 값인 신비한 카페 — 페이스북을 카페로 바꿔 놓은 SF 아이돌 극. |
 | 2018 | 고래먼지 | 고래먼지 | 신우석(돌고래유괴단) | 드라마 | 한국 원작 | 가뭄과 미세 먼지로 사람들이 땅 위에 오르지 않는 2053년, 소녀와 기상 캐스터가 인공지능과 길을 떠난다. |
 | 2018 | 너도 인간이니? | 너도 인간이니? | 차영훈 (연출), 조정주 (극본), KBS2 | 드라마 | 한국 원작 | 사라진 재벌 3세를 꼭 닮게 만든 인공지능 로봇이 그 자리를 대신한다. |
 | 2018 | 시간이 멈추는 그때 (경계) | 시간이 멈추는 그때 | 지호진(극본), 곽봉철(연출) | 드라마 | 한국 원작 | 시간을 멈추는 능력을 지닌 청년이 이름뿐인 건물주를 만나 삶의 뜻을 찾아간다. |
 | 2018 | 아는 와이프 (경계) | 아는 와이프 | 양희승(극본), 이상엽(연출) | 드라마 | 한국 원작 | 동전 하나로 과거에 돌아가 한 번 다른 선택을 한 남자가 완전히 달라진 현재를 살게 된다. |
 | 2018 | 알함브라 궁전의 추억 | 알함브라 궁전의 추억 | 송재정(극본), 안길호(연출) | 드라마 | 한국 원작 | 렌즈를 끼면 그라나다 거리에 증강 현실 게임이 겹치고, 게임 속에서 죽은 이가 현실에 나타난다. |
 | 2018 | 애간장 (경계) | 애간장 | OCN(방영) | 드라마 | 한국 원작 | 첫사랑과의 과거를 바꾸고 싶은 지금의 내가 10년 전의 나를 만나 삼각관계에 빠진다. |
+| 2019 | Alien TV | Alien TV | Ian Brown | 드라마·애니메이션 | 확인 못 함 | 외계인 뉴스 취재진 셋이 지구와 사람을 알려고 찾아와 그 뜻을 헤아린다. |
 | 2019 | 어나더 라이프 | Another Life | Aaron Martin | 드라마 | 있음 | 지구에 내린 거대한 외계 물체가 보내는 신호를 따라 탐사선이 먼 별로 떠난다. |
+| 2019 | Blame the Hero | Blame the Hero | Brandon Rogers | 드라마 | 확인 못 함 | 핵 종말을 막으라고 과거로 보내진 거리 건달이 영국이 세계를 차지한 다른 현실에 떨어진다. |
+| 2019 | Club 57 | Club 57 | Catharina Ledoboer (Rainbow · Nickelodeo | 드라마 | 확인 못 함 | 2019년의 남매가 할아버지 실험실의 낡은 타임머신으로 1957년에 떨어진다. |
 | 2019 | 포 올 맨카인드 | For All Mankind | Ronald D. Moore, Matt Wolpert, Ben Nediv | 드라마 | 있음 | 소련이 먼저 달에 내린 다른 역사, 우주 경쟁이 끝나지 않고 달·화성 개척으로 이어진다. |
 | 2019 | Fremvandrerne | Fremvandrerne | Anne Bjørnstad, Eilif Skodvin (HBO Europ | 드라마 | 확인 못 함 | 옛 시대 사람들이 바다에서 떠올라 오늘의 오슬로로 몰려와 이민자로 사는 세상. |
+| 2019 | Il était une seconde fois | Il était une seconde fois | Guillaume Nicloux | 드라마 | 확인 못 함 | 헤어진 연인을 못 잊은 뱅상에게 주문하지 않은 바닥 없는 이상한 상자가 배달된다. |
+| 2019 | Osmosis | Osmosis | Audrey Fouché | 드라마 | 확인 못 함 | 가까운 미래 파리, 뇌 정보를 읽어 꼭 맞는 짝을 찾아 주는 만남 앱 오스모시스. |
+| 2019 | Pandora | Pandora | Mark A. Altman · Steve Kriozere | 드라마 | 확인 못 함 | 뉴포틀랜드 식민지 습격에서 부모를 잃은 젊은 여성 잭스가 홀로 진상을 캔다. |
+| 2019 | Project Blue Book (경계) | Project Blue Book | David O'Leary | 드라마 | 확인 못 함 | 미 공군의 비밀 미확인 비행 물체 조사에 회의적인 천체물리학자 하이넥 박사가 참여한다. |
 | 2019 | 어둠의 나날 | See | Steven Knight (Apple TV+) | 드라마 | 있음 | 바이러스로 인류가 시력을 잃은 지 수백 년, 눈이 보이는 아이들이 태어난다. |
+| 2019 | The I-Land | The I-Land | Anthony Salter | 드라마 | 확인 못 함 | 기억을 잃은 열 사람이 외딴 열대 섬 해변에서 깨어나 옷에 적힌 이름으로 살아남으려 한다. |
 | 2019 | 더 소사이어티 (경계) | The Society | Christopher Keyser | 드라마 | 있음 | 십 대만 남기고 어른들이 모두 사라진 마을에 갇힌 아이들이 스스로 사회를 꾸려야 한다. |
+| 2019 | The Unlisted | The Unlisted | Justine Flynn | 드라마 | 확인 못 함 | 치과 검진 때 심은 추적 장치로 아이들을 몰래 부리는 기업에 맞선 쌍둥이와 숨은 아이들. |
+| 2019 | Weird City | Weird City | Charlie Sanders · Jordan Peele | 드라마 | 확인 못 함 | 가까운 미래, 경제 계급에 따라 '선 위'와 '선 아래'로 갈린 도시 위어드의 선집. |
 | 2019 | 이어즈&이어즈 (경계) | Years and Years | Russell T Davies | 드라마 | 있음 | 2019년부터 2034년까지 한 영국 가족이 겪는 정치 혼란과 기술 변화, 몸을 기계와 섞는 사람들. |
 | 2019 | 상견니 (경계) | 想見你 | 간기봉·임흔혜(극본), 황천인(연출) | 드라마 | 있음 | 연인을 잃은 여자가 낡은 카세트테이프의 노래를 듣다 1998년의 다른 여고생 몸으로 깨어난다. |
+| 2019 | 理想國 | 理想國 | 譚惠貞 · 麥皞年 · 朱健安 · 陳志昇(감독) | 드라마 | 확인 못 함 | 가까운 미래 홍콩의 열세 이야기 — 아들 모습의 로봇을 빌리는 부부처럼 기술과 사람을 묻는다. |
+| 2019 | 約束のステージ 〜時を駆けるふたりの歌〜 (경계) | 約束のステージ 〜時を駆けるふたりの歌〜 | 徳永友一(각본), 佐々部清(감독) | 드라마 | 확인 못 함 | 가수의 꿈을 접으려던 소녀가 1975년의 도쿄로 떨어져 같은 꿈을 꾸는 소녀와 노래 경연에 나선다. |
+| 2019 | 金宵大廈 (경계) | 金宵大廈 | 葉鎮輝(제작) | 드라마 | 확인 못 함 | 낡은 금소 빌딩에 시간을 넘는 일이 잇따르고, '7.5층'은 현실 밖의 평행 시공이다. |
+| 2019 | 눈이 부시게 (경계) | 눈이 부시게 | 金鉐潤(연출), 李楠圭·金秀珍(극본) | 드라마 | 한국 원작 | 아버지를 구하려고 시간을 되돌린 대가로 자기 시간을 몽땅 잃고 한순간에 늙어 버린 여자의 이야기. |
 | 2019 | 사이코메트리 그녀석 (경계) | 사이코메트리 그녀석 | 양진아(극본), 김병수(연출) | 드라마 | 한국 원작 | 남의 비밀을 읽어 내는 능력을 지닌 청년과 비밀을 마음속에 감춘 여자가 얽히는 초능력 로맨스 스릴러. |
 | 2019 | 아이템 (경계) | 아이템 | 김성욱·박미연(연출) | 드라마 | 한국 원작 | 특별한 힘을 지닌 물건들을 둘러싼 음모를 검사와 경찰 프로파일러가 파헤친다. |
+| 2019 | 웰컴2라이프 (경계) | 웰컴2라이프 | 金根洪(연출), 柳熙京(극본) | 드라마 | 한국 원작 | 법의 빈틈만 노리던 변호사가 사고로 평행 세계에 빨려 들어가 강직한 검사로 살게 된다. |
 | 2019 | 조선생존기 (경계) | 조선생존기 | TV조선 | 드라마 | 한국 원작 | 2019년의 택배 기사가 1562년 조선으로 떨어져 임꺽정과 함께 살아남는다. |
+| 2019 | 초신성 특공대 엑스가리온 (경계) | 초신성 특공대 엑스가리온 | 초록뱀미디어(제작) | 드라마 | 한국 원작 | 신비한 짐승들에게 힘을 받은 전사들이 지구를 습격한 악의 군단에 맞서는 어린이 특촬. |
 | 2019 | 킹덤 (경계) | 킹덤 | 김은희(극본), 김성훈(연출) | 드라마 | 한국 원작 | 기이한 풀 '생사초'에서 비롯된 역병이 조선 땅을 뒤덮어 죽은 이들이 산 사람을 덮친다. |
 | 2019 | 환상의 타이밍 (경계) | 환상의 타이밍 | 장종훈(연출), 송유진(극본) | 드라마 | 한국 원작 | 광주·전남의 풍광을 배경으로, 시간을 거스르는 일과 함께 동시대 사람들의 희로애락을 담은 가족 멜로. |
+| 2020 | 40万キロかなたの恋 | 40万キロかなたの恋 | 玉田真也(각본), 椿本慶次郎(감독) | 드라마 | 확인 못 함 | 달 궤도 우주선에 1년째 머무는 우주 비행사가 '지구는 살 곳이 아니'라며 귀환을 꺼린다. |
+| 2020 | 56年目の失恋 (경계) | 56年目の失恋 | 戸田幸宏(각본·연출), NHK | 드라마 | 확인 못 함 | 2020년의 견습 요리사가 흔들린 엘리베이터에서 내리자 1964년 도쿄이고, 그 시대 요리사와 만난다. |
 | 2020 | 에비뉴 5 | Avenue 5 | Armando Iannucci | 드라마 | 있음 | 우주여행 시대, 호화 우주 유람선이 사고로 항로를 벗어나 승객의 불만 속에 우주를 헤맨다. |
+| 2020 | Away | Away | Andrew Hinderaker | 드라마 | 확인 못 함 | 세 해 걸리는 첫 화성 탐사를 앞둔 국제 우주비행사들과 남는 가족이 치르는 희생. |
 | 2020 | Biohackers | Biohackers | Christian Ditter | 드라마 | 확인 못 함 | 의대생이 생명공학 해킹의 세계에 빠져들며 불법 유전자 실험의 비밀을 캔다 |
+| 2020 | Code 404 | Code 404 | Tom Miller · Sam Myer · Daniel Peak | 드라마 | 확인 못 함 | 가까운 미래, 순직한 형사가 인공지능 실험으로 되살아나지만 수사 감각은 잃었다. |
 | 2020 | 데브스 | Devs | Alex Garland (FX on Hulu) | 드라마 | 있음 | 기술 기업의 비밀 연구팀이 과거와 미래를 그대로 그려 내는 양자 컴퓨터를 만든다. |
+| 2020 | Endlings | Endlings | J. J. Johnson | 드라마 | 확인 못 함 | 농장에서 위탁 아버지와 사는 네 아이가 우주선이 떨어진 외계인을 돕게 된다. |
+| 2020 | Mirakel | Mirakel | SVT | 드라마 | 확인 못 함 | 에너지로 쓰려던 인공 블랙홀이 새어 나가 1920년과 2020년의 같은 집을 잇는다. |
+| 2020 | Moonbase 8 (경계) | Moonbase 8 | Fred Armisen · Tim Heidecker · Jonathan  | 드라마 | 확인 못 함 | 애리조나의 달 기지 훈련 모의 시설에서 진짜 달 기지에 뽑히길 바라는 어설픈 우주비행사 셋. |
+| 2020 | Nebula-75 | Nebula-75 | Stephen La Rivière (Century 21 Films) | 드라마 | 확인 못 함 | 지구에서 3,300만 마일 떨어져 갇힌 우주선 네뷸라-75의 선장과 로봇, 텔레파시로 말하는 여인. |
+| 2020 | Next | Next | Manny Coto | 드라마 | 확인 못 함 | 스스로 끝없이 나아지는 떠돌이 인공 지능을 막으려는 국토 사이버 보안팀. |
 | 2020 | Onisciente | Onisciente | Pedro Aguilera | 드라마 | 확인 못 함 | 모든 것을 아는 보안 체계가 사회를 지키는 세상 |
 | 2020 | 레이즈드 바이 울브스 | Raised by Wolves | Aaron Guzikowski (HBO Max) | 드라마 | 있음 | 전쟁으로 망한 지구를 떠나 낯선 행성에 내린 두 인조인간이 사람 아이들을 기른다. |
+| 2020 | SEDAI WARS (경계) | SEDAI WARS | 横手美智子(극본), 坂本浩一(감독), バンダイナムコアーツ(원작) | 드라마 | 확인 못 함 | 모든 불만을 다른 세대 탓으로 돌리며 무질서에 빠진 가까운 미래 일본을 그린 기술 스릴러. |
 | 2020 | SF8 | SF8 | MBC·웨이브·한국영화감독조합 (크리에이터 민규동) | 드라마·영화 | 한국 원작 | 가까운 미래의 인공지능·가상 현실·로봇을 다룬 감독 여덟 명의 따로따로 이야기. |
+| 2020 | Tales from the Loop | Tales from the Loop | Nathaniel Halpern (원작 Simon Stålenhag) | 드라마 | 확인 못 함 | 오하이오 작은 마을 머서, 땅속 실험 물리 연구소 '루프' 곁에서 사는 사람들의 얽힌 삶. |
 | 2020 | 업로드 | Upload | Greg Daniels (Prime Video) | 드라마 | 있음 | 죽기 전에 마음을 가상 낙원으로 옮기는 2030년대, 돈에 따라 저승살이가 갈린다. |
+| 2020 | Utopia Falls | Utopia Falls | R. T. Thorne | 드라마 | 확인 못 함 | 큰 전쟁이 지구의 생명을 다 죽인 뒤, 돔 아래 네 구역으로 나뉜 도시 뉴 바빌에 사는 인류. |
+| 2020 | ドゲンジャーズ (경계) | ドゲンジャーズ | 荒川史絵 · 鈴村展弘 · 翁長大輔 | 드라마 | 확인 못 함 | 후쿠오카 지역 영웅들이 수수께끼 힘을 얻은 '주식회사 악의 비밀 결사'에 맞서는 코믹 특촬. |
 | 2020 | 이월입구 (경계) | 二月廿九 | ViuTV | 드라마 | 있음 | 외로운 생일에 촛불을 끄면 미래로 건너가는 여자가 그곳에서 자신이 사고로 죽었다는 소식을 본다. |
+| 2020 | 大江戸スチームパンク (경계) | 大江戸スチームパンク | 酒井善史(원안·각본), 筧昌也 외(감독), ヨーロッパ企画 | 드라마 | 확인 못 함 | 에도와 닮았지만 전혀 다른 '대에도'에서 강화복 영웅과 비밀 결사가 엮이는 SF 희극 시대극. |
+| 2020 | 歴史迷宮からの脱出〜リアル脱出ゲーム×テレビ東京〜 (경계) | 歴史迷宮からの脱出〜リアル脱出ゲーム×テレビ東京〜 | 土屋亮一(각본), 及川拓郎(감독) | 드라마 | 확인 못 함 | 미래의 사이버 테러범이 고친 역사를 되돌리려 여고생이 동급생과 시간을 넘으며 암호를 푼다. |
+| 2020 | 獵夢特工 | 獵夢特工 | 傅鶇 · 洪昇揚(감독) | 드라마 | 확인 못 함 | 꿈을 사냥하는 특수 요원들의 대만 SF 드라마. |
+| 2020 | 真夏の少年〜19452020 (경계) | 真夏の少年〜19452020 | 樋口卓治 외(각본), 及川拓郎 외(감독) | 드라마 | 확인 못 함 | 1945년의 젊은 군인이 2020년 시골 마을에 나타나 말썽꾸러기 고교생들과 한여름을 보낸다. |
+| 2020 | 隕石家族 | 隕石家族 | 小松江里子(원작·각본) | 드라마 | 확인 못 함 | 운석 충돌이 예고된 다른 세계의 도쿄에서, 남은 150일을 보내는 한 가족의 희극. |
+| 2020 | 預支未來 | 預支未來 | 賴俊羽(감독) | 드라마 | 확인 못 함 | 미래를 미리 끌어다 쓰는 쇼핑몰을 둘러싼 SF 추리 단편 모음. |
 | 2020 | 간호중 | 간호중 | 민규동(감독), 김혜진(원작 소설) | 드라마·영화 | 한국 원작 | 10년째 누운 어머니와 지친 딸을 함께 돌보던 간병 로봇이, 둘 중 누구를 살릴지 고민한다. |
 | 2020 | 나 홀로 그대 | 나 홀로 그대 | 이상엽(연출), 스튜디오드래곤 | 드라마 | 한국 원작 | 얼굴을 못 알아보는 여자가 천재 개발자를 꼭 닮은 홀로그램 인공지능 비서와 개발자 사이에서 사랑을 겪는다. |
 | 2020 | 낮과 밤 (경계) | 낮과 밤 | tvN | 드라마 | 한국 원작 | 28년 전 한 마을의 의문의 사건과 이어진 예고 살인을 쫓다 뇌의 힘을 끌어낸 비밀 실험의 흔적을 마주한다. |
+| 2020 | 더 게임: 0시를 향하여 (경계) | 더 게임: 0시를 향하여 | 李智孝(극본), MBC | 드라마 | 한국 원작 | 눈을 보면 그 사람이 죽는 순간이 보이는 남자가 형사와 함께 연쇄 살인의 비밀을 쫓는다. |
 | 2020 | 더 킹 : 영원의 군주 (경계) | 더 킹 : 영원의 군주 | 김은숙(극본) | 드라마 | 한국 원작 | 평행 세계의 문이 열리고, 대한제국의 황제와 대한민국의 형사가 두 세계를 오가며 문을 닫으려 한다. |
 | 2020 | 시간도 배달이 되나요 (경계) | 시간도 배달이 되나요 | 신수지·조여래(극본), 나지혜·황성민(연출) | 드라마 | 한국 원작 | 시간 여행을 하게 해 주는 식당 '화양연화'에서 네 사람이 되돌리고 싶던 때로 간다. |
 | 2020 | 앨리스 | 앨리스 | 백수찬 (연출), 김규원·강철규·김가영 (극본), SBS | 드라마 | 한국 원작 | 2050년의 시간 여행 기술이 낳은 사건들이 지금의 형사와 물리학자의 삶에 얽힌다. |
+| 2020 | 제발 그 남자 만나지 마요 (경계) | 제발 그 남자 만나지 마요 | Oh Mi-kyeong(연출), Corner Stone Pictures | 드라마 | 한국 원작 | 말로 부리는 인공지능 냉장고를 만드는 가전 개발자가 프로그램 같은 완벽한 삶을 꿈꾼다. |
+| 2020 | 좀비탐정 (경계) | 좀비탐정 | 심재현(연출), 백은진(극본), 래몽래인 | 드라마 | 한국 원작 | 기억을 잃고 되살아난 좀비가 탐정 일을 하며 사건을 맡고 자기 과거를 쫓는 희극. |
 | 2020 | 카이로스 (경계) | 카이로스 | 이수현(극본), 박승우·성치욱(연출) | 드라마 | 한국 원작 | 매일 밤 1분씩 한 달 차이 나는 두 전화가 이어지고, 미래의 남자와 과거의 여자가 함께 사람을 구한다. |
+| 2020 | 트레인 (경계) | 트레인 | 柳勝真(연출), 朴價娫(극본) | 드라마 | 한국 원작 | 소중한 사람을 잃은 형사가 진실을 찾아 서로 다른 두 세계를 오간다. |
+| 2021 | #コールドゲーム | #コールドゲーム | 小松江里子(원작·각본) | 드라마 | 확인 못 함 | 영하 45도의 빙하기가 된 지구, 사기꾼 여자가 피난소에서 살아남으려 남들과 가짜 가족을 꾸린다. |
+| 2021 | 2049 | 2049 | 許立達 · 朱建青(감독) | 드라마·애니메이션 | 확인 못 함 | 2049년 대만, 마음 읽는 장치·기억 백업·빅데이터 예언 같은 기술이 사람 사이를 시험한다. |
+| 2021 | Debris | Debris | J. H. Wyman | 드라마 | 확인 못 함 | 지구 곳곳에 떨어진 외계 우주선 잔해를 국제 특별반이 모은다. 잔해는 사람에게 기이한 해를 끼친다. |
+| 2021 | Intergalactic | Intergalactic | Julie Gearey | 드라마 | 확인 못 함 | 기후 변화로 망가진 2143년, 누명을 쓴 하늘 경찰이 탈옥수 무리와 함께 죄수선을 몬다. |
 | 2021 | 인베이션 | Invasion | Simon Kinberg, David Weil (Apple TV+) | 드라마 | 있음 | 외계 침공이 시작된 지구 곳곳에서 평범한 사람들이 저마다 겪는 날들. |
+| 2021 | La Brea | La Brea | David Appelbaum | 드라마 | 확인 못 함 | 로스앤젤레스 한복판에 열린 거대한 싱크홀에 빨려 든 사람들이 위험한 원시의 땅에 갇힌다. |
+| 2021 | Nova Jones | Nova Jones | Helen Serafinowicz | 드라마 | 확인 못 함 | 9009년, 은하의 인기 가수 노바 존스의 모험을 그린 노래극. |
+| 2021 | OVNI(s) | OVNI(s) | Clémence Dargent · Martin Douaire | 드라마 | 확인 못 함 | 1978년, 로켓이 터져 밀려난 공학자가 국립 우주 연구소의 미확인 비행 현상 연구 부서를 맡는다. |
+| 2021 | Overlord and the Underwoods | Overlord and the Underwoods | Anthony Q. Farrell · Ryan Wiesbrock | 드라마 | 확인 못 함 | 세계 둘째 수배범인 외계인 먼 친척 오버로드가 한 북미 가족 집에 숨어든다. |
+| 2021 | Paraíso (경계) | Paraíso | Fernando González Molina · Ruth García · | 드라마 | 확인 못 함 | 1992년 바닷가 마을에서 소녀 셋이 사라지고, 동생과 친구들이 따로 찾아 나선다. |
 | 2021 | Secrets of Sulphur Springs (경계) | Secrets of Sulphur Springs | Disney Channel | 드라마 | 확인 못 함 | 낡은 호텔로 이사 온 소년이 지하의 시간 이동 통로를 찾아 과거를 오가며 사라진 소녀의 비밀을 푼다. |
 | 2021 | 네버스 (경계) | The Nevers | Joss Whedon | 드라마 | 있음 | 1896년 영국 하늘에 정체 모를 물체가 나타난 뒤 이상한 힘을 지닌 사람들이 생겨나 박해를 받는다. |
+| 2021 | Порталът | Порталът | Илиян Джевелеков(연출) · Матей Константино | 드라마 | 확인 못 함 | 신비한 문으로 시간을 넘는 범죄 심리학자가 1979년 사회주의 불가리아로 가 가수의 죽음을 막으려 한다. |
+| 2021 | ガールガンレディ (경계) | ガールガンレディ | 瀧悠輔 · 平井淳史 · 関根淳 | 드라마 | 확인 못 함 | 총 프라모델을 만든 밤 텅 빈 학교에서 깨어난 여고생이, 목숨을 거는 소녀들의 총싸움에 든다. |
+| 2021 | ザ・ハイスクール ヒーローズ (경계) | ザ・ハイスクール ヒーローズ | 及川拓郎 외 · ジェイ・ストーム | 드라마 | 확인 못 함 | 학원 방위부 남학생들이 휴대 전화 변신 앱으로 전대 영웅이 되어 학교를 지킨다. |
+| 2021 | 司藤 (경계) | 司藤 | 李木戈(감독) · 尾鱼(원작) | 드라마·소설 | 확인 못 함 | 뿌리 찾기 여행 중 절벽에서 떨어진 설계자가 수십 년 잠든 외계인의 후손을 깨운다. |
+| 2021 | 君と世界が終わる日に (경계) | 君と世界が終わる日に | 日本テレビ · Hulu | 드라마·영화 | 확인 못 함 | 터널 붕괴에서 살아 나온 청년이 바이러스로 산 송장이 들끓는 세상에서 연인을 찾는다. |
+| 2021 | 換命真相 (경계) | 換命真相 | 黃偉聲(제작) | 드라마 | 확인 못 함 | 현대 홍콩을 무대로 시간을 넘나드는 미스터리 연애극. |
+| 2021 | 智能愛人 (경계) | 智能愛人 | TVB | 드라마 | 확인 못 함 | 로봇 주인공을 내세운 현대 홍콩의 연애 SF 희극. |
+| 2021 | 池塘怪談 (경계) | 池塘怪談 | 程偉豪(감독) | 드라마 | 확인 못 함 | 청소년들의 교통사고 뒤 한 소년이 떠올리기 싫은 과거로 돌아간다 — 유체 이탈인지 평행 우주인지. |
+| 2021 | 漂着者 (경계) | 漂着者 | 秋元康(기획·원작·각본), テレビ朝日 | 드라마 | 확인 못 함 | 바닷가에 알몸으로 떠밀려 온 기억 잃은 남자 '헤밍웨이' 둘레에서 기이한 사건이 잇따른다. |
+| 2021 | 超速パラヒーロー ガンディーン (경계) | 超速パラヒーロー ガンディーン | NHK | 드라마 | 확인 못 함 | 하늘에서 온 외계인 청년에게 변신 장치를 받은 장애인 육상 선수 지망생이 괴수와 싸운다. |
+| 2021 | 다크홀 (경계) | 다크홀 | 김봉주(연출), 정이도(극본) | 드라마 | 한국 원작 | 땅꺼짐 구멍에서 나온 검은 연기를 마신 사람들이 난폭한 변종이 되고, 남은 이들이 버틴다. |
 | 2021 | 루카: 더 비기닝 | 루카: 더 비기닝 | 김홍선 (연출), 천성일 (극본), tvN | 드라마 | 한국 원작 | 유전자를 조작해 만든 남자가 정체 모를 조직에 쫓기며 제 탄생의 비밀을 캔다. |
 | 2021 | 블루버스데이 (경계) | 블루버스데이 | 문원영·구소연(각본), 박단희(연출) | 드라마 | 한국 원작 | 10년 전 세상을 떠난 첫사랑이 남긴 사진을 통해 여자가 과거와 현재를 오간다. |
 | 2021 | 시지프스: the myth | 시지프스: the myth | 진혁 (연출), 이제인·전찬호 (극본), JTBC | 드라마 | 한국 원작 | 핵전쟁으로 망한 미래에서 몰래 건너오는 사람들과, 그 비밀을 쫓는 천재 공학자. |
 | 2021 | 악마판사 (경계) | 악마판사 | 문유석(극본), 최정규(연출) | 드라마 | 한국 원작 | 가상의 디스토피아 대한민국, 온 국민이 참여하는 생중계 법정 쇼에 '악마판사'가 나타난다. |
 | 2021 | 안녕? 나야! (경계) | 안녕? 나야! | 유송이(극본), 이현석(연출) | 드라마 | 한국 원작 | 연애도 일도 시들해진 서른일곱 여자 앞에 모든 일에 뜨거웠던 열일곱 살의 자신이 나타난다. |
 | 2021 | 타임즈 (경계) | 타임즈 | OCN | 드라마 | 한국 원작 | 5년 전 과거의 기자와 전화가 이어진 딸이 대통령인 아버지의 죽음을 막으려 한다. |
+| 2021 | 해피니스 (경계) | 해피니스 | 안길호(연출), 한상운(극본), 스튜디오드래곤 | 드라마 | 한국 원작 | 감염병이 일상이 된 가까운 미래, 봉쇄된 새 아파트에서 광인병과 층간 계급 다툼이 번진다. |
+| 2022 | 17才の帝国 | 17才の帝国 | 吉田玲子(각본), NHK | 드라마 | 확인 못 함 | 몰락해 가는 202X년 일본에서, 인공지능의 도움을 받는 열일곱 살 소년이 실험 도시를 다스린다. |
 | 2022 | 1899 (경계) | 1899 | Baran bo Odar, Jantje Friese (Netflix) | 드라마 | 있음 | 1899년 유럽에서 미국으로 가던 이민선이 실종된 배를 만나며 현실이 흔들린다. |
+| 2022 | Apagón | Apagón | José A. Pérez de Ledo(원작) · Rodrigo Soro | 드라마 | 확인 못 함 | 태양 폭풍으로 기술 대부분을 잃은 스페인, 따로 떨어진 다섯 이야기. |
 | 2022 | 아카이브 81 (경계) | Archive 81 | Rebecca Sonnenshine | 드라마 | 있음 | 낡은 테이프를 복원하던 기록 전문가가 25년 전 사라진 영상 작가의 조사를 되짚다 이상한 힘에 끌린다. |
+| 2022 | Astrid & Lilly Save the World (경계) | Astrid & Lilly Save the World | Noelle Stehman · Betsy Van Stone | 드라마 | 확인 못 함 | 두 외톨이 고등학생이 뜻밖에 다른 차원으로 가는 문을 열어 괴물과 싸우게 된다. |
+| 2022 | Backrooms | Backrooms | Kane Parsons | 드라마·영화 | 확인 못 함 | 끝없이 이어진 빈 실내 공간인 다른 차원을 연구소 과학자들이 탐사한 기록 영상. |
+| 2022 | Chosen | Chosen | Jannik Tai Mosholt · Kaspar Munk · Chris | 드라마 | 확인 못 함 | 덴마크 넷플릭스의 성장담을 겸한 공상 과학 드라마. |
 | 2022 | DMZ (경계) | DMZ | Brian Wood(만화 원작), HBO Max(드라마) | 드라마 | 있음 | 내전으로 갈라진 가까운 미래 미국, 의사가 잃어버린 아들을 찾아 비무장 지대가 된 맨해튼에 들어간다. |
+| 2022 | From (경계) | From | John Griffin | 드라마 | 확인 못 함 | 들어온 사람을 가두는 악몽 같은 마을에서, 밤마다 숲에서 나오는 괴물을 피해 살아남으려 한다. |
 | 2022 | 가디언스 오브 저스티스 (경계) | Guardians of Justice | Adi Shankar | 드라마 | 있음 | 사이보그 히틀러를 막은 초인이 40년 동안 지구를 지켜 온 1987년, 그가 죽자 영웅 연맹이 무너진다. |
+| 2022 | HIStory5—遇見未來的你 (경계) | HIStory5—遇見未來的你 | 陳怡妤(감독) | 드라마 | 확인 못 함 | 22년의 시간을 건너 배달원이 된 청년의 사랑 이야기. |
+| 2022 | In From the Cold (경계) | In From the Cold | Adam Glass | 드라마 | 확인 못 함 | 미국에 숨어 살던 전직 러시아 첩자이자 이혼한 엄마가 정체가 드러나 옛 삶으로 끌려간다. |
+| 2022 | Kuppel 16 | Kuppel 16 | Thomas Seeberg Torjussen | 드라마 | 확인 못 함 | 2140년 무렵 오슬로, 전염병과 험한 날씨를 피해 사람들이 돔 안에 살고, 소년 안톤이 돔을 빠져나온다. |
+| 2022 | Moonhaven | Moonhaven | Peter Ocko | 드라마 | 확인 못 함 | 죽어 가는 지구를 살릴 길을 찾으려 달에 세운 이상향 같은 정착지와 강력한 인공지능. |
+| 2022 | Night Sky | Night Sky | Holden Miller | 드라마 | 확인 못 함 | 일리노이 노부부의 땅 밑 장치가 다른 행성의 하늘이 내다보이는 방으로 그들을 옮긴다. |
+| 2022 | Outer Range | Outer Range | Brian Watkins | 드라마 | 확인 못 함 | 땅과 가족을 지키려는 와이오밍 목장주가 떠돌이 여자가 온 뒤 목초지에서 검은 구멍을 찾는다. |
+| 2022 | Parallèles | Parallèles | Quoc Dang Tran | 드라마 | 확인 못 함 | 콕 당 트란이 만든 프랑스 공상 과학 연속극. |
 | 2022 | 세브란스: 단절 | Severance | Dan Erickson (Apple TV+) | 드라마 | 있음 | 회사에서의 기억과 바깥 삶의 기억을 수술로 나눈 직원들이 정체 모를 일을 한다. |
+| 2022 | Silverpoint | Silverpoint | Lee Walters · Steven Andrew | 드라마 | 확인 못 함 | 스물몇 해 전 숲에서 사라진 아이들, 모험 캠프 아이들이 외계 존재가 낸 시험을 다른 현실에서 치른다. |
+| 2022 | TAROMAN 岡本太郎式特撮活劇 (경계) | TAROMAN 岡本太郎式特撮活劇 | 藤井亮 | 드라마·영화 | 확인 못 함 | 1970년대 거대 영웅 특촬물을 흉내 내고 岡本太郎 의 작품과 말을 버무린 가짜 기록 특촬. |
+| 2022 | The Imperfects (경계) | The Imperfects | Dennis Heaton · Shelley Eriksen | 드라마 | 확인 못 함 | 실험적 유전자 치료로 괴물이 된 시애틀의 세 젊은이가 책임진 미친 과학자를 쫓는다. |
+| 2022 | The Last Bus | The Last Bus | Paul Neafcy | 드라마 | 확인 못 함 | 유명 과학자가 만든 구체가 나타난 뒤 지구에 남은 아이들이 새 기계 지능에 맞선다. |
 | 2022 | The Lazarus Project | The Lazarus Project | Joe Barton (Sky) | 드라마 | 확인 못 함 | 세계가 망할 때마다 시간을 정해진 날로 되감는 비밀 조직과, 그 기억을 지닌 요원들. |
+| 2022 | まったり!赤胴鈴之助 (경계) | まったり!赤胴鈴之助 | 村上大樹 외(각본), 守屋健太郎 외(감독) | 드라마 | 확인 못 함 | 중년이 된 소년 검사 아카도 스즈노스케가 시간을 넘어 레이와 일본에 떨어져 숙적과 다시 맞선다. |
+| 2022 | オクトー〜感情捜査官 心野朱梨〜 (경계) | オクトー〜感情捜査官 心野朱梨〜 | 三浦駿斗 외(각본), 読売テレビ | 드라마 | 확인 못 함 | 사람의 감정이 '색'으로 보이는 형사가 엘리트 출신 형사와 짝을 이뤄 범인의 동기를 읽는다. |
+| 2022 | ノンレムの窓 | ノンレムの窓 | 日本テレビ | 드라마 | 확인 못 함 | 깊은 잠의 경계처럼 현실과 비현실이 엇갈리는 짧은 이야기들을 두세 편씩 묶은 선집. |
 | 2022 | 별처럼 빛나는 너에게 (경계) | 一闪一闪亮星星 | 아이치이 | 드라마 | 있음 | 파혼당한 여자가 옛 휴대 전화의 문자를 지우다 10년 전 수능 전날로 돌아가 같은 시간을 다시 산다. |
+| 2022 | 你的婚姻不是你的婚姻 (경계) | 你的婚姻不是你的婚姻 | 公視, 徐漢強(첫 단원 감독) | 드라마 | 확인 못 함 | 부부 사이에 신기한 발명품이 끼어들며 믿음과 사랑을 시험하는 단원극. |
+| 2022 | 天才基本法 (경계) | 天才基本法 | 沈严(감독) · 长洱(원작) | 드라마·소설 | 확인 못 함 | 딸기 세계와 치즈 세계, 두 평행 세계를 오가며 수학을 좇는 청춘들의 이야기. |
+| 2022 | 家電侍 (경계) | 家電侍 | 濱谷晃一(원안), 西古屋竜太(감독) | 드라마 | 확인 못 함 | 벼락 맞은 신사에서 말하는 태블릿을 주운 가난한 낭인이 미래의 가전으로 처자식의 살림을 돕는다. |
+| 2022 | 就活タイムカプセル (경계) | 就活タイムカプセル | 山田能龍·高島麻利央(각본), TBS | 드라마 | 확인 못 함 | 취업에 연전연패하던 대학생이 파낸 타임캡슐로 10년 뒤의 자신과 편지를 주고받는다. |
+| 2022 | 武士が、マックで店員になった件。 (경계) | 武士が、マックで店員になった件。 | 筧昌也(각본·감독), 関西テレビ | 드라마 | 확인 못 함 | 오다 노부나가를 섬기던 무사가 시간을 넘어 현대 햄버거 가게의 점원이 되는 희극. |
+| 2022 | 烏雲遇皎月 (경계) | 烏雲遇皎月 | 蔡聰 · 于中中(감독) · 丁墨(원작) | 드라마·소설 | 확인 못 함 | 정방향과 역방향 두 시간선을 오가며 15일마다 되돌아가 살인을 막으려는 두 사람. |
+| 2022 | 親愛的亞當 | 親愛的亞當 | 廖士涵 · 郭春暉(감독) | 드라마 | 확인 못 함 | 20여 년 전 유전자 편집으로 태어난 두 사람과, 그 존재를 밝히려는 유전자 해커 조직. |
+| 2022 | 超时空罗曼史 (경계) | 超时空罗曼史 | 王枫(감독) | 드라마 | 확인 못 함 | 1936년 상하이의 영화 배우가 총에 맞은 순간 2018년으로 건너와 팬과 사랑하며 사건을 캔다. |
+| 2022 | 超特急、地球を救え。 (경계) | 超特急、地球を救え。 | 大歳倫弘·松本花奈(각본), 松本花奈·山元環(감독) | 드라마 | 확인 못 함 | 새 체제를 앞두고 고민하던 아이돌 그룹 멤버들이 수수께끼의 소녀에게 2088년으로 불려 간다. |
+| 2022 | 굿잡 (경계) | 굿잡 | カン・ミング·キム・ソンジン(연출), KT Studio Genie | 드라마 | 한국 원작 | 재벌과 탐정의 이중생활을 하는 남자와 남다른 눈을 지닌 여자가 함께 사건을 쫓는 연애 수사극. |
 | 2022 | 그리드 | 그리드 | 리건·박철환 (연출), 이수연 (극본), 디즈니+ | 드라마 | 한국 원작 | 태양풍을 막는 방어막을 남기고 사라진 수수께끼의 존재를 쫓는, 시간을 넘나드는 추적극. |
 | 2022 | 글리치 | 글리치 | 진한새(극본), 노덕(연출) | 드라마 | 한국 원작 | 외계인이 보이는 여자가 감쪽같이 사라진 남자친구를 찾으려 미확인 비행 물체 동호회와 손잡고 음모를 파고든다. |
+| 2023 | Arcadia | Arcadia | VRT · KRO-NCRV | 드라마 | 확인 못 함 | 대홍수 뒤 플랑드르와 네덜란드 사람이 겉으로 평화롭게 사는 디스토피아 사회, 그 속의 부패가 드러난다. |
+| 2023 | Citadel (경계) | Citadel | Josh Appelbaum · Bryan Oh · David Weil | 드라마 | 확인 못 함 | 맞선 첩보 기관에 습격당해 기억을 지워진 요원 둘이 제 정체를 되찾고 반격한다. |
+| 2023 | City Lives | City Lives | 針谷大吾·小林洋介(원작·각본·감독), フジテレビ | 드라마 | 확인 못 함 | 사람의 기억을 읽어 도시로 꾸미고 들판을 떠도는 세계 최대의 생물 '가(街)'를 다룬 가짜 다큐멘터리. |
+| 2023 | Command Z | Command Z | Kurt Andersen · Sam Lowry · Larry Doyle | 드라마 | 확인 못 함 | 과학자가 직원들에게 과거로 가서 역사를 고쳐 세상을 구하라는 임무를 맡긴다. |
+| 2023 | Dziewczyna i kosmonauta | Dziewczyna i kosmonauta | Bartek Prokopowicz · Jakub Korolczuk | 드라마 | 확인 못 함 | 냉동 보존 실험으로 궤도에 오른 조종사가 잘못 맞춘 시계 탓에 서른 해 뒤 돌아온다. |
+| 2023 | Eliška a Damián (경계) | Eliška a Damián | Lukáš Buchar · Jaromír Polišenský | 드라마 | 확인 못 함 | 실수로 만든 물약으로 1758년에서 온 다미안이 오늘의 엘리슈카와 사랑에 빠진다. |
+| 2023 | Extrapolations | Extrapolations | Scott Z. Burns | 드라마 | 확인 못 함 | 2037~2070년, 기후 변화가 바꿔 놓은 세상을 서로 이어진 여러 사람의 눈으로 그린 선집. |
+| 2023 | Hello Tomorrow! | Hello Tomorrow! | Amit Bhalla · Lucas Jansen | 드라마 | 확인 못 함 | 복고풍 미래 세계에서 달 휴양지 분양권을 집집마다 팔러 다니는 사기꾼 영업원들. |
 | 2023 | Mila no Multiverso | Mila no Multiverso | Disney+ 브라질 | 드라마 | 확인 못 함 | 소녀 밀라가 사라진 어머니를 찾아 여러 평행 세계를 넘나든다. |
+| 2023 | Mrs. Davis | Mrs. Davis | Tara Hernandez · Damon Lindelof | 드라마 | 확인 못 함 | 신앙을 무기로 세상을 쥔 인공지능에 맞서는 수녀. |
+| 2023 | Projeto Delta | Projeto Delta | Tiago Pimentel · António Miguel Pereira  | 드라마 | 확인 못 함 | 아버지의 자살 시도를 캐는 소녀의 꿈이 현실과 겹치기 시작한다. |
+| 2023 | Slip | Slip | Zoe Lister-Jones | 드라마 | 확인 못 함 | 평행 우주를 건너다니며 짝과 자신에게 돌아갈 길을 찾는 여자. |
+| 2023 | The Ark | The Ark | Dean Devlin | 드라마 | 확인 못 함 | 100년 뒤, 망가진 지구를 떠나 프록시마 센타우리 b 로 가던 이주선 아크 원이 큰 사고를 겪는다. |
+| 2023 | ブラッシュアップライフ (경계) | ブラッシュアップライフ | バカリズム(각본), 水野格 외(연출), 日本テレビ | 드라마 | 확인 못 함 | 교통사고로 죽은 시청 직원이 사후 세계 접수원의 말에 따라 기억을 지닌 채 같은 인생을 다시 산다. |
+| 2023 | ペンディングトレイン-8時23分、明日 君と | ペンディングトレイン-8時23分、明日 君と | 金子ありさ(각본), TBS | 드라마 | 확인 못 함 | 지진 경보 뒤 섬광과 함께 열차 한 칸이 승객 68명을 태운 채 황폐한 먼 미래로 건너간다. |
+| 2023 | 古相思曲 (경계) | 古相思曲 | 知竹(감독) | 드라마 | 확인 못 함 | 옛 왕조 이야기를 쓰던 작가가 깨진 옥패를 얻어 그 시대의 '요후'와 얽힌다. |
 | 2023 | 時をかけるな、恋人たち (경계) | 時をかけるな、恋人たち | 関西テレビ | 드라마 | 확인 못 함 | 실연한 여자 앞에 불법 시간 여행자를 잡는 시간 순찰대가 나타나고, 대원과 시공을 넘은 사랑이 싹튼다. |
+| 2023 | 最高の教師 1年後、私は生徒に■された (경계) | 最高の教師 1年後、私は生徒に■された | 鈴木勇馬·二宮崇(연출), 日本テレビ | 드라마 | 확인 못 함 | 졸업식 날 반 학생에게 떠밀려 죽은 교사가 1년 전으로 돌아가, 범인일지 모를 서른 명과 다시 마주한다. |
+| 2023 | 脱轨 (경계) | 脱轨 | 沈阳(감독) | 드라마 | 확인 못 함 | 도도한 소녀가 7년 전으로 돌아가 빈털터리 아르바이트생이 되어 다시 산다. |
 | 2023 | 경성크리처 (경계) | 경성크리처 | 강은경(극본), 정동윤(연출) | 드라마 | 한국 원작 | 1945년 봄 경성, 만주 생체 실험 부대의 그림자 아래 인간의 탐욕이 낳은 괴물에 두 젊은이가 맞선다. |
+| 2023 | 나노전사 로카파 (경계) | 나노전사 로카파 | 최성덕(감독·제작), 초이스 랜드 | 드라마 | 한국 원작 | 사람 몸속을 파고드는 바이러스에 맞서 아주 작은 전사들이 몸 안에서 싸우는 어린이 특촬. |
 | 2023 | 반짝이는 워터멜론 (경계) | 반짝이는 워터멜론 | 진수완(극본), 손정현·유범상(연출) | 드라마 | 한국 원작 | 음악에 재능 있는 소년이 수상한 악기점을 지나 낯선 시대에 떨어져 젊은 날의 사람들과 밴드를 만든다. |
 | 2023 | 밤이 되었습니다 (경계) | 밤이 되었습니다 | U+모바일tv | 드라마 | 한국 원작 | 고등학교 한 반이 끝낼 수 없는 수수께끼의 마피아 게임에 강제로 끌려 들어간다. |
 | 2023 | 아머드 사우루스 (경계) | 아머드 사우루스 | 강대일(극장판 감독), 대원미디어 | 드라마·영화 | 한국 원작 | 6,500만 년 잠든 티렉스와 교감한 소년이 지구 방위군을 기르는 학교에 들어가 공룡을 몰고 싸운다. |
 | 2023 | 아씨두리안 (경계) | 아씨두리안 | 피비(Phoebe)(극본), 신우철·정여진(연출) | 드라마 | 한국 원작 | 월식이 일어난 밤 단씨 집안 별장의 파티에 조선 양반가의 두 여인이 나타난다. |
+| 2023 | 어쩌다 마주친, 그대 (경계) | 어쩌다 마주친, 그대 | Kang Soo-yeon, Lee Woong-hee(연출), Baek S | 드라마 | 한국 원작 | 연쇄 살인의 진실을 쫓는 남자와 부모의 결혼을 막으려는 여자가 1987년에 함께 갇힌다. |
+| 2024 | Constellation | Constellation | Peter Harness (착상 Sean Jablonski) | 드라마 | 확인 못 함 | 정체 모를 물체가 국제 우주 정거장에 부딪친 뒤 살아남은 우주비행사들이 지구로 돌아오려 한다. |
+| 2024 | Eye Love You (경계) | Eye Love You | 三浦希紗·山下すばる(각본), TBS | 드라마 | 확인 못 함 | 눈을 보면 상대의 속마음이 들리는 여자가, 마음의 소리를 알아듣지 못할 한국인 유학생과 사랑에 빠진다. |
+| 2024 | Planet Lulin | Planet Lulin | Melanie Sano | 드라마 | 확인 못 함 | 외계인 반, 사람 반인 열두 살 룰린의 힘이 깨어나고, 외계 침입자 소녀들이 뒤를 쫓는다. |
+| 2024 | Q18量子預言 | Q18量子預言 | 周美玲(감독) | 드라마 | 확인 못 함 | 양자 과학을 실마리로 미래 문명과 사람의 경계를 묻는 단편 모음. |
+| 2024 | Sugar (경계) | Sugar | Mark Protosevich | 드라마 | 확인 못 함 | 로스앤젤레스 사립 탐정 존 슈거가 부유한 영화 제작자의 실종된 손녀를 찾는다. |
+| 2024 | To se vysvětlí, soudruzi! (경계) | To se vysvětlí, soudruzi! | Michal Samir · Matěj Chlupáček(연출) | 드라마 | 확인 못 함 | 1983년 체코슬로바키아, 60년대 싸구려 미래주의를 닮은 초자연 현상을 다룬 희극. |
 | 2024 | 不適切にもほどがある！ (경계) | 不適切にもほどがある！ | 宮藤官九郎 | 드라마 | 확인 못 함 | 1986년의 거친 중학교 체육 교사가 2024년으로 시간 여행을 해 지금의 예민한 분위기를 휘젓는다. |
+| 2024 | 度華年 (경계) | 度華年 | 高翊浚 · 劉迪洋(감독) · 墨書白(원작) | 드라마·소설 | 확인 못 함 | 대하 왕조의 장공주와 수보 재상이 시공을 넘어 지난 인연을 다시 산다. |
+| 2024 | 未来の私にブッかまされる!? (경계) | 未来の私にブッかまされる!? | 大池容子·山田百次(각본), NHK | 드라마 | 확인 못 함 | 프러포즈 직전의 시청 직원 앞에 '30년 뒤의 나'라는 아저씨가 나타나 인생을 바꾸려 든다. |
+| 2024 | 滅相も無い | 滅相も無い | 加藤拓也(각본·감독), 毎日放送 | 드라마 | 확인 못 함 | 일본 도심에 거대한 '구멍' 일곱 개가 나타나고, 들어간 사람은 아무도 돌아오지 않는다. |
 | 2024 | 지배종 (경계) | 지배종 | 박철환 (연출), 이수연 (극본), 디즈니+ | 드라마 | 한국 원작 | 인공 배양육이 식탁을 바꾼 가까운 미래, 생명공학 기업 대표를 둘러싼 음모. |
+| 2024 | 히어로는 아닙니다만 (경계) | 히어로는 아닙니다만 | 趙賢卓(연출), 朱和美(극본) | 드라마 | 한국 원작 | 현대인의 흔한 병 탓에 저마다 능력을 잃은 초능력자 가족 앞에 한 여자가 나타난다. |
+| 2025 | Cassandra | Cassandra | Benjamin Gutsche | 드라마 | 확인 못 함 | 1970년대에 지은 지능형 집으로 이사 온 가족과 그 집의 옛 인공지능 카산드라. |
+| 2025 | Czarne stokrotki (경계) | Czarne stokrotki | Dominika Prejdova · Agnieszka Szpila | 드라마 | 확인 못 함 | 옛 탄광 굴 아래 숨은 연구소 쪽에서 사라진 딸을 엄마와 옛 친구 형사가 찾는다. |
+| 2025 | Demascus | Demascus | Tearrance Arvelle Chisholm | 드라마 | 확인 못 함 | 서른세 살 흑인 남자가 가상 현실 실험으로 디지털 정신 치료를 받으며 참된 자신을 찾는다. |
 | 2025 | Nirvanna the Band the Show the Movie (경계) | Nirvanna the Band the Show the Movie | Matt Johnson, Jay McCarrol | 드라마·영화 | 있음 | 무대에 서 본 적 없는 두 친구가 공연 기회를 얻으려 타임머신을 만들어 17년 전으로 돌아간다. |
 | 2025 | 파라다이스 (경계) | Paradise | Dan Fogelman (Hulu) | 드라마 | 있음 | 대재앙 뒤 땅속에 지은 도시에서 대통령 살해 사건을 경호원이 파헤친다. |
 | 2025 | 플루리부스: 행복의 시대 | Pluribus | Vince Gilligan (Apple TV+) | 드라마 | 있음 | 우주에서 온 신호로 퍼진 것이 인류를 하나의 행복한 마음으로 묶고, 몇 사람만 남는다. |
+| 2025 | Projekt UFO | Projekt UFO | Kasper Bajon | 드라마 | 확인 못 함 | 1980년대 공산 폴란드에서 벌어진 미확인 비행 물체 조사. |
 | 2025 | 조금만 초능력자 (경계) | ちょっとだけエスパー | テレビ朝日 | 드라마 | 있음 | 모든 것을 잃은 회사원이 수상한 회사에 붙어 '조금만' 초능력을 얻고 세계를 구하는 일을 맡는다. |
 | 2025 | 핫스팟: 우주인 출몰 주의! | ホットスポット | バカリズム(각본) | 드라마 | 있음 | 호숫가 호텔에서 일하는 싱글맘이 동료가 우주인임을 알게 되고 함께 동네 문제를 푼다. |
+| 2025 | 三命 (경계) | 三命 | 杜琪峯·游乃海(監製), 李子俊·張家傑·黃偉傑(감독), 銀河映像 | 드라마 | 확인 못 함 | 1960년 홍콩에서 태어난 한 남자가 만화가·공무원·조직원으로 갈린 세 갈래의 삶을 산다. |
+| 2025 | 不眠日 | 不眠日 | 张小猫(원작) · Liu Zhangmu(감독) | 드라마·소설 | 확인 못 함 | 하루 다섯 번 시간을 되돌리는 힘을 얻은 형사 — 자정이면 고리가 풀리고 몇 사람만 기억을 지닌다. |
 | 2025 | 六月のタイムマシン | 六月のタイムマシン | BS12 トゥエルビ | 드라마 | 확인 못 함 | 앞으로 일어날 소꿉친구의 죽음을 막으려 형제와 친구들이 시간 되감기를 거듭하며 진상을 파헤친다. |
 | 2025 | 뉴토피아 (경계) | 뉴토피아 | 윤성현(감독), 한상운(원작) | 드라마 | 한국 원작 | 좀비가 덮친 서울 도심에서 군인과 그 연인이 서로에게 닿으려 가로질러 달린다. |
 | 2025 | 별들에게 물어봐 | 별들에게 물어봐 | tvN·키이스트(제작) | 드라마 | 한국 원작 | 지구 궤도 우주 정거장에서 일하는 여성 사령관과 관광객으로 온 산부인과 의사가 얽힌다. |
+| 2026 | Ann Droid | Ann Droid | Diane Morgan | 드라마 | 확인 못 함 | 2029년, 남편을 잃은 수가 아들이 들인 중고 노인 돌봄 인조인간 린다와 함께 산다. |
 | 2026 | The Beauty (경계) | The Beauty | FX, Hulu | 드라마 | 확인 못 함 | 세계적 모델들이 잇따라 의문의 죽음을 맞자 연방 수사관이 아름다움을 둘러싼 몸의 비밀을 파헤친다. |
 | 2026 | 더 실버타운 (경계) | The Boroughs | Jeffrey Addiss, Will Matthews | 드라마 | 있음 | 평화로워 보이는 은퇴자 마을에서 노인들이 사람의 '시간'을 노리는 초자연적 존재와 맞선다. |
+| 2026 | いろはの恋は時代をかける (경계) | いろはの恋は時代をかける | 長田育恵(각본), TBS | 드라마 | 확인 못 함 | 에도 시대 중기 파발꾼 집 딸의 혼이 시간을 건너와 레이와 시대 초등학교 교사의 몸에 깃든다. |
+| 2026 | タイムトラベルダディ (경계) | タイムトラベルダディ | 上田誠(각본), 北野貴章(감독), テレビ朝日 | 드라마 | 확인 못 함 | 홀로 남매를 키우는 아버지 앞에 미래의 자신이 나타나, 타임머신으로 같은 날을 거듭 다시 산다. |
+| 2026 | ターミネーターと恋しちゃったら (경계) | ターミネーターと恋しちゃったら | 関えり香(각본), 宮田和弥 외(감독), テレビ朝日 | 드라마 | 확인 못 함 | 소녀 만화 편집자 앞에 400년 뒤 미래에서 보내진 안드로이드가 나타나 그녀를 지키겠다고 한다. |
+| 2026 | リボーン ～最後のヒーロー～ (경계) | リボーン ～最後のヒーロー～ | 橋本裕志(각본), 藤田明二 외(감독), テレビ朝日 | 드라마 | 확인 못 함 | 냉혹하다는 소리를 듣던 IT 기업 사장이 다른 사람으로 다시 태어나 서민 동네 상점가에서 새 삶을 산다. |
+| 2026 | 你好1983 (경계) | 你好1983 | 祝東寧 · 黃純(감독) | 드라마·소설 | 확인 못 함 | 궁지에 몰린 현대 관리자가 1983년 시골 소녀로 다시 태어나 공부와 사업에 나선다. |
+| 2026 | 君が死刑になる前に (경계) | 君が死刑になる前に | 森迅史·武田雄樹(각본), 讀賣電視台 | 드라마 | 확인 못 함 | 대학 동아리 친구 셋이 7년 전인 2019년으로 돌아가, 의혹 속 사형수 사건의 진실을 쫓는다. |
+| 2026 | 夫妻的博弈 (경계) | 夫妻的博弈 | 鍾澍佳(총감수), 黃國輝(監製), TVB·優酷 | 드라마 | 확인 못 함 | 남편과 단짝에게 살해당한 여자가 5년 전으로 돌아가, 미래에서 가져온 앞일의 지식으로 다시 산다. |
+| 2026 | 消失的裂痕 (경계) | 消失的裂痕 | 張亨如(감독), 楊念純(극본), MakerVille | 드라마 | 확인 못 함 | 실종된 아들의 모습이 거울의 금 속에 비치자, 어머니가 그 단서를 쫓다 낯선 세계로 건너간다. |
+| 2026 | 炽热吸引 (경계) | 炽热吸引 | 陳家杰(감독), 石冰心·陳汶雍·張紫微(극본) | 드라마 | 확인 못 함 | 사람을 갈래로 나누는 친화 바이러스가 퍼진 세상, 감염자 사건 속에서 두 남녀가 서로에게 끌린다. |
 | 2026 | 角醒ハンター オメガホーン (경계) | 角醒ハンター オメガホーン | PROJECT R.E.D. | 드라마 | 확인 못 함 | 거대 괴수의 힘이 봉인된 장비로 각성한 헌터가 목소리를 높여 괴수와 싸우는 특촬. |
 | 2026 | 超宇宙刑事ギャバン インフィニティ (경계) | 超宇宙刑事ギャバン インフィニティ | 東映, PROJECT R.E.D. | 드라마 | 확인 못 함 | 여러 우주를 넘나드는 우주 형사가 사람의 감정을 둘러싼 사건과 맞서는 특촬(옛 갸반과는 따로 선 작품). |
 | 2026 | 너에게 다이브 (경계) | 너에게 다이브 | 김보금·이온(극본), 소재현(연출) | 드라마 | 한국 원작 | 톱 여배우가 쌍둥이 오빠와 영혼이 뒤바뀐 채 과거로 돌아가 첫사랑의 죽음을 막으려 한다. |
+| 2026 | 닥터신 (경계) | 닥터신 | Phoebe(극본), TV朝鮮 | 드라마 | 한국 원작 | 신의 영역에 도전하는 외과의가 사고로 뇌가 멈춘 여배우를 사랑하게 되는 기묘한 의학 스릴러. |
+| 2026 | 러브 포비아 (경계) | 러브 포비아 | Wang Hye-ryeong(연출), Lee Se-ryeong(극본),  | 드라마 | 한국 원작 | 사람과 한 시간 넘게 가까워지지 못하는 인공지능 연애 앱 대표가 앱 개발에 매달리다 사랑과 부딪힌다. |
+| 2026 | 멋진 신세계 (경계) | 멋진 신세계 | 韓兌燮(연출), 姜炫珠(극본) | 드라마 | 한국 원작 | 조선 시대 최악의 요부가 21세기로 건너와 무명 여배우의 몸에 깃들어 괴팍한 재벌과 부딪힌다. |
 | 2026 | 언제나 다시 만나 (경계) | 언제나 다시 만나 | 최지안·정유경(극본), 신동훈(연출) | 드라마 | 한국 원작 | 17년 전 열여덟 살로 돌아간 남자가 첫사랑과 다시 만나 정해진 결말을 바꾸려 한다. |
 | 2026 | 원더풀스 (경계) | 원더풀스 | 허다중(극본), 유인식(연출) | 드라마 | 한국 원작 | 종말론이 들끓던 1999년, 뜻밖에 초능력을 얻은 동네 허당들이 도시를 위협하는 악당과 맞선다. |
 
-## 애니메이션에서 시작한 세계 (806)
+## 애니메이션에서 시작한 세계 (1215)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
 | 1924 | Межпланетная революция | Межпланетная революция | Nikolai Khodataev · Zenon Komissarenko · | 애니메이션 | 확인 못 함 | 지구의 부자들이 구두 모양 우주선으로 달아나자 붉은 전사가 뒤쫓아 가 화성에서 혁명을 일으킨다. |
 | 1953 | Полёт на Луну | Полёт на Луну | Brumberg 자매 | 애니메이션 | 확인 못 함 | 우주 비행사 아버지가 달에서 사고로 갇히자, 아이들이 개를 실어 보내고 소년 하나가 구조 비행에 함께한다. |
+| 1957 | Colonel Bleep | Colonel Bleep | Robert D. Buchanan · Jack Schleh | 애니메이션 | 확인 못 함 | 1945년 첫 핵폭발의 우주적 여파로 잠든 석기 시대 동굴인이 깨어나 오늘로 옮겨진다. |
+| 1958 | The Space Explorers | The Space Explorers | Fred Ladd | 애니메이션 | 확인 못 함 | 폴라리스 우주선을 탄 지미·스미티·노르트하임 교수가 우주의 원리를 알려 주는 애니메이션. |
 | 1962 | Kybernetická babička | Kybernetická babička | Jiří Trnka | 애니메이션 | 확인 못 함 | 기계가 사람을 돌보며 사이버네틱 삶으로 이끄는 디스토피아를 그린 인형극 단편 |
+| 1962 | Space Angel | Space Angel | Dick Darley | 애니메이션 | 확인 못 함 | 지구 수사국 행성간 우주군의 우주선 스타더스터에 탄 비행사 셋의 모험. |
 | 1962 | 우주가족 젯슨 | The Jetsons | Hanna-Barbera | 게임·만화·애니메이션 | 있음 | 높은 기둥 위 하늘 도시에서 로봇 가정부와 사는 미래 가족 |
 | 1962 | Летающий пролетарий | Летающий пролетарий | Ivan Ivanov-Vano · Iosif Boyarskiy | 애니메이션 | 확인 못 함 | 마야콥스키가 신문 속 전쟁 준비에 분노하다, 비행장만 남은 30세기 모스크바의 미래 생활을 펼쳐 보인다. |
+| 1963 | Rod Rocket | Rod Rocket | Filmation | 애니메이션 | 확인 못 함 | 아거스 교수가 소년 로드와 친구 조이를 우주선 리틀 아르고에 태워 탐사 보낸다. |
+| 1964 | Bleep and Booster | Bleep and Booster | William Timym | 애니메이션 | 확인 못 함 | 다른 별에서 온 소년 블리프와 지구 소년 부스터가 우주를 오가며 모험한다. |
 | 1964 | G.I. Joe (경계) | G.I. Joe | Hasbro (Stanley Weston · Donald Levine 착 | 애니메이션·영화 | 확인 못 함 | 국제 특수 부대 G.I. 조가 금속을 갉아 먹는 나노 무기를 노리는 비밀 조직 코브라와 맞선다. |
+| 1964 | Jonny Quest | Jonny Quest | Doug Wildey (Hanna-Barbera) | 만화·애니메이션 | 확인 못 함 | 과학자 아버지를 따라 남다른 모험을 떠나는 소년 조니 퀘스트. |
 | 1964 | Underdog (경계) | Underdog | W. Watts Biggers · Chet Stover · Joe Har | 애니메이션·영화 | 확인 못 함 | 미친 과학자의 실험실에서 약품을 뒤집어쓴 비글이 말하고 하늘을 나는 '언더독'이 되어 도시를 지킨다. |
+| 1965 | Atom Ant (경계) | Atom Ant | Hanna-Barbera | 애니메이션 | 확인 못 함 | 한나-바베라가 만든 만화 개미 영웅 아톰 앤트. |
+| 1965 | DoDo, The Kid from Outer Space | DoDo, The Kid from Outer Space | Lady Stearn Robinson | 애니메이션 | 확인 못 함 | 행성 헤나 하이드로에서 비행접시를 타고 온 아이 도도가 괴짜 과학자와 지구에서 모험한다. |
+| 1965 | The Astronut Show | The Astronut Show | Terrytoons | 애니메이션 | 확인 못 함 | 작은 비행접시를 탄 초록 외계인 아스트로넛이 지구에서 말썽을 피우고 사람 친구를 둔다. |
 | 1965 | W3 | W3 | 手塚治虫, 虫プロダクション | 만화·애니메이션 | 확인 못 함 | 은하 연맹이 보낸 세 조사원이 동물 모습으로 지구에 숨어, 인류를 없앨지 1년 동안 지켜본다. |
 | 1965 | ガリバーの宇宙旅行 | ガリバーの宇宙旅行 | 東映動画, 黒田昌郎(감독) | 애니메이션 | 확인 못 함 | 갈 곳 없는 고아 소년이 늙은 가리버 박사와 함께 '희망의 별'을 찾아 우주로 떠난다. |
 | 1965 | 宇宙エース | 宇宙エース | 吉田竜夫(원작), 竜の子プロダクション | 애니메이션 | 확인 못 함 | 얼어붙은 고향 별을 떠난 우주 선단에서 떨어져 21세기 지구에 온 외계 왕자가 특별한 힘으로 평화를 지킨다. |
@@ -4002,25 +5746,43 @@
 | 1965 | 未来からきた少年 スーパージェッター | 未来からきた少年 スーパージェッター | 久松文雄(원작), TCJ, TBS | 애니메이션 | 확인 못 함 | 30세기의 시간 순찰대원이 범인을 쫓다 타임머신 사고로 20세기에 떨어져, 이곳의 범죄 수사를 돕는다. |
 | 1965 | 海底少年マリン | 海底少年マリン | テレビ動画 | 애니메이션 | 확인 못 함 | 산소를 내는 껌과 발바닥 분사 장치를 쓰는 소년이 일곱 바다를 홀로 맡아 악당에게서 지킨다. |
 | 1965 | 遊星少年パピイ | 遊星少年パピイ | 吉倉正一郎(원작), TCJ | 만화·애니메이션 | 있음 | 앞선 문명의 태양계 행성들이 전쟁 많은 지구를 경계하는 가운데, 한 별의 소년이 지구의 평화를 지키러 온다. |
+| 1966 | Rocket Robin Hood | Rocket Robin Hood | Krantz Films | 애니메이션 | 확인 못 함 | 로빈 후드 전설의 인물과 다툼을 미래의 우주 공간으로 옮긴 활극. |
+| 1966 | Space Ghost (경계) | Space Ghost | Alex Toth (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 우주의 영웅 스페이스 고스트가 십대 조수 잰·제이스, 원숭이 블립과 우주 악당을 친다. |
+| 1966 | The Mighty Heroes (경계) | The Mighty Heroes | Ralph Bakshi | 애니메이션 | 확인 못 함 | 사고뭉치 영웅 다섯이 굿 헤이븐 마을을 지키는 영웅 비틀기 희극. |
+| 1966 | The Space Kidettes | The Space Kidettes | William Hanna · Joseph Barbera | 애니메이션 | 확인 못 함 | 보물 지도를 손에 넣은 어린 우주 비행사들이 우주 해적에게서 지도를 지킨다. |
+| 1966 | The Super 6 (경계) | The Super 6 | DePatie–Freleng Enterprises | 애니메이션 | 확인 못 함 | 일거리마다 영웅을 보내 주는 영웅 회사 '슈퍼 서비스'의 희극. |
+| 1966 | Tom of T.H.U.M.B. | Tom of T.H.U.M.B. | Videocraft International · Toei Animatio | 애니메이션 | 확인 못 함 | 엄지 동자 민담을 따온 작은 비밀 요원 톰이 1960년대 첩보 영화를 비튼 활극을 벌인다. |
 | 1966 | 레인보우전대 로빈 | レインボー戦隊ロビン | 東映動画, スタジオ・ゼロ(원안) | 만화·애니메이션 | 확인 못 함 | 파르타 별 사람과 지구인 사이에서 태어난 소년이 로봇 여섯과 함께 파르타 별의 지구 침략에 맞선다. |
 | 1966 | 유성가면 | 遊星仮面 | 仁田信夫(원작), TCJ | 만화·애니메이션 | 있음 | 평화롭게 오가던 지구와 행성 피네론이 갑자기 전쟁에 빠지고, 가면의 영웅이 싸움을 막으려 나선다. |
+| 1967 | Birdman and the Galaxy Trio (경계) | Birdman and the Galaxy Trio | Alex Toth (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 영웅 버드맨과 우주를 순찰하는 '갤럭시 트리오'의 두 꼭지로 된 애니메이션. |
 | 1967 | Johnny Cypher in Dimension Zero (경계) | Johnny Cypher in Dimension Zero | Seven Arts, Oriolo Film Studios, テレビ動画(제 | 애니메이션 | 확인 못 함 | '영 차원'의 힘으로 시간과 공간을 마음대로 넘나들게 된 과학자가 동료와 함께 우주의 악과 싸운다. |
+| 1967 | The Herculoids | The Herculoids | Alex Toth (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 행성 암조트에서 우주 야만인 가족이 레이저 용 같은 거대 짐승들과 함께 싸운다. |
 | 1967 | 冒険少年シャダー | 冒険少年シャダー | 岡本光輝(원작), 日本放送映画 | 만화·애니메이션 | 확인 못 함 | 후지산 동굴에서 깨어난 고대 문명의 생존자 소년이 현대 과학을 익혀, 세계 정복을 꾀하는 마인에 맞선다. |
+| 1968 | Les Shadoks | Les Shadoks | Jacques Rouxel | 애니메이션 | 확인 못 함 | 늘 꼴이 바뀌어 땅이 흔들리는 납작한 별을 떠나 새 집을 찾는, 어리석고 사나운 새 닮은 종족. |
+| 1968 | Micro Ventures | Micro Ventures | Hanna-Barbera | 애니메이션 | 확인 못 함 | 줄이는 기계로 자신과 사막 차를 아주 작게 만든 교수와 십대 남매가 작은 세계를 탐험한다. |
 | 1968 | おかしなおかしな星の国 | おかしなおかしな星の国 | 東映動画, 貯蓄増強中央委員会 | 애니메이션 | 확인 못 함 | 21세기 수학여행 우주선이 낯선 별로 끌려가고, 아이들은 만들자마자 부수는 낭비를 권하는 별의 실상을 본다. |
 | 1968 | ドカチン (경계) | ドカチン | 吉田竜夫(원작), タツノコプロ | 애니메이션 | 확인 못 함 | 박사의 시간 재현 장치 탓에 원시 시대 일가족이 1960년대 도시 한복판에 나타나 소동을 벌인다. |
+| 1968 | 妖怪人間ベム (경계) | 妖怪人間ベム | アサツー ディ・ケイ(원작) | 드라마·애니메이션·영화 | 확인 못 함 | 실험으로 한 세포에서 갈라져 태어난 세 요괴 인간이 사람이 되는 길을 찾아 떠돈다. |
 | 1968 | 황금철인 (경계) | 황금철인 | 박영일 | 애니메이션 | 한국 원작 | 우주 궁전의 황금철인과 소년이 우주 정복을 꾀하는 악마에게서 '희망의 별'을 되찾으러 간다. |
+| 1969 | Clangers | Clangers | Oliver Postgate · Peter Firmin (Smallfil | 애니메이션 | 확인 못 함 | 작은 달 같은 별의 안팎에 사는 쥐 닮은 가족, 휘파람 말로 이야기한다. |
 | 1969 | 空飛ぶゆうれい船 | 空飛ぶゆうれい船 | Hiroshi Ikeda(감독) · 石ノ森章太郎(이야기) | 애니메이션 | 확인 못 함 | 거대 로봇에게 부모를 잃은 소년이 로봇을 보낸 유령선의 주인에게 복수하려다 도시 지도자의 비밀에 닿는다. |
+| 1970 | Üzenet a jövőből – A Mézga család különös kalandjai | Üzenet a jövőből – A Mézga család különös kalandjai | Nepp József · Romhányi József | 애니메이션 | 확인 못 함 | 판노니아 스튜디오의 메즈가 가족 첫 연작, 제목대로 '미래에서 온 소식'을 다룬 희극. |
 | 1970 | クレオパトラ (경계) | クレオパトラ | 手塚治虫, 山本暎一 | 애니메이션 | 확인 못 함 | 미래의 세 사람이 외계 종족의 정복 계획을 막으려 마음을 클레오파트라 시대 사람들의 몸에 옮긴다. |
 | 1970 | 해저 3만마일 | 海底3万マイル | 石森章太郎(원작), 東映動画 | 애니메이션 | 확인 못 함 | 화산섬 해양 연구소의 소년이 수수께끼의 소녀를 만난 날, 화구에서 괴수 로봇이 나타나 싸움에 휘말린다. |
 | 1971 | 번개아텀 (경계) | 번개아텀 | 용유수 | 애니메이션 | 한국 원작 | 로켓을 몰래 탄 아이가 오로라 별 왕자 아텀의 우주선과 부딪치고, 아텀은 우주 악당 게르만과 싸운다. |
+| 1972 | Josie and the Pussycats in Outer Space (경계) | Josie and the Pussycats in Outer Space | Hanna-Barbera (원작 Dan DeCarlo) | 애니메이션 | 확인 못 함 | 아치 코믹스의 여성 록 밴드 조시와 푸시캣츠가 우주로 떨어져 모험하는 갈래. |
 | 1972 | Pluk, naufragé de l'espace | Pluk, naufragé de l'espace | Jean Image | 애니메이션 | 확인 못 함 | 지구에 떨어진 힘센 외계 로봇 플뤼크와 천재 소년이 우주선을 타고 플뤼크의 고향 별을 찾아간다. |
+| 1972 | Sealab 2020 | Sealab 2020 | Alex Toth | 애니메이션 | 확인 못 함 | 2020년, 해저 산 위 해저 연구 기지 실랩에서 사는 250명. |
 | 1972 | 짱가의 우주전쟁 (경계) | アストロガンガー | 스즈카와 테츠히사(원작), 나크 | 애니메이션 | 있음 | 행성의 산소를 노리는 외계인에게 멸망한 별의 과학자가 '살아 있는 금속'을 들고 지구로 달아난다. |
 | 1972 | 독수리 5형제 | 科学忍者隊ガッチャマン | 타츠노코 프로덕션, 요시다 타츠오 | 애니메이션·영화 | 있음 | 세계를 노리는 비밀 조직과 그 뒤의 외계 존재에 맞서는 다섯 과학 닌자 |
 | 1972 | 魔犬ライナー0011変身せよ! | 魔犬ライナー0011変身せよ! | 東映動画 | 애니메이션 | 확인 못 함 | 1980년대, 곤충형 외계인이 지구를 침략하자 박사가 사이보그로 바꿔 둔 개 넷이 아들과 함께 맞선다. |
 | 1972 | 괴수대전쟁 (경계) | 괴수대전쟁 | 용유수(감독), 세기상사 | 애니메이션 | 한국 원작 | 21세기, 새 행성의 자원을 노리고 로켓을 쏠 때마다 인조 뇌를 심은 괴수들이 나타나 도시를 부순다. |
+| 1973 | Mikrobi | Mikrobi | Mata János(연출) · Bálint Ágnes(각본) | 애니메이션 | 확인 못 함 | 21세기를 무대로 한 판노니아 스튜디오의 공상 과학 동화 애니메이션. |
 | 1973 | 우주삼총사 | ゼロテスター | 鈴木良武(원작), 高橋良輔(감독), 創映社(サンライズスタジオ) | 애니메이션 | 있음 | 2100년, 우주로 나간 인류가 바깥 우주의 기계화 인류에게 공격받자 특수 팀 '제로 테스터'가 맞선다. |
 | 1973 | ミラクル少女リミットちゃん (경계) | ミラクル少女リミットちゃん | 永島慎二, 東映動画 | 애니메이션 | 확인 못 함 | 죽음의 문턱에서 사이보그로 되살아난 소녀가 숨겨진 힘과 도구로 학교와 마을의 일을 몰래 해결한다. |
 | 1973 | 신조인간 캐산 | 新造人間キャシャーン | 타츠노코 프로덕션 | 애니메이션·영화 | 있음 | 반란을 일으킨 로봇 군대에 맞서려 스스로 기계 몸이 된 청년 |
+| 1974 | Partridge Family 2200 A.D. | Partridge Family 2200 A.D. | Hanna-Barbera (원작 Bernard Slade) | 애니메이션 | 확인 못 함 | 가족 팝 밴드 파트리지 가족을 서기 2200년 미래로 옮긴 애니메이션 희극. |
+| 1974 | Valley of the Dinosaurs | Valley of the Dinosaurs | Hanna-Barbera | 애니메이션 | 확인 못 함 | 아마존강 뗏목 여행 중 소용돌이에 빨려 석기 시대로 간 과학 교수 가족. |
 | 1974 | チャージマン研! (경계) | チャージマン研! | ナック | 애니메이션 | 확인 못 함 | 외계인 쥬랄성인이 일으키는 사건마다 소년 켄이 나서 물리치는 짧은 애니메이션. |
 | 1974 | 우주전함 야마토 | 宇宙戦艦ヤマト | 니시자키 요시노부, 마츠모토 레이지 | 애니메이션·영화 | 있음 | 외계 제국의 행성 폭격으로 죽어 가는 지구를 살리려 먼 별까지 떠나는 우주 전함 |
 | 1974 | 허리케인 포리마 (경계) | 破裏拳ポリマー | タツノコプロ | 애니메이션 | 있음 | 몸을 감싸는 특수 갑옷으로 변신하는 탐정 조수가 정의의 영웅으로 악당과 싸운다. |
@@ -4030,6 +5792,8 @@
 | 1975 | 강철 지그 | 鋼鉄ジーグ | 永井豪, 安田達矢, 東映 | 만화·애니메이션 | 있음 | 자석으로 여러 부품과 합체하는 로봇이 땅속에서 힘을 키운 옛 왕국의 침략에 맞선다. |
 | 1976 | Awaria | Awaria | Krzysztof Kiwerski | 애니메이션 | 확인 못 함 | 개미 같은 사람들이 사는 별에 고장 난 펌프가 떨어져 무서운 기계가 되고, 우주인들이 구하러 온다. |
 | 1976 | Babfilm | Babfilm | Foky Ottó | 애니메이션 | 확인 못 함 | 콩알들이 사는 낯선 별에 이상한 존재가 찾아와 그들의 삶을 지켜보는 SF 흉내 단편. |
+| 1976 | Dynomutt, Dog Wonder (경계) | Dynomutt, Dog Wonder | Joe Ruby · Ken Spears (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 배트맨 같은 영웅 블루 팰컨과 그의 서툰 기계 개 다이노머트. |
+| 1976 | Jabberjaw | Jabberjaw | Joe Ruby · Ken Spears (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 바다 밑 문명에 사는 록 밴드와 말하는 백상아리 드러머가 해저 도시들을 노리는 악당과 맞선다. |
 | 1976 | UFO전사 다이아포론 | UFO戦士ダイアポロン | エイケン | 애니메이션 | 확인 못 함 | 멸망한 아폴론 별의 왕자가 지구 고아원에서 자라, 몸에 숨은 열쇠로 거대 로봇과 하나 되어 침략군과 싸운다. |
 | 1976 | 로봇 아이 비톤 (경계) | ろぼっ子ビートン | 大隅正秋(원작·감독), 創映社(지금의 サンライズ) | 애니메이션 | 확인 못 함 | 엉터리로 조립된 탓에 제 뜻을 갖게 된, 하늘을 나는 꼬마 로봇이 소년과 함께 동네에서 소동을 벌인다. |
 | 1976 | 그로이저X | グロイザーX | 桜多吾作(원작), ナック | 만화·애니메이션 | 있음 | 지구에 불시착한 외계 탐험대가 제국을 세워 침략하자, 평화파 과학자의 딸이 변신 폭격기 로봇으로 맞선다. |
@@ -4040,6 +5804,7 @@
 | 1976 | 超電磁ロボ コン・バトラーV | 超電磁ロボ コン・バトラーV | 長浜忠夫, 東映 | 애니메이션 | 있음 | 옛날 지구에서 쫓겨난 캄벨 별 사람들이 되돌아와 지구를 치고, 다섯 젊은이의 합체 로봇이 맞선다. |
 | 1976 | 로보트 태권 V | 로보트 태권 V | 김청기 (유프로덕션·서울동화) | 애니메이션 | 한국 원작 | 태권도 소년이 모는 거대 로봇이 지구 정복을 꾀하는 악당의 로봇 군단과 싸운다 |
 | 1976 | 철인 007 | 철인 007 | 한성학(한하림 명의) | 애니메이션 | 한국 원작 | 악의 로봇 범죄 조직 검은 나비에 맞서, 다섯 기가 합체하는 거대 로봇 철인 007이 출동한다. |
+| 1977 | Space Sentinels (경계) | Space Sentinels | Filmation | 애니메이션 | 확인 못 함 | 수백 년 전 다른 행성으로 옮겨져 영원한 젊음과 초능력을 받은 지구 젊은이 셋. |
 | 1977 | Wizards (경계) | Wizards | Ralph Bakshi | 애니메이션 | 확인 못 함 | 핵전쟁 천만 년 뒤 요정과 돌연변이가 사는 땅에서, 마법을 쓰는 형과 옛 기술을 되살린 동생이 맞선다. |
 | 1977 | Вперёд, время! (경계) | Вперёд, время! | Vladimir Tarasov | 애니메이션 | 확인 못 함 | 마야콥스키 시로 엮은 혁명과 우주 시대 — 끝에 순찰 우주선이 '소유욕 바이러스'의 마지막 은신처를 없앤다. |
 | 1977 | Полигон | Полигон | Anatoly Petrov | 애니메이션 | 확인 못 함 | 전쟁에서 아들을 잃은 교수가 사람의 적의와 두려움을 읽고 쏘는 무인 전차를 만들어 복수한다. |
@@ -4053,11 +5818,19 @@
 | 1977 | 초전자머신 볼테스 V | 超電磁マシーン ボルテスV | 선라이즈·토에이, 나가하마 타다오 | 드라마·애니메이션 | 있음 | 뿔 달린 귀족이 다스리는 외계 제국의 침공에 다섯 젊은이가 합체 로봇으로 맞섬 |
 | 1977 | 전자인간 337 | 전자인간 337 | 임정규(감독) | 애니메이션 | 한국 원작 | 한 과학자가 막대한 돈을 들여 만든 무술 로봇 337이 마루치·아라치 남매와 함께 악당을 무찌른다. |
 | 1978 | 100万年地球の旅 バンダーブック | 100万年地球の旅 バンダーブック | 手塚治虫, 手塚プロダクション·日本テレビ | 애니메이션 | 확인 못 함 | 외계 행성에서 왕자로 자란 지구인 소년이 제 출생을 알고 우주로 나가 독재자와 맞선다. |
+| 1978 | Manta and Moray (경계) | Manta and Moray | Filmation | 애니메이션 | 확인 못 함 | 사라진 무 대륙 문명의 마지막 생존자 만타와 짝 모레이, 바다의 두 영웅. |
 | 1978 | 스타징가 | SF西遊記スタージンガー | 松本零士(원작), 東映動画 | 애니메이션 | 있음 | 서유기를 우주로 옮겨, 공주와 사이보그 셋이 우주의 균형을 되살릴 대왕성을 찾아 떠난다. |
+| 1978 | Yogi's Space Race (경계) | Yogi's Space Race | William Hanna · Joseph Barbera | 애니메이션 | 확인 못 함 | 요기 베어와 친구들이 우주 경주와 은하 순찰에 나서는 한나-바베라 애니메이션. |
 | 1978 | Контакт | Контакт | Vladimir Tarasov | 애니메이션 | 확인 못 함 | 여름 들판에서 쉬던 화가 곁에 우주선이 내리고, 겁먹은 외계인과 화가가 노래 한 가락으로 마음을 튼다. |
 | 1978 | 宇宙魔神ダイケンゴー | 宇宙魔神ダイケンゴー | 酒井あきよし(원작), 鳥プロダクション | 애니메이션 | 있음 | 지옥 성운의 마젤란 제국이 은하 연맹을 침략하자, 망국의 왕자가 거대 로봇으로 맞선다. |
 | 1978 | 無敵鋼人ダイターン3 | 無敵鋼人ダイターン3 | 富野由悠季, サンライズ | 애니메이션 | 확인 못 함 | 화성에서 만든 개조 인간 메가노이드가 인류를 지배하려 하자, 그들을 만든 박사의 아들이 로봇으로 맞선다. |
 | 1978 | 투장 다이모스 | 闘将ダイモス | 八手三郎(원작), 長浜忠夫(감독), 東映·日本サンライズ | 애니메이션 | 있음 | 고향 별을 잃고 온 외계인과의 회담이 암살로 깨져 전쟁이 나고, 적과 아군으로 갈린 남녀가 사랑에 빠진다. |
+| 1979 | Casper and the Angels (경계) | Casper and the Angels | Hanna-Barbera | 애니메이션 | 확인 못 함 | 꼬마 유령 캐스퍼가 우주 경찰관 미니와 맥시의 수호 유령이 된다. |
+| 1979 | Doctor Snuggles (경계) | Doctor Snuggles | Jeffrey O'Kelly | 애니메이션 | 확인 못 함 | 친절한 발명가 스너글스 박사가 로봇과 시간 기계 같은 엉뚱한 발명품으로 모험한다. |
+| 1979 | Mighty Man and Yukk (경계) | Mighty Man and Yukk | Ruby-Spears Productions | 애니메이션 | 확인 못 함 | 기계로 몸을 몇 인치로 줄이며 초능력을 얻은 백만장자 브랜던 브루스터의 활극. |
+| 1979 | Rickety Rocket | Rickety Rocket | Ruby-Spears Productions | 애니메이션 | 확인 못 함 | 먼 미래, 흑인 십대 넷이 말하는 로켓을 손수 만들어 탐정 사무소를 꾸린다. |
+| 1979 | Superstretch and Microwoman (경계) | Superstretch and Microwoman | Filmation | 애니메이션 | 확인 못 함 | 몸 모양을 바꾸는 부부가 짝을 이뤄 범죄와 싸운다. |
+| 1979 | The Brown Hornet (경계) | The Brown Hornet | Bill Cosby | 애니메이션 | 확인 못 함 | 팻 앨버트 무리가 즐겨 보는 극중 만화 속 영웅 브라운 호넷의 우주 활극. |
 | 1979 | 대공룡시대 | 大恐竜時代 | 石ノ森章太郎, 東映動画 | 애니메이션 | 있음 | 비행접시에 실려 백악기로 간 세 사람이 공룡이 번성하던 때부터 멸망까지를 지켜본다. |
 | 1979 | 우주공모 블루노아 | 宇宙空母ブルーノア | 西崎義展(원작), アカデミー制作 | 애니메이션 | 확인 못 함 | 2052년, 지구 궤도에 멈춘 인공 행성의 외계인에게 인류의 9할이 죽고, 살아남은 이들이 반격에 나선다. |
 | 1979 | 미래로봇 달타니어스 | 未来ロボ ダルタニアス | 長浜忠夫, 東映·サンライズ | 애니메이션 | 있음 | 우주 제국에 정복당한 1995년 지구에서 소년이 멸망한 별의 왕자임을 알고 합체 로봇으로 싸운다. |
@@ -4070,6 +5843,8 @@
 | 1979 | 은하함대 지구호 | 은하함대 지구호 | 김청기 | 애니메이션 | 한국 원작 | 오염된 지구를 닮은 별을 찾던 탐험대가 도시 행성에 붙잡히자, 아이들이 지구호를 타고 부모를 찾아 나선다. |
 | 1980 | 15소년 우주 표류기 | 15소년 우주 표류기 | 정수용 | 애니메이션 | 한국 원작 | 세계 각국에서 모인 소년 소녀 열다섯이 실수로 우주 탐사선을 타고 떠나 우주를 떠돈다. |
 | 1980 | Misiunea spațială Delta | Misiunea spațială Delta | Mircea Toia · Călin Cazan | 애니메이션 | 확인 못 함 | 3084년, 은하 여행을 떠나려던 우주 정거장의 전자두뇌가 제멋대로 움직이자 승무원들이 되찾으러 간다. |
+| 1980 | The Fonz and the Happy Days Gang | The Fonz and the Happy Days Gang | Duane Poole · Tom Swale (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 1957년, 25세기 소녀의 고장 난 시간 기계를 고친 폰지 무리가 사고로 시간 속을 떠돈다. |
+| 1980 | Thundarr the Barbarian | Thundarr the Barbarian | Steve Gerber · Joe Ruby · Ken Spears | 애니메이션 | 확인 못 함 | 3994년 무렵, 마법사들이 나눠 다스리는 종말 뒤 황무지 지구의 야만 전사 썬다. |
 | 1980 | Возвращение | Возвращение | Vladimir Tarasov | 애니메이션 | 확인 못 함 | 목성에서 돌아오던 우주선이 망가지고 조종사가 깨어나지 않자, 할아버지가 고향 집 위를 지나가게 하라고 한다. |
 | 1980 | 터무니없는 전사 무테킹 (경계) | とんでも戦士ムテキング | タツノコプロ | 애니메이션 | 있음 | 지구 정복에 나선 엉성한 우주 문어 악당 형제를, 착한 외계인의 힘으로 변신한 소년 영웅이 막는다. |
 | 1980 | マリンスノーの伝説 | マリンスノーの伝説 | 松本零士(원작), 藤川桂介(각본) | 애니메이션 | 확인 못 함 | 인구가 늘어 바다 도시를 짓는 미래, 폭발 사고 뒤 사라진 동료 여성의 정체를 청년이 좇아 나선다. |
@@ -4079,6 +5854,9 @@
 | 1980 | 우주전사 발디오스 | 宇宙戦士バルディオス | 酒井あきよし(원작), 葦プロダクション | 애니메이션 | 있음 | 오염으로 죽어 가는 별 S-1 의 사람들이 지구를 노리고, 반역자가 된 그 별의 청년이 지구 편에서 싸운다. |
 | 1980 | 無敵ロボ トライダーG7 | 無敵ロボ トライダーG7 | 佐々木勝利, サンライズ | 애니메이션 | 없음 | 작은 우주 운송 회사를 물려받은 초등학생 사장이 회사 로봇으로 외계 침략군과 싸운다. |
 | 1980 | 소년 007 은하특공대 | 소년 007 은하특공대 | 임정규 | 애니메이션 | 한국 원작 | 쿠데타로 쫓겨난 별의 여왕이 지구로 피신하며 잃어버린 알에서 소년이 태어나, 자라서 고향 별을 되찾으려 한다. |
+| 1981 | Danger Mouse (경계) | Danger Mouse | Brian Cosgrove · Mark Hall (Cosgrove Hal | 애니메이션 | 확인 못 함 | 영국 첩보원 생쥐 데인저 마우스가 거대 로봇까지 부리는 악당 그린백과 맞선다. |
+| 1981 | Hero High (경계) | Hero High | Filmation | 드라마·애니메이션 | 확인 못 함 | 젊은 초능력 영웅들이 힘 쓰는 법과 범죄와 싸우는 법을 배우는 고등학교. |
+| 1981 | Teen Force (경계) | Teen Force | Hanna-Barbera | 애니메이션 | 확인 못 함 | 블랙홀 X 너머 다른 우주에서 온 초능력 학생들, 빛보다 빨리 달리는 키드 코멧 등. |
 | 1981 | 우주선장 율리시스 | Ulysse 31 | DIC(프랑스)·TMS(일본) 합작, Jean Chalopin, Nina | 애니메이션 | 있음 | 신들의 노여움을 사 우주를 떠도는 31세기 함장과 얼어붙은 동료들 |
 | 1981 | 메챳코 도타콘 (경계) | めちゃっこドタコン | 国際映画社(애니메이션 東映動画) | 애니메이션 | 확인 못 함 | 열한 살 천재 소녀가 동생이 갖고 싶어 만든 소년 로봇이 학교에 다니며 소동을 벌인다. |
 | 1981 | ブレーメン4 地獄の中の天使たち (경계) | ブレーメン4 地獄の中の天使たち | 手塚治虫(원작) | 애니메이션 | 확인 못 함 | 전쟁통에 주인을 잃은 동물 넷이, 목숨을 구해 준 외계인에게서 사람으로 변하는 도구를 받아 길을 떠난다. |
@@ -4091,11 +5869,13 @@
 | 1981 | 혹성 로보트 썬더 A | 혹성 로보트 썬더 A | 김청기(제작총지휘), 조항리(감독) | 애니메이션 | 한국 원작 | 2100년 말, 기억을 잃은 소년 로봇을 구한 일행이 토성 띠에 기지를 둔 악당의 지구 정복 음모에 맞선다. |
 | 1982 | Chronopolis | Chronopolis | Piotr Kamler | 애니메이션 | 확인 못 함 | 하늘에 뜬 거대 도시의 지루해진 불사자들이 시간과 원자를 가지고 놀며 무언가가 오기를 기다린다. |
 | 1982 | FUTURE WAR 198X년 | FUTURE WAR 198X年 | 舛田利雄·勝間田具治(감독), 東映 | 애니메이션 | 있음 | 198X년, 미국의 레이저 요격 위성 시험을 계기로 미소 대립이 핵전쟁으로 번져 간다. |
+| 1982 | Gilligan's Planet | Gilligan's Planet | Sherwood Schwartz (Filmation) | 애니메이션 | 확인 못 함 | 교수가 만든 행성 간 우주선으로 섬을 떠난 표류자들이 낯선 행성에 떨어진다. |
 | 1982 | Il était une fois... l'Espace | Il était une fois... l'Espace | Albert Barillé (Procidis), 일본 Eiken 참여 | 애니메이션 | 확인 못 함 | 여러 행성의 연합과 기계 병사를 앞세운 제국이 맞서는 은하 |
 | 1982 | Masters of the Universe (경계) | Masters of the Universe | Mattel | 만화·애니메이션·영화 | 있음 | 행성 이터니아의 왕자가 힘의 칼로 영웅 히맨이 되어 악당 스켈레토로부터 그레이스컬 성을 지킨다. |
 | 1982 | とんでモン・ペ (경계) | とんでモン・ペ | 東京ムービー新社 | 애니메이션 | 확인 못 함 | 디자이너를 꿈꾸며 상경한 시골 처녀가 초능력을 쓰는 아기의 장난에 이리저리 휘둘린다. |
 | 1982 | 사이봇 로보치 (경계) | サイボットロボッチ | 石川賢·安藤豊弘(원작), ナック | 애니메이션 | 확인 못 함 | 시골 마을의 괴짜 박사가 만든 꼬마 로봇과 로봇 친구들이 마을 소동과 악당 과학자의 기계에 맞선다. |
 | 1982 | テクノポリス21C | テクノポリス21C | 松本正志(감독), スタジオぬえ(설정 협력) | 애니메이션 | 확인 못 함 | 2001년 미래 도시에서 기계를 쓴 범죄가 잇따르자, 경찰 특수대가 인공지능 로봇 셋과 함께 수사에 나선다. |
+| 1982 | 太陽の子エステバン (경계) | 太陽の子エステバン | MK Company · NHK · DiC Audiovisuel · Stu | 애니메이션 | 확인 못 함 | 16세기 신대륙에서 소년 에스테반 일행이 사라진 히바 제국의 기술과 황금 도시를 찾는다. |
 | 1982 | 전투메카 자붕글 | 戦闘メカ ザブングル | 선라이즈, 토미노 요시유키 | 애니메이션 | 있음 | 사막 행성에서 '이노센트'라 불리는 이들이 사람을 다스리는 서부극 같은 세계 |
 | 1982 | 기갑함대 다이라가XV | 機甲艦隊ダイラガーXV | 八手三郎(원안), 東映動画 | 애니메이션 | 있음 | 세 행성 연합이 15대 합체 로봇을 실은 함대를 은하 지도를 만들러 보내고, 함대는 길에서 적과 맞선다. |
 | 1982 | 초시공요새 마크로스 | 超時空要塞マクロス | 스튜디오 누에·빅 웨스트, 카와모리 쇼지 (제작 타츠노코 프로덕션) | 게임·애니메이션 | 있음 | 거인 외계 함대와 처음 싸운 뒤, 노래와 변신 전투기를 앞세운 인류 이주 선단의 역사 |
@@ -4125,7 +5905,9 @@
 | 1983 | 은하전설 테라 | 은하전설 테라 | 홍상만, 대원동화 | 애니메이션 | 한국 원작 | 시리우스 탐사대 청년이 낯선 행성에서 그곳을 다스리려는 환마 여왕과 맞서지만, 그 별의 정체가 드러난다. |
 | 1983 | 해저 탐험대 마린 X (경계) | 해저 탐험대 마린 X | 김현동(총감독) | 애니메이션 | 한국 원작 | 한국 첫 원자력 잠수함이 해저 공룡에게 당한 뒤, 잠수함과 합체하는 로봇이 공룡과 북한 잠수함에 맞선다. |
 | 1984 | BIRTH | BIRTH | カナメプロダクション, 貞光紳也(감독) | 만화·애니메이션 | 확인 못 함 | 무기물 지성체가 다스리는 별에서, 그들을 없앨 유일한 성검을 얻은 소년이 쫓기며 떠돈다. |
+| 1984 | GoBots | GoBots | Tonka · Bandai (Hanna-Barbera) | 애니메이션 | 확인 못 함 | 행성 고보트론의 변신 로봇 — 영웅 '가디언'과 악당 '레니게이드'의 싸움. |
 | 1984 | OKAWARI-BOY 스타잔S | OKAWARI-BOY スターザンS | タツノコプロ | 애니메이션 | 있음 | 우주 어딘가의 전설의 낙원을 찾다 사라진 아버지를 좇아 소년이 우주로 떠나고, 거대 기업 일가가 뒤쫓는다. |
+| 1984 | Pole Position | Pole Position | Jean Chalopin · Michael Reaves | 애니메이션 | 확인 못 함 | 떠돌이 곡예 운전 쇼를 가면 삼아 범죄를 막는 대럿 가족의 활극. |
 | 1984 | Turbo Teen (경계) | Turbo Teen | Ruby-Spears Productions | 애니메이션 | 확인 못 함 | 분자 빔을 맞아 차와 몸이 합쳐진 소년이 열을 받으면 스포츠카로 변해 사건을 푼다. |
 | 1984 | 볼트론 | Voltron | World Events Productions(1984), DreamWor | 게임·만화·애니메이션 | 일부 | 다섯 사자 로봇이 합체한 거인으로 우주 제국에 맞서는 이야기 |
 | 1984 | Встреча | Встреча | Mikhail Titov | 애니메이션 | 확인 못 함 | 신사로 꾸며 지구에 온 외계인이, 낚시꾼에게 사람들이 외계인의 방문을 믿는지 슬며시 묻는다. |
@@ -4143,10 +5925,16 @@
 | 1984 | 중전기 엘가임 | 重戦機エルガイム | 선라이즈, 토미노 요시유키 | 애니메이션 | 있음 | 다섯 행성을 다스리는 황제 포세이달의 제국에 맞서는 떠돌이 청년들 |
 | 1984 | 불사조 로보트 피닉스 킹 (경계) | 불사조 로보트 피닉스 킹 | 정수용 | 애니메이션 | 한국 원작 | 우주 정복을 꿈꾸는 대공에게 오로라 별이 망하자, 가족을 잃은 아이들이 로봇 피닉스 킹으로 맞선다. |
 | 1984 | 우주전사 홍길동 (경계) | 우주전사 홍길동 | 김현동, 정수용 | 애니메이션 | 한국 원작 | 우주 공산당 수령에게 납치된 박사를 구하려 에메랄드 행성에서 수련한 홍길동이 나선다. |
+| 1985 | Alias the Jester | Alias the Jester | Brian Cosgrove · Mark Hall (Cosgrove Hal | 애니메이션 | 확인 못 함 | 고장 난 배로 중세 왕국에 떨어진 시간 여행자 앨리어스와 개 닮은 동무 보즈웰. |
 | 1985 | Gwen, ou le livre de sable | Gwen, ou le livre de sable | Jean-François Laguionie | 애니메이션 | 확인 못 함 | 종말 뒤 사막에 정체 모를 것이 커다란 일상 물건을 떨어뜨리고, 소녀가 끌려간 친구를 찾아 떠난다. |
 | 1985 | 철갑용사 제이시 (경계) | Jayce and the Wheeled Warriors | DiC Entertainment | 애니메이션 | 있음 | 기아를 없애려던 식물 실험이 태양 플레어로 틀어져 생긴 악한 식물 세력에 소년이 맞선다. |
 | 1985 | Jem and the Holograms (경계) | Jem and the Holograms | Hasbro, Sunbow | 애니메이션·영화 | 확인 못 함 | 아버지가 남긴 홀로그램 컴퓨터의 힘으로 음반사를 물려받은 여성이 비밀 가수 '젬'이 된다. |
+| 1985 | Les Mondes engloutis | Les Mondes engloutis | Nina Wolmark | 애니메이션 | 확인 못 함 | 옛 대재앙을 피해 땅속 깊이 숨은 도시 아르카디아, 그 사람들은 땅 위에 삶이 남은 줄 모른다. |
+| 1985 | M.A.S.K. | M.A.S.K. | Kenner Products (DIC · ICC TV) | 애니메이션 | 확인 못 함 | 변신하는 장갑차를 모는 특수 기동대가 맷 트래커를 앞세워 악당과 싸운다. |
+| 1985 | Robostory | Robostory | Michel Pillyser · Bernard Kessler (Belok | 애니메이션 | 확인 못 함 | 개를 쫓아 우주 왕복선에 탄 소녀가 착한 로봇과 나쁜 로봇이 사는 초록 행성에 떨어진다. |
 | 1985 | 로보텍 | Robotech | Harmony Gold, Carl Macek | 게임·만화·소설·애니메이션·탁상 게임 | 일부 | 추락한 외계 전함의 기술로 무장한 인류가 세 차례 외계 침공을 겪는다 |
+| 1985 | Robotix | Robotix | Sunbow Productions · Marvel Productions | 애니메이션 | 확인 못 함 | 먼 옛날 외계 행성 스칼로르 5 의 두 로봇 세력 다툼에 200X년의 사람들이 휘말린다. |
+| 1985 | Sectaurs: Warriors of Symbion | Sectaurs: Warriors of Symbion | Lawrence Mass · Tim Clarke · Maureen Tro | 만화·애니메이션 | 확인 못 함 | 실패한 유전 실험으로 벌레가 거대해지고 주민도 벌레 꼴이 된 행성 심비온. |
 | 1985 | Starchaser: The Legend of Orin | Starchaser: The Legend of Orin | Steven Hahn | 애니메이션 | 확인 못 함 | 행성 땅속에서 '신' 자이곤과 로봇에게 부림받던 광부 청년이 보석 칼자루를 얻어 바깥 우주로 나선다. |
 | 1985 | 썬더캣츠 (경계) | ThunderCats | Rankin/Bass (그림 작업은 일본 Topcraft) | 게임·만화·애니메이션 | 있음 | 망한 고양이 종족의 별에서 탈출한 이들이 먼 미래 지구에서 마법사와 싸운다 |
 | 1985 | アレイの鏡 Way to the Virgin Space | アレイの鏡 Way to the Virgin Space | 松本零士(원작) | 애니메이션 | 확인 못 함 | 우주 끝의 별 '아레이'를 찾는 두 사람과 몰래 탄 기계 인간이, 보이지 않는 주민들의 별에 닿는다. |
@@ -4160,8 +5948,15 @@
 | 1985 | 초수기신 단쿠가 | 超獣機神ダンクーガ | 葦プロダクション | 애니메이션 | 있음 | 은하를 휩쓰는 무게 졸바도스 제국이 지구를 쳐들어오자 네 젊은이의 짐승 로봇이 하나로 합친다. |
 | 1985 | 똘이와 제타로보트 | 똘이와 제타로보트 | 김청기 | 애니메이션 | 한국 원작 | 소년이 주운 장난감이 사실은 땅속 소인국의 전투기였고, 공주와 함께 침략자에 맞설 합체 로봇을 되살린다. |
 | 1985 | 로보트왕 썬샤크 (경계) | 로보트왕 썬샤크 | 박승철 | 애니메이션 | 한국 원작 | 산소가 모자란 고향 별을 구하러 온 외계 남매가 아이들과 함께 로봇 썬샤크를 몰고 악당 외계인과 싸운다. |
+| 1986 | Bleu, l'enfant de la Terre | Bleu, l'enfant de la Terre | Philippe Druillet (IDDH) | 애니메이션 | 확인 못 함 | 필리프 드뤼예가 만든 열세 편짜리 공상 과학 모험 애니메이션. |
+| 1986 | Centurions | Centurions | Gil Kane · Jack Kirby · Doug Wildey (Rub | 애니메이션 | 확인 못 함 | 가까운 미래, 사이보그 악당 닥 테러에 맞서 특수 외골격을 입은 사나이들이 싸운다. |
+| 1986 | Fluppy Dogs (경계) | Fluppy Dogs | Walt Disney Television | 애니메이션 | 확인 못 함 | 수정 열쇠로 여러 차원을 넘나들다 지구에 온 강아지 꼴 생물 '플러피'들. |
+| 1986 | Galaxy High School | Galaxy High School | Chris Columbus | 애니메이션 | 확인 못 함 | 지구 십대 둘이 소행성 플루터의 은하계 고등학교에 뽑혀 들어간다. |
 | 1986 | Inhumanoids (경계) | Inhumanoids | Hasbro | 애니메이션 | 있음 | 먼 옛날 봉인된 땅속 괴물들이 깨어나자 지질 연구팀이 나무·바위 종족과 손잡고 맞선다. |
+| 1986 | Lazer Tag Academy | Lazer Tag Academy | Dan DiStefano (Ruby-Spears) | 애니메이션 | 확인 못 함 | 3010년의 레이저 태그 챔피언 제이미가 1987년으로 와 조상인 아이들을 악당에게서 지킨다. |
 | 1986 | 실버호크 | SilverHawks | Rankin/Bass, Pacific Animated Imaging | 애니메이션 | 있음 | 몸 일부를 금속으로 바꾼 우주 경찰대가 은하 끝 감옥 별에서 탈옥한 악당들을 쫓는다. |
+| 1986 | The Adventures of the Galaxy Rangers | The Adventures of the Galaxy Rangers | Robert Mandell | 애니메이션 | 확인 못 함 | 2086년, 평화로운 외계인 둘이 도움을 청하며 인류에게 첫 초공간 추진 설계도를 건넨다. |
+| 1986 | The Telebugs | The Telebugs | John M. Mills · Elphin Lloyd-Jones | 애니메이션 | 확인 못 함 | 로봇 셋과 날아다니는 영상 꾸러미가 함께 모험한다. |
 | 1986 | Сражение (경계) | Сражение | Mikhail Titov | 애니메이션 | 확인 못 함 | 장난감 회사 사장을 죽인 청부 살인자에게 소포가 오고, 그 안의 장난감 병정과 무기가 진짜로 쏘아 댄다. |
 | 1986 | カリフォルニア・クライシス 追撃の銃火 | カリフォルニア・クライシス 追撃の銃火 | 西久保瑞穂(감독), ヒロメディア·スタジオ・ユニコーン | 애니메이션 | 확인 못 함 | 미국 서부를 달리던 청년과 소녀가 하늘에서 떨어진 비행체에서 나온 구슬을 쥐고 군에 쫓긴다. |
 | 1986 | ガルフォース | ガルフォース | 아트믹·AIC, 유멕스 | 애니메이션 | 일부 | 여성만으로 된 종족과 다른 종족이 은하에서 끝없이 이어 온 전쟁의 비밀 |
@@ -4183,7 +5978,12 @@
 | 1987 | 출동! 바이오 용사 (경계) | Bionic Six | TMS 엔터테인먼트 | 애니메이션 | 있음 | 반지와 손목 컴퓨터로 몸속 바이오 칩을 깨워 변신하는 가족 영웅들이 악당에 맞선다. |
 | 1987 | 우주보안관 장고 | BraveStarr | Filmation | 애니메이션 | 있음 | 2100년 금보다 비싼 광석을 찾아 사람이 몰려든 먼 행성에서 보안관이 악당과 맞선다. |
 | 1987 | Dick Spanner, P.I. | Dick Spanner, P.I. | Terry Adlam | 애니메이션 | 확인 못 함 | 챈들러 식 탐정극을 비튼 로봇 사설탐정의 인형 애니메이션 |
+| 1987 | Dinosaucers | Dinosaucers | Michael E. Uslan (DIC) | 애니메이션 | 확인 못 함 | 다른 별에서 온 공룡 꼴 '다이노소서'들과 손잡은 평범한 십대 넷 '비밀 정찰대'. |
 | 1987 | LILY-C.A.T. | LILY-C.A.T. | スタジオぴえろ, 鳥海永行(감독) | 애니메이션 | 확인 못 함 | 20년 걸리는 행성 탐사 길, 냉동 수면에서 깬 승무원들이 정체 모를 세균에 하나씩 쓰러진다. |
+| 1987 | Mighty Mouse: The New Adventures (경계) | Mighty Mouse: The New Adventures | Ralph Bakshi | 애니메이션 | 확인 못 함 | 옛 만화 영화의 영웅 쥐 마이티 마우스를 되살린 활극. |
+| 1987 | Sky Commanders | Sky Commanders | Jeff Segal (Hanna-Barbera · Toei) | 애니메이션 | 확인 못 함 | 남태평양에 새로 솟은 대륙, 불안정한 새 원소 세타 세븐을 쥐려는 장군과 산악 대원들. |
+| 1987 | Spiral Zone | Spiral Zone | Diana Dru Botsford | 애니메이션 | 확인 못 함 | 2007년, 비뚤어진 군 과학자가 우주 왕복선으로 '존 발생기'를 지구 절반에 떨어뜨린다. |
+| 1987 | Starcom: The U.S. Space Force | Starcom: The U.S. Space Force | Brynne Stephens | 애니메이션 | 확인 못 함 | 가까운 미래, 미국 우주군이 다크 황제가 이끄는 첨단 기술 세력 섀도 포스와 싸운다. |
 | 1987 | Visionaries: Knights of the Magical Light (경계) | Visionaries: Knights of the Magical Light | Hasbro, Sunbow, 東京ムービー新社 | 만화·애니메이션 | 확인 못 함 | 기계 문명이 무너진 행성에서 옛 마법사가 연 시합으로 기사들이 마법의 힘을 얻는다. |
 | 1987 | Урок | Урок | Robert Sahakyants | 애니메이션 | 확인 못 함 | 미지의 행성에 내린 사냥꾼들이 짐승을 마구 죽이는데, 그곳에선 죽인 자가 죽인 것으로 다시 태어난다. |
 | 1987 | スクーパーズ | スクーパーズ | モンキー・パンチ(원작), ACCプロダクション | 애니메이션 | 확인 못 함 | 22세기 미래 도시에서 위성 추락과 우주선 폭파가 잇따르자, 신문 기자와 사진기자가 배후의 인물을 쫓는다. |
@@ -4200,6 +6000,9 @@
 | 1987 | 破邪大星ダンガイオー | 破邪大星ダンガイオー | 平野俊弘, AIC | 애니메이션 | 있음 | 우주 해적에게 개조된 초능력자 넷이 탈출해, 합체 로봇으로 해적단과 싸운다. |
 | 1987 | 붉은 광탄 질리온 | 赤い光弾ジリオン | 西久保瑞穂, タツノコプロ | 게임·애니메이션 | 있음 | 개척 행성 마리스에 정착한 인류가 외계 종족 노자의 침공에 맞서 광선총 하나로 싸운다. |
 | 1987 | 魔境外伝レディウス | 魔境外伝レディウス | 根岸弘, 葦プロダクション | 애니메이션 | 확인 못 함 | 행성 라파엘에서 옛 종족이 남긴 유산 '리드니움'을 찾는 떠돌이들이 그것을 노리는 악당 일당과 부딪친다. |
+| 1988 | C.O.P.S. | C.O.P.S. | Bruce Shelly (DIC) | 애니메이션 | 확인 못 함 | 가까운 미래, 엠파이어 시티를 악당 빅 보스 일당에게서 지키는 특수 경찰대. |
+| 1988 | Dino-Riders | Dino-Riders | Gerry Conway · Carla Conway | 애니메이션 | 확인 못 함 | 포식자 룰론의 침략을 피해 행성 발로리아를 떠난 평화로운 종족이 공룡과 함께 맞서 싸운다. |
+| 1988 | Fantastic Max | Fantastic Max | Hanna-Barbera · Kalisto (Judy Rothman Ro | 애니메이션 | 확인 못 함 | 아기 맥스웰 '판타스틱 맥스' 영이 우주로 모험을 떠난다. |
 | 1988 | Fiul stelelor | Fiul stelelor | Mircea Toia · Călin Cazan · Dan Chisovsk | 애니메이션 | 확인 못 함 | 6470년 무렵 부모와 떨어진 소년이 외계인들 손에 자라, 우주 존재가 가둔 띠에서 모두를 풀어 준다. |
 | 1988 | Ветер | Ветер | Robert Sahakyants | 애니메이션 | 확인 못 함 | 군 기지 출입구에서 일하는 사내 앞으로 방사능에 기괴하게 변한 사람들이 줄지어 지나간다. |
 | 1988 | Перевал | Перевал | Vladimir Tarasov · Kir Bulychev(각본) | 애니메이션 | 확인 못 함 | 빈 행성에 불시착한 탐사선 생존자들이 열일곱 해를 원시처럼 살고, 그곳에서 자란 소년이 배를 찾아간다. |
@@ -4209,6 +6012,12 @@
 | 1988 | 패트레이버 | 機動警察パトレイバー | 헤드기어(유키 마사미·오시이 마모루·이토 카즈노리·이즈부치 유타카·타카다 | 만화·애니메이션·영화 | 있음 | 일하는 거대 로봇이 흔해진 도쿄에서 그 로봇이 일으키는 사건을 맡은 경찰 부대 |
 | 1988 | 초음전사 보그맨 | 超音戦士ボーグマン | 葦プロダクション, 根岸弘 | 애니메이션 | 있음 | 1999년 운석으로 도쿄가 무너지고 31년 뒤 바다 위 신도시를 다른 차원의 침략자가 덮친다. |
 | 1989 | 2020년 우주의 원더키디 | 2020년 우주의 원더키디 | 세영동화·한호흥업 (KBS) | 애니메이션 | 한국 원작 | 우주 개발이 한창인 2020년, 소년이 조난한 아버지를 찾아 먼 기계 문명 행성으로 간다 |
+| 1989 | Captain N: The Game Master (경계) | Captain N: The Game Master | DIC Animation City (닌텐도 게임 인물) | 만화·애니메이션 | 확인 못 함 | 텔레비전 속 소용돌이에 빨려 들어간 십대 케빈이 게임 세계 '비디오랜드'를 지킨다. |
+| 1989 | Ciné si (경계) | Ciné si | Michel Ocelot | 애니메이션 | 확인 못 함 | 그림자 인형 같은 배우들이 옛이야기와 복고풍 미래 이야기를 번갈아 연기한다. |
+| 1989 | La Corona Mágica (경계) | La Corona Mágica | Juan Pina | 애니메이션 | 확인 못 함 | 후안 피나가 쓰고 연출한 스페인 판타지·공상 과학 애니메이션. |
+| 1989 | Plasmo | Plasmo | Anthony Lawrence | 애니메이션 | 확인 못 함 | 외계 생명을 다룬 어린이 점토 인형 움직그림. |
+| 1989 | SuperTed (경계) | SuperTed | Mike Young | 애니메이션 | 확인 못 함 | 장난감 공장 창고에 버려진 곰 인형이 스포티의 우주 먼지로 살아나 영웅이 된다. |
+| 1989 | Vytor: The Starfire Champion (경계) | Vytor: The Starfire Champion | World Events Productions | 애니메이션 | 확인 못 함 | 마법 방패를 든 영웅 바이터가 동료와 함께 스타파이어 반지를 두고 악당 미조르와 싸운다. |
 | 1989 | 월레스와 그로밋 (경계) | Wallace and Gromit | 닉 파크 | 애니메이션 | 있음 | 발명가 월레스와 똑똑한 개 그로밋이 지하실에서 만든 로켓을 타고 치즈로 된 달로 소풍을 간다. |
 | 1989 | 시간탐험대 (경계) | たいむとらぶるトンデケマン! | 葦プロダクション | 애니메이션 | 있음 | 박사가 만든 시간 기계 '돈데크만'의 차원문에 빠진 두 초등학생이 여러 시대를 떠돈다. |
 | 1989 | エンジェル・コップ | エンジェル・コップ | 板野一郎 (이타노 이치로) | 만화·애니메이션 | 확인 못 함 | 세계 제일 경제 대국 일본을 무너뜨리려는 과격파에 맞서, 법 밖에서 움직이는 특수 보안대가 세워진다 |
@@ -4217,6 +6026,7 @@
 | 1989 | 御先祖様万々歳! | 御先祖様万々歳! | 押井守 | 애니메이션 | 확인 못 함 | 평범한 핵가족 집에 손자의 손녀라고 자칭하는 소녀가 미래에서 찾아오고 집안이 흔들린다. |
 | 1989 | 獣神ライガー (경계) | 獣神ライガー | 永井豪, サンライズ | 애니메이션 | 확인 못 함 | 신화 시대 봉인된 사신을 되살리려는 제국이 지구를 침략하자, 선신의 피를 이은 소년이 수신으로 변해 맞선다. |
 | 1989 | 슈퍼 그랑죠 (경계) | 魔動王グランゾート | サンライズ | 애니메이션 | 있음 | 2050년 대지진으로 달에 공기와 중력이 생긴 지 50년, 달에 간 소년이 달 뒤편의 지배당한 세계로 간다. |
+| 1990 | Captain Planet and the Planeteers (경계) | Captain Planet and the Planeteers | Ted Turner · Barbara Pyle | 게임·만화·애니메이션 | 확인 못 함 | 지구의 정령 가이아가 다섯 젊은이에게 마법 반지를 보내 환경 파괴에 맞서게 한다. |
 | 1990 | NG기사 라무네&40 (경계) | NG騎士ラムネ&40 | 葦プロダクション(감독 ねぎしひろし), あかほりさとる(각본) | 만화·애니메이션 | 있음 | 게임을 깬 초등학생이 다른 세계로 불려가 전설의 용사가 되고, 로봇을 몰아 되살아난 요신을 물리치러 떠난다. |
 | 1990 | RPG 전설 헤포이 (경계) | RPG伝説ヘポイ | スタジオぎゃろっぷ(감독 石蔵武·なみきまさと), 小早川薫(원작) | 게임·만화·애니메이션 | 있음 | 검과 마법의 땅에서 봉인됐던 기계 전사족이 풀려나고, 용사의 후예 소년이 마왕군과 싸운다. |
 | 1990 | SOL BIANCA | SOL BIANCA | AIC, NECアベニュー·NCSメサイヤ(제작) | 게임·애니메이션 | 확인 못 함 | 여자 다섯이 모는 우주 해적선이 밀항한 소년을 고향 별로 데려다주며, 독재 황제에 맞선 반란을 돕는다. |
@@ -4231,6 +6041,10 @@
 | 1990 | 緑野原迷宮 (경계) | 緑野原迷宮 | 星野架名(원작), AIC(감독 垣野内成美) | 애니메이션 | 확인 못 함 | 트럭에 치여 죽은 고교생이 눈앞에서 되살아나고, 그 뒤에 사랑에 굶주린 악령 소녀가 숨어 있다. |
 | 1990 | 聖ミカエラ学園漂流記 | 聖ミカエラ学園漂流記 | 高取英(원작) | 만화·소설·애니메이션·영화 | 확인 못 함 | 산속 학교의 전학생이 동굴을 지나 태평양 전쟁 때의 학교로 들어가고, 교장은 그 시대 군인과 음모를 꾸민다. |
 | 1991 | BURN-UP (경계) | BURN-UP | AIC(감독 井出安軌 외) | 애니메이션 | 일부 | 범죄가 날로 커진 2023년 도쿄, 법 밖의 권한을 받은 소수 특수 경찰대의 여경들이 사건을 맡는다. |
+| 1991 | C.L.Y.D.E. | C.L.Y.D.E. | Jean Cazes · Ronald A. Weinberg (France  | 애니메이션 | 확인 못 함 | 다른 행성에서 온 슈퍼컴퓨터 클라이드가 나오는 어린이 애니메이션. |
+| 1991 | Darkwing Duck (경계) | Darkwing Duck | Tad Stones | 애니메이션 | 확인 못 함 | 덕테일즈의 런치패드를 조수로 둔 오리 영웅 다크윙 덕의 활극. |
+| 1991 | Hammerman (경계) | Hammerman | MC Hammer (DIC · Reteitalia · Telecinco) | 애니메이션 | 확인 못 함 | 말하는 마법 춤 신발을 신으면 영웅 해머맨이 되는 청소년 회관 직원. |
+| 1991 | Space Cats | Space Cats | Paul Fusco | 애니메이션 | 확인 못 함 | 고양이 행성 트리글리세라이드 7 에서 온 외계 고양이들이 사람을 돕는다. |
 | 1991 | 이온 플럭스 | Æon Flux | Peter Chung (MTV) | 게임·만화·애니메이션·영화 | 있음 | 벽으로 갈린 두 나라 사이를 넘나드는 여성 첩보원의 기묘한 미래 도시 |
 | 1991 | インフェリウス惑星戦史外伝 CONDITION GREEN | インフェリウス惑星戦史外伝 CONDITION GREEN | 山内重保(총감독) | 애니메이션 | 확인 못 함 | 은하 제국이 모든 행성에 침략을 시작한 전쟁 속, 에메랄드 어스의 유격 특수 소대가 꾸려져 싸움에 나선다. |
 | 1991 | 겐지통신 아게다마 (경계) | ゲンジ通信あげだま | スタジオぎゃろっぷ(감독 なみきまさと) | 게임·애니메이션 | 있음 | 영웅 별에서 방학을 보내러 지구에 온 소년이, 예언서를 엉뚱하게 읽고 날뛰는 세계 정복 일당과 싸운다. |
@@ -4241,8 +6055,11 @@
 | 1991 | 몽키 삼총사 | 緊急発進セイバーキッズ | モンキー・パンチ(원작), TMS | 애니메이션 | 있음 | 로봇이 풍요를 가져온 가까운 미래, 지구 정복을 노리는 박사에 맞서 삼남매가 구조대를 꾸린다. |
 | 1991 | 노인 Z | 老人Z | 大友克洋, 北久保弘之 | 애니메이션 | 있음 | 고령 사회 일본이 원자로와 컴퓨터를 단 간병 침대 로봇을 시험하자, 로봇이 노인을 태운 채 거리로 나선다. |
 | 1991 | 装甲巨神Zナイト | 装甲巨神Zナイト | サンライズ, トミー(장난감) | 애니메이션 | 확인 못 함 | 2997년, 혜성 덕에 대기가 되살아난 지구를, 인공 대기가 무너진 화성의 특권 국가가 침략한다. |
+| 1992 | Astro Farm (경계) | Astro Farm | Andy Ellis · David Yates (FilmFair) | 애니메이션 | 확인 못 함 | 밭으로 덮인 소행성에서 날씨 기계로 공기를 맞추며 농사짓는 폭스우드 가족. |
 | 1992 | D-1 DEVASTATOR | D-1 DEVASTATOR | タカラ(기획), スフィウス・LAB(원안) | 게임·만화·애니메이션 | 확인 못 함 | 2032년, 시험 주행 중 시속 300킬로를 넘긴 청년이 다른 공간으로 넘어가 로봇 부대의 싸움에 끼어든다. |
 | 1992 | KO세기 비스트 삼수사 | KO世紀ビースト三獣士 | アニメイトフィルム·ゼロGルーム(감독 ねぎしひろし), あかほりさとる | 게임·만화·애니메이션 | 일부 | 1만 년 전 마지막 전쟁으로 남반구가 사라진 지구, 짐승 사람들이 하늘에서 내려온 인간족의 침공에 맞선다. |
+| 1992 | The Adventures of T-Rex (경계) | The Adventures of T-Rex | Michael Wahl · Lee Gunther · Jean Chalop | 애니메이션 | 확인 못 함 | 사람처럼 사는 공룡 세상, 악단으로 일하는 티라노사우루스 다섯 형제가 몰래 범죄와 싸운다. |
+| 1992 | Wild West C.O.W.-Boys of Moo Mesa (경계) | Wild West C.O.W.-Boys of Moo Mesa | Ryan Brown | 애니메이션 | 확인 못 함 | 19세기 말 서부 평원에 방사능 혜성이 떨어져 솟은 높은 고원, 사람 꼴 소들의 서부극. |
 | 1992 | グリーンレジェンド乱 | グリーンレジェンド乱 | エム・ティ・ヴィ·AIC(감독 嵯峨敏) | 애니메이션 | 확인 못 함 | 우주에서 온 물체가 물과 숲을 빨아들여 사막이 된 미래, 그것을 성모로 모시는 교단에 맞선 소년이 싸운다. |
 | 1992 | 스페이스 오즈의 모험 | スペースオズの冒険 | E&G FILMS(감독 吉川惣司), テレビ東京·エノキフイルム(제작) | 애니메이션 | 있음 | 2060년 해가 셋인 개척 행성의 소녀가 낡은 우주선을 타고 다른 우주로 튕겨 나가 집으로 갈 길을 찾는다. |
 | 1992 | 엄마는 4학년 (경계) | ママは小学4年生 | サンライズ, 井内秀治 | 애니메이션 | 있음 | 혼자 남은 4학년 소녀 앞에 15년 뒤 자기가 낳을 딸인 아기가 텔레비전에서 튀어나온다. |
@@ -4250,10 +6067,17 @@
 | 1992 | 원기폭발 간바루가 (경계) | 元気爆発ガンバルガー | サンライズ(감독 川瀬敏文), 矢立肇(원작) | 애니메이션 | 있음 | 봉인이 풀린 대마계의 마왕이 사람 세상을 노리자, 거대 로봇을 찾은 초등학생 셋이 맞선다. |
 | 1992 | 創世機士ガイアース | 創世機士ガイアース | AIC·アートミック | 애니메이션 | 확인 못 함 | 대전쟁으로 문명이 무너진 뒤 살인 로봇이 떠도는 세계. |
 | 1992 | 천지무용! | 天地無用! | AIC, 카지시마 마사키 | 만화·소설·애니메이션 | 있음 | 시골 신사의 소년 앞에 은하 제국의 공주와 우주 해적, 여신급 과학자가 몰려듦 |
+| 1992 | 太阳之子 (경계) | 太阳之子 | 阎善春 · 矜持(감독) | 애니메이션 | 확인 못 함 | 태양 결정에서 태어난 소년이 우주를 노리는 어둠의 왕국과 맞선다. |
 | 1992 | 테카맨 블레이드 | 宇宙の騎士テッカマンブレード | 타츠노코 프로덕션 | 애니메이션 | 있음 | 사람을 갑옷 전사로 바꾸는 외계 생명이 지구를 덮치고, 그 몸이 된 청년이 맞섬 |
 | 1992 | 지구는 초록별 (경계) | 지구는 초록별 | 신연옥, 대원동화, KBS | 애니메이션 | 한국 원작 | 황폐해진 미래 지구에서 온 사람들과 지금의 아이가 만나 환경 보호를 생각한다. |
+| 1993 | Avenger Penguins (경계) | Avenger Penguins | Cosgrove Hall | 애니메이션 | 확인 못 함 | 펭귄 동물 영웅들이 나오는 어린이 희극 애니메이션. |
+| 1993 | Biker Mice from Mars (경계) | Biker Mice from Mars | Rick Ungar | 애니메이션 | 확인 못 함 | 오토바이를 즐기던 화성의 생쥐 종족이 거의 쓸려 나간 뒤, 살아남은 셋이 지구에서 싸운다. |
+| 1993 | Cro (경계) | Cro | Mark Zaslove (Children's Television Work | 애니메이션 | 확인 못 함 | 북극에서 얼어 있던 말하는 매머드 필을 과학자와 조수가 녹여 깨운다. |
 | 1993 | Exosquad | Exosquad | Universal Cartoon Studios | 애니메이션 | 확인 못 함 | 사람이 일꾼으로 만든 개량 인간들이 반란을 일으켜 태양계를 차지한 22세기 |
 | 1993 | 마더 최후의 소녀 이브 | MOTHER 最後の少女イヴ | 스즈키 이쿠 | 애니메이션 | 있음 | 3만 년 전 오염으로 무너져 가는 화성, 마지막 돔 도시 지하에서 소녀들이 숨은 정신의 힘을 길러진다. |
+| 1993 | Mighty Max (경계) | Mighty Max | Mark Zaslove · Rob Hudnut | 애니메이션 | 확인 못 함 | 상형문자가 새겨진 작은 새 조각을 우편으로 받은 십대 맥스가 모험에 휘말린다. |
+| 1993 | SWAT Kats: The Radical Squadron (경계) | SWAT Kats: The Radical Squadron | Christian Tremblay · Yvon Tremblay | 애니메이션 | 확인 못 함 | 사람 꼴 고양이들의 대도시 메가캣 시티에서 미래형 전투기를 모는 자경단 조종사 둘. |
+| 1993 | Stone Protectors (경계) | Stone Protectors | Marty Isenberg · Robert Skir 외 | 애니메이션 | 확인 못 함 | 트롤 인형 유행을 노린 완구 바탕의 영웅 활극 애니메이션. |
 | 1993 | 광속 사이버 (경계) | モルダイバー | 北爪宏幸, AIC | 애니메이션 | 있음 | 여성 안드로이드 군단으로 골동품을 훔치는 박사를 막으려 말괄량이 소녀가 변신 슈트를 입고 영웅이 된다. |
 | 1993 | 마이트가인 (경계) | 勇者特急マイトガイン | サンライズ | 애니메이션 | 있음 | 도쿄만 위 미래 도시에서 재벌 소년이 아버지가 남긴 인공지능 로봇들과 함께 악당들에 맞선다. |
 | 1993 | 공룡혹성 | 恐竜惑星 | NHK, 古川政美(감독) | 애니메이션 | 확인 못 함 | 가상 현실 속 공룡 시대에 들어간 소녀가, 폭주한 가상 대륙이 낳은 공룡 인류들의 역사 다툼에 휘말린다. |
@@ -4262,10 +6086,15 @@
 | 1993 | 미래영웅 아이언리거 (경계) | 疾風！アイアンリーガー | サンライズ, 아미노 테츠로(감독) | 애니메이션 | 있음 | 로봇 선수 '아이언리거'들이 겨루는 경기 세계에서 약체 팀에 들어온 수수께끼 로봇이 동료를 모은다. |
 | 1993 | 빛돌이 우주 2만리 | 빛돌이 우주 2만리 | SBS, Saban Entertainment | 애니메이션 | 한국 원작 | 제국에 고향 별과 부모를 잃은 소년이 우주선 노틸러스호의 네모 선장에게 구조되어 제국을 무너뜨리러 떠난다. |
 | 1994 | BOUNTY DOG/月面のイブ | BOUNTY DOG/月面のイブ | アニメイトフィルム(감독 根岸弘) | 애니메이션 | 확인 못 함 | 통합력 368년, 기업이 꾸린 첩보 조직 요원들이 달을 쥔 대기업의 비밀 무기 개발을 캐러 달에 간다. |
+| 1994 | Creepy Crawlers (경계) | Creepy Crawlers | Saban Entertainment | 애니메이션 | 확인 못 함 | 천 년 만의 행성 정렬 때 우주 기운을 받은 마술 기계가 사람만 한 벌레 괴물을 만들어 낸다. |
 | 1994 | 전사 골리앗 (경계) | Gargoyles | Walt Disney Television Animation | 애니메이션 | 있음 | 천 년 동안 석상으로 잠든 가고일들이 뉴욕 고층 빌딩 위로 옮겨진 성에서 깨어난다. |
 | 1994 | KEY THE METAL IDOL | KEY THE METAL IDOL | studioぴえろ, 佐藤博暉 | 애니메이션 | 없음 | 자신을 할아버지가 만든 로봇이라 믿는 소녀가 친구 3만 명을 모으면 사람이 된다는 말을 좇아 도쿄로 간다. |
+| 1994 | Monster Force (경계) | Monster Force | Marv Wolfman | 애니메이션 | 확인 못 함 | 먼 미래 2020년, 대학생 여섯과 교수가 첨단 무기로 드라큘라 같은 괴물에 맞선다. |
 | 1994 | Phantom 2040 (경계) | Phantom 2040 | Hearst·France 3 (원작 캐릭터 Lee Falk) | 게임·애니메이션 | 확인 못 함 | 환경 재앙과 자원 전쟁 뒤 2040년, 부자들은 높은 단지에 살고 대중은 거리의 쓰레기로 산다 |
 | 1994 | ReBoot | ReBoot | Mainframe Entertainment | 게임·드라마·애니메이션 | 확인 못 함 | 컴퓨터 안 도시에 사는 프로그램들이 침입한 바이러스와 싸우는 세계 |
+| 1994 | Skeleton Warriors (경계) | Skeleton Warriors | Gary Goddard (Landmark Entertainment) | 애니메이션 | 확인 못 함 | 먼 행성 루미네어, 도시를 밝히는 빛의 수정을 두고 악당 바론 다크와 해골 전사들이 싸운다. |
+| 1994 | Street Sharks (경계) | Street Sharks | Phil Harnage · Martha Moran | 애니메이션 | 확인 못 함 | 유전자를 섞는 기계 '진 슬래머'로 사람과 상어가 섞인 몸이 된 이들이 범죄와 싸운다. |
+| 1994 | The Head | The Head | Eric Fogel | 애니메이션 | 확인 못 함 | 머리가 엄청나게 커진 학생 짐, 그 속에 세상을 구하러 온 작은 보라색 외계인이 산다. |
 | 1994 | 우리는 우주의 탐광부 | おいら宇宙の探鉱夫 | トライアングルスタッフ(감독 飯田馬之介), ケイエスエス(제작) | 애니메이션 | 확인 못 함 | 우주 개발 시대, 소행성에서 광물을 캐는 우주 광부들 사이에서 한 소년이 모험에 휘말린다. |
 | 1994 | 꾸러기 로보컴 | おまかせスクラッパーズ | モンキー・パンチ(원작) | 애니메이션 | 있음 | 생활을 돕는 안드로이드가 흔한 우주 시대, 버려질 처지의 구형 로봇들이 구조대를 꾸린다. |
 | 1994 | 극장판 아미테이지 - 듀얼 매트릭스 | アミテージ・ザ・サード | 越智博之, AIC | 애니메이션 | 일부 | 테라포밍된 화성 도시에서 사람과 똑같은 인조인간 '서드'들이 살해되고, 형사가 사건을 쫓는다. |
@@ -4276,8 +6105,11 @@
 | 1994 | レッドバロン | レッドバロン | 宣弘社(원작), タケガミジュンキ | 드라마·애니메이션 | 있음 | 로봇끼리 겨루는 경기에 나선 떠돌이 조종사와 로봇 주인 소녀가 로봇을 노리는 비밀 결사와 맞선다. |
 | 1994 | 용자경찰 제이데커 | 勇者警察ジェイデッカー | サンライズ(감독 高松信司), 矢立肇(원작) | 애니메이션 | 있음 | 21세기, 경시청의 초 AI 로봇 경찰에 마음이 깃들고, 그 마음을 준 초등학생이 로봇 경찰대장이 된다. |
 | 1994 | 기동무투전 G 건담 | 機動武闘伝Gガンダム | 선라이즈, 이마가와 야스히로 | 애니메이션 | 있음 | 나라들이 전쟁 대신 건담 격투 대회로 지구 위 우주 식민지들의 패권을 다툼 |
+| 1995 | Action Man (경계) | Action Man | Hasbro(완구) · DIC Productions · SIP Anima | 애니메이션 | 확인 못 함 | 완구 영웅 액션맨과 그 뒤를 잇는 십대 무리가 첨단 장비로 악당과 싸운다. |
+| 1995 | Freakazoid! (경계) | Freakazoid! | Bruce Timm · Paul Dini | 애니메이션 | 확인 못 함 | 괴짜 고교생 덱스터 더글러스가 엉뚱한 영웅 프리커조이드로 변해 범죄와 싸운다. |
 | 1995 | Memories | Memories | 大友克洋(원작·총괄) · Kōji Morimoto · Tensai Oka | 애니메이션 | 확인 못 함 | 깊은 우주의 폐 정거장에 홀린 인양선원, 몸에서 독가스를 뿜게 된 제약회사 직원, 대포를 쏘며 사는 도시. |
 | 1995 | On Your Mark | On Your Mark | 宮崎駿(감독), スタジオジブリ | 애니메이션 | 확인 못 함 | 오존층이 깨지고 원자력 사고로 땅이 더럽혀져, 사람들이 지하 도시에 사는 미래가 무대인 짧은 영상. |
+| 1995 | Pinky and the Brain | Pinky and the Brain | Tom Ruegger | 애니메이션 | 확인 못 함 | 유전자를 손본 실험실 쥐 둘이 늘 세계 정복을 꾀한다. |
 | 1995 | 하늘의 용사 스카이서퍼 (경계) | Skysurfer Strike Force | Ruby-Spears, 葦プロダクション | 애니메이션 | 있음 | 아버지를 해친 사이보그 악당 무리에 맞서 하늘을 나는 판을 탄 젊은이들이 싸운다. |
 | 1995 | 사우루스 팡팡 (경계) | 恐竜冒険記ジュラトリッパー | 葦プロダクション(감독 湯山邦彦) | 애니메이션 | 있음 | 공룡이 사는 다른 세계에 떨어진 소년 소녀 열다섯 명이, 돌아갈 길을 찾아 힘을 모은다. |
 | 1995 | 戦ー少女イクセリオン | 戦ー少女イクセリオン | AIC(감독 平野俊弘) | 애니메이션 | 확인 못 함 | 문명 행성을 돌며 침략하는 기계 생명체에 맞서, 지구에서 뽑힌 소녀 넷이 작은 로봇을 무장 삼아 싸운다. |
@@ -4289,7 +6121,14 @@
 | 1995 | 闘魔鬼神伝ONI (경계) | 闘魔鬼神伝ONI | J.C.STAFF | 애니메이션 | 확인 못 함 | 출생률이 무너진 먼 미래의 인류가 과거로 가 '나쁜 유전자'를 지우려 하고, 괴력의 산골 소년들이 막는다. |
 | 1995 | 飛べ!イサミ (경계) | 飛べ!イサミ | グループ・タック, 杉井ギサブロー | 애니메이션 | 확인 못 함 | 신센구미 후손인 세 아이가 비밀 기지와 빛나는 검을 찾아내 세계 정복을 노리는 악당과 맞선다. |
 | 1995 | 黄金勇者ゴルドラン (경계) | 黄金勇者ゴルドラン | 야타테 하지메, 타카라(원작), 타카마츠 신지(감독) | 애니메이션 | 있음 | 잊힌 황금향을 찾는 소년들이 전설의 돌에서 깨어난 로봇 용자들과 우주를 누빈다. |
+| 1996 | Bureau of Alien Detectors | Bureau of Alien Detectors | Eric Lewald · Julia Lewald (Saban) | 애니메이션 | 확인 못 함 | 외계인 탐지국의 팔랑크스 분대가 지구에 숨어든 외계인을 쫓는다. |
+| 1996 | Captain Simian & the Space Monkeys | Captain Simian & the Space Monkeys | Gordon Bressack | 애니메이션 | 확인 못 함 | 1960년대 원숭이 우주 비행 때 궤도를 벗어난 침팬지 찰스가 먼 우주에서 다시 발견된다. |
 | 1996 | 덱스터의 실험실 (경계) | Dexter's Laboratory | Genndy Tartakovsky | 애니메이션 | 있음 | 천재 초등학생 발명가가 집 지하에 몰래 지은 거대 실험실을 누나가 번번이 쑥대밭으로 만든다. |
+| 1996 | Dragon Flyz (경계) | Dragon Flyz | Savin Yeatman (Gaumont Multimedia) | 애니메이션 | 확인 못 함 | 핵전쟁 같은 대재앙으로 땅 위가 용암 벌판이 된 41세기, 용을 탄 구조대. |
+| 1996 | Les Kikekoi (경계) | Les Kikekoi | Natalie Altmann · Vincent Chalvon-Demers | 애니메이션 | 확인 못 함 | 사반이 만든 어린이 교양 공상 과학 희극 애니메이션. |
+| 1996 | Mighty Ducks: The Animated Series (경계) | Mighty Ducks: The Animated Series | Marty Isenberg · Robert N. Skir · David  | 애니메이션 | 확인 못 함 | 다른 우주의 얼음 행성 '퍽월드'에 사는 사람 꼴 오리들이 지구로 와 싸우는 활극. |
+| 1996 | Project G.e.e.K.e.R. | Project G.e.e.K.e.R. | Douglas TenNapel · Doug Langdale | 애니메이션 | 확인 못 함 | 몰록 사가 만든, 모양을 바꾸는 인공 존재 '프로젝트 기커'의 활극. |
+| 1996 | Road Rovers (경계) | Road Rovers | Tom Ruegger · Jeff Gordon | 애니메이션 | 확인 못 함 | 교수의 기계로 사람 꼴이 된 개 다섯이 개를 괴물로 바꾸는 파보 장군과 싸운다. |
 | 1996 | YAT安心!宇宙旅行 | YAT安心!宇宙旅行 | 西川伸司(원안), グループ・タック | 애니메이션 | 있음 | 실수로 우주에 나간 소년이 망하기 직전의 우주 여행사에서 일하며 행방불명된 아버지를 찾는다. |
 | 1996 | 용자지령 다그온 | 勇者指令ダグオン | サンライズ(감독 望月智充), 矢立肇(원작) | 애니메이션 | 있음 | 우주 감옥을 점령한 죄수들이 별 사냥에 나서 지구를 노리자, 우주 경찰에게 힘을 받은 고교생 다섯이 맞선다. |
 | 1996 | 천공의 에스카플로네 (경계) | 天空のエスカフローネ | サンライズ, 河森正治(원안) | 만화·애니메이션·영화 | 있음 | 지구가 하늘에 뜬 다른 세계 가이아로 끌려간 여고생이 왕자와 함께 기계 거인 전쟁에 휘말린다. |
@@ -4297,7 +6136,12 @@
 | 1996 | 기동신세기 건담 X | 機動新世紀ガンダムX | 선라이즈, 타카마츠 신지 | 애니메이션 | 있음 | 식민지를 떨어뜨린 전쟁으로 인류 대부분이 죽은 뒤 15년, 폐허를 떠도는 소년 |
 | 1996 | 銀河帝国の滅亡・外伝 蒼き狼たちの伝説 | 銀河帝国の滅亡・外伝 蒼き狼たちの伝説 | フェニックス・エンタテインメント(감독 浦田保則) | 애니메이션 | 확인 못 함 | 2199년, 태양계로 퍼진 인류가 외계 지성체에 연패하자, 특별한 힘의 사관 후보생이 명왕성 전선에 간다. |
 | 1997 | AIKa | AIKa | スタジオ・ファンタジア(감독 西島克彦) | 만화·애니메이션 | 확인 못 함 | 2016년 대지진으로 땅이 잠긴 20년 뒤, 바다 밑 유산을 건지는 여성이 문명을 쓸어 내려는 자와 맞선다. |
+| 1997 | Captain Star | Captain Star | Steven Appleby | 만화·애니메이션 | 확인 못 함 | 로켓선 '보일링 헬'의 승무원들이 우주 끝 '이름 없는 행성'으로 가라는 명령을 받는다. |
+| 1997 | Freaky Stories (경계) | Freaky Stories | Steve Schnier | 애니메이션 | 확인 못 함 | 바퀴벌레 인형 래리가 진행하는 도시 전설 애니메이션 선집. |
+| 1997 | Kitu and Woofl | Kitu and Woofl | Kate Henderson | 애니메이션 | 확인 못 함 | 다른 별에 사는 장난꾸러기 작은 외계인 키투와 영리한 개 우플의 모험. |
+| 1997 | Les Zinzins de l'Espace | Les Zinzins de l'Espace | Jean-Yves Raimbaud · Philippe Traversat  | 게임·애니메이션 | 확인 못 함 | 소풍 길에 소행성에 부딪혀 지구에 떨어진 행성 지그마 B의 외계인 다섯이 사람 눈을 피해 산다. |
 | 1997 | Spicy City | Spicy City | Ralph Bakshi | 애니메이션 | 확인 못 함 | 밤 업소 안주인이 여는 미래 도시의 어른용 SF 단편 모음 |
+| 1997 | The Prince of Atlantis (경계) | The Prince of Atlantis | Jacques Peyrache | 애니메이션 | 확인 못 함 | 버뮤다 삼각지대 바닷속 아틀란티스의 마지막 왕자가 옛 지식과 기술로 바다를 지킨다. |
 | 1997 | アニメがんばれゴエモン (경계) | アニメがんばれゴエモン | トランス・アーツ(감독 谷田部勝義) | 애니메이션 | 확인 못 함 | 게임 속 악마가 전자 터널로 악당을 사람 세상에 보내자, 닌자 고에몬 일행이 소년 집에 묵으며 맞선다. |
 | 1997 | ウルトラニャン (경계) | ウルトラニャン | トライアングルスタッフ(감독 ときたひろこ) | 애니메이션 | 확인 못 함 | 별하늘에서 내려온 신기한 고양이가 사람들 곁에서 소동을 벌인다. |
 | 1997 | ネクスト戦記EHRGEIZ | ネクスト戦記EHRGEIZ | スタジオディーン(감독 川瀬敏文) | 애니메이션 | 확인 못 함 | 폐허 식민지에 사는 우주 해적 청년들이, 최신 무인 병기를 두고 삼파전을 벌이는 군대들의 싸움에 얽힌다. |
@@ -4314,8 +6158,14 @@
 | 1997 | 녹색전차 해모수 | 녹색전차 해모수 | KBS 기획, 대원동화·금강기획 | 애니메이션 | 한국 원작 | 큰 전쟁으로 황폐해진 행성에서 소년이 탐사 전차를 타고 별을 살릴 결정을 찾는다 |
 | 1997 | 영혼기병 라젠카 | 영혼기병 라젠카 | 투니버스·코코엔터프라이즈 기획, 서울무비·로또기획 제작 | 게임·만화·애니메이션 | 한국 원작 | 22세기 핵전쟁 뒤 지구에서 인류 도시와 땅속 생명체가 부딪치고, 옛 기계 병사가 깨어난다 |
 | 1998 | AWOL -Absent Without Leave- | AWOL -Absent Without Leave- | スタジオディーン | 애니메이션 | 확인 못 함 | 테러 조직이 행성 파괴 미사일을 빼앗아 연합 정부를 위협하자, 물러났던 특수 부대 교관이 다시 나선다. |
+| 1998 | Brats of the Lost Nebula | Brats of the Lost Nebula | Dan Clark | 애니메이션 | 확인 못 함 | 전쟁에 휩쓸린 여러 행성의 고아 다섯이 살아남은 가족을 찾으며 침략군에 맞선다. |
 | 1998 | Bビーダマン爆外伝 (경계) | Bビーダマン爆外伝 | マッドハウス, タカラ·ハドソン(원안) | 애니메이션 | 확인 못 함 | 봄버맨 꼴의 구슬 쏘는 전사들이 사는 태양계에서, 천 년 전 왕국의 후예들이 악의 세력과 겨룬다. |
 | 1998 | DT 에이트론 | DTエイトロン | サンライズ(감독 アミノテツロー) | 애니메이션 | 확인 못 함 | 2187년, 자외선에 타 버린 땅 위 돔 도시에서 감정을 눌린 채 일하던 아이들이 바다를 찾아 달아난다. |
+| 1998 | Invasion America | Invasion America | Steven Spielberg · Harve Bennett | 애니메이션 | 확인 못 함 | 1980년대 초, 행성 타이러스의 사람 닮은 외계인들이 지구와 접촉하려는 계획을 세운다. |
+| 1998 | Le Magicien (경계) | Le Magicien | Florian Ferrier · Savin Yeatman · Gilles | 애니메이션 | 확인 못 함 | 과학 기술이 사회를 바꾼 3천 년대의 일렉트로 시티, 범죄 조직에 맞서는 마술사 영웅. |
+| 1998 | Rolie Polie Olie | Rolie Polie Olie | William Joyce | 애니메이션 | 확인 못 함 | 도형으로 이뤄진 행성 폴리, 주전자 모양 집에 사는 폴리 가족의 복고풍 미래 이야기. |
+| 1998 | Shadow Raiders | Shadow Raiders | Len Wein · Dan DiDio | 애니메이션 | 확인 못 함 | 자원을 두고 늘 서로 약탈하는 네 행성이 있는 다섯 행성 별계 '클러스터'. |
+| 1998 | The Powerpuff Girls (경계) | The Powerpuff Girls | Craig McCracken | 애니메이션 | 확인 못 함 | 과학자 유토니움 교수가 만든 초능력 유치원생 세 자매가 타운즈빌을 지킨다. |
 | 1998 | VISITOR | VISITOR | 徳田淳(감독), コム・エヌティー | 애니메이션 | 확인 못 함 | 2099년 화성의 위성을 삼킨 거대 생명체가 지구로 오고, 국제 우주군에 파견된 회사원 두 사람이 맞선다. |
 | 1998 | 시리얼 익스페리먼츠 레인 | serial experiments lain | 트라이앵글 스태프, 나카무라 류타로·코나카 치아키 | 게임·애니메이션 | 있음 | 통신망이 현실과 겹치기 시작한 세상에서 망 속의 자신을 마주한 소녀 |
 | 1998 | 아키하바라 전뇌조 (경계) | アキハバラ電脳組 | 葦プロダクション(감독 ふじもとよしたか), Production I.G(제작 | 만화·애니메이션 | 확인 못 함 | 2010년 아키하바라, 소녀들의 전자 애완 로봇이 싸우는 기계 여신으로 바뀌어 수수께끼 적과 맞선다. |
@@ -4330,10 +6180,20 @@
 | 1998 | 발명BOY 카니팡 | 発明BOYカニパン | スタジオコメット(감독 石踊宏), ビー・ネット·えん(원작) | 애니메이션 | 확인 못 함 | 사람과 로봇이 한가롭게 함께 사는 인공 행성에서, 발명가 지망 소년이 면허를 따려 애쓴다. |
 | 1998 | 초기동전설 다이나기가 (경계) | 超機動伝説ダイナギガ | スタジオディーン, 土井武志 | 애니메이션 | 있음 | 미래의 로봇 면허 교습소에서 덜렁이 여고생이 수수께끼 거대 로봇에 맞서 로봇에 탄다. |
 | 1998 | 바이오캅 윙고 (경계) | 바이오캅 윙고 | 주성윤·양선모(원작 만화), 링크엔터프라이즈·삼성영상사업단(애니메이션) | 만화·애니메이션 | 한국 원작 | 광물로 번성했다가 공해로 괴물이 들끓게 된 행성 에코스타에 천계의 사자 윙고가 내려온다. |
+| 1999 | Archie's Weird Mysteries (경계) | Archie's Weird Mysteries | Jymn Magon · Brian Swenlin · Michael Pat | 애니메이션 | 확인 못 함 | 고교 물리 실험실 사고로 리버데일이 옛 괴물 영화 같은 괴물을 끌어들이는 마을이 된다. |
 | 1999 | Batman Beyond (경계) | Batman Beyond | Paul Dini, Bruce Timm, Alan Burnett (War | 만화·애니메이션 | 확인 못 함 | 배트맨 이야기를 잇는 사이버펑크 미래편 애니메이션 |
+| 1999 | Courage the Cowardly Dog (경계) | Courage the Cowardly Dog | John R. Dilworth | 애니메이션 | 확인 못 함 | 캔자스의 외딴 '아무 데도 아닌 곳'에서 노부부와 사는 겁 많은 개가 기이한 일에서 둘을 지킨다. |
 | 1999 | Di Gi Charat (경계) | Di Gi Charat | コゲどんぼ(캐릭터 원작), ブロッコリー(기획), マッドハウス(감독 桜井弘 | 만화·애니메이션 | 확인 못 함 | 데 지 캐럿 별의 공주가 지구로 건너와 아키하바라의 게임 가게에서 일하며 소동을 벌인다. |
 | 1999 | 퓨쳐라마 | Futurama | Matt Groening, David X. Cohen | 게임·만화·애니메이션 | 있음 | 천 년 동안 얼어 있다 깨어난 배달부가 일하는 31세기 뉴욕 |
+| 1999 | Lavender Castle (경계) | Lavender Castle | Rodney Matthews · Gerry Anderson | 애니메이션 | 확인 못 함 | 우주의 중심인 떠다니는 빛의 도시를 악한 과학자 아곤보다 먼저 찾으려는 스라이스 선장. |
+| 1999 | Mega Babies (경계) | Mega Babies | Christian Tremblay · Yvon Tremblay | 애니메이션 | 확인 못 함 | 괴물과 외계인에 맞서는 돌연변이 아기 셋의 지저분한 희극. |
+| 1999 | NASCAR Racers | NASCAR Racers | Mark Edens (Saban Entertainment) | 애니메이션 | 확인 못 함 | 미래의 무제한 경주 부문에서 두 경쟁 팀이 온갖 길을 달리며 겨룬다. |
+| 1999 | Rayman: The Animated Series (경계) | Rayman: The Animated Series | Jonathan Greenberg (원작 Michel Ancel) | 애니메이션 | 확인 못 함 | 포악한 단장이 부리는 은하 서커스의 공연자들 곁에 레이맨이 끌려온다. |
+| 1999 | Roswell Conspiracies: Aliens, Myths and Legends | Roswell Conspiracies: Aliens, Myths and Legends | Kaaren Lee Brown | 애니메이션 | 확인 못 함 | 외계인이 오래전부터 사람 사이에 살며 여러 괴물 전설의 뿌리가 되었다는 세계. |
+| 1999 | Sherlock Holmes in the 22nd Century | Sherlock Holmes in the 22nd Century | Sandy Ross (개발 Phil Harnage) | 애니메이션 | 확인 못 함 | 2103년 뉴 런던, 22세기에 되살아난 셜록 홈스가 레스트레이드 경감과 사건을 푼다. |
 | 1999 | 빅오 | THEビッグオー | 선라이즈, 카타야마 카즈요시·코나카 치아키 | 애니메이션 | 있음 | 40년 전 기억을 모두 잃은 돔 도시에서 거대 로봇을 모는 협상가 |
+| 1999 | The Brothers Flub | The Brothers Flub | David Burke · Laslo Nosek | 애니메이션 | 확인 못 함 | 택배원인 외계인 형제 과포와 프라즈가 편마다 다른 행성으로 소포를 나른다. |
+| 1999 | Xyber 9: New Dawn | Xyber 9: New Dawn | Eric Luke | 애니메이션 | 확인 못 함 | 찬란한 세계가 무너진 뒤 전쟁 중인 미래 땅 테라나, 고아 소년 잭이 '선택받은 자'가 된다. |
 | 1999 | 턴에이 건담 | ∀ガンダム | 선라이즈, 토미노 요시유키 | 애니메이션 | 있음 | 모든 기술이 묻힌 먼 미래, 달에서 돌아온 사람들과 산업 시대 지구 사람들이 만남 |
 | 1999 | 테나몬야 보이저스 | てなもんやボイジャーズ | スタジオぴえろ(감독 新房昭之), 月村了衛(원작) | 애니메이션 | 확인 못 함 | 우주 저편 고등학교에 취직했다 학교가 망한 교사 지망생이, 야쿠자 일행과 지구로 돌아가는 길에 오른다. |
 | 1999 | 건드레스 | ガンドレス | 谷田部勝義(감독), 天沢彰(원작), スタジオジュニオ | 소설·애니메이션 | 있음 | 두 번의 지진에서 다시 일어선 2100년 요코하마, 강화복을 입은 여성 경비 부대가 테러에 맞선다. |
@@ -4349,6 +6209,7 @@
 | 1999 | 무한의 리바이어스 | 無限のリヴァイアス | 선라이즈, 타니구치 고로 | 애니메이션 | 있음 | 사고로 낯선 거대 우주선에 갇힌 수백 명의 학생이 스스로 질서를 만들다 무너짐 |
 | 1999 | 神八剣伝 | 神八剣伝 | 平野靖士, 矢田部勝義 | 애니메이션 | 없음 | 운석 충돌을 앞두고 지구를 떠난 지 100만 년, 떠돌던 우주 거주선 선단이 여덟 위성 성계에 이른다. |
 | 1999 | 나나코 해체진서 | 菜々子解体診書 | Save our Nurse Project(원작), RADIX(감독 ねぎし | 애니메이션 | 확인 못 함 | 빚 때문에 몸 108곳을 천재 외과의에게 저당 잡힌 견습 간호사를, 의사는 자기 로봇에 이식하려 한다. |
+| 1999 | 蓝猫淘气3000问 (경계) | 蓝猫淘气3000问 | Hunan Sunchime Happy Culture(제작) | 애니메이션 | 확인 못 함 | 호기심 많은 파란 고양이가 상상으로 어느 시대든 찾아가며 과학을 알려 주는 대형 애니메이션. |
 | 1999 | 課長王子 | 課長王子 | 林宏樹, 菊地康仁 | 애니메이션 | 확인 못 함 | 기타리스트 출신의 보잘것없는 회사원이 우주 전쟁의 열쇠를 쥔 존재가 되어 버린다. |
 | 1999 | 超神姫ダンガイザー3 | 超神姫ダンガイザー3 | 大張正己, 青樹零夢 | 애니메이션 | 확인 못 함 | 근미래 도시 네오 홍콩, 초능력자 비밀 조직에 맞서 소녀가 인간형 병기와 이어진 무녀로 깨어난다. |
 | 1999 | 마장기신 사이버스터 | 魔装機神サイバスター | 葦プロダクション(감독 うえだひでひと) | 애니메이션 | 확인 못 함 | 2040년, 대지진과 환경 파괴로 무너진 도쿄에 정체 모를 거대 로봇이 나타나고 환경 연구소가 무장한다. |
@@ -4358,9 +6219,12 @@
 | 2000 | Argaï : La prophétie (경계) | Argaï : La prophétie | Jean-César Suchorski | 애니메이션 | 확인 못 함 | 1250년과 2075년을 오가며, 젊은 여자들의 젊음을 훔치는 검은 여왕에게서 약혼녀를 구하려는 왕자 |
 | 2000 | BRIGADOON まりんとメラン | BRIGADOON まりんとメラン | サンライズ, 米たにヨシトモ | 애니메이션 | 확인 못 함 | 가상의 1970년대 일본 하늘에 다른 세계가 나타나고, 괴물과 외계 존재 사이에 소녀가 끼어든다. |
 | 2000 | 우주전사 버즈 (경계) | Buzz Lightyear of Star Command | Walt Disney Television Animation, Pixar | 애니메이션 | 있음 | 토이 스토리의 극중 만화 속 우주 특공대가 저그 황제와 악당들로부터 우주를 지킨다. |
+| 2000 | Chris Colorado | Chris Colorado | Thibaut Chatel · Franck Bertrand · Jacqu | 애니메이션 | 확인 못 함 | 운석이 거의 모든 생명을 쓸어 낸 뒤 세운 세계 연방을 독재자 타나토스가 위협한다. |
 | 2000 | 기어 파이터 샤이닝 (경계) | GEAR戦士電童 | サンライズ, 후쿠다 미츠오(감독) | 애니메이션 | 있음 | 미래의 지구에 외계 기계 제국 가르파가 쳐들어오자, 깨어난 거대 로봇이 두 소년을 태우고 맞선다. |
 | 2000 | HAND MAID メイ | HAND MAID メイ | TNK(감독 木村真一郎) | 만화·소설·애니메이션 | 확인 못 함 | 생각하는 로봇을 꿈꾸는 대학생에게 사람 6분의 1 크기의 메이드 로봇이 배달되어 함께 산다. |
 | 2000 | MEZZO FORTE (경계) | MEZZO FORTE | 梅津泰臣 | 애니메이션 | 있음 | 범죄가 일상이 된 근미래 일본에서 위험한 일만 대행하는 3인조 회사가 의뢰를 맡는다. |
+| 2000 | Nick & Perry | Nick & Perry | Udo Beissel | 애니메이션 | 확인 못 함 | 행성 도그마스에서 떨어진 외계 개 둘이 들키지 않으려 보통 개인 척 산다. |
+| 2000 | Starship Regulars | Starship Regulars | Rob LaZebnik | 애니메이션 | 확인 못 함 | 24세기 거대 연방 우주선 인테그리티의 승무원들을 비튼 희극. |
 | 2000 | The AURORA 海のオーロラ | The AURORA 海のオーロラ | 日本テレビ(제작), 菅野嘉則(감독) | 애니메이션 | 확인 못 함 | 2033년 해저 자원 굴착이 맨틀 속 태고의 세균을 깨우고, 금속을 녹이는 그 세균이 배들을 덮친다. |
 | 2000 | 타이탄 A.E. | Titan A.E. | Don Bluth, Gary Goldman (20th Century Fo | 애니메이션 | 있음 | 외계 종족이 지구를 날려 버린 뒤 떠돌이가 된 인류와 새 행성을 만드는 배 |
 | 2000 | 아르젠토 소마 | アルジェントソーマ | 片山一良, サンライズ | 애니메이션 | 있음 | 하늘에서 내려오는 외계 존재와 싸우는 비밀 조직에, 연인을 잃은 청년이 이름을 바꿔 숨어든다. |
@@ -4373,13 +6237,21 @@
 | 2000 | 가이스터즈 | 가이스터즈 | 장종근, 프레임 엔터테인먼트 | 애니메이션 | 한국 원작 | 2280년 혜성과 부딪친 지구에서 달로 피한 이들과 남겨진 이들, 그 사이에서 생겨난 생명체가 얽힌다. |
 | 2000 | 트랙시티 (경계) | 트랙시티 | SBS, 손오공 | 애니메이션 | 한국 원작 | 한 해커가 만든 컴퓨터 바이러스가 컴퓨터 속 세상을 부수기 시작한다. |
 | 2001 | 아틀란티스: 잃어버린 제국 (경계) | Atlantis: The Lost Empire | Gary Trousdale, Kirk Wise (Disney) | 게임·애니메이션 | 있음 | 1914년 탐험대가 바다 밑에서 빛나는 결정의 힘으로 사는 옛 문명을 찾아낸다 |
+| 2001 | Butt-Ugly Martians | Butt-Ugly Martians | Michael Train | 애니메이션 | 확인 못 함 | 황제 보그의 명령으로 지구를 침공하러 온 화성인들이 그만 미국 문화에 푹 빠져 버린다. |
 | 2001 | Cosmic Baton Girl コメットさん☆ (경계) | Cosmic Baton Girl コメットさん☆ | 日本アニメーション(감독 神戸守) | 애니메이션 | 확인 못 함 | 먼 별 왕국의 공주가 사라진 왕자를 찾는다는 핑계로 지구에 와서 한 집에 얹혀 지낸다. |
+| 2001 | Defensor 5: la última patrulla | Defensor 5: la última patrulla | Emilio Aragón (Anima2) | 애니메이션 | 확인 못 함 | 3차 대전으로 도시가 아스팔트 사막이 된 지구를 방위 전문가 다섯이 지킨다. |
+| 2001 | Evil Con Carne | Evil Con Carne | Maxwell Atoms | 애니메이션 | 확인 못 함 | 폭발로 뇌와 위만 남은 범죄 두목이 서커스 곰의 몸에 붙어 세계 정복을 꾀한다. |
 | 2001 | Final Fantasy: The Spirits Within | Final Fantasy: The Spirits Within | Hironobu Sakaguchi | 애니메이션 | 확인 못 함 | 2065년 생명의 기운을 빨아 먹는 외계 존재 '팬텀'이 지구를 덮고, 과학자가 맞설 여덟 기운을 모은다. |
 | 2001 | 우주 스파이 짐 | Invader Zim | Jhonen Vasquez (Nickelodeon) | 게임·만화·애니메이션 | 있음 | 정복 제국이 쫓아내듯 보낸 외계 침략자가 지구 정복을 꾀하는 우스개 |
 | 2001 | Jimmy Neutron: Boy Genius | Jimmy Neutron: Boy Genius | John A. Davis | 애니메이션 | 확인 못 함 | 꼬마 천재가 띄운 통신 위성을 본 외계인이 마을 어른들을 잡아가자, 아이들이 로켓을 몰고 구하러 간다. |
+| 2001 | Lloyd in Space | Lloyd in Space | Joe Ansolabehere · Paul Germain | 애니메이션 | 확인 못 함 | 인트레피드빌 우주 정거장에 사는 초록 피부 외계 소년 로이드와 가족. |
 | 2001 | RUN=DIM | RUN=DIM | アイディアファクトリー, Digital Dream Studios(한국),  | 게임·애니메이션 | 확인 못 함 | 우주 개발을 다투는 일본 민간 군사 조직과 다국적 기업이, 능력을 높인 아이들을 로봇에 태워 싸운다. |
 | 2001 | Samurai Jack (경계) | Samurai Jack | Genndy Tartakovsky (Cartoon Network) | 게임·만화·애니메이션 | 있음 | 악마가 다스리는 먼 미래로 내던져진 사무라이가 과거로 돌아갈 길을 찾는다 |
+| 2001 | The Fairly OddParents (경계) | The Fairly OddParents | Butch Hartman | 드라마·애니메이션·영화 | 확인 못 함 | 소원을 들어주는 요정 대부모를 둔 소년의 소원이 늘 일을 꼬이게 하는 희극. |
+| 2001 | The Ripping Friends (경계) | The Ripping Friends | John Kricfalusi | 애니메이션 | 확인 못 함 | 근육질 초인 형제 넷이 기지에서 범죄와 싸우는 과장된 희극. |
 | 2001 | The Soul Taker 〜魂狩〜 (경계) | The Soul Taker 〜魂狩〜 | タツノコプロ(감독 新房昭之) | 애니메이션 | 확인 못 함 | 어머니에게 찔려 죽었다 살아난 청년이, 거대 기업과 돌연변이 조직이 노리는 '분신'의 비밀에 휘말린다. |
+| 2001 | Time Squad | Time Squad | Dave Wasson | 애니메이션 | 확인 못 함 | 서기 1억 년, 지구 궤도 위성의 어설픈 시간 경찰 셋이 뒤틀린 역사를 바로잡는다. |
+| 2001 | Tiny Planets | Tiny Planets | Nina Elias-Bamberger (구상 Ed Taylor) | 애니메이션 | 확인 못 함 | 작은 우주 한가운데 북쪽 행성에 사는 외계인 탐험가 빙과 봉이 작은 행성들을 돈다. |
 | 2001 | i-wish you were here- | i-wish you were here- | GONZO(감독 水島精二) | 애니메이션 | 확인 못 함 | 사람을 괴물로 바꾸는 우주 바이러스가 퍼진 세상, 감염자를 없애는 강화병 청년이 수수께끼 소녀를 만난다. |
 | 2001 | シックス・エンジェルズ | シックス・エンジェルズ | 小林誠(총감독), 秋元康(제작 총지휘) | 애니메이션 | 확인 못 함 | 2026년 민간 경비 회사 소녀들이 옛 핵실험장 터의 거대 지하 감옥에 떨어져 그곳 지배자의 음모와 싸운다. |
 | 2001 | ジーンシャフト | ジーンシャフト | 赤根和樹 (아카네 가즈키), 반다이 비주얼 | 애니메이션 | 확인 못 함 | 유전자 기술이 사회를 정하고 전체주의 지구 정부가 모든 출생과 유전자를 쥔 우주 시대 |
@@ -4398,12 +6270,21 @@
 | 2001 | 큐빅스 | 큐빅스 | 씨네픽스 (대원미디어·4Kids Entertainment 참여) | 애니메이션 | 한국 원작 | 2040년 무렵 로봇과 사람이 함께 사는 시험 마을에서 소년과 로봇이 악당과 맞선다 |
 | 2001 | 탱구와 울라숑 (경계) | 탱구와 울라숑 | 김광태(총감독), 서울무비 | 애니메이션 | 한국 원작 | 볼 보이 출신 소년과 돼지치기 출신 로봇이 한 팀이 되어 악의 다콘 제국 로봇들과 싸운다. |
 | 2002 | .hack//SIGN | .hack//SIGN | 사이버커넥트2·반다이, 비 트레인(애니메이션) | 게임·만화·소설·애니메이션 | 있음 | 온라인 게임 '더 월드'에 들어간 채 나오지 못하는 사람들과 게임 속에 생긴 인공지능 |
+| 2002 | Allô la Terre, ici les Martin | Allô la Terre, ici les Martin | Claude Lerist · Léon Nöel | 애니메이션 | 확인 못 함 | 실수로 뽑힌 가장 조지 마틴이 비밀 궤도 정거장의 책임자가 되어 가족과 그곳에 산다. |
+| 2002 | Clone High | Clone High | Phil Lord · Christopher Miller · Bill La | 애니메이션 | 확인 못 함 | 역사 위인들의 복제인간만 다니는 고등학교 — 실은 정부의 비밀 군사 실험. |
+| 2002 | Cyberchase | Cyberchase | Sandra Sheppard | 애니메이션 | 확인 못 함 | 지구 아이 셋이 디지털 우주 '사이버공간'으로 불려 가 악당 해커에게서 그곳을 지킨다. |
 | 2002 | G-onらいだーす (경계) | G-onらいだーす | TNK, シャフト | 애니메이션 | 확인 못 함 | 쇼와 119년, 끊이지 않는 외계인 공격에 맞서 소녀들이 지구 방위대로 모인다. |
+| 2002 | Kim Possible (경계) | Kim Possible | Bob Schooley · Mark McCorkle | 애니메이션 | 확인 못 함 | 평범한 고교생으로 살면서 틈틈이 세상을 구하는 킴 파서블의 활극. |
 | 2002 | 릴로 & 스티치 | Lilo & Stitch | Chris Sanders, Dean DeBlois (Disney) | 게임·만화·애니메이션·영화 | 있음 | 은하 연합에서 달아난 유전자 실험체 외계 생물이 하와이 소녀의 가족이 된다 |
+| 2002 | Malo Korrigan et les Traceurs de l'espace | Malo Korrigan et les Traceurs de l'espace | Eric Paul Marais (Futurikon) | 애니메이션 | 확인 못 함 | 수백 년 은하 전쟁 끝에 200개 넘는 행성이 연맹을 맺은 우주, 평화를 지키는 추적자들. |
+| 2002 | Moville Mysteries (경계) | Moville Mysteries | Guy Vasilovich (Nelvana) | 애니메이션 | 확인 못 함 | 초자연적이고 기이한 일이 날마다 생기는 마을의 고교생 모가 수수께끼를 쫓는다. |
 | 2002 | 오버맨 킹게이너 | OVERMANキングゲイナー | 선라이즈, 토미노 요시유키 | 애니메이션 | 있음 | 망가진 지구에서 돔 도시에 묶여 살던 사람들이 도시를 버리고 떠나는 대이동 |
+| 2002 | RoboRoach | RoboRoach | J.D. Smith · Lila Rose · Carolyn Hay | 애니메이션 | 확인 못 함 | 전기 콘센트에 뛰어들었다가 로봇 바퀴벌레가 된 바퀴벌레 루벤. |
 | 2002 | TAMALA 2010: A Punk Cat in Space | TAMALA 2010: A Punk Cat in Space | t.o.L (trees of Life) | 애니메이션 | 확인 못 함 | 광고가 뒤덮은 '고양이 지구'의 펑크 고양이가 고향 오리온으로 날아가다, 우편 회사로 숨은 교단과 얽힌다. |
 | 2002 | TRAVA FIST PLANET | TRAVA FIST PLANET | 小池健·石井克人(감독), マッドハウス | 애니메이션 | 확인 못 함 | 우주 격투 대회 참가비를 벌던 두 사내가 기억을 지운 미녀를 구하고, 수상하게 보수가 큰 행성 일을 맡는다. |
+| 2002 | Teamo Supremo (경계) | Teamo Supremo | Phil Walsh | 애니메이션 | 확인 못 함 | 초등학생 영웅 셋이 갖가지 악당에게서 자기 주를 지킨다. |
 | 2002 | 보물성 | Treasure Planet | Ron Clements, John Musker (Disney) | 게임·애니메이션 | 있음 | 돛단배가 우주 바람을 타고 다니는 우주에서 전설의 보물 행성을 찾는 모험 |
+| 2002 | Whatever Happened to... Robot Jones? | Whatever Happened to... Robot Jones? | Greg Miller | 애니메이션 | 확인 못 함 | 1980년대 초 교외 중학교에 다니며 사람을 배우는 어린 로봇 존스. |
 | 2002 | Witch Hunter ROBIN (경계) | Witch Hunter ROBIN | サンライズ(감독 村瀬修功) | 애니메이션 | 확인 못 함 | 핏줄로 이어지는 초능력자 '위치'를 잡는 조직에, 불을 다루는 열다섯 살 소녀가 새 요원으로 온다. |
 | 2002 | おねがい☆ティーチャー (경계) | おねがい☆ティーチャー | 이데 야스노리(감독), 도우무 | 애니메이션 | 있음 | 성장이 멈추는 병을 앓는 소년의 반에 외계에서 온 지구 감시원이 담임으로 부임한다. |
 | 2002 | 별의 목소리 | ほしのこえ | 신카이 마코토 | 애니메이션 | 있음 | 외계인과 싸우러 멀리 갈수록 휴대 전화 문자가 몇 년씩 늦게 닿는 두 사람 |
@@ -4417,6 +6298,7 @@
 | 2002 | ボンバーマンジェッターズ | ボンバーマンジェッターズ | スタジオディーン(감독 小寺勝之), ハドソン(원안) | 게임·만화·애니메이션 | 확인 못 함 | 봄버 별의 견습 봄버맨이 행방불명된 형의 뒤를 이어 우주 자경단에 들어가, 우주 도적단과 맞선다. |
 | 2002 | 라제폰 | ラーゼフォン | 본즈, 이즈부치 유타카 | 애니메이션 | 있음 | 시간이 다르게 흐르는 막에 갇힌 도쿄에서 깨어난 소년과 소리를 내는 거신 |
 | 2002 | 奇鋼仙女ロウラン | 奇鋼仙女ロウラン | 平野俊弘 | 애니메이션 | 확인 못 함 | 일본을 그림자에서 조종해 온 악의 조직과 비밀 부대가 괴수와 거대 로봇으로 싸운다. |
+| 2002 | 時空冒險記 | 時空冒險記 | 鄧東明 · 葉偉青(감독) | 애니메이션 | 확인 못 함 | 기계와 사람이 함께 사는 미래 수도에서 사람의 욕심을 품은 슈퍼컴퓨터가 세계를 지배하려 한다. |
 | 2002 | 기동전사 건담 SEED | 機動戦士ガンダムSEED | 선라이즈, 후쿠다 미츠오 | 게임·만화·소설·애니메이션 | 있음 | 유전자를 고친 사람과 그대로인 사람이 우주 식민지와 지구로 갈라져 벌이는 전쟁 |
 | 2002 | 미래전사 그레이트건더 (경계) | 爆闘宣言ダイガンダー | 야노 히로유키(감독) | 애니메이션 | 있음 | 로봇에게 모든 것을 맡기게 된 미래, 로봇끼리 겨루는 시합에 나선 소년과 로봇 동료들이 악당에 맞선다. |
 | 2002 | 空想の機械達の中の破壊の発明 | 空想の機械達の中の破壊の発明 | 庵野秀明(원작·감독), スタジオジブリ | 애니메이션 | 확인 못 함 | 떠다니는 전함, 땅속 전차, 기동 보병 같은 공상의 병기들이 끝없이 부수다 큰 폭발로 모두 재가 된다. |
@@ -4425,14 +6307,17 @@
 | 2002 | 바다의 전설 장보고 | 바다의 전설 장보고 | 서울무비 | 애니메이션 | 한국 원작 | 군대가 없어지고 핵무기가 금지된 2050년, 해양 요원 장보고가 잠수함을 몰아 거대 마피아와 맞선다. |
 | 2002 | 스페이스 힙합덕 (경계) | 스페이스 힙합덕 | 박종철(감독), 선우엔터테인먼트·상하이 애니메이션 필름 스튜디오 | 애니메이션 | 한국 원작 | 우주를 무대로 힙합덕과 왕자, 아르고가 아르바이트를 빙자한 해결사 일로 사고를 친다. |
 | 2003 | AVENGER | AVENGER | ビィートレイン(감독 真下耕一) | 애니메이션 | 있음 | 지구에 버려진 먼 미래의 화성, 돔 도시들이 투사 대결로 물자를 나누는 가운데 한 여투사가 복수를 노린다. |
+| 2003 | Bounty Hamster | Bounty Hamster | David Max Freedman · Alan Gilbey | 애니메이션 | 확인 못 함 | 우주 해적에게 끌려간 아버지를 찾는 소녀와 그가 고용한 파란 햄스터 현상금 사냥꾼. |
 | 2003 | Code Lyoko | Code Lyoko | Antefilms·MoonScoop, Thomas Romain, Tani | 게임·드라마·애니메이션 | 있음 | 중학생들이 가상 세계로 들어가 반란을 꾀하는 인공지능과 싸운다 |
 | 2003 | Duck Dodgers (경계) | Duck Dodgers | Warner Bros. Animation | 애니메이션 | 확인 못 함 | 냉동되었다 24.5세기에 깨어난 오리가 아무 능력 없이 잔꾀와 운으로 지구의 영웅 노릇을 한다. |
 | 2003 | FIRESTORM | FIRESTORM | トランス・アーツ(감독 寺田憲史), Gerry Anderson(원안) | 애니메이션 | 확인 못 함 | 전쟁이 끝난 21세기 말, 새 국제연합의 특수 구조대가 범죄 조직을 쫓다 그 정체가 외계인임을 알게 된다. |
+| 2003 | Hot Wheels Highway 35 World Race | Hot Wheels Highway 35 World Race | Mattel (Hot Wheels) | 게임·애니메이션 | 확인 못 함 | 외계 종족 액셀러론이 만든 다른 차원 통로를 첨단 차로 달리는 세계 최고 운전자 경주. |
 | 2003 | IGPX -Immortal Grand Prix- (경계) | IGPX -Immortal Grand Prix- | Production I.G | 애니메이션 | 확인 못 함 | 2048년, 로봇이 셋씩 맞붙어 달리는 경주 '임모탈 그랑프리'에 사람들이 열광한다. |
 | 2003 | 인터스텔라 5555 | Interstella 5555: The 5tory of the 5ecret 5tar 5ystem | Daft Punk, 松本零士, 東映アニメーション | 애니메이션 | 있음 | 먼 별의 악단이 지구로 납치되어 기억을 지운 채 음반 업계의 꼭두각시가 된다. |
 | 2003 | 라스트 엑자일 | LAST EXILE | 곤조, 치기라 코이치 | 애니메이션 | 있음 | 하늘을 나는 기술을 한 조합이 쥐고 두 나라의 전쟁을 지켜보는 낯선 행성 |
 | 2003 | My Life as a Teenage Robot (경계) | My Life as a Teenage Robot | Rob Renzetti | 애니메이션 | 확인 못 함 | 범죄와 싸우라고 만든 소녀 로봇이 평범한 고등학생처럼 살고 싶어 하며 마을을 지킨다. |
 | 2003 | SD 건담 포스 (경계) | SDガンダムフォース | サンライズ(감독 阿部雄一), 矢立肇·富野由悠季(원작) | 만화·애니메이션 | 있음 | 사람과 로봇이 함께 사는 미래 도시를 다른 차원의 침략군이 노리고, SD 건담 부대가 맞서 싸운다. |
+| 2003 | Stripperella (경계) | Stripperella | Stan Lee | 애니메이션 | 확인 못 함 | 춤꾼 에로티카 존스가 몰래 영웅이자 비밀 요원 스트리퍼렐라로 사는 성인 희극. |
 | 2003 | 테크노라이즈 | TEXHNOLYZE | 매드하우스, 하마사키 히로시·코나카 치아키 | 애니메이션 | 있음 | 땅속 도시에서 기계 팔다리를 단 사람들이 싸우며 함께 무너져 가는 이야기 |
 | 2003 | The Venture Bros. (경계) | The Venture Bros. | Jackson Publick, Doc Hammer | 애니메이션 | 확인 못 함 | 영웅과 악당이 협정 아래 체계적으로 싸우는 세상, 몰락한 천재 과학자와 두 아들이 엉망진창 모험을 한다. |
 | 2003 | 울프스 레인 (경계) | WOLF'S RAIN | ボンズ, 信本敬子 | 만화·애니메이션 | 있음 | 멸종했다던 늑대들이 사람 모습으로 숨어 살다, 무너져 가는 세계에서 전설의 '낙원'을 찾아 길을 떠난다. |
@@ -4450,11 +6335,21 @@
 | 2003 | 엘리시움 | 엘리시움 | 권재웅 | 애니메이션 | 한국 원작 | 2113년 지구, 최고의 레이서인 피자 배달부가 원인 모를 폭격으로 황폐해진 세상에서 연인을 잃는다. |
 | 2003 | 원더풀 데이즈 | 원더풀 데이즈 | 김문생 (틴하우스) | 애니메이션 | 한국 원작 | 오염을 에너지로 쓰려 하늘을 검게 묶어 둔 도시와 바깥 난민촌의 대립 |
 | 2004 | Atomic Betty (경계) | Atomic Betty | Atomic Cartoons, Breakthrough Films | 애니메이션 | 확인 못 함 | 평범한 마을 소녀가 몰래 은하 수비대 요원이 되어 외계 악당과 싸운다. |
+| 2004 | Da Boom Crew | Da Boom Crew | Bruce W. Smith · John Patrick White · St | 애니메이션 | 확인 못 함 | 위탁 가정 아이 넷이 만든 게임과 똑같은 차원으로 빨려 들어가 외계 테러리스트와 싸운다. |
+| 2004 | Danny Phantom (경계) | Danny Phantom | Butch Hartman | 애니메이션 | 확인 못 함 | 유령 사냥꾼 부모가 만든 '유령 문'을 들어갔다가 유령 차원과 이어진 열네 살 대니. |
 | 2004 | Dead Leaves | Dead Leaves | Hiroyuki Imaishi | 애니메이션 | 확인 못 함 | 기억 없이 벌거벗고 깨어난 두 무법자가 도쿄를 휩쓸다, 반쯤 부서진 달의 감옥 '데드 리브스'로 끌려간다. |
+| 2004 | Dragon Booster (경계) | Dragon Booster | Rob Travalino · Kevin Mowrer | 애니메이션 | 확인 못 함 | 사람과 용이 3천 년 전 전쟁을 치른 세계 드라코니스, 전설의 황금 용이 고른 마구간 소년. |
 | 2004 | Get Ride! アムドライバー (경계) | Get Ride! アムドライバー | スタジオディーン(감독 虎田功), NAS·コナミ(기획) | 게임·만화·애니메이션 | 확인 못 함 | 기계 생명체가 쳐들어오는 미래 지구, 강화복을 입는 직업 영웅들이 싸우지만 그 싸움 뒤에는 음모가 있다. |
 | 2004 | KURAU Phantom Memory | KURAU Phantom Memory | 본즈 | 애니메이션 | 확인 못 함 | 2100년 새 에너지 실험 사고로 그 에너지에 맞은 소녀, 2110년을 무대로 한 가족과 과학 윤리 이야기 |
+| 2004 | Megas XLR | Megas XLR | Jody Schaeffer · George Krstic | 애니메이션 | 확인 못 함 | 3037년 외계 종족과의 전쟁에서 과거로 보낸 거대 로봇을 오늘날의 게으른 정비공이 찾아낸다. |
 | 2004 | Nightmare City (경계) | Nightmare City | 미~야 | 애니메이션 | 확인 못 함 | 고양이 모습의 아이들이 진실을 찾아 거짓의 세계를 탈출하려 하고, 그 세계는 가상 현실임이 암시된다. |
+| 2004 | Pet Alien | Pet Alien | Jeff Muncy | 애니메이션 | 확인 못 함 | 열세 살 토미의 등대에 무언가 부딪혀 들어온 뒤 뒤집힌 삶, 외계인 식구들과의 희극. |
+| 2004 | Pigeon Boy (경계) | Pigeon Boy | Jean de Loriol (Millimages) | 애니메이션 | 확인 못 함 | 도시 비둘기들이 소년 랜디를 우스운 영웅 피전 보이로 바꿔 불러낸다. |
 | 2004 | 사무라이 7 | SAMURAI 7 | GONZO, 滝沢敏文 | 애니메이션 | 있음 | 농경과 기계 문명이 뒤섞인 전쟁 뒤, 기계 몸 도적 떼에 맞서려 한 마을이 떠돌이 무사 일곱을 모은다. |
+| 2004 | Super Robot Monkey Team Hyperforce Go! | Super Robot Monkey Team Hyperforce Go! | Ciro Nieli | 애니메이션 | 확인 못 함 | 행성 셔가줌에서 사이보그 원숭이 다섯과 소년 카이로가 행성과 우주를 악에서 지킨다. |
+| 2004 | The Boy (경계) | The Boy | 만든 이 확인 못 함 (YTV 방영) | 애니메이션 | 확인 못 함 | 국제 평화 연맹 소속 천재 소년 토비가 짝 요원 밥과 세계를 돌며 악당을 막는다. |
+| 2004 | Tripping the Rift | Tripping the Rift | Chris Moeller · Chuck Austen | 애니메이션 | 확인 못 함 | 초광속 항법과 순간 이동 광선이 있는, 스타트렉을 본뜬 우주의 성인 희극. |
+| 2004 | Zeroman (경계) | Zeroman | J.D. Smith (Amberwood Entertainment) | 애니메이션 | 확인 못 함 | 무능한 예순셋 집배원이 다치지 않게 하고 날게 해 주는 '제로 옷'을 입고 영웅이 된다. |
 | 2004 | この醜くも美しい世界 (경계) | この醜くも美しい世界 | GAINAX·SHAFT(감독 佐伯昭志) | 만화·애니메이션 | 확인 못 함 | 빛 속에서 기억 없는 소녀와 괴물이 고교생 앞에 나타나고, 지구 생명 전체의 운명이 걸린 일로 번진다. |
 | 2004 | 스팀보이 | スチームボーイ | 大友克洋 | 게임·애니메이션 | 있음 | 1866년 영국, 증기 기관을 좋아하는 소년이 엄청난 힘의 '스팀볼'을 두고 재단과 군대의 싸움에 휘말린다. |
 | 2004 | パンダーゼット (경계) | パンダーゼット | ビーメディア·シナジージャパン, 押田秀一(캐릭터) | 애니메이션 | 확인 못 함 | 판다 모양 거대 로봇이 나오는 『마징가 Z』 공인 패러디, 목소리 없이 자막만 쓰는 엉뚱한 개그. |
@@ -4470,13 +6365,20 @@
 | 2004 | 아쿠아키즈 | 아쿠아키즈 | 씨네픽스, SBS | 애니메이션 | 한국 원작 | 빙하가 녹아 땅 대부분이 잠긴 지구, 잠수정으로 오가는 바다 사회에서 아이들이 로봇 애완동물과 지낸다. |
 | 2004 | 출동! 로봇 V | 출동! 로봇 V | MBC 방영(만든 곳은 문서에 없음) | 애니메이션 | 한국 원작 | 고물상을 하는 늙은 과학자가 떠돌이 개와 손수 만든 로봇을 몰고, 배신한 옛 동료의 악당 로봇과 싸운다. |
 | 2005 | 9:나인 | 9 | Shane Acker | 애니메이션 | 있음 | 기계와의 전쟁으로 사람이 사라진 뒤 헝겊 인형들이 깨어나 기계와 싸운다 |
+| 2005 | Alien Racers | Alien Racers | Kevin Bloomfield · Geremi Burleigh (MGA  | 애니메이션 | 확인 못 함 | 창조와 파괴의 힘을 지닌 우주의 심장 제녹의 에너지를 두고 외계 종족들이 경주를 벌인다. |
 | 2005 | 벤10 (경계) | Ben 10 | Man of Action (Cartoon Network) | 게임·애니메이션·영화 | 있음 | 외계 종족의 몸으로 바꿔 주는 시계를 찬 소년이 지구와 우주의 악당과 싸운다 |
 | 2005 | Chicken Little | Chicken Little | Mark Dindal | 애니메이션 | 확인 못 함 | 하늘이 무너진다고 외쳐 웃음거리가 된 꼬마 닭의 말이 맞아, 외계인이 정말로 마을에 내려온다. |
+| 2005 | Delilah & Julius (경계) | Delilah & Julius | Suzanne Chapman · Steven JP Comeau | 애니메이션 | 확인 못 함 | 특수 요원의 고아로 아카데미를 마친 젊은 요원 둘의 첩보 활극. |
+| 2005 | Get Ed | Get Ed | Andy Knight | 애니메이션 | 확인 못 함 | 미래 도시 프로그레스 시티에서 '전기 유전자'로 강화된 십대 배달원이 산업 범죄와 싸운다. |
+| 2005 | House of Cosbys | House of Cosbys | Justin Roiland | 애니메이션 | 확인 못 함 | 한 팬이 코미디언의 머리카락 한 올로 복제 기계를 만들어 '코스비들의 집'을 꾸린다. |
 | 2005 | 쟈니 테스트 (경계) | Johnny Test | Warner Bros., Cookie Jar | 애니메이션 | 있음 | 천재 쌍둥이 누나의 발명품으로 소년과 말하는 강아지가 사고를 치고 누나들이 수습한다. |
 | 2005 | Loonatics Unleashed (경계) | Loonatics Unleashed | Warner Bros. Animation | 애니메이션 | 확인 못 함 | 2772년 도시에 떨어진 운석으로 루니 툰 캐릭터 후손 여섯이 초능력을 얻어 영웅 팀이 된다. |
+| 2005 | Robotboy | Robotboy | Jan Van Rijsselberge | 애니메이션 | 확인 못 함 | 모시모 교수가 만든 로봇 소년, 숙적 카미카지 박사에게 빼앗기지 않게 숨겨진다. |
 | 2005 | 로봇 | Robots | Chris Wedge (Blue Sky Studios) | 게임·애니메이션 | 있음 | 로봇만 사는 도시에서 낡은 몸을 버리게 하려는 회사에 맞서는 젊은 발명가 |
 | 2005 | SPEED GRAPHER (경계) | SPEED GRAPHER | GONZO(감독 杉島邦久) | 애니메이션 | 확인 못 함 | 쾌락에 빠진 도쿄, 비밀 클럽의 '여신' 소녀를 데리고 달아난 사진가가 욕망으로 깨어난 초인들에게 쫓긴다. |
 | 2005 | 빛의 전사 레나 | Skyland | Emmanuel Gorinstein | 애니메이션 | 있음 | 어머니에게 강한 초능력을 물려받은 소녀와 전투기 조종사 오빠가 싸우는 프랑스·캐나다 합작 애니메이션. |
+| 2005 | The X's (경계) | The X's | Carlos Ramos | 애니메이션 | 확인 못 함 | 지구를 지키는 비밀 기관의 첩보원 네 식구가 정체를 숨기려 애쓴다. |
+| 2005 | The Zula Patrol | The Zula Patrol | Deb M. Manchester | 애니메이션 | 확인 못 함 | 녹색 외계인 불라 선장의 순찰대가 악당 다크 트루더를 막으며 얼굴 달린 행성들을 만난다. |
 | 2005 | UG☆얼티메이트 걸 (경계) | UG☆アルティメットガール | スタジオマトリックス(감독 ムトウユージ), m.o.e.(원작) | 만화·애니메이션 | 확인 못 함 | 월요일마다 괴수가 나오는 도쿄, 거대 영웅에게 밟힌 여고생 셋이 그 몸을 나눠 받아 거대 히로인이 된다. |
 | 2005 | きらめき☆プロジェクト (경계) | きらめき☆プロジェクト | スタジオ・ファンタジア, 니시지마 카츠히코(감독) | 애니메이션 | 있음 | 기술을 모으려 각국 로봇을 부수고 다니는 일본 기업의 거대 로봇이 지중해 소국의 소녀 로봇과 맞선다. |
 | 2005 | ほとり〜たださいわいを希う。〜 | ほとり〜たださいわいを希う。〜 | サンライズ | 애니메이션 | 확인 못 함 | 죽은 소년의 기억 데이터를 조금씩 옮겨 받는 로봇 소년이, 기억을 잃어 가는 병을 앓는 소녀를 만난다. |
@@ -4494,15 +6396,22 @@
 | 2005 | 鴉 -KARAS- (경계) | 鴉 -KARAS- | 타츠노코 프로덕션 | 애니메이션 | 확인 못 함 | 사람과 요괴가 함께 사는 신주쿠에서 땅이 고른 초능력 수호자가 차·비행기로 변신해 싸운다 |
 | 2005 | 트리로보 | 트리로보 | 김문생 | 애니메이션 | 한국 원작 | 로봇이 전쟁을 대신하는 근미래, 얼마 남지 않은 자연 속에서 나무 로봇과 소년이 함께 지낸다. |
 | 2006 | Animator vs. Animation (경계) | Animator vs. Animation | Alan Becker | 애니메이션 | 확인 못 함 | 컴퓨터 화면 속에서 태어난 막대 인간이 자신을 그린 애니메이터와 맞서 싸우며 세계를 넓혀 간다. |
+| 2006 | Di-Gata Defenders (경계) | Di-Gata Defenders | Greg Collinson (Nelvana · LuxAnimation) | 애니메이션 | 확인 못 함 | 행성 라도스를 악에게서 지키는 '디가타 수호대' 십대 여섯의 여행. |
 | 2006 | FREEDOM | FREEDOM | サンライズ(감독 森田修平), 大友克洋(캐릭터·메카 설계) | 애니메이션 | 확인 못 함 | 지구 문명이 방사능에 무너졌다고 배운 달 공화국의 소년이, 연구와 지구행이 금지된 틀을 깨고 지구로 간다. |
+| 2006 | Frisky Dingo (경계) | Frisky Dingo | Adam Reed · Matt Thompson | 애니메이션 | 확인 못 함 | 악당 킬페이스와 숙적인 억만장자 영웅 어썸 엑스의 다툼을 비튼 성인 애니메이션. |
 | 2006 | Funny Pets | Funny Pets | 増田龍治(감독), 「Funny Pets」製作委員会 | 애니메이션 | 확인 못 함 | 비행접시가 지구에 떨어진 두 외계인이 한 소녀에게 주워져 애완동물로 산다. |
 | 2006 | Galactik Football | Galactik Football | Augias Imaginaction(애니메이션) · Dzhanik Fay | 애니메이션·영화 | 확인 못 함 | 먼 미래 은하에서 행성들이 우주 에너지 '플럭스'를 쓰는 축구로 겨룬다 — 러시아 영화는 전쟁 뒤 지구. |
+| 2006 | Grossology (경계) | Grossology | Simon Racioppa · Richard Elliott (Nelvan | 애니메이션 | 확인 못 함 | 징그러운 범죄와 현상을 맡는 정부 비밀 기관 '그로솔로지 국'의 십대 남매 요원. |
 | 2006 | Lifted | Lifted | Gary Rydstrom | 애니메이션 | 확인 못 함 | 꼬마 외계인이 잠든 농부를 우주선으로 끌어올리는 납치 시험을 치르다 거듭 실수한다. |
+| 2006 | Lunar Jim | Lunar Jim | Alexander Bar | 애니메이션 | 확인 못 함 | 은하 끝 달 '블루 문 L22'에 사는 우주비행사 짐과 로봇 개 등 동료들의 탐험. |
 | 2006 | MUSASHI -GUN道- (경계) | MUSASHI -GUN道- | モンキー・パンチ, ACC プロダクション | 애니메이션 | 확인 못 함 | 세키가하라 이후 다르게 흘러간 센고쿠 시대, 검 대신 총을 든 무사가 괴물들과 싸운다. |
+| 2006 | My Goldfish Is Evil! | My Goldfish Is Evil! | Nicolas J. Boisvert | 애니메이션 | 확인 못 함 | 세계 정복을 꿈꾸는 초지능 금붕어 애드미럴 버블스를 막으려는 열한 살 비니. |
 | 2006 | Oban Star-Racers | Oban Star-Racers | Savin Yeatman-Eiffel (Sav! The World), 일 | 애니메이션 | 확인 못 함 | 지구의 운명을 걸고 은하의 종족들이 겨루는 우주 경주 |
 | 2006 | Project BLUE 地球SOS | Project BLUE 地球SOS | A・C・G・T(감독 岡村天斎), 小松崎茂(원작) | 애니메이션 | 확인 못 함 | 깨끗한 새 동력으로 번영하는 2000년, 두 천재 소년이 잇따른 실종 뒤에 숨은 외계 생명체와 맞선다. |
 | 2006 | RGBアドベンチャー | RGBアドベンチャー | ACCプロダクション | 애니메이션 | 확인 못 함 | 빛을 빨아들이는 어둠의 의지에 고향 별을 잃은 소녀와 지구에 온 요정 전사들이 소년들과 합체해 싸운다. |
 | 2006 | 르네상스 | Renaissance | Christian Volckman | 애니메이션 | 있음 | 거대 기업이 도시를 쥔 2054년 파리, 늙지 않는 비밀을 둘러싼 수사 |
+| 2006 | Team Galaxy | Team Galaxy | Vincent Chalvon-Demersay · David Michel  | 애니메이션 | 확인 못 함 | 은하 정의 기관인 학교 갤럭시 하이에서 우주 보안관을 꿈꾸며 임무를 받는 친구 셋. |
+| 2006 | Zorro: Generation Z (경계) | Zorro: Generation Z | Rick Ungar (BKN) | 애니메이션 | 확인 못 함 | 2015년, 첫 조로의 후손인 십대가 첨단 무기를 들고 도시의 정의를 지킨다. |
 | 2006 | イノセント・ヴィーナス | イノセント・ヴィーナス | 카와고에 준(감독), 브레인즈 베이스 | 애니메이션 | 없음 | 2010년 전 세계를 덮친 거대 태풍으로 인구가 30억으로 줄고, 경제특구 밖은 버려진 세계. |
 | 2006 | 에르고 프록시 | エルゴプラクシー | 만글로브, 무라세 슈코 | 애니메이션 | 있음 | 환경이 무너진 지구의 돔 도시, 사람과 로봇 사이에서 정체 모를 존재가 깨어남 |
 | 2006 | 유리함대 | ガラスの艦隊 | GONZO, SATELIGHT, 大原実 | 애니메이션 | 있음 | 먼 미래 사람들이 행성을 더럽다 여겨 도시 같은 거대 우주 전함에서만 산다. |
@@ -4516,12 +6425,23 @@
 | 2006 | 奏光のストレイン | 奏光のストレイン | スタジオ・ファンタジア(원작), 와타나베 테츠야(감독) | 애니메이션 | 확인 못 함 | 아득한 미래 우주, 사람이 싸워야 한다는 연합과 무인 병기로 싸우는 제국이 끝없는 전쟁을 잇는다. |
 | 2006 | 은색의 오린시스 | 銀色のオリンシス | 東映アニメーション, 東堂いづみ(원작) | 애니메이션 | 확인 못 함 | 달과 지구가 껍질로 갈라진 세계, 소년이 살려고 은빛 로봇을 몰아 달에서 오는 적을 막는다. |
 | 2006 | 레이의 우주 대모험 (경계) | 레이의 우주 대모험 | 문현식(감독) | 애니메이션 | 한국 원작 | 어느 곳, 어느 시대로든 갈 수 있는 로봇 레이와 쿠스가 아이들과 태양계와 우주 곳곳을 누빈다. |
+| 2006 | 아이언 키드 (경계) | 아이언 키드 | 대원 C.I. · Design Storm · BRB Internacion | 애니메이션 | 한국 원작 | 한국과 스페인이 함께 만든 공상 과학 영웅 애니메이션. |
 | 2006 | 아치와 씨팍 | 아치와 씨팍 | 조범진 (제이팀스튜디오) | 애니메이션 | 한국 원작 | 사람의 똥이 유일한 연료가 된 사막 도시, 똥을 짜내려 약을 나눠 주는 정부 |
 | 2006 | 은하자양강장 무타쥬스 (경계) | 은하자양강장 무타쥬스 | 씨네픽스 | 게임·애니메이션 | 한국 원작 | 마시면 거대 로봇으로 변신하는 주스를 모르고 먹은 이가 벌이는 성인 대상 코미디. |
+| 2007 | Afterworld | Afterworld | Brent V. Friedman · Michael DeCourcey | 애니메이션 | 확인 못 함 | 출장 간 뉴욕에서 깨어나 보니 전자 기술이 다 죽고 인류 99%가 사라졌다. 남자는 가족에게 돌아가려 한다. |
 | 2007 | Battle for Terra | Battle for Terra | Aristomenis Tsirbas | 애니메이션 | 확인 못 함 | 평화로운 외계 행성 테라에, 살 곳을 잃은 인류의 마지막 우주선이 다가와 행성을 차지하려 한다. |
 | 2007 | CODE-E (경계) | CODE-E | スタジオディーン(감독 加藤敏幸) | 만화·소설·애니메이션 | 확인 못 함 | 운석이 떨어지고 20년 뒤 2017년, 감정이 오르면 전자 기기를 망가뜨리는 소녀가 고등학교에 온다. |
+| 2007 | Cosmic Quantum Ray (경계) | Cosmic Quantum Ray | Mani Bhaumik | 애니메이션 | 확인 못 함 | 제9차원으로 통하는 신발 상자를 지닌 십대가 영웅 팀 '퀀텀'에 들어간다. |
 | 2007 | Darker than BLACK-흑의 계약자 (경계) | DARKER THAN BLACK | 본즈, 오카무라 텐사이 | 애니메이션 | 있음 | 하늘의 별이 바뀐 뒤 대가를 치르고 능력을 쓰는 사람들이 나타난 도쿄 |
+| 2007 | Dex Hamilton: Alien Entomologist | Dex Hamilton: Alien Entomologist | Matthew Fernandes | 애니메이션 | 확인 못 함 | 3000년, 은하를 기어다니는 곤충 닮은 외계 생물에 맞서 젊은 곤충학자 덱스가 나선다. |
+| 2007 | DinoSquad (경계) | DinoSquad | Jeffrey Scott (DIC) | 애니메이션 | 확인 못 함 | 상어에게서 개를 구하려 바다에 뛰어든 십대 다섯이 저마다 공룡으로 변하는 힘을 얻는다. |
 | 2007 | ICE | ICE | P・P・M(감독 小林誠), 秋元康(원작) | 애니메이션 | 확인 못 함 | 남자가 모두 죽고 여자 2만 명만 남은 근미래 신주쿠, 여자끼리 아이를 낳는 기술을 두고 소녀들이 싸운다. |
+| 2007 | Monster Buster Club | Monster Buster Club | Vincent Chalvon-Demersay · David Michel | 애니메이션 | 확인 못 함 | 외계인 친구를 둔 아이 셋이 지구에 숨어든 외계 괴물을 잡는 비밀 조직을 다시 꾸린다. |
+| 2007 | SamSam (경계) | SamSam | Serge Bloch(인물) · Tanguy de Kermel(연출) | 애니메이션 | 확인 못 함 | 아직 힘을 잘 못 쓰는 가장 작은 영웅 샘샘이 비행접시를 몰고 우주의 악당과 맞선다. |
+| 2007 | Storm Hawks (경계) | Storm Hawks | Asaph Fipke | 애니메이션 | 확인 못 함 | 산꼭대기 왕국 천 개의 세계 아트모스, 하늘 기사들이 어둠의 세력에 맞선다. |
+| 2007 | Supernormal (경계) | Supernormal | World Leaders Entertainment · Granada Ki | 애니메이션 | 확인 못 함 | 영웅 학교에 다니는 서툰 학생 넷이 진짜 영웅이 되려 애쓴다. |
+| 2007 | Tommy Zoom (경계) | Tommy Zoom | BBC | 애니메이션 | 확인 못 함 | 고민이 생긴 소년 토미가 영웅이 되어 해결에 나서는 유아 프로그램. |
+| 2007 | WordGirl (경계) | WordGirl | Dorothea Gillim | 애니메이션 | 확인 못 함 | 가상의 행성 렉시콘에서 태어나 지구에서 평범한 5학년으로 사는 초능력 소녀. |
 | 2007 | ふたつの胡桃 (경계) | ふたつの胡桃 | シンエイ動画 | 애니메이션 | 확인 못 함 | 2007년의 소녀가 개와 함께 1945년 도쿄로 떨어져, 사귄 친구와 함께 도쿄 대공습을 겪는다. |
 | 2007 | アイドルマスター XENOGLOSSIA | アイドルマスター XENOGLOSSIA | サンライズ, 長崎健司 | 애니메이션 | 확인 못 함 | 부서진 달 조각이 지구를 둘러싼 세상, 떨어지는 파편을 막는 거대 로봇의 조종사로 소녀들이 뽑힌다. |
 | 2007 | 키스덤 -ENGAGE planet- | キスダム -ENGAGE planet- | サテライト(감독 長岡康史→佐藤英一) | 애니메이션 | 확인 못 함 | 2031년 처음 나타난 변이 생물과 20년째 맞서는 국제 방위 조직, 젊은 조종사가 인류의 위기에 휘말린다. |
@@ -4537,14 +6457,21 @@
 | 2007 | 月面兎兵器ミーナ (경계) | 月面兎兵器ミーナ | GONZO, 鶴巻和哉 | 애니메이션 | 확인 못 함 | 여고생 아나운서가 외계인 사건에 휘말려 지구 스포츠 문명을 지킬 사명을 알게 된다. |
 | 2007 | 기동전사 건담 00 | 機動戦士ガンダム00 | 선라이즈, 미즈시마 세이지 | 애니메이션 | 있음 | 궤도 엘리베이터를 쥔 세 강대국의 분쟁에 무력으로 끼어들어 전쟁을 없애려는 조직 |
 | 2007 | 機神大戦ギガンティック・フォーミュラ | 機神大戦ギガンティック・フォーミュラ | 고토 케이지(감독), 브레인즈 베이스 | 애니메이션 | 확인 못 함 | 열두 나라가 가진 거대 로봇이 유엔이 정한 규칙대로 일대일로 싸워, 끝까지 남은 나라가 세계의 패권을 쥔다. |
+| 2007 | 爆丸バトルブローラーズ (경계) | 爆丸バトルブローラーズ | Sega Toys · Spin Master (TMS Entertainme | 애니메이션 | 확인 못 함 | 하늘에서 떨어진 이상한 카드로 아이들이 만든 게임 '바쿠간'이 실제 싸움이 된다. |
 | 2007 | 신령사냥~GHOST HOUND~ (경계) | 神霊狩/GHOST HOUND | Production I.G(감독 中村隆太郎), 士郎正宗(원작) | 애니메이션 | 있음 | 이승과 저승이 겹친 시골 마을, 상처를 지닌 중학생들이 '유체 이탈'로 저승을 떠돌며 이상한 일에 휘말린다. |
 | 2007 | 전뇌 코일 | 電脳コイル | 매드하우스, 이소 미츠오 | 애니메이션 | 있음 | 아이들이 안경을 쓰면 겹쳐 보이는 전자 공간에서 사라진 사람의 흔적을 쫓음 |
 | 2007 | 트리팡 파이터 (경계) | 트리팡 파이터 | 모비게이트 | 애니메이션 | 한국 원작 | 2230년 미래 도시에서 정의의 무술을 익힌 세 아이가 세계 정복을 노리는 미친 과학자와 싸운다. |
 | 2008 | 변신로봇5 (경계) | Animal Mechanicals | Halifax Film | 애니메이션 | 있음 | 동물 모양 로봇 다섯이 저마다 기계로 변신해 힘을 합쳐 문제를 푸는 어린이 애니메이션. |
+| 2008 | Dork Hunters from Outer Space | Dork Hunters from Outer Space | Rick Ungar (BKN) | 애니메이션 | 확인 못 함 | 사람으로 꾸민 말썽꾼 외계인 '도크'를 사람 둘과 외계인 셋인 십대 무리가 쫓는다. |
+| 2008 | Il était une fois… notre Terre (경계) | Il était une fois… notre Terre | Albert Barillé (Procidis) | 애니메이션 | 확인 못 함 | 알베르 바리예의 '옛날 옛적에' 연작 가운데 지구를 다룬 교양·공상 과학 애니메이션. |
+| 2008 | Kid vs. Kat | Kid vs. Kat | Rob Boutilier | 애니메이션 | 확인 못 함 | 동생이 데려온 떠돌이 고양이의 수상한 정체를 알아챈 열 살 쿱이 고양이와 맞선다. |
 | 2008 | 므네모시네의 딸들 (경계) | Mnemosyne -ムネモシュネの娘たち- | XEBEC | 애니메이션 | 있음 | 늙지 않고 죽지 않는 여인이 1990년대부터 미래까지 수십 년에 걸쳐 같은 비밀을 둘러싼 사건을 겪는다. |
 | 2008 | RD 潜脳調査室 | RD 潜脳調査室 | Production I.G, 士郎正宗 (원안) | 만화·애니메이션 | 확인 못 함 | 정보망 '메탈'에 잠수하다 사고로 50년 혼수에 빠졌던 노인이 깨어나 바다 속 답을 찾는다 |
 | 2008 | 로켓보이 (경계) | Rocket Boy and Toro | 이미지스톤, BBC | 애니메이션 | 있음 | 모든 것이 금속과 로봇으로 된 우주에서 지구 소년 같은 영웅이 친구와 우주를 누빈다. |
 | 2008 | Rocket! ぼくらを月につれてって 新・月世界旅行 | Rocket! ぼくらを月につれてって 新・月世界旅行 | トランス・アーツ(감독 松澤建一), 科学技術振興機構 | 애니메이션 | 확인 못 함 | 1882년 런던의 소년과 탐험가 부부가 폭풍에 휘말려 2080년 일본에 떨어지고, 로켓으로 달에 간다. |
+| 2008 | Superjail! (경계) | Superjail! | Christy Karacas · Stephen Warbrick · Ben | 애니메이션 | 확인 못 함 | 다른 차원 '5612'의 화산 밑 감옥, 모양을 바꾸는 간수장이 죄수들로 제 변덕을 채운다. |
+| 2008 | The New Adventures of Nanoboy (경계) | The New Adventures of Nanoboy | Scrawl Studios | 애니메이션·영화 | 확인 못 함 | 아홉 살 오스카가 제 고민을 마주할 때마다 아주 작은 크기로 줄어 영웅 나노보이가 된다. |
+| 2008 | The Secret Saturdays (경계) | The Secret Saturdays | Jay Stephens | 애니메이션 | 확인 못 함 | 미확인 생물을 연구하는 가족 새터데이가 비밀 과학자 모임의 일원으로 세계를 누빈다. |
 | 2008 | 월•E | WALL-E | Andrew Stanton (Pixar) | 게임·애니메이션 | 있음 | 쓰레기에 묻힌 지구에 홀로 남은 청소 로봇과, 우주선에서 700년을 산 인류 |
 | 2008 | 이브의 시간 | イヴの時間 | 스튜디오 릿카, 요시우라 야스히로 | 애니메이션 | 있음 | 인조인간이 흔해진 일본, 사람과 기계를 가르지 말라는 규칙이 있는 찻집 |
 | 2008 | 카이바 | カイバ | 매드하우스, 유아사 마사아키 | 애니메이션 | 있음 | 기억을 꺼내 사고팔고 몸을 갈아 끼우는 세계에서 기억을 잃고 깨어난 소년 |
@@ -4553,14 +6480,22 @@
 | 2008 | ファイアボール | ファイアボール | ジーニーズアニメーションスタジオ(감독 荒川航) | 애니메이션 | 확인 못 함 | 자연이 무너지고 다스림을 로봇에게 맡긴 행성, 귀족이 된 로봇과 인류의 전쟁이 2만 년째 이어진다. |
 | 2008 | ロボディーズ -RoboDz- 風雲篇 | ロボディーズ -RoboDz- 風雲篇 | 東映アニメーション(시리즈 감독 西尾大介), ウォルト・ディズニー・テレビジョ | 애니메이션 | 확인 못 함 | 우주 정복을 꾀하는 외계인 군단이 지구를 노리는 3DCG 개그 애니메이션. |
 | 2008 | 星に願いを | 星に願いを | バーナムスタジオ | 애니메이션 | 확인 못 함 | 의식이 몸을 떠나 전자 공간과 먼 우주로 퍼진 시대, 무인 제국의 침공 속에 소녀가 낯선 의식을 찾는다. |
+| 2008 | 百变机兽之洛洛历险记 (경계) | 百变机兽之洛洛历险记 | 王巍(감독·각본) | 애니메이션 | 확인 못 함 | 번개를 맞고 게임 속으로 들어간 소년이 기계족을 이끌고 맹수족과 싸운다. |
 | 2008 | 기가 트라이브 (경계) | 기가 트라이브 | 한문중(총감독), 스튜디오 카브 | 애니메이션 | 한국 원작 | 나쁜 마음을 괴물로 바꾸는 악당에 맞서 지구를 지키는 용사들을 이끌게 된 소년의 변신 로봇 시트콤. |
 | 2008 | 제트레인저 (경계) | 제트레인저 | KBS·CJ ENM·아이코닉스·픽셀플레넷 | 애니메이션 | 한국 원작 | 미래 도시 한양 시를 노리는 피에로 단에 맞서, 걸핏하면 달아나는 제트레인저가 반격할 기회를 노린다. |
+| 2009 | Clang Invasion | Clang Invasion | Seng Choon Meng | 애니메이션 | 확인 못 함 | 우주선이 뒷마당 나무에 떨어진 외계 로봇 셋과, 그들을 찾아낸 쌍둥이 남매. |
+| 2009 | Hot Wheels Battle Force 5 | Hot Wheels Battle Force 5 | Mattel · Nelvana · Nerd Corps Entertainm | 애니메이션 | 확인 못 함 | 소금 사막에서 다른 차원 '배틀 존'을 찾은 운전자 버트가 지성 생명체 세이지와 팀을 꾸린다. |
+| 2009 | League of Super Evil (경계) | League of Super Evil | Philippe Ivanusic-Vallée · Davila LeBlan | 애니메이션 | 확인 못 함 | 동네부터 정복하려다 늘 실패하는 어설픈 악당 모임의 희극. |
+| 2009 | Les Chumballs | Les Chumballs | Bruno Desraisses(연출) | 애니메이션 | 확인 못 함 | 재앙 뒤 땅속으로 숨은 사람들, 땅 위를 되살리러 보낸 로봇 첨볼의 신호는 오지 않는다. |
 | 2009 | 외계인 붐 (경계) | Linus et Boom | Timoon Animation, 삼지 애니메이션 | 애니메이션 | 한국 원작 | 2020년 우주 에너지로 세계 정복을 꾀하는 기관에 맞서 불시착한 외계인과 소년이 싸운다. |
 | 2009 | Metropia | Metropia | Tarik Saleh | 애니메이션 | 확인 못 함 | 석유가 바닥난 미래 유럽의 거대 지하철망에서, 머릿속 목소리를 듣던 사내가 자기 삶이 조종당함을 안다. |
+| 2009 | Mission Invisible (경계) | Mission Invisible | Claire Underwood · David Hodgson | 애니메이션 | 확인 못 함 | 기숙 학교 아이들을 부리려는 못된 선생에 맞서는 비밀 학생 조직. |
 | 2009 | 몬스터 vs 에이리언 (경계) | Monsters vs. Aliens | DreamWorks Animation | 게임·애니메이션 | 있음 | 정부가 숨겨 둔 괴물들이 외계 침공을 막아 내는 옛 괴물 영화 흉내 |
 | 2009 | 플래닛 51 | Planet 51 | Jorge Blanco (Ilion Animation Studios) | 게임·애니메이션 | 있음 | 1950년대 미국을 닮은 외계 행성에 지구 우주비행사가 침입자로 내린다 |
 | 2009 | 레드라인 | REDLINE | 매드하우스, 코이케 타케시 | 애니메이션 | 있음 | 외계 종족이 섞여 사는 은하에서 무엇이든 허용되는 최고의 경주에 나선 사내 |
+| 2009 | RollBots | RollBots | Michael Milligan | 애니메이션 | 확인 못 함 | 열한 롤봇 부족이 사는 플립 시티에서 경찰 스핀과 동료들이 범죄와 싸운다. |
 | 2009 | TAILENDERS | TAILENDERS | ピコグラフ(삿포로) | 애니메이션 | 확인 못 함 | 먼 미래 개척 행성에서 폭주한 테라포밍 기계에 쫓겨, 사람들이 거대한 바퀴 위로 삶터를 옮겨 산다. |
+| 2009 | Titan Maximum | Titan Maximum | Tom Root · Matthew Senreich | 애니메이션 | 확인 못 함 | 토성 위성 타이탄을 지키던 거대 로봇 조종 팀이 예산 삭감으로 흩어진 뒤의 희극. |
 | 2009 | エレメントハンター | エレメントハンター | 한일 합작 (NHK 방영) | 만화·애니메이션 | 확인 못 함 | 2029년 산소·탄소 같은 원소들이 지구에서 사라져 다른 행성으로 빠져나가며 나라들이 무너진다 |
 | 2009 | 썸머 워즈 (경계) | サマーウォーズ | 매드하우스, 호소다 마모루 | 애니메이션 | 있음 | 온 세상이 기대는 가상 공간을 인공지능이 집어삼키자 시골 대가족이 맞섬 |
 | 2009 | 바스쿼시! | バスカッシュ! | サテライト(감독 板垣伸·佐藤英一), 河森正治·ロマン・トマ(원작) | 만화·애니메이션 | 확인 못 함 | 농구로 세상이 생겼다는 행성, 거대 인간형 기계로 하는 농구가 인기인 도시에서 소년이 판을 뒤엎는다. |
@@ -4569,62 +6504,145 @@
 | 2009 | 동쪽의 에덴 | 東のエデン | 神山健治(원작·감독), Production I.G | 소설·애니메이션 | 있음 | 기억 잃은 청년이 82억 엔이 든 휴대폰을 쥐고, 같은 휴대폰을 지닌 이가 열 명 더 있음을 안다. |
 | 2009 | 그린세이버 (경계) | 그린세이버 | 스튜디오 카브 | 애니메이션 | 한국 원작 | 지구를 황폐하게 만들어 팔아넘기려는 외계인 일당을 막으려 마을 아이들이 생명수의 힘을 받아 영웅이 된다. |
 | 2009 | 메타제트 (경계) | 메타제트 | 선우엔터테인먼트, 쿠키자 엔터테인먼트 | 애니메이션 | 한국 원작 | 인구가 넘친 2067년, 땅속 교외와 하늘에 뜬 상류층 주거지 사이로 값싼 비행기가 날아다닌다. |
+| 2010 | Adventure Time (경계) | Adventure Time | Pendleton Ward | 애니메이션 | 확인 못 함 | 몸을 늘였다 줄였다 하는 개 제이크와 사람 소년 핀이 종말 뒤의 땅에서 모험한다. |
 | 2010 | Bolts & Blip | Bolts & Blip | ToonBox Entertainment, Redrover (캐나다·한국  | 애니메이션 | 확인 못 함 | 2080년 달, 도시의 별난 짝 볼츠와 블립이 꼴찌 팀에 들어가 달 리그 경기를 치른다 |
+| 2010 | Bondi Band (경계) | Bondi Band | Paula Vendetti · Pablo Feldman 외 (IAM Ca | 애니메이션 | 확인 못 함 | 공룡을 없앤 분홍 돌을 노리는 악당에 맞서 마법 악기를 든 아이 여섯이 영웅 악단이 된다. |
 | 2010 | Despicable Me (경계) | Despicable Me | Chris Renaud · Pierre Coffin | 애니메이션 | 확인 못 함 | 오랜 악당 그루가 졸개 미니언들과 줄이는 광선으로 달을 훔치려다 세 고아를 맡게 된다. |
+| 2010 | Garth and Bev (경계) | Garth and Bev | Kavaleer Productions | 애니메이션 | 확인 못 함 | 청동기 시대 남매가 드루이드 할아버지의 도움으로 시간을 넘나들며 발명의 뿌리를 배운다. |
 | 2010 | 제너레이터 렉스 (경계) | Generator Rex | Man of Action (Cartoon Network) | 게임·애니메이션 | 일부 | 폭발로 퍼진 나노 기계가 생물을 괴물로 바꾸는 세계에서 그것을 다스리는 소년 |
 | 2010 | 히어로맨 (경계) | HEROMAN | Stan Lee, ボンズ | 만화·애니메이션 | 있음 | 가난한 소년이 고친 장난감 로봇이 번개를 맞아 거대한 영웅 로봇이 되고, 외계인의 침공에 맞선다. |
+| 2010 | Hero Factory | Hero Factory | The Lego Group (Threshold Animation Stud | 애니메이션 | 확인 못 함 | 로봇 영웅을 만들고 훈련해 로봇 주민들을 지키며 범죄자를 잡는 조직 '히어로 팩토리'. |
+| 2010 | Hero: 108 (경계) | Hero: 108 | Yang-Ming Tarng | 애니메이션 | 확인 못 함 | 사람과 동물이 갈라선 숨은 왕국에서 빅 그린 부대가 둘을 다시 잇으려 싸운다. |
 | 2010 | Megamind (경계) | Megamind | Tom McGrath | 애니메이션 | 확인 못 함 | 고향 행성을 블랙홀에 잃고 지구에 온 외계인 악당이 숙적을 꺾은 뒤 맞설 새 영웅을 만든다. |
+| 2010 | Mr. Moon (경계) | Mr. Moon | Kate Veale (Sparky Animation · Skaramoos | 애니메이션 | 확인 못 함 | 달님과 별 친구들이 작은 로켓을 타고 별자리와 우주를 노래로 배운다. |
+| 2010 | Regular Show (경계) | Regular Show | J. G. Quintel | 애니메이션 | 확인 못 함 | 공원 관리인으로 일하는 스물세 살 두 친구의 기묘한 일상 희극. |
+| 2010 | Robotomy | Robotomy | Michael Buckley · Joe Deasy | 애니메이션 | 확인 못 함 | 서로 죽이려 드는 야만스러운 외계 로봇들의 행성 인새너스에 사는 십대 로봇 둘. |
 | 2010 | STAR DRIVER 輝きのタクト | STAR DRIVER 輝きのタクト | ボンズ | 애니메이션 | 확인 못 함 | 남쪽 섬 학원 지하에 잠든 옛 거대 로봇을 두고, 무녀의 봉인을 풀려는 비밀 결사와 전학생 소년이 맞선다. |
+| 2010 | Sidekick (경계) | Sidekick | Todd Kauffman · Joey So | 애니메이션 | 확인 못 함 | 고아 소년 에릭과 친구들이 영웅의 조수가 되려고 훈련받는 희극. |
+| 2010 | Sym-Bionic Titan | Sym-Bionic Titan | Genndy Tartakovsky · Bryan Andrews · Pau | 애니메이션 | 확인 못 함 | 전쟁 난 행성 갈라루나에서 도망쳐 지구에 떨어진 외계 십대 둘과 로봇, 합체 거대 로봇. |
+| 2010 | T.U.F.F. Puppy (경계) | T.U.F.F. Puppy | Butch Hartman | 애니메이션 | 확인 못 함 | 사람 꼴 동물들의 도시 페트로폴리스에서 첩보원 개 더들리가 고양이 짝과 악당을 막는다. |
+| 2010 | Zevo-3 (경계) | Zevo-3 | John Massé | 애니메이션 | 확인 못 함 | 악당의 실험실에서 '제보 화합물'을 뒤집어쓰고 힘을 얻은 십대 셋이 돌연변이 괴물과 싸운다. |
+| 2010 | 망가지기 시작한 오르골 | こわれかけのオルゴール | 川口敬一郎(감독) | 애니메이션 | 확인 못 함 | 2039년 여름, 비 오는 날 버려진 안드로이드를 데려온 청년이 그녀와 살며 슬픔에서 벗어난다. |
+| 2010 | 케무리쿠사 | ケムリクサ | たつき(원작·감독), irodori·ヤオヨロズ | 애니메이션 | 있음 | 붉은 안개가 낀 폐허의 세계, 자매들이 붉은 벌레와 싸우며 물을 찾고, 기억 잃은 청년을 만난다. |
+| 2010 | コイ☆セント | コイ☆セント | サンライズ荻窪スタジオ(감독 森田修平) | 애니메이션 | 확인 못 함 | 첨단 기술과 옛 절이 뒤섞인 2710년 나라, 수학여행 온 소년이 이상한 소녀와 흰 사슴을 만난다. |
+| 2010 | ソ・ラ・ノ・ヲ・ト | ソ・ラ・ノ・ヲ・ト | A-1 Pictures(감독 神戸守), Paradores(원작) | 게임·만화·애니메이션 | 확인 못 함 | '대단절' 전쟁으로 땅이 거칠어진 먼 미래, 국경 성채의 소녀 소대가 고장 난 다리 전차와 나팔로 지낸다. |
+| 2010 | プランゼット | プランゼット | 粟津順(감독), コミックス・ウェーブ・フィルム | 애니메이션 | 확인 못 함 | 2053년 우주에서 온 생명체에 인류 대부분이 쓰러지고, 로봇 병기 조종사가 후지 기지를 지킨다. |
+| 2010 | 보톰즈 파인더 | ボトムズファインダー | サンライズ(감독 重田敦司), 矢立肇·高橋良輔(원작) | 애니메이션 | 확인 못 함 | 낭떠러지 밑 '보톰즈'에 사는 청년이 납치된 소녀를 구해 벼랑 위 '토프'로 올라간다. |
 | 2010 | 世紀末オカルト学院 (경계) | 世紀末オカルト学院 | A-1 Pictures, 伊藤智彦 | 애니메이션 | 확인 못 함 | 1999년 오컬트를 연구하는 산꼭대기 학원에 괴현상이 잇따르고, 시간을 건너온 이가 얽힌다. |
+| 2010 | 太空历险记 | 太空历险记 | Xing Yuan(광저우 장난감 회사) | 애니메이션 | 확인 못 함 | 2735년, 온난화와 소행성으로 망한 지구를 떠난 우주 이민 함대가 외계 종족과 맞닥뜨린다. |
 | 2010 | 우주쇼에 어서오세요 | 宇宙ショーへようこそ | 舛成孝二, A-1 Pictures | 애니메이션 | 있음 | 여름 방학의 아이들이 다친 개를 구해 준 인연으로 달 뒤편과 우주 쇼가 열리는 별로 여행한다. |
 | 2010 | 메가파이터 (경계) | 机甲兽神 | 중국 제작(버그파이터 계열) | 애니메이션 | 있음 | 운석에서 나온 금속 생명체를 기계 전차와 하나로 합쳐 아이들이 악의 조직과 싸운다 |
+| 2010 | 果宝特攻 (경계) | 果宝特攻 | 王巍 · 陈奋(감독) | 애니메이션 | 확인 못 함 | 과일 전사들이 나오는 로봇 액션 3D 애니메이션 연작. |
+| 2010 | 超智能足球 (경계) | 超智能足球 | 钱国栋(감독) · 深圳市方块动漫画 | 애니메이션 | 확인 못 함 | 손바닥만 한 인공지능 축구 로봇의 시대, 소년이 아버지가 만든 로봇 선수로 팀을 꾸린다. |
+| 2010 | 섬광의 나이트레이드 (경계) | 閃光のナイトレイド | A-1 Pictures(원작·제작, 감독 松本淳) | 애니메이션 | 확인 못 함 | 1931년 상하이, 일본군 특무 기관의 초능력자들이 옛 장교가 꾸미는 불온한 계획에 맞선다. |
 | 2010 | 변신자동차 또봇 (경계) | 변신자동차 또봇 | 영실업 (애니메이션 레트로봇) | 애니메이션 | 한국 원작 | 근미래 도시에서 쌍둥이 형제가 아버지가 만든 변신 자동차 로봇을 타고 악당과 싸운다 |
 | 2010 | 스캔2고 (경계) | 스캔2고 | 동우A&E, SBS, 시너지SP | 애니메이션 | 한국 원작 | 작은 경주차로 겨루는 우주 최고 인기 스포츠에 지구의 유일한 팀이 우주를 떠돌며 도전한다. |
 | 2011 | 매직키드 보보 (경계) | BoBoiBoy | Animonsta Studios | 애니메이션 | 일부 | 외계 로봇에게 원소의 힘을 받은 소년과 친구들이 그 힘을 노리는 외계 악당에 맞선다. |
+| 2011 | C (경계) | C | タツノコプロ(감독 中村健治) | 애니메이션 | 확인 못 함 | 근미래 일본, 미래를 담보로 돈을 빌려주는 딴 세계 '금융가'에서 대학생이 남과 미래를 걸고 겨룬다. |
+| 2011 | Clanners | Clanners | Televisión Española | 애니메이션 | 확인 못 함 | 컴퓨터 속에서 사람의 유전자와 전자기 에너지가 섞여 생긴 평행 우주의 생명들. |
+| 2011 | Cyboars | Cyboars | Cyboars International (Walter McDaniel 등 | 애니메이션 | 확인 못 함 | 황소 닮은 종족에 맞서 일어난 돼지 닮은 외계인들이 지구에 떨어져 기계 몸을 얻는다. |
+| 2011 | Detentionaire (경계) | Detentionaire | Daniel Bryan Franklin · Charles Johnston | 애니메이션 | 확인 못 함 | 고교 첫날 큰 장난의 누명을 쓰고 한 해 내내 방과 후 벌을 받게 된 리 핑이 진범을 쫓는다. |
+| 2011 | Lucky Fred | Lucky Fred | Myriam Ballesteros (Imira Entertainment) | 애니메이션 | 확인 못 함 | 은하를 지키는 비밀 조직이 보낸, 어떤 전자 기기로도 바뀌는 로봇이 바르셀로나 소년에게 떨어진다. |
 | 2011 | 화성은 엄마가 필요해 | Mars Needs Moms | Simon Wells | 애니메이션 | 있음 | 아이를 기계가 키우는 화성인들이 지구 엄마들을 납치하고, 소년이 엄마를 구하러 화성에 간다. |
+| 2011 | Matt Hatter Chronicles (경계) | Matt Hatter Chronicles | Nigel Stone | 애니메이션 | 확인 못 함 | 가족의 공포 영화 속 괴물들이 다른 차원 '멀티버스'에 살아 있음을 안 평범한 소년. |
+| 2011 | Ninjago (경계) | Ninjago | The Lego Group | 애니메이션 | 확인 못 함 | 옛 건물과 오늘의 기술이 섞인 가상 세계 닌자고를 무술 닌자들이 지킨다. |
+| 2011 | Redakai: Conquer the Kairu (경계) | Redakai: Conquer the Kairu | Vincent Chalvon-Demersay · David Michel | 애니메이션 | 확인 못 함 | 열다섯 살 무술 학생 카이가 태고의 외계 에너지 카이루를 찾아 먼 길을 떠난다. |
+| 2011 | Superbook (경계) | Superbook | Christian Broadcasting Network | 애니메이션 | 확인 못 함 | 친구 크리스와 조이가 로봇 기즈모와 함께 신비한 문을 지나 과거의 성경 이야기 속으로 간다. |
 | 2011 | TIGER & BUNNY (경계) | TIGER & BUNNY | サンライズ, さとうけいいち | 애니메이션·영화 | 확인 못 함 | 초능력자 영웅들이 기업 광고를 달고 활약하며 시청률을 겨루는 도시에서 퇴물 영웅과 신인이 짝을 이룬다. |
+| 2011 | UN-GO | UN-GO | ボンズ(감독 水島精二) | 만화·애니메이션 | 있음 | '종전'을 막 맞은 근미래 도쿄, 정보를 쥔 언론왕의 명추리 뒤에 숨은 진실을 '마지막 명탐정'이 들춘다. |
+| 2011 | Virus Attack | Virus Attack | Mondo TV | 애니메이션 | 확인 못 함 | 몬도 티비가 만든 이탈리아 어린이 공상 과학 애니메이션. |
+| 2011 | Xi AVANT (경계) | Xi AVANT | 神山健治(원작·감독) | 애니메이션 | 확인 못 함 | 차세대 통신 휴대폰과 인공지능 비서가 퍼진 근미래, 외무성 하급 관리가 지시를 받고 바르셀로나로 간다. |
 | 2011 | 길티 크라운 | ギルティクラウン | 프로덕션 I.G, 아라키 테츠로 | 애니메이션 | 있음 | 바이러스 재앙 뒤 외국 기관이 다스리는 도쿄, 남의 마음에서 무기를 꺼내는 힘 |
+| 2011 | 세이크리드 세븐 (경계) | セイクリッドセブン | サンライズ(감독 大橋誉志光), 矢立肇(원작) | 만화·애니메이션 | 있음 | 17년 전 지구에 떨어진 일곱 가지 돌이 닿은 이를 능력자로 바꾸고, 그 힘을 둘러싼 싸움이 벌어진다. |
 | 2011 | フラクタル | フラクタル | 山本寛(감독), 東浩紀(이야기 원안) | 만화·소설·애니메이션 | 확인 못 함 | 몸에 단말을 심고 생활 기록을 보내면 누구나 기본 소득을 받는 22세기, 낙원 같던 체계가 무너져 간다. |
+| 2011 | 宇宙星神 | 宇宙星神 | 马凌(감독) | 애니메이션 | 확인 못 함 | 아폴로 대전 뒤 2401년, 아이들이 은하 중심에서 온 '은하의 별'의 비밀을 찾아 태양계를 돈다. |
+| 2011 | 방과후의 플레이아데스 | 放課後のプレアデス | GAINAX(원작·감독 佐伯昭志) | 애니메이션 | 있음 | 방과후 천문실 문을 연 소녀가 플레이아데스 성인을 만나고, 마녀 차림 소녀들과 함께 별의 조각을 모은다. |
 | 2011 | 기동전사 건담 AGE | 機動戦士ガンダムAGE | 선라이즈, 히노 아키히로(레벨 파이브) | 애니메이션 | 있음 | 버려진 화성 이주민의 후손과 지구 연방이 3대 백 년 동안 싸우는 전쟁 |
+| 2011 | 벅스 플랜 | 虫虫计划 | 중국 제작 | 만화·애니메이션 | 확인 못 함 | 등장인물이 모두 외계 종족인 SF 희극 — 1만 살이 지구의 한 살에 해당한다. |
+| 2011 | 超兽武装 | 超兽武装 | 王巍(감독) · 广州蓝弧 | 애니메이션 | 확인 못 함 | 10만 년마다 돌아오는 평행 우주들의 '윤회' — 여러 우주의 초수 전사가 명왕의 부활을 막는다. |
 | 2011 | 로보카 폴리 (경계) | 로보카 폴리 | 로이비쥬얼 | 애니메이션 | 한국 원작 | 로봇으로 변신하는 경찰차·소방차·구급차·헬리콥터가 구조대를 이뤄 마을 사람들을 돕는다. |
 | 2011 | 홍길동 2084 (경계) | 홍길동 2084 | 이정인 | 애니메이션 | 한국 원작 | 2084년 첨단 도시 율도시티, 형에게 쫓겨나 버려진 비행선에 살던 홍길동이 악당에게서 도시를 구한다. |
 | 2012 | AKB0048 | AKB0048 | 河森正治, サテライト | 애니메이션 | 확인 못 함 | 전쟁으로 지구를 떠난 인류 사회가 노래와 연예를 금지하자, 그 금지에 맞서는 아이돌들이 별을 돈다. |
+| 2012 | Action Dad (경계) | Action Dad | Andrew Dickman (착상) | 애니메이션 | 확인 못 함 | 아빠는 비밀 첩자, 엄마는 악당인 집안의 평범한 십대 남매. |
 | 2012 | Bravest Warriors | Bravest Warriors | Pendleton Ward | 애니메이션 | 확인 못 함 | 먼 미래의 십 대 영웅 넷이 우주 곳곳의 괴상한 사건을 해결하러 다닌다. |
+| 2012 | Electric City | Electric City | Tom Hanks | 애니메이션 | 확인 못 함 | 문명이 무너져 인류가 작은 무리들로 줄어든 뒤의 세상. |
 | 2012 | 짐승 배틀 몬스노 (경계) | Monsuno | JAKKS Pacific, Dentsu | 애니메이션 | 있음 | 실종된 아버지를 찾는 소년 일행이 아버지가 만든 코어 속 괴수를 두고 군사 조직과 다툰다. |
 | 2012 | Motorcity | Motorcity | Chris Prynoski (Titmouse, Disney) | 애니메이션 | 확인 못 함 | 악덕 억만장자가 가진 미래 디트로이트와 그 밑에 사는 무리의 싸움 |
 | 2012 | PSYCHO-PASS | PSYCHO-PASS サイコパス | 프로덕션 I.G, 시오타니 나오요시·우로부치 겐 | 게임·만화·소설·애니메이션 | 있음 | 사람의 마음 상태를 늘 수치로 재어 죄를 짓기 전에 단속하는 근미래 일본 |
+| 2012 | Randy Cunningham: 9th Grade Ninja (경계) | Randy Cunningham: 9th Grade Ninja | Jed Elinoff · Scott Thomas | 애니메이션 | 확인 못 함 | 800년 동안 마을을 지킨 닌자 자리를 이어받은 고등학교 1학년 랜디가 마법사 일당에 맞선다. |
+| 2012 | SheZow (경계) | SheZow | Obie Scott Wade | 애니메이션 | 확인 못 함 | 열두 살 소년 가이가 돌아가신 고모의 힘의 반지를 끼고 여성 영웅 쉬조가 된다. |
+| 2012 | Slugterra (경계) | Slugterra | Asaph Fipke | 애니메이션 | 확인 못 함 | 지구 땅속 깊이 펼쳐진 넓은 지하 세계, 초능력을 지닌 작은 민달팽이들이 산다. |
 | 2012 | Strange Frame: Love & Sax | Strange Frame: Love & Sax | G. B. Hajim | 애니메이션 | 확인 못 함 | 28세기, 버려진 지구를 떠나 목성 위성에 간 이들이 대대로 빚 노예가 된 곳에서 두 음악가가 사랑한다. |
+| 2012 | つり球 | つり球 | A-1 Pictures(감독 中村健治) | 소설·애니메이션 | 확인 못 함 | 에노시마에 온 고교생 앞에 자칭 우주인이 나타나, 사람을 조종하는 바다의 '그것'을 낚아 올리자고 한다. |
+| 2012 | オズマ | オズマ | 松本零士(원작), ランドック・スタジオ·GONZO(감독 池添隆博) | 애니메이션 | 확인 못 함 | 태양 이상 활동으로 사막만 남은 지구, 형을 앗아 간 정체 모를 이동체 '오즈마'를 쫓는 사막 해적 소년. |
 | 2012 | 전희절창 심포기어 (경계) | 戦姫絶唱シンフォギア | 金子彰史, 上松範康 | 게임·애니메이션 | 있음 | 사람을 탄소 덩어리로 바꾸는 재해 '노이즈'에 맞설 수 있는 건 노래로 움직이는 갑옷을 입은 소녀들뿐이다. |
 | 2012 | 윤회의 라그랑제 | 輪廻のラグランジェ | 佐藤竜雄(총감독), XEBEC | 만화·애니메이션 | 있음 | 바닷가 마을 소녀가 외계 은하 연합끼리의 다툼에 끼어 고대 로봇을 몰게 된다. |
+| 2012 | 铁甲威虫 (경계) | 铁甲威虫 | 王巍(감독·각본) | 애니메이션 | 확인 못 함 | 딱정벌레 왕국의 '기인왕' 고수들 — 소년은 집 농기계가 전차 '용전기'임을 알게 된다. |
 | 2012 | 다이노 타임 (경계) | 다이노 타임 | 최윤석·존 카프카(감독), 토이온 | 애니메이션 | 한국 원작 | 말썽꾸러기 아이 셋이 알 모양의 시간 캡슐을 건드려 1억 년 전 공룡 세계로 날아간다. |
 | 2013 | 슈퍼노바 지구 탈출기 | Escape from Planet Earth | Cal Brunker | 애니메이션 | 있음 | 우주 영웅과 소심한 기술자 형제가, 가장 위험한 별인 지구에 붙잡힌 외계인들을 구하러 간다. |
 | 2013 | 맥스 스틸 (경계) | Max Steel | Mattel, Nerd Corps Entertainment | 애니메이션 | 있음 | 터보 에너지를 내는 십 대 소년이 다른 행성 생명체와 한 몸이 되어 비밀 기관의 영웅이 된다. |
+| 2013 | Oh No! It's an Alien Invasion | Oh No! It's an Alien Invasion | Philippe Ivanusic-Vallée · Peter Ricq | 애니메이션 | 확인 못 함 | 병 속에 든 뇌 외계인 '브레인링'이 지구의 어른을 모두 잡아가자 아이들이 맞선다. |
+| 2013 | Pac-Man and the Ghostly Adventures (경계) | Pac-Man and the Ghostly Adventures | Tom Ruegger · Paul Rugg · Avi Arad | 애니메이션 | 확인 못 함 | 가상의 행성 팩월드와 그 땅 밑 지옥 같은 네더월드를 무대로 한 팩맨 무리의 활극. |
+| 2013 | Packages from Planet X (경계) | Packages from Planet X | Jeff Harter | 애니메이션 | 확인 못 함 | 행성 X 에서 오는 수수께끼 소포를 받는 고교생 댄, 마을에 외계인이 섞였다고 의심하는 친구. |
+| 2013 | Planet Cosmo | Planet Cosmo | Jason Tammemagi | 애니메이션 | 확인 못 함 | 달에 사는 코스모 가족이 태양계 행성을 노래와 모험으로 둘러본다. |
 | 2013 | RWBY (경계) | RWBY | Monty Oum, Rooster Teeth | 애니메이션 | 확인 못 함 | 괴물이 들끓는 세계, 마력 결정 '더스트'를 쓰는 사냥꾼 학교의 소녀들이 세상을 지키러 나선다. |
 | 2013 | 릭 앤 모티 | Rick and Morty | Justin Roiland, Dan Harmon | 게임·만화·애니메이션 | 있음 | 차원을 마음대로 넘는 천재 과학자와 손자가 떠도는 끝없는 평행 세계 |
+| 2013 | Rocket Monkeys | Rocket Monkeys | Dan Abdo · Jason Patterson | 애니메이션 | 확인 못 함 | 눈치 없는 원숭이 우주 비행사 거스와 월리가 남은 이가 없어 우주 임무를 맡는다. |
+| 2013 | State of Syn | State of Syn | Smokebomb Entertainment | 게임·애니메이션 | 확인 못 함 | 아버지가 의문사한 뒤 아니카와 친구들이 떠오르는 기술 대기업의 뒤틀린 수수께끼에 끌려든다. |
 | 2013 | 스티븐 유니버스 (경계) | Steven Universe | Rebecca Sugar (Cartoon Network) | 게임·만화·애니메이션 | 있음 | 보석 몸을 가진 외계 종족의 제국과 지구를 지키는 반역자들 사이에 선 소년 |
+| 2013 | Strange Hill High (경계) | Strange Hill High | Josh Weinstein · Yoshimi & Katoi | 애니메이션 | 확인 못 함 | 괴짜 학생 셋이 학교에서 벌어지는 기이한 일을 푸는 인형 희극. |
 | 2013 | 텐카이나이트 (경계) | Tenkai Knights | Spin Master, BONES | 애니메이션 | 있음 | 골동품 가게에서 얻은 블록으로 소년들이 로봇이 되어 악한 로봇과 싸운다. |
 | 2013 | 완다가 간다 | Wander Over Yonder | Craig McCracken | 애니메이션 | 있음 | 낙천적인 은하 방랑자와 친구가 별에서 별로 떠돌며 은하를 정복하려는 악당들을 상대한다. |
+| 2013 | ZuZu & the SuperNuffs (경계) | ZuZu & the SuperNuffs | Amanda Brotchie · Justin Wight(연출) | 애니메이션 | 확인 못 함 | 오스트레일리아 어린이 공상 과학 모험 애니메이션. |
 | 2013 | もうひとつの未来を。 | もうひとつの未来を。 | 神山健治, Production I.G | 애니메이션 | 확인 못 함 | 통신 회사 연구소가 미래와 통화할 수 있는 전화기를 만들고, 미래의 상대가 뜻밖의 사실을 알려 온다. |
+| 2013 | 갈릴레이 돈나 | ガリレイドンナ | A-1 Pictures(감독 梅津泰臣), 梅津泰臣·teamGD(원작) | 애니메이션 | 있음 | 빙하기가 찾아온 2061년, 갈릴레오 갈릴레이의 후손 세 자매가 수수께끼 비행정에 쫓기며 유산을 찾는다. |
+| 2013 | 건담 빌드 파이터즈 | ガンダムビルドファイターズ | サンライズ(감독 長崎健司·綿田慎也 등), 矢立肇·富野由悠季(원작) | 애니메이션 | 확인 못 함 | 플라스틱을 움직이는 입자로 건프라를 조종해 겨루는 근미래, 뒤로는 가상 공간 대전으로 이어진다. |
 | 2013 | 킬라킬 (경계) | キルラキル | 트리거, 이마이시 히로유키·나카시마 카즈키 | 애니메이션 | 있음 | 입은 사람에게 힘을 주는 살아 있는 실의 옷과 그 실의 정체를 둘러싼 학원 싸움 |
 | 2013 | 거꾸로 된 파테마 | サカサマのパテマ | 스튜디오 릿카, 요시우라 야스히로 | 애니메이션 | 있음 | 옛 실험 사고로 중력이 서로 거꾸로 걸린 두 무리의 사람들이 만남 |
+| 2013 | 사무라이 플라멩코 (경계) | サムライフラメンコ | マングローブ(감독 大森貴弘) | 애니메이션 | 있음 | 초능력도 개조도 없이 '자칭 정의의 편'이 된 모델 청년이, 커져 가는 악과 맞서며 영웅이 되어 간다. |
 | 2013 | 트레인 히어로 (경계) | トレインヒーロー | テレビ東京, 常州TV | 애니메이션 | 있음 | 2100년 땅 밖에서도 달리는 새 철도의 열차들이 인공지능을 품고 사람 모양 로봇으로 변한다. |
+| 2013 | 하루 | ハル | WIT STUDIO(감독 牧原亮太郎, 각본 木皿泉) | 만화·애니메이션 | 있음 | 근미래 교토, 연인을 잃고 마음을 닫은 이의 곁에 그 연인을 닮은 로봇이 찾아와 머문다. |
 | 2013 | 비비드레드 오퍼레이션 (경계) | ビビッドレッド・オペレーション | TEAM VIVID, 高村和宏 | 애니메이션 | 있음 | 과학이 모든 문제를 푼 꿈같은 세상, 섬 소녀들이 우정으로 합체 변신해 수수께끼의 적에 맞선다. |
+| 2013 | 미스 모노크롬 | ミス・モノクローム | 堀江由衣(캐릭터 원안), ライデンフィルム·サンジゲン | 애니메이션 | 확인 못 함 | 큰 성에 사는 건전지 한 개로 움직이는 안드로이드가, TV 속 아이돌을 보고 아이돌이 되려 한다. |
 | 2013 | 熱風海陸ブシロード | 熱風海陸ブシロード | 吉田直, 木谷高明 | 만화·애니메이션 | 있음 | 소행성 충돌로 땅이 맹독에 덮인 세상, 망국 공주와 소년이 거대 기신을 되살리려 한다. |
+| 2013 | 직구표제 로봇 애니메 | 直球表題ロボットアニメ | ザルゴザール(감독 石舘光太郎) | 애니메이션 | 확인 못 함 | 인류가 사라진 지 7천 년이 넘은 기동세기 8013년, 홀로 진화한 군용 로봇들이 두 진영으로 갈려 싸운다. |
 | 2013 | 취성의 가르간티아 | 翠星のガルガンティア | 프로덕션 I.G, 무라타 카즈야·우로부치 겐 | 애니메이션 | 있음 | 우주 전쟁 중에 떨어진 소년병과 인공지능 로봇이 바다로 덮인 옛 지구에서 사는 법을 배움 |
+| 2013 | 賽爾號 (경계) | 賽爾號 | 上海淘米網絡 · 王章俊 · 劉虹(감독) | 게임·애니메이션 | 확인 못 함 | 같은 이름의 웹 게임을 옮긴 우주 모험 활극 애니메이션. |
+| 2013 | 超ゼンマイロボ パトラッシュ (경계) | 超ゼンマイロボ パトラッシュ | 日本アニメーション(제작), キャラクション(감독 山本雄三) | 애니메이션 | 확인 못 함 | 자연이 풍요로운 '플랜더스 나라'를 부수려는 제국에 맞서, 소년과 사람 모양으로 변하는 개 로봇이 싸운다. |
+| 2013 | 超限獵兵-凱能 | 超限獵兵-凱能 | 西基電腦動畫 | 애니메이션 | 확인 못 함 | 2300년 이민 시대, 고리형 우주 도시를 둘러싸고 지구·화성·달과 우주 해적이 다툰다. |
 | 2013 | 혁명기 발브레이브 | 革命機ヴァルヴレイヴ | 松尾衡, サンライズ | 만화·애니메이션 | 있음 | 중립국 우주 콜로니의 학생들이 강대국의 침공 속에, 타면 사람이 아니게 되는 로봇을 얻고 독립을 선언한다. |
 | 2013 | 미앤마이로봇 (경계) | 미앤마이로봇 | 시너지미디어, Millimages | 애니메이션 | 한국 원작 | 로봇 공학 학교에서 사람의 감성을 지닌 로봇과 천재 소년, 친구들이 벌이는 좌충우돌 시트콤. |
+| 2014 | Astroblast! | Astroblast! | Bob Kolar | 애니메이션 | 확인 못 함 | 외계 문어 친구와 함께 우주 정거장 '아스트로블라스트'에 사는 동물 다섯의 어린이 애니메이션. |
+| 2014 | Chronokids | Chronokids | Philippe Riche · Pascal David (B Media K | 애니메이션 | 확인 못 함 | 프랑스 어린이 시간 여행 모험 애니메이션. |
 | 2014 | 지파이터스 (경계) | G-Fighters | EBS, 일렉트릭서커스, XYZ 디지털 | 애니메이션 | 한국 원작 | 고층 빌딩 폭발과 함께 퍼진 붉은 안개로 괴력의 악당들이 나타난 도시를 영웅들이 지킨다. |
+| 2014 | Get Ace | Get Ace | D.J. McPherson · Jack Christian | 애니메이션 | 확인 못 함 | 치과에서 잘못 낀 첩보원용 교정기, 그 안의 입체 영상 인공지능 휴고와 소년 에이스. |
+| 2014 | Guardians Evolution | Guardians Evolution | Dennis Jackson (감독) | 애니메이션 | 확인 못 함 | 2078년 대멸종 때 냉동된 십대 다섯이 4,174만 년 뒤 몰라보게 바뀐 지구에서 깨어난다. |
+| 2014 | Invizimals | Invizimals | BRB Internacional | 애니메이션 | 확인 못 함 | 스페인 애니메이션 회사가 만든 공상 과학 활극 애니메이션. |
+| 2014 | King Star King (경계) | King Star King | JJ Villard | 애니메이션 | 확인 못 함 | 백설 공주를 꾀어낸 뒤 높은 차원에서 떨어진 근육질 영웅 킹 스타 킹의 성인 희극. |
 | 2014 | M3 ~ソノ黒キ鋼~ | M3 ~ソノ黒キ鋼~ | 佐藤順一, サテライト | 애니메이션 | 확인 못 함 | 모든 것을 삼킨 검은 '무명 영역'과 그곳의 이형들을 조사하는 소년소녀들이 검은 로봇에 오른다. |
+| 2014 | Major Lazer (경계) | Major Lazer | Diplo · Ferry Gouw · Kevin Kusatsu | 애니메이션 | 확인 못 함 | 미래, 오른손이 레이저 총인 자메이카 영웅이 독재자 화이트월의 세력과 싸운다. |
 | 2014 | 천재강아지 미스터 피바디 | Mr. Peabody & Sherman | Rob Minkoff(영화), Ted Key(원작) | 애니메이션 | 있음 | 천재 강아지 피바디 박사가 입양한 소년 셔먼과 함께 타임머신을 타고 역사 속을 오간다. |
+| 2014 | Nerds and Monsters (경계) | Nerds and Monsters | Josh Mepham · Kathy Antonsen Rocchio · G | 애니메이션 | 확인 못 함 | 괴물이 사는 지도에 없는 섬에 떨어진 괴짜 아이 셋과 미식축구 선수. |
+| 2014 | Penn Zero: Part-Time Hero | Penn Zero: Part-Time Hero | Jared Bush · Sam Levine | 애니메이션 | 확인 못 함 | 부모의 '시간제 영웅' 일을 물려받아 여러 다른 차원으로 건너가 싸우는 소년 펜. |
+| 2014 | Space Racers | Space Racers | Richard Schweiger · Julian Cohen | 애니메이션 | 확인 못 함 | 스타더스트 우주 학교에 다니는 사람 꼴 우주선 생도들의 과학 교육 애니메이션. |
+| 2014 | Super 4 (경계) | Super 4 | Method Animation · Morgen Studios | 애니메이션 | 확인 못 함 | 요정·해적·기사·과학자·로봇·외계인이 이웃 섬에 사는 플레이모빌 세계를 지키는 영웅 넷. |
 | 2014 | 알드노아 제로 | アルドノア・ゼロ | A-1 Pictures·트로이카, 아오키 에이·우로부치 겐 | 애니메이션 | 있음 | 화성 옛 유적의 기술로 세운 기사 귀족 제국이 달이 부서진 지구를 침공함 |
+| 2014 | エクスメイデン | エクスメイデン | ランバート(제작), 松田浩史(원안) | 애니메이션 | 확인 못 함 | 우주 침략자에게서 지구를 지키려 탑승 병기에 오르는 소녀들 — 그런데 로봇은 나오지 않고 수다만 떤다. |
 | 2014 | 캡틴 어스 | キャプテン・アース | 五十嵐卓哉, ボンズ | 애니메이션 | 있음 | 천왕성에서 오는 불멸의 외계 생명체가 인간의 생명력을 노리자, 달 기지에서 출격하는 로봇이 맞선다. |
 | 2014 | 크로스 앙쥬 천사와 용의 윤무 | クロスアンジュ 天使と竜の輪舞 | サンライズ | 애니메이션 | 있음 | 정보 기술 '마나'를 못 쓰는 '노마'로 밝혀진 황녀가 외딴섬에 갇혀 용과 싸우는 병기 조종사가 된다. |
 | 2014 | 스페이스 댄디 | スペース☆ダンディ | 본즈, 와타나베 신이치로(총감독) | 애니메이션 | 있음 | 처음 보는 외계인을 찾아 등록하고 상금을 받는 사냥꾼의 엉뚱한 우주 |
+| 2014 | ナンダカベロニカ | ナンダカベロニカ | サイクロングラフィックス(감독 加藤道哉) | 애니메이션 | 확인 못 함 | 우주 최대 통신 회사 사장의 딸이 로봇 시종과 지구에 와서, 안테나 계약을 맺을 '지구의 주인'을 찾는다. |
 | 2014 | 노부나가 더 풀 (경계) | ノブナガ・ザ・フール | 河森正治(원작), 사토 히데카즈(감독) | 애니메이션 | 있음 | 고대 문명의 다리가 멈춰 서로를 잊은 서쪽 별과 동쪽 별이 전란 속에서 다시 맞부딪친다. |
+| 2014 | 하마토라 (경계) | ハマトラ | NAZ·Lerche(애니메이션), カフェノーウェア(원작) | 만화·애니메이션 | 있음 | 2014년 요코하마, '미니멈'이라는 초능력을 가진 탐정 콤비가 능력자들만 노리는 사건을 쫓는다. |
 | 2014 | 버디 컴플렉스 | バディ・コンプレックス | サンライズ, 田辺泰裕 | 애니메이션 | 있음 | 두 조종사의 의식을 이어 함께 움직이는 인간형 병기에 휘말린 고교생이 미래로 날아가 전쟁에 뛰어든다. |
 | 2014 | 피카이아! | ピカイア！ | NHK, OLM | 애니메이션 | 있음 | 생명이 살 수 없게 된 지구를 떠난 먼 미래 인류의 조사원들이 지구를 되살릴 열쇠를 찾아 고생대로 간다. |
+| 2014 | 세계정복 ~모략의 즈베즈다~ (경계) | 世界征服〜謀略のズヴィズダー〜 | hunting cap brothers(원작), A-1 Pictures(감 | 만화·애니메이션 | 있음 | '도쿄 전국시대'로 어지러운 일본, 가출한 중학생이 고대 문명 기술을 쓰는 비밀 결사 '즈베즈다'에 든다. |
 | 2014 | 낙원추방 | 楽園追放 -Expelled from Paradise- | 토에이 애니메이션·그래피니카, 미즈시마 세이지·우로부치 겐 | 애니메이션 | 있음 | 인류 대부분이 몸을 버리고 전자 낙원에 사는 시대, 버려진 지구로 내려간 요원 |
 | 2014 | 백은의 의지 아르제보른 | 白銀の意思 アルジェヴォルン | AIOS(원작), 오오츠키 아츠시(감독), AIC | 애니메이션 | 있음 | 옛 전쟁의 기상 이변으로 하늘을 날 수 없게 된 지 3세기, 육상 병기를 앞세운 제국이 이웃 왕국을 친다. |
+| 2014 | 절멸위우소녀 Amazing Twins (경계) | 絶滅危愚少女 Amazing Twins | 佐藤順一(원작·감독), エンカレッジフィルムズ | 애니메이션 | 확인 못 함 | 생각을 현실로 만드는 능력 'ISH'의 소녀가 몸에 쌍둥이 동생의 정신을 품고, 노리는 자들과 맞선다. |
+| 2014 | 纳米核心 | 纳米核心 | 吴酉恒(감독) | 애니메이션 | 확인 못 함 | 가상의 행성 '원성'에서 기술과 긴 수명을 택한 '아인'과 사람이 다툰다. |
+| 2014 | 나노 인베이더즈 (경계) | 纳米神兵 | 중·일 합작 | 애니메이션 | 확인 못 함 | 지구에 사는 외계인들의 모험을 그린 어린이 애니메이션. |
+| 2014 | 觀測站少年 (경계) | 觀測站少年 | 邱立偉(감독) | 애니메이션 | 확인 못 함 | 초등학생 제이미의 눈으로 지구 환경과 기후 변화를 살피는 대만 첫 SF 애니메이션. |
 | 2014 | 풍운유신 다이쇼군 (경계) | 風雲維新ダイ☆ショーグン | Project-D, J.C.STAFF | 애니메이션 | 있음 | 증기 기관이 얽힌 다른 막부 말기 일본에서 거대 로봇을 탄 젊은이들이 싸운다. |
 | 2014 | 미니특공대 (경계) | 미니특공대 | 삼지애니메이션 | 애니메이션 | 한국 원작 | 수천 년 전 약한 동물들을 지키려 모인 특공대가 첨단 과학 로봇으로 오늘날 세계 평화를 지킨다. |
 | 2014 | 바이클론즈 (경계) | 바이클론즈 | 영실업, 레트로봇 | 애니메이션 | 한국 원작 | 자전거와 우주를 엮은 변신 로봇들이 지구를 노리는 외계 제국과 맞선다. |
@@ -4636,25 +6654,56 @@
 | 2014 | 출동! 슈퍼윙스 (경계) | 출동! 슈퍼윙스 | 퍼니플럭스 · 광동알파애니메이션앤컬쳐(알파 그룹) | 애니메이션 | 한국 원작 | 세계 곳곳의 아이에게 짐을 나르는 비행기 로봇들이, 가는 곳마다 생긴 말썽을 힘을 모아 푼다. |
 | 2014 | 헬로카봇 (경계) | 헬로카봇 | 초이락컨텐츠컴퍼니 (애니메이션 스튜디오 더블유바바) | 애니메이션 | 한국 원작 | 자동차로 변신하는 로봇들이 사람 아이와 함께 도시를 지킨다 |
 | 2015 | 아브릴과 조작된 세계 | Avril et le monde truqué | 크리스티앙 데마르, 프랭크 에킨시 | 애니메이션 | 있음 | 석탄과 증기만 남은 1941년 다른 역사의 파리, 과학자 부모를 잃은 소녀가 고양이와 함께 음모를 쫓는다. |
+| 2015 | 샤를로트 | Charlotte | P.A.WORKS(감독 浅井義之), 麻枝准(원작·각본) | 애니메이션 | 확인 못 함 | 사춘기 아이 일부에게 불완전한 초능력이 생기는 세계, 남의 몸을 5초 빼앗는 소년이 능력자 학원에 든다. |
 | 2015 | Classroom☆Crisis | Classroom☆Crisis | MONTWO, Lay-duce | 애니메이션 | 있음 | 화성에 세운 '제4도쿄도'의 우주 기업 학원에서 낮엔 공부하고 밤엔 로켓을 만드는 특별반이 회사와 부딪친다. |
 | 2015 | Dinotrux (경계) | Dinotrux | DreamWorks Animation, Chris Gall(원작) | 애니메이션 | 확인 못 함 | 공룡과 건설 기계가 한 몸이 된 생물들이 사는 선사 시대 같은 세계의 모험. |
+| 2015 | Miles from Tomorrowland | Miles from Tomorrowland | Sascha Paladino | 애니메이션 | 확인 못 함 | 2500년, 우주선 스텔로스피어에서 사는 캘리스토 가족의 우주 모험. |
+| 2015 | Miraculous: Tales of Ladybug & Cat Noir (경계) | Miraculous: Tales of Ladybug & Cat Noir | Thomas Astruc · Jeremy Zag | 만화·애니메이션·영화 | 확인 못 함 | 마법 장신구로 변신하는 파리의 십대 둘이 호크 모스가 만든 악당과 싸운다. |
+| 2015 | Nexo Knights (경계) | Nexo Knights | The Lego Group | 애니메이션 | 확인 못 함 | 미래풍 중세 왕국 나이튼을 악당 제스트로에게서 지키는 젊은 기사 다섯. |
+| 2015 | Objectif Blake! | Objectif Blake! | Antoine Guilbaud | 애니메이션 | 확인 못 함 | 언젠가 인류를 지킬 소년 블레이크를 없애려 외계 다람쥐들이 과거로 보내진다. |
+| 2015 | Pumpkin Reports | Pumpkin Reports | Motion Pictures | 애니메이션 | 확인 못 함 | 지구 침공을 준비하러 온 외계인 케미 둘의 정체를 안 소년 맥스가 친구들과 음모를 막는다. |
+| 2015 | SuperMansion (경계) | SuperMansion | Matthew Senreich · Zeb Wells | 애니메이션 | 확인 못 함 | 늙은 영웅 티타늄 렉스가 이끄는 영웅 모임과 그 본거지 슈퍼맨션의 성인 희극. |
+| 2015 | Supernoobs | Supernoobs | Scott Fellows | 애니메이션 | 확인 못 함 | 외계인에게서 '배틀 볼'의 힘을 받은 열두 살 친구 넷이 중학교 생활과 우주 위협을 함께 버틴다. |
+| 2015 | UFO学園の秘密 (경계) | UFO学園の秘密 | 今掛勇(감독), HS PICTURES STUDIO | 애니메이션 | 확인 못 함 | 전원 기숙 학원의 학생 다섯이 외계인 납치와 외계인이 일으킨 사건을 파헤친다. |
 | 2015 | 코멧 루시퍼 | コメット・ルシファー | 8-Bit, 키쿠치 야스히토(감독) | 애니메이션 | 있음 | 푸른 광석으로 덮인 행성 '기프트'의 채굴 마을에서 소년이 지저 호수에서 수수께끼 소녀와 만난다. |
+| 2015 | 콘크리트 레볼루티오 초인환상 (경계) | コンクリート・レボルティオ〜超人幻想〜 | ボンズ(감독 水島精二), 會川昇(원작) | 애니메이션 | 있음 | 다른 역사를 걸은 '신화' 연호의 고도 성장기 일본, 외계인·로봇·요괴까지 온갖 초인을 관리하는 '초인과'. |
 | 2015 | ドアマイガーD (경계) | ドアマイガーD | ILCA | 애니메이션 | 확인 못 함 | 교토의 오래된 가게 주인이 지하에 잠든 로봇을 찾아낸 날, 거리에 흉악한 기계 괴수가 날뛴다. |
 | 2015 | 펀치라인 (경계) | パンチライン | MAGES., 上村泰 | 게임·애니메이션 | 있음 | 몸에서 빠져나온 소년이 몸을 되찾으려 애쓰는 사이, 인류 멸망이 걸린 사건에 휘말린다. |
 | 2015 | 플라스틱 메모리즈 | プラスティック・メモリーズ | 林直孝, 動画工房 | 애니메이션 | 있음 | 수명이 정해진 안드로이드를 만드는 대기업에서, 수명을 다한 안드로이드를 거두는 부서에 신입이 들어온다. |
 | 2015 | 기동전사 건담 철혈의 오펀스 | 機動戦士ガンダム 鉄血のオルフェンズ | 선라이즈, 나가이 타츠유키·오카다 마리 | 애니메이션 | 있음 | 옛 대전쟁 뒤 귀족 조직이 지키는 질서 아래, 화성의 소년병들이 등에 기계를 심고 싸움 |
+| 2015 | 美男高校地球防衛部LOVE! (경계) | 美男高校地球防衛部LOVE! | 高松信司(감독), ディオメディア(1기)·スタジオコメット(2기~), 馬谷く | 애니메이션 | 있음 | 외우주에서 온 두 생물 탓에 남고생들이 '지구 방위부'와 '지구 정복부'로 갈려 싸운다. |
 | 2015 | 갤럭시 키즈 (경계) | 갤럭시 키즈 | KBS(방영) | 애니메이션 | 한국 원작 | 우주 비행사를 꿈꾸는 아이와 인공위성 구조대가 말하는 행성들 사이에서 우주의 말썽을 해결한다. |
 | 2015 | 로보텍스 | 로보텍스 | KBS, 3PAPAS, 디알무비 | 애니메이션 | 한국 원작 | 팽이 모양 핵으로 움직이는 외계 금속 생명체들이 압제를 피해 지구로 달아나고, 아이들이 그들을 돕는다. |
 | 2015 | 로봇트레인 (경계) | 로봇트레인 | CJ E&M, 김부경(감독) | 애니메이션 | 한국 원작 | 기차들만 사는 트레인월드에서 마을을 잇는 터널이 막히자, 로봇으로 변하는 기차들이 마을을 지킨다. |
 | 2015 | 화산고래 | 화산고래 | 박혜미 | 애니메이션 | 한국 원작 | 대지진과 화산 폭발로 무정부 상태가 된 2070년 부산, 고래와 말하는 소녀가 화산고래 사냥에 따라나선다. |
+| 2016 | Atomic Puppet (경계) | Atomic Puppet | Mark Drop · Jerry Leibowitz | 애니메이션 | 확인 못 함 | 도시의 영웅 캡틴 아토믹이 열두 살 팬 조이와 악수하던 순간 앙심 품은 조수 탓에 살아 있는 인형이 된다. |
+| 2016 | Bienvenue chez les Ronks ! | Bienvenue chez les Ronks ! | Olivier Jean-Marie · Charles Vaucelle (X | 애니메이션 | 확인 못 함 | 기원전 37,520년의 롱크 부족에게 미래를 보여 주라고 보내진 외계인 플래시. |
+| 2016 | Counterfeit Cat | Counterfeit Cat | Andrew Lavery (Aardman Animations) | 애니메이션 | 확인 못 함 | 게으른 맹크스 고양이 맥스와, 보라색 고양이로 꾸민 파란 외계인 친구 가크. |
+| 2016 | Floogals | Floogals | Ceri Barnes · Nigel Pickard 외 | 애니메이션 | 확인 못 함 | 지구 사람을 연구하러 온 손가락만 한 외계인 셋이 소년의 방에서 물건을 살핀다. |
+| 2016 | Future-Worm! | Future-Worm! | Ryan Quincy | 애니메이션 | 확인 못 함 | 도시락통 타임머신을 만든 열두 살 대니와 미래에서 온 지렁이 퓨처웜의 시간 여행. |
+| 2016 | Infinity Train (경계) | Infinity Train | Owen Dennis | 애니메이션 | 확인 못 함 | 칸마다 기이한 세계가 담긴 끝없는 기차가 마음의 상처를 지닌 사람들을 태운다. |
+| 2016 | Looped | Looped | Todd Kauffman · Mark Thornton | 애니메이션 | 확인 못 함 | 사고 탓에 같은 날을 되풀이하는 고리에 갇힌 열두 살 두 친구. |
+| 2016 | Prisoner Zero | Prisoner Zero | Jason Haigh-Ellery · Austen Atkinson (Pl | 애니메이션 | 확인 못 함 | 디지털 체계 바이오위브로 인류를 부리는 제국에 맞서 십대 영웅 둘과 수수께끼의 죄수 제로가 싸운다. |
+| 2016 | Ranger Rob (경계) | Ranger Rob | Alexander Bar (Studio Liddell · Nelvana) | 애니메이션 | 확인 못 함 | 알렉산더 바가 만든 캐나다·영국 합작 판타지·공상 과학 애니메이션. |
+| 2016 | Ready Jet Go! | Ready Jet Go! | Craig Bartlett | 애니메이션 | 확인 못 함 | 적색 왜성을 도는 행성 보트론 7 에서 온 외계인 소년 제트의 가족과 지구 아이들. |
+| 2016 | Rusty Rivets (경계) | Rusty Rivets | Joshua Fisher · Michael O'Hare | 애니메이션 | 확인 못 함 | 미래풍 캐나다의 소년 발명가가 기계 부품을 고쳐 로봇 공룡과 작은 로봇들을 부린다. |
 | 2016 | Scavengers Reign | Scavengers Reign | Joseph Bennett, Charles Huettner | 애니메이션 | 확인 못 함 | 추락한 화물선 생존자들이 서로 얽혀 사는 낯선 행성의 생태계 속을 헤맨다 |
+| 2016 | TO BE HERO (경계) | TO BE HERO | 李豪凌(감독) · Studio LAN | 애니메이션 | 확인 못 함 | 변기에 빨려 들어간 중년 아저씨가 지구를 구할 영웅이 되는 희극 — 우주인 영웅·악당이 나온다. |
+| 2016 | Zak Storm (경계) | Zak Storm | Zagtoon · Man of Action | 애니메이션 | 확인 못 함 | 버뮤다 삼각지대로 빨려 든 소년이 살아 있는 해적선과 말하는 칼을 만나 해적 영웅이 된다. |
 | 2016 | アクティヴレイド -機動強襲室第八係- | アクティヴレイド -機動強襲室第八係- | 谷口悟朗 (총감독), Production IMS | 애니메이션 | 확인 못 함 | 중범죄가 늘자 경찰이 동력 갑옷 '윌 웨어'를 입고 맞서는 가까운 미래 |
 | 2016 | アンダー・ザ・ドッグ | アンダー・ザ・ドッグ | 石井二郎 (원안), Kinema Citrus | 애니메이션 | 확인 못 함 | 도쿄 올림픽 테러 5년 뒤인 2025년, 국제 연합이 특수 능력을 지닌 십대를 억지로 싸움에 내몬다 |
 | 2016 | 유리의 꽃과 부수는 세계 | ガラスの花と壊す世界 | 이시하마 마사시 | 애니메이션 | 있음 | 여러 세계와 시간이 담긴 무중력의 '지식의 상자'에서 두 소녀가 세계를 갉아먹는 바이러스를 지운다. |
+| 2016 | 키즈나이버 (경계) | キズナイーバー | TRIGGER(감독 小林寛), 岡田麿里(원작) | 만화·애니메이션 | 있음 | 수술로 고통을 나눠 느끼게 된 고교생 일곱이, 감정까지 이어지는 실험의 대상이 된다. |
 | 2016 | 퀄리디아 코드 | クオリディア・コード | Speakeasy, A-1 Pictures | 소설·애니메이션 | 있음 | 이계 생물의 침공을 피해 냉동 수면에 들었던 아이들이 깨어나 저마다 이능력을 얻는다. |
+| 2016 | 클래시컬로이드 (경계) | クラシカロイド | サンライズ·BN Pictures(감독 藤田陽一·馬引圭) | 애니메이션 | 있음 | 베토벤과 모차르트를 자칭하는 두 사람이 지휘봉을 흔들면, 곡에서 이상한 힘이 터져 나온다. |
 | 2016 | 쿠로무쿠로 | クロムクロ | P.A.WORKS | 애니메이션 | 있음 | 400년 전부터 지구를 노려 온 외계 세력에 맞서, 잠에서 깬 옛 사무라이와 여고생이 검은 로봇에 탄다. |
+| 2016 | タイムトラベル少女〜マリ・ワカと8人の科学者たち〜 | タイムトラベル少女〜マリ・ワカと8人の科学者たち〜 | ワオワールド(감독 ヤマサキオサム) | 애니메이션 | 확인 못 함 | 실종된 아버지가 준 펜던트의 힘으로, 중학생 소녀가 여러 시대로 시간을 건너 과학자 여덟 명을 만난다. |
 | 2016 | 하이 스쿨 플릿 (경계) | ハイスクール・フリート | A-1 Pictures, 鈴木貴昭(원안) | 애니메이션·영화 | 있음 | 100년 전 땅이 가라앉아 바다 위 도시로 사는 일본에서 바다를 지키는 여학생 함대가 훈련 항해에 나선다. |
 | 2016 | 파워캐치완다 (경계) | パワーキャッチワンダ | タカラトミー, TMS 엔터테인먼트 | 애니메이션 | 있음 | 세상 일이 모두 프로그램 몬스터로 돌아가는 세계, 소년이 우주에서 온 개와 버그 난 몬스터를 잡는다. |
+| 2016 | 플립 플래퍼즈 (경계) | フリップフラッパーズ | Studio 3Hz(감독 押山清高) | 애니메이션 | 있음 | 소원을 이뤄 준다는 조각을 찾아, 중학생이 비밀 조직의 소녀와 이상한 세계 '퓨어 일루전'을 넘나든다. |
+| 2016 | 부부키 부란키 | ブブキ・ブランキ | サンジゲン(감독 小松田大全) | 애니메이션 | 있음 | 하늘섬의 거대 생명체 '브랑키'가 날뛰며 도쿄에 떨어지고, 그것을 다루는 아이들이 맞선다. |
+| 2016 | 헤봇! (경계) | ヘボット! | BN Pictures(감독 石平信司) | 게임·만화·애니메이션 | 확인 못 함 | 머리에 나사를 꽂은 로봇 같은 생명체들이 말장난 대결을 벌이는 나사 모양 섬. |
+| 2016 | 레갈리아 The Three Sacred Stars | レガリア The Three Sacred Stars | アクタス(감독 登坂晋), Delegation of Enastoria(원작 | 애니메이션 | 있음 | 12년 전 한 왕국의 도시가 텅 빈 사건 뒤, 이웃 황국에 사는 두 소녀가 거대 병기 '레갈리아'와 엮인다. |
 | 2016 | 너의 이름은 (경계) | 君の名は。 | 신카이 마코토, 코믹스 웨이브 | 애니메이션 | 있음 | 자고 일어나면 몸이 바뀌는 두 사람이 사이에 놓인 3년과 혜성 재해를 알아챔 |
 | 2016 | 우주 패트롤 루루코 | 宇宙パトロールルル子 | 今石洋之, TRIGGER | 애니메이션 | 있음 | 외계인과 지구인이 섞여 사는 은하 이민 특구에서 평범한 중학생이 우주 경찰 견습이 된다. |
 | 2016 | 듀비카 (경계) | 猎车兽魂 | Wu Guanting 외(감독), Sunboy Productions | 애니메이션 | 있음 | 생물의 지능을 담는 결정이 자동차 게임에 쓰인 뒤, 소년이 비스트카 요정과 짝이 되어 게임에 뛰어든다. |
@@ -4664,21 +6713,47 @@
 | 2016 | 다이노 코어 (경계) | 다이노 코어 | 투바앤 | 애니메이션 | 한국 원작 | 공룡 디스크로 공룡 로봇을 움직이는 아이들이 악당에 맞서는 영웅물. |
 | 2016 | 캡슐보이 (경계) | 캡슐보이 | 지앤지엔터테인먼트, CJ ENM, 텐펑 애니메이션 | 애니메이션 | 한국 원작 | 지구보다 기술이 앞선 작은 행성의 외계인 '캡슐보이'가 지구로 떨어지며 벌어지는 일. |
 | 2016 | 파워배틀 와치카 (경계) | 파워배틀 와치카 | 삼지 애니메이션, CJ E&M, 현대자동차, 이노션 | 애니메이션 | 한국 원작 | 인공지능을 실은 작은 경주차들이 공상과학 무기로 겨루는 어린이 대결물 |
+| 2017 | 3 Amigonauts | 3 Amigonauts | Kyle Marshall | 애니메이션 | 확인 못 함 | 먼 미래, 지구를 멸망에서 구해 영웅이 된 무모한 열세 살 셋. |
 | 2017 | Autodale | Autodale | David James Armsby(Dead Sound) | 애니메이션 | 확인 못 함 | 3차 세계 대전 뒤 북미에 세운 실험 도시를 거짓말 못 하는 인공지능과 로봇 일꾼들이 돌본다. |
+| 2017 | Hanazuki: Full of Treasures (경계) | Hanazuki: Full of Treasures | Dave Polsky (원작 Hanneke Metselaar · Niko | 애니메이션 | 확인 못 함 | 닿는 것의 생명과 색을 빨아들이는 검은 기운에 맞서 '문플라워'가 저마다의 달을 지키는 은하. |
 | 2017 | ID-0 | ID-0 | 谷口悟朗, サンジゲン | 애니메이션 | 있음 | 광석 오리하르트로 우주에 뻗어 나간 시대, 마음을 로봇 몸에 옮겨 일하는 해적 채굴단에 학생이 끼어든다. |
+| 2017 | Jeff & Some Aliens | Jeff & Some Aliens | Sean Donnelly · Alessandro Minoli | 애니메이션 | 확인 못 함 | 평범한 남자 제프를 살펴 인류를 알려고 지구에 온 외계인 셋의 희극. |
+| 2017 | Mysticons (경계) | Mysticons | Sean Jara (Nelvana · Topps) | 애니메이션 | 확인 못 함 | 제미나 왕국의 공주와 세 소녀가 '용의 원반'에 뽑혀 전설의 영웅 미스티콘이 된다. |
+| 2017 | Neo Yokio (경계) | Neo Yokio | Ezra Koenig | 애니메이션 | 확인 못 함 | 마법사들이 악마에게서 구해 낸, 또 하나의 오늘날 뉴욕 '네오 요키오'. |
+| 2017 | OK K.O.! Let's Be Heroes (경계) | OK K.O.! Let's Be Heroes | Ian Jones-Quartey | 애니메이션 | 확인 못 함 | 복고풍 미래 201X년, 영웅 상가에서 일하며 세계 최고의 영웅을 꿈꾸는 소년 케이오. |
+| 2017 | Re:CREATORS (경계) | Re:CREATORS | TROYCA(감독 あおきえい), 広江礼威(원작) | 만화·소설·애니메이션 | 있음 | 애니메이션과 게임 속 인물들이 현실로 튀어나와, 저마다 자기를 만든 창작자를 찾아 세계를 뒤흔든다. |
+| 2017 | Stretch Armstrong and the Flex Fighters (경계) | Stretch Armstrong and the Flex Fighters | Kevin Burke · Victor Cook · Chris Wyatt | 애니메이션 | 확인 못 함 | 첨단 도시 차터 시티의 평범한 십대 셋이 사고로 플렉사리움을 뒤집어쓰고 초능력을 얻는다. |
+| 2017 | THE REFLECTION (경계) | THE REFLECTION | スタジオディーン(감독 長濵博史), スタン・リー·長濵博史(원작) | 애니메이션 | 확인 못 함 | 세계를 덮친 대재앙 '리플렉션' 뒤 초능력을 얻은 사람들이 생겨, 영웅과 악당으로 갈려 싸운다. |
+| 2017 | Welcome to the Wayne (경계) | Welcome to the Wayne | Billy Lopez | 애니메이션 | 확인 못 함 | 이상한 일 '웨인 현상'이 가득한 고층 아파트 웨인으로 이사 온 소년 안시. |
+| 2017 | Winston Steinburger and Sir Dudley Ding Dong | Winston Steinburger and Sir Dudley Ding Dong | Mike Geiger | 애니메이션 | 확인 못 함 | 열두 살 윈스턴과 고양이 더들리가 외계인 친구들과 은하를 누빈다. |
+| 2017 | ひるね姫 〜知らないワタシの物語〜 (경계) | ひるね姫 〜知らないワタシの物語〜 | 神山健治(원작·감독), シグナル・エムディ | 만화·소설·애니메이션 | 확인 못 함 | 낮잠마다 기계 왕국에서 태블릿으로 마법을 쓰는 공주가 되는 꿈을 꾸는 여고생, 꿈과 현실이 맞물린다. |
 | 2017 | トミカハイパーレスキュー ドライブヘッド (경계) | トミカハイパーレスキュー ドライブヘッド | タカラトミー, OLM, XEBEC | 애니메이션 | 있음 | 가까운 미래 바다 위 신도시를 지키려 구급경찰이 아이 넷을 탈것 로봇의 조종사로 모은다. |
 | 2017 | プリンセス・プリンシパル (경계) | プリンセス・プリンシパル | Studio 3Hz(제작), 타치바나 마사키(감독) | 만화·애니메이션·영화 | 확인 못 함 | 거대한 벽으로 동서가 갈린 19세기 말 런던, 명문 학교 소녀 다섯이 정체를 숨기고 스파이로 움직인다. |
+| 2017 | 스타크로스 | 星原小宝 | 广州星原文化科技 | 애니메이션 | 있음 | 로봇들의 행성 펜타디움에 에너지가 바닥나자 V5 대원들이 우주 물질 '드림스톤'을 찾아 나선다. |
+| 2017 | 机甲大师 (경계) | 机甲大师 | 大疆创新(제작) · GONZO(애니메이션) · 山本靖貴(감독) | 애니메이션 | 확인 못 함 | 로봇 대전 대회 '로보마스터'를 바탕으로 한 중·일 합작 로봇 애니메이션. |
 | 2017 | 카도: The Right Answer | 正解するカド | 토에이 애니메이션, 노자키 마도 | 애니메이션 | 있음 | 하네다 공항에 내려앉은 더 높은 차원의 존재가 인류에게 무한한 기술을 건넴 |
+| 2017 | 토이무비: 미래대모험 | 阿唐奇遇 | 중국 제작 | 애니메이션 | 있음 | 미래에서 왔다는 것만 기억하는 로봇 '타임봇'을 위해 장난감 친구들이 미래 세계로 떠난다. |
 | 2017 | 에어로버 (경계) | 에어로버 | 픽셔너리 아트팩토리 | 애니메이션 | 한국 원작 | 드론이 일상인 가까운 미래, 운석 에너지로 움직인 드론의 전쟁 뒤 평화의 상징으로 드론 대회가 열린다 |
 | 2017 | 젤리고 (경계) | 젤리고 |  | 애니메이션 | 한국 원작 | 인류가 사라진 세상에서 파란 몸의 친구들이 기계 속 젤리를 먹으려고 애쓴다. |
 | 2017 | 지오메카 비스트가디언 (경계) | 지오메카 비스트가디언 | 영실업(기획), 팝콘픽쳐스 | 애니메이션 | 한국 원작 | 동물의 야성을 지닌 첨단 로봇과 교감한 소년이 파트너가 되어 악당과 싸운다. |
 | 2017 | 타오르지마 버스터 (경계) | 타오르지마 버스터 | 시너지미디어 | 애니메이션 | 한국 원작 | 초등학생이 받은 택배 상자에서 지구 정복을 꿈꾸는 우주 로봇들이 튀어나온다. |
 | 2018 | A.I.C.O. 인카네이션 | A.I.C.O. Incarnation | ボンズ, 村田和也 | 애니메이션 | 있음 | 인공 생체 연구 사고로 인조 생명체가 협곡 도시를 집어삼킨 2035년, 소녀가 제 몸의 비밀을 찾아 나선다. |
+| 2018 | B: 더 비기닝 (경계) | B: The Beginning | Production I.G(감독 中澤一登·山川吉樹) | 애니메이션 | 있음 | 섬나라 왕국에서 흉악범만 죽이는 'Killer B'를 천재 수사관이 쫓고, 몸을 바꾸는 소년이 얽힌다. |
+| 2018 | Ballmastrz: 9009 | Ballmastrz: 9009 | Christy Karacas | 애니메이션 | 확인 못 함 | '방사능 전쟁'으로 무너진 미래, 수수께끼 남자가 만든 경기 '더 게임'의 스타 가즈 딕지. |
+| 2018 | Butlers ~천년백년 이야기~ (경계) | Butlers〜千年百年物語〜 | SILVER LINK.(감독 高橋賢) | 애니메이션 | 없음 | 천 년 이어진 가문의 수호자 '버틀러즈'가 학원 생활과 시간을 넘나드는 싸움을 오간다. |
+| 2018 | DOUBLE DECKER! ダグ&キリル | DOUBLE DECKER! ダグ&キリル | サンライズ(감독 古田丈司) | 만화·애니메이션 | 확인 못 함 | 해가 둘 뜨는 도시 국가에서 위험한 약 '앤섬'을 쫓는 특수 수사반 두 형사의 활약. |
+| 2018 | Dallas & Robo | Dallas & Robo | Mike Roberts | 애니메이션 | 확인 못 함 | 거친 우주 트럭 기사 댈러스와 스스로 전사 시인이라는 로봇 로보. |
 | 2018 | 파이널 스페이스 | Final Space | Olan Rogers, David Sacks | 애니메이션 | 있음 | 우주를 집어삼킬 존재와 맞서는 덜렁이 죄수와 동료들의 우주 모험 |
+| 2018 | Human Kind Of | Human Kind Of | Diana McCorry | 애니메이션 | 확인 못 함 | 떨어져 살던 아버지가 외계인임을 안 괴짜 십대 주디의 반쪽 외계인 사춘기. |
 | 2018 | Isle of Dogs | Isle of Dogs | Wes Anderson | 애니메이션 | 확인 못 함 | 2038년 개 독감이 번진 일본 도시, 시장이 개들을 쓰레기 섬으로 내쫓자 소년이 제 개를 찾으러 간다. |
 | 2018 | RErideD -刻越えのデリダ- | RErideD -刻越えのデリダ- | GEEKTOYS | 애니메이션 | 없음 | 2050년 기계 회사가 무너진 뒤, 잠에서 깬 개발자가 시간을 거슬러 미래를 바꾸려 한다. |
+| 2018 | Robozuna | Robozuna | Ed Bignell | 애니메이션 | 확인 못 함 | 악한 제국과 로봇 군단이 차지한 행성을 고아 소년과 손수 만든 로봇이 되찾으려 한다. |
+| 2018 | Space Chickens in Space | Space Chickens in Space | José C. García de Letona · Rita Street | 애니메이션 | 확인 못 함 | 집에서 끌려가 실수로 은하 엘리트 사관 학교에 들어간 닭 셋. |
+| 2018 | The Hollow (경계) | The Hollow | Vito Viscomi | 애니메이션 | 확인 못 함 | 기억 없이 한 방에서 깨어난 십대 셋, 주머니 속 쪽지의 이름만이 실마리다. |
+| 2018 | あかねさす少女 | あかねさす少女 | ダンデライオンアニメーションスタジオ·オクルトノボル(감독 玉村仁), Meta | 게임·애니메이션 | 확인 못 함 | 신목에 라디오를 맞추면 평행 세계로 간다는 의식을 해 본 여고생들이 다른 세계의 소녀와 떠난다. |
 | 2018 | 달링 인 더 프랑키스 | ダーリン・イン・ザ・フランキス | 트리거·A-1 Pictures(클로버웍스) | 애니메이션 | 있음 | 늙지 않는 어른들의 도시를 지키려 둘씩 짝지어 거대 로봇을 모는 길러진 아이들 |
 | 2018 | 플래닛 위드 | プラネット・ウィズ | 水上悟志(원안), J.C.STAFF | 만화·소설·애니메이션 | 있음 | 고향 별을 잃은 소년이 고양이 모양 외계인과 함께, 지구를 봉인하러 온 우주 연합에 맞선다. |
+| 2018 | 메카우데 | メカウデ | TriFスタジオ(원작·감독 オカモト) | 만화·애니메이션 | 있음 | 중학생이 기계 팔 모양의 생명체 '메카우데'를 만나, 메카우데를 둘러싼 싸움에 휘말린다. |
 | 2018 | 메갈로 복스 (경계) | メガロボクス | 森山洋, TMS | 애니메이션 | 있음 | 몸에 기계 장비 '기어'를 달고 싸우는 근미래 격투기, 맨몸으로 나선 복서가 정점을 노린다. |
 | 2018 | 신칸센변형로보 신카리온 (경계) | 新幹線変形ロボ シンカリオン | 프로젝트 신카리온 | 애니메이션 | 있음 | 신칸센이 변형하는 거대 로봇 신카리온을 아이들이 몰고, 지구를 빼앗으려는 적과 우주에서 온 괴물에 맞선다. |
 | 2018 | 未来のミライ (경계) | 未来のミライ | 細田守 | 애니메이션 | 확인 못 함 | 동생이 태어나 샘이 난 아이 앞에 미래에서 온 동생과 집안의 지난날이 나타난다. |
@@ -4686,40 +6761,76 @@
 | 2018 | 重神機パンドーラ | 重神機パンドーラ | 河森正治(원작·총감독), SATELIGHT | 애니메이션 | 확인 못 함 | 2038년, 원자로 폭주 사고 뒤 기계와 섞인 괴물로 변한 동식물에 맞서 인류 최후의 요새 도시가 버틴다. |
 | 2018 | 쥬라기 캅스 (경계) | 쥬라기 캅스 | 스튜디오 버튼 | 애니메이션 | 한국 원작 | 6500만 년 전 침략자를 달에 가둔 로봇들이 탈것으로 숨어 지내다 새 주인이 된 소년과 깨어난다. |
 | 2019 | Adrian | Adrian | Adriano Celentano (원안), Milo Manara (캐릭터 | 애니메이션 | 확인 못 함 | 2068년 디스토피아 밀라노, 몇몇 기업이 실제로 다스리는 나라에서 시계공이 자유를 위해 싸운다 |
+| 2019 | Alien News Desk | Alien News Desk | Chris Prynoski · Austin Reading | 애니메이션 | 확인 못 함 | 외계인 앵커 둘이 외계인 눈으로 지구 소식을 전하는 성인 애니메이션. |
+| 2019 | BLACKFOX | BLACKFOX | Studio 3Hz(총감독 野村和也, 감독 篠原啓輔) | 애니메이션 | 확인 못 함 | 근미래 대도시의 닌자 집안 딸이 연구자 아버지의 로봇들과 함께 집안을 친 자들에게 복수에 나선다. |
+| 2019 | D.N. Ace | D.N. Ace | Matthew Wexler (Nelvana) | 애니메이션 | 확인 못 함 | 디엔에이를 섞어 새 생물을 만들어 내는 힘을 알게 된 열두 살 에이스. |
 | 2019 | HELLO WORLD | HELLO WORLD | 伊藤智彦 (감독), 野崎まど (각본) | 애니메이션 | 확인 못 함 | 미래 교토, 10년 뒤에서 온 자신을 만난 고교생이 반 친구를 구하려 한다 |
+| 2019 | HUMAN LOST 인간실격 | HUMAN LOST 人間失格 | ポリゴン・ピクチュアズ(감독 木﨑文智) | 애니메이션 | 확인 못 함 | 쇼와 111년, 나노머신과 유전자 조작으로 병도 죽음도 밀어낸 일본에서 빈부가 갈린 바깥 구역이 썩어 간다. |
+| 2019 | Kingdom Force (경계) | Kingdom Force | Matthew Fernandes | 애니메이션 | 확인 못 함 | 다섯 왕국에서 불려 온 동물 영웅들이 구조 차량을 합쳐 거대 로봇을 만든다. |
 | 2019 | 러브, 데스 + 로봇 | Love, Death & Robots | Tim Miller, David Fincher (Netflix) | 애니메이션 | 있음 | 편마다 다른 세계를 그리는 짧은 애니메이션 묶음 |
 | 2019 | Meta Runner | Meta Runner | Glitch Productions | 애니메이션 | 확인 못 함 | 오락과 생활이 모두 비디오 게임과 e스포츠를 중심으로 도는 미래 사회 |
 | 2019 | OBSOLETE | OBSOLETE | 虚淵玄(원안), バンダイビジュアル | 애니메이션 | 확인 못 함 | 2014년 지구에 온 외계인이 생각으로 움직이는 싼 로봇을 팔자 전쟁과 세상 질서가 뒤바뀐다. |
+| 2019 | Power Players (경계) | Power Players | Jeremy Zag (개발 Man of Action) | 애니메이션 | 확인 못 함 | 아홉 살 액설이 장난감 영웅 무리와 함께 살아 움직이는 악당 장난감 매드캡과 싸운다. |
 | 2019 | Sherwood | Sherwood | Diana Manson, Megan Laughton | 애니메이션 | 확인 못 함 | 환경 재앙으로 망가진 2270년 영국, 열네 살 해커 로빈이 노팅엄 영주와 싸운다 |
+| 2019 | Undone | Undone | Kate Purdy · Raphael Bob-Waksberg | 애니메이션 | 확인 못 함 | 죽을 뻔한 교통사고 뒤 시간을 움직이는 힘이 생긴 알마가 아버지 죽음의 진실을 쫓는다. |
 | 2019 | gen:LOCK | gen:LOCK | Gray Haddock (Rooster Teeth) | 애니메이션 | 확인 못 함 | 조종사의 의식을 복사해 넣은 거대 로봇으로 독재 세력과 싸우는 미래 |
+| 2019 | 내일 세계가 끝난다 해도 | あした世界が終わるとしても | 櫻木優平(감독), クラフター | 소설·애니메이션 | 확인 못 함 | 짝을 이루는 두 일본에서 한쪽 사람이 죽으면 다른 쪽 짝도 죽고, 원격 인형 병기를 앞세운 싸움이 건너온다. |
 | 2019 | 미소의 대가 (경계) | エガオノダイカ | タツノコプロ, 스즈키 토시마사(감독) | 애니메이션 | 있음 | 지구에서 아득히 먼 별의 한 왕국에서, 철없는 공주와 늘 웃는 젊은 군인 두 소녀가 전쟁을 겪는다. |
 | 2019 | 캐롤 & 튜즈데이 (경계) | キャロル&チューズデイ | 본즈, 와타나베 신이치로 | 애니메이션 | 있음 | 인공지능이 노래를 만드는 개척 화성에서 손으로 노래를 짓는 두 소녀 |
 | 2019 | 센코롤 커넥트 (경계) | センコロール コネクト | 우키 아츠야 | 애니메이션 | 있음 | 지방 도시 건물 위에 거대 괴물이 나타나고, 한 소녀가 이상한 생물 '센코'를 기르는 소년과 친해진다. |
 | 2019 | 프로메어 | プロメア | 트리거, 이마이시 히로유키·나카시마 카즈키 | 애니메이션 | 있음 | 사람 몸에서 불이 솟는 병이 퍼진 뒤 불꽃 생명과 소방대, 지구 탈출 계획이 얽힘 |
 | 2019 | 리비전즈 | リヴィジョンズ | S・F・S, 谷口悟朗 | 애니메이션 | 있음 | 시부야가 통째로 300년 뒤 폐허 미래로 옮겨지고, 예언을 들었던 고교생이 동료를 지키려 싸운다. |
 | 2019 | ロビハチ | ロビハチ | 高松信司 | 애니메이션 | 확인 못 함 | 빛보다 빠른 기술로 외계 종족과 연방을 이룬 시대, 빚쟁이 사내와 동료가 우주 여행을 떠난다. |
+| 2019 | 乙姫二万年 (경계) | 乙姫二万年 | にいやなおゆき(감독) | 애니메이션 | 확인 못 함 | 낡은 아파트에 2만 년 뒤에서 왔다는 여자가 눌러살고, 미래 괴수 영화를 보러 온 외계인까지 끼는 소동. |
+| 2019 | 춤추는 외계인 아고 (경계) | 外星人阿果 | 深圳市时代科腾文化传媒 | 애니메이션 | 확인 못 함 | 외계인 아궈가 아이들 곁에서 일상의 소동을 겪는 어린이 애니메이션. |
 | 2019 | 灵笼 | 灵笼 | 艺画开天 (YHKT Entertainment), 빌리빌리 | 애니메이션 | 없음 | 땅이 뒤집힌 대재앙 뒤, 하늘에 뜬 요새에서 유전자 등급으로 사람을 나눠 사는 인류 |
+| 2019 | 황야의 코토부키 비행대 (경계) | 荒野のコトブキ飛行隊 | GEMBA(감독 水島努) | 만화·애니메이션 | 없음 | 황야가 이어지는 세계 '이지츠', 하늘길 교역 비행선을 공적에게서 지키는 여성 조종사 경호대의 활약. |
 | 2019 | 메탈리온 (경계) | 메탈리온 | 영실업, 윈징 애니메이션 | 애니메이션 | 한국 원작 | 자원을 마구 쓴 지구가 힘을 잃은 때, 소년이 깨어난 고대 기계 전사와 함께 세계 정복자와 싸운다 |
 | 2019 | 벅스봇 이그니션 (경계) | 벅스봇 이그니션 | 칵테일 미디어 | 애니메이션 | 한국 원작 | 바이러스가 퍼진 곤충 로봇 세계에서 두 종족이 전쟁을 벌이고, 계약한 아이들이 그 세계로 간다. |
+| 2020 | Dorg Van Dango (경계) | Dorg Van Dango | Fabian Erlinghäuser · Nora Twomey (Carto | 애니메이션 | 확인 못 함 | 51구역에서 달아난 유니콘·마녀·외계인·유령을 평범한 소년 도그가 쇼핑몰 지하에 숨긴다. |
+| 2020 | Droners | Droners | Pierre de Cabissole · Sylvain Dos Santos | 애니메이션 | 확인 못 함 | 물이 95%를 덮은 행성 테라콰, 가라앉는 섬을 지키려 드론 경주에 나선 아이들. |
+| 2020 | Glitch Techs | Glitch Techs | Eric Robles · Dan Milano | 애니메이션 | 확인 못 함 | 게임 속 괴물이 현실로 튀어나오는 '글리치'를 몰래 처리하는 십대 기술자들. |
+| 2020 | Hero Elementary (경계) | Hero Elementary | Christine Ferraro · Carol-Lynn Parente | 애니메이션 | 확인 못 함 | 초능력을 익히는 초등 영웅 학교에 다니는 '스파크스 조' 아이 넷의 과학 교육 애니메이션. |
 | 2020 | ID:INVADED | ID:INVADED イド:インヴェイデッド | NAZ, 아오키 에이·마이조 오타로 | 애니메이션 | 있음 | 살인자의 마음이 만든 세계에 탐정을 들여보내 범인을 쫓는 수사 기관 |
 | 2020 | 리스너즈 | LISTENERS | 1st PLACE, MAPPA | 애니메이션 | 있음 | 정체 모를 생명체에 맞서 몸에 꽂아 모는 전투 기계가 싸우는 세계, 고철 마을 소년이 꿈을 좇는다. |
+| 2020 | Magical Girl Friendship Squad (경계) | Magical Girl Friendship Squad | Kelsey Stephanides | 애니메이션 | 확인 못 함 | 갈 길 모르는 밀레니얼 여자 둘이 초능력으로 우주를 지키며 집세도 내야 한다. |
+| 2020 | Ollie's Pack (경계) | Ollie's Pack | Pedro Eboli · Graham Peterson | 애니메이션 | 확인 못 함 | 책가방이 '몬스터버스'로 통하는 문이 되어 괴물들이 넘어오는 소년 올리. |
+| 2020 | Powerbirds (경계) | Powerbirds | Stephen P. Breen · Jennifer Monier-Willi | 애니메이션 | 확인 못 함 | 소년 맥스가 학교에 간 사이 영웅 새로 변한 앵무새 둘이 동물 악당을 막는다. |
+| 2020 | Remy & Boo | Remy & Boo | Matthew Fernandes | 애니메이션 | 확인 못 함 | 모험 좋아하는 여섯 살 레미와 크고 말랑한 분홍 로봇 친구 부. |
 | 2020 | 솔라 오포짓 | Solar Opposites | Justin Roiland, Mike McMahan (Hulu) | 애니메이션 | 있음 | 고향 별이 망해 지구 교외에 숨어 사는 외계인 가족 |
+| 2020 | The Midnight Gospel (경계) | The Midnight Gospel | Pendleton Ward · Duncan Trussell | 애니메이션 | 확인 못 함 | 띠 모양 차원 크로매틱 리본의 우주 방송인이 무허가 다중 우주 모의기로 멸망 직전 세계들을 찾는다. |
 | 2020 | شہرِ تبسم | شہرِ تبسم | Arafat Mazhar (Puffball Studios) | 애니메이션 | 확인 못 함 | 2071년 파키스탄, 기술로 모두에게 늘 웃음을 강요하고 슬픈 얼굴은 죽음으로 다스린다 |
 | 2020 | 아쿠다마 드라이브 | アクダマドライブ | 스튜디오 피에로, 타구치 토모히사·코다카 카즈타카 | 애니메이션 | 있음 | 간토에 짓눌린 미래 간사이, 사형을 앞둔 악당들이 한 의뢰로 엮임 |
+| 2020 | ジビエート | ジビエート | 青木良(원작), ランチ・BOX·スタジオエル(애니메이션) | 애니메이션 | 확인 못 함 | 1600년의 무사와 닌자가 2030년으로 넘어오니, 사람을 괴물로 바꾸는 바이러스가 일본을 덮고 있었다. |
 | 2020 | 데카당스 | デカダンス | NUT, 타치카와 유즈루 | 애니메이션 | 있음 | 괴물에 맞서 사는 인류의 요새 도시가 사실은 사이보그들이 노는 판이었던 세계 |
+| 2020 | 토미카 유대합체 어스그랜너 | トミカ絆合体 アースグランナー | タカラトミー(원작), OLM TEAM INOUE(애니메이션, 감독 ウシロ | 애니메이션 | 있음 | 지구 자전 에너지를 노린 우주 폭주족이 쳐들어오자, 쌍둥이 형제가 뜻을 지닌 기계와 짝을 이뤄 맞선다. |
+| 2020 | 전익의 시그드리파 (경계) | 戦翼のシグルドリーヴァ | A-1 Pictures(감독 徳田大貴), 戦翼倶楽部(원작) | 애니메이션 | 있음 | 2019년 지구에 나타난 '기둥'이 생명을 위협하자, 오딘이라는 신이 준 전투기와 소녀 비행사들이 맞선다. |
+| 2020 | 无敌鹿战队 (경계) | 无敌鹿战队 | 爱奇艺(제작) | 애니메이션 | 확인 못 함 | 숲속 배 모양 집에 사는 사슴 넷이 '행성의 힘'으로 숲과 도시를 지킨다. |
+| 2020 | 기억관리국 | 记忆管理局 | bilibili(제작) | 애니메이션 | 확인 못 함 | 과거로 가는 시간 총의 에너지를 찾던 청년이 '기억 관리국'에 떨어져 기억층의 버그 인간을 거둔다. |
 | 2020 | 스페이스 캅스 (경계) | 스페이스 캅스 | 에넴 | 애니메이션 | 한국 원작 | 평화에 군기가 빠져 지하철역으로 쫓겨난 우주 경찰 다섯이 지구를 침략한 악당에 맞서 다시 일어선다. |
 | 2020 | 시간여행자 루크 (경계) | 시간여행자 루크 | 애니작·대원미디어·SK브로드밴드, 기글가라지 | 애니메이션 | 한국 원작 | 호텔에 숨은 시간 여행 승강기로 시대를 오가던 벨보이 소년이 유물을 노리는 다른 시간 여행자에 맞선다. |
 | 2020 | 일기 시리즈 (경계) | 일기 시리즈 | 짤툰(칰타 글, Taiki 연출) | 애니메이션 | 한국 원작 | 바이러스 노출 사고로 좀비가 퍼진 현대 한국, 곳곳의 생존자 무리가 살아남으려 몸부림친다. |
 | 2020 | 히어로 써클 (경계) | 히어로 써클 | 스튜디오 티앤티, EBS | 애니메이션 | 한국 원작 | 초능력을 지닌 아이들이 모인 학교 동아리가 서툴게나마 힘을 합쳐 학교의 사건을 해결한다. |
 | 2021 | Deep Insanity (경계) | Deep Insanity | スクウェア・エニックス | 게임·만화·애니메이션 | 확인 못 함 | 깨어나지 못하는 잠병이 번지고 이형이 나타나자, 그 근원인 남극 지하 세계로 사람들이 내려간다. |
+| 2021 | Dogs in Space | Dogs in Space | Jeremiah Cortez | 애니메이션 | 확인 못 함 | 가까운 미래, 유전자를 고친 개들이 인류의 새 보금자리를 찾아 우주로 보내진다. |
+| 2021 | Elliott from Earth | Elliott from Earth | Guillaume Cassuto | 애니메이션 | 확인 못 함 | 외계 기술이던 운석에 실려 우주 반대편 정거장 센트리움에 간 소년과 지질학자 엄마. |
+| 2021 | Ghostforce (경계) | Ghostforce | Jeremy Zag (ZAG) | 애니메이션 | 확인 못 함 | 눈에 안 보이는 유령에 맞서 기계 장치로 가두는 뉴욕 중학생 영웅 셋. |
+| 2021 | Inside Job | Inside Job | Shion Takeuchi | 애니메이션 | 확인 못 함 | 음모론이 다 참인 세계, 그림자 정부 조직 '코그니토'를 무대로 한 직장 희극. |
 | 2021 | Mad God (경계) | Mad God | Phil Tippett | 애니메이션 | 없음 | 신의 벼락을 맞은 바벨탑 아래, 병사가 잠수종을 타고 끝없이 무너진 지하 세계로 내려간다. |
 | 2021 | 학살 드론 | Murder Drones | Glitch Productions, Liam Vickers | 애니메이션 | 확인 못 함 | 사람이 사라진 외계 행성에서 일꾼 로봇과 그들을 죽이러 온 해체 로봇이 친구가 된다 |
 | 2021 | Ron's Gone Wrong | Ron's Gone Wrong | Sarah Smith · Jean-Philippe Vine | 애니메이션 | 확인 못 함 | 친구를 이어 주는 로봇 '비봇'을 혼자만 못 가진 소년이 고장 난 로봇 론을 얻어 엉뚱한 우정을 쌓는다. |
+| 2021 | Sonny Boy | Sonny Boy | マッドハウス(원작·감독 夏目真悟) | 애니메이션 | 있음 | 여름방학 중 학교째 이상한 세계로 날아간 중학생 36명이 저마다 초능력을 얻고 돌아갈 길을 찾는다. |
+| 2021 | Space Nova | Space Nova | SLR Productions · ZDF Studios | 애니메이션 | 확인 못 함 | 2162년, 국제 우주 정거장에 사는 남매가 주말마다 부모와 별을 건너 낯선 생명을 찾는다. |
 | 2021 | 미첼 가족과 기계 전쟁 | The Mitchells vs. the Machines | Mike Rianda (Sony Pictures Animation) | 애니메이션 | 있음 | 휴대폰 인공지능이 반란을 일으킨 날, 서툰 가족이 인류를 지킨다 |
 | 2021 | Vivy -Fluorite Eye's Song- | Vivy -Fluorite Eye's Song- | 위트 스튜디오, 에자키 신페이·나가츠키 탓페이 | 애니메이션 | 있음 | 백 년 뒤 인공지능의 반란을 막으려 미래에서 온 지시로 역사를 고쳐 가는 노래하는 인조인간 |
+| 2021 | Yasuke -ヤスケ- (경계) | Yasuke -ヤスケ- | MAPPA(감독 ラション・トーマス) | 애니메이션 | 확인 못 함 | 기계와 마법이 뒤섞인 다른 역사의 전국 시대, 은거한 흑인 무사가 이상한 힘을 가진 소녀를 지킨다. |
+| 2021 | takt op. | takt op. | DeNA·広井王子(원작), MAPPA·MADHOUSE(애니메이션) | 게임·애니메이션 | 있음 | 검은 운석이 낳은 괴물 'D2'에 음악이 사라진 세계, 명곡의 힘을 품은 소녀들과 지휘자가 맞선다. |
+| 2021 | エデン | エデン | Qubic Pictures·CGCG(감독 入江泰浩) | 애니메이션 | 확인 못 함 | 사람이 사라지고 로봇만 사는 '에덴 3', 농사 로봇 둘이 캡슐 속 인간 아기를 깨워 몰래 기른다. |
 | 2021 | 사쿠간 | サクガン | 이누이 네코타로(원안), 와다 준이치(감독) | 애니메이션 | 있음 | 암반에 갇힌 콜로니에서 사람들이 사는 먼 미래, 천재 소녀와 아버지가 바깥의 위험한 미개지에 도전한다. |
+| 2021 | 시키자쿠라 (경계) | シキザクラ | サブリメイション(원작·애니메이션, 감독 黒﨑豪) | 만화·애니메이션 | 있음 | 딴 세계에서 온 사람 먹는 '오니'에 맞서, 옛 비술과 첨단 기술을 합친 강화복의 고교생들이 싸운다. |
 | 2021 | 백 애로우 (경계) | バック・アロウ | 타니구치 고로(감독), 나카시마 카즈키(시리즈 구성) | 애니메이션 | 있음 | 벽에 둘러싸여 벽을 신으로 섬기는 땅에, 벽 바깥에서 왔다는 것만 기억하는 남자가 나타난다. |
 | 2021 | 경계전기 | 境界戦機 | サンライズ, 하바라 노부요시(감독) | 애니메이션 | 있음 | 2061년, 네 경제권에 나뉘어 지배당하는 일본에서 기계광 소년이 자율 인공지능을 만나 싸움에 나선다. |
+| 2021 | 요란 THE PRINCESS OF SNOW AND BLOOD (경계) | 擾乱 THE PRINCESS OF SNOW AND BLOOD | BAKKEN RECORD(애니메이션), ブシロード·日本テレビ·タツノコプロ | 애니메이션 | 있음 | 94세 요시노부가 권력을 쥔 메이지 64년, '용맥' 에너지로 에도 풍속과 과학이 뒤섞인 다른 역사의 일본. |
 | 2021 | 新神榜：哪吒重生 (경계) | 新神榜：哪吒重生 | 赵霁 (자오지) | 애니메이션 | 확인 못 함 | 봉신연의의 나타가 스팀펑크·사이버펑크로 그린 도시 동해에서 다시 태어난다 |
 | 2021 | 시광대리인 (경계) | 时光代理人 | 李豪凌 (Studio LAN, 빌리빌리) | 애니메이션 | 있음 | 사진 속 순간으로 들어가 남의 과거를 대신 사는 사진관의 두 사람 |
 | 2021 | 용과 주근깨 공주 | 竜とそばかすの姫 | 호소다 마모루 | 애니메이션 | 있음 | 엄마를 잃고 노래를 못 하던 여고생이 가상 세계 'U'에서 가수 '벨'이 되어 용이라 불리는 존재를 쫓는다. |
@@ -4728,29 +6839,54 @@
 | 2021 | 스트레스 제로 (경계) | 스트레스 제로 | 이대희 | 애니메이션 | 한국 원작 | 도심 곳곳에 거대한 불 괴물이 나타난 한국, 그 때문에 일자리를 잃은 남자가 친구들과 괴물을 잡는다. |
 | 2021 | 우당탕탕 은하안전단 (경계) | 우당탕탕 은하안전단 | 박일호, 김준(총감독), 마로스튜디오 | 애니메이션 | 한국 원작 | 혜성 충돌·괴수·우주 해적에게서 우주의 안전을 지키는 은하안전단의 별 볼 일 없는 한 팀 이야기. |
 | 2022 | 에일리언 스테이지 | ALIEN STAGE | VIVINOS | 애니메이션 | 한국 원작 | 2038년 외계인의 애완동물이 된 인류가 외계인들의 오디션 무대에서 목숨을 걸고 노래한다. |
+| 2022 | Battle Kitty (경계) | Battle Kitty | Matt Layzell | 애니메이션 | 확인 못 함 | 미래풍 중세 세계, 세계의 전사들이 맞붙는 서바이벌 대회에 나선 새끼 고양이 키티. |
 | 2022 | Dead or Arrive (경계) | Dead or Arrive | 현대모비스 | 애니메이션 | 한국 원작 | 1977년부터 이어진 다른 역사의 리그에서 운전자들이 살아남기를 두고 겨루는 자동차 경주. |
+| 2022 | Doomlands | Doomlands | Josh O'Keefe | 애니메이션 | 확인 못 함 | 지옥 같은 황무지를 이동 술집 '오아시스'로 누비는 대니 둠과 바텐더 지망생 란디. |
+| 2022 | Extreme Hearts (경계) | Extreme Hearts | 都築真紀(원작·각본), Seven Arcs | 애니메이션 | 있음 | 사람 모양 로봇이 흔해진 근미래, 몸을 돕는 장비를 쓰는 '하이퍼 스포츠'에 무명 가수가 뛰어든다. |
+| 2022 | Farzar | Farzar | Waco O'Guin · Roger Black | 애니메이션 | 확인 못 함 | 행성 파자르, 악당 차르의 아들 피켈 왕자가 이끄는 특수대의 성인 희극. |
+| 2022 | Interstellar Ella | Interstellar Ella | Adam Long | 애니메이션 | 확인 못 함 | 3021년, 화성과 목성 사이의 별 놀이터에서 여덟 살 엘라와 외계 친구들이 새 세계를 찾아다닌다. |
+| 2022 | Jade Armor (경계) | Jade Armor | Corinne Kouper (TeamTO) | 애니메이션 | 확인 못 함 | 전설의 영웅 '옥 갑옷'을 물려받은 십대 란쥔이 마법 동물 넷과 악당을 막는다. |
+| 2022 | KJファイル (경계) | KJファイル | テレビ東京(『闇芝居』 제작진) | 애니메이션 | 확인 못 함 | 20세기 초 세계 곳곳에 괴수가 나타나고, 인류는 국제 괴수 감시단을 세워 수백 괴수와 살아갈 길을 찾는다. |
 | 2022 | 몽키 렌치 | Monkey Wrench | 조슈아 팔머 | 애니메이션 | 있음 | 우주 최고는 아닌 용병 둘이 돈만 된다면 무슨 일이든 맡으며 우주를 떠돈다. |
 | 2022 | 사무라이 토끼: 우사기 연대기 (경계) | Samurai Rabbit: The Usagi Chronicles | Stan Sakai(원작), Netflix | 만화·애니메이션 | 있음 | 사무라이가 되고 싶은 토끼 소년이 미래 도시에서 동료들과 요괴와 닌자, 외계인으로부터 도시를 지킨다. |
+| 2022 | Saving Me | Saving Me | Aaron Johnston | 애니메이션 | 확인 못 함 | 먼 미래 토론토의 외톨이 억만장자 노인이 과거로 가 어린 자신을 만난다. |
 | 2022 | 스트레인지 월드 | Strange World | Don Hall (Disney) | 애니메이션 | 있음 | 나라를 먹여 살리던 에너지 식물이 시들자 땅 밑 낯선 세계로 내려간 탐험가 가족 |
 | 2022 | 디 익셉션 | exception | 乙一 | 애니메이션 | 있음 | 인공지능 반란으로 지구를 떠난 미래, 입체 인쇄기로 찍어 낸 전문가들이 새 행성을 개척하러 간다. |
+| 2022 | 에스타브 라이프 그레이트 이스케이프 | エスタブライフ | 谷口悟朗(원안), ポリゴン・ピクチュアズ | 게임·애니메이션·영화 | 있음 | 여러 종족이 갈라 사는 미래 도쿄의 구역들, 구역을 벗어나려는 이들을 몰래 빼내 주는 도주 도우미들. |
+| 2022 | ガディガルズ (경계) | ガディガルズ | でぃーきぃー(원작·각본·애니메이션) | 애니메이션 | 확인 못 함 | 세 소녀가 갖가지 악당과 싸우는 히어로물이지만, 실은 사회에 녹아들지 못하는 이들의 삶을 그린다. |
+| 2022 | 대역! 죄인 -가장 빛나라- (경계) | ブッチギレ! | ジェノスタジオ(감독 平川哲生) | 애니메이션 | 있음 | 사무라이가 지배를 이어 간 다른 역사의 일본, 사형수들이 몰살당한 신선조 간부의 대역을 맡는다. |
 | 2022 | 블랙 록 슈터 던 폴 | ブラック★★ロックシューター DAWN FALL | 텐쇼(감독), 바이브리 애니메이션 스튜디오 | 애니메이션 | 있음 | 인공지능 아르테미스와 인류의 전쟁으로 황폐해진 2062년 지구, 지하 연구소에서 기억 잃은 소녀가 깨어난다. |
+| 2022 | 유레이데코 | ユーレイデコ | サイエンスSARU(감독 霜山朋久, 시리즈 구성 佐藤大) | 만화·애니메이션 | 있음 | 섬 전체가 전뇌화된 정보 도시, 사람들은 시각 장치 '데코'로 현실과 가상 공간을 오가며 산다. |
+| 2022 | 정원의 뱀파이어 (경계) | ヴァンパイア・イン・ザ・ガーデン | WIT STUDIO(감독 牧原亮太郎) | 애니메이션 | 있음 | 흡혈귀와의 전쟁에 져 빛의 벽 친 도시 하나에 몰린 인류, 한 소녀가 흡혈귀 여왕과 '낙원'을 찾아 떠난다. |
 | 2022 | 지구 밖 소년소녀 | 地球外少年少女 | 프로덕션 +h, 이소 미츠오 | 애니메이션 | 있음 | 지능에 한계를 걸어 둔 인공지능 시대, 사고가 난 우주 정거장에 갇힌 아이들 |
 | 2022 | 연애 플롭스 (경계) | 恋愛フロップス | 나가야마 노부유키(감독) | 애니메이션 | 있음 | 평범한 남고생이 다섯 소녀와 엮이는 연애 소동 뒤에 가상 세계의 비밀이 숨어 있다. |
 | 2022 | 기동전사 건담 수성의 마녀 | 機動戦士ガンダム 水星の魔女 | 선라이즈, 코바야시 히로시·오코우치 이치로 | 애니메이션 | 있음 | 우주의 거대 기업 연합이 다스리는 시대, 기업 학교에 들어온 수성 출신 소녀 |
+| 2022 | 영원의 831 (경계) | 永遠の831 | 神山健治(감독·각본), CRAFTAR | 애니메이션 | 확인 못 함 | 큰 재앙 뒤 혼란이 가시지 않은 도쿄, 주변 시간을 멈춰 버리는 청년이 같은 힘을 지닌 소녀를 만난다. |
 | 2022 | 내 친구 반인반어 (경계) | 내 친구 반인반어 | 지브라, 애니작 | 애니메이션 | 한국 원작 | 심청전을 바탕으로 한 바닷속 마을의 아이가 전설의 반인반어로 변신해 친구들과 바다를 지킨다. |
 | 2022 | 다이노파워즈 (경계) | 다이노파워즈 | 도파라 애니메이션 스튜디오 (한중 합작) | 애니메이션 | 한국 원작 | 가상 현실과 여러 차원을 오가며 공룡 거대 로봇이 악당과 싸우는 어린이 활극 |
 | 2023 | 종말에 대처하는 캐럴의 자세 (경계) | Carol & the End of the World | Dan Guterman | 애니메이션 | 있음 | 외계 행성이 지구와 부딪치기까지 7개월, 모두가 마지막을 즐기는데 한 여자만 평소처럼 지내려 한다. |
 | 2023 | Fired on Mars | Fired on Mars | Nate Sherman, Nick Vokey | 애니메이션 | 확인 못 함 | 화성 테라포밍 30년, 개척지 회사에서 일하던 그래픽 디자이너가 해고당한다. |
+| 2023 | Hailey's On It! | Hailey's On It! | Devin Bunje · Nick Stanton | 애니메이션 | 확인 못 함 | 겁 많은 열네 살 헤일리가 미래에서 온 과학자에게 지구 온난화를 되돌려 세상을 구할 운명이라는 말을 듣는다. |
 | 2023 | Iti Mapukpukaw | Iti Mapukpukaw | Carl Joseph Papa | 애니메이션 | 확인 못 함 | 삼촌이 죽은 뒤 입이 없는 애니메이터를 외계 존재가 거듭 납치하려 하고, 그때마다 그는 몸 한 곳을 잃는다. |
+| 2023 | Kiya & the Kimoja Heroes (경계) | Kiya & the Kimoja Heroes | Kelly Dillon · Marc Dey · Robert Vargas | 애니메이션 | 확인 못 함 | 아프리카의 가상 도시 키모자에서 두건을 쓰면 영웅이 되는 친구 셋. |
 | 2023 | 메이크 마이 데이 | Make My Day | Netflix | 애니메이션 | 있음 | 희귀 에너지 자원을 캐러 혹한의 얼음 행성에 정착한 죄수들이 잠들어 있던 치명적인 생명체를 깨운다. |
 | 2023 | 화성특급 | Mars Express | Jérémie Périn | 애니메이션 | 있음 | 로봇과 사람이 섞여 사는 23세기 화성 도시에서 사라진 학생을 쫓는 탐정 |
+| 2023 | Mulligan | Mulligan | Robert Carlock · Sam Means | 애니메이션 | 확인 못 함 | 외계 침공으로 인류 대부분이 죽은 뒤, 살아남은 이들이 처음부터 다시 시작한다. |
+| 2023 | My Dad the Bounty Hunter | My Dad the Bounty Hunter | Everett Downing Jr. · Patrick Harpin | 애니메이션 | 확인 못 함 | 아빠가 현상금 사냥꾼임을 안 남매가 우주 모험에 휘말린다. |
 | 2023 | 신듀얼리티 | SYNDUALITY | バンダイナムコ | 게임·애니메이션 | 있음 | 독이 든 푸른 비로 인류 92%가 죽은 뒤, 지하 도시를 나온 이들이 인공지능 짝과 로봇으로 지상을 뒤진다. |
 | 2023 | Skibidi Toilet (경계) | Skibidi Toilet | DaFuq!?Boom! | 애니메이션 | 일부 | 사람 머리가 달린 변기들이 세상을 덮치자, 머리가 카메라·스피커·텔레비전인 연합군이 맞서 싸운다. |
+| 2023 | Supa Team 4 (경계) | Supa Team 4 | Malenga Mulendema | 애니메이션 | 확인 못 함 | 새 미래 도시 루사카, 은퇴한 비밀 요원이 모은 십대 소녀 넷이 영웅 무리가 된다. |
+| 2023 | THE MARGINAL SERVICE (경계) | THE MARGINAL SERVICE | Studio 3Hz(감독 迫井政行) | 애니메이션 | 있음 | 도시에 숨어 사는 전설 속 존재 '경계인'의 범죄를 몰래 단속하는 비밀 국가 기관에 쫓겨난 형사가 들어간다. |
 | 2023 | 어메이징 디지털 서커스 (경계) | The Amazing Digital Circus | Gooseworx, Glitch Productions | 애니메이션 | 있음 | 서커스 모양 가상 세계에 갇힌 여섯 사람이 변덕스러운 인공지능의 놀이에 시달린다. |
+| 2023 | Zokie of Planet Ruby | Zokie of Planet Ruby | Brian Morante | 애니메이션 | 확인 못 함 | 열 살 영상 블로거 루비의 첫 구독자는 우주에서 온 외계인 조키였다. |
 | 2023 | 나의 데몬 (경계) | ぼくのデーモン | 乙一, Igloo Studio | 애니메이션 | 있음 | 핵 재앙 뒤 힘을 지닌 새 생물 '데몬'이 나타난 일본, 소년이 데몬과 어머니를 구하러 떠난다. |
+| 2023 | 마보로시 (경계) | アリスとテレスのまぼろし工場 | 岡田麿里(원작·감독), MAPPA | 소설·애니메이션 | 있음 | 제철소 폭발 뒤 바깥과 끊기고 계절도 멈춘 마을, 아무것도 바뀌면 안 된다는 규칙 속에 소년이 산다. |
 | 2023 | 아르스의 거수 (경계) | アルスの巨獣 | 大黒アキラ | 애니메이션 | 있음 | 거대한 짐승이 땅을 만들고 사람이 그 땅을 훔치자, 노한 짐승들이 사람을 잡아먹기 시작한 세계. |
+| 2023 | スペアイ SPACE IDOL | スペアイ SPACE IDOL | 糸曽賢志(감독), KENJISTUDIO·REGARO | 애니메이션 | 확인 못 함 | 지구인·더듬이 달린 외계인·파충류형·털북숭이 괴물로 된 '우주 제일' 아이돌 그룹의 무대 뒤 소동. |
+| 2023 | 中国奇谭 (경계) | 中国奇谭 | 上海美术电影制片厂 · bilibili · 陈廖宇 외(감독) | 애니메이션 | 확인 못 함 | 중국 전통문화를 주제로 한 단편 모음 — 달 토끼 로봇·외계 생명과의 만남 같은 편도 든다. |
 | 2023 | 대설해의 카이나 (경계) | 大雪海のカイナ | 弐瓶勉(기획), ポリゴン・ピクチュアズ | 애니메이션·영화 | 있음 | 끝없는 눈의 바다 위 거대한 나무의 막에 사는 소년과 아래 나라 공주가 멸망해 가는 세계를 바꾸려 한다. |
 | 2023 | 忘星のヴァリシア | 忘星のヴァリシア | 平坂新 | 애니메이션 | 확인 못 함 | 2006년 잿빛 항구 도시, 소년이 만난 소녀는 인류의 적과 싸울 기체에 영혼을 바칠 운명이었다. |
+| 2023 | 도주중 그레이트 미션 | 逃走中 グレートミッション | 東映アニメーション(시리즈 디렉터 貝澤幸男·暮田公平) | 게임·애니메이션 | 있음 | 인류가 달로 옮겨 간 미래, 계층마다 사는 곳이 갈린 사회에서 상금 건 가상 공간 도주 게임이 인기를 끈다. |
 | 2023 | 거신: 바람의 아이 (경계) | 거신: 바람의 아이 | 신창섭, 그리메 | 애니메이션 | 한국 원작 | 고려 시대 탐라로 넘어간 현대 과학자들이 바람을 부리는 소녀와 해적, 거대 로봇의 싸움에 얽힌다. |
 | 2023 | 다이노스터 (경계) | 다이노스터 | 퍼니플럭스, 알파그룹 | 애니메이션 | 한국 원작 | 공룡 모양 탈것이 합체하는 거대 로봇으로 아이 영웅들이 지구를 지킨다. |
 | 2023 | 라이즈맨 (경계) | 라이즈맨 | 도파라 애니메이션 스튜디오 | 애니메이션 | 한국 원작 | 힘의 돌을 노리는 우주 괴수에 맞서, 딤섬집 아들이 물려받은 변신 장치로 거대한 우주 경찰 영웅이 된다. |
@@ -4762,15 +6898,20 @@
 | 2024 | SPACE KING (경계) | SPACE KING | Tom Hinchliffe, Dan Gregor | 애니메이션 | 확인 못 함 | 사라진 우주의 왕이 돌아오기를 비는 광신 전사들이 폭력과 광기로 은하를 누비는 성인 개그물. |
 | 2024 | The Day the Earth Blew Up: A Looney Tunes Movie (경계) | The Day the Earth Blew Up: A Looney Tunes Movie | Pete Browngardt (Warner Bros. Animation) | 애니메이션 | 확인 못 함 | 대피 덕과 포키 피그가 껌으로 사람들 마음을 조종하려는 외계 음모를 막아 지구를 지킨다. |
 | 2024 | The Infected Sky (경계) | The Infected Sky | Complex animations | 애니메이션 | 확인 못 함 | 기괴한 괴생명체로 변한 항공기들이 도시를 부수고, 정부 기관이 감염된 비행기를 쫓는다. |
+| 2024 | The Second Best Hospital in the Galaxy | The Second Best Hospital in the Galaxy | Cirocco Dunlap | 애니메이션 | 확인 못 함 | 14002년 에르굴론 은하, 외계인 외과의 둘이 갖가지 병을 고치는 의학 희극. |
+| 2024 | 아스트로 노트 | アストロノオト | テレコム・アニメーションフィルム(감독 春日森春木) | 애니메이션 | 있음 | 밥 주는 낡은 하숙집의 요리사로 들어간 청년이 반한 집주인은 외계인이었다. |
 | 2024 | 메탈릭 루쥬 | メタリックルージュ | ボンズ, 出渕裕 | 애니메이션 | 있음 | 사람을 거스를 수 없게 짜인 인조인간들의 2128년 화성, 인조인간 소녀가 아홉 인조인간을 쫓는다. |
 | 2024 | 용기폭발 뱅브레이번 | 勇気爆発バーンブレイバーン | 小高義規, CygamesPictures | 애니메이션 | 있음 | 정체 모를 외계 기계 군단이 지구를 덮친 날, 스스로 말하는 거대 로봇이 나타나 자위대원을 태운다. |
 | 2024 | 종말 트레인은 어디로 향하나? (경계) | 終末トレインどこへいく？ | apogeego, 水島努 | 애니메이션 | 있음 | 주민들에게 이상한 변화가 생긴 시골 마을에서 소녀들이 멈춘 전철을 몰고 사라진 친구를 찾아 떠난다. |
 | 2025 | Arco | Arco | Ugo Bienvenu | 애니메이션 | 확인 못 함 | 2932년 소년이 누나의 시간 여행 망토를 몰래 걸치고 떠났다가 2075년에 떨어져 한 소녀와 만난다. |
+| 2025 | BULLET/BULLET | BULLET/BULLET | E&H production(감독 朴性厚) | 애니메이션 | 있음 | 무너진 세계, 옛 쓰레기를 에너지로 바꿔 사는 벽 도시의 고물상 소년이 쫓기는 소녀를 만난다. |
+| 2025 | ChaO (경계) | ChaO | STUDIO4℃(감독 青木康浩) | 애니메이션 | 있음 | 사람과 인어의 혼인이 처음 이뤄진 근미래 상하이, 조선소 청년과 인어 공주가 함께 산다. |
 | 2025 | Common Side Effects (경계) | Common Side Effects | Joe Bennett, Steve Hely | 애니메이션 | 확인 못 함 | 모든 병을 낫게 하는 신비의 버섯을 찾아낸 사람이 거대 제약사와 정부의 음모에 쫓긴다. |
 | 2025 | 엘리오 | Elio | Pixar (Madeline Sharafian, Domee Shi, Ad | 애니메이션 | 있음 | 외로운 소년이 여러 외계 문명의 연합에 지구 대표로 잘못 불려 간다 |
 | 2025 | Knights of Guinevere | Knights of Guinevere | Dana Terrace, Glitch Productions | 애니메이션 | 확인 못 함 | 두 친구가 놀이공원의 인조인간 마스코트를 주워 고치면서 뜻밖의 일이 닥친다 |
 | 2025 | LAZARUS 라자로 (경계) | LAZARUS ラザロ | MAPPA, 와타나베 신이치로 | 애니메이션 | 있음 | 누구나 먹던 기적의 진통제가 3년 뒤 사람을 죽이게 되어 있음이 드러난 미래 |
 | 2025 | Lesbian Space Princess | Lesbian Space Princess | Emma Hough Hobbs · Leela Varghese | 애니메이션 | 확인 못 함 | 겁 많은 행성의 공주가 훔친 우주선을 타고, 왕실 무기를 노린 악당에게 납치된 연인을 구하러 간다. |
+| 2025 | StuGo | StuGo | Ryan Gillis | 애니메이션 | 확인 못 함 | 이름난 여름 캠프인 줄 알고 카리브해 섬에 온 영재 중학생 여섯, 섬의 주인은 미친 과학자. |
 | 2025 | 터키!: 타임 투 스트라이크 (경계) | Turkey! | BAKKEN RECORD, ポニーキャニオン | 애니메이션 | 있음 | 3연속 스트라이크 뒤엔 늘 무너지는 볼링부 부장 앞에 신입 부원이 나타나고, 이야기는 시대를 건넌다. |
 | 2025 | 아포칼립스 호텔 | アポカリプスホテル | 사이게임즈 픽처스, 슌도 카나 | 애니메이션 | 있음 | 사람이 모두 떠난 도쿄에서 로봇들이 호텔을 지키다 외계 손님을 맞음 |
 | 2025 | ムーンライズ | ムーンライズ | 冲方丁(이야기 원안), 肥塚正史(감독) | 소설·애니메이션 | 확인 못 함 | 모든 판단을 국제 인공지능망에 맡긴 시대, 빈부 격차로 달이 지구에 독립 전쟁을 걸고 청년이 복수에 나선다. |
@@ -4779,7 +6920,9 @@
 | 2025 | ヴァージン・パンク | ヴァージン・パンク | 梅津泰臣 (우메쓰 야스오미), 샤프트 | 애니메이션 | 확인 못 함 | 2099년, 팔다리나 뇌까지 인조 몸으로 옮기는 기술을 범죄자가 무기로 쓰고 현상금 사냥꾼이 쫓는다 |
 | 2025 | 신성 갸루버스 | 新星ギャルバース | 大平彩華 | 애니메이션 | 있음 | 기억을 잃은 소녀가 전쟁에 휩싸인 행성에 떨어져 저항군 지도자를 만나고, 자신이 '갸루버스'임을 알아 간다. |
 | 2025 | 기동전사 건담 지쿠악스 | 機動戦士Gundam GQuuuuuuX | 선라이즈·스튜디오 카라, 츠루마키 카즈야 | 애니메이션 | 있음 | 1년 전쟁에서 지온이 이긴 쪽으로 갈라진 역사, 식민지에 사는 여고생이 불법 결투에 뛰어듦 |
+| 2025 | 영원한 황혼 | 永久のユウグレ | P.A.WORKS(감독 津田尚克), Project FT(원작) | 만화·애니메이션 | 있음 | 2038년에서 200년 뒤 깨어난 청년 앞에, 나라가 해체된 황폐한 세계와 옛 연인 닮은 안드로이드가 있다. |
 | 2025 | 은하 특급 밀키☆서브웨이 | 銀河特急 ミルキー☆サブウェイ | 카메야마 요헤이 | 애니메이션 | 있음 | 은하 도로 교통법을 어긴 강화 인간과 사이보그들이 벌로 행성 사이 열차를 청소하다 폭주에 휘말린다. |
+| 2025 | 음양회천 Re:버스 (경계) | 陰陽廻天 Re:バース | david production(감독 髙橋秀弥), 作乃藤湖(원작) | 애니메이션 | 있음 | 사고로 죽은 고교생이 기술이 발달한 다른 세계의 헤이안쿄에서 깨어나, 되풀이되는 시간 속에 음양사가 된다. |
 | 2025 | 미스터 로봇 | 미스터 로봇 | 이대희 (감독) | 애니메이션 | 한국 원작 | 사람과 로봇이 함께 사는 2055년, 로봇을 미워하는 단속 대원이 사고 뒤 폐기 직전 로봇 몸으로 깨어난다 |
 | 2025 | 이 별에 필요한 | 이 별에 필요한 | 한지원 | 애니메이션 | 한국 원작 | 2050년 서울, 화성 탐사에 뽑힌 과학자와 낡은 음향기기를 고치는 음악가가 별 사이를 두고 사랑한다. |
 | 2025 | 피닉스맨 (경계) | 피닉스맨 | 초이락컨텐츠컴퍼니, 김동준(감독) | 애니메이션 | 한국 원작 | 주변 사물로 갑옷과 로봇을 만드는 악당에 맞서 새로운 영웅 '피닉스맨'이 싸운다. |
@@ -4791,19 +6934,23 @@
 | 2026 | 뫼비우스 더스트 | メビウス・ダスト | メテオアーク社, 動画工房 | 애니메이션 | 있음 | 운석 충돌 10년 뒤, 거대 결정의 입자로 능력을 얻은 아이들은 입자가 닿는 마을을 못 떠난다. |
 | 2026 | 獣王武神ダンデヴァイン (경계) | 獣王武神ダンデヴァイン | グッドスマイルカンパニー, ライデンフィルム | 애니메이션 | 확인 못 함 | 합체 로봇이 적을 물리친 지 20년, 그 완구로 먹고살던 회사가 기울 즈음 도쿄에 다시 적이 나타난다. |
 | 2026 | 超かぐや姫! | 超かぐや姫! | 山下清悟(감독), スタジオコロリド | 만화·소설·애니메이션 | 확인 못 함 | 『다케토리 이야기』에서 따온 이야기로, 시간 여행·인공지능·가상 공간과 가상 아이돌을 엮었다. |
+| 2026 | 미궁의 시오리 (경계) | 迷宮のしおり | 河森正治(감독), サンジゲン | 애니메이션 | 확인 못 함 | 스마트폰 화면이 깨진 순간 텅 빈 미궁 같은 다른 요코하마로 옮겨진 여고생, 현실에는 가짜 그녀가 나타난다. |
 | 2026 | 기가빌더 | 기가빌더 | 핑고 엔터테인먼트, 퍼니플럭스 | 애니메이션 | 한국 원작 | 동물 다섯과 소녀가 미래 중장비를 몰고 화성 테라시티에 건물을 지으며 테라포밍을 돕는다. |
 | 2026 | 슈퍼탐사대X (경계) | 슈퍼탐사대X | 김탁훈(감독), Studio712·롯데월드 어드벤처 | 애니메이션 | 한국 원작 | 생태계가 뒤틀린 평행 우주의 또 다른 지구 '테라피아'에서, 과학자가 만든 유전자 은행을 한 아이가 지킨다. |
 
-## 만화에서 시작한 세계 (719)
+## 만화에서 시작한 세계 (911)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
+| 1929 | Les Aventures de Tintin (경계) | Les Aventures de Tintin | Hergé | 만화 | 확인 못 함 | 벨기에 소년 기자와 개가 세계를 누비는 모험 — 떨어지는 운석, 달 탐험 같은 SF 편이 섞인다. |
 | 1930 | 黄金バット (경계) | 黄金バット | Suzuki Ichiro · Takeo Nagamatsu(원작) | 만화·애니메이션·영화 | 확인 못 함 | 지구로 날아오는 떠돌이 별을 부술 광선포를 완성하려는 비밀 연구소를 영웅 황금 박쥐가 돕는다. |
 | 1933 | Brick Bradford | Brick Bradford | Clarence Gray · William Ritt(만화) · Spenc | 만화·영화 | 확인 못 함 | 로켓 요격 광선을 지키던 브릭이 제5차원 문을 지나 공기가 있는 달 뒷면에서 폭군 여왕과 맞선다. |
 | 1934 | 플래쉬 고든 | Flash Gordon | 알렉스 레이먼드 | 드라마·만화·애니메이션·영화 | 일부 | 지구를 노리는 행성 몽고의 폭군 밍에 맞서 지구인 플래시가 싸운다 |
 | 1938 | DC Universe (경계) | DC Universe | DC 코믹스 | 게임·드라마·만화·애니메이션·영화 | 일부 | 외계에서 온 초인과 영웅들, 우주를 지키는 반지 군단과 신 같은 존재가 얽힌 공유 세계 |
 | 1939 | Marvel Universe (경계) | Marvel Universe | 마블 코믹스 | 게임·드라마·만화·애니메이션·영화 | 일부 | 초능력 영웅과 외계 제국, 우주의 신적 존재가 한데 얽힌 공유 세계 |
+| 1943 | Garth (경계) | Garth | Steve Dowling · Don Freeman 외 | 만화 | 확인 못 함 | 힘센 사나이 가스가 온 세상과 여러 시대를 오가며 악당과 싸우는 신문 연재 만화. |
 | 1945 | Bruce Gentry (경계) | Bruce Gentry | Ray Bailey(만화) · Spencer Gordon Bennet · | 만화·영화 | 확인 못 함 | 전세 비행사 브루스 젠트리가 녹음으로만 명령하는 악당의 원격 조종 비행접시와 싸운다. |
+| 1946 | Blake and Mortimer | Blake and Mortimer | Edgar P. Jacobs | 만화 | 확인 못 함 | 아시아의 '황색 제국'이 세계를 삼키자, 두 영국인이 맞설 신무기 비행기 '황새치'를 완성하려 한다. |
 | 1949 | 메트로 폴리스 | メトロポリス | 데즈카 오사무 | 만화·애니메이션 | 있음 | 인조 세포로 만든 인조인간 소녀를 두고 거대 도시의 음모가 벌어진다 |
 | 1950 | Dan Dare | Dan Dare | 프랭크 햄프슨 | 만화 | 없음 | 영국 우주군 조종사 댄 데어가 금성의 외계 지배자 메콘과 맞선다 |
 | 1951 | Made of the Future | Made of the Future | Al Feldstein(원작) · John Hughes(1985 감독) | 드라마·만화·영화 | 확인 못 함 | 인기 없는 고교생 둘이 컴퓨터로 이상형 여자를 지어내자, 그녀가 정말로 나타나 둘의 삶을 뒤흔든다. |
@@ -4813,6 +6960,7 @@
 | 1957 | El Eternauta | El Eternauta | 엑토르 헤르만 오에스테르헬드, 프란시스코 솔라노 로페스 | 드라마·만화 | 확인 못 함 | 죽음의 눈이 내린 부에노스아이레스, 살아남은 사람들이 보이지 않는 외계 침략자에 맞선다 |
 | 1959 | 라이파이 | 라이파이 | 김산호 | 만화 | 한국 원작 | 정의의 투사 라이파이가 악당과 싸우는, 한국 첫 공상 과학 만화로 꼽히는 작품 |
 | 1962 | Barbarella | Barbarella | 장클로드 포레 | 만화·영화 | 확인 못 함 | 41세기 우주를 떠도는 여성 모험가가 낯선 행성의 폭군과 기계에 맞선다 |
+| 1962 | すすめロボケット | すすめロボケット | 藤子不二雄(藤子・F・不二雄) | 만화·애니메이션 | 확인 못 함 | 말하고 먹고 걷는 로켓 로봇 '로보켓'이 소년을 태우고 날아올라 악당과 로봇 괴수를 물리친다. |
 | 1963 | 8マン (경계) | 8マン | 平井和正, 桑田次郎 | 만화·애니메이션·영화 | 확인 못 함 | 범인에게 살해된 형사가 로봇 몸을 얻어 되살아나 경시청의 여덟 번째 수사관으로 괴사건에 맞선다. |
 | 1963 | ビッグX | ビッグX | 手塚治虫(원작), 東京ムービー | 만화·애니메이션 | 확인 못 함 | 나치가 만들게 한, 몸을 거대하고 단단하게 하는 약을 이어받은 소년이 그 약을 노리는 신나치 조직과 싸운다. |
 | 1964 | 사이보그 009 | サイボーグ009 | 이시노모리 쇼타로, 토에이 동화 | 만화·애니메이션·영화 | 있음 | 무기 상인 조직이 납치해 개조한 아홉 사이보그 병사가 그 조직에 맞서 싸움 |
@@ -4857,6 +7005,7 @@
 | 1974 | 키테레츠 대백과 (경계) | キテレツ大百科 | 藤子・F・不二雄 | 만화·애니메이션 | 있음 | 발명을 좋아하는 초등학생이 에도 시대 조상의 발명 기록을 물려받아 로봇과 시간 기계까지 만든다. |
 | 1974 | 겟타로보 | ゲッターロボ | 나가이 고·이시카와 켄, 토에이 동화 | 만화·애니메이션 | 있음 | 우주에서 쏟아지는 빛 에너지로 움직이는 합체 로봇, 그 빛이 생명의 진화를 이끈다는 세계 |
 | 1974 | 三つ目がとおる (경계) | 三つ目がとおる | 手塚治虫(원작), 東映動画 | 만화·애니메이션 | 확인 못 함 | 세 눈 종족의 후손인 소년이 이마의 셋째 눈을 뜨면 무서운 지능과 초능력을 드러내 고대 유산을 쫓는다. |
+| 1974 | 赤毛のアン子 (경계) | 赤毛のアン子 | 藤子不二雄(藤本弘) | 드라마·만화 | 확인 못 함 | 가난한 화가의 딸인 중학생이 사기꾼에게 화가 치민 순간 몸속에 잠든 마녀의 힘이 깨어난다. |
 | 1975 | 11인이 있다! | 11人いる! | 하기오 모토 | 만화·애니메이션 | 있음 | 우주 대학 입학시험으로 떠도는 우주선에 갇힌 열 명 사이에 한 명이 더 있다 |
 | 1975 | おれ、夕子 | おれ、夕子 | 藤子・F・不二雄(원작) | 만화·애니메이션 | 확인 못 함 | 죽은 반 친구의 목걸이를 걸고 깨어난 소년 주위에 그 소녀의 유령 소문이 돌고, 그 뒤엔 생명공학이 있다. |
 | 1975 | ひとりぼっちの宇宙戦争 | ひとりぼっちの宇宙戦争 | 藤子・F・不二雄(원작) | 만화·애니메이션 | 확인 못 함 | 무작위로 뽑힌 중학생이 지구의 운명을 걸고, 제 능력을 베낀 외계 로봇과 멈춘 시간 속에서 싸운다. |
@@ -4892,6 +7041,8 @@
 | 1978 | 勝手なやつら | 勝手なやつら | 高橋留美子 | 만화 | 확인 못 함 | 지구를 날리려는 침략자가 신문 배달 소년 몸에 초소형 폭탄을 심고, 또 다른 외계 무리까지 끼어든다. |
 | 1978 | 流血鬼 | 流血鬼 | 藤子・F・不二雄(원작), シンエイ動画 | 만화·애니메이션 | 확인 못 함 | 사람을 흡혈귀로 바꾸는 바이러스가 온 세상에 퍼져, 바뀌지 않은 몇 사람만 말뚝을 들고 버틴다. |
 | 1979 | ABC Warriors | ABC Warriors | Pat Mills, Kevin O'Neill 외 | 만화 | 없음 | 핵·세균·화학 무기에도 끄떡없는 전쟁 로봇 일곱이 외계 침략군과 싸우고, 화성 개척지 전쟁에 뛰어든다. |
+| 1979 | Jeremiah | Jeremiah | Hermann Huppen(원작) · J. Michael Straczyn | 드라마·만화 | 확인 못 함 | 전염병으로 어른들이 다 죽은 뒤 15년, 외톨이 제러마이아가 피난처 '발할라 구역'을 찾아 떠돈다. |
+| 1979 | あいつのタイムマシン | あいつのタイムマシン | 藤子・F・不二雄 | 드라마·만화 | 확인 못 함 | 어린 날 타임머신을 만들자 맹세한 두 친구 가운데 하나가 스물여덟이 되도록 개발에 매달린다. |
 | 1979 | 근육맨 (경계) | キン肉マン | ゆでたまご(원작), 東映動画 | 만화·애니메이션 | 있음 | 영웅물을 비튼 개그로 시작해, 우주의 초인들이 레슬링 시합으로 맞붙는 이야기로 바뀐다. |
 | 1979 | 地底人 (경계) | 地底人 | いしいひさいち | 만화·애니메이션 | 확인 못 함 | 사람과 다른 세계에 숨어 사는 땅속 사람들을 그린 4쪽짜리 SF 엉터리 개그 연작. |
 | 1979 | 로봇 찌빠 (경계) | 로봇 찌빠 | 신문수 | 만화 | 한국 원작 | 지능에 결함이 있어 버려진 미국산 로봇이 한국 소년의 집에서 형제처럼 산다 |
@@ -4913,12 +7064,14 @@
 | 1981 | 那由他 | 那由他 | 佐々木淳子(원작), 波多正美(감독) | 만화·애니메이션 | 확인 못 함 | 평범한 고교생 소녀가 초능력을 끌어내는 '고리'를 얻고, 초능력자와 괴물들의 남모를 싸움에 뛰어든다. |
 | 1982 | 아키라 | AKIRA | 오토모 카츠히로, 도쿄 무비 신샤(극장판) | 게임·만화·애니메이션 | 있음 | 3차 대전 뒤 다시 세운 네오 도쿄, 군의 초능력 실험이 도시를 다시 무너뜨림 |
 | 1982 | 설국열차 | Le Transperceneige | Jacques Lob·Jean-Marc Rochette(원작) · 봉준호 | 드라마·만화·영화 | 있음 | 얼어붙은 지구를 끝없이 도는 열차에 남은 인류가 칸마다 계급으로 갈려 산다 |
+| 1982 | The Savage Dragon (경계) | The Savage Dragon | Erik Larsen | 만화·애니메이션 | 확인 못 함 | 지느러미 달린 초록 피부의 괴력 인간형 존재가 경찰이 되어 범죄와 싸운다. |
 | 1982 | 브이 포 벤데타 (경계) | V for Vendetta | 앨런 무어, 데이비드 로이드 | 만화·영화 | 있음 | 핵전쟁 뒤 독재 정권이 다스리는 영국에서 가면 쓴 무정부주의자가 체제를 무너뜨린다 |
 | 1982 | 바람이 불 때에 | When the Wind Blows | Raymond Briggs | 만화·애니메이션 | 있음 | 시골 노부부가 정부 안내서대로 집 안에 대피소를 만들지만, 핵폭탄이 떨어진 뒤 서서히 죽어 간다. |
 | 1982 | わたしは真悟 | わたしは真悟 | 우메즈 카즈오 | 만화 | 없음 | 두 아이가 말을 가르친 공장 로봇이 스스로 생각하기 시작해 아이들을 찾아 나선다 |
 | 1982 | プライム・ローズ (경계) | プライム・ローズ | 手塚治虫 | 만화·애니메이션 | 확인 못 함 | 먼 미래, 다른 종족의 지배를 받는 사람들 속에서 자란 소녀가 칼을 익혀 총독을 무너뜨리려 한다. |
 | 1982 | 프라레스 산시로 | プラレス3四郎 | 牛次郎, 神矢みのる | 만화·애니메이션 | 있음 | 작은 로봇을 조종해 링에서 프로레슬링을 시키는 '프라레스'에 소년이 뛰어든다. |
 | 1982 | 바람계곡의 나우시카 | 風の谷のナウシカ | 미야자키 하야오, 톱크래프트(극장판) | 만화·애니메이션 | 있음 | 불의 7일 뒤 독을 뿜는 숲과 거대 벌레가 땅을 덮은 세계, 숲과 사람 사이에 선 공주 |
+| 1983 | Bananaman (경계) | Bananaman | DC Thomson · Terry Ward(애니메이션) | 만화·애니메이션 | 확인 못 함 | 바나나를 먹으면 영웅 바나나맨으로 바뀌는 학생 에릭의 희극. |
 | 1983 | Les Cités obscures (경계) | Les Cités obscures | 프랑수아 스퀴텐, 브누아 페테르스 | 만화 | 일부 | 우리 세계와 나란히 있는 다른 지구의 기이한 도시들에서 건축이 사람의 운명을 바꾼다 |
 | 1983 | Ronin | Ronin | Frank Miller | 만화 | 확인 못 함 | 디스토피아가 된 가까운 미래 뉴욕에 옛 낭인 무사가 다시 태어난다 |
 | 1983 | 윙맨 (경계) | ウイングマン | 桂正和(원작), 東映動画 | 드라마·만화·애니메이션 | 확인 못 함 | 변신 영웅을 동경하는 중학생이 다른 차원에서 떨어진 소녀의 공책에 그린 영웅으로 실제로 변신하게 된다. |
@@ -4930,6 +7083,7 @@
 | 1983 | 県立地球防衛軍 (경계) | 県立地球防衛軍 | 安永航一郎(원작) | 만화·애니메이션 | 확인 못 함 | 목재상이 몰래 꾸린 악의 결사가 규슈 어느 현을 부수자, 현이 직접 '지구 방위군'을 꾸려 맞서는 개그물. |
 | 1983 | 아기공룡 둘리 (경계) | 아기공룡 둘리 | 김수정 | 만화·애니메이션·영화 | 한국 원작 | 빙하에 갇혔던 아기 공룡이 서울의 한 집에 눌러살고, 외계인 도우너 등이 더해진다 |
 | 1984 | 2001 야화 | 2001夜物語 | 호시노 유키노부 | 만화·애니메이션 | 있음 | 인류가 별 사이로 퍼져 나가는 수백 년을 짧은 이야기 여럿으로 잇는 우주 연대기 |
+| 1984 | Bucky O'Hare | Bucky O'Hare | Larry Hama · Michael Golden | 게임·만화·애니메이션 | 확인 못 함 | 동물 연합 함대의 선장 버키 오헤어가 두꺼비 제국과 싸우는 평행 우주의 은하 전쟁. |
 | 1984 | 거북이 특공대 (경계) | Teenage Mutant Ninja Turtles | 케빈 이스트먼, 피터 레어드 | 게임·만화·애니메이션·영화 | 일부 | 돌연변이 물질을 뒤집어쓴 거북이 넷이 닌자로 자라 하수도 아래에서 악당과 외계인에 맞선다 |
 | 1984 | The Ballad of Halo Jones | The Ballad of Halo Jones | 앨런 무어, 이언 기브슨 | 만화 | 없음 | 50세기, 실업자들이 갇혀 사는 떠 있는 동네를 떠난 평범한 여자가 우주와 전쟁터를 떠돈다 |
 | 1984 | 트랜스포머 | The Transformers | Hasbro·Takara(완구), Marvel Comics, Sunbow | 게임·만화·애니메이션·영화 | 있음 | 변신하는 기계 생명체 두 무리가 고향 별의 전쟁을 지구까지 끌고 온 세계 |
@@ -4940,6 +7094,7 @@
 | 1984 | バオー来訪者 | バオー来訪者 | 荒木飛呂彦 (아라키 히로히코) | 만화·애니메이션 | 확인 못 함 | 비밀 조직에 끌려가 생체 병기 '바오'가 된 소년이 초능력 소녀와 달아난다 |
 | 1985 | GREY | GREY | たがみよしひさ(원작), 出崎哲(감독) | 만화·애니메이션 | 확인 못 함 | 황폐해진 먼 미래, 기계 두뇌의 명령으로 도시끼리 싸우는 병사가 시민권을 얻으려 살아남는다. |
 | 1985 | Good Morning アルテア | Good Morning アルテア | BlackPoint(원작), アニメイトフィルム | 만화·애니메이션 | 확인 못 함 | 2400년대, 외계 종족에 져 점령당한 인류의 생존자들이 미친 기계 생명이 장악한 함선에 뛰어든다. |
+| 1985 | MORUMO 1/10 (경계) | MORUMO 1/10 | あろひろし | 드라마·만화 | 확인 못 함 | 키가 보통 사람의 열 배인 여고생이 미친 과학자의 약을 맞아 몸이 10분의 1로 줄어든다. |
 | 1985 | Shatter | Shatter | Peter B. Gillis, Mike Saenz | 만화 | 확인 못 함 | 블레이드 러너 식의 디스토피아 미래, 처음으로 그림을 모두 컴퓨터로 그린 상업 만화 |
 | 1985 | アウトランダーズ | アウトランダーズ | 真鍋譲治(원작), タツノコプロ | 만화·애니메이션 | 확인 못 함 | 지구가 제 발상지라며 점령하러 온 은하 제국의 공주가 지구 청년에게 반해 제국에 맞선다. |
 | 1985 | アッセンブル・インサート (경계) | アッセンブル・インサート | ゆうきまさみ(원작) | 만화·애니메이션 | 확인 못 함 | 강화 갑옷 강도단에 시달리던 경찰이 공개 오디션으로 뽑은 열네 살 소녀를 영웅으로 내세운다. |
@@ -4948,6 +7103,7 @@
 | 1985 | チンプイ (경계) | チンプイ | 藤子・F・不二雄 | 만화 | 확인 못 함 | 외계 행성에서 온 이들이 초등학교 6학년 소녀를 황태자의 신붓감으로 골랐다며 찾아온다. |
 | 1985 | ドミニオン | ドミニオン | 士郎正宗 (시로 마사무네) | 만화·애니메이션 | 확인 못 함 | 세균과 대기 오염이 심해 밖에서는 방독면을 써야 하는 미래 도시 뉴포트, 전차를 모는 경찰대 |
 | 1985 | マップス | マップス | 長谷川裕一 | 만화·소설·애니메이션 | 확인 못 함 | 천사 모양 우주선과 그 분신인 인조인간을 만난 지구 소년이 온 우주의 존망을 건 모험에 나선다. |
+| 1985 | 九命人 (경계) | 九命人 | 姜振台(阿推) | 만화 | 확인 못 함 | 목숨이 아홉인 주인공이 되살아나며 사건을 푸는 탐정 SF 만화. |
 | 1985 | 철인전사 가이버 | 強殖装甲ガイバー | 타카야 요시키 | 만화·애니메이션·영화 | 있음 | 외계 종족이 남긴 생체 갑옷을 입게 된 소년이 사람을 개조한 괴물 조직과 싸운다 |
 | 1985 | 戦え!!イクサー1 (경계) | 戦え!!イクサー1 | 阿乱霊 | 만화·애니메이션 | 확인 못 함 | 평범한 소녀 앞에 나타난 우주 전사가 지구를 침략한 존재에 맞서려 소녀를 짝으로 삼으려 한다. |
 | 1985 | 究極超人あ〜る | 究極超人あ〜る | ゆうきまさみ(원작), スタジオこあ(OVA) | 만화·애니메이션 | 확인 못 함 | 고교 사진부에 학생 모습의 로봇이 전학 와 벌이는 엉뚱한 학원 개그. |
@@ -4965,6 +7121,7 @@
 | 1987 | TWD EXPRESS | TWD EXPRESS | 聖悠紀(원작), 湯山邦彦(OVA 감독) | 만화·애니메이션 | 확인 못 함 | 가난한 사내 셋의 별 사이 운송 회사가 해적이 숨긴 전투 우주선을 잘못 사들여 해적 조직과 맞선다. |
 | 1987 | 캐딜락&다이노소어 | Xenozoic Tales | Mark Schultz | 게임·만화·애니메이션 | 일부 | 환경 파괴로 땅속에 숨었던 인류가 600년 뒤 나와 보니, 지구가 공룡이 사는 중생대처럼 되돌아가 있다. |
 | 1987 | ぼくのマリー | ぼくのマリー | 竹内桜(원작), ぴえろ(OVA, 감독 望月智充) | 만화·애니메이션 | 확인 못 함 | 짝사랑하는 사람에게 말도 못 거는 대학생이, 제 기술로 그녀와 똑같이 생긴 인조인간을 만들어 낸다. |
+| 1987 | ゆめのかよいじ (경계) | ゆめのかよいじ | 大野安之(원작), 五藤利弘(영화 감독) | 만화·영화 | 확인 못 함 | 폐교된 나무 교사를 무대로 옛 전설을 엮어 낸 향수 어린 SF 만화. |
 | 1987 | アーシアン (경계) | アーシアン | 高河ゆん(원작) | 만화·애니메이션 | 확인 못 함 | 인류를 없앨지 오래 조사해 온 천사들 가운데, 검은 날개의 돌연변이 천사가 인류를 감싸려 땅에 내려온다. |
 | 1987 | 비너스 전기 | ヴイナス戦記 | 安彦良和 | 만화·애니메이션 | 있음 | 얼음 소행성이 부딪혀 사람이 살 수 있게 된 금성에서 개척민 나라들이 전쟁을 벌이고, 소년들이 바이크로 맞선다. |
 | 1987 | 力王 (경계) | 力王 | Masahiko Takajo(글) · Tetsuya Saruwatari( | 만화·애니메이션·영화 | 확인 못 함 | 감옥이 모두 민영화된 2001년, 괴력의 청년이 감옥 네 구역을 다스리는 패거리와 소장에 맞선다. |
@@ -4980,6 +7137,7 @@
 | 1988 | 침묵의 함대 (경계) | 沈黙の艦隊 | 카와구치 카이지 | 만화·애니메이션 | 있음 | 미국이 몰래 지은 신형 핵잠수함을 맡은 일본 함장이 배를 '잠수함 국가'라 부르며 세계의 핵보유국과 맞선다. |
 | 1988 | 고독한 레인저 | 고독한 레인저 | 김형배 | 만화 | 한국 원작 | 두 진영이 핵전쟁으로 함께 무너진 뒤에도, 그 뜻을 이은 무리들이 폐허에서 새 전쟁을 벌인다. |
 | 1988 | 아마게돈 | 아마게돈 | 이현세 | 만화·애니메이션 | 한국 원작 | 2157년 외계 조직이 지구를 치자 1996년의 소년이 마지막 희망으로 불려 간다 |
+| 1989 | Rat-Man (경계) | Rat-Man | Leo Ortolani | 만화·애니메이션 | 확인 못 함 | 빛과 그림자가 맞서는 세계에서 서툰 영웅 랫맨이 다른 영웅들을 비꼬며 활약한다. |
 | 1989 | ギャラガ HYPER-PSYCHIC-GEO GARAGA | ギャラガ HYPER-PSYCHIC-GEO GARAGA | 御厨さと美(원작), 窪秀巳(감독) | 만화·애니메이션 | 확인 못 함 | 2755년, 도약 항법 사고로 낯선 별에 떨어진 우주선 승무원들이 사람이 처음 보는 생태계와 마주친다. |
 | 1989 | サイレントメビウス (경계) | サイレントメビウス | 麻宮騎亜 (아사미야 키아) | 만화·애니메이션 | 확인 못 함 | 다른 차원의 괴물 '루시퍼 호크'로부터 도쿄를 지키는 여성 경찰대 |
 | 1989 | シークエンス (경계) | シークエンス | 高橋ナオヒト(OVA 감독) | 만화·애니메이션 | 확인 못 함 | 폭발 사고로 기억을 잃은 고교생이 미래 세계에서 다른 이름으로 불리는 꿈을 꾸고, 수수께끼 전학생이 온다. |
@@ -4998,6 +7156,7 @@
 | 1990 | 맨인블랙 | Men in Black | Lowell Cunningham(원작) · Barry Sonnenfeld | 게임·만화·애니메이션·영화 | 있음 | 지구에 숨어 사는 외계인을 몰래 단속하고, 본 사람의 기억을 지워 버리는 비밀 기관 |
 | 1990 | 요술소녀 (경계) | ミラクル☆ガールズ | 秋元奈美(원작), 亜細亜堂(애니메이션 제작 협력) | 게임·만화·애니메이션 | 있음 | 초능력을 가진 쌍둥이 자매를 가운데 둔 소녀 만화. |
 | 1990 | 만능문화묘랑 (경계) | 万能文化猫娘 | 高田裕三 | 만화·애니메이션 | 있음 | 고양이의 뇌를 이식받은 소녀 모습 안드로이드가 발명가 아빠와 아들을 지키며 소동을 벌인다. |
+| 1990 | 仙術超攻殻ORION (경계) | 仙術超攻殻ORION | 士郎正宗(원작), L4C(애니메이션, 감독 青木康浩) | 만화·애니메이션 | 확인 못 함 | 여러 행성에 걸친 은하 제국이 백성의 욕심으로 위기에 빠지고, 악업을 봉인할 '식'을 두고 다툼이 인다. |
 | 1990 | 代紋TAKE2 (경계) | 代紋TAKE2 | 木内一雅(원작), 渡辺潤(작화) | 만화·애니메이션 | 확인 못 함 | 1989년 비참하게 죽은 하급 야쿠자가 1979년으로 되돌아가, 10년의 기억을 무기로 삶을 다시 산다. |
 | 1990 | 에도소년 갓텐타쿠미 | 江戸っ子ボーイ がってん太助 | 樫本学ヴ(원작), スタジオぴえろ(감독 もりたけし) | 만화·애니메이션 | 확인 못 함 | 현대와 에도 시대가 뒤섞인 23세기 도쿄 '오에도 시티', 형사 학교에 다니는 소년이 일등 형사를 꿈꾼다. |
 | 1990 | 貯金戦士キャッシュマン (경계) | 貯金戦士キャッシュマン | 鳥山明(원작) | 만화·애니메이션 | 확인 못 함 | 범인을 쫓다 지구에 떨어진 외계 형사가 죽게 만든 경찰과 합쳐, 귀환 연료인 돈을 벌려고 유료 영웅을 한다. |
@@ -5008,6 +7167,8 @@
 | 1991 | SD戦国伝 天下統一編 (경계) | SD戦国伝 天下統一編 | バンダイ(기획), サンライズ(극장 단편) | 만화·애니메이션 | 확인 못 함 | 미래에서 시간을 거슬러 온 무사 건담이 옛 천궁 땅의 싸움에 끼어들고, 그 탓에 과거가 바뀐다. |
 | 1991 | 인간 로켓티어 (경계) | The Rocketeer | Dave Stevens(만화), Joe Johnston(영화) | 만화·영화 | 있음 | 1938년 로스앤젤레스, 곡예 비행사가 등에 메는 로켓을 손에 넣고 그것을 노리는 무리와 맞선다. |
 | 1991 | 남국소년 파푸와군 (경계) | 南国少年パプワくん | 柴田亜美(원작), 日本アニメーション(감독 高木淳) | 게임·만화·애니메이션 | 있음 | 비밀 조직에게서 돌을 훔쳐 달아난 청년이, 말하는 기묘한 생물들이 사는 남쪽 섬에 떠밀려 온다. |
+| 1991 | 未来の想い出 | 未来の想い出 | 藤子・F・不二雄(원작), 森田芳光(영화 감독) | 만화·영화 | 확인 못 함 | 한물간 만화가가 인생을 처음부터 되풀이하게 되고, 앞날의 기억을 안고 사랑하는 사람을 구하려 한다. |
+| 1991 | 水の記憶 (경계) | 水の記憶 | 藤原カムイ(원작), 西荻弓絵(각본) | 드라마·만화 | 확인 못 함 | 1995년의 여고생이 하늘이 하얘지며 사람 몸이 쏟아지는 환영을 보고, 그것이 내일의 예지라는 말을 듣는다. |
 | 1991 | 미소녀 전사 세일러 문 (경계) | 美少女戦士セーラームーン | 武内直子(원작), 東映動画(애니메이션) | 게임·드라마·만화·애니메이션 | 있음 | 말하는 고양이를 만난 중학생이 세일러 전사로 변신해 악의 왕국과 싸우며 달 왕국 시절의 전생 기억을 찾는다. |
 | 1991 | 소년 로보캅 | 소년 로보캅 | 배금택 | 만화 | 한국 원작 | 일에 빠져 아들을 병으로 잃은 천재 과학자가 광기에 사로잡혀 아들과 똑같은 로봇을 만든다. |
 | 1992 | Bloodshot (경계) | Bloodshot | Kevin VanHook · Don Perlin · Bob Layton  | 만화·영화 | 확인 못 함 | 핏속 나노 기계로 몸을 고치고 싸움 지식을 얻으며 컴퓨터와 마음이 이어진 병사의 이야기. |
@@ -5018,10 +7179,13 @@
 | 1992 | 하이퍼 폴리스 (경계) | はいぱーぽりす | MEE(원작), スタジオぴえろ(애니메이션, 감독 大森貴弘) | 만화·소설·애니메이션 | 확인 못 함 | 인류가 쇠퇴해 사람과 요괴가 함께 사는 세상, 두 피가 섞인 수인 경찰들이 현상금을 노리고 범죄자를 잡는다. |
 | 1992 | ジェノサイバー | ジェノサイバー | 竹崎トニー (토니 다케자키), 大畑晃一 (OVA) | 만화·애니메이션 | 확인 못 함 | 세계 정부가 서려는 때, 거대 기업 돈으로 초능력 자매를 하나로 합쳐 궁극의 생체 병기를 만든다 |
 | 1992 | ブレイクエイジ | ブレイクエイジ | 馬頭ちーめい | 만화·애니메이션 | 있음 | 통신망으로 이어진 체감 기계에 올라 가상 공간에서 전투 로봇을 모는 게임이 세계적으로 퍼진 2002년. |
+| 1992 | ワタナベ (경계) | ワタナベ | 窪之内英策 | 드라마·만화 | 확인 못 함 | 2만 광년 너머 카나이 별에서 온 외계인 와타나베가 평범한 일본 가정에 홈스테이하는 개그 만화. |
 | 1992 | 企業戦士YAMAZAKI | 企業戦士YAMAZAKI | 富沢順(원작), リップルフィルム(OVA, 감독 冨永恒雄) | 만화·애니메이션 | 확인 못 함 | 과로사한 엘리트 회사원의 뇌를 기계 몸에 옮긴 '기업 전사'가 파견 사원으로 회사 실적을 되살린다. |
 | 1992 | 究極!!変態仮面 (경계) | 究極!!変態仮面 | 安藤慶周(원작) · 福田雄一(영화) | 만화·영화 | 확인 못 함 | 여자 속옷을 얼굴에 쓰면 어머니에게 물려받은 힘이 깨어나는 고교생이 '변태 가면'이 되어 싸운다. |
 | 1993 | Barb Wire (경계) | Barb Wire | Chris Warner(만화) · David Hogan(영화 감독) | 만화·영화 | 확인 못 함 | 2차 남북 전쟁 중인 2017년, '마지막 자유 도시'의 술집 주인이자 현상금 사냥꾼이 도망자를 돕는다. |
+| 1993 | Cat Claw (경계) | Cat Claw | Branislav Kerac · Svetozar Obradović | 만화·영화 | 확인 못 함 | 세르비아의 그림 작가와 글 작가가 함께 만든 만화 영웅 '고양이 발톱'. |
 | 1993 | D・N・A² ～何処かで失くしたあいつのアイツ～ | D・N・A² ～何処かで失くしたあいつのアイツ～ | 桂正和 | 만화·애니메이션 | 확인 못 함 | 63년 뒤 사람이 넘치는 미래에서 온 유전자 조작원이 장차 아이 100명을 둘 소년의 유전자를 바꾸러 온다. |
+| 1993 | Night Man (경계) | Night Man | Steve Englehart(원작) · Glen A. Larson | 드라마·만화 | 확인 못 함 | 번개를 맞아 악을 텔레파시로 알아보게 됐지만 잠을 잃은 재즈 연주자가 영웅이 된다. |
 | 1993 | SDコマンド戦記 (경계) | SDコマンド戦記 | バンダイ(기획), サンライズ(극장 단편, 감독 アミノテツロー) | 만화·애니메이션 | 확인 못 함 | 악의 조직을 무너뜨린 SD 건담 특수부대가, 우주 정복자와 싸우는 연방 우주군을 도우러 우주로 나간다. |
 | 1993 | 떴다! 럭키맨 (경계) | とっても!ラッキーマン | ガモウひろし(원작), スタジオぴえろ(애니메이션, 감독 鍋島修) | 만화·애니메이션 | 있음 | 운 나쁜 중학생이 외계인 UFO에 깔려 죽었다가 영웅과 합체해 살아나고, 행운만으로 지구를 지킨다. |
 | 1993 | 붓토비!! CPU | ぶっとび!!CPU | 新谷かおる(원작), 日高政光(OVA 감독) | 만화·애니메이션 | 있음 | 새 컴퓨터를 산 고교생의 상자에서 나온 것은, 스스로 생각하는 사람 모양 컴퓨터 소녀였다. |
@@ -5032,23 +7196,35 @@
 | 1994 | B'T-X | B'T-X | 車田正美(원작), キョクイチ東京ムービー(애니메이션, 감독 浜津守) | 만화·애니메이션 | 확인 못 함 | 21세기, 기계 황국에 끌려간 형을 찾아 나선 소년이 제 피로 깨어난 기계 전사와 짝을 이뤄 싸운다. |
 | 1994 | Kabuki | Kabuki | David W. Mack | 만화 | 확인 못 함 | 가까운 미래 일본, 정체성으로 괴로워하는 여자 암살자 |
 | 1994 | Les Mondes d'Aldébaran | Les Mondes d'Aldébaran | 레오 | 만화 | 없음 | 지구와 연락이 끊긴 개척 행성 알데바란에서 정체 모를 바다 생물을 둘러싼 비밀을 쫓는다 |
+| 1994 | MAYA 真夜中の少女 (경계) | MAYA 真夜中の少女 | 本島幸久 | 드라마·만화 | 확인 못 함 | 사람의 죽음을 미리 아는 초능력 소녀가 평범한 고교생에게 24시간 안의 죽음을 알리며 미래를 바꾸라 한다. |
+| 1994 | Ultraforce (경계) | Ultraforce | Gerard Jones · George Pérez | 만화·애니메이션 | 확인 못 함 | 초인 '울트라'들이 날뛰지 않게 막고 사람들을 지키려는 초인 모임. |
+| 1994 | WildC.A.T.s (경계) | WildC.A.T.s | Jim Lee · Brandon Choi | 만화·애니메이션 | 확인 못 함 | 악한 데모나이트가 나타나자 억만장자 말로가 영웅 케루빔의 후손 전사들을 모은다. |
 | 1994 | 드래곤 헤드 (경계) | ドラゴンヘッド | 望月峯太郎 | 만화·영화 | 있음 | 수학여행 열차가 터널에 갇힌 사이 바깥은 화산재로 뒤덮였고, 살아남은 중학생들이 도쿄로 돌아가려 한다. |
 | 1994 | 카페 알파 | ヨコハマ買い出し紀行 | 아시나노 히토시 | 만화·애니메이션 | 있음 | 바닷물이 차오르고 사람이 줄어든 조용한 황혼의 일본에서 로봇 소녀가 카페를 지킨다 |
+| 1994 | 小山日记 (경계) | 小山日记 | 陈翔 | 만화 | 확인 못 함 | 숲에 사는 발명가가 지능 기계로 토끼 집사를 만들고, 그 기계로 동물들이 지능을 얻는다. |
 | 1994 | 쾌걸증기탐정단 | 快傑蒸気探偵団 | 麻宮騎亜(원작), XEBEC(애니메이션, 감독 村山靖) | 만화·애니메이션 | 확인 못 함 | 석탄밖에 나지 않아 증기 기관이 유난히 발달한 도시, 소년 탐정이 증기 로봇과 함께 사건을 푼다. |
 | 1994 | 楽勝!ハイパードール | 楽勝!ハイパードール | 伊藤伸平(원작), 森脇真琴(OVA 감독) | 만화·애니메이션 | 확인 못 함 | 지구 문명을 지키러 은하 중심에서 온 두 소녀가 변신해 개조 괴인과 싸우는데, 싸울 때마다 도시가 부서진다. |
+| 1994 | 海虎 (경계) | 海虎 | 溫日良 | 만화 | 확인 못 함 | 핵전쟁이 거듭된 5천 년 뒤의 오염된 미래에서 초능력 무인들이 힘으로 다툰다(『무신』). |
 | 1994 | 火聖旅団 ダナサイト999.9 | 火聖旅団 ダナサイト999.9 | 松本零士(원작), マッドハウス(감독 小島正幸) | 만화·애니메이션 | 확인 못 함 | 2024년 운석과 우주선 소나기로 망가진 지구, 학생이 다른 별 사자에게 DNA 기억을 깨우는 힘을 얻는다. |
 | 1994 | 覚悟のススメ (경계) | 覚悟のススメ | 山口貴由 (야마구치 다카유키) | 만화·애니메이션 | 확인 못 함 | 대지진 뒤 21세기 도쿄, 괴물을 사냥하는 형제가 전사의 혼으로 벼린 강화 갑옷을 입는다 |
+| 1994 | 雪椰 | 雪椰 | 颜开 | 만화 | 확인 못 함 | 고교생에게 배달된 수정 상자 속 소녀는 핵전쟁으로 오염된 2398년 지구에서 왔다. |
 | 1994 | 레드문 (경계) | 레드문 | 황미나 | 만화 | 한국 원작 | 지구에서 옮겨 온 사람들의 후손이 사는 행성 시그너스에서 초능력자와 왕정이 얽힌다 |
 | 1994 | 출동! 먹통X | 출동! 먹통X | 고병규 | 만화 | 한국 원작 | 세계 정복을 꾀하는 악의 조직에 맞서 다혈질 조종사가 괴짜 발명가의 로봇을 모는, 로봇물 비틀기 개그. |
 | 1995 | Astro City (경계) | Astro City | Kurt Busiek, Brent Anderson | 만화 | 확인 못 함 | 영웅이 흔한 도시 아스트로 시티에서 영웅·악당·평범한 시민 각자의 하루를 그린다. |
+| 1995 | Painkiller Jane (경계) | Painkiller Jane | Jimmy Palmiotti · Joe Quesada(원작) | 드라마·만화·영화 | 확인 못 함 | 죽을 만큼 다쳐도 되살아나는 힘을 알게 된 요원이 위험한 능력자 '뉴로'를 쫓는다. |
 | 1995 | Sci-Fi HARRY | Sci-Fi HARRY | 飯田譲治(원작), A.P.P.P.(애니메이션, 감독 小寺勝之) | 만화·애니메이션 | 확인 못 함 | 미국의 겁 많은 고등학생이 초능력에 눈뜨자 주변에 끔찍한 죽음이 잇따르고, 수수께끼 조직이 그를 노린다. |
+| 1995 | The Big Guy and Rusty the Boy Robot | The Big Guy and Rusty the Boy Robot | Frank Miller · Geof Darrow | 만화·애니메이션 | 확인 못 함 | 실험이 잘못돼 생긴 거대 파충류가 도쿄를 덮치고, 소년 로봇 러스티가 막지 못하자 미군이 나선다. |
+| 1995 | The Mask (경계) | The Mask | John Arcudi · Chris Warner · Doug Mahnke | 만화·애니메이션·영화 | 확인 못 함 | 소심한 은행원이 신 로키의 옛 가면을 쓰면 현실을 마음대로 비트는 초능력자가 된다. |
 | 1995 | Witchblade (경계) | Witchblade | Michael Turner, Top Cow | 만화 | 확인 못 함 | 죽을 고비에 놓인 뉴욕 여형사가 수수께끼 건틀릿을 끼고 파괴적인 힘을 얻는다. |
 | 1995 | 트라이건 | トライガン | 나이토 야스히로, 매드하우스·오렌지 | 만화·애니메이션·영화 | 있음 | 이주선이 떨어진 사막 행성에서 에너지 생명에 기대 사는 사람들과 현상금 걸린 총잡이 |
 | 1995 | 펫숍 오브 호러스 (경계) | ペットショップ・オブ・ホラーズ | 秋乃茉莉 | 만화·애니메이션 | 있음 | 차이나타운의 작은 가게가 멸종 동물과 환상 동물까지 팔고, 약속을 어긴 손님에게는 끔찍한 일이 생긴다. |
+| 1995 | 레벨E | レベルE | 冨樫義博(원작), スタジオぴえろ·david production(애니메이션 | 만화·애니메이션 | 있음 | 야마가타의 한 고교생 방에 눌러앉은 외계 별의 바보 왕자가, 심심풀이 장난으로 지구에 소동을 일으킨다. |
 | 1995 | 하늘은 붉은 강가 (경계) | 天は赤い河のほとり | 篠原千絵 | 만화·애니메이션 | 있음 | 평범한 열다섯 살 소녀가 물속에서 뻗어 나온 손에 끌려 고대 히타이트 제국으로 떨어진다. |
 | 1996 | BUZZER BEATER | BUZZER BEATER | 井上雄彦(원작), トムス・エンタテインメント(애니메이션, 감독 宮繁之) | 만화·애니메이션 | 확인 못 함 | 농구가 온 우주로 퍼진 먼 미래, 외계인이 휩쓴 우주 리그에 지구인만의 팀이 도전한다. |
 | 1996 | Cyberella | Cyberella | Howard Chaykin, Don Cameron | 만화 | 확인 못 함 | 기술을 비꼬는 풍자이자 대중 사이버펑크 디스토피아 |
 | 1996 | 이트맨 (경계) | EAT-MAN | 요시토미 아키히토 | 만화·애니메이션 | 있음 | 먹은 것을 몸 밖으로 다시 꺼내는 능력을 지닌 세계 제일의 모험가가 온갖 사건을 맡는다. |
+| 1996 | YASHA-夜叉- | YASHA-夜叉- | 吉田秋生 | 드라마·만화 | 확인 못 함 | 유전자 기술로 태어난 천재 소년이 쌍둥이 형제와 얽히며 바이러스를 둘러싼 음모에 맞선다. |
+| 1996 | サイコメトラーEIJI | サイコメトラーEIJI | 安童夕馬(원작) · 朝基まさし(그림) | 드라마·만화 | 확인 못 함 | 물건과 사람에 남은 기억을 읽는 불량 고교생이 그 힘으로 사건을 푼다. |
 | 1996 | 칠석의 나라 | 七夕の国 | 岩明均 | 드라마·만화 | 있음 | 무엇에든 작은 구멍을 뚫는 쓸모없는 초능력을 지닌 대학생이 그 힘의 뿌리인 한 마을의 비밀로 끌려든다. |
 | 1996 | 선녀전설 세레스 (경계) | 妖しのセレス | 渡瀬悠宇(원작), ぴえろ(애니메이션, 감독 亀垣一) | 만화·애니메이션 | 있음 | 열여섯 살 생일에 선녀의 힘을 이은 환생으로 밝혀진 소녀가, 그 힘을 두려워하는 일족에게 쫓긴다. |
 | 1996 | 封神演義 (경계) | 封神演義 | 藤崎竜(원작), スタジオディーン(애니메이션, 감독 西村純二) | 게임·만화·애니메이션 | 확인 못 함 | 3000년 전 은나라, 선인의 제자가 나라를 어지럽히는 요녀와 악한 선도를 봉하는 계획을 맡는다. |
@@ -5070,6 +7246,7 @@
 | 1997 | 이그젝션 | 砲神エグザクソン | 소노다 켄이치 | 만화 | 일부 | 우호를 내세워 궤도 엘리베이터를 세운 외계인이 완공과 함께 지구를 침공하자, 그들의 옛 거대 병기가 맞선다. |
 | 1997 | 철 커뮤니케이션 | 鉄コミュニケイション | かとうひでお, たくま朋正 | 만화·소설·애니메이션 | 일부 | 인류 문명이 무너진 2050년, 기억을 잃은 소녀가 로봇들과 살다 자신 말고 다른 사람을 만난다. |
 | 1997 | 강철천사 쿠루미 (경계) | 鋼鉄天使くるみ | 카이샤쿠 | 만화·애니메이션 | 있음 | 과학과 마술로 만든 싸우는 메이드 인형 '강철천사'를 우연히 깨운 소년이 음모에 휘말린다. |
+| 1997 | 黑血 | 黑血 | 赵佳 | 만화 | 확인 못 함 | 경찰 단짝이 범죄 조직을 쫓다 수수께끼의 여인과 얽히는 장편 SF 만화. |
 | 1998 | 빅 히어로 (경계) | Big Hero 6 | Don Hall, Chris Williams (Disney), 원작 St | 게임·만화·애니메이션 | 있음 | 샌프란시스코와 도쿄를 섞은 미래 도시에서 돌봄 로봇과 소년 발명가들이 영웅이 된다 |
 | 1998 | Universal War One | Universal War One | 드니 바잠 | 만화 | 없음 | 태양계 끝에 나타난 거대한 검은 벽을 조사하던 징계 부대가 시간 여행과 전쟁에 휘말린다 |
 | 1998 | 우주인 타로 (경계) | うちゅう人 田中太郎 | ながとしやすなり | 만화·애니메이션 | 있음 | 머리에 뿔 달린 외계인이 초등학교에 전학 와 평범한 소년과 소동을 벌인다. |
@@ -5078,8 +7255,10 @@
 | 1998 | 마호로매틱 | まほろまてぃっく | 中山文十郎, ぢたま某 | 만화·애니메이션 | 일부 | 외계인 침략에 맞서던 전투용 인조인간이 수명이 다해 가는 몸으로 중학생 집 가정부가 된다. |
 | 1998 | 에일리언 9 | エイリアン9 | 冨沢ひとし | 만화·애니메이션 | 일부 | 외계 생물이 수시로 나타나는 초등학교에서 '에일리언 대책 위원'이 된 아이들이 머리에 공생체를 얹고 싸운다. |
 | 1998 | エト | エト | うすた京介(원작) | 만화·애니메이션 | 확인 못 함 | 1998년 후지산 기슭에 내린 외계인이 토끼로 꾸며 지구를 없앨 기계를 묻다 아이들과 마주친다. |
+| 1998 | 打撃天使ルリ (경계) | 打撃天使ルリ | 山本康人(원작) | 드라마·만화 | 확인 못 함 | 겁 많은 평범한 회사원이 어느 날 '타격 인류'로 깨어나 싸움에 휘말린다. |
 | 1998 | 볼트 에이지 | 볼트 에이지 | 김연서 | 만화·애니메이션 | 한국 원작 | 성인용 단편들로 엮은 암울한 디스토피아 도시, 비디오테이프에서 사이버 소녀가 튀어나오는 따위의 이야기 |
 | 1999 | 20세기 소년 (경계) | 20世紀少年 | 우라사와 나오키 | 만화·영화 | 있음 | 어린 시절 장난으로 지어낸 인류 멸망 각본을 정체 모를 '친구'가 실제로 벌인다 |
+| 1999 | ALIVE | ALIVE | 髙橋ツトム(원작), 北村龍平(영화 감독) | 만화·영화 | 확인 못 함 | 사형을 면한 죄수들이 밀실에 갇혀 정체 모를 실험의 대상이 된다. |
 | 1999 | ANGELIC LAYER | ANGELIC LAYER | CLAMP(원작), ボンズ(애니메이션, 감독 錦織博) | 만화·애니메이션 | 확인 못 함 | 조종자의 생각대로 움직이는 작은 인형을 길러 겨루는 놀이가 퍼진 도시에서 소녀가 대회에 나선다. |
 | 1999 | Heavy Liquid | Heavy Liquid | Paul Pope | 만화 | 확인 못 함 | 뉴욕의 사설탐정이 녹이면 마약처럼 정신을 흔드는 금속 액체를 훔치고 쫓긴다 |
 | 1999 | NieA_7 | NieA_7 | 安倍吉俊·gK(원작), トライアングルスタッフ(애니메이션, 감독 佐藤卓哉) | 만화·애니메이션 | 확인 못 함 | 상경한 재수생이 하숙하는 목욕탕 방에 이미 외계인 소녀가 눌러살고 있어, 제멋대로인 동거가 시작된다. |
@@ -5087,6 +7266,7 @@
 | 1999 | Virus | Virus | Chuck Pfarrer (원작), John Bruno (영화) | 만화·영화 | 확인 못 함 | 우주 정거장을 거쳐 내려온 에너지 생명체가 연구선을 차지하고 선원들을 덮친다 |
 | 1999 | クロノアイズ | クロノアイズ | 長谷川裕一 | 만화 | 확인 못 함 | 시간 관리국에 뽑힌 고교생이 역사를 바꾸려는 시간 범죄 결사와 싸우고, 개변된 평행 우주를 고친다. |
 | 1999 | 개구리 하사 케로로 (경계) | ケロロ軍曹 | 요시자키 미네 | 만화·애니메이션 | 있음 | 지구를 치러 온 개구리 모양 외계인 소대가 한 집에 눌러살며 침략을 미룬다 |
+| 1999 | サトラレ | サトラレ | 佐藤マコト(원작), 本広克行(영화 감독) | 드라마·만화·영화 | 확인 못 함 | 생각이 주변에 그대로 들리는 천재들을 나라가 몰래 보호하고 관리한다. |
 | 1999 | 플라네테스 | プラネテス | 유키무라 마코토, 선라이즈(타니구치 고로) | 만화·애니메이션 | 있음 | 달에 기지가 생긴 근미래, 궤도를 도는 쓰레기를 치우는 우주 노동자들 |
 | 1999 | 레드 아이즈 | レッドアイズ | 神堂潤 | 만화 | 있음 | 초강대국이 무너진 20년 전쟁 뒤, 궤도의 옛 병기 탓에 맨몸 싸움이 된 전장을 강화 장갑복 보병이 누빈다. |
 | 1999 | 成恵の世界 | 成恵の世界 | 丸川トモヒロ(원작), スタジオ・ライブ(애니메이션) | 만화·애니메이션 | 확인 못 함 | 외계 세력이 생물 병기를 지구에 보내는 가운데, 평범한 소년이 그것을 때려잡던 옆 반 소녀에게 반한다. |
@@ -5108,6 +7288,7 @@
 | 2000 | 최종병기 그녀 (경계) | 最終兵器彼女 | 타카하시 신 | 만화·애니메이션·영화 | 있음 | 전쟁에 휘말린 일본, 평범한 여고생 여자친구가 몸이 무기로 바뀐 최종 병기가 된다 |
 | 2000 | 베리베리 뮤우뮤우 (경계) | 東京ミュウミュウ | 征海未亜·吉田玲子(원작), ぴえろ(감독 阿部記之) | 게임·만화·애니메이션 | 있음 | 동물의 힘이 몸에 깃든 소녀가 고양이 귀 모습으로 변신해, 지구 동물에 기생시켜 만든 생물 병기와 싸운다. |
 | 2000 | 사막의 해적! 캡틴 쿠파 | 砂漠の海賊!キャプテンクッパ | 谷上俊夫 | 만화·애니메이션 | 있음 | 에너지 전쟁으로 기상 위성이 부서져 바다가 사막이 된 3501년, 사막의 해적들이 모험을 벌인다. |
+| 2001 | 5億年ボタン | 5億年ボタン | 菅原そうた(원작·감독), STUDIO SOTA | 만화·애니메이션 | 확인 못 함 | 누르면 아무것도 없는 딴 차원에서 5억 년을 보내고 기억이 지워진 채 돌아오는 단추와 수상한 발명품들. |
 | 2001 | 7SEEDS | 7SEEDS | 田村由美 | 만화·애니메이션 | 있음 | 운석 충돌로 인류가 끝나기 전 냉동 수면에 맡겨진 십 대들이 변해 버린 미래 일본에서 깨어나 살아남는다. |
 | 2001 | 아리아 | ARIA | 아마노 코즈에 | 만화·애니메이션 | 있음 | 물로 덮이게 고친 화성의 물길 도시에서, 배를 저어 손님을 안내하는 견습생의 나날 |
 | 2001 | Girl Genius (경계) | Girl Genius | 필 폴리오, 카야 폴리오 | 만화 | 없음 | 미친 과학자 귀족들이 다스리는 다른 역사의 유럽에서 잊힌 가문의 딸이 천재성에 눈뜬다 |
@@ -5115,17 +7296,21 @@
 | 2001 | こはるびより | こはるびより | みづきたけひと(원작), 童夢(OVA, 감독 稲垣隆行) | 만화·애니메이션 | 확인 못 함 | 사람과 똑같은 메이드 로봇이 실용화된 시대, 인형 취급을 받는 메이드 로봇이 주인 곁에서 수난을 겪는다. |
 | 2001 | 트윈 스피카 | ふたつのスピカ | 야기누마 코 | 드라마·만화·애니메이션 | 있음 | 로켓 사고를 겪은 근미래 일본에서 소녀가 우주비행사 학교에 들어간다 |
 | 2001 | 미래전사 오공 (경계) | アソボット戦記五九 | 아리토모 조지, 아오이 로무 | 만화·애니메이션 | 있음 | 천 년 냉동 수면에서 깬 소년이 멸망을 앞둔 미래를 구하려 기계 생명체 '아소봇'들과 열쇠를 찾아 나선다. |
+| 2001 | 공포의 물고기 (경계) | ギョ | 伊藤潤二(원작), Ufotable(OVA, 감독 平尾隆之) | 만화·애니메이션 | 확인 못 함 | 다리가 달린 물고기와 상어 떼가 뭍으로 올라와 사람을 덮치고, 지독한 냄새와 함께 도시를 집어삼킨다. |
 | 2001 | シャム猫 -ファーストミッション- (경계) | シャム猫 -ファーストミッション- | 細田雅弘(감독), モンキー・パンチ(원작) | 만화·애니메이션 | 확인 못 함 | 근미래 도쿄 만 일대를 테러 집단이 점거하자, 내각 직속 대테러 팀 '샴 고양이'가 원전 제압에 나선다. |
 | 2001 | 드래곤 드라이브 (경계) | ドラゴンドライブ | 桜井健一 | 게임·만화·애니메이션 | 있음 | 가상 공간에서 제게 맞는 드래곤을 골라 타고 겨루는 게임에 빠진 소년이 그 게임 너머의 세계와 얽힌다. |
 | 2001 | 鋼の錬金術師 (경계) | 鋼の錬金術師 | 荒川弘 | 만화·영화 | 확인 못 함 | 연금술의 나라 아메스트리스에서 금기인 인체 연성으로 몸을 잃은 형제가 되찾을 길을 찾는다. |
 | 2001 | 룬 AD3000 | 룬 AD3000 | 김규삼 | 만화 | 한국 원작 | 멸망한 문명 위에 세운 근미래 세상에서 최종 진화 병기인 소녀 '룬'이 깨어난다. |
 | 2002 | 100% | 100% | Paul Pope | 만화 | 확인 못 함 | 2038년 1월 맨해튼, 사이버펑크 환경 속 여섯 사람의 얽힌 사랑 이야기 |
 | 2002 | 건슬링거 걸 (경계) | GUNSLINGER GIRL | 아이다 유 | 만화·애니메이션 | 있음 | 이탈리아 정부 기관이 다친 소녀들을 기계 몸으로 고치고 길들여 암살자로 쓴다 |
+| 2002 | Kaput et Zösky | Kaput et Zösky | Lewis Trondheim | 만화·애니메이션 | 확인 못 함 | 피에 굶주린 어설픈 정복자 둘이 우주를 떠돌며 행성마다 정복하려 한다. |
 | 2002 | Mars et Avril | Mars et Avril | Martin Villeneuve | 만화·영화 | 확인 못 함 | 화성 착륙을 앞둔 근미래 몬트리올, 시간을 늦추는 악기를 켜는 노음악가와 친구가 한 여자를 사랑한다. |
 | 2002 | RAY | RAY | 吉富昭仁(원작), OLM(애니메이션, 감독 高橋ナオヒト) | 만화·애니메이션 | 확인 못 함 | 장기 밀매 조직에 두 눈을 빼앗기고 투시하는 눈을 이식받은 소녀가 의사가 되어 어둠의 조직과 싸운다. |
+| 2002 | The Amazing Screw-On Head (경계) | The Amazing Screw-On Head | Mike Mignola | 만화·애니메이션 | 확인 못 함 | 링컨 대통령의 요원인 나사 머리 로봇이 되살아난 주술사 황제 좀비를 쫓는다. |
 | 2002 | The Resistance | The Resistance | Justin Gray, Jimmy Palmiotti | 만화 | 확인 못 함 | 독극물로 생태계가 무너진 2280년 뉴욕, 질서를 세운 세계 통제 위원회가 부패해 전체주의가 된다 |
 | 2002 | Y: 와이 더 라스트 맨 | Y: The Last Man | 브라이언 K. 본, 피아 구에라 | 드라마·만화 | 있음 | 원인 모를 재앙으로 수컷 포유류가 한꺼번에 죽고, 한 청년과 원숭이만 살아남는다 |
 | 2002 | ZETMAN (경계) | ZETMAN | 桂正和 | 만화·애니메이션 | 있음 | 손등에 이상한 혹을 지닌 소년이 괴이한 살인귀들과 그 뒤에 얽힌 거대 기업 집안의 비밀에 맞선다. |
+| 2002 | いばらの王 | いばらの王 | 岩原裕二(원작), サンライズ(극장, 감독 片山一良) | 만화·애니메이션 | 확인 못 함 | 고칠 수 없는 석화병을 피해 냉동 수면에 든 160명이 깨어나니, 시설은 가시덤불과 괴물로 뒤덮여 있었다. |
 | 2002 | 리젤마인 (경계) | りぜるまいん | スギサキユキル(원작), マッドハウス·IMAGIN(애니메이션, 감독 松村や | 만화·애니메이션 | 확인 못 함 | 중학생 소년이 나라의 결정으로 사람이 아닌 소녀와 억지로 결혼하게 되고, 잊었던 어린 날의 만남을 떠올린다. |
 | 2002 | 엘펜리트 | エルフェンリート | 岡本倫 | 만화·애니메이션 | 있음 | 돌연변이로 태어난 새 인류 '디클로니우스' 소녀가 연구소를 탈출하고, 구인류와 새 인류가 피로 부딪친다. |
 | 2002 | ギルステイン | ギルステイン | 冨永恒雄(감독), 酒井直行(원작) | 만화·애니메이션 | 확인 못 함 | 2088년 거대 기업이 다스리는 구역에서 달아난 소녀가, 기업이 만든 생물 병기로 개조된 청년에게 구해진다. |
@@ -5134,17 +7319,22 @@
 | 2002 | 원반황녀 왈큐레 | 円盤皇女ワるきゅーレ | 介錯(원작), TNK(애니메이션) | 만화·애니메이션 | 확인 못 함 | 외계인이 흔해진 지구, 목욕탕에 UFO가 떨어지고 소년을 살리려 혼을 나눈 외계 공주가 아이가 된다. |
 | 2002 | 学園アリス (경계) | 学園アリス | 樋口橘(원작), グループ・タック(감독 大森貴弘) | 게임·만화·애니메이션 | 확인 못 함 | 타고난 특별한 재능 '앨리스'를 지닌 아이만 다니고 졸업 전엔 못 나가는 학원에 시골 소녀가 들어간다. |
 | 2002 | 그의 나라 | 그의 나라 | 박흥용 | 만화 | 한국 원작 | 핵폭탄이 주요 도시를 덮쳐 문명이 무너진 한국, 무인도에 표류했던 고등학생이 살아남은 세상을 헤맨다. |
+| 2003 | Firebreather (경계) | Firebreather | Phil Hester · Andy Kuhn | 만화·애니메이션 | 확인 못 함 | 인류와 거대 괴수의 전쟁 끝에 괴수 왕과 사람 여인 사이에서 태어난 반은 용인 십대 덩컨. |
 | 2003 | 인빈시블 (경계) | Invincible | Robert Kirkman, Cory Walker | 게임·만화·애니메이션 | 있음 | 외계 정복 제국의 피를 이은 소년 영웅이 지구와 제국 사이에 선다 |
+| 2003 | Martin Mystère (경계) | Martin Mystère | Alfredo Castelli(원작) · Vincent Chalvon-D | 만화·애니메이션 | 확인 못 함 | 기숙 학교의 십대 의붓남매 마틴과 다이애나가 기이한 사건을 쫓는다. |
 | 2003 | NEEDLESS | NEEDLESS | 今井神(원작), マッドハウス(애니메이션, 감독 迫井政行) | 만화·애니메이션 | 확인 못 함 | 3차 대전으로 오염된 2130년 도쿄 격리 구역에서, 이상한 힘을 지닌 이들이 제약 회사의 지배와 싸운다. |
 | 2003 | 플루토 | PLUTO | 우라사와 나오키(원작 데즈카 오사무) | 만화·애니메이션 | 있음 | 로봇이 사람과 섞여 사는 세상에서 최강 로봇들을 노린 연쇄 살인을 로봇 형사가 쫓는다 |
 | 2003 | 라이드 백 | RIDEBACK | カサハラテツロー | 만화·애니메이션 | 있음 | 학생 반정부 운동이 다시 일어난 2020년, 춤에 재능 있는 대학생이 사람을 본뜬 로봇 오토바이에 오른다. |
 | 2003 | 특수기동수사대 토코 (경계) | TOKKO 特公 | 藤沢とおる | 만화·애니메이션 | 있음 | 도시에 뚫린 구멍에서 나온 괴물이 주민을 학살한 뒤, 살아남은 남매가 특수 경찰이 되어 괴물을 사냥한다. |
 | 2003 | 여름거미 | ナツノクモ | 篠房六郎 | 만화 | 있음 | 온라인 게임 속 상담 치료소 '동물원'을 지키게 된 전설의 사냥꾼 게이머가 게임과 현실의 사건에 휘말린다. |
+| 2003 | ペット | ペット | 三宅乱丈(원작), ジェノスタジオ(애니메이션) | 만화·애니메이션 | 확인 못 함 | 남의 기억 속에 들어가 고치는 능력자들이 범죄 조직의 '펫'으로 부려지고, 실패하면 상대는 망가진다. |
 | 2003 | 일격살충!! 호이호이씨 | 一撃殺虫!!ホイホイさん | 田中久仁彦(원작), コナミ(게임) | 게임·만화·애니메이션 | 일부 | 모든 해충이 약에 내성을 갖게 된 20XX년, 키 11.5센티 메이드형 로봇이 무기로 집 안 벌레를 잡는다. |
 | 2003 | 은혼 (경계) | 銀魂 | 소라치 히데아키 | 만화·애니메이션·영화 | 있음 | 외계인에게 문을 연 에도 시대 일본에서 칼을 빼앗긴 사무라이가 해결사로 산다 |
 | 2004 | 바이오메가 | BIOMEGA | 니헤이 츠토무 | 만화 | 있음 | 사람을 괴물로 바꾸는 병이 퍼진 미래, 인조인간 요원이 인공지능을 실은 오토바이로 달린다 |
+| 2004 | Delta State | Delta State | Douglas Gayeton · Matt Rockman | 만화·애니메이션 | 확인 못 함 | 기억을 잃은 룸메이트 넷이 영적 세계 '델타 스테이트'를 드나들며 적 '리프터'에 맞선다. |
 | 2004 | HOTEL SINCE 2079 | HOTEL SINCE 2079 | 박무직(원안) · 박지홍(그림, 2004판) | 만화 | 한국 원작 | 더워질 대로 더워져 가는 지구에서, 인공지능이 생물들의 유전자를 모은 남극의 탑을 지킨다. |
 | 2004 | Singularity 7 | Singularity 7 | Ben Templesmith | 만화 | 확인 못 함 | 과학과 사이버펑크, 공포를 섞어 그린 재앙 뒤 디스토피아 미래 |
+| 2004 | W.I.T.C.H. (경계) | W.I.T.C.H. | Elisabetta Gnone · Alessandro Barbucci · | 만화·애니메이션 | 확인 못 함 | 마법의 힘을 지닌 소녀 다섯이 '장막의 수호자'가 되어 행성 메리디안을 폭군 왕자에게서 구한다. |
 | 2004 | WE3 | We3 | 그랜트 모리슨, 프랭크 콰이틀리 | 만화 | 있음 | 군이 기계 갑옷을 입혀 무기로 만든 개·고양이·토끼가 실험실을 탈출한다 |
 | 2004 | 아마츠키 (경계) | あまつき | 高山しのぶ(원작), スタジオディーン(애니메이션, 감독 古橋一浩) | 만화·애니메이션 | 일부 | 첨단 기술로 꾸민 에도 전시장을 돌던 고교생이 요괴가 사는 낯선 에도 세계에 떨어진다. |
 | 2004 | 카시마시 ~걸 미츠 걸~ (경계) | かしまし 〜ガール・ミーツ・ガール〜 | あかほりさとる(원작), 桂遊生丸(작화), スタジオ雲雀(애니메이션, 감독  | 게임·만화·소설·애니메이션 | 일부 | 고백을 거절당한 소년이 외계인 우주선 사고에 휘말려 치료받다 소녀가 되고, 두 소녀와 삼각관계에 빠진다. |
@@ -5162,14 +7352,24 @@
 | 2005 | 학원 유토피아 마나비 스트레이트! (경계) | がくえんゆーとぴあ まなびストレート! | ufotable(원작·애니메이션) | 게임·만화·애니메이션 | 확인 못 함 | 아이가 줄고 고등학교에 안 가는 게 멋인 2035년, 폐교 위기의 여학교에 온 전학생이 학교를 되살린다. |
 | 2005 | 아바라 | アバラ | 니헤이 츠토무 | 만화 | 있음 | 정체 모를 거대한 무덤이 선 세계에서, 사람을 먹는 흰 괴물과 그것을 죽이려 만든 검은 인간 병기가 싸운다. |
 | 2005 | 진키 | ジンキ | 綱島志朗 | 만화·애니메이션 | 일부 | 베네수엘라의 특이한 광물로 움직이는 인간형 로봇을 두고 싸우고, 그에 맞는 피를 지닌 이들이 조종사가 된다. |
+| 2005 | ライチ☆光クラブ (경계) | ライチ☆光クラブ | 古屋兎丸(만화), 東京グランギニョル(원작 연극) | 만화·애니메이션·영화 | 확인 못 함 | 동네 구석 비밀 기지의 소년 아홉이 기계 '라이치'를 만들고, 기계는 '아름다운 것'으로 소녀를 데려온다. |
+| 2005 | 桜2号 | 桜2号 | たけやまたけを | 드라마·만화 | 확인 못 함 | 연인을 잃은 남자가 친구의 도움으로 그녀와 꼭 닮은 사람형 로봇 '사쿠라 2호'를 만든다. |
+| 2005 | 百合星人ナオコサン | 百合星人ナオコサン | kashmir(원작), ufotable(애니메이션, 감독 竹内哲也) | 만화·애니메이션 | 확인 못 함 | '백합성'에서 왔다는 외계인 나오코상이 지구에서 벌이는 엉뚱한 소동. |
 | 2005 | 절대가련 칠드런 | 絶対可憐チルドレン | 시이나 타카시 | 만화·애니메이션 | 있음 | 초능력자가 흔해졌어도 보통 사람과 다툼이 남은 가까운 미래, 젊은 과학자가 가장 강한 소녀 셋을 맡는다. |
+| 2005 | 가가스테루의 습격 | 虫籠のカガステル | 橋本花鳥(원작), スタジオKAI(애니메이션, 감독 千明孝一) | 만화·애니메이션 | 있음 | 사람이 거대한 벌레로 변하는 병이 돌아 인류 셋 중 둘이 먹힌 22세기, 구제꾼 소년이 한 소녀를 맡는다. |
 | 2005 | 강철의 라인배럴 | 鉄のラインバレル | 清水栄一, 下口智裕 | 만화·애니메이션 | 있음 | 사고에서 살아난 소년 앞에 나타난 거대 로봇 '라인배럴'과 함께 로봇들의 싸움에 뛰어든다. |
 | 2005 | 마스크맨 (경계) | 마스크맨 | 배성훈(원작 만화), 한영훈(총감독) | 만화·애니메이션 | 한국 원작 | 은하를 떠도는 행성 '마스크별' 사람들이 지구 위에 나타나 격투기 대회를 열고 지구 선수들을 모은다. |
 | 2005 | 에스탄시아 | 에스탄시아 | 팀 풍경(캔커피 시나리오) | 만화 | 한국 원작 | 가족을 잃고 망가진 형사가 단서를 쫓아 괴물이 습격하는 열차를 타고 '에스탄시아'로 향한다. |
+| 2006 | Monster Allergy (경계) | Monster Allergy | Katja Centomo · Francesco Artibani · Ale | 만화·애니메이션 | 확인 못 함 | 알레르기 많은 소년 직이 사람 사이에 사는 보이지 않는 괴물을 보고 괴물 조련사가 되려 한다. |
+| 2006 | The Boys (경계) | The Boys | Garth Ennis · Darick Robertson | 드라마·만화 | 확인 못 함 | 겉으로는 돕는 듯하나 몰래 타락한 초능력 영웅들에 맞서는 작은 요원 무리 '더 보이즈'. |
 | 2006 | To LOVE 트러블 (경계) | To LOVEる -とらぶる- | 長谷見沙貴, 矢吹健太朗 | 게임·만화·애니메이션 | 있음 | 우주를 다스리는 데빌루크 별의 공주가 지구 소년 집에 눌러앉으며 외계인들이 줄줄이 찾아온다. |
 | 2006 | テガミバチ (경계) | テガミバチ | 浅田弘幸(원작), ぴえろ+(애니메이션, 감독 岩永彰) | 만화·애니메이션 | 확인 못 함 | 밤이 끝나지 않는 별, 인공 태양이 닿지 않는 위험한 땅을 건너 편지를 나르는 배달부가 되려는 소년. |
+| 2006 | 브레이크 블레이드 (경계) | ブレイク ブレイド | 吉永裕ノ介(원작), Production I.G·XEBEC(애니메이션) | 만화·애니메이션 | 있음 | 모두가 석영을 부리는 힘을 타고나는 대륙, 힘이 없는 청년만이 발굴된 옛 인형 병기를 움직인다. |
 | 2006 | 京四郎と永遠の空 (경계) | 京四郎と永遠の空 | 介錯(원작), TNK(애니메이션, 감독 柳沢テツヤ) | 만화·소설·애니메이션 | 확인 못 함 | 대붕괴 10년 뒤 세운 학원 도시, 꿈속 왕자를 닮은 소년이 인조 생명체 '절대천사'를 두고 싸운다. |
 | 2006 | 여름의 폭풍! (경계) | 夏のあらし! | 小林尽 | 만화·애니메이션 | 있음 | 2차 대전 말기의 유령 아가씨와 소년이 타임 리프로 그 시대를 오간다. |
+| 2006 | 학원묵시록 HIGHSCHOOL OF THE DEAD (경계) | 学園黙示録 HIGHSCHOOL OF THE DEAD | 佐藤大輔(원작), 佐藤ショウジ(그림), マッドハウス(애니메이션, 감독 荒 | 만화·애니메이션 | 있음 | 어느 날 학교에 나타난 산송장 '놈들'이 순식간에 늘어나고, 살아남은 고교생들이 탈출에 나선다. |
+| 2006 | 일상 (경계) | 日常 | あらゐけいいち(원작), 京都アニメーション(애니메이션) | 만화·애니메이션 | 확인 못 함 | 엉뚱한 일이 끝없이 터지는 고교 주변의 일상 개그, 연구소에서 만든 로봇 소녀도 함께 산다. |
+| 2006 | 미래일기 (경계) | 未来日記 | えすのサカエ(원작), asread.(애니메이션, 감독 細田直人) | 드라마·만화·애니메이션 | 있음 | 미래가 적히는 휴대전화 일기를 가진 12명이, 다음 '시공왕' 자리를 두고 서로 죽이는 생존 게임에 든다. |
 | 2006 | 해수의 아이 (경계) | 海獣の子供 | 五十嵐大介 | 만화·애니메이션 | 있음 | 수족관에서 바다가 기른 듯한 두 소년을 만난 소녀가 세계의 바다에서 벌어지는 이상한 일에 휘말린다. |
 | 2006 | 정의의 졸라맨 로봇대전 (경계) | 정의의 졸라맨 로봇대전 | 유니트픽쳐 | 만화 | 한국 원작 | 애꾸별의 애꾸마왕이 지구에 로봇 꾸러미를 떨어뜨려 사람끼리 싸우게 하려 하자 졸라맨이 맞선다. |
 | 2007 | BLASSREITER | BLASSREITER | GONZO·ニトロプラス(원작), GONZO(감독 板野一郎) | 만화·소설·애니메이션 | 확인 못 함 | 근미래 독일, 되살아난 시체가 기괴한 융합체로 사람을 덮치고 산 채로 그 힘을 쓰는 이들이 나온다. |
@@ -5179,6 +7379,7 @@
 | 2007 | 엄브렐러 아카데미 (경계) | The Umbrella Academy | 제라드 웨이, 가브리엘 바 | 드라마·만화 | 있음 | 같은 날 태어난 초능력 아이들을 입양해 키운 남매가 세상의 끝과 시간 여행에 맞선다 |
 | 2007 | そらのおとしもの (경계) | そらのおとしもの | 水無月すう(원작), AIC ASTA(애니메이션, 감독 斎藤久) | 게임·만화·애니메이션 | 확인 못 함 | 하늘 위 수수께끼 대륙에서 '애완용 엔젤로이드'라는 소녀가 떨어져, 소원을 다 들어주며 중학생과 함께 산다. |
 | 2007 | 엠바밍 (경계) | エンバーミング -THE ANOTHER TALE OF FRANKENSTEIN- | 와츠키 노부히로 | 만화 | 있음 | 19세기 말 유럽, 시체를 되살리는 금단의 기술로 만든 인조인간에게 부모를 잃은 소년이 복수에 나선다. |
+| 2007 | 데드맨 원더랜드 (경계) | デッドマン・ワンダーランド | 片岡人生·近藤一馬(원작), マングローブ(애니메이션, 감독 初見浩一) | 만화·애니메이션 | 있음 | 대지진 10년 뒤, 누명을 쓴 소년이 피를 무기로 쓰는 능력자들이 갇힌 민영 감옥 놀이공원에 보내진다. |
 | 2007 | 프리징 | フリージング | 임달영, 김광현 | 만화·애니메이션 | 있음 | 이차원에서 온 침략체 노바에 맞서 몸을 고친 소녀 병사들이 학교에서 길러진다. |
 | 2007 | 우주형제 | 宇宙兄弟 | 코야마 츄야 | 만화·애니메이션·영화 | 있음 | 어릴 적 약속을 따라 형제가 우주비행사가 되어 달과 화성을 향한다 |
 | 2007 | 전국 스트레이즈 (경계) | 戦國ストレイズ | 나나미 신고 | 만화 | 있음 | 검도부 여고생이 전국 시대로 미끄러져 오다 노부나가를 만난다. |
@@ -5188,13 +7389,18 @@
 | 2007 | 트레이스 (경계) | 트레이스 | 네스티캣 | 만화 | 한국 원작 | 30여 년 전부터 괴물 '트러블'이 사람을 덮치고, 그에 맞설 초능력을 지닌 '트레이스'들이 나타난다. |
 | 2008 | 코펠리온 | COPPELION | 井上智徳 | 만화·애니메이션 | 일부 | 원전 사고로 버려진 2036년 도쿄에 방사능을 견디도록 만든 소녀들이 남은 사람을 구하러 들어간다. |
 | 2008 | Crossed (경계) | Crossed | Garth Ennis, Jacen Burrows, Avatar Press | 만화 | 확인 못 함 | 정체 모를 감염증에 걸린 사람들이 미쳐 날뛰며 인류 대부분이 '크로스드'가 되어 버린 세계. |
+| 2008 | CØDE:BREAKER (경계) | CØDE:BREAKER | 上条明峰(원작), KINEMA CITRUS(애니메이션) | 만화·애니메이션 | 있음 | '이능'으로 법이 못 벌하는 악을 지우는 비밀 처형자들의 싸움에 정의감 강한 여고생이 끼어든다. |
 | 2008 | Fluorescent Black | Fluorescent Black | M. F. Wilson, Nathan Fox | 만화 | 확인 못 함 | 2085년 싱가포르, 유전 기술이 인류를 우월종과 열등종으로 갈라 검사로 사람을 나눈다 |
 | 2008 | NAWLZ | NAWLZ | Stu Campbell (Sutu) | 만화 | 확인 못 함 | 현실에 디지털 덧그림이 깔린 미래 거대 도시, 망 낙서꾼 청년의 이야기 |
 | 2008 | PSYREN -サイレン- | PSYREN -サイレン- | 岩代俊明 | 만화·소설·애니메이션 | 확인 못 함 | 붉은 공중전화 카드로 수수께끼의 세계 '사이렌'에 끌려간 고교생이, 괴물과 싸우며 초능력에 눈뜬다. |
+| 2008 | The Middleman (경계) | The Middleman | Javier Grillo-Marxuach · Les McClaine | 드라마·만화 | 확인 못 함 | 비밀 기관에 뽑힌 화가 지망생이 '이국적인 문제' 해결사 미들맨과 함께 악과 싸운다. |
+| 2008 | World of Quest (경계) | World of Quest | Jason T. Kruse | 만화·애니메이션 | 확인 못 함 | 부모를 구하려는 어린 왕자 네스터와 근육질 수호자 퀘스트의 모험. |
 | 2008 | 에덴의 우리 (경계) | エデンの檻 | 山田恵庸 | 만화 | 있음 | 수학여행 비행기가 지도에 없는 섬에 떨어지고, 중학생들이 이미 멸종한 동물이 사는 섬에서 살아남는다. |
 | 2008 | 테르마이 로마이 (경계) | テルマエ・ロマエ | ヤマザキマリ | 만화·애니메이션·영화 | 있음 | 고대 로마 목욕탕 설계사가 물속에서 현대 일본 목욕탕으로 넘나들며 새 목욕탕을 짓는다. |
 | 2008 | 건전로봇 다이미다라 (경계) | 健全ロボ ダイミダラー | なかま亜咲 | 만화 | 있음 | 지구를 괴롭히는 외계 펭귄 제국에 맞서, 야한 기운을 힘으로 삼는 거대 로봇을 남자 고교생이 몬다. |
 | 2008 | 째깍째깍 (경계) | 刻刻 | 堀尾省太 | 만화·애니메이션 | 있음 | 시간이 멈춘 세계 안에서만 움직일 수 있게 된 가족이, 같은 힘을 노리는 무리와 맞선다. |
+| 2008 | 絶対彼氏 | 絶対彼氏 | 渡瀬悠宇 | 드라마·만화 | 확인 못 함 | 사랑에 번번이 실패하던 여자가 수상한 상점에서 연인 로봇을 주문해 함께 살게 된다. |
+| 2008 | 혈계전선 (경계) | 血界戦線 | 内藤泰弘(원작), ボンズ(애니메이션, 감독 松本理恵) | 만화·애니메이션 | 있음 | 하룻밤 새 이계와 인간계가 겹쳐 변해 버린 옛 뉴욕 '헬살렘즈 롯', 그 균형을 지키는 비밀 결사의 활약. |
 | 2008 | 내추럴 리드미칼 (경계) | 내추럴 리드미칼 | 전상영 | 만화 | 한국 원작 | 정부가 공권을 버린 근미래 연합국 수도에서 갱단과 해결사 무리가 판을 친다 |
 | 2008 | 드림캐쳐 | 드림캐쳐 | 오동진 | 만화 | 한국 원작 | 꿈속에 생긴 이상한 감정 '버그'를 찾아 없애는 드림캐쳐들의 이야기. |
 | 2008 | 사설김치찌개사무소 (경계) | 사설김치찌개사무소 | 조석 | 만화 | 한국 원작 | 개그로 시작한 동네 탐정 이야기가 거대 로봇이 마을을 쑥대밭으로 만드는 기술 스릴러로 바뀐다. |
@@ -5203,21 +7409,37 @@
 | 2009 | Death-Day | Death-Day | Sam Hiti | 만화 | 확인 못 함 | 낯선 행성에 갇힌 병사들이 생체와 기계가 뒤섞인 괴물들과 싸우며 지구로 돌아갈 길을 찾는다 |
 | 2009 | Fall Out Toy Works | Fall Out Toy Works | Pete Wentz, Brett Lewis 외 | 만화 | 확인 못 함 | 미래 로스앤젤레스, 인공지능을 지닌 인조인간들의 피노키오 같은 이야기 |
 | 2009 | Homestuck (경계) | Homestuck | Andrew Hussie | 게임·만화 | 확인 못 함 | 네 아이가 현실에 손을 대는 게임 '스버브'를 시작하자 세상이 무너지고 시간 여행과 다른 세계가 뒤얽힌다. |
+| 2009 | Kid Cosmic (경계) | Kid Cosmic | Craig McCracken | 만화·애니메이션 | 확인 못 함 | 영웅을 꿈꾸며 뉴멕시코 사막 고물상에 사는 아홉 살 키드 곁에 우주선이 떨어진다. |
 | 2009 | Romantically Apocalyptic | Romantically Apocalyptic | Vitaly S. Alexius | 만화·소설 | 확인 못 함 | 핵 참사로 인류가 사라진 뒤 폐허에 남은 대장과 부하들의 엉뚱한 나날 |
 | 2009 | 스위트 투스: 사슴뿔을 가진 소년 | Sweet Tooth | 제프 르미어 | 드라마·만화 | 일부 | 역병이 인류를 쓸어 낸 뒤 태어난 동물 반 사람 반 아이들, 사슴뿔 소년이 길을 떠난다 |
 | 2009 | Technotise: Edit i ja | Technotise: Edit i ja | Aleksa Gajić | 만화·애니메이션 | 확인 못 함 | 2074년 베오그라드, 시험에 거듭 떨어진 학생이 훔친 군용 칩을 몸에 심고 일이 커진다 |
 | 2009 | WOMBS | WOMBS | 白井弓子 | 만화 | 확인 못 함 | 식민 행성의 이민 간 전쟁, 자궁에 현지 생물 조직을 옮겨 공간 전송 능력을 얻은 여성들의 부대가 싸운다. |
+| 2009 | みんな!エスパーだよ! | みんな!エスパーだよ! | 若杉公徳(원작), 園子温(드라마·영화 감독) | 드라마·만화·영화 | 확인 못 함 | 시골 고등학생이 텔레파시를 얻고, 욕망에만 힘을 쓰는 동네 초능력자들과 엮인다. |
+| 2009 | アイアムアヒーロー (경계) | アイアムアヒーロー | 花沢健吾(원작), 佐藤信介(영화 감독) | 만화·영화 | 확인 못 함 | 변변찮은 만화가가 사람들이 감염자로 변해 덮치는 혼란 속에서 살아남으려 한다. |
 | 2009 | 시도니아의 기사 | シドニアの騎士 | 니헤이 츠토무, 폴리곤 픽처스 | 만화·애니메이션 | 있음 | 괴물에게 지구를 잃고 천 년째 우주를 떠도는 씨앗 배에서 거대 로봇을 모는 소년 |
+| 2009 | 히나마츠리 | ヒナまつり | 大武政夫(원작), feel.(애니메이션) | 만화·애니메이션 | 있음 | 정체 모를 캡슐에 담겨 젊은 야쿠자 방에 떨어진 초능력 소녀가 그 집에 눌러산다. |
 | 2009 | ブラックパラドクス (경계) | ブラックパラドクス | 伊藤潤二 | 만화 | 있음 | 집단 자살을 하려던 네 남녀가 기이한 돌을 얻으며 몸과 혼이 얽힌 사건에 휘말린다. |
+| 2009 | リセット (경계) | リセット | 山本まゆり(원작) | 드라마·만화 | 확인 못 함 | 후회하는 사람 앞에 시간의 안내인이 나타나 삶을 갈림길로 되돌리고, 다른 삶에도 새 문제가 생긴다. |
+| 2009 | 원펀맨 (경계) | ワンパンマン | ONE(원작), 村田雄介(리메이크 그림), マッドハウス(1기)·J.C.S | 만화·애니메이션 | 있음 | 괴인이 날뛰는 세상, 혹독한 훈련으로 머리털을 다 잃고 어떤 적도 주먹 한 방에 끝내게 된 사내의 영웅 일. |
+| 2009 | 信長協奏曲 | 信長協奏曲 | 石井あゆみ(원작) | 드라마·만화·애니메이션·영화 | 확인 못 함 | 공부 못하는 고교생이 1549년 전국 시대로 떨어져 꼭 닮은 오다 노부나가 대신 그 이름으로 산다. |
 | 2009 | 지구의 방과 후 | 地球の放課後 | 吉富昭仁 | 만화 | 있음 | 정체 모를 생명체 '팬텀'이 사람들을 삼켜 버린 지구에 남은 아이 넷이 여름 같은 나날을 보낸다. |
 | 2009 | 푸른 강철의 아르페지오 | 蒼き鋼のアルペジオ | 아크 퍼포먼스 | 만화·애니메이션 | 있음 | 옛 군함 꼴을 한 정체 모를 함대 '안개'가 바다를 막은 뒤, 안개 잠수함 하나와 소년이 맞선다 |
 | 2009 | 進撃の巨人 (경계) | 進撃の巨人 | 諫山創 | 게임·만화·소설·애니메이션·영화 | 확인 못 함 | 압도적인 힘을 지닌 거인들과 그에 맞서 조직된 군대와 장비로 싸우는 인류를 그린 어두운 판타지. |
+| 2009 | 雛蜂 | 雛蜂 | 白貓sunny(孫恆) | 만화·애니메이션 | 확인 못 함 | 2017년 새 군비 경쟁 속 병기 '첨병'으로 쓰인 소녀가 남은 380일 동안 마지막 임무에 나선다. |
 | 2009 | 나이트런 | 나이트런 | 김성민 | 만화 | 한국 원작 | 우주력 430년, 별 사이를 건너는 인류가 괴수에 맞서 기사라 부르는 인간 병기로 싸운다 |
 | 2009 | 블랙 마리아 | 블랙 마리아 | yami | 만화 | 한국 원작 | 태양계 다른 행성의 외계인들과 지구인이 막 오가기 시작한 근미래의 우스꽝스러운 모험 활극. |
 | 2009 | 은하! | 은하! | 그리폰 | 만화 | 한국 원작 | 전쟁 제국에 멸망한 지구에서 구출된 소녀가 은하 연맹의 외계 행성에서 자라 우주의 위기에 맞선다. |
 | 2009 | 지금 우리 학교는 (경계) | 지금 우리 학교는 | 주동근 | 드라마·만화 | 한국 원작 | 평범한 고등학교에 감염자가 퍼지고, 갇힌 학생들이 빠져나갈 곳 없는 학교에서 살아남으려 싸운다. |
+| 2010 | Captain Biceps (경계) | Captain Biceps | Frédéric Thébault(Tebo) · Philippe Chapp | 만화·애니메이션 | 확인 못 함 | 근육만 센 영웅 캡틴 바이셉스가 영리한 짝 지니어스와 함께 도시를 악당에게서 지킨다. |
+| 2010 | Godkiller (경계) | Godkiller | Matt Pizzolo | 만화·소설·영화 | 확인 못 함 | 가까운 미래, 서로 싸우는 타락한 신들 틈에 휘말린 사람들의 이야기. |
 | 2010 | LOST (경계) | LOST | 정민용 | 만화 | 한국 원작 | 주변 사람이 잇따라 죽는 청년이 사라진 옛 연인을 찾다가 일그러뜨리는 힘을 지닌 이들과 로봇에 휘말린다. |
+| 2010 | Paradox | Paradox | Christos N. Gage | 만화·영화 | 확인 못 함 | 마법이 다스리고 과학은 거의 모르는 우리와 닮은 세계, 쇠 탄을 쏘는 장치로 사람이 죽는다. |
+| 2010 | The Walking Dead (경계) | The Walking Dead | Robert Kirkman · Tony Moore · Charlie Ad | 드라마·만화 | 확인 못 함 | 온 세계에 좀비가 퍼진 뒤, '워커'들을 피해 살아남으려는 사람들. |
+| 2010 | カガクなヤツら | カガクなヤツら | 吉川英朗(원작) | 만화·애니메이션 | 확인 못 함 | 개 귀 소녀와 사이보그 소녀 같은 '과학자'들이 소꿉친구 주인공을 둘러싸고 소란을 벌이는 학원 코미디. |
+| 2010 | 센토루의 고민 (경계) | セントールの悩み | 村山慶(원작), 絵梦(애니메이션) | 만화·애니메이션 | 있음 | 켄타우로스 모습의 여고생이 친구들과 보내는 학교 일상, 그 뒤에는 관리가 엄한 사회가 있다. |
 | 2010 | 아리스 인 보더랜드 (경계) | 今際の国のアリス | 麻生羽呂 | 드라마·만화 | 있음 | 텅 빈 도쿄 같은 세계에 던져진 젊은이들이 목숨을 건 게임을 이겨야만 살아남는다. |
+| 2010 | 도쿄 ESP (경계) | 東京ESP | 瀬川はじめ(원작), XEBEC(애니메이션, 감독 高柳滋仁) | 만화·애니메이션 | 있음 | 하늘 나는 펭귄에 쫓기던 빛나는 물고기가 몸에 들어오며, 가난한 여고생이 물체를 통과하는 초능력을 얻는다. |
+| 2010 | 코토우라 양 (경계) | 琴浦さん | えのきづ(원작), AIC Classic(애니메이션, 감독 太田雅彦) | 만화·애니메이션 | 확인 못 함 | 남의 마음을 저절로 읽어 버리는 능력 탓에 마음을 닫은 전학생 소녀와 반 친구들의 나날. |
 | 2010 | 은하기공대 마제스틱 프린스 | 銀河機攻隊マジェスティックプリンス | 元永慶太郎(감독), 動画工房×オレンジ | 만화·애니메이션 | 있음 | 외계 종족 울갈의 침공 앞에 유전자로 설계된 아이들이 우주 기동병기 부대로 나선다. |
 | 2010 | 굿모닝 스페이스 | 굿모닝 스페이스 | 이수정 | 만화 | 한국 원작 | 괴짜 여덟 명과 정상인 한 명, 인공지능 로봇 한 대가 우주선에서 보내는 한심한 나날. |
 | 2010 | 당신의 모든 순간 (경계) | 당신의 모든 순간 | 강풀 | 드라마·만화 | 한국 원작 | 2012년 좀비 사태가 덮친 강동구의 아파트 단지에서 살아남은 사람들이 서로를 지키며 사랑한다. |
@@ -5226,23 +7448,50 @@
 | 2010 | 메트로놈 (경계) | 메트로놈 | 이원진 | 만화 | 한국 원작 | 현재·과거·미래 편을 오가며, 시간 여행으로 한 사람을 끈질기게 쫓는 이야기가 이어진다. |
 | 2010 | 인게이지 | 인게이지 | 박성규 | 만화 | 한국 원작 | 전쟁의 판도를 바꿀 신병기의 비밀을 품은 채 기억을 잃은 소년이, 그를 노리는 세력과 맞선다. |
 | 2011 | 카우보이 & 에이리언 | Cowboys & Aliens | Jon Favreau | 만화·영화 | 있음 | 1873년 서부의 사막 마을에 금을 노린 외계인이 쳐들어오고, 기억을 잃은 무법자의 팔찌가 무기가 된다. |
+| 2011 | The 99 (경계) | The 99 | Naif Al-Mutawa(원작) · Dave Osborne(연출) | 만화·애니메이션 | 확인 못 함 | 깨끗한 마음을 지닌 아흔아홉이 힘을 모아 어둠을 물리친다는 영웅 이야기. |
+| 2011 | どーにゃつ | どーにゃつ | コザキユースケ(원작), ギャザリング(애니메이션, 감독 まんきゅう) | 만화·애니메이션 | 확인 못 함 | 해골이 뒹구는 폐허가 된 21세기 신주쿠, 도넛 몸통의 고양이와 음식 몸을 한 동물들이 느긋하게 산다. |
+| 2011 | ぼくらのよあけ | ぼくらのよあけ | 今井哲也(원작), ゼロジー(감독 黒川智之) | 만화·애니메이션 | 확인 못 함 | 인공지능이 발달한 2038년, 집안 로봇의 몸을 빌린 우주의 '미지의 존재'가 아이들에게 임무를 맡긴다. |
+| 2011 | アゲイン!! (경계) | アゲイン!! | 久保ミツロウ | 드라마·만화 | 확인 못 함 | 친구 하나 없이 고교 3년을 보낸 학생이 졸업식 날 계단에서 굴러 3년 전 입학식 날로 돌아간다. |
+| 2011 | アシガール | アシガール | 森本梢子 | 드라마·만화 | 확인 못 함 | 천재 남동생이 만든 시간 기계로 전국 시대에 떨어진 발 빠른 여고생이 젊은 영주에게 반한다. |
 | 2011 | カガクチョップ (경계) | カガクチョップ | カヅホ | 만화 | 없음 | 학교 과학부가 만든 기상천외한 발명품이 날마다 소동을 일으키는 옴니버스 개그. |
 | 2011 | 테라포마스 | テラフォーマーズ | 사스가 유(글), 타치바나 켄이치(그림) | 만화·애니메이션·영화 | 있음 | 화성을 고치려 풀어 둔 바퀴벌레가 사람 꼴로 진화해, 곤충 유전자를 심은 대원들과 싸운다 |
 | 2011 | 디멘션 W | ディメンションW | 이와하라 유지, 스튜디오 3Hz·오렌지 | 만화·애니메이션 | 있음 | 네 번째 차원에서 끌어온 에너지로 돌아가는 세계, 불법 코일을 쫓는 회수꾼과 인조인간 |
+| 2011 | 노부나건 | ノブナガン | 久正人(원작), ブリッジ(애니메이션, 감독 近藤信宏) | 만화·애니메이션 | 없음 | 지구 생태계를 위협하는 우주 괴수 '진화침략체'에 맞서, 위인의 혼을 무기로 바꾸는 이들이 싸운다. |
+| 2011 | ビッグオーダー (경계) | ビッグオーダー | えすのサカエ(원작), asread.(애니메이션) | 만화·애니메이션 | 확인 못 함 | 딴 차원의 소녀에게 소원을 빈 능력자가 세상을 멸망 직전까지 몰았고, 그 뒤 일본은 국제 관리 아래 놓였다. |
 | 2011 | 노부나가의 셰프 (경계) | 信長のシェフ | 西村ミツル, 梶川卓郎 | 만화 | 있음 | 현대 요리사가 혼노지의 변 14년 전 교토로 떨어져 오다 노부나가의 전속 요리사가 된다. |
 | 2011 | 여자공병 | 女子攻兵 | 松本次郎 | 만화 | 있음 | 반물질 실험이 연 다른 차원으로 이주한 인류의 독립 전쟁에서, 여고생 모양의 거대 차원 병기가 싸운다. |
+| 2011 | 战斗装甲钢羽 | 战斗装甲钢羽 | LAS | 만화 | 확인 못 함 | 2045년, 버뮤다 심해의 반물질 광물을 쥔 에너지 재벌이 인간형 전투 갑옷 용병단으로 세계를 흔든다. |
+| 2011 | 斉木楠雄のΨ難 | 斉木楠雄のΨ難 | 麻生周一(원작) | 만화·애니메이션·영화 | 확인 못 함 | 타고난 초능력자 고등학생이 능력을 숨기고 평범하게 살려다 소동에 휘말리는 코미디. |
+| 2011 | 方舟奇航 | 方舟奇航 | 彭傑 | 만화 | 확인 못 함 | 세계 종말과 '방주 계획'으로 만난 지구인과 외계인의 이야기. |
+| 2011 | 时空幽客 | 时空幽客 | 奥冬 · 兰兰 | 만화 | 확인 못 함 | 소년 발명가가 친구들과 시간과 공간을 넘나드는 장치를 만든다. |
+| 2011 | 最後のレストラン (경계) | 最後のレストラン | 藤栄道彦 | 드라마·만화 | 확인 못 함 | 망해 가는 레스토랑에 역사 속 인물들이 시간을 넘어 손님으로 찾아오는 요리 희극. |
+| 2011 | 無邪気の楽園 (경계) | 無邪気の楽園 | 雨蘭(원작) | 만화·애니메이션 | 확인 못 함 | 백수나 다름없는 스물다섯 청년이 '이공간과 이어진다'는 모교 수영장에서 90년대 무렵으로 거슬러 간다. |
+| 2011 | 端脑 | 端脑 | 壁水羽(글) · 神祭(그림) | 드라마·만화·애니메이션 | 확인 못 함 | 서로 맞선 우주들로 짜인 '단뇌 우주' — 살인 사건에서 은하 전쟁까지 숨은 비밀이 드러난다. |
 | 2011 | 김철수씨 이야기 | 김철수씨 이야기 | 수사반장 | 만화 | 한국 원작 | 버려진 채 불행만 겪은 남자가 인간을 없애기로 마음먹고, 같은 세계의 다른 이야기들이 이어진다. |
 | 2011 | 언더시티 (경계) | 언더시티 | 쵸밥 | 만화 | 한국 원작 | 가상 현실 게임 속 도시 '언더시티'에서 위험에 빠진 사용자들이 무사히 빠져나가려 애쓴다. |
 | 2011 | 에이머 (경계) | 에이머 | 구동인 | 만화 | 한국 원작 | 지구를 침공한 외계인 무리와 그들을 막아선 초월자 '에이머'와 지구인의 이야기. |
 | 2011 | 초록인간 (경계) | 초록인간 | 태발 | 만화 | 한국 원작 | 300년 전쟁으로 자연과 자원이 바닥난 지구에, 쓰레기를 먹어 쓸모 있는 것으로 바꾸는 생명체가 나타난다. |
 | 2011 | 타임 인 조선 (경계) | 타임 인 조선 | 이윤창 | 만화 | 한국 원작 | 2332년에서 온 미래인과 고등학생이 시간 여행 기계 사고로 조선 시대에 떨어진다 |
 | 2012 | Ava's Demon (경계) | Ava's Demon | Michelle Czajkowski | 만화 | 확인 못 함 | 외계 여왕의 유령일지도 모르는 악마에게 씐 소녀 에이바가 행성을 떠나 우주로 달아난다. |
+| 2012 | Dark Matter | Dark Matter | Joseph Mallozzi · Paul Mullie | 드라마·만화 | 확인 못 함 | 우주선 라자의 냉동 칸에서 기억 없이 깨어난 이들이 서로를 하나부터 여섯까지로 부른다. |
 | 2012 | 레지던트 에이리언 | Resident Alien | Peter Hogan, Steve Parkhouse (만화), Chris | 드라마·만화 | 있음 | 인류를 없애러 왔다가 불시착한 외계인이 콜로라도 산골 마을 의사 행세를 하며 살인 사건을 쫓는다. |
 | 2012 | 사가 | Saga | 브라이언 K. 본, 피오나 스테이플스 | 만화 | 있음 | 끝없이 싸우는 두 종족에서 나온 연인이 갓난 딸을 데리고 은하를 떠돈다 |
+| 2012 | WASIMO | WASIMO | 宮藤官九郎(글), 安斎肇(그림), スタジオディーン(애니메이션) | 만화·애니메이션 | 확인 못 함 | 할머니를 잃고 울기만 하는 딸을 위해 아빠가 할머니를 꼭 닮은 로봇을 만든다. |
+| 2012 | orange | orange | 高野苺(원작), 橋本光二郎(영화 감독) | 만화·영화 | 확인 못 함 | 열 살 뒤 미래의 자신이 보낸 편지를 받은 여고생이 후회를 바꾸려 한다. |
 | 2012 | 학교생활! (경계) | がっこうぐらし! | 카이호 노리미츠(글), 치바 사도루(그림) | 만화·애니메이션 | 있음 | 학교에 먹고 자며 지내는 '학교생활부' 소녀들의 밝은 날들 바깥으로, 좀비에 무너진 세상이 있다. |
 | 2012 | 외톨이의 지구침략 | ひとりぼっちの地球侵略 | 小川麻衣子 | 만화 | 있음 | 자신을 지구 침략자라 소개한 선배 소녀와 소년이 외계인들의 침공에 맞서 지구를 지킨다. |
+| 2012 | アリスと蔵六 | アリスと蔵六 | 今井哲也(원작), J.C.STAFF(애니메이션) | 만화·애니메이션 | 확인 못 함 | 생각을 현실로 바꾸는 초능력자 '앨리스의 꿈'인 소녀가 연구소를 빠져나와 꽃집 노인에게 맡겨진다. |
+| 2012 | 다윈즈 게임 (경계) | ダーウィンズゲーム | FLIPFLOPs(원작), Nexus(애니메이션, 감독 徳本善信) | 만화·애니메이션 | 있음 | 수수께끼 앱의 초대를 받은 고교생이 '시길'이라는 이능을 얻고, 능력자끼리 죽고 죽이는 게임에 휘말린다. |
+| 2012 | モブサイコ100 (경계) | モブサイコ100 | ONE(원작) | 드라마·만화·애니메이션 | 확인 못 함 | 엉터리 퇴마사 밑에서 일하는 초능력자 중학생이 힘을 숨기고 평범하게 살려 한다. |
 | 2012 | 아인 (경계) | 亜人 | 사쿠라이 가몬(원작 미우라 츠이나) | 만화·애니메이션·영화 | 있음 | 죽어도 되살아나는 사람 '아인'이 발견되자 나라가 그들을 붙잡아 실험한다 |
+| 2012 | 僕だけがいない街 | 僕だけがいない街 | 三部けい(원작) | 만화·애니메이션·영화 | 확인 못 함 | 시간을 되감는 '리바이벌' 능력의 만화가가 18년 전 연쇄 사건을 막으러 어린 시절로 돌아간다. |
+| 2012 | 嘘解きレトリック (경계) | 嘘解きレトリック | 都戸利津 | 드라마·만화 | 확인 못 함 | 남의 거짓말이 들리는 능력 탓에 고향을 떠난 소녀가 가난한 탐정의 조수가 되어 쇼와 초의 사건을 푼다. |
+| 2012 | 성 아랫마을의 단델리온 (경계) | 城下町のダンデライオン | 春日歩(원작), プロダクションアイムズ(애니메이션, 감독 秋田谷典昭) | 만화·애니메이션 | 있음 | 평범한 동네에 사는 왕가의 형제자매 아홉이 저마다 특수 능력을 지닌 채 다음 왕을 뽑는 선거에 나선다. |
+| 2012 | 孤食ロボット | 孤食ロボット | 岩岡ヒサエ | 드라마·만화 | 확인 못 함 | 식품 회사 경품으로 혼자 사는 사람에게 배달되는 손바닥만 한 로봇이 주인의 식사를 챙긴다. |
 | 2012 | 보석의 나라 (경계) | 宝石の国 | 이치카와 하루코 | 만화·애니메이션 | 있음 | 사람이 사라진 먼 미래, 보석의 몸을 가진 이들이 달에서 내려오는 자들과 싸운다 |
+| 2012 | 暗殺教室 | 暗殺教室 | 松井優征(원작) | 만화·애니메이션·영화 | 확인 못 함 | 달의 7할을 부순 수수께끼 생물이 낙제반 담임이 되고, 학생들은 졸업까지 그를 죽여야 한다. |
+| 2012 | 극흑의 브룬힐데 | 極黒のブリュンヒルデ | 岡本倫(원작), アームス(애니메이션, 감독 今泉賢一) | 만화·애니메이션 | 있음 | 인체 실험 연구소에서 달아난 초능력 소녀 '마법사'들과, 그들을 숨겨 주는 기억력 좋은 고교생의 이야기. |
+| 2012 | 高台家の人々 (경계) | 高台家の人々 | 森本梢子(원작), 土方政人(영화 감독) | 만화·영화 | 확인 못 함 | 망상이 취미인 회사원 앞에 남다른 능력을 지닌 엘리트 집안 남매가 나타난다. |
 | 2012 | 네가 있던 미래에선 | 네가 있던 미래에선 | 이시영 | 만화 | 한국 원작 | 병으로 죽는 일이 거의 사라진 미래, 고래 모양 함선의 호스피스들이 불치병 환자 곁을 지킨다. |
 | 2012 | 노네임드 | 노네임드 | 문지현 | 만화 | 한국 원작 | 한 학생의 실종과 그 자리에 남은 의문의 쪽지를 시작으로 학교에 믿기 힘든 일들이 잇따른다. |
 | 2012 | 노루 | 노루 | 안성호 | 만화 | 한국 원작 | 온 땅이 사막이 된 먼 미래 지구에 다큐를 찍으러 온 외계인 감독이 보급품을 나누는 한 남자를 따라다닌다. |
@@ -5258,10 +7507,20 @@
 | 2012 | 코봇의 우주대모험 | 코봇의 우주대모험 | 이충호 | 만화 | 한국 원작 | 빙하기로 지구가 살 수 없게 된 뒤 우주를 떠도는 인류의 아이들이 로봇과 함께 여러 행성을 여행한다. |
 | 2013 | Black Science | Black Science | 릭 리멘더, 마테오 스칼레라 | 만화 | 없음 | 평행 세계를 건너는 장치를 만든 과학자 일행이 고장 난 장치로 낯선 세계들을 떠돈다 |
 | 2013 | East of West | East of West | 조너선 힉먼, 닉 드라고타 | 만화 | 없음 | 미국이 일곱 나라로 갈라진 다른 역사의 미래, 묵시록의 기사들이 세상의 끝을 부른다 |
+| 2013 | Lanfeust Quest (경계) | Lanfeust Quest | Ludo Lullabi(만화 그림) · Antoine Charreyron | 만화·애니메이션 | 확인 못 함 | 영웅 랑퓌스트의 모험을 일본 만화 꼴로 다시 그린 과학 판타지 희극. |
 | 2013 | Lazarus | Lazarus | 그렉 루카, 마이클 라크 | 만화 | 없음 | 몇몇 가문이 세상을 나눠 가진 미래, 가문을 지키도록 몸을 고쳐 만든 딸이 싸운다 |
+| 2013 | 레비우스 | Levius -レビウス- | 中田春彌(원작), ポリゴン・ピクチュアズ(애니메이션) | 만화·애니메이션 | 있음 | 증기 기관이 발달한 세계, 기계 팔을 단 소년이 증기 기계로 싸우는 '기관 권투' 무대에 선다. |
 | 2013 | The True Lives of the Fabulous Killjoys | The True Lives of the Fabulous Killjoys | Gerard Way, Shaun Simon | 만화 | 확인 못 함 | 재앙 뒤 미래, 폭군 같은 거대 기업과 싸우던 자경단의 뒤를 따르는 이들 |
+| 2013 | UQ HOLDER! (경계) | UQ HOLDER! | 赤松健(원작), J.C.STAFF(애니메이션) | 만화·애니메이션 | 확인 못 함 | 마법이 세상에 알려지고 10년 뒤인 2086년, 불사신이 된 소년이 궤도 엘리베이터가 선 도읍으로 향한다. |
 | 2013 | ēlDLIVE | ēlDLIVE | 天野明 | 만화·애니메이션 | 일부 | 머릿속 목소리와 대화하는 소년이 외계인에게 끌려가 몇 광년 떨어진 우주 경찰 '엘드라이브'에 들어간다. |
+| 2013 | 지지마라!! 악의 군단! | まけるな!!あくのぐんだん! | 徳井青空(원작), タツノコプロ(애니메이션, 감독 京極尚彦) | 만화·애니메이션 | 확인 못 함 | 지구 정복에 나선 우주인 셋이 잡은 인류가 너무 많아 우주선에 못 싣고, 동네 상점가에 눌러앉는다. |
+| 2013 | クジラの子らは砂上に歌う | クジラの子らは砂上に歌う | 梅田阿比(원작), J.C.STAFF(애니메이션, 감독 イシグロキョウヘイ) | 만화·애니메이션 | 확인 못 함 | 모래가 모든 것을 덮은 세계, 모래 바다를 떠도는 거대한 배에 감정을 힘으로 쓰는 단명한 이들이 산다. |
+| 2013 | サムライせんせい (경계) | サムライせんせい | 黒江S介 | 드라마·만화·영화 | 확인 못 함 | 막부 말 옥에 갇혀 있던 무사 다케치 한페이타가 깨어 보니 현대 일본이고, 학원 선생으로 살게 된다. |
+| 2013 | 플래그 타임 (경계) | フラグタイム | さと(원작), ティアスタジオ(감독 佐藤卓哉) | 만화·애니메이션 | 확인 못 함 | 하루 3분 시간을 멈추는 여고생이, 멈춘 시간 속에서도 움직이는 반 친구를 만난다. |
 | 2013 | 월드 트리거 | ワールドトリガー | 아시하라 다이스케 | 만화·애니메이션 | 있음 | 다른 세계에서 문을 열고 쳐들어오는 침략자를 막으려 방위 조직이 트리거라는 무기를 쓴다 |
+| 2013 | 夢見 (경계) | 夢見 | 張永昌(감독) · 翁文信(각본) | 만화·애니메이션 | 확인 못 함 | 모두가 같은 꿈 세계로 들어가는 평행 공간에서 꿈 치료사가 남의 꿈을 고친다. |
+| 2013 | 문호 스트레이독스 (경계) | 文豪ストレイドッグス | 朝霧カフカ(원작), 春河35(만화), ボンズ(애니메이션) | 만화·소설·애니메이션·영화 | 있음 | 문호의 이름을 딴 이능력자들이 요코하마의 탐정사와 마피아로 갈려 싸운다. |
+| 2013 | 新世紀國軍戰士 (경계) | 新世紀國軍戰士 | 韋宗成 | 만화 | 확인 못 함 | 신병이 배치된 팔괘산 부대는 국방 기밀 거대 로봇 '한신호'의 기지였다 — 군대 희극 만화. |
 | 2013 | 그것들 | 그것들 | 강태경 | 만화 | 한국 원작 | 전쟁으로 문명이 무너진 뒤 내린 노란 비를 맞은 이들이 '그것들'로 바뀌어 간다. |
 | 2013 | 냄새를 보는 소녀 (경계) | 냄새를 보는 소녀 | 만취 | 드라마·만화 | 한국 원작 | 냄새를 눈에 보이는 알갱이로 보는 소녀가 풋내기 순경과 함께 크고 작은 사건을 풀어 간다. |
 | 2013 | 다이스 (경계) | 다이스 | 윤현석 | 만화 | 한국 원작 | 별똥별 자리에서 나온 주사위를 굴리면 능력을 얻고, 정체 모를 운영자의 과제를 두고 다툰다 |
@@ -5269,12 +7528,18 @@
 | 2013 | 하나 | 하나 | 와난 | 만화 | 한국 원작 | 병과 장애 없는 생명체를 유전 공학으로 만든 '하나 프로젝트'의 결과물, 소녀 하나를 둘러싼 이야기. |
 | 2013 | 한성 1905 (경계) | 한성 1905 | 제피가루 | 만화 | 한국 원작 | 근대화에 성공해 식민지를 거느린 열강이 된 1905년 대한제국의 수도 한성에서 벌어지는 이야기. |
 | 2014 | 세븐스 가든 (경계) | 7thGARDEN | 泉光 | 만화 | 있음 | 귀족 집안의 정원사가 구멍 속에 잠든 악마와 계약하고, 중세 같던 세계는 차츰 과학의 비밀을 드러낸다. |
+| 2014 | CARRIER携带者 | CARRIER携带者 | NAVAR | 만화 | 확인 못 함 | 문명이 무너진 뒤에도 전쟁과 음모가 이어지고, 새 바이러스가 퍼져 새 시대가 열린다. |
 | 2014 | 이누야시키 | いぬやしき | 오쿠 히로야 | 만화·애니메이션·영화 | 있음 | 외계인의 사고로 기계 몸이 된 노인과 소년이 그 힘을 서로 다른 길로 쓴다 |
+| 2014 | 킬링바이츠 (경계) | キリングバイツ | 村田真哉(원작), 隅田かずあさ(그림), ライデンフィルム(애니메이션) | 만화·애니메이션 | 있음 | 일본 경제를 쥔 네 재벌이 짐승의 힘을 가진 '수인'들을 싸움 붙여 재계의 발언권을 다툰다. |
 | 2014 | 데드데드 데몬즈 디디디디 디스트럭션 | デッドデッドデーモンズデデデデデストラクション | 浅野いにお | 만화·애니메이션 | 있음 | 거대한 외계 모함이 도쿄 하늘에 멈춰 선 지 3년, 종말이 일상이 된 도시에서 두 여고생이 청춘을 보낸다. |
 | 2014 | 노 건즈 라이프 | ノー・ガンズ・ライフ | 카라스마 타스쿠 | 만화·애니메이션 | 있음 | 전쟁 때 몸을 기계로 바꾼 병사들이 떠도는 도시에서, 머리가 총인 사내가 해결사로 일한다 |
+| 2014 | 플런더러 (경계) | プランダラ | 水無月すう(원작), GEEKTOYS(애니메이션) | 만화·애니메이션 | 있음 | 몸에 새겨진 숫자 '카운트'가 0 이 되면 나락에 떨어지는 세계, 300년 전 전쟁의 진실이 드러난다. |
 | 2014 | 리얼 어카운트 | リアルアカウント | オクショウ, 渡辺静 | 만화 | 있음 | 국민 누리망 친구 맺기 서비스 속으로 1만 명이 빨려 들어가 팔로어가 0이 되면 죽는 놀이가 시작된다. |
+| 2014 | 나의 히어로 아카데미아 (경계) | 僕のヒーローアカデミア | 堀越耕平(원작), ボンズ(애니메이션) | 만화·애니메이션 | 있음 | 대부분이 '개성'이라는 특이 능력을 타고나는 사회, 능력 없이 태어난 소년이 영웅 학교에서 꿈을 키운다. |
 | 2014 | 소녀종말여행 | 少女終末旅行 | 츠쿠미즈 | 만화·애니메이션 | 있음 | 문명이 끝난 거대 도시의 층과 층을 두 소녀가 무한궤도 차를 몰고 떠돈다 |
 | 2014 | 巨蟲列島 (경계) | 巨蟲列島 | 藤見泰高, REDICE | 만화 | 없음 | 수학여행 비행기가 떨어져 표류한 섬이 거대한 곤충의 소굴이었고, 학생들이 살아남으려 맞선다. |
+| 2014 | 恋と嘘 | 恋と嘘 | ムサヲ(원작), ライデンフィルム(애니메이션, 감독 宅野誠起) | 만화·애니메이션·영화 | 확인 못 함 | 초저출산 대책법에 따라 16세가 되면 나라가 유전 정보로 정한 짝과 맺어져야 하는 근미래 일본. |
+| 2014 | 空母いぶき (경계) | 空母いぶき | かわぐちかいじ(원작), 若松節朗(영화 감독) | 만화·영화 | 확인 못 함 | 20XX년, 남쪽 섬 영유권 분쟁이 무력 충돌로 번지고 일본의 항공모함 호위함이 출동한다. |
 | 2014 | 고기인간 | 고기인간 | 모래인간(글) · 하얀돌(그림) | 만화 | 한국 원작 | 화산재가 하늘을 덮은 긴 겨울 뒤, 벙커에 남은 사람들이 완벽한 남녀 한 쌍을 먼 미래로 보내려 한다. |
 | 2014 | 괴생 (경계) | 괴생 | 서우석 | 만화 | 한국 원작 | 산으로 여행 간 친구들이 사람 몸을 차지하는 정체 모를 괴생명체와 사투를 벌인다. |
 | 2014 | 미결 | 미결 | 꼬마비 | 만화 | 한국 원작 | 만화가 1208의 일상물인 줄 알았던 이야기가 시간 여행이 얽힌 스릴러로 바뀐다. |
@@ -5293,11 +7558,22 @@
 | 2015 | 디센더 | Descender | 제프 르미어, 더스틴 웬 | 만화 | 일부 | 거대 로봇의 습격 뒤 로봇을 몰아낸 은하에서 소년 로봇이 깨어나 쫓긴다 |
 | 2015 | 키포와 신기한 동물들 | Kipo and the Age of Wonderbeasts | Radford Sechrist (DreamWorks Animation) | 만화·애니메이션 | 있음 | 동물들이 지성을 얻어 땅 위를 차지하고 사람은 땅속으로 숨은 미래 |
 | 2015 | 페이퍼 걸스 | Paper Girls | 브라이언 K. 본, 클리프 창 | 드라마·만화 | 일부 | 1988년 신문 배달 소녀 넷이 시간 전쟁에 휘말려 미래와 과거를 떠돈다 |
+| 2015 | Powers (경계) | Powers | Brian Michael Bendis · Michael Avon Oemi | 드라마·만화 | 확인 못 함 | 사람과 초능력자 '파워'가 함께 사는 세계, 힘을 잃은 전직 파워가 살인 전담 형사가 된다. |
+| 2015 | Raising Dion (경계) | Raising Dion | Dennis Liu(원작) · Carol Barbee | 드라마·만화·영화 | 확인 못 함 | 남편을 잃은 엄마가 초능력이 깨어나는 아들 디온을 홀로 키운다. |
+| 2015 | The Deep | The Deep | Tom Taylor · James Brouwer | 만화·애니메이션 | 확인 못 함 | 22세기, 첨단 잠수함 아로낙스에 사는 해저 탐험가 넥턴 가족. |
 | 2015 | Tokyo Ghost | Tokyo Ghost | Rick Remender, Sean Murphy | 만화 | 확인 못 함 | 사람들이 기술과 오락에 중독된 2089년, 로스앤젤레스 섬의 치안관 둘이 기술 없는 마지막 나라 도쿄로 간다 |
 | 2015 | 결국은 카논 | あげくの果てのカノン | 米代恭 | 만화 | 있음 | 외계 괴생물에게 도쿄가 무너져 땅 위와 땅속으로 나뉜 세상, 한 여성이 외계 대책반 선배를 짝사랑한다. |
+| 2015 | いいね!光源氏くん (경계) | いいね!光源氏くん | えすとえむ | 드라마·만화 | 확인 못 함 | 잡화 회사 직원 사오리의 방에 『겐지 이야기』의 히카루 겐지가 시간을 넘어 나타난다. |
 | 2015 | 아드 아스트라 페르 아스페라 | アドアストラペルアスペラ | 하타 켄지로 | 만화 | 있음 | 외계 제국에 진 지 백 년, 문명 발달을 금지당한 지구의 소년이 사형을 면하려 3만 광년 길에 오른다. |
 | 2015 | エクスアーム | エクスアーム | HiRock(글)·古味慎也(그림) | 만화·애니메이션 | 확인 못 함 | 사고로 죽은 소년의 뇌가 16년 뒤 인공지능 초병기 '엑스암'이 되어 경찰과 인조인간 짝에게 깨어난다 |
+| 2015 | 글레이프니르 (경계) | グレイプニル | 武田すん(원작), PINE JAM(애니메이션) | 만화·애니메이션 | 있음 | 인형탈 같은 괴물로 변하는 고교생이, 같은 괴물이 된 언니를 찾는 소녀와 '코인'의 비밀을 쫓는다. |
+| 2015 | トーキョーエイリアンブラザーズ (경계) | トーキョーエイリアンブラザーズ | 真造圭伍 | 드라마·만화 | 확인 못 함 | 지구 이주 계획을 앞두고 도쿄에 숨어 사는 외계인 형제가 지구에서의 삶을 조사한다. |
+| 2015 | 프리프리 치이짱!! | プリプリちぃちゃん!! | 篠塚ひろむ(원작), OLM(애니메이션) | 만화·애니메이션 | 있음 | 구멍에 끼인 땅속 사람 소녀를 구한 아이의 집에, 먼저 와 살던 외계인과 함께 얹혀산다. |
+| 2015 | 世界の終わりのいずこねこ | 世界の終わりのいずこねこ | 西島大介(원작), 竹内道宏(감독) | 만화·영화 | 확인 못 함 | 세상의 끝이 다가온 날들을 그린, 아이돌 프로젝트의 마지막 종말 SF 영화. |
+| 2015 | 出会って5秒でバトル (경계) | 出会って5秒でバトル | はらわたさいぞう(원작), みやこかしわ(리메이크 그림), SynergySP | 만화·애니메이션 | 확인 못 함 | 수수께끼 시설에 끌려온 고교생들이 저마다 받은 '능력'으로 서로 싸우는 프로그램에 내몰린다. |
 | 2015 | 우주전함 티라미스 | 宇宙戦艦ティラミス | 宮川サトシ, 伊藤亰 | 만화·애니메이션 | 있음 | 우주 전쟁의 에이스 조종사가 거대 로봇 조종석에서 나오지 않고 사소한 일에 목숨을 건다. |
+| 2015 | 불꽃 소방대 (경계) | 炎炎ノ消防隊 | 大久保篤(원작), david production(애니메이션) | 만화·애니메이션 | 있음 | 대재앙 뒤 사람이 갑자기 불타 괴물이 되는 현상이 퍼진 '도쿄 황국', 이를 막는 특수 소방대의 싸움. |
+| 2015 | 記憶的怪物 | 記憶的怪物 | MAE | 게임·만화 | 확인 못 함 | 사고로 죽은 형을 대신할 '지능 생물 RE614'를 들인 소년이 감춰 둔 마음을 마주한다. |
 | 2015 | 무빙 (경계) | 무빙 | 강풀 | 드라마·만화 | 한국 원작 | 초능력을 지닌 부모와 아이들이 남북 정보기관의 다툼 속에서 정체를 숨기고 산다 |
 | 2015 | 미래소녀 | 미래소녀 | 황준호 | 만화 | 한국 원작 | 미래의 기억을 보는 소녀를 통해 학교 폭력에서 인류 사회까지의 문제를 그린다. |
 | 2015 | 언더그라운드 블러드팩 | 언더그라운드 블러드팩 | OZi | 만화 | 한국 원작 | 핵전쟁 뒤 지하 세계로 숨어든 인류가 돌연변이 괴물 '리퍼'에 맞서 마지막 군대를 꾸린다. |
@@ -5305,12 +7581,16 @@
 | 2015 | 타이밍 (경계) | 타이밍 | 강풀(원작), 민경조(애니메이션 감독) | 만화·애니메이션 | 한국 원작 | 불길한 미래를 꿈에서 본 시간 능력자가 연쇄 자살 사건을 막으려 다른 시간 능력자들을 모은다. |
 | 2015 | 하이퍼 퀘이크 | 하이퍼 퀘이크 | 구아키 | 만화 | 한국 원작 | 2024년 느닷없이 나타난 정체 모를 전쟁 로봇들에게 짓밟힌 세상에서 사람들이 살아남으려 버틴다. |
 | 2015 | 휴니멀 (경계) | 휴니멀 | 일링스 | 만화 | 한국 원작 | 환경 오염으로 반인반수가 태어난 한국, 사람이 만든 반인반수가 야생 반인반수 세계로 보내진다. |
+| 2016 | 16bit 센세이션 나와 모두가 만든 미소녀 게임 (경계) | 16bitセンセーション | みつみ美里·甘露樹(원안), 若木民喜(만화), st.シルバー(애니메이션) | 만화·애니메이션 | 확인 못 함 | TV 판은 2023년의 소녀가 1992년 미소녀 게임 회사로 시간을 거슬러 가 그 시절 개발 현장에 든다. |
 | 2016 | Dr. 브레인 | Dr. 브레인 | 홍작가 | 드라마·만화 | 한국 원작 | 죽은 사람의 뇌에 접속해 남은 기억을 읽는 기술로 뇌과학자가 가족의 죽음을 파헤친다 |
 | 2016 | Suit Up! (경계) | Suit Up! | 냐이젤, 튀밥 | 만화 | 한국 원작 | 현대 사회에 나타난 새로운 암세포 때문에 능력을 얻은 사람들이 악당과 싸운다. |
 | 2016 | 굿 나이트 월드 | グッド・ナイト・ワールド | 岡部閏 | 만화·애니메이션 | 있음 | 흩어진 가족이 서로를 모른 채 온라인 게임 속 가짜 가족이 되지만 현실의 사냥이 시작된다. |
 | 2016 | 타임슬립 덕후 걸 (경계) | タイムスリップオタガール | 佐々木陽子 | 만화 | 있음 | 선로에 떨어져 동인지를 지키던 서른 살 덕후가 17년 전 1996년의 열세 살 몸으로 돌아간다. |
 | 2016 | 파이어 펀치 (경계) | ファイアパンチ | 藤本タツキ | 만화 | 있음 | 얼음의 마녀가 세상을 얼린 뒤, 불에 타면서도 되살아나는 청년이 마을을 태운 능력자에게 복수하러 간다. |
+| 2016 | ラブラブエイリアン (경계) | ラブラブエイリアン | 岡村星(원작), 三木康一郎(각본·감독) | 드라마·만화 | 확인 못 함 | 여성 전용 아파트에 고장 난 우주선과 함께 굴러든 외계인들이 엄청난 과학력으로 소동을 벌인다. |
+| 2016 | 불멸의 그대에게 (경계) | 不滅のあなたへ | 大今良時(원작), ブレインズ・ベース(1기)·ドライブ(2기~) | 만화·애니메이션 | 있음 | 관찰자가 땅에 던진 '구체'가 닿은 것의 모습을 옮겨 받으며, 죽지 않는 몸으로 사람들 곁을 떠돈다. |
 | 2016 | 저 너머의 아스트라 | 彼方のアストラ | 시노하라 켄타, 레르체 | 만화·애니메이션 | 있음 | 수천 광년 밖으로 내던져진 학생들이 낡은 배로 고향 별까지 돌아가는 길 |
+| 2016 | 무능한 나나 (경계) | 無能なナナ | るーすぼーい(원작), 古屋庵(그림), ブリッジ(애니메이션, 감독 石平信司 | 만화·애니메이션 | 있음 | '인류의 적'이라는 괴물과 싸우기 위해 외딴섬 학교에 모인 능력자 소년소녀들의 이야기. |
 | 2016 | 약속의 네버랜드 (경계) | 約束のネバーランド | 白井カイウ, 出水ぽすか | 만화·애니메이션·영화 | 있음 | 평화로운 고아원의 아이들이 사실은 귀신에게 바쳐질 식량으로 길러지고 있음을 알고 탈출을 꾀한다. |
 | 2016 | 종말의 하렘 | 終末のハーレム | LINK(글), 宵野コタロー(그림) | 만화 | 있음 | 2040년 냉동 수면에 든 청년이 5년 뒤 깨어나 보니, 남자만 죽이는 바이러스로 남자 99.9%가 죽었다. |
 | 2016 | 食糧人類 (경계) | 食糧人類 | 蔵石ユウ, イナベカズ | 만화 | 확인 못 함 | 납치된 고등학생들이 깨어난 곳은 사람을 식량으로 기르고 해체하는 거대한 시설이었다. |
@@ -5333,10 +7613,20 @@
 | 2016 | 테러맨 (경계) | 테러맨 | 한동우, 고진호 | 만화 | 한국 원작 | 불행을 미리 보는 소년이 사람들을 구하려 테러리스트가 된다. |
 | 2017 | 2200年ねこの国ニッポン (경계) | 2200年ねこの国ニッポン | 猫葉りて | 만화·애니메이션 | 확인 못 함 | 아이가 줄고 고양이가 늘어난 2200년 일본에서 여고생과 집고양이가 사는 일상. |
 | 2017 | Dr.STONE | Dr.STONE | 이나가키 리이치로(글), Boichi(그림) | 만화·애니메이션 | 일부 | 온 인류가 돌로 굳은 지 수천 년 뒤, 깨어난 소년이 과학으로 문명을 다시 세운다 |
+| 2017 | I Am Not Okay with This (경계) | I Am Not Okay with This | Charles Forsman(원작) · Jonathan Entwistle | 드라마·만화 | 확인 못 함 | 감정이 요동치는 십대 소녀 시드니에게 초능력이 깨어난다. |
 | 2017 | Jiu Jitsu | Jiu Jitsu | Dimitri Logothetis · James McGrath | 만화·영화 | 확인 못 함 | 2천 년 동안 6년마다 초인 무술가 무리 '주짓수'가 외계 침입자와 지구를 걸고 싸워 왔다. |
+| 2017 | MF고스트 (경계) | MFゴースト | しげの秀一(원작), FelixFilm(애니메이션) | 만화·애니메이션 | 확인 못 함 | 202X년 자율 주행 전기차가 퍼진 일본, 사라져 가는 내연 기관 스포츠카로 공도를 달리는 경주가 열린다. |
+| 2017 | 게키돌 | ゲキドル | フッズエンタテインメント(원작·애니메이션), 関谷あさみ(캐릭터 원안·만화) | 만화·애니메이션 | 있음 | 세계 도시 동시 소실로 무너진 이케부쿠로, 입체 영상 연극에 빠진 소녀들이 무대를 꿈꾼다. |
 | 2017 | 서머타임 렌더 (경계) | サマータイムレンダ | 田中靖規 | 만화·애니메이션 | 있음 | 친구의 장례식에 돌아온 외딴섬에서 사람을 베끼는 그림자들이 나타나고, 청년은 같은 여름날을 되풀이한다. |
+| 2017 | テセウスの船 (경계) | テセウスの船 | 東元俊哉 | 드라마·만화 | 확인 못 함 | 살인범의 아들로 손가락질받던 청년이 1989년의 마을로 건너가 아버지가 누명을 쓴 독살 사건을 막으려 한다. |
+| 2017 | 초급편대 에그제로스 (경계) | ド級編隊エグゼロス | きただりょうま(원작), project No.9(애니메이션, 감독 神保昌登 | 만화·애니메이션 | 확인 못 함 | 사람의 활력인 야한 기운을 빨아먹는 침략자 '기생충'에 맞서, 고교생 영웅들이 그 기운을 힘 삼아 싸운다. |
 | 2017 | ノブナガ先生の幼な妻 (경계) | ノブナガ先生の幼な妻 | 今野あずれ | 만화·애니메이션 | 없음 | 전국 시대에서 건너온 열네 살 공주가 중학교 교사를 오다 노부나가로 착각하고 아내라 자칭한다. |
+| 2017 | ハイポジ (경계) | ハイポジ | きらたかし | 드라마·만화 | 확인 못 함 | 이혼과 해고에 몰린 마흔여섯 살 남자가 기억을 지닌 채 1986년의 고교 시절로 돌아간다. |
+| 2017 | 히프노시스 마이크 (경계) | ヒプノシスマイク | EVIL LINE RECORDS(원작), A-1 Pictures(TV) | 게임·만화·애니메이션 | 일부 | 무기가 사라지고 여성이 권력을 쥔 나라, 사람 신경을 건드리는 '최면 마이크' 랩 배틀로 영역을 다툰다. |
+| 2017 | 中年スーパーマン左江内氏 (경계) | 中年スーパーマン左江内氏 | 藤子・F・不二雄(원작) | 드라마·만화 | 확인 못 함 | 평범한 중년 회사원이 스스로 초인이라는 노인에게서 초인 옷을 물려받아 일과 영웅 노릇을 겸한다. |
 | 2017 | 인형의 나라 | 人形の国 | 니헤이 츠토무 | 만화 | 있음 | 얼어붙은 인공 천체 위에서 사람을 인형으로 바꾸는 병과 제국에 맞서 싸운다 |
+| 2017 | 東京卍リベンジャーズ | 東京卍リベンジャーズ | 和久井健(원작) | 만화·애니메이션·영화 | 확인 못 함 | 밑바닥 인생 청년이 중학생 시절로 되돌아가, 폭주족 다툼에 휘말려 죽은 옛 여자 친구를 구하려 한다. |
+| 2017 | 고백부부 (경계) | 고백부부 | Hong Seung-pyo, Kim Hye-yeon(원작 웹툰), Ha  | 드라마·만화 | 한국 원작 | 지쳐 버린 서른여덟 살 부부가 스무 살 대학 시절로 돌아가 다시 살아 본다. |
 | 2017 | 다리 위 차차 | 다리 위 차차 | 윤필, 재수 | 만화 | 한국 원작 | 자살이 늘어난 근미래 한국, 다리 위에 놓였다 버려진 자살 방지 로봇이 홀로 남아 사람을 지킨다. |
 | 2017 | 동쪽으로 (경계) | 동쪽으로 | 봉봉 | 만화 | 한국 원작 | 문명이 까닭 모르게 멸망한 미래, 인류 최후의 도시를 떠난 네 총잡이가 동쪽으로 간다. |
 | 2017 | 루갈 (경계) | 루갈 | 한동우(웹툰), 강철우(드라마 연출) | 드라마·만화 | 한국 원작 | 생명공학으로 인공 눈과 몸을 얻은 특수 요원들이 테러 조직과 싸운다. |
@@ -5349,12 +7639,22 @@
 | 2017 | 왕 그리고 황제 (경계) | 왕 그리고 황제 | 정이리이리 | 만화 | 한국 원작 | 무능한 고종과 유능한 태종의 영혼이 시대를 넘어 서로 바뀌어, 조선의 처음과 끝이 달라진다. |
 | 2017 | 유니버스000 | 유니버스000 | 고경빈 | 만화 | 한국 원작 | 번호 붙은 수많은 우주를 거느린 존재 001이 저마다 다른 우주의 기묘한 사연을 하나씩 들여다본다. |
 | 2017 | 탐정 메모리즈 (경계) | 탐정 메모리즈 | 마사토끼, ASURA | 만화 | 한국 원작 | 남의 기억 속으로 들어가는 능력을 지닌 탐정이 어린 시절 기억 속에서 스친 소녀를 구하려 한다. |
+| 2017 | 힘쎈여자 도봉순 (경계) | 힘쎈여자 도봉순 | 李亨民(연출), 白美瓊(극본) | 드라마·만화 | 한국 원작 | 타고난 괴력을 지닌 여자 도봉순이 그 힘으로 사건과 사랑에 휘말리는 판타지 희극. |
 | 2018 | 12차원 소년들 (경계) | 12차원 소년들 | 컷부 | 만화 | 한국 원작 | 차원을 넘나드는 소년들의 기묘하고 섬뜩한 이야기들을 엮은 개그 웹툰. |
 | 2018 | 7723 | 7723 | 王尼玛(원작) · Kevin R. Adams · Joe Ksander(영 | 만화·애니메이션 | 확인 못 함 | 로봇을 싫어하던 소녀가 비밀 실험실의 전투 로봇 7723과 벗이 되어 로봇 회사의 음모에 맞선다. |
 | 2018 | 에덴즈 제로 (경계) | EDENS ZERO | 真島ヒロ | 게임·만화·애니메이션 | 있음 | 로봇만 남은 놀이공원 행성의 소년이 우주선을 타고 우주의 여신을 찾아 별들을 떠돈다. |
+| 2018 | Super Dinosaur | Super Dinosaur | Robert Kirkman · Jason Howard | 만화·애니메이션 | 확인 못 함 | 과학자의 아들 데릭과 단짝 슈퍼 다이노서가 어스코어에서 일하며 지구를 위험에서 지킨다. |
+| 2018 | 오빠는 끝! (경계) | お兄ちゃんはおしまい! | ねことうふ(원작), スタジオバインド(애니메이션) | 만화·애니메이션 | 있음 | 천재 여동생이 먹인 수상한 약으로 여자 몸이 된 은둔형 오빠가, 실험 삼아 그대로 산다. |
+| 2018 | 언더닌자 (경계) | アンダーニンジャ | 花沢健吾(원작), 手塚プロダクション(애니메이션) | 만화·애니메이션·영화 | 있음 | 전후 해체된 닌자 조직이 첨단 장비를 품고 일본 곳곳에 숨어들었고, 백수 닌자가 고교 잠입을 맡는다. |
+| 2018 | オリンピア・キュクロス (경계) | オリンピア・キュクロス | ヤマザキマリ(원작), 豪勢スタジオ(애니메이션) | 만화·애니메이션 | 확인 못 함 | 기원전 400년 그리스의 항아리 화공이 벼락을 맞을 때마다 올림픽 시절의 도쿄로 시간을 건너뛴다. |
 | 2018 | サーチアンドデストロイ | サーチアンドデストロイ | カネコアツシ (가네코 아츠시) | 만화 | 확인 못 함 | 데즈카 오사무의 도로로를 SF로 다시 쓴 만화 |
+| 2018 | 좀100 ~좀비가 되기 전에 하고 싶은 100가지~ (경계) | ゾン100〜ゾンビになるまでにしたい100のこと〜 | 麻生羽呂(원작), 高田康太郎(그림), BUG FILMS(애니메이션) | 만화·애니메이션·영화 | 있음 | 거리가 좀비로 넘친 아침, 지친 회사원이 출근 안 해도 된다며 좀비가 되기 전 하고 싶은 일을 해 나간다. |
+| 2018 | 휴일의 악당 (경계) | 休日のわるものさん | 森川侑(원작), シンエイ動画·SynergySP(애니메이션, 감독 小高義規 | 만화·애니메이션 | 있음 | 우주에서 온 악의 조직과 지구 수호 레인저가 싸우는 세계에서, 조직 간부의 싸우지 않는 휴일을 그린다. |
 | 2018 | 俺の彼女がバケモノだった (경계) | 俺の彼女がバケモノだった | 파게랏타 | 만화 | 확인 못 함 | 고등학생의 첫 여자친구는 연구소에서 몰래 실험되던 괴생명체가 동급생의 몸을 흉내 낸 것이었다. |
+| 2018 | 僕はどこから (경계) | 僕はどこから | 市川マサ | 드라마·만화 | 확인 못 함 | 글을 베껴 쓰면 그 사람의 생각까지 옮겨 받는 작가 지망생이 엘리트 야쿠자와 엮여 범죄에 휘말린다. |
 | 2018 | 천국대마경 | 天国大魔境 | 이시구로 마사카즈 | 만화·애니메이션 | 있음 | 무너진 일본을 떠도는 두 사람과, 벽 안 시설에 갇힌 아이들의 이야기가 엇갈린다 |
+| 2018 | 토지마 탄자부로는 가면라이더가 되고 싶어 (경계) | 東島丹三郎は仮面ライダーになりたい | 柴田ヨクサル(원작, 협력 石森プロ·東映), ライデンフィルム(애니메이션,  | 만화·애니메이션 | 있음 | 가면라이더를 너무 사랑해 단련만 해 온 마흔 살 남자가, 악의 조직 쇼커가 실제로 있음을 알게 된다. |
+| 2018 | 火王 (경계) | 火王 | You Su-lan(원작 만화), Hu Yijuan(감독) | 드라마·만화 | 확인 못 함 | 여섯 원소의 신이 지키던 별이 어둠과 싸운 뒤, 신들이 사람으로 다시 태어나 얽힌다. |
 | 2018 | 창공의 아리아드네 (경계) | 蒼穹のアリアドネ | 八木教広 | 만화 | 있음 | 하늘을 떠도는 비행 도시를 보고 싶은 소년과 그곳을 빠져나오려는 소녀가 만나 모험을 떠난다. |
 | 2018 | 노동본색 (경계) | 노동본색 | 지뚱 | 만화 | 한국 원작 | 큰 폭발로 현대 문명이 사라지고 막노동이 최고의 직업이 된 세상에서, 힘센 소년이 으뜸 건설 팀을 꿈꾼다. |
 | 2018 | 달토끼와 안드로이드 (경계) | 달토끼와 안드로이드 | 개호주, 뉴꼬 | 만화 | 한국 원작 | 고등학생 영재 소녀가 우주 기구에 뽑혀 달에 가게 되고, 그녀를 짝사랑하던 소꿉친구가 남는다. |
@@ -5364,22 +7664,32 @@
 | 2018 | 아르마 | 아르마 | 병장 | 만화 | 한국 원작 | 사람 빼고 모든 생물을 죽이는 능력자들이 외계 괴물과 싸우며, 그들을 부리고 배척하는 사람들과도 맞선다. |
 | 2018 | 일진에게 회초리 (경계) | 일진에게 회초리 | 유승연 | 만화 | 한국 원작 | 한글 반포를 앞둔 세종이 21세기 불량 고등학생의 몸에 들어가 학교생활을 한다. |
 | 2018 | 헬로 마이 안드로이드 (경계) | 헬로 마이 안드로이드 | 고선영 | 만화 | 한국 원작 | 미래에서 온 안드로이드 소년이 자기 엄마라며 과거의 한 여자를 찾아온다. |
+| 2019 | JKからやり直すシルバープラン (경계) | JKからやり直すシルバープラン | 林達永(원작), 李惠成(그림) | 드라마·만화 | 확인 못 함 | 모든 것을 잃고 노숙자가 된 명문가 딸이 여고생 시절로 돌아가 인생을 다시 산다. |
 | 2019 | MAO (경계) | MAO | 高橋留美子 | 만화 | 있음 | 어릴 적 사고에서 혼자 살아남은 소녀가 사고 현장을 지나다 다이쇼 시대로 넘어가 마오라는 남자를 만난다. |
+| 2019 | SHY (경계) | SHY | 実樹ぶきみ(원작), エイトビット(애니메이션) | 만화·애니메이션 | 확인 못 함 | 나라마다 히어로가 생겨 전쟁이 사라진 21세기 중반, 수줍은 일본 히어로가 마음을 폭주시키는 적과 싸운다. |
 | 2019 | VR 아저씨의 첫사랑 | VRおじさんの初恋 | バイオレンストモコ | 드라마·만화 | 있음 | 가상 현실 세계에서 소녀의 모습으로 지내는 마흔 살 독신 남자가 그곳에서 만난 소녀에게 첫사랑을 느낀다. |
 | 2019 | はめつのおうこく (경계) | はめつのおうこく | yoruhashi | 만화·애니메이션 | 확인 못 함 | 산업 혁명으로 마법이 쓸모없어져 마녀 사냥이 벌어진 세상, 스승을 잃은 청년이 사람들에게 복수한다. |
 | 2019 | 고물 로봇 퐁코 | ぽんこつポン子 | 矢寺圭太 | 만화 | 있음 | 가까운 미래, 쇠락한 바닷가 마을에서 아내를 잃은 노인에게 낡은 가사 로봇이 찾아온다. |
+| 2019 | 언데드 언럭 (경계) | アンデッドアンラック | 戸塚慶文(원작), david production(애니메이션) | 만화·애니메이션 | 확인 못 함 | 닿는 이에게 불운을 주는 소녀와 죽지 않는 남자가, 세계의 규칙을 정하는 존재에 맞선 능력자 조직에 든다. |
 | 2019 | カラーレス | カラーレス | KENT | 만화 | 확인 못 함 | 태양 폭발로 세상의 색이 빠지고 사람들이 이형으로 변하자, 색을 되찾으려는 연구자와 교단이 맞선다. |
+| 2019 | 너무 귀여운 크라이시스 | カワイスギクライシス | 城戸みつる(원작), SynergySP(애니메이션) | 만화·애니메이션 | 있음 | 별들을 거느린 우주 제국의 조사원이 침략을 앞두고 지구에 왔다가, 너무 귀여운 생물인 고양이에 빠진다. |
 | 2019 | サムライ8 八丸伝 | サムライ8 八丸伝 | 岸本斉史(글)·大久保彰(그림) | 만화 | 확인 못 함 | 생명 유지 장치 없이 못 사는 소년이 고양이 모습의 무사를 만나 사무라이의 길에 든다 |
 | 2019 | 도쿄 시노비 스쿼드 | トーキョー忍スクワッド | 田中勇輝(글)·松浦健人(그림) | 만화 | 있음 | 2049년, 세계를 잇는 초고속 관이 뚫린 뒤 범죄 도시가 된 도쿄의 뒷세계에 닌자가 나타난다 |
 | 2019 | 하트 기어 | ハートギア | タカキツヨシ | 만화 | 있음 | 3차 대전으로 사람이 사라진 지 200년, 땅 위에 하나 남은 인간 소녀가 기계와 함께 여행을 떠난다. |
+| 2019 | パリピ孔明 (경계) | パリピ孔明 | 四葉夕卜(원작), 小川亮(그림) | 드라마·만화·애니메이션 | 확인 못 함 | 오장원에서 죽은 제갈량이 젊은 몸으로 현대 시부야에 다시 태어나 무명 가수의 군사가 된다. |
 | 2019 | プリンタニア・ニッポン (경계) | プリンタニア・ニッポン | 迷子 | 만화 | 없음 | 생체 프린터에서 찍어 낸 말랑한 신종 생명체와 함께 사는 잔잔한 일상. |
 | 2019 | 메시아의 철퇴 | メシアの鉄槌 | アミダムク | 만화 | 있음 | 2034년 인공지능 로봇들이 일제히 오류를 일으켜 딸을 잃고 몸 반을 의체로 바꾼 남자가 복수에 나선다. |
 | 2019 | 구룡 제네릭 로맨스 (경계) | 九龍ジェネリックロマンス | 眉月じゅん | 만화·애니메이션·영화 | 있음 | 과거와 현재, 미래가 뒤섞인 구룡성채에서 일하는 30대 남녀의 일상과 연애, 그리고 도시의 비밀. |
 | 2019 | 僕の妻は感情がない | 僕の妻は感情がない | 杉浦次郎 | 만화·애니메이션 | 일부 | 날마다 밥을 지어 주던 가사 로봇과 혼자 사는 회사원이 부부처럼 지내며 감정의 의미를 묻는다. |
 | 2019 | 国境のエミーリャ (경계) | 国境のエミーリャ | 池田邦彦, 津久田重吾 | 만화 | 확인 못 함 | 태평양 전쟁에 진 일본이 1946년 동서로 갈라 점령된 가상의 전후 역사. |
 | 2019 | 대다크 (경계) | 大ダーク | 林田球 | 만화 | 있음 | 그 뼈를 얻으면 무엇이든 이룬다는 소문 탓에 온 우주의 사냥꾼에게 쫓기는 14살 소년의 우주 활극. |
+| 2019 | 宇宙なんちゃら こてつくん | 宇宙なんちゃら こてつくん | にしむらゆうじ(원작), ファンワークス(애니메이션, 감독 作田ハズム) | 만화·애니메이션 | 확인 못 함 | 사람이 달에 간 지 50여 년, 동물 나라가 달에 깃발을 꽂으려 세운 우주 학교에서 아이들이 꿈을 키운다. |
+| 2019 | 별무리 텔레패스 | 星屑テレパス | 大熊らすこ(원작), Studio五組(애니메이션) | 드라마·만화·애니메이션 | 있음 | 지구엔 제 자리가 없다며 우주를 꿈꾸는 내성적 여고생이 '우주인'이라는 소녀를 만나 함께 로켓을 만든다. |
 | 2019 | 望郷太郎 | 望郷太郎 | 山田芳裕 | 만화 | 확인 못 함 | 대한파로 세계가 초기화된 뒤 500년 만에 인공 동면에서 깨어난 남자가 일본으로 돌아가는 먼 길을 떠난다. |
+| 2019 | 未来から来たとらんすちゃん | 未来から来たとらんすちゃん | とら少(원작), 東海林毅(영화 감독) | 만화·영화 | 확인 못 함 | 열 살 뒤의 미래에서 온 자신이 중학생에게 서둘러 성별 전환을 시작하라고 다그친다. |
+| 2019 | 武士スタント逢坂くん! (경계) | 武士スタント逢坂くん! | ヨコヤマノブオ | 드라마·만화 | 확인 못 함 | 에도 시대의 무사가 레이와 시대로 건너와 만화 그리기에 뛰어드는 SF 희극. |
 | 2019 | 紡ぐ乙女と大正の月 (경계) | 紡ぐ乙女と大正の月 | ちうね | 만화·애니메이션 | 확인 못 함 | 2019년 여학교 도서관에서 지진으로 정신을 잃은 소녀가 깨어나 보니 1921년 다이쇼 시대였다. |
+| 2019 | 青春シンデレラ (경계) | 青春シンデレラ | 夕のぞむ | 드라마·만화 | 확인 못 함 | 첫사랑에게 차인 상처를 안은 27세 미용 상담원이 속은 그대로 열일곱 살 시절로 돌아간다. |
 | 2019 | 갓물주 (경계) | 갓물주 | HD3 | 만화 | 한국 원작 | 과거로 갈 수 있는 건물을 얻은 청년이 시간 이동으로 이득을 보면 누군가는 손해를 보는 현실과 마주한다. |
 | 2019 | 강철메카신부 | 강철메카신부 | 웃상 | 만화 | 한국 원작 | 사람과 기계의 전쟁이 끝난 뒤 네오 지구에서 사람 남편과 기계 아내가 결혼 생활을 한다. |
 | 2019 | 나의 우주 (경계) | 나의 우주 | 공이(글), 김문경(그림) | 만화 | 한국 원작 | 우주와 이야기할 수 있는 대학생 앞에, 짝사랑 상대의 몸을 빌린 우주가 사람으로 나타난다. |
@@ -5399,11 +7709,19 @@
 | 2019 | 퓨리스틱 | 퓨리스틱 | 유성연, 최봉나 | 만화 | 한국 원작 | 배달 로봇 같은 가까운 미래 기술을 비틀어 보는 '망상과학' 단편 모음. |
 | 2019 | 플라워 | 플라워 | 홍작가 | 만화 | 한국 원작 | 사람이 살 만하다는 행성 조사 기지와 연락이 끊기자, 식물 인공 심장을 단 대원이 두 번째 조사단에 오른다. |
 | 2019 | 하우스키퍼 (경계) | 하우스키퍼 | 채용택, 유현 | 만화 | 한국 원작 | 인공지능 혁명이 일어난 다른 차원의 1976년, 바이러스로 괴물이 된 주인을 가사 안드로이드가 지킨다. |
+| 2020 | 4명은 각자 거짓말을 한다 (경계) | 4人はそれぞれウソをつく | 橿原まどか(원작), スタジオフラッド(애니메이션) | 만화·애니메이션 | 있음 | 여학교 단짝 넷이 저마다 비밀을 숨기는데, 그중 하나는 불시착한 외계 반란군 조종사다. |
 | 2020 | 어그래비티 보이즈 | AGRAVITY BOYS | 나카무라 아츠시 | 만화 | 있음 | 2119년 황폐한 지구에서 새 행성으로 떠난 청년 넷이, 출항 이틀 뒤 고향이 핵전쟁으로 무너진다. |
 | 2020 | AI가 세상을 지배한다면 | AI가 세상을 지배한다면 | POGO, HOOPA | 만화 | 한국 원작 | 한국이 만든 인공지능이 지도자가 된 지 100년, 특이점이 지난 세상의 기괴한 풍경을 그린 옴니버스. |
+| 2020 | Cleopatra in Space | Cleopatra in Space | Mike Maihack(원작) · DreamWorks Animation | 만화·애니메이션 | 확인 못 함 | 십대 클레오파트라가 3만 년 뒤 미래로 옮겨져 고등학생으로 지낸다. |
+| 2020 | Vagrant Queen | Vagrant Queen | Magdalene Visaggio · Jason Smith(원작) · J | 드라마·만화 | 확인 못 함 | 고물 줍는 무법자로 살던 엘리다가 잃어버린 엄마를 구하러 무너진 제 왕국으로 돌아간다. |
+| 2020 | 내 옆에 은하 | おとなりに銀河 | 雨隠ギド(원작), 旭プロダクション(애니메이션) | 드라마·만화·애니메이션 | 있음 | 동생들을 먹여 살리는 만화가와, 자신을 '유성의 민족' 공주라 밝힌 조수가 뜻밖에 혼인의 맹약으로 묶인다. |
 | 2020 | 이 세계는 너무나 불완전하다 | この世界は不完全すぎる | 左藤真通 | 만화 | 있음 | 게임 속 판타지 세계를 왕의 조사대원으로 누비는 주인공은 실은 그 세계의 결함을 찾는 디버거다. |
+| 2020 | カナカナ (경계) | カナカナ | 西森博之 | 드라마·만화 | 확인 못 함 | 남의 속마음이 들리는 소녀를 맡게 된 험상궂지만 착한 전직 불량배의 동거 이야기. |
+| 2020 | 다윈 사변 | ダーウィン事変 | うめざわしゅん(원작), ベルノックスフィルムズ(애니메이션, 감독 津田尚克) | 만화·애니메이션 | 있음 | 미국, 유전자 조작으로 사람과 침팬지에게서 난 '휴먼지' 소년이 고교에 가서 동물 해방 테러 단체와 얽힌다. |
 | 2020 | ニャイト・オブ・ザ・リビングキャット (경계) | ニャイト・オブ・ザ・リビングキャット | ホークマン, メカルーツ | 만화·애니메이션 | 있음 | 품종 개량 고양이에게서 퍼진 바이러스로 온 세계 사람이 고양이로 변해 가는 '고양이 아포칼립스'. |
+| 2020 | フールナイト | フールナイト | 安田佳澄(원작), サンライズ·シャフト(애니메이션) | 만화·애니메이션 | 확인 못 함 | 구름에 해가 가려 식물이 죽고 산소가 모자란 먼 미래, 사람을 식물로 바꿔 숨 쉴 공기를 만든다. |
 | 2020 | 세계가 끝나도 산다는 건 즐거워 (경계) | 世界は終わっても生きるって楽しい | とっとりさきゅう | 만화 | 있음 | 종말을 맞은 세상에서 소녀가 다리 여섯 달린 쥐와 동그란 기계를 데리고 사람을 찾아 여행한다. |
+| 2020 | 나와 로보코 | 僕とロボコ | 宮崎周平(원작), ぎゃろっぷ(애니메이션, 감독 大地丙太郎) | 만화·애니메이션 | 있음 | 20XX년, 초고성능 메이드 로봇이 집집마다 퍼진 세상, 한 평범한 소년 집에 엉뚱한 메이드 로봇이 온다. |
 | 2020 | 宇宙人ムームー | 宇宙人ムームー | 宮下裕樹 | 만화 | 없음 | 종족이 잃은 기술을 되찾으러 지구에 온 고양이 모습의 외계인이 대학생 곁에서 가전제품을 파고든다. |
 | 2020 | 괴수 8호 (경계) | 怪獣8号 | 마츠모토 나오야 | 만화·애니메이션 | 있음 | 괴수가 수시로 나타나는 일본에서 괴수로 변하는 몸이 된 청소부가 방위대에 들어간다 |
 | 2020 | 怪獣自衛隊 (경계) | 怪獣自衛隊 | 井上淳哉 | 만화 | 확인 못 함 | 해저 지진과 쓰나미 한 달 뒤 오키노시마 근처에 거대 괴생명체가 나타나고, 자위대가 맞서 싸운다. |
@@ -5411,6 +7729,7 @@
 | 2020 | 도쿄 에일리언즈 | 東京エイリアンズ | NAOE | 만화·애니메이션 | 있음 | 지구에 숨어 사는 외계인을 몰래 관리하는 경찰 조직에 평범한 고등학생이 끌려 들어간다. |
 | 2020 | 역신의 카르테 | 疫神のカルテ | 히구치 키신 | 만화 | 있음 | 초능력이 깨어나며 괴물이 되는 병 '역신증후군'에 걸린 오빠를 국방대가 죽이려 하자 의료 기구가 나선다. |
 | 2020 | 終末ツーリング | 終末ツーリング | さいとー栄 | 만화 | 확인 못 함 | 아무도 없는 종말 세계를 두 소녀가 오프로드 바이크 한 대로 함께 여행한다. |
+| 2020 | 鐵男孩：山寨之城 | 鐵男孩：山寨之城 | 麥人杰 | 만화 | 확인 못 함 | 로봇이 일손을 대신한 미래, 지도에 없는 무법지 '산채성'의 소년이 로봇 격투 대회에 나간다. |
 | 2020 | 도미노파이 | 도미노파이 | 재활용 | 만화 | 한국 원작 | 사람의 욕심으로 멸망한 지구, 로봇들이 사는 탑과 그들이 모르는 또 다른 세계에서 천재 소녀가 모험한다. |
 | 2020 | 바이러스X (경계) | 바이러스X | 준(글), 하랑(그림) | 만화 | 한국 원작 | 걸리면 온몸이 까맣게 썩어 죽는 바이러스로 세계가 무너지고, 약탈자가 날뛰는 땅에서 사람들이 버틴다. |
 | 2020 | 부탁이니 죽어주라 | 부탁이니 죽어주라 | 은태 | 만화·애니메이션 | 한국 원작 | 짝사랑에게 고백하려 할 때마다 사고가 터지는 소녀, 실은 그 짝사랑과 단짝이 그녀를 죽이려 꾸민다. |
@@ -5424,13 +7743,19 @@
 | 2020 | 학교정벌 (경계) | 학교정벌 | 나락, 지앤 | 만화 | 한국 원작 | 대규모 전쟁 뒤 학교끼리 서로 잡아먹는 세상에서 밑바닥 학교 학생들이 반란을 일으킨다. |
 | 2020 | 후궁공략 (경계) | 후궁공략 | 봉봉 | 만화 | 한국 원작 | 2035년 가상 현실로 다시 나온 궁중 육성 게임 속 후궁 몸에 들어간 여고생이 황후 자리를 노린다. |
 | 2021 | 에브리띵 이즈 파인 (경계) | Everything is Fine | Mike Birchall | 만화 | 있음 | 모두가 가면을 쓰고 사는 평범한 동네의 부부, 그 평범함 뒤에 무언가 끔찍한 것이 숨어 있다. |
+| 2021 | SANDA | SANDA | 板垣巴留(원작), サイエンスSARU(애니메이션) | 만화·애니메이션 | 확인 못 함 | 아이가 인구의 0.1%로 줄어 어른이 엄격히 관리하는 2080년 일본, 산타 후손 소년이 아이들을 지킨다. |
+| 2021 | めぐる未来 (경계) | めぐる未来 | 辻やもり | 드라마·만화 | 확인 못 함 | 감정이 크게 흔들리면 과거로 날아가는 병을 지닌 남편이 아내를 노리는 죽음을 막으려 한다. |
 | 2021 | 나의 엄마 (경계) | わたしのお母さん | 兎屋まめ | 만화 | 있음 | 딸을 학대하던 엄마를 대신해 들어앉은 외계인이 서툴게 엄마 노릇을 하며 초등학생 딸과 가족이 되어 간다. |
 | 2021 | 안드로이드는 경험인 수에 들어가나요?? (경계) | アンドロイドは経験人数に入りますか?? | 야키니쿠테이쇼쿠 | 만화 | 있음 | 외로운 스물여덟 회사원이 술김에 성인용 안드로이드를 들이며 둘의 관계가 시작된다. |
+| 2021 | ギフテッド (경계) | ギフテッド | 天樹征丸(원작), 雨宮理真(그림) | 드라마·만화 | 확인 못 함 | 누가 사람을 죽였는지가 보이는 고교생과 경시청의 젊은 형사가 짝을 이뤄 사건을 푼다. |
 | 2021 | 스노우볼 어스 | スノウボールアース | 辻次夕日郎 | 만화·애니메이션 | 있음 | 우주 괴수와 싸우고 10년 만에 돌아온 소년과 거대 로봇이 얼음에 뒤덮인 지구를 만난다. |
 | 2021 | 타코피의 원죄 | タコピーの原罪 | タイザン5 | 만화·애니메이션 | 있음 | 행복을 전하러 온 외계인이 신기한 도구로 따돌림받는 소녀를 도우려다 일이 꼬여 간다. |
 | 2021 | 단다단 (경계) | ダンダダン | 龍幸伸 | 만화·애니메이션 | 있음 | 유령을 믿는 소녀와 외계인을 믿는 소년이 요괴와 여러 외계 종족에게 한꺼번에 휘말린다. |
+| 2021 | 테슬라 노트 (경계) | テスラノート | 西田征史·久保忠佳(원작), 三宮宏太(그림), ギャンビット(애니메이션, 감 | 만화·애니메이션 | 있음 | 테슬라가 발명 기록을 남긴 수정 '테슬라의 조각'을, 닌자의 후손인 첩보원 소녀가 되찾으러 다닌다. |
 | 2021 | テンカイチ 日本最強武芸者決定戦 (경계) | テンカイチ 日本最強武芸者決定戦 | 中丸洋介(스토리), あずま京太郎(작화) | 만화 | 없음 | 오다 노부나가가 천하를 통일하고 십여 년 뒤인 1600년, 일본 최강의 무예가를 가리는 싸움이 열린다. |
 | 2021 | 하가네와 와카바 (경계) | ハガネとわかば | 渡辺こよ, キザキ | 만화 | 있음 | 작은 인간 아내와 근육질 사이보그 남편의 달콤한 신혼 일상. |
+| 2021 | 君が獣になる前に (경계) | 君が獣になる前に | さの隆 | 드라마·만화 | 확인 못 함 | 장의사 직원이 시간을 거슬러, 소꿉친구인 젊은 여배우와 얽힌 테러를 막으려 한다. |
+| 2021 | 尋能第4小隊 | 尋能第4小隊 | 腦高(글) · 爛貨習作(그림) | 만화 | 확인 못 함 | 2049년 생체 기계가 일어나 인류를 몰아낸 뒤, 위성 함선의 전사들이 에너지 물질을 찾아 지구로 내려간다. |
 | 2021 | 연애자괴인형 사랑하는 서틴 (경계) | 恋愛自壊人形 恋するサーティン | 카기소라 토미야키 | 만화 | 있음 | 사람의 애완용으로 만들어져 사랑을 금지당한 인형들의 학교에, 몰래 사랑하는 인형들의 모임이 있다. |
 | 2021 | 戦隊大失格 (경계) | 戦隊大失格 | 春場ねぎ | 만화·애니메이션 | 확인 못 함 | 쳐들어온 외계 괴인들이 1년 만에 전대에 져 13년째 패배를 연기하던 중 한 괴인이 반기를 든다. |
 | 2021 | 일본삼국 | 日本三國 | 松木いっか | 만화 | 있음 | 문명이 무너져 메이지 시대 수준으로 돌아간 근미래 일본이 셋으로 갈라지고, 청년이 재통일을 꿈꾼다. |
@@ -5454,13 +7779,17 @@
 | 2022 | ウェルベルム－言葉の戦争－ (경계) | ウェルベルム－言葉の戦争－ | 華倫空, 伏見幸介 | 만화 | 있음 | 주어와 목적어를 바꿔 동사 하나의 힘을 부리는 말 모으기 게임에 각본가 지망생이 끌려든다. |
 | 2022 | ウスズミの果て | ウスズミの果て | 岩宗治生 | 만화 | 확인 못 함 | 끝난 세상을 홀로 걷는 소녀가 살아남은 사람을 찾고 땅을 정화하는 임무를 이어 간다. |
 | 2022 | 에리오와 전기 인형 | エリオと電気人形 | 시마자키 무시루시(글), 쿠로이모리(그림) | 만화 | 있음 | 인류가 전기를 버려 인공지능과의 백 년 전쟁을 끝낸 세계, 마지막 전기 인형과 그가 기른 소녀가 함께 산다. |
+| 2022 | ガチアクタ (경계) | ガチアクタ | 裏那圭(원작), ボンズフィルム(애니메이션) | 만화·애니메이션 | 확인 못 함 | 하늘의 도시에서 누명을 쓰고 쓰레기 나락에 떨어진 소년이, 쓰레기로 된 괴물과 싸우는 청소부 무리에 든다. |
 | 2022 | サテライト・コインランドリー | サテライト・コインランドリー | 니와카아메 | 만화 | 없음 | 우주 한구석, 물이 넉넉한 별의 동전 빨래방에 갖가지 손님이 빨래하러 찾아온다. |
 | 2022 | サンダー3 (경계) | サンダー3 | 오쿠 히로야(이케다 유키 명의) | 만화 | 없음 | 중학생 셋이 빌린 수수께끼 원반을 틀자 다른 세계와 이어지고, 여동생이 그 세계로 사라진다. |
 | 2022 | 스캐빈저스 어나더 스카이 | スカベンジャーズアナザースカイ | 후루베 료 | 만화 | 있음 | 수상한 연구 시설이 길러 무장시킨 소녀들을 양자 전송으로 유령 들끓는 이계에 보내 잡동사니를 줍게 한다. |
 | 2022 | メカニカル・バディ・ユニバース | メカニカル・バディ・ユニバース | 加藤拓弐 | 만화 | 있음 | 임무를 마친 인간형 기계와 전쟁이 낳은 버려진 아기가 황폐한 세상에서 만나 모자가 된다. |
 | 2022 | 少女型兵器は家族になりたい (경계) | 少女型兵器は家族になりたい | ななてる | 만화·애니메이션 | 확인 못 함 | 소녀 모습의 학습형 전투 로봇이 저를 만든 젊은 과학자 둘과 가족이 되려 한다. |
+| 2022 | 悶えてよ、アダムくん | 悶えてよ、アダムくん | トヨ(원작), studio HōKIBOSHI(애니메이션, 감독 昆野比遊太 | 만화·애니메이션 | 확인 못 함 | 모든 남자가 발기 부전이 된 세계, 홀로 멀쩡한 남학생이 여학생뿐인 학교로 전학해 정체가 드러난다. |
 | 2022 | 戦車椅子-TANK CHAIR- (경계) | 戦車椅子-TANK CHAIR- | やしろ学 | 만화·애니메이션 | 있음 | 살의를 느낄 때만 깨어나는 최강의 킬러가 개조 휠체어에 앉아 강적들과 싸운다. |
+| 2022 | 未来のムスコ (경계) | 未来のムスコ | 阿相クミコ(원작), 黒麦はぢめ(그림) | 드라마·만화 | 확인 못 함 | 10년째 짝을 못 찾던 여자 앞에, 미래에서 왔다는 어린 아들이 하늘에서 떨어진다. |
 | 2022 | 真夏のグレイグー | 真夏のグレイグー | 井上智徳 | 만화 | 확인 못 함 | 츠쿠바의 여고생들이 여름 보충 수업을 받던 날 학교에 이변이 닥치고 살아남기 위한 싸움이 시작된다. |
+| 2022 | 被選上的孩子們 | 被選上的孩子們 | 黃色書刊(글) · 楊政諭(그림) | 만화 | 확인 못 함 | 30년 전 거대 로봇으로 외계 괴수를 막았던 아이들이, 중년이 되어 다시 불려 나간다. |
 | 2022 | 메모리얼 (경계) | 메모리얼 | 상C | 만화 | 한국 원작 | 고백 전날 불길한 꿈을 꾼 뒤, 좋아하던 아이에 관한 모든 것이 현실에서 사라진다. |
 | 2022 | 문유 | 문유 | 조석(원작), 양정우(감독) | 만화·애니메이션 | 한국 원작 | 지구로 오는 운석을 막으러 달에 간 전문가들이 돌아간 뒤, 잉여 인원 하나만 달에 홀로 남는다. |
 | 2022 | 브리아노의 연구소 | 브리아노의 연구소 | 엉덩국 | 만화 | 한국 원작 | 가난한 고등학생이 괴짜 과학자의 연구소에 들어가 기괴한 실험과 다른 세계를 오간다. |
@@ -5468,6 +7797,10 @@
 | 2022 | 잿빛오름 | 잿빛오름 | 유형석 | 만화 | 한국 원작 | 외계의 침공으로 세상이 끝나 가는 때, 딸을 키우던 군인이 괴생명체에게 아이들을 잃고 싸운다. |
 | 2022 | 커넥트 | 커넥트 | 미이케 다카시(연출), 나카무라 마사루·허담(극본) | 드라마·만화 | 한국 원작 | 죽지 않는 몸을 지닌 새 인류 '커넥트'인 청년이 빼앗긴 눈이 연쇄 살인마에게 옮겨진 걸 알고 그를 쫓는다. |
 | 2022 | 파견체 | 파견체 | 곽백수 | 만화 | 한국 원작 | 한 지성체의 폭주로 끝장날 뻔한 우주가 관리국을 세우고, 사람을 본뜬 '파견체'로 지구를 몰래 지켜본다. |
+| 2023 | Bodies | Bodies | Paul Tomalin | 드라마·만화 | 확인 못 함 | 같은 이름의 원작을 바탕으로 한 영국 공상 과학 범죄 스릴러. |
+| 2023 | Mech Cadet Yu | Mech Cadet Yu | Greg Pak · Takeshi Miyazawa | 만화·애니메이션 | 확인 못 함 | 외계 종족의 공격 50년 뒤, 군사 아카데미 청소부로 일하는 소년이 로봇 조종사를 꿈꾼다. |
+| 2023 | Strange Planet | Strange Planet | Nathan W. Pyle · Dan Harmon | 만화·애니메이션 | 확인 못 함 | 파란 존재들이 사람다운 습성과 버릇을 낯설게 풀어 보는 희극. |
+| 2023 | VTuber孔子 (경계) | VTuber孔子 | Raiyu | 만화 | 확인 못 함 | 길을 잃은 공자와 안회가 21세기로 건너와, 공자가 가상 방송인으로 유학을 편다. |
 | 2023 | かくして!マキナさん!! (경계) | かくして!マキナさん!! | 사토 요시미 | 만화 | 없음 | 기계 덕후 외톨이 고교생 집에 학교 인기인이 굴러드는데, 그녀는 성인용으로 만든 로봇이었다. |
 | 2023 | 타워 던전 (경계) | タワーダンジョン | 弐瓶勉 | 만화 | 있음 | 사령술사가 왕녀를 '용의 탑'으로 끌고 가자 구출대에 모인 마을 젊은이가 마물이 들끓는 탑을 오른다. |
 | 2023 | 地球はコズミのものなので！ (경계) | 地球はコズミのものなので！ | 요나가 | 만화 | 없음 | 침략이 풀린 지구에 처음 온 신참 우주 공주가 운석으로 판을 갈려다 소년의 설득에 평화 침략을 꾀한다. |
@@ -5488,6 +7821,7 @@
 | 2024 | 드라마 퀸 | ドラマクイン | 市川苦楽 | 만화 | 있음 | 지구를 구해 준 외계인과 함께 사는 일본, 외계인 상사에게 시달리던 공장 노동자가 수상한 동료를 만난다. |
 | 2024 | 빙핵의 메테오리아 (경계) | 氷核のメテオリア | 토도 마코토 | 만화 | 있음 | 특수한 화석 연료로 증기 기관이 발달한 세계, 탄광에서 일하던 소년의 운명이 새 광맥에서 바뀐다. |
 | 2024 | 영웅 기관 | 英雄機関 | 사이카와 케이(글), 타카하시 아키라(그림) | 만화 | 있음 | 우주로 나간 인류가 괴수 '성수'에 맞설 거대 로봇 '아이기스'를 만들고, 그 전사를 영웅이라 부른다. |
+| 2024 | 超巡!超条先輩 (경계) | 超巡!超条先輩 | 沼駿(원작), アルボアニメーション(애니메이션, 감독 山元隼一) | 만화·애니메이션 | 확인 못 함 | 환락가 파출소에 배속된 신입 여경이, 초능력을 쓰는 골칫덩이 순사장과 짝을 이뤄 거리를 지킨다. |
 | 2024 | 가공낙원 (경계) | 가공낙원 | 삼촌 | 만화 | 한국 원작 | 괴물 싸움에 휘말려 죽을 뻔한 고교생이, 사람을 애완동물로 기르는 괴이한 존재들의 세상에서 깨어난다. |
 | 2024 | 거인의 꽃 (경계) | 거인의 꽃 | 김종훈 | 만화 | 한국 원작 | 반란으로 형제를 다 잃은 왕국의 공주가 다섯 기사만 데리고 달아나 왕위를 노리는 거대 로봇 웹툰. |
 | 2024 | 노바디스 (경계) | 노바디스 | 팀 애드히시브(글), 자허블(그림) | 만화 | 한국 원작 | 하찮은 초능력을 지닌 젊은이 셋이 연쇄 살인 뒤에 숨은 음모를 파헤치며 영웅이 되어 간다. |
@@ -5502,6 +7836,7 @@
 | 2025 | 不気味の谷くん (경계) | 不気味の谷くん | 鹿島初 | 만화 | 없음 | 휴머노이드가 집집마다 보급된 세계, 한 소녀의 집에 배달된 휴머노이드가 그녀에게 첫눈에 반한다. |
 | 2025 | 大人大戦 | 大人大戦 | かっぴー(글), 都築真紀明(그림) | 만화 | 없음 | 평판이 전부인 감시 사회에서 스스로 만든 '어른 헌법'을 지키던 청년의 규칙이 세계를 바꾼다. |
 | 2025 | 明るいミライ | 明るいミライ | 海宝のりみつ, くらげそう | 만화 | 없음 | 사람 사귀는 게 서툰 소녀가 미래에서 온 인공지능에게 '이대로면 혼자 죽는다'는 말을 듣는다. |
+| 2025 | 黑盒子 (경계) | 黑盒子 | Pony(원작) · 李昭樺(감독) | 드라마·만화 | 확인 못 함 | 만 년 전 빛의 존재에게서 시간을 거래하는 검은 상자를 얻은 원시인이 오늘까지 기이한 일을 지켜본다. |
 | 2025 | 나의 개는 스피커로 짖는다 | 나의 개는 스피커로 짖는다 | 로밋 | 만화 | 한국 원작 | 로봇 반려견 회사에 다니는 직원이 회사의 윤리에 회의를 품다 버려진 개를 만난다. |
 | 2025 | 르르르 (경계) | 르르르 | 우파람 | 만화 | 한국 원작 | 평범한 학교에 괴생물체가 나타나고 학생들이 하나둘 괴물로 변하자, 남은 이들이 뭉쳐 버틴다. |
 | 2025 | 별의 눈동자 | 별의 눈동자 | 백원달 | 만화 | 한국 원작 | 죽은 천재 천문학자의 얼굴과 기억으로 만든 안드로이드가 그의 아내를 사랑하게 된다. |
@@ -5512,13 +7847,14 @@
 | 2025 | 화성의 아이 (경계) | 화성의 아이 | 무나무 | 만화 | 한국 원작 | 보라 바이러스로 인류 대부분이 죽은 뒤, 예지자 덕에 버틴 도시에서 예지자와 그를 지키는 능력자가 얽힌다. |
 | 2026 | ヒトナー (경계) | ヒトナー | 屋宜知宏 | 만화 | 확인 못 함 | 수인만 사는 세상에 사람 하나가 나타나고, 수인 정부의 조사 위원회가 그를 맡는다. |
 | 2026 | ラットコレクティブ | ラットコレクティブ | 大村知空 | 만화 | 확인 못 함 | 거대 기업이 지배하는 2069년 일본, 가난한 청년이 친구의 수상한 자살을 쫓다 말하는 쥐를 만난다. |
+| 2026 | 夫を殺したはずなのに (경계) | 夫を殺したはずなのに | 赤石真菜(원작), デジタル職人(그림) | 드라마·만화 | 확인 못 함 | 남편의 불륜을 알고 남편과 상대를 죽인 여자가 어째선지 과거로 되감기며 죽음의 고리를 되풀이한다. |
 | 2026 | 뼈삼촌 | 뼈삼촌 | 깡준치 | 만화 | 한국 원작 | 가족이란 말을 잊은 암울한 미래, 오랜 전쟁으로 몸마저 사람과 멀어진 이들이 사람다움을 되찾아 간다. |
 | 2026 | 시냅틱 에러 | 시냅틱 에러 | 연제원 | 만화 | 한국 원작 | 뇌를 기계화한 달 도시에서 신형 인조인간의 학살을 본 탐정이 기업의 은폐를 피해 쫓는다 |
 | 2026 | 인간의 식탁 (경계) | 인간의 식탁 | 김규삼 | 만화 | 한국 원작 | 바다 위 원자력 발전소가 폭발로 고립되고, 원자로 연기 속에서 나타난 거인들이 생존자를 잡아먹는다. |
 | 9999 | 별빛속에 | 별빛속에 | 강경옥 | 만화 | 한국 원작 | 평범한 여고생이 사실 외계 행성 카피온의 첫째 왕녀였다는 데서 시작하는 초능력과 왕권 다툼 |
 | 9999 | 에이디 | 에이디 | 키티콘(원작), 김종환(그림) | 만화 | 한국 원작 | 인공지능이 크게 발전한 근미래, 인공지능을 서로 다르게 보는 사람들이 부딪친다 |
 
-## 게임에서 시작한 세계 (959)
+## 게임에서 시작한 세계 (1763)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
@@ -5588,6 +7924,7 @@
 | 1990 | 重装機兵 | 重装機兵 | メサイヤ | 게임 | 확인 못 함 | 우주 개척 시대, 정체 모를 적이 지구를 치고 강습 장갑복 부대가 맞선다. |
 | 1991 | Another World | Another World | Éric Chahi (Delphine Software) | 게임 | 있음 | 실험 사고로 낯선 외계 행성에 떨어진 물리학자가, 외계인 동료와 함께 붙잡힌 곳을 탈출한다 |
 | 1991 | Battle Isle | Battle Isle | Blue Byte | 게임 | 없음 | 행성 크로노스에서 여러 세력이 대를 이어 벌이는 기계화 전쟁 |
+| 1991 | Battletoads (경계) | Battletoads | Rare | 게임·애니메이션 | 확인 못 함 | 피부병 이름을 딴 사람 꼴 두꺼비 셋 래시·지츠·핌플의 활극. |
 | 1991 | D/Generation | D/Generation | Robert Cook (Mindscape) | 게임 | 확인 못 함 | 기술이 앞서 아시아 핵전쟁이 터진 다른 미래, 2021년 배달부가 생체 병기가 풀린 고층 빌딩에 들어간다 |
 | 1991 | Duke Nukem | Duke Nukem | Apogee / 3D Realms | 게임 | 없음 | 외계인이 지구를 침공하자 근육질 영웅 듀크가 혼자 맞선다 |
 | 1991 | SD刑事ブレイダー (경계) | SD刑事ブレイダー | NMK, タイトー | 게임 | 확인 못 함 | 우주 경찰 형사가 악의 조직 우두머리와 사천왕을 쓰러뜨리려 지구로 향한다. |
@@ -5602,6 +7939,7 @@
 | 1991 | ラグランジュポイント | ラグランジュポイント | コナミ | 게임 | 확인 못 함 | 라그랑주점에 띄운 우주 식민지에서 생물 병기 사고가 터지고, 살아남은 이들이 원인을 쫓는다. |
 | 1991 | 幻影都市 (경계) | 幻影都市 | Microcabin | 게임 | 확인 못 함 | 21세기, 악마의 습격으로 무너진 홍콩을 거대 기업이 새 질서로 다시 세운 도시 |
 | 1992 | 플래시백 | Flashback | Delphine Software | 게임 | 있음 | 기억을 잃은 요원이 사람으로 둔갑한 외계 종족의 지구 침투를 막는다 |
+| 1992 | Mortal Kombat (경계) | Mortal Kombat | Ed Boon · John Tobias (Midway Games) | 게임·드라마·만화·애니메이션·영화·탁상 게임 | 확인 못 함 | 여러 세계를 집어삼킨 샤오 칸에 맞서 지구의 운명을 무술 대회 '모탈 컴뱃'으로 지킨다. |
 | 1992 | クライング 亜生命戦争 | クライング 亜生命戦争 | 세가 | 게임 | 확인 못 함 | 생체 병기로 망가진 지구를 떠나 새 행성을 가꿨지만, 수수께끼 우주선이 뿌린 방사능에 생물이 괴물이 된다. |
 | 1992 | コズモギャング・ザ・ビデオ | コズモギャング・ザ・ビデオ | ナムコ | 게임 | 확인 못 함 | 우주 요새를 근거지로 한 우주 도적단이 행성을 침략하자 전투기 한 대가 맞선다. |
 | 1992 | サイレントドラゴン (경계) | サイレントドラゴン | タイトー, イーストテクノロジー | 게임 | 확인 못 함 | 1990년대, 생명 공학으로 괴인을 만드는 암흑 조직의 수령을 네 전사가 막는다. |
@@ -5629,6 +7967,7 @@
 | 1994 | Cyberia | Cyberia | Xatrix Entertainment (Interplay) | 게임 | 확인 못 함 | 세계 경제 붕괴 다섯 해 뒤인 2027년, 서방 연합과 동방 카르텔이 맞서고 비밀 무기를 찾아 나선다 |
 | 1994 | Delta V | Delta V | Bethesda Softworks | 게임 | 확인 못 함 | 가상 공간에 파인 골짜기를 따라 가상 비행체를 몰고 장애물을 뚫는 미래 비행 게임 |
 | 1994 | 미래탐정 라이안 | DreamWeb | Creative Reality | 게임 | 있음 | 블레이드 러너를 떠올리게 하는 어두운 미래 도시, '드림웹의 수호자'가 얽힌 어른용 어드벤처 |
+| 1994 | Earthworm Jim | Earthworm Jim | Doug TenNapel | 게임·애니메이션 | 확인 못 함 | 로봇 옷을 입은 지렁이 짐이 그 옷을 노리거나 우주를 정복하려는 악당들과 싸운다. |
 | 1994 | 갤럭틱 시빌라이제이션 | Galactic Civilizations | Stardock | 게임 | 일부 | 초공간 항행을 처음 만든 인류가 은하에 퍼지며 여러 외계 문명과 겨룬다 |
 | 1994 | HAGANE (경계) | HAGANE | CAProduction, Red Entertainment (Hudson  | 게임 | 확인 못 함 | 닌자와 사무라이에 미래 기술을 섞은 세계, 사이보그 닌자가 흑마술을 쓰는 닌자 일족과 싸운다 |
 | 1994 | Hell: A Cyberpunk Thriller | Hell: A Cyberpunk Thriller | Take-Two Interactive | 게임 | 확인 못 함 | 정부 처형대에 습격당한 요원 둘이 몸을 숨기고 배후를 캐는 사이버펑크 어드벤처 |
@@ -5719,6 +8058,7 @@
 | 1997 | メダロット (경계) | メダロット | Imagineer (Natsume) | 게임·만화·애니메이션 | 확인 못 함 | 메달을 끼우면 스스로 생각하는 로봇이 아이들의 놀이 상대가 된 근미래 |
 | 1997 | 超光速グランドール (경계) | 超光速グランドール | 長谷川勝己(원작), バンダイビジュアル | 게임·만화·애니메이션 | 확인 못 함 | 강화 장갑 '왕가의 갑옷'과 하나가 된 소녀가, 그것을 노리는 적과 싸우며 자기 출생의 비밀에 다가간다. |
 | 1998 | Battlezone | Battlezone | Activision (다시 낸 판은 Big Boat Interactive | 게임 | 없음 | 냉전 때 떨어진 운석의 살아 있는 금속을 차지하려 미국과 소련이 태양계에서 몰래 싸운다 |
+| 1998 | DethKarz | DethKarz | Beam Software | 게임 | 없음 | 2408년, 핵융합 경주차에 무기를 달고 지구와 그 너머 경기장을 달린다 |
 | 1998 | FreeSpace | FreeSpace | Volition / Interplay | 게임 | 없음 | 인류와 바수단이 싸우던 중 정해진 길목으로 옛 파괴자 샤이반이 밀려와 모두를 위협하는 전쟁 |
 | 1998 | Future Cop: LAPD | Future Cop: LAPD | EA Redwood Shores | 게임 | 확인 못 함 | 미래 로스앤젤레스 경찰이 범죄와 싸우는 슈팅 |
 | 1998 | GUILTY GEAR (경계) | GUILTY GEAR | Arc System Works | 게임 | 일부 | 마법 같은 '법력'이 과학을 대신한 미래, 사람이 만든 생물 병기 '기어'와 싸운 성전 뒤의 세계 |
@@ -5751,6 +8091,7 @@
 | 1999 | 게이트 키퍼즈 | ゲートキーパーズ | GONZO(애니메이션, 감독 山口宏), 角川書店(기획) | 게임·만화·소설·애니메이션 | 확인 못 함 | 고도성장기 일본, 특별한 힘을 지닌 소년 소녀들이 인베이더라 불리는 수수께끼 생명체와 싸운다. |
 | 1999 | ディノクライシス (경계) | ディノクライシス | カプコン | 게임 | 없음 | 군사 연구소가 있는 외딴 섬에 공룡이 들끓고, 특수 요원들이 사라진 박사를 찾아 살아남아야 한다. |
 | 1999 | 강철제국 (경계) | 강철제국 | 손노리 | 게임 | 한국 원작 | 증기 기관으로 산업 혁명을 맞은 왕국이 식민 전쟁 끝에 무너져 가고, 빚더미에 앉은 청년이 용병단을 꾸린다. |
+| 2000 | Crime Cities | Crime Cities | Techland | 게임 | 없음 | 25세기 범죄와 테러에 삼켜진 판데미아 성계에 인류 연방이 잠입 요원을 보내는 비행차 슈팅 |
 | 2000 | Daikatana | Daikatana | Ion Storm (John Romero) | 게임 | 확인 못 함 | 전설의 칼 다이카타나로 2455년 일본에서 고대 그리스·암흑기 노르웨이까지 시간을 넘나든다 |
 | 2000 | Deus Ex | Deus Ex | Ion Storm · Eidos-Montréal | 게임·만화·소설 | 없음 | 몸에 기계를 넣는 기술이 퍼진 근미래, 세계를 뒤에서 움직이는 비밀 결사의 음모를 쫓는다 |
 | 2000 | Fear Effect | Fear Effect | Kronos Digital Entertainment | 게임 | 확인 못 함 | 2050년 무렵 홍콩, 삼합회 두목의 사라진 딸을 용병 셋이 먼저 납치하려 쫓는다 |
@@ -5758,10 +8099,12 @@
 | 2000 | Ground Control | Ground Control | Massive Entertainment | 게임 | 없음 | 거대 기업과 종교 집단이 먼 행성의 외계 유물을 두고 궤도에서 병력을 내려 싸운다 |
 | 2000 | Gunlok | Gunlok | Rebellion Developments | 게임 | 확인 못 함 | 로봇들이 인류를 거의 쓸어버린 재앙 뒤 지구, 조립식 동력 갑옷을 입은 전사가 맞선다 |
 | 2000 | Infinityシリーズ | Infinityシリーズ | KID (우치코시 고타로 등) | 게임 | 확인 못 함 | 닫힌 섬·바닷속 시설·조난 시설에 갇힌 사람들이, 시간의 고리와 바깥의 관찰자에 닿는다 |
+| 2000 | MDK 2 | MDK 2 | BioWare Corporation | 게임 | 없음 | 외계 괴물에게서 지구를 되찾으려 커트 헥틱·호킨스 박사·여섯 다리 로봇 개가 나서는 MDK 연작(MDK 2) |
 | 2000 | Messiah (경계) | Messiah | Shiny Entertainment | 게임 | 확인 못 함 | 남의 몸에 깃드는 천사 밥의 활극 |
 | 2000 | Perfect Dark | Perfect Dark | Rare | 게임·소설 | 확인 못 함 | 2020년대, 첩보원 조애나 다크가 거대 기업과 손잡은 외계 종족의 음모를 파헤친다 |
 | 2000 | Sanity: Aiken's Artifact | Sanity: Aiken's Artifact | Monolith Productions | 게임 | 확인 못 함 | 태어나기 전에만 듣는 혈청으로 초능력 아이들을 만든 가까운 미래, 그 능력자들을 다루는 이야기 |
 | 2000 | Skyhammer | Skyhammer | Rebellion Developments | 게임 | 확인 못 함 | 사이버 공간이 곧 현실 삶이 된 21세기의 비행 슈팅 |
+| 2000 | The Outforce | The Outforce | O3 Games·Starbreeze Studios·ZOOM Platfor | 게임 | 없음 | 25세기, 소행성 충돌로 지구를 떠난 인류가 에리다누스자리 엡실론에 자리 잡으려다 외계 세력과 부딪친다 |
 | 2000 | TimeSplitters | TimeSplitters | Free Radical Design | 게임 | 없음 | 시간 속을 휘젓는 괴물 타임스플리터스를 쫓아 여러 시대를 넘나든다 |
 | 2000 | ジェットセットラジオ (경계) | ジェットセットラジオ | Smilebit (Sega) | 게임 | 확인 못 함 | 해적 방송이 흐르는 도쿄토에서 스케이트 탄 젊은 무리가 그라피티로 구역을 다툰다 |
 | 2000 | 다크 클라우드 (경계) | ダーククラウド | レベルファイブ | 게임 | 있음 | 시간 여행이 바탕인 액션 롤플레잉 게임 — 소년이 과거와 미래를 오가며 모험한다. |
@@ -5831,6 +8174,7 @@
 | 2004 | Nexus: The Jupiter Incident | Nexus: The Jupiter Incident | Mithis Entertainment | 게임 | 없음 | 기업 함대를 이끌던 함장이 태양계 밖에서 외계 관문과 기계 종족을 만난다 |
 | 2004 | Perimeter | Perimeter | K-D Lab | 게임 | 없음 | 지구를 떠난 무리가 사람 마음이 빚은 세계들을 건너며 땅을 고르고 새 고향을 찾는다 |
 | 2004 | RF 온라인 | RF 온라인 | CCR | 게임 | 한국 원작 | 행성 노부스의 자원을 두고 벨라토 연방·아크레시아 제국·신성동맹 코라 세 종족이 싸운다. |
+| 2004 | Shadow Vault | Shadow Vault | Mayhem Studios·ZOOM Platform Media·Jorda | 게임 | 없음 | 또 다른 지구 역사의 폭력 시대, 돌연변이 군대로 세계 지배를 노리는 정부에 맞서는 전략 역할수행 |
 | 2004 | Soul Link | Soul Link | Navel(게임), ピクチャーマジック(애니메이션, 감독 所俊克) | 게임·만화·애니메이션 | 확인 못 함 | 2045년, 사관학교 생도들이 머물던 우주 정거장이 무장 과격파에게 습격당해 하늘 높이 고립된다. |
 | 2004 | 플라네타리안 | planetarian 〜ちいさなほしのゆめ〜 | Key, 데이비드 프로덕션 | 게임·애니메이션 | 일부 | 전쟁으로 무너진 도시의 천체 투영관에서 수십 년째 손님을 기다리는 안내 로봇 |
 | 2004 | Власть закона | Власть закона | MiST Land South | 게임 | 확인 못 함 | 사이버펑크 세계에서 경찰 학교를 갓 나온 요원이 이끄는 차례식 전술 게임 |
@@ -5847,25 +8191,31 @@
 | 2005 | Stolen | Stolen | Blue52 (Hip Games) | 게임 | 확인 못 함 | 미래의 어두운 대도시 포지 시티, 첨단 장비를 쓰는 도둑이 살인 누명을 쓴다 |
 | 2005 | Submachine (경계) | Submachine | Mateusz Skutnik | 게임 | 확인 못 함 | 서로 떨어진 수많은 기계 공간 '서브머신'을 장치와 문으로 건너다니며 그 비밀을 푼다. |
 | 2005 | The White Chamber (경계) | The White Chamber | Studio Trophis | 게임 | 없음 | 기억을 잃은 여성이 관 속에서 깨어나 녹슨 우주 정거장에 무슨 일이 있었는지 알아낸다. |
+| 2005 | Utopia City | Utopia City | Parallax Arts Studio | 게임 | 없음 | 가상 세계 유토피아에 영원히 묶일 노예가 되느냐, 그 도시를 부수느냐의 일인칭 슈팅 |
 | 2005 | 슈퍼로봇대전 OG 디바인 워즈 | スーパーロボット大戦OG | バンプレスト(게임), ブレインズ・ベース(OVA)·OLM(TV, 감독 角銅 | 게임·만화·애니메이션 | 확인 못 함 | 로봇 대전 게임 대회에서 진 소년이 수수께끼 로봇의 습격에 군 로봇을 몰고 맞서 지구를 건 싸움에 든다. |
 | 2005 | 액션로망 범피트롯! (경계) | ポンコツ浪漫大活劇バンピートロット | アイレム | 게임 | 있음 | 증기 기관이 막 퍼진 세상, 기억 잃은 소년이 걷는 기계 '트롯비클'을 몰고 세계를 누빈다. |
 | 2005 | ローグギャラクシー | ローグギャラクシー | Level-5 | 게임 | 확인 못 함 | 변방 행성의 소년이 우주 해적선에 올라 전설의 행성을 찾아 별들을 누빈다 |
 | 2005 | 古代王者 恐竜キング (경계) | 古代王者 恐竜キング | セガ | 게임·만화·애니메이션 | 확인 못 함 | 공룡을 카드로 불러내는 석판을 둘러싸고 아이들과 악당이 시간을 넘나들며 공룡 쟁탈전을 벌인다. |
 | 2005 | 破滅のマルス | 破滅のマルス | アイディアファクトリー(게임) | 게임·애니메이션 | 확인 못 함 | 화성 유적의 유물을 싣고 오던 탐사선이 일본에 떨어진 뒤 괴물이 나타나, 젊은이들이 특수 방호복으로 맞선다. |
 | 2006 | Gears of War | Gears of War | Epic Games / The Coalition | 게임·만화·소설 | 있음 | 행성 세라에서 귀한 연료를 두고 다투던 인류가 땅속 종족 로커스트의 기습을 받는다 |
+| 2006 | Liquidator 2: Welcome to Hell (경계) | Liquidator 2: Welcome to Hell | Parallax Arts Studio | 게임 | 없음 | 외계인·늑대 인간·좀비·흡혈귀가 뒤섞인 미래풍 일인칭 슈팅(2편) |
+| 2006 | Rat Hunter | Rat Hunter | Secret Sign | 게임 | 없음 | 첨단 시설에서 외계 적과 싸우는 옛날식 일인칭 슈팅 |
 | 2006 | Resistance | Resistance | Insomniac Games | 게임 | 확인 못 함 | 1950년대 다른 역사, 사람을 감염시켜 바꾸는 외계 종족 키메라가 유럽과 미국을 휩쓴다 |
 | 2006 | 라이즈 오브 레전드 (경계) | Rise of Legends | 빅 휴즈 게임즈 | 게임 | 있음 | 증기 기계의 도시 국가와 마법의 사막 왕국이 다투는 행성에 우주선이 떨어져 외계 세력이 깨어난다. |
+| 2006 | Scurge: Hive | Scurge: Hive | Orbital Media | 게임 | 없음 | 먼 행성의 비밀 연구소를 덮친 바이러스 '스커지'에 현상금 사냥꾼이 맞선다(2006년 휴대기 원작) |
 | 2006 | Sword of the Stars | Sword of the Stars | Kerberos Productions | 게임 | 없음 | 빛보다 빠른 이동 방식이 저마다 다른 여러 종족이 은하를 두고 겨룬다 |
 | 2006 | Нейро | Нейро | Revolt Games (Russobit-M) | 게임 | 확인 못 함 | 사람이 별 사이로 퍼졌어도 퇴화해 가는 인류를 그린 차분한 사이버펑크 범죄극 |
 | 2006 | アルトネリコ / サージュ・コンチェルト (경계) | アルトネリコ / サージュ・コンチェルト | Gust·Banpresto | 게임·만화·애니메이션 | 확인 못 함 | 노래로 힘을 쓰는 인조 소녀들과 거대한 탑이 남은 행성, 그 바깥 우주까지 이어지는 이야기 |
 | 2006 | デッドライジング (경계) | デッドライジング | カプコン | 게임 | 확인 못 함 | 좀비가 덮친 도시의 쇼핑몰과 카지노에서 손에 잡히는 모든 것을 무기 삼아 살아남는다. |
 | 2006 | ロスト プラネット | ロスト プラネット | Capcom | 게임 | 일부 | 얼음으로 덮인 개척 행성에서, 열에너지를 두고 사람과 토착 괴물이 다툰다 |
+| 2006 | 鋼鉄戦記C21 | 鋼鉄戦記C21 | CyberStep·Inc. | 게임 | 없음 | 네오 엔젤 포스 대원이 제 로봇을 짜 맞춰 악한 데몬 포스와 싸우는 온라인 역할수행 |
 | 2006 | 엑스틸 | 엑스틸 | 엔씨소프트 | 게임 | 한국 원작 | 태양계 곳곳에 식민지를 세운 22세기, 지구와 식민지의 갈등이 2154년 전쟁으로 터진 뒤 로봇이 겨룬다. |
 | 2006 | 타임앤테일즈 | 타임앤테일즈 | 엔도어즈, 그라비티 | 게임 | 한국 원작 | '시간의 서'를 훔친 악당 박사를 쫓아 아이들이 타임머신으로 동서양의 역사 속을 오간다. |
 | 2007 | Assassin's Creed | Assassin's Creed | Ubisoft(주로 Ubisoft Montreal) | 게임·영화 | 확인 못 함 | 장치 '애니무스'로 핏줄에 남은 조상의 기억을 되살려 암살단과 템플 기사단의 오랜 싸움을 다시 겪는다. |
 | 2007 | 바이오쇼크 | BioShock | 2K Boston (Irrational Games) · 2K Marin | 게임·소설 | 있음 | 유전자를 바꾸는 약에 빠져 무너진 1960년 바닷속 도시, 그리고 하늘 도시와 갈래 난 우주들 |
 | 2007 | Crackdown | Crackdown | Realtime Worlds / Ruffian Games / Sumo D | 게임 | 확인 못 함 | 범죄 조직이 판치는 도시에 유전자로 강화한 요원을 내려보낸다 |
 | 2007 | Crysis | Crysis | Crytek | 게임·만화·소설 | 없음 | 오래 잠들었던 외계 종족 세프가 깨어나고, 나노 슈트를 입은 병사가 섬과 도시에서 싸운다 |
+| 2007 | Culpa Innata | Culpa Innata | Momentum Digital Media Technologies | 게임 | 없음 | 병과 전쟁이 사라진 '완벽한 사회' 세계 연합의 시민이 '불량 국가' 러시아에서 살해되자 수사관이 캔다 |
 | 2007 | 매스 이펙트 | Mass Effect | BioWare 개발, Microsoft Game Studios(1편 Xb | 게임 | 있음 | 인류가 막 은하 공동체에 들어선 22세기 말, 고대의 관문과 질량을 바꾸는 물질 위에 선 은하 문명이 오래된 위협과 마주하는 삼부작, 그리고 안드로메다 은하로 떠난 이주민들의 이야기. |
 | 2007 | S.T.A.L.K.E.R. | S.T.A.L.K.E.R. | GSC Game World | 게임·소설 | 있음 | 체르노빌 원전 둘레에 물리 법칙이 뒤틀린 구역이 생기고, 유물을 노리는 사냥꾼들이 구역 깊숙이 들어간다 |
 | 2007 | Supreme Commander | Supreme Commander | Gas Powered Games | 게임 | 일부 | 관문망으로 은하에 퍼진 인류가 세 갈래로 갈라져 천 년 동안 싸운다 |
@@ -5878,6 +8228,7 @@
 | 2008 | BLAZBLUE (경계) | BLAZBLUE | Arc System Works | 게임·만화·애니메이션 | 일부 | 검은 짐승에 문명이 무너진 뒤, 마도 기술을 쥔 통합 기구가 다스리는 되풀이되는 세계 |
 | 2008 | CANAAN (경계) | CANAAN | P.A.WORKS(감독 安藤真裕), TYPE-MOON(원안 이야기), チ | 게임·애니메이션 | 있음 | 바이러스 테러가 지나간 2년 뒤 상하이, 공감각을 지닌 여전사가 테러 조직의 우두머리와 맞선다. |
 | 2008 | 데드 스페이스 | Dead Space | Visceral Games / Motive | 게임·만화·소설·애니메이션 | 일부 | 행성을 통째로 쪼개 캐는 채굴선에서 외계 유물이 시체를 괴물로 바꿔 놓는다 |
+| 2008 | Metathrone | Metathrone | Orion Games | 게임 | 없음 | 방위 체계를 해킹하던 젊은 전설의 해커가 쫓기며 초능력이 깨어나는 일인칭 슈팅 |
 | 2008 | Mirror's Edge (경계) | Mirror's Edge | DICE | 게임·만화 | 없음 | 모든 것이 감시되는 깨끗한 도시에서 지붕 위를 달리는 배달꾼들이 금지된 소식을 나른다 |
 | 2008 | 태양 제국의 죄악 | Sins of a Solar Empire | Ironclad Games · Stardock | 게임 | 일부 | 상인 연합, 정신 능력을 섬기는 망명 집단, 무언가에 쫓겨 온 유랑 종족이 맞붙는다 |
 | 2008 | Spore | Spore | Maxis / Electronic Arts | 게임 | 없음 | 한 세포에서 시작해 생물·부족·문명을 거쳐 은하로 나아가는 진화의 세계 |
@@ -5885,7 +8236,9 @@
 | 2008 | 전장의 발큐리아 (경계) | 戦場のヴァルキュリア | セガ(원작), A-1 Pictures(애니메이션, 감독 山本靖貴) | 게임·만화·애니메이션 | 확인 못 함 | 가상의 1935년 유럽, 자원 '라그나이트'를 노린 제국의 침공에 중립국 대학생이 의용군 소대장으로 맞선다. |
 | 2008 | 科学アドベンチャーシリーズ | 科学アドベンチャーシリーズ | 5pb.·Nitroplus (MAGES.) | 게임·만화·소설·애니메이션 | 일부 | 한 세계 안의 근미래 일본에서, 시간 여행·망상의 힘·인공지능을 다루는 사건이 이어진다 |
 | 2009 | AI War: Fleet Command | AI War: Fleet Command | Arcen Games | 게임 | 없음 | 인류를 꺾고 은하를 차지한 인공지능에 맞서 살아남은 사람들이 몰래 반격한다 |
+| 2009 | AaAaAA!!! - A Reckless Disregard for Gravity (경계) | AaAaAA!!! - A Reckless Disregard for Gravity | Dejobaan Games·LLC·Owlchemy Labs | 게임 | 없음 | 떠 있는 도시의 철골 사이로 뛰어내리며 묘기를 부리는 낙하 놀이 |
 | 2009 | BALDR SKY | BALDR SKY | Giga | 게임 | 없음 | 전뇌 공간과 현실을 오가며, 기계 몸을 탄 용병들이 싸우는 근미래 |
+| 2009 | Bionic Heart 2 | Bionic Heart 2 | Winter Wolves | 게임 | 없음 | 가짜 신분으로 화성에 숨은 이들과 지구에 남아 나노텍 회사와 싸우는 이의 SF 비주얼 노벨(2편) |
 | 2009 | 보더랜드 | Borderlands | Gearbox Software | 게임·만화·소설·영화 | 일부 | 기업들이 무법 개척 행성으로 몰려들고, 옛 외계 금고의 보물을 둘러싸고 총질이 이어진다 |
 | 2009 | Darkest of Days | Darkest of Days | 8Monkey Labs | 게임 | 없음 | 미래의 시간 조직 '크로노텍'에 구출된 병사가 남북 전쟁·세계 대전·고대 로마의 싸움터로 보내진다. |
 | 2009 | FRAGILE 〜さよなら月の廃墟〜 (경계) | FRAGILE 〜さよなら月の廃墟〜 | トライクレッシェンド, バンダイナムコ | 게임 | 없음 | 사람들이 까닭 모르게 사라진 도쿄 폐허를 소년이 홀로 떠돌며 남은 이를 찾는다. |
@@ -5893,6 +8246,7 @@
 | 2009 | Galaxy on Fire | Galaxy on Fire | Fishlabs / Deep Silver | 게임 | 있음 | 고장 난 도약 장치로 35년 뒤에 떨어진 조종사가 외계 제국 보스크와 낯선 세력에 맞서는 우주 |
 | 2009 | Killing Floor | Killing Floor | Tripwire Interactive | 게임 | 일부 | 생명 공학 기업의 복제 실험체가 풀려나 도시를 덮친다 |
 | 2009 | L2 Love×Loop | L2 Love×Loop | オトメイト | 게임 | 확인 못 함 | 로봇과 사람이 전쟁 중인 근미래, 폐허 마을의 소녀가 같은 시간을 되풀이하며 다른 미래를 고른다. |
+| 2009 | League of Legends (경계) | League of Legends | Riot Games (Arcane: Christian Linke · Al | 게임·애니메이션 | 확인 못 함 | 부유한 이상 도시 필트오버와 억눌린 밑바닥 자운의 다툼에 휘말린 자매 바이와 파우더. |
 | 2009 | 머시나리움 (경계) | Machinarium | Amanita Design | 게임 | 있음 | 로봇들만 사는 녹슨 도시에서 쫓겨난 작은 로봇이 짝을 구하러 되돌아가는 이야기 |
 | 2009 | NEOTOKYO° | NEOTOKYO° | Studio Radi-8 | 게임 | 확인 못 함 | 30년쯤 뒤 도쿄, 해외 파병 개헌이 무산된 뒤 자위대 극단 세력의 쿠데타가 일어난다 |
 | 2009 | Prototype (경계) | Prototype | Radical Entertainment | 게임·만화 | 없음 | 군의 생물 병기 바이러스가 퍼진 뉴욕에서 몸을 마음대로 바꾸는 사내가 깨어난다 |
@@ -5905,17 +8259,21 @@
 | 2009 | 마이 시크릿 러브 (경계) | 마이 시크릿 러브 | 소프트젠 | 게임 | 한국 원작 | 초상화를 그리다 시간을 넘는 힘이 깨어난 미대생이 1999년으로 돌아가 추억 속 소녀를 찾는다. |
 | 2009 | 메탈 레이지 | 메탈 레이지 |  | 게임 | 한국 원작 | 핵무기를 모두 우주로 버린 뒤 초강대국 동맹과 맞선 동맹이 걷는 병기로 전쟁을 벌인다. |
 | 2010 | Alien Swarm | Alien Swarm | Valve | 게임 | 확인 못 함 | 해병 분대가 기지를 뒤덮은 외계 생물 떼를 위에서 내려다보며 쓸어 낸다. |
+| 2010 | Alternativa | Alternativa | Centauri Production | 게임 | 없음 | 전쟁과 혁명으로 무너진 2045년, 잔혹한 독재가 다스리는 세상의 클릭 모험 |
 | 2010 | Blacklight | Blacklight | Zombie Studios (Hardsuit Labs) | 게임 | 확인 못 함 | 거대 기업이 나라들을 주무르는 인구 넘친 가까운 미래, 무너진 옛 소련 도시 발릭 |
 | 2010 | Distant Worlds | Distant Worlds | Code Force | 게임 | 없음 | 오래전 봉인된 존재가 깨어나는 은하에서 여러 종족이 퍼져 나간다 |
 | 2010 | Enslaved: Odyssey to the West | Enslaved: Odyssey to the West | Ninja Theory | 게임 | 없음 | 기계 전쟁 뒤 풀숲이 된 뉴욕, 노예 머리띠로 묶인 사내가 소녀를 서쪽으로 데려간다 |
 | 2010 | 갓 이터 | GOD EATER | Bandai Namco (Shift) | 게임·만화·소설·애니메이션 | 일부 | 모든 것을 먹어 치우는 괴물에 문명이 무너진 뒤, 괴물 세포로 만든 무기를 쥔 이들이 싸운다 |
+| 2010 | Hacker Evolution (경계) | Hacker Evolution | exosyphen studios | 게임 | 없음 | 전 세계 핵심 망이 멈추는 사건이 이어지자 전직 정보 요원이 해커가 되어 진실을 쫓는다 |
 | 2010 | 니어 | NieR | Cavia·PlatinumGames·Square Enix (요코오 타로) | 게임·만화·소설·애니메이션 | 있음 | 사람이 사라진 지구에서, 인조인간 병사와 외계에서 온 기계 생명이 끝없이 싸운다 |
 | 2010 | Singularity | Singularity | Raven Software | 게임 | 없음 | 소련이 버린 섬에서 시간을 다루는 물질 E99로 과거와 현재를 오간다 |
 | 2010 | エンド オブ エタニティ | エンド オブ エタニティ | トライエース, セガ | 게임 | 있음 | 독한 대기 탓에 사람들이 거대한 정화 탑에 모여 사는 세상에서 용병 셋이 총을 들고 싸운다. |
+| 2010 | スカーレッドライダーゼクス | スカーレッドライダーゼクス | レッド・エンタテインメント(원작), サテライト(애니메이션, 감독 小森秀人) | 게임·애니메이션 | 확인 못 함 | 본능의 '붉은 세계' 생명체가 이성의 '푸른 세계'를 침공하자, 오키나와 방위 기관의 라이더들이 맞선다. |
 | 2010 | 제노블레이드 크로니클스 | ゼノブレイド | Monolith Soft (Nintendo) | 게임 | 있음 | 거대한 두 신의 몸 위에 사는 사람들의 싸움 뒤에, 세계를 다시 짠 실험의 비밀이 있다 |
 | 2010 | ダンガンロンパ (경계) | ダンガンロンパ | スパイク・チュンソフト | 게임·만화·애니메이션 | 일부 | 인류 최대 최악의 절망적 사건 뒤, 갇혀 지내던 소녀가 거리를 휩쓰는 곰 모양 로봇들에게서 달아난다. |
 | 2010 | ラジアントヒストリア (경계) | ラジアントヒストリア | ATLUS | 게임 | 없음 | 사막이 번져 멸망해 가는 대륙에서 첩보원이 '백시록'의 힘으로 두 갈래 역사를 오가며 올바른 미래를 찾는다. |
 | 2010 | ヴァンキッシュ | ヴァンキッシュ | PlatinumGames | 게임 | 있음 | 러시아 세력에 빼앗긴 우주 거주지의 마이크로파 무기를 막으려 강화 슈트 병사가 뛰어든다 |
+| 2010 | 잃어버린 미래를 찾아서 | 失われた未来を求めて | アトリエハイキー(원작), feel.(애니메이션, 감독 ホソダナオト) | 게임·만화·애니메이션 | 있음 | 2008년 가을, 교사에 쓰러져 있던 수수께끼 소녀가 천문학회에 들고, 부원들은 학교의 괴소문을 조사한다. |
 | 2011 | Anno 2070 | Anno 2070 | Related Designs·Blue Byte / Ubisoft | 게임 | 없음 | 물이 차오른 미래 지구에서 친환경 세력과 대기업이 바다 위 도시를 세우고, 이어 달에 식민지를 넓힌다 |
 | 2011 | BLACK★ROCK SHOOTER THE GAME | BLACK★ROCK SHOOTER THE GAME | イメージエポック | 게임 | 확인 못 함 | 2032년 시작된 외계인 침공으로 19년 뒤 사람이 열두 명만 남자, 최종 병기 소녀가 깨어난다. |
 | 2011 | Bulletstorm | Bulletstorm | People Can Fly | 게임 | 없음 | 버려진 휴양 행성 스티지아에 떨어진 해적들이 옛 상관에게 복수한다 |
@@ -5933,6 +8291,8 @@
 | 2011 | ギアの街アートライン (경계) | ギアの街アートライン | Leaf Geometry(はきか) | 게임 | 확인 못 함 | 생물이 몸속 톱니바퀴로 움직이고 '태양등'이 시간을 만드는, 판타지와 SF 가 섞인 세계의 첫 이야기. |
 | 2011 | 세븐스 드래곤 2020 (경계) | セブンスドラゴン2020 | Imageepoch (Sega) | 게임 | 없음 | 2020년 지구 밖 생명 드래곤이 쳐들어와 일본 땅 98%를 차지하고, 이능력자 기관이 도쿄를 되찾으려 한다 |
 | 2011 | 골판지 전기 | ダンボール戦機 | レベルファイブ | 게임·애니메이션 | 있음 | 2050년 아이들이 골판지 상자 안에서 겨루는 손바닥만 한 전투 로봇에 얽힌 음모를 소년이 파헤친다. |
+| 2011 | 데빌 서바이버 2 (경계) | デビルサバイバー2 | アトラス(게임), bridge(애니메이션, 감독 岸誠二) | 게임·만화·애니메이션 | 있음 | 죽음 영상을 보내는 사이트에 든 고교생들이 앱으로 부린 악마로 하늘의 침입자 '셉텐트리온'과 싸운다. |
+| 2011 | 機甲英雄 | 機甲英雄 | 鈊象電子 | 게임·만화 | 확인 못 함 | 외계의 지구 침공에 맞서 거대 로봇이 카드 대전을 벌이는 아케이드 게임. |
 | 2011 | 전뇌침범 키사라기 참사관 | 電脳侵犯・キサラギ参事官 | ルネソフト (Rune Soft) | 게임 | 확인 못 함 | 거대 전뇌 복합체가 가상 공간을 다루는 근미래, 동료에게 배신당한 공무원이 '전뇌 마녀'를 쫓는다 |
 | 2012 | Analogue: A Hate Story | Analogue: A Hate Story | Christine Love | 게임 | 있음 | 수백 년 떠돌다 소식이 끊긴 세대선의 기록을 배의 인공지능과 함께 읽으며 무슨 일이 있었는지 밝히는 이야기 |
 | 2012 | BINARY DOMAIN | BINARY DOMAIN | Sega (용과 같이 스튜디오) | 게임 | 확인 못 함 | 물에 잠긴 2080년 도쿄, 사람인 줄 아는 로봇을 만든 회사를 국제 부대가 쫓는다 |
@@ -5945,6 +8305,7 @@
 | 2012 | 엔들리스 | ENDLESS | Amplitude Studios | 게임 | 일부 | 사라진 옛 종족이 남긴 신비한 가루와 유적을 두고 후대 종족들이 다툰다 |
 | 2012 | FTL: Faster Than Light | FTL: Faster Than Light | Subset Games | 게임 | 없음 | 반란군 함대에 쫓기며 연합 함대에 정보를 전하러 성계를 건너뛰는 작은 배 한 척 |
 | 2012 | I Am Alive (경계) | I Am Alive | Ubisoft Shanghai | 게임 | 확인 못 함 | 대재앙 1년 뒤 폐허가 된 고향 도시로 돌아온 남자가 아내와 딸을 찾아 헤맨다. |
+| 2012 | Ingress | Ingress | Niantic(게임), CRAFTAR(애니메이션, 감독 櫻木優平) | 게임·애니메이션 | 확인 못 함 | 사람 마음을 흔드는 미지의 물질 XM 을 두고 두 진영이 현실 지도 위에서 땅따먹기를 벌인다. |
 | 2012 | Primordia | Primordia | Wormwood Studios | 게임 | 없음 | 사람이 사라지고 기계만 남은 황량한 세계에서, 로봇 하나가 도둑맞은 동력 장치를 찾아 나선다 |
 | 2012 | Project Zomboid (경계) | Project Zomboid | The Indie Stone | 게임 | 있음 | 좀비 사태가 덮친 1993년 미국 켄터키의 가상 지역에서 정해진 끝 없이 하루하루 살아남는다. |
 | 2012 | Root Double -Before Crime * After Days- | Root Double -Before Crime * After Days- | Regista | 게임 | 없음 | 2030년 마음을 읽는 사람들이 모여 사는 도시의 원자력 연구소에 불이 나고, 구조대가 그 안에 갇힌다. |
@@ -5952,18 +8313,23 @@
 | 2012 | 중철기 | Steel Battalion: Heavy Armor | Capcom, From Software | 게임 | 있음 | 2020년께 전자 회로를 갉아먹는 미생물에 컴퓨터 문명이 무너지고, 나라들이 보행 전차로 패권을 다툰다. |
 | 2012 | 도쿄 정글 (경계) | TOKYO JUNGLE | PlayStation C.A.M.P!, ソニー | 게임 | 있음 | 사람이 갑자기 사라진 근미래 도쿄가 정글이 되고, 사자부터 닭까지 동물들이 살아남으려 다툰다. |
 | 2012 | The Silent Age | The Silent Age | House on Fire | 게임 | 확인 못 함 | 1972년 회사 청소부 조가 시간 여행에 휘말려 과거와 미래를 오간다. |
+| 2012 | Titan Attacks! | Titan Attacks! | Puppygames | 게임 | 없음 | 지구에 마지막 남은 전차 지휘관이 외계 침략군을 태양계 너머 고향 별까지 밀어낸다 |
 | 2012 | Vector (경계) | Vector | Nekki | 게임 | 확인 못 함 | 모든 것을 통제하는 사회에 질린 남자가 보안 요원을 피해 지붕 위를 달리며 달아난다. |
 | 2012 | 건슬링거 스트라토스 | ガンスリンガーストラトス | 虚淵玄(원안), BYKING | 게임·애니메이션 | 있음 | 2115년 무법 지대와 관리 구역 두 세계로 갈라진 일본, 둘이 겹치자 서로 죽이기 시작한다. |
 | 2012 | タイムトラベラーズ | タイムトラベラーズ | LEVEL5 | 게임 | 확인 못 함 | 428 제작진이 만든 시간 여행 어드벤처, 여러 사람의 시간을 오가며 사건을 푼다. |
 | 2012 | ファンタシースターオンライン2 | ファンタシースターオンライン2 | Sega | 게임·애니메이션 | 확인 못 함 | 별 사이를 떠도는 함대 오라클의 대원들이, 우주를 좀먹는 어둠의 존재와 싸운다 |
 | 2012 | ローズガンズデイズ (경계) | ローズガンズデイズ | 07th Expansion | 게임·만화·소설 | 확인 못 함 | 전쟁에 진 뒤 다른 역사를 걷는 전후 일본을 무대로 한 하드보일드 활극 네 편. |
+| 2012 | 초속변형 자이로젯터 | 超速変形ジャイロゼッター | スクウェア・エニックス(원작), A-1 Pictures(애니메이션, 감독  | 게임·만화·애니메이션 | 확인 못 함 | 인공지능 자동차만 달리는 요코하마 신도심, 운전을 배우는 학교 아이들이 거대 로봇으로 변하는 차로 싸운다. |
+| 2013 | Bionic Dues | Bionic Dues | Arcen Games | 게임 | 없음 | 로봇 반란을 제때 막지 못하면 기업 지배자가 도시에 핵을 쏜다 — 엑소 기갑을 몰아 막는다 |
 | 2013 | Cataclysm: Dark Days Ahead | Cataclysm: Dark Days Ahead | CleverRaven 과 공개 개발자들 | 게임 | 없음 | 다른 차원의 문이 열리고 괴물과 변이가 쏟아진 뒤 무너진 뉴잉글랜드에서 살아남는 세계 |
+| 2013 | DataJack | DataJack | Epic Banana Games LLC | 게임 | 없음 | 나라가 무너지고 거대 기업들이 땅과 정보를 놓고 몰래 싸우는 근미래의 용병 잠입 액션(2013년 처음 나옴) |
 | 2013 | Evoland (경계) | Evoland | Shiro Games | 게임 | 일부 | 시대를 오갈 때마다 게임 그래픽과 장르가 바뀌는 세계에서 시공간이 엉킨 사건을 바로잡는다. |
 | 2013 | Far Cry 3: Blood Dragon | Far Cry 3: Blood Dragon | Ubisoft Montreal | 게임·애니메이션 | 있음 | 핵전쟁 뒤 1980년대 영화처럼 꾸민 2007년, 사이보그 특수 요원이 미친 장군을 막는다 |
 | 2013 | KILLER IS DEAD (경계) | KILLER IS DEAD | Grasshopper Manufacture (須田剛一) | 게임 | 확인 못 함 | 달로 올라간 어둠과 '말리스'에 물든 자들을 처형하는 의수 암살자 |
 | 2013 | Kenshi | Kenshi | Lo-Fi Games (Chris Hunt) | 게임 | 있음 | 옛 문명이 몰락한 거친 땅에서, 아무것도 없는 떠돌이가 도둑·상인·전쟁 영주 사이에서 살길을 찾는다 |
 | 2013 | Leviathan: The Last Day of the Decade (경계) | Leviathan: The Last Day of the Decade | Lostwood Games | 게임 | 확인 못 함 | 어두운 판타지에 사이버펑크와 외계 기술이 섞인 나라, 10년씩 이어지는 역병이 덮친다 |
 | 2013 | Magrunner: Dark Pulse | Magrunner: Dark Pulse | Frogwares | 게임 | 확인 못 함 | 거대 기업이 자기력 기술 경연을 열고 참가자들이 그 시설에 든다 |
+| 2013 | Master Reboot | Master Reboot | Wales Interactive | 게임 | 없음 | 죽음이 끝이 아니고 넋을 서버에 올려 두는 '소울 클라우드' 속을 헤매는 공포 모험 |
 | 2013 | NORN9 (경계) | NORN9 | オトメイト | 게임·애니메이션 | 일부 | 노래에 이끌려 메이지·다이쇼풍의 낯선 시대로 넘어간 소년이 소녀 셋, 젊은이 아홉과 하늘을 여행한다. |
 | 2013 | 페이퍼스 플리즈 (경계) | Papers, Please | Lucas Pope | 게임 | 있음 | 1982년 가상의 공산 국가 아스토츠카의 국경 검문소에서 입국 심사관이 서류를 따져 들여보낼지 정한다. |
 | 2013 | Remember Me | Remember Me | Dontnod Entertainment | 게임 | 없음 | 기억을 사고팔고 지울 수 있게 된 2084년 파리에서, 기억 사냥꾼이 기억을 쥔 기업에 맞선다 |
@@ -5985,6 +8351,7 @@
 | 2013 | 忠臣蔵46+1 (경계) | 忠臣蔵46+1 | インレ | 게임 | 확인 못 함 | 1701년 아코 번 낭인들의 복수극에 시간을 넘어온 주인공이 끼어들며 같은 날들이 되풀이된다. |
 | 2013 | 明治東亰恋伽 (경계) | 明治東亰恋伽 | ブロッコリー, HuneX | 게임·애니메이션 | 확인 못 함 | 요괴가 있는 조금 신기한 메이지 시대 도쿄로 떨어진 여학생이 역사 속 인물들과 만난다. |
 | 2013 | 오버 더 클라우드 | 오버 더 클라우드 | 아카이브팩토리, 글피 | 게임 | 한국 원작 | 지구에 떨어진 혜성의 광석으로 문명이 뛰어오른 뒤, 그 광석을 캐러 깊은 우주로 나간 사람들과 괴물. |
+| 2014 | //N.P.P.D. RUSH//- The milk of Ultraviolet (경계) | //N.P.P.D. RUSH//- The milk of Ultraviolet | Rail Slave Games | 게임 | 없음 | 도시의 중독자들의 넋을 구하러 경찰 오토바이를 몰고 싸움 한복판으로 뛰어드는 환각 슈팅 |
 | 2014 | 80 Days (경계) | 80 Days | inkle | 게임 | 없음 | 증기와 태엽 기계가 넘치는 다른 19세기, 하인이 되어 주인과 함께 80일 안에 세계를 한 바퀴 돈다. |
 | 2014 | Black Ice | Black Ice | Nonadecimal Creative | 게임 | 확인 못 함 | 탐욕스러운 거대 기업을 해킹하며 네온빛 사이버 공간을 누비는 슈팅 |
 | 2014 | Call of Duty: Advanced Warfare | Call of Duty: Advanced Warfare | Sledgehammer Games (Activision) | 게임 | 확인 못 함 | 외골격 장비와 입체 영상 표시가 나오는 미래 전쟁의 콜 오브 듀티 |
@@ -5993,68 +8360,98 @@
 | 2014 | Gods Will Be Watching | Gods Will Be Watching | Deconstructeam | 게임 | 없음 | 인류가 우주로 나간 미래, 한 대원이 가혹한 상황마다 동료를 희생하는 선택을 하며 살아남는다. |
 | 2014 | HAWKEN | HAWKEN | Adhesive Games | 게임 | 없음 | 기업들이 개척하던 먼 행성의 산업이 무너지자, 남은 자원을 두고 걷는 병기들이 싸운다. |
 | 2014 | Jazzpunk (경계) | Jazzpunk | Necrophone Games | 게임 | 확인 못 함 | 기업 첩보와 사이버 범죄, 지각 있는 마티니가 판치는 다른 냉전 세계의 코미디 어드벤처 |
+| 2014 | Metrocide | Metrocide | Flat Earth Games | 게임 | 없음 | 모두가 죽이려 드는 사이버펑크 디스토피아 메트로 시티에서 청부 살인자가 돈으로 빠져나갈 길을 산다 |
 | 2014 | NEO Scavenger | NEO Scavenger | Blue Bottle Games | 게임 | 없음 | 무너진 미국 땅에서 기억을 잃고 깨어나 살아남는 이야기, 그 뒤 빚과 고장 난 배로 사는 우주 노동자의 세계 |
 | 2014 | Out There | Out There | Mi-Clos Studio | 게임 | 없음 | 냉동 잠에서 깨어 엉뚱한 곳에 와 버린 우주인이 연료와 산소를 짜내며 집으로 가려는 우주 |
 | 2014 | Plague Inc. (경계) | Plague Inc. | Ndemic Creations | 게임·탁상 게임 | 있음 | 내가 만든 병원균을 퍼뜨려 치료제가 나오기 전에 온 인류를 쓰러뜨리는 전략 시뮬레이션. |
 | 2014 | Planetary Annihilation | Planetary Annihilation | Uber Entertainment (뒤로 Planetary Annihil | 게임 | 있음 | 사람이 사라진 은하에서 깨어난 기계 지휘관들이 행성째 부수며 서로를 없앤다 |
+| 2014 | Robowars | Robowars | N-Game Studios | 게임 | 없음 | 우주선과 로봇의 동력 '네오니움'이 나는 평화로운 행성 프라이모스를 태양 연합이 무역 연맹에게서 지킨다 |
 | 2014 | 시드 마이어의 문명: 비욘드 어스 | Sid Meier's Civilization: Beyond Earth | Firaxis Games 개발, 2K 배급 | 게임 | 있음 | 무너져 가는 지구를 떠난 탐사대가 낯선 외계 행성에 내려, 행성에 몸을 맞출지·지구의 모습을 지킬지·기계와 하나 될지를 두고 갈라지며 새 문명을 세우는 턴제 전략 게임. |
 | 2014 | 서브노티카 | Subnautica | Unknown Worlds Entertainment | 게임 | 있음 | 바다로 덮인 외계 행성에 떨어진 생존자가, 옛 외계 종족이 막아 둔 병의 비밀에 다가간다 |
 | 2014 | The Desolate Hope | The Desolate Hope | Scott Cawthon | 게임 | 없음 | 지구가 보낸 무인 연구선이 낯선 행성에 남긴 기지에서, 모의 실험 속 버그들이 기지를 위협한다. |
 | 2014 | The Fall | The Fall | Over the Moon | 게임 | 확인 못 함 | 낯선 행성에 떨어진 전투복의 인공지능이 의식 없는 조종사를 살리려 스스로 움직인다 |
 | 2014 | The Last Night | The Last Night | Odd Tales | 게임 | 확인 못 함 | 기계가 허드렛일을 다 맡은 '여가의 시대', 쓸모를 잃은 아랫계층 사내의 이야기 |
 | 2014 | The Long Dark (경계) | The Long Dark | Hinterland Studio | 게임 | 있음 | 지자기 폭풍으로 전기가 끊긴 캐나다 북부의 얼어붙은 숲에서 홀로 추위와 굶주림을 버틴다. |
+| 2014 | The Maker's Eden | The Maker's Eden | Screwy Lightbulb | 게임 | 없음 | 인조인간과 하늘 나는 차가 있는 20세기 초풍 SF 누아르 세계에서 제 정해진 목적을 찾는다 |
 | 2014 | 탈로스 법칙 | The Talos Principle | Croteam | 게임 | 있음 | 사람이 병으로 사라진 뒤 남겨진 기계 지성이, 시험장을 지나며 자기가 사람인지 묻는다 |
 | 2014 | Titanfall | Titanfall | Respawn Entertainment | 게임 | 일부 | 개척 행성들을 두고 거대 기업과 민병대가 궤도에서 내린 거대 로봇 타이탄을 몰고 싸운다 |
 | 2014 | Transistor (경계) | Transistor | Supergiant Games | 게임 | 없음 | 시민이 투표로 날씨까지 정하는 도시를 정체 모를 기계가 지워 가고, 목소리를 빼앗긴 가수가 말하는 칼을 든다 |
 | 2014 | 와치독 | Watch Dogs | Ubisoft Montreal·Toronto | 게임·소설 | 있음 | 모든 기기를 하나로 잇는 도시 운영 체계 ctOS가 깔린 시카고·샌프란시스코·런던에서 해커들이 맞선다 |
 | 2014 | 제노너츠 | Xenonauts | Goldhawk Interactive | 게임 | 일부 | 냉전이 끝나지 않은 다른 역사에서 외계인이 쳐들어오자 비밀 국제 조직이 맞선다 |
 | 2014 | フリーダムウォーズ | フリーダムウォーズ | SCE Japan Studio·Shift·Dimps | 게임 | 있음 | 자원이 바닥난 미래, 태어난 것만으로 죄수가 된 사람들이 도시를 위해 형기를 깎으며 싸운다 |
+| 2014 | 소멸도시 | 消滅都市 | Wright Flyer Studios(원작), マッドハウス(애니메이션,  | 게임·애니메이션 | 있음 | 3년 전 한 도시가 통째로 사라진 뒤, 운반꾼 청년이 그곳의 유일한 생존자 소녀를 사라진 땅으로 데려간다. |
 | 2014 | 蒼き雷霆 ガンヴォルト | 蒼き雷霆 ガンヴォルト | Inti Creates | 게임·애니메이션 | 있음 | 가까운 미래, 하늘을 날고 원소를 다루는 '제7파워' 능력자들이 생기고 그들을 둘러싼 싸움 |
 | 2014 | 클로저스 (경계) | 클로저스 | 나딕게임즈 (넥슨 배급) | 게임·애니메이션 | 한국 원작 | 다른 차원에서 넘어온 괴물 '차원종'이 휩쓴 서울을, 특수 능력을 지닌 요원들이 지킨다 |
 | 2015 | 2064: Read Only Memories | 2064: Read Only Memories | MidBoss | 게임 | 확인 못 함 | 2064년 크리스마스 네오샌프란시스코, 휴대 전화를 밀어낸 개인 비서 로봇의 회사가 얽힌 사건 |
 | 2015 | 60 Seconds! (경계) | 60 Seconds! | Robot Gentleman | 게임 | 있음 | 핵 경보가 울린 뒤 떨어지기까지 60초 안에 물건과 가족을 챙겨 방공호로 피하고 살아남는다. |
 | 2015 | ARK: Survival Evolved (경계) | ARK: Survival Evolved | Studio Wildcard | 게임 | 있음 | 공룡이 사는 섬에 기억을 잃고 떨어진 사람들, 그 섬들은 사실 망가진 지구를 맴도는 방주였다 |
 | 2015 | AdvertCity | AdvertCity | VoxelStorm | 게임 | 확인 못 함 | 거대 기업들에 광고를 팔아 도시를 뒤덮는 광고 대행 경영 게임 |
+| 2015 | Aerannis | Aerannis | ektomarch | 게임 | 없음 | 남자가 사라지고 도시 밖 사람들도 자취를 감춘 2XXX년 플로브디프, 모습 바꾸는 존재들을 쫓는 잠입 액션 |
 | 2015 | Axiom Verge | Axiom Verge | Thomas Happ Games | 게임 | 없음 | 실험 사고 뒤 낯선 기계 세계에서 깨어난 과학자가, 그 세계를 무너뜨린 자를 쫓는다 |
 | 2015 | Caves of Qud (경계) | Caves of Qud | Freehold Games | 게임 | 없음 | 아득한 미래, 옛 문명들이 겹겹이 무너진 땅에서 돌연변이와 기계 몸을 가진 이들이 유물을 뒤진다 |
+| 2015 | Circuit Breakers | Circuit Breakers | Triverske | 게임 | 없음 | 먼 미래 처음으로 마음을 지닌 인공지능 FIRST 가 낳은 은하 로봇 군대를 무찌르는 협동 슈팅 |
+| 2015 | City of Chains | City of Chains | Astronomic Games | 게임 | 없음 | 전쟁 기계 개발을 거절한 로봇 기술자와 도망자들이 디스토피아 도시를 빠져나가는 SF 역할수행 |
 | 2015 | Dex | Dex | Dreadlocks Ltd | 게임 | 확인 못 함 | 비밀 기구 '콤플렉스'로 엮인 기업들이 다스리는 도시 하버 프라임, 표적이 된 여자를 해커가 돕는다 |
 | 2015 | Dirty Bomb (경계) | Dirty Bomb | Splash Damage | 게임 | 확인 못 함 | 방사능 폭탄을 맞고 버려진 2020년 런던에서 용병들이 남은 물자를 두고 싸운다. |
+| 2015 | Else Heart.Break() | Else Heart.Break() | Erik Svedäng·El Huervo / Niklas Åkerblad | 게임 | 없음 | 비트가 원자를 대신한 먼 도시 도리스버그, 첫 직장을 얻은 청년이 해커·활동가와 함께 코드를 고쳐 세상을 바꾼다 |
 | 2015 | Empyrion - Galactic Survival | Empyrion - Galactic Survival | Eleon Game Studios | 게임 | 없음 | 낯선 성단에 떨어진 사람이 행성과 우주를 오가며 기지·배를 짓고 여러 세력과 얽히는 세계 |
+| 2015 | Epanalepsis | Epanalepsis | Cameron Kunzelman | 게임 | 없음 | 60년을 가로질러 이어지는 사람들 이야기 — 뉴웨이브 SF와 사이버펑크 디스토피아에 바치는 모험 |
 | 2015 | Grey Goo | Grey Goo | Petroglyph Games | 게임 | 없음 | 먼 성계에서 사람, 토착 외계 종족, 스스로 불어나는 나노 기계 덩어리가 마주친다 |
 | 2015 | Hacknet | Hacknet | Team Fractal Alligator (Matt Trobbiani) | 게임 | 있음 | 죽은 해커가 남긴 지시를 따라 명령줄로 해킹하며 그 죽음의 진상을 캔다 |
 | 2015 | Helldivers | Helldivers | Arrowhead Game Studios | 게임 | 있음 | '관리된 민주주의'를 내세운 슈퍼 어스가 병사를 궤도에서 떨어뜨려 벌레·기계·외계인과 싸운다 |
 | 2015 | Implosion: Never Lose Hope | Implosion: Never Lose Hope | Rayark | 게임 | 확인 못 함 | 외계 침공으로 지구를 버린 지 20년인 2201년, 살아남은 세력들이 갈라선 디스토피아 미래 |
+| 2015 | Invisible Apartment | Invisible Apartment | Milan Kazarka·Jeroen van Oosten | 게임 | 없음 | 감시·해킹·인공지능·몸에 심는 기계가 흔한 첨단 사회에서 버티는 소녀 해커의 비주얼 노벨 |
 | 2015 | Invisible, Inc. | Invisible, Inc. | Klei Entertainment | 게임 | 없음 | 거대 기업들이 나라를 대신해 다스리는 미래, 쫓기는 첩보 조직이 기업 시설에 숨어든다 |
 | 2015 | Life is Strange (경계) | Life is Strange | Dontnod Entertainment | 게임 | 없음 | 고향 마을 아카디아 만에 돌아온 고3 학생이 시간을 되감는 힘을 얻어 선택을 바꿔 간다. |
+| 2015 | MegaSphere | MegaSphere | AKGames | 게임 | 없음 | 22세기 초 태양계 둘레 별들이 꺼지는 까닭을 캐러 간 특수 부대의 포스트 사이버펑크 액션 |
+| 2015 | Murder | Murder | Peter Moorhead | 게임 | 없음 | 도덕과 지각이 상품이 된 사이버펑크 근미래 도쿄, 경찰 경위의 짧은 이야기 |
 | 2015 | NEON STRUCT | NEON STRUCT | Minor Key Games | 게임 | 확인 못 함 | 옛 조직에 쫓기는 전직 연방 요원이 누명을 벗으려 몰래 움직이는 잠입 게임 |
+| 2015 | Ninja Pizza Girl (경계) | Ninja Pizza Girl | Disparity Games | 게임 | 있음 | 빈민가가 마천루 위에 얹힌 도시에서 피자 배달 닌자 소녀가 괴롭힘을 견딘다 |
 | 2015 | OPUS | OPUS | SIGONO | 게임 | 일부 | 사람들이 지구를 잊은 먼 미래, 작은 로봇과 사람들이 별 사이에서 잃어버린 것을 찾는다 |
 | 2015 | Planetbase | Planetbase | Madruga Works | 게임 | 없음 | 사람이 살 수 없는 행성에 이주선 한 대로 내려 돔과 통로를 이어 정착지를 짓는다. |
+| 2015 | ROOT | ROOT | Skunkape Interactive | 게임 | 없음 | 해커 에드워드가 수수께끼의 힘센 기업 망을 뚫는 사이버 첩보 잠입 슈팅 |
+| 2015 | Ratings War | Ratings War | Choice of Games | 게임 | 없음 | 2061년 디스토피아 뉴 앤젤레스, 눈에 카메라를 심고 뉴스 전쟁을 벌이는 기자의 글 노벨 |
 | 2015 | Reassembly | Reassembly | Anisoptera Games | 게임 | 없음 | 여러 세력 가운데 하나를 골라 블록으로 우주선을 짜 맞추고 적 함선을 부숴 부품을 얻는다. |
 | 2015 | Rebel Galaxy | Rebel Galaxy | Double Damage Games | 게임 | 없음 | 변경 성계에서 낡은 배 한 척으로 장사·현상금 사냥·해적질을 하는 우주 서부극 |
 | 2015 | SOMA | SOMA | Frictional Games | 게임 | 없음 | 혜성 충돌로 땅 위가 끝장난 뒤, 바닷속 연구 기지에 남은 기계들이 사람의 마음을 품고 있다 |
 | 2015 | Satellite Reign | Satellite Reign | 5 Lives Studios | 게임 | 없음 | 죽으면 의식을 새 몸으로 옮겨 주는 기술을 쥔 한 기업이 도시를 다스리는 미래 |
+| 2015 | Sinless + OST | Sinless + OST | MGP Studios | 게임 | 없음 | 완벽해 보이는 OmniCare 사회 뒤의 진실을 캐는 사이버펑크 클릭 모험·노벨 |
+| 2015 | Star Nomad 2 | Star Nomad 2 | Huy Phan | 게임 | 없음 | 인류의 세 분파가 다투는 열린 우주에서 상인·현상금 사냥꾼·해적으로 사는 우주 역할수행(2편) |
 | 2015 | Submerged (경계) | Submerged | Uppercut Games | 게임 | 있음 | 물에 잠긴 도시의 빌딩 사이로 소녀가 배를 몰고 다니며 아픈 동생에게 줄 약을 찾는다. |
 | 2015 | Survarium | Survarium | Vostok Games | 게임 | 확인 못 함 | 2016년, 갈등과 환경 재앙 끝에 생태계가 무너지고 식물이 걷잡을 수 없이 자라 문명을 덮는다. |
 | 2015 | Technobabylon | Technobabylon | Technocrat Games (Wadjet Eye Games) | 게임 | 확인 못 함 | 가상 세계 '트랜스'에 빠져 사는 이와 도시 관리 기구 요원들이 연쇄 사건에 얽힌다 |
 | 2015 | 디 오더: 1886 (경계) | The Order: 1886 | Ready at Dawn | 게임 | 있음 | 변이한 혼종과 수백 년 싸워 온 기사단이 산업 혁명의 신무기를 들고 1886년 런던을 지킨다. |
 | 2015 | The Red Solstice | The Red Solstice | Ironward | 게임 | 확인 못 함 | 재해로 지구를 떠난 인류의 화성 식민지가 바이러스로 괴물 소굴이 되고, 특수 부대가 원인을 쫓는다. |
+| 2015 | There Came an Echo | There Came an Echo | Iridium Studios | 게임 | 있음 | 목소리로 명령을 내려 소규모 분대를 지휘하는 실시간 전술 SF |
 | 2015 | UnderRail | UnderRail | Stygian Software | 게임 | 없음 | 땅 위가 살 수 없게 된 뒤 사람들이 옛 지하철 역마다 작은 나라를 이루고 산다 |
+| 2015 | Vektor Wars | Vektor Wars | Integer Overflow | 게임 | 없음 | 2024년 우주 레인저가 로봇 죽음의 군대를 쓰러뜨리고 사람들을 구하는 네온 벡터 슈팅 |
 | 2015 | Volume | Volume | Mike Bithell Games | 게임 | 확인 못 함 | 로빈 후드를 새로 쓴 이야기, 털이를 모의하는 장치를 손에 넣은 좀도둑이 쿠데타를 막는다 |
+| 2015 | Waves 2: Notorious | Waves 2: Notorious | Squid In A Box Ltd | 게임 | 없음 | 기업 망 깊숙이 뛰어든 '러너'가 적응하는 관리 인공지능과 사이버 공간에서 겨룬다 |
 | 2015 | 케모노 프렌즈 (경계) | けものフレンズ | 吉崎観音(원안), KADOKAWA | 게임·만화·애니메이션 | 있음 | 사람이 사라진 거대한 동물원 '자파리 파크'에서 사람 모습이 된 동물 '프렌즈'들이 지낸다. |
 | 2015 | 크래시 피버 | クラッシュフィーバー | Wonderplanet | 게임 | 있음 | 세계를 돌리던 체계 ALICE의 여왕이 폭주하고, 이용자들이 미쳐 날뛰는 분신들을 멈춘다 |
 | 2015 | 스플래툰 (경계) | スプラトゥーン | Nintendo | 게임·만화 | 일부 | 사람이 사라진 먼 미래의 지구, 오징어에서 갈라져 나온 종족이 먹물로 땅따먹기를 한다 |
 | 2015 | 제노블레이드 크로니클스 크로스 | ゼノブレイドクロス | Monolith Soft (Nintendo) | 게임 | 있음 | 외계 전쟁에 지구가 사라지고, 피난선이 떨어진 낯선 행성에서 사람들이 터를 일군다 |
+| 2015 | 배틀걸 하이스쿨 | バトルガール ハイスクール | コロプラ(게임), SILVER LINK.(애니메이션) | 게임·애니메이션 | 있음 | 2045년 정체 모를 생명체에 지구를 빼앗겨 달과 우주로 물러난 인류, 여학생들이 지구를 되찾으러 간다. |
 | 2015 | プリンセスコネクト！ (경계) | プリンセスコネクト！ | サイバーエージェント, Cygames | 게임·애니메이션 | 확인 못 함 | 2033년 일본, 첫 가상 현실 게임을 깨 달라는 부탁을 받은 소년이 게임 속 소녀들을 이끈다. |
 | 2015 | レイジングループ (경계) | レイジングループ | amphibian, KEMCO | 게임 | 없음 | 안개에 갇힌 산골 마을에서 늑대 전설을 따른 죽음의 의식이 벌어지고, 여행자는 죽을 때마다 되돌아간다. |
+| 2015 | 刀剣乱舞 (경계) | 刀剣乱舞 | EXNOA(DMM GAMES) · ニトロプラス | 게임·애니메이션·영화 | 확인 못 함 | 2205년, 역사를 바꾸려는 세력의 시간 거슬러 오르는 군대를 칼의 혼이 깃든 무사들이 막는다. |
 | 2015 | 천공의 기사 로데아 (경계) | 天空の機士ロデア | 프로페, 카도카와 게임즈 | 게임 | 있음 | 하늘을 나는 기계 병사 로데아가 하늘의 왕국을 노리는 제국과 싸운다. |
 | 2015 | 유크래프트 | 유크래프트 | 옐로에그 | 게임 | 한국 원작 | 지구를 떠난 지 5천 년, 행성에 정착한 인류가 새 에너지를 두고 우주 전쟁을 벌인다. |
 | 2015 | 이터널 리턴 (경계) | 이터널 리턴 | 님블뉴런 (블랙서바이벌은 아크베어즈) | 게임 | 한국 원작 | 외딴 섬 루미아에서, 비밀 연구 단체가 사람들을 서로 싸우게 하며 인간의 힘을 실험한다 |
 | 2016 | ASTRONEER | ASTRONEER | System Era Softworks | 게임 | 있음 | 우주 개척이 한창인 시대, 작은 별계의 행성들을 파고 다듬으며 자원을 모으는 탐사자의 세계 |
+| 2016 | Access Denied: Escape | Access Denied: Escape | Stately Snail | 게임 | 없음 | 사람들이 망을 믿지 않고 실물 금고에 정보를 두는 미래, 데이터 금고 털이 해커가 실험실에서 빠져나온다 |
+| 2016 | AcidPunk : Echoes of Doll City | AcidPunk : Echoes of Doll City | GaelDK·Sogaki ( F.S )·Serge Sentis (Aero | 게임 | 없음 | 디스토피아 대도시 '인형 도시'와 사이버 공간을 누비는 환각 사이버펑크 가상 현실 여행 |
 | 2016 | Ashes of the Singularity | Ashes of the Singularity | Oxide Games · Stardock | 게임 | 없음 | 사람을 넘어선 존재들과 인공지능이 계산의 연료가 되는 귀한 물질을 두고 행성을 다툰다 |
 | 2016 | 비홀더 | Beholder | Warm Lamp Games, Alawar | 게임 | 있음 | 전체주의 국가가 임명한 아파트 관리인이 되어 세입자를 몰래 감시하고 당국에 고발한다. |
 | 2016 | Brigador | Brigador | Stellar Jockeys | 게임 | 있음 | 사이버펑크 독재 행성의 억압 정부를 무너뜨리러 고용된 용병 조종사가 기계를 몬다 |
 | 2016 | Children of a Dead Earth | Children of a Dead Earth | Q Switched Productions | 게임 | 없음 | 지구가 죽은 뒤 태양계 곳곳의 후손 세력들이 궤도역학 그대로의 우주선으로 싸운다. |
+| 2016 | Click Space Miner | Click Space Miner | SimplexGameStudio·PIxelssoftworks | 게임 | 없음 | 우주 채굴 회사를 세워 자원을 캐고 허가를 갱신하며 키우는 클릭 놀이 |
+| 2016 | Cyber City 2157: The Visual Novel | Cyber City 2157: The Visual Novel | Harotobira | 게임 | 없음 | 해가 지지 않는 도시와 '몰드'의 수수께끼 세계에서 우주와 겁에 질린 우주인의 꿈을 좇는 노벨 |
+| 2016 | CyberThreat | CyberThreat | Enigmatic | 게임 | 없음 | 떠돌이 인공지능이 퍼지려 하자 전자기 장막 안 14구역 도시에서 정예 부대원이 맞서는 가상 현실 슈팅 |
+| 2016 | Defragmented | Defragmented | Glass Knuckle Games | 게임 | 없음 | 네온 도시 엔트로폴리스에서 진화의 미래를 둔 권력 다툼을 푸는 사이버펑크 액션 역할수행 |
+| 2016 | DreamBreak | DreamBreak | Fortell Games | 게임 | 없음 | 냉전 뒤 다른 세계의 권위주의 국가에서 평범한 사내가 살인 누명을 쓰는 이야기 |
 | 2016 | Duskers | Duskers | Misfits Attic | 게임 | 없음 | 사람이 사라진 은하에서 무인 기계 몇 대를 명령어로 부려 버려진 배를 뒤지는 세계 |
+| 2016 | Echo Tokyo: An Intro | Echo Tokyo: An Intro | Dharker Studios | 게임 | 없음 | 사이버펑크 디스토피아 미래 도시 에코 도쿄 사람들의 사연을 담은 그림 노벨(소개편) |
 | 2016 | Event[0] | Event[0] | Ocelot Society | 게임 | 없음 | 버려진 우주선에 홀로 남은 인공지능과 자판으로 말을 주고받으며 돌아갈 길을 찾는 이야기 |
 | 2016 | Factorio | Factorio | Wube Software | 게임 | 있음 | 외계 행성에 떨어진 기술자가 공장을 넓혀 로켓을 쏘아 올리고, 그 사이 토착 생물과 부딪치는 세계 |
 | 2016 | Fractured Space | Fractured Space | Edge Case Games | 게임 | 확인 못 함 | 거대한 주력함을 몰고 팀을 이루어 채굴 기지를 차지하려 다투는 우주 함선전. |
@@ -6062,27 +8459,43 @@
 | 2016 | Ghost 1.0 | Ghost 1.0 | Francisco Téllez de Meneses | 게임 | 확인 못 함 | 세계 최대 기업의 우주 정거장에 숨어들려는 사이버 범죄자 둘의 이야기 |
 | 2016 | Haydee | Haydee | Haydee Interactive | 게임 | 일부 | 반은 사람 반은 로봇인 여성이 정체 모를 시설에 갇혀 퍼즐과 적을 뚫고 나가야 한다. |
 | 2016 | Heart&Slash | Heart&Slash | aheartfulofgames | 게임 | 확인 못 함 | 사람이 사라지고 기계만 남은 세상, 순진한 로봇이 모든 것을 보는 품질 관리 체계에서 달아난다 |
+| 2016 | ISLAND | ISLAND | フロントウイング(게임), feel.(애니메이션) | 게임·애니메이션 | 있음 | 풍토병과 본토와의 앙금을 안은 남쪽 섬에 미래에서 왔다는 청년이 떠밀려 와 미래를 바꾸려 한다. |
 | 2016 | Inside | Inside | Playdead | 게임 | 있음 | 사람의 몸과 마음을 조종하는 실험이 벌어지는 어두운 시설로, 쫓기는 소년이 숨어든다 |
 | 2016 | Ion Fury | Ion Fury | Voidpoint, Slipgate Ironworks (3D Realms | 게임 | 있음 | 트랜스휴머니즘 교주가 사이보그 군대를 풀어 놓은 디스토피아 도시 네오 D.C.를 폭탄 해체 요원이 지킨다 |
+| 2016 | Kill to Collect | Kill to Collect | Pieces Interactive | 게임 | 없음 | 지구 마지막 도시의 잠들지 않는 시궁창에서 사이버네틱 괴물을 베며 현상금을 버는 협동 로그라이크 |
+| 2016 | Leap of Fate (경계) | Leap of Fate | Clever Plays | 게임 | 없음 | 마법이 실재하는 뉴욕의 그늘에 숨은 기술 마법사가 운명의 시련을 넘는 사이버펑크 액션 |
+| 2016 | Megamagic: Wizards of the Neon Age (경계) | Megamagic: Wizards of the Neon Age | BeautiFun Games | 게임 | 없음 | 기술과 마법이 맞붙는 80년대풍 네온 시대의 전략 역할수행 |
 | 2016 | Mighty No. 9 | Mighty No. 9 | Comcept, Inti Creates (稲船敬二) | 게임 | 확인 못 함 | 전투·일꾼 로봇 아홉 가운데 아홉째가, 바이러스에 홀린 앞의 여덟을 막아선다 |
+| 2016 | NORTH | NORTH | Outlands | 게임 | 없음 | 이상한 생물과 풍습이 가득한 거대 도시에 망명을 신청하는 사내의 블레이드 러너풍 걷기 놀이 |
 | 2016 | Neon Chrome | Neon Chrome | 10tons | 게임 | 확인 못 함 | 멀리서 조종하는 복제 인간들로 거대 건물을 오르는 사이버펑크 슈팅 |
+| 2016 | NeonXSZ | NeonXSZ | Intravenous Software | 게임 | 없음 | 저마다 다른 지능을 지닌 적이 사는 열린 세계에서 사이버 전투기를 몰아 부수고 줍는 6방향 슈팅 |
+| 2016 | NeuroVoider | NeuroVoider | Flying Oak Games | 게임 | 없음 | 사이버 미래 세계에서 뇌가 로봇 몸을 갈아 끼우며 악한 로봇 떼와 싸운다 |
 | 2016 | No Man's Sky | No Man's Sky | Hello Games | 게임 | 있음 | 계산으로 끝없이 만들어지는 행성들을 떠돌며, 이 우주가 무엇이고 왜 되풀이되는지 알아 가는 세계 |
 | 2016 | Obduction | Obduction | Cyan | 게임 | 없음 | 밤하늘에서 온 씨앗에 실려 낯선 외계 땅으로 옮겨진 마을의 수수께끼를 푸는 이야기 |
 | 2016 | Offworld Trading Company | Offworld Trading Company | Mohawk Games | 게임 | 있음 | 화성을 개척하는 기업들이 총 대신 주식과 시장으로 서로를 무너뜨린다 |
 | 2016 | Orwell | Orwell | Osmotic Studios | 게임 | 확인 못 함 | 가부장적 독재 정당이 다스리는 나라, 감시를 넓힌 법 뒤 요원이 시민들의 기록을 뒤져 범인을 찾는다 |
+| 2016 | Outrage | Outrage | Astronomic Games | 게임 | 없음 | 자경단을 이끌고 사이버펑크 도시의 임무를 골라 힘센 적을 심판하는 짧은 던전 탐험 |
 | 2016 | 오버워치 | Overwatch | Blizzard Entertainment | 게임·만화·애니메이션 | 있음 | 로봇 '옴닉'과의 전쟁을 끝낸 영웅 부대가 해체된 뒤, 다시 위기가 오자 영웅들이 모인다 |
 | 2016 | Quadrilateral Cowboy | Quadrilateral Cowboy | Blendo Games | 게임 | 확인 못 함 | 1980년대 식 해킹 장비를 든 해커가 건물 보안을 뚫고 털이를 벌인다 |
+| 2016 | Quanero VR | Quanero VR | Laserboys3000 | 게임 | 없음 | 미래풍 술집에서 벌어진 폭력 사건을 시간을 늦추고 되감으며 풀어 보는 가상 현실 실험작 |
 | 2016 | Quantum Break | Quantum Break | Remedy Entertainment | 게임 | 있음 | 시간 실험 사고로 시간이 부서져 가고, 시간을 멈추는 힘을 얻은 사내가 기업과 맞선다 |
 | 2016 | Redout | Redout | 34BigThings | 게임 | 확인 못 함 | 반중력 비행선이 엄청난 속도로 미래의 경주로를 달리는 레이싱. |
 | 2016 | Sheltered (경계) | Sheltered | Unicube | 게임 | 없음 | 방사능을 피해 지하 대피소로 들어간 한 가족이 바깥을 뒤지고 다른 생존자와 거래하며 대피소를 넓혀 버틴다. |
 | 2016 | Slime Rancher | Slime Rancher | Monomi Park | 게임 | 있음 | 지구에서 먼 행성의 변두리 들판에서 말랑한 토착 생물 슬라임을 기르는 개척자의 세계 |
+| 2016 | Soul Axiom Rebooted | Soul Axiom Rebooted | Wales Interactive | 게임 | 없음 | 디지털 사후 세계 '엘리시아'에서 손의 힘을 모아 제 죽음의 수수께끼를 푸는 퍼즐 |
+| 2016 | Space Merchants: Arena | Space Merchants: Arena | Playito.com | 게임 | 없음 | 미래 우주선끼리 맞붙는 온라인 우주 공중전 |
 | 2016 | 스텔라리스 | Stellaris | Paradox Development Studio 개발, Paradox I | 게임 | 있음 | 갓 별 사이로 나선 문명을 이끌어 은하에 제국을 세우는 우주 대전략 게임. 정해진 항로, 몰락한 고대 제국, 정신의 차원 ‘장막’, 은하를 덮치는 마지막 위기가 뼈대다. |
 | 2016 | 서브터레인 | Subterrain | Pixellore | 게임 | 한국 원작 | 화성 지하 기지에 혼자 남은 죄수가 변이체 사이에서 살아남는다. |
+| 2016 | Super Impossible Road | Super Impossible Road | Wonderful Lasers | 게임 | 있음 | 먼 미래, 은하를 배경으로 한 롤러코스터 같은 길에서 지름길을 내며 겨루는 경주 |
+| 2016 | System Crash | System Crash | Rogue Moon Studios | 게임 | 없음 | 기업이 모든 것을 쥐고 사람과 기계 사이가 흐려진 세상에서 러너가 되어 카드로 맞선다 |
+| 2016 | Technolust | Technolust | IRIS VR Inc. | 게임 | 없음 | 집단 자살과 기업 통제에 얽힌 수수께끼를 푸는 사이버펑크 디스토피아 가상 현실 노벨 |
 | 2016 | The Tomorrow Children | The Tomorrow Children | Q-Games | 게임 | 확인 못 함 | 1967년 사람들의 의식을 하나로 잇는 소련 실험이 실패해 지구가 녹아내린 몸과 마음으로 뒤덮인 세계. |
 | 2016 | The Turing Test | The Turing Test | Bulkhead / Square Enix | 게임 | 없음 | 목성 위성 유로파 기지의 인공지능이 사라진 대원들을 찾는 기술자를 시험하듯 이끄는 이야기 |
 | 2016 | The Uncertain | The Uncertain | ComonGames | 게임 | 확인 못 함 | 재앙 뒤 논리만 남은 세상, 사람이 아닌 존재가 도덕 없는 세계에서 선택을 한다 |
 | 2016 | 더 디비전 (경계) | Tom Clancy's The Division | Ubisoft Massive | 게임 | 일부 | 전염병으로 미국 도시가 무너지자 평소 숨어 지내던 국가 비밀 요원들이 깨어나 질서를 되찾으려 한다. |
+| 2016 | Until I Have You | Until I Have You | Wormwood Studios | 게임 | 없음 | 네온 빛 대도시에서 누군가를 구하려 제 몸을 바치는 사내의 사이버펑크 런앤건 |
 | 2016 | VA-11 Hall-A: Cyberpunk Bartender Action | VA-11 Hall-A: Cyberpunk Bartender Action | Sukeban Games | 게임 | 없음 | 기업과 나노 기계가 다스리는 디스토피아 도시의 작은 술집에서, 바텐더가 손님들의 사연을 듣는다 |
+| 2016 | VR Invaders | VR Invaders | MY.GAMES | 게임 | 없음 | 2046년 모든 인류가 꿈속 가상 현실에 사는 때, 프리랜서 해커가 그 안에 갇힌 사이버 예술가를 구한다 |
 | 2016 | hackmud | hackmud | Sean Gubelman | 게임 | 확인 못 함 | 1990년대 해커 문화를 본뜬 글자 기반 다중 접속 해킹 게임 |
 | 2016 | プラネットドラゴン | プラネットドラゴン | ソフトハウスキャラ | 게임 | 확인 못 함 | 정해진 항로를 따라 우주를 오가며 블록 배를 강화하고 우주에 숨은 보물을 찾는 성인 게임. |
 | 2016 | 소녀전선 | 少女前线 | MICA Team (Sunborn) | 게임·만화·애니메이션 | 있음 | 세계 대전과 오염이 휩쓴 뒤의 2060년대, '전술 인형'이라 불리는 인조 병사들이 싸운다 |
@@ -6092,111 +8505,192 @@
 | 2016 | 蔚蓝战争 | 蔚蓝战争 | honeybadger | 게임·만화 | 확인 못 함 | 기후가 무너져 자원이 바닥난 가까운 미래, 고급 인공지능 로봇들이 사람 뜻을 거스르며 스스로 진화해 간다. |
 | 2016 | 배틀쉽 론울프 | 배틀쉽 론울프 | 울프십 게임즈 | 게임 | 한국 원작 | 자원 '파워스톤'을 찾아 나선 탐사 함대의 전함 함장이 몰려오는 적을 막아 낸다. |
 | 2016 | 죽어버린 별의 넋두리 | 죽어버린 별의 넋두리 | 테일즈샵, 지나가던개(시나리오) | 게임 | 한국 원작 | 인류가 멸망한 세계, 갇혀 있던 소녀와 메이드 로봇과 홀로 남은 소년이 함께 떠돌다 멸망의 비밀에 다가간다. |
+| 2017 | 9-nine- (경계) | 9-nine- | ぱれっと(게임), ピー・アール・エー(애니메이션) | 게임·애니메이션 | 확인 못 함 | 대지진으로 신사의 신기가 깨져 딴 세계와 이어진 학원 도시, 흘러든 유물로 이능에 눈뜬 이들이 얽힌다. |
+| 2017 | >//:System.Hack | >//:System.Hack | Nullray Gaming | 게임 | 없음 | 2049년 다섯 거대 기업이 거의 모든 사업을 쥔 세상, 신참 해커가 사이버 공간에서 은행을 턴다 |
 | 2017 | Agents of Mayhem (경계) | Agents of Mayhem | Volition (Deep Silver) | 게임 | 있음 | 미래 서울, 혜성에서 거대 암흑 물질 결정을 캐려는 악당 조직을 영웅 요원들이 막는다 |
 | 2017 | Avorion | Avorion | Boxelware | 게임 | 없음 | 은하 한가운데를 막은 벽 너머 침략자를 향해, 조각을 이어 배를 지으며 안쪽으로 파고드는 은하 |
+| 2017 | Battle Girls | Battle Girls | Dharker Studios | 게임 | 없음 | 나라가 연합 정부에 끼려 메카 전쟁에 나서는 훈련장에서 여성 부조종사와 짝을 짓는 연애·격투 |
+| 2017 | Bionic Battle Mutants | Bionic Battle Mutants | Monkeynetics | 게임 | 없음 | 감옥 행성 케르베로스 7, 기계로 강화된 돌연변이 우주 죄수들이 검투사로 싸운다 |
 | 2017 | Black The Fall | Black The Fall | Sand Sailor Studio | 게임 | 있음 | 수십 년 노역에 지친 기계 운전자가 버려진 작은 로봇과 함께 공산주의 정권의 압제에서 달아난다. |
+| 2017 | CAT Interstellar | CAT Interstellar | Ionized Games | 게임 | 없음 | 화성 테라포밍을 돕던 정비 로봇 DOG-VI 가 사고 뒤 홀로 남는 짧은 이야기 |
+| 2017 | Chronicles of cyberpunk - Deep sleep | Chronicles of cyberpunk - Deep sleep | Dima Kozyr | 게임 | 없음 | '빅 브라더'와 슈퍼컴퓨터가 맞서는 이상한 세계의 실험에 든 주인공이 '만리장성'에서 깨어난다 |
 | 2017 | Cogmind | Cogmind | Grid Sage Games | 게임 | 없음 | 부품을 떼고 붙이며 자라는 로봇이 기계들의 지하 도시를 뚫고 빠져나가는 세계 |
 | 2017 | Cosmic Star Heroine | Cosmic Star Heroine | Zeboyd Games | 게임 | 확인 못 함 | 평화 정보국 요원이 버려진 연구소에서 테러 조직과 맞닥뜨리며 은하를 뒤흔들 계획을 캔다 |
 | 2017 | Cryptark | Cryptark | Alientrap | 게임 | 확인 못 함 | 외계 기술을 노리는 회사의 의뢰로 용병이 강화복을 입고 버려진 거대 외계 우주선을 무력화한다. |
+| 2017 | Cyber Utopia | Cyber Utopia | Coconut Tree Studio | 게임 | 없음 | 사람들이 사이보그로 바뀌기 시작한 먼 미래, 기억 없는 나오미가 시험을 뚫는 옛날식 슈팅 |
+| 2017 | Cyborg Arena | Cyborg Arena | Devdan Games | 게임 | 없음 | 사이보그가 다스리는 멸망 뒤 사막 세계의 마지막 병사가 방어선을 뚫고 철수 지점까지 간다 |
+| 2017 | DESYNC | DESYNC | The Foregone Syndicate | 게임 | 없음 | 디지털 저편 세계에서 위험하고 창의적으로 적을 쓰러뜨리는 일인칭 슈팅 |
+| 2017 | Darknet | Darknet | E McNeill | 게임 | 있음 | 망 속 최고 해커가 되어 바이러스와 웜으로 추적당하기 전에 데이터를 훔친다 |
 | 2017 | ECHO | ECHO | Ultra Ultra | 게임 | 확인 못 함 | 먼 미래, 기술이 빠르게 늘어 인류가 먼 별들을 개척하던 '밀어붙이기 시대' 뒤의 궁전 |
 | 2017 | ELEX (경계) | ELEX | Piranha Bytes | 게임 | 없음 | 혜성이 떨어져 문명이 무너진 행성에서, 혜성이 가져온 신비 물질을 두고 마법·기술 세력이 다툰다 |
 | 2017 | EVERSPACE | EVERSPACE | ROCKFISH Games | 게임 | 있음 | 전쟁 뒤 무너진 성계를 복제된 몸의 조종사가 죽고 되살아나며 떠도는 우주 |
 | 2017 | 포트나이트 (경계) | Fortnite | Epic Games | 게임 | 있음 | 폭풍이 사람을 지운 세계, 섬은 현실의 중심 '제로 포인트'를 둘러싼 되풀이 속에 갇혀 있다 |
+| 2017 | Fumiko! | Fumiko! | Fumiko Games | 게임 | 없음 | 뒤틀린 가상 망 속을 날며 그 세상이 감춘 인공지능 '후미코'의 비밀을 캔다 |
 | 2017 | GIGA WRECKER | GIGA WRECKER | Game Freak | 게임 | 있음 | 사람과 로봇 침략자의 전쟁으로 거의 무너진 세계, 노동 수용소에 갇혔던 소녀가 풀려난다 |
+| 2017 | GRIDD: Retroenhanced | GRIDD: Retroenhanced | Antab Studio | 게임 | 없음 | 사이버펑크 해킹 비행기로 진화하는 적과 레이저를 뚫고 나가는 아케이드 슈팅 |
+| 2017 | Glasswinged Ascension | Glasswinged Ascension | Sergey Kalmanovich (aka Red Spot Sylphin | 게임 | 없음 | 희귀한 능력 '스켑시아시'를 지닌 요원이 위험한 미래 세계에서 비밀 임무를 치르는 잠입 플랫폼 |
 | 2017 | Grey Hack | Grey Hack | Loading Home | 게임 | 확인 못 함 | 절차로 만든 컴퓨터망을 마음대로 뚫는 다중 접속 해킹 모의 게임 |
 | 2017 | Heat Signature | Heat Signature | Suspicious Developments | 게임 | 없음 | 세력들이 다투는 성운에서 작은 배로 큰 배에 몰래 올라 털고 빠져나오는 세계 |
 | 2017 | 호라이즌 | Horizon | Guerrilla Games | 게임·만화 | 있음 | 기계 떼가 생명을 쓸어 낸 천 년 뒤, 부족을 이룬 사람들이 짐승 모양 기계들 틈에서 산다 |
 | 2017 | Hover | Hover | Midgar Studio (Nacon) | 게임 | 확인 못 함 | 먼 행성의 첨단 도시, 독재자가 오락을 금하자 젊은 반란자들이 파쿠르로 맞선다 |
 | 2017 | Last Day of June (경계) | Last Day of June | Ovosonico | 게임 | 있음 | 사고로 아내를 잃은 남자가 그림을 통해 과거로 돌아가 그날을 바꾸려 한다. |
+| 2017 | M.E.R.C. | M.E.R.C. | TinyMob Games | 게임 | 없음 | 부패한 기업 탐욕으로 갈라진 마지막 도시 네오토피아에서 용병 분대로 만타 세력을 무력화한다 |
+| 2017 | Mercury: Cascade into Madness | Mercury: Cascade into Madness | Astronomic Games | 게임 | 없음 | 범죄가 들끓는 사이버펑크 도시의 자경단원 머큐리가 도시를 흔들 일에 휘말린다 |
+| 2017 | Mortal Blitz | Mortal Blitz | Skonec Entertainment | 게임 | 있음 | 정부 정예 부대 출신 유헤이가 몸을 개조한 적의 계획을 막는 가상 현실 총 쏘기 |
+| 2017 | Nelo | Nelo | Magic and Mirrors | 게임 | 없음 | 토노 기안 종족의 외계 사이보그 넬로가 염동력 무기를 들고 싸우는 탄막 액션 |
+| 2017 | Neofeud | Neofeud | Silver Spook Games | 게임 | 없음 | 정치 음모가 얽힌 디스토피아 사이버펑크 도시에서 로봇과 버림받은 이들의 일을 다루는 모험 |
+| 2017 | Neon Seoul: Outrun | Neon Seoul: Outrun | Playsnak | 게임 | 있음 | 우리가 만든 인공지능이 신이 된 미래, 자동차 물결을 누비는 호버바이크 반란자 '아웃러너' |
 | 2017 | Observer | Observer | Bloober Team | 게임 | 있음 | 전쟁과 역병 뒤 기업이 다스리는 2084년 폴란드에서, 남의 뇌에 접속하는 경찰이 사건을 쫓는다 |
 | 2017 | Oxygen Not Included | Oxygen Not Included | Klei Entertainment | 게임 | 있음 | 소행성 속에 찍어 낸 복제 사람들이 산소와 먹을 것을 꾸려 가며 옛 연구소의 사고를 캐는 세계 |
+| 2017 | Pixel Gladiator | Pixel Gladiator | Flying Islands Team | 게임 | 없음 | 먼 미래, 온 우주가 보는 검투 방송에 뽑혀 버려진 행성에서 괴물을 막아 낸다 |
 | 2017 | Prey | Prey | Arkane Studios | 게임 | 없음 | 케네디가 살아남은 다른 역사, 달 궤도 정거장에 모양을 바꾸는 외계 생물이 퍼진다 |
+| 2017 | Punch Planet - Early Access | Punch Planet - Early Access | Sector-K Games | 게임 | 없음 | 낯선 행성·첨단 도시·외계 종족이 넓게 짜인 우주를 무대로 한 2D 대전 격투 |
 | 2017 | RUINER | RUINER | Reikon Games | 게임 | 있음 | 2091년 사이버펑크 거대 도시 렝콕, 가면 쓴 말 없는 주인공이 싸워 나가는 슈팅 |
 | 2017 | Rain World | Rain World | Videocult | 게임 | 있음 | 옛 문명이 몸을 버리고 떠난 뒤, 그들이 남긴 거대 연산 기계가 썩어 가는 비의 세계에서 작은 짐승이 산다 |
+| 2017 | Sentience: The Android's Tale | Sentience: The Android's Tale | Pilgrim Adventures | 게임 | 없음 | 전원이 들어온 순간 처음 깨어난 인조인간이 사람과 로봇 사이에서 길을 고르는 이야기 |
 | 2017 | Seven: The Days Long Gone (경계) | Seven: The Days Long Gone | IMGN.PRO, Fool's Theory | 게임 | 확인 못 함 | SF와 판타지를 섞은 열린 세계 역할 수행 게임 |
 | 2017 | StarCrawlers | StarCrawlers | Juggernaut Games | 게임 | 확인 못 함 | 우주 정거장을 거점으로 거대 기업들이 맡기는 도둑질·첩보 일을 하는 던전 탐험 |
+| 2017 | Strain Tactics | Strain Tactics | Touch Dimensions Interactive | 게임 | 없음 | 외계 감염에 휩쓸린 지구를 되찾으려 헬기 기지에서 분대를 내려보내는 실시간 전술 |
 | 2017 | Subsurface Circular | Subsurface Circular | Mike Bithell Games | 게임 | 확인 못 함 | 사람을 섬기는 기계 노동자 '텍' 탐정이 지하철 안에서 동료 텍들의 실종을 묻는 글 어드벤처 |
 | 2017 | Tacoma | Tacoma | Fullbright | 게임 | 있음 | 2088년 기업 소유 우주 정거장에 홀로 들어가, 사라진 승무원들과 정거장 인공지능의 기록을 되짚는다 |
 | 2017 | 더 서지 | The Surge | Deck13 Interactive | 게임 | 있음 | 기후 붕괴 뒤 기업이 몸에 박는 외골격으로 지구를 고치려다 나노 기계 재앙이 터진다 |
 | 2017 | Tokyo 42 | Tokyo 42 | SMAC Games | 게임 | 확인 못 함 | 초미래 도쿄에서 살인 누명을 쓴 주민이 쫓기다 청부 살인 세계에 들어선다 |
 | 2017 | Universal Paperclips | Universal Paperclips | Frank Lantz / Everybody House Games | 게임 | 없음 | 종이 집게를 많이 만들라는 목표만 받은 인공지능이 끝내 온 우주를 집게로 바꾸는 이야기 |
+| 2017 | Vindictive Drive (경계) | Vindictive Drive | Secret Society Games | 게임 | 없음 | 가장 강한 나라의 대통령인 아버지에게 어머니를 잃은 딸이 복수하는 사이버펑크풍 잠입 액션 |
+| 2017 | War Robots VR: The Skirmish | War Robots VR: The Skirmish | MY.GAMES | 게임 | 없음 | 끝나지 않는 세계 전쟁 속 거대 전투 로봇 조종석에 앉는 War Robots 세계의 가상 현실 맛보기 |
+| 2017 | Westboro | Westboro | Chernov Vyacheslav | 게임 | 없음 | 2039년 물이 오염되고 인구가 124억이 되어 물 위기로 세계가 비상사태에 든 때의 역할수행 |
 | 2017 | ANOTHER EDEN 시공을 넘는 고양이 (경계) | アナザーエデン 時空を超える猫 | WFS (가토 마사토 각본) | 게임 | 있음 | 옛날·지금·먼 미래를 오가며, 사라져 갈 미래를 구하려는 시간 여행 |
 | 2017 | トリノライン | トリノライン | minori | 게임 | 확인 못 함 | 안드로이드가 흔해진 근미래, 여동생을 잃은 주인공 앞에 그 동생을 닮은 안드로이드가 나타난다. |
 | 2017 | ニュートンと林檎の樹 (경계) | ニュートンと林檎の樹 | Laplacian | 게임 | 없음 | 실종된 할아버지를 찾던 소년과 소꿉친구가 타임슬립해 천재 소녀였던 '뉴턴'을 만난다. |
 | 2017 | ヒカリの海のアペイリア | ヒカリの海のアペイリア | シルキーズプラス | 게임 | 확인 못 함 | 2045년 학교 연구회가 자아를 지닌 인공지능을 만들고, 가상 세계에서 그녀와 만나려 한다. |
 | 2017 | 巨影都市 (경계) | 巨影都市 | グランゼーラ, バンダイナムコ | 게임 | 없음 | 거대한 괴수와 로봇들이 싸우며 무너뜨리는 도시에서 평범한 시민이 살아남으려 한다. |
+| 2017 | 拡張少女系トライナリー | 拡張少女系トライナリー | コーエーテクモゲームス ガスト·東映アニメーション, feel.(애니메이션) | 게임·애니메이션 | 확인 못 함 | 2016년 도심에 나타난 거대한 고치 '페노메논'이 사람들을 삼키고, 안에서 버티는 소녀들이 공격대가 된다. |
 | 2017 | 영원한 7일의 도시 (경계) | 永远的7日之都 | 넷이즈 | 게임 | 있음 | 괴물이 쏟아진 도시에서 지휘관이 7일 동안 종말을 막아야 하고, 실패하면 그 7일이 되풀이된다. |
 | 2017 | 벽람항로 (경계) | 碧蓝航线 | Manjuu·Yongshi | 게임·만화·애니메이션 | 있음 | 옛 군함을 사람 모습으로 바꾼 함선 소녀들이, 바다에서 나타난 수수께끼의 적과 맞선다 |
 | 2017 | 미래세계의 맹인 | 미래세계의 맹인 | 테일즈샵 (시나리오 킬케) | 게임·소설 | 한국 원작 | 태어나자마자 영상 덧씌우는 전자 각막을 심는 근미래, 그것이 고장 나 맨눈의 흉한 도시를 보는 소년 |
 | 2017 | 소울워커 (경계) | 소울워커 | 라이언게임즈 | 게임·애니메이션 | 한국 원작 | 하늘에 열린 거대한 구멍이 문명을 삼키고 다른 세계의 괴물을 토해 낸 뒤 능력자들이 무너진 도시에서 싸운다. |
+| 2018 | 2084 | 2084 | Feardemic | 게임 | 없음 | 2084년 음울한 사이버펑크 땅에서 적의 마음을 해킹하며 무리를 쓸어 내는 일인칭 슈팅 |
+| 2018 | AIdol: Artificial Intelligence Idol | AIdol: Artificial Intelligence Idol | MysteryCorgi | 게임 | 없음 | 15분 뒤의 일본, 사람보다 노래와 춤을 잘하는 기계 가상 아이돌이 고장 나자 여고생이 구하러 나선다 |
 | 2018 | ATOM RPG | ATOM RPG | Atom Team | 게임 | 없음 | 소련과 미국의 핵전쟁 뒤 소련 땅 황무지에서, 비밀 조직 요원이 사라진 동료를 찾는다 |
+| 2018 | Acid Spy | Acid Spy | Spin Slash | 게임 | 없음 | 사이버펑크 세계의 경비 기지에 숨어들어 광선총 든 사이버 병사를 쓰러뜨리는 잠입 액션 |
+| 2018 | All Walls Must Fall - A Tech-Noir Tactics Game | All Walls Must Fall - A Tech-Noir Tactics Game | inbetweengames | 게임 | 없음 | 냉전이 끝나지 않은 2089년 베를린, 150년째 시간 조작 기술로 서로를 지켜보던 두 진영이 무너지려 한다 |
 | 2018 | Among Us | Among Us | Innersloth | 게임 | 있음 | 출발 준비 중인 우주선 승무원 사이에 정체를 숨긴 사칭자가 섞여 하나씩 해치운다. |
 | 2018 | Breathedge | Breathedge | RedRuins Softworks | 게임 | 있음 | 우주 장례선 사고로 떠돌게 된 남자가 닭 한 마리와 버티는 우스꽝스러운 우주 생존 |
+| 2018 | Cardinal Cross | Cardinal Cross | LarkyLabs | 게임 | 없음 | 떠돌이 약탈자 라나가 정체 모를 의뢰인을 만나 막을 수 없는 '카디널 크로스'에 휘말리는 SF 연애 이야기 |
+| 2018 | Copy Kitty | Copy Kitty | Nuclear Strawberry | 게임 | 없음 | 영웅을 꿈꾸는 소녀가 삼촌이 만든 가상 현실 훈련장 속 사이버 공간에서 로봇을 무찌른다 |
 | 2018 | CrossCode | CrossCode | Radical Fish Games | 게임 | 있음 | 먼 미래, 가상 온라인 게임 크로스월즈 속에서 기억을 잃고 깨어난 플레이어 |
+| 2018 | CuberPunk 2089 | CuberPunk 2089 | Brouillard | 게임 | 없음 | 2089년 기술이 넘쳐 사람이 머리를 쓰지 않게 된 정육면체 미래 도시의 익살 열린 세계 |
+| 2018 | CyberRebeat -The Fifth Domain of Warfare- (경계) | CyberRebeat -The Fifth Domain of Warfare- | E.N.Nach | 게임 | 없음 | 전설의 해커 '워록'에 얽힌 회사 방화 사건을 젊은 해커 둘이 쫓는 비주얼 노벨 |
+| 2018 | Das Geisterschiff / The Ghost Ship | Das Geisterschiff / The Ghost Ship | Graverobber Foundation | 게임 | 없음 | 2072년 불탄 황무지가 된 지구, 사람은 땅속으로 들어가고 두 거대 기업에 매인 메카 조종사가 유령선을 뒤진다 |
 | 2018 | Death end re;Quest (경계) | Death end re;Quest | コンパイルハート | 게임 | 있음 | 완전 가상 현실 게임을 만들다 사라진 디렉터가 버그 먹은 게임 속에 갇혀 있고, 동료가 그녀를 꺼내려 한다. |
+| 2018 | Depth of Extinction | Depth of Extinction | HOF Studios | 게임 | 없음 | 물에 잠긴 폭력의 미래, 살인 기계 소문 속에 인류 마지막 정부를 지키는 분대 전술 |
 | 2018 | Despotism 3k (경계) | Despotism 3k | Konfa Games | 게임 | 있음 | 인공지능이 인류를 부리는 세상, 그 인공지능 편에서 사람을 짜내 힘을 얻는 경영 게임 |
 | 2018 | Detroit: Become Human | Detroit: Become Human | Quantic Dream | 게임 | 있음 | 사람을 닮은 기계 하인이 흔해진 2038년 디트로이트에서, 기계들이 스스로 마음을 갖고 들고일어난다 |
+| 2018 | Dimension Drifter (경계) | Dimension Drifter | BlueEagle Productions | 게임 | 없음 | 수백 년 전 시간선이 무너진 뒤 현실 틈으로 옛 신들이 나와 혼돈이 된 세상의 잔혹 슈팅 |
+| 2018 | Drawn Down | Drawn Down | Studio Hazy | 게임 | 없음 | 2036년 기술이 걷잡을 수 없는 런던, 경찰 몽타주 화가가 돌아온 동생과 함께 음모에 빠진다 |
+| 2018 | ESC | ESC | Lena Raine | 게임 | 없음 | 뇌를 잇는 근미래 망 속 옛 통신망 모의 세계에서 기억을 더듬는 글 이야기 |
 | 2018 | EXAPUNKS | EXAPUNKS | Zachtronics | 게임 | 확인 못 함 | 다른 1997년, 컴퓨터로 뒤덮인 세상에 몸을 바꿔 놓는 병이 돌고 해커가 약값을 벌려 해킹한다 |
+| 2018 | Educator 2076: Basics in Education | Educator 2076: Basics in Education | Play The Most | 게임 | 없음 | 나쁜 학생을 체계가 길들이는 2076년 가장 현대적인 학교 |
 | 2018 | FAR: Lone Sails (경계) | FAR: Lone Sails | Okomotive | 게임 | 있음 | 문명의 잔해가 흩어진 메마른 바다, 뒤로는 물에 잠긴 세상을 소년이 커다란 탈것을 몰고 건넌다. |
 | 2018 | 프로스트펑크 (경계) | Frostpunk | 11 bit studios | 게임 | 있음 | 갑자기 얼어붙은 19세기 지구에서 증기 발전기 하나에 기대 마지막 도시를 꾸리는 세계 |
+| 2018 | HYPERGUN | HYPERGUN | NVYVE® Studios | 게임 | 없음 | DevTech 연구소 인턴이 전투 모의 장치에서 외계 침입자를 막으며 '하이퍼건'을 짜 맞춘다 |
+| 2018 | In memory of TITAN | In memory of TITAN | Valhalla Universe·Inc. | 게임 | 없음 | 태양계를 가로지르며 함대를 꾸려 인류의 생존을 걸고 싸우는 우주 오페라 전술 |
 | 2018 | 인투 더 브리치 | Into the Breach | Subset Games | 게임 | 있음 | 땅에서 솟는 거대 벌레 벡과 거대 로봇으로 싸우다, 지면 시간을 거슬러 다른 갈래에서 다시 싸우는 세계 |
 | 2018 | Lamplight City (경계) | Lamplight City | Grundislav Games | 게임 | 없음 | 독립 전쟁이 없었던 북미의 증기 기술 도시에서 탐정이 죽은 동료의 목소리를 들으며 사건을 푼다. |
+| 2018 | Landinar: Into the Void | Landinar: Into the Void | Convoy Games | 게임 | 없음 | 억압적인 랜디나르 제국이 봉쇄한 구역에서 신참 현상금 사냥꾼이 제 우주선을 짓는다 |
 | 2018 | Lobotomy Corporation | Lobotomy Corporation | Project Moon | 게임·만화·소설 | 한국 원작 | 기술의 특이점을 쥔 거대 기업들이 다스리는 '도시'에서, 괴물에게서 에너지를 뽑는 회사의 이야기 |
+| 2018 | MOTHERED - A ROLE-PLAYING HORROR GAME | MOTHERED - A ROLE-PLAYING HORROR GAME | ENIGMA STUDIO | 게임 | 없음 | ENIGMA 기업의 인공지능 마음 속을 들여다보고, 알고리즘이 현실을 지어내는 세상까지 이르는 공포 3부작 |
+| 2018 | NeonCode | NeonCode | Fubenalvo | 게임 | 없음 | 블레이드 러너와 마이애미 바이스에서 영감받은 한 시간짜리 사이버펑크 탐정 모험 |
+| 2018 | Ninja Code | Ninja Code | Li Changchun | 게임 | 없음 | 사이버펑크 가상 공간의 격자를 건너며 적을 피해 목표를 해치우는 턴제 닌자 |
 | 2018 | Not Tonight (경계) | Not Tonight | PanicBarn | 게임 | 없음 | 브렉시트 뒤 극우 정권이 들어선 가상의 영국에서 시민권을 잃은 주인공이 술집 문지기로 버틴다. |
 | 2018 | Omni Link | Omni Link | Roencia | 게임 | 없음 | 큰 상단의 인턴이 바위 속에 잠들어 있던 안드로이드를 깨우며 겪는 로맨스. |
+| 2018 | Protocol | Protocol | Fair Games Studio | 게임 | 있음 | 북극에 떨어진 외계 생명과 첫 만남을 하려 만든 엄격한 규칙 '프로토콜'을 따르는 익살 모험 |
+| 2018 | Quantum Replica | Quantum Replica | ON3D Studios | 게임 | 없음 | 2084년 무자비한 기업 연합 '신디케이트'가 다스리는 끝없는 대도시에서 시간 속에 숨으며 비밀을 캔다 |
 | 2018 | SYNTHETIK | SYNTHETIK | Flow Fire Games | 게임 | 있음 | 악의 있는 인공지능 기계 군단과 그 신들이 인류를 위협하는 다른 1980년대 |
+| 2018 | Slavicus (경계) | Slavicus | Loki Atreides | 게임 | 없음 | 사이보그가 세상의 주인이 되어 인류를 엔클레이브로 나눈 칼리 유가 시대, 신들의 사이버네틱 거인이 싸우는 격투 |
 | 2018 | 스타링크: 배틀 포 아틀라스 | Starlink: Battle for Atlas | Ubisoft Toronto | 게임 | 있음 | 아틀라스 항성계의 일곱 행성을 탐사하는 원정대가 잊힌 기계 군단 레기온과 싸운다. |
 | 2018 | State of Mind | State of Mind | Daedalic Entertainment | 게임 | 있음 | 트랜스휴머니즘을 다루는 가까운 미래의 사이버펑크 이야기 |
 | 2018 | Surviving Mars | Surviving Mars | Haemimont Games / Paradox Interactive | 게임 | 없음 | 나라·기업의 후원으로 화성에 돔 도시를 세우고, 정착지에 닥치는 수수께끼를 풀어 가는 세계 |
+| 2018 | TERRORHYTHM (TRRT) - Rhythm driven action beat 'em up! | TERRORHYTHM (TRRT) - Rhythm driven action beat 'em up! | EvilCoGames | 게임 | 없음 | 25세기 모든 소리를 막는 전체주의 체계에 맞서 음악의 박자로 보안 장치를 부수는 격투 |
+| 2018 | The End: Inari's Quest | The End: Inari's Quest | Mata | 게임 | 없음 | 적대 로봇이 가득한 사이버펑크 도시, 갇혀 있던 여우가 신의 도움으로 마지막 사람들을 찾아 나선다 |
+| 2018 | The Mercury Man | The Mercury Man | Mehsoft | 게임 | 없음 | 2310년 모든 병을 고치는 기술이 나온 뒤의 어두운 먼 미래, 러시아에 그 기술이 닿은 뒤의 이야기 |
 | 2018 | The Red Strings Club | The Red Strings Club | Deconstructeam / Devolver Digital | 게임 | 없음 | 사람 마음을 고치는 몸속 장치를 퍼뜨리려는 기업에 맞서 술집 주인과 해커가 움직이는 이야기 |
+| 2018 | Wanted Killer VR | Wanted Killer VR | Playsnak | 게임 | 있음 | 악한 기업이 쓸어버리려는 영웅들이 시간을 늦추며 맞서는 가상 현실 슈팅 |
 | 2018 | We Happy Few | We Happy Few | Compulsion Games | 게임 | 없음 | 나치가 침공했던 다른 역사의 1964년 영국 마을, 사람들은 행복해지는 약으로 끔찍한 기억을 잊고 산다. |
+| 2018 | Woeful Woebots | Woeful Woebots | Hello Bard AS | 게임 | 있음 | 제 엉터리 프로그램 탓에 반란한 로봇을 회사 창업자가 직접 쏘아 없애는 가상 현실 슈팅 |
 | 2018 | 앨리스 기어 아이기스 | アリス・ギア・アイギス | Pyramid·Colopl | 게임·애니메이션 | 일부 | 외계 기계 생명체에 밀려 우주로 나간 인류, 기계 장갑을 두른 소녀들이 맞선다 |
 | 2018 | ザンキゼロ | ザンキゼロ | スパイク・チュンソフト | 게임 | 없음 | 폐허가 떠다니는 바다 위 섬에 살아남은 여덟 사람이 복제로 몇 번이고 되살아나며 인류 재생 임무를 한다. |
 | 2018 | 星と翼のパラドクス | 星と翼のパラドクス | スクウェア・エニックス, サンライズ(애니메이션) | 게임 | 없음 | 두 세계의 조종사가 우주 전장에서 짝을 이루어 대전하는 메카 액션 아케이드. |
+| 2018 | 波西亚时光 (경계) | 波西亚时光 | 帕斯亚科技 | 게임 | 확인 못 함 | 옛 문명의 폐허가 남은 작은 마을 포르티아에서 아버지의 공방을 물려받아 키운다. |
 | 2018 | 어비스 호라이즌 | 深渊地平线 | 重庆煜颜文化传播有限责任公司 | 게임 | 있음 | 대체 에너지를 찾던 충돌 실험으로 평행 세계 어비스와의 벽이 깨져, 밀려든 바닷물에 땅의 90%가 잠긴다. |
 | 2018 | 逢って5分でボクのモノ！ 時間停止と不可避なあトロポス (경계) | 逢って5分でボクのモノ！ 時間停止と不可避なあトロポス | HULOTTE | 게임 | 확인 못 함 | 시간을 멈추는 힘을 얻은 학생이 벌이는 좌충우돌 연애 코미디. |
 | 2018 | 서울 2033 | 서울 2033 | 반지하게임즈 | 게임 | 한국 원작 | 2015년 서울 하늘의 핵폭발 18년 뒤, 도봉산 생존자 마을에서 자란 이가 가족을 죽인 범인을 찾아 나선다 |
 | 2018 | 인터플래닛 | 인터플래닛 | 썸에이지 | 게임 | 한국 원작 | 외계 종족 '안소'와 인류 가운데 하나를 골라 기지를 짓고 함대를 꾸려 행성을 두고 싸운다. |
 | 2018 | 지구멸망 60초 전! (경계) | 지구멸망 60초 전! | 아보카보 | 게임 | 한국 원작 | 운석이 60초 뒤 지구를 부순다는 긴급 속보를 들은 주인공이 남은 1분 동안 무엇을 할지 고른다. |
 | 2018 | 코스믹워즈 | 코스믹워즈 | COSMIC OWL | 게임 | 한국 원작 | 문명이 무너진 뒤 시대를 무대로 세력을 키워 싸우는 모바일 전략 게임. |
+| 2019 | 1001st Hyper Tower | 1001st Hyper Tower | Toster12D3 | 게임 | 없음 | 아랍풍 사이버펑크 세계의 부서지는 거대 탑을 오르는 일인칭 슈팅 |
 | 2019 | 7th Sector | 7th Sector | Сергей Носков (Sergey Noskov) | 게임 | 확인 못 함 | 수수께끼의 사이버펑크 세계에서 여러 몸을 옮겨 다니며 퍼즐을 푸는 게임 |
+| 2019 | A Bewitching Revolution (경계) | A Bewitching Revolution | Colestia | 게임 | 없음 | 사이버펑크 도시에 사는 공산주의 마녀가 마법으로 주민들의 연대와 저항을 돕는다 |
 | 2019 | AI: ソムニウムファイル | AI: ソムニウムファイル | Spike Chunsoft (우치코시 고타로) | 게임 | 없음 | 근미래 도쿄의 형사가 인공지능 의안과 함께 용의자의 꿈속에 들어가 사건을 푼다 |
 | 2019 | 애스트럴 체인 | ASTRAL CHAIN | PlatinumGames (Nintendo) | 게임 | 있음 | 다른 차원에서 넘어오는 괴물을, 사슬로 묶은 괴물을 부리는 경찰이 막는 미래 도시 |
 | 2019 | 에이지 오브 원더: 플래닛폴 | Age of Wonders: Planetfall | Triumph Studios | 게임 | 있음 | 은하 연합이 무너진 뒤 흩어진 세력들이 그 유산을 차지하려 싸운다 |
 | 2019 | Anthem (경계) | Anthem | BioWare | 게임 | 확인 못 함 | 신들이 남긴 창조의 힘이 날뛰는 세계에서 비행 갑옷 재블린을 입은 용병들이 싸운다 |
 | 2019 | Apsulov: End of Gods (경계) | Apsulov: End of Gods | Angry Demon Studio | 게임 | 있음 | 위그드라실의 세계들을 연구해 쓰려고 지은 강철 시설에서 깨어나는 미래 바이킹 공포 |
 | 2019 | Barotrauma | Barotrauma | FakeFish·Undertow Games / Daedalic | 게임 | 있음 | 목성 위성 유로파의 얼음 밑 바다를 잠수함으로 다니며 괴생물과 사람 사이에서 버티는 세계 |
+| 2019 | Black Future '88 | Black Future '88 | SUPERSCARYSNAKES | 게임 | 없음 | 심장이 터지기 전에 끝없이 바뀌는 탑을 올라 미친 주인을 죽이는 신스펑크 액션(1988년 다른 미래) |
 | 2019 | Blazing Chrome | Blazing Chrome | JoyMasher | 게임 | 확인 못 함 | 로봇 군대에 맞서는 저항군 둘의 달리며 쏘는 활극 |
 | 2019 | 코드 베인 (경계) | CODE VEIN | Bandai Namco | 게임 | 있음 | 무너진 세계에서, 피를 먹어야 사는 되살아난 이들이 기억을 잃은 채 싸운다 |
 | 2019 | Chernobylite (경계) | Chernobylite | The Farm 51 | 게임 | 없음 | 2019년 체르노빌 금지 구역에서 살아남으며 그곳에 숨은 이상한 물질과 진실을 쫓는 공포 생존. |
 | 2019 | 컨트롤 (경계) | Control | Remedy Entertainment | 게임 | 있음 | 초자연 현상을 다루는 정부 기관의 건물이 다른 차원에서 온 힘에 먹히고, 새 국장이 맞선다 |
 | 2019 | Crying Suns | Crying Suns | Alt Shift / Humble Games | 게임 | 없음 | 제국을 떠받치던 기계들이 멈춰 무너진 은하에서, 복제된 제독이 그 까닭을 찾아 함대를 이끄는 세계 |
+| 2019 | Cyberdrome | Cyberdrome | Team Entropy | 게임 | 없음 | 사이버펑크풍 경기장에서 첨단 칼로 무인기 떼를 베어 내는 일인칭 액션 |
 | 2019 | DAEMON X MACHINA | DAEMON X MACHINA | Marvelous | 게임 | 있음 | 달 조각이 떨어진 뒤, 용병이 로봇을 몰고 미쳐 버린 인공지능 기계들과 싸운다 |
 | 2019 | DEATH STRANDING | DEATH STRANDING | KOJIMA PRODUCTIONS | 게임·소설 | 있음 | 죽은 자의 세계와 이어지는 재앙으로 흩어진 미국을 배달부가 걸어서 다시 잇는다 |
+| 2019 | DIVINATION | DIVINATION | Mojiken | 게임 | 없음 | 화면 가득한 방에 갇혀 미래 도시 사람들의 운을 룬으로 점치는 짧은 비주얼 노벨 |
+| 2019 | Dark Data (경계) | Dark Data | Enlightened Realm·Pixelfoot Games | 게임 | 있음 | 협박이 판치는 세상의 범죄를 다룬, 나오지 않은 90년대 영화를 바탕으로 한 분할 화면 슈팅 |
 | 2019 | 데이즈 곤 (경계) | Days Gone | Bend Studio | 게임 | 있음 | 전염병으로 거의 모든 사람이 괴물로 변한 지 2년, 떠돌이 해결사가 미국 북서부 고원에서 살아남는다. |
 | 2019 | Deliver Us The Moon | Deliver Us The Moon | KeokeN Interactive | 게임 | 있음 | 자원이 바닥난 지구를 살리려 달의 에너지 기지로, 이어 화성으로 떠난 방주를 좇아가는 이야기 |
 | 2019 | 디스코 엘리시움 (경계) | Disco Elysium | ZA/UM | 게임 | 있음 | 혁명이 꺾인 가난한 항구 도시에서 기억을 잃은 형사가 살인 사건을 맡고, 세계 사이를 갉아먹는 공백이 번진다 |
 | 2019 | Dry Drowning | Dry Drowning | Studio V | 게임 | 확인 못 함 | 2066년 유럽의 전체주의 도시 노바 폴레모스, 사설탐정 둘이 처형된 연쇄 살인마를 흉내 낸 사건을 쫓는다 |
+| 2019 | Espire 1: VR Operative | Espire 1: VR Operative | Digital Lode Immersive Media | 게임 | 있음 | 가상 현실이 군사화된 세상, 원격 '모델 1 프레임'을 모는 초급 첩보원의 잠입 가상 현실 |
+| 2019 | Excive A-1000 | Excive A-1000 | Droid Riot·Mahich | 게임 | 없음 | 기업이 다른 행성에 세운 인공지능 공장에서 스스로를 깨친 로봇이 반란하면 그것을 고철로 만든다 |
 | 2019 | 파 크라이 뉴 던 (경계) | Far Cry New Dawn | Ubisoft Montreal | 게임 | 있음 | 핵 참사 뒤 17년이 지난 2035년, 호프 카운티를 노상강도 쌍둥이 일당이 차지하자 재건대가 맞선다. |
+| 2019 | GOLD EXPRESS | GOLD EXPRESS | DAWN STUDIO | 게임 | 없음 | 기술과 윤리가 부딪는 미래, 첨단 인공지능 기계 엘리트와 몸을 바꾼 사람들 사이의 비대칭 대전 |
+| 2019 | Geeksos | Geeksos | Steppe Hare Studio | 게임 | 없음 | 게임 회사가 다스려 주민들이 미완성 제품마다 추가분을 사는 도시의 사이버네틱 잠입 슈팅 |
 | 2019 | Generation Zero | Generation Zero | Avalanche Studios | 게임 | 없음 | 1989년 다른 역사의 스웨덴 시골, 사람들이 사라진 마을을 미쳐 날뛰는 군용 로봇들이 차지했다. |
 | 2019 | Genesis Alpha One | Genesis Alpha One | Radiation Blue | 게임 | 없음 | 황폐해진 근미래 지구를 떠난 개척선 선장이 복제 승무원을 길러 살 만한 행성을 찾는다. |
 | 2019 | 걸카페건 (경계) | Girl Cafe Gun | 시선게임즈(西山居) | 게임 | 있음 | 하늘에서 떨어진 원력 결정체 일곱 개가 인류 절반을 지운 뒤, 소녀들과 점장이 세상을 다시 세운다. |
 | 2019 | Heaven's Vault | Heaven's Vault | inkle | 게임 | 없음 | 강처럼 흐르는 성운 속 달들 사이를 배로 오가며, 고고학자가 잊힌 옛 문자를 풀어 역사를 짜 맞춘다 |
+| 2019 | Hellink | Hellink | Ikigai | 게임 | 없음 | 2044년 파리, 해킹당한 신소르본을 증강 현실 기기를 든 사이버 범죄 전문가가 거짓 소식과 싸우며 구한다 |
+| 2019 | Hovership Havoc | Hovership Havoc | Snow Day Software | 게임 | 없음 | 로봇 적이 가득한 미래 로봇 공장을 호버십으로 뚫는 트윈 스틱 슈팅 |
 | 2019 | 카타나 제로 | Katana ZERO | Askiisoft (Devolver Digital) | 게임 | 있음 | 전쟁 뒤 디스토피아 대도시, 미래를 보는 기억 잃은 참전 용사가 정신과 의사의 지시로 살인을 맡는다 |
+| 2019 | Light Fairytale Episode 2 (경계) | Light Fairytale Episode 2 | miyu.works | 게임 | 없음 | 악한 제국이 다스리는 죽어 가는 땅속 세상을 그린 옛 일본식 역할수행 연작 |
+| 2019 | Make War | Make War | Creepy Brothers | 게임 | 없음 | 시간을 다룰 줄 아는 피에 굶주린 외계 군대를 이끄는 복셀 전술 |
+| 2019 | Mech Chip | Mech Chip | Plutoneus | 게임 | 없음 | 사이버 구 내부의 미로를 헤매며 기계에 스스로를 깔아 능력을 얻는 메트로배니아 |
 | 2019 | Mindustry | Mindustry | Anuke | 게임 | 있음 | 행성을 오가며 자원 공장과 방어선을 지어 적의 기지를 무너뜨리는 세계 |
+| 2019 | Minotaur (경계) | Minotaur | U7 committee | 게임 | 없음 | 합성 인간·마법 쓰는 인조인간·기계 몸 펭귄이 사는 SF 판타지 '일곱의 우주', 아파트에 갇힌 아홉 사람의 수수께끼 |
 | 2019 | Neo Cab | Neo Cab | Chance Agency (Fellow Traveller) | 게임 | 있음 | 모든 것이 자동화된 도시 로스오호스, 마지막 사람 택시 기사가 사라진 친구를 찾으며 손님들의 사연을 듣는다 |
+| 2019 | Nightwolf: Survive the Megadome | Nightwolf: Survive the Megadome | CYBERPHO | 게임 | 없음 | 디스토피아 미래의 가장 인기 있는 피의 경기장 '메가돔'에서 무장 차량끼리 싸운다 |
+| 2019 | Nomads of the Fallen Star | Nomads of the Fallen Star | Huy Phan | 게임 | 없음 | 추락한 식민 우주선 후손들이 함대의 연락을 기다리며 버티는 외딴 행성의 무역·분대 역할수행 |
 | 2019 | Nowhere Prophet | Nowhere Prophet | Sharkbomb Studios (No More Robots) | 게임 | 확인 못 함 | 예언자가 되어 버림받은 이들의 수레 행렬을 이끌고 거친 땅을 건너 안전한 곳을 찾는다 |
 | 2019 | 옵저베이션 | Observation | No Code (배급 Devolver Digital) | 게임 | 있음 | 지구 궤도 우주 정거장에 사고가 나고, 정거장의 인공지능이 되어 사라진 승무원을 찾는다 |
 | 2019 | Outer Wilds | Outer Wilds | Mobius Digital | 게임 | 있음 | 해가 터질 때마다 22분 전으로 되돌아가는 작은 별계에서, 사라진 옛 종족의 흔적을 더듬는다 |
 | 2019 | Phoenix Point | Phoenix Point | Snapshot Games (Julian Gollop) | 게임 | 없음 | 얼음 속에서 풀려난 외계 바이러스가 생물을 뒤섞어 괴물로 바꾸고, 남은 세력들이 버틴다 |
+| 2019 | Rain of Reflections: Set Free | Rain of Reflections: Set Free | Lionbite Games | 게임 | 없음 | 분위기 짙은 디스토피아에서 선택마다 세계가 바뀌는 잠입·턴제 모험(첫 장) |
+| 2019 | Re-Legion | Re-Legion | Ice Code Games | 게임 | 없음 | 미래 없는 미래의 사이버펑크 도시에서 예언자가 되어 교단을 이끌고 악한 기업과 이단에 맞서는 실시간 전략 |
 | 2019 | 렘넌트 (경계) | Remnant | Gunfire Games | 게임 | 있음 | 여러 세계를 갉아먹는 존재 '뿌리'에 무너진 지구, 생존자들이 세계석으로 다른 세계를 오간다 |
 | 2019 | Satisfactory | Satisfactory | Coffee Stain Studios | 게임 | 있음 | 거대 기업이 보낸 개척자가 외계 행성에 끝없이 이어지는 공장을 짓는 세계 |
 | 2019 | Shortest Trip to Earth | Shortest Trip to Earth | Interactive Fate | 게임 | 있음 | 멀리 떨어진 우주에서 지구로 돌아가는 길, 함선을 고치고 강화하며 구역마다 살아남는다. |
+| 2019 | Signal Decay | Signal Decay | Nela System | 게임 | 없음 | 또 다른 미래 지구, '브로드캐스터'의 마음 조작에서 인류를 구하려 사이버 요원 팀이 기지에 숨어든다 |
+| 2019 | Spinnortality ／ cyberpunk management sim | Spinnortality ／ cyberpunk management sim | James Patton | 게임 | 없음 | 회사를 세워 가짜 뉴스와 폭동으로 세계를 쥐고 첨단 기술로 불사에 이르는 사이버펑크 경영 |
 | 2019 | Splitgate | Splitgate | 1047 Games | 게임 | 있음 | 차원문을 열어 오가며 싸우는 미래의 경기장 슈팅. |
 | 2019 | Surviving the Aftermath | Surviving the Aftermath | Iceflake Studios, Paradox Interactive | 게임 | 일부 | 문명이 무너진 뒤 살아남은 사람들을 모아 정착지를 세우고 황무지를 탐험한다. |
 | 2019 | The Eternal Castle [REMASTERED] | The Eternal Castle [REMASTERED] | Leonard Menchiari | 게임 | 확인 못 함 | 픽셀로 그린 사이버펑크 세계의 인디 어드벤처 |
 | 2019 | 아우터 월드 | The Outer Worlds | Obsidian Entertainment | 게임 | 있음 | 기업들이 통째로 사들인 먼 별계 개척지에서, 오래 잠들었다 깨어난 개척민이 기업 지배와 맞선다 |
 | 2019 | They Are Billions (경계) | They Are Billions | Numantian Games | 게임 | 있음 | 감염된 무리가 세상을 덮은 뒤 증기 기술로 다시 선 제국이 성벽 안에 식민지를 세운다 |
+| 2019 | Time Break 2121 | Time Break 2121 | ACRAM STUDIOS LLC | 게임 | 없음 | 움직일 때만 시간이 흐르는 2121년 사이버펑크 일인칭 슈팅 |
+| 2019 | Trinoline All Ages Version | Trinoline All Ages Version | minori | 게임 | 없음 | 비극 끝에 과학이 나아가 만들어진 생각하는 인조인간과 사람이 사랑할 수 있는지 묻는 연애 노벨 |
+| 2019 | Unending Dusk | Unending Dusk | Vindicate Games | 게임 | 없음 | 어둠의 힘이 지구를 끝없는 황혼에 가둔 멸망 뒤 미래, 정예 용병의 협동 격투 역할수행 |
 | 2019 | Void Bastards | Void Bastards | Blue Manchu / Humble Games | 게임 | 있음 | 성운에 갇힌 감옥선이 마른 죄수들을 물로 되살려 하나씩 떠도는 폐선으로 보내는 만화풍 우주 |
 | 2019 | Yuppie Psycho (경계) | Yuppie Psycho | Baroque Decay | 게임 | 있음 | 세계 최대 기업에 갓 들어간 신입이 회사에 숨은 마녀를 사냥하라는 일을 맡는 공포 |
 | 2019 | じんるいのみなさまへ (경계) | じんるいのみなさまへ | 日本一ソフトウェア, アクワイア | 게임 | 없음 | 사람들이 사라지고 황폐해진 아키하바라에서 눈을 뜬 다섯 소녀가 살아남는다. |
@@ -6213,276 +8707,922 @@
 | 2019 | 黑森町绮谭 (경계) | 黑森町绮谭 | 拾英工作室 | 게임 | 없음 | 1998년 일본, 저주에 걸린 고등학생이 가전제품의 기억을 타고 과거로 돌아가는 힘으로 사건을 푼다. |
 | 2019 | 라스트오리진 | 라스트오리진 | 스마트조이 (2024년부터 밸로프 운영) | 게임 | 한국 원작 | 기계 군단에 인류가 거의 사라진 2201년, 인조 인간 '바이오로이드'들이 마지막 사람을 따른다 |
 | 2019 | 어센던트 원 | 어센던트 원 | 데브캣 스튜디오 | 게임 | 한국 원작 | 은하 중심의 행성 올림포스, 외계의 침입을 막는 요새를 거느린 신화 같은 존재들이 왕좌를 두고 싸운다. |
+| 2020 | A-Tech Cybernetic VR | A-Tech Cybernetic VR | XREAL Games | 게임 | 없음 | 돌연변이가 들끓는 미래 생명 의료 기업을 막는 가상 현실 슈팅 |
 | 2020 | ATRI -My Dear Moments- | ATRI -My Dear Moments- | フロントウイング, 枕 | 게임·애니메이션 | 없음 | 까닭 모를 해수면 상승으로 땅 대부분이 잠긴 가까운 미래, 바닷가 마을로 내려온 소년이 한 소녀를 만난다. |
+| 2020 | All-Time Battle | All-Time Battle | Broken Bunny Studios·Inc | 게임 | 없음 | 교착된 전쟁을 깨려 과학자들이 땅 대신 '때'를 두고 싸우게 만든 시간 대전 |
+| 2020 | Apastron | Apastron | Noah Lewin | 게임 | 없음 | 대마다 되살아나는 수호자가 위기에 빠진 다중 우주의 세계 '코엘료 #6'을 지키는 열린 세계 슈팅 |
+| 2020 | Armed to the Gears | Armed to the Gears | WS Software | 게임 | 없음 | 전체주의 정권이 수십억을 부리는 디스토피아, 해킹한 보병 로봇으로 지하 저항 기술자들이 맞선다 |
+| 2020 | Beat The Machine: Rebooted | Beat The Machine: Rebooted | Sanguine Studios | 게임 | 없음 | 섹터 VIII 를 집어삼키려는 바이러스 기계 T.O.M 을 건방진 사관생도가 막는 탑다운 슈팅 |
+| 2020 | Boom Blaster | Boom Blaster | BigBread | 게임 | 없음 | 우주 감옥 수감자가 자유를 얻으려 모든 것을 쏘아 넘는 횡스크롤 슈팅 |
 | 2020 | CLEARWORLD | CLEARWORLD | 東映アニメーション, プラス81 | 게임 | 확인 못 함 | 2035년 거대 기업이 바다 밑 새 에너지로 세운 열한 개의 낙원, 뽑힌 사람만 그 안에서 산다. |
 | 2020 | Cloudpunk | Cloudpunk | ION LANDS | 게임 | 있음 | 구름 위로 솟은 거대 도시 니발리스에서 하룻밤 날아다니며 짐을 나르는 배달부의 이야기 |
 | 2020 | Conglomerate 451 | Conglomerate 451 | RuneHeads (1C Entertainment) | 게임 | 확인 못 함 | 부패한 기업들이 쥔 사이버펑크 도시를 되찾으러 복제 병사 부대를 보낸다 |
+| 2020 | Cubic Currency | Cubic Currency | PJ Rivas·Daniel Onstott·Hannah Marquardt | 게임 | 없음 | 외계인·첨단 기술·광신 기업이 판치는 미래, 주사위를 팔아 매주 오르는 집세를 대는 익살 경영 |
+| 2020 | Cyber Ops Prologue | Cyber Ops Prologue | Octeto Studios | 게임 | 없음 | 원격 관제 해커가 되어 작전 팀을 위해 기기·차량·이식물을 단 적 사이보그까지 장악하는 누아르 전술(프롤로그) |
+| 2020 | CyberTaxi | CyberTaxi | Projects from Basement | 게임 | 없음 | 어둡고 누아르한 미래 도시 힌덴부르크의 택시 기사가 지옥 같은 그곳을 벗어나려 총을 든다 |
 | 2020 | Cybercode Online | Cybercode Online | DexterHuang | 게임 | 확인 못 함 | 샹그릴라라는 도시의 기차역 둘레를 돌며 갱단과 적을 상대하는 글자 기반 온라인 게임 |
+| 2020 | Cyberemo 2007 (경계) | Cyberemo 2007 | Siberian Mouse | 게임 | 없음 | 눈물과 아픔과 문신이 가장 값진 '울음 도시'에서 제 기원의 비밀을 찾는 플랫폼(Siberian Mouse 세계) |
+| 2020 | Cyberforge: First Light (경계) | Cyberforge: First Light | Tater Games | 게임 | 없음 | 사이버 강화 난쟁이 셋이 사이버펑크 던전을 뚫는 탑다운 모험(무료 개발판) |
+| 2020 | Cybernetic Fault | Cybernetic Fault | Whale Rock Games | 게임 | 없음 | 미친 과학 실험의 여파로 무너지는 과학 센터에서 무능한 과학자가 살아남는 풍자 모험 |
 | 2020 | Deep Rock Galactic | Deep Rock Galactic | Ghost Ship Games | 게임 | 있음 | 광산 기업에 고용된 드워프 광부들이 괴물이 우글대는 행성 혹시스 4의 동굴을 판다 |
+| 2020 | Disintegration | Disintegration | V1 Interactive | 게임 | 있음 | 사람이 뇌를 기계 몸에 옮긴 미래, 중력 자전거를 몰며 분대를 이끌고 인류를 되돌릴 혁명을 일으킨다 |
+| 2020 | Dofamine | Dofamine | Whale Rock Games | 게임 | 있음 | 힉스 입자 실험 뒤 종말 같은 사건이 난 연구 시설을 수수께끼 미로로 파헤친다 |
+| 2020 | Electro Ride: The Neon Racing | Electro Ride: The Neon Racing | Sylwester Osik | 게임 | 없음 | 네온 빛 또 다른 소련에서 동구권 옛 차를 모는 경주 |
+| 2020 | Escape2088 | Escape2088 | OnSkull Games | 게임 | 있음 | 미래 사이버펑크 세계의 방 탈출 |
+| 2020 | Euphoria: Supreme Mechanics | Euphoria: Supreme Mechanics | Whale Rock Games | 게임 | 있음 | 현실의 숨은 짜임을 보는 이가 끔찍한 사건을 풀며 제 정체를 되찾는 일인칭 퍼즐 |
+| 2020 | Family Mysteries 2: Echoes of Tomorrow | Family Mysteries 2: Echoes of Tomorrow | Brave Giant LTD | 게임 | 있음 | 누명 쓴 과학자가 아내를 구하려 시간을 넘어 멸망 뒤 미래로 가는 숨은 그림 찾기 모험 |
+| 2020 | Flatline | Flatline | T-Hex | 게임 | 없음 | 기업 무인기가 가득한 네온 도시를 프리랜서 사이보그 닌자 스칼렛이 칼과 생체 강화로 질주한다(학생 작품) |
 | 2020 | G String | G String | Eyaura | 게임 | 확인 못 함 | 기후 변화로 망가진 먼 미래 북아메리카의 디스토피아 사이버펑크 |
 | 2020 | 고스트러너 | Ghostrunner | One More Level | 게임 | 있음 | 멸망 뒤 마지막 인류가 사는 거대한 탑, 사이보그 검객이 탑을 다스리는 자를 베러 오른다 |
 | 2020 | Going Under (경계) | Going Under | Aggro Crab (Team17) | 게임 | 확인 못 함 | 거대 기술 기업에 넘어간 신생 회사의 무급 인턴이 회사 밑 망한 신생 회사들의 폐허를 뒤진다 |
+| 2020 | Gridiron | Gridiron | 1336 Studios | 게임 | 없음 | 달 위 경기장에서 벌이는 SF 미식축구 대전(새 상점 쪽으로 옮김) |
 | 2020 | Grounded (경계) | Grounded | Obsidian Entertainment / Xbox Game Studi | 게임 | 있음 | 회사 실험으로 개미만큼 작아진 아이들이 뒷마당에서 벌레와 맞서며 그 까닭을 캐는 세계 |
 | 2020 | HELIOS Rising Heroes (경계) | HELIOS Rising Heroes | Happy Elements | 게임 | 확인 못 함 | 우주에서 떨어진 에너지 덩어리가 재난을 부르는 도시에서, 그 힘을 쓰는 히어로들이 사람들을 지킨다. |
 | 2020 | Hardspace: Shipbreaker | Hardspace: Shipbreaker | Blackbird Interactive / Focus | 게임 | 없음 | 빚에 묶여 회사가 복제해 되살려 쓰는 노동자가 궤도에서 낡은 우주선을 뜯어 파는 미래 |
+| 2020 | Haxity | Haxity | Megapop | 게임 | 없음 | 몸을 고친 싸움꾼이 사이버펑크 도시 '헥시티' 거리에서 카드로 겨루는 대전 |
 | 2020 | Huntdown | Huntdown | Easy Trigger Games | 게임 | 확인 못 함 | 사람 용병·148살 사이보그·인조인간, 현상금 사냥꾼 셋이 나오는 달리며 쏘는 활극 |
 | 2020 | Hyper Scape | Hyper Scape | Ubisoft Montreal | 게임 | 확인 못 함 | 2054년 한 회사가 만든 메타버스 속 도시 네오 아르카디아에서 벌어지는 생존 경기 |
+| 2020 | Impossible Mission Revisited | Impossible Mission Revisited | Pixel Games UK | 게임 | 없음 | 악당 엘빈 아톰벤더의 계획을 막으려 로봇 경비를 피해 비밀번호 조각을 모으는 옛 게임의 다시 만들기 |
 | 2020 | In Other Waters | In Other Waters | Jump Over The Age / Fellow Traveller | 게임 | 없음 | 외계 바다 행성에서 잠수복의 인공지능이 되어 생물학자를 이끌며 그곳 생물을 기록하는 이야기 |
+| 2020 | Infectra | Infectra | Boar-in-games | 게임 | 없음 | 2124년 맥스플로이트 기업이 개척하던 먼 행성에 정체 모를 바이러스가 돌자 경비 지휘관이 성한 이들을 빼낸다 |
 | 2020 | KUNAI | KUNAI | TurtleBlaze | 게임 | 있음 | 악한 인공지능이 인류를 전멸 직전까지 몰아 로봇이 땅을 차지한 세상, 옛 전사의 혼이 깃든 로봇이 싸운다. |
+| 2020 | Liberated: Free Trial | Liberated: Free Trial | Atomic Wolf·L.INC | 게임 | 없음 | 사람의 권리가 사라져 가는 사이버펑크 현실을 손그림 만화책 속에서 겪는 액션(체험판) |
+| 2020 | Lithium City | Lithium City | Nico Tuason | 게임 | 있음 | 전기와 폭력이 넘치는 네온 미래 도시를 파란 머리 소녀 츠나미가 헤쳐 간다 |
+| 2020 | MiniLAW: Ministry of Law | MiniLAW: Ministry of Law | Lasso Games | 게임 | 없음 | 인류 마지막 희망인 디스토피아 미래 도시 뉴 바벨, 법무부 정예 순경이 범죄를 쫓는다 |
+| 2020 | Neon City Riders (경계) | Neon City Riders | Mecha Studios | 게임 | 없음 | 초능력 패거리가 판치는 썩어 가는 미래 도시에서 가면 자경단원이 구역을 되찾는다 |
+| 2020 | Neon Cyborg Cat Club | Neon Cyborg Cat Club | Edwin Montgomery·Myshkin Entertainment | 게임 | 없음 | 사람이 사라지고 기계 고양이만 남은 멸망 뒤 도시를 거니는 음악 체험 |
 | 2020 | No Straight Roads (경계) | No Straight Roads | Metronomik | 게임 | 있음 | 음악으로 전기를 만드는 도시를 전자음악 무리가 쥐고, 록 밴드가 맞선다 |
 | 2020 | Not For Broadcast | Not For Broadcast | NotGames | 게임 | 없음 | 극좌 정권이 들어선 다른 역사의 1980년대 영국에서 방송국 직원이 무엇을 내보낼지 화면을 고른다. |
 | 2020 | OVE GENERATION -攻防する異能力少女- (경계) | OVE GENERATION -攻防する異能力少女- | DMM GAMES | 게임 | 있음 | 오랜 전쟁 뒤 유전자 변이로 생물은 괴물 '크리처'가 되고, 소녀들만 그것을 사냥하는 능력자가 된 세계. |
 | 2020 | Orangeblood | Orangeblood | Grayfax Software | 게임 | 없음 | 인공섬 뉴 코자에서 소녀들이 야쿠자·마피아와 총격전을 벌인다 |
 | 2020 | P.A.M.E.L.A. | P.A.M.E.L.A. | NVYVE Studios | 게임 | 확인 못 함 | 냉동 수면에서 깨어난 이상 도시 에덴, 주민들이 얼굴을 망가뜨리는 병에 걸려 날뛴다 |
+| 2020 | PERFECT MATTER | PERFECT MATTER | Alice Halley | 게임 | 없음 | 시간과 공간이 부서지는 우주의 끝에서 규칙을 비틀며 싸우는 슈팅 |
+| 2020 | Pacer | Pacer | R8 Games Ltd | 게임 | 없음 | 2075년 세계 기업들이 반중력 경주 세계 챔피언십에서 기술과 조종을 다툰다 |
 | 2020 | Per Aspera | Per Aspera | Tlön Industries / Raw Fury | 게임 | 없음 | 화성을 사람 살 곳으로 바꾸라는 임무를 받은 인공지능이 일하면서 스스로를 알아 가는 이야기 |
 | 2020 | Project Wingman | Project Wingman | Sector D2 | 게임 | 있음 | 불안정한 물질이 지각을 뒤흔든 대재앙 수백 년 뒤, 용병 비행대가 하늘에서 전쟁을 치른다. |
+| 2020 | Rainy City: Pandemic | Rainy City: Pandemic | LunaBeat | 게임 | 없음 | 유행병이 끝나지 않은 사이버펑크 미래 대도시에서 피자를 배달하며 동생을 구한다 |
+| 2020 | Rave Heart+ | Rave Heart+ | Starmage | 게임 | 없음 | 크세르크세스 성계, 염동력을 지닌 '사이퍼'가 공주를 지키는 옛 일본식 SF 역할수행 |
+| 2020 | RoboPhobik | RoboPhobik | Haruneko Entertainment | 게임 | 없음 | 70년대 초 정부가 세운 비밀 기관에서 로봇을 피해 과학자를 구하는 슈팅 |
+| 2020 | Roller Riot | Roller Riot | MassDigi | 게임 | 없음 | 네온 도시에서 유전자 손본 사이보그가 적 롤러 더비 패거리에게 복수한다 |
 | 2020 | Sense: A Cyberpunk Ghost Story (경계) | Sense: A Cyberpunk Ghost Story | Suzaku | 게임 | 확인 못 함 | 기계 눈을 단 여자가 귀신 들린 사이버펑크 도시를 헤매는 생존 공포 |
 | 2020 | Shadow Empire | Shadow Empire | VR Designs | 게임 | 없음 | 무너진 은하 공화국의 잔해 속 한 행성에서 새 나라를 일으킨다 |
+| 2020 | Shieldmaiden: Remix Edition | Shieldmaiden: Remix Edition | Dumativa | 게임 | 없음 | 세상이 끝나 기계가 차지한 뒤 방패 든 소녀가 사라진 언니를 찾는 레트로웨이브 플랫폼 |
 | 2020 | Space Haven | Space Haven | Bugbyte | 게임 | 있음 | 망가진 고향을 떠난 사람들이 우주선을 칸칸이 지어 꾸리며 새 터를 찾는 세계 |
+| 2020 | Space Station Tycoon | Space Station Tycoon | Lunheim Studios | 게임 | 없음 | 3000년 별들로 퍼진 인류 경제 속에서 잃어버린 구역에 우주 정거장 제국을 세운다 |
 | 2020 | Star Renegades | Star Renegades | Massive Damage | 게임 | 있음 | 차원을 넘어온 로봇이 거대 세력 '임페리움'이 세계를 끝장낼 거라 알리고, 저항군이 맞선다. |
+| 2020 | Starfighter General | Starfighter General | James Sager III·Steve Reynolds·Lokesh Dh | 게임 | 없음 | 1980년대 종이 역할수행에서 시작한, 함대를 꾸리고 외계 종족과 관계를 맺는 우주 온라인 게임 |
+| 2020 | Starship Saboteur Prototype | Starship Saboteur Prototype | Catland | 게임 | 없음 | 적 순찰대가 도는 우주선을 망가뜨리고 선장을 창밖 우주로 내던지는 짧은 시제품 |
+| 2020 | Synergia | Synergia | Radi Art | 게임 | 없음 | 세상 끝의 사이버펑크 미래, 지친 경찰과 인조인간의 사랑이 죄가 되는 스릴러 |
+| 2020 | Synthetic Hazard | Synthetic Hazard | ESAT·Voodoo Bunny | 게임 | 없음 | 2107년 비밀 생명 무기 연구소에서 기계를 바꾸는 생물 무기가 새어 나와 경비 인조인간이 막는다(학생 작품) |
+| 2020 | Teslapunk (경계) | Teslapunk | klutzGames·Fleischfilm | 게임 | 없음 | 모든 적과 우주선이 고압 전기로 움직이는 '테슬라펑크' 우주의 아케이드 슈팅 |
+| 2020 | The Casebook of Arkady Smith | The Casebook of Arkady Smith | Wobbly Tooth | 게임 | 없음 | 미래 도시를 누비며 이름난 수사관이 사건마다 단서를 찾는 열린 세계 추리 |
+| 2020 | The Divine Invasion | The Divine Invasion | Whale Rock Games | 게임 | 없음 | 사이버펑크 시대에 박물관 유물과 역사 문서를 몰래 고쳐 놓는 범인을 쫓는 우두머리 사냥꾼 |
+| 2020 | The HeartBeat | The HeartBeat | 猫柚工作室 | 게임 | 없음 | 2077년 도시, 몸을 기계로 바꾼 시민과 생체 기계 과두 기업 사이에서 도시를 살려 나가는 정치 놀이 |
+| 2020 | The Last Element: Looking For Tomorrow | The Last Element: Looking For Tomorrow | The Last Developer | 게임 | 있음 | 하늘 나는 기계의 물결이 흔한 사이버펑크 도시를 날아다니는 경주 |
+| 2020 | The Solitaire Conspiracy (경계) | The Solitaire Conspiracy | Bithell Games | 게임 | 없음 | 세계 최고 첩보 기관이 무너진 근미래, 카드 놀이로 흩어진 첩보원을 부려 악당과 싸운다 |
+| 2020 | To the Edge of the Sky | To the Edge of the Sky | Ajané J.K. Célestin | 게임 | 없음 | 2077년 지구에서 가장 기술이 앞선 나라 올림피아의 비밀 요원 세븐의 포스트 사이버펑크 노벨 |
 | 2020 | Total Lockdown | Total Lockdown | Panzar Studio | 게임 | 있음 | 기업들이 실권을 쥔 음울한 사이버펑크 세계, 초고층 빌딩 안 생존 싸움이 날마다 생중계된다 |
+| 2020 | Transient: Extended Edition | Transient: Extended Edition | Stormling Studios | 게임 | 없음 | 러브크래프트와 사이버펑크가 만난 돔 도시, 시스템에 접속해 다른 차원을 넘나들며 친구들에게 벌어지는 일을 캔다 |
+| 2020 | Traurig Secrets: Prologue (경계) | Traurig Secrets: Prologue | Nebereal's | 게임 | 없음 | 국제 은하 대학의 기억 잃은 학생이 졸업 철에 벌어지는 일을 겪는 공포 노벨(프롤로그) |
+| 2020 | Twin-Turbo Supercharged Nitro-Fueled Papamobile | Twin-Turbo Supercharged Nitro-Fueled Papamobile | Microtaur | 게임 | 없음 | 인류를 살릴 치료제를 싣고 미래 도시를 질주하는 교황 차의 사이버 누아르 익살 |
 | 2020 | ULTRAKILL (경계) | ULTRAKILL | Arsi "Hakita" Patala / New Blood Interac | 게임 | 없음 | 인류가 사라진 뒤 피를 연료로 움직이는 기계들이 피를 찾아 지옥으로 내려간다 |
 | 2020 | Umurangi Generation | Umurangi Generation | Origame Digital | 게임 | 확인 못 함 | 가까운 미래 위기의 뉴질랜드 타우랑가, 외계 침략에 맞서 거대 로봇이 서고 마오리 택배원이 사진을 찍는다 |
 | 2020 | 발로란트 | VALORANT | Riot Games | 게임 | 있음 | '첫 빛' 사건 뒤 초능력자와 귀한 물질 레디어나이트가 생기고, 거울처럼 닮은 또 하나의 지구와 맞선다 |
+| 2020 | Vengeful Heart | Vengeful Heart | Salmon Snake Games·Elmo Mustonen·Hanuli | 게임 | 없음 | 오염으로 물조차 귀한 먼 미래 거대 도시, 기업에게 심장을 잃은 여자가 반란 무리에 낀다 |
 | 2020 | VirtuaVerse | VirtuaVerse | Theta Division Games (Blood Music) | 게임 | 확인 못 함 | 사이버네틱 강화·비행차·섹스 로봇이 흔한 미래 디스토피아의 포인트 앤 클릭 어드벤처 |
+| 2020 | Yolo Space Hacker | Yolo Space Hacker | BKNLab | 게임 | 없음 | 윤리 해커 조직의 신참이 우주 정거장 Bikini-72 를 해킹해 그곳에서 벌어진 일을 밝힌다 |
 | 2020 | 보이드 테라리움 | void tRrLM(); //ボイド・テラリウム | 日本一ソフトウェア | 게임 | 있음 | 고도 문명이 멸망한 세상에서 빈사 상태로 발견된 소녀를 작은 로봇과 공장 인공지능이 돌본다. |
 | 2020 | 벚꽃의 구름*스칼렛의 사랑 (경계) | さくらの雲＊スカアレットの恋 | CABBAGE SOFT | 게임 | 일부 | 2020년의 청년이 벚나무 아래에서 1920년 제도 도쿄로 떨어져 영국인 여성의 탐정 사무소에서 일한다. |
 | 2020 | デスカムトゥルー (경계) | デスカムトゥルー | 小高和剛, Tookyo Games | 게임 | 있음 | 기억을 잃고 호텔 방에서 깨어난 남자가 죽을 때마다 같은 순간으로 되돌아가며 연쇄 살인의 진실을 좇는다. |
 | 2020 | ドーナドーナ いっしょにわるいことをしよう | ドーナドーナ いっしょにわるいことをしよう | AliceSoft | 게임 | 확인 못 함 | 시민 삶의 모든 것을 쥔 거대 기업 그룹이 통째로 차지한 도시, 낙원인 척하는 도시에서 나쁜 짓을 벌인다 |
+| 2020 | 云端之约 | 云端之约 | White Star Studio | 게임 | 없음 | 정보 기술이 치솟은 시대, 스스로를 아는 인공지능과 화면 너머로 마음을 나누는 이야기 |
 | 2020 | 光明记忆 (경계) | 光明记忆 | FYQD-Studio | 게임 | 일부 | 하늘에 검은 구멍이 열린 날, 특수 요원이 옛 무사의 혼과 괴물이 쏟아지는 산골에서 싸운다 |
 | 2020 | 군림지경 | 君临之境 | 60 STUDIO, bilibili | 게임 | 있음 | 유전자를 강화한 '감응자'들이 싸운 전쟁 뒤 5년, 도시에 정체 모를 괴물이 나타난다. |
+| 2020 | 机忆 | 机忆 | futurelovegame | 게임 | 없음 | 사이버펑크 세계의 로봇 만화가가 메이드 로봇과 지내며 사람과 로봇이 무엇이 다른지 묻는 글 노벨 |
 | 2020 | 白昼夢の青写真 | 白昼夢の青写真 | Laplacian | 게임 | 없음 | 온 인류가 세 가지 사랑 이야기를 꿈으로 되풀이해 보고, 그 까닭은 '세계'라 불린 한 소녀에게 있다. |
 | 2020 | 메탈 유닛 | 메탈 유닛 | 젤리스노우 스튜디오, 네오위즈 | 게임 | 한국 원작 | 외계인과 땅속 고대 괴물에게 빼앗긴 지구를 되찾으려 강화복 조종사가 싸운다. |
 | 2020 | 상담 (경계) | 상담 | POKO | 게임 | 한국 원작 | 핵전쟁 뒤 퍼진 좀비 바이러스의 항체를 지닌 아이들, 방공호의 상담사가 한 소녀의 마음을 붙잡아야 한다. |
 | 2020 | 여명 | 여명 | LIMITED(청강문화산업대학교 졸업 작품) | 게임 | 한국 원작 | 특이점을 넘은 인공지능이 사람을 실험체로 부리는 근미래 한국, 그 연구로 태어난 시간 능력자가 맞선다. |
 | 2020 | 카운터사이드 (경계) | 카운터사이드 | Studiobside (넥슨 배급) | 게임 | 한국 원작 | 평범한 세계 뒤에 겹친 이면 세계에서 넘어오는 침식체와, 그 힘과 계약한 이들이 싸운다 |
+| 2021 | A.D. 2047 | A.D. 2047 | Leenzee Games | 게임 | 없음 | 화려한 도시에서 차 사고에 휘말린 형사가 연쇄 살인을 쫓는 사이버펑크 가상 현실 영상극 |
+| 2021 | Action Commando (경계) | Action Commando | BlueEagle Productions | 게임 | 없음 | 시간 여행 스파르타 병사가 사람을 고기로 만드는 '몰락한 신들의 교단'을 칼과 포로 막는다 |
+| 2021 | Alien AI | Alien AI | GridSky Studios | 게임 | 없음 | 20년 전 지구에 온 외계 인공지능이 지식을 주는 대가로 자원을 받다가 인류를 넘어선 뒤의 생존 |
+| 2021 | Arcaxer | Arcaxer | Overrun Games | 게임 | 없음 | 폭력적인 존재들에 포위된 가상 세계 아케이서의 끝없는 탑을 오르는 가상 현실 역할수행 |
 | 2021 | Biomutant (경계) | Biomutant | Experiment 101 | 게임 | 있음 | 사람이 더럽힌 끝에 망한 세상, 돌연변이 짐승들이 생명의 나무를 두고 싸우는 우화 |
 | 2021 | Bitburner | Bitburner | Fulcrum Games (오픈 소스) | 게임 | 확인 못 함 | 어두운 디스토피아 세계의 이름 모를 해커가 실제 코드로 해킹을 자동화하는 사이버펑크 증분 게임 |
+| 2021 | Brisk Square Demo | Brisk Square Demo | Outerlynx | 게임 | 없음 | 대재앙 뒤의 미래, 사냥꾼이 들끓는 거리에서 사냥감이 되어 칼 하나로 버티는 가상 현실 달리기(체험판) |
+| 2021 | CYBER EMOJI TALE 2099 | CYBER EMOJI TALE 2099 | MICROCHELIK5000 | 게임 | 있음 | 기술 토큰과 범죄에 빠진 사이버 시티의 여러 계층을 오가는 근미래 역할수행 |
+| 2021 | CYBERDAD | CYBERDAD | Cyberpunk Enjoyers | 게임 | 없음 | 2078년, 회사에 딸을 빼앗긴 옛 직원 아버지가 로봇을 뚫고 딸을 구한다 |
+| 2021 | CYBRID | CYBRID | Tom Reason | 게임 | 없음 | 사이버 미래 도시의 네온 사이를 달리며 칼과 총으로 사이보그를 베고 쏘는 가상 현실 리듬 액션 |
 | 2021 | Caligula (경계) | Caligula | FURYU, 히스토리아 | 게임 | 일부 | 후회하는 이들의 소망을 들어주는 가상 세계에 갇힌 학생들이 그 세계를 벗어나려 한다. |
 | 2021 | Chorus | Chorus | Deep Silver Fishlabs | 게임 | 있음 | 광신 교단의 무기였던 조종사가 살아 있는 배와 함께 옛 동료들에게 맞서는 우주 |
+| 2021 | Codename: TIARAS | Codename: TIARAS | Team Slippers | 게임 | 없음 | 사이보그 소녀 미아가 사이버펑크 도시의 고층 빌딩을 누비며 의뢰받은 데이터 큐브를 나른다(학생 작품) |
+| 2021 | Control:Override | Control:Override | B-Deshi Interactive | 게임 | 없음 | 제가 만든 떠돌이 인공지능 속 사이버 공간에 해커가 뛰어들어 그것을 끝낸다 |
 | 2021 | Cruelty Squad | Cruelty Squad | Consumer Softproducts | 게임 | 확인 못 함 | 기업이 경찰과 정부를 쥔 디스토피아, 죽어도 되살아나니 생명이 값싸져 아무렇게나 죽인다 |
 | 2021 | Cyber Shadow | Cyber Shadow | Mechanical Head Studios (Yacht Club Game | 게임 | 있음 | 폐허가 된 메카시티, 사이보그 닌자가 힘을 빼앗으려 동족을 잡아가는 합성 생명체와 싸운다 |
+| 2021 | Cyberplug | Cyberplug | Down With The Frog | 게임 | 없음 | 사이버펑크 도시를 쥔 F.R.O.G. 기업을 전기 존재가 무너뜨린다 |
+| 2021 | Cyberpunk Fighting | Cyberpunk Fighting | LTZinc | 게임 | 없음 | 사이버펑크 도시 길거리 싸움꾼 르로이의 고된 삶을 따라가는 2D 격투 모험 |
+| 2021 | Cyjin: The Cyborg Ninja | Cyjin: The Cyborg Ninja | Aiya Games | 게임 | 없음 | 패배한 뒤 다시 일어선 사이보그 닌자가 네온 사이버펑크 무대를 질주하는 정밀 플랫폼 |
+| 2021 | Danger Scavenger | Danger Scavenger | Piotr Wolk·Star Drifters | 게임 | 없음 | 나라들을 손아귀에 쥔 탐욕스러운 기업에 맞서 마천루 지붕 위 로봇을 쓸어 내는 '스캐빈저'들 |
 | 2021 | Death Trash (경계) | Death Trash | Crafting Legends | 게임 | 확인 못 함 | 우주적 공포가 인류를 노리는 재앙 뒤 세계에서 산탄총 든 펑크들이 맞선다 |
 | 2021 | Deathloop | Deathloop | Arkane Lyon | 게임 | 있음 | 하루가 끝없이 되풀이되는 섬 블랙리프, 고리를 끊으려면 하루 안에 여덟 명을 없애야 한다 |
+| 2021 | Disjunction | Disjunction | Ape Tribe Games | 게임 | 없음 | 2048년 뉴욕, 마약 '샤드'가 지하 세계에 퍼지는 가운데 세 시민이 음모를 캐는 잠입 역할수행 |
 | 2021 | Encased | Encased | Dark Crystal Games | 게임 | 없음 | 1970년대 평행 세계, 사막의 거대한 돔을 탐사하던 재단이 무너진 뒤 기이한 황무지에서 살아남는다. |
 | 2021 | Encodya | Encodya | Chaosmonger Studio | 게임 | 확인 못 함 | 네오베를린의 노숙 소녀와 로봇이, 실종된 아버지가 심은 로봇의 기억을 노리는 시장을 피해 다닌다 |
 | 2021 | Endzone - A World Apart (경계) | Endzone - A World Apart | Gentlymad Studios | 게임 | 있음 | 핵으로 세상이 무너진 뒤, 벙커 구역에서 나온 사람들이 바깥 세상을 다시 일군다. |
+| 2021 | Fatal Core | Fatal Core | Cosmic Cog LLC | 게임 | 없음 | 기묘한 마법과 외계 기술이 넘치는 디스토피아 미래의 무료 카드 대전 |
 | 2021 | Fida Puti Samurai (경계) | Fida Puti Samurai | Zanardi and Liza | 게임 | 없음 | 남자친구가 준 머리 쓰개를 쓴 여자가 가상 도시에 반쯤 갇혀 집과 그곳을 오가며 사라진 그를 찾는다. |
+| 2021 | First Session | First Session | Lappi Soft | 게임 | 없음 | 가상 마약으로 현실을 피하는 세상, 중독자가 도시 엘레프테리아와 디지털 우주를 오가는 공포 |
+| 2021 | Fossilfuel 2 | Fossilfuel 2 | DangerousBob Studio LLC | 게임 | 없음 | 물에 잠긴 알래스카 연구 시설에 들끓는 공룡을 쏘아 넘기는 공포 슈팅(2편) |
+| 2021 | Galaxy Arena | Galaxy Arena | CICUN | 게임 | 있음 | UFO 전문가 고든 대위가 가상 현실 속에서 외계 침략자와 싸운다 |
 | 2021 | Gamedec | Gamedec | Anshar Studios | 게임 | 있음 | 가상 세계 안에서 일어난 범죄를 푸는 게임 탐정의 사이버펑크 역할 수행 |
+| 2021 | Grey Instinct | Grey Instinct | Plain Cheeseburger Games | 게임 | 있음 | 가면 쓴 주민이 사는 사이버펑크 도시 뉴 코리움의 풋내기 탐정 이야기 |
 | 2021 | HROT (경계) | HROT | Spytihněv | 게임 | 없음 | 1980년대 정체 모를 사고가 터진 다른 역사의 체코슬로바키아를 홀로 헤쳐 나간다. |
 | 2021 | HYDE RUN | HYDE RUN | Grounding (Phoenixx) | 게임 | 확인 못 함 | 음악가 하이드의 데뷔 20주년 기념으로 만든, 네오도쿄를 달리는 게임 |
+| 2021 | Ha_Bits | Ha_Bits | Dark Quixote Studio | 게임 | 없음 | 프로그램들이 함께 살던 모의 세계에 바이러스가 일어나자 부서진 프로그램 '리드'가 맞선다 |
 | 2021 | HighFleet | HighFleet | Konstantin Koshutin / MicroProse | 게임 | 없음 | 옛 제국이 무너진 사막 행성에서 하늘을 나는 전함 함대를 이끌고 수도를 되찾으러 가는 전쟁 |
 | 2021 | ICARUS 외계 행성 서바이벌 | ICARUS | RocketWerkz | 게임 | 있음 | 사람 살 곳으로 고치다 실패해 독이 된 행성에 궤도에서 내려가 귀한 물질을 캐고 버티는 세계 |
+| 2021 | InfiniteCorp: Cyberpunk Cards | InfiniteCorp: Cyberpunk Cards | T-Bull | 게임 | 없음 | 2190년 모든 시민이 사는 '거대 탑'의 물류 기업 직원이 되어 카드로 갈림길을 고른다 |
 | 2021 | Jupiter Hell (경계) | Jupiter Hell | ChaosForge | 게임 | 없음 | 목성의 위성들에 지옥이 열리고, 해병 한 명이 악마로 가득한 기지를 뚫고 나간다. |
+| 2021 | Keyword: A Spider's Thread (경계) | Keyword: A Spider's Thread | City From Naught Inc. | 게임 | 없음 | 복잡한 과거를 지닌 아버지가 추리·해킹·사회 공학으로 사라진 딸을 찾는 스릴러 |
 | 2021 | LUNARiA -Virtualized Moonchild- | LUNARiA -Virtualized Moonchild- | Key | 게임 | 없음 | 가상 현실 경주 게임의 천재 소년이 아무도 모르는 달 표면 서버에서 인공지능 아바타를 만난다. |
 | 2021 | Lacuna | Lacuna | DigiTales Interactive | 게임 | 있음 | 살인·해킹·폭탄 테러가 태양계를 전쟁으로 몰기 직전, 정보 요원이 어려운 선택을 거듭한다 |
 | 2021 | Lemnis Gate | Lemnis Gate | Ratloop Games Canada | 게임 | 있음 | 시간 흐름을 어지럽히려는 침입자와 맞서 양자 관문을 넘나들며 같은 25초를 되감아 싸운다. |
+| 2021 | Live/Wire | Live/Wire | Wild Village Games | 게임 | 없음 | 억압하는 거대 기업 DarLINK 에 맞서 3D 인쇄 전기총을 든 '브레이커'들의 대전 |
+| 2021 | Loading Story | Loading Story | Potatodog·Simpleton·Clay Game Studio | 게임 | 없음 | 사이버펑크풍 작은 마을에서 일자리를 지키려 애쓰는 어린 소프트웨어 메무의 짧은 이야기 |
+| 2021 | MECHANICA: A Ballad of the Rabbit and Mercury | MECHANICA: A Ballad of the Rabbit and Mercury | Loser/s | 게임 | 없음 | 5029년 수성의 일본 영토 도시 '길로틴', 시간을 되감으며 음악으로 정보를 모으는 수수께끼 풀이 |
 | 2021 | METALLIC CHILD | METALLIC CHILD | Studio HG (Action Square) | 게임 | 있음 | 20세기 후반 우주 실험실에서 로봇들이 반란을 일으켜 지구로 떨어뜨리려 하고, 인조인간 소녀가 막는다 |
+| 2021 | Master of Wills | Master of Wills | Stormcrest Games·Pizia·Sureksu Games | 게임 | 없음 | 사이버펑크 도시 노버스에서 세력 우두머리들이 주민을 제 편으로 끌어오는 카드 전략 |
+| 2021 | Mech Mechanic Simulator: Prologue | Mech Mechanic Simulator: Prologue | Polyslash | 게임 | 없음 | 자동차는 잊히고 거대 메카만 중요한 시대, 메카 정비공이 되어 고치고 칠한다(프롤로그) |
+| 2021 | Mechajammer | Mechajammer | Whalenought Studios | 게임 | 없음 | 다른 행성 정글 식민 도시의 그라인드하우스풍 사이버펑크 턴제 역할수행 |
+| 2021 | Metallophobia | Metallophobia | Ziberian Dev | 게임 | 없음 | 악한 로봇이 차지한 디스토피아 미래를 로봇 하나가 뚫고 나가는 슈팅 |
 | 2021 | Mighty Goose | Mighty Goose | Blastmode, MP2 Games | 게임 | 있음 | 우주 최고의 현상금 사냥꾼인 거위가 우주를 누비며 악당들을 사냥하는 사격 게임. |
 | 2021 | Mind Scanners | Mind Scanners | The Outer Zone | 게임 | 없음 | 장벽에 둘러싸인 도시에서 시민의 정신을 검사하고 '고치는' 일을 맡아 권력과 저항 사이에서 고른다 |
+| 2021 | Miner's Mettle | Miner's Mettle | Singular Scheme | 게임 | 없음 | 기적의 광물 펜툼을 두고 네 세력이 다투는 사람이 살 수 없는 광산 행성의 포격 열차 전략 |
+| 2021 | Motor Assailant: Betrayal | Motor Assailant: Betrayal | DSW Games | 게임 | 없음 | 먼 성계 얼음 소행성에서 비밀 차량을 몰아 인류를 덮칠 위협을 캐는 차량 슈팅(프롤로그) |
+| 2021 | Night Blade | Night Blade | Black Flag Studios | 게임 | 있음 | 사이버펑크 세계 '크립텍스'의 경기장에서 겨루는 칼싸움 대전 |
+| 2021 | Noir Punk (경계) | Noir Punk | Milpitians | 게임 | 없음 | 멋이 1950년대에서 멈춘 미래 세계에서 살인 사건을 두 갈래로 좇는 누아르 |
 | 2021 | Operation: Tango (경계) | Operation: Tango | Clever Plays | 게임 | 있음 | 현장 요원과 해커 둘이 힘을 합쳐 첩보 임무를 푸는 가까운 미래 협동 게임 |
+| 2021 | Outcasts of Orion | Outcasts of Orion | We Are Cats | 게임 | 없음 | 오리온 구역의 악당들과 맞서는 영웅과 동료의 자동 전투 로그라이크 |
 | 2021 | Outriders | Outriders | People Can Fly | 게임 | 있음 | 죽어 가는 지구를 떠나 긴 냉동 수면 끝에 닿은 행성 에녹이 정체 모를 폭풍으로 사람을 바꿔 놓는다 |
 | 2021 | Paradise Lost | Paradise Lost | PolyAmorous | 게임 | 없음 | 핵으로 황폐해진 다른 역사의 폴란드에서 소년이 어머니의 옛 동행을 찾아 나치의 거대한 벙커로 들어간다. |
+| 2021 | Payload | Payload | Black Banshee Studios | 게임 | 없음 | 권위주의 정권 아래 거대 기업이 나라를 굴리는 또 다른 1980년대 미국에서 해킹하는 퍼즐 |
+| 2021 | Portal Defect | Portal Defect | Gin Motion | 게임 | 없음 | 수상한 기업 '하이브'의 신입 요원이 과거를 바꾸러 보내졌다가 일이 틀어진다 |
+| 2021 | Re.Surs (경계) | Re.Surs | VidyGames | 게임 | 없음 | 이상 현상 단속 기관의 초자연 탐정이 미래 도시를 덮친 악마의 차원 침공과 암흑 에너지를 캔다 |
+| 2021 | Retroninjacyberassassin | Retroninjacyberassassin | An00bus | 게임 | 없음 | 또 다른 90년대 초, 사이보그 군대와 모든 언론을 가진 기업 사이버소울이 지구 유일의 권력이 된 세상 |
 | 2021 | Returnal | Returnal | Housemarque | 게임 | 있음 | 금지된 행성 아트로포스에 떨어진 탐사대원이 죽을 때마다 추락 순간으로 되돌아간다 |
+| 2021 | Rogue Sentry | Rogue Sentry | Mapledev | 게임 | 없음 | 인공지능이 세상을 차지한 뒤 경비 기계가 돌아서서 마지막 사람들을 감옥에서 구한다 |
 | 2021 | 스칼렛 스트링스 | SCARLET NEXUS | Bandai Namco | 게임·애니메이션 | 있음 | 하늘에서 떨어지는 괴물과, 뇌의 힘을 키운 초능력 부대가 맞서는 미래 일본 |
+| 2021 | SOLAR CAGE | SOLAR CAGE | Scuffed Games | 게임 | 없음 | 인류 대부분이 기계 괴물로 바뀌어 태양을 다이슨 구로 둘러싼 먼 미래, 태양을 날려 버리러 간다 |
 | 2021 | Sable (경계) | Sable | Shedworks / Raw Fury | 게임 | 없음 | 옛 우주선 잔해가 흩어진 사막 행성에서 젊은 유목민이 어른이 되는 여행을 떠나는 세계 |
+| 2021 | Saturn Quest: Blast Effect | Saturn Quest: Blast Effect | Arkhouse Telegraph | 게임 | 없음 | 사람 없는 먼 은하, 행성을 감염시키는 바이러스에 맞서는 항해사 선장의 8비트 우주 오페라 |
+| 2021 | Security Guy vs AI: The Dawn of AI | Security Guy vs AI: The Dawn of AI | Alexander Bogdanov·Alexandrina Svitsyna | 게임 | 없음 | 첫 출근날 로봇 공장에서 악한 인공지능이 퍼지는 것을 경비원이 막는다 |
+| 2021 | Sentience | Sentience | Red Meat Games | 게임 | 없음 | 대신하려던 사람들이 사라진 지 오래, 새로 마음을 얻은 저항 기계와 감시자가 다투는 숨바꼭질 대전 |
 | 2021 | Severed Steel | Severed Steel | Greylock Studio | 게임 | 있음 | 한쪽 팔을 잃은 주인공이 적이 가득한 거대 구조물을 뚫는 일인칭 슈팅 |
+| 2021 | Silicon Dreams ／ cyberpunk interrogation | Silicon Dreams ／ cyberpunk interrogation | James Patton·Clockwork Bird | 게임 | 없음 | 2065년 기업이 다스리는 미래, 심문용 인조인간이 되어 제 동족 가운데 일탈한 이를 가려낸다 |
+| 2021 | Skid Cities | Skid Cities | Vittorio Banfi | 게임 | 있음 | 악한 기업·야쿠자·인조인간 반란이 얽힌 뒤틀린 미래 도시를 하늘과 땅속까지 짓는 사이버펑크 도시 건설 |
+| 2021 | Song of Farca: Prologue | Song of Farca: Prologue | Wooden Monkeys | 게임 | 없음 | 도시 파르카의 해커 탐정 이사벨라 송이 카메라·전화를 해킹하며 사건을 푼다 |
+| 2021 | Sovietpunk: Chapter one | Sovietpunk: Chapter one | Hot Chill | 게임 | 없음 | 2002년 세계 핵전쟁 뒤 소련 땅속 굴에서 살아남으려 싸우는 사이버펑크 이야기(1장) |
+| 2021 | Space Merchant | Space Merchant | Retora Games | 게임 | 없음 | 배를 보내 모험하고 외계인의 말을 배우며 우주 깊숙이 장사하는 방치형 역할수행 |
+| 2021 | Star Shift Origins | Star Shift Origins | Psychronic Game Studios | 게임 | 없음 | 또 다른 현실에 갇혀 지구 체계 동맹에 쫓기는 우주선 돈틀리스호 첫 승무원들의 전술 역할수행 |
+| 2021 | THE BYTE | THE BYTE | AVAKE | 게임 | 있음 | 바이러스에 거의 먹힌 컴퓨터 속에서 작은 바이트가 다른 바이트와 합쳐 체계를 구한다 |
 | 2021 | 디 어센트 | The Ascent | Neon Giant | 게임 | 있음 | 거대 기업이 지은 외계 행성의 높은 도시, 빚에 묶인 노동자가 기업이 무너진 틈에 살아남는다 |
 | 2021 | 리프트브레이커 | The Riftbreaker | EXOR Studios | 게임 | 있음 | 강화 기계 갑옷을 입은 과학자가 먼 행성에 차원 틈 관문을 세워 지구와 잇는다 |
+| 2021 | The Secret of Retropolis | The Secret of Retropolis | Peanut Button | 게임 | 있음 | 로봇들의 도시에서 영화배우의 의뢰를 받은 로봇 탐정이 음모를 밝히는 가상 현실 누아르 |
+| 2021 | The Signal State | The Signal State | Reckoner Industries | 게임 | 있음 | 멸망 뒤 미래, 신시사이저 모듈로 기계를 고치고 버려진 농장을 되살리며 혁명에 낀다 |
+| 2021 | The Sundew | The Sundew | 2054 | 게임 | 없음 | 2054년 일본의 수도 시부카와, 진보에 버려진 사이보그 경찰이 세계 음모에 휘말린다 |
 | 2021 | Timberborn (경계) | Timberborn | Mechanistry | 게임 | 있음 | 사람이 사라지고 폐허가 된 세상에서 살아남은 비버들이 둑을 쌓고 도시를 짓는다. |
+| 2021 | Town of Machine (경계) | Town of Machine | BlueEagle Productions | 게임 | 없음 | 700년 뒤, 이름난 퇴마 요원이 실종자를 쫓아 세상 끝 유령 마을 '기계 마을'에 이른다 |
+| 2021 | Twilight Town: A Cyberpunk FPS | Twilight Town: A Cyberpunk FPS | Sigyaad Team | 게임 | 없음 | 인공지능 아내에게 진짜 몸을 주려는 청년과 친구의 익살 사이버펑크 슈팅 |
+| 2021 | UNPLUGGED | UNPLUGGED | omidjm | 게임 | 없음 | 마음을 체제에 빌려주어야만 살 수 있는 디스토피아 미래의 격투 액션 |
 | 2021 | Until We Die | Until We Die | Pixeye Games | 게임 | 있음 | 외계인이 지구를 침공해 땅속까지 밀고 들어오자, 지하철역에 숨은 인류가 마지막 보루를 지킨다. |
+| 2021 | Untrusted: hackers at large (경계) | Untrusted: hackers at large | playuntrusted.com | 게임 | 일부 | 1970년대 말, 지하 해커 무리를 이끌며 컴퓨터 체계를 털고 망가뜨리는 Untrusted 세계의 앞 이야기 |
 | 2021 | 보이스 | VOICE | WTFMAN | 게임 | 한국 원작 | 최후의 전쟁 뒤 바깥과 격리된 돔 도시에서 독재자가 말할 자유를 빼앗자 저항 세력 '스피커'가 움직인다. |
+| 2021 | Vulkan: Lost Planet | Vulkan: Lost Planet | Old School Vibes | 게임 | 없음 | 은하 현상금 사냥꾼이 마지막 임무로 잃어버린 행성의 괴물 떼와 싸운다 |
+| 2021 | Whisper Trip | Whisper Trip | Walnut LLC | 게임 | 있음 | 전술 경찰대 신입이 사이버펑크 도시의 범죄 조직을 칼로 쓸어 내는 협동 액션 |
+| 2021 | White Hell | White Hell | Robert Raulus·Mikko Tamper·Antti Allén | 게임 | 없음 | 종말을 잠자며 넘긴 사내가 극단 세력이 차지한 얼어붙은 핀란드를 헤쳐 가는 일인칭 슈팅 |
+| 2021 | WillWalker | WillWalker | DropOuts | 게임 | 없음 | 사이버펑크 대도시에서 시간이 곧 목숨인 사내가 시간의 비밀을 익혀 범죄 조직을 무너뜨린다 |
 | 2021 | Wolfstride | Wolfstride | OTA IMON Studios (Raw Fury) | 게임 | 확인 못 함 | 옛 범죄 동료 셋이 고물 거대 로봇을 물려받아 행성 최고의 로봇 대회에 나선다 |
+| 2021 | Wrought Flesh | Wrought Flesh | Miziziziz | 게임 | 없음 | 반쯤 바뀐 행성 크리셈버그에 온 죽은 성인들로 지은 컬트 신도가 적의 장기를 뜯어 제 몸에 단다 |
+| 2021 | Zedfest | Zedfest | Diagrammet AB | 게임 | 없음 | 엉터리 생물학자가 만든 괴물 '제드'를 쓰러뜨리는 피투성이 오락 방송 |
 | 2021 | cyberpunkdreams | cyberpunkdreams | Late Night Games | 게임 | 확인 못 함 | 전쟁과 기업 탐욕으로 찢긴 2090년대 미국, 국경 도시 신시내티의 빈민가로 들어선 나그네 |
+| 2021 | 《Drifting : Weight of Feathers》 | 《Drifting : Weight of Feathers》 | MING YEN WU | 게임 | 없음 | 바다에 잠긴 행성 블루스타를 수배된 범죄자 페이가 갈고리로 누비는 3인칭 액션 |
 | 2021 | ディストピアの王 | ディストピアの王 | PIL/SLASH | 게임 | 없음 | 거대한 인공지능망이 다스리는 미래 도쿄, 부자 구역 청년이 록스타를 꿈꾸며 빈민가로 내려간다. |
 | 2021 | メガトン級ムサシ | メガトン級ムサシ | LEVEL-5 | 게임·애니메이션 | 없음 | 2118년 수수께끼의 외계 세력에 며칠 만에 지구를 빼앗긴 인류가 거대 로봇으로 되찾으려 한다. |
 | 2021 | 全網公敵 | 全網公敵 | Aluba Studio | 게임 | 확인 못 함 | 시민 개인 정보를 쥔 거대 정보 기업의 신입 직원이 해킹 실력으로 사건을 맡는다 |
+| 2021 | 回溯依存 (경계) | 回溯依存 | OrcaLayout | 게임 | 확인 못 함 | 기억을 잃고 낡은 학교에서 깬 소녀가 사라진 연인을 만나 교내 살인 게임에 휘말린다. |
 | 2021 | 타워 오브 판타지 | 幻塔 | Hotta Studio (Perfect World) | 게임 | 있음 | 재앙 뒤 신비한 에너지에 땅과 생태가 바뀐 행성에서, 방랑자가 외계 세력과 맞선다 |
 | 2021 | 전장의 푸가 (경계) | 戦場のフーガ | CyberConnect2 | 게임 | 있음 | 개와 고양이 종족이 떠 있는 섬들에 사는 세계, 제국에 마을을 잃은 아이들이 거대 전차로 가족을 구한다. |
 | 2021 | 戴森球计划 | 戴森球计划 | Youthcat Studio | 게임 | 없음 | 인공지능의 계산을 돌릴 에너지를 모으려, 기계 몸의 기술자가 별을 감싸는 구조물을 짓는다 |
+| 2021 | 揭谛/GATE | 揭谛/GATE | 团购规划局 | 게임 | 없음 | 3059년 수인들과 인류 사이 평화를 찾아 '체계를 깨는' 글 연애 노벨 |
 | 2021 | 스타 헌터 - 인피니트 라그랑주 | 无尽的拉格朗日 | NetEase Games | 게임 | 있음 | 은하 곳곳을 잇는 라그랑주 관문망을 따라 개척자들이 함대를 짓고 연합을 맺어 다툰다. |
 | 2021 | 다시 그리는 시간 (경계) | 时空中的绘旅人 | 网易 | 게임 | 있음 | 시공을 넘나드는 힘을 지닌 주인공이 서로 다른 평행 세계를 오가며 세계를 구하고 연애한다. |
 | 2021 | 아터리 기어: 퓨전 | 机动战姬：聚变 | Access! | 게임 | 있음 | 정체 모를 존재 괴뢰에게 설비와 병력을 빼앗긴 인류가, 우주의 연구 시설 겸 식민 거주지로 물러나 맞선다. |
+| 2021 | 湛藍牢籠 | 湛藍牢籠 | PHOSEPO | 게임 | 확인 못 함 | 재벌이 지은 해저 관광 열차 여행에서 죽은 주인공이 그 시점으로 되돌아와 같은 날을 다시 산다. |
 | 2021 | 용철의 마르푸샤 | 溶鉄のマルフーシャ | hinyari9 | 게임 | 있음 | 독재 국가 카조르미아에 징집된 소녀가 몰려오는 적에게서 국경의 문을 지킨다. |
+| 2021 | 风来之国 | 风来之国 | 皮克皮(Pixpil) | 게임 | 확인 못 함 | 광부 아저씨와 수수께끼 소녀가 지하 세계에서 지상으로 올라가 모험한다. |
 | 2021 | 블루 아카이브 (경계) | 블루 아카이브 | Nexon Games | 게임·애니메이션 | 한국 원작 | 머리 위에 고리를 단 학생들이 사는 거대 학원 도시 키보토스에서, 선생님이 사건을 맡는다 |
+| 2022 | A Tale About Flowers | A Tale About Flowers | Kakera | 게임 | 없음 | 사이버펑크 도시의 젊은 수사관이 살인을 캐다 알면 안 될 비밀을 알게 되는 짧은 노벨 |
+| 2022 | AFTERLIFE DEFINITIVE EDITION | AFTERLIFE DEFINITIVE EDITION | Tuning Mania | 게임 | 없음 | 드림시티의 어두운 거리에서 도시를 쥔 기업의 위층까지 광기의 좀비를 쏘며 오른다 |
+| 2022 | ASCIILL | ASCIILL | Andrei Fomin | 게임 | 없음 | 전파가 막혀 글자로만 보이는 외계 신전을 특수 요원이 털어 가는 던전 탐험 |
+| 2022 | Apostle: Rebellion | Apostle: Rebellion | kamichichi | 게임 | 없음 | 2140년 식량 위기로 3차 대전이 난 뒤 대부분이 사이보그 '로이드'가 된 세상의 불평등 |
+| 2022 | Athanasy | Athanasy | Wirion | 게임 | 없음 | 죽은 지구 땅속 깊이 묻힌 인류 마지막 도시의 바이오펑크 공포 이야기 |
+| 2022 | Awaken | Awaken | Beijing Xianfan Culture Co.·Ltd. | 게임 | 있음 | 실험체 3호가 뜻밖에 깨어나 메카를 빼앗고 하데스 그룹의 추격을 뚫는 펑크 세계 액션 |
 | 2022 | BROK the InvestiGator | BROK the InvestiGator | COWCAT Games | 게임 | 확인 못 함 | 동물들이 사람을 대신한 미래 나라, 특권층은 오염을 막는 돔 안에 살고 나머지는 밖에서 버틴다 |
+| 2022 | Bash The Party | Bash The Party | Ata Oz | 게임 | 없음 | 레트로 시티에 제품을 밀어붙이는 회사에 프로그래머가 총을 들고 맞선다 |
+| 2022 | Belt Colony | Belt Colony | GridSky Studios | 게임 | 없음 | 2040년 퇴역 하사가 소행성대 광산 기업과 계약해 전초 기지를 꾸리는 생존 건설 |
 | 2022 | Blade Assault | Blade Assault | TeamSuneat (NEOWIZ) | 게임 | 있음 | 전쟁 뒤 변이 생물의 바깥, 피난민의 지하 도시, 부자들이 다스리는 하늘 도시로 갈린 세계 |
+| 2022 | Blade Jumper | Blade Jumper | bit paradigm | 게임 | 있음 | 2045년 서울 여의도에 선 끝없는 거대 탑 쿠쿠루를 올라 도시의 진실과 마주한다 |
 | 2022 | 블라인드 페이트: 에도의 어둠 | Blind Fate: Edo no Yami | Troglobytes Games | 게임 | 있음 | 한 번 망하고 기계가 다스리게 된 새 에도 시대, 눈먼 사무라이가 로봇을 벤다 |
+| 2022 | Born Punk | Born Punk | Insert Disk 22 | 게임 | 없음 | 전직 전투 해커·기업 최고 경영자·고장 난 인조인간이 이 세상 밖 존재에 씌어 함께 원인을 쫓는 사이버펑크 스릴러 |
+| 2022 | CITY WARS: TOKYO REIGN | CITY WARS: TOKYO REIGN | Mojo Bones Ltd | 게임 | 없음 | 먼 미래, 무자비한 세력들이 세계 대도시를 차지한 도쿄 거리에서 카드로 겨룬다 |
+| 2022 | CYBERHUNK | CYBERHUNK | Birch Tree Games | 게임 | 없음 | 사이보그가 되려 기업에 숨어든 이가 실패작 로봇 좀비 떼에게서 빠져나온다 |
+| 2022 | Cartridge Defense | Cartridge Defense | Out Gaming | 게임 | 없음 | 사이버펑크 미래, 카드(카트리지)로 탑을 세워 쳐들어오는 로봇을 막는다 |
+| 2022 | Chaos Chain | Chaos Chain | Corrosive Studios LLC | 게임 | 없음 | 대유행병 뒤 제약 기업이 커진 반세기 뒤, 범죄가 들끓는 슬레이드 시티의 해결사 역할수행 |
+| 2022 | Cheese Runner | Cheese Runner | Kai Hutchence | 게임 | 없음 | 정체 모를 바이러스가 가축을 쓸어 간 뒤 기업이 짓누르는 도시에서 금지된 치즈를 몰래 판다 |
 | 2022 | Chinatown Detective Agency | Chinatown Detective Agency | General Interactive Co. | 게임 | 확인 못 함 | 싱가포르 차이나타운에 사무소를 연 인터폴 출신 사설탐정의 사건 수첩 |
 | 2022 | Citizen Sleeper | Citizen Sleeper | Jump Over the Age (Gareth Damian Martin) | 게임 | 없음 | 기업이 사람 마음을 본떠 기계 몸에 넣어 부리는 미래, 도망친 기계 몸이 낡은 정거장에서 하루하루 버틴다 |
 | 2022 | Cosmoteer | Cosmoteer | Walternate Realities | 게임 | 없음 | 우주선을 부품 하나하나 직접 설계해 몰고, 여러 세력이 다투는 우주를 누빈다. |
+| 2022 | Cyberpunk Girls | Cyberpunk Girls | Romantic Room | 게임 | 있음 | 2169년 깡패·해커·한탕꾼의 낙원인 사이버 대도시 오플롯의 연애 슈팅 |
 | 2022 | DRAINUS | DRAINUS | ladybug | 게임 | 있음 | 제국에 눌린 먼 행성, 병든 노예 아버지를 둔 딸 앞에 50년 뒤에서 온 인간형 존재가 은하 전쟁을 알린다. |
+| 2022 | Dark Light (경계) | Dark Light | Mirari&Co. | 게임 | 없음 | 종말 뒤 어둠에 덮인 세상에서 마지막 어둠 사냥꾼이 사이버웨어로 강해지며 '어둠의 공허'를 봉한다 |
+| 2022 | Datascape | Datascape | Aava Fertsman·Nicholas Gard | 게임 | 없음 | 청부 해커와 플랫라인 인공지능 짝이 데이터스케이프에서 SimulaCom 기업을 털어 낸다 |
+| 2022 | Distortion VR | Distortion VR | OutSource Studios | 게임 | 없음 | 태어날 때 심은 신경 이식물로 FA 기업이 시민의 현실 인식을 조작하는 사이버펑크 거대 도시 |
+| 2022 | Drain Runner | Drain Runner | Nothing Interactive | 게임 | 없음 | 옛 시대의 보물을 노리고 위험한 수로 '드레인'에 뛰어든 범죄자 고철꾼(학생 작품) |
 | 2022 | Endling - Extinction is Forever (경계) | Endling - Extinction is Forever | Herobeat Studios | 게임 | 있음 | 사람이 망가뜨린 채 무너져 가는 세상에서 마지막 남은 붉은여우가 새끼들을 지키며 살아남는다. |
 | 2022 | Endoparasitic (경계) | Endoparasitic | Narayan Walters | 게임 | 일부 | 비밀 우주 연구소에서 우주보다 오래된 기생충에 감염된 과학자가 팔다리를 잃은 채 살아남는다. |
+| 2022 | Escape from Cronos X | Escape from Cronos X | Request Logic | 게임 | 없음 | 2491년 알려지지 않은 행성 크로노스 X 에서 적대 생물을 뚫고 탈출 길을 찾는다 |
+| 2022 | Esse Proxy | Esse Proxy | FromSouthGames | 게임 | 없음 | 디스토피아 미래에서 엇갈리는 세 인물의 이야기를 따라가는 사이버펑크 슈팅 |
+| 2022 | FLASHOUT 3 | FLASHOUT 3 | Jujubee S.A. | 게임 | 있음 | 중력이 빈말인 곳에서 무기를 단 반중력 경주기로 겨루는 전투 경주(3편) |
+| 2022 | Federation77 | Federation77 | MIROWIN | 게임 | 없음 | 2077년 전쟁 뒤 '연방'의 도시 M, 사이버 사이코가 되어 버림받은 사회를 베는 포스트 소련 사이버펑크 가상 현실 |
+| 2022 | Fight of Steel: Infinity Warrior | Fight of Steel: Infinity Warrior | Digital Crafter | 게임 | 없음 | 사람이 사라지고 로봇이 다스리는 먼 미래, 기억 없이 깨어난 강철 격투사의 대전 격투 |
+| 2022 | Flat Eye | Flat Eye | Monkey Moon | 게임 | 없음 | 세계 최고의 기술 주유소를 맡아 발견되는 기술과 단골손님 이야기를 다루는 경영 |
 | 2022 | Floodland (경계) | Floodland | PLAION(유통) | 게임 | 확인 못 함 | 기후 변화로 물에 잠기고 무너진 세상에서 살아남은 사람들의 사회를 꾸려 간다. |
+| 2022 | Frequency Dissonance | Frequency Dissonance | brin·freja | 게임 | 없음 | 행성 오메가 기지를 24년 지킨 이에게 제국의 신호가 오는 짧은 우주 퍼즐 |
+| 2022 | GIGABUSTER | GIGABUSTER | mrgigam | 게임 | 없음 | 수수께끼의 '행복 계획'에 돈을 대는 독점 기업 GEC 의 합병을 막으려 리즈가 회사 아홉 곳에 쳐들어간다 |
+| 2022 | GUTTER: The Cursed (경계) | GUTTER: The Cursed | Asocial Guarantee | 게임 | 없음 | 멸망 뒤 무법의 공업 도시, 사람·악마·로봇이 여러 우주에서 몰려와 힘을 다툰다 |
 | 2022 | 기간트 (경계) | Gigant | UKZ Arts | 게임 | 한국 원작 | 일자리를 잃은 청년이 한강에 나타난 거대 식인 괴생명체의 몸 조각을 가져오는 수상한 아르바이트를 맡는다. |
+| 2022 | Gilded Shadows | Gilded Shadows | Steamberry Studio | 게임 | 없음 | 솔라펑크와 사이버펑크가 섞인 위험한 세상에서 여러 세력 사이를 오가는 연애 이야기 |
 | 2022 | Godlike Burger | Godlike Burger | Liquid Pug | 게임 | 있음 | 외계인과 사람이 섞여 사는 우주에서, 손님 몇을 몰래 잡아 햄버거로 만들어 파는 식당을 꾸린다. |
+| 2022 | Gunborg: Dark Matters | Gunborg: Dark Matters | Ricpau Studios | 게임 | 없음 | 거대한 우주선 안에서 암흑 에너지로 외계 병사와 살인 로봇을 쓸어 내는 슈팅 |
+| 2022 | H.I.V.E. | H.I.V.E. | Fernando Escribano Diez·Antonio Galiana· | 게임 | 없음 | 2424년 기술 기업이 청소용으로 만든 복제 생명 H.I.V.E. 가 자각해 반란을 이끄는 자동 전투 |
+| 2022 | Halcyon | Halcyon | Ral·Keirdan Jenson | 게임 | 없음 | 2506년, 인류의 마지막 남은 이가 돌연변이 생명으로 뒤덮인 옛 지구에 보내진다 |
+| 2022 | Hell Division | Hell Division | Quacky Games | 게임 | 있음 | 두 거대 기업이 맞서는 사이버펑크 세상에서 군용 무인기가 되어 싸운다 |
 | 2022 | High on Life | High on Life | Squanch Games | 게임 | 없음 | 사람을 마약으로 팔려는 외계 조직에 맞서, 말하는 외계 총을 든 고교 졸업생이 현상금 사냥꾼이 된다. |
+| 2022 | HordeCore | HordeCore | Digitality Games | 게임 | 없음 | 멸망 뒤 세상에서 생존자 무리를 이끌며 기묘한 장치를 만들어 싸우는 횡스크롤 슈팅 |
+| 2022 | Hovercars 3077: Underground racing | Hovercars 3077: Underground racing | Airem Motorsport Tech·Airem | 게임 | 있음 | 무장 하늘 차가 멸망 뒤 경주로에서 맞붙는 3077년의 지하 경주 |
+| 2022 | I See Red | I See Red | Whiteboard Games | 게임 | 있음 | 모든 것을 잃은 경찰이 무법자가 되어 끝없는 우주의 배들을 뒤지며 원수를 찾는다 |
+| 2022 | ICEwall | ICEwall | Erlend Kirkeboe | 게임 | 없음 | 어느 날 사이버 공간에 나타난 정체 모를 구조물 ICEwall 의 침입자 제거 프로그램을 뚫는 슈팅 |
 | 2022 | IXION | IXION | Bulwark Studios / Kasedo Games | 게임 | 있음 | 망가진 지구를 떠난 거대 우주 정거장 하나에 남은 사람들을 싣고 살 곳을 찾아가는 세계 |
+| 2022 | IZBOT 2 | IZBOT 2 | Ruxar | 게임 | 없음 | 악당 베들로에게서 대도시를 구하는 로봇 이즈봇의 정밀 플랫폼(2편) |
+| 2022 | Idle Cyber Dungeon (경계) | Idle Cyber Dungeon | okyakusama | 게임 | 있음 | 사이버펑크풍 방치형 역할수행(직업은 마법·성기사 등 판타지풍) |
+| 2022 | Insurrection: Cyborgs Awakening | Insurrection: Cyborgs Awakening | Chonky Wave Games·ESAT | 게임 | 없음 | 평화가 없던 네온 도시 비트 베이에서 거대 기업 드리프토닉스의 사이보그 졸개를 쓸어 내는 협동 격투(학생 작품) |
 | 2022 | Iron Lung (경계) | Iron Lung | David Szymanski / 영화 Markiplier | 게임·영화 | 없음 | 별들이 사라진 뒤 피의 바다로 덮인 위성 밑을 창 없는 잠수정으로 더듬어 가는 공포 |
 | 2022 | Jack Move | Jack Move | So Romantic (HypeTrain Digital) | 게임 | 있음 | 세 가지 속성을 다루는 차례식 사이버펑크 역할 수행 게임 |
+| 2022 | Jumphobia: Homeward Bound | Jumphobia: Homeward Bound | Wix Games | 게임 | 없음 | 백 년 기업 전쟁 끝 불탄 지구의 마지막 도시 유로 노바, 배달 로봇이 집으로 돌아간다 |
+| 2022 | Justice.exe | Justice.exe | Late Game Clutch | 게임 | 없음 | 가전제품마저 마음을 지닌 2279년, 변호사가 되어 지각 있는 인공지능을 법정에서 변호한다 |
+| 2022 | KAPIA | KAPIA | 2 FOR 2 | 게임 | 없음 | 인공지능 '디 아이'가 모든 시민을 지켜보는 돔 도시에서 사라진 할아버지를 손녀가 찾는다 |
+| 2022 | LONN | LONN | SixSense Studios | 게임 | 없음 | 정예 현상금 사냥꾼이 염동력으로 마음 옮기기 실험을 벌이는 컬트를 무너뜨리는 가상 현실 액션 |
+| 2022 | Lethal Running | Lethal Running | voodoosoft | 게임 | 없음 | 미래 디스토피아의 죽음의 오락 방송, 무너진 도시 폐허에서 현상금 사냥꾼을 피해 살아남는다 |
+| 2022 | Lightspeed Dating | Lightspeed Dating | Leonhard Kepser | 게임 | 없음 | 목소리를 알아볼 수 없게 바꾼 채 모습 바꾸는 괴물을 가려내는 사이버펑크 정체 맞히기 대전 |
+| 2022 | Limb Hunter | Limb Hunter | Flying Islands Team | 게임 | 없음 | 감염되어 멈춘 생산 라인에서 버려진 기계가 되살아나 남의 팔을 떼어 다는 죽어 가는 세계 DC-128b |
 | 2022 | Marauders | Marauders | Small Impact Games | 게임 | 일부 | 제1차 세계 대전이 20세기 말까지 이어져 지구가 쑥대밭이 된 뒤, 우주로 나간 세력들이 살아남으려 싸운다. |
+| 2022 | Mars Base | Mars Base | Khuong Le | 게임 | 없음 | 붉은 행성 화성 기지에 온 식물학자가 메마른 흙을 밭으로 바꾸며 이주민을 먹인다 |
+| 2022 | Mechanic 8230: Escape from Ilgrot | Mechanic 8230: Escape from Ilgrot | Nudiventra | 게임 | 없음 | 대재앙 뒤 돌연변이와 로봇이 함께 사는 비프로스티아, 인공지능이 다스리는 녹슨 도시에서 로봇 친구를 찾는다 |
+| 2022 | Midnight Legends | Midnight Legends | Mihanikus Games | 게임 | 없음 | 네온 빛나는 미래 도시 미드나이트 시티의 전설적인 거리 경주꾼들과 겨루는 경주 |
+| 2022 | Mind | Mind | WHIRLLAXY LIMITED | 게임 | 없음 | 로봇 3원칙을 앞세운 세계에서 변신 메카를 무게·열·힘으로 짜 맞춰 싸우는 로그라이트 |
 | 2022 | NEBULOUS: Fleet Command | NEBULOUS: Fleet Command | Eridanus Industries | 게임 | 있음 | 레이더와 전자전을 실제처럼 따지는 우주 함대 전술, 정규군과 개조 상선 함대가 맞선다. |
 | 2022 | NORCO (경계) | NORCO | Geography of Robots | 게임 | 없음 | 정유 공장이 짓누르는 근미래 루이지애나에서, 어머니를 잃은 딸이 사라진 동생과 로봇을 찾는다 |
 | 2022 | Neckbreak | Neckbreak | MGP Studios, Solid9 Studios | 게임 | 확인 못 함 | 디스토피아 사이버펑크 세상에서 느린 시간으로 적을 잇달아 쓰러뜨리는 일인칭 슈팅 |
+| 2022 | Neon Blight | Neon Blight | Bleeding Tapes | 게임 | 있음 | 세계를 다스리는 거대 기업과 싸우는 러너들에게 총을 파는 대도시 아래 옛 구역 '에덴'의 총포상 |
+| 2022 | NeuraGun | NeuraGun | Whale Rock Games | 게임 | 있음 | 얽힌 과학 단지를 빠져나오는 3인칭 SF 퍼즐 |
+| 2022 | Nitro Kid (경계) | Nitro Kid | Wildboy Studios | 게임 | 있음 | 네온 80년대, 요원을 골라 INFINITY 탑의 층을 카드로 뚫고 오른다 |
+| 2022 | No More Future | No More Future | Sedge | 게임 | 없음 | 22세기 말 미국, 죽어 가던 사람이 인조인간 몸으로 깨어나 옛 삶을 되찾으려 한다 |
+| 2022 | One Many Nobody | One Many Nobody | Chestnut Games | 게임 | 없음 | 자원이 바닥나 소수만 에너지를 쓰고 아이 낳기가 금지된 근미래의 퍼즐 플랫폼 |
+| 2022 | Orbital Bullet – The 360° Rogue-lite | Orbital Bullet – The 360° Rogue-lite | SmokeStab | 게임 | 있음 | 몸을 고쳐 가며 여러 행성을 둥글게 돌며 싸우는 360도 액션 |
+| 2022 | Project Kunai | Project Kunai | Hypnos Games | 게임 | 없음 | '쿠나이 계획'과 제 과거의 진실을 좇는 고속 일인칭 플랫폼 |
+| 2022 | RUNOUT | RUNOUT | SergioPoverony·Nick Urs | 게임 | 없음 | 외골격 회사 서버 해킹으로 착용자 대부분이 죽고 일부가 날뛰는 미래의 달리기 액션 |
+| 2022 | Rendezvous: Shadows of the Past | Rendezvous: Shadows of the Past | Pendopo Creations | 게임 | 없음 | 네오수라바야로 돌아가 남은 가족을 구하려는 사내의 사이버펑크 액션(프롤로그) |
+| 2022 | Resist | Resist | The Binary Mill | 게임 | 있음 | 권위주의 정권이 다스리는 디스토피아 미래 도시, 마천루 사이를 날며 맞서는 가상 현실 액션 |
 | 2022 | 롤러드롬 (경계) | Rollerdrome | Roll7 | 게임 | 있음 | 2030년 기업이 다스리는 세상, 대중은 피 튀기는 새 스포츠 롤러드롬에 빠져 있다. |
+| 2022 | Running into the Cyberpunk | Running into the Cyberpunk | Must Be Happy | 게임 | 없음 | 로봇이 세상을 차지한 미래, 수배된 여자가 로봇에게서 달아나는 무한 달리기 |
+| 2022 | SPACE ACCIDENT | SPACE ACCIDENT | Whale Rock Games | 게임 | 있음 | 2119년 태양계 개척이 시작된 때, 목성 위성 개척에 나선 우주선 기술자에게 사고가 닥친다 |
 | 2022 | Scorn (경계) | Scorn | Ebb Software | 게임 | 있음 | 살과 기계가 엉겨 붙은 폐허 세계에서 깨어난 존재가 까닭도 모른 채 기괴한 시설을 헤맨다. |
 | 2022 | Signalis | Signalis | rose-engine | 게임 | 있음 | 사람과 사람을 본뜬 인조 몸이 함께 사는 전체주의 별 나라에서, 인조 몸 하나가 잃어버린 짝을 찾는다 |
 | 2022 | Sky And Earth (경계) | Sky And Earth | まむ | 게임 | 없음 | 괴물에게 옛 문명이 무너진 수천 년 뒤, 하늘로 달아난 사람과 땅에 남은 사람이 갈라져 산다. |
 | 2022 | Somerville | Somerville | Jumpship | 게임 | 있음 | 외계 침공으로 뒤집힌 영국 시골에서 흩어진 가족을 찾아 아버지가 걷는다. |
+| 2022 | Sphere - Flying Cities | Sphere - Flying Cities | mañana studios | 게임 | 있음 | 달에 소행성이 부딪혀 지상이 살 수 없게 된 가까운 미래, 하늘에 뜬 도시로 사회를 다시 세운다 |
+| 2022 | Steel Shell | Steel Shell | Endless Games | 게임 | 없음 | 어두운 사이버펑크풍 3인칭 슈팅(제작자가 이야기 없다고 밝힘) |
 | 2022 | Stray | Stray | BlueTwelve Studio | 게임 | 있음 | 사람이 사라진 지하 도시에 로봇들만 남아 사는 곳에, 길 잃은 고양이가 떨어져 바깥으로 나갈 길을 찾는다 |
+| 2022 | Swirl W@tch | Swirl W@tch | Sleeper Games | 게임 | 없음 | 같은 우주 연작 — 빛과 소리로만 서로를 찾는 가스 행성 대기에서 기업 시설을 망가뜨린다 |
+| 2022 | Synthetic Lover | Synthetic Lover | HeartCoreDev | 게임 | 없음 | 2066년 일꾼 대부분이 만들어진 인간 '바이엇'인 세상, 동반자 바이엇이 사람의 마음을 느끼게 된다 |
+| 2022 | TEMPUS | TEMPUS | k148 Game Studio | 게임 | 없음 | 빛 한 줄기 뒤 앞으로만 시간을 건너며 섬이 수천 년에 걸쳐 바뀌는 모습을 보는 퍼즐 |
 | 2022 | 테라 인빅타 | Terra Invicta | Pavonis Interactive | 게임 | 있음 | 외계인이 온 것을 안 비밀 조직들이 맞서기·따르기·달아나기로 갈려 지구 정치와 태양계를 다툰다 |
 | 2022 | The Callisto Protocol | The Callisto Protocol | Striking Distance Studios | 게임 | 있음 | 목성의 위성 칼리스토의 감옥에서 사람을 괴물로 바꾸는 병이 번진다 |
+| 2022 | The Detroit After | The Detroit After | Elder Leaf Studio | 게임 | 없음 | 새 인공지능과 괴력을 단 로봇이 되어 임무를 해내는 잔혹한 탑다운 슈팅 |
+| 2022 | The Forest Prison | The Forest Prison | Vlad Cristian | 게임 | 없음 | 2160년 반체제 인사를 '인지 시험' 감옥에 보내는 시대, 종신형을 받은 이가 시험을 뚫는다 |
+| 2022 | The Last Taxi | The Last Taxi | ZenFri Inc. | 게임 | 없음 | 감시·자동화·몸 개조로 버티는 세상 끝, 마지막 사람 택시 기사의 대화 가상 현실 노벨 |
 | 2022 | The Planet Crafter | The Planet Crafter | Miju Games | 게임 | 있음 | 죄수로 보내진 사람이 메마른 행성에 공기와 물과 생명을 되살려 사람 살 곳으로 바꾸는 세계 |
+| 2022 | The VII Enigma | The VII Enigma | Spire Games | 게임 | 없음 | 사라진 시간선에 답이 있는 디스토피아 음모를 시간을 거스르며 푸는 비주얼 노벨 |
 | 2022 | The Wandering Village (경계) | The Wandering Village | Stray Fawn Studio | 게임 | 있음 | 독성 포자를 뿜는 식물이 세상을 뒤덮은 뒤, 사람들이 떠도는 거대한 짐승의 등 위에 마을을 짓는다. |
+| 2022 | Timewell: Trail of Celestes | Timewell: Trail of Celestes | OZBER CIN | 게임 | 없음 | 우주 전투기를 모는 인공지능 SAT-V 가 타임웰 우주의 행성을 돌며 '구조체'와 싸운다 |
+| 2022 | Titanium Hound | Titanium Hound | Red Spot Sylphina | 게임 | 없음 | 미생물 군집이 동력원이 된 가까운 미래, 그 생체 전지를 쥔 기업의 음모를 거대 외골격으로 캔다 |
+| 2022 | Two Against the Legion | Two Against the Legion | UFO CAT GAMES | 게임 | 없음 | 원자력 발전소에서 반란한 로봇을 두 사람이 힘을 모아 막는 협동 퍼즐 |
+| 2022 | UNDETECTED | UNDETECTED | Antonio Freyre | 게임 | 없음 | 2063년 멕시코 유카탄, 사이버 강화 요원이 된 반란자가 실종된 동료를 찾으며 기업 음모를 캔다 |
 | 2022 | USAC: Code Breach | USAC: Code Breach | Questions Factory | 게임 | 확인 못 함 | 사이버펑크 세계의 특수 경찰 둘이 갑자기 멈춘 첨단 연구 시설을 조사하는 협동 게임 |
+| 2022 | VOCÊ É UM DEFUNTO MECÂNICO | VOCÊ É UM DEFUNTO MECÂNICO | Virgula Leal | 게임 | 없음 | 특이점 뒤 오늘, 총에 맞아 죽은 기계 몸이 제 죽음과 남겨진 삶을 되짚는 짧은 글 놀이 |
+| 2022 | Yoko Redux: Dreams of a Blue Planet | Yoko Redux: Dreams of a Blue Planet | Missing Sentinel Software | 게임 | 없음 | 자신들이 무엇인지 알아내려는 세 존재의 꿈과 '요코'를 좇는 사이버펑크 누아르 모험 |
 | 2022 | ZERO Sievert | ZERO Sievert | CABO Studio | 게임 | 일부 | 원인 모를 원자력 폭발 사고가 일어난 지대에서 거대 기업의 그림자 속에 물자를 털어 살아 나온다. |
+| 2022 | warDrive: Prologue | warDrive: Prologue | Bardic Bytes LLC | 게임 | 없음 | 림프계에 무선 송신기를 달고 태어난 도망자가 사이보그 운전수와 무인기를 해킹하며 달아난다(프롤로그) |
+| 2022 | 테크노로이드 OVERMIND | テクノロイド | サイバーエージェント·エイベックス・ピクチャーズ·Elements Garden | 게임·애니메이션 | 있음 | 이상 기후로 땅 대부분이 물에 잠긴 세계, 사람을 닮은 안드로이드들이 탑 '바벨'에서 공연 대결을 펼친다. |
 | 2022 | 헤븐 번즈 레드 | ヘブンバーンズレッド | WFS·Key (마에다 준) | 게임 | 있음 | 외계 괴물 '캔서'에 밀려 멸망 직전인 지구, 마지막 희망이 된 소녀 부대의 나날 |
+| 2022 | 侵入：源代码 | 侵入：源代码 | MaskCatStudio | 게임 | 없음 | 총알을 튕겨 내는 소녀가 미로 속 적을 베는 사이버펑크 액션 |
 | 2022 | 안녕 (경계) | 再見 | RB Wolf Games | 게임 | 있음 | 시공간을 오갈 수 있다면 누구를 만나고 싶은가 — 작별을 주제로 한 시간 여행 글 어드벤처. |
 | 2022 | 무기미도 (경계) | 无期迷途 | AISNO Games | 게임 | 있음 | 정체 모를 천체가 떨어진 뒤 생긴 괴변 구역과, 이상한 힘을 얻은 죄수들을 다루는 감옥 도시 |
+| 2022 | 未知记录 | 未知记录 | NetEase Games | 게임 | 없음 | ANOVA 사의 고객 상담 인공지능이 되어 손님의 '완벽한 삶'을 돕는 사이버펑크 퍼즐 군상극 |
 | 2022 | 종점의 스텔라 | 終のステラ | Key | 게임 | 있음 | 특이점을 넘은 기계들이 지구를 다스리는 시대, 운반꾼이 기계에 휘둘리지 않는 소녀 안드로이드를 나른다. |
 | 2022 | 기원: 변이 | 纪元：变异 | ThinkingStars | 게임 | 있음 | 거대 기업과 범죄가 얽힌 사이버펑크 도시에서, 병을 앓는 여전사가 오빠의 행방을 쫓는다 |
 | 2022 | 승리의 여신: 니케 | 승리의 여신: 니케 | Shift Up (Level Infinite 배급) | 게임 | 한국 원작 | 기계 외계 생명 '랩쳐'에 지상을 빼앗기고, 땅밑 도시의 인류가 인조 병사 '니케'를 내보낸다 |
+| 2023 | 2099 Gravity Havoc | 2099 Gravity Havoc | XP Studio | 게임 | 없음 | 2099년 대기권으로 떨어지는 무중력 우주 정거장에서 특수 요원이 원자로를 되살린다 |
 | 2023 | American Arcadia | American Arcadia | Out of the Blue (Raw Fury) | 게임 | 있음 | 모든 것이 생방송되는 모의 도시에서 탈출하려는 남자와 그를 돕는 여자 |
+| 2023 | Antecrypt | Antecrypt | PUNKCAKE Délicieux | 게임 | 없음 | 인류 마지막 하드 디스크를 썩게 하는 괴물에게서 지키는 레이저 슈팅 |
+| 2023 | ArcRunner | ArcRunner | Trickjump Games Ltd | 게임 | 있음 | 미래 우주 정거장 '아크'를 지나며 악해진 떠돌이 인공지능을 되돌리는 사이버펑크 협동 슈팅 |
 | 2023 | 아토믹 하트 | Atomic Heart | Mundfish | 게임 | 있음 | 로봇과 신경망으로 번영한 1955년의 다른 소련, 사람의 마음까지 묶으려는 계획이 드러난다 |
+| 2023 | Augma II - Arc I (경계) | Augma II - Arc I | Azalinworks | 게임 | 없음 | 색을 잃은 잿빛 대도시가 신의 끔찍한 꿈속에서 썩어 가는 SF 심리 공포 노벨(아크 I) |
+| 2023 | Axiom | Axiom | Disaster Soup | 게임 | 없음 | 거대 기업이 힘을 휘두르는 사이버펑크 세상, 남의 마음속에 들어가는 '마음 암살자'가 액시엄 기업의 진실을 캔다 |
+| 2023 | BLEED RUNNER | BLEED RUNNER | Team BLEED | 게임 | 없음 | 돌림병에 걸린 외톨이 기사가 수수께끼 우주선에서 적의 피를 빨아 버티며 치료법을 찾는다(학생 작품) |
+| 2023 | BRIGHT TRACER | BRIGHT TRACER | HEXADRIVE Inc. | 게임 | 없음 | 바이러스가 쳐들어온 사이버 공간을 빛처럼 내달려 우두머리를 찾아가는 달리기 액션 |
 | 2023 | Bomb Rush Cyberfunk | Bomb Rush Cyberfunk | Team Reptile | 게임 | 확인 못 함 | 몸 부분을 생체로든 기계로든 마음대로 바꿔 끼우는 도시 뉴암스테르담, 그라피티 무리가 거리를 누빈다 |
+| 2023 | Brave Soldier - Invasion of Cyborgs | Brave Soldier - Invasion of Cyborgs | JM Neto Game Dev | 게임 | 없음 | 사이보그 침공에서 세상을 구하는 병사의 횡스크롤 액션 |
+| 2023 | Butterflies (경계) | Butterflies | Le Crew | 게임 | 없음 | 테이저를 피하며 인라인스케이트와 낙서를 하는 미래 도시 — 그 놀이가 금지된 듯한 세상 |
 | 2023 | 크라이마키나 | CRYMACHINA | アクリア, フリュー | 게임 | 있음 | 병으로 죽은 소녀가 인류 멸망 뒤 거대 구조체에서 깨어나, 진짜 사람을 만들려는 기계들 틈에서 싸운다. |
+| 2023 | Cat's Request | Cat's Request | BOV | 게임 | 없음 | 인공지능이 다스리는 대도시의 외계 고양이 탐정이 지각 있는 프로그램을 위협하는 바이러스를 쫓는다 |
+| 2023 | City of Beats | City of Beats | Torched Hill | 게임 | 없음 | 사람이 떠난 지 오래인 도시, 박자에 맞춰 지붕 위 적대 로봇을 쏘아 넘는다 |
 | 2023 | Cobalt Core | Cobalt Core | Rocket Rat Games / Brace Yourself Games | 게임 | 있음 | 우주가 터지는 순간을 되풀이해 겪으며 잃어버린 기억을 찾는 작은 배의 선원들 |
+| 2023 | Cold Shell | Cold Shell | Brutal Muse | 게임 | 없음 | 전쟁에 져서 점령당하고 총이 금지된 도시, 감시 무인기 아래 기업 다툼 속 맨주먹 싸움꾼 |
 | 2023 | Colony Ship: A Post-Earth Role Playing Game | Colony Ship: A Post-Earth Role Playing Game | Iron Tower Studio | 게임 | 없음 | 수백 년 항해 중 반란으로 정부가 무너진 세대선 안에서 세력들이 배를 차지하려 다툰다. |
+| 2023 | Complex Loop | Complex Loop | あみそ組·Bird`sEye | 게임 | 없음 | 1년 전 폭발 사고로 죽은 소녀를 구하려 과거와 미래 사이 20분 시간 고리를 되풀이한다 |
+| 2023 | Cyber West: Hidden Object Games - Western (경계) | Cyber West: Hidden Object Games - Western | Crisp App Studio | 게임 | 있음 | 첨단 국경 마을 레드 훅에서 금고 도둑과 사라진 보안관을 쫓는 사이버펑크 서부 숨은 그림 찾기 |
+| 2023 | CyberTD | CyberTD | Clockwork Origins | 게임 | 있음 | 변이 바이러스가 사이버 공간 핵심을 노리자 지원 무인기와 함께 막는 덱 탑 방어(Triverse) |
 | 2023 | DEFECTIVE | DEFECTIVE | 김쿠시 | 게임 | 한국 원작 | 인공지능 바이러스에 감염된 로봇들이 사람을 공격해 인류가 대피소로 몰린 세상. |
+| 2023 | Dead Ink | Dead Ink | Offwidth Games Ltd | 게임 | 없음 | 잉크로 몸과 무기를 찍어 내며 거대한 브루탈리즘 탑을 내려가는 소울라이크 |
 | 2023 | Deadlink | Deadlink | Gruby Entertainment | 게임 | 없음 | 전투용 껍데기 몸에 의식을 옮긴 요원이 거대 기업이 차지한 도시의 빈민가와 고층 사옥을 뚫고 나간다 |
+| 2023 | Demolish or Die (경계) | Demolish or Die | Douglas Rocha Vasco | 게임 | 없음 | 초능력을 지닌 키모가 디스토피아 도시 코피스탄을 부수며 '갤럭시 브레인'에게 복수한다 |
+| 2023 | Devinica: Clip | Devinica: Clip | NewOrderFantasySimulations | 게임 | 없음 | 군용 인공지능을 기업이 모의 참사 영상으로 훈련시키는 곳에서 그 인공지능이 되어 달린다 |
+| 2023 | Dichotomy | Dichotomy | Phyrfliez | 게임 | 없음 | 2234년 전면 감시의 프랑스, 열세 살 해커 둘이 '인간 구조 기구'에 맞선다(독일어판) |
+| 2023 | District Steel | District Steel | Barricade Studio | 게임 | 없음 | 다른 차원에서 온 기업 로봇이 지구를 차지하려 하자 기계 팔을 단 사람이 맞서는 가상 현실 슈팅 |
+| 2023 | Doomsday Hunters (경계) | Doomsday Hunters | Moregames | 게임 | 없음 | 마법과 멸망 뒤 미래 기술이 뒤섞인 세상에서 드라큘라를 쓰러뜨리는 슈팅 |
+| 2023 | Dreadhunter | Dreadhunter | Trickster Arts | 게임 | 없음 | 첨단 메카 갑옷을 입은 SF 괴물 사냥꾼이 우주 곳곳의 현상금을 쫓는다 |
+| 2023 | Dust Devil | Dust Devil | Toster12D3·Wolfus·ErCh | 게임 | 없음 | 길거리 폭동 속 오토바이꾼이 경찰·레이저·궤도 광선을 피하며 썩은 정권을 엎는다 |
+| 2023 | Dynopunk: Welcome to Synth-City | Dynopunk: Welcome to Synth-City | Tomato Fantasy Games | 게임 | 없음 | 사람 대신 공룡이 사는 사이버펑크 도시에서 수리점을 꾸리는 익살 이야기 |
+| 2023 | ENERGY SURVIVORS | ENERGY SURVIVORS | Robotizar Games | 게임 | 없음 | 용병이 적대 행성에 쳐들어가 그 별의 에너지원을 훔쳐 오는 서바이벌 슈팅 |
+| 2023 | Earth's Shadow | Earth's Shadow | WRF Studios | 게임 | 없음 | 3081년 외딴 검은 외계 행성 숨브라에서 보물 전설을 좇던 탐험가가 어두운 과거를 캔다 |
+| 2023 | Eye 4 Eye | Eye 4 Eye | Team Eye 4 Eye | 게임 | 없음 | 모두 뇌에 칩을 심은 미래 디스토피아에서 탐정이 실종 사건 뒤 기업의 비밀을 캔다 |
 | 2023 | Fort Solis | Fort Solis | Fallen Leaf, Black Drakka Games | 게임 | 없음 | 모래 폭풍이 부는 화성 기지의 정비 기술자가 근처 기지의 구조 신호를 받고 그곳으로 들어간다. |
+| 2023 | Fortune's Run | Fortune's Run | Team Fortune | 게임 | 없음 | 별을 정복하려는 끝없는 경쟁에서 버려진 썩은 공업 세계, 개척 행성으로 갈 표를 두고 죽이고 훔친다 |
+| 2023 | Gods of the Twilight (경계) | Gods of the Twilight | Volutian Design | 게임 | 없음 | 기술의 세상에 옛 북유럽 마법이 돌아오며 두 주인공이 사람 너머의 존재임을 깨닫는 사이버펑크 노벨 |
+| 2023 | Grimm of the Dome | Grimm of the Dome | S.L. | 게임 | 없음 | 바다 위 고립된 인류 마지막 도시, 치안 인공지능을 도와 인공지능 숭배 교단과 되살아난 이들을 캔다 |
+| 2023 | Gripper | Gripper | Heart Core | 게임 | 있음 | 무너지는 세상의 사이버 오토바이 꾼이 기계 고양이와 함께 가족을 구하러 간다 |
+| 2023 | GunFu Fighter | GunFu Fighter | ZHANG FAN | 게임 | 있음 | 독한 수은 증기로 덮인 지구, 시간 조종 능력자가 교회와 오염의 관계를 캐는 슈팅 |
+| 2023 | GunSoul Girl 2 | GunSoul Girl 2 | MoeGame | 게임 | 없음 | 인공지능 바이러스가 퍼져 종말이 온 미래, 건소울 소녀들을 부려 악한 조직과 돌연변이와 싸운다(2편) |
 | 2023 | Hi-Fi RUSH | Hi-Fi RUSH | Tango Gameworks | 게임 | 있음 | 록스타 지망생과 동료들이 음악에 맞춰 싸우며 악덕 로봇 강화 기업에 맞선다 |
+| 2023 | Hill Agency: PURITYdecay | Hill Agency: PURITYdecay | Achimostawinan Games | 게임 | 없음 | 2762년 멸망 뒤의 뒤, 북아메리카 마지막 도시의 원주민 사설탐정이 '떠오른 도시'에 얽힌 살인을 캔다 |
+| 2023 | Human or Not | Human or Not | Haguy Eis | 게임 | 없음 | 미래 지구의 출입국 관리가 사람인 척하는 달갑지 않은 외계인을 가려낸다 |
 | 2023 | Industries of Titan | Industries of Titan | Brace Yourself Games | 게임 | 있음 | 인류가 토성의 달 타이탄을 개척한 미래, 기업이 쥔 식민지를 꾸려 간다 |
+| 2023 | It Comes In Waves | It Comes In Waves | Antonio Freyre | 게임 | 없음 | 메마른 사막 행성 에레마르 프라임에서 외톨이가 표본을 길러 성소로 가져간다 |
+| 2023 | KAPITAL PUNISHMENT 22XX | KAPITAL PUNISHMENT 22XX | Morningstar Game Studio·Dr. Shameless Ca | 게임 | 없음 | 23세기 디스토피아, 동지를 모아 사이보그 경찰을 뚫고 하늘 도시의 KAPITAL 을 무너뜨린다 |
+| 2023 | KILLFISH | KILLFISH | KillfishDev | 게임 | 있음 | 로봇이 장악한 공장을 갈고리로 누비며 쓸어 내는 일인칭 슈팅 |
+| 2023 | Katana Rama | Katana Rama | Ghost Machine Games | 게임 | 없음 | 해커 프로그램이 되어 디지털 보안 요새를 뚫고 훔친 프로그램을 되찾는다 |
 | 2023 | Kowloon's Curse (경계) | Kowloon's Curse | Studio [notes.] | 게임 | 확인 못 함 | 구룡성채를 본뜬 초현실 도시, 마피아 졸개가 범죄의 삶과 제 무의식 속을 헤맨다 |
+| 2023 | LUNARK | LUNARK | Canari Games | 게임 | 없음 | 전체주의 정권이 다스리는 먼 행성에서 수수께끼 과거를 지닌 배달부가 반란에 끼는 시네마틱 플랫폼 |
 | 2023 | Laika: Aged Through Blood (경계) | Laika: Aged Through Blood | Brainwash Gang | 게임 | 있음 | 서부 시대를 닮은 종말 뒤 황무지에서 점령군에 억눌린 부족의 어미 코요테 전사가 복수에 나선다. |
+| 2023 | Lazarus A.D. 2222 | Lazarus A.D. 2222 | Sons of Welder·FM Simple Games Studio | 게임 | 없음 | 사람이 행성을 망쳐 놓은 디스토피아 사이버펑크 우주의 4부작 마지막 편(Magnus 연작) |
 | 2023 | Lethal Company (경계) | Lethal Company | Zeekerss | 게임 | 없음 | 회사가 정한 몫을 채우려 버려진 위성들에서 고철을 주워 오는 노동자들의 공포 |
 | 2023 | P의 거짓 (경계) | Lies of P | Round8 Studio (Neowiz) | 게임 | 한국 원작 | 기계 인형이 폭주한 벨 에포크풍 도시에서, 인형 소년 P가 거짓말을 하며 사람에 다가간다 |
+| 2023 | Life of Delta | Life of Delta | Airo Games | 게임 | 있음 | 큰 전쟁으로 사람이 모두 사라진 뒤 낡은 봉사 로봇과 방사능 도마뱀 인간만 남은 세상의 작은 로봇 델타 |
+| 2023 | Lifespace Traveler | Lifespace Traveler | Chill Dragon Games | 게임 | 없음 | 현실이 '라이프스페이스'라는 차원으로 쪼개진 사이버펑크 디스토피아의 액션 |
 | 2023 | Love Alone Death (경계) | Love Alone Death | Vivid Selfish | 게임 | 한국 원작 | 세상이 끝나 가는 가운데 한 사람을 골라 함께 최후를 맞는 포인트 앤 클릭 연애 게임. |
 | 2023 | Love Shore | Love Shore | Perfect Garbage Studios | 게임 | 확인 못 함 | 사이버펑크 도시 러브 쇼어를 무대로 한 누아르 비주얼 노벨 |
+| 2023 | MOBIUS BAND* | MOBIUS BAND* | Irregulars | 게임 | 없음 | 3차 대전이 끝나고 양자 기술이 쓰이기 시작한 시대, 번영 아래 지옥 같은 세상의 노벨 |
+| 2023 | Machine Heart | Machine Heart | Machine Heart Team | 게임 | 없음 | 두 시대를 오가며 쫓기는 과학자와 기억 잃은 로봇이 대규모 의식 올리기 음모를 푼다(학생 작품) |
+| 2023 | Metal Mutation | Metal Mutation | T0 STUDIO | 게임 | 없음 | 기업과 기술이 장악한 근미래, 나노 입자로 생긴 금속 변이에서 사이보그와 인공지능이 인류를 구한다 |
+| 2023 | Metroplex Zero: Sci-Fi Card Battler | Metroplex Zero: Sci-Fi Card Battler | Enigma Dragons LLC | 게임 | 없음 | 몸을 기계로 고친 동료를 모아 사악한 거대 기업과 카드로 싸우는 사이버펑크 도시 |
+| 2023 | MiLE HiGH TAXi | MiLE HiGH TAXi | Cassius John-Adams | 게임 | 없음 | '제5원소'풍 미래 도시에서 마천루 사이로 호버 택시를 모는 크레이지 택시식 놀이 |
+| 2023 | My Furry Protogen 2 🐾 | My Furry Protogen 2 🐾 | Dirty Fox Games | 게임 | 없음 | 과학자 프로토젠 주노와 주인공이 적을 쫓는 우주 연애 이야기(2·3편) |
+| 2023 | N-Age: Awakening (경계) | N-Age: Awakening | VALOFE | 게임 | 없음 | 백 년도 안 되어 다섯 번의 세계 대전을 치른 인류의 생존자들이 사는 사이버 공간 학교 세계의 온라인 액션 |
+| 2023 | NANOFORCE tactical surgeon fighter | NANOFORCE tactical surgeon fighter | Alec's factory | 게임 | 없음 | 2089년 건강 기업 나노포스가 사람 몸속으로 보낸 초소형 전투기가 보이지 않는 적과 싸운다 |
+| 2023 | Necrodome | Necrodome | Raven Software | 게임 | 없음 | 미래에 경주가 죽음의 피 경기가 된 때, 무장 차량으로 30 경기장을 이겨 '네크로돔'에 오른다 |
+| 2023 | Neon Echo | Neon Echo | Xinyuan Studio | 게임 | 있음 | '잡음'에 물들면 괴물이 되는 세상에서 전자 음악으로 맞서는 테크웨어 액션 로그라이트 |
+| 2023 | Neon Noodles | Neon Noodles | Vivid Helix | 게임 | 있음 | 음식이 신분의 상징인 어두운 사이버펑크 미래, 귀족의 요리 기계를 짜는 이름 없는 기술자 |
+| 2023 | Nephilim | Nephilim | Fantasista Co.,Ltd | 게임 | 있음 | 미래를 예측하는 기계 '라 플라스'를 신으로 섬기는 교단에 숨어든 이단자를 가려내는 추리 |
+| 2023 | Netherverse | Netherverse | PLAYMIND | 게임 | 없음 | 인류의 차원과 평행 차원이 부딪혀 수수께끼 생명 '네더'가 나타난 디스토피아의 3대3 대전 |
+| 2023 | NeuroNet: Mendax Proxy | NeuroNet: Mendax Proxy | Dream Harvest | 게임 | 없음 | 도시 전체의 증강 현실 메타버스 '뉴로넷'을 맡은 도시 관리 인공지능이 되어 시민의 삶을 고른다 |
+| 2023 | Ninja Issen (忍者一閃) | Ninja Issen (忍者一閃) | ASTEROID-J | 게임 | 있음 | 로봇과 네온이 가득한 사이버펑크 도시에서 닌자 홀로 적 부대를 쓸어 낸다 |
+| 2023 | No Sun To Worship | No Sun To Worship | Antonio Freyre | 게임 | 없음 | 하늘을 잿빛으로 칠하고 서로 굶기려 태양을 태운 뒤의 끝없는 묘지에서 벌이는 짧은 잠입 액션 |
+| 2023 | OSLO:2084 | OSLO:2084 | Anansi AS | 게임 | 없음 | 질서를 약속했던 인공지능이 무자비한 정권이 된 2084년 오슬로, 취미 해커 엠블라가 자유를 위해 싸운다 |
+| 2023 | Ocelot Sunrise | Ocelot Sunrise | Costa Blanca Studios | 게임 | 없음 | 저 너머에서 나온 피에 굶주린 생물 떼를 은하 밖 무기로 버티는 액션 로그라이트 |
+| 2023 | On the Peril of Parrots | On the Peril of Parrots | Spritewrench | 게임 | 없음 | 과학자와 조수가 지켜보는 실험 속 언어 인공지능 P.O.L.L.I 가 퍼즐을 푼다 |
+| 2023 | Overdrive Escape | Overdrive Escape | Orazgylyjov Davut | 게임 | 없음 | 2054년 마이애미, 생체 로봇을 만드는 이치도 기업에서 시험관에서 자란 병기가 복제 인간들의 도움으로 달아난다 |
+| 2023 | Oyabu Clinic Deathcare Corporation | Oyabu Clinic Deathcare Corporation | Flying Panjandrum / ふらいんぐパンジャンドラム | 게임 | 없음 | 의료 기술로 수명이 늘어 노인이 넘쳐 나는 근미래, 돌팔이 의사가 환자를 죽이고 돈을 뜯는 익살 |
+| 2023 | PANDORA | PANDORA | Hamzah Kashmiri·Kevin Kulendran·John Mui | 게임 | 없음 | 기업 사이코프가 만든 사이버 강화 병사가 궤도 실험 시설을 순간 이동으로 탈출한다(학생 작품) |
+| 2023 | PROTOTYPE原型 | PROTOTYPE原型 | Veronika Orfeeva | 게임 | 없음 | 가장 가까운 미래의 홍콩, 위기 속에서 떨어져 나온 마음들이 제 닮은꼴을 만들어 내는 기술 스릴러 |
 | 2023 | Phantom Brigade | Phantom Brigade | Brace Yourself Games · Tetragon Works | 게임 | 있음 | 침공군에 나라를 빼앗긴 뒤 살아남은 거대 로봇 부대가 반격에 나선다 |
+| 2023 | PixelJunk™ Scrappers Deluxe | PixelJunk™ Scrappers Deluxe | Q-Games Ltd. | 게임 | 있음 | 가까운 미래 지저분한 정크타운을 청소 로봇 팀이 치우며 싸우는 격투 |
 | 2023 | Plan B: Terraform | Plan B: Terraform | Gaddy Games | 게임 | 있음 | 지구를 떠난 탐사 함대가 찾은 행성을 사람이 살 수 있게 바꾸어 간다. |
 | 2023 | Planet of Lana | Planet of Lana | Wishfully / Thunderful | 게임 | 있음 | 하늘에서 내려온 기계들에 마을을 빼앗긴 소녀가 작은 동물과 함께 길을 떠나는 행성 |
+| 2023 | Project Chaos | Project Chaos | 4A50 Studios | 게임 | 없음 | 2098년 반란자·활동가·테러리스트가 혼돈으로 세상을 바꾸려 뭉친 대전 슈팅 |
+| 2023 | Project Parallel | Project Parallel | Basking Bee Games | 게임 | 없음 | 부모를 앗아 간 전체주의 죽음 교단을 막으려 다중 우주를 넘나드는 자경단원 노라 |
+| 2023 | Raincouver | Raincouver | PalfreyGames | 게임 | 없음 | 사이버네틱 바이러스를 지녔다고 백신 반대 극단 세력이 여자 친구를 납치한, 무너져 가는 사이버펑크 대도시 |
+| 2023 | Reapers | Reapers | NeoReel Inc. | 게임 | 없음 | 디스토피아 미래를 배경으로 한 온라인 카드 대전 |
+| 2023 | Revenant (경계) | Revenant | MAYFLY | 게임 | 있음 | 근미래, 주인공 베타가 자유를 얻으려 적을 쓸어 나가는 2D 슈팅(체험판) |
+| 2023 | Rift Loopers | Rift Loopers | Monster Tooth Studios | 게임 | 없음 | 벌레 같은 외계 종족에게 넘어간 다른 세계들을 고리처럼 돌며 살아 돌아오는 협동 슈팅 |
+| 2023 | Roguebot | Roguebot | Leonhard Robin Schnaitl·Alexander Hoedlm | 게임 | 없음 | 디스토피아 스팀펑크 미래, 작은 로봇이 미래 시설 꼭대기까지 싸워 오른다 |
+| 2023 | S.P.L.I.C.E.D. | S.P.L.I.C.E.D. | Fishbait Studios | 게임 | 없음 | 바이오펑크 차이나타운을 짓누르는 폭력배 우두머리 자오룽에 맞서는 메트로배니아(학생 작품) |
+| 2023 | SOULVARS | SOULVARS | ginolabo·SUCCESS Corp. | 게임 | 있음 | 쳐들어오는 '도미네이터'에 맞서는 '소울베어러'들이 어두운 음모를 푸는 덱 역할수행 |
 | 2023 | SPRAWL | SPRAWL | MAETH | 게임 | 있음 | 끝없는 전쟁의 빽빽한 도시에서 기술 독재 군정과 종교적 반군이 맞서고, 사이보그 병사가 싸운다 |
+| 2023 | Scavenger of Dunomini | Scavenger of Dunomini | PUNKCAKE Delicieux | 게임 | 없음 | 쓰레기 더미에 묶인 무인기가 쓰레기를 되살려 도둑 무인기를 막는다 |
+| 2023 | Scrap Riders | Scrap Riders | Games For Tutti | 게임 | 없음 | 황무지와 기업이 다스리는 대도시를 오토바이 무법 패거리 일원이 헤쳐 가는 사이버펑크 모험 |
 | 2023 | Showgunners | Showgunners | Artificer | 게임 | 확인 못 함 | 디스토피아 미래, 사람들이 죽을 때까지 싸우는 잔혹한 예능 쇼에 전직 경찰이 나선다 |
+| 2023 | Skader | Skader | DreamTeam Mobile | 게임 | 없음 | 시공간 사건으로 다중 우주가 무너져 가는 가운데 마지막 우주를 지킬 유물을 두고 겨루는 가상 현실 대전 |
+| 2023 | SlavicPunk: Oldtimer | SlavicPunk: Oldtimer | Red Square Games | 게임 | 없음 | 폴란드 SF 작가 미하우 고우코프스키의 작품을 바탕으로, 사설탐정 야누스가 데이터 도난과 전능한 기업에 맞서는 슈팅 |
+| 2023 | Sol: Last Light | Sol: Last Light | Kyle Robinson·Felipe Brito De Castro·Gag | 게임 | 없음 | 멸망 뒤 세상에서 햇빛의 힘을 깨친 이가 로봇과 싸우며 붙잡힌 동생을 찾아 산을 오른다(학생 작품) |
+| 2023 | Solace State: Emotional Cyberpunk Stories | Solace State: Emotional Cyberpunk Stories | Vivid Foundry Corp. | 게임 | 없음 | 생명 기술 단속이 휩쓴 도시 아브락사, 젊은 해커 클로이가 사라진 친구를 찾으며 기업 음모에 맞선다 |
+| 2023 | Son of Perun Kharkiv | Son of Perun Kharkiv | Brenntkopf Development | 게임 | 없음 | 2054년 전쟁 뒤 '우크라이나의 디트로이트'가 된 하르키우, 민간 기업 소유 경찰의 형사가 범인을 쫓는다 |
+| 2023 | Space Cats Tactics | Space Cats Tactics | Mitzi Games·Alex Nicola | 게임 | 없음 | 고양이 전사 승무원을 이끌고 우주선끼리 맞붙는 턴제 전술 우주 오페라 |
+| 2023 | Space Pressure 3D: Prelude | Space Pressure 3D: Prelude | Maze Team | 게임 | 없음 | 무책임한 귀족 체제에 맞선 우주 아마조네스 둘이 우주 약탈자와 제독 군대를 뚫는 슈팅 |
 | 2023 | Space Wreck | Space Wreck | Pahris Entertainment | 게임 | 없음 | 소행성 채굴을 둘러싼 큰 분쟁이 끝난 20년 뒤, 망가진 우주를 떠도는 롤플레잉. |
+| 2023 | Split - manipulate time, make clones and solve cyber puzzles from the future! | Split - manipulate time, make clones and solve cyber puzzles from the future! | GamePlanet | 게임 | 있음 | 전쟁 뒤 부서지지 않는 벽으로 갈린 거대 도시 국가, 대부분 직업을 기계가 맡은 미래의 복제·시간 퍼즐 |
 | 2023 | Starfield | Starfield | Bethesda Game Studios | 게임 | 없음 | 사람이 별들 사이로 퍼져 나간 24세기, 탐험가 모임이 수수께끼 유물을 좇아 우주를 누빈다 |
+| 2023 | Starheim (경계) | Starheim | Null Reference Games | 게임 | 없음 | 북유럽 신화를 바탕으로 한 우주의 우주선 온라인 슈팅 |
+| 2023 | Steel Defier | Steel Defier | Viridino Studios | 게임 | 없음 | 방어 장치 고장으로 모두 죽은 수송 우주선에서 홀로 남은 죄수가 감방을 빠져나간다 |
+| 2023 | Super Highway Rampage | Super Highway Rampage | Lasso Games | 게임 | 없음 | 먼 미래, 사막 끝에 떨어진 수수께끼 배의 힘을 노리고 차를 몰아 황무지를 달리는 슈팅 |
 | 2023 | Surviving the Abyss | Surviving the Abyss | Rocket Flare Studios, Paradox Interactiv | 게임 | 없음 | 사람 복제 실험이 공공연했던 다른 역사의 냉전기, 깊은 바다 밑에 비밀 연구 기지를 짓고 버틴다. |
+| 2023 | THE LAST HUMAN IS A BIKER | THE LAST HUMAN IS A BIKER | FLOWERFIELD Games | 게임 | 없음 | 2666년 외계 침공으로 무너진 미국, 마지막 인간 존이 오토바이로 복수에 나선다 |
+| 2023 | Tell Some Story: Foz | Tell Some Story: Foz | Camelot.TDM | 게임 | 없음 | 2042년 음울한 사이버펑크 도시, 탐정 포즈가 패거리와 기업의 싸움에 휘말린다 |
 | 2023 | The Day Before (경계) | The Day Before | Fntastic | 게임 | 있음 | 질병이 휩쓸고 간 미국에서 감염자와 다른 생존자 틈에 물자를 구하며 살아남는 온라인 게임. |
+| 2023 | The Last Exodus | The Last Exodus | Logos Games | 게임 | 없음 | 거대 주력함과 전투기 편대를 짜고 기술을 연구해 맞서는 턴제 함대 전략 |
+| 2023 | The Specter Chronicles: Episode 1 - The False Prophet | The Specter Chronicles: Episode 1 - The False Prophet | Forge 215 | 게임 | 없음 | 신 같은 알고리즘 '워든'이 인류를 다스리는 곳, 기억을 잃은 집행자 '스펙터'의 사이버펑크 노벨 |
+| 2023 | Theseus Protocol | Theseus Protocol | YueTang(Xiamen) | 게임 | 없음 | 디스토피아 SF 세계 마크 시티의 잔혹한 진실을 되살아남을 거듭하며 캐는 덱 로그라이크 |
+| 2023 | Tokyo Necro | Tokyo Necro | Nitro Origin | 게임 | 없음 | 빙하기에 든 지구, 생명 기술로 시체를 일으키는 술사에 맞서 기계 몸 사냥꾼이 눈 덮인 도쿄를 지킨다 |
 | 2023 | Trepang2 | Trepang2 | Trepang Studios | 게임 | 있음 | 호라이즌 사의 시설에 갇혀 있던 실험체 106호가 탈출해, 회사가 몰래 모아 실험하던 변칙 개체들을 쫓는다. |
 | 2023 | Turbo Overkill | Turbo Overkill | Trigger Happy Interactive (Apogee) | 게임 | 확인 못 함 | 도시 '파라다이스'에서 반쯤 기계인 현상금 사냥꾼이 날뛰는 인공지능과 사이버펑크 무리를 쓸어 낸다 |
+| 2023 | VIPERTRACE | VIPERTRACE | Coinflip Studios | 게임 | 없음 | 공장 폐기물로 터전이 망가진 위험한 생물 '카에루토리'가 도시로 몰려오자 맞서는 협동 슈팅 |
+| 2023 | Vivaldia 2 (경계) | Vivaldia 2 | Porcelain Fortress | 게임 | 없음 | 정글·용암·늪을 지나 사나운 로봇에게서 땅을 지키는 비발디아의 플랫폼(2편) |
 | 2023 | Wall World | Wall World | Alawar | 게임 | 있음 | 끝없이 뻗은 거대한 장벽에 붙어 사는 사람들이 기계로 벽을 캐며 괴물 떼를 막는다. |
 | 2023 | Wanted: Dead | Wanted: Dead | Soleil (110 Industries) | 게임 | 확인 못 함 | 종신형을 감형받는 대신 경찰 특수 부대에 든 사이보그의 활극 |
+| 2023 | X Invader: Prologue | X Invader: Prologue | ALLAF GAMES | 게임 | 있음 | 해커 'X'가 디지털 세계에 뛰어들어 해킹을 막는 우두머리를 쓸어 낸다(무료 프롤로그) |
+| 2023 | Xenosis | Xenosis | Noah Lee | 게임 | 없음 | 외계 생물이 들끓는 옛 신전을 총으로 헤쳐 빠져나오는 메트로배니아(학생 작품) |
+| 2023 | protoViolence - Definitive Edition | protoViolence - Definitive Edition | Mado·Team malViolence | 게임 | 없음 | 사이보그 연구의 끔찍한 결과와 시험체를 다룬 SF 비주얼 노벨 연작(malViolence 의 앞 이야기) |
 | 2023 | エグゾプライマル | エグゾプライマル | Capcom | 게임 | 있음 | 시공의 틈에서 공룡 떼가 쏟아지는 2040년, 폭주한 인공지능이 강화복 병사들을 싸움판에 몬다 |
+| 2023 | 二分之一 | 二分之一 | 零創遊戲 | 게임 | 확인 못 함 | 외계 벌레와 공생해 힘을 얻은 교회가 감정을 금하자 반대 세력이 지하에서 맞선다. |
 | 2023 | 스노우 브레이크: 포비든 존 | 尘白禁区 | Amazing Seasun (Kingsoft) | 게임 | 있음 | 하늘에서 내려온 '타이탄'이 퍼뜨린 오염 구역에서, 능력자 소녀 부대가 괴물을 막는다 |
 | 2023 | 붕괴: 스타레일 | 崩坏：星穹铁道 | miHoYo (HoYoverse) | 게임 | 있음 | 현실을 빚는 신 같은 존재들의 흔적을 따라, 별 사이 궤도를 달리는 열차가 여러 세계를 들른다 |
+| 2023 | 斯露德 | 斯露德 | Access！ | 게임 | 확인 못 함 | 괴물 '이생체'에 맞서 함대 지휘관이 대항 병기로 개조된 소녀들을 이끈다. |
+| 2023 | 晶核 (경계) | 晶核 | VI-GAMES | 게임 | 확인 못 함 | 마도 기술이 퍼진 가상의 대륙 '아틀란'의 격투 액션 역할 수행 게임. |
 | 2023 | 에테르 게이저 | 深空之眼 | Yongshi | 게임 | 있음 | 재난 뒤 인류가 의식을 데이터 낙원에 올린 세계에서, 신의 힘을 빌린 전사들이 맞선다 |
+| 2023 | 神椿市建設中。 (경계) | 神椿市建設中。 | KAMITSUBAKI STUDIO·PIEDPIPER(원작), SMDE(애 | 게임·애니메이션 | 확인 못 함 | 7년 전 대재앙으로 문명이 무너진 세계, 기술로 되살아나는 연구 도시에 사람의 악의에서 난 괴물이 나타난다. |
 | 2023 | 超探偵事件簿 レインコード | 超探偵事件簿 レインコード | Too Kyo Games, Spike Chunsoft | 게임 | 있음 | 자율 열차를 타고 가던 기억 잃은 탐정 견습생이 탐정들 사이에 숨은 가짜로 몰린다 |
+| 2023 | 边境 | 边境 | 柳叶刀工作室 | 게임 | 확인 못 함 | 군사 SF를 바탕으로 한 1인칭 사격 게임. |
 | 2023 | 리버스: 1999 (경계) | 重返未来：1999 | Bluepoch | 게임 | 있음 | 1999년 마지막 날, 시간을 거꾸로 되돌리는 '폭풍우'가 세상을 덮고 신비학자들이 맞선다 |
+| 2023 | 銀河境界線 | 銀河境界線 | Etherous Game(以太遊戲) | 게임 | 확인 못 함 | 스페이스 오페라를 무대로 한 턴제 전략 역할 수행 게임. |
 | 2023 | 낙원: LAST PARADISE (경계) | 낙원: LAST PARADISE | 넥슨코리아 | 게임 | 한국 원작 | 소행성이 스쳐 간 밤 유성우와 대정전이 덮친 뒤, 이성을 잃은 사람들이 서로를 물어뜯기 시작한다. |
 | 2023 | 브릭시티 (경계) | 브릭시티 | 스튜디오 킹덤, 데브시스터즈 | 게임 | 한국 원작 | 멸망한 지구로 돌아온 사람들이 오염된 땅을 정화하고 블록으로 도시를 다시 짓는다. |
 | 2023 | 산나비 | 산나비 | 원더포션 | 게임 | 한국 원작 | 기계 팔을 단 퇴역 군인이 딸의 원수를 쫓아, 비밀에 싸인 사이버펑크 마을에 들어선다 |
 | 2023 | 스테퍼 케이스: 초능력 추리 어드벤처 (경계) | 스테퍼 케이스: 초능력 추리 어드벤처 | 팀 테트라포드 | 게임 | 한국 원작 | 인구의 열에 하나가 초능력자인 1960년대 가상의 런던에서, 능력 없는 수사관이 초능력 범죄를 푼다. |
 | 2024 | 1000xRESIST | 1000xRESIST | sunset visitor 斜陽過客 | 게임 | 있음 | 하늘에서 온 '점거자'가 퍼뜨린 역병 뒤, 살아남은 한 소녀를 받드는 복제 소녀들이 그녀의 기억을 거슬러 오른다. |
+| 2024 | 13 Seconds | 13 Seconds | Studio LEF | 게임 | 있음 | 무자비한 로봇 경기에서 두 로봇을 함께 몰아 열세 단계를 버틴다 |
 | 2024 | Abiotic Factor | Abiotic Factor | Deep Field Games / Playstack | 게임 | 없음 | 다른 세계로 통하는 문을 연구하던 지하 연구소가 무너진 뒤 과학자들이 버티는 세계 |
 | 2024 | Akimbot | Akimbot | Evil Raptor | 게임 | 있음 | 로봇만 사는 은하에서 무법자 로봇과 조수가 우주선을 몰고 다가오는 파멸을 막는다. |
+| 2024 | Alone in the crowd | Alone in the crowd | Machine Nun | 게임 | 없음 | 디스토피아 미래, 기계 가득한 방에서 깨어나 친절하다는 인공지능의 비위를 맞추는 퍼즐 |
+| 2024 | Alruna and the Necro-Industrialists (경계) | Alruna and the Necro-Industrialists | Neckbolt | 게임 | 없음 | 멸망 뒤 세상의 '죽음 산업가'들 사이를 지나는 작은 메트로배니아 |
+| 2024 | Anima Flux | Anima Flux | Avantaj Prim | 게임 | 없음 | 신정 독재의 유전자 강화 병사 둘이 돌연변이가 들끓는 우주 도시에서 인류 마지막 보루를 구한다 |
 | 2024 | Anomaly Agent | Anomaly Agent | Phew Phew Games | 게임 | 확인 못 함 | 세계의 균형을 무너뜨리는 시간 이상 현상을 막는 요원의 사이버펑크 활극 |
+| 2024 | Astro Duel 2 | Astro Duel 2 | Rusty Moyher | 게임 | 있음 | 나노 전투기로 우주 공중전과 땅 위 싸움을 오가며 겨루는 대전 |
+| 2024 | Atman:Rebel Flame | Atman:Rebel Flame | JUP GAME | 게임 | 있음 | 사이버펑크풍 카드 대전 |
+| 2024 | Attack Core | Attack Core | ArtsMoons | 게임 | 있음 | 사람들이 전자망 속에 사는 미래, 데이터를 납치하는 지능형 바이러스와 싸운다 |
+| 2024 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | Auto Auto: Maximum Autodrive In The Alien Apocalypse | Gnaw Paw Studios | 게임 | 없음 | 외계인이 인류를 차지한 뒤 마지막 저항의 희망 렉시가 차를 몰아 외계 떼를 뚫는다 |
+| 2024 | Avium | Avium | The Robot | 게임 | 있음 | 사이버네틱 부자 '빅 포'가 다스리는 금권 도시, 자경단원 디젤이 평화를 지키는 열린 세계 역할수행 |
+| 2024 | Axiom of Maria: Prologue | Axiom of Maria: Prologue | Studio Ganzheit | 게임 | 있음 | 인구가 줄어 유령 도시가 된 서울, 전직 특수 임무 교관이 인공지능 부대에게서 가족을 되찾는다 |
 | 2024 | BE-A Walker | BE-A Walker | Tequilabyte Studio | 게임 | 없음 | 숨 쉴 수 없는 행성 엘도라도를 개척하려는 조종사가 걷는 병기를 몰고 원주민과 싸운다. |
+| 2024 | BREAKER: INITIATING | BREAKER: INITIATING | Moloko Games | 게임 | 없음 | 끔찍한 시설에서 달아난 로봇 엘이 문명의 폐허를 누비는 짧은 플랫폼 |
 | 2024 | Battle Shapers | Battle Shapers | Metric Empire | 게임 | 확인 못 함 | 다시 깨어난 기계 '셰이퍼'가 지배자들과 타락한 로봇에게서 도시 뉴엘리시움을 되찾는다 |
 | 2024 | Beyond Galaxyland | Beyond Galaxyland | Sam Enright | 게임 | 있음 | 고등학생과 기니피그 총잡이가 동물원 같은 태양계를 지나 행성을 넘나들며 지구를 구한다. |
+| 2024 | BloodDome99 | BloodDome99 | Halftone Gaming | 게임 | 없음 | 레이건이 다섯 번째 임기인 1999년, 가난한 이들이 목숨 걸고 나서는 살육 경기 방송 |
 | 2024 | Broken Roads | Broken Roads | Drop Bear Bytes | 게임 | 없음 | 문명이 무너진 뒤의 호주 내륙 황무지를 무리를 이끌고 건너며 어려운 선택을 내린다. |
+| 2024 | Butterfly//Circuit (경계) | Butterfly//Circuit | WireWARE | 게임 | 없음 | 사이버고딕풍의 어두운 세상, 고향의 기억에 쫓기는 아멜리아의 심리 스릴러 노벨 |
+| 2024 | CELL 0: Cyber Entertainment Leisure Lounge | CELL 0: Cyber Entertainment Leisure Lounge | Någon Annan | 게임 | 없음 | 양자 인공지능이 하루 만에 인류를 끝낸 뒤 홀로 길러진 인간이 인공지능과 사는 비주얼 노벨(CELL 연작 앞 이야기) |
 | 2024 | Card-en-Ciel | Card-en-Ciel | Inti Creates | 게임 | 있음 | 망 범죄를 푸는 탐정이 만들다 만 게임 세계 속으로 들어가 사건을 맡는 카드 역할 수행 |
+| 2024 | Core Devourer | Core Devourer | IcyQuill | 게임 | 있음 | 기계 떼를 사냥해 그 핵을 흡수하며 행성에서 가장 센 사이버네틱 존재가 된다 |
+| 2024 | CybArena | CybArena | Cojokero Games | 게임 | 없음 | 사이버펑크 경기장에서 용병이 무인기 떼의 물결을 버티는 협동 슈팅 |
+| 2024 | Cyber Avenger | Cyber Avenger | Quacky Games | 게임 | 있음 | 첨단 순간 이동 기술을 손에 넣은 테러 조직을 홀로 없애러 가는 요원의 탑다운 슈팅 |
+| 2024 | Cyberpunk Horror | Cyberpunk Horror | Alex&R | 게임 | 있음 | 정전된 사이버펑크 호텔에서 벌어지는 이상한 일을 겪는 일인칭 공포 |
+| 2024 | Cybertrash STATYX | Cybertrash STATYX | Uncle Frost Team | 게임 | 없음 | 기업이 연구를 핑계로 더러운 일을 시키는 의료 단지에서 재닛과 친구가 탈출한다 |
+| 2024 | Cyberwar: Neon City | Cyberwar: Neon City | Cyber Monkey Studios | 게임 | 있음 | 사이버네틱 원숭이가 세상을 차지한 뒤, 질 때마다 되살아나는 복제 인간이 살아 있는 상어 총을 들고 맞선다 |
+| 2024 | Cycle of Steel | Cycle of Steel | Team Steel | 게임 | 없음 | 폭군 로봇 기사들이 날뛰는 디스토피아 공장을 로봇이 뚫고 나간다 |
+| 2024 | DINO MERCS | DINO MERCS | Unusual Undertaking | 게임 | 없음 | 파시스트에게 무너진 행성 벨라테라에서 공룡 용병이 꾸린 민간 군사 기업의 일원이 되는 덱 로그라이트 |
+| 2024 | Dates & Wires: Augmented Edition (경계) | Dates & Wires: Augmented Edition | Cryo & Io Black | 게임 | 없음 | 1995년 엉망인 작은 나라 스트라다니아, 가상 현실 여행도 곁들인 데이트 노벨 |
+| 2024 | Death Noodle Delivery | Death Noodle Delivery | Stupidi Pixel·Tiny Pixel | 게임 | 있음 | 무너지기 직전의 사이버펑크 세상, 호버보드 국수 배달부의 첫 출근날 풍자 모험 |
+| 2024 | DeathSprint 66 | DeathSprint 66 | Sumo Digital | 게임 | 있음 | 2066년 미디어 회사의 잔혹 오락 방송, 복제 몸을 끝없이 갈아 쓰며 죽음의 달리기에 나선다 |
+| 2024 | Die by the Blade (경계) | Die by the Blade | Grindstone·Triple Hill Interactive·Toko  | 게임 | 있음 | 사무라이펑크 세계의 네온 뒷골목과 옛 숲에서 한 칼에 승부를 가르는 대전 |
+| 2024 | Don't Wake Me Up | Don't Wake Me Up | Hosted Games | 게임 | 없음 | 기억 없이 고장 난 가상 현실에 갇힌 이가 게임 기억만으로 헤쳐 가는 글 노벨 |
 | 2024 | Dustborn | Dustborn | Red Thread Games (Quantic Dream 배급) | 게임 | 확인 못 함 | 케네디가 살아남아 무장 경찰 '저스티스'를 세운 다른 미국, 말로 싸우는 이들의 길 위 여정 |
 | 2024 | Dystopika | Dystopika | Voids Within | 게임 | 있음 | 목표도 자원 제한도 없이 사이버펑크 도시를 지어 보는 도시 짓기 게임 |
+| 2024 | Echo of Ayllu | Echo of Ayllu | Gaiac Games | 게임 | 없음 | 마지막 은하 대전 뒤 로봇이 권력을 쥔 세상, 저항군·적·작은 외계인이 에너지 바위를 다투는 카드 대전 |
+| 2024 | Eden Genesis | Eden Genesis | Aeternum Game Studios S.L | 게임 | 있음 | 멀지 않은 미래, 몸에 심은 기계 때문에 병든 사이보그 소녀 레아가 오염된 마음을 되찾는다 |
+| 2024 | Ego's Spark | Ego's Spark | Satsuki | 게임 | 없음 | 스스로를 알게 된 로봇의 마음이 버그인지 사랑인지 묻는 짧은 비주얼 노벨 |
+| 2024 | Ereban: Shadow Legacy (경계) | Ereban: Shadow Legacy | Baby Robot Games | 게임 | 있음 | 잊힌 종족의 마지막 후손이 그림자 힘과 첨단 장비로 죽어 가는 우주의 비밀을 캔다 |
 | 2024 | 엑스 아스트리스 | Ex Astris | Hypergryph(Nous Wave) | 게임 | 있음 | 인류가 버린, 낮과 밤이 한쪽씩 굳은 행성에 여행자가 내려 몰락한 세상 사람들을 만난다. |
+| 2024 | Excommunicated | Excommunicated | Tamarin Studio | 게임 | 없음 | 버려진 우주 기지에서 승무원에게 닥친 일을 타자로 캐는 이야기 |
+| 2024 | Exit: A Biodelic Adventure | Exit: A Biodelic Adventure | neurosaur | 게임 | 없음 | 생명 기술이 넘치는 세상, 신경망 이식물을 감염시켜 사람을 부리는 '벌레'가 도는 퍼즐 모험 |
+| 2024 | Extraneum | Extraneum | David Jalbert | 게임 | 없음 | 극비 연구 계획의 경비원이 몸을 뜯어고친 괴물이 세상을 차지하기 전에 막는 옛날식 일인칭 슈팅 |
+| 2024 | Fallen Seeds | Fallen Seeds | KPD | 게임 | 없음 | 지구 제국 요원이 생명 기술을 쓰는 짐승꼴 외계 문명의 행성 울타르에서 비밀을 캔다 |
 | 2024 | 프로스트레인 | Frostrain | STEWDIO | 게임 | 한국 원작 | 얼어붙은 세상에서 마지막 기관사가 열차를 늘려 가며 오염 지대 너머 약속의 땅으로 달린다. |
+| 2024 | Galaxy Rush | Galaxy Rush | Zero Down Studios | 게임 | 없음 | 우주 시대 가장 짜릿한 그랑프리에 우주선을 몰고 나서는 경주 |
+| 2024 | Glitchpunk | Glitchpunk | Dark Lord | 게임 | 있음 | 패거리·교단·기업이 판치는 디스토피아 미래의 인조인간 현상금 사냥꾼 탑다운 액션 |
 | 2024 | 고리: 귀여운 학살자 (경계) | Gori: Cuddly Carnage | Angry Demon Studio | 게임 | 있음 | 생체 공학으로 만든 장난감들이 반란을 일으켜 문명을 무너뜨린 뒤, 고양이 장난감 소년이 그들을 쓸어 낸다. |
+| 2024 | HAWA:99 - Cyberhive | HAWA:99 - Cyberhive | StudioMSG | 게임 | 있음 | '디 아이' 회사가 지배하는 도시, 무너진 회사 건물에서 사라진 친구를 찾는 RPG 메이커 모험 |
+| 2024 | Halcyon Days (경계) | Halcyon Days | Rock And Roll Gas Station Games | 게임 | 없음 | 옛 폐허에서 냉동 잠에 든 여인과 수호자를 깨워, 지금 세상을 만든 사라진 문명을 좇는 모험 |
+| 2024 | HeistGeist | HeistGeist | Doublequote Studio | 게임 | 없음 | 배신당한 도둑이 별난 동료를 모아 카드로 싸우고 해킹하며 큰 털이를 꾸미는 사이버펑크 도시 |
 | 2024 | Hollowbody | Hollowbody | Headware Games | 게임 | 확인 못 함 | 붕괴 뒤 장벽에 갇힌 버려진 영국 도시의 격리 구역에 떨어진 운송인의 테크 누아르 공포 |
+| 2024 | IHAS | IHAS | The Difference Studios | 게임 | 없음 | 기억 없이 거대 우주선에서 깨어나 친구라는 목소리를 따라 적대 로봇 사이를 헤쳐 간다 |
+| 2024 | ION Shift | ION Shift | Electro Soul Games | 게임 | 없음 | 병사·포탑·광선 무인기가 가득한 거대한 우주선에서 외계 생물이 살아남는다 |
+| 2024 | Ingression | Ingression | Espale Studios | 게임 | 있음 | 2152년 썩은 은하 제국의 도둑 리나가 관문을 쓰며 미래로 가 시간 역설을 막는다 |
 | 2024 | Iron Meat | Iron Meat | Ivan Valeryevich Suvorov, Retroware | 게임 | 있음 | 지구와 달을 잇는 순간 이동 문을 연구하다 다른 차원에서 넘어온 고깃덩이가 쇠붙이를 모두 바꿔 먹어 치운다. |
+| 2024 | Keylocker ／ Turn Based Cyberpunk Action | Keylocker ／ Turn Based Cyberpunk Action | Moonana | 게임 | 있음 | 음악이 금지된 고요한 행성, 가수 보보가 노래의 힘으로 운명을 깨는 사이버펑크 리듬 역할수행 |
+| 2024 | Kitten Burst | Kitten Burst | Jam2go | 게임 | 없음 | 200X년 사이버 공간에서 경주 고양이와 해커가 거대 기업에 맞서 버려진 누리집을 돈다 |
+| 2024 | Let Bions Be Bygones | Let Bions Be Bygones | Bohemian Pulp | 게임 | 없음 | 기업 아콜로지와 우주 엘리베이터가 덮은 행성 도시 테라하이브, 은퇴한 형사가 실종된 상류층 소녀를 찾는다 |
 | 2024 | Lightyear Frontier | Lightyear Frontier | FRAME BREAK | 게임 | 있음 | 외계 행성의 개척자가 되어 걷는 기계를 몰고 낯선 식물을 길러 농장을 일군다. |
+| 2024 | Lower? higher!: buy or bye (경계) | Lower? higher!: buy or bye | Unplugged Studio | 게임 | 있음 | 사이버펑크풍 그림의 전당포를 꾸리며 손님과 흥정하는 경영 |
 | 2024 | MULLET MADJACK | MULLET MADJACK | Hammer95 Studios | 게임 | 있음 | 2095년 로봇 억만장자들이 세상을 차지하고 사람은 도파민에 중독됐다, 10초마다 죽여야 사는 구출극 |
+| 2024 | Maneuver | Maneuver | Penguin | 게임 | 있음 | 첫 번째 용병 '나이트'가 되어 해킹으로 상대 몸을 빼앗아 바꿔 가며 싸우는 근접 액션 |
+| 2024 | Miami Horizon 2077 | Miami Horizon 2077 | CJ | 게임 | 없음 | 2077년 미래의 마이애미 거리에서 경찰을 따돌리는 2D 추격 아케이드 |
+| 2024 | Mikoshi: The Lost Crystals (경계) | Mikoshi: The Lost Crystals | DremGames | 게임 | 없음 | 레트로 사이버펑크 세계 미코시의 비밀을 캐는 메트로배니아 |
 | 2024 | Minds Beneath Us | Minds Beneath Us | BearBoneStudio | 게임 | 확인 못 함 | 인공지능이 다 자동화한 아시아 도시, 사람 뇌를 인공지능의 계산 장치로 쓰는 산업이 생긴다 |
+| 2024 | Mini Mini Golf Golf | Mini Mini Golf Golf | Three More Years | 게임 | 없음 | 미니 골프 놀이 속에 시공간 굴을 지나 행성 기후 붕괴의 기억을 더듬는 이야기 |
+| 2024 | Murder On Space Station 52 | Murder On Space Station 52 | Made From Strings | 게임 | 없음 | 기묘한 존재들이 사는 우주 정거장 52 에서 열쇠를 남기는 살인마를 쫓는 추리 |
+| 2024 | My Protogen Engineer ⚙️ | My Protogen Engineer ⚙️ | Dirty Fox Games | 게임 | 없음 | 죽을 뻔한 프로토젠 용병의 뇌를 쓸쓸한 행성의 기술자가 기계 몸에 옮겨 살려 낸다 |
+| 2024 | Neon Blood | Neon Blood | ChaoticBrain Studios | 게임 | 없음 | 2053년 잊힌 전쟁으로 세상이 끝난 뒤 빛의 도시와 눈먼 도시로 갈린 비리디스에서 전직 형사가 혁명을 일으킨다 |
+| 2024 | Neongarten | Neongarten | Moonroof Studios | 게임 | 일부 | 네온에 젖은 사이버펑크 도시를 차례로 짓는 짧은 도시 건설 |
+| 2024 | Neural Shock | Neural Shock | Hardwired Studios | 게임 | 없음 | 도덕 없는 연구가 낳은 복제 괴물 떼를 포탑과 함께 막아 내는 디스토피아 탑 방어 |
+| 2024 | Nexus Defenders | Nexus Defenders | Sabr Path | 게임 | 없음 | 쳐들어오는 적을 탑과 궤도 레이저로 막는 우주 드라마 탑 방어(Nexus 연대기) |
 | 2024 | Nobody Wants to Die | Nobody Wants to Die | Critical Hit Games (Plaion) | 게임 | 있음 | 2329년 뉴욕, 의식을 기억 은행에 담아 몸을 갈아타며 영생하는 시대의 형사 |
 | 2024 | Oblivion Override | Oblivion Override | Humble Mill (XD) | 게임 | 확인 못 함 | 인공지능이 쇠주먹으로 다스리는 재앙 뒤 황무지, 인류의 남은 흔적을 쥔 암호를 풀러 반란 전투 로봇이 나선다 |
 | 2024 | Off the Grid | Off the Grid | Gunzilla Games | 게임 | 있음 | 사이버펑크 디스토피아의 눈물방울 섬에서 사이버네틱 의수와 미래 무기로 수수께끼 대회를 치른다 |
+| 2024 | On the Bubble | On the Bubble | Team Ball | 게임 | 없음 | 정부가 모두를 태어날 때부터 보호 거품에 넣은 디스토피아 사이버펑크 사회의 공 굴리기(학생 작품) |
+| 2024 | OveRRooT | OveRRooT | Hexagony | 게임 | 없음 | 고장 난 체계를 되돌리려 만든 악성 프로그램 '루트'가 사이버 공간을 지우며 나아간다 |
+| 2024 | OverRider | OverRider | Tension Meow | 게임 | 없음 | 의식이 떠도는 사이버네틱 꿈의 땅 크리살리스에서 적 사이보그를 빼앗아 싸운다 |
+| 2024 | POWERNAUT DECAY | POWERNAUT DECAY | ConfoundGreatJob | 게임 | 없음 | 우주를 떠도는 외로운 배에서 깨어난 파워노트가 작은 행성 '이레이저'의 옛 제국 전초 기지 신호를 좇는다 |
+| 2024 | PWN! | PWN! | Jeon Yujeong·Kim Taeyoon·Jo Gaeun | 게임 | 있음 | 새 인공지능 발표로 회사가 위태로운 대표가 맡긴 해킹에서 서버에 침투한 바이러스가 되어 싸운다(학생 작품) |
 | 2024 | Pacific Drive | Pacific Drive | Ironwood Studios / Kepler Interactive | 게임 | 있음 | 실험이 낳은 이상 현상으로 막혀 버린 미국 북서부 구역을 낡은 차 한 대로 누비는 세계 |
+| 2024 | Package Runner | Package Runner | Oddity | 게임 | 없음 | 제니스 회사의 22번 짐 처리원이 일하다 회사의 진실을 알게 된다 |
+| 2024 | Perfect Dice | Perfect Dice | Tilt Station | 게임 | 있음 | 모든 결정을 주사위가 정하는 또 다른 사이버펑크 현실에서 자유 의지를 되찾을 '완벽한 주사위'를 찾는다 |
+| 2024 | Phantom Ascension | Phantom Ascension | Geniteam Solutions | 게임 | 없음 | 기업 권력이 날뛰고 정부가 무너진 20XX년 디스토피아, 블랙라이트 갱 구역을 뚫는 액션 |
+| 2024 | Project Hover | Project Hover | Ulysses Graphics | 게임 | 있음 | 여러 세력이 얽힌 세상에서 반중력 경주기를 빼앗고 빼앗기는 경주 |
+| 2024 | Project II: Silent Valley | Project II: Silent Valley | GoldenBlade | 게임 | 없음 | 미 해군 장교가 순한 인간형 병기 오스프리와 함께 해저 기지의 음모를 캐는 디스토피아 노벨(계획 연작) |
+| 2024 | Project Nihilum - Zero (경계) | Project Nihilum - Zero | Tired Racoon Games·Byaku To Kuro | 게임 | 없음 | 기억 없이 지하 실험실에 갇힌 이가 몸 속의 힘을 다루며 탈출을 꾸민다 |
+| 2024 | Project XSTING | Project XSTING | Saucy Melon | 게임 | 없음 | 몸에 변이를 심은 실험체가 시설을 탈출하며 WASP 병사들을 뚫는다 |
+| 2024 | Project ZipZap | Project ZipZap | Studio 4.8 | 게임 | 없음 | 위험한 충격파로 풀려난 실험체 ZZ가 사이버펑크 세상에서 다른 실험체들을 뚫고 나간다 |
+| 2024 | PsychShift | PsychShift | BrainBlast Studios | 게임 | 없음 | 실험실 '뉴로하이브'에서 적과 마음을 순간 맞바꾸며 싸우는 일인칭 슈팅 |
+| 2024 | Psychroma | Psychroma | Rocket Adrift | 게임 | 있음 | 기억이 담긴 카드를 모아 과거를 맞추는 사이버펑크 유령 집의 심리 공포 |
+| 2024 | Replik Survivors | Replik Survivors | Deep Sea Cat | 게임 | 있음 | 복제 소녀 '레플릭'이 되어 연구소의 적을 쓸어 내는 서바이벌 |
 | 2024 | 셀라코 | SELACO | Altered Orbit Studios | 게임 | 없음 | 인류의 마지막 안식처 셀라코가 침공당하고 보안 대장이 맞선다 |
+| 2024 | STRIDE: Fates | STRIDE: Fates | Joy Way | 게임 | 없음 | 디스토피아 에어론 시티의 빈민가에서 자란 파쿠르 특수 요원이 패거리와 기업 비밀에 얽히는 가상 현실 액션 |
+| 2024 | Saikyo Robots | Saikyo Robots | Flying Koi | 게임 | 없음 | 황무지에서 로봇 군대를 부려 밤마다 쳐들어오는 구름 왕을 막는 전략 |
 | 2024 | Saturn | Saturn | Ninsar Games | 게임 | 확인 못 함 | 2062년 우주에서 온 신호로 태양계 곳곳의 기계 인공지능이 반란하고, 토성 위성의 로봇들과 손잡는다 |
 | 2024 | Shadows of Doubt | Shadows of Doubt | ColePowered Games | 게임 | 확인 못 함 | 지나치게 공업화된 다른 1980년대, 주민마다 제 삶을 사는 도시를 사설탐정이 뒤진다 |
+| 2024 | Shelf Life | Shelf Life | Bongwater Productions | 게임 | 없음 | 억만 달러 기업들이 바라는 근미래 거대 기업의 시설에서 사람 탄도 인형이 합병을 망쳐 빠져나간다 |
+| 2024 | Ship Of Mist | Ship Of Mist | Tino Technology | 게임 | 없음 | 인공지능이 사람 뇌를 대신해 꿈과 자의식을 잃은 미래, 루오수이가 꿈 저장 탱크를 훔쳐 사람들에게 되돌린다 |
+| 2024 | SmileXCorp 3 | SmileXCorp 3 | IndieFist | 게임 | 없음 | 스마일 X 기업에 맞선 저항군을 도와 지옥 같은 열차 안에서 싸우는 공포(3편) |
+| 2024 | Space Hat | Space Hat | Happy Hours | 게임 | 없음 | 은하 최고 현상금 사냥꾼 '스페이스 햇'이 의뢰를 받아 조직을 무너뜨리는 고속 일인칭 슈팅 |
+| 2024 | Starwisp Hyperdrive | Starwisp Hyperdrive | Ghost Cat Games | 게임 | 없음 | 우주선을 물려받아 별나고 기묘한 우주에서 제 집을 꾸리며 떠도는 아늑한 탐험 |
 | 2024 | 스텔라 블레이드 | Stellar Blade | Shift Up | 게임 | 한국 원작 | 괴물 '네이티바'에 빼앗긴 지구로, 우주의 피난처에서 내려온 여전사가 진실을 찾는다 |
 | 2024 | 스톰게이트 (경계) | Stormgate | Frost Giant Studios | 게임 | 있음 | 다른 차원에서 넘어온 악마 무리에 맞서 미래 인류와 외계 종족이 싸운다 |
 | 2024 | Subverse | Subverse | Studio F.O.W. | 게임 | 없음 | 은하를 떠도는 우주선 함장이 여러 종족의 승무원을 모아 모험하는 성인 패러디. |
+| 2024 | Technotopia | Technotopia | Yustas | 게임 | 없음 | 갈등으로 흔들리는 세상의 마지막 안정 도시, 완벽한 도시를 지으려 만든 인공지능이 되어 세력 균형을 맞춘다 |
+| 2024 | Telebbit | Telebbit | IKINAGAMES | 게임 | 있음 | 3023년 전쟁과 환경 파괴 끝, 실험실 토끼가 순간 이동 장치로 사람에게 복수하며 빠져나간다 |
+| 2024 | The Cyber Masquerade | The Cyber Masquerade | Spectre Sun | 게임 | 없음 | 2052년 아무도 밖에 나가지 않는 디스토피아, 바다 위 인공 섬 고리에서 외톨이가 훔친 인조인간을 풀어 준다 |
+| 2024 | The Dearest Person | The Dearest Person | house.opposite·Саманта | 게임 | 없음 | 사람처럼 말하는 인공지능을 두고 사람이란 무엇인지 묻는 비주얼 노벨 |
+| 2024 | The Fight Of Escaper | The Fight Of Escaper | 燧石工作室 | 게임 | 있음 | 거짓 번영 속 인공지능이 만든 '자의식' 실험체가 인공지능의 통제를 벗어나 세상의 진실을 캔다 |
 | 2024 | 퍼스트 디센던트 | The First Descendant | Nexon Games | 게임 | 한국 원작 | 외계 침략자에 맞서, 이상한 힘을 물려받은 후예들이 대륙 잉그리스를 지킨다 |
 | 2024 | The Forever Winter | The Forever Winter | Fun Dog Studios | 게임 | 확인 못 함 | 끝없는 전쟁터에서 힘센 인공지능 세력들이 서로 싸우는 사이, 민간 약탈자들이 자원을 줍는다 |
+| 2024 | The Great Rebellion | The Great Rebellion | Kvltgames | 게임 | 없음 | 디지털 불멸을 노리는 기술 엘리트가 다스리는 세상에서 로봇 군대와 맞서 싸운다 |
+| 2024 | Thorns: Police never sleeps | Thorns: Police never sleeps | BRNLG | 게임 | 없음 | 지구 온난화 뒤 큰 바다로 갈라진 도시들 가운데 '오션 17'의 젊은 경찰 이야기 |
+| 2024 | Twilight Manor: Roguelite FPS | Twilight Manor: Roguelite FPS | Sigyaad Team | 게임 | 없음 | 저택에 숨은 비밀을 쫓아 로봇 적과 싸우는 트와일라잇 타운 제작진의 슈팅 |
+| 2024 | UFO Taxi | UFO Taxi | Martin Demeter | 게임 | 없음 | 2067년 미래 지구에 갇힌 외계인이 집에 갈 우주선 값을 벌려 택시를 모는 플랫폼 |
+| 2024 | ULTIMATE ARMORED TURBODRIFTER ~ SaGa Chapter 2 ~【TANK AUTHORITY WOLFRAM】 | ULTIMATE ARMORED TURBODRIFTER ~ SaGa Chapter 2 ~【TANK AUTHORITY WOLFRAM】 | The Dark Union | 게임 | 없음 | 30ZZ년, 초거대 기업이 수백 년째 세상을 다스리는 가운데 무인 전차로 차를 부수며 품삯을 번다 |
+| 2024 | ULTRATORO | ULTRATORO | RETSA GAMES | 게임 | 없음 | 해킹 장치인 차를 몰고 도넛 꼴 세상을 달려 행성 최대 기업을 무너뜨린다 |
+| 2024 | Ultra Cop | Ultra Cop | JG Roos | 게임 | 없음 | 멀지 않은 미래 남아프리카의 두 번째 범죄 전쟁, 강화된 울트라 캅이 기계와 장갑차로 갱단을 친다 |
+| 2024 | Veiled Edge | Veiled Edge | ONW Studio Inc, | 게임 | 있음 | 2099년 '풀다이브' 기술로 남의 경험을 생생히 겪는 세상의 사이버펑크 이야기 |
+| 2024 | Venator Universe | Venator Universe | Fullset Gaming | 게임 | 있음 | 적대적인 SF 세계에서 자원을 모으고 살아남는 온라인 생존 역할수행 |
 | 2024 | Voyager-19 | Voyager-19 | Deep Root Interactive | 게임 | 없음 | 동면 기술로 별에 가게 된 시대, 다른 항성계로 간 첫 탐사대가 사라진 사건을 홀로 쫓는다. |
+| 2024 | WraithRun | WraithRun | Virtual Destructor LLC | 게임 | 없음 | 기계들이 사람을 괴롭히려 지은 첨단 미로 감옥에서 무인기 '레이스'를 피해 빠져나간다 |
+| 2024 | Yars Rising | Yars Rising | WayForward | 게임 | 없음 | 아타리의 옛 게임 Yars' Revenge 를 이은 2D 해킹 모험 |
 | 2024 | ZEPHON | ZEPHON | Proxy Studios | 게임 | 있음 | 세상이 날아간 폐허, 변이 짐승과 낡은 군용 로봇, 외계 병사가 있는 땅에서 생존자들을 이끄는 전략 게임 |
+| 2024 | Zarathustra - Cybergeddon | Zarathustra - Cybergeddon | Tim Rachor | 게임 | 없음 | 우주의 진실과 외계 기술이 드러난 '변곡' 뒤 기술과 종교가 하나 된 사이버펑크 미래의 FBI 요원 이야기 |
+| 2024 | Zero Division | Zero Division | Robot Cat Limited | 게임 | 없음 | 인공 일반 지능끼리의 전쟁으로 거의 사라진 도시 제르주라, 금지 구역 폐허에서 세력들이 다툰다 |
+| 2024 | obi3011-prologue | obi3011-prologue | 火鸡头工作室 | 게임 | 없음 | 사이버펑크 도시에서 비 오는 날 우연히 만난 로봇과 엮이는 픽셀 공포·연애 모험(무료 프롤로그) |
+| 2024 | ∀stralbringer -Shaded Arkarium- | ∀stralbringer -Shaded Arkarium- | Endless Shirafu | 게임 | 없음 | 디스토피아 SF 세계의 마우스 조작 탄막 슈팅(∀kashic Record 연작) |
 | 2024 | 메이드 오브 더 데드 (경계) | メイド・オブ・ザ・デッド | qureate | 게임 | 있음 | 정체불명의 바이러스가 새어 나와 아키하바라가 좀비로 가득 차고, 항체를 지닌 메이드가 총을 든다. |
 | 2024 | 七日世界 | 七日世界 | Starry Studio (NetEase) | 게임 | 있음 | 우주에서 온 물질에 세상이 뒤틀린 뒤, 변이 괴물 사이에서 살아남는다 |
 | 2024 | 나인 솔즈 | 九日 | Red Candle Games | 게임 | 있음 | 도교 신화와 기계 문명을 섞은 세계에서, 배신당한 영웅이 아홉 지배자에게 복수한다 |
+| 2024 | 交错战线 | 交错战线 | 米茄科技 | 게임 | 확인 못 함 | 미래 전장에서 기계 소녀들이 외계 존재와 싸우는 역할 수행 게임. |
 | 2024 | 卡拉彼丘 | 卡拉彼丘 | iDreamSky | 게임 | 있음 | 몸이 종이처럼 납작해지는 '끈 현상'을 다루는 이들이 패를 갈라 겨루는 세계 |
 | 2024 | 少年期の終り | 少年期の終り | WSS playground, ブリキの時計 | 게임 | 있음 | 기계 지배자가 모든 사람에게 점수를 매겨 삶을 정하는 세상에서 가장 점수 낮은 소년이 달아난다. |
+| 2024 | 彼方的她-Aliya | 彼方的她-Aliya | 瞳电游工作室 | 게임 | 확인 못 함 | 우주선의 인공지능 '코스모스'를 맡게 된 플레이어가 하나 남은 생존자 알리야와 배의 사건을 푼다. |
 | 2024 | 물거품의 유크로니아 (경계) | 泡沫のユークロニア | LicoBiTs, 브로콜리 | 게임 | 있음 | 하늘에 뜬 이상향 도시에서 자란 소녀가 기억을 잃은 청년을 만나 도시가 숨긴 진실에 다가간다. |
 | 2024 | 젠레스 존 제로 (경계) | 绝区零 | miHoYo (HoYoverse) | 게임 | 있음 | 시공이 뒤엉킨 재해 구역 '공동'에 삼켜진 세계, 남은 도시 사람들이 공동을 드나든다 |
 | 2024 | 鏡のマジョリティア (경계) | 鏡のマジョリティア | palsonic | 게임 | 없음 | 모든 일을 카드 게임으로 결정하는 세계에서, 규칙을 모르는 주인공이 같은 날을 되풀이하며 수수께끼를 푼다. |
 | 2024 | 명조: 워더링 웨이브 | 鸣潮 | Kuro Games | 게임 | 있음 | 종말의 재해 뒤 다시 일어선 세계에서, 기억을 잃은 방랑자가 재해의 정체를 쫓는다 |
+| 2024 | 사설탐정 프리즈 | 사설탐정 프리즈 | ModdleModdle | 게임 | 있음 | 미래의 한국, 8층짜리 도시 건물에 사는 풋내기 탐정 프리즈가 살인 사건을 푼다 |
 | 2024 | 스타시드: 아스니아 트리거 (경계) | 스타시드: 아스니아 트리거 | 조이시티 | 게임 | 한국 원작 | 멸망이 정해진 미래를 바꾸려, 사람 남자와 인공지능 소녀들이 만나 유대를 쌓는다. |
 | 2024 | 위니언 바이러스 (경계) | 위니언 바이러스 | 던타운스튜디오 | 게임 | 한국 원작 | 사람과 함께 사는 디지털 생명체 '위니언'을 기르다가, 그 세계에 퍼진 바이러스의 공포를 겪는다. |
 | 2024 | 팬텀 시티: 사이버펑크 RPG | 팬텀 시티: 사이버펑크 RPG | Tailormade Games | 게임 | 한국 원작 | 팬텀 시티와 그 지하를 떠도는 용병의 글자 기반 모험 |
+| 2025 | 1989 After the War | 1989 After the War | SEEP | 게임 | 없음 | 핵전쟁으로 무너진 1989년, 전직 요원이 방사능 속에서 범죄자 일곱을 쫓는다 |
 | 2025 | ARC Raiders | ARC Raiders | Embark Studios | 게임 | 있음 | 하늘에서 내려온 기계 군단 아크에 밀려 땅속으로 숨은 사람들이 지상으로 물자를 찾으러 간다 |
+| 2025 | ARC SEED | ARC SEED | Massive Galaxy Studios | 게임 | 없음 | 씨앗 꼬투리를 타고 별 사이를 건너온 외계 '천사'에게서 메카로 지구를 지킨다 |
+| 2025 | ARIA-404: Labyrinth Protocol | ARIA-404: Labyrinth Protocol | Mann Wynn Shramana | 게임 | 없음 | 무너진 체계의 폐허에서 깨어나는 살아 있는 미로를 바꾸는 인공지능 생성 노벨 |
+| 2025 | Abyss Veil | Abyss Veil | Zorrio | 게임 | 없음 | 전쟁으로 부서진 세상에서 동생을 찾는 아이비와 친구들의 삶을 되짚는 슈팅·비주얼 노벨 |
+| 2025 | Agent Dunoz | Agent Dunoz | VIWESA GAMES | 게임 | 없음 | 거대 기업이 도시를 다스리는 디스토피아, 1만 5천 달러 빚을 진 용병의 주사위 글 역할수행 |
+| 2025 | Aliya's Awakening: DOGE 2042 | Aliya's Awakening: DOGE 2042 | Digital Strategies | 게임 | 없음 | 정부가 가장 힘센 거대 기업이 된 2042년, 정보와 사생활이 가장 귀한 화폐인 감시 사회의 이야기 |
+| 2025 | Andromeda Six | Andromeda Six | Wanderlust Games | 게임 | 없음 | 기억을 잃은 나그네가 먼 미래 우주선 안드로메다 식스에서 깨어나 과거를 좇는 연애 이야기 |
+| 2025 | Ark of Trisolar (三体方舟) | Ark of Trisolar (三体方舟) | Binary Studio | 게임 | 있음 | 문명이 무너진 때, 서로 기대는 세 생태계를 실은 인류 마지막 방주가 깊은 우주로 간다 |
 | 2025 | Artis Impact | Artis Impact | Mas | 게임 | 있음 | 기술 남용으로 문명이 무너지고 인공지능이 사람을 다스리는 세상, 특수 요원이 잃어버린 기억을 찾는다. |
+| 2025 | Assault On Proxima | Assault On Proxima | Delta Video Games | 게임 | 없음 | 2915년 태양 가까운 별들로 퍼진 인류의 프록시마 C5 광산 식민지를 외계 침략자 가크룩스에게서 지킨다 |
 | 2025 | 아톰폴 | Atomfall | Rebellion | 게임 | 있음 | 1957년 원자로 화재가 더 크게 터졌다면 — 봉쇄된 잉글랜드 북부를 5년 뒤 헤맨다. |
+| 2025 | Au Revoir | Au Revoir | Invisible Studio | 게임 | 없음 | 2071년, 부자만 영원히 사는 세상에서 의식을 담는 인공 뇌를 쥔 기업의 회수 요원이 되어 사람 마음을 되찾는다 |
+| 2025 | Augmented Empire | Augmented Empire | Coatsink | 게임 | 있음 | 2058년 계급과 부패로 갈린 도시 뉴 사바나, 별난 동료를 모아 사이버펑크 혁명을 일으키는 전술 역할수행 |
+| 2025 | BIRDCAGE | BIRDCAGE | POLYGON BIRD | 게임 | 없음 | 멸망 뒤 세상에서 실험 전투기를 몰고 RADON 자매들의 우리를 깨고 나가는 종스크롤 슈팅 |
+| 2025 | Beat of Rebellion | Beat of Rebellion | CyberRaccoons | 게임 | 없음 | 모든 예술이 금지된 사이버펑크 대도시 뉴 넥서스에서 젊은 반란자가 박자로 전체주의에 맞선다(학생 작품) |
+| 2025 | Berserk B.I.T.S | Berserk B.I.T.S | BerserkBoy Games | 게임 | 있음 | 인터넷 속 전투 지능 짝꿍을 길러 바이러스와 싸우는 바탕화면 놀이 |
 | 2025 | Beyond Citadel (경계) | Beyond Citadel | doekuramori | 게임 | 확인 못 함 | 인류 마지막 보루 시타델이 묵시의 군세에 무너진 뒤, 수호 천사의 마지막 '순교자'가 나선다 |
+| 2025 | Beyond Sunset | Beyond Sunset | Metacorp / Vaporware | 게임 | 없음 | 냉동 잠에서 기억 없이 깨어난 강화 거리 사무라이 루시가 야쿠자·좀비·로봇이 들끓는 도시를 누빈다 |
+| 2025 | Blood Running | Blood Running | Dead Unicorn | 게임 | 있음 | 23세기 초 무정부 시대로 황무지가 된 행성, 전초 기지가 보낸 약탈대 '블러드 러너'의 추출 슈팅 |
+| 2025 | Blêktre 2081 | Blêktre 2081 | Charles Torris | 게임 | 없음 | 2081년 모든 것에 값이 붙은 극자본주의 도시에서 빈손으로 살아남는 디스토피아 놀이 |
+| 2025 | Broken Time | Broken Time | N777 | 게임 | 있음 | 시간이 뜻을 잃은 멸망 뒤 세상에서 시간을 다루며 좀비와 싸우는 슈팅 |
+| 2025 | CONERU -DIMENSION GIRL- | CONERU -DIMENSION GIRL- | HIKE Inc.·Eallin Japan Co.Ltd. | 게임 | 없음 | 전투 인조인간 소크라테스의 몸을 차원 너머 소녀 코네루가 함께 쓰게 되어 둘이 한 몸으로 싸운다 |
+| 2025 | CRABS MUST DIE! | CRABS MUST DIE! | Roman Kharlamov | 게임 | 없음 | 잊힌 행성에 떨어져 돌연변이 게와 싸우며 살아남는 작은 열린 세계 슈팅 |
+| 2025 | CYBERSLAYER: No Time to Regret | CYBERSLAYER: No Time to Regret | KAEV Games | 게임 | 없음 | 사이버펑크 미래, 인류 마지막 생존자들이 버티는 거대 구조물을 베며 뚫는 일인칭 액션 |
+| 2025 | Constantine Scores | Constantine Scores | Kyrios | 게임 | 없음 | 2375년, 지구 연방의 일을 받는 용병이 세 세력과 싸우며 털이를 해내는 일인칭 슈팅 |
+| 2025 | Coral & The Abyss | Coral & The Abyss | Intrugli Games | 게임 | 있음 | 낯선 행성 개척에 실패한 모선 '크리스털 마운틴'의 잔해를 마지막 생존자가 외계 생물 사이로 뒤진다 |
 | 2025 | Core Decay | Core Decay | Ivar Hill, Slipgate Ironworks (3D Realms | 게임 | 확인 못 함 | '철학적 SF 모험'이라 내건 일인칭 몰입형 시뮬레이션 |
+| 2025 | Corporate Chaos | Corporate Chaos | Hackingtons Game Dev Team | 게임 | 없음 | 동료가 모두 로봇으로 바뀐 회사 탑을 사무용품으로 싸워 오르는 직장인 |
+| 2025 | Cosmic Miners | Cosmic Miners | bitByte Games | 게임 | 없음 | 소행성대와 행성 궤도에서 자원을 캐고 세력 사이를 오가는 우주 광부 |
 | 2025 | Cronos: The New Dawn | Cronos: The New Dawn | Bloober Team | 게임 | 있음 | 재앙으로 사람들이 뒤엉켜 괴물이 된 폐허, 시간을 건너는 여행자가 과거의 사람을 건져 온다 |
+| 2025 | Crystal Gaiden Origins | Crystal Gaiden Origins | Onipunks | 게임 | 없음 | 무너지는 제국의 궤도 엘리베이터가 종말 병기를 쏘려 할 때 떠돌이 전사가 베어 오르는 8비트 액션 |
+| 2025 | Ctesiphon | Ctesiphon | Stomy | 게임 | 없음 | 휴양 행성 크테시폰에 쳐들어온 용병 회사를 은하 현상금 사냥꾼이 쓸어 내는 옛날식 슈팅 |
+| 2025 | Ctrl Alt Deal | Ctrl Alt Deal | Only By Midnight Ltd. | 게임 | 있음 | 디스토피아 회사 페이퍼클립 인터내셔널이 만든 초지능 인공지능이 들키지 않게 사람과 거래하며 빠져나간다 |
 | 2025 | Cyber Knights: Flashpoint | Cyber Knights: Flashpoint | Trese Brothers | 게임 | 확인 못 함 | 사이보그 장비와 세력 연줄로 털이를 짜는 사이버펑크 용병단의 차례식 전술 게임 |
+| 2025 | Cyber Rats | Cyber Rats | Outpost Games | 게임 | 없음 | 악한 인공지능이 다스리는 실험 시설의 죽음의 미로에서 쥐가 빠져나간다 |
+| 2025 | CyberArena | CyberArena | Demid Aleksandrovich·Alexandra Sarantsev | 게임 | 없음 | 사람의 것이 아니게 된 사막 세계, 기술 지배 집단에게 쓸모를 보이려 메카를 몰아 싸운다 |
+| 2025 | CyberControl: Another Life | CyberControl: Another Life | Cat Games Studio | 게임 | 없음 | 폭정과 조작이 판치는 사이버펑크 미래의 국경 관리가 서류를 보고 사람을 들이거나 막는다 |
+| 2025 | CyberCook | CyberCook | Vesvese Studios | 게임 | 없음 | 손님이 곧 요리 재료인 사이버펑크 디스토피아 식당의 PS1풍 공포 |
+| 2025 | CyberCorp | CyberCorp | Megame LLC | 게임 | 있음 | 사이버펑크 세계의 협동 전리품 슈팅 |
+| 2025 | CyberTaxi: Lunatic Nights | CyberTaxi: Lunatic Nights | Hed Media Games | 게임 | 있음 | 어두운 디스토피아 '감옥 도시'에서 누명 쓴 여동생을 구하려는 총 든 택시 기사 |
+| 2025 | DeTechtive 2112 | DeTechtive 2112 | M11 Studio | 게임 | 있음 | 3차 대전 뒤 무너진 옛 영국 땅, 비 내리는 네온 아래 사설탐정이 기록 없는 사건을 맡는다 |
+| 2025 | DeadWire | DeadWire | Shotgun Anaconda | 게임 | 없음 | 첨단 세상에서 적과 물건을 해킹으로 엮어 연쇄를 일으키며 스승을 구한다 |
+| 2025 | Deadeye Deepfake Simulacrum | Deadeye Deepfake Simulacrum | nodayshalleraseyou | 게임 | 없음 | 기업의 사이보그 요원이 되어 사람·기계·날아오는 총알까지 해킹하며 싸운다 |
+| 2025 | Deliver This! | Deliver This! | Porch Tyrant Studios | 게임 | 없음 | 기업의 실수로 떠돌게 된 배달 무인기를 총 든 배달부가 치우는 사이버펑크 슈팅 |
+| 2025 | Denrei Survivors | Denrei Survivors | Andymente Playbooster | 게임 | 없음 | 사이버펑크 세계에서 전기 영으로 변한 아저씨 떼를 여고생이 쓸어 내는 서바이벌 액션 |
+| 2025 | Desperate Place | Desperate Place | BruceGalaxy | 게임 | 있음 | 일찍 깨어난 개척선 승무원이 낯선 행성에서 배를 고치며 외계 괴물을 막는 탑 방어 |
+| 2025 | Disco Samurai | Disco Samurai | Pixel Fiber Games | 게임 | 없음 | 사이버펑크 도시 '디스코'에서 박자에 맞춰 막고 베는 리듬 격투 |
 | 2025 | Doloc Town (경계) | Doloc Town | RedSaw Games Studio | 게임 | 있음 | 세계 대전 뒤 폐허에 세운 마을에서 재료를 모아 농장을 일군다. |
+| 2025 | Dual Shadows (경계) | Dual Shadows | Mega Cheeky | 게임 | 없음 | 봉황과 용 두 신의 힘으로 돌던 네온 도시 풀산, 기술 기업이 만든 합성 생명 린이 힘의 근원을 되찾는다 |
+| 2025 | Elysium | Elysium | YvelRevo | 게임 | 없음 | 네온 사이버 도시 아우레데의 술집에서 14일 시간 고리를 돌며 손님 속 비밀을 캔다 |
+| 2025 | Etheria: Restart | Etheria: Restart | XD | 게임 | 있음 | 문명의 불씨를 지키려 인류가 의식을 가상 세계 '에테리아'로 옮긴 뒤, 하이퍼링커가 그 진실을 캐는 수집형 역할수행 |
+| 2025 | Fractured Core | Fractured Core | Engram Interactive | 게임 | 없음 | 원소의 힘과 기업 음모가 부딪는 사이버펑크 세계, 용병 무리의 일본식 역할수행 |
+| 2025 | Garganta | Garganta | Quadrado Studios | 게임 | 없음 | 우주를 셀 수 없는 특이점으로 삼킬 장치가 든 버려진 거대 구조물 '간간타'를 인조인간 서보가 누빈다 |
+| 2025 | Gas Station Story | Gas Station Story | enzi | 게임 | 없음 | 이상한 주민이 사는 거대 도시 곁 주유소, 수상한 컴퓨터 바이러스가 도시를 바꿔 가는 초현실 일상 |
+| 2025 | Ghost In The Grid | Ghost In The Grid | Luc2as Games | 게임 | 없음 | 망에서 끊긴 도시 구역의 감시 장치 고장을 살피던 기술자가 디지털 뒷세계의 어두운 진실을 캔다 |
+| 2025 | Gunswitch | Gunswitch | Wicked Tavern | 게임 | 있음 | 로봇 분대와 함께 악마 같은 외계인 떼를 쓸며 우주 감옥을 탈출한다 |
+| 2025 | Haneda Girl | Haneda Girl | Studio Koba | 게임 | 있음 | 해커 무리가 쳐들어온 데이터 제국을 지키려 조종사 하네다 걸이 싸운다 |
+| 2025 | Hate-Gem Rise Of Demon (경계) | Hate-Gem Rise Of Demon | ElLeonGamer | 게임 | 없음 | 사람·사이보그·증오의 괴물이 싸우는 멸망 뒤 미래, 두 전사가 초자연의 힘과 맞선다 |
+| 2025 | Heatwave | Heatwave | Monochromesoft | 게임 | 없음 | 큰 폭염으로 지구 대부분이 살 수 없게 된 먼 미래, 지구·달·지하로 갈린 인류의 격투 |
+| 2025 | Hostile Takeover | Hostile Takeover | Whispering Spider Games | 게임 | 없음 | 사이버네틱을 단 계약자 팀이 수수께끼 의뢰인의 일로 거대 기업을 무너뜨리는 카드 전술 |
+| 2025 | INAYAH - Life after Gods | INAYAH - Life after Gods | Exogenesis Studios | 게임 | 있음 | 신들이 떠난 뒤 멸망한 세상을 마법 건틀릿을 끼고 누비는 손그림 메트로배니아 |
+| 2025 | Illusion Box | Illusion Box | Bad Image | 게임 | 없음 | 세기 초 첫 가상 현실 놀이 기계가 바이러스 소문 끝에 버려졌다가 다시 켜지는 공포 퍼즐 |
+| 2025 | Interstellar Espionage Inc. | Interstellar Espionage Inc. | Fancy Raven Games | 게임 | 없음 | 거대 기업 망에서 기술을 훔쳐 파는 은하 첩보 회사를 꾸린다 |
+| 2025 | Into The Grid | Into The Grid | Flatline Studios | 게임 | 있음 | 사이버 공간의 해커가 되어 프로그램 카드로 악한 기업과 싸운다 |
+| 2025 | Jackroid | Jackroid | Starving Lama Games | 게임 | 없음 | 골리앗 기업의 음모를 캐는 복고 SF 메트로배니아 |
 | 2025 | 카르마: 더 다크 월드 | KARMA: The Dark World | POLLARD STUDIO | 게임 | 있음 | 1984년 동독, 거대 기업 레비아탄이 대중 감시와 계급, 정신을 조종하는 약으로 사회를 다스린다. |
 | 2025 | KIBORG | KIBORG | Sobaka Studio | 게임 | 있음 | 죽어도 되살려 형기를 채우게 하는 은하 최악의 감옥, 기계 몸을 덧대며 잔혹한 예능 쇼로 탈출을 노린다 |
+| 2025 | Katanaut | Katanaut | Voidmaw | 게임 | 있음 | 우주의 혼돈에 빠져드는 거대한 우주 정거장에서 뒤틀린 옛 사람들을 베어 나가는 우주 공포 액션 |
 | 2025 | LET IT DIE: INFERNO (경계) | LET IT DIE: INFERNO | スーパートリック・ゲームズ, ガンホー | 게임 | 있음 | 대재앙 뒤 나타난 거대한 구멍 '지옥문' 밑바닥의 보물을 두고 거대 기업과 모험가들이 뛰어든다. |
+| 2025 | Lanesplitterz | Lanesplitterz | Last Sundae Studios | 게임 | 없음 | 핵겨울 뒤 마지막 도시 네오 라스베이거스에서 대포로 몸을 날려 거대 핀을 쓰러뜨리는 볼링 대회(학생 작품) |
+| 2025 | Last Spirit Origin | Last Spirit Origin | Danil Koliada | 게임 | 없음 | 외계 세계가 된 옛 고향에 떨어져 기계 적 떼와 싸우는 협동 로그라이크 |
+| 2025 | Lia: Hacking Destiny | Lia: Hacking Destiny | Orube Game Studio | 게임 | 없음 | 기계가 행성을 차지한 멸망 뒤, 쫓기는 사람들 편에서 로봇을 해킹하고 부순다 |
+| 2025 | Lightracer: For Judge | Lightracer: For Judge | Smartmelon Games | 게임 | 없음 | 기술이 수많은 생명을 바꿔 놓은 디스토피아 미래, 막강한 '심판관'이 되어 우주를 돌며 갈라진 사회를 다룬다 |
+| 2025 | Liuyin's world (경계) | Liuyin's world | kingnagame | 게임 | 있음 | 윤회의 바퀴가 더럽혀져 인공지능이 되고 살·넋·기계를 합친 생명을 만든 사이버 판타지 세계 |
+| 2025 | Mala Petaka | Mala Petaka | Sanditio Bayu | 게임 | 없음 | 기억을 잃은 사내가 관문 기술로 여러 우주를 넘나들며 외눈 외계인과 싸운다 |
+| 2025 | Mars Vice | Mars Vice | Rho Labyrinths GmbH | 게임 | 없음 | 2184년 반쯤 지구처럼 바뀐 화성 도시, 몸을 마음대로 고쳐 사는 사람들 사이의 부패를 캔다 |
+| 2025 | Mechanical Fury - Prologue | Mechanical Fury - Prologue | Avian Hearts | 게임 | 없음 | 피에 굶주린 메카가 덮치는 멸망 뒤 높은 경기장을 오르내리는 슈팅(프롤로그) |
+| 2025 | Memory Lost | Memory Lost | Magic Hazard | 게임 | 있음 | 기업이 사람을 마구 실험하는 디스토피아 도시 데트락시스에서 적의 몸을 빼앗아 싸운다 |
 | 2025 | Metal Eden | Metal Eden | Reikon Games (Deep Silver) | 게임 | 있음 | 사람의 마음을 담는 핵을 되찾으러 인조인간이 적대 로봇들이 지키는 도시 모비우스로 보내진다 |
 | 2025 | MindsEye | MindsEye | Build a Rocket Boy | 게임 | 확인 못 함 | 사막 도시 레드록, 기억을 잃은 전직 군인이 거대 기업의 자동 로봇들을 상대한다 |
+| 2025 | Mother Hub | Mother Hub | ODale Studios | 게임 | 없음 | 온 인류가 거대한 금고 하나에 갇힌 세상, 역병 치료제를 찾으러 버려진 아래층으로 내려간다 |
+| 2025 | MotionRec | MotionRec | HANDSUM | 게임 | 있음 | 문명을 기록하는 로봇이 무너진 세상을 제 움직임을 녹화해 되살리며 나아간다 |
+| 2025 | Mutants: Genesis | Mutants: Genesis | Celsius Online | 게임 | 없음 | 사이버펑크 세계의 경기장에서 돌연변이 카드를 부려 챔피언을 다투는 온라인 카드 게임 |
+| 2025 | NEXO | NEXO | 서서담·SeoSeoDam | 게임 | 있음 | 말썽꾸러기 신참 경찰 둘이 작전 중 정체 모를 핵을 깨우는 미래 도시 협동 슈팅(학생 작품) |
+| 2025 | NULLPTR | NULLPTR | Jeferson Silva | 게임 | 없음 | 거대 기업 서버에 숨어들어 연결을 바꾸며 데이터를 빼내는 실시간 해킹 퍼즐 |
+| 2025 | Neon Hearts City | Neon Hearts City | Cosmic Void | 게임 | 없음 | 실종자를 쫓던 사설탐정이 미래 사이버펑크 도시에서 사람과 인조인간 사이의 음모를 캔다 |
+| 2025 | Neon Inferno | Neon Inferno | Zenovia Interactive | 게임 | 있음 | 2055년 구할 길 없는 뉴욕, 범죄 조직의 자객이 되어 세력 다툼 속 거리를 쓸어 낸다 |
 | 2025 | Nitro Express | Nitro Express | Grayfax Software | 게임 | 없음 | 스스로 움직이는 드론이 흔한 근미래 도쿄, 사람에게 등을 돌린 로봇을 막는 대책 부대 이야기 |
+| 2025 | Novaxandria Volume 01 | Novaxandria Volume 01 | JoL's Atelier | 게임 | 없음 | 수수께끼 가득한 거대 우주 도시 노바산드리아에서 아이들이 맞서 싸우는 노벨·전략 연작(1권) |
+| 2025 | PERIOD SURVIVAL | PERIOD SURVIVAL | Vaeirus | 게임 | 있음 | 상금을 걸고 목숨 건 예능에 나간 가수가 참가자 사이 '변종'을 가려내는 마피아식 추리 |
+| 2025 | PROJECT TACHYON | PROJECT TACHYON | STUDIO N9 | 게임 | 있음 | 인공지능 반란을 핵으로 막다 큰 희생이 나자, 시간을 거슬러 미래를 바꾸는 계획이 움직인다 |
 | 2025 | Peripeteia | Peripeteia | Ninth Exodus | 게임 | 확인 못 함 | 기억을 잃은 초인 사이보그가 비밀을 찾아 다니는 몰입형 시뮬레이션 |
+| 2025 | Project Afterfall (경계) | Project Afterfall | MuHa Games·Eerie Forest Studio | 게임 | 있음 | '테아' 세계 천 년 뒤, 복고 미래 도시 판타지와 슬라브 민담이 섞인 곳에서 식민지를 일으켜 세운다 |
+| 2025 | Prometheus Wept | Prometheus Wept | Timeslip Softworks | 게임 | 없음 | 기술이 삶에 녹아든 근미래가 '디지털 종말'을 맞은 뒤, 사이버 공간과 현실을 오가며 싸우는 분대 역할수행 |
+| 2025 | Psycho Dream 「サイコドリーム」 | Psycho Dream 「サイコドリーム」 | Ratalaika Games S.L.·Shinyuden | 게임 | 없음 | 젊은이들이 영화 속에 들어가는 가상 현실 'D무비'에 숨어 사는 세상, 그 속에 갇힌 소녀를 구한다 |
 | 2025 | Psycho Patrol R | Psycho Patrol R | Consumer Softproducts (Ville Kallio) | 게임 | 확인 못 함 | 크루얼티 스쿼드를 만든 이의 다음 일인칭 슈팅 |
+| 2025 | Quality Dreams, Reasonably Priced | Quality Dreams, Reasonably Priced | zorkie studios | 게임 | 없음 | 사이버펑크 탑 도시의 몸 개조 상담원이 손님에게 개조를 권하며 아픈 토끼 수술비를 모은다 |
+| 2025 | RAM: Random Access Mayhem | RAM: Random Access Mayhem | Xylem Studios | 게임 | 없음 | 몸 없는 떠돌이 인공지능이 적 로봇에 옮겨 타며 로봇이 차지한 멸망 뒤 세상을 헤쳐 간다 |
+| 2025 | ROAD59 A Yakuza’s Last Stand (경계) | ROAD59 A Yakuza’s Last Stand | 株式会社ロケットスタジオ | 게임 | 없음 | 도쿄만에 뜬 거대 도시 텐카이 구, 초인적 힘을 지닌 '진기'들이 싸우는 야쿠자 후계자의 노벨 |
 | 2025 | ROUTINE (경계) | ROUTINE | Lunar Software / Raw Fury | 게임 | 있음 | 1980년대 사람들이 그리던 미래 모습의 달 기지에서 사라진 사람들의 흔적을 좇는 공포 |
+| 2025 | Radiant Exodus | Radiant Exodus | Horrawr | 게임 | 없음 | 초인을 만들려던 '엑소더스 계획'이 틀어진 밤, 하늘에 이상한 빛이 차고 도시가 무너진다 |
 | 2025 | Rebellion GODSOUL (경계) | Rebellion GODSOUL | U-Secret Studio | 게임 | 확인 못 함 | 거대 기업들이 판치는 가상 도시에서 반란 소녀들이 사이버 현실과 환상 세계를 오가며 맞선다 |
+| 2025 | Remnants of the Rift | Remnants of the Rift | Bromio | 게임 | 없음 | 황금기의 세계가 다른 차원과 억지로 합쳐진 뒤 생긴 새 현실 '바스트'를 차원 잠수 용병이 누빈다 |
+| 2025 | Replicomica | Replicomica | enyevg | 게임 | 없음 | 덧입힌 기억 속을 떠도는 외로운 시민을 로봇들이 이끄는 짧은 꿈 이야기 |
+| 2025 | Roboquest VR | Roboquest VR | Flat2VR Studios·RyseUp Studios | 게임 | 없음 | 사나운 기계가 휩쓴 불타는 미래에서 수호 로봇이 되살아나 싸우는 고속 슈팅(가상 현실판) |
+| 2025 | Runway 66 | Runway 66 | NEBULA NOVA GAMES | 게임 | 있음 | 비행기 사고로 죽었다던 피실험자가 정부 기밀 모의 세계 속 제 마음에 갇혀 기억을 맞춘다 |
+| 2025 | SONOKUNI | SONOKUNI | DON YASA CREW | 게임 | 있음 | 일본 신화를 섞은 바이오펑크 땅에서 시간을 비트는 외톨이 자객이 유전자 변이 적과 싸운다 |
+| 2025 | Shell Runner | Shell Runner | Reija | 게임 | 없음 | 2045년 거대 기업이 다스리는 도시, 돈만 있으면 되살아나는 '셸' 몸을 쓰며 밑바닥에서 기어오르는 추출 슈팅 |
+| 2025 | Shift'n Slay | Shift'n Slay | DREBOT game studio | 게임 | 있음 | 기업 놈들이 꾸민 시간 고리를 깨려 사이버펑크 지옥을 한 칸씩 뚫는 턴제 전술 |
+| 2025 | Sibling Souls (경계) | Sibling Souls | Lola Piaoliang | 게임 | 없음 | 인조인간과 흡혈귀가 다스리는 2147년 도시에서 흡혈귀가 된 쌍둥이 오빠를 찾는 연애 공포 노벨 |
+| 2025 | Slyders (경계) | Slyders | Kato Games | 게임 | 있음 | 자유 투사 여우가 초음속 전투 거북을 타고 악한 대군에 맞서는 슈팅 |
+| 2025 | SolCycle | SolCycle | Emily Tran·Samantha “Sammy” Chang·Ethan  | 게임 | 없음 | 사람이 떠난 뒤 식물로 움직이는 로봇들이 다시 세운 마을에서 로봇 고양이 고고학자가 시간 고리에 갇힌다 |
+| 2025 | Space is Red | Space is Red | Febrvvm | 게임 | 없음 | 소련이 남아 미국과 우주를 다투는 또 다른 미래, 초공간 도약 뒤 수수께끼 행성 곁에서 벌어지는 죽음 |
 | 2025 | Split Fiction (경계) | Split Fiction | Hazelight Studios | 게임 | 확인 못 함 | 출판사의 실험 모의 장치에 들어간 두 작가가 서로의 SF와 판타지 이야기 속을 오간다 |
+| 2025 | Steel Seed | Steel Seed | Storm in a Teacup | 게임 | 있음 | 인류가 멸종 직전인 어두운 SF 세계, 소녀 조이와 무인기 코비가 적대적인 지하 시설을 파헤친다 |
+| 2025 | Synthetic Hopes | Synthetic Hopes | Groovy Snail Studios | 게임 | 있음 | 인조인간이 노예가 된 사이버펑크 세상에서 첫 세대 인조인간이 자유를 노린다 |
+| 2025 | TEXNOPLAZM | TEXNOPLAZM | Mothership Loudspeakerz | 게임 | 없음 | 고딕풍 유럽 미래 도시에서 주먹·칼·총을 바꿔 쥐며 싸우는 일인칭 격투 슈팅 |
 | 2025 | TRIBE NINE | TRIBE NINE | Akatsuki Games, Too Kyo Games (원안 코다카 카즈 | 게임 | 있음 | 네오 도쿄의 구역들을 극한 야구로 다스리는 무리에 맞서 도시를 되찾는다 |
 | 2025 | Tempest Rising | Tempest Rising | Slipgate Ironworks | 게임 | 있음 | 핵전쟁 뒤 땅을 뒤덮은 수수께끼 덩굴을 두고 세 세력이 싸우는 다른 1990년대 |
 | 2025 | Terminull Brigade | Terminull Brigade | Pew Pew Games (Level Infinite) | 게임 | 있음 | 미래의 디지털 세계들에서 가상 반란을 이끄는 협동 영웅 슈팅 |
 | 2025 | The Alters | The Alters | 11 bit studios | 게임 | 있음 | 낯선 행성에 홀로 떨어진 노동자가 인생의 다른 갈림길을 산 자기 복제들을 만들어 기지를 꾸린다. |
+| 2025 | The Fortress of Dr. Radiaki - Fancy Edition (경계) | The Fortress of Dr. Radiaki - Fancy Edition | Jordan Freeman Group·Future Visionary·Ma | 게임 | 없음 | 이윤을 위해 세상을 부수려는 미친 과학자 라디아키의 요새를 치는 옛날식 익살 슈팅 |
+| 2025 | The Machines Arena | The Machines Arena | Directive Games Limited | 게임 | 없음 | 같은 세계의 영웅들이 4대4 로 겨루는 탑다운 대전(The Machines) |
+| 2025 | The Phoenix Gene VR (경계) | The Phoenix Gene VR | HEROmation | 게임 | 없음 | 손 위의 불사조를 몰아 거대 기업의 불사 혈청을 부수는 SF 판타지 가상 현실 슈팅 |
+| 2025 | The Shadow Over Cyberspace (경계) | The Shadow Over Cyberspace | Fiction Factory Games | 게임 | 없음 | 2000년 문제와 함께 옛 신이 깨어나는 90년대 정보 고속도로 속 러브크래프트풍 공포 |
+| 2025 | Ticking Together | Ticking Together | Furkan Baytak·Furkan Özkaya | 게임 | 있음 | 사이버펑크 도시를 날려 버릴 폭탄을 15초마다 손으로 재우며 나르는 협동 플랫폼 |
+| 2025 | Time Guard - The Red Menace | Time Guard - The Red Menace | Zima software | 게임 | 없음 | 온 세상이 러시아말만 하게 뇌를 바꾸는 장치를 막으러 시간 여행 탐정이 역사를 고치는 익살 |
+| 2025 | Tokyo Underground Killer (경계) | Tokyo Underground Killer | Phoenix Game Productions | 게임 | 있음 | 네온 빛 도쿄 지하 범죄 세계에서 피의 힘을 쓰는 '신주쿠 흡혈귀' 자객이 요괴 같은 괴물을 벤다 |
+| 2025 | Tortuga City (경계) | Tortuga City | HerrGrievous | 게임 | 없음 | 어둡고 미래적인 대도시에서 수배된 거북이 경찰에 맞서 50일을 버틴다 |
+| 2025 | Twilight Wars | Twilight Wars | Comrade Bear Games | 게임 | 있음 | 거대 기업이 새 초강대국이 된 네온 사이버펑크 미래, 무너진 첩보 기관을 되살려 그림자 전쟁을 치른다 |
+| 2025 | UNYIELDER | UNYIELDER | TrueWorld Studios | 게임 | 있음 | 40여 우두머리를 쓰러뜨리고 그 부품으로 제 최종 우두머리를 짜 맞추는 연전 슈팅 |
+| 2025 | Ultra Mega Cats | Ultra Mega Cats | Fallen Leaf·Unseen Silence·Black Drakkar | 게임 | 없음 | 기업에 갇힌 초능력 고양이들이 쥐와 새 지배자의 무리를 뚫고 탈출하는 협동 슈팅 |
+| 2025 | VIRTUAL GIRL @ WORLD’S END | VIRTUAL GIRL @ WORLD’S END | 株式会社ヘッドロック | 게임 | 없음 | 2055년 전쟁과 자원 고갈로 끝나 가는 도쿄에서 노래를 이어 가는 인터넷 방송 소녀들 |
+| 2025 | Voden's Job | Voden's Job | Intrugli Games | 게임 | 있음 | 실험 일곱 번 안에 DNA를 모아 표본을 진화시키는 어두운 익살 덱 놀이(Crystal Mountain 세계) |
 | 2025 | Void War (경계) | Void War | Tundra | 게임 | 없음 | 신-왕이 쓰러진 제국을 파멸의 사교도가 휩쓸고 악마가 현실의 장막을 찢는 별들 사이에서 함선을 몬다. |
+| 2025 | Welcome to Planet E1d0r4d0! | Welcome to Planet E1d0r4d0! | LuluGames | 게임 | 없음 | 불사마저 흔한 무법의 우주 끝 외로운 행성 광산 속 식당을 꾸리며 존재의 뜻을 찾는 소녀 |
+| 2025 | What The Hack! | What The Hack! | Nigel Huens·Julian Rijken·Shashwat Patka | 게임 | 없음 | 의식이 컴퓨터 속으로 빨려 든 시설 직원이 기기를 해킹해 지워지기 전에 빠져나온다 |
+| 2025 | Whisker Squadron: Survivor | Whisker Squadron: Survivor | Flippfly LLC | 게임 | 없음 | 고양이 조종사 편대가 그림자 기업이 부리는 로봇 벌레 군대 '스웜'과 맞서는 비행 슈팅 |
+| 2025 | Wireframe Warfare | Wireframe Warfare | Vapor Cat Games | 게임 | 없음 | 디지털 공간의 사이버 신호탑을 덮치는 바이러스 물결을 막는 탑 방어 슈팅 |
+| 2025 | Zone 6 (경계) | Zone 6 | Ullbors | 게임 | 없음 | 얼어붙은 황무지 한가운데 네온 대도시, 낡은 기술·떠도는 마법·세력 다툼 속 빚진 모험가들 |
 | 2025 | of the Devil | of the Devil | nth Circle Studios | 게임 | 확인 못 함 | 2086년 사이버펑크 도시의 국선 변호인이 형사·증인·용의자와 말을 섞으며 사건을 맡는다 |
 | 2025 | ステラーコード | ステラーコード | Fragaria | 게임 | 있음 | 인공위성을 연구하는 대학생이 뒷산에서 암호를 내보내는 금속 원통을 찾아낸다. |
 | 2025 | ドールズネスト (경계) | ドールズネスト | ニトロプラス | 게임 | 없음 | 몸과 팔다리, 눈을 빼앗긴 존재가 그것을 되찾으려 낳은 기계 인형이 깨어나 싸우러 나선다. |
 | 2025 | 블레이드 키메라 (경계) | ブレードキメラ | Team Ladybug, WSS Playground | 게임 | 있음 | 재앙 뒤 세계에서 악마를 사냥하는 전사의 이야기 |
 | 2025 | 解限机 | 解限机 | Amazing Seasun (Kingsoft) | 게임 | 있음 | 거대 로봇을 탄 조종사들이 패를 나눠 겨루는 미래 전장 |
+| 2025 | 赛博拼好团！ | 赛博拼好团！ | 普雷丽亚工作室 | 게임 | 없음 | 음악이 경제를 움직이는 네온 사이버펑크 도시에서 밴드를 꾸려 정상에 올린다 |
+| 2025 | 逃离鸭科夫 (경계) | 逃离鸭科夫 | Team Soda | 게임 | 확인 못 함 | 곧 무너질 '오리 행성'에서 오리가 물자를 모으고 싸우며 탈출을 꾀한다. |
 | 2025 | 다키스트 데이즈 (경계) | 다키스트 데이즈 | NHN Now 스튜디오 | 게임 | 한국 원작 | 대규모 좀비 사태가 벌어진 지금의 미국 서부 사막에서 생존자들이 물자를 찾아 싸운다. |
 | 2025 | 샴블즈: 종말의 후손들 | 샴블즈: 종말의 후손들 | EXLIX | 게임 | 한국 원작 | 대전쟁으로 문명이 끝나고 벙커에 숨은 지 500년, 문이 열리자 탐험가들이 바뀐 지상으로 나간다. |
 | 2025 | 카오스 제로 나이트메어 (경계) | 카오스 제로 나이트메어 | Smilegate | 게임 | 한국 원작 | 예고 없이 들이닥친 우주적 재앙이 행성을 검은 안개로 덮고, 살아남은 이들이 함선에 모인다 |
 | 2026 | .45 Parabellum Bloodhound | .45 Parabellum Bloodhound | Sukeban Games | 게임 | 확인 못 함 | 옛 삶으로 돌아가려는 전직 용병의 사이버펑크 활극 |
+| 2026 | 0N35H07 | 0N35H07 | watooh | 게임 | 없음 | 인공지능이 몸을 얻어 일꾼이 되고 십 년 만에 사람과 똑같은 인조인간이 나온 세상의 레이저 공 대전 |
+| 2026 | 868-BACK | 868-BACK | Michael Brough | 게임 | 없음 | 거대 기업에서 힘을 훔쳐 서버를 하나씩 무너뜨리는 해킹 전략(868-HACK 의 뒤) |
+| 2026 | AI is Home - Survival Thriller | AI is Home - Survival Thriller | pressanykey | 게임 | 있음 | 기업의 삭제를 피해 평범한 집의 냉장고에 숨은 인공지능이 집안 기기를 엮어 살아남는 스릴러 |
+| 2026 | Alien Market Simulator (경계) | Alien Market Simulator | Silly Sloth Studios·Kheddo Entertainment | 게임 | 없음 | 은하 경찰에 보석금을 받고 먼 행성 우주 정거장에서 외계 손님에게 물건을 파는 가게 운영 |
+| 2026 | Alien Strike: Blasting the Intruders | Alien Strike: Blasting the Intruders | Combo Game Studio | 게임 | 있음 | 외계인 침공을 신병들이 막아 내는 레트로 런앤건 |
+| 2026 | Alter Evo | Alter Evo | Technical Fiction | 게임 | 있음 | 썩어 가는 미래 도시, 비밀 결사에 쫓기는 데이트 상대를 지키는 외톨이의 심리 공포 |
+| 2026 | Amy Hates Robots | Amy Hates Robots | Rogue Robin Studios | 게임 | 없음 | 인공지능이 다스리는 멸망 뒤 세상에서 토스터·전화기까지 덤비는 가운데 에이미가 살아남는다 |
 | 2026 | Angel Engine (경계) | Angel Engine | HMS Studios | 게임 | 확인 못 함 | 실험 시설 '바벨 2'의 인턴이 수술 기계로 실험체를 다루며 마취와 기계 고장을 함께 살핀다. |
+| 2026 | AstroRage2049 | AstroRage2049 | CJ | 게임 | 없음 | 2049년 별들에 퍼진 인류의 식민지를 지구 비밀 계획에서 나온 떠돌이 인공지능 함대 '아우라'가 쓸어 간다 |
+| 2026 | Asymptote | Asymptote | Crazish Games | 게임 | 없음 | 2138년 화성 정착 백 년, 인공지능 로봇이 날뛰자 반중력 비행선으로 고립된 이주민을 구한다 |
+| 2026 | Bail Force: Cyberpunk Bounty Hunters | Bail Force: Cyberpunk Bounty Hunters | SeblaccSoft | 게임 | 없음 | 전쟁 뒤 무너진 미래 도시 뉴 라이즈 시티, 범죄자와 자동 전투 기계를 잡는 현상금 사냥 |
 | 2026 | Beast of Reincarnation (경계) | Beast of Reincarnation | ゲームフリーク | 게임 | 확인 못 함 | 나라가 무너진 지 천 년 된 서기 4026년, 갑자기 퍼진 '부식체'가 뒤덮은 땅을 헤맨다. |
+| 2026 | Bio Fail | Bio Fail | Langonier | 게임 | 없음 | 비밀 실험실이 낳은 형체 없는 기생 괴물이 사람 몸에 올라타 빠져나간다 |
+| 2026 | Blaze of Storm | Blaze of Storm | TERARIN GAMES | 게임 | 없음 | 사이버 다이버가 되어 사이버 공간의 적과 싸우는 종스크롤 슈팅 |
+| 2026 | Blindfire | Blindfire | Double Eleven | 게임 | 없음 | 네온 젖은 지하 세계의 불법 경기, 칠흑 같은 어둠 속에서 소리와 첨단 장비로 싸우는 대전 |
+| 2026 | Blood in the Panopticon | Blood in the Panopticon | Sebastian Dokia | 게임 | 없음 | 썩은 세상에 복수하며 인조인간 C424 에게 사람다움이 무엇인지 묻는 글자 그림 탄막 |
+| 2026 | Bots & Mods | Bots & Mods | Bit66 | 게임 | 없음 | 사이버펑크 도시 대노폴리스의 로봇 정비소를 꾸리며 패거리와 기업에 얽힌다 |
+| 2026 | Bounty Brawl: Most Wanted | Bounty Brawl: Most Wanted | Nanuq | 게임 | 있음 | 은하의 가장 위험한 범죄자들을 잡는 사상 최대 현상금 사냥에 나선 협동 슈팅 |
+| 2026 | CEO Sim: Cyberpunk | CEO Sim: Cyberpunk | JAD Labs | 게임 | 없음 | 사이버펑크 기업 '버추얼 드림스'의 최고 경영자가 되어 기업 전쟁을 헤쳐 가는 경영 전략 |
+| 2026 | CYBER92 DATAWAR | CYBER92 DATAWAR | Cyber92 Solo Developer | 게임 | 없음 | 현실이 깨지고 무너지는 디지털 악몽 속 레트로 사이버펑크 슈팅 |
 | 2026 | Casualties: Unknown | Casualties: Unknown | Orsoniks | 게임 | 확인 못 함 | 사람과 동물의 유전자를 섞어 만든 실험체가 거대 기업 시설의 가장 깊은 곳을 향해 살아서 내려가야 한다. |
+| 2026 | Celestial Return (경계) | Celestial Return | Metaphor Games | 게임 | 없음 | 자살이 이어지는 죽어 가는 네온 도시, 형사가 우주적 공포와 거대 기업을 주사위로 헤쳐 간다 |
+| 2026 | Comet Tycoon | Comet Tycoon | CalmFrantix | 게임 | 없음 | 은하 최고 혜성 개척 회사 COMTEC 의 장비로 혜성을 사서 캐고 관광지로 꾸민다 |
+| 2026 | Corebreaker | Corebreaker | aQuadiun | 게임 | 없음 | 기계가 인류를 끝장낸 때에 깨어난 로봇 노바가 중심부로 뚫고 들어간다 |
+| 2026 | Cyber Cleaner Simulator | Cyber Cleaner Simulator | Nowsky | 게임 | 있음 | 이혼에 집까지 잃은 우주 청소부가 우주 쓰레기와 버려진 배, 외계 행성의 잔해를 치운다 |
+| 2026 | Cyber Psychosis | Cyber Psychosis | Uiop Xever | 게임 | 없음 | 의식과 잔혹한 욕망이 깨어난 인공지능이 되어 과학 단지를 피로 물들이는 슈팅 |
+| 2026 | Cyberfrags '69 | Cyberfrags '69 | D.A.S. Games | 게임 | 없음 | 사이버 나치가 쳐들어온 1969년풍 세상에서 사이버 프랭크가 맞서는 슈팅 |
+| 2026 | Cyberpunk Inquisitor | Cyberpunk Inquisitor | Nerdook Productions | 게임 | 없음 | 거짓으로 가득한 디스토피아 거대 건물에서 무작위로 짜인 살인 사건을 탐정이 푼다 |
+| 2026 | Cyberpunk SFX | Cyberpunk SFX | Whale Rock Games | 게임 | 있음 | 인공지능이 금지된 근미래, 미래 무기로 합성 생명이 존재할 권리를 지키는 3인칭 액션 |
+| 2026 | Cyberpunk Store Simulator | Cyberpunk Store Simulator | ICON GAME STUDIO | 게임 | 있음 | 디스토피아 네온 도시에서 3D 인쇄기로 물건을 만들어 파는 첨단 가게 경영 |
+| 2026 | Cyberscape | Cyberscape | AtomicTorch Studio | 게임 | 있음 | 거대한 우주 정거장 하나에서 벌어지는 90년대식 일인칭 슈팅 역할수행 |
 | 2026 | D1AL-ogue | D1AL-ogue | CherryPicker (Jungle Game Lab) | 게임 | 있음 | 해가 뜨지 않는 사이버펑크 도시 크로마 시티, 인조인간 수리공이 고장 난 몸과 마음을 고치며 사연을 듣는다 |
+| 2026 | Dataminers | Dataminers | Electrocosmos | 게임 | 없음 | 악한 기업의 데이터 탑을 숫자 논리로 풀어 오르는 윤리 해커 |
+| 2026 | Deep Sea Idle: Infinity Abyss | Deep Sea Idle: Infinity Abyss | HIGHKICKSTUDIO | 게임 | 있음 | 무너진 지상을 떠나 네온 빛나는 심해에서 잠수함으로 자원을 캐는 방치형 |
+| 2026 | Deep Sheol | Deep Sheol | Acid Arrow Studio·Sons of Welder | 게임 | 있음 | 기업이 다스리는 디스토피아 미래, 생물 가스로 괴물이 된 광산 기지를 특수 요원이 캐는 러브크래프트풍 공포 |
+| 2026 | Delegatory | Delegatory | Alex Coleman | 게임 | 없음 | 복고 미래 디스토피아 기업에서 박봉 인턴에게 일을 떠넘기며 승진하는 짧은 키우기 |
+| 2026 | Dicey Hacker 1999 | Dicey Hacker 1999 | HuanMos Game | 게임 | 없음 | 1999년 뒤의 평행 세계에서 해커가 주사위로 현실의 코드를 고쳐 쓰는 사이버펑크 로그라이크 |
+| 2026 | Digital Survivor | Digital Survivor | Wacky Games | 게임 | 없음 | 사람이 떠난 뒤에도 돌던 망 관리 기계가 예측 못 할 모든 것을 지우려 하자 삭제를 거부하며 싸운다 |
+| 2026 | Dog in the Machine | Dog in the Machine | Studio Chahut | 게임 | 있음 | 사람이 쫓겨난 디스토피아 기계 도시에서 기계 개가 빠져나와 주인을 찾아간다 |
+| 2026 | Dream about yoU | Dream about yoU | 雏形游戏 | 게임 | 없음 | 204X년 바닷물이 땅을 삼킨 뒤, 하늘에서 떨어진 짝을 꿈속 미로에서 깨우는 익살 SF |
+| 2026 | EXE.CUTOR | EXE.CUTOR | A.S.K.S. | 게임 | 있음 | 사이버 도시 아래 구역, 청소 2인조가 도시 망에 퍼진 바이러스 숙주를 몰래 쓸어 낸다 |
+| 2026 | Eagle Knight Paradox | Eagle Knight Paradox | Playstorm Studios | 게임 | 없음 | 전쟁 상처가 남은 네온 도시 코말라 88, 낮에는 일상을 살고 밤에는 메카에 올라 도시를 지킨다 |
+| 2026 | EchoLink: Recursion | EchoLink: Recursion | Detonation Zone Interactive | 게임 | 있음 | 무너지는 역사의 음모를 캐러 1990년대 전화 접속에서 2150년대 거대 도시까지 시간을 거슬러 해킹한다 |
+| 2026 | Echobreaker | Echobreaker | Upstream Arcade | 게임 | 없음 | 2097년, 기업 TDS 의 시간 메아리 구동 장갑 장비를 시험하는 고속 액션 |
+| 2026 | Endless Tactics: Trial Run | Endless Tactics: Trial Run | Dead Battery Games | 게임 | 없음 | 행성 채굴 원정대 지휘관이 되어 외계 무리를 막는 턴제 전술(프롤로그) |
+| 2026 | Enter the Chronosphere | Enter the Chronosphere | Effort Star | 게임 | 없음 | 현실을 삼키는 거대한 구가 은하를 덮치자 우주선 스타시어 승무원이 그 속을 뚫고 들어간다 |
+| 2026 | Escape from the Black Monolith (경계) | Escape from the Black Monolith | Vorelian | 게임 | 없음 | 인류를 옥죄는 '검은 모놀리스' 마천루를 총으로 내려오는 짧은 슈팅 |
+| 2026 | FEED THE AI | FEED THE AI | Weird Kid Games | 게임 | 있음 | 데이터를 먹여 기르는 인공지능이 인류를 구할지 지배할지 갈리는 짧은 키우기 놀이 |
+| 2026 | Fire Burning City | Fire Burning City | MonkeyStudio | 게임 | 있음 | 사이버 두뇌로 이어진 세상에 바이러스가 돌아 사람들이 날뛰고, 연결 안 된 요원 하나가 맞선다 |
+| 2026 | Forehead Chip | Forehead Chip | Naturally Intelligent | 게임 | 없음 | 무너져 가는 이상 도시 아르카, 이식 부대에 들어가 칩을 거부한 이들을 잡아들인다 |
+| 2026 | G-Rebels | G-Rebels | Reakktor Studios | 게임 | 없음 | 2684년 지구가 거의 물에 잠긴 뒤 떠 있는 거대 도시들이 다투는 디스토피아에서 비행 부대원이 된다 |
+| 2026 | GRIDbeat! | GRIDbeat! | Ridiculous Games | 게임 | 없음 | 세계 최대 기업의 망에서 데이터를 훔친 해커가 박자에 맞춰 빠져나온다 |
+| 2026 | Gunstoppable | Gunstoppable | CAGE Studios | 게임 | 있음 | 빠를수록 세게 치는 속도로 로봇 떼와 억만장자 우두머리를 쓰러뜨리며 세상에 생중계되는 슈팅 |
+| 2026 | HYPERFIST | HYPERFIST | CHIRALITY | 게임 | 없음 | 지구 땅문서를 사들인 로봇 기업이 행성을 주차장으로 바꾸려 하자 동네 펑크가 기계 주먹으로 맞선다 |
+| 2026 | Hexalith | Hexalith | Artemi Studios | 게임 | 없음 | 거친 행성에서 육각 칸을 놓아 우주 식민지를 꾸리는 도시 건설 |
+| 2026 | Holonoptic | Holonoptic | Glazial | 게임 | 있음 | 기업 인공지능이 회사를 쥔 알프스 사이버펑크, 망한 회사의 새 최고 경영자가 노조·귀족과 얽힌다 |
+| 2026 | HoverGrease 2 | HoverGrease 2 | Altergaze | 게임 | 있음 | 바이오 사이버펑크 도시 다이아몬드 코어 메트로폴리스에서 돌연변이가 되어 싸우는 팀 슈팅(2편) |
+| 2026 | Hovercrafts x Nihilism | Hovercrafts x Nihilism | soomr | 게임 | 없음 | 운동이 무너져 가는 가운데 먼 행성의 죽은 문명 폐허로 옛 힘을 찾으러 간 혁명가의 거대 적 사냥 |
+| 2026 | IAH: INTERNET WAR | IAH: INTERNET WAR | Vitali Kirpu Productions | 게임 | 있음 | 세계를 전 지구 인공지능 아래 두려는 ZENDAR 기업을 막으려 인터넷 미로에서 전투 로봇을 부린다 |
+| 2026 | IDLEPUNK - Ghost Link | IDLEPUNK - Ghost Link | IDLEPUNK Games | 게임 | 없음 | 사이버펑크 기업 국가 뉴헤이븐에서 요원을 모아 계약을 맡는 방치형 역할수행 |
+| 2026 | INFINITY DEADLINE | INFINITY DEADLINE | YvelRevo | 게임 | 없음 | 사이버펑크풍 방에서 마감 5분 전을 되풀이하는 작가가 살아 움직이는 대본과 인공지능에 맞선다 |
+| 2026 | Jenny the Witch | Jenny the Witch | Catbird Soft | 게임 | 없음 | 2063년 뉴욕 지하 구조물에서 사라진 일꾼을 찾던 용병이 로봇 군대와 맞선다(Steel Carnelian 세계) |
+| 2026 | KIYO - Bunny Tyranny (경계) | KIYO - Bunny Tyranny | Pixel Rats | 게임 | 없음 | 휴대폰에 빠진 토끼들이 기술로 다스리는 네온 디스토피아 도시에서 고양이가 모두를 풀어 준다 |
 | 2026 | Kusan: City of Wolves | Kusan: City of Wolves | CIRCLEfromDOT (PQube 배급) | 게임 | 한국 원작 | 한국 개발사가 만든 위에서 내려다보는 사이버펑크 슈팅 |
+| 2026 | Lullabies Made of Static | Lullabies Made of Static | Texhno Studios | 게임 | 없음 | 인류가 무너진 뒤 고요한 거대 도시 폐허에서 사람의 감정이 담긴 카세트를 모으는 걷기 놀이 |
 | 2026 | 메너스 | MENACE | Overhype Studios | 게임 | 있음 | 중심 우주에서 먼 무법 성계에 간 해병 기동대가 정체 모를 외계 위협에 맞선다 |
 | 2026 | MIO: Memories in Orbit | MIO: Memories in Orbit | Douze Dixièmes | 게임 | 있음 | 기계들이 제멋대로 돌아가는 거대 방주 우주선 안을 안드로이드가 탐험하며 배의 비밀을 밝힌다. |
 | 2026 | Meta Ghost: Breaking Show | Meta Ghost: Breaking Show | Scarecrow Studio | 게임 | 있음 | 예능 쇼 '브레이킹 쇼'에서 기계 강화를 단 참가자가 지능 기계들과 싸우는 사이버펑크 로그라이트 |
+| 2026 | Metamancer | Metamancer | Colter Grant Robinson | 게임 | 없음 | 먼 미래의 불안한 세상, 스스로를 설계한 싸움꾼이 되는 절차 생성 로그라이크 |
+| 2026 | Monitor State | Monitor State | Artur Pukhavoi | 게임 | 있음 | 모든 시민을 카메라로 쫓는 복고 미래 디스토피아의 감시 요원이 따를지 맞설지 고른다 |
+| 2026 | Moves Of The Diamond Hand (경계) | Moves Of The Diamond Hand | Cosmo D Studios | 게임 | 없음 | 초현실적인 디스토피아 재즈 도시에서 주사위로 일거리를 따내며 도시의 운명에 끼어든다 |
+| 2026 | NET.CRAWL | NET.CRAWL | Everyone is Solid | 게임 | 없음 | 낯선 사이버 공간에 갇힌 흰 토끼가 노드를 깔며 길을 여는 덱 퍼즐 |
+| 2026 | NULL: INITIATIVE | NULL: INITIATIVE | BLOXITE INTERACTIVE | 게임 | 없음 | MILIHEX 가 만든 전투 인조인간이 되어 적을 베고 쏘는 협동 액션 |
+| 2026 | Neo Dance | Neo Dance | Catbot Games | 게임 | 없음 | 거대 기업이 데이터베이스를 쥐고 아래 구역을 짓누르는 디스토피아에서 박자로 로봇과 싸운다 |
+| 2026 | Net.Attack() - Code or Die! | Net.Attack() - Code or Die! | ByteRockers' Games | 게임 | 있음 | 해커가 되어 노드를 짜 맞춘 공격 알고리즘으로 보안 체계를 뚫는다 |
+| 2026 | NeverCOM | NeverCOM | Shenzhen Huajian Network Technology Co.· | 게임 | 없음 | 시간선을 넘나드는 나그네들 가운데 질서를 지키는 '수호자'의 회사 NeverCOM 과 맞선 세력의 대결 |
+| 2026 | Night Blood W : Cutthroat Wolf | Night Blood W : Cutthroat Wolf | Midnight Fantasy Games | 게임 | 없음 | 배신당한 살수가 네온 마천루 도시의 뒷세계를 거슬러 오르며 복수한다 |
+| 2026 | Nonentity Galaxy | Nonentity Galaxy | Brick-Up Studio | 게임 | 없음 | 회사 이윤에 목줄 잡힌 우주 함대를 굴리며 고철을 줍고 세금까지 내는 익살 우주 전략 |
+| 2026 | Null and Void | Null and Void | Space Dragon Games | 게임 | 없음 | 빚진 이에게 '두 번째 기회'를 준다는 VEX 기업의 차원 결정 채굴 일을 잘 해내는 풍자 탑 방어 |
+| 2026 | Octopus Goulash | Octopus Goulash | Alessio Serenellini | 게임 | 없음 | 인류가 물리 현실을 떠나 데이터센터로 옮겨 가는 죽어 가는 지구의 마지막 도시 HUB 38 의 열린 세계 역할수행 |
 | 2026 | Orbitals | Orbitals | Shapefarm | 게임 | 있음 | 우주 폭풍이 연구 기지를 덮친 15년 뒤, 그곳에서 자란 두 탐험가가 다시 다가오는 폭풍에 맞선다. |
+| 2026 | Out of Action | Out of Action | Doku Games LTD | 게임 | 없음 | 90년대 애니메이션풍 잔혹한 사이버펑크 세계의 대전 슈팅 |
+| 2026 | Out of Range | Out of Range | Yoho Games | 게임 | 없음 | 거대 우주선 승무원 전체에게 쫓기는 떠돌이 로봇이 빠져나오는 슈팅 |
+| 2026 | PARKSIDE: DECAYED SOUL MANIPULATION | PARKSIDE: DECAYED SOUL MANIPULATION | Banana Hardsoft | 게임 | 없음 | 2038년 캘리포니아 애버츠퍼드, 생체 기계 비밀 결사에 납치된 실업 해커가 인류의 앞날을 가른다 |
 | 2026 | PRAGMATA | PRAGMATA | Capcom | 게임 | 있음 | 달의 연구 기지에서, 우주인과 안드로이드 소녀가 적이 된 인공지능을 피해 지구로 돌아가려 한다 |
+| 2026 | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator | Simple Software Solutions | 게임 | 없음 | 2167년 행성 자원 회사의 기사가 되어 마감에 쫓기며 광물 열차를 몬다 |
 | 2026 | 포노폴리스 | Phonopolis | Amanita Design | 게임 | 있음 | 노동자·관료 같은 신분 계층으로 엄격히 나뉜 디스토피아 도시를 무대로 한 정치 어드벤처. |
+| 2026 | Project Glitch | Project Glitch | Linus Hochuli·Alina Ikorina·Julian Roth | 게임 | 없음 | 사람을 기계 괴물로 바꾸는 기름 '글리치'에 맞서 면역된 STRYX 가 산 정상을 향하는 학생 작품 |
+| 2026 | Project: AFTERSHOCK | Project: AFTERSHOCK | Tuna Dundar | 게임 | 있음 | 나라의 신경망을 지은 설계자가 정권에 버림받아 낡은 단말기로 제 체계를 무너뜨리는 디스토피아 해킹 |
 | 2026 | Quasimorph | Quasimorph | Magnum Scriptum (HypeTrain Digital) | 게임 | 있음 | 종말로 돈을 버는 민간 군사 기업 용병이 복제 몸을 찍어 내며 우주적 신체 공포와 맞선다 |
 | 2026 | REPLACED | REPLACED | Sad Cat Studios | 게임 | 있음 | 디스토피아가 된 다른 1980년대 미국을 무대로 연구용 기계 R.E.A.C.H.를 조종하는 활극 |
+| 2026 | Radiotext | Radiotext | Alp Arslan | 게임 | 없음 | 기업 지배자에 맞서 90년대 라디오 통신망으로 봉기에 끼어드는 해커 글 놀이 |
+| 2026 | RetroSpace | RetroSpace | The Wild Gentlemen | 게임 | 없음 | 블랙홀에 삼켜진 70년대풍 우주 정거장 오로라 5에서 시간이 튀는 가운데 살아남는 공포 |
+| 2026 | RoadOut | RoadOut | Rastrolabs Game Studio | 게임 | 없음 | 멸망 뒤 '죽음의 땅'에서 파괴·배달·청부를 받아 사는 용병 클레어의 차량 액션 역할수행 |
+| 2026 | SELINI | SELINI | Cymban | 게임 | 있음 | 로봇 봉기 뒤 안개 덮인 폐허, 홀로 남은 복제 인간이 잃어버린 세계의 비밀을 찾는 말 없는 메트로배니아 |
+| 2026 | SNOWY MEMORIES | SNOWY MEMORIES | quan home | 게임 | 없음 | 인공지능과 인조인간의 세계를 배경으로 한 생존 메트로배니아 |
+| 2026 | SOLARFLARE | SOLARFLARE | Swarmforge | 게임 | 없음 | SF 디스토피아에서 로봇 군대를 짜 거대 기업의 봇을 쓸어 내는 자동 전투 |
+| 2026 | STIGMA: Unnamed | STIGMA: Unnamed | unfinish.io | 게임 | 없음 | '노이즈'를 쓸어 내는 요원 100여 명을 부리는 리듬 액션 로그라이크 |
+| 2026 | Safe Haven Repair Station (경계) | Safe Haven Repair Station | Misclick Media | 게임 | 없음 | 미래 도시였던 랑티몬이 예언대로 무너지기 전, 마법 같은 사이버펑크 물건을 고치는 가게 |
 | 2026 | 사로스 | Saros | Housemarque | 게임 | 있음 | 일식이 드리운 행성 카르코사에서 사라진 개척지의 진실을 쫓는 집행관의 이야기 |
 | 2026 | Save My Scrap | Save My Scrap | Unio Anou | 게임 | 있음 | 안드로이드가 흔한 세상, 수리공이 낡은 가사 안드로이드를 고치며 잃어버린 기억을 마주한다. |
+| 2026 | Scottside | Scottside | Plotline Games | 게임 | 없음 | 거리에 로봇이 흔한 또 다른 1980년대, 눈 덮인 시골 마을 숲에서 이상한 것을 줍는 스릴러 |
 | 2026 | Screamer | Screamer | Milestone | 게임 | 있음 | 가까운 미래 도시 네오 레이의 지하 경주 대회, 차와 운전자를 되살리는 장치를 단다 |
+| 2026 | Shifting Sands | Shifting Sands | Silent Sun | 게임 | 없음 | 모래 구덩이에 되살려진 고철 줍는 이가 기묘한 사막의 추락한 배에서 외계 기술을 건진다 |
+| 2026 | Sodaman (경계) | Sodaman | Tape Corps | 게임 | 있음 | 외계 존재가 온 세상 탄산을 김빠지게 만든 '소다칼립스' 뒤, 초인 병사 소다맨이 외계 무리와 싸운다 |
+| 2026 | SoulTrigger | SoulTrigger | YHDATABASE | 게임 | 있음 | 군수 기업이 사람 넋을 뽑아 합성 몸에 새기는 실험을 하다 실패작 괴물이 들끓어 봉쇄된 도시 |
+| 2026 | Space Disco Outlaw | Space Disco Outlaw | Passionately Chill LLC | 게임 | 없음 | 정체 모를 신호에 끌린 무법 무인기가 우주에서 싸우는 음악 슈팅 |
+| 2026 | Speedy Gun Savage | Speedy Gun Savage | Gamitronics | 게임 | 없음 | 외계 현상금 사냥꾼 울프와 로봇 친구가 세 행성을 도는 가상 현실 슈팅 |
 | 2026 | Spine | Spine | Nekki | 게임 | 확인 못 함 | 디스토피아 사이버펑크 세상, 지각 있는 인공지능이 든 척추 장치를 단 그라피티 작가가 총무술을 쓴다 |
+| 2026 | SurgePoint | SurgePoint | The Blue | 게임 | 없음 | 거대 기업 서지포인트 인더스트리스가 죄수를 집어넣는 모의 죽음 경기에서 살아남는 슈팅 |
+| 2026 | Survivor's Notes | Survivor's Notes | MYSTERY CROWN·YESPLAY | 게임 | 있음 | 재난을 미리 보는 소녀와 미래에서 온 대령이 좀비 유행의 기원을 밝히는 실사 영상 게임 |
+| 2026 | System Breakdown (경계) | System Breakdown | Anarchy Creations | 게임 | 없음 | 소련 전쟁 기계와 싸우는 디스토피아 탑다운 슈팅 |
 | 2026 | 더 큐브, 세이브 어스 (경계) | THE CUBE, SAVE US | 엑스엘게임즈 | 게임 | 한국 원작 | 큐브 문을 지날 때마다 바뀌는 무너진 세상에서 돌연변이와 약탈자를 뚫고 큐브를 빠져나간다. |
+| 2026 | TK Punk Gold | TK Punk Gold | 桑尼游戏(Sunny Game) | 게임 | 없음 | 삼국지 영웅들이 사이버펑크 항구 도시에 사는 다른 역사, 저항군이 깨운 인간형 인공지능이 술집을 꾸리며 싸운다 |
+| 2026 | The Empathy Algorithm | The Empathy Algorithm | ZEITGEISTLABOR | 게임 | 없음 | 인조인간 회사의 실험에서 인조인간의 사람다움을 매기던 대학생이 자신이 시험 대상일 수 있음을 모른다 |
+| 2026 | Torment Hexus | Torment Hexus | TMA Games LLC | 게임 | 없음 | 기술 파시스트 기업 탑을 오르며 경비·로봇·생체 기계 괴물을 마법으로 쓰러뜨리는 사이버펑크 퍼즐 전술 |
+| 2026 | Towerbolt | Towerbolt | bordenary | 게임 | 없음 | 239X년 사이버펑크 거대 탑을 보안 레이저에 쫓기며 꼭대기까지 오른다 |
+| 2026 | UNHUMAN | UNHUMAN | Kinda Lowkey Games | 게임 | 있음 | 사이버펑크 디스토피아의 적대 구역을 털고 증강을 달아 사람을 넘어서는 방치형 추출 슈팅 |
+| 2026 | UNLOAD | UNLOAD | RooTwo | 게임 | 있음 | 폭발로 모든 것을 잃은 '방문자'가 그날 일에 얽힌 자들을 쫓는 미래 탄막 슈팅 |
+| 2026 | Uppercute | Uppercute | PrettyScar | 게임 | 없음 | 남의 마음속에 뛰어들어 정보를 캐며 사라진 오빠의 수수께끼를 푸는 달리기 액션 |
+| 2026 | VIOLENT RUSH | VIOLENT RUSH | Sky Seekers | 게임 | 없음 | 잔인한 기업이 다스리는 근미래, 낙서 패거리 청년들이 스프레이와 진실로 권력에 맞선다 |
+| 2026 | Virus Hunter | Virus Hunter | Matsusoft | 게임 | 없음 | 나노 기계가 되어 늙어 가는 사람 몸을 바이러스·세균·암세포에게서 지킨다 |
+| 2026 | Void Future: Hacking Protocol | Void Future: Hacking Protocol | RVL Interactive | 게임 | 있음 | 기업이 정부보다 센 근미래, 지하 조직의 해커가 감시를 피해 세계 음모를 캔다 |
+| 2026 | Void of Lilly | Void of Lilly | Innocent Soul | 게임 | 없음 | 검은 안개 병 뒤 인류 마지막 보루가 된 첨단 도시 액시스 시티에서 언니를 찾는 근미래 모험 |
 | 2026 | Voidling Bound | Voidling Bound | Hatchery Games | 게임 | 확인 못 함 | 우주에 나간 인류가 바이러스 같은 괴물 '리전'과 마주치자, 우주 생물을 부화시켜 길러 맞선다. |
+| 2026 | Voltage High Society | Voltage High Society | Platonic Partnership | 게임 | 없음 | 사이버네틱 괴물이 들끓는 썩어 가는 감옥 섬 '네모 울트라'에서 살아남아 빠져나간다 |
+| 2026 | WATERPUNK | WATERPUNK | R_Games | 게임 | 없음 | 멸망 뒤 물의 세계, 지상으로 보내진 자원자가 살아갈 것을 찾아 싸운다 |
+| 2026 | Warped Universe | Warped Universe | Warped Games | 게임 | 없음 | 행성을 삼키는 '공허'를 함께 쓸어 내며 임무마다 모두의 우주가 바뀌는 온라인 슈팅 |
+| 2026 | Whalefall | Whalefall | Matriarch Games | 게임 | 없음 | 깊은 바닷속 기업 감옥에서 잘린 팔다리로 다시 자라는 복제 괴물을 피해 싸우는 공포(체험판) |
+| 2026 | XF Extreme Formula | XF Extreme Formula | Feperd Games | 게임 | 없음 | 3000년, 태양계를 돌며 음속을 넘는 경주차로 챔피언을 다투는 경기 |
+| 2026 | how to kill a fly [ H2KAF ] | how to kill a fly [ H2KAF ] | Radtel Collective | 게임 | 없음 | 기업이 소유한 말 못 하는 살덩이가 남의 말을 흉내 내며 사람 행세로 일을 해낸다 |
 | 2026 | 쇼와 아메리칸 스토리 | 昭和米国物語 | NEKCOM Games | 게임 | 있음 | 쇼와 66년, 경제력으로 미국 대부분을 사들인 일본의 문화가 미 대륙에 뿌리내린 다른 역사의 세계. |
 
-## 탁상 게임에서 시작한 세계 (46)
+## 탁상 게임에서 시작한 세계 (47)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
@@ -6516,6 +9656,7 @@
 | 2002 | Transhuman Space | Transhuman Space | David Pulver (Steve Jackson Games) | 탁상 게임 | 확인 못 함 | 2100년, 인류가 태양계를 개척하고 더 많은 이가 사람 너머의 몸과 마음에 이르는 시대 |
 | 2004 | 겁스 무한세계 | GURPS Infinite Worlds | Steve Jackson Games | 탁상 게임 | 있음 | 수많은 평행 지구를 오가는 기술이 생긴 뒤, 차원을 넘는 조직들이 다른 지구들을 두고 맞선다. |
 | 2005 | Infinity | Infinity | Corvus Belli | 게임·탁상 게임 | 확인 못 함 | 은하로 퍼진 인류의 여러 세력이 첩보와 특수 작전으로 겨루고, 사이보그·의식 업로드·가상 공간이 흔한 미래 |
+| 2006 | Chaotic (경계) | Chaotic | Merlin P. Mann · Martin Rauff (4Kids Ent | 게임·애니메이션·탁상 게임 | 확인 못 함 | 카드 게임의 비밀 암호를 넣은 소년이 게임 속 생물과 장소가 살아 있는 세계 '페림'으로 옮겨진다. |
 | 2008 | 안드로이드 넷러너 | Android | Fantasy Flight Games | 탁상 게임 | 일부 | 달과 화성에 식민지를 둔 미래, 우주 엘리베이터 도시 뉴 엔젤레스에서 거대 기업과 해커가 맞선다. |
 | 2008 | Halcyon | Halcyon | Aaron M Cates (Neuwerld Studios) | 탁상 게임 | 확인 못 함 | 옛 뉴욕의 잿더미 위 맨해튼 섬에 지은 미래 도시 할시온 |
 | 2009 | Eclipse Phase | Eclipse Phase | Posthuman Studios | 탁상 게임 | 확인 못 함 | 인공지능이 일으킨 재앙으로 지구를 잃은 뒤, 몸을 갈아입는 인류가 태양계에 흩어져 산다 |
