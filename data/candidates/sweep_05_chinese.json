@@ -1,0 +1,5026 @@
+{
+  "group": "sweep_05_chinese",
+  "candidates": [
+    {
+      "id": "xin_zhongguo_weilai_ji",
+      "orig": "新中國未來記",
+      "orig_en": "The Future of New China",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "新中國未來記 (1902, 미완)",
+      "by": "梁啟超",
+      "year": 1902,
+      "country": "중국",
+      "setting": "1962년, 부유한 입헌 군주국이자 세계 강국이 된 이상향 중국을 그린 미완의 소설.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 「The Future of New China」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "yueqiu_zhimindi_xiaoshuo",
+      "orig": "月球殖民地小說",
+      "orig_en": "Lunar Colony",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "月球殖民地小說 (1904, 미완)",
+      "by": "荒江釣叟",
+      "year": 1904,
+      "country": "중국",
+      "setting": "관리를 죽이고 달아난 사내가 배가 가라앉은 뒤 일본 발명가의 비행선에 구조되어 사라진 아내를 찾는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 「Chinese science fiction」 — 중국어로 쓴 첫 창작 SF로 여겨짐",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xin_shitou_ji",
+      "orig": "新石頭記",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "新石頭記 40회 (1905 南方報 연재, 1908 단행본)",
+      "by": "吳趼人",
+      "year": 1905,
+      "country": "중국",
+      "setting": "다시 세상에 나온 가보옥이 청말 사회를 겪다가 첨단 기술과 좋은 제도의 '문명 경계'에 들어선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nu_heixia_mulanhua",
+      "orig": "女黑俠木蘭花系列",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "女黑俠木蘭花系列 (倪匡, 필명 魏力 — 1966년 이전) · 영화 3편(1966~1967)",
+      "by": "倪匡(魏力)",
+      "year": 1966,
+      "country": "홍콩",
+      "setting": "목란화·목수진·고상 '동방 삼협'이 범죄 조직 흑룡당과 수수께끼 조직에 맞서는 SF 활극 연작.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 「女黑俠木蘭花系列」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yuan_zhenxia",
+      "orig": "原振俠系列",
+      "orig_en": "The Legendary Ranger",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "原振俠系列 32부 (1981~1992) · TVB 드라마(1993) · 영화",
+      "by": "倪匡",
+      "year": 1981,
+      "country": "홍콩",
+      "setting": "괴이한 일을 자주 겪는 의사 원진협의 SF 모험 연작 — 웨슬리와도 얽힌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」 · 중국어 위키백과 분류 「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tianjiang_caishen_1983",
+      "orig": "天降財神",
+      "orig_en": "The Superpower",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "天降財神 (1983, TVB) 20회",
+      "by": "鄒世孝(제작)",
+      "year": 1983,
+      "country": "홍콩",
+      "setting": "고향 별이 무너져 가자 지구로 온 1899년생 외계인이 홍콩 사람들 사이에서 산다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "taikong_zhanshi_1984",
+      "orig": "太空戰士",
+      "orig_en": "",
+      "ko": "태공전사",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "太空戰士 (1984~1987, 대만)",
+      "by": "대만 제작",
+      "year": 1984,
+      "country": "대만",
+      "setting": "일본 전대물을 본떠 만든 대만의 우주 전사 특촬극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「태공전사」 (분류 '중국 특촬물')",
+      "korean": {
+        "status": "있음",
+        "detail": "정우시네마 대여 비디오 '태공전사(일명 태양용사)'(나무위키)",
+        "src": "https://namu.wiki/w/태공전사"
+      },
+      "borderline": true
+    },
+    {
+      "id": "feixu_taiwan",
+      "orig": "廢墟台灣",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "廢墟台灣 (1985, 前衛出版社)",
+      "by": "宋澤萊",
+      "year": 1985,
+      "country": "대만",
+      "setting": "독재와 쓰레기·핵 오염 끝에 2010년 무너진 대만을, 5년 뒤 외국인 탐험자들이 일기로 되짚는다.",
+      "concepts": [
+        "catastrophe",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材小說」·「未來題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jiu_ming_ren",
+      "orig": "九命人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "九命人 (1985) · 九命人計畫(2018) · 久命人 — 같은 세계관 연작",
+      "by": "姜振台(阿推)",
+      "year": 1985,
+      "country": "대만",
+      "setting": "목숨이 아홉인 주인공이 되살아나며 사건을 푸는 탐정 SF 만화.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chaoji_xiao_yingxiong_1987",
+      "orig": "超級小英雄",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超級小英雄 (1987, 華視) 대만어 SF 연속극",
+      "by": "華視",
+      "year": 1987,
+      "country": "대만",
+      "setting": "검성의 연인이 초능력을 지닌 몸으로 다시 태어나고, 그 아들 '슈퍼 꼬마 영웅'이 싸우는 SF 무협극.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「人與外星生物接觸題材電視劇」·「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "huanghuo_wang_lixiong",
+      "orig": "黄祸",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "黄禍 (1991, 明镜出版社)",
+      "by": "王力雄(필명 保密)",
+      "year": 1991,
+      "country": "중국",
+      "setting": "중국의 균형이 무너져 내전이 핵 내전으로, 끝내 제3차 세계 대전으로 번진다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "taiyang_zhi_zi_1992",
+      "orig": "太阳之子",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "太阳之子 52화 (1992 첫 방영~1997, 北京辉煌动画)",
+      "by": "阎善春 · 矜持(감독)",
+      "year": 1992,
+      "country": "중국",
+      "setting": "태양 결정에서 태어난 소년이 우주를 노리는 어둠의 왕국과 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "haihu_wushen",
+      "orig": "海虎",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "海虎 (1994~1997) · 武神 · 武神鳳凰 (海洋創作)",
+      "by": "溫日良",
+      "year": 1994,
+      "country": "홍콩",
+      "setting": "핵전쟁이 거듭된 5천 년 뒤의 오염된 미래에서 초능력 무인들이 힘으로 다툰다(『무신』).",
+      "concepts": [
+        "catastrophe",
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 「海虎」 · 중국어 위키백과 분류 「未來題材作品」·「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xiaoshan_riji",
+      "orig": "小山日记",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "小山日记 (1994, 画书大王 · 1996 단행본)",
+      "by": "陈翔",
+      "year": 1994,
+      "country": "중국",
+      "setting": "숲에 사는 발명가가 지능 기계로 토끼 집사를 만들고, 그 기계로 동물들이 지능을 얻는다.",
+      "concepts": [
+        "uplift",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「自主機器人題材漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xue_ye",
+      "orig": "雪椰",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "雪椰 (1994~, 画书大王 등 연재 · 1996 단행본)",
+      "by": "颜开",
+      "year": 1994,
+      "country": "중국",
+      "setting": "고교생에게 배달된 수정 상자 속 소녀는 핵전쟁으로 오염된 2398년 지구에서 왔다.",
+      "concepts": [
+        "catastrophe",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「時間旅行漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mo_chi_ta_wei",
+      "orig": "膜",
+      "orig_en": "The Membranes",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "膜 (1996, 聯經出版)",
+      "by": "紀大偉",
+      "year": 1996,
+      "country": "대만",
+      "setting": "오존층이 사라져 뜨거워진 지상을 버리고 해저 도시로 내려간 미래, 이름난 피부 관리사 모모의 이야기.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 「The Membranes (novel)」 — 대만 퀴어 사변 소설의 고전",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hei_xue",
+      "orig": "黑血",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "黑血 (1997~, 少年漫画)",
+      "by": "赵佳",
+      "year": 1997,
+      "country": "중국",
+      "setting": "경찰 단짝이 범죄 조직을 쫓다 수수께끼의 여인과 얽히는 장편 SF 만화.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "1999 大陸文传杯 신인상 1위 — 중국어 위키백과 '장편 SF 만화'",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mili_dang_an_1997",
+      "orig": "迷離檔案",
+      "orig_en": "Mystery Files",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "迷離檔案 (1997, TVB) 20회",
+      "by": "TVB",
+      "year": 1997,
+      "country": "홍콩",
+      "setting": "미신을 믿지 않는 생화학 교수가 과학으로 기이한 사건들의 답을 찾아 나선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jing_ge_liu",
+      "orig": "鲸歌",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "鲸歌 (1999, 科幻世界 6호) — 지은이 첫 작품",
+      "by": "刘慈欣",
+      "year": 1999,
+      "country": "중국",
+      "setting": "뇌에 전극을 심어 컴퓨터로 부리는 대왕고래 '포세이돈'으로 마약을 나르려는 계획.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 「鲸歌 (小说)」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lanmao_taoqi_3000_wen",
+      "orig": "蓝猫淘气3000问",
+      "orig_en": "3000 Whys of Blue Cat",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "蓝猫淘气3000问 (1999~, 北京电视台) 3,057화",
+      "by": "Hunan Sunchime Happy Culture(제작)",
+      "year": 1999,
+      "country": "중국",
+      "setting": "호기심 많은 파란 고양이가 상상으로 어느 시대든 찾아가며 과학을 알려 주는 대형 애니메이션.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 분류 「Chinese children's animated comic science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "weiguan_jintou",
+      "orig": "微观尽头",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "微观尽头 (1999, 科幻世界)",
+      "by": "刘慈欣",
+      "year": 1999,
+      "country": "중국",
+      "setting": "뤄부포의 입자 가속기로 쿼크를 쪼개는 순간을, 물리학자 둘과 양치기 노인이 함께 지켜본다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hongse_haiyang",
+      "orig": "红色海洋",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "红色海洋 — 일부 장 科幻世界(2000~) · 단행본(上海科学普及出版社)",
+      "by": "韩松",
+      "year": 2000,
+      "country": "중국",
+      "setting": "침략을 피해 유전자로 몸을 바꾼 물속 인류가 핵전쟁 뒤 바다에서 퇴화와 식인의 역사를 거꾸로 산다.",
+      "concepts": [
+        "genetic_eng",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_star_over_america_2066",
+      "orig": "2066: Red Star Over America",
+      "orig_en": "2066: Red Star Over America",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "2066: Red Star Over America (2000, 黑龙江人民出版社)",
+      "by": "韩松",
+      "year": 2000,
+      "country": "중국",
+      "setting": "경제 위기와 정치 혼란에 빠진 미국과, 인공지능 '아만도'에 기대 초강대국이 된 중국의 2066년.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction novels」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "quan_pindai_zuse_ganrao",
+      "orig": "全频带阻塞干扰",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "全频带阻塞干扰 (2001, 科幻世界 8호 · 2009 단행본)",
+      "by": "刘慈欣",
+      "year": 2001,
+      "country": "중국",
+      "setting": "가까운 미래의 전쟁에서 모든 주파수를 틀어막는 전자 교란 작전을 그린 군사 SF 중편.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2001 — 중국어 위키백과 「银河奖作品列表」·「全频带阻塞干扰」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chuanyue_shikong_de_ailian",
+      "orig": "穿越时空的爱恋",
+      "orig_en": "Love Across Time",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "穿越时空的爱恋 (2002)",
+      "by": "孙太泉 · 杨军(감독)",
+      "year": 2002,
+      "country": "중국",
+      "setting": "문화재 도둑과 여경이 꿈의 베개를 다투다 명나라 초로 함께 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hundun_hudie",
+      "orig": "混沌蝴蝶",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "混沌蝴蝶 (2002, 科幻大王)",
+      "by": "刘慈欣",
+      "year": 2002,
+      "country": "중국",
+      "setting": "1999년 폭격을 막으려는 유고 과학자들이 슈퍼컴퓨터로 대기의 민감점을 찾아 날씨를 바꾸려 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zentrix",
+      "orig": "時空冒險記",
+      "orig_en": "Zentrix",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "時空冒險記 26화 (2002, 意馬國際)",
+      "by": "鄧東明 · 葉偉青(감독)",
+      "year": 2002,
+      "country": "홍콩",
+      "setting": "기계와 사람이 함께 사는 미래 수도에서 사람의 욕심을 품은 슈퍼컴퓨터가 세계를 지배하려 한다.",
+      "concepts": [
+        "ai_revolt",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「時間旅行動畫」·「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zhongguo_taiyang",
+      "orig": "中国太阳",
+      "orig_en": "Sun of China",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "中国太阳 (2002, 科幻世界)",
+      "by": "刘慈欣",
+      "year": 2002,
+      "country": "중국",
+      "setting": "가뭄 든 마을 청년이 나노 거울막으로 만든 거대한 궤도 반사경 '중국 태양'에 닿는다.",
+      "concepts": [
+        "megastructure"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2002 — 중국어 위키백과 「银河奖作品列表」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "diqiu_dapao",
+      "orig": "地球大炮",
+      "orig_en": "Cannonball",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "地球大炮 (2003, 科幻世界 9호)",
+      "by": "刘慈欣",
+      "year": 2003,
+      "country": "중국",
+      "setting": "핵폭발로 땅속 동굴을 파던 아버지가 백혈병으로 냉동 수면에 들고, 수십 년 뒤 깨어난다.",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2003 — 중국어 위키백과 「银河奖作品列表」 · 영어 위키백과 「Cannonball (short story)」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jiuwu_zhizun_2003",
+      "orig": "九五至尊",
+      "orig_en": "The King of Yesterday and Tomorrow",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "九五至尊 (2003, TVB) 20회",
+      "by": "Siu Hin-fai(제작)",
+      "year": 2003,
+      "country": "홍콩",
+      "setting": "죽지 않았다는 전설 속 옹정제가 현대 홍콩으로 건너오는 시간 여행 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tianyi_qian_lifang",
+      "orig": "天意",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "天意 (2003, 科幻世界·星云 1호) · 드라마(2018, 优酷)",
+      "by": "钱莉芳",
+      "year": 2003,
+      "country": "중국",
+      "setting": "진나라가 무너지기 전야, 검은 옷의 사람이 한신에게 거래를 걸고 왕조 교체 뒤의 숨은 힘이 드러난다.",
+      "concepts": [
+        "long_plan"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2004 특별상 — 중국어 위키백과 「银河奖作品列表」 · 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dang_konglong_yushang_mayi",
+      "orig": "当恐龙遇上蚂蚁",
+      "orig_en": "Of Ants and Dinosaurs",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "当恐龙遇上蚂蚁 (2004 중편) → 白垩纪往事 (2010 장편)",
+      "by": "刘慈欣",
+      "year": 2004,
+      "country": "중국",
+      "setting": "공룡 이빨을 청소하던 개미와 공룡이 손을 잡아 두 지성 문명을 일구다 핵의 시대에 이른다.",
+      "concepts": [
+        "uplift",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Novels by Liu Cixin」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "geshi_zhuixiong",
+      "orig": "隔世追兇",
+      "orig_en": "To Get Unstuck in Time",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "隔世追兇 (2004, TVB) 22회",
+      "by": "林志華(제작)",
+      "year": 2004,
+      "country": "홍콩",
+      "setting": "1984년의 아버지와 2004년의 아들이 시간을 가로질러 함께 살인 사건을 푼다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」 · 영어 위키백과 분류 「Hong Kong science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "huangling_de_mimi",
+      "orig": "皇陵的秘密",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "皇陵的秘密 (2004 단편)",
+      "by": "龍俊榮",
+      "year": 2004,
+      "country": "홍콩",
+      "setting": "도굴꾼 스승과 제자가 황릉에 들어가며 겪는 일을 그린 SF 단편.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "倪匡科幻獎 2004(제3회) 소설 부문 1위 — 중국어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "qiuzhuang_shandian",
+      "orig": "球状闪电",
+      "orig_en": "Ball Lightning",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "球状闪电 (2001 집필, 2004 科幻世界·星云Ⅱ, 2005 단행본) · 드라마(2022 촬영, 爱奇艺)",
+      "by": "刘慈欣",
+      "year": 2004,
+      "country": "중국",
+      "setting": "어린 날 부모를 앗아 간 공 번개를 쫓던 물리학자가 '거대 전자'와 평행 우주의 비밀에 닿는다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」 · 중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shanyang_renlei",
+      "orig": "赡养人类",
+      "orig_en": "For the Benefit of Mankind",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "赡养上帝 → 赡养人类 (2005, 科幻世界 11호)",
+      "by": "刘慈欣",
+      "year": 2005,
+      "country": "중국",
+      "setting": "『신을 부양하다』 뒤, 다른 인류의 선단 선봉이 지구 위에 오자 최상층 부자들이 노숙인 살해를 청부한다.",
+      "concepts": [
+        "alien",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2005 — 중국어 위키백과 「银河奖作品列表」 · 영어 위키백과 「For the Benefit of Mankind」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xin_song",
+      "orig": "新宋",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "新宋 (2005)",
+      "by": "阿越",
+      "year": 2005,
+      "country": "중국",
+      "setting": "21세기 역사학과 대학생이 북송으로 건너가 현대 지식으로 왕조를 고쳐 나간다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材小說」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhongji_series",
+      "orig": "終極系列",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "終極系列 (2005~) — 終極三國(2009)·終極一班2(2012)·終極一班3(2013)·終極惡女(2014) 등",
+      "by": "可米國際影視 · 八大電視",
+      "year": 2005,
+      "country": "대만",
+      "setting": "금·은·철·동 여러 '시공'이 겹친 세계에서 이능의 학생들이 싸우는 판타지 아이돌 극 연작.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "중국어 위키백과 분류 「終極宇宙」 · 중국어 위키백과 분류 「平行世界題材電視劇」 · 중국어 위키백과 「終極三國」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yishou_zhi",
+      "orig": "异兽志",
+      "orig_en": "Strange Beasts of China",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "异兽志 (2006)",
+      "by": "颜歌",
+      "year": 2006,
+      "country": "중국",
+      "setting": "갖가지 '이수'가 사람과 섞여 사는 공업 도시 융안에서 수수께끼 동물 연구자가 그들을 기록한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction novels」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wuxian_kongbu",
+      "orig": "無限恐怖",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "無限恐怖 (2007~, 起点中文网 · 北方文艺出版社)",
+      "by": "zhttty(張恆)",
+      "year": 2007,
+      "country": "중국",
+      "setting": "현실에 지친 사람들이 '주신'의 공간으로 끌려가 공포·SF 영화 속 세계에서 임무를 해내며 살아남는다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "여러 영화 세계를 차례로 도는 생존 임무('무한류')",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "baibian_jishou_luoluo",
+      "orig": "百变机兽之洛洛历险记",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "百变机兽之洛洛历险记 52화 (2008, 广州蓝弧)",
+      "by": "王巍(감독·각본)",
+      "year": 2008,
+      "country": "중국",
+      "setting": "번개를 맞고 게임 속으로 들어간 소년이 기계족을 이끌고 맹수족과 싸운다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "feiguan_yingxiong",
+      "orig": "非關英雄",
+      "orig_en": "No Hero",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "非關英雄 (2008~, 天使出版社)",
+      "by": "御我",
+      "year": 2008,
+      "country": "대만",
+      "setting": "기계 광란의 시대 2112년, 흡혈귀 집사가 4대 영웅 '현일'의 집사가 된다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 「非關英雄」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jinjia_zhanshi",
+      "orig": "金甲战士",
+      "orig_en": "Unidentified Mysterious Animal",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "金甲战士 (2008)",
+      "by": "张笑帆(감독)",
+      "year": 2008,
+      "country": "중국",
+      "setting": "외계 생물 '유마'를 실은 우주선이 지구에 불시착하고, 금갑 전사가 우주 해적과 맞선다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mohuan_shouji",
+      "orig": "魔幻手机",
+      "orig_en": "Magic Cellphone",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "魔幻手机 (2008, CCTV-8) · 魔幻手机2傻妞归来 (2014)",
+      "by": "余明生(감독) · 九年(각본)",
+      "year": 2008,
+      "country": "중국",
+      "setting": "시공 이동 기능을 지닌 2060년의 사람 모양 휴대 전화 '사뉴'가 당나라와 현대를 오간다.",
+      "concepts": [
+        "time_travel",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "qie_ming",
+      "orig": "窃明",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "窃明 (2008)",
+      "by": "灰熊猫",
+      "year": 2008,
+      "country": "중국",
+      "setting": "명나라 말 요동으로 건너간 톈진 청년이 역사의 흐름에 휩쓸려 명나라 장수가 된다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材小說」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chaoren_ma_dajie",
+      "orig": "超人马大姐",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超人马大姐 40회 (2009)",
+      "by": "英达 · 吕小品(감독)",
+      "year": 2009,
+      "country": "중국",
+      "setting": "'마 큰언니' 가족 앞에 순간 이동기·인생 리모컨·천리 귀 스티커 같은 발명품이 등장하는 SF 상황극.",
+      "concepts": [
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chu_feng_hina",
+      "orig": "雛蜂",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "雛蜂 (2009~, 有妖气) · 애니메이션",
+      "by": "白貓sunny(孫恆)",
+      "year": 2009,
+      "country": "중국",
+      "setting": "2017년 새 군비 경쟁 속 병기 '첨병'으로 쓰인 소녀가 남은 380일 동안 마지막 임무에 나선다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jian_ke_maoni",
+      "orig": "间客",
+      "orig_en": "",
+      "ko": "간객",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "间客 (2009~2011, 起点中文网) · 애니메이션",
+      "by": "猫腻",
+      "year": 2009,
+      "country": "중국",
+      "setting": "광산 출신 청년이 별빛 가득한 우주로 나가 여성 전함 지휘관을 보좌하게 되는 우주 활극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "나무위키 '중국의 SF 소설' · 华语科幻星云奖 2011 휴대폰 독자상 은상(중국어 위키백과 「全球华语科幻星云奖」) · 중국 인터넷 문학 20년 20편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lingao_qiming",
+      "orig": "临高启明",
+      "orig_en": "Illumine Lingao",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "临高启明 (2009~, 여러 작가 연재 · 吹牛者/萧峰 엮음)",
+      "by": "吹牛者(萧峰) 외",
+      "year": 2009,
+      "country": "중국",
+      "setting": "500여 명의 현대인이 웜홀로 1628년 명나라 말 하이난 린가오에 건너가 공업 사회를 세운다.",
+      "concepts": [
+        "time_travel",
+        "wormhole",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "중국어 위키백과 「临高启明」 · 영어 위키백과 분류 「Chinese science fiction novels」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shengshi_zhongguo_2013",
+      "orig": "盛世：中国，2013年",
+      "orig_en": "The Fat Years",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "盛世 (2009, 牛津大学出版社·麥田)",
+      "by": "陳冠中",
+      "year": 2009,
+      "country": "홍콩",
+      "setting": "번영의 '성세'에 든 2013년 중국 — 모두의 기억에서 2011년 2월 한 달이 사라졌다.",
+      "concepts": [
+        "memory_edit",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction novels」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shu_nian",
+      "orig": "鼠年",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "鼠年 (2009, 科幻世界 5호)",
+      "by": "陈楸帆",
+      "year": 2009,
+      "country": "중국",
+      "setting": "취업 못 한 대학생들이 군대와 '쥐잡이 대'를 꾸려 유전자 조작으로 영리해진 '새 쥐'를 쫓는다.",
+      "concepts": [
+        "genetic_eng",
+        "uplift"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」·「科幻短篇小說」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chao_zhineng_zuqiu",
+      "orig": "超智能足球",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "超智能足球 104화 (1기 2010, 2기 2018)",
+      "by": "钱国栋(감독) · 深圳市方块动漫画",
+      "year": 2010,
+      "country": "중국",
+      "setting": "손바닥만 한 인공지능 축구 로봇의 시대, 소년이 아버지가 만든 로봇 선수로 팀을 꾸린다.",
+      "concepts": [
+        "ai",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「未來題材作品」·「机器人题材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "di_er_huihe_wo_ai_ni",
+      "orig": "第二回合我愛你",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "第二回合我愛你 (2010, 三立)",
+      "by": "王明台 · 徐輔軍(감독)",
+      "year": 2010,
+      "country": "대만",
+      "setting": "이혼 직전 부부의 남편 앞에 '기적의 컴퓨터'가 나타나 과거로 돌아가 실수를 고칠 기회를 준다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "guobao_tegong",
+      "orig": "果宝特攻",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "果宝特攻 1~4부 208화 (2010~2017, 广州蓝弧)",
+      "by": "王巍 · 陈奋(감독)",
+      "year": 2010,
+      "country": "중국",
+      "setting": "과일 전사들이 나오는 로봇 액션 3D 애니메이션 연작.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "meng_xueyuan",
+      "orig": "萌學園",
+      "orig_en": "The M Riders",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "萌學園 1~6 (2010~2014, 東森幼幼台)",
+      "by": "可米國際影視 · 巨宸製作 · 葉天倫 외(감독)",
+      "year": 2010,
+      "country": "대만",
+      "setting": "대기권 밖에 숨은 '쿼크족'의 학교와 기사들이 공주와 우주의 안전을 지키는 어린이 판타지극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」 · 중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "rensheng_bu_xiangjian",
+      "orig": "人生不相见",
+      "orig_en": "Life Does Not Allow Us to Meet",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "人生不相见 (2010, 科幻世界 12호)",
+      "by": "何夕",
+      "year": 2010,
+      "country": "중국",
+      "setting": "식민 행성 '카스피해'의 개조 이주민이 사람과 아이를 낳을 수 없게 되자 감시단장이 학살에 나선다.",
+      "concepts": [
+        "colonization",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2010 걸작상 · 华语科幻星云奖 2011 중편 금상 — 중국어 위키백과 「银河奖作品列表」·「全球华语科幻星云奖」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shenhua_the_myth",
+      "orig": "神话",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "드라마 神话 50회(2010, CCTV-8) — 영화 『神话』 원작(해 미확인)",
+      "by": "蒋家骏(감독)",
+      "year": 2010,
+      "country": "중국",
+      "setting": "옥패와 진나라 보물 상자가 반응해 사진가가 2천여 년 전 진나라로 끌려간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "taikong_lixianji_astro_plan",
+      "orig": "太空历险记",
+      "orig_en": "Astro Plan",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "太空历险记 26화 (2010, 金鹰卡通)",
+      "by": "Xing Yuan(광저우 장난감 회사)",
+      "year": 2010,
+      "country": "중국",
+      "setting": "2735년, 온난화와 소행성으로 망한 지구를 떠난 우주 이민 함대가 외계 종족과 맞닥뜨린다.",
+      "concepts": [
+        "earth_left",
+        "alien",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese children's animated science fiction television series」 — '중국 첫 SF 애니메이션'으로 홍보",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xianggang_guanji",
+      "orig": "香港關機",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "香港關機 (2010~2011 信報 연재, 2012 출간) · 만화(2015)",
+      "by": "喬靖夫",
+      "year": 2010,
+      "country": "홍콩",
+      "setting": "생화학 바이러스가 퍼진 홍콩이 바깥과 끊겨 버려진 채 스스로 살아남아야 한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」·「末日題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chaoshou_wuzhuang",
+      "orig": "超兽武装",
+      "orig_en": "Ultra Beast Force",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "超兽武装之仁者无敌 (2011) · 超兽武装之勇者无惧 (2012), 66화",
+      "by": "王巍(감독) · 广州蓝弧",
+      "year": 2011,
+      "country": "중국",
+      "setting": "10만 년마다 돌아오는 평행 우주들의 '윤회' — 여러 우주의 초수 전사가 명왕의 부활을 막는다.",
+      "concepts": [
+        "alt_timeline",
+        "cycle"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人动画」·「科幻動畫」 · 중국어 위키백과 분류 「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chongchong_jihua",
+      "orig": "虫虫计划",
+      "orig_en": "Bug's plan",
+      "ko": "벅스 플랜",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션",
+        "만화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "虫虫计划 52화 (2011) · 웹코믹(2012)",
+      "by": "중국 제작",
+      "year": 2011,
+      "country": "중국",
+      "setting": "등장인물이 모두 외계 종족인 SF 희극 — 1만 살이 지구의 한 살에 해당한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「벅스 플랜」 (분류 '중국 애니메이션/목록'·'중국의 오리지널 애니메이션')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "duan_nao",
+      "orig": "端脑",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "端脑 (2011~, 有妖气) · 애니메이션(2014) · 드라마(2017, 搜狐视频)",
+      "by": "壁水羽(글) · 神祭(그림)",
+      "year": 2011,
+      "country": "중국",
+      "setting": "서로 맞선 우주들로 짜인 '단뇌 우주' — 살인 사건에서 은하 전쟁까지 숨은 비밀이 드러난다.",
+      "concepts": [
+        "alt_timeline",
+        "fleet_battle"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「科幻動畫」·「科幻漫畫」 · 중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fangzhou_qihang",
+      "orig": "方舟奇航",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "方舟奇航 (2011~, 漫画SHOW·CCC追漫台)",
+      "by": "彭傑",
+      "year": 2011,
+      "country": "대만",
+      "setting": "세계 종말과 '방주 계획'으로 만난 지구인과 외계인의 이야기.",
+      "concepts": [
+        "alien",
+        "ark",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材漫畫」·「末日題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fuyan_ren",
+      "orig": "複眼人",
+      "orig_en": "The Man with the Compound Eyes",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "複眼人 (2011, 夏日出版社)",
+      "by": "吳明益",
+      "year": 2011,
+      "country": "대만",
+      "setting": "둘째 아들을 바다로 내보내는 섬의 소년이 가라앉는 배에서 헤엄쳐 닿은 '섬'은 거대한 쓰레기 소용돌이였다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 「The Man with the Compound Eyes」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gong_2011",
+      "orig": "宫",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "宫 (宫锁心玉, 2011, 湖南卫视)",
+      "by": "李慧珠(감독) · 于正(각본)",
+      "year": 2011,
+      "country": "중국",
+      "setting": "골동품점 상속녀가 시공 터널에 빠져 1708년 청나라 궁정의 왕자들 사이에 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jijia_yingxiong",
+      "orig": "機甲英雄",
+      "orig_en": "Hero of Robots",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "만화"
+      ],
+      "first_medium": "게임",
+      "series": "機甲英雄 Hero of Robots (2011 아케이드) · 만화",
+      "by": "鈊象電子",
+      "year": 2011,
+      "country": "대만",
+      "setting": "외계의 지구 침공에 맞서 거대 로봇이 카드 대전을 벌이는 아케이드 게임.",
+      "concepts": [
+        "mecha",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「古代太空人題材作品」·「巨大机器人题材漫画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nuwa_chuanshuo_lingzhu",
+      "orig": "女媧傳說之靈珠",
+      "orig_en": "The Holy Pearl",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "女媧傳說之靈珠 (2011, 江蘇衛視)",
+      "by": "蔡晶盛(감독)",
+      "year": 2011,
+      "country": "중국",
+      "setting": "천 년을 건너는 사랑 — 사람과 요괴의 인연이 전생과 현생을 잇는 신화 사극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shiguang_diantai",
+      "orig": "时光电台",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "时光电台 (2011, 奇想影视) 13회",
+      "by": "陈炳丰(감독)",
+      "year": 2011,
+      "country": "말레이시아",
+      "setting": "2011년의 청년이 낡은 화장실의 시공 출입구로 매일 아침 1980년대 방송국에 출근한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「馬來西亞時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shikong_youke",
+      "orig": "时空幽客",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "时空幽客 (漫画世界 연재, 2011 단행본) 5~6권",
+      "by": "奥冬 · 兰兰",
+      "year": 2011,
+      "country": "중국",
+      "setting": "소년 발명가가 친구들과 시간과 공간을 넘나드는 장치를 만든다.",
+      "concepts": [
+        "time_travel",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「時間旅行漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "yuzhou_xingshen",
+      "orig": "宇宙星神",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "宇宙星神 52화 (2011, 广州蓝弧)",
+      "by": "马凌(감독)",
+      "year": 2011,
+      "country": "중국",
+      "setting": "아폴로 대전 뒤 2401년, 아이들이 은하 중심에서 온 '은하의 별'의 비밀을 찾아 태양계를 돈다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「未來題材作品」·「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zhandou_zhuangjia_gangyu",
+      "orig": "战斗装甲钢羽",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "战斗装甲钢羽 (2011)",
+      "by": "LAS",
+      "year": 2011,
+      "country": "중국",
+      "setting": "2045년, 버뮤다 심해의 반물질 광물을 쥔 에너지 재벌이 인간형 전투 갑옷 용병단으로 세계를 흔든다.",
+      "concepts": [
+        "mecha",
+        "mega_corp",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「機器人漫畫」·「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "huidao_sanguo",
+      "orig": "回到三國",
+      "orig_en": "Three Kingdoms RPG",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "回到三國 (2012, TVB) 25회",
+      "by": "Lau Kar-ho(제작)",
+      "year": 2012,
+      "country": "홍콩",
+      "setting": "게임 중독 청년이 삼국 시대로 떨어져 제갈량의 참모가 된다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jushen_zhanjidui",
+      "orig": "巨神战击队",
+      "orig_en": "",
+      "ko": "자이언트 세이버",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "巨神战击队 1~2기 (2012~, 중·일 합작 특촬)",
+      "by": "중·일 합작",
+      "year": 2012,
+      "country": "중국",
+      "setting": "인·천·지 세 팀의 로봇 전사와 거대 로봇이 '해족' 괴물에 맞서는 특촬극.",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「자이언트 세이버」 (분류 '중국 특촬물')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tiejia_weichong",
+      "orig": "铁甲威虫",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "铁甲威虫之骑刃王 52화 (2012, 炫动卡通·蓝弧)",
+      "by": "王巍(감독·각본)",
+      "year": 2012,
+      "country": "중국",
+      "setting": "딱정벌레 왕국의 '기인왕' 고수들 — 소년은 집 농기계가 전차 '용전기'임을 알게 된다.",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻動畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhisheng_xianshi",
+      "orig": "智勝鮮師",
+      "orig_en": "Confucius",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "智勝鮮師 (2012, 中視) — 麻辣鮮師 이어진 작품",
+      "by": "柯翰辰 · 陳彥旭(감독)",
+      "year": 2012,
+      "country": "대만",
+      "setting": "2500년 전 억울하게 죽은 공자가 저승을 거쳐 현대 학교의 선생이 된다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chaoxian_liebing_kaineng",
+      "orig": "超限獵兵-凱能",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "超限獵兵-凱能 (2013, 西基電腦動畫·奥飞动漫)",
+      "by": "西基電腦動畫",
+      "year": 2013,
+      "country": "대만·중국",
+      "setting": "2300년 이민 시대, 고리형 우주 도시를 둘러싸고 지구·화성·달과 우주 해적이 다툰다.",
+      "concepts": [
+        "habitat",
+        "colonial_war",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「宇宙戰爭題材作品」·「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "huidao_ai_yiqian",
+      "orig": "回到愛以前",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "回到愛以前 (2013, 台視·三立)",
+      "by": "王明台 · 許珮珊 · 郝心翔(감독)",
+      "year": 2013,
+      "country": "대만",
+      "setting": "약혼자를 잃은 무용수가 시간의 신에게서 과거로 돌아갈 기회를 얻지만 재능을 잃는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mida_mengjian",
+      "orig": "夢見",
+      "orig_en": "Mida",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "夢見 D-ZONE (2013 만화) · 夢見。MIDA (2013 애니메이션 영화)",
+      "by": "張永昌(감독) · 翁文信(각본)",
+      "year": 2013,
+      "country": "대만",
+      "setting": "모두가 같은 꿈 세계로 들어가는 평행 공간에서 꿈 치료사가 남의 꿈을 고친다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「人工智能題材作品」·「平行世界題材漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "qingni_sanshi_yuan",
+      "orig": "情逆三世緣",
+      "orig_en": "Always and Ever",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "情逆三世緣 (2013, TVB) 31회",
+      "by": "Chong Wai-kin(제작)",
+      "year": 2013,
+      "country": "홍콩",
+      "setting": "작전 중 연인을 죽게 한 경찰이 송나라로 되돌아가 그녀와 닮은 사람을 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "seer_saierhao",
+      "orig": "賽爾號",
+      "orig_en": "Seer",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "애니메이션 賽爾號 (2013~) — 淘米 웹 게임 『賽爾號』 원작(해 미확인)",
+      "by": "上海淘米網絡 · 王章俊 · 劉虹(감독)",
+      "year": 2013,
+      "country": "중국",
+      "setting": "같은 이름의 웹 게임을 옮긴 우주 모험 활극 애니메이션.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「太空歌劇」·「未來題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shijian_zhi_xu",
+      "orig": "时间之墟",
+      "orig_en": "Ruins of Time",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "虚纪元 (2013, 最幻想 연재) → 时间之墟 (2013, 长江文艺出版社)",
+      "by": "宝树",
+      "year": 2013,
+      "country": "중국",
+      "setting": "2012년 충돌기 실험이 외계 '수확자'를 불러, 지구 생명의 생각이 하루도 안 되는 시간 고리에 갇힌다.",
+      "concepts": [
+        "alien",
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "华语科幻星云奖 2014 장편(영어 위키백과 「Chinese science fiction」) · 중국어 위키백과 분류 「中国科幻小说」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tangchao_hao_nanren",
+      "orig": "唐朝好男人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "唐朝好男人 (2013) · 唐朝好男人2 (2014) — 같은 이름 인터넷 소설 원작",
+      "by": "孙恺凯(감독)",
+      "year": 2013,
+      "country": "중국",
+      "setting": "교통사고로 당나라에 떨어진 은행원이 21세기 지식으로 몰락 귀족의 삶을 꾸린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xinshiji_guojun_zhanshi",
+      "orig": "新世紀國軍戰士",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "新世紀國軍戰士 (2013, 未來數位)",
+      "by": "韋宗成",
+      "year": 2013,
+      "country": "대만",
+      "setting": "신병이 배치된 팔괘산 부대는 국방 기밀 거대 로봇 '한신호'의 기지였다 — 군대 희극 만화.",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人题材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "carrier_navar",
+      "orig": "CARRIER携带者",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "CARRIER携带者 (2014, 劲漫画·別冊少年マガジン)",
+      "by": "NAVAR",
+      "year": 2014,
+      "country": "중국",
+      "setting": "문명이 무너진 뒤에도 전쟁과 음모가 이어지고, 새 바이러스가 퍼져 새 시대가 열린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「后末日题材漫画」·「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "guance_zhan_shaonian",
+      "orig": "觀測站少年",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "觀測站少年 (2014, 公視)",
+      "by": "邱立偉(감독)",
+      "year": 2014,
+      "country": "대만",
+      "setting": "초등학생 제이미의 눈으로 지구 환경과 기후 변화를 살피는 대만 첫 SF 애니메이션.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「科幻動畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nami_hexin",
+      "orig": "纳米核心",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "纳米核心 (2014~, 心动游戏·海岸线动画工作室) 3기 계획",
+      "by": "吴酉恒(감독)",
+      "year": 2014,
+      "country": "중국",
+      "setting": "가상의 행성 '원성'에서 기술과 긴 수명을 택한 '아인'과 사람이 다툰다.",
+      "concepts": [
+        "longevity",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「宇宙戰爭題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nami_shenbing",
+      "orig": "纳米神兵",
+      "orig_en": "",
+      "ko": "나노 인베이더즈",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "纳米神兵 (2014, 중·일 합작)",
+      "by": "중·일 합작",
+      "year": 2014,
+      "country": "중국·일본",
+      "setting": "지구에 사는 외계인들의 모험을 그린 어린이 애니메이션.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「나노 인베이더즈」 (분류 '중국 애니메이션/목록')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "penglai_jian",
+      "orig": "蓬萊間",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "蓬萊間 (2014 龍文 연재, 2015 출간) · 드라마(2020, 腾讯视频)",
+      "by": "路寒(원작) · 王奕丁(감독)",
+      "year": 2014,
+      "country": "중국",
+      "setting": "정체 모를 '영물' 의사의 이야기 — 소설의 요괴·선계를 드라마는 외계 '봉래족' SF로 바꿨다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」·「人與外星生物接觸題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yichang_shengwu_jianwenlu",
+      "orig": "异常生物见闻录",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "异常生物见闻录 (2014~, 起点中文网) · 만화(bilibili 漫画) · 애니메이션(2019)",
+      "by": "远瞳",
+      "year": 2014,
+      "country": "중국",
+      "setting": "빈방을 세놓은 청년이 사람 아닌 종족 세입자를 만나고 '시공 관리국'의 심사관이 된다.",
+      "concepts": [
+        "alien",
+        "time_police"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「中国科幻小说」·「科幻動畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chaoji_da_yingxiong",
+      "orig": "超級大英雄",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超級大英雄 (2015, 腾讯视频·中視)",
+      "by": "周曉鵬 · 蔣凱宸(감독)",
+      "year": 2015,
+      "country": "대만",
+      "setting": "명나라 금의위 둘이 야명주를 쫓다 21세기로 떨어져 꼭 닮은 청년을 노린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jianfeng_ernian",
+      "orig": "建豐二年——新中國烏有史",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "建豐二年 (2015)",
+      "by": "陳冠中",
+      "year": 2015,
+      "country": "홍콩",
+      "setting": "국민당이 내전에서 이겼다면 — 1949~1979년 국민당 치하 중국의 다른 30년.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材小說」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jiyi_de_guaiwu",
+      "orig": "記憶的怪物",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "게임"
+      ],
+      "first_medium": "만화",
+      "series": "記憶的怪物 3권 (2015~2019, 花漾少女·星少女) · 게임(2020)",
+      "by": "MAE",
+      "year": 2015,
+      "country": "대만",
+      "setting": "사고로 죽은 형을 대신할 '지능 생물 RE614'를 들인 소년이 감춰 둔 마음을 마주한다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sishou_miaotan",
+      "orig": "四手妙弹",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "四手妙弹 (2015, 响巢看看)",
+      "by": "程路(감독)",
+      "year": 2015,
+      "country": "중국",
+      "setting": "현대 여대생 넷이 당나라로 건너가 적인걸과 함께 사건을 푼다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "taizifei_shengzhi_ji",
+      "orig": "太子妃升职记",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "太子妃升职记 (2015, 乐视网) — 鲜橙 소설 원작(해 미확인)",
+      "by": "侣皓吉吉(감독) · 鲜橙(원작)",
+      "year": 2015,
+      "country": "중국",
+      "setting": "물에 빠진 바람둥이가 옛 태자비의 몸으로 깨어나 태후 자리까지 오른다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zaizuo_xie_qingxiaoshuo",
+      "orig": "在座寫輕小說的各位，全都有病",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "在座寫輕小說的各位，全都有病 14권 (2015~2021, 尖端出版)",
+      "by": "甜咖啡",
+      "year": 2015,
+      "country": "대만",
+      "setting": "라이트 노벨 작가들의 연애 희극에 외계 생명이 끼어든다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材作品」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhang_bao_zai_2015",
+      "orig": "張保仔",
+      "orig_en": "Captain of Destiny",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "張保仔 (2015, TVB) 32회",
+      "by": "TVB",
+      "year": 2015,
+      "country": "홍콩",
+      "setting": "고속정 추격 중 물기둥에 휘말린 여경이 200년 전 해적 시대의 홍콩으로 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "back_to_1989",
+      "orig": "1989一念間",
+      "orig_en": "Back to 1989",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "1989一念間 (2016, 三立都會台)",
+      "by": "葉天倫 · 郭春暉(감독)",
+      "year": 2016,
+      "country": "대만",
+      "setting": "현재의 사람이 1989년 대만으로 건너가는 시간 여행 청춘극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "blue_veins_tvb",
+      "orig": "殭",
+      "orig_en": "Blue Veins",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "殭 (2016, TVB)",
+      "by": "陳維冠(제작)",
+      "year": 2016,
+      "country": "홍콩",
+      "setting": "좀비 바이러스로 폐허가 된 2115년, 해독제를 찾아 웜홀로 과거에 간 두 사람의 이야기.",
+      "concepts": [
+        "wormhole",
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chao_shaonian_mima",
+      "orig": "超少年密码",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超少年密码 (2016, 乐视网)",
+      "by": "郑芬芬(감독)",
+      "year": 2016,
+      "country": "중국",
+      "setting": "인공지능의 습격이 고교 신입생들의 생활에 끼어드는 SF 학원 미스터리.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "code_faust_game",
+      "orig": "CODE浮士德遊戲",
+      "orig_en": "CODE",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "CODE浮士德遊戲 (2016, 愛奇藝台灣) · 일본 리메이크(2023)",
+      "by": "詹大為(감독)",
+      "year": 2016,
+      "country": "대만",
+      "setting": "무엇이든 이뤄 주는 수수께끼 앱 '코드'가 소원의 값으로 위험한 임무를 내린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "eu_chaoshi_renwu",
+      "orig": "EU超時任務",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "EU超時任務 (2016, TVB)",
+      "by": "林志華(감독·제작)",
+      "year": 2016,
+      "country": "홍콩",
+      "setting": "기동대 여경이 시간을 거슬러 옛 마을로 떨어지는 경찰 시간 여행극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」·「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "golden_darling_2016",
+      "orig": "原來1家人",
+      "orig_en": "Golden Darling",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "原來1家人 (2016, 東森·中視)",
+      "by": "單承矩(감독)",
+      "year": 2016,
+      "country": "대만",
+      "setting": "80년대 세대 감성의 가족 상황극에 시간 여행이 끼어든다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "my_lover_planet_meow",
+      "orig": "來自喵喵星的妳",
+      "orig_en": "My Lover from the Planet Meow",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "來自喵喵星的妳 (2016, TVB)",
+      "by": "徐正康(제작)",
+      "year": 2016,
+      "country": "홍콩",
+      "setting": "회사 정치 희극 속에 '야옹 별' 사람들이 지구인과 얽힌다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材電視劇」·「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "smith_from_future",
+      "orig": "來自未來的史密特",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "來自未來的史密特 (2016, 中視)",
+      "by": "吳蒙恩(감독)",
+      "year": 2016,
+      "country": "대만",
+      "setting": "살인 누명을 쓴 2045년의 설계자가 직접 만든 회중시계로 2015년에 와 젊은 아버지를 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "to_be_hero",
+      "orig": "TO BE HERO",
+      "orig_en": "",
+      "ko": "TO BE HERO",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TO BE HERO (2016) · TO BE HEROINE · TO BE HERO X — TO BE HERO 연작",
+      "by": "李豪凌(감독) · Studio LAN",
+      "year": 2016,
+      "country": "중국·일본",
+      "setting": "변기에 빨려 들어간 중년 아저씨가 지구를 구할 영웅이 되는 희극 — 우주인 영웅·악당이 나온다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「TO BE HERO」 (분류 '중국 애니메이션/목록')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xiangai_chuansuo_qiannian2",
+      "orig": "相爱穿梭千年2：月光下的交换",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "相爱穿梭千年2：月光下的交换 (2016, 湖南卫视)",
+      "by": "金炳秀(감독) · 朴英淑(각본)",
+      "year": 2016,
+      "country": "중국",
+      "setting": "민국 시대와 현대 사이 80년을 서로 바꿔 건너는 '교환 시간 여행' 연애극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "a_tang_qiyu",
+      "orig": "阿唐奇遇",
+      "orig_en": "",
+      "ko": "토이무비: 미래대모험",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "阿唐奇遇 (2017 애니메이션 영화)",
+      "by": "중국 제작",
+      "year": 2017,
+      "country": "중국",
+      "setting": "미래에서 왔다는 것만 기억하는 로봇 '타임봇'을 위해 장난감 친구들이 미래 세계로 떠난다.",
+      "concepts": [
+        "robot",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「토이무비: 미래대모험」 (분류 '중국 애니메이션/목록'·'중국의 애니메이션 영화')",
+      "korean": {
+        "status": "있음",
+        "detail": "2018 국내 개봉(나무위키, KOBIS 시놉시스 인용)",
+        "src": "https://namu.wiki/w/토이무비: 미래대모험"
+      },
+      "borderline": false
+    },
+    {
+      "id": "bufu_rulai_bufu_qing",
+      "orig": "不负如来不负卿",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "不负如来不负卿 (2017, 腾讯视频) — 小春 소설 원작(연재 해 미확인)",
+      "by": "李云亮(감독) · 小春(원작)",
+      "year": 2017,
+      "country": "중국",
+      "setting": "2317년에서 온 자원 실험자가 옛 서역에 떨어져 한 승려의 깨달음을 이끈다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chandou_ba_abu",
+      "orig": "颤抖吧，阿部！",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "疯丢子 소설 『颤抖吧，ET！』(해 미확인) · 드라마(2017, 优酷) · 颤抖吧阿部之朵星风云(2018)",
+      "by": "疯丢子(원작) · 赵小溪 · 赵小鸥(감독)",
+      "year": 2017,
+      "country": "중국",
+      "setting": "당나라를 무대로 외계인이 끼어드는 SF 사극 희극.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」·「外星生命入侵地球題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chaoshikong_nanchen",
+      "orig": "超時空男臣",
+      "orig_en": "A General, a Scholar and a Eunuch",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超時空男臣 (2017, TVB) 32회",
+      "by": "Marco Law(제작)",
+      "year": 2017,
+      "country": "홍콩",
+      "setting": "자객을 피하던 명나라 장군·서생·환관이 시공의 문을 지나 현대 홍콩에 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kua_shidai",
+      "orig": "誇世代",
+      "orig_en": "My Ages Apart",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "誇世代 (2017~2018, TVB) 50회",
+      "by": "Joe Chan(제작)",
+      "year": 2017,
+      "country": "홍콩",
+      "setting": "비행기 사고 때 영혼이 뒤바뀐 투자 은행가들의 시간 넘나들기 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Hong Kong time travel television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "robomaster_anime",
+      "orig": "机甲大师",
+      "orig_en": "RoboMaster: The Animated Series",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "机甲大师 RoboMaster: The Animated Series (2017)",
+      "by": "大疆创新(제작) · GONZO(애니메이션) · 山本靖貴(감독)",
+      "year": 2017,
+      "country": "중국·일본",
+      "setting": "로봇 대전 대회 '로보마스터'를 바탕으로 한 중·일 합작 로봇 애니메이션.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人动画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shuangshi_chongfei",
+      "orig": "双世宠妃",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "双世宠妃 1~3기 (2017~2021) — 梵缺 『爆笑宠妃：爷我等你休妻』 원작(해 미확인)",
+      "by": "元德 · 吴强 · 李阳(감독)",
+      "year": 2017,
+      "country": "중국",
+      "setting": "현대의 부동산 중개인 영혼이 평행 시공의 나라로 끌려가 귀족 딸의 몸에 깃든다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wo_de_weilai_nanyou",
+      "orig": "我的未來男友",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "我的未來男友 (2017, Vidol)",
+      "by": "馬毓廷(감독)",
+      "year": 2017,
+      "country": "대만",
+      "setting": "형이 죽은 화재의 수수께끼를 안고, 타임머신의 비밀을 안 청년이 2017년에서 2012년으로 건너간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xiaohua_qianzhuan_hen_chun",
+      "orig": "很純很曖昧",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "魚人二代 인터넷 소설 『很純很曖昧』(해 미확인) · 드라마 校花前傳之很純很曖昧(2017, 优酷)",
+      "by": "魚人二代(원작) · 李伯恩(감독)",
+      "year": 2017,
+      "country": "중국",
+      "setting": "남의 생각을 읽는 신기한 콘택트렌즈를 얻은 학생이 능력을 하나씩 풀며 어둠의 조직과 싸운다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xingyuan_xiaobao",
+      "orig": "星原小宝",
+      "orig_en": "",
+      "ko": "스타크로스",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "星原小宝 52화 (2017, 广州星原文化科技·永康映林影视)",
+      "by": "广州星原文化科技",
+      "year": 2017,
+      "country": "중국",
+      "setting": "로봇들의 행성 펜타디움에 에너지가 바닥나자 V5 대원들이 우주 물질 '드림스톤'을 찾아 나선다.",
+      "concepts": [
+        "robot",
+        "key_resource"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「스타크로스」 (분류 '중국 애니메이션/목록'·'거대로봇물 애니메이션')",
+      "korean": {
+        "status": "있음",
+        "detail": "대원방송 방영(나무위키 분류 '대원방송/방영작')",
+        "src": "https://namu.wiki/w/스타크로스"
+      },
+      "borderline": false
+    },
+    {
+      "id": "yidu_buhui_de_lianren",
+      "orig": "已讀不回的戀人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "已讀不回的戀人 (2017, 台視·三立)",
+      "by": "三立華劇 · 童心娛樂(제작)",
+      "year": 2017,
+      "country": "대만",
+      "setting": "태양 흑점 이변이 연 시공의 인연 — 미래에서 온 문자가 자전거 선수의 죽음을 예고한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhonglou_airen",
+      "orig": "鐘樓愛人",
+      "orig_en": "Love, Timeless",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "鐘樓愛人 (2017, 台視·東森) 15회",
+      "by": "郝心翔(감독) · 許芸齊(각본)",
+      "year": 2017,
+      "country": "대만",
+      "setting": "농구 시합에 진 뒤로 연애도 일도 꼬인 서른 살 남자의 시간 넘어가기 연애극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「臺灣時間旅行題材電視劇」 · 영어 위키백과 분류 「Taiwanese television series about time travel」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chaoneng_zaomeng",
+      "orig": "超能造梦",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超能造梦 (2018, 爱奇艺)",
+      "by": "高林豹(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "한 번 본 것을 잊지 않는 수험생이 이능 학교에 들어가 숨은 뇌파의 힘을 깨운다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "erci_juexing",
+      "orig": "二次觉醒",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "二次觉醒 (2018, 爱奇艺)",
+      "by": "徐善杰(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "2030년대, 사람을 넘어선 인공지능 인간의 원본 코드를 사람들이 빼앗으려 한다.",
+      "concepts": [
+        "ai",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ershijiu_mingtian_jian",
+      "orig": "229明天見",
+      "orig_en": "29th February",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "229明天见 (2018, 新传媒)",
+      "by": "马家骏 · 苏妙芳(감독)",
+      "year": 2018,
+      "country": "싱가포르",
+      "setting": "2월 29일 하루가 되풀이되자 한 가장이 가족과 이웃의 사건을 거듭 고쳐 본다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "feisi_buke_kafeiguan",
+      "orig": "非私不可咖啡館",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "非私不可咖啡館 (2018, myVideo)",
+      "by": "烏奴奴(감독)",
+      "year": 2018,
+      "country": "대만",
+      "setting": "사생활을 털어놓는 것이 유일한 값인 신비한 카페 — 페이스북을 카페로 바꿔 놓은 SF 아이돌 극.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "huidao_mingchao_dang_wangye",
+      "orig": "回到明朝当王爷",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "月关 인터넷 소설 『回到明朝当王爷』(해 미확인) · 드라마 回到明朝当王爷之杨凌传(2018, 优酷)",
+      "by": "月关(원작) · 徐进良(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "현대인이 명나라로 돌아가 왕야(왕족)가 되는 시간 넘어가기 사극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "meet_me_at_1006",
+      "orig": "1006的房客",
+      "orig_en": "Meet Me @ 1006",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "1006的房客 (2018, 台視·愛奇藝台灣)",
+      "by": "歐銻銻娛樂(제작)",
+      "year": 2018,
+      "country": "대만",
+      "setting": "낡은 아파트에서 넉 달 떨어진 두 세입자가 밤 10시 6분마다 같은 방에서 마주친다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "my_time_at_portia",
+      "orig": "波西亚时光",
+      "orig_en": "My Time at Portia",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "波西亚时光 (2018 앞서 해보기, 2019 정식)",
+      "by": "帕斯亚科技",
+      "year": 2018,
+      "country": "중국",
+      "setting": "옛 문명의 폐허가 남은 작은 마을 포르티아에서 아버지의 공방을 물려받아 키운다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「后末日题材电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pili_dianwa",
+      "orig": "霹靂電娃",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "霹靂電娃 (2018, 緯來)",
+      "by": "鄧安寧(감독)",
+      "year": 2018,
+      "country": "대만",
+      "setting": "아이돌을 꿈꾸던 세 소녀가 변신 능력을 얻어 선악의 싸움에 휘말린다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」·「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "qinai_de_huo_zuzong",
+      "orig": "亲爱的活祖宗",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "亲爱的活祖宗 (2018, 爱奇艺) — 雪影霜魂 『我的活祖宗』 원작(해 미확인)",
+      "by": "毛小睿(감독) · 雪影霜魂(원작)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "천 년을 잠든 동한 말의 장군이 현대에 깨어나 후손과 함께 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "stealing_seconds",
+      "orig": "棟仁的時光",
+      "orig_en": "Stealing Seconds",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "棟仁的時光 (2018, TVB)",
+      "by": "葉鎮輝(제작)",
+      "year": 2018,
+      "country": "홍콩",
+      "setting": "시간을 넘나드는 힘이 끼어드는 현대 홍콩의 SF 연애 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」·「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tang_zhuan",
+      "orig": "唐砖",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "唐砖 (2018, 爱奇艺) — 孑与2 소설 원작(해 미확인)",
+      "by": "祝东宁(감독) · 孑与2(원작)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "미래에서 온 젊은이가 정관 연간의 당나라에 떨어져 역사의 흐름을 조금씩 바꾼다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wuda_de_xiaojiejie",
+      "orig": "武大的小姐姐們",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "武大的小姐姐們 (2018, 优酷)",
+      "by": "台海兩岸 합작",
+      "year": 2018,
+      "country": "중국·대만",
+      "setting": "옛 그림의 힘으로 서시·화목란·달기·양귀비가 2018년에 나타나 춤 대회에 나간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yiqian_ling_yi_ye_2018",
+      "orig": "一千零一夜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "一千零一夜 (2018, 湖南卫视)",
+      "by": "金沙(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "수면 개선 손목 장치가 고장 나 한 여자가 사장의 꿈속에 드나들게 된다.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhen_de_cike_nuyou",
+      "orig": "朕的刺客女友",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "朕的刺客女友 (2018, 爱奇艺)",
+      "by": "李韵臻(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "암살을 피하던 수미국의 왕과 호위가 신기한 회중시계로 2018년 현대에 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jinxiao_dasha",
+      "orig": "金宵大廈",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "金宵大廈 (2019, TVB) · 金宵大廈2 (2022, TVB·优酷)",
+      "by": "葉鎮輝(제작)",
+      "year": 2019,
+      "country": "홍콩",
+      "setting": "낡은 금소 빌딩에 시간을 넘는 일이 잇따르고, '7.5층'은 현실 밖의 평행 시공이다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kuicheng_shoufu",
+      "orig": "亏成首富从游戏开始",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "亏成首富从游戏开始 (2019~2021 起点中文网) · 만화 · 애니메이션(2024)",
+      "by": "青衫取醉",
+      "year": 2019,
+      "country": "중국",
+      "setting": "10년 전으로 돌아간 사람이 손해만 재산이 되는 장치를 얻어 게임 회사를 차린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「時間旅行題材小說」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "lixiang_guo_viutv",
+      "orig": "理想國",
+      "orig_en": "The Republic",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "理想國 13편 (2019, ViuTV)",
+      "by": "譚惠貞 · 麥皞年 · 朱健安 · 陳志昇(감독)",
+      "year": 2019,
+      "country": "홍콩",
+      "setting": "가까운 미래 홍콩의 열세 이야기 — 아들 모습의 로봇을 빌리는 부부처럼 기술과 사람을 묻는다.",
+      "concepts": [
+        "android",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「人工智能題材作品」·「香港科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "menghui_daqing",
+      "orig": "梦回大清",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "金子 소설 『梦回大清』(해 미확인) · 드라마 梦回(2019, 腾讯视频)",
+      "by": "金子(원작) · 李国立(감독)",
+      "year": 2019,
+      "country": "중국",
+      "setting": "청나라 궁정으로 돌아가는 꿈 — 시간 넘어가기 궁정극(원작 제목·분류로).",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻小說改編電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "waixingren_aguo",
+      "orig": "外星人阿果",
+      "orig_en": "",
+      "ko": "춤추는 외계인 아고",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "外星人阿果 (2019~, 上海炫动卡通)",
+      "by": "深圳市时代科腾文化传媒",
+      "year": 2019,
+      "country": "중국",
+      "setting": "외계인 아궈가 아이들 곁에서 일상의 소동을 겪는 어린이 애니메이션.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「춤추는 외계인 아고」 (분류 '중국 애니메이션/목록'·'중국의 오리지널 애니메이션')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dream_raider",
+      "orig": "獵夢特工",
+      "orig_en": "Dream Raider",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "獵夢特工 1기 (2020, HBO Asia)",
+      "by": "傅鶇 · 洪昇揚(감독)",
+      "year": 2020,
+      "country": "대만",
+      "setting": "꿈을 사냥하는 특수 요원들의 대만 SF 드라마.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "futmalls",
+      "orig": "預支未來",
+      "orig_en": "Futmalls.com",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "預支未來 (未來商城, 2020, 优酷·myVideo)",
+      "by": "賴俊羽(감독)",
+      "year": 2020,
+      "country": "대만",
+      "setting": "미래를 미리 끌어다 쓰는 쇼핑몰을 둘러싼 SF 추리 단편 모음.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」 · 영어 위키백과 분류 「Taiwanese science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jiyi_guanliju",
+      "orig": "记忆管理局",
+      "orig_en": "",
+      "ko": "기억관리국",
+      "ko_src": "나무위키 문서 제목",
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "记忆管理局 (2020 파일럿, 2026 정식, bilibili)",
+      "by": "bilibili(제작)",
+      "year": 2020,
+      "country": "중국",
+      "setting": "과거로 가는 시간 총의 에너지를 찾던 청년이 '기억 관리국'에 떨어져 기억층의 버그 인간을 거둔다.",
+      "concepts": [
+        "time_travel",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 「기억관리국」 (분류 '중국 애니메이션/목록'·'중국의 오리지널 애니메이션')",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tie_nanhai_shanzhai_zhi_cheng",
+      "orig": "鐵男孩：山寨之城",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "鐵男孩：山寨之城 (2020)",
+      "by": "麥人杰",
+      "year": 2020,
+      "country": "대만",
+      "setting": "로봇이 일손을 대신한 미래, 지도에 없는 무법지 '산채성'의 소년이 로봇 격투 대회에 나간다.",
+      "concepts": [
+        "robot",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻漫畫」·「自主機器人題材漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "wudi_lu_zhandui",
+      "orig": "无敌鹿战队",
+      "orig_en": "Deer Squad",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "无敌鹿战队 (2020~, 爱奇艺·Nickelodeon) 80화",
+      "by": "爱奇艺(제작)",
+      "year": 2020,
+      "country": "중국·영국",
+      "setting": "숲속 배 모양 집에 사는 사슴 넷이 '행성의 힘'으로 숲과 도시를 지킨다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese children's animated science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chitang_guaitan",
+      "orig": "池塘怪談",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "池塘怪談 (2021, MyVideo·公視+)",
+      "by": "程偉豪(감독)",
+      "year": 2021,
+      "country": "대만",
+      "setting": "청소년들의 교통사고 뒤 한 소년이 떠올리기 싫은 과거로 돌아간다 — 유체 이탈인지 평행 우주인지.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」·「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "eastward_fenglai",
+      "orig": "风来之国",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "风来之国 (2021)",
+      "by": "皮克皮(Pixpil)",
+      "year": 2021,
+      "country": "중국",
+      "setting": "광부 아저씨와 수수께끼 소녀가 지하 세계에서 지상으로 올라가 모험한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「后末日题材电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "huanming_zhenxiang",
+      "orig": "換命真相",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "換命真相 (2021, TVB)",
+      "by": "黃偉聲(제작)",
+      "year": 2021,
+      "country": "홍콩",
+      "setting": "현대 홍콩을 무대로 시간을 넘나드는 미스터리 연애극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "huisu_yicun",
+      "orig": "回溯依存",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "回溯依存 (2021, Steam)",
+      "by": "OrcaLayout",
+      "year": 2021,
+      "country": "중국",
+      "setting": "기억을 잃고 낡은 학교에서 깬 소녀가 사라진 연인을 만나 교내 살인 게임에 휘말린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「人與外星生物接觸題材作品」·「时间旅行电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "si_teng",
+      "orig": "司藤",
+      "orig_en": "RATTAN",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "司藤 (2021, 优酷·腾讯视频·爱奇艺) — 尾鱼 소설 원작(해 미확인)",
+      "by": "李木戈(감독) · 尾鱼(원작)",
+      "year": 2021,
+      "country": "중국",
+      "setting": "뿌리 찾기 여행 중 절벽에서 떨어진 설계자가 수십 년 잠든 외계인의 후손을 깨운다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國科幻劇」·「人與外星生物接觸題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tw_2049_series",
+      "orig": "2049",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "애니메이션"
+      ],
+      "first_medium": "드라마",
+      "series": "2049—幸福話術·刺蝟法則·完美預測 (2021, 台視) · 2049＋絕處逢聲(2021 애니메이션)",
+      "by": "許立達 · 朱建青(감독)",
+      "year": 2021,
+      "country": "대만",
+      "setting": "2049년 대만, 마음 읽는 장치·기억 백업·빅데이터 예언 같은 기술이 사람 사이를 시험한다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」 · 중국어 위키백과 분류 「科幻動畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "women_shenghuo_zai_nanjing",
+      "orig": "我们生活在南京",
+      "orig_en": "Once Upon a Time in Nanjing",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "我们生活在南京 (2021~2022, 起点中文网)",
+      "by": "天瑞说符",
+      "year": 2021,
+      "country": "중국",
+      "setting": "2019년 난징의 아마추어 무선가 고교생이 2040년 소녀와 교신하며 다가올 종말을 막으려 한다.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "银河奖 2020 최우수 인터넷 SF · 华语科幻星云奖 장편(영어 위키백과 「Chinese science fiction」)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xunneng_di4_xiaodui",
+      "orig": "尋能第4小隊",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "尋能第4小隊 (2021)",
+      "by": "腦高(글) · 爛貨習作(그림)",
+      "year": 2021,
+      "country": "대만",
+      "setting": "2049년 생체 기계가 일어나 인류를 몰아낸 뒤, 위성 함선의 전사들이 에너지 물질을 찾아 지구로 내려간다.",
+      "concepts": [
+        "ai_revolt",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「机器人动画」·「機器人漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zhanlan_laolong",
+      "orig": "湛藍牢籠",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "湛藍牢籠 (2021, Steam)",
+      "by": "PHOSEPO",
+      "year": 2021,
+      "country": "대만",
+      "setting": "재벌이 지은 해저 관광 열차 여행에서 죽은 주인공이 그 시점으로 되돌아와 같은 날을 다시 산다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「时间循环题材电子游戏」·「科学幻想电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zhineng_airen",
+      "orig": "智能愛人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "智能愛人 (2021, TVB)",
+      "by": "TVB",
+      "year": 2021,
+      "country": "홍콩",
+      "setting": "로봇 주인공을 내세운 현대 홍콩의 연애 SF 희극.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「機器人主角題材電視劇」·「無綫電視科幻劇集」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zhuixu_my_heroic_husband",
+      "orig": "赘婿",
+      "orig_en": "My Heroic Husband",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "愤怒的香蕉 소설 『赘婿』(해 미확인) · 드라마 赘婿(2021~, 爱奇艺)",
+      "by": "愤怒的香蕉(원작) · 邓科(감독)",
+      "year": 2021,
+      "country": "중국",
+      "setting": "주인공을 죽이려던 작가 대신, 상업 소설의 주인공이 옛 '무조'의 데릴사위로 건너가 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bei_xuanshang_de_haizimen",
+      "orig": "被選上的孩子們",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "被選上的孩子們 (2022~, beanfun 漫畫)",
+      "by": "黃色書刊(글) · 楊政諭(그림)",
+      "year": 2022,
+      "country": "대만",
+      "setting": "30년 전 거대 로봇으로 외계 괴수를 막았던 아이들이, 중년이 되어 다시 불려 나간다.",
+      "concepts": [
+        "alien_invasion",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材漫畫」·「巨大机器人题材漫画」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chaoshikong_luomanshi",
+      "orig": "超时空罗曼史",
+      "orig_en": "See You Again",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "超时空罗曼史 (2022, 爱奇艺) 30회",
+      "by": "王枫(감독)",
+      "year": 2022,
+      "country": "중국",
+      "setting": "1936년 상하이의 영화 배우가 총에 맞은 순간 2018년으로 건너와 팬과 사랑하며 사건을 캔다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」 · 영어 위키백과 분류 「Chinese television series about time travel」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dear_adam",
+      "orig": "親愛的亞當",
+      "orig_en": "Dear Adam",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "親愛的亞當 (2022, 八大·Netflix)",
+      "by": "廖士涵 · 郭春暉(감독)",
+      "year": 2022,
+      "country": "대만",
+      "setting": "20여 년 전 유전자 편집으로 태어난 두 사람과, 그 존재를 밝히려는 유전자 해커 조직.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "history5_future_you",
+      "orig": "HIStory5—遇見未來的你",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "HIStory5—遇見未來的你 (2022, LINE TV) — HIStory 연작 다섯째",
+      "by": "陳怡妤(감독)",
+      "year": 2022,
+      "country": "대만",
+      "setting": "22년의 시간을 건너 배달원이 된 청년의 사랑 이야기.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「臺灣時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kaiduan_reset",
+      "orig": "開端",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "祈禱君 晉江文學城 인터넷 소설 『開端』(해 미확인) · 드라마(2022, 正午阳光)",
+      "by": "祈禱君(원작) · 孫墨龍 · 劉洪源(감독)",
+      "year": 2022,
+      "country": "중국",
+      "setting": "버스가 터질 때마다 같은 시간으로 되돌아오는 두 사람이 폭발을 막을 길을 찾는다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「时间循环题材电视剧」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tiancai_jibenfa",
+      "orig": "天才基本法",
+      "orig_en": "The Heart of Genius",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "天才基本法 (2022, CCTV-8·爱奇艺) — 长洱 晋江文学城 소설 원작(해 미확인)",
+      "by": "沈严(감독) · 长洱(원작)",
+      "year": 2022,
+      "country": "중국",
+      "setting": "딸기 세계와 치즈 세계, 두 평행 세계를 오가며 수학을 좇는 청춘들의 이야기.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」·「平行世界題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wuyun_yu_jiaoyue",
+      "orig": "烏雲遇皎月",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "烏雲遇皎月 (2022, 腾讯视频) — 丁墨 소설 원작(해 미확인)",
+      "by": "蔡聰 · 于中中(감독) · 丁墨(원작)",
+      "year": 2022,
+      "country": "중국",
+      "setting": "정방향과 역방향 두 시간선을 오가며 15일마다 되돌아가 살인을 막으려는 두 사람.",
+      "concepts": [
+        "time_loop",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bianjing_boundary",
+      "orig": "边境",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "边境 (2023~2024, Steam)",
+      "by": "柳叶刀工作室",
+      "year": 2023,
+      "country": "중국",
+      "setting": "군사 SF를 바탕으로 한 1인칭 사격 게임.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「军事科幻电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "crystal_of_atlan",
+      "orig": "晶核",
+      "orig_en": "Crystal of Atlan",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "晶核 (2023, 朝夕光年)",
+      "by": "VI-GAMES",
+      "year": 2023,
+      "country": "중국",
+      "setting": "마도 기술이 퍼진 가상의 대륙 '아틀란'의 격투 액션 역할 수행 게임.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科学幻想电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "erfenzhiyi_game",
+      "orig": "二分之一",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "二分之一 (2023, Steam)",
+      "by": "零創遊戲",
+      "year": 2023,
+      "country": "중국",
+      "setting": "외계 벌레와 공생해 힘을 얻은 교회가 감정을 금하자 반대 세력이 지하에서 맞선다.",
+      "concepts": [
+        "alien",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材電子遊戲」·「未來背景電子遊戲」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gu_xiangsi_qu",
+      "orig": "古相思曲",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "古相思曲 (2023, bilibili)",
+      "by": "知竹(감독)",
+      "year": 2023,
+      "country": "중국",
+      "setting": "옛 왕조 이야기를 쓰던 작가가 깨진 옥패를 얻어 그 시대의 '요후'와 얽힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jiyi_zhi_di",
+      "orig": "机忆之地",
+      "orig_en": "Land of Memories",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설"
+      ],
+      "first_medium": "소설",
+      "series": "机忆之地 (2023)",
+      "by": "沈阳(清华大学 교수)",
+      "year": 2023,
+      "country": "중국",
+      "setting": "사고 뒤 기억을 잃은 전직 신경 과학자가 메타버스에서 기억을 되찾으려 한다.",
+      "concepts": [
+        "memory_edit",
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction novels」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "si_lu_de_game",
+      "orig": "斯露德",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "斯露德 (2023~2024, bilibili)",
+      "by": "Access！",
+      "year": 2023,
+      "country": "중국",
+      "setting": "괴물 '이생체'에 맞서 함대 지휘관이 대항 병기로 개조된 소녀들을 이끈다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「后末日题材电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tuogui_2023",
+      "orig": "脱轨",
+      "orig_en": "Derailment",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "脱轨 (2023, 优酷)",
+      "by": "沈阳(감독)",
+      "year": 2023,
+      "country": "중국",
+      "setting": "도도한 소녀가 7년 전으로 돌아가 빈털터리 아르바이트생이 되어 다시 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "vtuber_kongzi",
+      "orig": "VTuber孔子",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화"
+      ],
+      "first_medium": "만화",
+      "series": "VTuber孔子 (2023~, CCC創作集)",
+      "by": "Raiyu",
+      "year": 2023,
+      "country": "대만",
+      "setting": "길을 잃은 공자와 안회가 21세기로 건너와, 공자가 가상 방송인으로 유학을 편다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「時間旅行漫畫」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yinhe_jingjiexian",
+      "orig": "銀河境界線",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "銀河境界線 (2023)",
+      "by": "Etherous Game(以太遊戲)",
+      "year": 2023,
+      "country": "중국",
+      "setting": "스페이스 오페라를 무대로 한 턴제 전략 역할 수행 게임.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「太空歌剧电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zhongguo_qitan",
+      "orig": "中国奇谭",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "中国奇谭 8편 (2023, bilibili) · 中国奇谭2 (2026)",
+      "by": "上海美术电影制片厂 · bilibili · 陈廖宇 외(감독)",
+      "year": 2023,
+      "country": "중국",
+      "setting": "중국 전통문화를 주제로 한 단편 모음 — 달 토끼 로봇·외계 생명과의 만남 같은 편도 든다.",
+      "concepts": [
+        "robot",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻動畫」·「自主機器人題材動畫」 · 중국어 위키백과 분류 「人與外星生物接觸題材作品」·「外星生命題材動畫」 · 중국어 위키백과 「小卖部 (中国奇谭)」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bifang_de_ta_aliya",
+      "orig": "彼方的她-Aliya",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "彼方的她-Aliya (2024)",
+      "by": "瞳电游工作室",
+      "year": 2024,
+      "country": "중국",
+      "setting": "우주선의 인공지능 '코스모스'를 맡게 된 플레이어가 하나 남은 생존자 알리야와 배의 사건을 푼다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科学幻想电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "du_huanian",
+      "orig": "度華年",
+      "orig_en": "The Princess Royal",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "度華年 (2024, 优酷) — 墨書白 『長公主』 원작(해 미확인)",
+      "by": "高翊浚 · 劉迪洋(감독) · 墨書白(원작)",
+      "year": 2024,
+      "country": "중국",
+      "setting": "대하 왕조의 장공주와 수보 재상이 시공을 넘어 지난 인연을 다시 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jiaocuo_zhanxian",
+      "orig": "交错战线",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "交错战线 (2024)",
+      "by": "米茄科技",
+      "year": 2024,
+      "country": "중국",
+      "setting": "미래 전장에서 기계 소녀들이 외계 존재와 싸우는 역할 수행 게임.",
+      "concepts": [
+        "android",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材電子遊戲」·「未來背景電子遊戲」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "q18_liangzi_yuyan",
+      "orig": "Q18量子預言",
+      "orig_en": "Quantum",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "Q18量子預言 (2024, 三立都會台) 단편 다섯",
+      "by": "周美玲(감독)",
+      "year": 2024,
+      "country": "대만",
+      "setting": "양자 과학을 실마리로 미래 문명과 사람의 경계를 묻는 단편 모음.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「人工智能題材作品」·「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "black_box_tw",
+      "orig": "黑盒子",
+      "orig_en": "The Black Box",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "LINE WEBTOON 『黑盒子』(Pony, 해 미확인) · 드라마(2025, LINE 台灣)",
+      "by": "Pony(원작) · 李昭樺(감독)",
+      "year": 2025,
+      "country": "대만",
+      "setting": "만 년 전 빛의 존재에게서 시간을 거래하는 검은 상자를 얻은 원시인이 오늘까지 기이한 일을 지켜본다.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bumian_ri_mobius",
+      "orig": "不眠日",
+      "orig_en": "Mobius",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "张小猫 소설 『逆时侦查组』(해 미확인) · 드라마 不眠日 (2025)",
+      "by": "张小猫(원작) · Liu Zhangmu(감독)",
+      "year": 2025,
+      "country": "중국",
+      "setting": "하루 다섯 번 시간을 되돌리는 힘을 얻은 형사 — 자정이면 고리가 풀리고 몇 사람만 기억을 지닌다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "escape_from_duckov",
+      "orig": "逃离鸭科夫",
+      "orig_en": "Escape from Duckov",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임"
+      ],
+      "first_medium": "게임",
+      "series": "逃离鸭科夫 (2025, 哔哩哔哩游戏)",
+      "by": "Team Soda",
+      "year": 2025,
+      "country": "중국",
+      "setting": "곧 무너질 '오리 행성'에서 오리가 물자를 모으고 싸우며 탈출을 꾀한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「末日题材电子游戏」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nihao_1983",
+      "orig": "你好1983",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "소설"
+      ],
+      "first_medium": "드라마",
+      "series": "你好1983 (2026, 爱奇艺) — 寶妝成 『重生八零：媳婦有點辣』 원작(해 미확인)",
+      "by": "祝東寧 · 黃純(감독)",
+      "year": 2026,
+      "country": "중국",
+      "setting": "궁지에 몰린 현대 관리자가 1983년 시골 소녀로 다시 태어나 공부와 사업에 나선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    }
+  ]
+}
