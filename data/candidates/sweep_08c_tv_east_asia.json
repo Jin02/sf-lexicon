@@ -1,0 +1,5740 @@
+{
+  "group": "sweep_08c_tv_east_asia",
+  "candidates": [
+    {
+      "id": "uchuusen_silica",
+      "orig": "宇宙船シリカ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 총합 SF 인형극 227회 (1960~1962)",
+      "by": "星新一(원작), 森文兵 외(각본), NHK",
+      "year": 1960,
+      "country": "일본",
+      "setting": "우주선 시리카호를 탄 소년 피로가 누나·선장, 번역기를 쓴 말하는 개와 함께 여러 별을 돈다.",
+      "concepts": [
+        "translator",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "oki_ni_mesu_mama_1962",
+      "orig": "お気に召すまま",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "일본교육TV 「前衛ドラマ・シリーズ」 20회 (1962)",
+      "by": "安部公房(기획·원안)",
+      "year": 1962,
+      "country": "일본",
+      "setting": "아베 고보가 꾸민 전위 드라마 선집 — 기계 문명이 극에 이른 50년 뒤, 로봇에게 삶을 빼앗기는 소녀 등.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "konbanwa_21seiki",
+      "orig": "こんばんは21世紀",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "도쿄 12채널 개국 특집 (1964)",
+      "by": "安部公房(원작), 柾木恭介(극본)",
+      "year": 1964,
+      "country": "일본",
+      "setting": "21세기의 기계 법정에서 컴퓨터 검사가 '인간은 이제 필요 없다'며 인류를 기소한다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "akage_no_anko",
+      "orig": "赤毛のアン子",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "藤子不二雄 단편 만화 (1974, 『エスパー魔美』의 원형) · 후지TV 「月曜ドラマランド」 (1986)",
+      "by": "藤子不二雄(藤本弘)",
+      "year": 1974,
+      "country": "일본",
+      "setting": "가난한 화가의 딸인 중학생이 사기꾼에게 화가 치민 순간 몸속에 잠든 마녀의 힘이 깨어난다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "asu_e_no_tsuiseki",
+      "orig": "明日への追跡",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "光瀬龍 원작 · NHK 少年ドラマシリーズ 12화 (1976) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "光瀬龍(원작), 山根優一郎(극본)",
+      "year": 1976,
+      "country": "일본",
+      "setting": "중학생이 텔레파시로 말을 거는 수수께끼의 전학생을 만나며 기이한 사건에 휘말린다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bakumatsu_miraijin",
+      "orig": "幕末未来人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "眉村卓 원작 · NHK 少年ドラマシリーズ 16화 (1977) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "眉村卓(원작), 蓬萊泰三(극본)",
+      "year": 1977,
+      "country": "일본",
+      "setting": "전함 미카사를 견학하던 고교생 둘이 갑자기 백 년 전 막부 말기로 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ganbaron_1977",
+      "orig": "小さなスーパーマン ガンバロン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 32화 (1977)",
+      "by": "日本現代企画",
+      "year": 1977,
+      "country": "일본",
+      "setting": "할아버지의 유품으로 꼬마 영웅 감바론으로 변신하는 소년이 나쁜 박사 일당의 음모를 부순다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻电视剧」 · 중국어 위키백과 분류 「機器人題材電視劇」 · 영어 위키백과 분류 「Tokusatsu television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "sono_machi_wo_kese",
+      "orig": "その町を消せ!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "光瀬龍 소설 · NHK 少年ドラマシリーズ 16화 (1978) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "光瀬龍(원작), 山根優一郎(극본)",
+      "year": 1978,
+      "country": "일본",
+      "setting": "유령이 나온다는 소녀의 집을 찾은 중학생이 사라진 아버지를 쫓다 평행 세계의 비밀에 닿는다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「パラレルワールドを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ufo_seven_daibouken",
+      "orig": "UFOセブン大冒険",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 드라마 형식 예능 (1978)",
+      "by": "TBS",
+      "year": 1978,
+      "country": "일본",
+      "setting": "3978년의 소녀가 타임머신 고장으로 아이 일곱과 함께 1978년에 떨어져 돌아갈 길을 찾는 소동극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "aitsu_no_time_machine",
+      "orig": "あいつのタイムマシン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "藤子・F・不二雄 단편 (漫画アクション, 1979) · WOWOW 드라마 (2008)",
+      "by": "藤子・F・不二雄",
+      "year": 1979,
+      "country": "일본",
+      "setting": "어린 날 타임머신을 만들자 맹세한 두 친구 가운데 하나가 스물여덟이 되도록 개발에 매달린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tokyo_daijishin_m81",
+      "orig": "東京大地震マグニチュード8.1",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV·東宝映像 텔레비전 영화 (1980)",
+      "by": "西村潔(감독), 下飯坂菊馬·笠原和夫(각본)",
+      "year": 1980,
+      "country": "일본",
+      "setting": "198X년 4월, 사가미만 대지진이 도쿄를 덮치는 근미래 재난 텔레비전 영화.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "owari_ni_mita_machi",
+      "orig": "終りに見た街",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "山田太一 소설 (1981) · 테레비 아사히 특집 드라마 (1982·2005·2024)",
+      "by": "山田太一",
+      "year": 1981,
+      "country": "일본",
+      "setting": "한 가족이 이웃 가족과 함께 종전 직전의 1944년으로 떨어져 끝까지 살아남으려 애쓴다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "pinky_punch_daigyakuten",
+      "orig": "ピンキーパンチ大逆転",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS SF 활극 예능 드라마 (1982)",
+      "by": "TBS",
+      "year": 1982,
+      "country": "일본",
+      "setting": "여자만 사는 분홍 별에서 온 두 소녀가 우주 전사로 변신해 지구의 악당을 혼내 주는 아이돌 활극.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "morumo_1_10",
+      "orig": "MORUMO 1/10",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "あろひろし 만화 (月刊少年キャプテン, 1985~1987) · 드라마 『宇宙少女モルモ10分の1』 (1987)",
+      "by": "あろひろし",
+      "year": 1985,
+      "country": "일본",
+      "setting": "키가 보통 사람의 열 배인 여고생이 미친 과학자의 약을 맞아 몸이 10분의 1로 줄어든다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "oasis_wo_motomete",
+      "orig": "オアシスを求めて",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 총합 특집 드라마 (1985)",
+      "by": "田向正健(극본), NHK",
+      "year": 1985,
+      "country": "일본",
+      "setting": "지구 환경이 더럽혀진 2087년, 일본 첫 우주 식민지의 관리 컴퓨터를 의심한 개발자가 음모와 마주한다.",
+      "concepts": [
+        "habitat",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eunha_byeolttong_wangja",
+      "orig": "은하에서 온 별똥왕자",
+      "orig_en": "",
+      "ko": "은하에서 온 별똥왕자",
+      "ko_src": "나무위키 문서 「은하에서 온 별똥왕자」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "은하에서 온 별똥왕자 (1987)부터 3편까지",
+      "by": "석도원(1편 감독)",
+      "year": 1987,
+      "country": "한국",
+      "setting": "고향별을 잃고 지구 부부 손에 자란 외계 왕자가 다시 쳐들어온 우주 악당을 물리친다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "manatsu_shoujo",
+      "orig": "魔夏少女",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 「水曜ドラマスペシャル」 단발 (1987)",
+      "by": "伴一彦(각본), 吉田秋生(연출)",
+      "year": 1987,
+      "country": "일본",
+      "setting": "갑자기 초능력을 얻어 동급생을 다치게 한 소녀가 죄책감과 악몽, 두통에 시달린다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_winds_of_god",
+      "orig": "THE WINDS OF GOD",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "희곡",
+        "드라마"
+      ],
+      "first_medium": "희곡",
+      "series": "今井雅之 희곡·무대 (1988) · 텔레비전 드라마 『零のかなたへ〜THE WINDS OF GOD〜』",
+      "by": "今井雅之",
+      "year": 1988,
+      "country": "일본",
+      "setting": "교통사고를 당한 무명 개그맨 둘이 종전 직전 특공대 기지의 대원들과 몸이 바뀐 채 깨어난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yo_nimo_kimyou_na_monogatari",
+      "orig": "世にも奇妙な物語",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 연속 시리즈 (1990~1992) · 그 뒤 해마다 특별편",
+      "by": "フジテレビ",
+      "year": 1990,
+      "country": "일본",
+      "setting": "한 회마다 기묘한 일이 벌어지는 짧은 이야기들을 이야기꾼이 이어 주는 선집.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "중국어 위키백과 분류 「日本科幻劇」 · 중국어 위키백과 분류 「自主機器人題材電視劇」 · 일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "byeonsin_jeonsa_trans_todi",
+      "orig": "변신전사 트랜스 토디",
+      "orig_en": "",
+      "ko": "변신전사 트랜스 토디",
+      "ko_src": "나무위키 문서 「변신전사 트랜스 토디」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "변신전사 트랜스 토디 1·2편 (1991)",
+      "by": "아카데미과학(제작)",
+      "year": 1991,
+      "country": "한국",
+      "setting": "실종된 과학자들의 자식이 변신 전사가 되어, 되살아난 고대 외계인의 지구 정복을 막는다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mizu_no_kioku_fujiwara",
+      "orig": "水の記憶",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "藤原カムイ 만화 · TBS 드라마 『水の記憶 MEMORY OF WATER』 (1991) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "藤原カムイ(원작), 西荻弓絵(각본)",
+      "year": 1991,
+      "country": "일본",
+      "setting": "1995년의 여고생이 하늘이 하얘지며 사람 몸이 쏟아지는 환영을 보고, 그것이 내일의 예지라는 말을 듣는다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nasa_mirai_kara",
+      "orig": "NASA〜未来から落ちてきた男〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 종전 기념 특집 (1991)",
+      "by": "鎌田敏夫(각본), 小椋久雄(감독), 共同テレビジョン",
+      "year": 1991,
+      "country": "일본",
+      "setting": "일본계 2세 우주 비행사가 시간을 넘어 태평양 전쟁 무렵의 히로시마로 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ggangdagu_fighter",
+      "orig": "깡다구 화이터",
+      "orig_en": "",
+      "ko": "깡다구 화이터",
+      "ko_src": "나무위키 문서 「깡다구 화이터」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "깡다구 화이터 (1992)",
+      "by": "왕룡(감독)",
+      "year": 1992,
+      "country": "한국",
+      "setting": "사고로 크게 다친 꼬마 형사가 개조 수술을 받고 로봇 전사로 변신해 악당과 싸운다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ujugyeongchal_humanpower",
+      "orig": "우주경찰 휴먼파워",
+      "orig_en": "",
+      "ko": "우주경찰 휴먼파워",
+      "ko_src": "나무위키 문서 「우주경찰 휴먼파워」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "우주경찰 휴먼파워 (1992)",
+      "by": "김청기(제작·지휘), 김청기필름",
+      "year": 1992,
+      "country": "한국",
+      "setting": "먼 우주의 절대자가 보낸 세 전사가 지구에서 살며 지구 정복을 노리는 악의 무리를 소탕한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "watanabe_kubonouchi",
+      "orig": "ワタナベ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "窪之内英策 만화 (ビッグコミックスピリッツ, 1992) · 간사이TV 드라마 (1993)",
+      "by": "窪之内英策",
+      "year": 1992,
+      "country": "일본",
+      "setting": "2만 광년 너머 카나이 별에서 온 외계인 와타나베가 평범한 일본 가정에 홈스테이하는 개그 만화.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bunshin_higashino",
+      "orig": "分身",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "東野圭吾 소설 (集英社, 1993) · 라디오 드라마 (1998) · WOWOW 드라마 (2012)",
+      "by": "東野圭吾",
+      "year": 1993,
+      "country": "일본",
+      "setting": "삿포로와 도쿄에 사는 꼭 닮은 두 여자가 저마다 자기 출생의 비밀을 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「クローンを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chiu_nang_gon_taam_supercop",
+      "orig": "超能幹探SuperCop",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TVB 20부작 (1993)",
+      "by": "梁家樹(監製), 曾謹昌(編劇), TVB",
+      "year": 1993,
+      "country": "홍콩",
+      "setting": "초능력을 지닌 경찰과 그를 시샘한 동네 친구가 엇갈리다, 친구는 초능력을 얻으려 범인과 손잡는다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "if_moshimo_fuji",
+      "orig": "If もしも",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 옴니버스 (1993)",
+      "by": "土方政人(연출), フジテレビ·共同テレビ",
+      "year": 1993,
+      "country": "일본",
+      "setting": "안내인이 주인공을 '운명의 갈림길'로 이끌고, 선택에 따라 갈린 두 결말을 나란히 보여 주는 선집.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「パラレルワールドを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chikatetsu_ni_notte",
+      "orig": "地下鉄に乗って",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "浅田次郎 소설 (徳間書店, 1994) · 영화 (2006) · 드라마 『もういちど地下鉄に乗って』",
+      "by": "浅田次郎",
+      "year": 1994,
+      "country": "일본",
+      "setting": "지하철 계단을 오르자 30년 전 1964년의 도쿄가 펼쳐지고, 사내는 의절한 아버지의 젊은 날을 마주한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "maya_mayonaka_no_shoujo",
+      "orig": "MAYA 真夜中の少女",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "本島幸久 만화 (週刊少年マガジン, 1994~1996) · BS닛테레 드라마 (2002)",
+      "by": "本島幸久",
+      "year": 1994,
+      "country": "일본",
+      "setting": "사람의 죽음을 미리 아는 초능력 소녀가 평범한 고교생에게 24시간 안의 죽음을 알리며 미래를 바꾸라 한다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "superpower_kimchiman",
+      "orig": "수퍼파워 김치맨",
+      "orig_en": "",
+      "ko": "수퍼파워 김치맨",
+      "ko_src": "나무위키 문서 「수퍼파워 김치맨」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "SBS 〈웃으며 삽시다〉 코너 15화 (1994~1995)",
+      "by": "SBS, 심형래(주연)",
+      "year": 1994,
+      "country": "한국",
+      "setting": "비밀 연구 기지의 김치 추출물을 마신 사내가 변신해 외계 침략자와 싸우는 코미디 특촬.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "younggu_bulgoeri",
+      "orig": "영구와 우주괴물 불괴리",
+      "orig_en": "",
+      "ko": "영구와 우주괴물 불괴리",
+      "ko_src": "나무위키 문서 「영구와 우주괴물 불괴리」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "영구와 우주괴물 불괴리 (1994)",
+      "by": "심형래(감독)",
+      "year": 1994,
+      "country": "한국",
+      "setting": "혜성 충돌로 살 곳을 잃은 안드로메다인들이 지구를 차지하려고 괴물 불괴리를 먼저 보낸다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "black_out_1995",
+      "orig": "BLACK OUT",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 심야 드라마 (1995~1996)",
+      "by": "福田靖(각본), 共同テレビジョン",
+      "year": 1995,
+      "country": "일본",
+      "setting": "과학이 포화에 이른 1999년, 첨단 기술을 악용한 괴사건을 경시청 과학수사부의 두 수사관이 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「SFホラードラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kimi_wa_toki_no_kanata_e",
+      "orig": "君は時のかなたへ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 SF 시대극 특집 (1995)",
+      "by": "横谷昌宏(원작), 中島かずき(각본), 中嶋豪(연출)",
+      "year": 1995,
+      "country": "일본",
+      "setting": "젊은 날의 도쿠가와 이에야스가 현대로 건너와 한 소녀와 사랑에 빠지고, 그를 노리는 자객도 뒤따라온다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mokuyou_no_kaidan",
+      "orig": "木曜の怪談",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 목요 8시 옴니버스 (1995~1997)",
+      "by": "共同テレビジョン, フジテレビ",
+      "year": 1995,
+      "country": "일본",
+      "setting": "한 회에 두세 편을 묶어 괴담과 SF 공포를 내보낸 목요일 밤의 선집.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「SFホラードラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "power_king_1995",
+      "orig": "파워 킹",
+      "orig_en": "",
+      "ko": "파워 킹",
+      "ko_src": "나무위키 문서 「파워 킹」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "파워 킹 (1995)",
+      "by": "심형래(감독), 영구아트무비",
+      "year": 1995,
+      "country": "한국",
+      "setting": "암흑 제왕에게 쫓겨 지구로 온 안드로메다 공주의 목걸이로 영구가 영웅 파워 킹이 된다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "skip_kitamura",
+      "orig": "スキップ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "北村薫 소설 (新潮社, 1995) · NHK BS2 드라마 (1996) · 무대",
+      "by": "北村薫",
+      "year": 1995,
+      "country": "일본",
+      "setting": "열일곱 살 여고생이 잠깐 졸고 깨어나 보니 스물다섯 해를 건너뛴 마흔두 살이 되어 있다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "appare_yajuurou",
+      "orig": "天晴れ夜十郎",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "半村良 원작 · NHK 금요 시대극 23회 (1996) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "半村良(원작), NHK",
+      "year": 1996,
+      "country": "일본",
+      "setting": "사고로 현대에서 에도 시대로 떨어져 기억을 잃은 청년이 무사 '히 야주로'로서 악정에 맞선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dragon_tucca",
+      "orig": "드래곤 투카",
+      "orig_en": "",
+      "ko": "드래곤 투카",
+      "ko_src": "나무위키 문서 「드래곤 투카」(원제)",
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "드래곤 투카 (1996)",
+      "by": "심형래(감독), 영구아트무비",
+      "year": 1996,
+      "country": "한국",
+      "setting": "피자가게 점원 영구가 조선 시대로 건너가, 마을의 괴물을 잡으러 온 외계인들과 엮인다.",
+      "concepts": [
+        "time_travel",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yasha_yoshida",
+      "orig": "YASHA-夜叉-",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "吉田秋生 만화 (1996~) · 테레비 아사히 드라마 (2000)",
+      "by": "吉田秋生",
+      "year": 1996,
+      "country": "일본",
+      "setting": "유전자 기술로 태어난 천재 소년이 쌍둥이 형제와 얽히며 바이러스를 둘러싼 음모에 맞선다.",
+      "concepts": [
+        "genetic_eng",
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hime_wa_sailor_fuku",
+      "orig": "姫はセーラー服がお好き",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 심야 shin-D 9화 (1997)",
+      "by": "東映(제작), 日本テレビ",
+      "year": 1997,
+      "country": "일본",
+      "setting": "센고쿠 시대의 후계자 공주가 현대로 건너와 그녀를 도운 평범한 고교생과 사랑에 빠진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kimi_to_ita_mirai_no_tame_ni",
+      "orig": "君といた未来のために 〜I'll be back〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 토요 드라마 (1999)",
+      "by": "大石哲也·吉田智子(각본), 佐藤東弥 외(연출), 日本テレビ",
+      "year": 1999,
+      "country": "일본",
+      "setting": "인생을 다시 살고 싶던 대학생이 2000년을 맞을 때마다 유성군과 함께 심장이 멎고 1995년으로 돌아간다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bouken_mekarappa_gou",
+      "orig": "ぼうけん!メカラッパ号",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 교육 SF 인형극 (2000~2002)",
+      "by": "NHK教育テレビジョン",
+      "year": 2000,
+      "country": "일본",
+      "setting": "새 버섯에 시달리는 테라테라 별을 구하려고 소년 락이 소원을 이루는 보물을 찾아 우주를 누빈다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "doraon_greenman",
+      "orig": "돌아온 그린맨",
+      "orig_en": "",
+      "ko": "돌아온 그린맨",
+      "ko_src": "나무위키 문서 「돌아온 그린맨」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "EBS 46부작 (2000~2001)",
+      "by": "EBS",
+      "year": 2000,
+      "country": "한국",
+      "setting": "방송국 말단 피디가 환경 영웅으로 변해 지구를 더럽히는 안드로메다 외계인과 맞서는 어린이 특촬.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mi_li_tao_sheng",
+      "orig": "蜜里逃生",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "何署坤 의 소설 · CCTV 어린이 드라마 18부작 (2000) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "何署坤(원작), 张明志·胡一飞(감독)",
+      "year": 2000,
+      "country": "중국",
+      "setting": "아빠 실험실의 파란 눈 꿀벌이 준 꿀을 먹고 꿀벌이 된 초등학생이 곤충 세계를 헤맨다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻电视剧」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_angel_2001en",
+      "orig": "SPACE ANGEL 2001円宇宙の旅",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 13회 (2000)",
+      "by": "日本テレビ",
+      "year": 2000,
+      "country": "일본",
+      "setting": "헬륨 가스를 찾아 지구에 온 아자 별 외계인의 우주선에 잘못 올라탄 아이 넷의 소동.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yojeong_commi",
+      "orig": "요정 컴미",
+      "orig_en": "",
+      "ko": "요정 컴미",
+      "ko_src": "나무위키 문서 「요정 컴미」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 어린이 드라마 476부작 (2000~2002)",
+      "by": "한국방송제작단(제작), KBS 2TV",
+      "year": 2000,
+      "country": "한국",
+      "setting": "벌레 같은 오류로 무너져 가는 컴퓨터 나라의 공주가 낡은 노트북에서 나와 한 집에 얹혀산다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jikuu_keisatsu_ntv",
+      "orig": "時空警察",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 특집 다섯 편 (2001~2005)",
+      "by": "テレビマンユニオン(제작), 日本テレビ",
+      "year": 2001,
+      "country": "일본",
+      "setting": "역사의 수수께끼와 의혹을 '시공 경찰'이 추리해 보는 사실 바탕 역사 추리 특집.",
+      "concepts": [
+        "time_police"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ryusei_wagon",
+      "orig": "流星ワゴン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "重松清 소설 (『小説現代』 2001 연재, 2002 단행본) · TBS 드라마 (2015)",
+      "by": "重松清",
+      "year": 2001,
+      "country": "일본",
+      "setting": "모든 것을 잃은 남자가 유령 부자의 왜건을 타고 인생의 갈림길로 돌아가 동갑내기 아버지를 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本科幻劇」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "boku_ga_chikyuu_wo_sukuu",
+      "orig": "ぼくが地球を救う",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 목요극장 11회 (2002)",
+      "by": "中園ミホ(각본), TBS",
+      "year": 2002,
+      "country": "일본",
+      "setting": "계단에서 굴러 생사를 오갔던 회사원이 그때와 같은 57분 동안만 남의 속마음이 들리는 능력을 얻는다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hwangyeong_zentaforce",
+      "orig": "환경전사 젠타포스",
+      "orig_en": "",
+      "ko": "환경전사 젠타포스",
+      "ko_src": "나무위키 문서 「환경전사 젠타포스」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "EBS 26화 (2003)",
+      "by": "라퓨타 엔터테인먼트(제작), EBS",
+      "year": 2003,
+      "country": "한국",
+      "setting": "환경 오염을 무기로 다시 쳐들어온 외계 침략자를 늙은 영웅의 세 아들이 변신해 막는다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bokutachi_no_sensou",
+      "orig": "僕たちの戦争",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "荻原浩 소설 (双葉社, 2004) · TBS 특집 드라마 (2006) · 라디오 드라마 (2007)",
+      "by": "荻原浩",
+      "year": 2004,
+      "country": "일본",
+      "setting": "2001년의 서퍼와 1944년의 예과 연습생이 파도와 비구름에 휩쓸려 서로의 시대로 뒤바뀐다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jinrui_metsubou_13",
+      "orig": "人類滅亡と13人のコント集",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 심야 드라마 버라이어티 (2004~2005)",
+      "by": "大塚恭司(감독), 日本テレビ",
+      "year": 2004,
+      "country": "일본",
+      "setting": "인류가 멸망한 200X년, 홀로 남은 개그맨이 수수께끼의 존재에게 멸망의 이유를 묻는 콩트 드라마.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「文明崩壊後の世界が描かれたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kami_wa_saikoro_wo_furanai",
+      "orig": "神はサイコロを振らない",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "大石英司 소설 (2004) · 닛폰 TV 수요 드라마 (2006)",
+      "by": "大石英司",
+      "year": 2004,
+      "country": "일본",
+      "setting": "1994년에 사라진 여객기가 10년 뒤 그 모습 그대로 내려앉아, 승객과 유족이 열흘 동안 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "repeat_inui",
+      "orig": "リピート",
+      "orig_en": "Repeat",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "乾くるみ 소설 (2004) · 일본 드라마 · MBC 『365: 운명을 거스르는 1년』 (2020)",
+      "by": "乾くるみ",
+      "year": 2004,
+      "country": "일본",
+      "setting": "1년 전으로 돌아가 다시 살 기회를 얻은 열 사람 둘레에 수상한 일이 잇따른다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」 · 일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "suhojeonsa_maxman",
+      "orig": "수호전사 맥스맨",
+      "orig_en": "",
+      "ko": "수호전사 맥스맨",
+      "ko_src": "나무위키 문서 「수호전사 맥스맨」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 26부작 (2004~2005)",
+      "by": "최성덕(감독), 송충규(각본), 라퓨타엔터테인먼트",
+      "year": 2004,
+      "country": "한국",
+      "setting": "악의 제국에 왕국을 빼앗긴 별의 공주가 지구로 달아나, 오래 봉인된 구원의 로봇을 깨운다.",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zi_si_gu_jan_loi",
+      "orig": "子是故人來",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "ATV 40부작 (2004)",
+      "by": "賴建國(監製), 亞洲電視",
+      "year": 2004,
+      "country": "홍콩",
+      "setting": "민국 시대 광저우의 원한 속에 죽어 가던 사내가 시간을 넘어 2002년 홍콩에서 자기 아들과 마주친다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "sakura_nigou",
+      "orig": "桜2号",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "たけやまたけを 만화 (ビジネスジャンプ, 2005~2006) · 아사히 방송 드라마 (2006)",
+      "by": "たけやまたけを",
+      "year": 2005,
+      "country": "일본",
+      "setting": "연인을 잃은 남자가 친구의 도움으로 그녀와 꼭 닮은 사람형 로봇 '사쿠라 2호'를 만든다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「自律ロボットを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "erexion_kr",
+      "orig": "이레자이온",
+      "orig_en": "Erexion",
+      "ko": "이레자이온",
+      "ko_src": "나무위키 문서 「이레자이온」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 26부작 (2006~2007)",
+      "by": "Park Chan-yool, Yu Min-hang(연출), Chungam Entertainment(제작)",
+      "year": 2006,
+      "country": "한국",
+      "setting": "먼 행성 아이런에서 우주의 균형을 지키던 수정을 악당 테라가 노리자 일곱 전사가 맞서는 특촬.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Tokusatsu television series」 · 나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gakincho_return_kids",
+      "orig": "がきんちょ〜リターン・キッズ〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBS 「ドラマ30」 (2006)",
+      "by": "野依美幸(원안·각본), 毎日放送",
+      "year": 2006,
+      "country": "일본",
+      "setting": "결혼식 직전 아이돌 시절 사진을 찢은 매니저가 돌풍과 함께 어린 시절로 돌아가는 타임슬립 판타지.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mop_girl",
+      "orig": "モップガール",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "加藤実秋 소설 (2007) · 테레비 아사히 드라마 (2007)",
+      "by": "加藤実秋",
+      "year": 2007,
+      "country": "일본",
+      "setting": "사건 현장을 치우는 청소 회사 직원이 죽은 이가 남긴 기운을 느끼며 과거로 돌아가 진상을 밝힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wu_long_qi_jian_shi",
+      "orig": "五龙奇剑士",
+      "orig_en": "Metal Kaiser",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "중·일 합작 특촬 (2007)",
+      "by": "郭家成(감독), 円谷プロダクション·上海電影集團 외",
+      "year": 2007,
+      "country": "중국",
+      "setting": "2056년 하늘의 붉은 빛과 함께 괴수와 침략자가 나타나자, 선녀가 준 팔찌로 네 사람이 사신 전사가 된다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hwangyeong_wildforce",
+      "orig": "환경수비대 와일드포스",
+      "orig_en": "",
+      "ko": "환경수비대 와일드포스",
+      "ko_src": "나무위키 문서 「환경수비대 와일드포스」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "재능방송 (2008)",
+      "by": "재능방송",
+      "year": 2008,
+      "country": "한국",
+      "setting": "오염으로 무너진 지하 세계의 변종들이 복수하러 오자, 박사가 꾸린 수비대가 지구를 지킨다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mirai_koushi_meguru",
+      "orig": "未来講師めぐる",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 금요 심야 드라마 (2008)",
+      "by": "宮藤官九郎(각본), テレビ朝日",
+      "year": 2008,
+      "country": "일본",
+      "setting": "밥을 먹고 나면 20년 뒤가 보이는 학원 강사가 그 앞날 때문에 소동을 벌이는 희극.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「日本科幻劇」 · 일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mirai_seiki_shakespeare",
+      "orig": "未来世紀シェイクスピア",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "간사이 TV 심야 12주 (2008~2009)",
+      "by": "小原信治(각본), 二階健(감독)",
+      "year": 2008,
+      "country": "일본",
+      "setting": "셰익스피어 극 속 인물이 시간을 넘어 현대로 와 이야기를 이끄는 단원극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pandora_wowow",
+      "orig": "パンドラ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "WOWOW 연속극 시리즈 (2008~)",
+      "by": "井上由美子(각본), WOWOW",
+      "year": 2008,
+      "country": "일본",
+      "setting": "18년 연구 끝에 어떤 암이든 없애는 특효약을 만든 의사가 그 '판도라의 상자'가 부른 파장에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「クローンを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zettai_kareshi",
+      "orig": "絶対彼氏",
+      "orig_en": "Absolute Boyfriend",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "渡瀬悠宇 만화 · 후지TV 드라마 (2008) · 대만 드라마 (2012) · SBS 드라마 (2019) — 원작 만화의 처음 해는 확인 못 함(해 칸은 첫 드라마 해)",
+      "by": "渡瀬悠宇",
+      "year": 2008,
+      "country": "일본",
+      "setting": "사랑에 번번이 실패하던 여자가 수상한 상점에서 연인 로봇을 주문해 함께 살게 된다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean science fiction television series」 · 일본어 위키백과 분류 「自律ロボットを題材としたテレビドラマ」 · 중국어 위키백과 분류 「台灣科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chichi_yo_anata_wa_erakatta",
+      "orig": "父よ、あなたはえらかった〜1969年のオヤジと僕",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 특집 드라마 (2009)",
+      "by": "浅野妙子(각본), TBS",
+      "year": 2009,
+      "country": "일본",
+      "setting": "아버지와 다툰 아들이 학생운동이 한창인 1969년으로 떨어져 젊은 날의 부모를 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "double_tone_kajio",
+      "orig": "ダブルトーン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "梶尾真治 소설 (2010) · NHK BS 드라마 『ダブルトーン 〜2人のユミ〜』",
+      "by": "梶尾真治",
+      "year": 2010,
+      "country": "일본",
+      "setting": "주부로 사는 유미와 독신으로 일하는 유미, 두 사람의 기억이 잠에서 깰 때마다 서로 엇갈린다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hanbun_esper",
+      "orig": "半分エスパー",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV TWO (2010)",
+      "by": "フジテレビTWO",
+      "year": 2010,
+      "country": "일본",
+      "setting": "나라가 몰래 초능력자를 키우는 연구소의 견습 에스퍼가 바깥세상을 보고 싶어 뛰쳐나온다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "joseon_x_files",
+      "orig": "조선X파일 기찰비록",
+      "orig_en": "Joseon X-Files",
+      "ko": "조선X파일 기찰비록",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Joseon X-Files」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "tvN 12부작 (2010)",
+      "by": "Kim Heung-dong, Kang Kyung-hoon(연출), MBC Production",
+      "year": 2010,
+      "country": "한국",
+      "setting": "조선 실록에 남은 풀리지 않는 괴이한 사건들을 한 관리가 파헤치는 대체 역사 사극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean science fiction television series」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "juunen_saki_mo",
+      "orig": "10年先も君に恋して",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 「ドラマ10」 (2010)",
+      "by": "大森美香(각본), NHK",
+      "year": 2010,
+      "country": "일본",
+      "setting": "2020년에서 온 미래의 남편이 둘의 결혼을 막으려고 출판사 편집자 앞에 나타난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "again_kubo",
+      "orig": "アゲイン!!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "久保ミツロウ 만화 (週刊少年マガジン, 2011~2014) · MBS·TBS 드라마 (2014)",
+      "by": "久保ミツロウ",
+      "year": 2011,
+      "country": "일본",
+      "setting": "친구 하나 없이 고교 3년을 보낸 학생이 졸업식 날 계단에서 굴러 3년 전 입학식 날로 돌아간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ashi_girl",
+      "orig": "アシガール",
+      "orig_en": "Ashi-Girl",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "森本梢子 만화 (Cocohana, 2011~) · NHK 드라마 (2017)",
+      "by": "森本梢子",
+      "year": 2011,
+      "country": "일본",
+      "setting": "천재 남동생이 만든 시간 기계로 전국 시대에 떨어진 발 빠른 여고생이 젊은 영주에게 반한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Japanese television series about time travel」 · 일본어 위키백과 분류 「日本のロマンティック・コメディSFドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "saigo_no_restaurant",
+      "orig": "最後のレストラン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "藤栄道彦 만화 (月刊コミックバンチ, 2011~) · NHK BS 드라마 (2016)",
+      "by": "藤栄道彦",
+      "year": 2011,
+      "country": "일본",
+      "setting": "망해 가는 레스토랑에 역사 속 인물들이 시간을 넘어 손님으로 찾아오는 요리 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "13sai_no_hello_work",
+      "orig": "13歳のハローワーク",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 금요 심야 드라마 (2012)",
+      "by": "大石哲也 외(각본), 髙橋伸之 외(연출), テレビ朝日",
+      "year": 2012,
+      "country": "일본",
+      "setting": "꿈과 다른 부서에서 불만이던 형사가 1990년으로 건너가 열세 살의 자신을 형사의 길로 이끌려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本科幻劇」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "boku_no_natsuyasumi_2012",
+      "orig": "ぼくの夏休み",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "도카이 TV 낮 띠 드라마 (2012)",
+      "by": "樫田正剛·武田有起(각본), 東海テレビ",
+      "year": 2012,
+      "country": "일본",
+      "setting": "부모의 이혼 문제로 외가에 맡겨진 남매가 증기기관차를 타고 태평양 전쟁 중인 1944년으로 간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "koshoku_robot",
+      "orig": "孤食ロボット",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "岩岡ヒサエ 만화 (2012~2023) · 닛폰 TV 드라마 (2017)",
+      "by": "岩岡ヒサエ",
+      "year": 2012,
+      "country": "일본",
+      "setting": "식품 회사 경품으로 혼자 사는 사람에게 배달되는 손바닥만 한 로봇이 주인의 식사를 챙긴다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「自律ロボットを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kuai_le_ku_bao",
+      "orig": "快乐酷宝",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "실사·애니메이션 섞은 어린이 드라마 (2012~2015)",
+      "by": "蓝弧动漫, 宝视德",
+      "year": 2012,
+      "country": "중국",
+      "setting": "주인공 러러가 다른 세계에서 온 로봇을 도와 사람들의 밝은 마음 에너지를 모으고 악당을 물리친다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻电视剧」 · 중국어 위키백과 분류 「自主機器人題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "usotoki_rhetoric",
+      "orig": "嘘解きレトリック",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "都戸利津 만화 (別冊花とゆめ, 2012~2018) · 후지TV 월9 드라마 (2024)",
+      "by": "都戸利津",
+      "year": 2012,
+      "country": "일본",
+      "setting": "남의 거짓말이 들리는 능력 탓에 고향을 떠난 소녀가 가난한 탐정의 조수가 되어 쇼와 초의 사건을 푼다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "vision_koroshi_ga_mieru",
+      "orig": "VISION-殺しが見える女-",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV 목요 미스터리 (2012)",
+      "by": "飯田譲治(각본), 読売テレビ",
+      "year": 2012,
+      "country": "일본",
+      "setting": "살인의 환영을 보는 모델과 정직 중인 형사가 사건을 쫓는 사이코 스릴러.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「クローンを題材としたテレビドラマ」 · 일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ando_lloyd",
+      "orig": "安堂ロイド〜A.I. knows LOVE?〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 일요극장 10부작 (2013)",
+      "by": "西荻弓絵·泉澤陽子(각본), 波多野貴文 외(연출), TBS",
+      "year": 2013,
+      "country": "일본",
+      "setting": "살해당한 물리학자의 약혼녀 앞에, 그와 똑같이 생긴 미래의 안드로이드가 나타나 그녀를 지킨다.",
+      "concepts": [
+        "android",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "chouzetsu_zekkyou_land",
+      "orig": "超絶☆絶叫ランド",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "CBC·TBS 심야 10화 (2013)",
+      "by": "ジェイ・ジェイ(원안), 山田篤宏·吹原幸太(각본)",
+      "year": 2013,
+      "country": "일본",
+      "setting": "놀이공원 근처 숲에 운석이 떨어져 연락이 끊기고, 외계 생물이 사람 몸에 깃든다.",
+      "concepts": [
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」 · 일본어 위키백과 분류 「SFホラードラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ginga_sentou_panta_kun",
+      "orig": "銀河銭湯パンタくん",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK E테레 학교 방송 인형극 (2013~)",
+      "by": "角田貴志(각본), NHK",
+      "year": 2013,
+      "country": "일본",
+      "setting": "지구인과 외계인이 함께 사는 2313년, 오래된 대중목욕탕 집 아들과 외계인 아이가 동네 문제를 푼다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kamisama_no_beret",
+      "orig": "神様のベレー帽〜手塚治虫のブラック・ジャック創作秘話〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "간사이 TV 특집 드라마 (2013) — 宮崎克·吉本浩二 실록 만화 『ブラック・ジャック創作秘話』가 바탕",
+      "by": "古家和尚(각본), 三宅喜重(연출)",
+      "year": 2013,
+      "country": "일본",
+      "setting": "데즈카 오사무를 모르는 신입 편집자가 수수께끼의 남자 때문에 1973년의 편집부로 거슬러 간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "masuyama_chounouryokushi",
+      "orig": "増山超能力師事務所",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "誉田哲也 소설 (文藝春秋, 2013) · 요미우리TV 드라마 12부작 (2017) · 영화 (2017)",
+      "by": "誉田哲也",
+      "year": 2013,
+      "country": "일본",
+      "setting": "초능력자가 '초능력사'로 일하는 세상, 닛포리의 작은 사무소가 갖가지 의뢰를 맡는다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」 · 일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mierino_kashiwagi",
+      "orig": "ミエリーノ柏木",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 도쿄 심야 드라마 (2013)",
+      "by": "高富秀太(각본·감독), テレビ東京",
+      "year": 2013,
+      "country": "일본",
+      "setting": "손이 닿으면 그 사람의 가까운 앞날이 보이는 카페 직원이 이별 대행 일을 하며 사랑을 배운다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「日本科幻劇」 · 일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mission_english_bsfuji",
+      "orig": "MISSION ENGLISH",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "BS후지 영어 교육 드라마 2시즌 (2013~2014)",
+      "by": "伊藤仟夜里(각본·연출), BSフジ",
+      "year": 2013,
+      "country": "일본",
+      "setting": "먼 별 왕족의 피를 이은 남자가 무너질 위기에 놓인 별의 왕국을 구하러 나서는 영어 교육 드라마.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "neoui_moksoriga_deullyeo",
+      "orig": "너의 목소리가 들려",
+      "orig_en": "",
+      "ko": "너의 목소리가 들려",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「聽見你的聲音」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "SBS 18부작 (2013)",
+      "by": "趙秀沅(연출), 朴惠蓮(극본)",
+      "year": 2013,
+      "country": "한국",
+      "setting": "아버지를 잃은 사고 뒤 남의 속마음이 들리게 된 고등학생이 그 능력으로 사건과 사랑에 얽힌다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "samurai_sensei",
+      "orig": "サムライせんせい",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "黒江S介 웹만화 (2013~) · 테레비 아사히 드라마 (2015) · 영화 (2018)",
+      "by": "黒江S介",
+      "year": 2013,
+      "country": "일본",
+      "setting": "막부 말 옥에 갇혀 있던 무사 다케치 한페이타가 깨어 보니 현대 일본이고, 학원 선생으로 살게 된다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "share_house_no_koibito",
+      "orig": "シェアハウスの恋人",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 수요 드라마 (2013)",
+      "by": "水橋文美江(각본), 日本テレビ",
+      "year": 2013,
+      "country": "일본",
+      "setting": "셰어하우스에 모인 여자·유부남·청년의 엇갈린 삼각관계에 외계인이 얽히는 연애 희극.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のロマンティック・コメディSFドラマ」 · 일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "starman_kono_hoshi_no_koi",
+      "orig": "スターマン・この星の恋",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "간사이TV·후지TV 10부작 (2013)",
+      "by": "岡田惠和(각본), 堤幸彦(연출)",
+      "year": 2013,
+      "country": "일본",
+      "setting": "홀로 세 아이를 키우는 여자가 기억을 잃은 수수께끼의 청년을 집에 들이는데, 그는 지구 사람이 아니다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」 · 중국어 위키백과 분류 「人與外星生物接觸題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bu_yi_yang_de_mei_nan_zi",
+      "orig": "不一樣的美男子",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후난 위성 2시즌 (2014~2017)",
+      "by": "丁仰国·沈怡(감독), 王雪静(극본)",
+      "year": 2014,
+      "country": "중국",
+      "setting": "요트 폭발에서 살아난 친구들이 이식 수술 뒤 저마다 다른 초능력을 얻어 엮이는 청춘극.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "higanbana_sousa_nanaka",
+      "orig": "ヒガンバナ〜警視庁捜査七課〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 특집 (2014) · 연속극 (2016)",
+      "by": "吉澤智子 외(각본), 大谷太郎 외(연출), 日本テレビ",
+      "year": 2014,
+      "country": "일본",
+      "setting": "사건 현장에 남은 마음의 소리가 들리는 형사가 여성 수사반에서 사건의 진실을 짚어 낸다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」 · 중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "suteki_na_sen_taxi",
+      "orig": "素敵な選TAXI",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "간사이 TV·후지TV 10부작 (2014) · 특집 (2016)",
+      "by": "オークラ 외(각본), 筧昌也·星野和成(연출), 関西テレビ",
+      "year": 2014,
+      "country": "일본",
+      "setting": "손님을 원하는 과거로 데려가 인생을 고칠 기회를 주는 택시 '센택시'의 기사 이야기.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本科幻劇」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "sweden_setakso",
+      "orig": "스웨덴 세탁소",
+      "orig_en": "",
+      "ko": "스웨덴 세탁소",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「瑞典洗衣店」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBC 드라마넷 (2014)",
+      "by": "鄭煥碩(연출)",
+      "year": 2014,
+      "country": "한국",
+      "setting": "남의 사랑·우정·일 고민이 눈에 보이는 평범한 여자의 일상을 만화처럼 그린 판타지 희극.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「韓國科幻劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tenchuu_yami_no_shiokinin",
+      "orig": "天誅〜闇の仕置人〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 금요 드라마 (2014)",
+      "by": "高橋幹子·根津理香(각본), フジテレビ",
+      "year": 2014,
+      "country": "일본",
+      "setting": "센고쿠 시대에서 현대로 건너온 여자 닌자와 동료들이 오늘의 악을 처단하는 액션극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chuldong_kcop",
+      "orig": "출동 케이캅",
+      "orig_en": "",
+      "ko": "출동 케이캅",
+      "ko_src": "나무위키 문서 「출동 케이캅」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "재능TV 26화 (2015)",
+      "by": "캐릭터플랜(제작)",
+      "year": 2015,
+      "country": "한국",
+      "setting": "우주의 공주를 구해 힘을 얻은 두 경찰관이 사람 마음으로 괴물을 만드는 우주 악당과 싸운다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "doctor_white_kibayashi",
+      "orig": "ドクター・ホワイト",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "樹林伸 소설 (KADOKAWA, 2015~) · 만화 (2021) · 간사이TV 드라마 (2022)",
+      "by": "樹林伸",
+      "year": 2015,
+      "country": "일본",
+      "setting": "공원에서 쓰러진 흰 가운의 소녀가 의학 지식만 남은 채 병원의 오진을 하나씩 짚어 낸다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「クローンを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "haretara_iine_fujioka",
+      "orig": "晴れたらいいね",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "藤岡陽子 소설 (光文社, 2015) · 라디오 드라마 (2016) · 테레비 도쿄 드라마 (2025)",
+      "by": "藤岡陽子",
+      "year": 2015,
+      "country": "일본",
+      "setting": "지진과 함께 정신을 잃은 간호사가 깨어나 보니 태평양 전쟁 중인 필리핀의 거친 들판에 있다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "iine_hikaru_genji_kun",
+      "orig": "いいね!光源氏くん",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "えすとえむ 만화 (FEEL YOUNG, 2015~2021) · NHK 드라마 (2020~2021) · 무대",
+      "by": "えすとえむ",
+      "year": 2015,
+      "country": "일본",
+      "setting": "잡화 회사 직원 사오리의 방에 『겐지 이야기』의 히카루 겐지가 시간을 넘어 나타난다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のロマンティック・コメディSFドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 일본어 위키백과 분류 「パラレルワールドを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "naeireul_hyanghae_ttwieora",
+      "orig": "내일을 향해 뛰어라",
+      "orig_en": "",
+      "ko": "내일을 향해 뛰어라",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「向著明天奔跑」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "SBS 설 특집극 (2015)",
+      "by": "SBS",
+      "year": 2015,
+      "country": "한국",
+      "setting": "가출로 아버지를 죽음 문턱에 이르게 한 아들이 그림책 이야기와 이어진 시간 여행에 나선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國科幻劇」 · 중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nenriki_kazoku",
+      "orig": "念力家族",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK E테레 「天才てれびくん」 코너 드라마 (2015~2016) — 笹公人 가집 (2003) 원작",
+      "by": "笹公人(원작 가집), 佐東みどり·木滝りま(각본)",
+      "year": 2015,
+      "country": "일본",
+      "setting": "텔레파시를 쓰는 여고생, 눈에서 광선을 쏘는 엄마 등 저마다 초능력을 지닌 가족의 일상.",
+      "concepts": [
+        "psionics",
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ooedo_kagaku_sousa_oyuu",
+      "orig": "大江戸科学捜査 八丁堀のおゆう",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "山本巧次 소설 (宝島社, 2015~) · 드라마 『時空探偵おゆう』 (2019)",
+      "by": "山本巧次",
+      "year": 2015,
+      "country": "일본",
+      "setting": "할머니가 남긴 집의 계단으로 에도 시대를 오가는 미스터리 애호가가 현대 과학 수사로 사건을 푼다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "to_be_continued_kr",
+      "orig": "투 비 컨티뉴드",
+      "orig_en": "",
+      "ko": "투 비 컨티뉴드",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「To Be Continued」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "네이버 TV캐스트·MBC every1 웹드라마 (2015)",
+      "by": "Naver TVcast, MBC every1",
+      "year": 2015,
+      "country": "한국",
+      "setting": "데뷔를 앞둔 남자 아이돌 그룹이 갑자기 과거로 떨어져, 사정을 아는 여학생의 도움으로 데뷔에 다가간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國科幻劇」 · 중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tokyo_alien_brothers",
+      "orig": "トーキョーエイリアンブラザーズ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "真造圭伍 만화 (月刊!スピリッツ, 2015~2017) · 닛폰 TV 드라마 (2018)",
+      "by": "真造圭伍",
+      "year": 2015,
+      "country": "일본",
+      "setting": "지구 이주 계획을 앞두고 도쿄에 숨어 사는 외계인 형제가 지구에서의 삶을 조사한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "love_love_alien",
+      "orig": "ラブラブエイリアン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "岡村星 만화 (漫画ゴラク) · 후지TV 심야 드라마 (2016) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "岡村星(원작), 三木康一郎(각본·감독)",
+      "year": 2016,
+      "country": "일본",
+      "setting": "여성 전용 아파트에 고장 난 우주선과 함께 굴러든 외계인들이 엄청난 과학력으로 소동을 벌인다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "qi_miao_de_shi_guang_zhi_lv",
+      "orig": "奇妙的时光之旅",
+      "orig_en": "Magical Space-Time",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후난 TV 24부작 (2016)",
+      "by": "Fu-Hsiang Hsu 許富翔(감독), Wang Gungun, Hu Xiao Shuai(각본)",
+      "year": 2016,
+      "country": "중국",
+      "setting": "요트 폭발 뒤 얼굴과 이름을 바꾼 남자가 아내가 남긴 시간을 건너는 즉석 사진기로 과거를 오간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese television series about time travel」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shinryaku_garupanda_z",
+      "orig": "侵略!ガルパンダZ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TOKYO MX·선 TV 심야 특촬 18화 (2016)",
+      "by": "河崎実(감독)",
+      "year": 2016,
+      "country": "일본",
+      "setting": "두 별의 전쟁에서 지구 침략권을 걸고, 지구인에게 빙의한 '걸판다 Z' 별의 세 여자가 숨어든다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "spark_web_kr",
+      "orig": "스파크",
+      "orig_en": "",
+      "ko": "스파크",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「Spark (電視劇)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "네이버 TV캐스트 12부작 (2016)",
+      "by": "Cube 엔터테인먼트, iHQ",
+      "year": 2016,
+      "country": "한국",
+      "setting": "사고로 온몸에 전기가 흐르게 된 아이돌과 그에게서 떨어질 수 없게 된 여학생의 연애 희극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國科幻劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "time_patrol_no_ol",
+      "orig": "タイムパトロールのOL",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 심야 예능 속 짧은 드라마 (2016)",
+      "by": "前田司郎(각본·연출), フジテレビ",
+      "year": 2016,
+      "country": "일본",
+      "setting": "시간 여행이 퍼진 25세기, 역사 개조 범죄를 막는 시간 순찰대 일본 지사를 받치는 사무직원들의 시트콤.",
+      "concepts": [
+        "time_police",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tto_ohaeyoung",
+      "orig": "또! 오해영",
+      "orig_en": "",
+      "ko": "또! 오해영",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「又，吳海英」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "tvN 18부작 (2016)",
+      "by": "宋賢旭(연출), 朴海英(극본)",
+      "year": 2016,
+      "country": "한국",
+      "setting": "같은 이름의 잘난 동창 탓에 늘 비교당하던 여자와, 앞날의 장면이 문득 보이는 남자의 연애극.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "choegoui_hanbang",
+      "orig": "최고의 한방",
+      "orig_en": "Hit the Top",
+      "ko": "최고의 한방",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Hit the Top」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 32부작 (2017)",
+      "by": "Yoo Ho-jin, Cha Tae-hyun(연출), Lee Young-chul, Lee Mi-rim(극본)",
+      "year": 2017,
+      "country": "한국",
+      "setting": "1993년의 인기 가수가 우연히 2017년으로 건너와, 이듬해 자신이 사라진 까닭을 캔다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "code_name_mirage",
+      "orig": "コードネームミラージュ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 도쿄 심야 25화 (2017)",
+      "by": "広井王子(원작), 山口雄大 외(감독)",
+      "year": 2017,
+      "country": "일본",
+      "setting": "법망을 빠져나간 거악을 남몰래 처단하려 꾸려진 경찰청 특수 부대가 인공지능과 함께 움직이는 액션극.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「人工知能を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dasi_mannan_segye",
+      "orig": "다시 만난 세계",
+      "orig_en": "Reunited Worlds",
+      "ko": "다시 만난 세계",
+      "ko_src": "원제(한국 작품) — 일본어 위키백과 「ひと夏の奇跡〜Waiting for you」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "SBS (2017)",
+      "by": "SBS",
+      "year": 2017,
+      "country": "한국",
+      "setting": "열아홉에 죽은 청년이 12년 뒤 그 나이 그대로 돌아와 소꿉친구와 다시 만나는 판타지 연애극.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(일본어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "duel_ocn_2017",
+      "orig": "듀얼",
+      "orig_en": "Duel",
+      "ko": "듀얼",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Duel (South Korean TV series)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "OCN 16부작 (2017)",
+      "by": "Lee Jong-jae, Choi Young-soo(연출), Kim Yoon-joo(극본), Chorokbaem Media",
+      "year": 2017,
+      "country": "한국",
+      "setting": "딸을 납치당한 형사가 현장에 있던 얼굴이 똑같은 두 남자를 쫓으며 복제 인간의 비밀에 닿는다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean science fiction television series」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eojjeoda_18",
+      "orig": "어쩌다 18",
+      "orig_en": "",
+      "ko": "어쩌다 18",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「不知不覺18」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "JTBC 웹드라마 10부작 (2017)",
+      "by": "金度玄(연출), 尹素智(극본)",
+      "year": 2017,
+      "country": "한국",
+      "setting": "고교 때 따돌림받던 남자가 스스로 목숨을 끊은 첫사랑을 구하려다 열여덟 살로 돌아간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gobaek_bubu",
+      "orig": "고백부부",
+      "orig_en": "Go Back",
+      "ko": "고백부부",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Go Back (TV series)」",
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "네이버 웹툰 〈한번 더 해요〉 · KBS 2TV 12부작 (2017) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "Hong Seung-pyo, Kim Hye-yeon(원작 웹툰), Ha Byung-hoon(연출)",
+      "year": 2017,
+      "country": "한국",
+      "setting": "지쳐 버린 서른여덟 살 부부가 스무 살 대학 시절로 돌아가 다시 살아 본다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "high_position_kira",
+      "orig": "ハイポジ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "きらたかし 만화 (漫画アクション, 2017~2018) · 테레비 오사카 드라마 (2020)",
+      "by": "きらたかし",
+      "year": 2017,
+      "country": "일본",
+      "setting": "이혼과 해고에 몰린 마흔여섯 살 남자가 기억을 지닌 채 1986년의 고교 시절로 돌아간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "himssen_yeoja_dobongsun",
+      "orig": "힘쎈여자 도봉순",
+      "orig_en": "",
+      "ko": "힘쎈여자 도봉순",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「大力女子都奉順」",
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "같은 이름의 만화 · JTBC 16부작 (2017) · 『힘쎈여자 강남순』 (2023) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "李亨民(연출), 白美瓊(극본)",
+      "year": 2017,
+      "country": "한국",
+      "setting": "타고난 괴력을 지닌 여자 도봉순이 그 힘으로 사건과 사랑에 휘말리는 판타지 희극.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "manhole_kbs",
+      "orig": "맨홀: 이상한 나라의 필",
+      "orig_en": "Manhole",
+      "ko": "맨홀: 이상한 나라의 필",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Manhole (TV series)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 16부작 (2017)",
+      "by": "Park Man-young(연출), Lee Jae-gon(극본)",
+      "year": 2017,
+      "country": "한국",
+      "setting": "좋아하는 여자의 결혼을 막으려고 한 남자가 맨홀을 지나 과거와 현재를 오간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "my_only_love_song_kr",
+      "orig": "마이 온리 러브송",
+      "orig_en": "My Only Love Song",
+      "ko": "마이 온리 러브송",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「My Only Love Song」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "넷플릭스 20부작 (2017)",
+      "by": "Min Doo-sik(연출), Kim Soo-jin(극본), FNC Add Culture",
+      "year": 2017,
+      "country": "한국",
+      "setting": "돈과 지위만 믿는 배우가 시간의 틈에 빠져 6세기 고구려로 떨어지는 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nou_ni_sumaho",
+      "orig": "脳にスマホが埋められた!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV 목요 드라마 11부작 (2017)",
+      "by": "森迅史 외(각본), 筧昌也 외(감독), 読売テレビ",
+      "year": 2017,
+      "country": "일본",
+      "setting": "뇌에 스마트폰이 심어져 버린 남자가 그 기능 때문에 소동을 겪는 이야기.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「日本科幻劇」 · 일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "robo_daikigyou",
+      "orig": "77部署合体ロボダイキギョー ドラマ・伝え方が9割",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "아마존 프라임 비디오 10회 (2017)",
+      "by": "藤井亮(감독), ふじきみつ彦(각본)",
+      "year": 2017,
+      "country": "일본",
+      "setting": "77개 부서가 합체하는 거대 로봇의 왼쪽 무릎을 맡은 말재주 없는 직원이 말의 힘으로 팀을 묶는다.",
+      "concepts": [
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「地球外生命体を題材としたテレビドラマ」 · 일본어 위키백과 분류 「巨大ロボットを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "theseus_no_fune",
+      "orig": "テセウスの船",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "東元俊哉 만화 (『モーニング』 2017~2019) · TBS 드라마 (2020)",
+      "by": "東元俊哉",
+      "year": 2017,
+      "country": "일본",
+      "setting": "살인범의 아들로 손가락질받던 청년이 1989년의 마을로 건너가 아버지가 누명을 쓴 독살 사건을 막으려 한다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wei_bi_si_da_lai_ang",
+      "orig": "威比斯达莱昂",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "어린이 특촬 (2017)",
+      "by": "禾浩文化·企鹅影视",
+      "year": 2017,
+      "country": "중국",
+      "setting": "지구를 부수려는 Z 백작에 맞서, 외계에서 온 넷이 소년 쉬디를 골라 함께 싸우는 어린이 특촬.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「外星生命入侵地球題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "boku_wa_doko_kara",
+      "orig": "僕はどこから",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "市川マサ 만화 (週刊ヤングマガジン, 2018) · 테레비 도쿄 드라마 (2020)",
+      "by": "市川マサ",
+      "year": 2018,
+      "country": "일본",
+      "setting": "글을 베껴 쓰면 그 사람의 생각까지 옮겨 받는 작가 지망생이 엘리트 야쿠자와 엮여 범죄에 휘말린다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "huo_wang_manhua",
+      "orig": "火王",
+      "orig_en": "The King of Blaze",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "You Su-lan 의 대만 만화 · 후난 TV 드라마 2부 (2018) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "You Su-lan(원작 만화), Hu Yijuan(감독)",
+      "year": 2018,
+      "country": "대만",
+      "setting": "여섯 원소의 신이 지키던 별이 어둠과 싸운 뒤, 신들이 사람으로 다시 태어나 얽힌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「Chinese science fiction television series」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mirai_san_line",
+      "orig": "ミライさん",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "LINE NEWS 웹드라마 5회 (2018)",
+      "by": "LINE NEWS",
+      "year": 2018,
+      "country": "일본",
+      "setting": "'사람이 일하지 않아도 되는 미래'를 외치는 자칭 혁명가가 발명가 오빠의 도구를 함부로 써 소동을 벌인다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ni_de_hai_zi_bu_shi",
+      "orig": "你的孩子不是你的孩子",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "公視 선집 10부작 (2018) — 吳曉樂 의 논픽션 책(2014)에서 다섯 이야기를 가져옴, 『媽媽的遙控器』 단원은 따로 있는 세계",
+      "by": "陳慧翎(감독), 吳曉樂(원작), 公視",
+      "year": 2018,
+      "country": "대만",
+      "setting": "공부에 짓눌린 대만 가정들에 소원을 들어주는 공작새·평행 세계 같은 기이한 일이 끼어드는 선집.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「你的孩子不是你的孩子」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "oh_wo_de_huangdi_bixia",
+      "orig": "哦！我的皇帝陛下",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "텐센트 비디오 웹드라마 2시즌 (2018)",
+      "by": "テンセント・ピクチャーズ(제작), ガオ・ボー(감독)",
+      "year": 2018,
+      "country": "중국",
+      "setting": "사고를 당한 현대의 수련의가 옛 중국풍의 가상 나라로 떨어져, 좋아하던 가수를 닮은 황제를 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pipuru_harada",
+      "orig": "ぴぷる",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "原田まりる 소설 (ダ・ヴィンチ 2018 연재, KADOKAWA 2019) · WOWOW 드라마 (2020)",
+      "by": "原田まりる",
+      "year": 2018,
+      "country": "일본",
+      "setting": "인공지능과 결혼할 수 있는 법이 생긴 2036년, 서른한 살 남자가 미소녀 인공지능을 사서 결혼하려 한다.",
+      "concepts": [
+        "ai",
+        "machine_rights"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「人工知能を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "todome_no_kiss",
+      "orig": "トドメの接吻",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 10부작 (2018) · 훌루 외전",
+      "by": "いずみ吉紘(각본), 菅原伸太郎(연출), 日本テレビ",
+      "year": 2018,
+      "country": "일본",
+      "setting": "돈만 믿는 호스트가 수수께끼 여자의 입맞춤에 죽을 때마다 7일 전으로 되돌아간다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bushi_stunt_aisaka_kun",
+      "orig": "武士スタント逢坂くん!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "ヨコヤマノブオ 만화 (ビッグコミックスピリッツ, 2019~2021) · 닛폰 TV 드라마 (2021)",
+      "by": "ヨコヤマノブオ",
+      "year": 2019,
+      "country": "일본",
+      "setting": "에도 시대의 무사가 레이와 시대로 건너와 만화 그리기에 뛰어드는 SF 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chosinseong_xgarion",
+      "orig": "초신성 특공대 엑스가리온",
+      "orig_en": "",
+      "ko": "초신성 특공대 엑스가리온",
+      "ko_src": "나무위키 문서 「엑스가리온」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "투니버스 44부작 (2019~2020)",
+      "by": "초록뱀미디어(제작)",
+      "year": 2019,
+      "country": "한국",
+      "setting": "신비한 짐승들에게 힘을 받은 전사들이 지구를 습격한 악의 군단에 맞서는 어린이 특촬.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jk_kara_yarinaosu_silver_plan",
+      "orig": "JKからやり直すシルバープラン",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "林達永 원작·李惠成 그림 만화 (2019~) · 테레비 도쿄 드라마 (2021)",
+      "by": "林達永(원작), 李惠成(그림)",
+      "year": 2019,
+      "country": "일본",
+      "setting": "모든 것을 잃고 노숙자가 된 명문가 딸이 여고생 시절로 돌아가 인생을 다시 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kiss_six_sense",
+      "orig": "키스 식스 센스",
+      "orig_en": "",
+      "ko": "키스 식스 센스",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「第六感之吻」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "네이버 시리즈 웹소설 (2019) · 디즈니+ 드라마 (2022)",
+      "by": "全有利(극본)",
+      "year": 2019,
+      "country": "한국",
+      "setting": "입을 맞추면 상대의 앞날이 보이는 능력을 지닌 여자가 그 능력 탓에 사랑에 휘말린다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科學奇幻電視劇」 · 중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「韓國科幻劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nuni_busige",
+      "orig": "눈이 부시게",
+      "orig_en": "The Light in Your Eyes",
+      "ko": "눈이 부시게",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「耀眼」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "JTBC 12부작 (2019)",
+      "by": "金鉐潤(연출), 李楠圭·金秀珍(극본)",
+      "year": 2019,
+      "country": "한국",
+      "setting": "아버지를 구하려고 시간을 되돌린 대가로 자기 시간을 몽땅 잃고 한순간에 늙어 버린 여자의 이야기.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "paripi_koumei",
+      "orig": "パリピ孔明",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "四葉夕卜 원작·小川亮 그림 만화 (2019~) · 애니메이션 (2022) · 후지TV 드라마 (2023)",
+      "by": "四葉夕卜(원작), 小川亮(그림)",
+      "year": 2019,
+      "country": "일본",
+      "setting": "오장원에서 죽은 제갈량이 젊은 몸으로 현대 시부야에 다시 태어나 무명 가수의 군사가 된다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "qing_yu_nian",
+      "orig": "庆余年",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "猫腻 의 웹소설(起点中文网) · 드라마 1시즌 (2019)·2시즌 (2024) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "猫腻(원작), 孙皓(감독), 王倦(극본), 新丽传媒",
+      "year": 2019,
+      "country": "중국",
+      "setting": "출생이 수수께끼인 소년이 남경 도성의 세력 다툼 속에서 이 세계에 숨은 비밀을 알게 되는 가상 역사 무협.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "중국어 위키백과 분류 「中國時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "scis_kagaku_hanzai",
+      "orig": "SCIS 科学犯罪捜査班",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "中村啓 소설 시리즈 (光文社, 2019~) · 닛폰 TV 드라마 『パンドラの果実〜科学犯罪捜査ファイル〜』 (2022)",
+      "by": "中村啓",
+      "year": 2019,
+      "country": "일본",
+      "setting": "첨단 과학이 낳은 범죄를 맡은 '과학 범죄 대책실' 실장과 천재 과학자가 사건을 푼다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "seishun_cinderella",
+      "orig": "青春シンデレラ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "夕のぞむ 만화 (マンガMee, 2019~2020) · 아사히 방송 드라마 (2022)",
+      "by": "夕のぞむ",
+      "year": 2019,
+      "country": "일본",
+      "setting": "첫사랑에게 차인 상처를 안은 27세 미용 상담원이 속은 그대로 열일곱 살 시절로 돌아간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "welcome_2_life",
+      "orig": "웰컴2라이프",
+      "orig_en": "Welcome 2 Life",
+      "ko": "웰컴2라이프",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「Welcome 2 Life」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBC 32부작 (2019)",
+      "by": "金根洪(연출), 柳熙京(극본)",
+      "year": 2019,
+      "country": "한국",
+      "setting": "법의 빈틈만 노리던 변호사가 사고로 평행 세계에 빨려 들어가 강직한 검사로 살게 된다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yakusoku_no_stage",
+      "orig": "約束のステージ 〜時を駆けるふたりの歌〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV 개국 60년 특집 드라마 (2019)",
+      "by": "徳永友一(각본), 佐々部清(감독)",
+      "year": 2019,
+      "country": "일본",
+      "setting": "가수의 꿈을 접으려던 소녀가 1975년의 도쿄로 떨어져 같은 꿈을 꾸는 소녀와 노래 경연에 나선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gojuuroku_nenme_no_shitsuren",
+      "orig": "56年目の失恋",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK BS 특집 드라마 (2020)",
+      "by": "戸田幸宏(각본·연출), NHK",
+      "year": 2020,
+      "country": "일본",
+      "setting": "2020년의 견습 요리사가 흔들린 엘리베이터에서 내리자 1964년 도쿄이고, 그 시대 요리사와 만난다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "inseki_kazoku",
+      "orig": "隕石家族",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "도카이 TV·후지TV 「オトナの土ドラ」 (2020)",
+      "by": "小松江里子(원작·각본)",
+      "year": 2020,
+      "country": "일본",
+      "setting": "운석 충돌이 예고된 다른 세계의 도쿄에서, 남은 150일을 보내는 한 가족의 희극.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のロマンティック・コメディSFドラマ」 · 일본어 위키백과 분류 「パラレルワールドを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jebal_geu_namja",
+      "orig": "제발 그 남자 만나지 마요",
+      "orig_en": "Please Don't Date Him",
+      "ko": "제발 그 남자 만나지 마요",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Please Don't Date Him」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBC every1 10부작 (2020~2021)",
+      "by": "Oh Mi-kyeong(연출), Corner Stone Pictures",
+      "year": 2020,
+      "country": "한국",
+      "setting": "말로 부리는 인공지능 냉장고를 만드는 가전 개발자가 프로그램 같은 완벽한 삶을 꿈꾼다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean science fiction television series」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kanakana_nishimori",
+      "orig": "カナカナ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "西森博之 만화 (週刊少年サンデーS, 2020~2023) · NHK 夜ドラ (2022)",
+      "by": "西森博之",
+      "year": 2020,
+      "country": "일본",
+      "setting": "남의 속마음이 들리는 소녀를 맡게 된 험상궂지만 착한 전직 불량배의 동거 이야기.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "manatsu_no_shounen_19452020",
+      "orig": "真夏の少年〜19452020",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 8부작 (2020)",
+      "by": "樋口卓治 외(각본), 及川拓郎 외(감독)",
+      "year": 2020,
+      "country": "일본",
+      "setting": "1945년의 젊은 군인이 2020년 시골 마을에 나타나 말썽꾸러기 고교생들과 한여름을 보낸다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ooedo_steampunk",
+      "orig": "大江戸スチームパンク",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 오사카 심야 10화 (2020)",
+      "by": "酒井善史(원안·각본), 筧昌也 외(감독), ヨーロッパ企画",
+      "year": 2020,
+      "country": "일본",
+      "setting": "에도와 닮았지만 전혀 다른 '대에도'에서 강화복 영웅과 비밀 결사가 엮이는 SF 희극 시대극.",
+      "concepts": [
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "rekishi_meikyuu_dasshutsu",
+      "orig": "歴史迷宮からの脱出〜リアル脱出ゲーム×テレビ東京〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 도쿄 「ドラマ25」 시청자 참여극 (2020)",
+      "by": "土屋亮一(각본), 及川拓郎(감독)",
+      "year": 2020,
+      "country": "일본",
+      "setting": "미래의 사이버 테러범이 고친 역사를 되돌리려 여고생이 동급생과 시간을 넘으며 암호를 푼다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "sedai_wars",
+      "orig": "SEDAI WARS",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBS·TBS 「ドラマイズム」 (2020)",
+      "by": "横手美智子(극본), 坂本浩一(감독), バンダイナムコアーツ(원작)",
+      "year": 2020,
+      "country": "일본",
+      "setting": "모든 불만을 다른 세대 탓으로 돌리며 무질서에 빠진 가까운 미래 일본을 그린 기술 스릴러.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_game_0si",
+      "orig": "더 게임: 0시를 향하여",
+      "orig_en": "",
+      "ko": "더 게임: 0시를 향하여",
+      "ko_src": "원제(한국 작품) — 일본어 위키백과 「ザ・ゲーム〜午前0時:愛の鎮魂歌〜」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBC 32부작 (2020)",
+      "by": "李智孝(극본), MBC",
+      "year": 2020,
+      "country": "한국",
+      "setting": "눈을 보면 그 사람이 죽는 순간이 보이는 남자가 형사와 함께 연쇄 살인의 비밀을 쫓는다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」 · 중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(일본어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "train_ocn",
+      "orig": "트레인",
+      "orig_en": "",
+      "ko": "트레인",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「Train (電視劇)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "OCN 12부작 (2020)",
+      "by": "柳勝真(연출), 朴價娫(극본)",
+      "year": 2020,
+      "country": "한국",
+      "setting": "소중한 사람을 잃은 형사가 진실을 찾아 서로 다른 두 세계를 오간다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "yonjuu_man_km_kanata",
+      "orig": "40万キロかなたの恋",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 도쿄 「ドラマ24」 특별편 4회 (2020)",
+      "by": "玉田真也(각본), 椿本慶次郎(감독)",
+      "year": 2020,
+      "country": "일본",
+      "setting": "달 궤도 우주선에 1년째 머무는 우주 비행사가 '지구는 살 곳이 아니'라며 귀환을 꺼린다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「人工知能を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zombie_detective_kbs",
+      "orig": "좀비탐정",
+      "orig_en": "",
+      "ko": "좀비탐정",
+      "ko_src": "나무위키 문서 「좀비탐정」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 12부작 (2020)",
+      "by": "심재현(연출), 백은진(극본), 래몽래인",
+      "year": 2020,
+      "country": "한국",
+      "setting": "기억을 잃고 되살아난 좀비가 탐정 일을 하며 사건을 맡고 자기 과거를 쫓는 희극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:좀비 드라마",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dark_hole_ocn",
+      "orig": "다크홀",
+      "orig_en": "",
+      "ko": "다크홀",
+      "ko_src": "나무위키 문서 「다크홀(드라마)」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "OCN·tvN 12부작 (2021) · 웹툰 외전",
+      "by": "김봉주(연출), 정이도(극본)",
+      "year": 2021,
+      "country": "한국",
+      "setting": "땅꺼짐 구멍에서 나온 검은 연기를 마신 사람들이 난폭한 변종이 되고, 남은 이들이 버틴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:좀비 드라마",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gifted_amagi",
+      "orig": "ギフテッド",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "天樹征丸 원작·雨宮理真 그림 만화 (なかよし, 2022~) · 도카이 TV·WOWOW 드라마 (2023~)",
+      "by": "天樹征丸(원작), 雨宮理真(그림)",
+      "year": 2021,
+      "country": "일본",
+      "setting": "누가 사람을 죽였는지가 보이는 고교생과 경시청의 젊은 형사가 짝을 이뤄 사건을 푼다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "happiness_tvn",
+      "orig": "해피니스",
+      "orig_en": "",
+      "ko": "해피니스",
+      "ko_src": "나무위키 문서 「해피니스(드라마)」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "tvN 12부작 (2021) · 웹툰 외전",
+      "by": "안길호(연출), 한상운(극본), 스튜디오드래곤",
+      "year": 2021,
+      "country": "한국",
+      "setting": "감염병이 일상이 된 가까운 미래, 봉쇄된 새 아파트에서 광인병과 층간 계급 다툼이 번진다.",
+      "concepts": [
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:좀비 드라마",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hashtag_cold_game",
+      "orig": "#コールドゲーム",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "도카이 TV·후지TV 「オトナの土ドラ」 8화 (2021)",
+      "by": "小松江里子(원작·각본)",
+      "year": 2021,
+      "country": "일본",
+      "setting": "영하 45도의 빙하기가 된 지구, 사기꾼 여자가 피난소에서 살아남으려 남들과 가짜 가족을 꾸린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「文明崩壊後の世界が描かれたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hyouchakusha",
+      "orig": "漂着者",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 금요 심야 드라마 9회 (2021)",
+      "by": "秋元康(기획·원작·각본), テレビ朝日",
+      "year": 2021,
+      "country": "일본",
+      "setting": "바닷가에 알몸으로 떠밀려 온 기억 잃은 남자 '헤밍웨이' 둘레에서 기이한 사건이 잇따른다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kimi_ga_kemono_ni_naru_mae_ni",
+      "orig": "君が獣になる前に",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "さの隆 만화 (週刊ヤングマガジン, 2021~2023) · 테레비 도쿄 드라마 (2024)",
+      "by": "さの隆",
+      "year": 2021,
+      "country": "일본",
+      "setting": "장의사 직원이 시간을 거슬러, 소꿉친구인 젊은 여배우와 얽힌 테러를 막으려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "meguru_mirai",
+      "orig": "めぐる未来",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "辻やもり 만화 (週刊漫画TIMES, 2021~2023) · 요미우리 TV 드라마 (2024)",
+      "by": "辻やもり",
+      "year": 2021,
+      "country": "일본",
+      "setting": "감정이 크게 흔들리면 과거로 날아가는 병을 지닌 남편이 아내를 노리는 죽음을 막으려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」 · 일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "again_my_life_kr",
+      "orig": "어게인 마이 라이프",
+      "orig_en": "Again My Life",
+      "ko": "어게인 마이 라이프",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Again My Life」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "카카오페이지 웹소설·웹툰 · SBS 16부작 (2022) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "Lee Hae-nal(원작 웹소설), Han Chul-soo, Kim Yong-min(연출)",
+      "year": 2022,
+      "country": "한국",
+      "setting": "거물 정치인을 쫓다 살해당한 젊은 검사가 과거의 자신으로 돌아가 다시 정의를 좇는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」 · 중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bushi_ga_mac_de_tenin",
+      "orig": "武士が、マックで店員になった件。",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "간사이 TV 심야 (2022)",
+      "by": "筧昌也(각본·감독), 関西テレビ",
+      "year": 2022,
+      "country": "일본",
+      "setting": "오다 노부나가를 섬기던 무사가 시간을 넘어 현대 햄버거 가게의 점원이 되는 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "choutokkyuu_chikyuu_wo_sukue",
+      "orig": "超特急、地球を救え。",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 도쿄 심야 모큐멘터리 (2022)",
+      "by": "大歳倫弘·松本花奈(각본), 松本花奈·山元環(감독)",
+      "year": 2022,
+      "country": "일본",
+      "setting": "새 체제를 앞두고 고민하던 아이돌 그룹 멤버들이 수수께끼의 소녀에게 2088년으로 불려 간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "good_job_ena",
+      "orig": "굿잡",
+      "orig_en": "Good Job",
+      "ko": "굿잡",
+      "ko_src": "원제(한국 작품) — 일본어 위키백과 「グッジョブ (テレビドラマ)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "ENA (2022)",
+      "by": "カン・ミング·キム・ソンジン(연출), KT Studio Genie",
+      "year": 2022,
+      "country": "한국",
+      "setting": "재벌과 탐정의 이중생활을 하는 남자와 남다른 눈을 지닌 여자가 함께 사건을 쫓는 연애 수사극.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(일본어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "jaebeoljip_magnaeadeul",
+      "orig": "재벌집 막내아들",
+      "orig_en": "Reborn Rich",
+      "ko": "재벌집 막내아들",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Reborn Rich」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "웹소설 · JTBC 16부작 (2022) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "San Gyung(원작 웹소설), Jung Dae-yoon(연출), Kim Tae-hee(극본)",
+      "year": 2022,
+      "country": "한국",
+      "setting": "재벌가에 충성하다 살해당한 직원이 그 집안 막내아들로 다시 태어나 집안을 삼키려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」 · 중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "juunanasai_no_teikoku",
+      "orig": "17才の帝国",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 토요 드라마 (2022)",
+      "by": "吉田玲子(각본), NHK",
+      "year": 2022,
+      "country": "일본",
+      "setting": "몰락해 가는 202X년 일본에서, 인공지능의 도움을 받는 열일곱 살 소년이 실험 도시를 다스린다.",
+      "concepts": [
+        "ai",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「人工知能を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kaden_samurai",
+      "orig": "家電侍",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "BS쇼치쿠토큐 토요 드라마 (2022)",
+      "by": "濱谷晃一(원안), 西古屋竜太(감독)",
+      "year": 2022,
+      "country": "일본",
+      "setting": "벼락 맞은 신사에서 말하는 태블릿을 주운 가난한 낭인이 미래의 가전으로 처자식의 살림을 돕는다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mattari_akadou_suzunosuke",
+      "orig": "まったり!赤胴鈴之助",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 오사카·BS텔레토 심야 12화 (2022) — 武内つなよし 만화 『赤胴鈴之助』 바탕",
+      "by": "村上大樹 외(각본), 守屋健太郎 외(감독)",
+      "year": 2022,
+      "country": "일본",
+      "setting": "중년이 된 소년 검사 아카도 스즈노스케가 시간을 넘어 레이와 일본에 떨어져 숙적과 다시 맞선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mirai_no_musuko",
+      "orig": "未来のムスコ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "阿相クミコ·黒麦はぢめ 웹만화 (2022~) · TBS 드라마 (2026)",
+      "by": "阿相クミコ(원작), 黒麦はぢめ(그림)",
+      "year": 2022,
+      "country": "일본",
+      "setting": "10년째 짝을 못 찾던 여자 앞에, 미래에서 왔다는 어린 아들이 하늘에서 떨어진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本時間旅行題材電視劇」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ni_de_hun_yin_bu_shi",
+      "orig": "你的婚姻不是你的婚姻",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "公視 선집 (2022) — 첫 단원 『聖筊』 등 다섯 단원",
+      "by": "公視, 徐漢強(첫 단원 감독)",
+      "year": 2022,
+      "country": "대만",
+      "setting": "부부 사이에 신기한 발명품이 끼어들며 믿음과 사랑을 시험하는 단원극.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「你的婚姻不是你的婚姻」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "non_rem_no_mado",
+      "orig": "ノンレムの窓",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 심야 단편 선집 (2022~)",
+      "by": "日本テレビ",
+      "year": 2022,
+      "country": "일본",
+      "setting": "깊은 잠의 경계처럼 현실과 비현실이 엇갈리는 짧은 이야기들을 두세 편씩 묶은 선집.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本科幻劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "octo_kanjou_sousakan",
+      "orig": "オクトー〜感情捜査官 心野朱梨〜",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV 목요 드라마 (2022~)",
+      "by": "三浦駿斗 외(각본), 読売テレビ",
+      "year": 2022,
+      "country": "일본",
+      "setting": "사람의 감정이 '색'으로 보이는 형사가 엘리트 출신 형사와 짝을 이뤄 범인의 동기를 읽는다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "shuukatsu_time_capsule",
+      "orig": "就活タイムカプセル",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 특집 드라마 (2022)",
+      "by": "山田能龍·高島麻利央(각본), TBS",
+      "year": 2022,
+      "country": "일본",
+      "setting": "취업에 연전연패하던 대학생이 파낸 타임캡슐로 10년 뒤의 자신과 편지를 주고받는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "brush_up_life",
+      "orig": "ブラッシュアップライフ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 10부작 (2023)",
+      "by": "バカリズム(각본), 水野格 외(연출), 日本テレビ",
+      "year": 2023,
+      "country": "일본",
+      "setting": "교통사고로 죽은 시청 직원이 사후 세계 접수원의 말에 따라 기억을 지닌 채 같은 인생을 다시 산다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "city_lives_fuji",
+      "orig": "City Lives",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "후지TV 심야 3회 (2023)",
+      "by": "針谷大吾·小林洋介(원작·각본·감독), フジテレビ",
+      "year": 2023,
+      "country": "일본",
+      "setting": "사람의 기억을 읽어 도시로 꾸미고 들판을 떠도는 세계 최대의 생물 '가(街)'를 다룬 가짜 다큐멘터리.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eojjeoda_majuchin_geudae",
+      "orig": "어쩌다 마주친, 그대",
+      "orig_en": "My Perfect Stranger",
+      "ko": "어쩌다 마주친, 그대",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「My Perfect Stranger」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "KBS 2TV 16부작 (2023)",
+      "by": "Kang Soo-yeon, Lee Woong-hee(연출), Baek So-yeon(극본), Arc Media",
+      "year": 2023,
+      "country": "한국",
+      "setting": "연쇄 살인의 진실을 쫓는 남자와 부모의 결혼을 막으려는 여자가 1987년에 함께 갇힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nanojeonsa_rokapa",
+      "orig": "나노전사 로카파",
+      "orig_en": "",
+      "ko": "나노전사 로카파",
+      "ko_src": "나무위키 문서 「나노전사 로카파」(원제)",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "OTT 공개 특촬 13부작 (2023, 왓챠·티빙·웨이브)",
+      "by": "최성덕(감독·제작), 초이스 랜드",
+      "year": 2023,
+      "country": "한국",
+      "setting": "사람 몸속을 파고드는 바이러스에 맞서 아주 작은 전사들이 몸 안에서 싸우는 어린이 특촬.",
+      "concepts": [
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "나무위키 분류:한국 특촬물",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(나무위키)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pending_train",
+      "orig": "ペンディングトレイン-8時23分、明日 君と",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 10부작 (2023)",
+      "by": "金子ありさ(각본), TBS",
+      "year": 2023,
+      "country": "일본",
+      "setting": "지진 경보 뒤 섬광과 함께 열차 한 칸이 승객 68명을 태운 채 황폐한 먼 미래로 건너간다.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 일본어 위키백과 분류 「文明崩壊後の世界が描かれたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "saikou_no_kyoushi",
+      "orig": "最高の教師 1年後、私は生徒に■された",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "닛폰 TV 토요 드라마 10부작 (2023)",
+      "by": "鈴木勇馬·二宮崇(연출), 日本テレビ",
+      "year": 2023,
+      "country": "일본",
+      "setting": "졸업식 날 반 학생에게 떠밀려 죽은 교사가 1년 전으로 돌아가, 범인일지 모를 서른 명과 다시 마주한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本時間旅行題材電視劇」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "wanbyeokhan_gyeolhonui_jeongseok",
+      "orig": "완벽한 결혼의 정석",
+      "orig_en": "Perfect Marriage Revenge",
+      "ko": "완벽한 결혼의 정석",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Perfect Marriage Revenge」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "웹소설·웹툰 · MBN 12부작 (2023) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "Lee Beom-bae(원작), Oh Sang-won(연출), Im Seo-ra(극본)",
+      "year": 2023,
+      "country": "한국",
+      "setting": "부잣집 입양 딸로 냉대받으며 살던 여자가 시간을 거슬러 다시 기회를 얻고 복수를 꾀한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "eye_love_you_tbs",
+      "orig": "Eye Love You",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 10부작 (2024)",
+      "by": "三浦希紗·山下すばる(각본), TBS",
+      "year": 2024,
+      "country": "일본",
+      "setting": "눈을 보면 상대의 속마음이 들리는 여자가, 마음의 소리를 알아듣지 못할 한국인 유학생과 사랑에 빠진다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」 · 중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hero_neun_animnida_man",
+      "orig": "히어로는 아닙니다만",
+      "orig_en": "",
+      "ko": "히어로는 아닙니다만",
+      "ko_src": "원제(한국 작품) — 일본어 위키백과 「ヒーローではないけれど」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "JTBC 12부작 (2024)",
+      "by": "趙賢卓(연출), 朱和美(극본)",
+      "year": 2024,
+      "country": "한국",
+      "setting": "현대인의 흔한 병 탓에 저마다 능력을 잃은 초능력자 가족 앞에 한 여자가 나타난다.",
+      "concepts": [
+        "psionics",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「超能力を題材としたテレビドラマ」 · 중국어 위키백과 분류 「超能力題材電視劇」 · 중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(일본어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "messou_mo_nai",
+      "orig": "滅相も無い",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "MBS 「ドラマイズム」 (2024)",
+      "by": "加藤拓也(각본·감독), 毎日放送",
+      "year": 2024,
+      "country": "일본",
+      "setting": "일본 도심에 거대한 '구멍' 일곱 개가 나타나고, 들어간 사람은 아무도 돌아오지 않는다.",
+      "concepts": [
+        "forbidden_zone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFテレビドラマ」 · 일본어 위키백과 분류 「文明崩壊後の世界が描かれたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mirai_no_watashi_ni",
+      "orig": "未来の私にブッかまされる!?",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "NHK 夜ドラ (2024)",
+      "by": "大池容子·山田百次(각본), NHK",
+      "year": 2024,
+      "country": "일본",
+      "setting": "프러포즈 직전의 시청 직원 앞에 '30년 뒤의 나'라는 아저씨가 나타나 인생을 바꾸려 든다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nae_nampyeongwa_gyeolhonhaejwo",
+      "orig": "내 남편과 결혼해줘",
+      "orig_en": "Marry My Husband",
+      "ko": "내 남편과 결혼해줘",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Marry My Husband」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "웹소설·웹툰 · tvN 16부작 (2024) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "Sung So-jak(원작 웹소설), Park Won-guk, Han Jin-seon(연출), Shin Yoo-dam(극본)",
+      "year": 2024,
+      "country": "한국",
+      "setting": "남편과 친구의 배신 끝에 죽은 여자가 2013년의 자신으로 돌아가 운명을 그들에게 넘기려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "heo_sikdang",
+      "orig": "허식당",
+      "orig_en": "Heo's Diner",
+      "ko": "허식당",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Heo's Diner」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "웹소설 · 넷플릭스·웨이브 10부작 (2025) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "Jeon Seon-yeong(원작 웹소설), Oh Hwan-min, Kim Kyung-eun(연출)",
+      "year": 2025,
+      "country": "한국",
+      "setting": "조선의 허균이 뜻밖에 400년 뒤로 건너와 식당을 차리는 희극.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean television series about time travel」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ichijigen_no_sashiki",
+      "orig": "一次元の挿し木",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "松下龍之介 소설 (宝島社, 2025, 『このミステリーがすごい!』 대상 문고 그랑프리) · 요미우리 TV 드라마 (2026)",
+      "by": "松下龍之介",
+      "year": 2025,
+      "country": "일본",
+      "setting": "유전 인류학을 배우는 대학원생이 4년 전 사라진 의붓 여동생의 흔적을 쫓다 큰 비밀에 닿는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「クローンを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "saam_ming",
+      "orig": "三命",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "ViuTV 12부작 (2025)",
+      "by": "杜琪峯·游乃海(監製), 李子俊·張家傑·黃偉傑(감독), 銀河映像",
+      "year": 2025,
+      "country": "홍콩",
+      "setting": "1960년 홍콩에서 태어난 한 남자가 만화가·공무원·조직원으로 갈린 세 갈래의 삶을 산다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chi_re_xi_yin",
+      "orig": "炽热吸引",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "優酷 웹 짧은 드라마 40부작 (2026)",
+      "by": "陳家杰(감독), 石冰心·陳汶雍·張紫微(극본)",
+      "year": 2026,
+      "country": "중국",
+      "setting": "사람을 갈래로 나누는 친화 바이러스가 퍼진 세상, 감염자 사건 속에서 두 남녀가 서로에게 끌린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「科幻电视剧」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "doctor_shin_tvchosun",
+      "orig": "닥터신",
+      "orig_en": "",
+      "ko": "닥터신",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「申醫生」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TV조선 주말 드라마 (2026)",
+      "by": "Phoebe(극본), TV朝鮮",
+      "year": 2026,
+      "country": "한국",
+      "setting": "신의 영역에 도전하는 외과의가 사고로 뇌가 멈춘 여배우를 사랑하게 되는 기묘한 의학 스릴러.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國科幻劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "fu_qi_de_bo_yi",
+      "orig": "夫妻的博弈",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "優酷·TVB 25부작 (2026)",
+      "by": "鍾澍佳(총감수), 黃國輝(監製), TVB·優酷",
+      "year": 2026,
+      "country": "홍콩",
+      "setting": "남편과 단짝에게 살해당한 여자가 5년 전으로 돌아가, 미래에서 가져온 앞일의 지식으로 다시 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "iroha_no_koi",
+      "orig": "いろはの恋は時代をかける",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "TBS 화요 드라마 (2026~)",
+      "by": "長田育恵(각본), TBS",
+      "year": 2026,
+      "country": "일본",
+      "setting": "에도 시대 중기 파발꾼 집 딸의 혼이 시간을 건너와 레이와 시대 초등학교 교사의 몸에 깃든다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」 · 중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kimi_ga_shikei_ni_naru_mae_ni",
+      "orig": "君が死刑になる前に",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "요미우리 TV 10부작 (2026)",
+      "by": "森迅史·武田雄樹(각본), 讀賣電視台",
+      "year": 2026,
+      "country": "일본",
+      "setting": "대학 동아리 친구 셋이 7년 전인 2019년으로 돌아가, 의혹 속 사형수 사건의 진실을 쫓는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本時間旅行題材電視劇」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "love_phobia_kr",
+      "orig": "러브 포비아",
+      "orig_en": "Love Phobia",
+      "ko": "러브 포비아",
+      "ko_src": "원제(한국 작품) — 영어 위키백과 「Love Phobia (TV series)」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "U+모바일tv·라이프타임 8부작 (2026)",
+      "by": "Wang Hye-ryeong(연출), Lee Se-ryeong(극본), WeMad",
+      "year": 2026,
+      "country": "한국",
+      "setting": "사람과 한 시간 넘게 가까워지지 못하는 인공지능 연애 앱 대표가 앱 개발에 매달리다 사랑과 부딪힌다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 분류 「South Korean science fiction television series」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(영어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "meotjin_sinsegye_sbs",
+      "orig": "멋진 신세계",
+      "orig_en": "",
+      "ko": "멋진 신세계",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「我的王室死對頭」",
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "SBS 금토 드라마 (2026)",
+      "by": "韓兌燮(연출), 姜炫珠(극본)",
+      "year": 2026,
+      "country": "한국",
+      "setting": "조선 시대 최악의 요부가 21세기로 건너와 무명 여배우의 몸에 깃들어 괴팍한 재벌과 부딪힌다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「韓國時間旅行題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "nareul_chungjeonhaejwo",
+      "orig": "나를 충전해줘",
+      "orig_en": "",
+      "ko": "나를 충전해줘",
+      "ko_src": "원제(한국 작품) — 중국어 위키백과 「戀愛充電中」",
+      "media": [
+        "소설",
+        "드라마"
+      ],
+      "first_medium": "소설",
+      "series": "웹소설 · 넷플릭스 드라마 (2026) — 원작의 처음 해는 확인 못 함(해 칸은 드라마 해)",
+      "by": "朴秀元(연출), 宋有彩(극본)",
+      "year": 2026,
+      "country": "한국",
+      "setting": "인공 심장 배터리가 바닥나 가는 재벌 3세가 몸에 전기가 흐르는 작가 곁에서만 충전된다는 걸 알게 된다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「超能力題材電視劇」",
+      "korean": {
+        "status": "한국 원작",
+        "detail": "한국 작품(중국어 위키백과)",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "otto_wo_koroshita_hazu",
+      "orig": "夫を殺したはずなのに",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "드라마"
+      ],
+      "first_medium": "만화",
+      "series": "赤石真菜 원작·デジタル職人 그림 만화 (LINEマンガ, 2026~) · 테레비 도쿄 드라마 (2026)",
+      "by": "赤石真菜(원작), デジタル職人(그림)",
+      "year": 2026,
+      "country": "일본",
+      "setting": "남편의 불륜을 알고 남편과 상대를 죽인 여자가 어째선지 과거로 되감기며 죽음의 고리를 되풀이한다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「タイムループを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "reborn_saigo_no_hero",
+      "orig": "リボーン ～最後のヒーロー～",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 9부작 (2026)",
+      "by": "橋本裕志(각본), 藤田明二 외(감독), テレビ朝日",
+      "year": 2026,
+      "country": "일본",
+      "setting": "냉혹하다는 소리를 듣던 IT 기업 사장이 다른 사람으로 다시 태어나 서민 동네 상점가에서 새 삶을 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「日本時間旅行題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "terminator_to_koi",
+      "orig": "ターミネーターと恋しちゃったら",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 토요 드라마 (2026)",
+      "by": "関えり香(각본), 宮田和弥 외(감독), テレビ朝日",
+      "year": 2026,
+      "country": "일본",
+      "setting": "소녀 만화 편집자 앞에 400년 뒤 미래에서 보내진 안드로이드가 나타나 그녀를 지키겠다고 한다.",
+      "concepts": [
+        "android",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のロマンティック・コメディSFドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "time_travel_daddy",
+      "orig": "タイムトラベルダディ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "테레비 아사히 심야 (2026)",
+      "by": "上田誠(각본), 北野貴章(감독), テレビ朝日",
+      "year": 2026,
+      "country": "일본",
+      "setting": "홀로 남매를 키우는 아버지 앞에 미래의 자신이 나타나, 타임머신으로 같은 날을 거듭 다시 산다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "일본어 위키백과 분류 「日本のSFコメディドラマ」 · 일본어 위키백과 분류 「タイムトラベルを題材としたテレビドラマ」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "xiao_shi_de_lie_hen",
+      "orig": "消失的裂痕",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마"
+      ],
+      "first_medium": "드라마",
+      "series": "넷플릭스·빌리빌리 6부작 (2026)",
+      "by": "張亨如(감독), 楊念純(극본), MakerVille",
+      "year": 2026,
+      "country": "대만",
+      "setting": "실종된 아들의 모습이 거울의 금 속에 비치자, 어머니가 그 단서를 쫓다 낯선 세계로 건너간다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "중국어 위키백과 분류 「平行世界題材電視劇」",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    }
+  ]
+}
