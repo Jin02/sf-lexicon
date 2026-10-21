@@ -1400,6 +1400,557 @@
       "refs": [
         "https://www.destinypedia.com/Long_Drift"
       ]
+    },
+    {
+      "id": "prison_of_elders",
+      "ko": "고대의 감옥",
+      "orig": "Prison of Elders",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Place·Destination 표 Prison of Elders→고대의 감옥(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "리프에 있는, 위험한 존재를 가두는 각성자의 감옥",
+      "note": "본래 몰락자 심판의 가문이 지은 감옥을 각성자가 차지해, 몰락자·군체·기갑단 같은 위험한 포로를 가두고 싸움터로도 썼다. 심판의 서기 바릭스가 오래 관리했으며, 포세이큰의 대탈옥이 이곳에서 벌어졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Prison_of_Elders"
+      ]
+    },
+    {
+      "id": "tangled_shore",
+      "ko": "뒤엉킨 해안",
+      "orig": "The Tangled Shore",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Place·Destination 표 The Tangled Shore→뒤엉킨 해안(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "소행성 조각을 얽어 붙인 리프 변두리의 무법지대",
+      "note": "부서진 소행성 덩어리를 금속으로 얽어 놓은 리프 가장자리 땅으로, 법이 닿지 않아 몰락자 범죄 조직과 무법자들이 모여든다. 경멸자 남작들이 이곳에 자리를 잡았고, 몰락자 두목 거미가 이곳을 쥐고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Tangled_Shore"
+      ]
+    },
+    {
+      "id": "praxic_order",
+      "ko": "실천의 세력",
+      "orig": "Praxic Order",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Record 표 Praxic Order's Finest→실천의 세력 최정예, Grimoire: The City—Praxic Order→마법서: 도시—실천의 세력(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "어둠과 금지된 것을 다루는 수호자를 감시하는 워록 조직",
+      "note": "도시가 세워질 때부터 어둠과 금지된 물건이 수호자 손에 들어가지 않게 막아 온 워록들의 조직이다. 어둠에 기운 수호자를 찾아내 재교육하거나 벌하지만, 선봉대의 칙령에 묶여 손을 쓰지 못할 때도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Praxic_Order"
+      ]
+    },
+    {
+      "id": "hidden",
+      "ko": "은신자",
+      "orig": "The Hidden",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Record 표 Shaper of the Hidden→은신자의 형성기(데스티니 로어 보관소 data/raw/_ui_pairs.json), 공식 한국어 로어 본문 59편이 '은신자'로 씀",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "워록 선봉대가 거느리는 도시의 비밀 첩보 조직",
+      "note": "아이코라 레이가 이끄는 첩보원들로, 태양계 곳곳에서 적과 수상한 인물을 몰래 살펴 보고한다. 요원들은 이름 대신 부호로 불리며, 그들이 주고받은 기밀 보고가 로어로 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/The_Hidden"
+      ]
+    },
+    {
+      "id": "dark_ether",
+      "ko": "암흑 에테르",
+      "orig": "Dark Ether",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: InventoryItemLite 표 Dark Ether Cane→암흑 에테르 줄기, Dark Ether Reaper→암흑 에테르 사신(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "어둠에 물들어 시체를 되살리는 검은 에테르",
+      "note": "몰락자의 생명줄인 에테르가 어둠에 물든 것으로, 흩어지지 않고 무겁게 깔리며 죽은 몸에 스며들어 그것을 다시 일으킨다. 피크룰이 이것으로 죽은 몰락자를 경멸자로 되살렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Dark_Ether"
+      ]
+    },
+    {
+      "id": "great_disaster",
+      "ko": "대참사",
+      "orig": "Great Disaster",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Record 표 Regarding the Great Disaster→대참사에 대해(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 대참사",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "달을 되찾으려던 수호자 수천이 크로타에게 죽은 싸움",
+      "note": "선봉대가 군체에게서 달을 되찾으려고 대군을 보냈다가 군체 왕자 크로타에게 수많은 수호자를 잃은 사건이다. 이 뒤 달은 수호자도 들어가지 못하는 금지 구역이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Great_Disaster"
+      ]
+    },
+    {
+      "id": "nightmare",
+      "ko": "악몽",
+      "orig": "Nightmare",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: ActivityMode 표 Nightmare Hunt→악몽 사냥, Record 표 Regarding Nightmares→악몽에 대해(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 악몽",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "기억과 상처에서 뽑아낸 옛 적과 죽은 이의 모습",
+      "note": "어둠의 피라미드가 사람의 기억과 상처를 끌어내 만들어 내는 존재로, 쓰러진 옛 적이나 잃은 동료의 모습을 하고 나타난다. 몸을 해치기보다 마음을 흔들어 주의를 돌리는 데 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Nightmare"
+      ]
+    },
+    {
+      "id": "lucent_hive",
+      "ko": "빛의 군체",
+      "orig": "Lucent Hive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Activity 표 LUCENT HIVE→빛의 군체(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "고스트가 빛의 운반자로 되살린 군체",
+      "note": "마녀 여왕 사바툰이 빛을 얻은 뒤, 그녀의 고스트가 부른 짝 없는 고스트들이 군체를 빛의 운반자로 되살려 생긴 무리다. 수호자처럼 죽어도 고스트가 되살려 주므로, 고스트를 부숴야만 끝낼 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Lucent_Brood"
+      ]
+    },
+    {
+      "id": "black_armory",
+      "ko": "검은 무기고",
+      "orig": "Black Armory",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Faction 표 The Black Armory→검은 무기고(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "빛에 기대지 않고 어둠과 싸우려던 무기 제작 조직",
+      "note": "붕괴 무렵 세워져 지구 곳곳의 대장간에서 무기를 만들던 비밀 조직이다. 수호자의 빛에 기대지 않고 인류 스스로 어둠과 싸우려 했으며, 오늘날에는 엑소 에이다-1이 그 유산을 잇는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Black_Armory"
+      ]
+    },
+    {
+      "id": "throne_world",
+      "ko": "왕좌 세계",
+      "orig": "Throne World",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Place 표 Court of Savathûn, Throne World→사바툰의 궁정, 왕좌 세계(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "군체의 신이 승천 차원에 지은 자기만의 세계",
+      "note": "강한 군체가 검의 논리로 힘을 쌓아 승천 차원 안에 지은 개인의 세계다. 물질 세계에서 몸이 죽어도 이 세계에서 다시 일어나므로, 그 주인을 끝내려면 왕좌 세계 안으로 쳐들어가야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Throne_World"
+      ]
+    },
+    {
+      "id": "techeun",
+      "ko": "테키언",
+      "orig": "Techeun",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Record 표 Techeun Force→테키언 부대, Techeun's Regalia→테키언의 예복(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "order"
+      ],
+      "one": "리프 각성자 여왕을 섬기는 신비 학문의 마녀들",
+      "note": "마라 소프가 리프를 세울 때 순수 과학 대신 신비의 논리를 다루라며 전권을 준 각성자 학자들이다. 꿈의 도시와 오라클 엔진을 짓는 일을 맡았고, 여왕의 계획을 가장 가까이에서 돕는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Techeun"
+      ]
+    },
+    {
+      "id": "vault_of_glass",
+      "ko": "유리 금고",
+      "orig": "Vault of Glass",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Activity·Record 표 Vault of Glass→유리 금고(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "time_loop"
+      ],
+      "one": "금성 지하에 있는, 시간 밖으로 이어진 벡스의 시설",
+      "note": "벡스가 시간과 공간을 넘나들며 쓰는 시설로, 안에 들어간 자가 시간 속에 갇히기도 한다. 강철 군주 시절의 화력팀이 들어갔다가 돌아오지 못한 사연이 여러 로어에 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Vault_of_Glass_(location)"
+      ]
+    },
+    {
+      "id": "oracle_engine",
+      "ko": "오라클 엔진",
+      "orig": "Oracle Engine",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Activity·Record 표 The Oracle Engine→오라클 엔진(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "precognition"
+      ],
+      "one": "꿈의 도시에서 앞날의 갈림을 묻는 각성자의 장치",
+      "note": "고대인이라는 알 수 없는 존재와 닿은 대스승의 몸이 무너진 자리에 생긴 특이점을 핵심으로 지었다. 여왕은 이것으로 다가올 일을 묻고, 수호자는 이것을 통해 여왕과 말을 나눈다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Oracle_Engine"
+      ]
+    },
+    {
+      "id": "deep_stone_crypt",
+      "ko": "딥스톤 무덤",
+      "orig": "Deep Stone Crypt",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Activity·Record 표 Deep Stone Crypt→딥스톤 무덤(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "유로파 얼음 아래 클로비스 브레이의 엑소 제작 시설",
+      "note": "황금기에 클로비스 브레이가 유로파에 세운 비밀 시설로, 엑소가 만들어진 자리다. 많은 엑소가 얼음 속 검은 탑을 꿈으로 되풀이해 본다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/Deep_Stone_Crypt"
+      ]
+    },
+    {
+      "id": "siva",
+      "ko": "SIVA",
+      "orig": "SIVA",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Collectible 표 SIVA Emergence→SIVA 출현, SIVA Projection→SIVA 투영(데스티니 로어 보관소 data/raw/_ui_pairs.json) — 한국어판도 영문 그대로 적는다",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "nanotech",
+        "self_replicate"
+      ],
+      "one": "황금기에 만든, 스스로 불어나는 건설용 나노 기계",
+      "note": "클로비스 브레이가 행성을 빠르게 짓고 고치려고 만든 나노 기계로, 붕괴 뒤 6번 현장에 봉인되었다. 암흑기에 강철 군주들이 이것을 찾아 나섰다가 대부분 목숨을 잃었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/SIVA"
+      ]
+    },
+    {
+      "id": "rite_of_proving",
+      "ko": "증명의 의식",
+      "orig": "Rite of Proving",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문: 로어북 「최전선에서」 제7편 등에서 Rite of Proving→증명의 의식(데스티니 로어 보관소 data/entries/ko.json·en.json 대조), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "기갑단이 다툼을 용사끼리의 결투로 가리는 옛 의식",
+      "note": "본래 이웃 사이의 분쟁을 전투로 가리던 재판으로, 칼루스 치세 뒤 정치에 더럽혀졌다. 카이아틀은 자발라의 제안을 받아 이 의식으로 선봉대와의 다툼을 끝내기로 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Rite_of_Proving"
+      ]
+    },
+    {
+      "id": "deepsight",
+      "ko": "심안",
+      "orig": "Deepsight",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Record·InventoryItemLite 표 Deepsight Detective→심안 탐정, Deepsight Weapon→심안 무기 등(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "물건에 남은 지난 기억을 읽어 내는 어둠의 능력",
+      "note": "사바툰의 성물과 피라미드 안에서 얻는 힘으로, 물건을 짚으면 그 물건에 얽힌 기억이 재생된다. 은신자 조사로는 보여 주는 기억은 참이지만, 오래 쓰면 마음을 다칠 위험이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Deepsight"
+      ]
+    },
+    {
+      "id": "savathuns_throne_world",
+      "ko": "사바툰의 왕좌 세계",
+      "orig": "Savathûn's Throne World",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Destination·Activity 표 Savathûn's Throne World→사바툰의 왕좌 세계(데스티니 로어 보관소 data/raw/_ui_pairs.json)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "other_realm"
+      ],
+      "one": "승천 차원에 지은 사바툰의 개인 세계",
+      "note": "군체 신은 승천 차원에 저마다 왕좌 세계를 짓는데, 사바툰의 것은 비밀과 기만으로 지은 세계다. 그 안에는 그녀의 기억을 보여 주는 반영의 제단이 숨어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Savath%C3%BBn's_Throne_World"
+      ]
+    },
+    {
+      "id": "cloudark",
+      "ko": "구름방주",
+      "orig": "CloudArk",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문: 영문 본문에 CloudArk 가 나오는 17편 모두 한국어판이 '구름방주'로 옮김(데스티니 로어 보관소 data/entries/ko.json·en.json, 로어북 「마지막 날」·「구름 질주자 유산」 등)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "simulation",
+        "mind_upload"
+      ],
+      "one": "네오무나 사람들이 정신을 올려 지내는 가상 세계",
+      "note": "해왕성의 도시 네오무나가 쓰는 초인과적 가상 공간으로, 처음엔 자료 보관용이었다가 사람이 놀고 살 수 있는 곳이 되었다. 피라미드 함대를 피해 봉쇄할 때 시민 대부분이 몸을 재우고 이곳으로 옮겨 갔다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/CloudArk"
+      ]
+    },
+    {
+      "id": "great_ahamkara_hunt",
+      "ko": "위대한 사냥",
+      "orig": "Great Ahamkara Hunt",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: 방어구 이름 Mask of the Great Hunt→위대한 사냥의 가면 등(데스티니 로어 보관소 data/glossary.json), 보관소 용어 사전 data/terms.json 의 Great Ahamkara Hunt→위대한 사냥",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "수호자들이 소원의 용 아함카라를 멸하려 벌인 사냥",
+      "note": "아함카라가 소원을 뒤틀어 사람을 해친다는 두려움 끝에 선봉대가 명하고 각성자가 거든 사냥이다. 살아남은 것은 리븐과 타라니스뿐이었고, 죽은 아함카라의 뼈는 속삭이는 물건으로 오래 남았다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Great_Ahamkara_Hunt"
+      ]
+    },
+    {
+      "id": "kepler",
+      "ko": "케플러",
+      "orig": "Kepler",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Destination·Activity 표 Kepler→케플러(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "태양계 바깥 오르트 구름에 있는 작은 천체",
+      "note": "황금기에 어떤 법칙으로도 설명되지 않는 천체로 발견되어 이름이 먼저 붙었고, 뒤에 아이온 계획 사람들이 건너가 식민지를 세웠다. 짙은 암흑 물질이 스며 있고, 그곳 사람들이 거룩한 이상 현상이라 받드는 중력의 특이점이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Kepler"
+      ]
+    },
+    {
+      "id": "aionian",
+      "ko": "아이오니언",
+      "orig": "Aionian",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: InventoryItemLite 표 Aionian Artifact→아이오니언 유물, SandboxPerk 표 Aionian→아이오니언(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 의 AION Initiative→아이오니언",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "케플러에 정착해 이상 현상을 연구하는 인류 집단",
+      "note": "황금기 아이온 계획의 후손으로, 붕괴로 지구와 끊긴 채 케플러에서 대를 이어 살아왔다. 관찰·가설·시험·반복의 과학 절차를 교리로 받들고, 케플러의 특이점을 신성한 이상 현상이라 부르며 섬긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Kepler"
+      ]
+    },
+    {
+      "id": "ishtar_collective",
+      "ko": "이슈타르 탐사단",
+      "orig": "Ishtar Collective",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문 표기 '이슈타르 탐사단'(데스티니 로어 보관소 data/entries/ko.json — 영문 Ishtar Collective 와 짝, 보관소 용어 사전 data/terms.json 의 대조 기록)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "금성의 벡스 유적을 연구한 황금기 과학 조직",
+      "note": "황금기에 금성에 학술원을 세우고 벡스 유적과 표본을 연구했다. 벡스가 연구진을 그대로 본뜬 모의 세계를 돌린다는 것을 알아냈고, 붕괴 때 일부 연구원이 해왕성으로 떠나 뒷날 네오무나가 된 도시를 세웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Ishtar_Collective"
+      ]
+    },
+    {
+      "id": "dredgen",
+      "ko": "드레젠",
+      "orig": "Dredgen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Collectible·InventoryItemLite 표 Dredgen's Descent→드레젠의 혈통, Record 표 Dredgen Disciple→드레젠 훈련 등(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "어둠으로 다른 수호자를 죽인 자들이 쓰는 칭호",
+      "note": "본래 빛의 길을 벗어나 어둠의 힘으로 동료 수호자를 영영 죽인 첫 무법자 요르와 그 무리를 부르던 낙인 같은 이름이다. 뒤에 기갑단 분파 바란트와 손잡은 한 사람이 이 옛말을 가져다 고통을 견뎌 힘을 얻은 자의 칭호로 뜻을 바꿔 썼다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Dredgen"
+      ]
+    },
+    {
+      "id": "shadows_of_yor",
+      "ko": "요르의 그림자",
+      "orig": "Shadows of Yor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문 — 영문에 Shadows of Yor 가 든 4편이 모두 '요르의 그림자'로 옮김(데스티니 로어 보관소 data/entries/ko.json·en.json 대조, 보관소 용어 사전 data/terms.json 도 같은 표기). 게임 화면 문자열에는 이름 일치 없음",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "드레젠 요르를 우러러 어둠의 힘을 좇는 수호자 무리",
+      "note": "드레젠 요르의 타락을 연구하던 수호자들이 드레젠 이름을 받아 이룬 무리로, 군체 문서에서 뽑은 계율을 따른다. 어둠에 끌리는 수호자들이 이 무리를 찾아오고, 황금 총을 든 이탈자가 이들을 사냥한다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Shadows_of_Yor"
+      ]
+    },
+    {
+      "id": "lighthouse",
+      "ko": "등대",
+      "orig": "Lighthouse",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: SandboxPerk 표 Lighthouse→등대(데스티니 로어 보관소 data/raw/_ui_pairs.json), 영문 본문에 Lighthouse 가 든 공식 한국어 로어 17편이 모두 '등대'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "수성에 선 벡스의 첨탑을 오시리스 교단이 부르는 이름",
+      "note": "벡스가 수성을 예측 기계로 바꾸며 세운 첨탑 가운데 하나로, 오시리스를 따르는 교단이 머물며 지켰다. 오시리스의 시험에서 한 판도 지지 않은 수호자만 이곳에 오를 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Lighthouse"
+      ]
+    },
+    {
+      "id": "cryptolith",
+      "ko": "비밀석탑",
+      "orig": "Cryptolith",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Activity 표 Cryptolith→비밀석탑, Call of the Cryptolith→비밀석탑의 부름(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "땅에서 자라나 속삭임으로 생명을 홀리는 군체의 탑",
+      "note": "뒤엉킨 해안 곳곳에 돋아난 살아 있는 군체 구조물로, 부숴도 몇 시간 만에 다시 자란다. 다가온 자의 정신을 속삭임으로 파고들어 군체의 괴물로 바꾸어 놓는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Cryptolith"
+      ]
+    },
+    {
+      "id": "house_of_salvation",
+      "ko": "구원의 가문",
+      "orig": "House of Salvation",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문 — 영문에 House of Salvation 이 든 5편이 모두 '구원의 가문'으로 옮김(데스티니 로어 보관소 data/entries/ko.json·en.json 대조, 「한때의 함선강탈자」 IX·X편 등). 게임 화면 문자열에는 이름 일치 없음",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "켈 에라미스가 유로파에서 어둠의 힘으로 세운 몰락자 가문",
+      "note": "옛 가문의 다툼을 버리고 하나의 켈 아래 모이자며 에라미스가 세운 가문으로, 유로파의 인류 시설 잔해 위에 새 도시를 지었다. 여행자를 버리고 피라미드에서 얻은 차가운 힘을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/House_of_Salvation"
+      ]
+    },
+    {
+      "id": "lubrae",
+      "ko": "루브라이",
+      "orig": "Lubrae",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: Collectible·Record·InventoryItemLite 표 Lubrae's Ruin→루브라이의 몰락(데스티니 로어 보관소 data/raw/_ui_pairs.json), 보관소 용어 사전 data/terms.json 도 같은 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "두 태양 아래 있던, 목격자의 첫 신봉자가 난 행성",
+      "note": "오래전 여행자가 들렀다 떠난 세계로, 그 기술을 받아들인 도시의 체제와 거부하고 떠도는 배회자로 갈라져 있었다. 루브라이 사람 룰크가 고향의 태양을 터뜨려 행성을 부쉈다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/Lubrae"
+      ]
+    },
+    {
+      "id": "shadow_legion",
+      "ko": "그림자 군단",
+      "orig": "Shadow Legion",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 화면 문자열: InventoryItemLite 표 Shadow Legion Orders→그림자 군단 명령, Collectible 표 Shadow Legion Entrance→그림자 군단 입장(데스티니 로어 보관소 data/raw/_ui_pairs.json), 공식 한국어 로어 본문(「소모」 등)도 같은 표기",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "칼루스가 목격자를 섬기며 거느린 어둠 쪽 기갑단 군세",
+      "note": "옛 기갑단 황제 칼루스가 목격자의 신봉자가 되어 모은 군대로, 어둠의 힘을 받은 기갑단 병사들로 이루어졌다. 빛의 추락 때 해왕성 네오무나를 쳤고 지구의 주민들을 붙잡아 가두기도 했다.",
+      "spoiler": true,
+      "refs": [
+        "https://www.destinypedia.com/Shadow_Legion"
+      ]
+    },
+    {
+      "id": "weapons_of_sorrow",
+      "ko": "슬픔의 무기",
+      "orig": "Weapons of Sorrow",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "공식 한국어 로어 본문(데스티니 로어 보관소 data/entries/ko.json): 영문 Weapons of Sorrow 가 든 편이 한국어로 '슬픔의 무기'와 짝(보관소 용어 사전 data/terms.json 의 대조)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "one": "군체의 마법으로 비뚤어져 쥔 자를 타락시키는 무기들",
+      "note": "사람이 만든 무기를 군체의 비술로 바꾼 것들로, 쥔 자를 점점 잔혹하게 만든다고 알려져 금지되었다. 그래도 사본이 수호자들의 손에까지 흘러들었다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.destinypedia.com/Weapons_of_Sorrow"
+      ]
     }
   ]
 }
