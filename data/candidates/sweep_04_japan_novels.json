@@ -1,0 +1,8363 @@
+{
+ "group": "sweep_04_japan_novels",
+ "candidates": [
+  {
+   "id": "glorious_dawn",
+   "orig": "グロリアスドーン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "HJ文庫 라이트 노벨 전 14권(2006~2010)",
+   "by": "庄司卓",
+   "year": 2006,
+   "country": "일본",
+   "setting": "외계 생명체 '바이오크래프트'와 첫 만남 20년 뒤, 그 귀족 계급 소녀가 평범한 고교생 곁에 나타난다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "HJ文庫 전 14권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「HJ文庫」 · 일본어 위키백과 「グロリアスドーン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chokojo_sarah",
+   "orig": "超鋼女セーラ",
+   "orig_en": "Steel Maiden Sarah: Diamond Princess",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "HJ文庫 라이트 노벨 전 13권(2006~2011)",
+   "by": "寺田とものり",
+   "year": 2006,
+   "country": "일본",
+   "setting": "쇼와 70년, 공업 특구가 된 미야기의 고교에서 학생회장의 정체는 격투용 인조인간이었다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "HJ文庫 전 13권 — 일본어 위키백과 분류 「自律ロボットを題材とした小説」·「HJ文庫」 · 일본어 위키백과 「超鋼女セーラ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "boku_no_imouto_wa_kanji_ga_yomeru",
+   "orig": "僕の妹は漢字が読める",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "HJ文庫 라이트 노벨 전 5권(2011~2012), 만화판(2011~2012)",
+   "by": "かじいたかし",
+   "year": 2011,
+   "country": "일본",
+   "setting": "한자가 사라지고 미소녀 문화가 문학이 된 2202년의 고교생이 과거로 시간을 건너 역사를 바꾼다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제5회 노벨 재팬 대상 은상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「僕の妹は漢字が読める」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "metalhead_trpg",
+   "orig": "メタルヘッド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "탁상 게임",
+    "소설"
+   ],
+   "first_medium": "탁상 게임",
+   "series": "탁상 역할수행 게임(1990~, 여러 판) · HJ文庫 리플레이·소설",
+   "by": "高平鳴海",
+   "year": 1990,
+   "country": "일본",
+   "setting": "고도로 문명화된 도시와 옛 문명이 무너진 황야로 갈린 근미래, 기계와 몸을 섞은 이들이 싸운다.",
+   "concepts": [
+    "cyborg",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 최초의 본격 사이버펑크 탁상 역할수행 게임 — 일본어 위키백과 분류 「サイバーパンク作品」·「日本のテーブルトークRPG」 · 일본어 위키백과 「メタルヘッド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "astronoto",
+   "orig": "アストロノト!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨 전 3권(2007~2008)",
+   "by": "赤松中学",
+   "year": 2007,
+   "country": "일본",
+   "setting": "오늘의 과학이 잊히고 마법과 과학이 섞인 먼 미래, 소년이 달에 떨어진 연인을 구하러 우주로 간다.",
+   "concepts": [
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제3회 MF文庫J 라이트 노벨 신인상 우수상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「MF文庫J」 · 일본어 위키백과 「アストロノト!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "eirun_last_code",
+   "orig": "エイルン・ラストコード 〜架空世界より戦場へ〜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨 전 10권(2015~2019) · 만화판(2019)",
+   "by": "東龍乃助",
+   "year": 2015,
+   "country": "일본",
+   "setting": "2070년 적성 생물 '말리스'에 수억이 죽은 지구에, 인기 애니메이션 속 소년을 닮은 조종사가 나타난다.",
+   "concepts": [
+    "alien_invasion",
+    "mecha",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『이 라이트 노벨이 대단하다! 2016』 신작 1위 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「巨大ロボットを題材とした小説」 · 일본어 위키백과 「エイルン・ラストコード 〜架空世界より戦場へ〜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "onii_chan_koko_de_nara",
+   "orig": "お兄ちゃん……ここでなら、好きって言ってもいいんだよね?",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨(2018~)",
+   "by": "ツカサ",
+   "year": 2018,
+   "country": "일본",
+   "setting": "부모 이혼으로 헤어진 남매가 완전 몰입 게임 속에서만 만나다가, 게임에 이상이 생겨 그마저 끊긴다.",
+   "concepts": [
+    "neural_link",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "MF文庫J — 일본어 위키백과 분류 「仮想世界を舞台とした小説」 · 일본어 위키백과 「お兄ちゃん……ここでなら、好きって言ってもいいんだよね?」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kyukyoku_shinka_full_dive_rpg",
+   "orig": "究極進化したフルダイブRPGが現実よりもクソゲーだったら",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "ノベルゼロ판(2018) · MF文庫J 개정판(2020~) · 만화판 · TV 애니메이션",
+   "by": "土日月",
+   "year": 2018,
+   "country": "일본",
+   "setting": "현실보다 지나치게 사실적이라 아무도 못 깨는 완전 몰입 역할수행 게임에 고교생이 매달린다.",
+   "concepts": [
+    "simulation",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션화 — 일본어 위키백과 분류 「仮想世界を舞台とした小説」·「MF文庫J」 · 일본어 위키백과 「究極進化したフルダイブRPGが現実よりもクソゲーだったら」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "junk_force",
+   "orig": "ジャンクフォース",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨 전 5권(2003~2005) · 외전 『ジャンクフォース フロム マーズ』 · 만화판",
+   "by": "柿沼秀樹",
+   "year": 2003,
+   "country": "일본",
+   "setting": "지구 재생파와 화성 탈출파의 전쟁 뒤 사막이 된 2134년, 아이들이 폭주한 정화 장치를 막으러 간다.",
+   "concepts": [
+    "catastrophe",
+    "robot",
+    "terraforming"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "MF文庫J 전 5권 — 일본어 위키백과 분류 「文明崩壊後の世界が描かれた小説」·「ロボットを題材とした小説」 · 일본어 위키백과 「ジャンクフォース」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "zesshinkai_no_solaris",
+   "orig": "絶深海のソラリス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨(2014~2015) · 만화판(2026~)",
+   "by": "らきるち",
+   "year": 2014,
+   "country": "일본",
+   "setting": "대해일로 땅 대부분이 잠긴 2145년, 피와 섞이는 결정체로 물을 부리게 된 아이들이 섬 학원에서 훈련한다.",
+   "concepts": [
+    "catastrophe",
+    "awakening_substance",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "MF文庫J — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「絶深海のソラリス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hatsutaiken_ni_osusume_na_kanojo",
+   "orig": "初体験にオススメな彼女",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨(2011~2013)",
+   "by": "あさのハジメ",
+   "year": 2011,
+   "country": "일본",
+   "setting": "은둔하던 소년이 누나에게서 입학 선물로 생체 인조인간 여동생을 받아 함께 고교에 다닌다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "MF文庫J — 일본어 위키백과 분류 「サイボーグを題材とした小説」 · 일본어 위키백과 「初体験にオススメな彼女」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bokutachi_no_remake",
+   "orig": "ぼくたちのリメイク",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "MF文庫J 라이트 노벨 전 15권(2017~2023) · 만화판 · TV 애니메이션",
+   "by": "木緒なち",
+   "year": 2017,
+   "country": "일본",
+   "setting": "실직한 28세 게임 감독이 10년 전 대학 입학 무렵으로 되돌아가 창작자의 길을 다시 걷는다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『이 라이트 노벨이 대단하다!』 문고 6위(2018) — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」·「MF文庫J」 · 일본어 위키백과 「ぼくたちのリメイク」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "bullbuster",
+   "orig": "ブルバスター",
+   "orig_en": "BULLBUSTER",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "카쿠요무 연재·エンターブレイン 단행본 전 3권(2018~2019) · TV 애니메이션 · 만화판",
+   "by": "中尾浩之(원작), 海老原誠二",
+   "year": 2018,
+   "country": "일본",
+   "setting": "유독가스와 함께 나타난 거대 괴수에게 빼앗긴 섬에서, 해충 구제 회사 직원이 비용을 따지며 로봇을 몬다.",
+   "concepts": [
+    "mecha",
+    "space_beast"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션화 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「巨大ロボットを題材とした小説」 · 일본어 위키백과 「ブルバスター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "honnoji_kara_hajimeru_nobunaga",
+   "orig": "本能寺から始める信長との天下統一",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "オーバーラップ文庫 라이트 노벨(2019~) · 만화판(2020~)",
+   "by": "常陸之介寛浩",
+   "year": 2018,
+   "country": "일본",
+   "setting": "수학여행 간 절의 지하 문이 불타는 혼노지로 이어져, 고교생이 노부나가를 구하고 천하 통일을 돕는다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "아르파폴리스 역사시대소설대상 독자상(2018) — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」 · 일본어 위키백과 「本能寺から始める信長との天下統一」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gekko_no_carnevale",
+   "orig": "月光のカルネヴァーレ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "Windows 성인 게임(2007) · 만화판(2007~2008) · ガガガ文庫 소설판 전 3권",
+   "by": "ニトロプラス",
+   "year": 2007,
+   "country": "일본",
+   "setting": "자동 기계 인형이 관광객을 맞는 인형 산지 벨몬트에서, 과거를 버린 남자가 기억 잃은 인형 소녀와 산다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "니트로플러스 게임 — 일본어 위키백과 분류 「ガガガ文庫」 · 일본어 위키백과 「月光のカルネヴァーレ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "nidome_no_natsu",
+   "orig": "二度めの夏、二度と会えない君",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "ガガガ文庫(2015)·小学館文庫 새 판(2017) · 만화판(2017) · 실사 영화(2017)",
+   "by": "赤城大空",
+   "year": 2015,
+   "country": "일본",
+   "setting": "불치병을 앓던 전학생 소녀가 죽은 뒤, 고교생이 그녀를 처음 만난 반년 전으로 되돌아가 여름을 다시 산다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "실사 영화화(2017) — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」 · 일본어 위키백과 「二度めの夏、二度と会えない君」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hakozoko_no_elpis",
+   "orig": "筺底のエルピス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ガガガ文庫 라이트 노벨 전 9권(2014~2026)",
+   "by": "オキシタケヒコ",
+   "year": 2014,
+   "country": "일본",
+   "setting": "차원 뒤에서 사람을 살육으로 모는 '귀신'을 개조 눈과 시간 정지 역장을 쓰는 조직이 천 년 넘게 사냥한다.",
+   "concepts": [
+    "other_realm",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "ガガガ文庫 전 9권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ガガガ文庫」 · 일본어 위키백과 「筺底のエルピス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "komusume_overdrive",
+   "orig": "小娘オーバードライブ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 전 4권(1994~1998) · ソノラマノベルス 새 판·3권(2005~2007)",
+   "by": "笹本祐一",
+   "year": 1994,
+   "country": "일본",
+   "setting": "'정의의 편 모집, 시급 오백 엔' 광고로 뽑힌 여고생이 은빛 강화 보호복을 입고 사건에 맞선다.",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "角川スニーカー文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「角川スニーカー文庫」 · 일본어 위키백과 「小娘オーバードライブ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "enkan_shoujo",
+   "orig": "円環少女",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 전 13권(2005~2011)",
+   "by": "長谷敏司",
+   "year": 2005,
+   "country": "일본",
+   "setting": "지구인이 보기만 해도 마법이 깨지는 현대 일본에서, 이세계 범죄 마법사를 쫓는 비공식 공무원과 소녀들.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『이 라이트 노벨이 대단하다! 2012』 4위 — 일본어 위키백과 분류 「角川スニーカー文庫」 · 일본어 위키백과 「円環少女」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "cyber_knight",
+   "orig": "サイバーナイト",
+   "orig_en": "CYBER KNIGHT",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "PC엔진 역할수행 게임(1990) · 『サイバーナイトII 地球帝国の野望』(1994) · 山本弘 소설(잡지 연재 1989~1991, 문고판)",
+   "by": "トンキンハウス·グループSNE, 山本弘(소설)",
+   "year": 1989,
+   "country": "일본",
+   "setting": "인류가 은하로 퍼진 24세기, '모듈'이라는 장갑복을 입은 용병들이 우주를 떠돌며 싸운다.",
+   "concepts": [
+    "power_armor",
+    "colonization",
+    "clone"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'하드 SF 역할수행'을 내건 게임과 소설 — 일본어 위키백과 분류 「SFコンピュータゲーム」·「日本のSF小説」 · 일본어 위키백과 「サイバーナイト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sukasuka",
+   "orig": "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 전 8권(본편 5·외전 1·이전 2, 2014~2020) · 만화판 · TV 애니메이션",
+   "by": "枯野瑛",
+   "year": 2014,
+   "country": "일본",
+   "setting": "수수께끼의 '짐승'에 지상이 망하고 여러 종족이 하늘에 뜬 대륙으로 피한 먼 뒤, 옛 용사가 깨어난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니메이션화 — 일본어 위키백과 분류 「文明崩壊後の世界が描かれた小説」·「角川スニーカー文庫」 · 일본어 위키백과 「終末なにしてますか? 忙しいですか? 救ってもらっていいですか?」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "spiegel_series",
+   "orig": "シュピーゲル・シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『オイレンシュピーゲル』(角川スニーカー文庫)·『スプライトシュピーゲル』(富士見ファンタジア文庫)·『テスタメントシュピーゲル』(2007~)",
+   "by": "冲方丁",
+   "year": 2007,
+   "country": "일본",
+   "setting": "2016년 국제연합이 다스리는 옛 빈 '밀리오폴리스'에서 기계 팔다리를 단 소녀들이 테러와 싸운다.",
+   "concepts": [
+    "cyborg",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "3부작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「サイボーグを題材とした小説」·「テクノスリラー小説」 · 일본어 위키백과 「シュピーゲル・シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sentouin_hakenshimasu",
+   "orig": "戦闘員、派遣します!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 라이트 노벨(2017~) · 만화판(2018~2024) · TV 애니메이션(2021)",
+   "by": "暁なつめ",
+   "year": 2017,
+   "country": "일본",
+   "setting": "세계 정복 직전인 악의 비밀결사가 전투원과 인조인간을 판타지 같은 다른 행성에 침략 선발대로 보낸다.",
+   "concepts": [
+    "android",
+    "teleport"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 애니메이션화 — 일본어 위키백과 분류 「宇宙を舞台とした小説」·「角川スニーカー文庫」 · 일본어 위키백과 「戦闘員、派遣します!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "masou_gakuen_hh",
+   "orig": "魔装学園H×H",
+   "orig_en": "Hybrid × Heart Magias Academy Ataraxia",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 전 15권(2014~2022) · 만화판 · TV 애니메이션",
+   "by": "久慈マサムネ",
+   "year": 2014,
+   "country": "일본",
+   "setting": "이세계와 맞닿은 틈에서 마도 병기가 쳐들어와 인류가 바다 위 부유 도시로 피한 뒤, 강화복 소녀들이 싸운다.",
+   "concepts": [
+    "power_armor",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니메이션화 — 일본어 위키백과 분류 「パワードスーツ・プロテクターを題材とした小説」·「角川スニーカー文庫」 · 일본어 위키백과 「魔装学園H×H」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "mirai_hourou_gardeen",
+   "orig": "未来放浪ガルディーン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "角川文庫→角川スニーカー文庫, 본편 3권+외전 2권(1986~)",
+   "by": "火浦功",
+   "year": 1986,
+   "country": "일본",
+   "setting": "문명이 무너진 먼 미래의 전국 시대, 원수를 갚고 쫓기는 공주 일행이 옛 세기의 거대 기동 병기를 만난다.",
+   "concepts": [
+    "catastrophe",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "角川スニーカー文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「巨大ロボットを題材とした小説」 · 일본어 위키백과 「未来放浪ガルディーン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rumble_fish_mikumo",
+   "orig": "ランブルフィッシュ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "角川スニーカー文庫 전 10권(2001~2006) · 만화판",
+   "by": "三雲岳斗",
+   "year": 2001,
+   "country": "일본",
+   "setting": "1990년대 초 사람 모양 전투 병기가 나타나 시험기끼리 싸움에 돈을 거는 대회가 생긴 세상의 기술 학교.",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "角川スニーカー文庫 전 10권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ランブルフィッシュ (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mezametara_saikyou_soubi_to_uchuusen",
+   "orig": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설가가 되자 연재(2019~) · カドカワBOOKS(2019~) · 만화판 · TV 애니메이션",
+   "by": "リュート",
+   "year": 2019,
+   "country": "일본",
+   "setting": "즐겨 하던 온라인 게임의 최강 우주선 조종석에서 깨어난 사내가, 그 우주에서 용병으로 살아간다.",
+   "concepts": [
+    "fleet_battle",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "カドカワBOOKS — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」·「宇宙を舞台とした小説」 · 일본어 위키백과 「目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "destiny_unchain_online",
+   "orig": "Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설가가 되자·카쿠요무 연재(2020~) · Kラノベブックス(2022~) · 만화판",
+   "by": "resn",
+   "year": 2020,
+   "country": "일본",
+   "setting": "가상·증강 현실 단말이 일상이 된 시대, 새 몰입 장치를 시험하던 소년이 게임 속에서 흡혈귀 소녀가 된다.",
+   "concepts": [
+    "neural_link",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "Kラノベブックス — 일본어 위키백과 분류 「仮想世界を舞台とした小説」 · 일본어 위키백과 「Destiny Unchain Online 〜吸血鬼少女となって、やがて『赤の魔王』と呼ばれるようになりました〜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "atashi_no_alien",
+   "orig": "あたしのエイリアン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社X文庫ティーンズハート 전 18권(1989~1994) · 『あたしのエイリアンEX』(1995~1996)",
+   "by": "津原やすみ",
+   "year": 1989,
+   "country": "일본",
+   "setting": "외계인과 마주친 뒤로 여고생의 일상에 소동이 끊이지 않는다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "講談社X文庫ティーンズハート 전 18권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「あたしのエイリアンシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "unmei_no_tarot",
+   "orig": "運命のタロット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社X文庫ティーンズハート 1부 전 13권(1992~1996) · 『真・運命のタロット』(1997~2004) · 3부(동인지)",
+   "by": "皆川ゆか",
+   "year": 1992,
+   "country": "일본",
+   "setting": "아카식 레코드에 새겨진 역사를 바꾸려는 쪽과 막으려는 쪽으로 갈린 타로 정령들이 시공을 넘나들며 싸운다.",
+   "concepts": [
+    "time_travel",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "講談社X文庫ティーンズハート — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「運命のタロット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "tea_party_minagawa",
+   "orig": "ティー・パーティー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社X文庫ティーンズハート 전 20권(1987~1992), 부제 『八幡高校超常研報告』",
+   "by": "皆川ゆか",
+   "year": 1987,
+   "country": "일본",
+   "setting": "고교 초상연구회 소녀 곁에 평행 세계, 화성 왕조의 다툼, 거대 로봇이 몰려와 세계가 무너질 위기가 온다.",
+   "concepts": [
+    "alt_timeline",
+    "mecha",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "講談社X文庫ティーンズハート 전 20권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「パラレルワールドを題材とした小説」·「火星を舞台とした小説」 · 일본어 위키백과 「ティー・パーティー (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "time_slip_series_kujira",
+   "orig": "タイムスリップシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社ノベルス 연작(2002~) · 라디오 드라마",
+   "by": "鯨統一郎",
+   "year": 2002,
+   "country": "일본",
+   "setting": "고교생 소녀가 과거 일본으로 시간을 건너거나, 역사 속 인물이 현대로 건너오는 역사 SF.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "講談社ノベルス — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「タイムスリップシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "namae_sagashi_no_houkago",
+   "orig": "名前探しの放課後",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社ノベルス(2007)",
+   "by": "辻村深月",
+   "year": 2007,
+   "country": "일본",
+   "setting": "동급생의 자살을 겪은 직후 석 달 전으로 시간이 되감긴 고교생이, 죽을 사람이 누구인지 찾아 나선다.",
+   "concepts": [
+    "time_loop"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "요시카와 에이지 문학 신인상 후보(2008) — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」·「講談社ノベルス」 · 일본어 위키백과 「名前探しの放課後」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "shingeki_no_kyojin",
+   "orig": "進撃の巨人",
+   "orig_en": "Attack on Titan",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션",
+    "소설",
+    "게임",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화 전 34권(2009~2021) · TV 애니메이션(2013~) · 스핀오프 소설 『Before the fall』 등 · 게임 · 실사 영화",
+   "by": "諫山創",
+   "year": 2009,
+   "country": "일본",
+   "setting": "압도적인 힘을 지닌 거인들과 그에 맞서 조직된 군대와 장비로 싸우는 인류를 그린 어두운 판타지.",
+   "concepts": [
+    "catastrophe",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "누계 발행 부수가 큰 만화·애니메이션 — 일본어 위키백과 분류 「ディストピア漫画」·「講談社ラノベ文庫」 · 일본어 위키백과 「進撃の巨人」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kitto_series",
+   "orig": "きっとシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫 전 20권(1995~2002)",
+   "by": "倉本由布",
+   "year": 1995,
+   "country": "일본",
+   "setting": "벼락 충격으로 전국 시대에 떨어진 여고생이 노부나가에게 시집가고, 그 피를 이은 딸·손녀도 시간을 떠돈다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "コバルト文庫 전 20권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「きっとシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kill_zone_suga",
+   "orig": "キル・ゾーン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫 전 19권(1995~2001) · 같은 세계의 『ブルー・ブラッド』",
+   "by": "須賀しのぶ",
+   "year": 1995,
+   "country": "일본",
+   "setting": "23세기, 정치 중심인 달 도시와 지구의 저항군이 싸우는 전장에 화성 도시가 끼어든다.",
+   "concepts": [
+    "colonial_war",
+    "habitat",
+    "clone",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "コバルト文庫 전 19권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「火星を舞台とした小説」·「クローンを題材とした小説」 · 일본어 위키백과 「キル・ゾーン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "xazsa",
+   "orig": "XAZSA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫 전 3권 · 만화판 전 3권",
+   "by": "若木未生",
+   "year": 1992,
+   "country": "일본",
+   "setting": "쉬는 중인 기타리스트가 밤거리에서 만난 소년은 천재 소녀가 만든 국가 기밀급 기계 인간이었다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "コバルト文庫 — 일본어 위키백과 분류 「自律ロボットを題材とした小説」 · 일본어 위키백과 「XAZSA」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "douwa_wo_mune_ni_dakishimete",
+   "orig": "童話を胸に抱きしめて",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫 전 4권",
+   "by": "小林弘利",
+   "year": 1986,
+   "country": "일본",
+   "setting": "태양이 꺼지고 빙하기가 닥친 지구에서, 사람들이 반년짜리 인공 태양에 기대며 진짜 태양을 새로 만든다.",
+   "concepts": [
+    "catastrophe",
+    "megastructure"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "コバルト文庫 — 일본어 위키백과 분류 「ブラックホールを題材とした小説」 · 일본어 위키백과 「童話を胸に抱きしめて」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nineteen_1987",
+   "orig": "19 ナインティーン",
+   "orig_en": "Nineteen",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "영화",
+    "소설"
+   ],
+   "first_medium": "영화",
+   "series": "영화(1987, 東宝) · 소설판(コバルト文庫) · 뮤지컬",
+   "by": "山下賢章(감독), 康珍化(원작)",
+   "year": 1987,
+   "country": "일본",
+   "setting": "소년대가 주연한 'SF 록' 모험 영화, 시간을 넘는 이야기와 열아홉 살의 갈등을 엮었다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "東宝 특촬 영화 — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」·「東宝特撮映画」 · 일본어 위키백과 「19 ナインティーン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "high_school_aura_buster",
+   "orig": "ハイスクール・オーラバスター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫(1989~2004) · 『…リファインド』 トクマ・ノベルズ(2011~2021), 전 27권 · 만화판 · 애니메이션",
+   "by": "若木未生",
+   "year": 1989,
+   "country": "일본",
+   "setting": "이능을 지닌 고교생들이 신의 화신 '하늘의 자'와 요괴라 불리는 '요의 자' 사이의 싸움에 뛰어든다.",
+   "concepts": [
+    "psionics",
+    "resurrection"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "작가가 SF 로 여겼다는 학원 이능물 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「SFアニメ」 · 일본어 위키백과 「ハイスクール・オーラバスター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hoshi_e_iku_fune",
+   "orig": "星へ行く船",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "コバルト文庫 본편 5권(1981~1987) · 『星から来た船』 3권 · 라디오 드라마·만화판",
+   "by": "新井素子",
+   "year": 1980,
+   "country": "일본",
+   "setting": "인류가 우주에서 사는 것이 당연해진 미래, 지구의 소녀가 집을 나와 별로 가는 배에 오른다.",
+   "concepts": [
+    "colonization",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "コバルト文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「火星を舞台とした小説」 · 일본어 위키백과 「星へ行く船」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "saijaku_muhai_no_bahamut",
+   "orig": "最弱無敗の神装機竜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "GA文庫 전 20권(2013~2020) · 만화판 · TV 애니메이션",
+   "by": "明月千里",
+   "year": 2013,
+   "country": "일본",
+   "setting": "유적에서 캐낸 전설의 용 모양 기계 갑옷 '기룡'으로 싸우는 왕국, 망한 제국의 황자가 사관학교에 들어간다.",
+   "concepts": [
+    "power_armor",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "GA文庫, 누계 110만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「GA文庫」 · 일본어 위키백과 「最弱無敗の神装機竜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "haiyore_nyaruko_san",
+   "orig": "這いよれ! ニャル子さん",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "GA文庫 전 12권(2009~2014) · 만화판·4컷 만화 · 애니메이션",
+   "by": "逢空万太",
+   "year": 2009,
+   "country": "일본",
+   "setting": "밤길에 괴물에게 쫓기던 고교생을, 크툴루 신화의 니알라토텝이자 외계인이라는 소녀가 지키러 온다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제1회 GA文庫 대상 우수상, 누계 100만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「這いよれ! ニャル子さん」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hundred_minosaki",
+   "orig": "ハンドレッド",
+   "orig_en": "Hundred",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "GA文庫 전 16권(2012~2018) · 만화판 · TV 애니메이션(2016)",
+   "by": "箕崎准",
+   "year": 2012,
+   "country": "일본",
+   "setting": "외계 생명체 '새비지'의 습격이 잇따르는 세계, 운석에서 얻은 힘을 쓰는 이들을 바다 위 학원이 기른다.",
+   "concepts": [
+    "alien_invasion",
+    "awakening_substance"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 애니메이션화(2016) — 일본어 위키백과 분류 「地球外生命体を題材とした小説」·「パワードスーツ・プロテクターを題材とした小説」 · 일본어 위키백과 「ハンドレッド (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "maps_hasegawa",
+   "orig": "マップス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1985~1994, 외전 ~1997) · OVA 두 편(1987·1994) · GA文庫 소설 · 『マップス・シェアードワールド』(2008)",
+   "by": "長谷川裕一",
+   "year": 1985,
+   "country": "일본",
+   "setting": "천사 모양 우주선과 그 분신인 인조인간을 만난 지구 소년이 온 우주의 존망을 건 모험에 나선다.",
+   "concepts": [
+    "android",
+    "precursor",
+    "galactic_threat"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "와이드스크린 바로크 우주 활극의 대표작 — 일본어 위키백과 분류 「スペースオペラ」·「GA文庫」 · 일본어 위키백과 「マップス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "wasureenu_majo_no_monogatari",
+   "orig": "忘れえぬ魔女の物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "GA文庫(2021~) · 만화판(2021~2024)",
+   "by": "宇佐楢春",
+   "year": 2021,
+   "country": "일본",
+   "setting": "같은 하루를 다섯 번쯤 되풀이하고 그중 하나가 골라지는 소녀가, 되풀이를 넘어 친구가 되는 아이를 만난다.",
+   "concepts": [
+    "time_loop"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제12회 GA文庫 대상 금상 — 일본어 위키백과 분류 「タイムループを題材とした小説」·「GA文庫」 · 일본어 위키백과 「忘れえぬ魔女の物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "psyren",
+   "orig": "PSYREN -サイレン-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화 전 16권(2008~2010) · ジャンプ ジェイ ブックス 소설 · TV 애니메이션",
+   "by": "岩代俊明",
+   "year": 2008,
+   "country": "일본",
+   "setting": "붉은 공중전화 카드로 수수께끼의 세계 '사이렌'에 끌려간 고교생이, 괴물과 싸우며 초능력에 눈뜬다.",
+   "concepts": [
+    "psionics",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "週刊少年ジャンプ 연재 — 일본어 위키백과 분류 「ジャンプ ジェイ ブックス」 · 일본어 위키백과 「PSYREN -サイレン-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ginga_rengou_nippon",
+   "orig": "銀河連合日本",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "소설가가 되자 연재(2013~2016), 속편 『The Next Era』(2016~2025) · 星海社FICTIONS 전 19권",
+   "by": "柗本保羽",
+   "year": 2013,
+   "country": "일본",
+   "setting": "거대 외계 우주선이 미우라반도 앞바다에 내려앉아 일본하고만 말하겠다 하고, 회사원이 첫 접촉을 맡는다.",
+   "concepts": [
+    "first_contact",
+    "federation",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "星海社FICTIONS 전 19권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「銀河連合日本」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bianca_overstudy",
+   "orig": "ビアンカ・オーバースタディ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ファウスト』 발표(2008) · 星海社FICTIONS(2012) · 角川文庫(2016)",
+   "by": "筒井康隆",
+   "year": 2008,
+   "country": "일본",
+   "setting": "실험에 빠진 생물부 미소녀의 연구가 번져, 선배가 미래인임이 드러나고 인류 존망이 걸린 미래 사건과 얽힌다.",
+   "concepts": [
+    "time_travel",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "筒井康隆 의 라이트 노벨 — 일본어 위키백과 분류 「日本のSF小説」·「星海社FICTIONS」 · 일본어 위키백과 「ビアンカ・オーバースタディ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "fahrenheit_9999",
+   "orig": "ファーレンハイト9999",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ダッシュエックス文庫(2014~)",
+   "by": "朝倉勲",
+   "year": 2014,
+   "country": "일본",
+   "setting": "엽기 살인을 계기로 만화·애니메이션이 전면 규제된 일본, 오타쿠를 잡는 분서과 수사관이 실은 숨은 오타쿠다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제13회 슈퍼대시 소설 신인상 대상 — 일본어 위키백과 분류 「ディストピア小説」 · 일본어 위키백과 「ファーレンハイト9999」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "idolising",
+   "orig": "アイドライジング!",
+   "orig_en": "IDO-LISING",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 3권(2011~2012) · 만화판(2012~2014)",
+   "by": "広沢サカキ",
+   "year": 2011,
+   "country": "일본",
+   "setting": "과학 기술이 발전한 근미래 일본, 기업 기술을 모은 전투복을 입은 아이돌들이 무대에서 싸우는 흥행이 인기다.",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제17회 전격소설대상 금상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「アイドライジング!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ame_no_hi_no_iris",
+   "orig": "雨の日のアイリス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2011)",
+   "by": "松山剛",
+   "year": 2011,
+   "country": "일본",
+   "setting": "로봇 공학자의 집에서 행복하던 가정부 로봇이 가혹한 운명에 놓이고, 다른 로봇들과 '사는' 뜻을 찾는다.",
+   "concepts": [
+    "robot",
+    "machine_rights"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『이 라이트 노벨이 대단하다!』 2012 9위 — 일본어 위키백과 분류 「日本のSF小説」·「電撃文庫」 · 일본어 위키백과 「雨の日のアイリス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "aruhi_bakudan_ga_ochitekite",
+   "orig": "ある日、爆弾がおちてきて",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 단편집(2005) · メディアワークス文庫(2017)",
+   "by": "古橋秀之",
+   "year": 2005,
+   "country": "일본",
+   "setting": "모든 편이 '시간'을 주제로 한, 소년이 소녀를 만나는 SF 단편 일곱 편.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『이 라이트 노벨이 대단하다!』 2007 9위 — 일본어 위키백과 분류 「日本のSF小説」·「電撃文庫」 · 일본어 위키백과 「ある日、爆弾がおちてきて」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "eg_combat",
+   "orig": "E.G.コンバット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(1998~) · 만화판",
+   "by": "秋山瑞人(소설), ☆よしみる(기획·원작)",
+   "year": 1998,
+   "country": "일본",
+   "setting": "2029년 미지 생물에 문명이 무너지고, 여성이 모두 달로 옮겨 남자만 남은 지구에서 싸움이 이어진다.",
+   "concepts": [
+    "alien_invasion",
+    "habitat",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「E.G.コンバット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "valkyria_no_kikou",
+   "orig": "ヴァルキュリアの機甲",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 4권(2002~2003)",
+   "by": "ゆうきりん",
+   "year": 2002,
+   "country": "일본",
+   "setting": "2035년부터 원폭만 한 폭발을 품은 아메바 모양 거대 생물이 나타나 도시를 차례로 날려 버린다.",
+   "concepts": [
+    "space_beast"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 전 4권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「ヴァルキュリアの機甲」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "vehicle_end",
+   "orig": "ヴィークルエンド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2010)",
+   "by": "うえお久光",
+   "year": 2010,
+   "country": "일본",
+   "setting": "모든 아이가 공감각 장애와 감정 결함을 안고 나는 근미래, 몸을 탈것으로 느끼는 약을 먹고 경주한다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説」·「電撃文庫」 · 일본어 위키백과 「ヴィークルエンド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "wizards_brain",
+   "orig": "ウィザーズ・ブレイン",
+   "orig_en": "Wizard's brain",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 21권(2001~2023)",
+   "by": "三枝零一",
+   "year": 2001,
+   "country": "일본",
+   "setting": "대기 제어 위성이 폭주해 하늘이 막힌 2186년 뒤, 돔 도시와 정보를 다뤄 싸우는 '마법사'의 세계.",
+   "concepts": [
+    "catastrophe",
+    "habitat",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "제7회 전격게임소설대상 은상, 전 21권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「ウィザーズ・ブレイン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "westadia_no_sousei",
+   "orig": "ウェスタディアの双星",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 8권(2008~2010)",
+   "by": "小河正岳",
+   "year": 2008,
+   "country": "일본",
+   "setting": "두 성간 강국 사이의 소국, 왕이 죽고 귀족과 왕태자까지 달아난 나라를 남은 이들이 지킨다.",
+   "concepts": [
+    "fleet_battle",
+    "feudal_space"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 8권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「ウェスタディアの双星」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ab_extreme",
+   "orig": "A/Bエクストリーム",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2002~2004)",
+   "by": "高橋弥七郎",
+   "year": 2002,
+   "country": "일본",
+   "setting": "인류가 찾아낸 차원 안의 넓은 공간에 사는 괴물 '그렘린'을 퇴치하는 구제업자 두 사람의 활극.",
+   "concepts": [
+    "other_realm",
+    "hyperspace"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제8회 전격게임소설대상 선고위원 장려상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「A/Bエクストリーム」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "escape_speed",
+   "orig": "エスケヱプ・スピヰド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 8권(2012~2015)",
+   "by": "九岡望",
+   "year": 2012,
+   "country": "일본",
+   "setting": "황폐해진 쇼와 101년의 군사 도시, 냉동 수면에서 깬 소녀가 기계 벌레와 잠든 사이보그 소년을 만난다.",
+   "concepts": [
+    "cyborg",
+    "cryosleep",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제18회 전격소설대상 대상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「エスケヱプ・スピヰド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "owari_no_chronicle",
+   "orig": "終わりのクロニクル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 14권(2003~2005)",
+   "by": "川上稔",
+   "year": 2003,
+   "country": "일본",
+   "setting": "2차 대전 뒤편에서 열한 개의 세계가 '개념'을 빼앗으며 싸웠고, 이긴 세계에 다시 멸망이 다가온다.",
+   "concepts": [
+    "alt_timeline",
+    "physics_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "『이 라이트 노벨이 대단하다!』 2006 5위 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「終わりのクロニクル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kaguya_kamoshida",
+   "orig": "Kaguya 〜月のウサギの銀の箱舟〜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 5권(2008~2009)",
+   "by": "鴨志田一",
+   "year": 2008,
+   "country": "일본",
+   "setting": "혜성이 달에 부딪혀 떨어진 조각에 무너진 도시에서 능력 있는 아이들이 나고, 공안이 그 힘을 빌린다.",
+   "concepts": [
+    "catastrophe",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 전 5권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「Kaguya 〜月のウサギの銀の箱舟〜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "gakkou_wo_deyou",
+   "orig": "学校を出よう!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2003~)",
+   "by": "谷川流",
+   "year": 2003,
+   "country": "일본",
+   "setting": "초능력자를 강제로 가두는 학원에 능력자 누이의 유령에 씌어 6년째 갇힌 평범한 소년이 학원의 비밀을 캔다.",
+   "concepts": [
+    "psionics",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "谷川流 의 문고 데뷔작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「学校を出よう!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kaminaki_sekai_no_eiyuuden",
+   "orig": "神無き世界の英雄伝",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 3권(2007)",
+   "by": "鴨志田一",
+   "year": 2007,
+   "country": "일본",
+   "setting": "요리사 청년이 전자 정령에게 뽑혀, 인민공화국에 독립 전쟁을 거는 기업 연맹의 제독이 된다.",
+   "concepts": [
+    "mega_corp",
+    "fleet_battle",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "鴨志田一 데뷔작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「神無き世界の英雄伝」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kieli",
+   "orig": "キーリ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 9권(2003~2006) · 만화판",
+   "by": "壁井ユカコ",
+   "year": 2003,
+   "country": "일본",
+   "setting": "영감이 강한 기숙학교 소녀가 '불사인' 청년과 라디오에 씐 혼과 함께 황야를 여행한다.",
+   "concepts": [
+    "longevity"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제9회 전격게임소설대상 대상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「キーリ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "called_gehenna",
+   "orig": "コールド・ゲヘナ",
+   "orig_en": "Called Gehenna",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 본편 4권+외전 1권(1999~2001)",
+   "by": "三雲岳斗",
+   "year": 1999,
+   "country": "일본",
+   "setting": "마수와 용족이 지배하는 사막 행성 게헤나, 유전자 개조 수술을 받은 조종사만이 초고속 인형 병기로 맞선다.",
+   "concepts": [
+    "genetic_eng",
+    "mecha",
+    "alien_ecology"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제5회 전격게임소설대상 은상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「コールド・ゲヘナ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kochira_shuumatsu_teitai_iinkai",
+   "orig": "こちら、終末停滞委員会。",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2024~) · 만화판(2025)",
+   "by": "逢縁奇演",
+   "year": 2024,
+   "country": "일본",
+   "setting": "언젠가 우주를 멸망시킨다는 사상 '종말'과 싸우는 학원 조직에, 자신도 사람 모양 종말인 소년이 들어간다.",
+   "concepts": [
+    "galactic_threat"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「こちら、終末停滞委員会。」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "goryou_toushi_ooki_den",
+   "orig": "五霊闘士オーキ伝",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 5권(1994~1996) · 만화판",
+   "by": "土門弘幸",
+   "year": 1994,
+   "country": "일본",
+   "setting": "추락한 물체에 죽은 고교생이 외계인 손에 되살아나, 사이보그 다섯을 이끌고 외계인끼리의 싸움에 휘말린다.",
+   "concepts": [
+    "alien",
+    "cyborg",
+    "resurrection"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 전격게임소설대상 대상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「五霊闘士オーキ伝」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "jikuu_no_cross_road",
+   "orig": "時空のクロス・ロード",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 7권(2000~2003)",
+   "by": "鷹見一幸",
+   "year": 2000,
+   "country": "일본",
+   "setting": "수수께끼 조직 '기구'에 이끌린 소년 소녀들이 평행 세계를 찾아가 멸망 위기의 세계를 바꾼다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 7권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「時空のクロス・ロード」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "six_bolt",
+   "orig": "シックス・ボルト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 3권(2001~2003)",
+   "by": "神野オキナ",
+   "year": 2001,
+   "country": "일본",
+   "setting": "외계인이 정한 규칙대로 지구의 소유권을 건 전쟁이 벌어지고, 뽑힌 17살들이 복제로 되살아나며 싸운다.",
+   "concepts": [
+    "alien",
+    "clone",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 3권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「クローンを題材とした小説」 · 일본어 위키백과 「シックス・ボルト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "seishun_buta_yarou",
+   "orig": "青春ブタ野郎シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 17권(2014~2026) · 만화판 · TV 애니메이션·극장판",
+   "by": "鴨志田一",
+   "year": 2014,
+   "country": "일본",
+   "setting": "'사춘기 증후군'이라 불리는 초상 현상에 휘말린 고교생과 소녀들의 마음 문제를 한 권에 한 사람씩 그린다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "누계 300만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「青春ブタ野郎シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "zettai_naru_isolator",
+   "orig": "絶対ナル孤独者",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "작가 사이트 연재(2004~) · 電撃文庫(2014~) · 만화판(2015~2018)",
+   "by": "川原礫",
+   "year": 2004,
+   "country": "일본",
+   "setting": "가족을 잃고 남을 피하던 고교생이 물리 법칙도 무시하는 투명한 '껍질'의 능력에 눈떠 싸움에 휘말린다.",
+   "concepts": [
+    "psionics",
+    "energy_shield"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超能力を題材とした小説」 · 일본어 위키백과 「絶対ナル孤独者」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "daddyface",
+   "orig": "DADDYFACE",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2000~2005, 미완)",
+   "by": "伊達将範",
+   "year": 2000,
+   "country": "일본",
+   "setting": "가난한 대학생 앞에 친딸이라는 보물 사냥꾼 소녀가 나타나, 그를 초고대 문명을 둘러싼 사건으로 끌고 다닌다.",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超古代文明を題材とした小説」 · 일본어 위키백과 「DADDYFACE」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "tabi_ni_deyou_horobiyuku_sekai",
+   "orig": "旅に出よう、滅びゆく世界の果てまで。",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2008)",
+   "by": "萬屋直人",
+   "year": 2008,
+   "country": "일본",
+   "setting": "기억과 기록이 조금씩 사라지는 '상실증'이 번진 세계, 소년과 소녀가 오토바이로 세상 끝을 향한다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「旅に出よう、滅びゆく世界の果てまで。」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dengeki_aegis_5",
+   "orig": "電撃!! イージス5",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『電撃萌王』 연재(2003~2005) · 電撃文庫 전 2권",
+   "by": "谷川流",
+   "year": 2003,
+   "country": "일본",
+   "setting": "괴짜 과학자 할아버지의 집에 하숙한 대학생이, 다른 차원 침략체와 싸우는 소녀 다섯을 지휘한다.",
+   "concepts": [
+    "alien_invasion",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「電撃!! イージス5」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "denpa_onna_to_seishun_otoko",
+   "orig": "電波女と青春男",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 9권(2009~2011) · 만화판 · TV 애니메이션",
+   "by": "入間人間",
+   "year": 2009,
+   "country": "일본",
+   "setting": "고모 집에 맡겨진 고교생 곁에, 반년간 사라졌다 돌아와 자기가 외계인이라 말하는 사촌이 이불을 쓰고 산다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "누계 150만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「SFコメディ小説」 · 일본어 위키백과 「電波女と青春男」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "doll_masters",
+   "orig": "ドウルマスターズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 5권(2014~2018)",
+   "by": "佐島勤",
+   "year": 2014,
+   "country": "일본",
+   "setting": "2400년대 태양계 연맹이 쥔 지구, 조종사의 생각하는 힘을 키우는 기동 병기가 도시들의 다툼을 가른다.",
+   "concepts": [
+    "mecha",
+    "psionics",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 5권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ドウルマスターズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tokage_no_ou",
+   "orig": "トカゲの王",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2011~2013) · 만화판",
+   "by": "入間人間",
+   "year": 2011,
+   "country": "일본",
+   "setting": "눈 색만 바뀌는 '초능력'을 믿는 소년의 폐건물에, 진짜 능력자와 살인 청부업자들이 몰려든다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超能力を題材とした小説」 · 일본어 위키백과 「トカゲの王」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dragon_party_nakazato",
+   "orig": "ドラゴン・パーティ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 7권(2001~2003)",
+   "by": "中里融司",
+   "year": 2001,
+   "country": "일본",
+   "setting": "남자가 거의 안 태어나 우주로 나간 인류에게, 보는 사람을 제 족속으로 바꾸는 외계 침략자가 온다.",
+   "concepts": [
+    "alien_invasion",
+    "assimilation",
+    "infertility",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 7권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「未来を題材とした小説」 · 일본어 위키백과 「ドラゴン・パーティ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nine_s_hayama",
+   "orig": "9S",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 본편 13권+단편집 3권(2003~2025) · 라디오 드라마",
+   "by": "葉山透",
+   "year": 2003,
+   "country": "일본",
+   "setting": "천재 과학자가 남긴 위험한 기술 '유산'을 두고, 그것을 노리는 무장 집단과 관리 조직이 부딪친다.",
+   "concepts": [
+    "forbidden_weapon",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "電撃文庫 전 16권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「9S」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "neko_no_chikyuugi",
+   "orig": "猫の地球儀",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 2권(2000)",
+   "by": "秋山瑞人",
+   "year": 2000,
+   "country": "일본",
+   "setting": "사람이 사라진 먼 미래의 우주 정착지, 지성을 가진 고양이들이 로봇을 부리며 금기인 '지구본 행'을 꿈꾼다.",
+   "concepts": [
+    "habitat",
+    "uplift",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 2001 일본 장편 최종 후보 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「猫の地球儀」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hazakura_ga_kita_natsu",
+   "orig": "葉桜が来た夏",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 5권(2008~2009)",
+   "by": "夏海公司",
+   "year": 2008,
+   "country": "일본",
+   "setting": "우주 이민선으로 온 외계인과 전쟁 뒤 정전 19년, 어머니를 잃은 소년에게 외계인 소녀와의 동거가 떨어진다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제14회 전격소설대상 선고위원 장려상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「葉桜が来た夏」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "black_rod",
+   "orig": "ブラックロッド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『ブラックロッド』(1996) · 『ブラッドジャケット』(1997) · 『ブライトライツ・ホーリーランド』(2000) · 만화판",
+   "by": "古橋秀之",
+   "year": 1996,
+   "country": "일본",
+   "setting": "마술과 기술이 뒤섞인 적층 도시 '케이오스 헥사'에서 마도 수사관이 도시를 무너뜨린 테러범을 쫓는다.",
+   "concepts": [
+    "ecumenopolis",
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제2회 전격게임소설대상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「電撃文庫」 · 일본어 위키백과 「ブラックロッド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "project_remover",
+   "orig": "プロジェクト・リムーバー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 3권(1997~1998) · 속편 『リムーバー・ソウル』(2000~2001) · 만화판",
+   "by": "木村明広(원안), 篠崎砂美",
+   "year": 1997,
+   "country": "일본",
+   "setting": "2035년 대지진 뒤 로봇으로 도쿄를 다시 짓는 복합 기업이 도시를 쥐고, 몰래 사람형 로봇을 만든다.",
+   "concepts": [
+    "robot",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ロボットを題材とした小説」 · 일본어 위키백과 「プロジェクト・リムーバー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "post_girl",
+   "orig": "ポストガール",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 4권(2002~2005)",
+   "by": "増子二郎",
+   "year": 2002,
+   "country": "일본",
+   "setting": "큰 전쟁 뒤 황폐한 세계에서 우편을 나르는 사람형 기계 소녀가 사람들을 만나며 감정이라는 '버그'를 키운다.",
+   "concepts": [
+    "android",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 전격hp 단편소설상 — 일본어 위키백과 분류 「電撃文庫」 · 일본어 위키백과 「ポストガール」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "replica_datte_koi_wo_suru",
+   "orig": "レプリカだって、恋をする。",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫 전 6권(2023~2026) · 만화판 · TV 애니메이션",
+   "by": "榛名丼",
+   "year": 2023,
+   "country": "일본",
+   "setting": "자기와 똑같은 분신을 만드는 소녀의 대역으로 살던 분신이 같은 반 소년을 좋아하게 된다.",
+   "concepts": [
+    "clone"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제29회 전격소설대상 대상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「SFアニメ」 · 일본어 위키백과 「レプリカだって、恋をする。」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kasei_monogatari",
+   "orig": "火星物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "드라마",
+    "만화",
+    "게임",
+    "소설"
+   ],
+   "first_medium": "드라마",
+   "series": "라디오 드라마 10부(1994~2000, 文化放送) · 만화 『五月の花嫁』 · 플레이스테이션 게임 · ファミ通文庫 소설",
+   "by": "広井王子",
+   "year": 1994,
+   "country": "일본",
+   "setting": "생명이 우주 규모로 윤회해 화성에도 닿는다는 세계관 아래 펼친 청취자 참여 라디오 드라마와 그 게임.",
+   "concepts": [
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "라디오 드라마에서 게임·만화·소설로 — 일본어 위키백과 분류 「ファミ通文庫」 · 일본어 위키백과 「火星物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "galge_no_sekai_yo_youkoso",
+   "orig": "ギャルゲヱの世界よ、ようこそ!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "ファミ通文庫 전 12권(2009~2011) · 만화판",
+   "by": "田尾典丈",
+   "year": 2009,
+   "country": "일본",
+   "setting": "수상한 메일을 따라 연애 게임 디스크를 넣은 고교생 앞에 게임 속 여주인공들이 현실로 나타난다.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제10회 엔터브레인 엔터테인먼트 대상 우수상 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ファミ通文庫」 · 일본어 위키백과 「ギャルゲヱの世界よ、ようこそ!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "chou_kaguya_hime",
+   "orig": "超かぐや姫!",
+   "orig_en": "Cosmic Princess Kaguya!",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "장편 애니메이션(2026, 넷플릭스 공개 뒤 극장) · 만화판 · ファミ通文庫 소설",
+   "by": "山下清悟(감독), スタジオコロリド",
+   "year": 2026,
+   "country": "일본",
+   "setting": "『다케토리 이야기』에서 따온 이야기로, 시간 여행·인공지능·가상 공간과 가상 아이돌을 엮었다.",
+   "concepts": [
+    "time_travel",
+    "ai",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "넷플릭스 장편 애니메이션(2026) — 일본어 위키백과 분류 「SFアニメ映画」·「ファミ通文庫」 · 일본어 위키백과 「超かぐや姫!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "twinkle_starship",
+   "orig": "トゥインクル☆スターシップ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ファミ通文庫 전 15권(2001~2008)",
+   "by": "庄司卓",
+   "year": 2001,
+   "country": "일본",
+   "setting": "성간 항법이 생긴 22세기, 시험에 두 번 떨어진 지휘관 후보의 마지막 이민 실습선 대원은 소녀 4999명.",
+   "concepts": [
+    "colonization",
+    "ftl"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "ファミ通文庫 전 15권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「トゥインクル☆スターシップ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "vs_versus_asou",
+   "orig": "VS-ヴァーサス-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 5권(2003~2005)",
+   "by": "麻生俊平",
+   "year": 2003,
+   "country": "일본",
+   "setting": "조직에 속한 주인공이 '초과학'을 휘두르는 테러와 맞서는 경찰 활극.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「VS-ヴァーサス-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "uchuu_kaizoku_gil_luna",
+   "orig": "宇宙海賊ギル&ルーナ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫(1997~2001)",
+   "by": "中村うさぎ",
+   "year": 1997,
+   "country": "일본",
+   "setting": "인류가 우주로 나간 지 천 년 넘은 미래, 우주 해적 길이 애기선을 타고 동료들과 모험한다.",
+   "concepts": [
+    "spacers"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「宇宙海賊ギル&ルーナ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kujira_no_sora",
+   "orig": "クジラのソラ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 4권(2006~2007)",
+   "by": "瀬尾つかさ",
+   "year": 2006,
+   "country": "일본",
+   "setting": "외계 함대 앞에 지구가 싸우지 않고 항복한 지 10년, 해마다 '게임' 우승자 셋이 외계 함대로 불려 간다.",
+   "concepts": [
+    "alien",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 전 4권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「クジラのソラ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "cregion",
+   "orig": "クレギオン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "탁상 게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "우편 참가 게임(1990~2003) · 탁상 역할수행 · 소설(富士見ファンタジア文庫·ハヤカワ文庫) · 『新クレギオン』(2020~)",
+   "by": "ホビー・データ",
+   "year": 1990,
+   "country": "일본",
+   "setting": "식민력 3000년대, 대전쟁으로 인류 통일 정체가 무너지고 초기술을 잃어 가는 은하의 변경 성계 이야기.",
+   "concepts": [
+    "colonization",
+    "empire_fall",
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "우편 참가 게임·탁상 역할수행·소설 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「日本のテーブルトークRPG」 · 일본어 위키백과 「クレギオン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "genez",
+   "orig": "GENEZ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 8권(2009~2013) · 만화판",
+   "by": "深見真",
+   "year": 2009,
+   "country": "일본",
+   "setting": "반어인과 정령이 있고 전쟁이 끊이지 않는 현대, 민간 군사 회사의 전투용 강화 외골격 조종사들이 싸운다.",
+   "concepts": [
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「パワードスーツ・プロテクターを題材とした小説」 · 일본어 위키백과 「GENEZ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "jesters_galaxy",
+   "orig": "ジェスターズ・ギャラクシー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 4권(2002~2004)",
+   "by": "新城カズマ",
+   "year": 2002,
+   "country": "일본",
+   "setting": "지구를 지배하던 은하제국이 저무는 말기, 신선조를 본뜬 은하 기병 연대가 변경 영주의 딸을 데려온다.",
+   "concepts": [
+    "galactic_empire",
+    "empire_fall"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ジェスターズ・ギャラクシー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shakunetsu_no_ryuukihei",
+   "orig": "灼熱の竜騎兵",
+   "orig_en": "Red Hot Dragoon",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 3권(1988~) · EXノベルズ 새 판·공유 세계 연작(2002~)",
+   "by": "田中芳樹 외",
+   "year": 1988,
+   "country": "일본",
+   "setting": "26세기 목성을 해체해 지구형 행성 15개를 만든 태양계, 새 행성 자이온이 지구에서 독립하려고 싸운다.",
+   "concepts": [
+    "terraforming",
+    "colonial_war",
+    "megastructure"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "田中芳樹 의 우주 SF, 공유 세계 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「太陽系を舞台とした小説」 · 일본어 위키백과 「灼熱の竜騎兵」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "daigo_wakusei_asuka",
+   "orig": "第五惑星アスカ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 3권(1989)",
+   "by": "六道慧",
+   "year": 1989,
+   "country": "일본",
+   "setting": "원자로 사고로 방사능이 퍼지고 정부가 헌병대로 국민을 누르는 1996년, 초능력을 지닌 젊은이들이 나선다.",
+   "concepts": [
+    "catastrophe",
+    "control_society",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超能力を題材とした小説」 · 일본어 위키백과 「第五惑星アスカ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "okaasan_wa_suki_desu_ka",
+   "orig": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 11권(2017~2020) · 만화판 · TV 애니메이션",
+   "by": "井中だちま",
+   "year": 2017,
+   "country": "일본",
+   "setting": "정부 조사원에게 개발 중인 온라인 게임 시험자로 뽑힌 고교생이, 엄마와 함께 판타지 게임 세계로 들어간다.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제29회 판타지아 대상 대상 — 일본어 위키백과 분류 「仮想世界を舞台とした小説」 · 일본어 위키백과 「通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "date_a_live",
+   "orig": "デート・ア・ライブ",
+   "orig_en": "DATE A LIVE",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 본편 22권+단편(2011~) · 만화판 · TV 애니메이션 · 게임",
+   "by": "橘公司",
+   "year": 2011,
+   "country": "일본",
+   "setting": "힘이 너무 세서 인류가 없애려 하는 '정령' 소녀들과, 비밀 조직의 뒷받침으로 그녀들과 사귀는 평범한 소년.",
+   "concepts": [
+    "forbidden_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "세계 누계 600만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ディストピア小説」 · 일본어 위키백과 「デート・ア・ライブ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "tekkou_kyohei_some_line",
+   "orig": "鉄甲巨兵 SOME-LINE",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 4권(1989~1993) · 드라마 CD",
+   "by": "吉岡平",
+   "year": 1989,
+   "country": "일본",
+   "setting": "외계 부동산 회사가 지구를 통째로 사들이려 하자, 초상 과학의 천재가 설계한 거대 로봇이 맞선다.",
+   "concepts": [
+    "mecha",
+    "alien_invasion",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「巨大ロボットを題材とした小説」 · 일본어 위키백과 「鉄甲巨兵 SOME-LINE」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "panmoro",
+   "orig": "ぱんもろっ!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫(2004)",
+   "by": "日下弘文",
+   "year": 2004,
+   "country": "일본",
+   "setting": "여고생이 블랙홀 생명체와 첫 접촉한 뒤 지구는 숱한 외계인과 사귀고, 은하 보전 기구 요원이 그녀를 지킨다.",
+   "concepts": [
+    "first_contact",
+    "alien",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ぱんもろっ!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "fukanzen_shinsei_kikan_iris",
+   "orig": "不完全神性機関イリス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 5권(2011~2013) · 만화판",
+   "by": "細音啓",
+   "year": 2011,
+   "country": "일본",
+   "setting": "세계의 4분의 3이 죽은 세상, 기계광 군학교 학생이 고물 더미에서 주운 가정부 로봇은 군용 인조인간이었다.",
+   "concepts": [
+    "android",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "富士見ファンタジア文庫 — 일본어 위키백과 분류 「ロボットを題材とした小説」 · 일본어 위키백과 「不完全神性機関イリス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "material_ghost",
+   "orig": "マテリアルゴースト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ファンタジア文庫 전 6권(2006~2007) · 만화판",
+   "by": "葵せきな",
+   "year": 2006,
+   "country": "일본",
+   "setting": "교통사고 뒤 둘레 2미터 안의 유령을 실체로 만드는 능력이 생긴 고교생이 기억 잃은 유령 소녀와 함께 산다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제17회 판타지아 장편소설대상 가작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「マテリアルゴースト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "busou_shinki",
+   "orig": "武装神姫",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "만화",
+   "series": "코나미 액션 피규어 연작 · 만화(2007~2013) · TV 애니메이션 · コナミノベルス 소설 『always together』 등",
+   "by": "コナミデジタルエンタテインメント",
+   "year": 2007,
+   "country": "일본",
+   "setting": "무장한 인형 로봇 '신희'가 주인과 함께하는 세상, 연구소를 탈출해 멈춘 신희를 소년이 주워 고친다.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "코나미 피규어 연작·TV 애니메이션 — 일본어 위키백과 분류 「自律ロボットを題材とした小説」·「コナミノベルス」 · 일본어 위키백과 「武装神姫」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "otome_sangensoku",
+   "orig": "オトメ3原則!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "スーパーダッシュ文庫 전 6권(2012~2013)",
+   "by": "松智洋",
+   "year": 2012,
+   "country": "일본",
+   "setting": "아시모프의 '로봇 3원칙'을 축으로, 미래와 로봇이 섞인 고교 연애 소동극.",
+   "concepts": [
+    "robot_laws",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "スーパーダッシュ文庫 — 일본어 위키백과 분류 「自律ロボットを題材とした小説」 · 일본어 위키백과 「オトメ3原則!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "cthulhu_opera",
+   "orig": "クトゥルー・オペラ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ソノラマ文庫 전 4권(1980~1982) · 합본(2015)",
+   "by": "風見潤",
+   "year": 1980,
+   "country": "일본",
+   "setting": "1997년 깨어나는 크툴루의 사신들에 맞서 초능력 쌍둥이들이 모이고, 형과 누이들은 우주선으로 떠난다.",
+   "concepts": [
+    "psionics",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "ソノラマ文庫 — 일본어 위키백과 분류 「宇宙を舞台とした小説」·「クトゥルフ神話に関する小説」 · 일본어 위키백과 「クトゥルー・オペラ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "cruise_chaser_blassty",
+   "orig": "クルーズチェイサー ブラスティー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "소설"
+   ],
+   "first_medium": "게임",
+   "series": "PC-8801 역할수행 게임(1986, 스퀘어) · 소설(ホビージャパン·ソノラマ文庫, 서로 다른 설정)",
+   "by": "スクウェア",
+   "year": 1986,
+   "country": "일본",
+   "setting": "닫힌 계층 우주의 우주 정거장에서 지배 기구와 게릴라가 싸우고, 주인공은 현상금 사냥꾼으로 기체를 키운다.",
+   "concepts": [
+    "habitat",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "스퀘어 초기 PC 게임 — 일본어 위키백과 분류 「宇宙を舞台とした小説」·「巨大ロボットを題材とした小説」 · 일본어 위키백과 「クルーズチェイサー ブラスティー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "crazy_lee",
+   "orig": "「クレイジー・リー」シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ソノラマ文庫 4권+외전(1987~) · 속편 『ダーティプリンス』 5권(~1990)",
+   "by": "渡邉由自",
+   "year": 1987,
+   "country": "일본",
+   "setting": "망국 왕자와 꼭 닮은 우주 해적이 연방 재건의 길에 올라, 고립주의 지구를 끌어들여 적의 명장과 싸운다.",
+   "concepts": [
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "ソノラマ文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「「クレイジー・リー」シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chronos_jaunter",
+   "orig": "クロノス・ジョウンターの伝説",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "잡지 『グリフォン』(1994년 신년호) · 단행본(1994)·ソノラマ文庫 · 영화 『この胸いっぱいの愛を』(2005, 내용 다름) · 영화(2019) · 만화판",
+   "by": "梶尾真治",
+   "year": 1993,
+   "country": "일본",
+   "setting": "물체를 과거로 쏘는 장치가 생기지만 오래 못 머물고 돌아오면 먼 미래로 튕긴다. 그래도 사람들은 탄다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "두 차례 영화화 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「クロノス・ジョウンターの伝説」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "dennou_tenshi_saiin",
+   "orig": "電脳天使",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ソノラマ文庫 전 4권",
+   "by": "彩院忍",
+   "year": 1996,
+   "country": "일본",
+   "setting": "컴퓨터 통신망을 마음대로 오가는 인공 지성체의 눈으로 그린 사이버 소설.",
+   "concepts": [
+    "ai",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 소노라마 문고 대상 가작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ソノラマ文庫」 · 일본어 위키백과 「電脳天使 (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "triggerman_hiura",
+   "orig": "トリガーマン!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "연작 단편집(1987, 재간 세 번) · 카세트북·드라마 CD",
+   "by": "火浦功",
+   "year": 1987,
+   "country": "일본",
+   "setting": "먼 미래, 법이 못 벌하는 악당에게 약자 대신 원한을 갚는 '트리거맨'과, 함정에 빠졌던 용병의 복수.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "SF 단편집 — 일본어 위키백과 분류 「SFの短編小説集」·「ソノラマ文庫」 · 일본어 위키백과 「トリガーマン!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hime_classic_girl",
+   "orig": "姫-クラシックガール-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "series": "『週刊マーガレット』 연재(1986), 전 1권",
+   "by": "茶木ひろみ",
+   "year": 1986,
+   "country": "일본",
+   "setting": "눈 오는 연말, 커피집 주인 앞에 400년 전에서 시간을 건너온 성주의 딸이 나타난다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "ソノラマコミック文庫 복간 — 일본어 위키백과 분류 「ソノラマ文庫」 · 일본어 위키백과 「姫-クラシックガール-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hoshimushi",
+   "orig": "星虫",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "新潮文庫(1990) · ソノラマ文庫 개정판(2000) · 『星虫年代記1』(2009)",
+   "by": "岩本隆雄",
+   "year": 1990,
+   "country": "일본",
+   "setting": "우주에서 온 '별벌레'가 사람 이마에 붙어 힘을 키워 주는 근미래, 소녀는 지구의 비명을 듣는다.",
+   "concepts": [
+    "alien",
+    "parasite",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 일본 판타지 노벨 대상 최종 후보 — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「星虫」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "yousei_sakusen",
+   "orig": "妖精作戦",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ソノラマ文庫 전 4권(1984~1985) · 새 판(1994) · 創元SF文庫(2011)",
+   "by": "笹本祐一",
+   "year": 1984,
+   "country": "일본",
+   "setting": "신주쿠역에서 표를 못 사던 소녀를 도운 고교생들이 그녀를 노리는 이들과 외계·우주 전쟁에 휘말린다.",
+   "concepts": [
+    "psionics",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "라이트 노벨의 직계 조상으로 불리는 작품 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「宇宙戦争を題材とした小説」 · 일본어 위키백과 「妖精作戦」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "yabou_enbukyoku",
+   "orig": "野望円舞曲",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "徳間デュアル文庫(2000~2010)",
+   "by": "田中芳樹(원안), 荻野目悠樹",
+   "year": 2000,
+   "country": "일본",
+   "setting": "성역 사이를 잇는 '우주 해협'으로 퍼진 인류가 초장거리 해협을 찾아 다른 은하까지 건너가 번영한다.",
+   "concepts": [
+    "gate_network",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "徳間デュアル文庫 — 일본어 위키백과 분류 「スペースオペラ」·「宇宙移民を題材としたSF小説」 · 일본어 위키백과 「野望円舞曲」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shokutaku_ni_beer_wo",
+   "orig": "食卓にビールを",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ファンタジアバトルロイヤル』 연재(2003~2007) · 富士見ミステリー文庫 전 6권",
+   "by": "小林めぐみ",
+   "year": 2003,
+   "country": "일본",
+   "setting": "물리광 여고생이자 작가이자 어린 아내가 일상에 끼어든 기묘한 현상을 태연하게 넘기는 SF 코미디 단편.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 일본 단편 후보 세 차례 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「富士見ミステリー文庫」 · 일본어 위키백과 「食卓にビールを」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bokutachi_no_paradox",
+   "orig": "僕たちのパラドクス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見ミステリー文庫(2007~)",
+   "by": "厚木隼",
+   "year": 2007,
+   "country": "일본",
+   "setting": "2006년, 평범한 고교생이 미래에서 왔다는 수수께끼 소녀를 만나 시간 역설이 낳는 문제에 엮인다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제6회 후지미 영 미스터리 대상 — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」 · 일본어 위키백과 「僕たちのパラドクス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "gemini_knives",
+   "orig": "ジェミニ・ナイヴ",
+   "orig_en": "GEMINI×KNIVES",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『メガミマガジン』 연재(2005~) · メガミ文庫 전 2권(2006)",
+   "by": "きむらひでふみ",
+   "year": 2005,
+   "country": "일본",
+   "setting": "별과 별을 오가며 활동하는 덜 팔리는 아이돌과 매니저의 뒷모습은 비합법 자경 조직의 요원이다.",
+   "concepts": [
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "メガミ文庫 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ジェミニ・ナイヴ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "akatsuki_no_byzantilla",
+   "orig": "暁のビザンティラ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "アスペクト 상·하(1993)",
+   "by": "菅浩江",
+   "year": 1993,
+   "country": "일본",
+   "setting": "두 달이 도는 세계, 사람과 마음이 통하는 동물 '메브'와의 공생 뒤에 숨은 진실을 소녀가 알게 된다.",
+   "concepts": [
+    "alien_ecology"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "판타지풍 SF — 일본어 위키백과 분류 「日本のSF小説」·「ログアウト文庫」 · 일본어 위키백과 「暁のビザンティラ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "haibara_kun_no_tsuyokute_seishun",
+   "orig": "灰原くんの強くて青春ニューゲーム",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "HJ文庫 전 11권(2021~2026) · 만화판 · TV 애니메이션",
+   "by": "雨宮和希",
+   "year": 2021,
+   "country": "일본",
+   "setting": "어두운 고교 시절을 보낸 대학 4학년생이 7년 전으로 시간을 건너 다시 고교에 들어간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "HJ 소설대상 2020 최우수상 — 일본어 위키백과 분류 「タイムトラベルを題材とした小説」 · 일본어 위키백과 「灰原くんの強くて青春ニューゲーム」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "afumi_no_umi",
+   "orig": "淡海乃海 水面が揺れる時",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설가가 되자 연재(2016~) · TOブックス(2017~) · 외전 · 만화판 · 무대",
+   "by": "イスラーフィール",
+   "year": 2016,
+   "country": "일본",
+   "setting": "전국 시대 오우미의 작은 영주 집안 후계로 다시 태어난 현대인이 역사와 지식을 써서 천하를 평정한다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "역사 개변 SF 분류 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「歴史改変SF」 · 일본어 위키백과 「淡海乃海 水面が揺れる時」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "alv_rezl",
+   "orig": "アルヴ・レズル -機械仕掛けの妖精たち-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "『BOX-AiR』 연재(2011~) · 講談社BOX(2013) · 웹 만화 · 애니메이션 영화(2013)",
+   "by": "山口優",
+   "year": 2011,
+   "country": "일본",
+   "setting": "2022년, 신경세포를 본뜬 나노 기계로 망에 바로 이어 가상 공간 '넥스트 라이프'에서 사는 이들의 사건.",
+   "concepts": [
+    "nanotech",
+    "mind_upload",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제7회 BOX-AiR 신인상, 애니메이션 영화화 — 일본어 위키백과 분류 「日本のSF小説」·「SFアニメ映画」 · 일본어 위키백과 「アルヴ・レズル -機械仕掛けの妖精たち-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "scarlet_wizard",
+   "orig": "スカーレット・ウィザード",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "C★NOVELSファンタジア 전 6권(1999~2001) · 중공문고(2014) · 뒤 이야기 『暁の天使たち』 등",
+   "by": "茅田砂胡",
+   "year": 1999,
+   "country": "일본",
+   "setting": "천연 워프 지점 '게이트'가 있는 우주, 해적왕이라 불리는 게이트 사냥꾼에게 재벌 총수가 위장 결혼을 청함.",
+   "concepts": [
+    "gate_network",
+    "ai",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제1회 센스 오브 젠더 상 — 일본어 위키백과 분류 「スペースオペラ」 · 일본어 위키백과 「スカーレット・ウィザード」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chou_kakumeiteki_chuugakusei_shuudan",
+   "orig": "超革命的中学生集団",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『中一時代』 연재(1970) · サンヤングシリーズ(1971) · ハヤカワ文庫SF(1974) · 角川文庫(1976)",
+   "by": "平井和正",
+   "year": 1970,
+   "country": "일본",
+   "setting": "결투하려던 중학생 여섯 앞에 비행접시가 나타나, 외계인이 그들의 초능력을 끌어내 지구를 건 시험을 한다.",
+   "concepts": [
+    "psionics",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "平井和正 의 '하차하차 SF' — 일본어 위키백과 분류 「日本のSF小説」·「超能力を題材とした小説」 · 일본어 위키백과 「超革命的中学生集団」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hagane_no_daichi",
+   "orig": "鋼の大地",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "부분 일화 『Notes.』(동인지 1999, 『月姫読本』 2001)만 발표",
+   "by": "奈須きのこ",
+   "year": 1999,
+   "country": "일본",
+   "setting": "TYPE-MOON 작품들의 숱한 미래 가운데 하나로, 인류가 거의 멸종하고 마술도 사라진 세계.",
+   "concepts": [
+    "catastrophe",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "작가가 '엉터리 SF'라 부른 TYPE-MOON 세계의 먼 미래 — 일본어 위키백과 분류 「地球外生命体を題材とした小説」 · 일본어 위키백과 「鋼の大地」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "fire_girl_type_moon",
+   "orig": "ファイヤーガール",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "TYPE-MOON BOOKS 전 7권(2012~2016)",
+   "by": "星空めてお",
+   "year": 2012,
+   "country": "일본",
+   "setting": "평범한 학원 코미디에 미지의 행성 모험과 마법·요정이 뒤섞인 이야기.",
+   "concepts": [
+    "alien",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TYPE-MOON BOOKS — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「ファイヤーガール」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "heian_zankoku_monogatari",
+   "orig": "平安残酷物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『まんたんブロード』 연재(2008~2009) · 講談社BOX(2011) · 만화판",
+   "by": "日日日",
+   "year": 2008,
+   "country": "일본",
+   "setting": "이변으로 어른들이 사라지고 기괴한 벌레가 날뛰는 '헤이안' 시대, 남은 아이들이 죽음 곁에서 하루를 산다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "講談社BOX — 일본어 위키백과 분류 「ディストピア小説」 · 일본어 위키백과 「平安残酷物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "moonrise_netflix",
+   "orig": "ムーンライズ",
+   "orig_en": "MOON RISE",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "넷플릭스 애니메이션(2025, WIT STUDIO) · 冲方丁 소설 전 3권(TO文庫)",
+   "by": "冲方丁(이야기 원안), 肥塚正史(감독)",
+   "year": 2025,
+   "country": "일본",
+   "setting": "모든 판단을 국제 인공지능망에 맡긴 시대, 빈부 격차로 달이 지구에 독립 전쟁을 걸고 청년이 복수에 나선다.",
+   "concepts": [
+    "ai",
+    "colonial_war",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "넷플릭스 독점 애니메이션 — 일본어 위키백과 분류 「SFアニメ」·「日本のSF小説のシリーズ」 · 일본어 위키백과 「ムーンライズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kasei_no_daitouryou_carter",
+   "orig": "火星の大統領カーター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 단편 · 단편집(ハヤカワ・SF・スペシャル 1984, ハヤカワ文庫 1988)",
+   "by": "栗本薫",
+   "year": 1984,
+   "country": "일본",
+   "setting": "버로스의 화성 연작 등 작가가 사랑한 SF 를 비튼 패러디 단편들.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "パロディSF 단편집 — 일본어 위키백과 분류 「日本のSF小説」·「SFの短編小説集」 · 일본어 위키백과 「火星の大統領カーター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "jikan_agent",
+   "orig": "時間エージェント",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "'T・P・ジー・ビー' 연작 단편 · 만화판(1977) · NHK 드라마 『ぼくとマリの時間旅行』(1980) · 라디오(1985)",
+   "by": "小松左京",
+   "year": 1965,
+   "country": "일본",
+   "setting": "시간의 질서를 지키는 시간 관리국 요원들이 과거를 바꾸려는 '시간 범죄'를 단속하는 단편 연작.",
+   "concepts": [
+    "time_travel",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 소년 드라마 시리즈로 드라마화 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「時間エージェント」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ai_no_utagoe_wo_kikasete",
+   "orig": "アイの歌声を聴かせて",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "영화",
+    "소설",
+    "만화"
+   ],
+   "first_medium": "영화",
+   "series": "장편 애니메이션 영화(2021) · 소설판(講談社タイガ) · 만화판",
+   "by": "吉浦康裕",
+   "year": 2021,
+   "country": "일본",
+   "setting": "대기업의 실험 도시 고교에 전학 온 소녀는 시험 중인 인공지능을 실은 인조인간이었다.",
+   "concepts": [
+    "ai",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "松竹 배급 장편 애니메이션 — 일본어 위키백과 분류 「SFアニメ映画」·「人工知能を題材とした小説」 · 일본어 위키백과 「アイの歌声を聴かせて」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "jingai_makyou",
+   "orig": "人外魔境",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『新青年』 연재 13편(1939~1941)",
+   "by": "小栗虫太郎",
+   "year": 1939,
+   "country": "일본",
+   "setting": "세계 곳곳의 사람 발길 닿지 않은 마경에 도전해 온 일본인 탐험가이자 첩자의 회상을 엮은 비경 탐험담.",
+   "concepts": [
+    "forbidden_zone"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "전쟁 전 비경 탐험 소설 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「人外魔境」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "zombie_hunter_hirai",
+   "orig": "死霊狩り",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "만화 『デスハンター』(1969, 桑田次郎 작화) · 소설 3부작(1972~1978)",
+   "by": "平井和正",
+   "year": 1969,
+   "country": "일본",
+   "setting": "우주에서 온 침략자가 사람 몸에 기생해 살아 있는 송장 노예 '좀비'로 만들고, 사냥꾼들이 그에 맞선다.",
+   "concepts": [
+    "alien_invasion",
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "平井和正 의 SF 3부작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「死霊狩り」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "taitei_no_ken",
+   "orig": "大帝の剣",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『野性時代』 연재(1986~) · 『週刊ファミ通』에서 재개(2005~) · 영화(2007) · 만화판",
+   "by": "夢枕獏",
+   "year": 1986,
+   "country": "일본",
+   "setting": "세키가하라 직후, 기이한 큰 칼을 진 거한이 닌자와 검호, 우주에서 온 생명체와 맞붙는 황당무계한 전기.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2007년 영화화 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「大帝の剣」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dream_buster",
+   "orig": "ドリームバスター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "徳間書店 4권(2001~) · 만화판(2006) · トクマ・ノベルズEdge",
+   "by": "宮部みゆき",
+   "year": 2001,
+   "country": "일본",
+   "setting": "다른 위상의 행성에서 의식을 몸에서 떼는 실험이 폭주해 죄수들이 지구인의 꿈속으로 달아나고 사냥꾼이 쫓는다.",
+   "concepts": [
+    "mind_upload",
+    "alt_timeline",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "宮部みゆき 의 SF — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ドリームバスター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hatsukoi_loss_time",
+   "orig": "初恋ロスタイム",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "メディアワークス文庫(2016) · 만화판·실사 영화(2019)",
+   "by": "仁科裕貴",
+   "year": 2016,
+   "country": "일본",
+   "setting": "시간이 멈추는 이상한 시간 '로스타임'을 둘러싼 연애 이야기.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "실사 영화화(2019) — 일본어 위키백과 분류 「日本のSF小説」·「SF小説を原作とする映画」 · 일본어 위키백과 「初恋ロスタイム」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "bubble_2022",
+   "orig": "バブル",
+   "orig_en": "Bubble",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "영화",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "영화",
+   "series": "장편 애니메이션 영화(2022, 넷플릭스 선공개) · 만화판 · 소설판",
+   "by": "荒木哲郎(감독), WIT STUDIO",
+   "year": 2022,
+   "country": "일본",
+   "setting": "수수께끼 거품에 싸여 물에 잠기고 중력 이상으로 모든 게 떠다니는 도쿄, 파쿠르 소년이 소녀를 만난다.",
+   "concepts": [
+    "forbidden_zone",
+    "antigravity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "넷플릭스·극장 공개 장편 애니메이션 — 일본어 위키백과 분류 「SFアニメ映画」·「日本のSF小説」 · 일본어 위키백과 「バブル (2022年の映画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "fukkatsu_no_chi",
+   "orig": "復活の地",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "ハヤカワ文庫 전 3권(2004) · 만화판",
+   "by": "小川一水",
+   "year": 2004,
+   "country": "일본",
+   "setting": "성간 국가를 세웠다 쇠퇴한 인류가 기술을 되찾는 시대, 행성 통일을 노리던 제국의 수도를 대지진이 덮친다.",
+   "concepts": [
+    "catastrophe",
+    "golden_age",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "ハヤカワ文庫 전 3권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「復活の地」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mokei_no_jidai",
+   "orig": "模型の時代",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『オール讀物』(1968) 단편 · 松本零士 만화화(1971)",
+   "by": "小松左京",
+   "year": 1968,
+   "country": "일본",
+   "setting": "인공 자궁으로 아이를 기르고 노동이 거의 사라진 시대, 사람들은 실물보다 쓸모 있는 조립 모형에 빠져 산다.",
+   "concepts": [
+    "post_scarcity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「模型の時代」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "loups_garous_kyogoku",
+   "orig": "ルー=ガルー 忌避すべき狼",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "소설(2001) · 속편 『インクブス×スクブス 相容れぬ夢魔』 · 만화판(2006~2009) · 애니메이션 영화 『ルー=ガルー』",
+   "by": "京極夏彦",
+   "year": 2001,
+   "country": "일본",
+   "setting": "독자에게서 모은 근미래 생각을 엮은, 京極夏彦 로서는 드문 근미래 SF 추리.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "누계 18만 부, 애니메이션 영화화 — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「ルー=ガルー 忌避すべき狼」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ponkotsu_series",
+   "orig": "ポンコツシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ポンコツタイムマシン騒動記』 등 청소년 SF 3부작(1977~1979, 鶴書房)",
+   "by": "石川英輔",
+   "year": 1977,
+   "country": "일본",
+   "setting": "도쿄 서민가의 괴짜 과학자가 고물로 만든 타임머신이 시간뿐 아니라 평행 세계까지 오가 중학생을 끌고 다닌다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "청소년 SF 3부작, 세 차례 재출간 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「ポンコツシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tsubaki_tokitobi",
+   "orig": "つばき、時跳び",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『月刊百科』 연재(2004~2006) · 단행본(2006) · 무대(2010)",
+   "by": "梶尾真治",
+   "year": 2004,
+   "country": "일본",
+   "setting": "구마모토의 옛 저택 천장 속 장치가 타임머신이어서, 막부 말의 아가씨가 현대의 작가 앞에 나타난다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "무대화 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「つばき、時跳び」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "vince_everett_series",
+   "orig": "ヴィンス・エベレットシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『モンゴルの残光』(1967) 등 장편 4편과 단편들 · 라디오 드라마 『退魔戦記』(1983)",
+   "by": "豊田有恒",
+   "year": 1967,
+   "country": "일본",
+   "setting": "23세기 시간 순찰대원이 몽골 제국과 공룡 시대 같은 과거로 가 역사를 지킨다.",
+   "concepts": [
+    "time_police",
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'시간 순찰' 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「歴史改変SF」 · 일본어 위키백과 「ヴィンス・エベレットシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chi_niwa_heiwa_wo",
+   "orig": "地には平和を",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『宇宙塵』(1963) 단편",
+   "by": "小松左京",
+   "year": 1961,
+   "country": "일본",
+   "setting": "1945년 10월에도 본토 결전이 이어지는 일본, 죽으려던 소년병 앞에 '이 역사는 틀렸다'는 사내가 온다.",
+   "concepts": [
+    "alt_timeline",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제1회 하야카와 SF 콘테스트(공상과학소설 콘테스트) 노력상(1961), 나오키상 후보 — 일본어 위키백과 분류 「歴史改変SF」 · 일본어 위키백과 「地には平和を」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "haruka_naru_hoshi",
+   "orig": "遙かなる星",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "トクマ・ノベルズ(1995~1996, 미완)",
+   "by": "佐藤大輔",
+   "year": 1995,
+   "country": "일본",
+   "setting": "1962년 미국의 쿠바 침공으로 핵전쟁이 터진 세계, 일본은 다음 대전을 피하려 우주 개발에 뛰어든다.",
+   "concepts": [
+    "alt_timeline",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "トクマ・ノベルズ — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「歴史改変SF」 · 일본어 위키백과 「遙かなる星」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kabe_abe_koubou",
+   "orig": "壁",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중·단편집(1951, 月曜書房), 표제작은 제25회 아쿠타가와상",
+   "by": "安部公房",
+   "year": 1951,
+   "country": "일본",
+   "setting": "어느 아침 이름에 도망당한 남자가 세상에서 설 자리를 잃고, 가슴에 풍경을 빨아들여 재판에 넘겨진다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "아쿠타가와상 — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「壁 (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kami_to_yajuu_no_hi",
+   "orig": "神と野獣の日",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『女性自身』 연재(1963) · 光文社(1963)",
+   "by": "松本清張",
+   "year": 1963,
+   "country": "일본",
+   "setting": "동맹국이 잘못 쏜 핵미사일 다섯 발이 도쿄에 떨어지기까지 43분, 정부와 사람들이 보이는 희비극.",
+   "concepts": [
+    "catastrophe",
+    "deterrence"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "松本清張 의 첫 SF — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「神と野獣の日」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "reichourui_minami_e",
+   "orig": "霊長類南へ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1969)",
+   "by": "筒井康隆",
+   "year": 1969,
+   "country": "일본",
+   "setting": "냉전 아래 핵전쟁이 터져 인류가 끝을 향해 가는 동안 사람들의 어리석음을 우스꽝스럽게 그린 장편.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1970 일본 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「霊長類南へ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "waga_omomuku_wa_aoki_daichi",
+   "orig": "わが赴くは蒼き大地",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 전후편(1974)",
+   "by": "田中光二",
+   "year": 1974,
+   "country": "일본",
+   "setting": "2205년 외계 적의 습격으로 인류가 해저 도시에만 남고, 백 년 뒤 적을 죽일 바이러스를 찾아 나선다.",
+   "concepts": [
+    "alien_invasion",
+    "habitat",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "애니메이션 『宇宙空母ブルーノア』 기획의 출발점 — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「わが赴くは蒼き大地」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "minori_chan_series",
+   "orig": "みのりちゃんシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "ハヤカワ文庫(1984~) · PC 게임 『日曜日に宇宙人が……?』(1986)",
+   "by": "火浦功",
+   "year": 1984,
+   "country": "일본",
+   "setting": "3대째 미치광이 과학자 집안의 열여덟 살 외동딸이 '가면허' 발명으로 주변에 소동을 일으킨다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "ハヤカワ文庫 — 일본어 위키백과 분류 「日本のSF小説」·「SF小説のシリーズ」 · 일본어 위키백과 「みのりちゃんシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "quantum_families",
+   "orig": "クォンタム・ファミリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『新潮』 연재(2008~2009) · 新潮社(2009)",
+   "by": "東浩紀",
+   "year": 2008,
+   "country": "일본",
+   "setting": "팔리지 않는 소설가에게 2035년의 딸이라는 사람이 메일을 보내오고, 양자론 위의 평행 세계가 열린다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "東浩紀 의 첫 단독 소설 — 일본어 위키백과 분류 「日本のSF小説」·「パラレルワールドを題材とした小説」 · 일본어 위키백과 「クォンタム・ファミリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ooedo_shinsenden",
+   "orig": "大江戸神仙伝",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "講談社(1979)·講談社文庫(1983) · '大江戸' 연작 · TV 영화",
+   "by": "石川英輔",
+   "year": 1979,
+   "country": "일본",
+   "setting": "니혼바시에서 문득 160년 전 에도로 건너간 사내가 의사 집에 얹혀살며 현대 지식으로 각기병 약을 만든다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'大江戸' 연작 첫 작품, TV 영화화 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「大江戸神仙伝」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kugatsu_no_koi_to_deau_made",
+   "orig": "九月の恋と出会うまで",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "新潮社(2007)·双葉社 문고(2016) · 영화(2019)",
+   "by": "松尾由美",
+   "year": 2007,
+   "country": "일본",
+   "setting": "새 아파트 에어컨 구멍 너머에서 들려오는 이웃의 목소리는 1년 뒤인 2005년 가을에서 오는 것이었다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(2019) — 일본어 위키백과 분류 「日本のSF小説」·「SF小説を原作とする映画」 · 일본어 위키백과 「九月の恋と出会うまで」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gosenzo_sama_banzai_komatsu",
+   "orig": "御先祖様万歳",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『別冊サンデー毎日』(1963) 단편",
+   "by": "小松左京",
+   "year": 1963,
+   "country": "일본",
+   "setting": "백 년 전 증조부의 사진에 5년 뒤에야 뚫릴 터널과 열차가 찍혀 있어, 고향에 온 사내가 산을 찾아간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「御先祖様万歳」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "time_slip_tanteidan",
+   "orig": "タイムスリップ探偵団",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社青い鳥文庫 33권(2001~)",
+   "by": "楠木誠一郎",
+   "year": 2001,
+   "country": "일본",
+   "setting": "무슨 계기만 생기면 과거로 건너가는 아이들이 역사 속 사건을 풀고, 시간 순찰대가 그들을 지켜본다.",
+   "concepts": [
+    "time_travel",
+    "time_police"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "어린이 문고 33권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「タイムスリップ探偵団」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "choukuu_jieitai",
+   "orig": "超空自衛隊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "歴史群像新書, 1기와 『SEASON II』(2008~)",
+   "by": "富永浩史",
+   "year": 2008,
+   "country": "일본",
+   "setting": "재해 파견 중이던 자위대 시설 부대가 2차 대전 속으로 건너가 중장비와 미래 지식으로 옛 일본군을 돕는다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "가공 전기 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「架空戦記」 · 일본어 위키백과 「超空自衛隊」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tokio_higashino",
+   "orig": "時生",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『トキオ』(2002, 講談社) · 講談社文庫(2005)에서 개제",
+   "by": "東野圭吾",
+   "year": 2002,
+   "country": "일본",
+   "setting": "1970년대, 철없던 청년이 수수께끼의 소년을 만나 사라진 연인을 쫓으며 자기 삶과 마주한다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "東野圭吾 의 SF 판타지 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「時生」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "maboroshi_shinsengumi",
+   "orig": "まぼろし新撰組",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "뮤지컬(1990~1992) · 소설판(1992, 角川スニーカー文庫)",
+   "by": "栗本薫",
+   "year": 1992,
+   "country": "일본",
+   "setting": "시간 여행으로 신선조와 얽히는 뮤지컬 대본을 栗本薫 가 소설로 옮겼다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "栗本薫 SF — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「まぼろし新撰組」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "mugen_senki",
+   "orig": "夢幻戦記",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ハルキ・ノベルス 15권(1997~2006, 미완)",
+   "by": "栗本薫",
+   "year": 1997,
+   "country": "일본",
+   "setting": "신선조 1번대 조장 오키타 소지를 주인공으로 막부 말과 판타지 세계를 녹여 낸 전기 SF.",
+   "concepts": [
+    "time_travel",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "栗本薫 전기 SF — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「夢幻戦記」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "musubi_no_yama_hiroku",
+   "orig": "産霊山秘録",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 연재(1972) · 早川書房(1973)",
+   "by": "半村良",
+   "year": 1972,
+   "country": "일본",
+   "setting": "신의 후손인 이능 일족 '히'가 세 신기로 시공을 건너며 전국 시대부터 전후까지 일본사 뒤에서 움직인다.",
+   "concepts": [
+    "teleport",
+    "time_travel",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "제1회 이즈미 교카 문학상 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「産霊山秘録」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "yuubae_sakusen",
+   "orig": "夕ばえ作戦",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "소설 · NHK 소년 드라마 시리즈(1974) · 만화판(2008)",
+   "by": "光瀬龍",
+   "year": 1964,
+   "country": "일본",
+   "setting": "고물상에서 산 원통 기계가 타임머신이어서, 중학생이 에도 시대의 닌자 다툼에 뛰어들어 현대와 오간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 소년 드라마 시리즈 — 일본어 위키백과 분류 「日本のSF小説」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「夕ばえ作戦」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "rewrite_houjou",
+   "orig": "リライト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "早川書房(2012)·ハヤカワ文庫JA · 『リビジョン』『リアクト』『リライブ』 · 영화(2025)",
+   "by": "法条遥",
+   "year": 2012,
+   "country": "일본",
+   "setting": "300년 뒤에서 온 소년을 사랑한 중학생이 사고에 휘말린 그를 구하려고 받은 약으로 10년 뒤로 뛴다.",
+   "concepts": [
+    "time_travel",
+    "time_loop"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "4부작, 영화화(2025) — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「タイムトラベルを題材とした小説」 · 일본어 위키백과 「リライト (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ishi_no_ketsumyaku",
+   "orig": "石の血脈",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "早川書房(1971)",
+   "by": "半村良",
+   "year": 1971,
+   "country": "일본",
+   "setting": "불로불사를 손에 넣으려 암약하는 특이 체질자들의 음모에 흡혈귀·늑대인간 전설이 얽히는 SF 전기 로망.",
+   "concepts": [
+    "longevity"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 1972 일본 장편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「石の血脈」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kagami_no_kuni_no_alice_hirose",
+   "orig": "鏡の国のアリス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "河出書房新社(1972) · 集英社文庫 広瀬正 소설 전집",
+   "by": "広瀬正",
+   "year": 1972,
+   "country": "일본",
+   "setting": "남탕에서 쉬던 청년이 정신 차려 보니 좌우가 뒤바뀐 세계의 여탕에 있었다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1973 일본 장편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「鏡の国のアリス (広瀬正)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kirikirijin",
+   "orig": "吉里吉里人",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『小説新潮』 연재(1978~1980) · 新潮社(1981)",
+   "by": "井上ひさし",
+   "year": 1973,
+   "country": "일본",
+   "setting": "도호쿠의 한 시골 마을이 일본 정부에 정나미가 떨어져 '기리키리국'으로 독립을 선언하는 풍자 장편.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 1982·일본 SF 대상 1981·요미우리 문학상 — 일본어 위키백과 「星雲賞」·「日本SF大賞」 · 일본어 위키백과 「吉里吉里人」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "guin_saga",
+   "orig": "グイン・サーガ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "애니메이션",
+    "게임",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "ハヤカワ文庫 본편 150권+외전(1979~), 작가 사후 여럿이 이어 씀 · 애니메이션 · 게임",
+   "by": "栗本薫",
+   "year": 1979,
+   "country": "일본",
+   "setting": "표범 머리의 이형 전사 구인이 중원의 왕국들 사이에서 싸우는 영웅 판타지, 옛 물질 전송 장치가 남아 있다.",
+   "concepts": [
+    "teleport",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "성운상 2010 일본 장편·일본 SF 대상 2009 특별상, 누계 3,300만 부 — 일본어 위키백과 「星雲賞」·「日本SF大賞」 · 일본어 위키백과 「グイン・サーガ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "shiseikan_series",
+   "orig": "司政官シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "중·단편 7편, 장편 『消滅の光輪』·『引き潮のとき』(1971~)",
+   "by": "眉村卓",
+   "year": 1971,
+   "country": "일본",
+   "setting": "인류가 숱한 행성에 식민한 시대, 연방이 보낸 관료 '사정관'이 홀로 로봇 관료를 부리며 행성을 다스린다.",
+   "concepts": [
+    "colonization",
+    "robot",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "성운상 1979·1996 일본 장편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「司政官シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "jougen_no_tsuki_wo_taberu_shishi",
+   "orig": "上弦の月を喰べる獅子",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFマガジン』 연재(1986~1988) · 早川書房(1989)",
+   "by": "夢枕獏",
+   "year": 1986,
+   "country": "일본",
+   "setting": "나선을 모으는 사내와 젊은 미야자와 겐지가 시간을 넘어 하나가 되어 이세계로 가, 수미산 꼭대기를 향한다.",
+   "concepts": [
+    "merge",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 1989·성운상 1990 일본 장편 — 일본어 위키백과 「日本SF大賞」·「星雲賞」 · 일본어 위키백과 「上弦の月を喰べる獅子」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "chikyuu_wa_plain_yogurt",
+   "orig": "地球はプレイン・ヨーグルト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『宇宙塵』(1977)·『S-Fマガジン』(1978) 단편 · 같은 제목 단편집(ハヤカワ文庫JA)",
+   "by": "梶尾真治",
+   "year": 1977,
+   "country": "일본",
+   "setting": "추락한 UFO 의 문어 같은 외계인은 맛으로 말해서, 요리사와 미식가가 모여 맛의 사전을 만든다.",
+   "concepts": [
+    "first_contact",
+    "alien",
+    "translator"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1979 일본 단편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「地球はプレイン・ヨーグルト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "hoshi_no_pilot",
+   "orig": "星のパイロット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "ソノラマ文庫 전 4권(1997~2000) · 朝日ノベルズ 새 판(2012~2013)",
+   "by": "笹本祐一",
+   "year": 1997,
+   "country": "일본",
+   "setting": "민간 항공우주 회사들이 겨루는 우주 개척 시대, 여성 우주 비행사가 위성 배달과 자원 경쟁에 뛰어든다.",
+   "concepts": [
+    "mega_corp",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 1999 일본 장편(『彗星狩り』) — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「星のパイロット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kyomu_kairou",
+   "orig": "虚無回廊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFアドベンチャー』 연재 등, 미완 대작",
+   "by": "小松左京",
+   "year": 1985,
+   "country": "일본",
+   "setting": "초거대 우주 구조물 'SS'에 인류가 보낸 인공 지성이 숱한 외계 지성과 만나 그 비밀을 함께 캔다.",
+   "concepts": [
+    "megastructure",
+    "ai",
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "小松左京 SF 의 총결산이라 불리는 작품 — 일본어 위키백과 분류 「日本のSF小説」·「宇宙を舞台とした小説」 · 일본어 위키백과 「虚無回廊」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sanzen_sekai_no_karasu",
+   "orig": "三千世界の鴉を殺し",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ウイングス文庫 24권(1999~) · 『喪神の碑』·『カラワンギ・サーガラ』(角川スニーカー文庫)의 뒤 이야기 · 드라마 CD",
+   "by": "津守時生",
+   "year": 1999,
+   "country": "일본",
+   "setting": "먼 미래, 변경 행성 기지로 좌천된 장교가 마약 밀매 사건을 계기로 행성의 음모에 휘말린다.",
+   "concepts": [
+    "clone",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "ウイングス文庫 24권 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「三千世界の鴉を殺し」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chiryoutou",
+   "orig": "治療塔",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『治療塔』(1990) · 속편 『治療塔惑星』(1991), 岩波書店",
+   "by": "大江健三郎",
+   "year": 1989,
+   "country": "일본",
+   "setting": "핵전쟁과 원전 사고로 망가진 21세기 중반, '뽑힌 자' 백만이 새 지구로 떠나고 '낙오자'들이 남는다.",
+   "concepts": [
+    "catastrophe",
+    "earth_left",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "大江健三郎 의 SF 2부작 — 일본어 위키백과 분류 「日本のSF小説」·「宇宙を舞台とした小説」 · 일본어 위키백과 「治療塔」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "fractale_anime",
+   "orig": "フラクタル",
+   "orig_en": "FRACTALE",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 애니메이션 11화(2011, 노이타미나) · 만화판 · 東浩紀 소설",
+   "by": "山本寛(감독), 東浩紀(이야기 원안)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "몸에 단말을 심고 생활 기록을 보내면 누구나 기본 소득을 받는 22세기, 낙원 같던 체계가 무너져 간다.",
+   "concepts": [
+    "post_scarcity",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "노이타미나 TV 애니메이션 — 일본어 위키백과 분류 「SFアニメ」·「ディストピア漫画」 · 일본어 위키백과 「フラクタル/リローデッド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "maboroshi_no_penfriend",
+   "orig": "まぼろしのペンフレンド",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『中学一年コース』 연재(1966) · SF少年文庫(1970) · NHK 드라마(1974·2001)",
+   "by": "眉村卓",
+   "year": 1966,
+   "country": "일본",
+   "setting": "중학교를 무대로 로봇과 인공지능을 다룬 眉村卓 의 청소년 SF.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 소년 드라마 시리즈 — 일본어 위키백과 분류 「日本のSF小説」·「人工知能を題材とした小説」 · 일본어 위키백과 「まぼろしのペンフレンド」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "moshimo_tokugawa_ieyasu",
+   "orig": "もしも徳川家康が総理大臣になったら",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "サンマーク出版(2021) · 영화(2024·2025)",
+   "by": "眞邊明人",
+   "year": 2021,
+   "country": "일본",
+   "setting": "역병으로 총리가 죽자 정부가 인공지능과 입체 영상으로 위인들을 되살려 이에야스 내각을 꾸린다.",
+   "concepts": [
+    "ai",
+    "hologram",
+    "resurrection"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(2024), 흥행 12억 엔 — 일본어 위키백과 분류 「日本のSF小説」·「人工知能を題材とした小説」 · 일본어 위키백과 「もしも徳川家康が総理大臣になったら」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "asu_dorobou",
+   "orig": "明日泥棒",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『週刊現代』 연재(1965) · 講談社(1965)",
+   "by": "小松左京",
+   "year": 1965,
+   "country": "일본",
+   "setting": "상식을 넘는 힘을 지닌 '고에몬'이 현대 사회에 나타나, 그 힘을 쓰려는 이들로 소동이 벌어지는 풍자 희극.",
+   "concepts": [
+    "alien",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 의 희극 SF — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「明日泥棒」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kamisaki_series",
+   "orig": "「架見崎」シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ウォーター&ビスケットのテーマ』(2017~2018, 角川スニーカー文庫) · 『さよならの言い方なんて知らない。』(新潮文庫nex, 2019~)",
+   "by": "河野裕",
+   "year": 2017,
+   "country": "일본",
+   "setting": "8월이 되풀이되는 도시 '가미사키'에 초대된 고교생들이 능력자들의 영토 전쟁에 뛰어든다.",
+   "concepts": [
+    "time_loop",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "누계 25만 부 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超能力を題材とした小説」 · 일본어 위키백과 「「架見崎」シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "crossfire_miyabe",
+   "orig": "クロスファイア",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "光文社(1998) · 전일담 『燔祭』 · 영화(2000)",
+   "by": "宮部みゆき",
+   "year": 1998,
+   "country": "일본",
+   "setting": "불을 일으키는 염력을 타고난 여성이 악당들을 태워 단죄하고, 방화 수사반 형사가 그 뒤를 쫓는다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(2000) — 일본어 위키백과 분류 「日本のSF小説」·「超能力を題材とした小説」 · 일본어 위키백과 「クロスファイア (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gordias_no_musubime",
+   "orig": "ゴルディアスの結び目",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『野性時代』(1976) 단편 · 같은 제목 단편집(1977)",
+   "by": "小松左京",
+   "year": 1976,
+   "country": "일본",
+   "setting": "염동력으로 밀실에 바위를 불러내는 소녀의 마음속으로, 정신 분석의가 기계를 이어 들어간다.",
+   "concepts": [
+    "psionics",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1978 일본 단편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「ゴルディアスの結び目 (小松左京の小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "strayers_chronicle",
+   "orig": "ストレイヤーズ・クロニクル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "『小説すばる』 연재 3부(2010~2012) · 영화(2015)",
+   "by": "本多孝好",
+   "year": 2010,
+   "country": "일본",
+   "setting": "비밀 기관의 실험으로 특수 능력을 얻는 대신 스무 살 무렵까지만 사는 아이들이 두 패로 갈려 싸운다.",
+   "concepts": [
+    "genetic_eng",
+    "psionics",
+    "super_soldier"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "영화화(2015) — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「フィクションにおける遺伝子工学」 · 일본어 위키백과 「ストレイヤーズ・クロニクル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "taiyou_no_sekai_hanmura",
+   "orig": "太陽の世界",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『野性時代』 연재(1980~), 18권에서 중단(1989), 전 80권 예정",
+   "by": "半村良",
+   "year": 1980,
+   "country": "일본",
+   "setting": "가공의 대륙 무의 2천 년 역사를 처음부터 지어내려 한 대하 소설.",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "未完의 대하 SF — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ムー文明を題材とした小説」 · 일본어 위키백과 「太陽の世界」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "dope_mayaku_torishimari",
+   "orig": "DOPE 麻薬取締部特捜課",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "KADOKAWA(2022)·角川文庫(2025) · TBS 드라마(2025) · 만화판",
+   "by": "木崎ちあき",
+   "year": 2022,
+   "country": "일본",
+   "setting": "먹으면 드물게 특수한 힘에 눈뜨는 마약이 번진 근미래, 이능력자를 모은 단속 특수 수사과가 맞선다.",
+   "concepts": [
+    "awakening_substance",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TBS 연속 드라마화(2025) — 일본어 위키백과 분류 「日本のSF小説」·「超能力を題材とした小説」 · 일본어 위키백과 「DOPE 麻薬取締部特捜課」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tokono_monogatari",
+   "orig": "常野物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『光の帝国』·『蒲公英草紙』·『エンド・ゲーム』 · NHK 드라마(2001)",
+   "by": "恩田陸",
+   "year": 1997,
+   "country": "일본",
+   "setting": "특수한 능력을 지니고 조용히 사람들 틈에 섞여 사는 '도코노'의 사람들을 그린 연작.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "3부작, 드라마화 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「超能力を題材とした小説」 · 일본어 위키백과 「常野物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "swallowtail_series",
+   "orig": "スワロウテイルシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ハヤカワ文庫JA 전 4권(2010~2013)",
+   "by": "籘真千歳",
+   "year": 2010,
+   "country": "일본",
+   "setting": "'종의 자멸'이라는 병이 번져 남녀가 갈려 사는 인공섬 도쿄 자치구, 사람을 본뜬 인공 요정이 반려가 된다.",
+   "concepts": [
+    "android",
+    "nanotech",
+    "infertility"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "ハヤカワ文庫JA — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「ナノテクノロジーを題材とした小説」 · 일본어 위키백과 「スワロウテイルシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "daiyon_kanpyouki",
+   "orig": "第四間氷期",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『世界』 연재(1958~1959) · 講談社(1959)",
+   "by": "安部公房",
+   "year": 1958,
+   "country": "일본",
+   "setting": "미래를 내다보는 전자두뇌를 만든 박사가 한 사내의 앞날을 점치다 인류의 가혹한 미래와 제 운명을 안다.",
+   "concepts": [
+    "ai",
+    "precognition",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 최초의 본격 장편 SF 로 꼽힘 — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「第四間氷期」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nippon_urimasu",
+   "orig": "日本売ります",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『週刊サンケイ』(1964) 단편 · 같은 제목 단편집(1965)",
+   "by": "小松左京",
+   "year": 1964,
+   "country": "일본",
+   "setting": "일본 열도가 사람째 사라진 지 30년, 한 선원이 개구리 같은 사내에게 일본을 팔아넘긴 사연을 털어놓는다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「日本売ります」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "green_requiem",
+   "orig": "グリーン・レクイエム",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "중편(1980) · 영화(1988 공개) · 속편 『緑幻想』(1990) · 만화판",
+   "by": "新井素子",
+   "year": 1980,
+   "country": "일본",
+   "setting": "초록 머리카락의 여인은 광합성으로 사는 식물계 외계인이었고, 그 몸에 지구의 운명이 걸린 비밀이 있다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1981 일본 단편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「グリーン・レクイエム」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "teito_monogatari",
+   "orig": "帝都物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『小説王』 연재·カドカワノベルズ(1985~) · 영화(1988) · 애니메이션·만화",
+   "by": "荒俣宏",
+   "year": 1985,
+   "country": "일본",
+   "setting": "마사카도의 원령으로 수도를 부수려는 마인과 맞서는 이들의, 메이지 말부터 쇼와 73년까지의 싸움.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "일본 SF 대상 1987 — 일본어 위키백과 「日本SF大賞」 · 영화화(1988) · 일본어 위키백과 「帝都物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "oito_komatsu",
+   "orig": "お糸",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』(1975) 단편",
+   "by": "小松左京",
+   "year": 1975,
+   "country": "일본",
+   "setting": "'미래에서 온 세력'에 역사가 바뀐 평행 세계의 에도, 기계 가마가 달리고 상인이 비행선으로 미국에 간다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」·「パラレルワールドを題材とした小説」 · 일본어 위키백과 「お糸」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "r62_gou_no_hatsumei",
+   "orig": "R62号の発明",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『文學界』(1953) 단편",
+   "by": "安部公房",
+   "year": 1953,
+   "country": "일본",
+   "setting": "해고당해 죽으려던 기술자가 제 '시체'를 팔아 산 채 로봇이 되고, 자신을 자른 회사에 파견된다.",
+   "concepts": [
+    "cyborg",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "安部公房 단편 — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「R62号の発明」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "saigo_no_kitsuensha",
+   "orig": "最後の喫煙者",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『小説新潮』(1987) 단편",
+   "by": "筒井康隆",
+   "year": 1987,
+   "country": "일본",
+   "setting": "흡연자 배척이 마녀사냥처럼 번진 끝에, 국회의사당 꼭대기에 앉은 지구 최후의 흡연자가 지난 일을 돌아본다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'담배판 『1984』' — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「最後の喫煙者」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "juuhachiji_no_ongakuyoku",
+   "orig": "十八時の音楽浴",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『モダン日本』(1937) 단편",
+   "by": "海野十三",
+   "year": 1937,
+   "country": "일본",
+   "setting": "전쟁으로 지상을 잃은 인류의 지하 나라, 독재자가 마음을 부리는 음악을 하루 30분 듣게 해 다스린다.",
+   "concepts": [
+    "mind_control",
+    "control_society",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전쟁 전 디스토피아 SF — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「十八時の音楽浴」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "seikatsu_ijishou",
+   "orig": "生活維持省",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "『宝石』(1960) 짧은 소설 · 드라마 세 번(1961~2022) · NHK 『星新一ショートショート』 애니메이션(2008)",
+   "by": "星新一",
+   "year": 1960,
+   "country": "일본",
+   "setting": "공해도 범죄도 전쟁도 없는 평화로운 나라, '생활 유지성' 직원이 카드에 적힌 집을 찾아 나선다.",
+   "concepts": [
+    "control_society",
+    "overpopulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "星新一 짧은 소설 — 일본어 위키백과 분류 「日本のSF小説」·「ディストピア小説」 · 일본어 위키백과 「生活維持省」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mm9_yamamoto",
+   "orig": "MM9",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『ミステリーズ!』 연재(2005~2006) · 東京創元社(2007)·創元SF文庫 · 연작 · TV 드라마(2010)",
+   "by": "山本弘",
+   "year": 2005,
+   "country": "일본",
+   "setting": "괴수가 실재해 그 피해를 자연재해로 다루는 세계, 기상청 특이 생물 대책부 직원들이 괴수 재해에 맞선다.",
+   "concepts": [
+    "space_beast",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『SF가 읽고 싶다!』 2009 국내 2위, 일본 SF 대상 후보 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「MM9」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sexy_travel_izumi",
+   "orig": "セクシートラベル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "桃園文庫(1986)",
+   "by": "泉大八",
+   "year": 1986,
+   "country": "일본",
+   "setting": "평범한 회사원이 어느 일요일 아침 벼룩만큼 작아진 몸으로 깨어나는 관능 소설.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본어 위키백과 분류 「日本のSF小説」·「人間の巨大化・縮小化を題材とした小説」 · 일본어 위키백과 「セクシートラベル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "cyborg_blues",
+   "orig": "サイボーグ・ブルース",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 연작(1968~1969) · 단행본(1971) · 만화판",
+   "by": "平井和正",
+   "year": 1968,
+   "country": "일본",
+   "setting": "세계 연방 시대, 동료에게 저격당한 경관이 사이보그 수사관으로 되살아나 범죄 조직과 연방의 진실에 맞선다.",
+   "concepts": [
+    "cyborg",
+    "resurrection",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "平井和正 연작 — 일본어 위키백과 분류 「日本のSF小説」·「サイボーグを題材とした小説」 · 일본어 위키백과 「サイボーグ・ブルース」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "i_am_suga",
+   "orig": "アイ・アム I am.",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "祥伝社 문고 신작 · 영화(2010)",
+   "by": "菅浩江",
+   "year": 2001,
+   "country": "일본",
+   "setting": "병원이 만든 인공지능 간병 로봇이 환자를 돌보며 배우고, 로봇이 되기 전의 자신을 찾는다.",
+   "concepts": [
+    "ai",
+    "robot",
+    "mind_upload"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(2010) — 일본어 위키백과 분류 「日本のSF小説」·「自律ロボットを題材とした小説」 · 일본어 위키백과 「アイ・アム I am.」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "aadd_series",
+   "orig": "AADDシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ウロボロスの波動』『ストリンガーの沈黙』『ファントマは哭く』(1999~)",
+   "by": "林譲治",
+   "year": 1999,
+   "country": "일본",
+   "setting": "2100년 태양계 곁에서 찾은 블랙홀의 에너지를 쓰는 사업단이 지구와 맞서고, 외계 지성과 첫 접촉한다.",
+   "concepts": [
+    "first_contact",
+    "megastructure",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『S-Fマガジン』 연재로 시작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「太陽系を舞台とした小説」 · 일본어 위키백과 「AADDシリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "akatsuki_wa_tada_giniro",
+   "orig": "暁はただ銀色",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『中学三年コース』 연재(1965) · サンヤング(1970) · NHK 소년 드라마 시리즈(1973)",
+   "by": "光瀬龍",
+   "year": 1965,
+   "country": "일본",
+   "setting": "환각에 시달리는 동급생 말대로 불탄 집 지하를 파자 원통이 폭발하고, 소년이 그 비밀을 쫓는다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 소년 드라마 시리즈 — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「暁はただ銀色」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "another_heaven",
+   "orig": "アナザヘヴン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화",
+    "드라마",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "『小説ASUKA』 연재(1995~) · 영화(2000) · 드라마 『〜eclipse〜』 · 게임 · 『アナザヘヴン2』(2003~2004)",
+   "by": "飯田譲治·梓河人",
+   "year": 1995,
+   "country": "일본",
+   "setting": "두 형사가 사람 뇌를 요리하는 정체 모를 범인을 쫓는 SF 공포 연작.",
+   "concepts": [
+    "alien",
+    "impostor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "영화·드라마·게임으로 이어진 'アナザヘヴン・コンプレックス' — 일본어 위키백과 분류 「日本のSFホラー小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「アナザヘヴン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "uchuugun_shikan_gakkou",
+   "orig": "宇宙軍士官学校",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "ハヤカワ文庫JA 18권(2012~)",
+   "by": "鷹見一幸",
+   "year": 2012,
+   "country": "일본",
+   "setting": "외계인과의 첫 접촉으로 지구 연방과 우주군이 생기고, 인류는 은하 평의회의 '숙청자' 전쟁에 들어선다.",
+   "concepts": [
+    "first_contact",
+    "federation",
+    "galactic_threat",
+    "fleet_battle"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "'일본인이 쓰는 밀리터리 SF' — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「スペースオペラ」 · 일본어 위키백과 「宇宙軍士官学校」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ousatsu_no_hukkebein",
+   "orig": "鏖殺の凶鳥",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "富士見書房(2000) · 角川文庫 『凶鳥〈フッケバイン〉』(2003)",
+   "by": "佐藤大輔",
+   "year": 2000,
+   "country": "일본",
+   "setting": "1945년 4월 무너지는 독일에 정체 모를 원반이 떨어지고, 히틀러가 보낸 회수 부대가 시골 마을로 간다.",
+   "concepts": [
+    "alien",
+    "first_contact"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "佐藤大輔 SF — 일본어 위키백과 분류 「日本のSF小説」·「未確認飛行物体を題材とした小説」 · 일본어 위키백과 「鏖殺の凶鳥」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kasei_heidan",
+   "orig": "火星兵団",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "소학생 신문 연재(1939~1940) · 전후 『火星魔』로 개제(1948)",
+   "by": "海野十三",
+   "year": 1939,
+   "country": "일본",
+   "setting": "지구 침략을 꾀하는 화성인 '마루키'에게 끌려다니게 된 지바의 소년의 모험.",
+   "concepts": [
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전쟁 전 어린이 SF — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「火星兵団」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kuuchuu_toshi_008",
+   "orig": "空中都市008",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『月刊PTA』 연재(1968) · 단행본(1969) · NHK 인형극(1969~1970)",
+   "by": "小松左京",
+   "year": 1968,
+   "country": "일본",
+   "setting": "과학 기술이 발달한 21세기의 '아오조라시'에서 아이들이 사는 미래 생활을 그린 어린이 SF.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 인형극화 — 일본어 위키백과 분류 「日本のSF小説」·「未来を題材とした小説」 · 일본어 위키백과 「空中都市008」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "koyoi_ginga_wo_hai_ni_shite",
+   "orig": "今宵、銀河を杯にして",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFアドベンチャー』 연재(1985~1986) · 徳間書店(1987) · ハヤカワ文庫(1995)",
+   "by": "神林長平",
+   "year": 1985,
+   "country": "일본",
+   "setting": "수천 년 뒤 인류와 외계인 '바시안'이 다투는 행성에서, 신임 소위가 말썽꾼 전차와 땡땡이 승무원을 맡는다.",
+   "concepts": [
+    "alien",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'유쾌한 雪風'라 불린 작품 — 일본어 위키백과 분류 「日本のSF小説」·「宇宙戦争を題材とした小説」 · 일본어 위키백과 「今宵、銀河を杯にして」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tasogare_ni_kaeru",
+   "orig": "たそがれに還る",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "早川書房(1964) · '우주 연대기' 연작",
+   "by": "光瀬龍",
+   "year": 1964,
+   "country": "일본",
+   "setting": "태양계를 정복한 3700년대 인류의 우주선이 수백 척씩 사라지고, 조사대가 초고대 성간 문명을 좇는다.",
+   "concepts": [
+    "precursor",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "光瀬龍 '우주 연대기' — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「たそがれに還る」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ningen_sokkuri",
+   "orig": "人間そっくり",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 연재(1966) · 早川書房(1967) · TV 드라마",
+   "by": "安部公房",
+   "year": 1966,
+   "country": "일본",
+   "setting": "'안녕 화성인' 라디오 대본 작가에게 화성인이라는 사내가 찾아와, 작가는 무엇이 현실인지 모르게 된다.",
+   "concepts": [
+    "alien",
+    "impostor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "安部公房 SF 장편 — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「人間そっくり」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mishiranu_asu",
+   "orig": "見知らぬ明日",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『週刊文春』 연재(1968)",
+   "by": "小松左京",
+   "year": 1968,
+   "country": "일본",
+   "setting": "문화대혁명 무렵 중국 오지에서 외계인과 첫 접촉이 시작되고, 나라끼리의 다툼 속에 인류가 시험받는다.",
+   "concepts": [
+    "first_contact",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 장편 — 일본어 위키백과 분류 「日本のSF小説」·「地球外生命体を題材とした小説」 · 일본어 위키백과 「見知らぬ明日」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "wakusei_series_ishihara",
+   "orig": "惑星シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ハイウェイ惑星』(ハヤカワ・SF・シリーズ, 1967) 등 연작 단편, 장편 『タイムマシン惑星』",
+   "by": "石原藤夫",
+   "year": 1967,
+   "country": "일본",
+   "setting": "먼 미래 행성 개발 컨설팅 회사의 조사원 두 사람과 로봇이 기묘한 행성들을 조사하는 하드 SF 연작.",
+   "concepts": [
+    "colonization",
+    "alien_ecology",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "'일본 SF 가 낳은 첫 본격 과학파' 작가의 대표작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「惑星シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ryuusei_calling",
+   "orig": "流星コーリング",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "KADOKAWA(2019) · 만화판",
+   "by": "河邉徹",
+   "year": 2019,
+   "country": "일본",
+   "setting": "히로시마에 인공 유성이 떨어지기로 한 날, 운 나쁜 고교생이 같은 하루를 되풀이하게 된다.",
+   "concepts": [
+    "time_loop"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제10회 히로시마 책 대상 — 일본어 위키백과 분류 「日本のSF小説」·「タイムループを題材とした小説」 · 일본어 위키백과 「流星コーリング」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "eros_hirose",
+   "orig": "エロス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『週刊読売』 연재 · 河出書房新社(1971) · NHK 단막 드라마(1977)",
+   "by": "広瀬正",
+   "year": 1971,
+   "country": "일본",
+   "setting": "늙은 가수와 과학자가 다시 만나, 젊은 날 둘이 맺어졌다면 어땠을지 평행 세계로 펼쳐 보인다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "나오키상 후보 — 일본어 위키백과 분류 「日本のSF小説」·「パラレルワールドを題材とした小説」 · 일본어 위키백과 「エロス (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bigeikou",
+   "orig": "美藝公",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『GORO』 연재(1980) · 文藝春秋(1981)",
+   "by": "筒井康隆",
+   "year": 1980,
+   "country": "일본",
+   "setting": "영화 산업이 기간산업이라 정치도 영화에 맞추는 일본, 정점의 배우 '미예공'은 총리보다 존경받는다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "筒井康隆 평행 세계 SF — 일본어 위키백과 분류 「日本のSF小説」·「パラレルワールドを題材とした小説」 · 일본어 위키백과 「美藝公」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kanpeki_na_namida",
+   "orig": "完璧な涙",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』 연재(1986~1990) · ハヤカワ文庫 · 만화판 · 라디오 드라마",
+   "by": "神林長平",
+   "year": 1986,
+   "country": "일본",
+   "setting": "문명 붕괴 뒤 3백 년, 대부분 사막이 된 먼 미래에 감정 없는 소년이 유적에서 옛 전차를 파낸다.",
+   "concepts": [
+    "catastrophe",
+    "golden_age"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "神林長平 장편 — 일본어 위키백과 분류 「日本のSF小説」·「文明崩壊後の世界が描かれた小説」 · 일본어 위키백과 「完璧な涙」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bokura_wa_toshi_wo_aishiteita",
+   "orig": "ぼくらは都市を愛していた",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "朝日新聞出版(2012)",
+   "by": "神林長平",
+   "year": 2012,
+   "country": "일본",
+   "setting": "'정보진'이라는 현상으로 도시와 정보 체계가 무너진 세계, 정보군 장교와 통신 회로를 심은 형사의 이야기.",
+   "concepts": [
+    "catastrophe",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "神林長平 장편 — 일본어 위키백과 분류 「日本のSF小説」·「文明崩壊後の世界が描かれた小説」 · 일본어 위키백과 「ぼくらは都市を愛していた」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "historia_series_niki",
+   "orig": "HISTORIAシリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『グアルディア』(2004, ハヤカワSFシリーズ Jコレクション) 등 따로 선 장편들",
+   "by": "仁木稔",
+   "year": 2004,
+   "country": "일본",
+   "setting": "문명 붕괴 앞뒤의 같은 세계를 무대로, 따로 선 이야기들이 하나의 미래사를 이룬다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "仁木稔 의 미래사 연작 — 일본어 위키백과 분류 「日本のSF小説」(작가 문서) · 일본어 위키백과 「仁木稔」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ai_no_monogatari",
+   "orig": "アイの物語",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "角川書店(2006)",
+   "by": "山本弘",
+   "year": 2006,
+   "country": "일본",
+   "setting": "인류가 쇠퇴한 미래, 인조인간이 사람 젊은이에게 이야기를 들려주며 사람과 기계의 긴 드라마에 끝을 낸다.",
+   "concepts": [
+    "android",
+    "ai",
+    "machine_rights"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 후보, 『SF가 읽고 싶다!』 2007 국내 2위 — 일본어 위키백과 분류 「日本のSF小説」·「自律ロボットを題材とした小説」 · 일본어 위키백과 「アイの物語」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "asa_no_gaspard",
+   "orig": "朝のガスパール",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『朝日新聞』 연재(1991~1992)",
+   "by": "筒井康隆",
+   "year": 1991,
+   "country": "일본",
+   "setting": "온라인 게임 속 세계부터 게임하는 사람들, 그들을 쓰는 작가와 독자까지 다섯 겹 세계가 겹치는 소설.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상 1992 — 일본어 위키백과 「日本SF大賞」 · 일본어 위키백과 「朝のガスパール」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "ad_bird",
+   "orig": "アド・バード",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『すばる』 연재(1987~1989) · 集英社(1990)",
+   "by": "椎名誠",
+   "year": 1987,
+   "country": "일본",
+   "setting": "개조 생물로 벌인 광고 전쟁에 황폐해진 세계, 형제가 아버지를 찾아 기괴한 생물이 우글대는 길을 간다.",
+   "concepts": [
+    "genetic_eng",
+    "catastrophe",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 1990 — 일본어 위키백과 「日本SF大賞」 · 일본어 위키백과 「アド・バード」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "america_no_kabe",
+   "orig": "アメリカの壁",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』(1977) 단편",
+   "by": "小松左京",
+   "year": 1977,
+   "country": "일본",
+   "setting": "고립주의 대통령 아래 미국이 갑자기 흰 안개벽에 싸여 바깥과 끊긴다.",
+   "concepts": [
+    "forbidden_zone"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「アメリカの壁」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "android_oyuki",
+   "orig": "アンドロイドお雪",
+   "orig_en": "Oyuki the Android",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "立風書房(1969)",
+   "by": "平井和正",
+   "year": 1969,
+   "country": "일본",
+   "setting": "로봇과 사람의 갈등을 그린 平井和正 의 두 번째 장편.",
+   "concepts": [
+    "android",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "平井和正 장편 — 일본어 위키백과 분류 「日本のSF小説」·「自律ロボットを題材とした小説」 · 일본어 위키백과 「アンドロイドお雪」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "anya_hashimoto",
+   "orig": "暗野",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "北宋社(1981) · 河出文庫",
+   "by": "橋本治",
+   "year": 1981,
+   "country": "일본",
+   "setting": "어느 날 도쿄 전체의 무의식 영역이 풀려나, 살의가 옮듯 꿈인지 생시인지 모를 대살육이 벌어진다.",
+   "concepts": [
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「暗野」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "umi_kara_kita_typhus",
+   "orig": "海からきたチフス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『ゼロの怪物ヌル』(1969, 金の星社) · 개제(1972)",
+   "by": "畑正憲",
+   "year": 1969,
+   "country": "일본",
+   "setting": "여름방학에 오시마를 찾은 일가가, 바다 생물을 먹어 치우는 정체 모를 하얀 덩어리의 이변과 마주친다.",
+   "concepts": [
+    "parasite",
+    "alien_ecology"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "'少年少女21世紀のSF' 총서 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「海からきたチフス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "a_course_yamada",
+   "orig": "Aコース",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『Aコース』(2004) · 속편 『Fコース』(2005), 幻冬舎",
+   "by": "山田悠介",
+   "year": 2004,
+   "country": "일본",
+   "setting": "현실과 구별 안 되는 가상 세계 오락 '버추어'에 뛰어든 젊은이들에게 돌이킬 수 없는 일이 벌어진다.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "山田悠介 SF — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「Aコース」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "oi_detekoi",
+   "orig": "おーい でてこーい",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "짧은 소설(1958) · 『世にも奇妙な物語』(1992) · NHK 애니메이션(2008) · 만화·그림책",
+   "by": "星新一",
+   "year": 1958,
+   "country": "일본",
+   "setting": "태풍 뒤 무너진 사당 자리에 돌을 던져도 소리 없는 깊은 구멍이 생기고, 이권꾼이 그 구멍을 사들인다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "여러 나라 교과서에 실린 짧은 소설 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「おーい でてこーい」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ore_wa_missile",
+   "orig": "おれはミサイル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFマガジン』(2002) 단편",
+   "by": "秋山瑞人",
+   "year": 2002,
+   "country": "일본",
+   "setting": "끝없는 하늘에서 수십 년째 나는 낡은 미사일 모기는 땅이라는 것을 믿지 않는다. 사람은 나오지 않는다.",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 2003 일본 단편 — 일본어 위키백과 「星雲賞」 · 일본어 위키백과 「おれはミサイル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kaitei_yuden",
+   "orig": "海底油田",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "小松左京 단편 · 만화 『1万年の目覚め』(さいとう・たかを)",
+   "by": "小松左京",
+   "year": 1964,
+   "country": "일본",
+   "setting": "해저 지진 뒤 바다에서 정제된 석유가 솟자, 가라앉은 무 대륙의 석유 저장고라는 가설이 나온다.",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 단편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「海底油田 (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kaitouou_unno",
+   "orig": "怪塔王",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "신문 연재(1938)",
+   "by": "海野十三",
+   "year": 1938,
+   "country": "일본",
+   "setting": "구주쿠리 해변의 기이한 탑은 자력포를 단 로켓이었고, 중학생과 탐정이 그 주인 '괴탑왕'의 정체를 쫓는다.",
+   "concepts": [
+    "beam_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전쟁 전 어린이 SF — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「怪塔王」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kao_no_nai_kamigami",
+   "orig": "顔のない神々",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『野性時代』 연재(1982~1983) · カドカワ・ノベルズ(1985)",
+   "by": "山田正紀",
+   "year": 1982,
+   "country": "일본",
+   "setting": "석유 파동으로 경제가 무너져 통제 경제와 전체주의가 번진 평행 세계 일본, '마왕'이라 불린 소년의 이야기.",
+   "concepts": [
+    "alt_timeline",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "山田正紀 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「顔のない神々」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kage_ga_kasanaru_toki",
+   "orig": "影が重なる時",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "小松左京 단편 · 『世にも奇妙な物語』 드라마화",
+   "by": "小松左京",
+   "year": 1963,
+   "country": "일본",
+   "setting": "한 지방 도시 반경 30킬로미터 안에서만 저만 볼 수 있는 자신의 분신이 나타나고, 날마다 실체가 짙어진다.",
+   "concepts": [
+    "impostor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『世にも奇妙な物語』 드라마화 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「影が重なる時」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kamigami_no_tasogare_olympus",
+   "orig": "神々の黄昏 オリンポス・ウォーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "集英社(1982)",
+   "by": "豊田有恒",
+   "year": 1982,
+   "country": "일본",
+   "setting": "한반도에서 번진 전쟁의 전술 핵에 휘말린 자위대 조종사가 정신 차리니 일본 신화 속 들판에 있었다.",
+   "concepts": [
+    "catastrophe",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전기 모험 소설 — 일본어 위키백과 분류 「日本のSF小説」·「日本のファンタジー小説」 · 일본어 위키백과 「神々の黄昏 オリンポス・ウォーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kamigari_yamada",
+   "orig": "神狩り",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』(1974) · 단행본(제3부 추가)",
+   "by": "山田正紀",
+   "year": 1974,
+   "country": "일본",
+   "setting": "유적의 미지 고대 문자를 조사하던 천재 정보공학자가, 인류를 넘어선 '신'의 존재와 맞서게 된다.",
+   "concepts": [
+    "godlike",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "성운상 1975 일본 단편 — 일본어 위키백과 「星雲賞」 · 데뷔작 · 일본어 위키백과 「神狩り」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kamisama_no_puzzle",
+   "orig": "神様のパズル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "角川春樹事務所(2002) · 연작 '穂瑞沙羅華' · 만화판 · 영화(2008)",
+   "by": "機本伸司",
+   "year": 2002,
+   "country": "일본",
+   "setting": "낙제 위기의 대학생이 등교 거부하는 천재 소녀와 '우주는 사람이 만들 수 있는가'를 증명하게 된다.",
+   "concepts": [
+    "physics_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(2008, 三池崇史) — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「神様のパズル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "campanella_yamada",
+   "orig": "カムパネルラ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "東京創元社 創元日本SF叢書(2016)",
+   "by": "山田正紀",
+   "year": 2016,
+   "country": "일본",
+   "setting": "『은하철도의 밤』 3차 개고판만 남은 세계의 소년이, 겐지가 죽기 이틀 전 1933년의 뒤틀린 역사로 간다.",
+   "concepts": [
+    "time_travel",
+    "alt_timeline",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "山田正紀 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「カムパネルラ (山田正紀の小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kanzen_naru_kubinagaryuu_no_hi",
+   "orig": "完全なる首長竜の日",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "宝島社(2011) · 영화 『リアル〜完全なる首長竜の日〜』(2013)",
+   "by": "乾緑郎",
+   "year": 2011,
+   "country": "일본",
+   "setting": "자살 미수로 의식 없는 동생과 기계로 마음을 잇는 의료 '센싱'으로 대화하던 만화가의 현실이 흔들린다.",
+   "concepts": [
+    "neural_link",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제9회 『이 미스터리가 대단하다!』 대상 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「完全なる首長竜の日」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kyokou_sendan",
+   "orig": "虚航船団",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "新潮社 순문학 신작(1984)",
+   "by": "筒井康隆",
+   "year": 1984,
+   "country": "일본",
+   "setting": "문구들만 탄 우주선이 끝 모를 항해에 미쳐 가다, 족제비 족이 사는 유형지 행성을 섬멸하라는 명령을 받는다.",
+   "concepts": [
+    "fleet_battle",
+    "cryosleep"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "筒井康隆 실험 소설 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「虚航船団」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kuushuuka_no_nippon",
+   "orig": "空襲下の日本",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『日の出』 부록(1933) 단편",
+   "by": "海野十三",
+   "year": 1933,
+   "country": "일본",
+   "setting": "수도 도쿄가 적기의 무차별 폭격을 받는 앞날의 전쟁을 그려, 방공의 중요성을 말한 가공 전기.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전쟁 전 미래 전쟁 소설 — 일본어 위키백과 분류 「日本のSF小説」·「架空戦記」 · 일본어 위키백과 「空襲下の日本」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kuuchuu_gunkan_miraisen",
+   "orig": "空中軍艦未来戦",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『少年倶楽部』(1933) 단편·부록 종이 모형",
+   "by": "浅野一男",
+   "year": 1933,
+   "country": "일본",
+   "setting": "머지않아 일본이 만들 하늘의 군함이 활약하는 가상의 전쟁을 천 자 남짓으로 그렸다.",
+   "concepts": [
+    "antigravity"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "잡지 부록 모형과 함께 나온 소설 — 일본어 위키백과 분류 「日本のSF小説」·「架空戦記」 · 일본어 위키백과 「空中軍艦未来戦」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "klein_no_tsubo",
+   "orig": "クラインの壺",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "新潮ミステリー倶楽部(1989) · NHK 드라마(1996)",
+   "by": "岡嶋二人",
+   "year": 1989,
+   "country": "일본",
+   "setting": "게임북 대본이 가상현실 장치에 쓰이게 된 젊은이에게 현실과 가상의 경계가 흐려져 간다.",
+   "concepts": [
+    "simulation",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "NHK 드라마화 — 일본어 위키백과 분류 「日本のSF小説」·「仮想世界を舞台とした小説」 · 일본어 위키백과 「クラインの壺 (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kuroi_hotoke",
+   "orig": "黒い仏",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社(2001), 탐정 이스루기 연작 2편",
+   "by": "殊能将之",
+   "year": 2001,
+   "country": "일본",
+   "setting": "천 년 전 가라앉은 배의 비보를 찾는 탐정과 살인 사건이 나란히 가다, 크툴루 신화로 뒤집히는 추리 소설.",
+   "concepts": [
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『SF가 읽고 싶다!』 2001 8위 — 일본어 위키백과 분류 「日本のSF小説」·「クトゥルフ神話に関する小説」 · 일본어 위키백과 「黒い仏」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "game_kids",
+   "orig": "ゲーム・キッズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "『1999年のゲーム・キッズ』(1993~) 등 6연작 · PS 게임 『2999年のゲーム・キッズ』",
+   "by": "渡辺浩弐",
+   "year": 1993,
+   "country": "일본",
+   "setting": "휴대전화와 인터넷 같은 디지털 기술이 낳을 가까운 미래를 그린 연작 짧은 소설.",
+   "concepts": [
+    "simulation",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "『ファミコン通信』 연재 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ゲーム・キッズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kochira_nippon",
+   "orig": "こちらニッポン…",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『朝日新聞』 석간 연재(1976)",
+   "by": "小松左京",
+   "year": 1976,
+   "country": "일본",
+   "setting": "오사카의 회사원이 취해 쓰러졌다 깨어나니 자기 말고 모든 사람이 사라져 있었다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 시뮬레이션 SF — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「こちらニッポン…」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "konron_yuugekitai",
+   "orig": "崑崙遊撃隊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "山田正紀 장편",
+   "by": "山田正紀",
+   "year": 1976,
+   "country": "일본",
+   "setting": "중화민국 시대 중국 오지의 '잃어버린 세계'를 찾아가는 비경 탐험 활극.",
+   "concepts": [
+    "forbidden_zone"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "비경 탐험물 — 일본어 위키백과 분류 「日本のSF小説」·「日本の冒険小説」 · 일본어 위키백과 「崑崙遊撃隊」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "salamander_senmetsu",
+   "orig": "サラマンダー殲滅",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "『獅子王』 연재(1988~1990) · 라디오 드라마(1991)",
+   "by": "梶尾真治",
+   "year": 1988,
+   "country": "일본",
+   "setting": "인류가 지구를 떠나 여러 행성에 사는 시대, 테러로 남편과 딸을 잃은 여인이 복수를 쫓아 별들을 건넌다.",
+   "concepts": [
+    "earth_left",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 1991 — 일본어 위키백과 「日本SF大賞」 · 일본어 위키백과 「サラマンダー殲滅」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "zanzou_ni_kuchibeni_wo",
+   "orig": "残像に口紅を",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『中央公論』 연재(1988~1989) · 中央公論社(1989) · 만화판",
+   "by": "筒井康隆",
+   "year": 1988,
+   "country": "일본",
+   "setting": "일본어의 소리가 하나씩 글에서 사라지고, 그 소리를 이름에 가진 것도 세상에서 함께 사라져 간다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "말놀이 실험 SF — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「残像に口紅を」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "shishite_saku_hana",
+   "orig": "死して咲く花、実のある夢",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFアドベンチャー』 연재(1991) · 徳間書店(1992) · ハヤカワ文庫(1996)",
+   "by": "神林長平",
+   "year": 1991,
+   "country": "일본",
+   "setting": "근미래 정보군 병사 셋이 인류의 미래가 담긴 총리의 고양이를 찾다가, 바깥 풍경이 쓰레기 황야로 바뀐다.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "神林長平 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「死して咲く花、実のある夢」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shiroi_fuku_no_otoko",
+   "orig": "白い服の男",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFマガジン』(1968) 짧은 소설",
+   "by": "星新一",
+   "year": 1968,
+   "country": "일본",
+   "setting": "세계 대전 뒤, 특수 경찰이 시민을 감시하며 단 하나 '전쟁'이라는 말과 그 흔적만을 지워 없앤다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "星新一 짧은 소설 — 일본어 위키백과 분류 「日本のSF小説」·「検閲を題材とした小説」 · 일본어 위키백과 「白い服の男」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shinsenkan_takachiho",
+   "orig": "新戦艦高千穂",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『少年倶楽部』 연재(1935~1936) · 단행본(1936)",
+   "by": "平田晋策",
+   "year": 1935,
+   "country": "일본",
+   "setting": "군사 평론가가 쓴 소년 대상 해양 모험 가공 전기.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "전쟁 전 해양 모험 SF — 일본어 위키백과 분류 「日本のSF小説」·「架空戦記」 · 일본어 위키백과 「新戦艦高千穂」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "suiiki_shiina",
+   "orig": "水域",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『小説現代』 단편(1988) · 장편(1990, 講談社)",
+   "by": "椎名誠",
+   "year": 1988,
+   "country": "일본",
+   "setting": "땅이 아주 드물어진 물의 세계, 배를 몰고 떠도는 '나'가 표류하다 흐름에 붙들린다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "椎名SF 3부작 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「水域 (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "zokubutsu_zukan",
+   "orig": "俗物図鑑",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "新潮社(1972) · 자주 영화(1982)",
+   "by": "筒井康隆",
+   "year": 1972,
+   "country": "일본",
+   "setting": "남이 토해 낸 것으로 직업과 병을 알아맞히는 기자 같은 기묘한 '평론가'들이 모여 벌이는 풍자극.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "筒井康隆 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「俗物図鑑」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "cis_hirose",
+   "orig": "ツィス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편(1971)",
+   "by": "広瀬正",
+   "year": 1971,
+   "country": "일본",
+   "setting": "가나가와의 한 곳에서만 들리던 아주 작은 '도#' 음을 듣는 사람이 날마다 늘어 수도권 전체로 번진다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "나오키상 후보 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ツィス (広瀬正)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "despera_konaka",
+   "orig": "ですぺら",
+   "orig_en": "DESPERA",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『アニメージュ』 연재(2009~2010) · 『ですぺら 大正電脳ダダイズム絵巻』",
+   "by": "小中千昭",
+   "year": 2009,
+   "country": "일본",
+   "setting": "다이쇼 시대를 무대로 전뇌와 다다이즘을 엮은 SF, 1998년 TV 애니메이션 제작진이 다시 모인 기획.",
+   "concepts": [
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "『アニメージュ』 연재 — 일본어 위키백과 분류 「日本のSF小説」·「大正時代を舞台とした小説」 · 일본어 위키백과 「ですぺら」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "dawn_hirano",
+   "orig": "ドーン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "講談社(2009)",
+   "by": "平野啓一郎",
+   "year": 2009,
+   "country": "일본",
+   "setting": "2033년 유인 화성선의 유일한 일본인 비행사가 귀환해 영웅이 되지만, 선내의 비밀이 미국 대선을 흔든다.",
+   "concepts": [
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "平野啓一郎 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ドーン (小説)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "togio",
+   "orig": "トギオ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "宝島社(2010)",
+   "by": "太朗想史郎",
+   "year": 2010,
+   "country": "일본",
+   "setting": "고향 마을에서 따돌림당한 소년이 가공의 미래 도시 '도교'로 나가, 보수와 혁신의 대립 뒤에서 움직인다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제8회 『이 미스터리가 대단하다!』 대상 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「トギオ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tokushu_tairyou_satsujinki",
+   "orig": "特殊大量殺人機",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『小説新潮』(1968) 짧은 소설",
+   "by": "星新一",
+   "year": 1968,
+   "country": "일본",
+   "setting": "먼 곳의 사람을 골라 죽이는 기계를 만든 박사와 조수의 희비극.",
+   "concepts": [
+    "forbidden_weapon"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "星新一 짧은 소설 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「特殊大量殺人機」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nihon_apache_zoku",
+   "orig": "日本アパッチ族",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "カッパ・ノベルス(1964), 첫 장편",
+   "by": "小松左京",
+   "year": 1964,
+   "country": "일본",
+   "setting": "권리가 의무로 바뀐 1960년대의 다른 일본, 실업자는 옛 오사카 병기창 터 추방지로 쫓겨난다.",
+   "concepts": [
+    "alt_timeline",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "小松左京 의 첫 장편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「日本アパッチ族」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nihon_igai_zenbu_chinbotsu",
+   "orig": "日本以外全部沈没",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "『オール讀物』(1973) 단편 · 영화(2006)",
+   "by": "筒井康隆",
+   "year": 1973,
+   "country": "일본",
+   "setting": "『日本沈没』을 뒤집어, 일본 말고 모든 땅이 가라앉아 세계의 명사들이 일본으로 몰려드는 풍자.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1974 일본 단편 — 일본어 위키백과 「星雲賞」 · 영화화(2006) · 일본어 위키백과 「日本以外全部沈没」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "busou_shimada_souko",
+   "orig": "武装島田倉庫",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『小説新潮』 연작 단편 · 新潮社(1990) · 만화판",
+   "by": "椎名誠",
+   "year": 1990,
+   "country": "일본",
+   "setting": "'북정부'와의 전쟁 뒤 20년, 이형 진화한 생물이 우글대는 땅에서 목숨 걸고 짐을 나르는 창고 사람들.",
+   "concepts": [
+    "catastrophe",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "椎名SF 3부작 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「武装島田倉庫」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "brain_valley",
+   "orig": "BRAIN VALLEY",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "상·하(1997)",
+   "by": "瀬名秀明",
+   "year": 1997,
+   "country": "일본",
+   "setting": "뇌과학 연구소에 모인 과학자들이 사람의 의식과 신의 기원을 뇌과학·영장류학·인공지능으로 파고든다.",
+   "concepts": [
+    "ai",
+    "uplift"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 1998 — 일본어 위키백과 「日本SF大賞」 · 일본어 위키백과 「BRAIN VALLEY」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "boku_wa_robot_goshi_no_kimi_ni",
+   "orig": "僕はロボットごしの君に恋をする",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단행본(2017)",
+   "by": "山田悠介",
+   "year": 2017,
+   "country": "일본",
+   "setting": "세 번째 올림픽을 앞둔 2060년 도쿄, 원격 조종 로봇으로 경비하던 청년이 로봇 너머 첫사랑에 다가간다.",
+   "concepts": [
+    "robot",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "山田悠介 SF — 일본어 위키백과 분류 「日本のSF小説」·「ロボットを題材とした小説」 · 일본어 위키백과 「僕はロボットごしの君に恋をする」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "homun_yo_kokyou_wo_miyo",
+   "orig": "ホムンよ故郷を見よ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『宇宙塵』(1963) 중편",
+   "by": "小松左京",
+   "year": 1963,
+   "country": "일본",
+   "setting": "성간 문명 변경의 식민 행성, 손가락이 열한 개인 원주민 '호문'을 조사하던 과학자들이 비밀을 안다.",
+   "concepts": [
+    "colonization",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "小松左京 중편 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ホムンよ故郷を見よ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "raigou_pax_japonica",
+   "orig": "雷轟 rolling thunder PAX JAPONICA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "'PAX JAPONICA' 연작 첫 작품(2006)",
+   "by": "押井守",
+   "year": 2006,
+   "country": "일본",
+   "setting": "남북 전쟁으로 미국이 둘로 갈려 일본이 태평양을 쥔 세계, 냉전 속 베트남 전쟁의 폭격 작전을 그린다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "押井守 가공 전기 — 일본어 위키백과 분류 「日本のSF小説」·「架空戦記」 · 일본어 위키백과 「雷轟 rolling thunder PAX JAPONICA」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "right_gene_no_isan",
+   "orig": "ライトジーンの遺産",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "朝日ソノラマ(1997) · ソノラマ文庫·ハヤカワ文庫JA",
+   "by": "神林長平",
+   "year": 1997,
+   "country": "일본",
+   "setting": "장기 붕괴 현상으로 세상을 쥐었다 해체된 인공 장기 회사가 남긴 초능력 인조인간 형제가 사는 도시.",
+   "concepts": [
+    "android",
+    "psionics",
+    "mega_corp"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "神林長平 연작 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「ライトジーンの遺産」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "lemon_tsukiyo_no_uchuusen",
+   "orig": "レモン月夜の宇宙船",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『S-Fマガジン』(1968) 단편",
+   "by": "野田昌宏",
+   "year": 1968,
+   "country": "일본",
+   "setting": "아폴로 계획 무렵, SF 광 '나'가 산속 대저택의 늙은 SF 수집가를 찾아가 그 정체에 다가선다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "野田昌宏 의 첫 소설 — 일본어 위키백과 분류 「日本のSF小説」 · 일본어 위키백과 「レモン月夜の宇宙船」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ao_no_kiseki_kunou",
+   "orig": "青の軌跡",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "드라마"
+   ],
+   "first_medium": "소설",
+   "series": "桜桃書房(1995~2001) · 幻冬舎コミックス 새 판·속편(2003~) · 드라마 CD",
+   "by": "久能千明",
+   "year": 1995,
+   "country": "일본",
+   "setting": "워프 항법이 생기고 행성 연방이 선 시대, 냉동 수면한 과학자들을 태운 탐사선을 2인 1조 승무원이 몬다.",
+   "concepts": [
+    "warp_drive",
+    "cryosleep",
+    "federation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "BL 로는 드문 본격 SF — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「青の軌跡」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "adult_wolf_guy",
+   "orig": "アダルト・ウルフガイ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "『狼男だよ』(1969) 등 연작 · ハヤカワSF文庫 'ウルフガイ別巻' · 만화판",
+   "by": "平井和正",
+   "year": 1969,
+   "country": "일본",
+   "setting": "어른 늑대인간 이누가미 아키라가 활약하는 SF 하드보일드 연작, 소년 『ウルフガイ』와는 다른 작품.",
+   "concepts": [
+    "longevity"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "平井和正 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「アダルト・ウルフガイ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "sf_gakuen_series",
+   "orig": "SF学園シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "秋元文庫 전 6권(1979~)",
+   "by": "若桜木虔",
+   "year": 1979,
+   "country": "일본",
+   "setting": "'SF 학원'이라 불리는 학교를 무대로, 권마다 주인공이 바뀌는 청소년 SF.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "청소년 SF 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「SF学園シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kasei_sanbusaku_kanbayashi",
+   "orig": "火星三部作",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『あなたの魂に安らぎあれ』(1983)·『帝王の殻』(1990)·『膚の下』(2004)",
+   "by": "神林長平",
+   "year": 1983,
+   "country": "일본",
+   "setting": "달과 지구의 전쟁으로 지구가 망한 먼 미래, 인류는 250년간 화성에서 냉동 수면하며 귀환을 기다린다.",
+   "concepts": [
+    "terraforming",
+    "cryosleep",
+    "catastrophe",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "神林長平 3부작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「小説の三部作」 · 일본어 위키백과 「火星三部作」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kamisama_mo_saikoro_wo",
+   "orig": "神様もサイコロを振るかもしれない",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "전자책 2권(2019~)",
+   "by": "宮島シラズ",
+   "year": 2019,
+   "country": "일본",
+   "setting": "탁상 역할수행 게임을 만드는 고교생들의 현실과 게임 속 판타지가 엇갈리고, 현실에도 기묘한 사건이 일어난다.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본어 위키백과 분류 「日本のSF小説のシリーズ」·「日本のファンタジー小説のシリーズ」 · 일본어 위키백과 「神様もサイコロを振るかもしれない」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "psycho_diver_series",
+   "orig": "サイコダイバー・シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『魔獣狩り』 3부작(淫楽編·暗黒編·鬼哭編, 1984~) 등, 『週刊ポスト』 연재",
+   "by": "夢枕獏",
+   "year": 1984,
+   "country": "일본",
+   "setting": "전용 기기와 전문 지식으로 남의 마음속에 잠수하는 '사이코다이버'와 세 사내가 사교에 엮이는 전기 활극.",
+   "concepts": [
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "夢枕獏 대표 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「サイコダイバー・シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "chikyuuju_no_megami",
+   "orig": "地球樹の女神",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『野性時代』(1988~1989)·『SFアドベンチャー』(1990~1992) 연재 · 『最終版』(2004)",
+   "by": "平井和正",
+   "year": 1988,
+   "country": "일본",
+   "setting": "'마지막 아마겟돈 이야기'를 내건 平井和正 의 장편 SF, 중학교가 무대.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "平井和正 장편 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「地球樹の女神」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "futeiki_esper",
+   "orig": "不定期エスパー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "トクマ・ノベルズ 전 8권(1988~1990)",
+   "by": "眉村卓",
+   "year": 1988,
+   "country": "일본",
+   "setting": "성간 국가들이 있는 우주의 한 연방, 능력이 멋대로 나오는 초능력자 청년이 지배층의 호위관이 되려 한다.",
+   "concepts": [
+    "psionics",
+    "federation",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "眉村卓 장편 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「不定期エスパー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "makai_suikoden",
+   "orig": "魔界水滸伝",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "カドカワノベルズ 전 20권(1981~1991) · 『新・魔界水滸伝』(1995~, 5천 년 뒤 은하)",
+   "by": "栗本薫",
+   "year": 1981,
+   "country": "일본",
+   "setting": "지구를 노리는 크툴루의 신들과 일본 옛 신들의 후손의 싸움, 속편은 5천 년 뒤 두 은하 제국의 전쟁.",
+   "concepts": [
+    "godlike",
+    "alien_invasion",
+    "galactic_empire"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "栗本薫 대하 전기 SF — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「クトゥルフ神話に関する小説」 · 일본어 위키백과 「魔界水滸伝」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "milkypia",
+   "orig": "ミルキーピア",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFマガジン』 등 12편(1987~1995)",
+   "by": "東野司",
+   "year": 1987,
+   "country": "일본",
+   "setting": "컴퓨터와 통신망, 가상현실 공간을 배경으로 시스템 엔지니어들이 벌이는 코미디 SF.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "東野司 연작 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」 · 일본어 위키백과 「ミルキーピア」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "yousai_series_aramaki",
+   "orig": "要塞シリーズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "中央公論社 신서판 전 20권(1986~) · 中公文庫",
+   "by": "荒巻義雄",
+   "year": 1986,
+   "country": "일본",
+   "setting": "지구를 닮은 인공 천체 위 전쟁 시뮬레이션 세계에서, 전쟁 목적도 모르는 이들이 게임 속 인물처럼 싸운다.",
+   "concepts": [
+    "simulation",
+    "megastructure"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "가공 전기 붐의 선구 — 일본어 위키백과 분류 「日本のSF小説のシリーズ」·「架空戦記」 · 일본어 위키백과 「要塞シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kisei_kanojo_sana",
+   "orig": "寄生彼女サナ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화"
+   ],
+   "first_medium": "소설",
+   "series": "ガガガ文庫 전 5권(2011~2013) · 만화판",
+   "by": "砂義出雲",
+   "year": 2011,
+   "country": "일본",
+   "setting": "고교생의 배에서 튀어나온 소녀는 기생충에서 진화한 존재로, 영양을 받는 대신 그를 지키겠다고 한다.",
+   "concepts": [
+    "parasite"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제5회 쇼가쿠칸 라이트 노벨 대상 우수상 — 일본어 위키백과 분류 「ガガガ文庫」 · 일본어 위키백과 「寄生彼女サナ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hoshizora_no_mukou_no_kuni",
+   "orig": "星空のむこうの国",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "영화"
+   ],
+   "first_medium": "소설",
+   "series": "コバルトシリーズ(1984) · 영화(1986)",
+   "by": "小林弘利",
+   "year": 1984,
+   "country": "일본",
+   "setting": "교통사고 뒤 꿈에 나오던 소녀를 만난 고교생이 집에 가 보니, 자신이 일주일 전에 죽은 평행 세계였다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "영화화(1986) — 일본어 위키백과 분류 「パラレルワールドを題材とした小説」 · 일본어 위키백과 「星空のむこうの国」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "parallel_lovers",
+   "orig": "パララバ -Parallel lovers-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2009)",
+   "by": "静月遠火",
+   "year": 2009,
+   "country": "일본",
+   "setting": "죽은 남자 친구에게서 전화가 오고, 그녀가 죽었다는 평행 세계의 그와 통화하며 둘의 죽음을 파헤친다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "제15회 전격소설대상 금상 — 일본어 위키백과 분류 「パラレルワールドを題材とした小説」 · 일본어 위키백과 「パララバ -Parallel lovers-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "boku_no_sekai_wo_mamoru_hito",
+   "orig": "ボクのセカイをまもるヒト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "電撃文庫(2005~)",
+   "by": "谷川流",
+   "year": 2005,
+   "country": "일본",
+   "setting": "평범한 고교생 앞에 각자 다른 세계에서 그를 지키러 왔다는 두 소녀가 나타나 집을 부수며 싸운다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "電撃文庫 — 일본어 위키백과 분류 「パラレルワールドを題材とした小説」 · 일본어 위키백과 「ボクのセカイをまもるヒト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "domu_otomo",
+   "orig": "童夢",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "series": "잡지 연재(1980~1981) · 단행본(1983)",
+   "by": "大友克洋",
+   "year": 1980,
+   "country": "일본",
+   "setting": "교외 대단지에서 이어지는 수상한 죽음 뒤에 초능력을 쓰는 노인과 그에 맞서는 소녀가 있다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상 1983 — 일본어 위키백과 「日本SF大賞」 · 『AKIRA』의 원형이라 불림 · 일본어 위키백과 「童夢 (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "barbara_ikai",
+   "orig": "バルバラ異界",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "series": "『月刊フラワーズ』 연재(2002~2005), 전 4권",
+   "by": "萩尾望都",
+   "year": 2002,
+   "country": "일본",
+   "setting": "먹으면 기억이 이어진다는 착상 아래, 근미래 일본에서 꿈과 현실을 오가며 회춘과 불사를 그린다.",
+   "concepts": [
+    "longevity",
+    "ancestral_memory"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 2006 — 일본어 위키백과 「日本SF大賞」 · 일본어 위키백과 「バルバラ異界」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "wombs_shirai",
+   "orig": "WOMBS",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화"
+   ],
+   "first_medium": "만화",
+   "series": "『月刊IKKI』 연재(2009~2012), 전 5권 · 전일담 『WOMBS クレイドル』",
+   "by": "白井弓子",
+   "year": 2009,
+   "country": "일본",
+   "setting": "식민 행성의 이민 간 전쟁, 자궁에 현지 생물 조직을 옮겨 공간 전송 능력을 얻은 여성들의 부대가 싸운다.",
+   "concepts": [
+    "teleport",
+    "colonial_war",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본 SF 대상 2016 — 일본어 위키백과 「日本SF大賞」(2017 수상) · 일본어 위키백과 「WOMBS」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "saikoro_tokkoutai",
+   "orig": "サイコロ特攻隊",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "단편판(『'75日本SFベスト集成』 수록) · 장편",
+   "by": "かんべむさし",
+   "year": 1975,
+   "country": "일본",
+   "setting": "근미래, 아시아 나라들과 대립하다 바다를 봉쇄당한 일본이 다시 전쟁의 길로 들어선다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 1977 일본 장편 — 일본어 위키백과 「星雲賞」 · 작가 문서 「かんべむさし」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "venus_city",
+   "orig": "ヴィーナス・シティ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "장편",
+   "by": "柾悟郎",
+   "year": 1992,
+   "country": "일본",
+   "setting": "전뇌 도시를 무대로 한 장편.",
+   "concepts": [
+    "simulation",
+    "neural_link"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본 SF 대상 1993·성운상 1993 일본 장편 — 일본어 위키백과 「日本SF大賞」·「星雲賞」·작가 문서 「柾悟郎」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "piapia_douga",
+   "orig": "南極点のピアピア動画",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "series": "『SFマガジン』 연작(2008~2011) · ハヤカワ文庫JA, 「歌う潜水艦とピアピア動画」 등 4편",
+   "by": "野尻抱介",
+   "year": 2008,
+   "country": "일본",
+   "setting": "동영상 공유 사이트와 음성 합성 가수(하쓰네 미쿠), 우주 개발을 엮은 연작 단편.",
+   "concepts": [
+    "ai",
+    "colonization"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "성운상 2009·2012 일본 단편 — 일본어 위키백과 「星雲賞」·작가 문서 「野尻抱介」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  }
+ ]
+}
