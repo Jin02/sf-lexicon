@@ -10,7 +10,17 @@
   "tekkaman_1975",
   "tekkaman_blade",
   "silverhawks",
-  "steven_universe"
+  "steven_universe",
+  "marvel_2099",
+  "batman_beyond",
+  "gridman",
+  "vr_troopers",
+  "gavan_infinity",
+  "agents_of_mayhem",
+  "yusei_kamen",
+  "johnny_cypher",
+  "kinnikuman",
+  "sailor_moon"
  ],
  "last": [],
  "_설명": "진님이 손으로 정한 조사 차례. first=앞당김, skip=조사하지 않음, last=맨 뒤로. 값은 찾은 세계 id.",
@@ -24,6 +34,16 @@
   "tekkaman_1975": "2026-10-20 진님: '슈퍼히어로 계열은 빼' — 변신·강화 히어로물이라 조사하지 않음",
   "tekkaman_blade": "2026-10-20 진님: '슈퍼히어로 계열은 빼' — 변신·강화 히어로물이라 조사하지 않음",
   "silverhawks": "2026-10-20 진님: '슈퍼히어로 계열은 빼' — 변신·강화 히어로물이라 조사하지 않음",
-  "steven_universe": "2026-10-20 진님: '슈퍼히어로 계열은 빼' — 변신·강화 히어로물이라 조사하지 않음"
+  "steven_universe": "2026-10-20 진님: '슈퍼히어로 계열은 빼' — 변신·강화 히어로물이라 조사하지 않음",
+  "marvel_2099": "마블 — 진님 \"DC 마블은 빼자\"",
+  "batman_beyond": "DC(배트맨) — 진님 \"DC 마블은 빼자\"",
+  "gridman": "변신 히어로 특촬 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "vr_troopers": "변신 히어로 특촬 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "gavan_infinity": "우주 형사 변신 히어로 특촬 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "agents_of_mayhem": "초능력 영웅 요원물 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "yusei_kamen": "가면 쓴 영웅이 싸우는 히어로 애니메이션 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "johnny_cypher": "초능력 영웅 만화영화 — 진님 \"슈퍼히어로 계열은 빼\"",
+  "kinnikuman": "초인 영웅물(레슬링 개그) — 진님 \"슈퍼히어로 계열은 빼\"",
+  "sailor_moon": "변신 전사물 — 진님 \"슈퍼히어로 계열은 빼\"(변신·강화 히어로물)"
  }
 }
