@@ -5768,32 +5768,6 @@
    "borderline": false
   },
   {
-   "id": "sexy_travel_izumi",
-   "orig": "セクシートラベル",
-   "orig_en": "",
-   "ko": null,
-   "ko_src": null,
-   "media": [
-    "소설"
-   ],
-   "first_medium": "소설",
-   "series": "桃園文庫(1986)",
-   "by": "泉大八",
-   "year": 1986,
-   "country": "일본",
-   "setting": "평범한 회사원이 어느 일요일 아침 벼룩만큼 작아진 몸으로 깨어나는 관능 소설.",
-   "concepts": [],
-   "new_ideas": "",
-   "lore_size": "작음",
-   "notability": "일본어 위키백과 분류 「日本のSF小説」·「人間の巨大化・縮小化を題材とした小説」 · 일본어 위키백과 「セクシートラベル」",
-   "korean": {
-    "status": "확인 못 함",
-    "detail": "",
-    "src": null
-   },
-   "borderline": true
-  },
-  {
    "id": "cyborg_blues",
    "orig": "サイボーグ・ブルース",
    "orig_en": "",
