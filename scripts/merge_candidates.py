@@ -40,6 +40,8 @@ SAME = {
     "oms_en_serie": "la_planete_sauvage",              # 원작 소설과 애니메이션 영화
     "mystery_of_the_third_planet": "alisa_selezneva",  # 앨리스 연작과 그 애니메이션
     "who_goes_there": "the_thing",                     # 캠벨 원작 소설과 영화 「괴물」(1982)
+    "download_devils_circuit": "download_pce",         # 게임 「다운로드」와 그 뒤를 잇는 애니메이션
+    "kyukyoku_shinka_full_dive_rpg": "full_dive_kusoge",  # 같은 라이트 노벨의 일본어판·한국어판 제목
 }
 STOP = {"games", "game", "studios", "studio", "entertainment", "interactive", "software", "productions", "pictures",
         "animation", "films", "film", "the", "and", "inc", "ltd", "co", "netflix", "hbo", "bbc", "nbc", "cbs", "abc",
@@ -138,6 +140,8 @@ def main():
         return {t for t in re.split(r"[\s,·()/\[\];]+", (c.get("by") or "").lower()) if len(t) >= 3 and t not in STOP}
 
     def compatible(a, b):
+        if frozenset((a["id"], b["id"])) in DIFFERENT:   # 사람이 다른 세계라고 정한 짝은 제목·만든 이가 같아도 따로
+            return False
         if SAME.get(a["id"]) == b["id"] or SAME.get(b["id"]) == a["id"] or (SAME.get(a["id"]) and SAME.get(a["id"]) == SAME.get(b["id"])):
             return True
         if a.get("year") and a.get("year") == b.get("year"):
@@ -162,10 +166,20 @@ def main():
     for i in range(len(kept)):
         groups.setdefault(find(i), []).append(kept[i])
 
+    # 이미 판정·조사에 쓰인 세계 id — 새 갈래가 같은 세계를 또 가져와도 id 가 바뀌지 않게 한다
+    # (바뀌면 space_filter·fame 의 판정이 옛 id 에 남아 버린다: 2026-10-21 '여명' thedawn → yeomyeong_thedawn)
+    known = set()
+    for name in ("space_filter.json", "fame.json"):
+        p = DATA / name
+        if p.exists():
+            known |= set(json.loads(p.read_text(encoding="utf-8"))["worlds"])
     merged = []
     for members in groups.values():
         # 가장 칸이 많이 찬 것을 바탕으로
         base = dict(max(members, key=lambda m: sum(1 for v in m.values() if v not in (None, "", []))))
+        old = [m["id"] for m in members if m["id"] in known]
+        if base["id"] not in known and old:
+            base["id"] = old[0]
         base["found_in"] = sorted({m["_group"] for m in members})
         base["media"] = sorted({x for m in members for x in (m.get("media") or [])})
         base["concepts"] = sorted({x for m in members for x in (m.get("concepts") or [])})
