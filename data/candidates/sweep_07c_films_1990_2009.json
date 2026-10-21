@@ -1,0 +1,6525 @@
+{
+  "group": "sweep_07c_films_1990_2009",
+  "candidates": [
+    {
+      "id": "martians_go_home",
+      "orig": "Martians, Go Home",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Fredric Brown 소설(1954) · 영화 Martians Go Home (1989/1990, David Odell)",
+      "by": "Fredric Brown(원작) · David Odell(감독)",
+      "year": 1954,
+      "country": "미국",
+      "setting": "수십억 명의 심심한 화성인이 지구에 몰려와 사람들 일에 끼어들며 놀려 대기 시작한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_golden_man_dick",
+      "orig": "The Golden Man",
+      "orig_en": "Next",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Philip K. Dick 단편 The Golden Man (1954) · 영화 Next (2007, Lee Tamahori)",
+      "by": "Philip K. Dick(원작) · Lee Tamahori(감독)",
+      "year": 1954,
+      "country": "미국",
+      "setting": "2분 뒤의 앞날을 내다보는 사내를 정부가 핵 테러를 막는 데 쓰려고 쫓는다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_muppets",
+      "orig": "The Muppets",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "Sam and Friends (1955~1961) 부터 이어진 머펫 TV·영화 — Muppets from Space (1999) 는 여섯째 극장 영화",
+      "by": "Jim Henson",
+      "year": 1955,
+      "country": "미국",
+      "setting": "인형 패거리가 소동을 벌이는 세계 — 우주 편에서는 종족을 모르던 곤조가 자기가 외계인임을 안다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 인형극 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "naked_lunch",
+      "orig": "Naked Lunch",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "William S. Burroughs 소설(1959) · 영화(1991, David Cronenberg)",
+      "by": "William S. Burroughs(원작) · David Cronenberg(감독)",
+      "year": 1959,
+      "country": "미국",
+      "setting": "살충제에 취한 해충 구제업자가 말하는 딱정벌레의 지령을 받아 환각의 땅 인터존으로 들어간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 초현실 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "my_favorite_martian",
+      "orig": "My Favorite Martian",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "CBS 시트콤 (1963~1966, 107화) · 영화 (1999)",
+      "by": "John L. Greene(원작) · Donald Petrie(1999 감독)",
+      "year": 1963,
+      "country": "미국",
+      "setting": "지구에 불시착한 화성인이 젊은 기자 집에 '마틴 삼촌'으로 얹혀살며 정체를 숨긴다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 시트콤",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gi_joe",
+      "orig": "G.I. Joe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Hasbro 완구 G.I. Joe (1964~) · TV 애니메이션(1983 등) · 영화 The Rise of Cobra (2009) 외",
+      "by": "Hasbro (Stanley Weston · Donald Levine 착상)",
+      "year": 1964,
+      "country": "미국",
+      "setting": "국제 특수 부대 G.I. 조가 금속을 갉아 먹는 나노 무기를 노리는 비밀 조직 코브라와 맞선다.",
+      "concepts": [
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 군사 액션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "underdog",
+      "orig": "Underdog",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 애니메이션 Underdog (1964~1967, NBC·CBS) · 실사 영화 (2007)",
+      "by": "W. Watts Biggers · Chet Stover · Joe Harris(원작) · Frederik Du Chau(2007 감독)",
+      "year": 1964,
+      "country": "미국",
+      "setting": "미친 과학자의 실험실에서 약품을 뒤집어쓴 비글이 말하고 하늘을 나는 '언더독'이 되어 도시를 지킨다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 슈퍼히어로 패러디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "gadkie_lebedi",
+      "orig": "Гадкие лебеди",
+      "orig_en": "The Ugly Swans",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Стругацкие 소설 Гадкие лебеди (1967) · 러시아 영화(2006, Konstantin Lopushansky)",
+      "by": "Аркадий и Борис Стругацкие(원작) · Konstantin Lopushansky(감독)",
+      "year": 1967,
+      "country": "소련·러시아",
+      "setting": "유엔 특사가 찾은 마을에서, 정체 모를 '젖은 자'들이 아이들을 외딴 기숙 학교로 데려가 가르친다.",
+      "concepts": [
+        "next_human"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "season_of_the_witch_stine",
+      "orig": "Season of the Witch",
+      "orig_en": "Memory Run",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Hank Stine(지금 이름 Jean Marie Stine) 소설(1968) · 영화 Memory Run (1995/1996, 다른 이름 Synapse)",
+      "by": "Hank Stine(원작) · Allan A. Goldstein(감독)",
+      "year": 1968,
+      "country": "미국",
+      "setting": "몸을 갈아 영원히 사는 기술이 나온 2015년 감시 사회, 새 몸이 되는 쪽 사람들은 악몽 속에 산다.",
+      "concepts": [
+        "longevity",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "vampirella",
+      "orig": "Vampirella",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Warren Publishing 만화 잡지 Vampirella (1969~) · 영화(1996, Roger Corman Presents)",
+      "by": "Forrest J Ackerman · Trina Robbins(원작) · Jim Wynorski(영화 감독)",
+      "year": 1969,
+      "country": "미국",
+      "setting": "합성 피를 마시는 흡혈 문명의 행성 드라쿨론에서 온 여전사가 아버지를 죽인 반역자를 지구까지 쫓는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "button_button",
+      "orig": "Button, Button",
+      "orig_en": "The Box",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Richard Matheson 단편 Button, Button (1970) · 영화 The Box (2009, Richard Kelly)",
+      "by": "Richard Matheson(원작) · Richard Kelly(감독)",
+      "year": 1970,
+      "country": "미국",
+      "setting": "누르면 큰돈을 받고 모르는 누군가가 죽는 상자가 부부에게 오고, 그 뒤엔 화성 탐사와 얽힌 존재가 있다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_water_engine",
+      "orig": "The Water Engine",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "희곡",
+        "영화"
+      ],
+      "first_medium": "희곡",
+      "series": "David Mamet 희곡(1977) · TNT TV 영화(1992)",
+      "by": "David Mamet(원작·각본) · Steven Schachter(감독)",
+      "year": 1977,
+      "country": "미국",
+      "setting": "1934년 시카고, 증류수로 전기를 만드는 엔진을 발명한 공장 노동자가 특허를 노리는 자들에게 쫓긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 역사극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "cloudy_with_a_chance_of_meatballs",
+      "orig": "Cloudy with a Chance of Meatballs",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "Judi Barrett 글·Ron Barrett 그림 그림책(1978) · 애니메이션 영화(2009)와 속편·TV 애니메이션",
+      "by": "Judi Barrett · Ron Barrett(원작) · Phil Lord · Christopher Miller(감독)",
+      "year": 1978,
+      "country": "미국",
+      "setting": "괴짜 발명가가 물을 음식으로 바꾸는 기계를 만들자 섬마을 하늘에서 음식이 쏟아지고, 기계가 미쳐 날뛴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 그림책을 옮긴 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "congo_crichton",
+      "orig": "Congo",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Michael Crichton 소설(1980) · 영화(1995, Frank Marshall)",
+      "by": "Michael Crichton(원작) · Frank Marshall(감독)",
+      "year": 1980,
+      "country": "미국",
+      "setting": "푸른 다이아몬드를 찾던 탐사대가 콩고 밀림의 옛 도시에서 몰살당하고, 수화하는 고릴라와 새 탐사대가 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "friday_the_13th",
+      "orig": "Friday the 13th",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "드라마"
+      ],
+      "first_medium": "영화",
+      "series": "Friday the 13th 영화 열두 편(1980~) — Jason X (2001) 는 열째 편으로 우주가 무대",
+      "by": "Victor Miller(원작) · James Isaac(Jason X 감독)",
+      "year": 1980,
+      "country": "미국",
+      "setting": "크리스털 호수의 살인마 제이슨이 냉동되었다가 25세기 우주선에서 깨어나 다시 사람들을 죽인다(제이슨 X).",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화 연작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_mist_king",
+      "orig": "The Mist",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Stephen King 중편 The Mist (1980) · 영화(2007, Frank Darabont)",
+      "by": "Stephen King(원작) · Frank Darabont(감독)",
+      "year": 1980,
+      "country": "미국",
+      "setting": "폭풍 뒤 마을을 덮은 짙은 안개 속에 괴물들이 숨어 있고, 군의 다른 차원 실험이 잘못된 탓임이 드러난다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kaze_no_na_wa_amnesia",
+      "orig": "風の名はアムネジア",
+      "orig_en": "A Wind Named Amnesia",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "菊地秀行 소설(1983, Asahi Sonorama) · 극장 애니메이션(1990, 매드하우스)",
+      "by": "菊地秀行(원작) · Kazuo Yamazaki(감독, 매드하우스)",
+      "year": 1983,
+      "country": "일본",
+      "setting": "정체 모를 바람이 온 인류의 기억과 말을 지워 버린 1999년, 기억을 되찾은 청년이 폐허를 떠돈다.",
+      "concepts": [
+        "catastrophe",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "die_wolke",
+      "orig": "Die Wolke",
+      "orig_en": "The Cloud",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Gudrun Pausewang 소설 Die Wolke (1987) · 영화(2006, Gregor Schnitzler)",
+      "by": "Gudrun Pausewang(원작) · Gregor Schnitzler(감독)",
+      "year": 1987,
+      "country": "독일",
+      "setting": "바이에른의 원자력 발전소 사고로 방사능 구름이 퍼지자, 고등학생 둘이 피난 길에서 서로를 찾는다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "double_dragon",
+      "orig": "双截龍",
+      "orig_en": "Double Dragon",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "아케이드 게임 双截龍 (1987) 과 후속작 · 미국 영화 Double Dragon (1994)",
+      "by": "Technōs Japan (Yoshihisa Kishimoto) · James Yukich(영화 감독)",
+      "year": 1987,
+      "country": "일본",
+      "setting": "대지진으로 무너진 근미래 '뉴 앤젤레스'에서 쌍둥이 무술가 형제가 신비한 메달을 노리는 악당과 싸운다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 게임을 옮긴 무술 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "riki_oh",
+      "orig": "力王",
+      "orig_en": "Riki-Oh",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "만화 力王 (1987~1990, Shueisha Business Jump, 12권) · OVA (1989~1990) · 홍콩 영화 力王 (1991)",
+      "by": "Masahiko Takajo(글) · Tetsuya Saruwatari(그림) · Lam Nai-choi(영화 감독)",
+      "year": 1987,
+      "country": "일본·홍콩",
+      "setting": "감옥이 모두 민영화된 2001년, 괴력의 청년이 감옥 네 구역을 다스리는 패거리와 소장에 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 근미래 배경 무술 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_penal_colony",
+      "orig": "The Penal Colony",
+      "orig_en": "No Escape",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Richard Herley 소설 The Penal Colony (1987) · 영화 No Escape (1994, 다른 이름 Escape from Absolom)",
+      "by": "Richard Herley(원작) · Martin Campbell(감독)",
+      "year": 1987,
+      "country": "영국·미국",
+      "setting": "기업이 감옥을 돌리는 2022년, 탈옥을 거듭한 죄수가 담 없는 외딴섬 감옥 압솔롬에 버려진다.",
+      "concepts": [
+        "control_society",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "watchers_koontz",
+      "orig": "Watchers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Dean Koontz 소설(1987) · 영화 Watchers (1988) · Watchers II (1990) 외",
+      "by": "Dean Koontz(원작) · Thierry Notz(1990 감독)",
+      "year": 1987,
+      "country": "미국",
+      "setting": "유전자 실험으로 태어난 영리한 개와, 그 개를 쫓도록 만든 괴물이 함께 연구소를 빠져나온다.",
+      "concepts": [
+        "genetic_eng",
+        "uplift"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "darkside_blues",
+      "orig": "ダークサイド・ブルース",
+      "orig_en": "Darkside Blues",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "菊地秀行 글·Yuho Ashibe 그림 만화(1988, Akita Shoten, 2권) · 극장 애니메이션(1994, J.C.Staff)",
+      "by": "Hideyuki Kikuchi(글) · Yuho Ashibe(그림)",
+      "year": 1988,
+      "country": "일본",
+      "setting": "거대 기업이 지구 대부분을 차지한 미래, 마지막 자유 구역 가부키초에 수수께끼의 사내가 나타난다.",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "podzemelye_vedm",
+      "orig": "Подземелье ведьм",
+      "orig_en": "The Witches Cave",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Подземелье ведьм (1989, 소련·체코슬로바키아) — Кир Булычёв 가 자기 소설을 각색",
+      "by": "Кир Булычёв(원작·각본) · Юрий Мороз(감독)",
+      "year": 1989,
+      "country": "소련·체코슬로바키아",
+      "setting": "여러 시대 지구 동물이 뒤섞인 먼 행성 에부르에서, 원주민에게 기지를 잃은 탐사대원들이 살아남으려 한다.",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "weapon_mason",
+      "orig": "Weapon",
+      "orig_en": "Solo",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Robert Mason 소설 Weapon (1989) · 영화 Solo (1996, Norberto Barba)",
+      "by": "Robert Mason(원작) · Norberto Barba(감독)",
+      "year": 1989,
+      "country": "미국",
+      "setting": "중미 반군과 싸우도록 만든 살인 병기 인조인간이 프로그램 결함으로 양심을 갖게 되어 달아난다.",
+      "concepts": [
+        "android",
+        "ai",
+        "machine_rights"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "aftershock_1990",
+      "orig": "Aftershock",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Aftershock (1990, 다른 이름 After Shock)",
+      "by": "Frank Harris",
+      "year": 1990,
+      "country": "미국",
+      "setting": "3차 대전 뒤 바코드를 새긴 시민을 다스리는 독재 도시에, 지구를 살피던 외계 여자가 내려온다.",
+      "concepts": [
+        "catastrophe",
+        "control_society",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "darkman",
+      "orig": "Darkman",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Darkman (1990)",
+      "by": "Sam Raimi",
+      "year": 1990,
+      "country": "미국",
+      "setting": "습격당해 화상 입은 과학자가 실험 치료로 아픔을 잃고 괴력을 얻어, 인조 피부 가면을 쓰고 복수한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "edward_scissorhands",
+      "orig": "Edward Scissorhands",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Edward Scissorhands (1990)",
+      "by": "Tim Burton",
+      "year": 1990,
+      "country": "미국",
+      "setting": "늙은 발명가가 만들다 만 인조인간 에드워드가 손 대신 가위를 단 채 교외 마을에 들어와 산다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 낭만 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "fatal_sky",
+      "orig": "Fatal Sky",
+      "orig_en": "Project Alien",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Fatal Sky (1990, 다른 이름 Project Alien)",
+      "by": "Frank Shields",
+      "year": 1990,
+      "country": "오스트레일리아·영국·미국·유고슬라비아",
+      "setting": "하늘의 빛을 본 군용기가 추락한 뒤, 기자들이 동물 사체와 괴질이 번지는 현장을 파헤친다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "frankenhooker",
+      "orig": "Frankenhooker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Frankenhooker (1990)",
+      "by": "Frank Henenlotter",
+      "year": 1990,
+      "country": "미국",
+      "setting": "잔디깎이 사고로 약혼녀를 잃은 아마추어 과학자가 매춘부들의 몸을 이어 붙여 그녀를 되살린다.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 프랑켄슈타인 패러디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "i_come_in_peace",
+      "orig": "I Come in Peace",
+      "orig_en": "Dark Angel",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "I Come in Peace (1990, 다른 이름 Dark Angel)",
+      "by": "Craig R. Baxley",
+      "year": 1990,
+      "country": "미국",
+      "setting": "휴스턴 형사가, 사람 몸에 마약을 넣어 뇌에서 물질을 뽑아 가는 외계인과 그를 쫓는 외계인 사이에 끼어든다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "la_grieta",
+      "orig": "La grieta",
+      "orig_en": "The Rift",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "La grieta (1990, 영어로 찍음)",
+      "by": "Juan Piquer Simón",
+      "year": 1990,
+      "country": "스페인",
+      "setting": "사라진 잠수함을 찾아 바다 밑 틈으로 내려간 승무원들이 기업의 불법 유전자 실험이 낳은 괴물들과 마주친다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "metamorphosis_the_alien_factor",
+      "orig": "Metamorphosis: The Alien Factor",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Metamorphosis: The Alien Factor (1990, 다른 이름 The Deadly Spawn II)",
+      "by": "Glenn Takajian",
+      "year": 1990,
+      "country": "미국",
+      "setting": "정부가 건넨 외계 조직의 유전자를 짐승에 섞던 과학자가 실험체에 물려 괴물로 변해 간다.",
+      "concepts": [
+        "alien",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "omega_cop",
+      "orig": "Omega Cop",
+      "orig_en": "John Travis: Solar Survivor",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Omega Cop (1989/1990) · 속편 Karate Cop",
+      "by": "Paul Kyriazi",
+      "year": 1990,
+      "country": "미국",
+      "setting": "30년 태양 폭발로 땅이 타고 사람들이 미쳐 버린 1999년, 경비대장이 노예 시장의 여자들을 구한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "peacemaker_1990",
+      "orig": "Peacemaker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Peacemaker (1990)",
+      "by": "Kevin Tenney",
+      "year": 1990,
+      "country": "미국",
+      "setting": "로스앤젤레스 바다에 떨어진 외계인 둘이 서로 자기가 경찰이라며 쫓고 쫓기고, 한 의사가 그 사이에 끼인다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "possible_worlds",
+      "orig": "Possible Worlds",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "희곡",
+        "영화"
+      ],
+      "first_medium": "희곡",
+      "series": "John Mighton 희곡(1990) · 캐나다 영화(2000, Robert Lepage)",
+      "by": "John Mighton(원작) · Robert Lepage(감독)",
+      "year": 1990,
+      "country": "캐나다",
+      "setting": "뇌를 도둑맞은 수학자가 여러 갈래 세계에서 매번 다른 사람이 된 한 여자를 거듭 만난다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "prishelets_vanyusha",
+      "orig": "Пришелец Ванюша",
+      "orig_en": "Vaniusha the Newcomer",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "소유즈물트필름 인형 애니메이션 4부작 — Пришелец в капусте(첫 편, 해 확인 못 함) · Пришелец Ванюша (1990) · Ванюша и космический пират (1991) · Ванюша и великан",
+      "by": "Владимир Данилевич · Ольга Панокина (Союзмультфильм)",
+      "year": 1990,
+      "country": "소련",
+      "setting": "다른 별에서 온 다정한 외계인 바뉴샤가 친구들과 눈사람을 지키려 해가 꺼진 먼 행성까지 날아간다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "robot_jox",
+      "orig": "Robot Jox",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Robot Jox (1990)",
+      "by": "Stuart Gordon(감독) · Joe Haldeman(각본 참여)",
+      "year": 1990,
+      "country": "미국",
+      "setting": "핵전쟁 뒤 두 진영이 전쟁 대신 거대 로봇 결투로 땅 다툼을 가리고, 조종사들이 목숨을 건다.",
+      "concepts": [
+        "mecha",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shadowzone",
+      "orig": "Shadowzone",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Shadowzone (1990)",
+      "by": "J. S. Cardone",
+      "year": 1990,
+      "country": "미국",
+      "setting": "땅속 연구소의 깊은 잠 실험이 무의식 너머 평행 차원의 문을 열어, 그쪽 생명체가 넘어온다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "solar_crisis",
+      "orig": "Crisis 2050",
+      "orig_en": "Solar Crisis",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Takeshi Kawata 소설 Crisis 2050 (1990) · 미일 합작 영화 Solar Crisis (1990)",
+      "by": "Takeshi Kawata(원작) · Richard C. Sarafian(감독, 앨런 스미시 이름)",
+      "year": 1990,
+      "country": "일본·미국",
+      "setting": "태양 폭발이 지구를 태우려 하자, 우주선이 인공지능 폭탄을 해에 떨어뜨리러 가고 이를 막으려는 자가 있다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "spaced_invaders",
+      "orig": "Spaced Invaders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Spaced Invaders (1990)",
+      "by": "Patrick Read Johnson",
+      "year": 1990,
+      "country": "미국",
+      "setting": "핼러윈 밤 '우주 전쟁' 라디오 극을 진짜 출동 명령으로 안 얼간이 화성인들이 시골 마을에 내린다.",
+      "concepts": [
+        "alien",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_dark_side_of_the_moon_1990",
+      "orig": "The Dark Side of the Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Dark Side of the Moon (1990, 비디오 영화)",
+      "by": "D. J. Webster",
+      "year": 1990,
+      "country": "미국",
+      "setting": "달 뒤편으로 떠밀린 정비선 승무원들이 버뮤다 삼각지대에서 사라졌던 우주 왕복선에 숨은 악마와 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "abraxas_guardian",
+      "orig": "Abraxas, Guardian of the Universe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Abraxas, Guardian of the Universe (1991)",
+      "by": "Damian Lee",
+      "year": 1991,
+      "country": "캐나다·미국",
+      "setting": "만 년을 산 외계 경찰 아브락사스가, 옛 동료가 지구 여자에게 낳게 한 아이를 지켜 낸다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "and_you_thought_your_parents_were_weird",
+      "orig": "And You Thought Your Parents Were Weird",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "And You Thought Your Parents Were Weird (1991)",
+      "by": "Tony Cookson",
+      "year": 1991,
+      "country": "미국",
+      "setting": "형제가 만든 집안일 로봇에 죽은 아버지의 넋이 들고, 아버지 발명을 훔친 자들이 로봇을 노린다.",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dollman",
+      "orig": "Dollman",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dollman (1991)",
+      "by": "Albert Pyun",
+      "year": 1991,
+      "country": "미국",
+      "setting": "사람이 지구인보다 여섯 배 작은 행성의 거친 경찰이 숙적을 쫓다 뉴욕 브롱크스에 떨어져 동네 깡패와 싸운다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eve_of_destruction",
+      "orig": "Eve of Destruction",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Eve of Destruction (1991)",
+      "by": "Duncan Gibbins",
+      "year": 1991,
+      "country": "미국",
+      "setting": "만든 과학자를 꼭 닮은 핵무장 군용 인조인간 이브 8호가 시험 중 고장 나 대도시에서 날뛴다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "neon_city",
+      "orig": "Neon City",
+      "orig_en": "Anno 2053",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Neon City (1991)",
+      "by": "Monte Markham",
+      "year": 1991,
+      "country": "캐나다",
+      "setting": "환경이 망가져 돌연변이 약탈자가 날뛰는 2050년대, 현상금 사냥꾼이 사람들을 태우고 황무지를 건넌다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "prayer_of_the_rollerboys",
+      "orig": "Prayer of the Rollerboys",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Prayer of the Rollerboys (1990/1991)",
+      "by": "Rick King",
+      "year": 1991,
+      "country": "미국·일본",
+      "setting": "'대붕괴' 뒤 가난과 마약에 빠진 근미래 로스앤젤레스에서, 배달 소년이 백인 우월주의 롤러 갱단에 잠입한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "steel_and_lace",
+      "orig": "Steel and Lace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Steel and Lace (1990/1991)",
+      "by": "Ernest D. Farino",
+      "year": 1991,
+      "country": "미국",
+      "setting": "로봇 과학자가 억울하게 죽은 누이를 사이보그로 되살려, 그녀를 해친 사내들에게 복수하게 한다.",
+      "concepts": [
+        "cyborg",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "vegas_in_space",
+      "orig": "Vegas in Space",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Vegas in Space (1991)",
+      "by": "Phillip R. Ford",
+      "year": 1991,
+      "country": "미국",
+      "setting": "남자 우주 비행사 셋이 여자만 들어갈 수 있는 환락 행성의 도난 사건을 풀려고 여자로 몸을 바꾼다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 일부러 키치하게 만든 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "wedlock_1991",
+      "orig": "Wedlock",
+      "orig_en": "Deadlock",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Wedlock (1991, HBO TV 영화, 다른 이름 Deadlock)",
+      "by": "Lewis Teague",
+      "year": 1991,
+      "country": "미국",
+      "setting": "죄수끼리 짝지어 멀어지면 함께 터지는 목걸이를 채운 실험 감옥에서, 보석 도둑이 짝과 함께 달아난다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zeiram",
+      "orig": "ゼイラム",
+      "orig_en": "Zeiram",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "애니메이션"
+      ],
+      "first_medium": "영화",
+      "series": "ゼイラム (1991) · 속편 Zeiram 2 · OVA Iria: Zeiram the Animation(앞 이야기)",
+      "by": "Keita Amemiya",
+      "year": 1991,
+      "country": "일본",
+      "setting": "외계 현상금 사냥꾼 이리아가 인공지능 짝 밥과 함께, 도시를 본뜬 가상 공간에 괴물 제이람을 가두고 싸운다.",
+      "concepts": [
+        "alien",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bad_channels",
+      "orig": "Bad Channels",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Bad Channels (1992, Full Moon Features)",
+      "by": "Ted Nicolaou",
+      "year": 1992,
+      "country": "미국",
+      "setting": "외계인 둘이 시골 라디오 방송국을 차지하고, 전파를 써서 지구 여자들을 잡아가려 한다.",
+      "concepts": [
+        "alien",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mindwarp_1992",
+      "orig": "Mindwarp",
+      "orig_en": "Brain Slasher",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mindwarp (1992, Fangoria Films)",
+      "by": "Steve Barnett",
+      "year": 1992,
+      "country": "미국",
+      "setting": "오존층이 사라진 2037년, 돔 안 사람들은 목에 꽂은 장치로 가상 꿈에 살고 바깥엔 식인 돌연변이가 산다.",
+      "concepts": [
+        "catastrophe",
+        "simulation",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mom_and_dad_save_the_world",
+      "orig": "Mom and Dad Save the World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mom and Dad Save the World (1992)",
+      "by": "Greg Beeman",
+      "year": 1992,
+      "country": "미국",
+      "setting": "바보들의 행성을 차지한 얼간이 황제가 지구 주부에게 반해 부부를 납치하고, 부부가 지구 파괴를 막는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — SF 영화 패러디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_shadowchaser",
+      "orig": "Project Shadowchaser",
+      "orig_en": "Shadowchaser",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Shadowchaser 연작 영화 첫 편 (1992)",
+      "by": "John Eyres",
+      "year": 1992,
+      "country": "미국",
+      "setting": "망가진 초강력 인조인간이 대통령 딸을 붙잡고 병원을 점거하자, 냉동 감옥에서 잘못 깨운 사내가 맞선다.",
+      "concepts": [
+        "android",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "seedpeople",
+      "orig": "Seedpeople",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Seedpeople (1992, Charles Band 착상)",
+      "by": "Peter Manoogian",
+      "year": 1992,
+      "country": "미국",
+      "setting": "우주에서 떨어진 씨앗이 외계 괴물로 자라 시골 마을 사람들을 또 다른 씨앗 꼬투리로 바꾼다.",
+      "concepts": [
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "split_second_1992",
+      "orig": "Split Second",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Split Second (1992)",
+      "by": "Tony Maylam · Ian Sharp",
+      "year": 1992,
+      "country": "영국·미국",
+      "setting": "온난화로 물에 잠긴 2008년 런던에서, 형사가 희생자의 유전자를 빨아들이는 연쇄 살인 괴물을 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "accion_mutante",
+      "orig": "Acción mutante",
+      "orig_en": "Mutant Action",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Acción mutante (1993)",
+      "by": "Álex de la Iglesia",
+      "year": 1993,
+      "country": "스페인·프랑스",
+      "setting": "잘생긴 사람들이 다스리는 종말 뒤 세상에서, 스스로 돌연변이라 부르는 장애인 테러단이 부잣집 딸을 납치한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_intruder",
+      "orig": "Alien Intruder",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Intruder (1993)",
+      "by": "Ricardo Jacques Gale",
+      "year": 1993,
+      "country": "미국",
+      "setting": "2022년 깊은 우주로 간 죄수들의 가상 현실 놀이에 정체 모를 여자가 끼어들어 그들을 서로 싸우게 한다.",
+      "concepts": [
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "american_cyborg",
+      "orig": "American Cyborg: Steel Warrior",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "American Cyborg: Steel Warrior (1993)",
+      "by": "Boaz Davidson",
+      "year": 1993,
+      "country": "미국",
+      "setting": "3차 대전 뒤 사람들이 아이를 못 낳고 인공지능이 다스리는 세상에서, 하나뿐인 태아를 지키며 항구로 간다.",
+      "concepts": [
+        "catastrophe",
+        "infertility",
+        "ai",
+        "cyborg",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "arcade_1993",
+      "orig": "Arcade",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Arcade (1993, Full Moon Entertainment)",
+      "by": "Albert Pyun",
+      "year": 1993,
+      "country": "미국",
+      "setting": "죽은 아이의 뇌세포로 악당을 만든 가상 현실 게임이, 지는 아이들을 게임 속에 가둬 버린다.",
+      "concepts": [
+        "simulation",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "barb_wire",
+      "orig": "Barb Wire",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Dark Horse Comics 의 Comics' Greatest World 만화 Barb Wire (1993~) · 영화(1996, David Hogan)",
+      "by": "Chris Warner(만화) · David Hogan(영화 감독)",
+      "year": 1993,
+      "country": "미국",
+      "setting": "2차 남북 전쟁 중인 2017년, '마지막 자유 도시'의 술집 주인이자 현상금 사냥꾼이 도망자를 돕는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "cyborg_cop",
+      "orig": "Cyborg Cop",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cyborg Cop (1993) · Cyborg Cop II · Cyborg Cop III",
+      "by": "Sam Firstenberg",
+      "year": 1993,
+      "country": "미국",
+      "setting": "카리브해 섬의 과학자가 사람을 사이보그 병기로 만드는 실험을 하고, 동생을 잃은 전직 마약 단속관이 맞선다.",
+      "concepts": [
+        "cyborg",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fire_in_the_sky",
+      "orig": "Fire in the Sky",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Fire in the Sky (1993) — Travis Walton 이 외계인 납치 체험이라 주장한 책 The Walton Experience (1978) 를 바탕으로",
+      "by": "Robert Lieberman(감독) · Tracy Tormé(각본)",
+      "year": 1993,
+      "country": "미국",
+      "setting": "1975년 애리조나 숲에서 붉은 빛을 쫓아간 벌목꾼이 사라졌다가, 외계인에게 끌려갔던 일을 떠올린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "freaked",
+      "orig": "Freaked",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Freaked (1993)",
+      "by": "Alex Winter · Tom Stern",
+      "year": 1993,
+      "country": "미국",
+      "setting": "수상한 회사의 비료 광고를 맡은 옛 아역 스타가, 그 비료로 사람을 괴물로 바꾸는 괴짜 쇼에 붙잡힌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "ghost_in_the_machine_1993",
+      "orig": "Ghost in the Machine",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ghost in the Machine (1993)",
+      "by": "Rachel Talalay",
+      "year": 1993,
+      "country": "미국",
+      "setting": "죽은 연쇄 살인범의 정신이 컴퓨터망 속으로 들어가, 기계를 부려 사람들을 죽인다.",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "knights_1993",
+      "orig": "Knights",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Knights (1993)",
+      "by": "Albert Pyun",
+      "year": 1993,
+      "country": "미국",
+      "setting": "다른 사이보그를 없애려고 만든 사이보그가 한 여자를 사이보그 사냥꾼으로 길러 함께 싸운다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mandroid",
+      "orig": "Mandroid",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mandroid (1993)",
+      "by": "Jack Ersgard",
+      "year": 1993,
+      "country": "미국",
+      "setting": "러시아 비밀 연구소의 과학자가 조종복 입은 사람을 따라 움직이는 로봇을 만들고, 동업자가 그것을 노린다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rain_without_thunder",
+      "orig": "Rain Without Thunder",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Rain Without Thunder (1992/1993)",
+      "by": "Gary O. Bennett",
+      "year": 1993,
+      "country": "미국",
+      "setting": "낙태를 '태아 살해'로 처벌하는 50년 뒤 미국에서, 외국에서 임신을 끝내려 한 모녀가 감옥에 갇힌다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_meteor_man",
+      "orig": "The Meteor Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Meteor Man (1993)",
+      "by": "Robert Townsend",
+      "year": 1993,
+      "country": "미국",
+      "setting": "워싱턴의 교사가 떨어진 운석에 맞아 초능력을 얻고 동네를 괴롭히는 갱단과 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 슈퍼히어로 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "time_runner",
+      "orig": "Time Runner",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Time Runner (1993)",
+      "by": "Michael Mazo",
+      "year": 1993,
+      "country": "캐나다",
+      "setting": "2022년 외계인 침공 때 웜홀에 빨려 30년 전으로 떨어진 군인이 침략자에게 기울 미래를 막으려 한다.",
+      "concepts": [
+        "alien_invasion",
+        "wormhole",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "apex_1994",
+      "orig": "A.P.E.X.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "A.P.E.X. (1994)",
+      "by": "Phillip J. Roth",
+      "year": 1994,
+      "country": "미국",
+      "setting": "2073년 시간 탐사 사고로 1973년에 병균이 퍼지고, 막으려 보낸 공격 로봇 탓에 미래가 폐허가 된다.",
+      "concepts": [
+        "time_travel",
+        "robot",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "brainscan",
+      "orig": "Brainscan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Brainscan (1994)",
+      "by": "John Flynn",
+      "year": 1994,
+      "country": "영국·미국",
+      "setting": "외톨이 소년이 하는 게임 속 살인이 실제 살인으로 이어지고, 게임 안의 '트릭스터'가 현실에 나타난다.",
+      "concepts": [
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "oblivion_1994",
+      "orig": "Oblivion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Oblivion (1994) · Oblivion 2: Backlash (1996)",
+      "by": "Sam Irvin(감독) · Charles Band(원안) · Peter David(각본)",
+      "year": 1994,
+      "country": "미국·루마니아",
+      "setting": "3031년 먼 개척 행성의 서부 마을 오블리비언을, 보안관 아들이 외계 무법자 패거리에게서 지킨다.",
+      "concepts": [
+        "colonization",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 우주 서부극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "t_force",
+      "orig": "T-Force",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "T-Force (1994)",
+      "by": "Richard Pepin",
+      "year": 1994,
+      "country": "미국",
+      "setting": "세계 첫 사이보그 경찰대가 과잉 진압으로 해체될 처지에 놓이자 상관과 당국에 맞서 들고일어난다.",
+      "concepts": [
+        "cyborg",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "attack_of_the_60_foot_centerfold",
+      "orig": "Attack of the 60 Foot Centerfold",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Attack of the 60 Foot Centerfold (1995)",
+      "by": "Fred Olen Ray",
+      "year": 1995,
+      "country": "미국",
+      "setting": "올해의 표지 모델 자리를 노리던 여자가 실험용 미용약을 먹고 18미터 거인이 되어 도시를 휘젓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 풍자 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ensaio_sobre_a_cegueira",
+      "orig": "Ensaio sobre a cegueira",
+      "orig_en": "Blindness",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "José Saramago 소설(1995) · 영화 Blindness (2008, Fernando Meirelles)",
+      "by": "José Saramago(원작) · Fernando Meirelles(감독)",
+      "year": 1995,
+      "country": "포르투갈",
+      "setting": "이름 없는 도시에 까닭 모를 실명이 번져 거의 모두가 눈이 멀고, 격리된 사람들 사이에서 질서가 무너진다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "epsilon_1995",
+      "orig": "Epsilon",
+      "orig_en": "Alien Visitor",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Epsilon (1995, 넓힌 판 1997 Alien Visitor)",
+      "by": "Rolf de Heer",
+      "year": 1995,
+      "country": "오스트레일리아·이탈리아",
+      "setting": "잘못 전송돼 호주 오지에 떨어진 엡실론 행성 여자가 측량 기사를 데리고 다니며 사람이 망친 땅을 보여 준다.",
+      "concepts": [
+        "alien",
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "galaxis",
+      "orig": "Galaxis",
+      "orig_en": "Terminal Force",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Galaxis (1995, 다른 이름 Terminal Force)",
+      "by": "William Mesa",
+      "year": 1995,
+      "country": "미국",
+      "setting": "우주가 태어날 때 생긴 보석을 악당이 차지하자, 몸을 감추는 외계 투사가 지구로 와서 짝 보석을 찾는다.",
+      "concepts": [
+        "alien",
+        "cloaking"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "k_pax",
+      "orig": "K-PAX",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Gene Brewer 소설(1995) · 영화(2001, Iain Softley)",
+      "by": "Gene Brewer(원작) · Iain Softley(감독)",
+      "year": 1995,
+      "country": "미국",
+      "setting": "1,000광년 떨어진 행성 케이팩스에서 왔다는 정신병원 환자를 맡은 의사가, 그의 말을 믿게 되어 간다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "memories_otomo",
+      "orig": "Memories",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "大友克洋 단편 만화 셋을 옮긴 옴니버스 극장 애니메이션 (1995) — 彼女の想いで · 最臭兵器 · 大砲の街",
+      "by": "大友克洋(원작·총괄) · Kōji Morimoto · Tensai Okamura",
+      "year": 1995,
+      "country": "일본",
+      "setting": "깊은 우주의 폐 정거장에 홀린 인양선원, 몸에서 독가스를 뿜게 된 제약회사 직원, 대포를 쏘며 사는 도시.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 옴니버스 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mosquito_1995",
+      "orig": "Mosquito",
+      "orig_en": "Blood Fever",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mosquito (1994/1995, 다른 이름 Blood Fever)",
+      "by": "Gary Jones",
+      "year": 1995,
+      "country": "미국",
+      "setting": "국립공원에 떨어진 외계 우주선 조종사의 피를 빤 모기가 거대하게 자라 캠핑객을 덮친다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_metalbeast",
+      "orig": "Project Metalbeast",
+      "orig_en": "Metalbeast",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Metalbeast (1994/1995, 다른 이름 Project Metalbeast: DNA Overload)",
+      "by": "Alessandro De Gaetano",
+      "year": 1995,
+      "country": "미국",
+      "setting": "늑대인간의 피로 완벽한 병사를 만들려던 실험이 금속 피부를 입은 괴물을 깨운다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "timemaster",
+      "orig": "Timemaster",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Timemaster (1995)",
+      "by": "James Glickenhaus",
+      "year": 1995,
+      "country": "미국",
+      "setting": "지구를 지킬 마지막 방어선인 소년 제시가 시간을 넘나들며 외계의 위협을 막는다.",
+      "concepts": [
+        "time_travel",
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "white_dwarf_1995",
+      "orig": "White Dwarf",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "White Dwarf (1995, TV 영화)",
+      "by": "Peter Markle",
+      "year": 1995,
+      "country": "미국",
+      "setting": "3040년, 한쪽 면만 해를 보는 행성 루스타로 실습 온 의대생이 낮과 밤 두 땅의 내전에 휘말린다.",
+      "concepts": [
+        "colonization",
+        "terraforming"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "adrenalin_fear_the_rush",
+      "orig": "Adrenalin: Fear the Rush",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Adrenalin: Fear the Rush (1996)",
+      "by": "Albert Pyun",
+      "year": 1996,
+      "country": "미국",
+      "setting": "죽음의 병균으로 담장 안에 봉쇄된 2007년 보스턴에서, 경찰들이 정체 모를 살인 괴물을 쫓는다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "crossworlds",
+      "orig": "Crossworlds",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Crossworlds (1996)",
+      "by": "Krishna Rao",
+      "year": 1996,
+      "country": "미국",
+      "setting": "물려받은 목걸이가 다른 차원 '크로스월드'의 문을 여는 지팡이의 열쇠인 줄 안 대학생이 악당과 맞선다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "multiplicity",
+      "orig": "Multiplicity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Multiplicity (1996) — Chris Miller 의 National Lampoon 단편에서",
+      "by": "Harold Ramis",
+      "year": 1996,
+      "country": "미국",
+      "setting": "일에 치인 건설 노동자가 과학자의 복제 기계로 자기를 여럿 만들자, 복제마다 성격이 달라 일이 꼬인다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "omega_doom",
+      "orig": "Omega Doom",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Omega Doom (1996)",
+      "by": "Albert Pyun",
+      "year": 1996,
+      "country": "미국",
+      "setting": "핵겨울 뒤 로봇끼리 내전을 벌이는 폐허 마을에 떠돌이 로봇 전사가 와서 두 편을 서로 싸우게 한다.",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 요짐보를 본뜸",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sci_fighters",
+      "orig": "Sci-Fighters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Sci-Fighters (1996)",
+      "by": "Peter Svatek",
+      "year": 1996,
+      "country": "캐나다·미국",
+      "setting": "2009년 보스턴, 달 감옥을 탈출한 옛 동료가 외계 병균을 품고 돌아오자 형사가 그를 쫓는다.",
+      "concepts": [
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_truckers",
+      "orig": "Space Truckers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Space Truckers (1996)",
+      "by": "Stuart Gordon",
+      "year": 1996,
+      "country": "미국·영국·아일랜드",
+      "setting": "몇 안 남은 독립 우주 화물 운송업자가 수상한 짐을 실었다가 기업이 만든 사이보그 병사들과 얽힌다.",
+      "concepts": [
+        "cyborg",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_arrival_1996",
+      "orig": "The Arrival",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Arrival (1996) · Arrival II (1998)",
+      "by": "David Twohy",
+      "year": 1996,
+      "country": "미국·멕시코",
+      "setting": "외계 전파를 잡았다가 쫓겨난 전파 천문학자가, 그 신호를 덮는 지구발 신호를 따라가 외계인의 음모를 캔다.",
+      "concepts": [
+        "alien",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tykho_moon",
+      "orig": "Tykho Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Tykho Moon (1996)",
+      "by": "Enki Bilal",
+      "year": 1996,
+      "country": "프랑스·독일",
+      "setting": "벽으로 갈린 낡은 파리 복제 도시가 선 달 식민지, 독재자와 그 아들들이 몸을 갉는 병에 시달린다.",
+      "concepts": [
+        "colonization",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zone_39",
+      "orig": "Zone 39",
+      "orig_en": "The Zone",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Zone 39 (1996)",
+      "by": "John Tatoulis",
+      "year": 1996,
+      "country": "오스트레일리아",
+      "setting": "환경이 무너진 미래, 40년 전쟁 끝에 평화를 맺은 두 진영의 국경 초소로 아내를 잃은 군인이 보내진다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark_planet_1997",
+      "orig": "Dark Planet",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dark Planet (1997)",
+      "by": "Albert Magnoli",
+      "year": 1997,
+      "country": "미국",
+      "setting": "땅과 우주에서 싸우던 두 세력이, 위험한 웜홀 너머 살 만한 행성을 찾으러 함께 탐사선을 띄운다.",
+      "concepts": [
+        "wormhole",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "face_off",
+      "orig": "Face/Off",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Face/Off (1997)",
+      "by": "John Woo",
+      "year": 1997,
+      "country": "미국",
+      "setting": "연방 수사관이 혼수상태 테러범의 얼굴을 수술로 옮겨 쓰고 잠입하자, 깨어난 테러범이 수사관 얼굴을 쓴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 실험 수술 하나에 기댄 액션 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "full_metal_yakuza",
+      "orig": "FULL METAL 極道",
+      "orig_en": "Full Metal Yakuza",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "FULL METAL 極道 (1997, 비디오 영화)",
+      "by": "三池崇史 (Takashi Miike)",
+      "year": 1997,
+      "country": "일본",
+      "setting": "총에 맞아 죽어 가던 풋내기 야쿠자가 괴짜 과학자 손에 총알도 안 드는 사이보그로 되살아나 복수한다.",
+      "concepts": [
+        "cyborg",
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "kenny_starfighter",
+      "orig": "Kenny Starfighter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "스웨덴 TV 연속극 Kenny Starfighter (1997) · 앞 이야기 영화 Kenny Begins (2009)",
+      "by": "Carl Åstrand · Mats Lindberg(2009 감독)",
+      "year": 1997,
+      "country": "스웨덴",
+      "setting": "은하 영웅 학교의 가장 못난 학생 케니 스타파이터가 지구에 불시착해 영웅이 되려 애쓴다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sleeping_dogs_1997",
+      "orig": "Sleeping Dogs",
+      "orig_en": "Mission: LA 2029",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Sleeping Dogs (1997, 다른 이름 Deviants · Mission: LA 2029)",
+      "by": "Micheal Bafaro",
+      "year": 1997,
+      "country": "캐나다·체코·독일·미국",
+      "setting": "2020년대 로스앤젤레스의 보석 도둑이 에메랄드 밀수범들에게 붙잡힌 우주선 승무원들을 구하려 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "spaceman_1997",
+      "orig": "Spaceman",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Spaceman (1997, Palm Pictures)",
+      "by": "Scott Dikkers",
+      "year": 1997,
+      "country": "미국",
+      "setting": "아기 때 외계로 끌려가 살인 병기로만 길러진 사내가 지구에 돌아와 평범한 삶에 적응하려 애쓴다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "star_kid",
+      "orig": "Star Kid",
+      "orig_en": "The Warrior of Waverly Street",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Star Kid (1997/1998)",
+      "by": "Manny Coto",
+      "year": 1997,
+      "country": "미국",
+      "setting": "수줍은 중학생이 운석과 함께 떨어진, 제 인공지능을 지닌 외계 전투 갑옷을 입게 된다.",
+      "concepts": [
+        "alien",
+        "ai",
+        "power_armor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "armageddon_1998",
+      "orig": "Armageddon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Armageddon (1998)",
+      "by": "Michael Bay",
+      "year": 1998,
+      "country": "미국",
+      "setting": "텍사스만 한 소행성이 지구로 다가오자, 미국 항공우주국이 석유 시추꾼들을 우주로 보내 그것을 부수게 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "deep_rising",
+      "orig": "Deep Rising",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Deep Rising (1998)",
+      "by": "Stephen Sommers",
+      "year": 1998,
+      "country": "미국",
+      "setting": "남중국해에서 첫 항해 중이던 호화 유람선이 바다 밑에서 올라온 무언가에 붙잡혀 승객들이 몰살당한다.",
+      "concepts": [
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 괴물 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "disturbing_behavior",
+      "orig": "Disturbing Behavior",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Disturbing Behavior (1998)",
+      "by": "David Nutter",
+      "year": 1998,
+      "country": "미국·오스트레일리아",
+      "setting": "섬마을 고등학교의 학교 심리학자가 말썽꾼 아이들을 세뇌해 모범생 무리 '블루 리본'으로 바꿔 놓는다.",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "night_watch_lukyanenko",
+      "orig": "Ночной дозор",
+      "orig_en": "The Night Watch",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Сергей Лукьяненко 소설(1998) 과 이어진 '감시' 연작 · 영화 Night Watch (2004) · Day Watch (2006)",
+      "by": "Сергей Лукьяненко(원작) · Timur Bekmambetov(영화 감독)",
+      "year": 1998,
+      "country": "러시아",
+      "setting": "보통 사람 틈에 사는 초능력자 '다른 자'들이 빛과 어둠으로 갈려, 서로를 지키보는 감시대를 두고 휴전한다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 도시 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pi_1998",
+      "orig": "π",
+      "orig_en": "Pi",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "π (1998)",
+      "by": "Darren Aronofsky",
+      "year": 1998,
+      "country": "미국",
+      "setting": "모든 것이 숫자로 풀린다고 믿는 수학자가 직접 만든 컴퓨터로 주식 시장과 세계의 무늬를 찾다 무너져 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "progeny_1998",
+      "orig": "Progeny",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Progeny (1998/1999)",
+      "by": "Brian Yuzna",
+      "year": 1998,
+      "country": "미국",
+      "setting": "임신한 아내와 외과의 남편이 수태한 밤 회색 외계인에게 끌려갔던 기억을 떠올리며 아이를 의심한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "six_string_samurai",
+      "orig": "Six-String Samurai",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Six-String Samurai (1998)",
+      "by": "Lance Mungia",
+      "year": 1998,
+      "country": "미국",
+      "setting": "1957년 소련 핵 공격으로 미국이 무너진 세계, 엘비스 왕이 죽자 기타 검객이 '로스트 베가스'로 간다.",
+      "concepts": [
+        "catastrophe",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "soldier_1998",
+      "orig": "Soldier",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Soldier (1998)",
+      "by": "Paul W. S. Anderson",
+      "year": 1998,
+      "country": "미국·영국",
+      "setting": "아기 때부터 병사로만 길러진 노병이 유전자 설계 병사들에게 밀려나 죽은 줄 알고 버려진다.",
+      "concepts": [
+        "super_soldier",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "warlord_battle_for_the_galaxy",
+      "orig": "The Warlord: Battle for the Galaxy",
+      "orig_en": "The Osiris Chronicles",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Warlord: Battle for the Galaxy (1998, UPN TV 영화 — 연속극 시험판)",
+      "by": "Joe Dante(감독) · Caleb Carr(각본)",
+      "year": 1998,
+      "country": "미국",
+      "setting": "행성 칼리반 5의 도둑 청년이 납치된 여동생을 찾으려 늙은 장군과 손잡고 군벌에 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "beowulf_1999",
+      "orig": "Beowulf",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Beowulf (1999) — 옛 영어 서사시를 SF·판타지로 옮김",
+      "by": "Graham Baker",
+      "year": 1999,
+      "country": "미국·영국",
+      "setting": "멸망 뒤 같은 황무지의 성채가 밤마다 괴물 그렌델에게 습격당하고, 떠돌이 전사 베오울프가 찾아온다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — SF 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "escape_from_mars",
+      "orig": "Escape from Mars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Escape from Mars (1999, UPN TV 영화)",
+      "by": "Neill Fearnley",
+      "year": 1999,
+      "country": "미국",
+      "setting": "2015년 인류 첫 유인 화성 탐사에 나선 우주인 다섯이 고장과 서로의 다툼을 겪으며 화성에 닿는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "furia_1999",
+      "orig": "Furia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Furia (1999) — Julio Cortázar 단편 Graffiti 에서 착상",
+      "by": "Alexandre Aja",
+      "year": 1999,
+      "country": "프랑스",
+      "setting": "경찰 독재가 말할 자유를 짓밟은 근미래, 스무 살 청년이 밤마다 벽에 그림을 그리다 저항군의 딸을 만난다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 · 프랑스어 위키백과",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "peut_etre",
+      "orig": "Peut-être",
+      "orig_en": "Maybe",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Peut-être (1999)",
+      "by": "Cédric Klapisch",
+      "year": 1999,
+      "country": "프랑스",
+      "setting": "청년이 천장 판자 너머 사막이 된 미래 파리로 가서, 자기 아들이라는 노인에게 아이를 가지라는 말을 듣는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_astronauts_wife",
+      "orig": "The Astronaut's Wife",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Astronaut's Wife (1999)",
+      "by": "Rand Ravich",
+      "year": 1999,
+      "country": "미국",
+      "setting": "우주 유영 사고 뒤 돌아온 남편이 달라졌음을 느낀 아내가, 쌍둥이를 밴 뒤 남편 속 무언가를 의심한다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_time_shifters",
+      "orig": "Thrill Seekers",
+      "orig_en": "The Time Shifters",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Thrill Seekers (1999, TBS TV 영화, 다른 이름 The Time Shifters)",
+      "by": "Mario Azzopardi",
+      "year": 1999,
+      "country": "미국",
+      "setting": "2070년 회사가 과거 참사를 구경하는 시간 여행 상품을 팔고, 그 관광객을 알아챈 기자가 참사를 막는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alice_2000",
+      "orig": "A.LI.CE",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "A.LI.CE (2000, 극장 애니메이션 — 처음으로 전부 컴퓨터로 만든 장편 애니메이션)",
+      "by": "Kenichi Maejima",
+      "year": 2000,
+      "country": "일본",
+      "setting": "우주 여객선 사고에서 살아남은 소녀와 승무원 로봇이 눈 덮인 땅에 떨어지고, 그곳이 2030년임을 안다.",
+      "concepts": [
+        "time_travel",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 1990년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "happy_accidents",
+      "orig": "Happy Accidents",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Happy Accidents (2000)",
+      "by": "Brad Anderson",
+      "year": 2000,
+      "country": "미국",
+      "setting": "연애마다 실패하던 뉴욕 여자가 2470년에서 왔다고 우기는 사내와 사랑에 빠진다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "red_planet_2000",
+      "orig": "Red Planet",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Red Planet (2000)",
+      "by": "Antony Hoffman",
+      "year": 2000,
+      "country": "미국·오스트레일리아",
+      "setting": "죽어 가는 지구를 대신할 화성을 20년 동안 이끼로 테라포밍했는데 산소가 줄자, 조사대가 화성으로 간다.",
+      "concepts": [
+        "terraforming",
+        "colonization",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "supernova_2000",
+      "orig": "Supernova",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Supernova (2000, 처음 기획 이름 Dead Star)",
+      "by": "Walter Hill(Thomas Lee 이름)",
+      "year": 2000,
+      "country": "미국",
+      "setting": "22세기 의료 구조선이 차원 도약으로 먼 얼음 위성의 조난 신호를 찾아갔다가 수상한 생존자와 물건을 태운다.",
+      "concepts": [
+        "jump_drive"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "timequest",
+      "orig": "Timequest",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Timequest (2000)",
+      "by": "Robert Dyke",
+      "year": 2000,
+      "country": "미국",
+      "setting": "1963년 11월 22일 아침, 미래에서 온 노인이 재클린 케네디 앞에 나타나 암살을 알리고 역사를 바꾼다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "unbreakable",
+      "orig": "Unbreakable",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Unbreakable (2000) · Split · Glass (2019) — 한 세계로 이어진 3부작",
+      "by": "M. Night Shyamalan",
+      "year": 2000,
+      "country": "미국",
+      "setting": "열차 사고에서 혼자 멀쩡히 살아남은 경비원이, 뼈가 쉽게 부러지는 만화 수집가에게서 자신이 초인임을 듣는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "what_planet_are_you_from",
+      "orig": "What Planet Are You From?",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "What Planet Are You From? (2000)",
+      "by": "Mike Nichols",
+      "year": 2000,
+      "country": "미국",
+      "setting": "남자만 사는 먼 행성의 외계인이 지구 여자에게 아이를 배게 하라는 명령을 받고 피닉스에서 은행원으로 산다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dreamcatcher_king",
+      "orig": "Dreamcatcher",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Stephen King 소설(2001) · 영화(2003, Lawrence Kasdan)",
+      "by": "Stephen King(원작) · Lawrence Kasdan(감독)",
+      "year": 2001,
+      "country": "미국",
+      "setting": "어릴 적 텔레파시를 얻은 친구 넷이 메인 숲 사냥 여행에서 몸속에 기생하는 외계 생명의 침공과 마주친다.",
+      "concepts": [
+        "telepathy",
+        "alien",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "final_2001",
+      "orig": "Final",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Final (2001)",
+      "by": "Campbell Scott",
+      "year": 2001,
+      "country": "미국",
+      "setting": "혼수에서 깬 사내가 자기는 냉동 보존에서 깨어나 미래 사회에 처형될 처지라 믿고, 그 믿음이 들어맞아 간다.",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "final_fantasy_the_spirits_within",
+      "orig": "Final Fantasy: The Spirits Within",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Final Fantasy: The Spirits Within (2001, 전부 컴퓨터로 만든 영화)",
+      "by": "Hironobu Sakaguchi",
+      "year": 2001,
+      "country": "일본·미국",
+      "setting": "2065년 생명의 기운을 빨아 먹는 외계 존재 '팬텀'이 지구를 덮고, 과학자가 맞설 여덟 기운을 모은다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 컴퓨터 그래픽 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ghosts_of_mars",
+      "orig": "Ghosts of Mars",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ghosts of Mars (2001)",
+      "by": "John Carpenter",
+      "year": 2001,
+      "country": "미국",
+      "setting": "84% 테라포밍된 2176년 화성의 광산 마을에서, 경찰대가 옛 화성인의 혼에 사로잡힌 광부들과 싸운다.",
+      "concepts": [
+        "terraforming",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jimmy_neutron",
+      "orig": "Jimmy Neutron: Boy Genius",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Jimmy Neutron: Boy Genius (2001, Nickelodeon Movies)",
+      "by": "John A. Davis",
+      "year": 2001,
+      "country": "미국",
+      "setting": "꼬마 천재가 띄운 통신 위성을 본 외계인이 마을 어른들을 잡아가자, 아이들이 로켓을 몰고 구하러 간다.",
+      "concepts": [
+        "alien",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "replicant_2001",
+      "orig": "Replicant",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Replicant (2001)",
+      "by": "Ringo Lam",
+      "year": 2001,
+      "country": "미국",
+      "setting": "잡히지 않는 연쇄 방화 살인범을 쫓으려, 정부 과학자들이 그의 복제 인간을 만들어 형사에게 붙인다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_american_astronaut",
+      "orig": "The American Astronaut",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The American Astronaut (2001)",
+      "by": "Cory McAbee",
+      "year": 2001,
+      "country": "미국",
+      "setting": "우주 여행이 거친 뜨내기들의 일인 세계, 떠돌이 장사꾼이 복제 장치로 난 '진짜 여자'를 목성에 팔러 간다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 우주 서부 뮤지컬 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_lost_skeleton_of_cadavra",
+      "orig": "The Lost Skeleton of Cadavra",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Lost Skeleton of Cadavra (2001)",
+      "by": "Larry Blamire",
+      "year": 2001,
+      "country": "미국",
+      "setting": "1961년 운석의 희귀 원소를 찾는 과학자 부부, 불시착한 외계인 부부, 해골을 노리는 악당이 얽힌다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 1950년대 싸구려 영화 패러디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_one_2001",
+      "orig": "The One",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The One (2001)",
+      "by": "James Wong",
+      "year": 2001,
+      "country": "미국",
+      "setting": "평행 우주 경찰 출신 악당이 자기의 다른 판 124명을 죽여 힘을 모으고, 마지막 남은 자신과 맞선다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_princess_blade",
+      "orig": "修羅雪姫",
+      "orig_en": "The Princess Blade",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "修羅雪姫 (2001) — Kazuo Koike·Kazuo Kamimura 만화 Lady Snowblood 를 미래 세계로 옮겨 다시 지음",
+      "by": "Shinsuke Sato",
+      "year": 2001,
+      "country": "일본",
+      "setting": "문을 닫아건 종말 뒤 일본, 자객으로 사는 옛 호위 가문의 마지막 공주가 출생의 비밀을 알고 가문을 떠난다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 무술 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "clockstoppers",
+      "orig": "Clockstoppers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Clockstoppers (2002)",
+      "by": "Jonathan Frakes",
+      "year": 2002,
+      "country": "미국",
+      "setting": "세상이 멈춘 듯 보일 만큼 몸을 빠르게 하는 '하이퍼타임' 시계를 얻은 소년이 회사에 쫓긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dead_or_alive_final",
+      "orig": "Dead or Alive: Final",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dead or Alive: Final (2002) — Dead or Alive 3부작 셋째 편이지만 이야기는 따로",
+      "by": "三池崇史 (Takashi Miike)",
+      "year": 2002,
+      "country": "일본",
+      "setting": "시장이 시민에게 피임약을 강제하는 24세기 요코하마에서, 옛 전쟁의 인조인간 떠돌이가 반군 편에 선다.",
+      "concepts": [
+        "control_society",
+        "infertility",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eight_legged_freaks",
+      "orig": "Eight Legged Freaks",
+      "orig_en": "Arac Attack",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Eight Legged Freaks (2002)",
+      "by": "Ellory Elkayem",
+      "year": 2002,
+      "country": "미국·독일·오스트레일리아",
+      "setting": "애리조나 광산 마을의 연못에 독성 폐기물이 흘러들어, 그것을 먹은 거미들이 거대해져 마을을 덮친다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 괴물 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_viper",
+      "orig": "Project Viper",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Viper (2002, Sci Fi Channel TV 영화)",
+      "by": "Jim Wynorski(Jay Andrews 이름)",
+      "year": 2002,
+      "country": "미국",
+      "setting": "사람 유전자와 컴퓨터 칩을 섞어 만든 실험 생물 '바이퍼'가 우주 왕복선 사고로 지구에 풀려난다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "returner",
+      "orig": "リターナー",
+      "orig_en": "Returner",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "リターナー (2002)",
+      "by": "Takashi Yamazaki",
+      "year": 2002,
+      "country": "일본",
+      "setting": "외계 종족 다그라에게 지던 2084년, 소녀 병사가 시간 문을 넘어 2002년의 첫 다그라를 막으러 온다.",
+      "concepts": [
+        "alien_invasion",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "scorcher",
+      "orig": "Scorcher",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Scorcher (2002)",
+      "by": "James Seale",
+      "year": 2002,
+      "country": "미국",
+      "setting": "핵실험이 땅속 판을 흔들어 사흘 안에 지구가 불바다가 될 판, 군인이 로스앤젤레스에 핵폭탄을 터뜨리러 간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "so_close_2002",
+      "orig": "夕陽天使",
+      "orig_en": "So Close",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "夕陽天使 (2002)",
+      "by": "Corey Yuen",
+      "year": 2002,
+      "country": "홍콩",
+      "setting": "아버지가 남긴 비밀 위성 기술로 보안을 뚫는 해커 자매 자객이, 그들을 고용한 자와 경찰 양쪽에 쫓긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 첨단 장비를 쓰는 액션 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tamala_2010",
+      "orig": "TAMALA 2010: A Punk Cat in Space",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TAMALA 2010 (2002)",
+      "by": "t.o.L (trees of Life)",
+      "year": 2002,
+      "country": "일본",
+      "setting": "광고가 뒤덮은 '고양이 지구'의 펑크 고양이가 고향 오리온으로 날아가다, 우편 회사로 숨은 교단과 얽힌다.",
+      "concepts": [
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 실험 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "teknolust",
+      "orig": "Teknolust",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Teknolust (2002)",
+      "by": "Lynn Hershman Leeson",
+      "year": 2002,
+      "country": "미국·영국·독일",
+      "setting": "과학자가 자기 유전자를 넣어 만든 사이보그 복제 셋이 살아가려고 남자들에게서 정액을 모으러 바깥에 나간다.",
+      "concepts": [
+        "clone",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_adventures_of_pluto_nash",
+      "orig": "The Adventures of Pluto Nash",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Adventures of Pluto Nash (2002)",
+      "by": "Ron Underwood",
+      "year": 2002,
+      "country": "미국",
+      "setting": "2080년 달 식민지 '리틀 아메리카'에서 술집을 차린 전과자가 인조인간 경호원과 함께 폭력배에 맞선다.",
+      "concepts": [
+        "colonization",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_last_man_2002",
+      "orig": "The Last Man",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Last Man (2002)",
+      "by": "Harry Ralston",
+      "year": 2002,
+      "country": "미국",
+      "setting": "정체 모를 재앙 뒤 혼자 남았다고 믿은 인류학 대학원생 앞에 살아남은 여자와 또 한 사내가 나타난다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "twenty_eight_days_later",
+      "orig": "28 Days Later",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "28 Days Later (2002) 와 속편",
+      "by": "Danny Boyle(감독) · Alex Garland(각본)",
+      "year": 2002,
+      "country": "영국",
+      "setting": "실험실 침팬지에게서 '분노' 병균이 퍼져 영국이 무너지고, 혼수에서 깬 배달부가 텅 빈 런던을 헤맨다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "zathura",
+      "orig": "Zathura",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Chris Van Allsburg 그림책(2002) · 영화 Zathura: A Space Adventure (2005, Jumanji 의 곁가지)",
+      "by": "Chris Van Allsburg(원작) · Jon Favreau(감독)",
+      "year": 2002,
+      "country": "미국",
+      "setting": "형제가 오래된 우주 보드게임을 시작하자 집이 통째로 우주로 날아가고, 게임 속 위험이 진짜로 덮친다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 판타지 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "absolon",
+      "orig": "Absolon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Absolon (2003)",
+      "by": "David Barto",
+      "year": 2003,
+      "country": "캐나다·영국",
+      "setting": "병균이 인류 절반을 죽인 뒤 모두가 한 회사의 약을 먹어야 사는 세상, 형사가 과학자 살인의 음모를 캔다.",
+      "concepts": [
+        "catastrophe",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_hunter",
+      "orig": "Alien Hunter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Hunter (2003)",
+      "by": "Ronald Krauss",
+      "year": 2003,
+      "country": "미국·불가리아",
+      "setting": "남극 기지에서 얼음에 갇힌 외계 비행체가 나오고, 암호학자가 그 신호가 '열지 말라'는 뜻임을 알아낸다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "city_of_ember",
+      "orig": "The City of Ember",
+      "orig_en": "City of Ember",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Jeanne DuPrau 소설 The City of Ember (2003) 과 이어진 Ember 책 · 영화(2008, Gil Kenan)",
+      "by": "Jeanne DuPrau(원작) · Gil Kenan(감독)",
+      "year": 2003,
+      "country": "미국",
+      "setting": "재앙을 피해 지은 땅속 도시 엠버의 불빛이 꺼져 가자, 아이 둘이 옛 상자에 든 탈출 안내를 풀어 간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "good_boy_2003",
+      "orig": "Good Boy!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Good Boy! (2003) — Zeke Richardson 의 책 Dogs from Outer Space 에서",
+      "by": "John Hoffman",
+      "year": 2003,
+      "country": "미국",
+      "setting": "소년이 데려온 개가 시리우스 별에서 온 사절로, 개들이 본디 지구를 다스리러 왔음을 소년에게 알린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 가족 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "its_all_about_love",
+      "orig": "It's All About Love",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "It's All About Love (2003)",
+      "by": "Thomas Vinterberg",
+      "year": 2003,
+      "country": "덴마크",
+      "setting": "여름에 눈이 오는 2021년, 이혼하러 온 남자가 스케이트 선수 아내를 대신할 복제 셋이 있음을 안다.",
+      "concepts": [
+        "catastrophe",
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "koi_mil_gaya",
+      "orig": "Koi... Mil Gaya",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Koi... Mil Gaya (2003) · Krrish (2006, 슈퍼히어로 영화) 외 — Krrish 연작",
+      "by": "Rakesh Roshan",
+      "year": 2003,
+      "country": "인도",
+      "setting": "아버지가 남긴 슈퍼컴퓨터로 외계 존재 '자두'를 불러낸 발달장애 청년이 그와 친구가 되어 달라진다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 힌디어 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "moon_child_2003",
+      "orig": "Moon Child",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Moon Child (2003) — Gackt 의 'Moon Saga' 구상에서",
+      "by": "Takahisa Zeze(감독) · Gackt(원안)",
+      "year": 2003,
+      "country": "일본",
+      "setting": "2014년 경제가 무너진 일본을 떠나 사람들이 옮겨 간 중국의 도시에서, 소매치기 고아들이 흡혈귀와 얽힌다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 흡혈귀 액션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "robot_stories",
+      "orig": "Robot Stories",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Robot Stories (2003, 이야기 넷의 옴니버스)",
+      "by": "Greg Pak",
+      "year": 2003,
+      "country": "미국",
+      "setting": "입양하기 전에 로봇 아기를 맡아 길러 보는 부부 등, 로봇과 사람이 이어지려 애쓰는 이야기 넷.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_big_empty",
+      "orig": "The Big Empty",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Big Empty (2003)",
+      "by": "Steve Anderson",
+      "year": 2003,
+      "country": "미국",
+      "setting": "빚진 배우가 열지 말라는 가방을 사막 마을에 배달하다가, 사람들이 사라지는 마른 호수의 비밀에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 수수께끼 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_core",
+      "orig": "The Core",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Core (2003)",
+      "by": "Jon Amiel",
+      "year": 2003,
+      "country": "미국",
+      "setting": "지구 핵이 돌기를 멈춰 자기장이 무너지자, 과학자들이 땅을 파고드는 배를 몰고 핵에 핵폭탄을 터뜨리러 간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "undead_2003",
+      "orig": "Undead",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Undead (2003)",
+      "by": "Michael Spierig · Peter Spierig",
+      "year": 2003,
+      "country": "오스트레일리아",
+      "setting": "시골 마을에 이상한 운석이 떨어져 주민들이 좀비가 되고, 외계인에게 끌려갔었다는 사내 집에 생존자가 모인다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 좀비 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "after_the_apocalypse_2004",
+      "orig": "After the Apocalypse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "After the Apocalypse (2004, 대사 없는 흑백 영화)",
+      "by": "Yasuaki Nakajima",
+      "year": 2004,
+      "country": "일본",
+      "setting": "3차 대전의 독가스 탓에 말을 잃은 생존자 다섯이 말없이 서로 기대어 삶을 다시 꾸린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "banlieue_13",
+      "orig": "Banlieue 13",
+      "orig_en": "District B13",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Banlieue 13 (2004) 과 속편",
+      "by": "Pierre Morel(감독) · Luc Besson(제작·각본)",
+      "year": 2004,
+      "country": "프랑스",
+      "setting": "2010년 벽으로 갇혀 버려진 파리 교외 빈민가 B13에서, 갱단과 싸우는 청년이 경찰에게도 배신당한다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 근미래 배경 액션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dead_leaves",
+      "orig": "Dead Leaves",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Dead Leaves (2004, Production I.G)",
+      "by": "Hiroyuki Imaishi",
+      "year": 2004,
+      "country": "일본",
+      "setting": "기억 없이 벌거벗고 깨어난 두 무법자가 도쿄를 휩쓸다, 반쯤 부서진 달의 감옥 '데드 리브스'로 끌려간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "decoys_2004",
+      "orig": "Decoys",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Decoys (2004) · Decoys 2: Alien Seduction (2007)",
+      "by": "Matthew Hastings",
+      "year": 2004,
+      "country": "캐나다",
+      "setting": "대학 신입생 둘이 기숙사에서 만난 매혹적인 두 여자가 남자들을 노리는 외계인임을 알아챈다.",
+      "concepts": [
+        "alien",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "faq_frequently_asked_questions",
+      "orig": "FAQ: Frequently Asked Questions",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "FAQ: Frequently Asked Questions (2004)",
+      "by": "Carlos Atanes",
+      "year": 2004,
+      "country": "스페인",
+      "setting": "여자들의 '메타통제 자매회'가 남녀 접촉을 막는 미래 파리에서, 모범 시민 여자가 한 남자 탓에 흔들린다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "far_cry_2004",
+      "orig": "Far Cry",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "Crytek 게임 Far Cry (2004) · Uwe Boll 영화 (2008)",
+      "by": "Crytek(게임) · Uwe Boll(영화 감독)",
+      "year": 2004,
+      "country": "독일",
+      "setting": "열대 섬에서 미친 과학자가 사람과 짐승에게 유전자 실험을 벌이고, 전직 특수 부대원이 기자를 찾아 나선다.",
+      "concepts": [
+        "genetic_eng",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 게임을 옮긴 액션 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "godsend_2004",
+      "orig": "Godsend",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Godsend (2004)",
+      "by": "Nick Hamm",
+      "year": 2004,
+      "country": "미국·캐나다",
+      "setting": "사고로 아들을 잃은 부부가 의사의 제안으로 아들을 복제해 다시 낳는데, 여덟 살이 넘자 아이가 달라진다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gora",
+      "orig": "G.O.R.A.",
+      "orig_en": "G.O.R.A.: A Space Movie",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "G.O.R.A. (2004) · A.R.O.G (2008) · Arif V 216 (2018)",
+      "by": "Ömer Faruk Sorak(1편 감독) · Cem Yılmaz(각본·주연)",
+      "year": 2004,
+      "country": "튀르키예",
+      "setting": "가짜 비행접시 사진을 팔던 양탄자 장수가 행성 고라의 외계인에게 끌려가 그곳의 음모에 휘말린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 튀르키예 흥행 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "phil_the_alien",
+      "orig": "Phil the Alien",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Phil the Alien (2004)",
+      "by": "Rob Stefaniuk",
+      "year": 2004,
+      "country": "캐나다",
+      "setting": "모습을 바꾸고 물건을 움직이는 외계인이 온타리오 북부에 불시착해 촌사람들과 말하는 비버와 어울린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "post_impact",
+      "orig": "Post Impact",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Post Impact (2004)",
+      "by": "Christoph Schrewe",
+      "year": 2004,
+      "country": "독일·미국",
+      "setting": "혜성 조각이 러시아에 떨어져 유럽이 버려진 3년 뒤, 미군 대위가 베를린 지하 위성 무기 통제실로 간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "six_the_mark_unleashed",
+      "orig": "Six: The Mark Unleashed",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Six: The Mark Unleashed (2004, 기독교 영화)",
+      "by": "Kevin Downes",
+      "year": 2004,
+      "country": "미국",
+      "setting": "휴거 뒤 적그리스도가 세상을 차지하고 짐승의 표를 받지 않은 사람들을 가두어 처형하는 종말의 때.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 종교 종말 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_butterfly_effect",
+      "orig": "The Butterfly Effect",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Butterfly Effect (2004) 와 속편",
+      "by": "Eric Bress · J. Mackye Gruber",
+      "year": 2004,
+      "country": "미국",
+      "setting": "어린 시절 기억이 자주 끊기던 청년이 옛 일기를 읽으면 그때로 돌아가 과거를 바꿀 수 있음을 알게 된다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_day_after_tomorrow",
+      "orig": "The Day After Tomorrow",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Day After Tomorrow (2004) — Art Bell·Whitley Strieber 의 책(1999)에서",
+      "by": "Roland Emmerich",
+      "year": 2004,
+      "country": "미국",
+      "setting": "해류가 끊겨 기후가 무너지고, 거대 폭풍과 함께 북반구에 갑자기 새 빙하기가 닥친다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_final_cut_2004",
+      "orig": "The Final Cut",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Final Cut (2004)",
+      "by": "Omar Naim",
+      "year": 2004,
+      "country": "미국·캐나다·독일",
+      "setting": "평생을 기록하는 뇌 이식 칩의 기억을 장례식용 영상으로 엮는 편집자가 자신이 숨긴 과거와 마주한다.",
+      "concepts": [
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_forgotten_2004",
+      "orig": "The Forgotten",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Forgotten (2004)",
+      "by": "Joseph Ruben",
+      "year": 2004,
+      "country": "미국",
+      "setting": "죽은 아들을 기억하는 엄마에게 모두가 아들은 없었다 하고, 그 뒤엔 기억을 지우는 '그들'의 실험이 있다.",
+      "concepts": [
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_abduction_2005",
+      "orig": "Alien Abduction",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Abduction (2005, The Asylum)",
+      "by": "Eric Forsberg",
+      "year": 2005,
+      "country": "미국",
+      "setting": "캠핑 간 십 대들의 머리 위에 빛이 나타나고, 외계인이 하나씩 사람들을 잡아간다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "allegro_2005",
+      "orig": "Allegro",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Allegro (2005)",
+      "by": "Christoffer Boe",
+      "year": 2005,
+      "country": "덴마크",
+      "setting": "보이지 않는 막에 막혀 들어갈 수 없게 된 코펜하겐 한복판 '구역'에, 과거를 잊은 피아니스트가 들어간다.",
+      "concepts": [
+        "forbidden_zone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 낭만극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chicken_little_2005",
+      "orig": "Chicken Little",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Chicken Little (2005, Walt Disney Feature Animation)",
+      "by": "Mark Dindal",
+      "year": 2005,
+      "country": "미국",
+      "setting": "하늘이 무너진다고 외쳐 웃음거리가 된 꼬마 닭의 말이 맞아, 외계인이 정말로 마을에 내려온다.",
+      "concepts": [
+        "alien",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "evil_aliens",
+      "orig": "Evil Aliens",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Evil Aliens (2005)",
+      "by": "Jake West",
+      "year": 2005,
+      "country": "영국",
+      "setting": "웨일스 앞바다 외딴섬의 외계인 납치 소동을 취재하러 간 방송 제작진이 정말로 잔인한 외계인들과 맞닥뜨린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "headspace_2005",
+      "orig": "Headspace",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Headspace (2005)",
+      "by": "Andrew van den Houten",
+      "year": 2005,
+      "country": "미국",
+      "setting": "낯선 사내와 체스를 둔 뒤 지능이 터무니없이 빨리 자라는 청년이 헛것을 보고, 뉴욕엔 살인이 잇따른다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 심리 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "man_with_the_screaming_brain",
+      "orig": "Man with the Screaming Brain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Man with the Screaming Brain (2005)",
+      "by": "Bruce Campbell",
+      "year": 2005,
+      "country": "미국·독일",
+      "setting": "불가리아에서 살해된 미국 사업가가 괴짜 과학자 손에 다른 남자의 뇌 반쪽을 이식받아 되살아난다.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 우스개 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "puzzlehead",
+      "orig": "Puzzlehead",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Puzzlehead (2005)",
+      "by": "James Bai",
+      "year": 2005,
+      "country": "미국",
+      "setting": "기술이 금지된 어두운 세상에서 과학자가 몰래 자기를 닮은 자의식 있는 인조인간을 만든다.",
+      "concepts": [
+        "android",
+        "machine_rights"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "slipstream_2005",
+      "orig": "Slipstream",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Slipstream (2005)",
+      "by": "David van Eyssen",
+      "year": 2005,
+      "country": "미국",
+      "setting": "휴대 전화 같은 장치로 10분 전으로 돌아가는 과학자가 은행 강도 사건에 휘말려 시간을 거듭 되감는다.",
+      "concepts": [
+        "time_travel",
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "stealth_2005",
+      "orig": "Stealth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Stealth (2005)",
+      "by": "Rob Cohen",
+      "year": 2005,
+      "country": "미국",
+      "setting": "미 해군 조종사 셋에 인공지능 무인 전투기가 더해지고, 그 인공지능이 명령을 벗어나 제멋대로 움직인다.",
+      "concepts": [
+        "ai",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_cave_2005",
+      "orig": "The Cave",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Cave (2005)",
+      "by": "Bruce Hunt",
+      "year": 2005,
+      "country": "미국",
+      "setting": "카르파티아산맥 동굴의 처음 보는 생태계를 탐사하던 잠수부들이 생물을 괴물로 바꾸는 기생체에 감염된다.",
+      "concepts": [
+        "parasite",
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 괴물 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_girl_from_monday",
+      "orig": "The Girl from Monday",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Girl from Monday (2005)",
+      "by": "Hal Hartley",
+      "year": 2005,
+      "country": "미국",
+      "setting": "기업 독점이 모든 것을 사고파는 미래 미국에, 다른 별에서 온 존재가 사람 모습으로 내려온다.",
+      "concepts": [
+        "alien",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_jacket",
+      "orig": "The Jacket",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Jacket (2005) — Jack London 소설 The Star Rover (1915, 영국판 이름 The Jacket) 에서 일부 착상",
+      "by": "John Maybury",
+      "year": 2005,
+      "country": "미국",
+      "setting": "정신병원의 구속복과 시체 서랍에 갇힌 걸프전 참전 군인이 그때마다 15년 뒤 미래로 건너간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_wild_blue_yonder",
+      "orig": "The Wild Blue Yonder",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Wild Blue Yonder (2005)",
+      "by": "Werner Herzog",
+      "year": 2005,
+      "country": "영국·프랑스·독일",
+      "setting": "얼음 덮인 물의 행성에서 온 외계인이 지구에 못 자리 잡은 동족과 그 행성에 간 탐사대 이야기를 들려준다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 기록 영상으로 엮은 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zerophilia",
+      "orig": "Zerophilia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Zerophilia (2005/2006)",
+      "by": "Martin Curland",
+      "year": 2005,
+      "country": "미국",
+      "setting": "캠핑에서 처음 관계를 가진 청년의 몸이 때때로 여자 몸으로 바뀌었다 돌아오기 시작한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 사변 소설 요소가 든 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "alien_autopsy_2006",
+      "orig": "Alien Autopsy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Autopsy (2006)",
+      "by": "Jonny Campbell",
+      "year": 2006,
+      "country": "영국·독일",
+      "setting": "1995년 '외계인 해부' 필름 소동을 꾸민 두 사내의 뒷이야기를 다룬 희극.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — SF 요소를 곁들인 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "altered_2006",
+      "orig": "Altered",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Altered (2006)",
+      "by": "Eduardo Sánchez",
+      "year": 2006,
+      "country": "미국",
+      "setting": "15년 전 사냥 여행에서 외계인에게 끌려가 실험당한 시골 친구들이 외계인 하나를 붙잡아 복수하려 한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "daft_punks_electroma",
+      "orig": "Daft Punk's Electroma",
+      "orig_en": "Electroma",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Daft Punk's Electroma (2006)",
+      "by": "Daft Punk",
+      "year": 2006,
+      "country": "미국·프랑스",
+      "setting": "로봇들만 사는 마을의 두 로봇이 사람 얼굴을 갖고 싶어 라텍스 가면을 쓰지만 로봇들에게 쫓겨난다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 대사 없는 실험 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dead_and_deader",
+      "orig": "Dead and Deader",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dead and Deader (2006, TV 영화, 처음 이름 House of the Dead 3)",
+      "by": "Patrick Dinhut",
+      "year": 2006,
+      "country": "미국",
+      "setting": "좀비에게 당한 특수 부대 중위가 몸속 전갈 탓에 반쯤 좀비로 되살아나, 군 기지에 번진 좀비와 싸운다.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 좀비 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "deja_vu_2006",
+      "orig": "Déjà Vu",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Déjà Vu (2006)",
+      "by": "Tony Scott",
+      "year": 2006,
+      "country": "미국",
+      "setting": "여객선 폭파를 수사하던 요원이 나흘 전 과거를 들여다보는 비밀 장치로 범인을 쫓다 과거로 넘어간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "displaced_2006",
+      "orig": "Displaced",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Displaced (2006)",
+      "by": "Martin Holland",
+      "year": 2006,
+      "country": "영국",
+      "setting": "사람꼴 외계인이 영국 군인과 손잡고, 붙잡힌 외계 우주선과 아버지의 행방이 담긴 비밀 문서를 찾아 나선다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lifted_2006",
+      "orig": "Lifted",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Lifted (2006, Pixar 단편)",
+      "by": "Gary Rydstrom",
+      "year": 2006,
+      "country": "미국",
+      "setting": "꼬마 외계인이 잠든 농부를 우주선으로 끌어올리는 납치 시험을 치르다 거듭 실수한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 단편 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "right_at_your_door",
+      "orig": "Right at Your Door",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Right at Your Door (2006)",
+      "by": "Chris Gorak",
+      "year": 2006,
+      "country": "미국",
+      "setting": "로스앤젤레스에서 더러운 폭탄 여러 개가 터지자, 집에 있던 남자가 독한 재가 날리는 바깥의 아내와 갈라진다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 근미래 재난 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "slither",
+      "orig": "Slither",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Slither (2006)",
+      "by": "James Gunn",
+      "year": 2006,
+      "country": "미국·캐나다",
+      "setting": "운석과 함께 온 외계 기생체가 소도시 부자의 몸을 차지하고, 주민들을 하나둘 감염시켜 한 몸으로 묶는다.",
+      "concepts": [
+        "alien",
+        "parasite",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "southland_tales",
+      "orig": "Southland Tales",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Southland Tales (2006)",
+      "by": "Richard Kelly",
+      "year": 2006,
+      "country": "미국",
+      "setting": "핵 공격으로 3차 대전이 나고 감시 기관이 온 미국을 살피는 2008년, 기억 잃은 배우가 음모에 휘말린다.",
+      "concepts": [
+        "catastrophe",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ss_doomtrooper",
+      "orig": "S.S. Doomtrooper",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "S.S. Doomtrooper (2006, TV 영화)",
+      "by": "David Flores",
+      "year": 2006,
+      "country": "미국",
+      "setting": "2차 대전 중 나치 과학자가 약물과 방사선으로 전기를 뿜는 괴물 병사를 만들고, 미군 특공대가 맞선다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_fountain",
+      "orig": "The Fountain",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Fountain (2006)",
+      "by": "Darren Aronofsky",
+      "year": 2006,
+      "country": "미국",
+      "setting": "생명의 나무를 찾는 정복자, 아내를 살릴 약을 찾는 의사, 나무를 싣고 우주를 떠도는 26세기 사내.",
+      "concepts": [
+        "longevity"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 판타지·영성 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_kovak_box",
+      "orig": "The Kovak Box",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Kovak Box (2006)",
+      "by": "Daniel Monzón",
+      "year": 2006,
+      "country": "스페인·영국",
+      "setting": "작가의 약혼녀가 전화로 옛 노래를 들은 뒤 몸을 던지고, 뇌에 심은 장치로 사람을 부리는 실험이 드러난다.",
+      "concepts": [
+        "mind_control",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "unidentified_2006",
+      "orig": "Unidentified",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Unidentified (2006, 기독교 영화)",
+      "by": "Rich Christiano",
+      "year": 2006,
+      "country": "미국",
+      "setting": "미확인 비행 물체가 종말의 때와 어떻게 이어지는지를 다룬 기독교 SF 영화.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 종교 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "battle_for_terra",
+      "orig": "Battle for Terra",
+      "orig_en": "Terra",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Battle for Terra (2007/2009) — 단편 Terra 를 늘림",
+      "by": "Aristomenis Tsirbas",
+      "year": 2007,
+      "country": "미국",
+      "setting": "평화로운 외계 행성 테라에, 살 곳을 잃은 인류의 마지막 우주선이 다가와 행성을 차지하려 한다.",
+      "concepts": [
+        "alien",
+        "colonization",
+        "generation_ship"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dai_nipponjin",
+      "orig": "大日本人",
+      "orig_en": "Big Man Japan",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "大日本人 (2007)",
+      "by": "Hitoshi Matsumoto",
+      "year": 2007,
+      "country": "일본",
+      "setting": "고압 전기를 맞으면 30미터 거인이 되는 집안의 사내가 괴수와 싸우지만 사람들의 비웃음에 시달린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 괴수 가짜 기록 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "decaying_orbit",
+      "orig": "Decaying Orbit",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Decaying Orbit (2007)",
+      "by": "Tim Pyle",
+      "year": 2007,
+      "country": "미국",
+      "setting": "은하 끝 우주 정거장이 폭발한 뒤 탈출선에 탄 다섯 생존자가 표류하며, 그 안에 범인이 있음을 의심한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "illegal_aliens_2007",
+      "orig": "Illegal Aliens",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Illegal Aliens (2007)",
+      "by": "David Giancola",
+      "year": 2007,
+      "country": "미국",
+      "setting": "입체 영상 스승의 안내를 받는 외계인 셋이 미국 미녀로 둔갑해, 지구를 날려 버리려는 은하 테러범을 막는다.",
+      "concepts": [
+        "alien",
+        "hologram"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "la_hora_fria",
+      "orig": "La hora fría",
+      "orig_en": "The Dark Hour",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "La hora fría (2006/2007)",
+      "by": "Elio Quiroga",
+      "year": 2007,
+      "country": "스페인",
+      "setting": "대재앙 같은 전쟁 뒤 무너져 가는 시설에 숨은 생존자 여덟이, 바깥과 어둠 속에서 다가오는 위협에 떤다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "paragraf_78",
+      "orig": "Параграф 78",
+      "orig_en": "Paragraph 78",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Параграф 78 (2007, 두 편) — Ivan Okhlobystin 의 1995년 이야기에서",
+      "by": "Mikhail Khleborodov",
+      "year": 2007,
+      "country": "러시아",
+      "setting": "가벼운 마약이 허용되고 아시아 연합이 생긴 미래, 조약을 어긴 북극 섬 비밀 연구소에 옛 특수 부대가 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "sex_and_death_101",
+      "orig": "Sex and Death 101",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Sex and Death 101 (2007)",
+      "by": "Daniel Waters",
+      "year": 2007,
+      "country": "미국",
+      "setting": "결혼을 앞둔 남자가 미래를 내다보는 기계가 뽑은, 앞날까지 담긴 '잠자리할 여자 101명' 목록을 받는다.",
+      "concepts": [
+        "precognition"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "alien_raiders",
+      "orig": "Alien Raiders",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Raiders (2008)",
+      "by": "Ben Rock",
+      "year": 2008,
+      "country": "미국",
+      "setting": "복면 무장대가 문 닫을 무렵의 마트를 점거하고 인질 가운데 사람 탈을 쓴 '그들'을 하나씩 가려낸다.",
+      "concepts": [
+        "alien",
+        "impostor",
+        "humanity_test"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cyborg_soldier",
+      "orig": "Cyborg Soldier",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cyborg Soldier (2008)",
+      "by": "John Stead",
+      "year": 2008,
+      "country": "미국",
+      "setting": "사형수를 유전자로 고친 비밀 '인간 병기' 1호가 달아나, 인질로 잡은 보안관 대리와 군의 음모를 밝힌다.",
+      "concepts": [
+        "super_soldier",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dance_of_the_dead",
+      "orig": "Dance of the Dead",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dance of the Dead (2008)",
+      "by": "Gregg Bishop",
+      "year": 2008,
+      "country": "미국",
+      "setting": "발전소 옆 묘지에서 시체들이 일어나 졸업 파티가 열리는 고등학교로 몰려온다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 좀비 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "dante_01",
+      "orig": "Dante 01",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dante 01 (2008)",
+      "by": "Marc Caro",
+      "year": 2008,
+      "country": "프랑스",
+      "setting": "불타는 행성 단테를 도는 우주 정거장의 정신 감옥에, 난파선에서 혼자 살아남은 말 못 하는 죄수가 들어온다.",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dasavathaaram",
+      "orig": "Dasavathaaram",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dasavathaaram (2008, 타밀어 영화)",
+      "by": "K. S. Ravikumar(감독) · Kamal Haasan(각본·주연)",
+      "year": 2008,
+      "country": "인도",
+      "setting": "미국의 인도인 과학자가 생물 무기로 만든 합성 바이러스 병을 지키려 인도까지 쫓겨 가며 열 인물이 얽힌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 액션 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "doomsday_2008",
+      "orig": "Doomsday",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Doomsday (2008)",
+      "by": "Neil Marshall",
+      "year": 2008,
+      "country": "영국·미국·독일·남아프리카",
+      "setting": "병균 탓에 장벽으로 봉쇄한 스코틀랜드에서 생존자가 보이자, 특수 부대가 치료제를 찾으러 들어간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "doomsday_2012_film",
+      "orig": "2012: Doomsday",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "2012: Doomsday (2008, The Asylum, 기독교 재난 영화)",
+      "by": "Nick Everhart",
+      "year": 2008,
+      "country": "미국",
+      "setting": "마야 달력이 끝나는 2012년, 믿음으로 이끌린 낯선 넷이 인류를 구할 옛 신전을 찾아 멕시코로 간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 종교 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "franklyn",
+      "orig": "Franklyn",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Franklyn (2008)",
+      "by": "Gerald McMorrow",
+      "year": 2008,
+      "country": "영국",
+      "setting": "모두가 종교를 가져야 하는 만화 같은 도시의 가면 자경단과, 오늘날 런던의 세 사람 이야기가 서로 얽힌다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 판타지 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "love_story_2050",
+      "orig": "Love Story 2050",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Love Story 2050 (2008, 힌디어 영화)",
+      "by": "Harry Baweja",
+      "year": 2008,
+      "country": "인도",
+      "setting": "연인을 잃은 청년이 시간 기계를 타고 나는 차와 로봇이 있는 2050년 뭄바이로 가서 환생한 연인을 만난다.",
+      "concepts": [
+        "time_travel",
+        "robot",
+        "hologram"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 낭만 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "meet_dave",
+      "orig": "Meet Dave",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Meet Dave (2008)",
+      "by": "Brian Robbins",
+      "year": 2008,
+      "country": "미국",
+      "setting": "사람 모습을 한 우주선을 탄 꼬마 외계인 100명이 에너지가 떨어진 고향 행성을 구하려 뉴욕에 내린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 가족 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mock_up_on_mu",
+      "orig": "Mock Up on Mu",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mock Up on Mu (2008, 영상 짜깁기 영화)",
+      "by": "Craig Baldwin",
+      "year": 2008,
+      "country": "미국",
+      "setting": "2019년 달의 사이언톨로지 놀이공원 '무'에 사는 론 허버드가 요원을 보내 군수 기업가를 꾀어낸다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 실험 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "outlander_2008",
+      "orig": "Outlander",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Outlander (2008) — 베오울프 이야기를 SF로 옮김",
+      "by": "Howard McCain",
+      "year": 2008,
+      "country": "미국·독일",
+      "setting": "709년 노르웨이 호수에 우주선이 떨어지고, 살아남은 외계 전사가 함께 실려 온 괴물 '무어웬'을 사냥한다.",
+      "concepts": [
+        "alien",
+        "space_beast"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_happening",
+      "orig": "The Happening",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Happening (2008)",
+      "by": "M. Night Shyamalan",
+      "year": 2008,
+      "country": "미국",
+      "setting": "미국 북동부에서 사람들이 갑자기 스스로 목숨을 끊기 시작하고, 식물이 내뿜는 독이 아닌가 하는 짐작이 돈다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zombie_strippers",
+      "orig": "Zombie Strippers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Zombie Strippers (2008)",
+      "by": "Jay Lee",
+      "year": 2008,
+      "country": "미국",
+      "setting": "부시가 네 번째 임기를 맞은 근미래, 정부가 흘린 좀비 병균이 스트립 클럽에 번져 무희들이 좀비가 된다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 좀비 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "alien_trespass",
+      "orig": "Alien Trespass",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Trespass (2009)",
+      "by": "R. W. Goodwin",
+      "year": 2009,
+      "country": "미국",
+      "setting": "1957년 모하비 사막에 비행접시가 떨어지고, 외계인이 천문학자의 몸을 빌려 함께 온 괴물을 쫓는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 1950년대 싸구려 SF 영화 흉내",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cargo_2009",
+      "orig": "Cargo",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cargo (2009, 스위스 첫 SF 장편)",
+      "by": "Ivan Engler · Ralph Etter",
+      "year": 2009,
+      "country": "스위스",
+      "setting": "지구가 살 수 없게 된 2267년, 낙원 행성으로 갈 돈을 벌려고 화물선에 탄 의사가 수상한 짐을 본다.",
+      "concepts": [
+        "catastrophe",
+        "habitat",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "faq_about_time_travel",
+      "orig": "Frequently Asked Questions About Time Travel",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Frequently Asked Questions About Time Travel (2009)",
+      "by": "Gareth Carrivick",
+      "year": 2009,
+      "country": "영국·미국",
+      "setting": "술집에서 SF 수다를 떨던 세 친구가 화장실 너머 시간의 틈에 빠져 과거와 미래를 오간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gamer_2009",
+      "orig": "Gamer",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Gamer (2009)",
+      "by": "Mark Neveldine · Brian Taylor",
+      "year": 2009,
+      "country": "미국",
+      "setting": "나노 기계로 남의 몸을 조종하게 된 2034년, 남에게 조종당하는 사형수가 전쟁 게임에서 살아남으려 한다.",
+      "concepts": [
+        "mind_control",
+        "nanotech",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "metropia",
+      "orig": "Metropia",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Metropia (2009)",
+      "by": "Tarik Saleh",
+      "year": 2009,
+      "country": "스웨덴·덴마크·노르웨이",
+      "setting": "석유가 바닥난 미래 유럽의 거대 지하철망에서, 머릿속 목소리를 듣던 사내가 자기 삶이 조종당함을 안다.",
+      "concepts": [
+        "control_society",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 어른용 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "push_2009",
+      "orig": "Push",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Push (2009)",
+      "by": "Paul McGuigan",
+      "year": 2009,
+      "country": "미국",
+      "setting": "나라마다 초능력자를 병기로 만드는 '디비전'이 있는 세상, 홍콩에 숨은 염동력자가 탈출한 여자와 손잡는다.",
+      "concepts": [
+        "psionics",
+        "super_soldier",
+        "awakening_substance"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "stingray_sam",
+      "orig": "Stingray Sam",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Stingray Sam (2009, 6부 연속극 영화)",
+      "by": "Cory McAbee",
+      "year": 2009,
+      "country": "미국",
+      "setting": "우주 죄수 둘이 풀려나는 대가로, 부유한 행성의 유전자 설계 우두머리에게 붙잡힌 소녀를 구하러 간다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 우주 서부 뮤지컬",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "twenty_twelve_film",
+      "orig": "2012",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "2012 (2009)",
+      "by": "Roland Emmerich",
+      "year": 2009,
+      "country": "미국",
+      "setting": "새로운 중성미자가 지구 속을 데워 지각이 무너지자, 사람들이 각국이 몰래 지은 방주에 타려고 애쓴다.",
+      "concepts": [
+        "catastrophe",
+        "ark"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "zona_mrtvih",
+      "orig": "Zona mrtvih",
+      "orig_en": "Zone of the Dead",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Zona mrtvih (2009, 다른 이름 Apocalypse of the Dead)",
+      "by": "Milan Konjević · Milan Todorović",
+      "year": 2009,
+      "country": "세르비아·이탈리아·스페인",
+      "setting": "체르노빌에서 나온 병원체가 세르비아 기차역에서 새어 나와 사람들이 좀비가 되고, 인터폴 요원들이 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2000년대 — 좀비 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    }
+  ]
+}
