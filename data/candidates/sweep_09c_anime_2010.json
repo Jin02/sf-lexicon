@@ -1,0 +1,5123 @@
+{
+ "group": "sweep_09c_anime_2010",
+ "candidates": [
+  {
+   "id": "yonin_wa_sorezore_uso",
+   "orig": "4人はそれぞれウソをつく",
+   "orig_en": "",
+   "ko": "4명은 각자 거짓말을 한다",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/4%EB%AA%85%EC%9D%80%20%EA%B0%81%EC%9E%90%20%EA%B1%B0%EC%A7%93%EB%A7%90%EC%9D%84%20%ED%95%9C%EB%8B%A4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2020~2023, 別冊少年マガジン) · TV 11화(2022)",
+   "by": "橿原まどか(원작), スタジオフラッド(애니메이션)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "여학교 단짝 넷이 저마다 비밀을 숨기는데, 그중 하나는 불시착한 외계 반란군 조종사다.",
+   "concepts": [
+    "alien",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 11화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「4人はそれぞれウソをつく」 · 나무위키 「4명은 각자 거짓말을 한다」",
+   "korean": {
+    "status": "있음",
+    "detail": "대원방송 판권(나무위키 분기 목록 「애니메이션/2022년 10월」)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2022%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gooku_nen_button",
+   "orig": "5億年ボタン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "단편 만화 「BUTTON A PART TIME JOB」(2001) · TV 쇼트 12화+2화(2022)",
+   "by": "菅原そうた(원작·감독), STUDIO SOTA",
+   "year": 2001,
+   "country": "일본",
+   "setting": "누르면 아무것도 없는 딴 차원에서 5억 년을 보내고 기억이 지워진 채 돌아오는 단추와 수상한 발명품들.",
+   "concepts": [
+    "other_realm",
+    "memory_edit"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 쇼트(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「5億年ボタン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nine_series_palette",
+   "orig": "9-nine-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "연애 어드벤처 게임 시리즈(2017~) · TV 『9-nine- Ruler's Crown』 13화(2025)",
+   "by": "ぱれっと(게임), ピー・アール・エー(애니메이션)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "대지진으로 신사의 신기가 깨져 딴 세계와 이어진 학원 도시, 흘러든 유물로 이능에 눈뜬 이들이 얽힌다.",
+   "concepts": [
+    "psionics",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 「9-nine-シリーズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "애니메이션은 국내 수입·서비스 없음(나무위키) · 게임은 확인 못 함",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "blackfox_2019",
+   "orig": "BLACKFOX",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2019)",
+   "by": "Studio 3Hz(총감독 野村和也, 감독 篠原啓輔)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "근미래 대도시의 닌자 집안 딸이 연구자 아버지의 로봇들과 함께 집안을 친 자들에게 복수에 나선다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「SFアニメ映画」 · 일본어 위키백과 「BLACKFOX」 · 나무위키 「BLACKFOX」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "bullet_bullet",
+   "orig": "BULLET/BULLET",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 12화(2025, Disney+) · 극장 편집판 2편(2025)",
+   "by": "E&H production(감독 朴性厚)",
+   "year": 2025,
+   "country": "일본",
+   "setting": "무너진 세계, 옛 쓰레기를 에너지로 바꿔 사는 벽 도시의 고물상 소년이 쫓기는 소녀를 만난다.",
+   "concepts": [
+    "catastrophe",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「BULLET/BULLET」 · 나무위키 「BULLET/BULLET」",
+   "korean": {
+    "status": "있음",
+    "detail": "디즈니+ 정식 스트리밍(나무위키)",
+    "src": "https://namu.wiki/w/BULLET/BULLET"
+   },
+   "borderline": false
+  },
+  {
+   "id": "butlers_chitose",
+   "orig": "Butlers〜千年百年物語〜",
+   "orig_en": "",
+   "ko": "Butlers ~천년백년 이야기~",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/Butlers%20~%EC%B2%9C%EB%85%84%EB%B0%B1%EB%85%84%20%EC%9D%B4%EC%95%BC%EA%B8%B0~",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2018) — 중국 SummerACG 의 『Intouchable Butlers』 기획 바탕",
+   "by": "SILVER LINK.(감독 高橋賢)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "천 년 이어진 가문의 수호자 '버틀러즈'가 학원 생활과 시간을 넘나드는 싸움을 오간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「タイムトラベルを題材としたアニメ作品」 · 일본어 위키백과 「Butlers〜千年百年物語〜」 · 나무위키 「Butlers ~천년백년 이야기~」",
+   "korean": {
+    "status": "없음",
+    "detail": "나무위키: 한국에서는 방영하지 않음",
+    "src": "https://namu.wiki/w/Butlers%20~%EC%B2%9C%EB%85%84%EB%B0%B1%EB%85%84%20%EC%9D%B4%EC%95%BC%EA%B8%B0~"
+   },
+   "borderline": true
+  },
+  {
+   "id": "chao_2025",
+   "orig": "ChaO",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2025)",
+   "by": "STUDIO4℃(감독 青木康浩)",
+   "year": 2025,
+   "country": "일본",
+   "setting": "사람과 인어의 혼인이 처음 이뤄진 근미래 상하이, 조선소 청년과 인어 공주가 함께 산다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2025년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「未来を題材としたアニメ作品」 · 일본어 위키백과 「ChaO」 · 나무위키 「ChaO」",
+   "korean": {
+    "status": "있음",
+    "detail": "미디어캐슬 수입, 국내 개봉 2026-04-10(나무위키)",
+    "src": "https://namu.wiki/w/ChaO"
+   },
+   "borderline": true
+  },
+  {
+   "id": "charlotte_2015",
+   "orig": "Charlotte",
+   "orig_en": "",
+   "ko": "샤를로트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%83%A4%EB%A5%BC%EB%A1%9C%ED%8A%B8",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2015) · OVA(2016)",
+   "by": "P.A.WORKS(감독 浅井義之), 麻枝准(원작·각본)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "사춘기 아이 일부에게 불완전한 초능력이 생기는 세계, 남의 몸을 5초 빼앗는 소년이 능력자 학원에 든다.",
+   "concepts": [
+    "psionics",
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「Charlotte (アニメ)」 · 나무위키 「샤를로트」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "code_breaker",
+   "orig": "CØDE:BREAKER",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2008~2013, 週刊少年マガジン) · TV 13화(2012)",
+   "by": "上条明峰(원작), KINEMA CITRUS(애니메이션)",
+   "year": 2008,
+   "country": "일본",
+   "setting": "'이능'으로 법이 못 벌하는 악을 지우는 비밀 처형자들의 싸움에 정의감 강한 여고생이 끼어든다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「CØDE:BREAKER」 · 나무위키 「CØDE:BREAKER」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록) · 만화 학산문화사 정발(2010~)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2012%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "double_decker",
+   "orig": "DOUBLE DECKER! ダグ&キリル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2018) · 만화 — 『TIGER & BUNNY』 에서 이어지는 '버디 시리즈' 기획이지만 세계는 따로",
+   "by": "サンライズ(감독 古田丈司)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "해가 둘 뜨는 도시 국가에서 위험한 약 '앤섬'을 쫓는 특수 수사반 두 형사의 활약.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「DOUBLE DECKER! ダグ&キリル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "human_lost_2019",
+   "orig": "HUMAN LOST 人間失格",
+   "orig_en": "",
+   "ko": "HUMAN LOST 인간실격",
+   "ko_src": "나무위키 분기 목록 「애니메이션/2019년 10월」 — https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2019%EB%85%84%2010%EC%9B%94",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2019) — 다자이 오사무 『人間失格』 를 SF 로 바꾼 것",
+   "by": "ポリゴン・ピクチュアズ(감독 木﨑文智)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "쇼와 111년, 나노머신과 유전자 조작으로 병도 죽음도 밀어낸 일본에서 빈부가 갈린 바깥 구역이 썩어 간다.",
+   "concepts": [
+    "nanotech",
+    "longevity",
+    "class_divide"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2019년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ映画」 · 일본어 위키백과 「HUMAN LOST 人間失格」 · 나무위키 「인간실격(애니메이션)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ingress",
+   "orig": "Ingress",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "위치 기반 게임(2012 베타, 2013 정식) · TV 『INGRESS THE ANIMATION』 11화(2018)",
+   "by": "Niantic(게임), CRAFTAR(애니메이션, 감독 櫻木優平)",
+   "year": 2012,
+   "country": "미국",
+   "setting": "사람 마음을 흔드는 미지의 물질 XM 을 두고 두 진영이 현실 지도 위에서 땅따먹기를 벌인다.",
+   "concepts": [
+    "key_resource",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 11화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「INGRESS THE ANIMATION」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "island_frontwing",
+   "orig": "ISLAND",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "Windows 게임(2016) · 여러 기종 이식 · TV 12화(2018)",
+   "by": "フロントウイング(게임), feel.(애니메이션)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "풍토병과 본토와의 앙금을 안은 남쪽 섬에 미래에서 왔다는 청년이 떠밀려 와 미래를 바꾸려 한다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「ISLAND (ビジュアルノベル)」 · 나무위키 「ISLAND(게임)/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 자막 방영(2018, 나무위키)",
+    "src": "https://namu.wiki/w/ISLAND%28%EA%B2%8C%EC%9E%84%29/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "kj_file",
+   "orig": "KJファイル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 쇼트 26화(2022~2023)",
+   "by": "テレビ東京(『闇芝居』 제작진)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "20세기 초 세계 곳곳에 괴수가 나타나고, 인류는 국제 괴수 감시단을 세워 수백 괴수와 살아갈 길을 찾는다.",
+   "concepts": [
+    "space_beast"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 쇼트(2022) — 일본어 위키백과 분류 「2022年のテレビアニメ」 · 일본어 위키백과 분류 「怪獣を題材としたアニメ作品」 · 일본어 위키백과 「KJファイル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "levius",
+   "orig": "Levius -レビウス-",
+   "orig_en": "",
+   "ko": "레비우스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A0%88%EB%B9%84%EC%9A%B0%EC%8A%A4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2013~2021, 月刊IKKI → 『Levius/est』 ウルトラジャンプ) · 웹·TV 12화(2019·2021, Netflix)",
+   "by": "中田春彌(원작), ポリゴン・ピクチュアズ(애니메이션)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "증기 기관이 발달한 세계, 기계 팔을 단 소년이 증기 기계로 싸우는 '기관 권투' 무대에 선다.",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「スチームパンクアニメ」 · 일본어 위키백과 「Levius -レビウス-」 · 나무위키 「레비우스」",
+   "korean": {
+    "status": "있음",
+    "detail": "넷플릭스 한국어 자막 서비스(나무위키)",
+    "src": "https://namu.wiki/w/%EB%A0%88%EB%B9%84%EC%9A%B0%EC%8A%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "wasimo",
+   "orig": "WASIMO",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "그림책(小学一年生 연재 2012, 단행본 2013) · TV 『わしも WASIMO』(2014~2022, NHK)",
+   "by": "宮藤官九郎(글), 安斎肇(그림), スタジオディーン(애니메이션)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "할머니를 잃고 울기만 하는 딸을 위해 아빠가 할머니를 꼭 닮은 로봇을 만든다.",
+   "concepts": [
+    "robot",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV(2014~2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ロボットを主人公とした漫画作品」 · 일본어 위키백과 「WASIMO」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "astro_note",
+   "orig": "アストロノオト",
+   "orig_en": "",
+   "ko": "아스트로 노트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%85%B8%ED%8A%B8",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2024)",
+   "by": "テレコム・アニメーションフィルム(감독 春日森春木)",
+   "year": 2024,
+   "country": "일본",
+   "setting": "밥 주는 낡은 하숙집의 요리사로 들어간 청년이 반한 집주인은 외계인이었다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2024) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「ロマンティック・コメディSFアニメ」 · 일본어 위키백과 「アストロノオト」 · 나무위키 「아스트로 노트」",
+   "korean": {
+    "status": "있음",
+    "detail": "투니버스 방영(2024, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%85%B8%ED%8A%B8"
+   },
+   "borderline": false
+  },
+  {
+   "id": "alice_teles_maboroshi",
+   "orig": "アリスとテレスのまぼろし工場",
+   "orig_en": "",
+   "ko": "마보로시",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A7%88%EB%B3%B4%EB%A1%9C%EC%8B%9C",
+   "media": [
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2023) · 원작 소설(2023, 角川文庫)",
+   "by": "岡田麿里(원작·감독), MAPPA",
+   "year": 2023,
+   "country": "일본",
+   "setting": "제철소 폭발 뒤 바깥과 끊기고 계절도 멈춘 마을, 아무것도 바뀌면 안 된다는 규칙 속에 소년이 산다.",
+   "concepts": [
+    "time_loop"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2023년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「パラレルワールドを題材としたアニメ映画」 · 일본어 위키백과 「アリスとテレスのまぼろし工場」 · 나무위키 「마보로시」",
+   "korean": {
+    "status": "있음",
+    "detail": "넷플릭스 독점 수입·서비스(나무위키)",
+    "src": "https://namu.wiki/w/%EB%A7%88%EB%B3%B4%EB%A1%9C%EC%8B%9C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "alice_to_zouroku",
+   "orig": "アリスと蔵六",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2012~, 月刊COMICリュウ, 문화청 미디어 예술제 신인상) · TV 12화(2017)",
+   "by": "今井哲也(원작), J.C.STAFF(애니메이션)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "생각을 현실로 바꾸는 초능력자 '앨리스의 꿈'인 소녀가 연구소를 빠져나와 꽃집 노인에게 맡겨진다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SF漫画作品」 · 일본어 위키백과 「アリスと蔵六」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "under_ninja",
+   "orig": "アンダーニンジャ",
+   "orig_en": "",
+   "ko": "언더닌자",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%96%B8%EB%8D%94%EB%8B%8C%EC%9E%90/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2018~, 週刊ヤングマガジン) · TV 12화(2023) · 실사 영화(2025)",
+   "by": "花沢健吾(원작), 手塚プロダクション(애니메이션)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "전후 해체된 닌자 조직이 첨단 장비를 품고 일본 곳곳에 숨어들었고, 백수 닌자가 고교 잠입을 맡는다.",
+   "concepts": [
+    "cloaking"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「アンダーニンジャ」 · 나무위키 「언더닌자/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "브라보키즈 자막 동시 방영(2023, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%96%B8%EB%8D%94%EB%8B%8C%EC%9E%90/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": true
+  },
+  {
+   "id": "undead_unluck",
+   "orig": "アンデッドアンラック",
+   "orig_en": "",
+   "ko": "언데드 언럭",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%96%B8%EB%8D%B0%EB%93%9C%20%EC%96%B8%EB%9F%AD",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(읽기 2019, 연재 2020~2025, 週刊少年ジャンプ) · TV 24화(2023~2024) · 특별편(2025)",
+   "by": "戸塚慶文(원작), david production(애니메이션)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "닿는 이에게 불운을 주는 소녀와 죽지 않는 남자가, 세계의 규칙을 정하는 존재에 맞선 능력자 조직에 든다.",
+   "concepts": [
+    "psionics",
+    "cycle"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 24화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「アンデッドアンラック」 · 나무위키 「언데드 언럭」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "estab_life",
+   "orig": "エスタブライフ",
+   "orig_en": "",
+   "ko": "에스타브 라이프 그레이트 이스케이프",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%97%90%EC%8A%A4%ED%83%80%EB%B8%8C%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84",
+   "media": [
+    "애니메이션",
+    "게임",
+    "영화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 『エスタブライフ グレイトエスケープ』 12화(2022) · 게임 · 극장 『BLOODY ESCAPE -地獄の逃走劇-』(2024)",
+   "by": "谷口悟朗(원안), ポリゴン・ピクチュアズ",
+   "year": 2022,
+   "country": "일본",
+   "setting": "여러 종족이 갈라 사는 미래 도쿄의 구역들, 구역을 벗어나려는 이들을 몰래 빼내 주는 도주 도우미들.",
+   "concepts": [
+    "ai",
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「エスタブライフ」 · 나무위키 「에스타브 라이프 그레이트 이스케이프」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2022, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%97%90%EC%8A%A4%ED%83%80%EB%B8%8C%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gekidol",
+   "orig": "ゲキドル",
+   "orig_en": "",
+   "ko": "게키돌",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B2%8C%ED%82%A4%EB%8F%8C",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화 『ゲキドル アライヴ』(2017~, 電撃マオウ) · TV 12화(2021)",
+   "by": "フッズエンタテインメント(원작·애니메이션), 関谷あさみ(캐릭터 원안·만화)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "세계 도시 동시 소실로 무너진 이케부쿠로, 입체 영상 연극에 빠진 소녀들이 무대를 꿈꾼다.",
+   "concepts": [
+    "catastrophe",
+    "hologram",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「ゲキドル」 · 나무위키 「게키돌」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2021%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "babylon_nozaki",
+   "orig": "バビロン",
+   "orig_en": "",
+   "ko": "바빌론",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B0%94%EB%B9%8C%EB%A1%A0%28%EC%86%8C%EC%84%A4%29",
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설(2015~, 講談社) · 만화(2019) · TV 12화(2019~2020)",
+   "by": "野﨑まど(원작), REVOROOT(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "새 법을 시험하는 '제2의 도쿄'에서 자살을 권리로 인정하는 법이 나오고, 검사가 그 뒤의 여자를 쫓는다.",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2019) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「バビロン (小説)」 · 나무위키 「바빌론(소설)」",
+   "korean": {
+    "status": "있음",
+    "detail": "대원방송 판권·프라임 비디오 스트리밍(나무위키)",
+    "src": "https://namu.wiki/w/%EB%B0%94%EB%B9%8C%EB%A1%A0%28%EC%86%8C%EC%84%A4%29"
+   },
+   "borderline": true
+  },
+  {
+   "id": "hinamatsuri",
+   "orig": "ヒナまつり",
+   "orig_en": "",
+   "ko": "히나마츠리",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%9E%88%EB%82%98%EB%A7%88%EC%B8%A0%EB%A6%AC%28%EB%A7%8C%ED%99%94%29/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(읽기 2009, 연재 2010~, Fellows! → ハルタ) · TV 12화(2018)",
+   "by": "大武政夫(원작), feel.(애니메이션)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "정체 모를 캡슐에 담겨 젊은 야쿠자 방에 떨어진 초능력 소녀가 그 집에 눌러산다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「ヒナまつり」 · 나무위키 「히나마츠리(만화)/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 자막 동시 방영(2018, 나무위키)",
+    "src": "https://namu.wiki/w/%ED%9E%88%EB%82%98%EB%A7%88%EC%B8%A0%EB%A6%AC%28%EB%A7%8C%ED%99%94%29/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hypnosis_mic",
+   "orig": "ヒプノシスマイク",
+   "orig_en": "",
+   "ko": "히프노시스 마이크",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%9E%88%ED%94%84%EB%85%B8%EC%8B%9C%EC%8A%A4%20%EB%A7%88%EC%9D%B4%ED%81%AC",
+   "media": [
+    "만화",
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "만화",
+   "series": "음반에서 시작한 캐릭터 랩 기획(2017~, 목록 매체에 음반이 없어 첫 매체는 만화로 둠) · 만화(2018~) · TV(2020~) · 게임 · 극장(2025)",
+   "by": "EVIL LINE RECORDS(원작), A-1 Pictures(TV)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "무기가 사라지고 여성이 권력을 쥔 나라, 사람 신경을 건드리는 '최면 마이크' 랩 배틀로 영역을 다툰다.",
+   "concepts": [
+    "mind_control",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2025년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「ディストピア作品」 · 일본어 위키백과 「ヒプノシスマイク」 · 나무위키 「히프노시스 마이크」",
+   "korean": {
+    "status": "일부",
+    "detail": "음원 정식 서비스·공식 코믹스 정발(나무위키)",
+    "src": "https://namu.wiki/w/%ED%9E%88%ED%94%84%EB%85%B8%EC%8B%9C%EC%8A%A4%20%EB%A7%88%EC%9D%B4%ED%81%AC"
+   },
+   "borderline": true
+  },
+  {
+   "id": "big_order",
+   "orig": "ビッグオーダー",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2011~2016, 月刊少年エース) · OVA(2015) · TV 10화(2016)",
+   "by": "えすのサカエ(원작), asread.(애니메이션)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "딴 차원의 소녀에게 소원을 빈 능력자가 세상을 멸망 직전까지 몰았고, 그 뒤 일본은 국제 관리 아래 놓였다.",
+   "concepts": [
+    "psionics",
+    "other_realm",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 10화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「ビッグオーダー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "flag_time",
+   "orig": "フラグタイム",
+   "orig_en": "",
+   "ko": "플래그 타임",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%94%8C%EB%9E%98%EA%B7%B8%20%ED%83%80%EC%9E%84",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2013~2014, もっと! → Champion タップ!) · 극장 애니메이션(2019)",
+   "by": "さと(원작), ティアスタジオ(감독 佐藤卓哉)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "하루 3분 시간을 멈추는 여고생이, 멈춘 시간 속에서도 움직이는 반 친구를 만난다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「フラグタイム」 · 나무위키 「플래그 타임」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "flip_flappers",
+   "orig": "フリップフラッパーズ",
+   "orig_en": "",
+   "ko": "플립 플래퍼즈",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%94%8C%EB%A6%BD%20%ED%94%8C%EB%9E%98%ED%8D%BC%EC%A6%88",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2016)",
+   "by": "Studio 3Hz(감독 押山清高)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "소원을 이뤄 준다는 조각을 찾아, 중학생이 비밀 조직의 소녀와 이상한 세계 '퓨어 일루전'을 넘나든다.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 13화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「フリップフラッパーズ」 · 나무위키 「플립 플래퍼즈」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2016, 나무위키)",
+    "src": "https://namu.wiki/w/%ED%94%8C%EB%A6%BD%20%ED%94%8C%EB%9E%98%ED%8D%BC%EC%A6%88"
+   },
+   "borderline": true
+  },
+  {
+   "id": "fool_night",
+   "orig": "フールナイト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2020~, ビッグコミックスペリオール) · 애니메이션(2026, Netflix)",
+   "by": "安田佳澄(원작), サンライズ·シャフト(애니메이션)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "구름에 해가 가려 식물이 죽고 산소가 모자란 먼 미래, 사람을 식물로 바꿔 숨 쉴 공기를 만든다.",
+   "concepts": [
+    "catastrophe",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2026년 웹 애니메이션 — 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「フールナイト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "butchigire",
+   "orig": "ブッチギレ!",
+   "orig_en": "",
+   "ko": "대역! 죄인 -가장 빛나라-",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8C%80%EC%97%AD%21%20%EC%A3%84%EC%9D%B8%20-%EA%B0%80%EC%9E%A5%20%EB%B9%9B%EB%82%98%EB%9D%BC-",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2022)",
+   "by": "ジェノスタジオ(감독 平川哲生)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "사무라이가 지배를 이어 간 다른 역사의 일본, 사형수들이 몰살당한 신선조 간부의 대역을 맡는다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「歴史改変SF」 · 일본어 위키백과 「ブッチギレ!」 · 나무위키 「대역! 죄인 -가장 빛나라-」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니박스 방영(2022, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%8C%80%EC%97%AD%21%20%EC%A3%84%EC%9D%B8%20-%EA%B0%80%EC%9E%A5%20%EB%B9%9B%EB%82%98%EB%9D%BC-"
+   },
+   "borderline": true
+  },
+  {
+   "id": "bubuki_buranki",
+   "orig": "ブブキ・ブランキ",
+   "orig_en": "",
+   "ko": "부부키 부란키",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B6%80%EB%B6%80%ED%82%A4%20%EB%B6%80%EB%9E%80%ED%82%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2016) · 『ブブキ・ブランキ 星の巨人』 12화(2016)",
+   "by": "サンジゲン(감독 小松田大全)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "하늘섬의 거대 생명체 '브랑키'가 날뛰며 도쿄에 떨어지고, 그것을 다루는 아이들이 맞선다.",
+   "concepts": [
+    "living_machine",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「ブブキ・ブランキ」 · 나무위키 「부부키 부란키」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2016, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%B6%80%EB%B6%80%ED%82%A4%20%EB%B6%80%EB%9E%80%ED%82%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "break_blade",
+   "orig": "ブレイク ブレイド",
+   "orig_en": "",
+   "ko": "브레이크 블레이드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC%20%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2006~2022, COMIC メテオ) · 극장 6장(2010~2011) · TV 12화(2014)",
+   "by": "吉永裕ノ介(원작), Production I.G·XEBEC(애니메이션)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "모두가 석영을 부리는 힘을 타고나는 대륙, 힘이 없는 청년만이 발굴된 옛 인형 병기를 움직인다.",
+   "concepts": [
+    "mecha",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "2010년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ映画」 · 일본어 위키백과 「ブレイク ブレイド」 · 나무위키 「브레이크 블레이드」",
+   "korean": {
+    "status": "있음",
+    "detail": "조이앤컨텐츠그룹 VOD(2012)·케이알씨지 개봉(2013) (나무위키)",
+    "src": "https://namu.wiki/w/%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC%20%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "planzet",
+   "orig": "プランゼット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 CG 애니메이션(2010, 53분)",
+   "by": "粟津順(감독), コミックス・ウェーブ・フィルム",
+   "year": 2010,
+   "country": "일본",
+   "setting": "2053년 우주에서 온 생명체에 인류 대부분이 쓰러지고, 로봇 병기 조종사가 후지 기지를 지킨다.",
+   "concepts": [
+    "alien_invasion",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2010년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ映画」 · 일본어 위키백과 「プランゼット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "plunderer",
+   "orig": "プランダラ",
+   "orig_en": "",
+   "ko": "플런더러",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%94%8C%EB%9F%B0%EB%8D%94%EB%9F%AC",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2014~2022, 月刊少年エース) · TV 24화(2020)",
+   "by": "水無月すう(원작), GEEKTOYS(애니메이션)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "몸에 새겨진 숫자 '카운트'가 0 이 되면 나락에 떨어지는 세계, 300년 전 전쟁의 진실이 드러난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 24화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「プランダラ」 · 나무위키 「플런더러」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2020%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "pripri_chiichan",
+   "orig": "プリプリちぃちゃん!!",
+   "orig_en": "",
+   "ko": "프리프리 치이짱!!",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%94%84%EB%A6%AC%ED%94%84%EB%A6%AC%20%EC%B9%98%EC%9D%B4%EC%A7%B1%21%21",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2015~2019, ちゃお, 小学館漫画賞) · TV 36화(2017)",
+   "by": "篠塚ひろむ(원작), OLM(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "구멍에 끼인 땅속 사람 소녀를 구한 아이의 집에, 먼저 와 살던 외계인과 함께 얹혀산다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 36화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「プリプリちぃちゃん!!」 · 나무위키 「프리프리 치이짱!!」",
+   "korean": {
+    "status": "있음",
+    "detail": "투니버스 방영(나무위키)",
+    "src": "https://namu.wiki/w/%ED%94%84%EB%A6%AC%ED%94%84%EB%A6%AC%20%EC%B9%98%EC%9D%B4%EC%A7%B1%21%21"
+   },
+   "borderline": false
+  },
+  {
+   "id": "heybot",
+   "orig": "ヘボット!",
+   "orig_en": "",
+   "ko": "헤봇!",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%97%A4%EB%B4%87%21",
+   "media": [
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 50화(2016~2017) · 만화(コロコロコミック) · 게임",
+   "by": "BN Pictures(감독 石平信司)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "머리에 나사를 꽂은 로봇 같은 생명체들이 말장난 대결을 벌이는 나사 모양 섬.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 50화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ロボットを主人公としたアニメ作品」 · 일본어 위키백과 「ヘボット!」 · 나무위키 「헤봇!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "pet_miyake",
+   "orig": "ペット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2003~, ビッグコミックスピリッツ, 리마스터판 2009) · TV 13화(2020)",
+   "by": "三宅乱丈(원작), ジェノスタジオ(애니메이션)",
+   "year": 2003,
+   "country": "일본",
+   "setting": "남의 기억 속에 들어가 고치는 능력자들이 범죄 조직의 '펫'으로 부려지고, 실패하면 상대는 망가진다.",
+   "concepts": [
+    "memory_edit",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SF漫画作品」 · 일본어 위키백과 「ペット (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "votoms_finder",
+   "orig": "ボトムズファインダー",
+   "orig_en": "",
+   "ko": "보톰즈 파인더",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B3%B4%ED%86%B0%EC%A6%88%20%ED%8C%8C%EC%9D%B8%EB%8D%94",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "중편(2010 행사 상영, 2011 영상물) — 『装甲騎兵ボトムズ』 이름을 쓰지만 세계는 새로 만든 것",
+   "by": "サンライズ(감독 重田敦司), 矢立肇·高橋良輔(원작)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "낭떠러지 밑 '보톰즈'에 사는 청년이 납치된 소녀를 구해 벼랑 위 '토프'로 올라간다.",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2011) — 일본어 위키백과 분류 「2011年のOVA」 · 일본어 위키백과 분류 「ロボットアニメのスピンオフ作品」 · 일본어 위키백과 「ボトムズファインダー」 · 나무위키 「보톰즈 파인더」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "b_the_beginning",
+   "orig": "B: The Beginning",
+   "orig_en": "",
+   "ko": "B: 더 비기닝",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/B%3A%20%EB%8D%94%20%EB%B9%84%EA%B8%B0%EB%8B%9D",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 12화(2018, Netflix) · 『B: The Beginning Succession』(2021)",
+   "by": "Production I.G(감독 中澤一登·山川吉樹)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "섬나라 왕국에서 흉악범만 죽이는 'Killer B'를 천재 수사관이 쫓고, 몸을 바꾸는 소년이 얽힌다.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2018년 웹 애니메이션 — 일본어 위키백과 분류 「2018年のWebアニメ」 · 일본어 위키백과 「B：The Beginning」 · 나무위키 「B: 더 비기닝」",
+   "korean": {
+    "status": "있음",
+    "detail": "넷플릭스 서비스(2018-03-29~, 나무위키)",
+    "src": "https://namu.wiki/w/B%3A%20%EB%8D%94%20%EB%B9%84%EA%B8%B0%EB%8B%9D"
+   },
+   "borderline": true
+  },
+  {
+   "id": "c_control",
+   "orig": "C",
+   "orig_en": "C: The Money of Soul and Possibility Control",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 11화(2011, ノイタミナ)",
+   "by": "タツノコプロ(감독 中村健治)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "근미래 일본, 미래를 담보로 돈을 빌려주는 딴 세계 '금융가'에서 대학생이 남과 미래를 걸고 겨룬다.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 11화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「C (アニメ)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gibiate",
+   "orig": "ジビエート",
+   "orig_en": "GIBIATE",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "교차 매체 기획 『GIBIATE PROJECT』(2018~) · TV 12화(2020)",
+   "by": "青木良(원작), ランチ・BOX·スタジオエル(애니메이션)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "1600년의 무사와 닌자가 2030년으로 넘어오니, 사람을 괴물로 바꾸는 바이러스가 일본을 덮고 있었다.",
+   "concepts": [
+    "time_travel",
+    "parasite",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「GIBIATE PROJECT」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "extreme_hearts",
+   "orig": "Extreme Hearts",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2022)",
+   "by": "都築真紀(원작·각본), Seven Arcs",
+   "year": 2022,
+   "country": "일본",
+   "setting": "사람 모양 로봇이 흔해진 근미래, 몸을 돕는 장비를 쓰는 '하이퍼 스포츠'에 무명 가수가 뛰어든다.",
+   "concepts": [
+    "robot",
+    "power_armor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「Extreme Hearts」 · 나무위키 「Extreme Hearts」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2022, 나무위키)",
+    "src": "https://namu.wiki/w/Extreme%20Hearts"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mf_ghost",
+   "orig": "MFゴースト",
+   "orig_en": "",
+   "ko": "MF고스트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/MF%EA%B3%A0%EC%8A%A4%ED%8A%B8",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2017~, 週刊ヤングマガジン) · TV 12화(2023)·12화(2024)·13화(2026) — 『頭文字D』 뒤의 이야기",
+   "by": "しげの秀一(원작), FelixFilm(애니메이션)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "202X년 자율 주행 전기차가 퍼진 일본, 사라져 가는 내연 기관 스포츠카로 공도를 달리는 경주가 열린다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「MFゴースト」 · 나무위키 「MF고스트」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "sixteen_bit_sensation",
+   "orig": "16bitセンセーション",
+   "orig_en": "",
+   "ko": "16bit 센세이션 나와 모두가 만든 미소녀 게임",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/16bit%20%EC%84%BC%EC%84%B8%EC%9D%B4%EC%85%98%20%EB%82%98%EC%99%80%20%EB%AA%A8%EB%91%90%EA%B0%80%20%EB%A7%8C%EB%93%A0%20%EB%AF%B8%EC%86%8C%EB%85%80%20%EA%B2%8C%EC%9E%84",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "동인지(2016~) · 상업 만화(2020) · TV 『16bitセンセーション ANOTHER LAYER』 13화(2023)",
+   "by": "みつみ美里·甘露樹(원안), 若木民喜(만화), st.シルバー(애니메이션)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "TV 판은 2023년의 소녀가 1992년 미소녀 게임 회사로 시간을 거슬러 가 그 시절 개발 현장에 든다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 13화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「16bitセンセーション」 · 나무위키 「16bit 센세이션 나와 모두가 만든 미소녀 게임」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "devil_survivor_2",
+   "orig": "デビルサバイバー2",
+   "orig_en": "",
+   "ko": "데빌 서바이버 2",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8D%B0%EB%B9%8C%20%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%84%202",
+   "media": [
+    "게임",
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "게임",
+   "series": "DS 게임(2011) · 3DS 『ブレイクレコード』(2015) · TV 13화(2013) · 만화",
+   "by": "アトラス(게임), bridge(애니메이션, 감독 岸誠二)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "죽음 영상을 보내는 사이트에 든 고교생들이 앱으로 부린 악마로 하늘의 침입자 '셉텐트리온'과 싸운다.",
+   "concepts": [
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「デビルサバイバー2」 · 나무위키 「데빌 서바이버 2」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니박스 자막 방영(2013, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%8D%B0%EB%B9%8C%20%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%84%202"
+   },
+   "borderline": true
+  },
+  {
+   "id": "battle_girl_high_school",
+   "orig": "バトルガール ハイスクール",
+   "orig_en": "",
+   "ko": "배틀걸 하이스쿨",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B0%B0%ED%8B%80%EA%B1%B8%20%ED%95%98%EC%9D%B4%EC%8A%A4%EC%BF%A8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "스마트폰 게임(2015~) · TV 12화(2017)",
+   "by": "コロプラ(게임), SILVER LINK.(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "2045년 정체 모를 생명체에 지구를 빼앗겨 달과 우주로 물러난 인류, 여학생들이 지구를 되찾으러 간다.",
+   "concepts": [
+    "alien_invasion",
+    "habitat"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「バトルガール ハイスクール」 · 나무위키 「배틀걸 하이스쿨/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "KT알파 판권, 애니맥스 코리아 자막 동시 방영(2017, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%B0%B0%ED%8B%80%EA%B1%B8%20%ED%95%98%EC%9D%B4%EC%8A%A4%EC%BF%A8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "occultic_nine",
+   "orig": "Occultic;Nine -オカルティック・ナイン-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2014~, オーバーラップ文庫) · 만화(2015) · TV 12화(2016) · 게임(2017)",
+   "by": "志倉千代丸(원작), A-1 Pictures(애니메이션)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "오컬트 블로그를 하는 고교생이 교수의 시체를 발견한 뒤, 도시의 초상 현상과 '초상 과학' 음모에 휘말린다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「Occultic;Nine -オカルティック・ナイン-」 · 나무위키 「Occultic;Nine/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2016, 나무위키)",
+    "src": "https://namu.wiki/w/Occultic%3BNine/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": true
+  },
+  {
+   "id": "re_creators",
+   "orig": "Re:CREATORS",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 22화(2017) · 만화·소설",
+   "by": "TROYCA(감독 あおきえい), 広江礼威(원작)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "애니메이션과 게임 속 인물들이 현실로 튀어나와, 저마다 자기를 만든 창작자를 찾아 세계를 뒤흔든다.",
+   "concepts": [
+    "other_realm",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 22화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「パラレルワールドを題材としたアニメ作品」 · 일본어 위키백과 「Re:CREATORS」 · 나무위키 「Re:CREATORS」",
+   "korean": {
+    "status": "있음",
+    "detail": "아마존 판권, 프라임 비디오 스트리밍(나무위키)",
+    "src": "https://namu.wiki/w/Re%3ACREATORS"
+   },
+   "borderline": true
+  },
+  {
+   "id": "sanda_itagaki",
+   "orig": "SANDA",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2021~2024, 週刊少年チャンピオン) · TV 12화(2025)",
+   "by": "板垣巴留(원작), サイエンスSARU(애니메이션)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "아이가 인구의 0.1%로 줄어 어른이 엄격히 관리하는 2080년 일본, 산타 후손 소년이 아이들을 지킨다.",
+   "concepts": [
+    "infertility",
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「SANDA」 · 나무위키 「SANDA」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "shy_miki",
+   "orig": "SHY",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2019~2025, 週刊少年チャンピオン) · TV 12화(2023)·12화(2024)",
+   "by": "実樹ぶきみ(원작), エイトビット(애니메이션)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "나라마다 히어로가 생겨 전쟁이 사라진 21세기 중반, 수줍은 일본 히어로가 마음을 폭주시키는 적과 싸운다.",
+   "concepts": [
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「SHY (漫画)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "sonny_boy",
+   "orig": "Sonny Boy",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2021)",
+   "by": "マッドハウス(원작·감독 夏目真悟)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "여름방학 중 학교째 이상한 세계로 날아간 중학생 36명이 저마다 초능력을 얻고 돌아갈 길을 찾는다.",
+   "concepts": [
+    "other_realm",
+    "psionics",
+    "teleport"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「Sonny Boy」 · 나무위키 「Sonny Boy」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2021, 나무위키)",
+    "src": "https://namu.wiki/w/Sonny%20Boy"
+   },
+   "borderline": false
+  },
+  {
+   "id": "hirune_hime",
+   "orig": "ひるね姫 〜知らないワタシの物語〜",
+   "orig_en": "Napping Princess",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "소설",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2017) · 소설·만화",
+   "by": "神山健治(원작·감독), シグナル・エムディ",
+   "year": 2017,
+   "country": "일본",
+   "setting": "낮잠마다 기계 왕국에서 태블릿으로 마법을 쓰는 공주가 되는 꿈을 꾸는 여고생, 꿈과 현실이 맞물린다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2017년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「SFアニメ映画」 · 일본어 위키백과 「ひるね姫 〜知らないワタシの物語〜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "ex_maiden",
+   "orig": "エクスメイデン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 쇼트 8화 + 7화(2014, ニコニコ動画)",
+   "by": "ランバート(제작), 松田浩史(원안)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "우주 침략자에게서 지구를 지키려 탑승 병기에 오르는 소녀들 — 그런데 로봇은 나오지 않고 수다만 떤다.",
+   "concepts": [
+    "alien_invasion",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2014년 웹 애니메이션 — 일본어 위키백과 분류 「2014年のWebアニメ」 · 일본어 위키백과 분류 「ロボットを題材としたアニメ作品」 · 일본어 위키백과 「エクスメイデン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "eden_netflix",
+   "orig": "エデン",
+   "orig_en": "Eden",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 4화(2021, Netflix)",
+   "by": "Qubic Pictures·CGCG(감독 入江泰浩)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "사람이 사라지고 로봇만 사는 '에덴 3', 농사 로봇 둘이 캡슐 속 인간 아기를 깨워 몰래 기른다.",
+   "concepts": [
+    "robot",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2021년 웹 애니메이션 — 일본어 위키백과 분류 「2021年のWebアニメ」 · 일본어 위키백과 분류 「自律ロボットを題材としたアニメ作品」 · 일본어 위키백과 「エデン (アニメ)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ozma_matsumoto",
+   "orig": "オズマ",
+   "orig_en": "Ozuma",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 6화(2012, WOWOW) — 松本零士 가 1980년대에 쓴 미공개 각본 『超兵器オズマ』 바탕",
+   "by": "松本零士(원작), ランドック・スタジオ·GONZO(감독 池添隆博)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "태양 이상 활동으로 사막만 남은 지구, 형을 앗아 간 정체 모를 이동체 '오즈마'를 쫓는 사막 해적 소년.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 6화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「スチームパンクアニメ」 · 일본어 위키백과 「オズマ (アニメ)」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "olympia_kyklos",
+   "orig": "オリンピア・キュクロス",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2018~2022, グランドジャンプ) · TV 24화(2020)",
+   "by": "ヤマザキマリ(원작), 豪勢スタジオ(애니메이션)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "기원전 400년 그리스의 항아리 화공이 벼락을 맞을 때마다 올림픽 시절의 도쿄로 시간을 건너뛴다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 24화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「タイムトラベルを題材とした漫画作品」 · 일본어 위키백과 「オリンピア・キュクロス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kagaku_na_yatsura",
+   "orig": "カガクなヤツら",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2010~2014, チャンピオンRED いちご) · OVA(2013)",
+   "by": "吉川英朗(원작)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "개 귀 소녀와 사이보그 소녀 같은 '과학자'들이 소꿉친구 주인공을 둘러싸고 소란을 벌이는 학원 코미디.",
+   "concepts": [
+    "cyborg"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2013) — 일본어 위키백과 분류 「2013年のOVA」 · 일본어 위키백과 분류 「サイボーグを題材としたアニメ作品」 · 일본어 위키백과 「カガクなヤツら」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kagerou_project",
+   "orig": "カゲロウプロジェクト",
+   "orig_en": "",
+   "ko": "카게로우 프로젝트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B9%B4%EA%B2%8C%EB%A1%9C%EC%9A%B0%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8",
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "보컬로이드 곡(2011~, 목록 매체에 음반이 없어 첫 매체는 소설로 둠)·소설(2012~)·만화(2012~) · TV 『メカクシティアクターズ』 12화(2014) · 극장 『カゲロウデイズ -in a day's-』(2016)",
+   "by": "じん(원작), シャフト(TV)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "8월 14일, 컴퓨터에 사는 전뇌 소녀에 이끌려 밖에 나간 은둔 청년이 눈에 이능이 깃든 아이들과 얽힌다.",
+   "concepts": [
+    "psionics",
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「カゲロウプロジェクト」 · 나무위키 「카게로우 프로젝트」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hamatora",
+   "orig": "ハマトラ",
+   "orig_en": "",
+   "ko": "하마토라",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%98%EB%A7%88%ED%86%A0%EB%9D%BC",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2014) · 『Re:␣ ハマトラ』 12화(2014) · 만화(2013~) · 극장(2015)",
+   "by": "NAZ·Lerche(애니메이션), カフェノーウェア(원작)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "2014년 요코하마, '미니멈'이라는 초능력을 가진 탐정 콤비가 능력자들만 노리는 사건을 쫓는다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「ハマトラ (アニメ)」 · 나무위키 「하마토라」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 방영·만화 『하마트러』 정발(나무위키)",
+    "src": "https://namu.wiki/w/%ED%95%98%EB%A7%88%ED%86%A0%EB%9D%BC"
+   },
+   "borderline": true
+  },
+  {
+   "id": "miss_monochrome",
+   "orig": "ミス・モノクローム",
+   "orig_en": "",
+   "ko": "미스 모노크롬",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%20%EB%AA%A8%EB%85%B8%ED%81%AC%EB%A1%AC",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 쇼트 13화(2013) · 2기 13화·3기 13화(2015)",
+   "by": "堀江由衣(캐릭터 원안), ライデンフィルム·サンジゲン",
+   "year": 2013,
+   "country": "일본",
+   "setting": "큰 성에 사는 건전지 한 개로 움직이는 안드로이드가, TV 속 아이돌을 보고 아이돌이 되려 한다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 쇼트(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「架空のロボット」 · 일본어 위키백과 「ミス・モノクローム」 · 나무위키 「미스 모노크롬」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mecha_ude",
+   "orig": "メカウデ",
+   "orig_en": "",
+   "ko": "메카우데",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A9%94%EC%B9%B4%EC%9A%B0%EB%8D%B0",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "파일럿(2018, 크라우드펀딩) · TV 12화(2024) · 만화(2022~)",
+   "by": "TriFスタジオ(원작·감독 オカモト)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "중학생이 기계 팔 모양의 생명체 '메카우데'를 만나, 메카우데를 둘러싼 싸움에 휘말린다.",
+   "concepts": [
+    "living_machine"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2024) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「ロボットを題材としたアニメ作品」 · 일본어 위키백과 「メカウデ」 · 나무위키 「메카우데」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2024%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "trinary_ar",
+   "orig": "拡張少女系トライナリー",
+   "orig_en": "AUGMENTED REALITY GIRLS TRINARY",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "스마트폰 게임·웹 애니메이션 6화(2017~2018)",
+   "by": "コーエーテクモゲームス ガスト·東映アニメーション, feel.(애니메이션)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "2016년 도심에 나타난 거대한 고치 '페노메논'이 사람들을 삼키고, 안에서 버티는 소녀들이 공격대가 된다.",
+   "concepts": [
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2017년 웹 애니메이션 — 일본어 위키백과 분류 「2017年のWebアニメ」 · 일본어 위키백과 「拡張少女系トライナリー」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tanmoshi",
+   "orig": "探偵はもう、死んでいる。",
+   "orig_en": "",
+   "ko": "탐정은 이미 죽었다",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%83%90%EC%A0%95%EC%9D%80%20%EC%9D%B4%EB%AF%B8%20%EC%A3%BD%EC%97%88%EB%8B%A4",
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2019~, MF文庫J, 신인상 최우수상) · 만화 · TV 12화(2021)·2기(2026)",
+   "by": "二語十(원작), ENGI(애니메이션)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "죽은 명탐정의 조수였던 소년이, 탐정과 함께 싸웠던 비밀 조직 'SPES'의 그림자를 다시 마주한다.",
+   "concepts": [
+    "alien",
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「探偵はもう、死んでいる。」 · 나무위키 「탐정은 이미 죽었다」",
+   "korean": {
+    "status": "있음",
+    "detail": "소설 전자책 정발(카카오페이지 등, 나무위키)",
+    "src": "https://namu.wiki/w/%ED%83%90%EC%A0%95%EC%9D%80%20%EC%9D%B4%EB%AF%B8%20%EC%A3%BD%EC%97%88%EB%8B%A4"
+   },
+   "borderline": true
+  },
+  {
+   "id": "bungo_stray_dogs",
+   "orig": "文豪ストレイドッグス",
+   "orig_en": "",
+   "ko": "문호 스트레이독스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AC%B8%ED%98%B8%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8F%85%EC%8A%A4%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%203%EA%B8%B0%29",
+   "media": [
+    "만화",
+    "소설",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2013~, ヤングエース) · 소설(2014~) · TV(2016~2023) · 영화(2022)",
+   "by": "朝霧カフカ(원작), 春河35(만화), ボンズ(애니메이션)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "문호의 이름을 딴 이능력자들이 요코하마의 탐정사와 마피아로 갈려 싸운다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「文豪ストレイドッグス」 · 나무위키 「문호 스트레이독스(애니메이션 3기)」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 방영(3기)·소설 번역 정발(나무위키)",
+    "src": "https://namu.wiki/w/%EB%AC%B8%ED%98%B8%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8F%85%EC%8A%A4%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%203%EA%B8%B0%29"
+   },
+   "borderline": true
+  },
+  {
+   "id": "nichijou",
+   "orig": "日常",
+   "orig_en": "",
+   "ko": "일상",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9D%BC%EC%83%81",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2006~, 月刊少年エース) · TV 26화(2011) · OVA",
+   "by": "あらゐけいいち(원작), 京都アニメーション(애니메이션)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "엉뚱한 일이 끝없이 터지는 고교 주변의 일상 개그, 연구소에서 만든 로봇 소녀도 함께 산다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 26화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「自律ロボットを題材としたアニメ作品」 · 일본어 위키백과 「日常 (漫画)」 · 나무위키 「일상」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "hoshikuzu_telepath",
+   "orig": "星屑テレパス",
+   "orig_en": "",
+   "ko": "별무리 텔레패스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B3%84%EB%AC%B4%EB%A6%AC%20%ED%85%94%EB%A0%88%ED%8C%A8%EC%8A%A4",
+   "media": [
+    "만화",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "만화",
+   "series": "4컷 만화(2019~) · TV 12화(2023) · 실사 드라마(2024)",
+   "by": "大熊らすこ(원작), Studio五組(애니메이션)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "지구엔 제 자리가 없다며 우주를 꿈꾸는 내성적 여고생이 '우주인'이라는 소녀를 만나 함께 로켓을 만든다.",
+   "concepts": [
+    "alien",
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「星屑テレパス」 · 나무위키 「별무리 텔레패스」",
+   "korean": {
+    "status": "있음",
+    "detail": "대원방송 판권·대원씨아이 만화 정발·Wavve 독점 스트리밍(나무위키)",
+    "src": "https://namu.wiki/w/%EB%B3%84%EB%AC%B4%EB%A6%AC%20%ED%85%94%EB%A0%88%ED%8C%A8%EC%8A%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "sigrdrifa",
+   "orig": "戦翼のシグルドリーヴァ",
+   "orig_en": "",
+   "ko": "전익의 시그드리파",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A0%84%EC%9D%B5%EC%9D%98%20%EC%8B%9C%EA%B7%B8%EB%93%9C%EB%A6%AC%ED%8C%8C",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2020)",
+   "by": "A-1 Pictures(감독 徳田大貴), 戦翼倶楽部(원작)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "2019년 지구에 나타난 '기둥'이 생명을 위협하자, 오딘이라는 신이 준 전투기와 소녀 비행사들이 맞선다.",
+   "concepts": [
+    "alien_invasion",
+    "godlike"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「戦翼のシグルドリーヴァ」 · 나무위키 「전익의 시그드리파」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2020, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%A0%84%EC%9D%B5%EC%9D%98%20%EC%8B%9C%EA%B7%B8%EB%93%9C%EB%A6%AC%ED%8C%8C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "joran_snow_blood",
+   "orig": "擾乱 THE PRINCESS OF SNOW AND BLOOD",
+   "orig_en": "",
+   "ko": "요란 THE PRINCESS OF SNOW AND BLOOD",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9A%94%EB%9E%80%20THE%20PRINCESS%20OF%20SNOW%20AND%20BLOOD",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2021)",
+   "by": "BAKKEN RECORD(애니메이션), ブシロード·日本テレビ·タツノコプロ(기획)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "94세 요시노부가 권력을 쥔 메이지 64년, '용맥' 에너지로 에도 풍속과 과학이 뒤섞인 다른 역사의 일본.",
+   "concepts": [
+    "alt_timeline",
+    "key_resource"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「擾乱 THE PRINCESS OF SNOW AND BLOOD」 · 나무위키 「요란 THE PRINCESS OF SNOW AND BLOOD」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2021, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%9A%94%EB%9E%80%20THE%20PRINCESS%20OF%20SNOW%20AND%20BLOOD"
+   },
+   "borderline": true
+  },
+  {
+   "id": "houkago_no_pleiades",
+   "orig": "放課後のプレアデス",
+   "orig_en": "",
+   "ko": "방과후의 플레이아데스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B0%A9%EA%B3%BC%ED%9B%84%EC%9D%98%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%95%84%EB%8D%B0%EC%8A%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 단편(2011) · TV 12화(2015) — 스바루×GAINAX 기획",
+   "by": "GAINAX(원작·감독 佐伯昭志)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "방과후 천문실 문을 연 소녀가 플레이아데스 성인을 만나고, 마녀 차림 소녀들과 함께 별의 조각을 모은다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「放課後のプレアデス」 · 나무위키 「방과후의 플레이아데스」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EB%B0%A9%EA%B3%BC%ED%9B%84%EC%9D%98%20%ED%94%8C%EB%A0%88%EC%9D%B4%EC%95%84%EB%8D%B0%EC%8A%A4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "the_reflection",
+   "orig": "THE REFLECTION",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2017) — 미일 합작",
+   "by": "スタジオディーン(감독 長濵博史), スタン・リー·長濵博史(원작)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "세계를 덮친 대재앙 '리플렉션' 뒤 초능력을 얻은 사람들이 생겨, 영웅과 악당으로 갈려 싸운다.",
+   "concepts": [
+    "psionics",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「THE REFLECTION」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "ufo_gakuen",
+   "orig": "UFO学園の秘密",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2015) · 속편 『宇宙の法—黎明編—』(2018)·『宇宙の法-エローヒム編-』(2021) — 幸福の科学出版 제작",
+   "by": "今掛勇(감독), HS PICTURES STUDIO",
+   "year": 2015,
+   "country": "일본",
+   "setting": "전원 기숙 학원의 학생 다섯이 외계인 납치와 외계인이 일으킨 사건을 파헤친다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2015년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「地球外生命体を題材とした映画作品」 · 일본어 위키백과 「UFO学園の秘密」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "un_go",
+   "orig": "UN-GO",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 11화(2011, ノイタミナ) · 극장 『UN-GO episode:0 因果論』(2011) · 만화 — 坂口安吾 탐정물을 근미래로 옮김",
+   "by": "ボンズ(감독 水島精二)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "'종전'을 막 맞은 근미래 도쿄, 정보를 쥔 언론왕의 명추리 뒤에 숨은 진실을 '마지막 명탐정'이 들춘다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 11화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「UN-GO」 · 나무위키 「UN-GO」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 방영(나무위키)",
+    "src": "https://namu.wiki/w/UN-GO"
+   },
+   "borderline": false
+  },
+  {
+   "id": "uq_holder",
+   "orig": "UQ HOLDER!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2013~, 『魔法先生ネギま!』 뒤 이야기) · TV 『UQ HOLDER! 〜魔法先生ネギま!2〜』 12화(2017)",
+   "by": "赤松健(원작), J.C.STAFF(애니메이션)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "마법이 세상에 알려지고 10년 뒤인 2086년, 불사신이 된 소년이 궤도 엘리베이터가 선 도읍으로 향한다.",
+   "concepts": [
+    "space_elevator",
+    "longevity"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ディストピア漫画」 · 일본어 위키백과 「UQ HOLDER!」 · 나무위키 「UQ HOLDER!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "urahara",
+   "orig": "URAHARA",
+   "orig_en": "",
+   "ko": "우라하라",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9A%B0%EB%9D%BC%ED%95%98%EB%9D%BC",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "웹 소설 『PARK：HARAJUKU Crisis Team!』(Crunchyroll 연재, 시작 해는 받은 자료에 없음) · TV 12화(2017)",
+   "by": "白組·EMTスクエアード(감독 久保亜美香)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "세계 곳곳의 건물을 훔쳐 가는 외계 존재가 하라주쿠로 오자, 가게를 연 여고생 셋이 변신해 맞선다.",
+   "concepts": [
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「URAHARA」 · 나무위키 「우라하라」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 방영(2017, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%9A%B0%EB%9D%BC%ED%95%98%EB%9D%BC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yasuke_netflix",
+   "orig": "Yasuke -ヤスケ-",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 6화(2021, Netflix)",
+   "by": "MAPPA(감독 ラション・トーマス)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "기계와 마법이 뒤섞인 다른 역사의 전국 시대, 은거한 흑인 무사가 이상한 힘을 가진 소녀를 지킨다.",
+   "concepts": [
+    "alt_timeline",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2021년 웹 애니메이션 — 일본어 위키백과 분류 「2021年のWebアニメ」 · 일본어 위키백과 분류 「歴史改変SF」 · 일본어 위키백과 「Yasuke -ヤスケ-」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "akanesasu_shoujo",
+   "orig": "あかねさす少女",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2018, 애니맥스 개국 20주년) · 게임(2018)",
+   "by": "ダンデライオンアニメーションスタジオ·オクルトノボル(감독 玉村仁), Metal Layer(원작)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "신목에 라디오를 맞추면 평행 세계로 간다는 의식을 해 본 여고생들이 다른 세계의 소녀와 떠난다.",
+   "concepts": [
+    "alt_timeline"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「パラレルワールドを題材としたアニメ作品」 · 일본어 위키백과 「あかねさす少女」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ashita_sekai_ga_owaru",
+   "orig": "あした世界が終わるとしても",
+   "orig_en": "",
+   "ko": "내일 세계가 끝난다 해도",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%B4%EC%9D%BC%20%EC%84%B8%EA%B3%84%EA%B0%80%20%EB%81%9D%EB%82%9C%EB%8B%A4%20%ED%95%B4%EB%8F%84",
+   "media": [
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "Hulu 웹 『ソウタイセカイ』 바탕 · 극장 애니메이션(2019) · 소설(2018)",
+   "by": "櫻木優平(감독), クラフター",
+   "year": 2019,
+   "country": "일본",
+   "setting": "짝을 이루는 두 일본에서 한쪽 사람이 죽으면 다른 쪽 짝도 죽고, 원격 인형 병기를 앞세운 싸움이 건너온다.",
+   "concepts": [
+    "alt_timeline",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2019년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「パラレルワールドを題材としたアニメ映画」 · 일본어 위키백과 「あした世界が終わるとしても」 · 나무위키 「내일 세계가 끝난다 해도」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "ibara_no_ou",
+   "orig": "いばらの王",
+   "orig_en": "King of Thorn",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2002~) · 극장 애니메이션 『いばらの王 -King of Thorn-』(2010)",
+   "by": "岩原裕二(원작), サンライズ(극장, 감독 片山一良)",
+   "year": 2002,
+   "country": "일본",
+   "setting": "고칠 수 없는 석화병을 피해 냉동 수면에 든 160명이 깨어나니, 시설은 가시덤불과 괴물로 뒤덮여 있었다.",
+   "concepts": [
+    "cryosleep",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2010년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 「いばらの王」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "otonari_ni_ginga",
+   "orig": "おとなりに銀河",
+   "orig_en": "",
+   "ko": "내 옆에 은하",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%B4%20%EC%98%86%EC%97%90%20%EC%9D%80%ED%95%98",
+   "media": [
+    "만화",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2020~2023, good!アフタヌーン) · TV 12화(2023) · 실사 드라마(2023, NHK)",
+   "by": "雨隠ギド(원작), 旭プロダクション(애니메이션)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "동생들을 먹여 살리는 만화가와, 자신을 '유성의 민족' 공주라 밝힌 조수가 뜻밖에 혼인의 맹약으로 묶인다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「ロマンティック・コメディSFアニメ」 · 일본어 위키백과 「おとなりに銀河」 · 나무위키 「내 옆에 은하」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록)·만화 정발",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2023%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "onimai",
+   "orig": "お兄ちゃんはおしまい!",
+   "orig_en": "",
+   "ko": "오빠는 끝!",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%98%A4%EB%B9%A0%EB%8A%94%20%EB%81%9D%21",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2018~) · TV 12화(2023)",
+   "by": "ねことうふ(원작), スタジオバインド(애니메이션)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "천재 여동생이 먹인 수상한 약으로 여자 몸이 된 은둔형 오빠가, 실험 삼아 그대로 산다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「お兄ちゃんはおしまい!」 · 나무위키 「오빠는 끝!」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권·만화 길찾기 정발(나무위키)",
+    "src": "https://namu.wiki/w/%EC%98%A4%EB%B9%A0%EB%8A%94%20%EB%81%9D%21"
+   },
+   "borderline": true
+  },
+  {
+   "id": "kowarekake_no_orgel",
+   "orig": "こわれかけのオルゴール",
+   "orig_en": "",
+   "ko": "망가지기 시작한 오르골",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A7%9D%EA%B0%80%EC%A7%80%EA%B8%B0%20%EC%8B%9C%EC%9E%91%ED%95%9C%20%EC%98%A4%EB%A5%B4%EA%B3%A8",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "동인 애니메이션(2010 상영, 본편 약 30분)",
+   "by": "川口敬一郎(감독)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "2039년 여름, 비 오는 날 버려진 안드로이드를 데려온 청년이 그녀와 살며 슬픔에서 벗어난다.",
+   "concepts": [
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2010년 영화 — 일본어 위키백과 분류 「2010年のアニメ映画」 · 일본어 위키백과 분류 「ロボットを題材としたアニメ映画」 · 일본어 위키백과 「こわれかけのオルゴール」 · 나무위키 「망가지기 시작한 오르골」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "susume_roboket",
+   "orig": "すすめロボケット",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1962~1965, 小学館 학습 잡지, 小学館漫画賞) · 극장 단편(2013, 藤子・F・不二雄ミュージアム)",
+   "by": "藤子不二雄(藤子・F・不二雄)",
+   "year": 1962,
+   "country": "일본",
+   "setting": "말하고 먹고 걷는 로켓 로봇 '로보켓'이 소년을 태우고 날아올라 악당과 로봇 괴수를 물리친다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2013년 영화 — 일본어 위키백과 분류 「2013年のアニメ映画」 · 일본어 위키백과 분류 「SF漫画作品」 · 일본어 위키백과 「すすめロボケット」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "tsuritama",
+   "orig": "つり球",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "소설"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2012, ノイタミナ) · 소설(2012)",
+   "by": "A-1 Pictures(감독 中村健治)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "에노시마에 온 고교생 앞에 자칭 우주인이 나타나, 사람을 조종하는 바다의 '그것'을 낚아 올리자고 한다.",
+   "concepts": [
+    "alien",
+    "mind_control"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「つり球」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "donyatsu",
+   "orig": "どーにゃつ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2011~, ヤングガンガン) · 극장 단편(2013)",
+   "by": "コザキユースケ(원작), ギャザリング(애니메이션, 감독 まんきゅう)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "해골이 뒹구는 폐허가 된 21세기 신주쿠, 도넛 몸통의 고양이와 음식 몸을 한 동물들이 느긋하게 산다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2013년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「SF漫画作品」 · 일본어 위키백과 「どーにゃつ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "takt_op",
+   "orig": "takt op.",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 『takt op.Destiny』 12화(2021) · 게임 『takt op. 運命は真紅き旋律の街を』(2023)",
+   "by": "DeNA·広井王子(원작), MAPPA·MADHOUSE(애니메이션)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "검은 운석이 낳은 괴물 'D2'에 음악이 사라진 세계, 명곡의 힘을 품은 소녀들과 지휘자가 맞선다.",
+   "concepts": [
+    "catastrophe",
+    "space_beast"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「Takt_op.」 · 나무위키 「takt op.Destiny」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2021, 나무위키)",
+    "src": "https://namu.wiki/w/takt%20op.Destiny"
+   },
+   "borderline": false
+  },
+  {
+   "id": "xi_avant",
+   "orig": "Xi AVANT",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 단편(2011, 『攻殻機動隊 S.A.C. SOLID STATE SOCIETY 3D』 동시 상영)",
+   "by": "神山健治(원작·감독)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "차세대 통신 휴대폰과 인공지능 비서가 퍼진 근미래, 외무성 하급 관리가 지시를 받고 바르셀로나로 간다.",
+   "concepts": [
+    "ai"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2011년 영화 — 일본어 위키백과 분류 「2011年のアニメ映画」 · 일본어 위키백과 「Xi AVANT」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "marginal_service",
+   "orig": "THE MARGINAL SERVICE",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2023)",
+   "by": "Studio 3Hz(감독 迫井政行)",
+   "year": 2023,
+   "country": "일본",
+   "setting": "도시에 숨어 사는 전설 속 존재 '경계인'의 범죄를 몰래 단속하는 비밀 국가 기관에 쫓겨난 형사가 들어간다.",
+   "concepts": [
+    "impostor"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「THE MARGINAL SERVICE」 · 나무위키 「THE MARGINAL SERVICE」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2023, 나무위키)",
+    "src": "https://namu.wiki/w/THE%20MARGINAL%20SERVICE"
+   },
+   "borderline": true
+  },
+  {
+   "id": "bokura_no_yoake",
+   "orig": "ぼくらのよあけ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2011, 月刊アフタヌーン, 2012 星雲賞 후보) · 극장 애니메이션(2022)",
+   "by": "今井哲也(원작), ゼロジー(감독 黒川智之)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "인공지능이 발달한 2038년, 집안 로봇의 몸을 빌린 우주의 '미지의 존재'가 아이들에게 임무를 맡긴다.",
+   "concepts": [
+    "alien",
+    "ai",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2022년 영화 — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「SF漫画作品」 · 일본어 위키백과 「ぼくらのよあけ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "makeruna_akunogundan",
+   "orig": "まけるな!!あくのぐんだん!",
+   "orig_en": "",
+   "ko": "지지마라!! 악의 군단!",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A7%80%EC%A7%80%EB%A7%88%EB%9D%BC%21%21%20%EC%95%85%EC%9D%98%20%EA%B5%B0%EB%8B%A8%21",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "4컷 만화(2013~2018, 月刊ブシロード) · TV 쇼트 12화(2017)",
+   "by": "徳井青空(원작), タツノコプロ(애니메이션, 감독 京極尚彦)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "지구 정복에 나선 우주인 셋이 잡은 인류가 너무 많아 우주선에 못 싣고, 동네 상점가에 눌러앉는다.",
+   "concepts": [
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 쇼트(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「まけるな!!あくのぐんだん!」 · 나무위키 「지지마라!! 악의 군단!」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kawaisugi_crisis",
+   "orig": "カワイスギクライシス",
+   "orig_en": "",
+   "ko": "너무 귀여운 크라이시스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%84%88%EB%AC%B4%20%EA%B7%80%EC%97%AC%EC%9A%B4%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2019~, ジャンプスクエア) · TV 12화(2023)",
+   "by": "城戸みつる(원작), SynergySP(애니메이션)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "별들을 거느린 우주 제국의 조사원이 침략을 앞두고 지구에 왔다가, 너무 귀여운 생물인 고양이에 빠진다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「カワイスギクライシス」 · 나무위키 「너무 귀여운 크라이시스」",
+   "korean": {
+    "status": "있음",
+    "detail": "투니버스 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2023%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gachiakuta",
+   "orig": "ガチアクタ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2022~, 週刊少年マガジン) · TV 24화(2025)",
+   "by": "裏那圭(원작), ボンズフィルム(애니메이션)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "하늘의 도시에서 누명을 쓰고 쓰레기 나락에 떨어진 소년이, 쓰레기로 된 괴물과 싸우는 청소부 무리에 든다.",
+   "concepts": [
+    "class_divide"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 24화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「ガチアクタ」 · 나무위키 「GACHIAKUTA」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gadhigirls",
+   "orig": "ガディガルズ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2022)",
+   "by": "でぃーきぃー(원작·각본·애니메이션)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "세 소녀가 갖가지 악당과 싸우는 히어로물이지만, 실은 사회에 녹아들지 못하는 이들의 삶을 그린다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2022년 영화 — 일본어 위키백과 분류 「2022年のアニメ映画」 · 일본어 위키백과 분류 「日本のスーパーヒーロー映画」 · 일본어 위키백과 「ガディガルズ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "galilei_donna",
+   "orig": "ガリレイドンナ",
+   "orig_en": "",
+   "ko": "갈릴레이 돈나",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B0%88%EB%A6%B4%EB%A0%88%EC%9D%B4%20%EB%8F%88%EB%82%98",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 11화(2013, ノイタミナ)",
+   "by": "A-1 Pictures(감독 梅津泰臣), 梅津泰臣·teamGD(원작)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "빙하기가 찾아온 2061년, 갈릴레오 갈릴레이의 후손 세 자매가 수수께끼 비행정에 쫓기며 유산을 찾는다.",
+   "concepts": [
+    "catastrophe",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 11화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ガリレイドンナ」 · 나무위키 「갈릴레이 돈나」",
+   "korean": {
+    "status": "있음",
+    "detail": "투니버스 자막 동시 방영(2013, 나무위키)",
+    "src": "https://namu.wiki/w/%EA%B0%88%EB%A6%B4%EB%A0%88%EC%9D%B4%20%EB%8F%88%EB%82%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "gundam_build",
+   "orig": "ガンダムビルドファイターズ",
+   "orig_en": "",
+   "ko": "건담 빌드 파이터즈",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B1%B4%EB%8B%B4%20%EB%B9%8C%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 『ガンダムビルドファイターズ』 25화(2013) · 『〜トライ』(2014) · 『ガンダムビルドダイバーズ』 25화(2018) · 웹 『〜Re:RISE』(2019~2020) · 웹 『ガンダムビルドメタバース』 3화(2023~2024)",
+   "by": "サンライズ(감독 長崎健司·綿田慎也 등), 矢立肇·富野由悠季(원작)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "플라스틱을 움직이는 입자로 건프라를 조종해 겨루는 근미래, 뒤로는 가상 공간 대전으로 이어진다.",
+   "concepts": [
+    "mecha",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 25화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「架空のロボット競技を題材とした作品」 · 일본어 위키백과 「ガンダムビルドファイターズ」 · 나무위키 「건담 빌드 파이터즈」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "killing_bites",
+   "orig": "キリングバイツ",
+   "orig_en": "",
+   "ko": "킬링바이츠",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%82%AC%EB%A7%81%EB%B0%94%EC%9D%B4%EC%B8%A0",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2014~, 月刊ヒーローズ) · TV 12화(2018)",
+   "by": "村田真哉(원작), 隅田かずあさ(그림), ライデンフィルム(애니메이션)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "일본 경제를 쥔 네 재벌이 짐승의 힘을 가진 '수인'들을 싸움 붙여 재계의 발언권을 다툰다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2018) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「キリングバイツ」 · 나무위키 「킬링바이츠」",
+   "korean": {
+    "status": "있음",
+    "detail": "아마존 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2018%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "kujira_no_kora",
+   "orig": "クジラの子らは砂上に歌う",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2013~2023, ミステリーボニータ) · TV 12화(2017)",
+   "by": "梅田阿比(원작), J.C.STAFF(애니메이션, 감독 イシグロキョウヘイ)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "모래가 모든 것을 덮은 세계, 모래 바다를 떠도는 거대한 배에 감정을 힘으로 쓰는 단명한 이들이 산다.",
+   "concepts": [
+    "psionics",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「クジラの子らは砂上に歌う」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "classicaloid",
+   "orig": "クラシカロイド",
+   "orig_en": "",
+   "ko": "클래시컬로이드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%81%B4%EB%9E%98%EC%8B%9C%EC%BB%AC%EB%A1%9C%EC%9D%B4%EB%93%9C",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 25화(2016~2017) · 2기 25화(2017~2018, NHK Eテレ)",
+   "by": "サンライズ·BN Pictures(감독 藤田陽一·馬引圭)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "베토벤과 모차르트를 자칭하는 두 사람이 지휘봉을 흔들면, 곡에서 이상한 힘이 터져 나온다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 25화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「クラシカロイド」 · 나무위키 「클래시컬로이드」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 동시 방영(나무위키)",
+    "src": "https://namu.wiki/w/%ED%81%B4%EB%9E%98%EC%8B%9C%EC%BB%AC%EB%A1%9C%EC%9D%B4%EB%93%9C"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gleipnir",
+   "orig": "グレイプニル",
+   "orig_en": "",
+   "ko": "글레이프니르",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B8%80%EB%A0%88%EC%9D%B4%ED%94%84%EB%8B%88%EB%A5%B4%28%EB%A7%8C%ED%99%94%29/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2015~2023, ヤングマガジンサード → 月刊ヤングマガジン) · TV 13화(2020)",
+   "by": "武田すん(원작), PINE JAM(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "인형탈 같은 괴물로 변하는 고교생이, 같은 괴물이 된 언니를 찾는 소녀와 '코인'의 비밀을 쫓는다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「グレイプニル (漫画)」 · 나무위키 「글레이프니르(만화)/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 자막 동시 방영(2020, 나무위키)",
+    "src": "https://namu.wiki/w/%EA%B8%80%EB%A0%88%EC%9D%B4%ED%94%84%EB%8B%88%EB%A5%B4%28%EB%A7%8C%ED%99%94%29/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": true
+  },
+  {
+   "id": "kemurikusa",
+   "orig": "ケムリクサ",
+   "orig_en": "",
+   "ko": "케무리쿠사",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%BC%80%EB%AC%B4%EB%A6%AC%EC%BF%A0%EC%82%AC",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "동인 애니메이션(2010~2012, ニコニコ動画) · TV 12화(2019)",
+   "by": "たつき(원작·감독), irodori·ヤオヨロズ",
+   "year": 2010,
+   "country": "일본",
+   "setting": "붉은 안개가 낀 폐허의 세계, 자매들이 붉은 벌레와 싸우며 물을 찾고, 기억 잃은 청년을 만난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2019) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「ケムリクサ」 · 나무위키 「케무리쿠사」",
+   "korean": {
+    "status": "있음",
+    "detail": "아마존 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2019%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "koi_sento",
+   "orig": "コイ☆セント",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA(2010 행사 상영, 2011 발매) — 헤이조 천도 1300년 기념",
+   "by": "サンライズ荻窪スタジオ(감독 森田修平)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "첨단 기술과 옛 절이 뒤섞인 2710년 나라, 수학여행 온 소년이 이상한 소녀와 흰 사슴을 만난다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2011) — 일본어 위키백과 분류 「2011年のOVA」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「コイ☆セント」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kokoro_connect",
+   "orig": "ココロコネクト",
+   "orig_en": "",
+   "ko": "하트 커넥트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%98%ED%8A%B8%20%EC%BB%A4%EB%84%A5%ED%8A%B8",
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2010~2013, ファミ通文庫) · 만화(2010) · TV 13화(2012)+OVA · 게임",
+   "by": "庵田定夏(원작), SILVER LINK.(애니메이션)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "고교 동아리 다섯 명의 영혼이 정체 모를 존재 탓에 서로 뒤바뀌는 현상을 겪는다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ココロコネクト」 · 나무위키 「하트 커넥트」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니박스 방영·대원씨아이 소설 정발(나무위키)",
+    "src": "https://namu.wiki/w/%ED%95%98%ED%8A%B8%20%EC%BB%A4%EB%84%A5%ED%8A%B8"
+   },
+   "borderline": true
+  },
+  {
+   "id": "concrete_revolutio",
+   "orig": "コンクリート・レボルティオ〜超人幻想〜",
+   "orig_en": "Concrete Revolutio ~ Superhuman Phantasmagoria",
+   "ko": "콘크리트 레볼루티오 초인환상",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EB%A0%88%EB%B3%BC%EB%A3%A8%ED%8B%B0%EC%98%A4%20%EC%B4%88%EC%9D%B8%ED%99%98%EC%83%81",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2015) · 『THE LAST SONG』 11화(2016)",
+   "by": "ボンズ(감독 水島精二), 會川昇(원작)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "다른 역사를 걸은 '신화' 연호의 고도 성장기 일본, 외계인·로봇·요괴까지 온갖 초인을 관리하는 '초인과'.",
+   "concepts": [
+    "alt_timeline",
+    "alien",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「コンクリート・レボルティオ〜超人幻想〜」 · 나무위키 「콘크리트 레볼루티오 초인환상」",
+   "korean": {
+    "status": "있음",
+    "detail": "KTH 판권, IPTV 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8%20%EB%A0%88%EB%B3%BC%EB%A3%A8%ED%8B%B0%EC%98%A4%20%EC%B4%88%EC%9D%B8%ED%99%98%EC%83%81"
+   },
+   "borderline": true
+  },
+  {
+   "id": "kiznaiver",
+   "orig": "キズナイーバー",
+   "orig_en": "",
+   "ko": "키즈나이버",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%EC%9D%B4%EB%B2%84",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2016) · 만화(2016)",
+   "by": "TRIGGER(감독 小林寛), 岡田麿里(원작)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "수술로 고통을 나눠 느끼게 된 고교생 일곱이, 감정까지 이어지는 실험의 대상이 된다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「キズナイーバー」 · 나무위키 「키즈나이버」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(나무위키 분기 목록)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2016%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gyo_ito",
+   "orig": "ギョ",
+   "orig_en": "",
+   "ko": "공포의 물고기",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B3%B5%ED%8F%AC%EC%9D%98%20%EB%AC%BC%EA%B3%A0%EA%B8%B0",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2001~, 週刊ビッグコミックスピリッツ) · OVA(2012)",
+   "by": "伊藤潤二(원작), Ufotable(OVA, 감독 平尾隆之)",
+   "year": 2001,
+   "country": "일본",
+   "setting": "다리가 달린 물고기와 상어 떼가 뭍으로 올라와 사람을 덮치고, 지독한 냄새와 함께 도시를 집어삼킨다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2012) — 일본어 위키백과 분류 「2012年のOVA」 · 일본어 위키백과 「ギョ」 · 나무위키 「공포의 물고기」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "samurai_flamenco",
+   "orig": "サムライフラメンコ",
+   "orig_en": "",
+   "ko": "사무라이 플라멩코",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%20%ED%94%8C%EB%9D%BC%EB%A9%A9%EC%BD%94",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 22화(2013~2014, ノイタミナ)",
+   "by": "マングローブ(감독 大森貴弘)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "초능력도 개조도 없이 '자칭 정의의 편'이 된 모델 청년이, 커져 가는 악과 맞서며 영웅이 되어 간다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 22화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「サムライフラメンコ」 · 나무위키 「사무라이 플라멩코」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2013, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%20%ED%94%8C%EB%9D%BC%EB%A9%A9%EC%BD%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "shikizakura",
+   "orig": "シキザクラ",
+   "orig_en": "",
+   "ko": "시키자쿠라",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%8B%9C%ED%82%A4%EC%9E%90%EC%BF%A0%EB%9D%BC",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2021) · 만화(2020)",
+   "by": "サブリメイション(원작·애니메이션, 감독 黒﨑豪)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "딴 세계에서 온 사람 먹는 '오니'에 맞서, 옛 비술과 첨단 기술을 합친 강화복의 고교생들이 싸운다.",
+   "concepts": [
+    "power_armor",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「パワードスーツ・プロテクターを題材としたアニメ作品」 · 일본어 위키백과 「シキザクラ (テレビアニメ)」 · 나무위키 「시키자쿠라」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2021, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%8B%9C%ED%82%A4%EC%9E%90%EC%BF%A0%EB%9D%BC"
+   },
+   "borderline": true
+  },
+  {
+   "id": "scared_rider_xechs",
+   "orig": "スカーレッドライダーゼクス",
+   "orig_en": "Scared Rider Xechs",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "PS2 연애 어드벤처 게임(2010) · 팬 디스크(2011) · 이식판 · TV 12화(2016)",
+   "by": "レッド・エンタテインメント(원작), サテライト(애니메이션, 감독 小森秀人)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "본능의 '붉은 세계' 생명체가 이성의 '푸른 세계'를 침공하자, 오키나와 방위 기관의 라이더들이 맞선다.",
+   "concepts": [
+    "other_realm",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「スカーレッドライダーゼクス」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sacred_seven",
+   "orig": "セイクリッドセブン",
+   "orig_en": "",
+   "ko": "세이크리드 세븐",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%84%B8%EC%9D%B4%ED%81%AC%EB%A6%AC%EB%93%9C%20%EC%84%B8%EB%B8%90",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2011) · 극장 『セイクリッドセブン 銀月の翼』(2012) · 만화(2011)",
+   "by": "サンライズ(감독 大橋誉志光), 矢立肇(원작)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "17년 전 지구에 떨어진 일곱 가지 돌이 닿은 이를 능력자로 바꾸고, 그 힘을 둘러싼 싸움이 벌어진다.",
+   "concepts": [
+    "psionics",
+    "awakening_substance"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「セイクリッドセブン」 · 나무위키 「세이크리드 세븐」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2011, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%84%B8%EC%9D%B4%ED%81%AC%EB%A6%AC%EB%93%9C%20%EC%84%B8%EB%B8%90"
+   },
+   "borderline": true
+  },
+  {
+   "id": "centaur_no_nayami",
+   "orig": "セントールの悩み",
+   "orig_en": "A Centaur's Life",
+   "ko": "센토루의 고민",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%84%BC%ED%86%A0%EB%A3%A8%EC%9D%98%20%EA%B3%A0%EB%AF%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(읽기 2010, 연재 2011~, 月刊COMICリュウ) · TV 12화(2017)",
+   "by": "村山慶(원작), 絵梦(애니메이션)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "켄타우로스 모습의 여고생이 친구들과 보내는 학교 일상, 그 뒤에는 관리가 엄한 사회가 있다.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「セントールの悩み」 · 나무위키 「센토루의 고민/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "KTH 판권, 애니플러스 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%84%BC%ED%86%A0%EB%A3%A8%EC%9D%98%20%EA%B3%A0%EB%AF%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": true
+  },
+  {
+   "id": "zom_100",
+   "orig": "ゾン100〜ゾンビになるまでにしたい100のこと〜",
+   "orig_en": "",
+   "ko": "좀100 ~좀비가 되기 전에 하고 싶은 100가지~",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A2%80100%20~%EC%A2%80%EB%B9%84%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%A0%84%EC%97%90%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20100%EA%B0%80%EC%A7%80~",
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2018~, 月刊サンデーGX) · TV 12화(2023) · 실사 영화(2023)",
+   "by": "麻生羽呂(원작), 高田康太郎(그림), BUG FILMS(애니메이션)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "거리가 좀비로 넘친 아침, 지친 회사원이 출근 안 해도 된다며 좀비가 되기 전 하고 싶은 일을 해 나간다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「ゾン100〜ゾンビになるまでにしたい100のこと〜」 · 나무위키 「좀100 ~좀비가 되기 전에 하고 싶은 100가지~」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 판권·만화 정식 발매(나무위키)",
+    "src": "https://namu.wiki/w/%EC%A2%80100%20~%EC%A2%80%EB%B9%84%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%A0%84%EC%97%90%20%ED%95%98%EA%B3%A0%20%EC%8B%B6%EC%9D%80%20100%EA%B0%80%EC%A7%80~"
+   },
+   "borderline": true
+  },
+  {
+   "id": "time_travel_shoujo",
+   "orig": "タイムトラベル少女〜マリ・ワカと8人の科学者たち〜",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2016) — 板倉聖宣 『発明発見物語全集』 바탕의 교육 애니메이션",
+   "by": "ワオワールド(감독 ヤマサキオサム)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "실종된 아버지가 준 펜던트의 힘으로, 중학생 소녀가 여러 시대로 시간을 건너 과학자 여덟 명을 만난다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「タイムトラベル少女〜マリ・ワカと8人の科学者たち〜」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "sora_no_woto",
+   "orig": "ソ・ラ・ノ・ヲ・ト",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션",
+    "만화",
+    "게임"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화+2화(2010) · 만화(2009) · 게임(2010)",
+   "by": "A-1 Pictures(감독 神戸守), Paradores(원작)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "'대단절' 전쟁으로 땅이 거칠어진 먼 미래, 국경 성채의 소녀 소대가 고장 난 다리 전차와 나팔로 지낸다.",
+   "concepts": [
+    "catastrophe",
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2010) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ソ・ラ・ノ・ヲ・ト」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "space_idol_spei",
+   "orig": "スペアイ SPACE IDOL",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 쇼트 6화(2023, DMM TV)",
+   "by": "糸曽賢志(감독), KENJISTUDIO·REGARO",
+   "year": 2023,
+   "country": "일본",
+   "setting": "지구인·더듬이 달린 외계인·파충류형·털북숭이 괴물로 된 '우주 제일' 아이돌 그룹의 무대 뒤 소동.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2023년 웹 애니메이션 — 일본어 위키백과 분류 「2023年のWebアニメ」 · 일본어 위키백과 「スペアイ SPACE IDOL」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "darwins_game",
+   "orig": "ダーウィンズゲーム",
+   "orig_en": "Darwin's Game",
+   "ko": "다윈즈 게임",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8B%A4%EC%9C%88%EC%A6%88%20%EA%B2%8C%EC%9E%84",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2012~2023, 別冊少年チャンピオン) · TV 11화(2020)",
+   "by": "FLIPFLOPs(원작), Nexus(애니메이션, 감독 徳本善信)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "수수께끼 앱의 초대를 받은 고교생이 '시길'이라는 이능을 얻고, 능력자끼리 죽고 죽이는 게임에 휘말린다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 11화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「ダーウィンズゲーム」 · 나무위키 「다윈즈 게임」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 판권(2020년 1월 분기), 만화 대원씨아이 정식 발간(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2020%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "deadman_wonderland",
+   "orig": "デッドマン・ワンダーランド",
+   "orig_en": "Deadman Wonderland",
+   "ko": "데드맨 원더랜드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8D%B0%EB%93%9C%EB%A7%A8%20%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2007~2013, 月刊少年エース) · TV 12화(2011)",
+   "by": "片岡人生·近藤一馬(원작), マングローブ(애니메이션, 감독 初見浩一)",
+   "year": 2007,
+   "country": "일본",
+   "setting": "대지진 10년 뒤, 누명을 쓴 소년이 피를 무기로 쓰는 능력자들이 갇힌 민영 감옥 놀이공원에 보내진다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「デッドマン・ワンダーランド」 · 나무위키 「데드맨 원더랜드」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2011년 4월 분기), 만화 대원씨아이 완결 정식 발간(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2011%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "tomica_earth_granner",
+   "orig": "トミカ絆合体 アースグランナー",
+   "orig_en": "",
+   "ko": "토미카 유대합체 어스그랜너",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%86%A0%EB%AF%B8%EC%B9%B4%20%EC%9C%A0%EB%8C%80%ED%95%A9%EC%B2%B4%20%EC%96%B4%EC%8A%A4%EA%B7%B8%EB%9E%9C%EB%84%88",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 51화(2020~2021)",
+   "by": "タカラトミー(원작), OLM TEAM INOUE(애니메이션, 감독 ウシロシンジ)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "지구 자전 에너지를 노린 우주 폭주족이 쳐들어오자, 쌍둥이 형제가 뜻을 지닌 기계와 짝을 이뤄 맞선다.",
+   "concepts": [
+    "alien_invasion",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 51화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「トミカ絆合体 アースグランナー」 · 나무위키 「토미카 유대합체 어스그랜너」",
+   "korean": {
+    "status": "있음",
+    "detail": "투니버스 판권, 한국어 더빙판 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2020%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "dokyu_hentai_xeros",
+   "orig": "ド級編隊エグゼロス",
+   "orig_en": "",
+   "ko": "초급편대 에그제로스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B4%88%EA%B8%89%ED%8E%B8%EB%8C%80%20%EC%97%90%EA%B7%B8%EC%A0%9C%EB%A1%9C%EC%8A%A4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2017~2021, ジャンプスクエア) · TV 12화(2020)",
+   "by": "きただりょうま(원작), project No.9(애니메이션, 감독 神保昌登)",
+   "year": 2017,
+   "country": "일본",
+   "setting": "사람의 활력인 야한 기운을 빨아먹는 침략자 '기생충'에 맞서, 고교생 영웅들이 그 기운을 힘 삼아 싸운다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「ロマンティック・コメディSFアニメ」 · 일본어 위키백과 「ド級編隊エグゼロス」 · 나무위키 「초급편대 에그제로스」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "knights_and_magic",
+   "orig": "ナイツ&マジック",
+   "orig_en": "Knight's & Magic",
+   "ko": "나이츠 & 매직",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%98%EC%9D%B4%EC%B8%A0%20%26%20%EB%A7%A4%EC%A7%81/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "웹 소설(2010~, 小説家になろう) · 라이트 노벨(ヒーロー文庫) · 만화(2016~) · TV 13화(2017)",
+   "by": "天酒之瓢(원작), エイトビット(애니메이션, 감독 山本裕介)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "기계광 프로그래머가 마법과 마수의 세계에 다시 태어나, 거대 인형 병기 '실루엣 나이트'를 만들어 간다.",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 13화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「ナイツ&マジック」 · 나무위키 「나이츠 & 매직/애니메이션」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2017, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%82%98%EC%9D%B4%EC%B8%A0%20%26%20%EB%A7%A4%EC%A7%81/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98"
+   },
+   "borderline": true
+  },
+  {
+   "id": "nandaka_veronica",
+   "orig": "ナンダカベロニカ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 10화(2014, NHK Eテレ)",
+   "by": "サイクロングラフィックス(감독 加藤道哉)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "우주 최대 통신 회사 사장의 딸이 로봇 시종과 지구에 와서, 안테나 계약을 맺을 '지구의 주인'을 찾는다.",
+   "concepts": [
+    "alien",
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 10화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ナンダカベロニカ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "nobunagun",
+   "orig": "ノブナガン",
+   "orig_en": "NOBUNAGUN",
+   "ko": "노부나건",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%85%B8%EB%B6%80%EB%82%98%EA%B1%B4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2011~2015, コミック アース・スター) · TV 13화(2014)",
+   "by": "久正人(원작), ブリッジ(애니메이션, 감독 近藤信宏)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "지구 생태계를 위협하는 우주 괴수 '진화침략체'에 맞서, 위인의 혼을 무기로 바꾸는 이들이 싸운다.",
+   "concepts": [
+    "space_beast",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ノブナガン」 · 나무위키 「노부나건」",
+   "korean": {
+    "status": "없음",
+    "detail": "나무위키: 국내 정식 방영이 없는 작품(애니메이션)",
+    "src": "https://namu.wiki/w/%EB%85%B8%EB%B6%80%EB%82%98%EA%B1%B4"
+   },
+   "borderline": false
+  },
+  {
+   "id": "haru_2013",
+   "orig": "ハル",
+   "orig_en": "",
+   "ko": "하루",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%98%EB%A3%A8%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "중편 극장 애니메이션(2013, 松竹 배급) · 만화(2013)",
+   "by": "WIT STUDIO(감독 牧原亮太郎, 각본 木皿泉)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "근미래 교토, 연인을 잃고 마음을 닫은 이의 곁에 그 연인을 닮은 로봇이 찾아와 머문다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(2013) — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 분류 「自律ロボットを題材としたアニメ映画」 · 일본어 위키백과 「ハル (アニメ)」 · 나무위키 「하루(애니메이션)」",
+   "korean": {
+    "status": "있음",
+    "detail": "2013년 11월 한국 자막판 개봉(나무위키)",
+    "src": "https://namu.wiki/w/%ED%95%98%EB%A3%A8%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29"
+   },
+   "borderline": false
+  },
+  {
+   "id": "yurei_deco",
+   "orig": "ユーレイデコ",
+   "orig_en": "",
+   "ko": "유레이데코",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9C%A0%EB%A0%88%EC%9D%B4%EB%8D%B0%EC%BD%94",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2022) · 만화(2022)",
+   "by": "サイエンスSARU(감독 霜山朋久, 시리즈 구성 佐藤大)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "섬 전체가 전뇌화된 정보 도시, 사람들은 시각 장치 '데코'로 현실과 가상 공간을 오가며 산다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「ユーレイデコ」 · 나무위키 「유레이데코」",
+   "korean": {
+    "status": "있음",
+    "detail": "KTH 판권, 애니플러스 방영(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2022%EB%85%84%207%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "regalia_tss",
+   "orig": "レガリア The Three Sacred Stars",
+   "orig_en": "",
+   "ko": "레갈리아 The Three Sacred Stars",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A0%88%EA%B0%88%EB%A6%AC%EC%95%84%20The%20Three%20Sacred%20Stars",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2016, 4화 뒤 중단했다가 다시 방영)",
+   "by": "アクタス(감독 登坂晋), Delegation of Enastoria(원작)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "12년 전 한 왕국의 도시가 텅 빈 사건 뒤, 이웃 황국에 사는 두 소녀가 거대 병기 '레갈리아'와 엮인다.",
+   "concepts": [
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「レガリア The Three Sacred Stars」 · 나무위키 「레갈리아 The Three Sacred Stars」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 자막 동시 방영(2016, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%A0%88%EA%B0%88%EB%A6%AC%EC%95%84%20The%20Three%20Sacred%20Stars"
+   },
+   "borderline": false
+  },
+  {
+   "id": "level_e",
+   "orig": "レベルE",
+   "orig_en": "LEVEL E",
+   "ko": "레벨E",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%A0%88%EB%B2%A8E",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1995~1997, 週刊少年ジャンプ) · TV 13화(2011)",
+   "by": "冨樫義博(원작), スタジオぴえろ·david production(애니메이션, 감독 加藤敏幸)",
+   "year": 1995,
+   "country": "일본",
+   "setting": "야마가타의 한 고교생 방에 눌러앉은 외계 별의 바보 왕자가, 심심풀이 장난으로 지구에 소동을 일으킨다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「レベルE」 · 나무위키 「레벨E」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2011년 1월 분기), 만화 애장판 정식 발매(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2011%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "one_punch_man",
+   "orig": "ワンパンマン",
+   "orig_en": "One-Punch Man",
+   "ko": "원펀맨",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9B%90%ED%8E%80%EB%A7%A8",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "웹 만화(2009~) · 리메이크 만화(2012~, となりのヤングジャンプ) · TV 1기(2015)·2기(2019)·3기(2025)",
+   "by": "ONE(원작), 村田雄介(리메이크 그림), マッドハウス(1기)·J.C.STAFF(2기~)",
+   "year": 2009,
+   "country": "일본",
+   "setting": "괴인이 날뛰는 세상, 혹독한 훈련으로 머리털을 다 잃고 어떤 적도 주먹 한 방에 끝내게 된 사내의 영웅 일.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 12화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「ワンパンマン」 · 나무위키 「원펀맨」",
+   "korean": {
+    "status": "있음",
+    "detail": "KTH 판권(1기·2기), 리메이크 만화 대원씨아이 정식 발간(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2015%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "vampire_in_the_garden",
+   "orig": "ヴァンパイア・イン・ザ・ガーデン",
+   "orig_en": "Vampire in the Garden",
+   "ko": "정원의 뱀파이어",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A0%95%EC%9B%90%EC%9D%98%20%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "웹 5화(2022, Netflix)",
+   "by": "WIT STUDIO(감독 牧原亮太郎)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "흡혈귀와의 전쟁에 져 빛의 벽 친 도시 하나에 몰린 인류, 한 소녀가 흡혈귀 여왕과 '낙원'을 찾아 떠난다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「ヴァンパイア・イン・ザ・ガーデン」 · 나무위키 「정원의 뱀파이어」",
+   "korean": {
+    "status": "있음",
+    "detail": "넷플릭스 판권(2022년 4월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2022%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "fumetsu_no_anata_e",
+   "orig": "不滅のあなたへ",
+   "orig_en": "To Your Eternity",
+   "ko": "불멸의 그대에게",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B6%88%EB%A9%B8%EC%9D%98%20%EA%B7%B8%EB%8C%80%EC%97%90%EA%B2%8C",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2016~, 週刊少年マガジン) · TV 1기 20화(2021)·2기 20화(2022)·3기 22화(2025)",
+   "by": "大今良時(원작), ブレインズ・ベース(1기)·ドライブ(2기~)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "관찰자가 땅에 던진 '구체'가 닿은 것의 모습을 옮겨 받으며, 죽지 않는 몸으로 사람들 곁을 떠돈다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 20화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「不滅のあなたへ」 · 나무위키 「불멸의 그대에게」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(1기·2기, 나무위키 분기 문서)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2021%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "my_hero_academia",
+   "orig": "僕のヒーローアカデミア",
+   "orig_en": "My Hero Academia",
+   "ko": "나의 히어로 아카데미아",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%98%EC%9D%98%20%ED%9E%88%EC%96%B4%EB%A1%9C%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%EC%95%84",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2014~2024, 週刊少年ジャンプ) · TV(2016~2025) · 극장판 · 외전",
+   "by": "堀越耕平(원작), ボンズ(애니메이션)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "대부분이 '개성'이라는 특이 능력을 타고나는 사회, 능력 없이 태어난 소년이 영웅 학교에서 꿈을 키운다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 13화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「僕のヒーローアカデミア (アニメ)」 · 나무위키 「나의 히어로 아카데미아」",
+   "korean": {
+    "status": "있음",
+    "detail": "대원방송 판권(1기~7기, 나무위키 분기 문서)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2016%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "darwin_jihen",
+   "orig": "ダーウィン事変",
+   "orig_en": "",
+   "ko": "다윈 사변",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8B%A4%EC%9C%88%20%EC%82%AC%EB%B3%80",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2020~, 月刊アフタヌーン) · TV 13화(2026)",
+   "by": "うめざわしゅん(원작), ベルノックスフィルムズ(애니메이션, 감독 津田尚克)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "미국, 유전자 조작으로 사람과 침팬지에게서 난 '휴먼지' 소년이 고교에 가서 동물 해방 테러 단체와 얽힌다.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2026) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 「ダーウィン事変」 · 나무위키 「다윈 사변」",
+   "korean": {
+    "status": "있음",
+    "detail": "나무위키 2026년 1월 분기 문서에 아마존 송출 표기",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2026%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "technoroid",
+   "orig": "テクノロイド",
+   "orig_en": "",
+   "ko": "테크노로이드 OVERMIND",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%85%8C%ED%81%AC%EB%85%B8%EB%A1%9C%EC%9D%B4%EB%93%9C%20OVERMIND",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "모바일 게임 『テクノロイド ユニゾンハート』(2022) · TV 12화 『テクノロイド オーバーマインド』(2023)",
+   "by": "サイバーエージェント·エイベックス・ピクチャーズ·Elements Garden(원작), 動画工房(애니메이션)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "이상 기후로 땅 대부분이 물에 잠긴 세계, 사람을 닮은 안드로이드들이 탑 '바벨'에서 공연 대결을 펼친다.",
+   "concepts": [
+    "android",
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「テクノロイド」 · 나무위키 「테크노로이드 OVERMIND」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2023, 나무위키)",
+    "src": "https://namu.wiki/w/%ED%85%8C%ED%81%AC%EB%85%B8%EB%A1%9C%EC%9D%B4%EB%93%9C%20OVERMIND"
+   },
+   "borderline": false
+  },
+  {
+   "id": "tesla_note",
+   "orig": "テスラノート",
+   "orig_en": "TESLA NOTE",
+   "ko": "테슬라 노트",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%85%8C%EC%8A%AC%EB%9D%BC%20%EB%85%B8%ED%8A%B8",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2021~2022, 週刊少年マガジン·マガジンポケット) · TV 13화(2021)",
+   "by": "西田征史·久保忠佳(원작), 三宮宏太(그림), ギャンビット(애니메이션, 감독 福田道生)",
+   "year": 2021,
+   "country": "일본",
+   "setting": "테슬라가 발명 기록을 남긴 수정 '테슬라의 조각'을, 닌자의 후손인 첩보원 소녀가 되찾으러 다닌다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 13화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「テスラノート」 · 나무위키 「테슬라 노트」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2021년 10월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2021%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "sekai_seifuku_zvezda",
+   "orig": "世界征服〜謀略のズヴィズダー〜",
+   "orig_en": "",
+   "ko": "세계정복 ~모략의 즈베즈다~",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%84%B8%EA%B3%84%EC%A0%95%EB%B3%B5%20~%EB%AA%A8%EB%9E%B5%EC%9D%98%20%EC%A6%88%EB%B2%A0%EC%A6%88%EB%8B%A4~",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화+OVA 1화(2014) · 만화(2014)",
+   "by": "hunting cap brothers(원작), A-1 Pictures(감독 岡村天斎)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "'도쿄 전국시대'로 어지러운 일본, 가출한 중학생이 고대 문명 기술을 쓰는 비밀 결사 '즈베즈다'에 든다.",
+   "concepts": [
+    "precursor"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「世界征服〜謀略のズヴィズダー〜」 · 나무위키 「세계정복 ~모략의 즈베즈다~」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2014, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%84%B8%EA%B3%84%EC%A0%95%EB%B3%B5%20~%EB%AA%A8%EB%9E%B5%EC%9D%98%20%EC%A6%88%EB%B2%A0%EC%A6%88%EB%8B%A4~"
+   },
+   "borderline": true
+  },
+  {
+   "id": "lychee_hikari_club",
+   "orig": "ライチ☆光クラブ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2005, マンガ・エロティクス・エフ) — 바탕은 東京グランギニョル 연극 『ライチ光クラブ』(1985·1986) · 단편 TV 『ライチDE光クラブ』 8화(2012) · 실사 영화(2016)",
+   "by": "古屋兎丸(만화), 東京グランギニョル(원작 연극)",
+   "year": 2005,
+   "country": "일본",
+   "setting": "동네 구석 비밀 기지의 소년 아홉이 기계 '라이치'를 만들고, 기계는 '아름다운 것'으로 소녀를 데려온다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 8화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「ライチ☆光クラブ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "otohime_niman_nen",
+   "orig": "乙姫二万年",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "중편 극장 애니메이션(2019, 36분)",
+   "by": "にいやなおゆき(감독)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "낡은 아파트에 2만 년 뒤에서 왔다는 여자가 눌러살고, 미래 괴수 영화를 보러 온 외계인까지 끼는 소동.",
+   "concepts": [
+    "time_travel",
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(2019) — 일본어 위키백과 분류 「2019年のアニメ映画」 · 일본어 위키백과 「乙姫二万年」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "senjutsu_orion",
+   "orig": "仙術超攻殻ORION",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(1990~1991, コミックガイア) · 애니메이션 영상(2010, L4C)",
+   "by": "士郎正宗(원작), L4C(애니메이션, 감독 青木康浩)",
+   "year": 1990,
+   "country": "일본",
+   "setting": "여러 행성에 걸친 은하 제국이 백성의 욕심으로 위기에 빠지고, 악업을 봉인할 '식'을 두고 다툼이 인다.",
+   "concepts": [
+    "galactic_empire"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "2010년 애니메이션 영상 — 일본어 위키백과 분류 「2010年のアニメ映画」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「仙術超攻殻ORION」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kyujitsu_no_warumono_san",
+   "orig": "休日のわるものさん",
+   "orig_en": "",
+   "ko": "휴일의 악당",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%9C%B4%EC%9D%BC%EC%9D%98%20%EC%95%85%EB%8B%B9",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(트위터·pixiv 발표 뒤 2018~, ガンガンpixiv) · TV 12화(2024)",
+   "by": "森川侑(원작), シンエイ動画·SynergySP(애니메이션, 감독 小高義規)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "우주에서 온 악의 조직과 지구 수호 레인저가 싸우는 세계에서, 조직 간부의 싸우지 않는 휴일을 그린다.",
+   "concepts": [
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2024) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「休日のわるものさん」 · 나무위키 「휴일의 악당」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2024년 1월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2024%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "ore_twintail",
+   "orig": "俺、ツインテールになります。",
+   "orig_en": "",
+   "ko": "저, 트윈 테일이 됩니다",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A0%80%2C%20%ED%8A%B8%EC%9C%88%20%ED%85%8C%EC%9D%BC%EC%9D%B4%20%EB%90%A9%EB%8B%88%EB%8B%A4",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2012~2022, ガガガ文庫) · TV 12화(2014)",
+   "by": "水沢夢(원작), プロダクションアイムズ(애니메이션, 감독 神戸洋行)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "트윈테일을 사랑하는 고교생이, 세상의 트윈테일을 노리고 이세계에서 온 침략자에 맞서 변신 영웅이 된다.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「俺、ツインテールになります。」 · 나무위키 「저, 트윈 테일이 됩니다」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2014년 10월 분기), 소설 NT노벨 정식 발매(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2014%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "boku_to_roboco",
+   "orig": "僕とロボコ",
+   "orig_en": "",
+   "ko": "나와 로보코",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%82%98%EC%99%80%20%EB%A1%9C%EB%B3%B4%EC%BD%94",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2020~, 週刊少年ジャンプ) · TV 28화(2022~2023) · 극장판(2025)",
+   "by": "宮崎周平(원작), ぎゃろっぷ(애니메이션, 감독 大地丙太郎)",
+   "year": 2020,
+   "country": "일본",
+   "setting": "20XX년, 초고성능 메이드 로봇이 집집마다 퍼진 세상, 한 평범한 소년 집에 엉뚱한 메이드 로봇이 온다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 28화(2022) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「自律ロボットを題材としたアニメ作品」 · 일본어 위키백과 「僕とロボコ」 · 나무위키 「나와 로보코」",
+   "korean": {
+    "status": "있음",
+    "detail": "한국어 더빙판 있음(나무위키)",
+    "src": "https://namu.wiki/w/%EB%82%98%EC%99%80%20%EB%A1%9C%EB%B3%B4%EC%BD%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "deatte_5byou_de_battle",
+   "orig": "出会って5秒でバトル",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "웹 만화 · 리메이크 만화(2015~, 裏サンデー·マンガワン) · TV 12화(2021)",
+   "by": "はらわたさいぞう(원작), みやこかしわ(리메이크 그림), SynergySP·VEGA ENTERTAINMENT(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "수수께끼 시설에 끌려온 고교생들이 저마다 받은 '능력'으로 서로 싸우는 프로그램에 내몰린다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「出会って5秒でバトル」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "joukamachi_dandelion",
+   "orig": "城下町のダンデライオン",
+   "orig_en": "",
+   "ko": "성 아랫마을의 단델리온",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%84%B1%20%EC%95%84%EB%9E%AB%EB%A7%88%EC%9D%84%EC%9D%98%20%EB%8B%A8%EB%8D%B8%EB%A6%AC%EC%98%A8",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "4컷 만화(2012~, まんがタイムきららミラク 등) · TV 12화(2015)",
+   "by": "春日歩(원작), プロダクションアイムズ(애니메이션, 감독 秋田谷典昭)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "평범한 동네에 사는 왕가의 형제자매 아홉이 저마다 특수 능력을 지닌 채 다음 왕을 뽑는 선거에 나선다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「城下町のダンデライオン」 · 나무위키 「성 아랫마을의 단델리온」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 판권(2015년 7월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2015%EB%85%84%207%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "kouya_no_kotobuki",
+   "orig": "荒野のコトブキ飛行隊",
+   "orig_en": "",
+   "ko": "황야의 코토부키 비행대",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%99%A9%EC%95%BC%EC%9D%98%20%EC%BD%94%ED%86%A0%EB%B6%80%ED%82%A4%20%EB%B9%84%ED%96%89%EB%8C%80",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2019) · 완전판 극장(2020) · 만화(2019)",
+   "by": "GEMBA(감독 水島努)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "황야가 이어지는 세계 '이지츠', 하늘길 교역 비행선을 공적에게서 지키는 여성 조종사 경호대의 활약.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2019) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「スチームパンクアニメ」 · 일본어 위키백과 「荒野のコトブキ飛行隊」 · 나무위키 「황야의 코토부키 비행대」",
+   "korean": {
+    "status": "없음",
+    "detail": "나무위키: 애니플러스·애니맥스 코리아가 수입하지 않아 국내 미방영",
+    "src": "https://namu.wiki/w/%ED%99%A9%EC%95%BC%EC%9D%98%20%EC%BD%94%ED%86%A0%EB%B6%80%ED%82%A4%20%EB%B9%84%ED%96%89%EB%8C%80"
+   },
+   "borderline": true
+  },
+  {
+   "id": "ushinawareta_mirai",
+   "orig": "失われた未来を求めて",
+   "orig_en": "",
+   "ko": "잃어버린 미래를 찾아서",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C",
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "성인용 연애 어드벤처 게임(2010, TRUMPLE) · 만화(2011) · TV 12화(2014)",
+   "by": "アトリエハイキー(원작), feel.(애니메이션, 감독 ホソダナオト)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "2008년 가을, 교사에 쓰러져 있던 수수께끼 소녀가 천문학회에 들고, 부원들은 학교의 괴소문을 조사한다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「失われた未来を求めて」 · 나무위키 「잃어버린 미래를 찾아서」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2014년 10월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2014%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "uchuu_nanchara_kotetsu",
+   "orig": "宇宙なんちゃら こてつくん",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "웹 만화(2019~) · TV 64화(2021~2023, NHK Eテレ) · 극장판(2026)",
+   "by": "にしむらゆうじ(원작), ファンワークス(애니메이션, 감독 作田ハズム)",
+   "year": 2019,
+   "country": "일본",
+   "setting": "사람이 달에 간 지 50여 년, 동물 나라가 달에 깃발을 꽂으려 세운 우주 학교에서 아이들이 꿈을 키운다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 64화(2021) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「宇宙を舞台としたアニメ作品」 · 일본어 위키백과 「宇宙なんちゃら こてつくん」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "koi_to_uso",
+   "orig": "恋と嘘",
+   "orig_en": "Love and Lies",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션",
+    "영화"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2014~2022, マンガボックス) · TV 12화(2017) · 실사 영화(2017)",
+   "by": "ムサヲ(원작), ライデンフィルム(애니메이션, 감독 宅野誠起)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "초저출산 대책법에 따라 16세가 되면 나라가 유전 정보로 정한 짝과 맺어져야 하는 근미래 일본.",
+   "concepts": [
+    "control_society"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2017) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「恋と嘘」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "modaete_yo_adam",
+   "orig": "悶えてよ、アダムくん",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2022~, COMICゴイチ) · TV 8화(2024)",
+   "by": "トヨ(원작), studio HōKIBOSHI(애니메이션, 감독 昆野比遊太)",
+   "year": 2022,
+   "country": "일본",
+   "setting": "모든 남자가 발기 부전이 된 세계, 홀로 멀쩡한 남학생이 여학생뿐인 학교로 전학해 정체가 드러난다.",
+   "concepts": [
+    "infertility"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 8화(2024) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「悶えてよ、アダムくん」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "mirai_nikki",
+   "orig": "未来日記",
+   "orig_en": "Future Diary",
+   "ko": "미래일기",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AF%B8%EB%9E%98%EC%9D%BC%EA%B8%B0",
+   "media": [
+    "만화",
+    "애니메이션",
+    "드라마"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2006~2011, 月刊少年エース) · TV 26화(2011~2012) · 실사 드라마 『未来日記-ANOTHER:WORLD-』",
+   "by": "えすのサカエ(원작), asread.(애니메이션, 감독 細田直人)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "미래가 적히는 휴대전화 일기를 가진 12명이, 다음 '시공왕' 자리를 두고 서로 죽이는 생존 게임에 든다.",
+   "concepts": [
+    "precognition"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 26화(2011) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「タイムトラベルを題材としたアニメ作品」 · 일본어 위키백과 「未来日記 (漫画)」 · 나무위키 「미래일기」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2011년 10월 분기), 만화 정식 발간(나무위키)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2011%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "tokyo_esp",
+   "orig": "東京ESP",
+   "orig_en": "",
+   "ko": "도쿄 ESP",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8F%84%EC%BF%84%20ESP",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2010~, 月刊少年エース) · TV 12화(2014)",
+   "by": "瀬川はじめ(원작), XEBEC(애니메이션, 감독 高柳滋仁)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "하늘 나는 펭귄에 쫓기던 빛나는 물고기가 몸에 들어오며, 가난한 여고생이 물체를 통과하는 초능력을 얻는다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「東京ESP」 · 나무위키 「도쿄 ESP」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 판권(2014년 7월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2014%EB%85%84%207%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "toujima_tanzaburou",
+   "orig": "東島丹三郎は仮面ライダーになりたい",
+   "orig_en": "",
+   "ko": "토지마 탄자부로는 가면라이더가 되고 싶어",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%86%A0%EC%A7%80%EB%A7%88%20%ED%83%84%EC%9E%90%EB%B6%80%EB%A1%9C%EB%8A%94%20%EA%B0%80%EB%A9%B4%EB%9D%BC%EC%9D%B4%EB%8D%94%EA%B0%80%20%EB%90%98%EA%B3%A0%20%EC%8B%B6%EC%96%B4",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2018~, 月刊ヒーローズ·コミプレ) · TV 24화(2025~2026)",
+   "by": "柴田ヨクサル(원작, 협력 石森プロ·東映), ライデンフィルム(애니메이션, 감독 池添隆博)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "가면라이더를 너무 사랑해 단련만 해 온 마흔 살 남자가, 악의 조직 쇼커가 실제로 있음을 알게 된다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 24화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 「東島丹三郎は仮面ライダーになりたい」 · 나무위키 「토지마 탄자부로는 가면라이더가 되고 싶어」",
+   "korean": {
+    "status": "있음",
+    "detail": "나무위키 2025년 10월 분기 문서에 대원 표기",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2025%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "gokukoku_no_brynhildr",
+   "orig": "極黒のブリュンヒルデ",
+   "orig_en": "Brynhildr in the Darkness",
+   "ko": "극흑의 브룬힐데",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B7%B9%ED%9D%91%EC%9D%98%20%EB%B8%8C%EB%A3%AC%ED%9E%90%EB%8D%B0",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2012~2016, 週刊ヤングジャンプ) · TV 13화(2014)",
+   "by": "岡本倫(원작), アームス(애니메이션, 감독 今泉賢一)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "인체 실험 연구소에서 달아난 초능력 소녀 '마법사'들과, 그들을 숨겨 주는 기억력 좋은 고교생의 이야기.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「極黒のブリュンヒルデ」 · 나무위키 「극흑의 브룬힐데」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2014년 4월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2014%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "towa_no_yuugure",
+   "orig": "永久のユウグレ",
+   "orig_en": "",
+   "ko": "영원한 황혼",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%98%81%EC%9B%90%ED%95%9C%20%ED%99%A9%ED%98%BC",
+   "media": [
+    "애니메이션",
+    "만화"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2025) · 만화(2025)",
+   "by": "P.A.WORKS(감독 津田尚克), Project FT(원작)",
+   "year": 2025,
+   "country": "일본",
+   "setting": "2038년에서 200년 뒤 깨어난 청년 앞에, 나라가 해체된 황폐한 세계와 옛 연인 닮은 안드로이드가 있다.",
+   "concepts": [
+    "cryosleep",
+    "android"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「永久のユウグレ」 · 나무위키 「영원한 황혼」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 자막 동시 방영(2025, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%98%81%EC%9B%90%ED%95%9C%20%ED%99%A9%ED%98%BC"
+   },
+   "borderline": false
+  },
+  {
+   "id": "eien_no_831",
+   "orig": "永遠の831",
+   "orig_en": "",
+   "ko": "영원의 831",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%98%81%EC%9B%90%EC%9D%98%20831",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "특별 방송·극장(2022, WOWOW 개국 30주년)",
+   "by": "神山健治(감독·각본), CRAFTAR",
+   "year": 2022,
+   "country": "일본",
+   "setting": "큰 재앙 뒤 혼란이 가시지 않은 도쿄, 주변 시간을 멈춰 버리는 청년이 같은 힘을 지닌 소녀를 만난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2022년 특별 방송 — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「永遠の831」 · 나무위키 「영원의 831」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "shoumetsu_toshi",
+   "orig": "消滅都市",
+   "orig_en": "",
+   "ko": "소멸도시",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%86%8C%EB%A9%B8%EB%8F%84%EC%8B%9C",
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "모바일 게임(2014~) · TV 12화(2019)",
+   "by": "Wright Flyer Studios(원작), マッドハウス(애니메이션, 감독 宮繁之)",
+   "year": 2014,
+   "country": "일본",
+   "setting": "3년 전 한 도시가 통째로 사라진 뒤, 운반꾼 청년이 그곳의 유일한 생존자 소녀를 사라진 땅으로 데려간다.",
+   "concepts": [],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2019) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「消滅都市」 · 나무위키 「소멸도시」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2019년 4월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2019%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "enen_no_shouboutai",
+   "orig": "炎炎ノ消防隊",
+   "orig_en": "Fire Force",
+   "ko": "불꽃 소방대",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B6%88%EA%BD%83%20%EC%86%8C%EB%B0%A9%EB%8C%80",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2015~2022, 週刊少年マガジン) · TV 1기(2019)·2기(2020)·3기(2025~2026)",
+   "by": "大久保篤(원작), david production(애니메이션)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "대재앙 뒤 사람이 갑자기 불타 괴물이 되는 현상이 퍼진 '도쿄 황국', 이를 막는 특수 소방대의 싸움.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "큼",
+   "notability": "TV 24화(2019) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「炎炎ノ消防隊」 · 나무위키 「불꽃 소방대」",
+   "korean": {
+    "status": "있음",
+    "detail": "만화 학산문화사 정식 발간·네이버 시리즈 연재(나무위키)",
+    "src": "https://namu.wiki/w/%EB%B6%88%EA%BD%83%20%EC%86%8C%EB%B0%A9%EB%8C%80"
+   },
+   "borderline": true
+  },
+  {
+   "id": "munou_na_nana",
+   "orig": "無能なナナ",
+   "orig_en": "",
+   "ko": "무능한 나나",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AC%B4%EB%8A%A5%ED%95%9C%20%EB%82%98%EB%82%98",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2016~2026, 月刊少年ガンガン) · TV 13화(2020)",
+   "by": "るーすぼーい(원작), 古屋庵(그림), ブリッジ(애니메이션, 감독 石平信司)",
+   "year": 2016,
+   "country": "일본",
+   "setting": "'인류의 적'이라는 괴물과 싸우기 위해 외딴섬 학교에 모인 능력자 소년소녀들의 이야기.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2020) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「無能なナナ」 · 나무위키 「무능한 나나」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2020년 10월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2020%EB%85%84%2010%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mujaki_no_rakuen",
+   "orig": "無邪気の楽園",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2011~2017, ヤングアニマル嵐) · OVA(2014)",
+   "by": "雨蘭(원작)",
+   "year": 2011,
+   "country": "일본",
+   "setting": "백수나 다름없는 스물다섯 청년이 '이공간과 이어진다'는 모교 수영장에서 90년대 무렵으로 거슬러 간다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2014) — 일본어 위키백과 분류 「2014年のOVA」 · 일본어 위키백과 「無邪気の楽園」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kotoura_san",
+   "orig": "琴浦さん",
+   "orig_en": "",
+   "ko": "코토우라 양",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%BD%94%ED%86%A0%EC%9A%B0%EB%9D%BC%20%EC%96%91",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "웹 만화 · 단행본(2010) · TV 12화(2013)",
+   "by": "えのきづ(원작), AIC Classic(애니메이션, 감독 太田雅彦)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "남의 마음을 저절로 읽어 버리는 능력 탓에 마음을 닫은 전학생 소녀와 반 친구들의 나날.",
+   "concepts": [
+    "telepathy"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「琴浦さん」 · 나무위키 「코토우라 양」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "inou_battle_nichijou",
+   "orig": "異能バトルは日常系のなかで",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "소설",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2012~2018, GA文庫) · 만화(2013) · TV 12화(2014)",
+   "by": "望公太(원작), TRIGGER(애니메이션, 감독 高橋正典)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "중2병 부원이 있는 문예부 다섯이 어느 날 '이능'을 얻지만, 일상은 그럭저럭 평온하게 흘러간다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2014) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「超能力を題材としたアニメ作品」 · 일본어 위키백과 「異能バトルは日常系のなかで」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "yuri_seijin_naoko",
+   "orig": "百合星人ナオコサン",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2005~2014, 月刊コミック電撃大王) · OVA(2010)",
+   "by": "kashmir(원작), ufotable(애니메이션, 감독 竹内哲也)",
+   "year": 2005,
+   "country": "일본",
+   "setting": "'백합성'에서 왔다는 외계인 나오코상이 지구에서 벌이는 엉뚱한 소동.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2010) — 일본어 위키백과 분류 「2010年のOVA」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「百合星人ナオコサン」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "chokkyu_robot_anime",
+   "orig": "直球表題ロボットアニメ",
+   "orig_en": "",
+   "ko": "직구표제 로봇 애니메",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A7%81%EA%B5%AC%ED%91%9C%EC%A0%9C%20%EB%A1%9C%EB%B4%87%20%EC%95%A0%EB%8B%88%EB%A9%94",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2013, 15분 CG 단편)",
+   "by": "ザルゴザール(감독 石舘光太郎)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "인류가 사라진 지 7천 년이 넘은 기동세기 8013년, 홀로 진화한 군용 로봇들이 두 진영으로 갈려 싸운다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 13화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「直球表題ロボットアニメ」 · 나무위키 「직구표제 로봇 애니메」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "kamitsubaki_city",
+   "orig": "神椿市建設中。",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "게임",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "KAMITSUBAKI STUDIO 기획(2019~) · 게임(2023~) · TV 13화·극장(2025)",
+   "by": "KAMITSUBAKI STUDIO·PIEDPIPER(원작), SMDE(애니메이션, 감독 月島総記)",
+   "year": 2023,
+   "country": "일본",
+   "setting": "7년 전 대재앙으로 문명이 무너진 세계, 기술로 되살아나는 연구 도시에 사람의 악의에서 난 괴물이 나타난다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 「神椿市建設中。」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "zetsumetsu_kigu_shoujo",
+   "orig": "絶滅危愚少女 Amazing Twins",
+   "orig_en": "",
+   "ko": "절멸위우소녀 Amazing Twins",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%A0%88%EB%A9%B8%EC%9C%84%EC%9A%B0%EC%86%8C%EB%85%80%20Amazing%20Twins",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "OVA 2화(2014)",
+   "by": "佐藤順一(원작·감독), エンカレッジフィルムズ",
+   "year": 2014,
+   "country": "일본",
+   "setting": "생각을 현실로 만드는 능력 'ISH'의 소녀가 몸에 쌍둥이 동생의 정신을 품고, 노리는 자들과 맞선다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "OVA(2014) — 일본어 위키백과 분류 「2014年のOVA」 · 일본어 위키백과 「絶滅危愚少女 Amazing Twins」 · 나무위키 「절멸위우소녀 Amazing Twins」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "binan_koukou",
+   "orig": "美男高校地球防衛部LOVE!",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 1기(2015)·2기 『LOVE!LOVE!』(2016) · 『HAPPY KISS!』(2018) · 극장 『ETERNAL LOVE!』(2025) · 『ハイカラ!』(2025)",
+   "by": "高松信司(감독), ディオメディア(1기)·スタジオコメット(2기~), 馬谷くらり(원작)",
+   "year": 2015,
+   "country": "일본",
+   "setting": "외우주에서 온 두 생물 탓에 남고생들이 '지구 방위부'와 '지구 정복부'로 갈려 싸운다.",
+   "concepts": [
+    "alien"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 12화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 분류 「地球外生命体を題材としたアニメ作品」 · 일본어 위키백과 「美男高校地球防衛部LOVE!」 · 나무위키 「미남고교 지구방위부 시리즈」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2016년 7월 분기, 2기), KT스튜디오지니 판권(하이칼라!)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2016%EB%85%84%207%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "mushikago_no_cagaster",
+   "orig": "虫籠のカガステル",
+   "orig_en": "Cagaster of an Insect Cage",
+   "ko": "가가스테루의 습격",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EA%B0%80%EA%B0%80%EC%8A%A4%ED%85%8C%EB%A3%A8%EC%9D%98%20%EC%8A%B5%EA%B2%A9",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "웹 만화(2005~2013) · 단행본 · 넷플릭스 애니메이션(2020)",
+   "by": "橋本花鳥(원작), スタジオKAI(애니메이션, 감독 千明孝一)",
+   "year": 2005,
+   "country": "일본",
+   "setting": "사람이 거대한 벌레로 변하는 병이 돌아 인류 셋 중 둘이 먹힌 22세기, 구제꾼 소년이 한 소녀를 맡는다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 분류 「ディストピアを題材としたアニメ作品」 · 일본어 위키백과 「虫籠のカガステル」 · 나무위키 「가가스테루의 습격」",
+   "korean": {
+    "status": "있음",
+    "detail": "넷플릭스 판권(2020년 1월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2020%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": false
+  },
+  {
+   "id": "nijiiro_hotaru",
+   "orig": "虹色ほたる 〜永遠の夏休み〜",
+   "orig_en": "",
+   "ko": "반딧불 언덕에서",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B0%98%EB%94%A7%EB%B6%88%20%EC%96%B8%EB%8D%95%EC%97%90%EC%84%9C",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "웹 소설(2004~2005) · 책(2007) · 극장 애니메이션(2012)",
+   "by": "川口雅幸(원작), 東映アニメーション(애니메이션, 감독 宇田鋼之介)",
+   "year": 2004,
+   "country": "일본",
+   "setting": "아버지를 잃은 초등 6학년이 산속에서 정신을 잃었다 깨어나니, 댐에 잠기기 전 1977년 마을의 여름이었다.",
+   "concepts": [
+    "time_travel"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(2012) — 일본어 위키백과 「日本のアニメ映画作品一覧 (2010年代)」 · 일본어 위키백과 「虹色ほたる 〜永遠の夏休み〜」 · 나무위키 「반딧불 언덕에서」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "kekkai_sensen",
+   "orig": "血界戦線",
+   "orig_en": "Blood Blockade Battlefront",
+   "ko": "혈계전선",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%98%88%EA%B3%84%EC%A0%84%EC%84%A0",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2008~) · 2부 『Back 2 Back』 · TV 1기(2015)·2기 『& BEYOND』(2017)",
+   "by": "内藤泰弘(원작), ボンズ(애니메이션, 감독 松本理恵)",
+   "year": 2008,
+   "country": "일본",
+   "setting": "하룻밤 새 이계와 인간계가 겹쳐 변해 버린 옛 뉴욕 '헬살렘즈 롯', 그 균형을 지키는 비밀 결사의 활약.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2015) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「血界戦線」 · 나무위키 「혈계전선」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니맥스 코리아 판권(2015년 4월 분기), 만화 학산문화사 정식 발간",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2015%EB%85%84%204%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "zenmai_robo_patrasche",
+   "orig": "超ゼンマイロボ パトラッシュ",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화(2013~2014) — 『フランダースの犬』(1975) 자기 패러디",
+   "by": "日本アニメーション(제작), キャラクション(감독 山本雄三)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "자연이 풍요로운 '플랜더스 나라'를 부수려는 제국에 맞서, 소년과 사람 모양으로 변하는 개 로봇이 싸운다.",
+   "concepts": [
+    "robot"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV 13화(2013) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「超ゼンマイロボ パトラッシュ」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "choujun_choujou",
+   "orig": "超巡!超条先輩",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2024~2025, 週刊少年ジャンプ) · TV(2026)",
+   "by": "沼駿(원작), アルボアニメーション(애니메이션, 감독 山元隼一)",
+   "year": 2024,
+   "country": "일본",
+   "setting": "환락가 파출소에 배속된 신입 여경이, 초능력을 쓰는 골칫덩이 순사장과 짝을 이뤄 거리를 지킨다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "TV(2026) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 「超巡!超条先輩」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "choukou_gatter",
+   "orig": "超耕21ガッター",
+   "orig_en": "",
+   "ko": null,
+   "ko_src": null,
+   "media": [
+    "드라마",
+    "애니메이션"
+   ],
+   "first_medium": "드라마",
+   "series": "니가타현 지역 영웅 · 특촬 드라마(2010~2012) · TV 애니메이션(2017)",
+   "by": "H・K(감독)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "해충이 늘어난 2050년, 농업 강화 슈트 '초경 시스템 21형'이 완성될 즈음 우주에서 침략자가 온다.",
+   "concepts": [
+    "power_armor",
+    "alien_invasion"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "2017년 TV 애니메이션 — 일본어 위키백과 분류 「2017年のテレビアニメ」 · 일본어 위키백과 「超耕21ガッター」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "gyrozetter",
+   "orig": "超速変形ジャイロゼッター",
+   "orig_en": "",
+   "ko": "초속변형 자이로젯터",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%B4%88%EC%86%8D%EB%B3%80%ED%98%95%20%EC%9E%90%EC%9D%B4%EB%A1%9C%EC%A0%AF%ED%84%B0",
+   "media": [
+    "게임",
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "게임",
+   "series": "아케이드 카드 게임(2012~2014) · 만화(2012) · TV 51화(2012~2013)",
+   "by": "スクウェア・エニックス(원작), A-1 Pictures(애니메이션, 감독 森邦宏)",
+   "year": 2012,
+   "country": "일본",
+   "setting": "인공지능 자동차만 달리는 요코하마 신도심, 운전을 배우는 학교 아이들이 거대 로봇으로 변하는 차로 싸운다.",
+   "concepts": [
+    "ai",
+    "mecha"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 51화(2012) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「超速変形ジャイロゼッター」 · 나무위키 「초속변형 자이로젯터」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": false
+  },
+  {
+   "id": "meikyuu_no_shiori",
+   "orig": "迷宮のしおり",
+   "orig_en": "",
+   "ko": "미궁의 시오리",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AF%B8%EA%B6%81%EC%9D%98%20%EC%8B%9C%EC%98%A4%EB%A6%AC",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "극장 애니메이션(2026)",
+   "by": "河森正治(감독), サンジゲン",
+   "year": 2026,
+   "country": "일본",
+   "setting": "스마트폰 화면이 깨진 순간 텅 빈 미궁 같은 다른 요코하마로 옮겨진 여고생, 현실에는 가짜 그녀가 나타난다.",
+   "concepts": [
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "작음",
+   "notability": "극장 애니메이션(2026) — 일본어 위키백과 「日本のアニメ映画作品一覧 (2020年代)」 · 일본어 위키백과 분류 「SFアニメ映画」 · 일본어 위키백과 「迷宮のしおり」 · 나무위키 「미궁의 시오리」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "tousouchuu_great_mission",
+   "orig": "逃走中 グレートミッション",
+   "orig_en": "",
+   "ko": "도주중 그레이트 미션",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%8F%84%EC%A3%BC%EC%A4%91%20%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EB%AF%B8%EC%85%98",
+   "media": [
+    "애니메이션",
+    "게임"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 97화(2023~2025) · 게임(2024) — 원안은 フジテレビ 예능 『逃走中』",
+   "by": "東映アニメーション(시리즈 디렉터 貝澤幸男·暮田公平)",
+   "year": 2023,
+   "country": "일본",
+   "setting": "인류가 달로 옮겨 간 미래, 계층마다 사는 곳이 갈린 사회에서 상금 건 가상 공간 도주 게임이 인기를 끈다.",
+   "concepts": [
+    "class_divide",
+    "simulation"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 97화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「逃走中 グレートミッション」 · 나무위키 「도주중 그레이트 미션」",
+   "korean": {
+    "status": "있음",
+    "detail": "대원방송 방영(2023년 12월~, 나무위키)",
+    "src": "https://namu.wiki/w/%EB%8F%84%EC%A3%BC%EC%A4%91%20%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EB%AF%B8%EC%85%98"
+   },
+   "borderline": false
+  },
+  {
+   "id": "senkou_no_night_raid",
+   "orig": "閃光のナイトレイド",
+   "orig_en": "",
+   "ko": "섬광의 나이트레이드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%84%AC%EA%B4%91%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%93%9C",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 13화+OVA 3화(2010)",
+   "by": "A-1 Pictures(원작·제작, 감독 松本淳)",
+   "year": 2010,
+   "country": "일본",
+   "setting": "1931년 상하이, 일본군 특무 기관의 초능력자들이 옛 장교가 꾸미는 불온한 계획에 맞선다.",
+   "concepts": [
+    "psionics"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2010) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 분류 「SFアニメ」 · 일본어 위키백과 「閃光のナイトレイド」 · 나무위키 「섬광의 나이트레이드」",
+   "korean": {
+    "status": "확인 못 함",
+    "detail": "",
+    "src": null
+   },
+   "borderline": true
+  },
+  {
+   "id": "onmyou_kaiten_rebirth",
+   "orig": "陰陽廻天 Re:バース",
+   "orig_en": "",
+   "ko": "음양회천 Re:버스",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EC%9D%8C%EC%96%91%ED%9A%8C%EC%B2%9C%20Re%3A%EB%B2%84%EC%8A%A4",
+   "media": [
+    "애니메이션"
+   ],
+   "first_medium": "애니메이션",
+   "series": "TV 12화(2025)",
+   "by": "david production(감독 髙橋秀弥), 作乃藤湖(원작)",
+   "year": 2025,
+   "country": "일본",
+   "setting": "사고로 죽은 고교생이 기술이 발달한 다른 세계의 헤이안쿄에서 깨어나, 되풀이되는 시간 속에 음양사가 된다.",
+   "concepts": [
+    "time_loop",
+    "other_realm"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2025) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 後半)」 · 일본어 위키백과 분류 「巨大ロボットを題材としたアニメ作品」 · 일본어 위키백과 「陰陽廻天 Re:バース」 · 나무위키 「음양회천 Re:버스」",
+   "korean": {
+    "status": "있음",
+    "detail": "KT스튜디오지니 판권, 애니플러스 방영(2025, 나무위키)",
+    "src": "https://namu.wiki/w/%EC%9D%8C%EC%96%91%ED%9A%8C%EC%B2%9C%20Re%3A%EB%B2%84%EC%8A%A4"
+   },
+   "borderline": true
+  },
+  {
+   "id": "highschool_of_the_dead",
+   "orig": "学園黙示録 HIGHSCHOOL OF THE DEAD",
+   "orig_en": "",
+   "ko": "학원묵시록 HIGHSCHOOL OF THE DEAD",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%ED%95%99%EC%9B%90%EB%AC%B5%EC%8B%9C%EB%A1%9D%20HIGHSCHOOL%20OF%20THE%20DEAD",
+   "media": [
+    "만화",
+    "애니메이션"
+   ],
+   "first_medium": "만화",
+   "series": "만화(2006~) · TV 12화(2010)",
+   "by": "佐藤大輔(원작), 佐藤ショウジ(그림), マッドハウス(애니메이션, 감독 荒木哲郎)",
+   "year": 2006,
+   "country": "일본",
+   "setting": "어느 날 학교에 나타난 산송장 '놈들'이 순식간에 늘어나고, 살아남은 고교생들이 탈출에 나선다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 12화(2010) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 前半)」 · 일본어 위키백과 「学園黙示録 HIGHSCHOOL OF THE DEAD」 · 나무위키 「학원묵시록 HIGHSCHOOL OF THE DEAD」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2010년 7월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2010%EB%85%84%207%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "musaigen_phantom_world",
+   "orig": "無彩限のファントム・ワールド",
+   "orig_en": "",
+   "ko": "무채한의 팬텀 월드",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%AC%B4%EC%B1%84%ED%95%9C%EC%9D%98%20%ED%8C%AC%ED%85%80%20%EC%9B%94%EB%93%9C",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "라이트 노벨(2013~) · TV 13화(2016)",
+   "by": "秦野宗一郎(원작), 京都アニメーション(애니메이션, 감독 石原立也)",
+   "year": 2013,
+   "country": "일본",
+   "setting": "유전자 연구소 폭파 테러로 퍼진 바이러스 탓에 사람들 뇌가 바뀌어 유령 같은 '팬텀'이 보이게 된 세계.",
+   "concepts": [
+    "genetic_eng"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 13화(2016) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2010年代 後半)」 · 일본어 위키백과 「無彩限のファントム・ワールド」 · 나무위키 「무채한의 팬텀 월드」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2016년 1월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2016%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  },
+  {
+   "id": "hikari_no_ou",
+   "orig": "火狩りの王",
+   "orig_en": "",
+   "ko": "불 사냥의 왕",
+   "ko_src": "나무위키 문서 제목 — https://namu.wiki/w/%EB%B6%88%20%EC%82%AC%EB%83%A5%EC%9D%98%20%EC%99%95",
+   "media": [
+    "소설",
+    "애니메이션"
+   ],
+   "first_medium": "소설",
+   "series": "소설(2018~2021, ほるぷ出版) · TV 1기 10화(2023)·2기 10화(2024)",
+   "by": "日向理恵子(원작), SIGNAL.MD(애니메이션, 감독 西村純二)",
+   "year": 2018,
+   "country": "일본",
+   "setting": "인류 최종 전쟁 뒤의 세계, 낫을 든 '불 사냥꾼'들이 사냥개와 함께 검은 숲의 '염마'를 사냥해 산다.",
+   "concepts": [
+    "catastrophe"
+   ],
+   "new_ideas": "",
+   "lore_size": "중간",
+   "notability": "TV 10화(2023) — 일본어 위키백과 「日本のテレビアニメ作品一覧 (2020年代 前半)」 · 일본어 위키백과 「火狩りの王」 · 나무위키 「불 사냥의 왕」",
+   "korean": {
+    "status": "있음",
+    "detail": "애니플러스 판권(2023년 1월 분기)",
+    "src": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/2023%EB%85%84%201%EC%9B%94"
+   },
+   "borderline": true
+  }
+ ]
+}
