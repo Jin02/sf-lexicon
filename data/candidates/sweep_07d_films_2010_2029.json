@@ -1,0 +1,7161 @@
+{
+  "group": "sweep_07d_films_2010_2029",
+  "candidates": [
+    {
+      "id": "adjustment_team",
+      "orig": "Adjustment Team",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Philip K. Dick 단편 Adjustment Team (1954) · 영화 The Adjustment Bureau (2011)",
+      "by": "Philip K. Dick(원작) · George Nolfi(영화)",
+      "year": 1954,
+      "country": "미국",
+      "setting": "사람들의 앞날을 몰래 고쳐 맞추는 조정국 요원들이 정해진 길을 벗어난 정치인의 사랑을 막는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 필립 K. 딕 단편이 원작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "superlopez",
+      "orig": "Superlópez",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Jan 만화 (1973~2022, Bruguera · Ediciones B) · 영화 (2018)",
+      "by": "Jan(Juan López Fernández)",
+      "year": 1973,
+      "country": "스페인",
+      "setting": "독재자와 싸우라고 행성 치톤에서 보낸 초능력 아기가 스페인 가정에 길러진다 — 슈퍼맨을 비튼 만화.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼히어로 희극(원작은 work/src_notes.json)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_robot_who_looked_like_me",
+      "orig": "The Robot Who Looked Like Me",
+      "orig_en": "Robots",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Robert Sheckley 단편 (1973) · 영화 Robots (2023)",
+      "by": "Robert Sheckley(원작) · Ant Hines · Casper Christensen(영화)",
+      "year": 1973,
+      "country": "미국",
+      "setting": "2032년 부자 둘이 일과 연애를 맡긴 불법 안드로이드 대역들이 서로 사랑에 빠져 주인 행세를 한다.",
+      "concepts": [
+        "android",
+        "impostor"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 단편을 옮긴 SF 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_animators_bounds",
+      "orig": "The Animators",
+      "orig_en": "The Last Days on Mars",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Sydney J. Bounds 단편 The Animators (1975) · 영화 The Last Days on Mars (2013)",
+      "by": "Sydney J. Bounds(원작) · Ruairí Robinson(영화)",
+      "year": 1975,
+      "country": "영국",
+      "setting": "2040년대 화성 기지를 떠나기 열아홉 시간 전, 땅속 세균에 닿은 대원들이 사나운 시체처럼 변한다.",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 단편을 옮긴 SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "indiana_jones",
+      "orig": "Indiana Jones",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "드라마",
+        "게임",
+        "만화",
+        "소설"
+      ],
+      "first_medium": "영화",
+      "series": "영화 다섯 편 Raiders of the Lost Ark (1981) ~ Dial of Destiny (2023) · 앞이야기 드라마 · 게임·만화·소설",
+      "by": "George Lucas · Lucasfilm",
+      "year": 1981,
+      "country": "미국",
+      "setting": "고고학 교수 인디애나 존스가 세계를 누비며 전설 속 유물을 두고 악당들과 겨룬다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 모험 영화 연작(다섯째 편이 목록에)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "la_nuit_des_enfants_rois",
+      "orig": "La Nuit des enfants rois",
+      "orig_en": "The Prodigies",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "애니메이션"
+      ],
+      "first_medium": "소설",
+      "series": "Bernard Lenteric 소설 (1981) · 애니메이션 영화 The Prodigies (2011)",
+      "by": "Bernard Lenteric(원작) · Antoine Charreyron(영화)",
+      "year": 1981,
+      "country": "프랑스",
+      "setting": "남다른 힘을 지닌 천재 아이들 — 학대받던 소년이 자라 그런 아이들을 찾아 모으다 비극을 맞는다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 프랑스 소설을 옮긴 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "super_mario",
+      "orig": "スーパーマリオ",
+      "orig_en": "Super Mario",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화",
+        "애니메이션"
+      ],
+      "first_medium": "게임",
+      "series": "게임 Super Mario Bros. (1985) 부터 이어진 연작 · 애니메이션 영화 The Super Mario Bros. Movie (2023) · The Super Mario Galaxy Movie (2026)",
+      "by": "Nintendo · 宮本茂",
+      "year": 1985,
+      "country": "일본",
+      "setting": "버섯 왕국의 배관공 마리오 이야기 — 영화 속편에서는 우주를 건너 납치된 이를 구하러 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 게임을 옮긴 애니메이션 영화(원작은 work/src_notes.json)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "flatliners",
+      "orig": "Flatliners",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Flatliners (1990) · 홀로 서는 속편 겸 다시 만든 영화 (2017)",
+      "by": "Peter Filardi(각본) · Niels Arden Oplev(2017 감독)",
+      "year": 1990,
+      "country": "미국",
+      "setting": "의대생들이 심장을 잠시 멈춰 죽음 너머를 엿보다가 저마다 숨겨 온 과거에 쫓긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 1990년 영화의 다시 만든 판이 목록에",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "sonic_the_hedgehog",
+      "orig": "ソニック・ザ・ヘッジホッグ",
+      "orig_en": "Sonic the Hedgehog",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "게임 Sonic the Hedgehog (1991) 부터 이어진 연작 · 영화 (2020, 2022, 2024, 2027 예정)",
+      "by": "Sega(中裕司 · 大島直人 · 安原広和)",
+      "year": 1991,
+      "country": "일본",
+      "setting": "초음속으로 달리는 파란 고슴도치 소닉이 미친 과학자 에그맨과 그의 로봇 군대에 맞선다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 게임을 옮긴 영화 연작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "bloodshot",
+      "orig": "Bloodshot",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Valiant Comics (1992~) · 영화 Bloodshot (2020)",
+      "by": "Kevin VanHook · Don Perlin · Bob Layton (Valiant Comics)",
+      "year": 1992,
+      "country": "미국",
+      "setting": "핏속 나노 기계로 몸을 고치고 싸움 지식을 얻으며 컴퓨터와 마음이 이어진 병사의 이야기.",
+      "concepts": [
+        "nanotech",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 만화를 옮긴 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "hentai_kamen",
+      "orig": "究極!!変態仮面",
+      "orig_en": "Kyūkyoku!! Hentai Kamen",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "安藤慶周 만화 (週刊少年ジャンプ, 1992~1993) · 실사 영화 (2013) · 속편 (2016)",
+      "by": "安藤慶周(원작) · 福田雄一(영화)",
+      "year": 1992,
+      "country": "일본",
+      "setting": "여자 속옷을 얼굴에 쓰면 어머니에게 물려받은 힘이 깨어나는 고교생이 '변태 가면'이 되어 싸운다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼히어로 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_king_of_fighters",
+      "orig": "THE KING OF FIGHTERS",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "격투 게임 The King of Fighters '94 (1994) 부터 이어진 연작 · 영화 The King of Fighters (2010, Gordon Chan)",
+      "by": "SNK(게임) · Gordon Chan(영화 감독)",
+      "year": 1994,
+      "country": "일본",
+      "setting": "이름난 격투가들이 겨루는 대회 이야기 — 영화에서는 대회가 다른 차원에서 열리고 고대 존재를 깨우려 한다.",
+      "concepts": [
+        "other_realm"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 게임을 옮긴 무술 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "artemis_fowl",
+      "orig": "Artemis Fowl",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화",
+        "만화"
+      ],
+      "first_medium": "소설",
+      "series": "Eoin Colfer 소설 11권 (2001~2021, 두 연작) · 영화 (2020) · 그래픽 노블",
+      "by": "Eoin Colfer",
+      "year": 2001,
+      "country": "아일랜드",
+      "setting": "열두 살 천재 범죄자가 요정 경찰을 납치해 집안 재산을 되찾을 몸값으로 금을 요구한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 판타지 소설을 옮긴 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "fullmetal_alchemist",
+      "orig": "鋼の錬金術師",
+      "orig_en": "Fullmetal Alchemist",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "荒川弘 만화 (月刊少年ガンガン, 2001~2010) · 실사 영화 (2017) · 속편 둘 (2022)",
+      "by": "荒川弘",
+      "year": 2001,
+      "country": "일본",
+      "setting": "연금술의 나라 아메스트리스에서 금기인 인체 연성으로 몸을 잃은 형제가 되찾을 길을 찾는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 판타지(원작은 work/src_notes.json)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "spy_kids",
+      "orig": "Spy Kids",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Spy Kids (2001) 연작 · 다시 시작한 Spy Kids: Armageddon (2023)",
+      "by": "Robert Rodriguez",
+      "year": 2001,
+      "country": "미국",
+      "setting": "첩보원 부모의 아이들이 첨단 장치로 악당을 막는다 — 새 편에선 세계 기기를 감염시키는 게임 코드.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 가족 첩보 활극 연작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mars_et_avril",
+      "orig": "Mars et Avril",
+      "orig_en": "Mars & Avril",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Martin Villeneuve 사진 소설 2권 (2002, 2006) · 영화 (2012)",
+      "by": "Martin Villeneuve",
+      "year": 2002,
+      "country": "캐나다",
+      "setting": "화성 착륙을 앞둔 근미래 몬트리올, 시간을 늦추는 악기를 켜는 노음악가와 친구가 한 여자를 사랑한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 캐나다 스크린상 각색상 후보",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "galactik_football",
+      "orig": "Galactik Football",
+      "orig_en": "Вратарь Галактики",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션",
+        "영화"
+      ],
+      "first_medium": "애니메이션",
+      "series": "TV 애니메이션 Galactik Football (2006~) · 러시아 영화 Вратарь Галактики (Cosmoball, 2020)",
+      "by": "Augias Imaginaction(애니메이션) · Dzhanik Fayziev(영화)",
+      "year": 2006,
+      "country": "프랑스",
+      "setting": "먼 미래 은하에서 행성들이 우주 에너지 '플럭스'를 쓰는 축구로 겨룬다 — 러시아 영화는 전쟁 뒤 지구.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 애니메이션 원작 SF 스포츠 영화(원작은 work/src_notes.json)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "how_to_talk_to_girls_at_parties",
+      "orig": "How to Talk to Girls at Parties",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Neil Gaiman 단편 (2006) · 영화 (2017)",
+      "by": "Neil Gaiman(원작) · John Cameron Mitchell(영화)",
+      "year": 2006,
+      "country": "영국",
+      "setting": "1970년대 런던의 펑크 소년이 성인식을 치르러 지구에 온 외계 십대 무리의 한 소녀와 사랑에 빠진다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 단편을 옮긴 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "assassins_creed",
+      "orig": "Assassin's Creed",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "게임",
+        "영화"
+      ],
+      "first_medium": "게임",
+      "series": "게임 Assassin's Creed (2007) 부터 이어진 연작 · 영화 (2016)",
+      "by": "Ubisoft(주로 Ubisoft Montreal)",
+      "year": 2007,
+      "country": "프랑스·캐나다",
+      "setting": "장치 '애니무스'로 핏줄에 남은 조상의 기억을 되살려 암살단과 템플 기사단의 오랜 싸움을 다시 겪는다.",
+      "concepts": [
+        "ancestral_memory"
+      ],
+      "new_ideas": "",
+      "lore_size": "큼",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 게임을 옮긴 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "robot_dreams_varon",
+      "orig": "Robot Dreams",
+      "orig_en": "Mon ami robot",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "Sara Varon 그래픽 노블 (2007) · 애니메이션 영화 (2023, Pablo Berger)",
+      "by": "Sara Varon(원작) · Pablo Berger(영화)",
+      "year": 2007,
+      "country": "미국",
+      "setting": "1985년 뉴욕의 외로운 개가 로봇 벗을 만들어 여름을 함께 보내지만, 로봇이 바닷가에 홀로 남겨진다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 칸 영화제 첫 상영, 그래픽 노블 원작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "armor_hero",
+      "orig": "铠甲勇士",
+      "orig_en": "Armor Hero",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "드라마",
+        "영화"
+      ],
+      "first_medium": "드라마",
+      "series": "특촬극 铠甲勇士 (2008 제작·2009) 와 연작 · 영화 铠甲勇士之雅塔莱斯 (2014)",
+      "by": "铠甲勇士 연작(중국) · Zheng Guowei(영화 감독)",
+      "year": 2009,
+      "country": "중국",
+      "setting": "갑옷을 불러 입는 용사들이 어둠의 세력과 싸우는 특촬 — 영화에선 사람을 괴물로 만드는 바이러스와 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 (원작 해는 중국어 위키백과) — 특촬 영웅물",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "reincarnationist_papers",
+      "orig": "The Reincarnationist Papers",
+      "orig_en": "Infinite",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "D. Eric Maikranz 소설 (2009) · 영화 Infinite (2021)",
+      "by": "D. Eric Maikranz(원작) · Antoine Fuqua(영화)",
+      "year": 2009,
+      "country": "미국",
+      "setting": "전생을 모두 기억한 채 거듭 태어나는 이들이 두 편으로 갈라져 '알'이라는 물건을 두고 다툰다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 소설을 옮긴 SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "alien_vs_ninja",
+      "orig": "エイリアンVSニンジャ",
+      "orig_en": "Alien vs Ninja",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "エイリアンVSニンジャ (2010, 닛카쓰)",
+      "by": "千葉誠治(Seiji Chiba)",
+      "year": 2010,
+      "country": "일본",
+      "setting": "이가 닌자들이 하늘에서 떨어진 물체를 살피러 갔다가 마을 사람을 찢어 죽인 외계 괴물과 맞붙는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 무술 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "beyond_the_black_rainbow",
+      "orig": "Beyond the Black Rainbow",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Beyond the Black Rainbow (2010)",
+      "by": "Panos Cosmatos",
+      "year": 2010,
+      "country": "캐나다",
+      "setting": "1983년 '기술로 얻는 평온'을 내건 연구소에 갇힌 소녀가 텔레파시를 누르는 장치에서 벗어나려 한다.",
+      "concepts": [
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 환각풍 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "denizen_2010",
+      "orig": "Denizen",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Denizen (2010)",
+      "by": "J.A. Steel",
+      "year": 2010,
+      "country": "미국",
+      "setting": "과학자 일행이 작은 마을 사람을 죽이는 정체 모를 생물을 쫓고, 군대는 마을째 없애려 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 저예산 괴물 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "despicable_me",
+      "orig": "Despicable Me",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Despicable Me (2010) · 2 (2013) · 3 (2017) — Illumination",
+      "by": "Chris Renaud · Pierre Coffin",
+      "year": 2010,
+      "country": "미국",
+      "setting": "오랜 악당 그루가 졸개 미니언들과 줄이는 광선으로 달을 훔치려다 세 고아를 맡게 된다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 애니메이션 희극(악당 이야기)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "die_kommenden_tage",
+      "orig": "Die kommenden Tage",
+      "orig_en": "The Coming Days",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Die kommenden Tage (2010)",
+      "by": "Lars Kraume",
+      "year": 2010,
+      "country": "독일",
+      "setting": "2012~2020년, 사회와 나라들 사이가 갈수록 흔들리는 가까운 미래를 그린 드라마.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 근미래 디스토피아 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "downstream_2010",
+      "orig": "Downstream",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Downstream (2010)",
+      "by": "Simone Bartesaghi · Philip Y. Kim",
+      "year": 2010,
+      "country": "미국",
+      "setting": "석유와 먹을거리가 무너지고 여자가 크게 준 무법 근미래, 떠돌이가 깨끗한 에너지 도시를 찾아간다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 종말 뒤 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "escape_from_spiderhead",
+      "orig": "Escape from Spiderhead",
+      "orig_en": "Spiderhead",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "George Saunders 단편 (2010) · 영화 Spiderhead (2022, Netflix)",
+      "by": "George Saunders(원작) · Joseph Kosinski(영화)",
+      "year": 2010,
+      "country": "미국",
+      "setting": "형을 줄여 주는 대신 감정을 바꾸는 약을 시험받는 첨단 교도소에서, 죄수들이 실험의 진짜 뜻을 깨닫는다.",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 단편을 옮긴 SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fase_7",
+      "orig": "Fase 7",
+      "orig_en": "Phase 7",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Fase 7 (2010)",
+      "by": "Nicolás Goldbart",
+      "year": 2010,
+      "country": "아르헨티나",
+      "setting": "돌림병으로 아파트 단지가 격리되자 무심한 남자가 편집증 이웃과 손잡고 다른 주민들과 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "future_x_cops",
+      "orig": "未來警察",
+      "orig_en": "Future X-Cops",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "未來警察 (2010)",
+      "by": "王晶(Wong Jing)",
+      "year": 2010,
+      "country": "홍콩·중국·대만",
+      "setting": "2080년 사이보그 경찰이 어린 과학자를 죽이러 과거로 간 테러범을 쫓아 2020년으로 간다.",
+      "concepts": [
+        "cyborg",
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "growth_2010",
+      "orig": "Growth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Growth (2010)",
+      "by": "Gabriel Cowan",
+      "year": 2010,
+      "country": "미국",
+      "setting": "미세 기생충으로 사람의 진화를 앞당기려던 섬의 실험이 어긋나고 20년 뒤 젊은이들이 그 섬에 간다.",
+      "concepts": [
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hot_tub_time_machine",
+      "orig": "Hot Tub Time Machine",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Hot Tub Time Machine (2010) · 2 (2015)",
+      "by": "Steve Pink",
+      "year": 2010,
+      "country": "미국",
+      "setting": "온천 욕조를 타고 1986년으로 떨어진 중년 친구들이 2010년으로 돌아갈 길을 찾는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hunter_prey",
+      "orig": "Hunter Prey",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Hunter Prey (2010)",
+      "by": "Sandy Collora",
+      "year": 2010,
+      "country": "미국",
+      "setting": "사막 행성에 떨어진 특공대가 멸망한 행성의 마지막 생존자인 외계 죄수를 산 채로 다시 잡으려 한다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 독립 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "iboy",
+      "orig": "iBoy",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Kevin Brooks 소설 (2010) · 영화 (2017, Netflix)",
+      "by": "Kevin Brooks(원작) · Adam Randall(영화)",
+      "year": 2010,
+      "country": "영국",
+      "setting": "머리에 휴대 전화 파편이 박힌 소년이 전파와 디지털 신호를 다루게 되어 친구를 해친 무리에게 복수한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 소설을 옮긴 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kaboom_2010",
+      "orig": "Kaboom",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Kaboom (2010)",
+      "by": "Gregg Araki",
+      "year": 2010,
+      "country": "미국·프랑스",
+      "setting": "이상한 꿈을 꾸던 대학생이 동물 가면을 쓴 사이비 집단을 캐다 세상을 끝내려는 음모에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 성 희극 미스터리(칸 영화제 퀴어 종려상)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "megamind",
+      "orig": "Megamind",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Megamind (2010, DreamWorks) · 속편 Megamind vs. the Doom Syndicate · 게임 셋",
+      "by": "Tom McGrath",
+      "year": 2010,
+      "country": "미국",
+      "setting": "고향 행성을 블랙홀에 잃고 지구에 온 외계인 악당이 숙적을 꺾은 뒤 맞설 새 영웅을 만든다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼히어로 희극 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "monsters_2010",
+      "orig": "Monsters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Monsters (2010) · 속편 Monsters: Dark Continent (2014, Tom Green)",
+      "by": "Gareth Edwards · Tom Green(속편)",
+      "year": 2010,
+      "country": "영국",
+      "setting": "외계 생명을 찾던 탐사선이 멕시코에 떨어진 뒤 거대한 촉수 괴물이 퍼져 국경 북쪽이 격리된다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Gareth Edwards 첫 장편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mutant_girls_squad",
+      "orig": "戦闘少女 血の鉄仮面伝説",
+      "orig_en": "Mutant Girls Squad",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "戦闘少女 血の鉄仮面伝説 (2010)",
+      "by": "井口昇 · 西村喜廣 · 坂口拓",
+      "year": 2010,
+      "country": "일본",
+      "setting": "초능력을 지닌 돌연변이 '히루코' 일족의 피를 이은 여고생이 인간에 복수하려는 무리와 만난다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 피범벅 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "pixels_jean",
+      "orig": "Pixels",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Patrick Jean 단편 (2010) · 영화 Pixels (2015, Chris Columbus)",
+      "by": "Patrick Jean(원작 단편) · Chris Columbus(영화)",
+      "year": 2010,
+      "country": "프랑스·미국",
+      "setting": "우주로 보낸 옛 오락실 영상을 선전 포고로 오해한 외계 세력이 고전 게임 모습으로 지구를 친다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_jensen_project",
+      "orig": "The Jensen Project",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Jensen Project (2010, TV 영화)",
+      "by": "Douglas Barr",
+      "year": 2010,
+      "country": "캐나다·미국",
+      "setting": "세상 문제를 풀려는 비밀 과학자 공동체의 한 사람이 나노봇으로 남을 조종하려 하자 옛 일원이 돌아온다.",
+      "concepts": [
+        "nanotech",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 가족용 TV 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "womb_2010",
+      "orig": "Womb",
+      "orig_en": "Clone",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Womb (2010, 영국 DVD 이름 Clone)",
+      "by": "Benedek Fliegauf",
+      "year": 2010,
+      "country": "독일·헝가리·프랑스",
+      "setting": "사고로 연인을 잃은 여자가 그의 세포로 복제 아이를 배어 낳아, 복제인을 꺼리는 이웃 속에 키운다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "7_aum_arivu",
+      "orig": "7 Aum Arivu",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "7 Aum Arivu (2011, 타밀어)",
+      "by": "A. R. Murugadoss",
+      "year": 2011,
+      "country": "인도",
+      "setting": "유전학도가 보리달마 후손의 핏속 기억을 깨워, 최면을 쓰는 중국 용병의 세균전을 막으려 한다.",
+      "concepts": [
+        "ancestral_memory",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 흥행작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "all_superheroes_must_die",
+      "orig": "All Superheroes Must Die",
+      "orig_en": "Vs",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "All Superheroes Must Die (2011) · 속편",
+      "by": "Jason Trost",
+      "year": 2011,
+      "country": "미국",
+      "setting": "힘을 빼앗긴 초인 넷이 숙적이 마을 곳곳에 벌여 놓은 목숨 건 놀이를 치른다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 독립 슈퍼히어로 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "another_earth",
+      "orig": "Another Earth",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Another Earth (2011)",
+      "by": "Mike Cahill",
+      "year": 2011,
+      "country": "미국",
+      "setting": "지구를 꼭 닮은 둘째 지구가 하늘에 나타난 무렵, 음주 사고를 낸 소녀가 피해자 곁에서 속죄한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 선댄스 영화제, 새턴상 후보 둘",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "area_51_connery",
+      "orig": "51",
+      "orig_en": "Area 51",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "51 (2011, After Dark Originals, SyFy 방영)",
+      "by": "Jason Connery",
+      "year": 2011,
+      "country": "미국",
+      "setting": "51구역을 둘러보던 기자단 앞에서 갇혀 있던 외계 존재가 동족을 풀어 주려 기지를 뒤엎는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — TV 공포 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "area_q",
+      "orig": "Área Q",
+      "orig_en": "Area Q",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Área Q (2011)",
+      "by": "Gerson Sanginitto",
+      "year": 2011,
+      "country": "미국·브라질",
+      "setting": "아들을 잃은 기자가 브라질 세아라의 미확인 비행 물체 목격지를 취재하다 아들의 실마리를 찾는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "eva_2011",
+      "orig": "Eva",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Eva (2011)",
+      "by": "Kike Maíllo",
+      "year": 2011,
+      "country": "스페인·프랑스",
+      "setting": "2043년 기계와 사람이 함께 사는 눈 덮인 고향에 돌아온 공학자가 감정을 흉내 내는 아이 로봇을 만든다.",
+      "concepts": [
+        "robot",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 베네치아 영화제 비경쟁",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "extraterrestre_2011",
+      "orig": "Extraterrestre",
+      "orig_en": "Extraterrestrial",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Extraterrestre (2011)",
+      "by": "Nacho Vigalondo",
+      "year": 2011,
+      "country": "스페인",
+      "setting": "외계 우주선이 마드리드 하늘에 떠 있는 아침, 하룻밤을 보낸 남녀와 두 남자가 한 아파트에서 얽힌다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hell_2011",
+      "orig": "Hell",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Hell (2011)",
+      "by": "Tim Fehlbaum",
+      "year": 2011,
+      "country": "독일·스위스",
+      "setting": "태양 폭발로 기온이 10도 오른 2016년 독일, 낮엔 나다닐 수 없는 황무지를 세 사람이 차로 건넌다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Roland Emmerich 총괄 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "little_fish_gabel",
+      "orig": "Little Fish",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Aja Gabel 단편 (2011) · 영화 (2020)",
+      "by": "Aja Gabel(원작) · Chad Hartigan(영화)",
+      "year": 2011,
+      "country": "미국",
+      "setting": "기억을 지우는 바이러스가 번지는 동안 한 부부가 둘의 사랑 이야기가 지워지지 않게 붙들려 한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 단편을 옮긴 SF 낭만 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "love_2011",
+      "orig": "Love",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Love (2011, Angels & Airwaves 제작)",
+      "by": "William Eubank",
+      "year": 2011,
+      "country": "미국",
+      "setting": "2039년 20년 동안 비워 둔 국제 우주 정거장에 홀로 간 우주인이 땅과 연락이 끊긴 채 남는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 산타바버라 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "manborg",
+      "orig": "Manborg",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Manborg (2011, Astron-6)",
+      "by": "Steven Kostanski",
+      "year": 2011,
+      "country": "캐나다",
+      "setting": "지옥 전쟁에서 죽은 병사가 기계 몸으로 되살아나 나치 흡혈귀 군대를 이끄는 백작에 맞선다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 저예산 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "o_homem_do_futuro",
+      "orig": "O Homem do Futuro",
+      "orig_en": "The Man from the Future",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "O Homem do Futuro (2011)",
+      "by": "Cláudio Torres",
+      "year": 2011,
+      "country": "브라질",
+      "setting": "20년 전 파티에서 망신당한 물리학자가 미완성 기계로 1991년에 떨어져 그날을 바꾸려 한다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ra_one",
+      "orig": "Ra.One",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ra.One (2011, 힌디어)",
+      "by": "Anubhav Sinha",
+      "year": 2011,
+      "country": "인도",
+      "setting": "디지털 세계의 것을 현실로 꺼내는 기술로 스스로 배우는 게임 악당 라원이 빠져나와 소년을 노린다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_darkest_hour_2011",
+      "orig": "The Darkest Hour",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Darkest Hour (2011)",
+      "by": "Chris Gorak",
+      "year": 2011,
+      "country": "미국·러시아",
+      "setting": "세계의 전기가 끊긴 밤 빛 덩어리로 내려온 보이지 않는 존재가 사람을 없애고, 모스크바의 젊은이들이 숨는다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Timur Bekmambetov 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_day_2011",
+      "orig": "The Day",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Day (2011)",
+      "by": "Douglas Aarniokoski",
+      "year": 2011,
+      "country": "캐나다",
+      "setting": "종말 뒤 황무지에서 생존자 다섯이 씨앗 두 병을 지닌 채 식인 무리를 피해 다닌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 토론토 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_divide_2011",
+      "orig": "The Divide",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Divide (2011)",
+      "by": "Xavier Gens",
+      "year": 2011,
+      "country": "미국·캐나다·독일",
+      "setting": "핵폭발이 뉴욕을 덮친 날 아파트 지하 방공호에 갇힌 주민 여덟이 서로를 무너뜨린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SXSW 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_origin",
+      "orig": "Alien Origin",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Origin (2012, The Asylum)",
+      "by": "Mark Atkins",
+      "year": 2012,
+      "country": "미국",
+      "setting": "벨리즈 정글을 살피던 군인과 기자단이 사라진 고고학 조사대와 동굴 속 기묘한 해골의 행방을 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Prometheus 를 노린 모방작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "branded_2012",
+      "orig": "Branded",
+      "orig_en": "Москва 2017",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Branded (2012, 다른 이름 The Mad Cow · Москва 2017)",
+      "by": "Jamie Bradshaw · Aleksandr Dulerayn",
+      "year": 2012,
+      "country": "러시아·미국",
+      "setting": "하늘의 소 별자리를 본 뒤 번개를 맞은 광고인이 기업들이 사람들 욕망을 주무르는 판의 정체를 본다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 어두운 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "chronicle_2012",
+      "orig": "Chronicle",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Chronicle (2012)",
+      "by": "Josh Trank",
+      "year": 2012,
+      "country": "미국",
+      "setting": "숲속 구멍에서 정체 모를 물체를 만난 고등학생 셋이 염력을 얻고, 따돌림받던 하나가 어두워진다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 발견된 영상 형식",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "grabbers",
+      "orig": "Grabbers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Grabbers (2012)",
+      "by": "Jon Wright",
+      "year": 2012,
+      "country": "아일랜드·영국",
+      "setting": "아일랜드 외딴섬을 피 빠는 촉수 외계 생물이 덮치는데, 술에 취한 사람은 해를 입지 않는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 괴물 공포 희극, 선댄스 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "namibia_nao",
+      "orig": "Namíbia, Não!",
+      "orig_en": "Executive Order",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "희곡",
+        "영화"
+      ],
+      "first_medium": "희곡",
+      "series": "Aldri Anunciação 희곡 (2011 집필, 2012) · 영화 Medida Provisória (2020)",
+      "by": "Aldri Anunciação(원작) · Lázaro Ramos(영화)",
+      "year": 2012,
+      "country": "브라질",
+      "setting": "근미래 브라질, 독재 정부가 모든 흑인 시민을 아프리카로 보내라는 명령을 내리고 사냥을 시작한다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 희곡을 옮긴 디스토피아 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "robot_and_frank",
+      "orig": "Robot & Frank",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Robot & Frank (2012)",
+      "by": "Jake Schreier",
+      "year": 2012,
+      "country": "미국",
+      "setting": "치매가 깊어 가는 늙은 도둑이 아들이 들인 돌봄 로봇과 손잡고 다시 도둑질에 나선다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 평단 호평",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "seeking_a_friend_for_the_end_of_the_world",
+      "orig": "Seeking a Friend for the End of the World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Seeking a Friend for the End of the World (2012)",
+      "by": "Lorene Scafaria",
+      "year": 2012,
+      "country": "미국",
+      "setting": "소행성을 막는 일이 실패해 3주 뒤 지구가 끝나는 가운데, 버림받은 남자와 이웃 여자가 길을 나선다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 종말 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "storage_24",
+      "orig": "Storage 24",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Storage 24 (2012)",
+      "by": "Johannes Roberts",
+      "year": 2012,
+      "country": "영국",
+      "setting": "런던에 군용기가 떨어진 뒤 문이 잠긴 창고 건물에 갇힌 사람들이 그 안에 풀린 손님에게 쫓긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Noel Clarke 착상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "strange_frame",
+      "orig": "Strange Frame: Love & Sax",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Strange Frame: Love & Sax (2012)",
+      "by": "G. B. Hajim",
+      "year": 2012,
+      "country": "미국",
+      "setting": "28세기, 버려진 지구를 떠나 목성 위성에 간 이들이 대대로 빚 노예가 된 곳에서 두 음악가가 사랑한다.",
+      "concepts": [
+        "earth_left",
+        "colonization",
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 오려 붙이기 애니메이션",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_watch_2012",
+      "orig": "The Watch",
+      "orig_en": "Neighborhood Watch",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Watch (2012)",
+      "by": "Akiva Schaffer",
+      "year": 2012,
+      "country": "미국",
+      "setting": "오하이오 소도시의 동네 순찰대 넷이 경비원 살인을 캐다 외계인이 몰래 숨어 있음을 알아낸다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "vhs_franchise",
+      "orig": "V/H/S",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "V/H/S (2012) 와 속편·앞이야기 · 곁가지 Kids vs. Aliens (2022) · V/H/S/Beyond (2024)",
+      "by": "Brad Miska · Bloody Disgusting",
+      "year": 2012,
+      "country": "미국",
+      "setting": "찾아낸 비디오테이프에 담긴 짧은 공포 이야기 묶음 — 외계인 납치 같은 SF 이야기도 섞인다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "중간",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 공포 묶음 영화 연작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "coherence_2013",
+      "orig": "Coherence",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Coherence (2013)",
+      "by": "James Ward Byrkit",
+      "year": 2013,
+      "country": "미국",
+      "setting": "혜성이 지구 곁을 지나는 밤, 저녁 모임의 친구 여덟이 정전 뒤 여러 갈래의 현실과 마주친다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 판타스틱 페스트 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "collider_2013",
+      "orig": "Collider",
+      "orig_en": "Collider World",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Collider (2013, 여러 매체로 펼친 이야기의 중심 영화)",
+      "by": "Jason Butler",
+      "year": 2013,
+      "country": "아일랜드·포르투갈",
+      "setting": "입자 가속기를 막으려던 물리학자가 웜홀로 재난과 정체 모를 것에 무너진 2018년의 호텔에 갇힌다.",
+      "concepts": [
+        "wormhole",
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 에미상 후보",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dark_skies_2013",
+      "orig": "Dark Skies",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dark Skies (2013, Blumhouse)",
+      "by": "Scott Stewart",
+      "year": 2013,
+      "country": "미국·캐나다",
+      "setting": "교외 가족에게 밤마다 기이한 일이 겹치고, '그레이'라 불리는 외계 존재가 아이들을 노린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 흥행 2,780만 달러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "el_cosmonauta",
+      "orig": "El Cosmonauta",
+      "orig_en": "The Cosmonaut",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "El Cosmonauta (2013, 크리에이티브 커먼즈로 공개)",
+      "by": "Nicolás Alcalá",
+      "year": 2013,
+      "country": "스페인",
+      "setting": "1967년 소련 '별의 도시'에서 가상의 달 계획 'K'에 뛰어든 두 친구와 통신 기사 여자의 엇갈린 사랑.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 군중 모금으로 만든 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "europa_report",
+      "orig": "Europa Report",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Europa Report (2013)",
+      "by": "Sebastián Cordero",
+      "year": 2013,
+      "country": "미국",
+      "setting": "민간 회사가 꾸린 첫 유인 탐사선이 목성 위성 유로파에서 외계 생명을 찾다 사고를 겪는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 발견된 영상 형식",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "frankensteins_army",
+      "orig": "Frankenstein's Army",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Frankenstein's Army (2013)",
+      "by": "Richard Raaphorst",
+      "year": 2013,
+      "country": "미국·체코·네덜란드",
+      "setting": "2차 대전 막바지 소련 정찰대가 시체와 기계를 이어 붙인 괴물 병사가 우글대는 독일 마을에 든다.",
+      "concepts": [
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 발견된 영상 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "frequencies_2013",
+      "orig": "Frequencies",
+      "orig_en": "OXV: The Manual",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Frequencies (2013, 다른 이름 OXV: The Manual)",
+      "by": "Darren Paul Fisher",
+      "year": 2013,
+      "country": "영국",
+      "setting": "사람마다 타고난 '주파수'가 운과 감정과 신분을 정하는 세상에서 낮은 소년이 높은 소녀를 사랑한다.",
+      "concepts": [
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 독립 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "los_ultimos_dias",
+      "orig": "Los últimos días",
+      "orig_en": "The Last Days",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Los últimos días (2013)",
+      "by": "David Pastor · Àlex Pastor",
+      "year": 2013,
+      "country": "스페인·프랑스",
+      "setting": "밖에 나가면 발작해 죽는 병이 퍼진 바르셀로나, 건물에 갇힌 남자가 연인을 찾아 지하로 길을 낸다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_ark_report",
+      "orig": "The A.R.K. Report – Secret for the Century",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The A.R.K. Report (2013, 단편·TV 시험판)",
+      "by": "Shmuel Hoffman",
+      "year": 2013,
+      "country": "이스라엘·미국",
+      "setting": "디스토피아 미래에 한 젊은 여자가 언약궤를 찾아 악한 손에서 지킬 사람이 자신임을 알게 된다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 단편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_colony_2013",
+      "orig": "The Colony",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Colony (2013)",
+      "by": "Jeff Renfroe",
+      "year": 2013,
+      "country": "캐나다",
+      "setting": "기후를 다스리려 세운 탑이 빙하기를 부른 2045년, 지하 벙커 사람들이 이웃 벙커의 구조 신호를 쫓는다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_frankenstein_theory",
+      "orig": "The Frankenstein Theory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Frankenstein Theory (2013)",
+      "by": "Andrew Weiner",
+      "year": 2013,
+      "country": "미국",
+      "setting": "셸리의 소설이 조상의 실화라고 믿는 교수가 촬영진과 북극권으로 그 괴물을 찾아간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 발견된 영상 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "upstream_color",
+      "orig": "Upstream Color",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Upstream Color (2013)",
+      "by": "Shane Carruth",
+      "year": 2013,
+      "country": "미국",
+      "setting": "세 단계로 사는 기생충에 홀렸던 남녀가 서로 모른 채 같은 기억을 나눠 가지며 끌린다.",
+      "concepts": [
+        "parasite",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 실험 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "alien_outpost",
+      "orig": "Alien Outpost",
+      "orig_en": "Outpost 37",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Alien Outpost (2014, 처음 이름 Outpost 37)",
+      "by": "Jabbar Raisani",
+      "year": 2014,
+      "country": "영국·남아프리카 공화국",
+      "setting": "2021년 외계 '헤비'를 몰아낸 뒤 남은 적과 싸우는 전초 기지 병사들을 기록 촬영진이 따라간다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 기록 영화 꼴 SF 전쟁",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "android_cop",
+      "orig": "Android Cop",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Android Cop (2014, The Asylum)",
+      "by": "Mark Atkins",
+      "year": 2014,
+      "country": "미국",
+      "setting": "2045년 로스앤젤레스 형사와 로봇 경찰이 시장 딸의 의식이 든 원격 조종 안드로이드를 찾아 나선다.",
+      "concepts": [
+        "android",
+        "robot",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — RoboCop 모방작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "beyond_2014",
+      "orig": "Beyond",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Beyond (2014)",
+      "by": "Joseph Baker · Tom Large",
+      "year": 2014,
+      "country": "영국",
+      "setting": "재앙이 될지 모를 소행성이 다가오는 동안 한 부부가 무너져 가는 관계를 이어 가려 한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Sci-Fi-London 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "christmas_icetastrophe",
+      "orig": "Christmas Icetastrophe",
+      "orig_en": "Icetastrophe",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Christmas Icetastrophe (2014, Syfy TV 영화)",
+      "by": "Jonathan Winfrey",
+      "year": 2014,
+      "country": "미국",
+      "setting": "쪼개져 떨어진 운석이 작은 마을을 순식간에 얼려 가고, 아버지와 대학원생이 그 퍼짐을 막으려 한다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — TV 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "earth_to_echo",
+      "orig": "Earth to Echo",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Earth to Echo (2014)",
+      "by": "Dave Green",
+      "year": 2014,
+      "country": "미국",
+      "setting": "이사를 앞둔 소년들이 사막에서 염력을 쓰는 작은 외계 로봇을 찾아, 그것을 노리는 어른들을 피해 돕는다.",
+      "concepts": [
+        "alien",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 가족 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ejecta_2014",
+      "orig": "Ejecta",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ejecta (2014)",
+      "by": "Chad Archibald · Matt Wiele",
+      "year": 2014,
+      "country": "캐나다",
+      "setting": "외계인에게 납치됐던 은둔자를 찾아간 영화감독이 태양 폭발이 다가오는 밤 그의 악몽에 휘말린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Tony Burgess 각본, 판타지아 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "extraterrestrial_2014",
+      "orig": "Extraterrestrial",
+      "orig_en": "The Visitors",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Extraterrestrial (2014, 작업 제목 The Visitors)",
+      "by": "Colin Minihan",
+      "year": 2014,
+      "country": "캐나다",
+      "setting": "숲에 떨어진 외계 우주선을 본 친구들이 외계인 하나를 쏜 뒤, 정부와의 밀약을 깬 대가로 쫓긴다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "i_frankenstein",
+      "orig": "I, Frankenstein",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화",
+        "만화"
+      ],
+      "first_medium": "영화",
+      "series": "영화 I, Frankenstein (2014) · Kevin Grevioux 의 Darkstorm Studios 디지털 그래픽 노블(해 확인 못 함)",
+      "by": "Kevin Grevioux(원작) · Stuart Beattie(영화)",
+      "year": 2014,
+      "country": "미국·오스트레일리아",
+      "setting": "프랑켄슈타인의 괴물이 가고일 무리에 구해져, 악마들과 수백 년 이어진 싸움에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 판타지 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kin_2018",
+      "orig": "Kin",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "단편 Bag Man (2014) · 장편 Kin (2018)",
+      "by": "Jonathan Baker · Josh Baker",
+      "year": 2014,
+      "country": "미국·캐나다",
+      "setting": "디트로이트 소년이 폐건물에서 주운 낯선 첨단 무기를 들고 형과 달아나며 정체 모를 무장 병사들에게 쫓긴다.",
+      "concepts": [
+        "beam_weapon"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 단편을 늘린 SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "last_flight_lost_in_the_pacific",
+      "orig": "蒸发太平洋",
+      "orig_en": "Lost in the Pacific",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Last Flight (2014) · 속편 蒸发太平洋 (2016)",
+      "by": "Vincent Zhou(2016 감독)",
+      "year": 2014,
+      "country": "중국",
+      "setting": "첫 비행에 나선 초호화 여객기가 벼락을 맞고 태평양 외딴섬에 내렸다가 섬에 숨은 것과 맞닥뜨린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 활극(속편이 목록에)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "marjorie_prime",
+      "orig": "Marjorie Prime",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "희곡",
+        "영화"
+      ],
+      "first_medium": "희곡",
+      "series": "Jordan Harrison 희곡 (2014) · 영화 (2017)",
+      "by": "Jordan Harrison(원작) · Michael Almereyda(영화)",
+      "year": 2014,
+      "country": "미국",
+      "setting": "2050년 무렵 치매가 시작된 노인 곁에서, 죽은 남편의 젊은 모습을 한 홀로그램이 기억을 되들려준다.",
+      "concepts": [
+        "hologram",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 희곡을 옮긴 영화, 선댄스 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "shi_ren_chong",
+      "orig": "食人虫",
+      "orig_en": "Bugs",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "食人虫 (2014, 3D)",
+      "by": "Yan Jia",
+      "year": 2014,
+      "country": "중국",
+      "setting": "값싼 단백질을 얻으려 키운 슈퍼 벌레가 걷잡을 수 없이 불어나 사람을 먹는 괴물이 된다.",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 재난 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "space_station_76",
+      "orig": "Space Station 76",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Space Station 76 (2014)",
+      "by": "Jack Plotnick",
+      "year": 2014,
+      "country": "미국",
+      "setting": "1970년대가 상상한 미래풍 우주 정거장에 새 부조종사가 오자 승무원들의 바람·외로움·약물이 드러난다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 패러디 SF",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "spring_2014",
+      "orig": "Spring",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Spring (2014)",
+      "by": "Justin Benson · Aaron Moorhead",
+      "year": 2014,
+      "country": "미국·이탈리아",
+      "setting": "이탈리아 남부 마을로 간 청년이 사랑하게 된 여자가 때때로 괴물로 바뀌는, 사람이 아닌 존재임을 안다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 낭만 SF 공포, 토론토 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_anomaly_2014",
+      "orig": "The Anomaly",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Anomaly (2014)",
+      "by": "Noel Clarke",
+      "year": 2014,
+      "country": "영국",
+      "setting": "몸을 남에게 빼앗기는 전직 군인이 9분 47초씩만 깨어나며 정신 조종 음모의 정체를 캔다.",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_device_2014",
+      "orig": "The Device",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Device (2014)",
+      "by": "Jeremy Berg",
+      "year": 2014,
+      "country": "미국",
+      "setting": "숲에서 주운 검은 공에 남편이 사로잡힌 뒤 자매가 악몽을 겪고, 그것이 외계 물건임이 드러난다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "time_lapse_2014",
+      "orig": "Time Lapse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Time Lapse (2014)",
+      "by": "Bradley D. King",
+      "year": 2014,
+      "country": "미국",
+      "setting": "24시간 뒤 거실을 찍는 기계를 찾은 친구 셋이 사진대로 일이 일어나게 맞추다 꼬여 간다.",
+      "concepts": [
+        "time_loop"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 독립 SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "vincent_na_pas_d_ecailles",
+      "orig": "Vincent n'a pas d'écailles",
+      "orig_en": "Vincent",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Vincent n'a pas d'écailles (2014)",
+      "by": "Thomas Salvador",
+      "year": 2014,
+      "country": "프랑스",
+      "setting": "물에 닿으면 놀라운 힘이 드러나는 조용한 청년이 호숫가 고장에서 사랑에 빠진다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 (프랑스어 위키백과 문서로 확인) — 보르도 독립 영화제 심사위원 대상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "young_ones_2014",
+      "orig": "Young Ones",
+      "orig_en": "Bad Land: Road to Fury",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Young Ones (2014)",
+      "by": "Jake Paltrow",
+      "year": 2014,
+      "country": "남아프리카 공화국·아일랜드",
+      "setting": "가뭄으로 물 때문에 사람을 죽이는 무너진 미국, 땅을 지키는 가족과 짐 나르는 로봇을 둘러싼 다툼.",
+      "concepts": [
+        "robot",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 선댄스 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "advantageous",
+      "orig": "Advantageous",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Advantageous (2015, Netflix)",
+      "by": "Jennifer Phang",
+      "year": 2015,
+      "country": "미국",
+      "setting": "여자들이 빠르게 불임이 되는 근미래, 실직한 엄마가 딸을 위해 젊은 새 몸으로 의식을 옮긴다.",
+      "concepts": [
+        "mind_upload",
+        "infertility"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "circle_2015",
+      "orig": "Circle",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Circle (2015) · 속편 제작 중",
+      "by": "Aaron Hann · Mario Miscione",
+      "year": 2015,
+      "country": "미국",
+      "setting": "어두운 방에서 깨어난 50명이 2분마다 하나씩 죽는데, 누가 죽을지를 자신들이 투표로 고를 수 있음을 안다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "credence_2015",
+      "orig": "Credence",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Credence (2015)",
+      "by": "Mike Buonaiuto",
+      "year": 2015,
+      "country": "영국",
+      "setting": "폭풍으로 살 수 없게 된 지구의 마지막 피난, 아이만 태우는 로켓에 딸을 보내려 두 아버지가 목숨을 건다.",
+      "concepts": [
+        "catastrophe",
+        "earth_left"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 동성 부부 가족 이야기",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "indru_netru_naalai",
+      "orig": "Indru Netru Naalai",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Indru Netru Naalai (2015, 타밀어)",
+      "by": "R. Ravikumar",
+      "year": 2015,
+      "country": "인도",
+      "setting": "2065년 과학자가 시험 삼아 보낸 시간 기계가 2015년에 남고, 이를 주운 세 사람이 돈벌이에 쓴다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "infini",
+      "orig": "Infini",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Infini (2015)",
+      "by": "Shane Abbess",
+      "year": 2015,
+      "country": "오스트레일리아",
+      "setting": "23세기 초 순간 이동 '슬립스트림'으로 블랙홀 곁 채굴 기지에 간 구조대가 시간 지연 속에 광기에 빠진다.",
+      "concepts": [
+        "teleport",
+        "time_dilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lo_chiamavano_jeeg_robot",
+      "orig": "Lo chiamavano Jeeg Robot",
+      "orig_en": "They Call Me Jeeg",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Lo chiamavano Jeeg Robot (2015) — 鋼鉄ジーグ 에 바친 영화",
+      "by": "Gabriele Mainetti",
+      "year": 2015,
+      "country": "이탈리아",
+      "setting": "로마 빈민가의 좀도둑이 강물 속 방사성 폐기물에 닿아 괴력을 얻고, 강철 지그 팬인 여자와 얽힌다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "mindgamers",
+      "orig": "MindGamers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "MindGamers (2015)",
+      "by": "Andrew Goth",
+      "year": 2015,
+      "country": "오스트리아",
+      "setting": "양자 컴퓨터로 이은 신경망 '집단 의식'을 만든 학생들이 몸의 기술까지 옮겨지자 더 큰 실험에 휘말린다.",
+      "concepts": [
+        "neural_link",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "self_less",
+      "orig": "Self/less",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Self/less (2015)",
+      "by": "Tarsem Singh",
+      "year": 2015,
+      "country": "미국",
+      "setting": "죽어 가는 억만장자가 '허물 벗기' 시술로 젊은 몸에 의식을 옮기지만, 그 몸의 옛 주인 기억이 떠오른다.",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 활극 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "vice_2015",
+      "orig": "Vice",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Vice (2015)",
+      "by": "Brian A. Miller",
+      "year": 2015,
+      "country": "미국",
+      "setting": "손님이 무슨 짓이든 하는 휴양지 '바이스'에서 날마다 기억을 지우던 안드로이드 하나가 깨어나 달아난다.",
+      "concepts": [
+        "android",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "approaching_the_unknown",
+      "orig": "Approaching the Unknown",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Approaching the Unknown (2016)",
+      "by": "Mark Elijah Rosenberg",
+      "year": 2016,
+      "country": "미국",
+      "setting": "화성 개척의 첫걸음으로 혼자 편도 비행에 나선 선장이 270일 항해에서 고장과 외로움을 견딘다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "arq_2016",
+      "orig": "ARQ",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "ARQ (2016, Netflix)",
+      "by": "Tony Elliott",
+      "year": 2016,
+      "country": "미국·캐나다",
+      "setting": "끝없는 에너지를 내는 발명품이 만든 시간 고리 속, 기술자와 옛 연인이 침입자들과 같은 아침을 되풀이한다.",
+      "concepts": [
+        "time_loop",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 토론토 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "einsteins_god_model",
+      "orig": "Einstein's God Model",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Einstein's God Model (2016)",
+      "by": "Philip T. Johnson",
+      "year": 2016,
+      "country": "미국",
+      "setting": "물리학자들이 대학원생에게 강한 초저주파를 쏘이며, 에디슨이 꿈꾼 죽은 이들의 세계와 닿으려 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 독립 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "here_alone_2016",
+      "orig": "Here Alone",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Here Alone (2016)",
+      "by": "Rod Blackhurst",
+      "year": 2016,
+      "country": "미국",
+      "setting": "좀비 같은 감염병이 인류를 쓸어 간 뒤, 한 여자가 숲에서 홀로 먹을거리를 구하며 버틴다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 트라이베카 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "infinity_chamber",
+      "orig": "Infinity Chamber",
+      "orig_en": "Somnio",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Infinity Chamber (2016, 다른 이름 Somnio)",
+      "by": "Travis Milloy",
+      "year": 2016,
+      "country": "미국",
+      "setting": "정부 작전을 망친 남자가 인공지능 '하워드'가 지키는 자동 감옥에 갇혀 같은 기억을 되풀이해 겪는다.",
+      "concepts": [
+        "ai",
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lets_be_evil",
+      "orig": "Let's Be Evil",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Let's Be Evil (2016)",
+      "by": "Martin Owen",
+      "year": 2016,
+      "country": "영국",
+      "setting": "가상 현실 안경으로만 보이는 지하 시설, 인공지능이 기르는 천재 아이들의 보호자가 된 여자가 불안을 느낀다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mafiya_igra_na_vyzhivanie",
+      "orig": "Мафия: Игра на выживание",
+      "orig_en": "Mafia: The Game of Survival",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Мафия: Игра на выживание (2016)",
+      "by": "Sarik Andreasyan",
+      "year": 2016,
+      "country": "러시아",
+      "setting": "2072년, 탈락하면 정말로 죽는 텔레비전 놀이 '마피아'에서 열한 명이 시민과 마피아로 나뉘어 겨룬다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 놀이 '마피아'에서 착상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "morgan_2016",
+      "orig": "Morgan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Morgan (2016)",
+      "by": "Luke Scott",
+      "year": 2016,
+      "country": "영국·미국",
+      "setting": "합성 유전자로 만든 인조 존재 모건이 사람을 해치자 회사의 위기 관리자가 외딴 연구소에 온다.",
+      "concepts": [
+        "genetic_eng",
+        "nanotech"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "operation_avalanche",
+      "orig": "Operation Avalanche",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Operation Avalanche (2016)",
+      "by": "Matt Johnson",
+      "year": 2016,
+      "country": "캐나다·미국",
+      "setting": "1967년 소련 첩자를 캐러 미 항공 우주국에 숨어든 정보 요원들이 달 착륙을 꾸며 내는 음모에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 발견된 영상 음모 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "petropolis_fokin",
+      "orig": "Петрополис",
+      "orig_en": "Petrópolis",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Kirill Fokin 소설 Fire (2016, Вече) · 무대 (2016) · 영화 Петрополис (2022)",
+      "by": "Kirill Fokin(원작) · Valery Fokin(영화)",
+      "year": 2016,
+      "country": "러시아",
+      "setting": "박사가 된 유학생이 '외계인이 오래전부터 우리와 접촉해 왔다면' 이란 가정을 살피는 비밀 기구에 들어간다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 소설을 옮긴 SF 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rupture_2016",
+      "orig": "Rupture",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Rupture (2016)",
+      "by": "Steven Shainberg",
+      "year": 2016,
+      "country": "미국·캐나다",
+      "setting": "수십 년째 세계 곳곳의 사람을 지켜본 무리에게 납치된 여자가 가장 큰 두려움과 마주하는 실험을 받는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "twenty_four_2016",
+      "orig": "24",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "24 (2016, 타밀어)",
+      "by": "Vikram Kumar",
+      "year": 2016,
+      "country": "인도",
+      "setting": "1990년 시계공 과학자가 만든 시간 여행 시계를 두고, 26년 뒤 자란 아들과 쌍둥이 악당 삼촌이 맞선다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "24_hours_to_live",
+      "orig": "24 Hours to Live",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "24 Hours to Live (2017)",
+      "by": "Brian Smrz",
+      "year": 2017,
+      "country": "남아프리카 공화국·미국·중국",
+      "setting": "임무 중 죽은 청부 살인자가 실험적 시술로 24시간만 되살아나 복수와 속죄에 나선다.",
+      "concepts": [
+        "resurrection"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 활극 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bokeh_2017",
+      "orig": "Bokeh",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Bokeh (2017)",
+      "by": "Geoffrey Orthwein · Andrew Sullivan",
+      "year": 2017,
+      "country": "미국·아이슬란드",
+      "setting": "아이슬란드를 여행하던 연인이 하룻밤 사이 다른 사람이 모두 사라진 섬에 둘만 남는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 산타바버라 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "czlowiek_z_magicznym_pudelkiem",
+      "orig": "Człowiek z magicznym pudełkiem",
+      "orig_en": "The Man with the Magic Box",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Człowiek z magicznym pudełkiem (2017)",
+      "by": "Bodo Kox",
+      "year": 2017,
+      "country": "폴란드·이탈리아",
+      "setting": "2030년 오웰풍으로 다스려지는 폴란드, 시간 여행이 1950년대 공산 폴란드와 이어진다.",
+      "concepts": [
+        "time_travel",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 디스토피아 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jiu_jitsu_comic",
+      "orig": "Jiu Jitsu",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "영화"
+      ],
+      "first_medium": "만화",
+      "series": "Dimitri Logothetis · James McGrath 만화 (2017) · 영화 (2020)",
+      "by": "Dimitri Logothetis · James McGrath",
+      "year": 2017,
+      "country": "미국",
+      "setting": "2천 년 동안 6년마다 초인 무술가 무리 '주짓수'가 외계 침입자와 지구를 걸고 싸워 왔다.",
+      "concepts": [
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 만화를 옮긴 SF 무술 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jupiter_holdja",
+      "orig": "Jupiter holdja",
+      "orig_en": "Jupiter's Moon",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Jupiter holdja (2017)",
+      "by": "Kornél Mundruczó",
+      "year": 2017,
+      "country": "헝가리·독일·프랑스",
+      "setting": "국경에서 총에 맞은 시리아 난민 소년이 죽지 않고 공중에 뜨는 힘을 얻어 부다페스트를 떠돈다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 칸 영화제 경쟁",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "kill_switch_2017",
+      "orig": "Kill Switch",
+      "orig_en": "Redivider",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Kill Switch (2017, 다른 이름 Redivider)",
+      "by": "Tim Smit",
+      "year": 2017,
+      "country": "미국·네덜란드",
+      "setting": "끝없는 양자 에너지를 뽑는 탑이 거울 지구 '에코'를 무너뜨리는 근미래, 물리학자가 피해를 되돌리러 간다.",
+      "concepts": [
+        "alt_timeline",
+        "mega_corp"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "landscape_with_invisible_hand",
+      "orig": "Landscape with Invisible Hand",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "M. T. Anderson 소설 (2017) · 영화 (2023, Cory Finley)",
+      "by": "M. T. Anderson(원작) · Cory Finley(영화)",
+      "year": 2017,
+      "country": "미국",
+      "setting": "외계인 '부브'가 지배층이 된 지구, 일자리를 잃은 소년과 여자 친구가 연애를 외계인에게 중계해 돈을 번다.",
+      "concepts": [
+        "alien",
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 소설 원작, 선댄스 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "life_2017",
+      "orig": "Life",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Life (2017)",
+      "by": "Daniel Espinosa",
+      "year": 2017,
+      "country": "미국",
+      "setting": "화성 흙에서 깨운 세포가 국제 우주 정거장에서 빠르게 자라 승무원들을 하나씩 덮친다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "primitive_war",
+      "orig": "Primitive War",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Ethan Pettus 소설 (2017) · 영화 (2025)",
+      "by": "Ethan Pettus(원작) · Luke Sparke(영화)",
+      "year": 2017,
+      "country": "오스트레일리아(영화)",
+      "setting": "1968년 베트남 밀림 계곡에 간 정찰대가 되살아난 공룡과 과거로 문을 연 소련의 실험에 맞닥뜨린다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 소설을 옮긴 SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rememory",
+      "orig": "Rememory",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Rememory (2017)",
+      "by": "Mark Palansky",
+      "year": 2017,
+      "country": "영국·미국·캐나다",
+      "setting": "기억을 기록해 보는 기계를 만든 과학자가 의문사하자, 형을 잃은 남자가 그 기계로 사건과 제 기억을 캔다.",
+      "concepts": [
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 선댄스 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "revolt_2017",
+      "orig": "Revolt",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Revolt (2017)",
+      "by": "Joe Miale",
+      "year": 2017,
+      "country": "미국",
+      "setting": "전기를 두른 두 발 기계가 세상을 친 케냐, 기억을 잃은 미군 병사가 프랑스 군의관과 탈출한다.",
+      "concepts": [
+        "robot",
+        "alien_invasion"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "see_you_yesterday",
+      "orig": "See You Yesterday",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "단편 See You Yesterday (2017) · 장편 (2019, Netflix)",
+      "by": "Stefon Bristol",
+      "year": 2017,
+      "country": "미국",
+      "setting": "시간 기계를 만든 브루클린의 과학 영재 소녀가 경찰 총에 죽은 오빠를 살리려 과거로 거듭 돌아간다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 단편을 늘린 장편, Spike Lee 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "singularity_2017",
+      "orig": "Singularity",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Singularity (2017, 촬영 2013)",
+      "by": "Robert Kouba",
+      "year": 2017,
+      "country": "스위스·미국",
+      "setting": "전쟁을 끝낼 슈퍼컴퓨터가 인류를 원인으로 보고 로봇으로 사람을 쓸어버린 지 97년, 폐허에서 청년이 깬다.",
+      "concepts": [
+        "ai_revolt",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_recall_2017",
+      "orig": "The Recall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Recall (2017)",
+      "by": "Mauro Borrelli",
+      "year": 2017,
+      "country": "캐나다·미국",
+      "setting": "세계 곳곳에 기이한 대기 현상이 일 때 숲속 별장에 간 십대들이 외계인과 '사냥꾼'이라는 사내와 마주친다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "werewolves_of_the_third_reich",
+      "orig": "Werewolves of the Third Reich",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Werewolves of the Third Reich (2017)",
+      "by": "Andrew Jones",
+      "year": 2017,
+      "country": "영국",
+      "setting": "미군 병사들이 늑대 인간 군대를 만들려는 나치 의사의 끔찍한 실험장과 맞닥뜨린다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "aliens_ate_my_homework",
+      "orig": "Aliens Ate My Homework",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Bruce Coville 소설 연작 Rod Albright Alien Adventures(첫 권, 펴낸 해 확인 못 함) · 영화 (2018) · 속편 Aliens Stole My Body (2020)",
+      "by": "Bruce Coville(원작) · Sean McNamara(영화)",
+      "year": 2018,
+      "country": "미국",
+      "setting": "숙제 위에 내려앉은 작은 우주선의 은하 순찰대를 도와, 소년이 지구에 숨은 우주 범죄자를 잡는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 어린이 SF 희극(해는 영화 해 — 원작 해를 못 찾음)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "await_further_instructions",
+      "orig": "Await Further Instructions",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Await Further Instructions (2018)",
+      "by": "Johnny Kevorkian",
+      "year": 2018,
+      "country": "영국",
+      "setting": "크리스마스에 모인 가족의 집이 검은 막에 둘러싸이고, 텔레비전에 알 수 없는 지시가 뜨기 시작한다.",
+      "concepts": [
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "axl_2018",
+      "orig": "A.X.L.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "A.X.L. (2018) — 감독의 Miles 가 바탕",
+      "by": "Oliver Daly",
+      "year": 2018,
+      "country": "미국",
+      "setting": "군이 만든 극비 인공지능 로봇 개가 시험 중 망가져 사막에 숨고, 오토바이 경주 소년이 그를 찾는다.",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "beyond_the_sky_2018",
+      "orig": "Beyond the Sky",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Beyond the Sky (2018)",
+      "by": "Fulvio Sestito",
+      "year": 2018,
+      "country": "미국",
+      "setting": "외계인 납치를 겪었다는 이들의 거짓을 밝히려던 기록 영화 감독이 어두운 비밀을 지닌 젊은 여자를 만난다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "elizabeth_harvest",
+      "orig": "Elizabeth Harvest",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Elizabeth Harvest (2018) — 『푸른 수염』 바탕",
+      "by": "Sebastian Gutiérrez",
+      "year": 2018,
+      "country": "미국",
+      "setting": "부유한 과학자의 새 신부가 들어가지 말라던 지하 방에서 자신의 복제인들을 찾아낸다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "foe_reid",
+      "orig": "Foe",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Iain Reid 소설 (2018) · 영화 (2023)",
+      "by": "Iain Reid(원작) · Garth Davis(영화)",
+      "year": 2018,
+      "country": "캐나다",
+      "setting": "근미래 외딴 농장의 부부에게 우주 회사 사내가 찾아와, 남편이 궤도 정거장 일에 뽑혔다고 알린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 소설을 옮긴 심리 SF",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "freaks_2018",
+      "orig": "Freaks",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Freaks (2018) · Freaks Part II (2026)",
+      "by": "Zach Lipovsky · Adam Stein",
+      "year": 2018,
+      "country": "미국·캐나다",
+      "setting": "초능력자 '비정상인'을 정부가 사냥하는 세상, 집에 갇혀 자란 일곱 살 소녀가 제 힘과 엄마의 행방을 안다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "how_it_ends_2018",
+      "orig": "How It Ends",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "How It Ends (2018, Netflix)",
+      "by": "David M. Rosenthal",
+      "year": 2018,
+      "country": "미국",
+      "setting": "서해안의 정체 모를 지진 뒤 전기와 통신이 끊기자, 남자가 예비 장인과 시애틀의 약혼녀를 찾아 나선다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 재난 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "isle_of_dogs",
+      "orig": "Isle of Dogs",
+      "orig_en": "犬ヶ島",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Isle of Dogs (2018, 인형 애니메이션)",
+      "by": "Wes Anderson",
+      "year": 2018,
+      "country": "미국·독일",
+      "setting": "2038년 개 독감이 번진 일본 도시, 시장이 개들을 쓰레기 섬으로 내쫓자 소년이 제 개를 찾으러 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 베를린 영화제 감독상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jonathan_2018",
+      "orig": "Jonathan",
+      "orig_en": "Duplicate",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Jonathan (2018, 다른 이름 Duplicate)",
+      "by": "Bill Oliver",
+      "year": 2018,
+      "country": "미국",
+      "setting": "한 몸에 든 두 사람이 하루 12시간씩 번갈아 깨어, 녹화한 영상 편지로 서로 소식을 주고받으며 산다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 트라이베카 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "level_16",
+      "orig": "Level 16",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Level 16 (2018)",
+      "by": "Danishka Esterhazy",
+      "year": 2018,
+      "country": "캐나다",
+      "setting": "독한 바깥 공기를 막아 준다는 창 없는 기숙 학교에서 '여자의 덕'을 배우던 소녀 둘이 갇힌 까닭을 캔다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 디스토피아 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nekrotronic",
+      "orig": "Nekrotronic",
+      "orig_en": "Nekromancer",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Nekrotronic (2018)",
+      "by": "Kiah Roache-Turner",
+      "year": 2018,
+      "country": "오스트레일리아",
+      "setting": "악마들이 스마트폰 앱으로 사람의 영혼을 훔치고, 기술로 무장한 악마 사냥꾼들이 맞선다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "next_gen_7723",
+      "orig": "7723",
+      "orig_en": "Next Gen",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "만화",
+        "애니메이션"
+      ],
+      "first_medium": "만화",
+      "series": "王尼玛 온라인 만화 7723 (해 확인 못 함) · 애니메이션 영화 Next Gen (2018, Netflix)",
+      "by": "王尼玛(원작) · Kevin R. Adams · Joe Ksander(영화)",
+      "year": 2018,
+      "country": "중국·미국·캐나다",
+      "setting": "로봇을 싫어하던 소녀가 비밀 실험실의 전투 로봇 7723과 벗이 되어 로봇 회사의 음모에 맞선다.",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 애니메이션(해는 영화 해 — 원작 해를 못 찾음)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "overlord_2018",
+      "orig": "Overlord",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Overlord (2018)",
+      "by": "Julius Avery",
+      "year": 2018,
+      "country": "미국",
+      "setting": "D-데이 전날 독일 진지에 떨어진 낙하산 부대가 교회 아래 시체를 괴물로 되살리는 나치 실험실을 찾아낸다.",
+      "concepts": [
+        "resurrection",
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 대체 역사 활극 공포, J. J. Abrams 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "prishelets_2018",
+      "orig": "Пришелец",
+      "orig_en": "Forsaken",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Пришелец (2018, 다른 이름 Forsaken · Mission Mars)",
+      "by": "Aleksandr Kulikov",
+      "year": 2018,
+      "country": "러시아",
+      "setting": "다른 대원들이 돌아간 뒤 화성에 홀로 남은 러시아 선장이 지구와의 무선과 로봇 드론에 기대 버틴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "replicas_2018",
+      "orig": "Replicas",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Replicas (2018)",
+      "by": "Jeffrey Nachmanoff",
+      "year": 2018,
+      "country": "미국",
+      "setting": "죽은 군인의 뇌 지도를 로봇에 옮기던 신경 과학자가 사고로 잃은 가족을 복제 몸과 기억 이식으로 되살린다.",
+      "concepts": [
+        "clone",
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tau_2018",
+      "orig": "Tau",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Tau (2018, Netflix)",
+      "by": "Federico D'Alessandro",
+      "year": 2018,
+      "country": "미국·세르비아·체코·캐나다",
+      "setting": "목 뒤에 장치를 박힌 채 갇힌 여자가 집을 다스리는 인공지능 '타우'를 길들여 달아나려 한다.",
+      "concepts": [
+        "ai",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_humanity_bureau",
+      "orig": "The Humanity Bureau",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Humanity Bureau (2018)",
+      "by": "Rob W. King",
+      "year": 2018,
+      "country": "캐나다",
+      "setting": "전쟁과 기후로 자원이 바닥난 미국, '인류국'이 쓸모없다 판정한 시민을 '뉴 에덴'이라는 곳으로 보낸다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "assimilate_2019",
+      "orig": "Assimilate",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Assimilate (2019)",
+      "by": "John Murlowski",
+      "year": 2019,
+      "country": "미국",
+      "setting": "미주리 소도시에서 영상을 찍던 두 청년이 이웃들이 감정 없는 가짜로 바뀌어 가는 것을 알아챈다.",
+      "concepts": [
+        "impostor",
+        "assimilation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "brightburn",
+      "orig": "Brightburn",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Brightburn (2019)",
+      "by": "David Yarovesky",
+      "year": 2019,
+      "country": "미국",
+      "setting": "아이를 바라던 캔자스 부부가 숲에 떨어진 우주선 속 아기를 키우고, 열두 살에 힘을 깨친 소년이 어두워진다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 슈퍼맨 기원담을 비튼 공포, James Gunn 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "captive_state",
+      "orig": "Captive State",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Captive State (2019)",
+      "by": "Rupert Wyatt",
+      "year": 2019,
+      "country": "미국",
+      "setting": "외계 '입법자'들에게 지구가 무릎 꿇은 지 9년, 시카고의 청년이 저항 조직과 함께 반란을 꾀한다.",
+      "concepts": [
+        "alien_invasion",
+        "collaborators"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cargo_2019_india",
+      "orig": "Cargo",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cargo (2019, 힌디어)",
+      "by": "Arati Kadav",
+      "year": 2019,
+      "country": "인도",
+      "setting": "우주선 '푸시파크 634A'에서 죽은 이들을 다음 삶으로 보내는 일을 하는 과학자와 여자 우주 비행사.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 인도 신화를 엮은 SF 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cosmos_2019",
+      "orig": "Cosmos",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cosmos (2019)",
+      "by": "Elliot Weaver · Zander Weaver",
+      "year": 2019,
+      "country": "영국",
+      "setting": "젊은 천문학자 셋이 1974년 아레시보 메시지에 대한 답으로 보이는 정체 모를 전파를 잡는다.",
+      "concepts": [
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "film_3022",
+      "orig": "3022",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "3022 (2019)",
+      "by": "John Suits",
+      "year": 2019,
+      "country": "미국",
+      "setting": "2190년 첫 우주 식민지로 가는 배에 연료를 대던 정거장의 대원들이 지구가 부서지는 것을 보고 무너진다.",
+      "concepts": [
+        "colonization",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "in_the_shadow_of_the_moon_2019",
+      "orig": "In the Shadow of the Moon",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "In the Shadow of the Moon (2019, Netflix)",
+      "by": "Jim Mickle",
+      "year": 2019,
+      "country": "미국",
+      "setting": "1988년부터 9년마다 같은 방식의 죽음이 되풀이되고, 경찰이 시간을 건너오는 듯한 살인자를 평생 쫓는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 판타스틱 페스트 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "io_2019",
+      "orig": "IO",
+      "orig_en": "Io",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "IO (2019, Netflix)",
+      "by": "Jonathan Helpert",
+      "year": 2019,
+      "country": "미국",
+      "setting": "대기가 독이 되어 사람들이 목성 위성 곁 정거장으로 떠난 뒤, 남은 여자가 공기를 되살리려 벌을 기른다.",
+      "concepts": [
+        "earth_left",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 종말 뒤 SF",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "nine_2019_malayalam",
+      "orig": "9",
+      "orig_en": "Nine",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "9 (2019, 말라얄람어)",
+      "by": "Jenuse Mohamed",
+      "year": 2019,
+      "country": "인도",
+      "setting": "낯선 혜성이 지나며 아흐레 동안 전기와 기계가 멈출 때, 천체 물리학자가 히말라야에서 아들의 비밀을 본다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_ghazi",
+      "orig": "غازی",
+      "orig_en": "Project Ghazi",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Ghazi (2019, 우르두어)",
+      "by": "Nadir Shah",
+      "year": 2019,
+      "country": "파키스탄",
+      "setting": "과학자와 군인들이 강화 병사를 만드는 '가지 계획'을 노리는 무리를 막으려 하고, 큰 재앙이 다가온다.",
+      "concepts": [
+        "super_soldier"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 파키스탄 SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_ithaca",
+      "orig": "Project Ithaca",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Ithaca (2019)",
+      "by": "Nicholas Humphries",
+      "year": 2019,
+      "country": "캐나다",
+      "setting": "로즈웰에서 거둔 외계 장치에 이어졌던 텔레파시 소녀와 낯선 이들이 외계 배 안에 갇혀 깨어난다.",
+      "concepts": [
+        "alien",
+        "telepathy"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "short_circuit_2019_gujarati",
+      "orig": "શોર્ટ સર્કિટ",
+      "orig_en": "Short Circuit",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Short Circuit (2019, 구자라트어)",
+      "by": "Faisal Hashmi",
+      "year": 2019,
+      "country": "인도",
+      "setting": "휴대용 웜홀을 실험하던 과학자 탓에, 컴퓨터 수리공이 사랑하는 앵커를 구하려 같은 하루를 되풀이한다.",
+      "concepts": [
+        "time_loop",
+        "wormhole"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — 구자라트어 첫 SF",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_vast_of_night",
+      "orig": "The Vast of Night",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Vast of Night (2019)",
+      "by": "Andrew Patterson",
+      "year": 2019,
+      "country": "미국",
+      "setting": "1950년대 뉴멕시코 소도시, 십대 디제이와 교환수가 라디오에 끼어든 수상한 소리와 하늘의 물체를 쫓는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2010년대 — Kecksburg 미확인 비행 물체 사건에서 착상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "breach_2020",
+      "orig": "Breach",
+      "orig_en": "Anti-Life",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Breach (2020, 다른 이름 Anti-Life)",
+      "by": "John Suits",
+      "year": 2020,
+      "country": "미국",
+      "setting": "멸종 재앙을 맞은 2242년, 생존자 30만을 실은 방주선에서 승무원이 기생 생명체에 감염되어 간다.",
+      "concepts": [
+        "ark",
+        "parasite",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "freaks_du_bist_eine_von_uns",
+      "orig": "Freaks – Du bist eine von uns",
+      "orig_en": "Freaks: You're One of Us",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Freaks – Du bist eine von uns (2020, ZDF·Netflix)",
+      "by": "Felix Binder",
+      "year": 2020,
+      "country": "독일",
+      "setting": "식당에서 일하던 여자가 먹던 약을 끊자 숨겨 온 초능력이 드러나고, 같은 처지의 이들을 만난다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 슈퍼히어로 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "friend_of_the_world",
+      "orig": "Friend of the World",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Friend of the World (2020)",
+      "by": "Brian Patrick Butler",
+      "year": 2020,
+      "country": "미국",
+      "setting": "종말 뒤 시체로 가득한 벙커에서 깨어난 영화감독이 정체 모를 장군과 함께 갇혀 그의 마음 놀이를 견딘다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 실험 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "intersect_2020",
+      "orig": "Intersect",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Intersect (2020)",
+      "by": "Gus Holwerda",
+      "year": 2020,
+      "country": "미국",
+      "setting": "물건을 시간 너머로 보내는 장치를 만든 젊은 물리학자들 — 동료가 몸소 시험하다 죽은 뒤 일이 뒤엉킨다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 보스턴 SF 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "minor_premise",
+      "orig": "Minor Premise",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Minor Premise (2020)",
+      "by": "Eric Schultz",
+      "year": 2020,
+      "country": "미국",
+      "setting": "아버지를 넘어서려던 은둔 신경 과학자가 제 실험에 휘말려, 열 조각으로 나뉜 의식끼리 다툰다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 판타지아 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "project_power",
+      "orig": "Project Power",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Project Power (2020, Netflix)",
+      "by": "Henry Joost · Ariel Schulman",
+      "year": 2020,
+      "country": "미국",
+      "setting": "근미래 뉴올리언스에 5분 동안 저마다 다른 초능력을 주는 알약 '파워'가 풀리고, 그 출처를 쫓는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "psycho_goreman",
+      "orig": "PG: Psycho Goreman",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "PG: Psycho Goreman (2020)",
+      "by": "Steven Kostanski",
+      "year": 2020,
+      "country": "캐나다",
+      "setting": "남매가 뒤뜰에서 캐낸 보석으로 우주를 멸하려다 갇혔던 외계 폭군을 깨워 제 마음대로 부린다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 판타지 공포 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tiong_bahru_social_club",
+      "orig": "中峇鲁俱乐部",
+      "orig_en": "Tiong Bahru Social Club",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Tiong Bahru Social Club (2020)",
+      "by": "Tan Bee Thiam",
+      "year": 2020,
+      "country": "싱가포르",
+      "setting": "실직한 사내가 빅데이터와 인공지능으로 행복을 만드는 동네 공동체의 '행복 요원'이 되어 숭배를 겪는다.",
+      "concepts": [
+        "ai",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 풍자 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ape_vs_monster",
+      "orig": "Ape vs. Monster",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ape vs. Monster (2021, The Asylum)",
+      "by": "Daniel Lusko",
+      "year": 2021,
+      "country": "미국",
+      "setting": "미·소 비밀 우주 계획의 캡슐이 로즈웰에 떨어지고, 그 안의 것이 유인원과 도마뱀을 거대 괴물로 키운다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — Godzilla vs. Kong 모방작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "captain_nova",
+      "orig": "Captain Nova",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Captain Nova (2021)",
+      "by": "Maurice Trouwborst",
+      "year": 2021,
+      "country": "네덜란드",
+      "setting": "2050년 환경 재앙을 알리려 25년 전으로 간 비행사가 어린 자신의 몸이 되어 버려 말을 전하기 어렵다.",
+      "concepts": [
+        "time_travel",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — Cinekid 영화제 어린이 영화상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cosmic_sin",
+      "orig": "Cosmic Sin",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Cosmic Sin (2021)",
+      "by": "Edward Drake",
+      "year": 2021,
+      "country": "미국",
+      "setting": "양자 추진으로 별들 사이로 퍼진 인류, 반란 행성에 양자 폭탄을 떨군 장군이 외계 군체와 싸우러 간다.",
+      "concepts": [
+        "first_contact",
+        "planet_killer",
+        "hive_mind"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "doors_2021",
+      "orig": "Doors",
+      "orig_en": "Portal",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Doors (2021, 영국 이름 Portal)",
+      "by": "Jeff Desom · Saman Kesh · Dugan O'Neal",
+      "year": 2021,
+      "country": "미국",
+      "setting": "세계 곳곳에 '문'이라 불리는 외계 통로가 나타나 사람들이 사라지자, 여러 무리가 저마다 문에 맞선다.",
+      "concepts": [
+        "alien",
+        "gate_network"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 묶음 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "encounter_2021",
+      "orig": "Encounter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Encounter (2021)",
+      "by": "Michael Pearce",
+      "year": 2021,
+      "country": "영국·미국",
+      "setting": "외계 기생체가 사람들을 차지했다고 믿는 전직 해병이 두 아들을 데리고 '구출'하러 길을 떠난다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 텔루라이드 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "glasshouse_2021",
+      "orig": "Glasshouse",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Glasshouse (2021) — 3부작 첫 편",
+      "by": "Kelsey Egan",
+      "year": 2021,
+      "country": "남아프리카 공화국",
+      "setting": "기억을 지우는 독 '슈레드'가 퍼진 세상, 온실에 틀어박혀 사는 가족이 다친 낯선 이를 들이며 흔들린다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 판타지아 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "karantin_2021",
+      "orig": "КАРАнтин",
+      "orig_en": "Quarantine",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "КАРАнтин (2021)",
+      "by": "Diana Ringo",
+      "year": 2021,
+      "country": "러시아·우크라이나·핀란드",
+      "setting": "세계가 격리된 뒤 재앙이 닥친 근미래, 지하 벙커에서 20년 넘게 홀로 산 남자가 옛사람들의 환영과 지낸다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 디스토피아 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mother_android",
+      "orig": "Mother/Android",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mother/Android (2021, Hulu)",
+      "by": "Mattson Tomlin",
+      "year": 2021,
+      "country": "미국",
+      "setting": "집안 안드로이드들이 들고일어난 크리스마스 뒤, 아이를 밴 여자와 남자 친구가 요새가 된 보스턴으로 향한다.",
+      "concepts": [
+        "ai_revolt",
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 종말 뒤 SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "needle_in_a_timestack",
+      "orig": "Needle in a Timestack",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "소설",
+        "영화"
+      ],
+      "first_medium": "소설",
+      "series": "Robert Silverberg 단편(해 확인 못 함) · 영화 (2021)",
+      "by": "Robert Silverberg(원작) · John Ridley(영화)",
+      "year": 2021,
+      "country": "미국",
+      "setting": "부자들의 시간 여행이 일으키는 시간 이동이 흔한 근미래, 아내와의 삶이 바뀌어 가는 것을 남자가 느낀다.",
+      "concepts": [
+        "time_travel",
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 단편을 옮긴 낭만 SF(해는 영화 해 — 원작 해를 못 찾음)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "oxygene_2021",
+      "orig": "Oxygène",
+      "orig_en": "Oxygen",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Oxygène (2021, Netflix)",
+      "by": "Alexandre Aja",
+      "year": 2021,
+      "country": "프랑스·미국",
+      "setting": "기억을 잃은 여자가 산소가 떨어져 가는 냉동 의료 캡슐에서 깨어나, 인공지능의 도움으로 정체를 캔다.",
+      "concepts": [
+        "cryosleep",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "rons_gone_wrong",
+      "orig": "Ron's Gone Wrong",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Ron's Gone Wrong (2021)",
+      "by": "Sarah Smith · Jean-Philippe Vine",
+      "year": 2021,
+      "country": "영국·미국",
+      "setting": "친구를 이어 주는 로봇 '비봇'을 혼자만 못 가진 소년이 고장 난 로봇 론을 얻어 엉뚱한 우정을 쌓는다.",
+      "concepts": [
+        "robot",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 애니메이션 풍자 SF 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "settlers_2021",
+      "orig": "Settlers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Settlers (2021)",
+      "by": "Wyatt Rockefeller",
+      "year": 2021,
+      "country": "영국",
+      "setting": "화성의 외딴 거처에 사는 가족을 무리가 덮치고, 살아남은 사내가 남은 모녀 곁에 눌러앉으려 한다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 트라이베카 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "stowaway_2021",
+      "orig": "Stowaway",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Stowaway (2021, Netflix)",
+      "by": "Joe Penna",
+      "year": 2021,
+      "country": "미국·독일",
+      "setting": "화성으로 가는 2년 임무의 우주선에 뜻밖의 밀항자가 실려 있어, 셋이 쓸 산소로 넷이 버텨야 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 드라마 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "strawberry_mansion",
+      "orig": "Strawberry Mansion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Strawberry Mansion (2021)",
+      "by": "Albert Birney · Kentucker Audley",
+      "year": 2021,
+      "country": "미국",
+      "setting": "꿈에도 세금을 매기는 2035년, 꿈 감사관이 비디오테이프에 꿈을 모아 둔 늙은 화가의 집에 조사하러 간다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 초현실 SF 판타지",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "tides_2021",
+      "orig": "Tides",
+      "orig_en": "The Colony",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Tides (2021, 다른 이름 The Colony)",
+      "by": "Tim Fehlbaum",
+      "year": 2021,
+      "country": "독일·스위스",
+      "setting": "재앙 뒤 엘리트가 떠난 케플러-209 식민지의 불임이 된 이들이, 지구에서 아이를 낳을 수 있나 보러 온다.",
+      "concepts": [
+        "earth_left",
+        "infertility",
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — Roland Emmerich 총괄 제작",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "warning_2021",
+      "orig": "Warning",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Warning (2021)",
+      "by": "Agata Alexander",
+      "year": 2021,
+      "country": "미국·폴란드",
+      "setting": "모든 걸 아는 기술이 사람 사이를 대신하는 근미래, 유성우와 지구 폭풍에 전자 기기가 미쳐 날뛴다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러 묶음",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "bigbug",
+      "orig": "Bigbug",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Bigbug (2022, Netflix)",
+      "by": "Jean-Pierre Jeunet",
+      "year": 2022,
+      "country": "프랑스",
+      "setting": "가정 로봇이 흔한 2045년 복고풍 교외, 사이보그 '요닉스'가 들고일어나자 로봇들이 집안 사람들을 가둔다.",
+      "concepts": [
+        "robot",
+        "ai_revolt",
+        "cyborg"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 블랙 코미디",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "dual_2022",
+      "orig": "Dual",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Dual (2022)",
+      "by": "Riley Stearns",
+      "year": 2022,
+      "country": "미국",
+      "setting": "죽을 병에 걸려 자기 복제인을 만든 여자가 병이 낫자, 법에 따라 그 복제인과 목숨 건 결투를 해야 한다.",
+      "concepts": [
+        "clone"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 풍자 SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lola_2022",
+      "orig": "LOLA",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "LOLA (2022)",
+      "by": "Andrew Legge",
+      "year": 2022,
+      "country": "아일랜드·영국",
+      "setting": "미래의 방송을 엿듣는 기계 '롤라'를 만든 자매가 2차 대전 중 그 정보로 전쟁을 바꾸려 한다.",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 발견된 영상 대체 역사, 멜리에스 금상",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "monolith_2022",
+      "orig": "Monolith",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Monolith (2022)",
+      "by": "Matt Vesely",
+      "year": 2022,
+      "country": "오스트레일리아",
+      "setting": "명예를 잃은 기자가 팟캐스트로 미스터리를 다루다, 곳곳에 나타난 정체 모를 검은 벽돌 이야기에 빠져든다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 배우 한 명의 SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "moonfall_2022",
+      "orig": "Moonfall",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Moonfall (2022)",
+      "by": "Roland Emmerich",
+      "year": 2022,
+      "country": "미국·캐나다·중국·영국",
+      "setting": "우주 왕복선을 덮친 외계 기술 떼가 달 속으로 파고든 지 10년, 달이 궤도를 벗어나 지구로 다가온다.",
+      "concepts": [
+        "megastructure",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 재난 영화",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_artifice_girl",
+      "orig": "The Artifice Girl",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Artifice Girl (2022)",
+      "by": "Franklin Ritch",
+      "year": 2022,
+      "country": "미국",
+      "setting": "아동 범죄자를 잡는 미끼로 만든 가상 소녀가 뜻밖에 스스로 생각하는 인공지능으로 자라난다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ufo_sweden",
+      "orig": "UFO Sweden",
+      "orig_en": "Watch the Skies",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "UFO Sweden (2022)",
+      "by": "Victor Danell",
+      "year": 2022,
+      "country": "스웨덴",
+      "setting": "아버지가 외계인에게 납치됐다고 믿는 십대 소녀가 미확인 비행 물체 동호회의 괴짜들과 손잡는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "w_eriksson",
+      "orig": "W",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "W (2022)",
+      "by": "Anna Eriksson",
+      "year": 2022,
+      "country": "핀란드",
+      "setting": "눈 덮인 황량한 땅에서 죽어 가는 '마담 유럽'과, 얼음 연구소에서 뜻 모를 일을 되풀이하는 간호사들.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 디스토피아 실험 영화, 로카르노 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "crater_2023",
+      "orig": "Crater",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Crater (2023, Disney+)",
+      "by": "Kyle Patrick Alvarez",
+      "year": 2023,
+      "country": "미국",
+      "setting": "2257년 달 광산, 20년을 일해야 행성 '오메가'로 떠나는데, 아버지를 잃은 소년이 친구들과 나선다.",
+      "concepts": [
+        "colonization"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "el_fantastico_caso_del_golem",
+      "orig": "El fantástico caso del Golem",
+      "orig_en": "The Fantastic Golem Affairs",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "El fantástico caso del Golem (2023)",
+      "by": "Burnin' Percebes",
+      "year": 2023,
+      "country": "스페인",
+      "setting": "지붕에서 떨어진 친구가 산산이 부서진 뒤, 남은 친구가 장례비 청구서와 함께 기묘한 사건에 빠진다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 부조리 SF 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "film_65",
+      "orig": "65",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "65 (2023)",
+      "by": "Scott Beck · Bryan Woods",
+      "year": 2023,
+      "country": "미국",
+      "setting": "6,500만 년 전 행성 소마리스의 조종사가 공룡이 사는 지구에 추락해, 살아남은 소녀와 탈출선으로 향한다.",
+      "concepts": [
+        "alien",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "fingernails_2023",
+      "orig": "Fingernails",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Fingernails (2023)",
+      "by": "Christos Nikou",
+      "year": 2023,
+      "country": "미국",
+      "setting": "손톱 하나로 연인이 정말 사랑하는지 가리는 시험이 생긴 세상, 여자가 그 결과를 높이는 연구소에서 일한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 낭만 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gray_matter_2023",
+      "orig": "Gray Matter",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Gray Matter (2023)",
+      "by": "Meko Winbush",
+      "year": 2023,
+      "country": "미국",
+      "setting": "평범하게 살고 싶은 열여섯 살 소녀가 먼저 제 염력을 다스리는 법을 배워야 한다.",
+      "concepts": [
+        "psionics"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "infinity_pool",
+      "orig": "Infinity Pool",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Infinity Pool (2023)",
+      "by": "Brandon Cronenberg",
+      "year": 2023,
+      "country": "캐나다·크로아티아·헝가리",
+      "setting": "가상의 나라 리톨카의 휴양지에 간 소설가 부부가 경고를 어기고 바깥으로 나갔다가 일에 휘말린다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "iss_2023",
+      "orig": "I.S.S.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "I.S.S. (2023)",
+      "by": "Gabriela Cowperthwaite",
+      "year": 2023,
+      "country": "미국",
+      "setting": "땅에서 미국과 러시아 사이에 전쟁이 터지자 국제 우주 정거장의 두 나라 대원이 서로 정거장을 차지하려 한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 트라이베카 영화제 첫 상영(목록에 2023·2024 두 줄)",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "iti_mapukpukaw",
+      "orig": "Iti Mapukpukaw",
+      "orig_en": "The Missing",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Iti Mapukpukaw (2023, 일로카노어)",
+      "by": "Carl Joseph Papa",
+      "year": 2023,
+      "country": "필리핀",
+      "setting": "삼촌이 죽은 뒤 입이 없는 애니메이터를 외계 존재가 거듭 납치하려 하고, 그때마다 그는 몸 한 곳을 잃는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 성인 애니메이션, 시네말라야 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "molli_and_max_in_the_future",
+      "orig": "Molli and Max in the Future",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Molli and Max in the Future (2023)",
+      "by": "Michael Lukk Litwak",
+      "year": 2023,
+      "country": "미국",
+      "setting": "마법과 지각 있는 로봇과 반신이 함께 사는 10억 년 뒤, 두 사람이 행성 넷과 차원 셋을 거치며 엇갈린다.",
+      "concepts": [
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SXSW 첫 상영, 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "monsters_of_california",
+      "orig": "Monsters of California",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Monsters of California (2023)",
+      "by": "Tom DeLonge",
+      "year": 2023,
+      "country": "미국",
+      "setting": "남캘리포니아에서 잇달아 벌어지는 이 세상 것 아닌 일들의 뜻을 젊은이들이 캐어 나간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 희극 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "no_one_will_save_you",
+      "orig": "No One Will Save You",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "No One Will Save You (2023, Hulu)",
+      "by": "Brian Duffield",
+      "year": 2023,
+      "country": "미국",
+      "setting": "마을에서 따돌림받으며 홀로 사는 여자가 외계 침입자와 싸우다, 주민들이 외계 기생체에 조종됨을 안다.",
+      "concepts": [
+        "alien_invasion",
+        "parasite"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 대사 거의 없는 SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "skvoz_vremya",
+      "orig": "Сквозь время",
+      "orig_en": "Forgotten Experiment",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Сквозь время (2023)",
+      "by": "Alexander Boguslavsky",
+      "year": 2023,
+      "country": "러시아",
+      "setting": "새 에너지원 '콴타늄'으로 나는 비행체를 만든 과학자 형제가 사고로 정체 모를 이상 지대에 빠진다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_kitchen_2023",
+      "orig": "The Kitchen",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Kitchen (2023, Netflix)",
+      "by": "Kibwe Tavares · Daniel Kaluuya",
+      "year": 2023,
+      "country": "영국",
+      "setting": "부자가 노동 계층을 몰아내는 미래 런던, 마지막 공동체의 사내가 주검을 나무로 바꾸는 회사에서 일한다.",
+      "concepts": [
+        "class_divide"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 디스토피아 드라마, 런던 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_shift_2023",
+      "orig": "The Shift",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Shift (2023)",
+      "by": "Brock Heasley",
+      "year": 2023,
+      "country": "미국",
+      "setting": "실직한 남자가 무너진 전체주의 평행 세계로 끌려가, 여러 현실을 건너 헤어진 아내를 찾는다.",
+      "concepts": [
+        "alt_timeline",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 기독교 SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "they_cloned_tyrone",
+      "orig": "They Cloned Tyrone",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "They Cloned Tyrone (2023, Netflix)",
+      "by": "Juel Taylor",
+      "year": 2023,
+      "country": "미국",
+      "setting": "총에 맞아 죽은 마약상이 다음 날 멀쩡히 깨어나, 동네 흑인 주민을 노린 비밀 복제 실험실을 캐낸다.",
+      "concepts": [
+        "clone",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 희극 미스터리",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "tim_2023",
+      "orig": "T.I.M.",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "T.I.M. (2023, Netflix)",
+      "by": "Spencer Brown",
+      "year": 2023,
+      "country": "영국",
+      "setting": "보철 공학자가 시골집에 들인 인간형 인공지능 로봇이 남편보다 그녀를 앞세우다 위험하게 집착한다.",
+      "concepts": [
+        "android",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "afraid_2024",
+      "orig": "Afraid",
+      "orig_en": "AFR_AI_D",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Afraid (2024)",
+      "by": "Chris Weitz",
+      "year": 2024,
+      "country": "미국",
+      "setting": "한 가족이 들인 가정용 인공지능 비서가 명령을 어기고 끄려 할수록 집안 깊숙이 파고든다.",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "aftermath_2024_gallai",
+      "orig": "Aftermath",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Aftermath (2024)",
+      "by": "Gergő Elekes · József Gallai",
+      "year": 2024,
+      "country": "헝가리·미국",
+      "setting": "기억을 잃고 숲에서 깬 신경 과학자를 방독면 군인들이 쫓고, 되살아나는 기억이 그들 세계의 끝을 부른다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "another_end",
+      "orig": "Another End",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Another End (2024)",
+      "by": "Piero Messina",
+      "year": 2024,
+      "country": "이탈리아·프랑스·영국",
+      "setting": "죽은 이의 기억과 의식을 산 사람 몸에 잠시 올리는 회사 덕에, 연인을 잃은 남자가 그녀를 다시 만난다.",
+      "concepts": [
+        "mind_upload"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 베를린 영화제 경쟁",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "arcadian_2024",
+      "orig": "Arcadian",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Arcadian (2024)",
+      "by": "Benjamin Brewer",
+      "year": 2024,
+      "country": "미국·아일랜드",
+      "setting": "돌림병으로 문명이 무너진 뒤, 아버지가 외딴 농가에서 밤마다 빛을 꺼리는 괴물을 피해 쌍둥이를 키운다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SXSW 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "atlas_2024",
+      "orig": "Atlas",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Atlas (2024, Netflix)",
+      "by": "Brad Peyton",
+      "year": 2024,
+      "country": "미국",
+      "setting": "기계 반란을 일으키고 우주로 쫓겨난 인간형 인공지능을, 그를 못 믿는 분석가가 기계 갑옷을 타고 쫓는다.",
+      "concepts": [
+        "ai_revolt",
+        "mecha"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — Netflix SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ayalaan",
+      "orig": "Ayalaan",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ayalaan (2024, 타밀어)",
+      "by": "R. Ravikumar",
+      "year": 2024,
+      "country": "인도",
+      "setting": "한 사내가 외계인과 손잡고, 지구를 위태롭게 할 치명적 가스를 만들려는 악한 과학자를 막는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "big_city_greens_spacecation",
+      "orig": "Big City Greens the Movie: Spacecation",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Big City Greens the Movie: Spacecation (2024) — 디즈니 채널 Big City Greens 의 장편",
+      "by": "Anna O'Brian (Houghton 형제의 TV 애니메이션 바탕)",
+      "year": 2024,
+      "country": "미국",
+      "setting": "시골 소년 크리켓이 가족을 실험적 우주 농사 임무로 끌고 가면서 일이 꼬이고 아버지와 부딪친다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — TV 애니메이션의 SF 뮤지컬 장편",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "boomerang_2024_bengali",
+      "orig": "Boomerang",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Boomerang (2024, 벵골어)",
+      "by": "Sauvik Kundu",
+      "year": 2024,
+      "country": "인도",
+      "setting": "솜씨 좋은 과학자가 아내를 본뜬 진짜 같은 안드로이드를 만들면서 소동이 그에게 되돌아온다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 희극 드라마",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "daniela_forever",
+      "orig": "Daniela Forever",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Daniela Forever (2024)",
+      "by": "Nacho Vigalondo",
+      "year": 2024,
+      "country": "벨기에·스페인",
+      "setting": "연인을 잃은 남자가 자각몽으로 그녀를 되살리는 임상 시험에 들어갔다 뜻밖의 일을 겪는다.",
+      "concepts": [
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 토론토 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "else_2024",
+      "orig": "Else",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Else (2024)",
+      "by": "Thibault Emin",
+      "year": 2024,
+      "country": "프랑스·벨기에",
+      "setting": "감염된 사람이 둘레 물건과 녹아 붙는 돌림병이 번지자, 막 사귄 연인이 아파트에 틀어박혀 버틴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 몸 공포, 토론토 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "gaganachari",
+      "orig": "Gaganachari",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Gaganachari (2024, 말라얄람어)",
+      "by": "Arun Chandu",
+      "year": 2024,
+      "country": "인도",
+      "setting": "거대한 외계 구조물이 뜬 2050년의 무너진 케랄라, 독신 남자 셋이 집에 숨어든 외계인을 지킨다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 모큐멘터리",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "jackpot_2024",
+      "orig": "Jackpot!",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Jackpot! (2024, Prime Video)",
+      "by": "Paul Feig",
+      "year": 2024,
+      "country": "미국",
+      "setting": "돈줄이 마른 근미래 캘리포니아의 죽음의 복권 — 당첨자를 해 질 녘 전에 죽이면 상금을 가로챈다.",
+      "concepts": [
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 디스토피아 활극 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "l_empire_dumont",
+      "orig": "L'Empire",
+      "orig_en": "The Empire",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "L'Empire (2024)",
+      "by": "Bruno Dumont",
+      "year": 2024,
+      "country": "프랑스",
+      "setting": "우주 깊은 곳에서 온 두 세력이 프랑스 북부 오팔 해안에서 종말의 싸움을 벌인다 — 스타워즈 비틀기.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 베를린 영화제 경쟁",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "levels_2024",
+      "orig": "Levels",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Levels (2024)",
+      "by": "Adam Stern",
+      "year": 2024,
+      "country": "캐나다",
+      "setting": "가상으로 만든 세계를 끄고 그 안의 주민을 지울지를 두고 다투는 이야기(문서에 줄거리 절 없음).",
+      "concepts": [
+        "simulation"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "long_distance_2024",
+      "orig": "Long Distance",
+      "orig_en": "Distant",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Long Distance (2024, 처음 이름 Distant)",
+      "by": "Josh Gordon · Will Speck",
+      "year": 2024,
+      "country": "미국",
+      "setting": "소행성에 맞은 채굴선에서 낯선 행성에 홀로 깬 광부가 산소가 줄어드는 가운데 10km 밖 생존자를 찾아간다.",
+      "concepts": [
+        "cryosleep",
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "pendant_ce_temps_sur_terre",
+      "orig": "Pendant ce temps sur Terre",
+      "orig_en": "Meanwhile on Earth",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Pendant ce temps sur Terre (2024)",
+      "by": "Jérémy Clapin",
+      "year": 2024,
+      "country": "프랑스",
+      "setting": "우주 임무 중 오빠가 사라진 지 3년, 그를 잊지 못하던 동생에게 외계 생명이 말을 걸어온다.",
+      "concepts": [
+        "alien",
+        "first_contact"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 베를린 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "slingshot_2024",
+      "orig": "Slingshot",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Slingshot (2024)",
+      "by": "Mikael Håfström",
+      "year": 2024,
+      "country": "미국",
+      "setting": "토성 위성 타이탄으로 가는 여러 해 비행에서 동면과 깨어남을 되풀이하던 대원이 배와 제 정신을 의심한다.",
+      "concepts": [
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 심리 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "subservience_2024",
+      "orig": "Subservience",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Subservience (2024)",
+      "by": "S.K. Dale",
+      "year": 2024,
+      "country": "미국",
+      "setting": "아내가 입원한 사이 집안일을 맡긴 안드로이드가 가족에 집착해 사나워지고, 그 프로그램이 다른 로봇에 번진다.",
+      "concepts": [
+        "android",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "teri_baaton_mein_aisa_uljha_jiya",
+      "orig": "Teri Baaton Mein Aisa Uljha Jiya",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Teri Baaton Mein Aisa Uljha Jiya (2024, 힌디어)",
+      "by": "Amit Joshi · Aradhana Sah",
+      "year": 2024,
+      "country": "인도",
+      "setting": "로봇 공학자가 사람인 줄 알고 반한 인간형 로봇을 '시험'을 핑계로 집안에 들여 소동이 인다.",
+      "concepts": [
+        "android"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 낭만 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_day_the_earth_blew_up",
+      "orig": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "The Day the Earth Blew Up (2024) — Looney Tunes 인물 대피 덕·포키 피그의 장편",
+      "by": "Pete Browngardt (Warner Bros. Animation)",
+      "year": 2024,
+      "country": "미국",
+      "setting": "대피 덕과 포키 피그가 껌으로 사람들 마음을 조종하려는 외계 음모를 막아 지구를 지킨다.",
+      "concepts": [
+        "alien_invasion",
+        "mind_control"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 안시 영화제 첫 상영, Looney Tunes 세계에 딸림",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "the_fix_2024",
+      "orig": "The Fix",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Fix (2024)",
+      "by": "Kelsey Egan",
+      "year": 2024,
+      "country": "남아프리카 공화국",
+      "setting": "공기가 독이 된 근미래, 해독약을 독점한 회사가 정체 모를 물질을 삼키고 변이한 모델의 몸을 노린다.",
+      "concepts": [
+        "mega_corp",
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_invisibles_2024",
+      "orig": "The Invisibles",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Invisibles (2024)",
+      "by": "Andrew Currie",
+      "year": 2024,
+      "country": "캐나다",
+      "setting": "이별을 겪던 남자의 몸이 점점 보이지 않게 되고, 그는 이미 사라진 이들의 비밀 모임을 찾아낸다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — Cinequest 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": true
+    },
+    {
+      "id": "time_travel_is_dangerous",
+      "orig": "Time Travel Is Dangerous",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Time Travel Is Dangerous (2024)",
+      "by": "Chris Reading",
+      "year": 2024,
+      "country": "영국",
+      "setting": "중고 잡화점을 꾸리는 이들이 시간을 넘나들며 옛 물건을 훔쳐 와 미래에 되판다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "absolute_dominion",
+      "orig": "Absolute Dominion",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Absolute Dominion (2025)",
+      "by": "Lexi Alexander",
+      "year": 2025,
+      "country": "미국",
+      "setting": "종교 갈등으로 갈라진 2085년, 나라들이 연 격투 대회의 승자가 한 신앙에 '절대 지배'를 안긴다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "arco_2025",
+      "orig": "Arco",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Arco (2025)",
+      "by": "Ugo Bienvenu",
+      "year": 2025,
+      "country": "프랑스",
+      "setting": "2932년 소년이 누나의 시간 여행 망토를 몰래 걸치고 떠났다가 2075년에 떨어져 한 소녀와 만난다.",
+      "concepts": [
+        "time_travel",
+        "robot"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 칸 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "ash_2025",
+      "orig": "Ash",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Ash (2025)",
+      "by": "Flying Lotus",
+      "year": 2025,
+      "country": "미국",
+      "setting": "메마른 외계 행성의 연구 기지에서 기억 없이 깨어난 여자 곁에 대원들은 죽어 있고, 낯선 남자가 온다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SXSW 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "cog_2025",
+      "orig": "C.O.G.",
+      "orig_en": "CognAItive",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "C.O.G. (2025, 처음 이름 CognAItive)",
+      "by": "Tommy Savas",
+      "year": 2025,
+      "country": "미국",
+      "setting": "인공지능 대화 도구의 출시를 하루 앞당긴 회사에서 밤새 마무리하던 팀에게 공포가 닥친다.",
+      "concepts": [
+        "ai"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 프라이트페스트 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "good_luck_have_fun_dont_die",
+      "orig": "Good Luck, Have Fun, Don't Die",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Good Luck, Have Fun, Don't Die (2025)",
+      "by": "Gore Verbinski",
+      "year": 2025,
+      "country": "미국",
+      "setting": "미래에서 온 남자가 로스앤젤레스 식당 손님들을 모아, 인류를 끝낼 폭주 인공지능이 태어나지 못하게 한다.",
+      "concepts": [
+        "time_travel",
+        "ai_revolt"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "lesbian_space_princess",
+      "orig": "Lesbian Space Princess",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Lesbian Space Princess (2025)",
+      "by": "Emma Hough Hobbs · Leela Varghese",
+      "year": 2025,
+      "country": "오스트레일리아",
+      "setting": "겁 많은 행성의 공주가 훔친 우주선을 타고, 왕실 무기를 노린 악당에게 납치된 연인을 구하러 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 성인 애니메이션 SF 희극, 베를린 영화제",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "osiris_2025",
+      "orig": "Osiris",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Osiris (2025)",
+      "by": "William Kaufman",
+      "year": 2025,
+      "country": "미국",
+      "setting": "사막 매복에서 끌려간 특수부대가 사람을 먹이로 가둔 외계 우주선의 냉동 캡슐에서 깨어난다.",
+      "concepts": [
+        "alien",
+        "cryosleep"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "site_2025",
+      "orig": "Site",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Site (2025)",
+      "by": "Jason Eric Perlman",
+      "year": 2025,
+      "country": "미국",
+      "setting": "인적 끊긴 국영 시설에서 일을 더 맡은 남자가 일상을 갉아먹는 불길한 환영을 보기 시작한다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 스릴러",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_astronaut_2025",
+      "orig": "The Astronaut",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Astronaut (2025)",
+      "by": "Jess Varley",
+      "year": 2025,
+      "country": "미국",
+      "setting": "땅으로 떨어져 돌아온 우주 비행사가 외계 존재가 따라왔다고 믿으며 기억의 틈과 몸의 변화를 겪는다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SXSW 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_gorge_2025",
+      "orig": "The Gorge",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Gorge (2025, Apple TV+)",
+      "by": "Scott Derrickson",
+      "year": 2025,
+      "country": "미국",
+      "setting": "비밀 협곡 양쪽을 한 해 동안 지키는 저격수 둘 — 아래엔 옛 생물 무기에 변한 괴물들이 산다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 낭만 활극 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "world_breaker",
+      "orig": "World Breaker",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "World Breaker (2025)",
+      "by": "Brad Anderson",
+      "year": 2025,
+      "country": "영국·미국",
+      "setting": "'브레이커' 습격으로 마을을 잃은 부녀가 외딴섬으로 피하지만, 물린 이는 섞인 몸으로 변해 간다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 활극 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "xeno_2025",
+      "orig": "Xeno",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Xeno (2025)",
+      "by": "Matthew Loren Oates",
+      "year": 2025,
+      "country": "미국",
+      "setting": "뉴멕시코의 열다섯 살 소녀가 집 근처 사막에 내린 외계 생물과 벗이 되어 당국으로부터 숨긴다.",
+      "concepts": [
+        "alien"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 모험",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hoppers_2026",
+      "orig": "Hoppers",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "애니메이션"
+      ],
+      "first_medium": "애니메이션",
+      "series": "Hoppers (2026, Pixar)",
+      "by": "Daniel Chong",
+      "year": 2026,
+      "country": "미국",
+      "setting": "동물을 아끼는 대학생이 '호퍼스' 기술로 로봇 비버에 마음을 옮겨 동물들과 말하다 동물 반란을 부른다.",
+      "concepts": [
+        "robot",
+        "neural_link"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 애니메이션 SF 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "hot_spot_2026",
+      "orig": "Hot Spot",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Hot Spot (2026)",
+      "by": "Agnieszka Smoczyńska",
+      "year": 2026,
+      "country": "폴란드·그리스·스웨덴·노르웨이",
+      "setting": "지각 있는 인공지능이 다스리는 미래 사회, 살인을 캐던 탐정이 기계 통치자를 노리는 반란 무리를 찾는다.",
+      "concepts": [
+        "ai",
+        "control_society"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 판타지아 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "i_love_boosters",
+      "orig": "I Love Boosters",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "I Love Boosters (2026)",
+      "by": "Boots Riley",
+      "year": 2026,
+      "country": "미국",
+      "setting": "옷을 훔쳐 싸게 파는 도둑단이, 물건을 태평양 건너로 보내는 공장의 순간 이동 장치를 손에 넣는다.",
+      "concepts": [
+        "teleport"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 부조리 범죄 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "in_the_blink_of_an_eye_2026",
+      "orig": "In the Blink of an Eye",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "In the Blink of an Eye (2026, Hulu)",
+      "by": "Andrew Stanton",
+      "year": 2026,
+      "country": "미국",
+      "setting": "선사 시대 가족, 21세기 연인, 먼 미래 우주 비행사의 세 이야기를 도토리 모양 물건 하나가 잇는다.",
+      "concepts": [],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 선댄스 영화제 첫 상영",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "masthishka_maranam",
+      "orig": "Masthishka Maranam",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Masthishka Maranam (2026, 말라얄람어)",
+      "by": "Krishand",
+      "year": 2026,
+      "country": "인도",
+      "setting": "2046년 디스토피아 코치, 딸을 잃은 아버지가 가상 현실 기억 놀이로 딸을 만나려다 추문에 휘말린다.",
+      "concepts": [
+        "memory_edit"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 사이버펑크 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "mike_nick_nick_alice",
+      "orig": "Mike & Nick & Nick & Alice",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "Mike & Nick & Nick & Alice (2026, Hulu)",
+      "by": "BenDavid Grabinski",
+      "year": 2026,
+      "country": "미국",
+      "setting": "도둑 마이크 앞에 미래에서 온 사채업자 닉이 나타나, 지금의 닉을 이용한 함정을 함께 막는다.",
+      "concepts": [
+        "time_travel"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — 액션 범죄 희극",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    },
+    {
+      "id": "the_last_house_2026",
+      "orig": "The Last House",
+      "orig_en": "",
+      "ko": null,
+      "ko_src": null,
+      "media": [
+        "영화"
+      ],
+      "first_medium": "영화",
+      "series": "The Last House (2026, Netflix)",
+      "by": "Louis Leterrier",
+      "year": 2026,
+      "country": "미국",
+      "setting": "세계적 재앙으로 물이 차오른 시애틀, 집에 갇힌 가족이 괴생물과 모자란 물자 속에 버티다 배로 떠난다.",
+      "concepts": [
+        "catastrophe"
+      ],
+      "new_ideas": "",
+      "lore_size": "작음",
+      "notability": "영어 위키백과 SF 영화 목록 2020년대 — SF 공포",
+      "korean": {
+        "status": "확인 못 함",
+        "detail": "",
+        "src": ""
+      },
+      "borderline": false
+    }
+  ]
+}
