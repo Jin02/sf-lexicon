@@ -133,6 +133,8 @@ main.wrap { padding-block: 1.75rem 4rem; }
 .chip { font-size: 0.75rem; border: 1px solid var(--rule); border-radius: 999px; padding: 0.05rem 0.55rem; color: var(--ink-2); background: var(--paper); }
 .chip:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
 .chip.via { border-style: dashed; }
+.chip.vid { border-color: var(--accent); color: var(--accent); }
+.facts dd.chips { margin: 0; }
 
 /* 작품 목록 */
 .works { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr)); gap: 0.75rem; margin-top: 1.75rem; }
@@ -325,6 +327,14 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     if (t.ko_status === "공식") return '<span class="badge b-2nd" title="정식판 표기라고 전하는 자료로 확인' + esc(src) + '">공식 · 2차 자료</span>';
     return '<span class="badge b-ours" title="정식 한국어 표기를 찾지 못해 우리가 적은 표기' + esc(src) + '">우리 표기</span>';
   }
+  // 유튜브 영상 고리 — 2026-10-22 진님: "유튜브 영상같은걸 찾을 수 있긴 할거야. 링크를 그냥 같이 걸어 줄 수 있어?"
+  // 주소는 check.py 가 유튜브 영상 주소인지 본다. 누설 항목은 누설 보기를 켰을 때만 보인다(영상 제목이 반전을 드러낼 수 있음).
+  function vids(list, hidden) {
+    if (!list || !list.length || hidden) return "";
+    return list.map(function (v) {
+      return '<a class="chip vid" href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc((v.by || "") + (v.official ? " · 공식" : "")) + '">▶ ' + esc(v.what || "영상") + "</a>";
+    }).join("");
+  }
   function termCard(t, opts) {
     opts = opts || {};
     var h = '<article class="term" id="t-' + esc(t.work + "-" + t.id) + '">';
@@ -348,6 +358,8 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
       var nm = x.spoiler && !spoil ? "로어 조각(누설)" : x.ko;
       chips.push('<a class="chip via" href="#l-' + esc(x.work) + "/" + esc(x.id) + '" title="이 용어가 나오는 로어 조각">로어 · ' + esc(nm) + "</a>");
     });
+    var tv = vids(t.videos, t.spoiler && !spoil);
+    if (tv) chips.push(tv);
     if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
     return h + "</article>";
   }
@@ -368,10 +380,12 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     (x.terms || []).forEach(function (tid) { var t = tmap.get(tid); if (t) chips.push('<a class="chip" href="#w-' + esc(x.work) + '" title="이 작품 용어">' + esc(t.ko) + "</a>"); });
     (x.concepts || []).forEach(function (cid) { if (C.get(cid)) chips.push('<a class="chip via" href="#c-' + esc(cid) + '" title="개념">' + esc(C.get(cid).ko) + "</a>"); });
     if (opts.showWork && W.get(x.work)) chips.unshift('<a class="chip" href="#l-' + esc(x.work) + '">' + esc(W.get(x.work).ko) + " 로어</a>");
+    var lv = vids(x.videos, x.spoiler && !spoil);
+    if (lv) chips.push(lv);
     if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
     return h + "</article>";
   }
-  var LORE_ORDER = ["불가사의", "유물", "유적", "사건", "기록", "인용", "전설", "결말", "소개"];
+  var LORE_ORDER = ["불가사의", "유물", "유적", "사건", "기록", "인용", "대사", "전설", "결말", "소개"];
   function viewLore(arg) {
     var id = arg.split("/")[0];
     var w = W.get(id);
@@ -489,6 +503,7 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     var n = { src: 0, snd: 0, ours: 0 };
     ts.forEach(function (t) { if (t.ko_status === "공식" && t.ko_check === "원자료") n.src++; else if (t.ko_status === "공식") n.snd++; else n.ours++; });
     if (ts.length) h += "<dt>표기 확인</dt><dd>공식(정식판에서 직접) " + n.src + " · 공식(2차 자료) " + n.snd + " · 우리 표기 " + n.ours + "</dd>";
+    if (w.videos && w.videos.length) h += '<dt>영상</dt><dd class="chips">' + vids(w.videos) + "</dd>";
     h += "</dl>";
     if (!ts.length) return h + '<p class="empty-note">이 작품은 아직 조사 중입니다.</p>';
     var nl = (LBYW.get(id) || []).length;
@@ -570,7 +585,9 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     t += mediaTags({ media: c.m }) + kBadge(c.k);
     if (c.r) t += '<a class="kb k-yes" href="#w-' + esc(c.id) + '" title="용어를 조사한 작품 — 눌러서 작품 쪽으로">용어 조사함</a>';
     if (c.b) t += '<span class="kind" title="판타지·공포·슈퍼히어로가 바탕이거나 SF 비중이 작음">경계</span>';
-    t += "</div><p>" + esc(c.s) + (c.by ? ' <span class="kind">· ' + esc(c.by) + "</span>" : "") + "</p></div></li>";
+    t += "</div><p>" + esc(c.s) + (c.by ? ' <span class="kind">· ' + esc(c.by) + "</span>" : "") + "</p>";
+    if (c.v && c.v.length) t += '<div class="chips">' + vids(c.v) + "</div>";
+    t += "</div></li>";
     return t;
   }
   function candsUnder(cid) {

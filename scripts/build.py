@@ -60,6 +60,8 @@ def main():
                 "s": c.get("setting"), "k": c["korean"]["status"], "b": bool(c.get("borderline")),
                 "l": c.get("lore_size"), "cs": c.get("concepts") or [], "r": bool(c.get("researched")),
             })
+            if c.get("videos"):
+                cands[-1]["v"] = c["videos"]  # 유튜브 영상 고리(2026-10-22) — 있을 때만 싣는다
     bundle = {
         "categories": concepts["categories"],
         "concepts": concepts["concepts"],

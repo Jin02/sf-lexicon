@@ -161,7 +161,7 @@ def check_terms(concepts, works):
     return used
 
 
-LORE_KINDS = {"불가사의", "유물", "유적", "사건", "기록", "인용", "결말", "전설", "소개"}
+LORE_KINDS = {"불가사의", "유물", "유적", "사건", "기록", "인용", "대사", "결말", "전설", "소개"}
 
 
 def check_lore(concepts, works):
@@ -223,6 +223,50 @@ def check_lore(concepts, works):
     return n
 
 
+VIDEO_URL = re.compile(r"^https://(www\.youtube\.com/watch\?v=|youtu\.be/)[A-Za-z0-9_-]{11}([&?]t=\d+s?)?$")
+
+
+def check_videos(where, vids):
+    """유튜브 영상 고리(2026-10-22 진님) — [{url, what, by, official}]. 정식으로 올라온 것만, 설명은 우리말 40자 안."""
+    if vids is None:
+        return 0
+    if not isinstance(vids, list):
+        bad(where, "videos 는 목록이어야 한다")
+        return 0
+    seen = set()
+    for v in vids:
+        u = (v or {}).get("url", "")
+        if not VIDEO_URL.match(u):
+            bad(where, f"영상 주소가 유튜브 영상 주소 꼴이 아니다: {u}")
+        if u in seen:
+            bad(where, f"같은 영상이 두 번: {u}")
+        seen.add(u)
+        if not v.get("what") or len(v["what"]) > 40:
+            bad(where, "영상 what(무엇이 나오는 영상인지)이 비었거나 40자를 넘는다")
+        if not v.get("by"):
+            bad(where, "영상 by(채널 이름)가 비었다")
+        if not isinstance(v.get("official"), bool):
+            bad(where, "영상 official 은 참·거짓")
+    return len(vids)
+
+
+def check_all_videos():
+    n = 0
+    wp = DATA / "works.json"
+    if wp.exists():
+        for w in load(wp)["works"]:
+            n += check_videos(f"작품 {w.get('id')}", w.get("videos"))
+    for sub, key in (("terms", "terms"), ("lore", "lore")):
+        d = DATA / sub
+        if not d.exists():
+            continue
+        for path in sorted(d.glob("*.json")):
+            data = load(path)
+            for x in (data.get(key, []) if isinstance(data, dict) else data):
+                n += check_videos(f"{sub}/{path.stem}/{x.get('id')}", x.get("videos"))
+    return n
+
+
 def main():
     concepts = check_concepts()
     works = check_works()
@@ -230,6 +274,9 @@ def main():
     n_lore = check_lore(concepts, works)
     if n_lore:
         print(f"로어 조각 {n_lore}")
+    n_vid = check_all_videos()
+    if n_vid:
+        print(f"영상 고리 {n_vid}")
     n_terms = sum(len(v) for v in used.values())
     print(f"개념 {len(concepts)} · 작품 {len(works)} · 개념에 걸린 용어 자리 {n_terms}")
     empty = [c for c in concepts if c not in used]

@@ -112,6 +112,9 @@ def main():
             if bad:
                 problems.append(f"{w}: 없는 개념 {bad}")
                 c["concepts"] = [x for x in c.get("concepts", []) if x in concepts]
+            for v in c.get("videos") or []:
+                if not re.match(r"^https://(www\.youtube\.com/watch\?v=|youtu\.be/)[A-Za-z0-9_-]{11}([&?]t=\d+s?)?$", v.get("url", "")) or not v.get("what") or not v.get("by"):
+                    problems.append(f"{w}: 영상 고리 꼴이 틀렸다 {v.get('url')}")
             if c.get("ko") and not c.get("ko_src"):
                 problems.append(f"{w}: 한글 제목이 있는데 ko_src 가 없다")
             rows.append(c)
@@ -184,6 +187,12 @@ def main():
         base["found_in"] = sorted({m["_group"] for m in members})
         base["media"] = sorted({x for m in members for x in (m.get("media") or [])})
         base["concepts"] = sorted({x for m in members for x in (m.get("concepts") or [])})
+        vids = {}
+        for mm in members:
+            for v in mm.get("videos") or []:
+                vids.setdefault(v.get("url"), v)
+        if vids:
+            base["videos"] = list(vids.values())  # 유튜브 영상 고리 — 갈래마다 찾은 것을 모은다
         base["year"] = min((m.get("year") or 9999) for m in members)
         if not base.get("ko"):
             for m in members:
