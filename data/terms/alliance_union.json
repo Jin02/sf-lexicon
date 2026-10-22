@@ -1,0 +1,1275 @@
+{
+  "terms": [
+    {
+      "id": "earth_company",
+      "ko": "지구 컴퍼니",
+      "orig": "Earth Company",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 '지구 컴퍼니'로 나오고, 줄여서 '컴퍼니'라고도 쓴다 (2026-10-22 확인)",
+      "alt_ko": [
+        {
+          "ko": "컴퍼니",
+          "src": "같은 책 소개에서 줄여 부르는 이름"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "mega_corp"
+      ],
+      "one": "별 사이 정거장 사업을 벌인 지구의 민간 기업",
+      "note": "나라가 아닌 회사가 우주 개척을 맡아 정거장을 차례로 지었고, 그 덕에 엄청난 부와 힘을 쥐었다. 처음에는 솔 회사라는 이름이었다. 먼 정거장에 늦게 닿는 지시로 통제하려다 반발을 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Devil_to_the_Belt"
+      ]
+    },
+    {
+      "id": "company_fleet",
+      "ko": "컴퍼니 함대",
+      "orig": "Earth Company Fleet",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 '컴퍼니 함대'라는 전함들로 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구 컴퍼니가 반란을 누르려고 띄운 전함 함대",
+      "note": "컴퍼니가 군함 쉰 척을 지어 꾸린 함대로, 유니언과 오랜 전쟁을 치른다. 지구의 지원이 끊기다시피 해 잃은 배를 메우지 못하고, 머천터에게서 물자와 사람을 억지로 거둬 버틴다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station"
+      ]
+    },
+    {
+      "id": "union",
+      "ko": "유니언",
+      "orig": "Union",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 정거장들이 '유니언'이라는 연합 세력을 세운다고 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "사이틴을 중심으로 지구에서 떨어져 나간 식민지 연합",
+      "note": "2300년 사이틴을 중심으로 독립을 선언한 세력이다. 사람 수가 모자란 것을 실험실에서 길러 낸 아지로 메워, 잃은 병력을 다시 채울 수 있다는 것이 컴퍼니 함대와 갈린 점이다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen"
+      ]
+    },
+    {
+      "id": "company_war",
+      "ko": "컴퍼니 전쟁",
+      "orig": "Company War",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 '컴퍼니 전쟁'이라고 불리는 전쟁의 시작으로 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "colonial_war"
+      ],
+      "one": "지구 컴퍼니와 유니언 사이의 긴 독립 전쟁",
+      "note": "빛보다 빠른 점프가 생기자 지구가 먼 정거장들을 다시 쥐려 세금과 명령을 내렸고, 반발이 무장 충돌을 거쳐 전쟁이 되었다. 머천터와 정거장들은 그 사이에 끼어 시달린다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://www.cherryh.com/www/univer.htm"
+      ]
+    },
+    {
+      "id": "alliance",
+      "ko": "동맹",
+      "orig": "Merchanter's Alliance",
+      "ko_status": "공식",
+      "ko_src": "열린책들이 이 세계를 '유니언-동맹 소설'(Alliance–Union)이라는 시리즈 이름으로 묶어, Alliance 를 '동맹'으로 옮겼다 — 『다운빌로 스테이션』 1·2(2018) 알라딘 상품 쪽 시리즈 이름·출판사 책 소개(2026-10-22 확인). 본문에서 정식 이름 Merchanter's Alliance 를 어떻게 옮겼는지는 보지 못했다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "guild_monopoly"
+      ],
+      "one": "머천터 가문들이 뭉쳐 세운 세 번째 세력",
+      "note": "지구와 유니언 어느 쪽에도 서지 않는 상인들의 연합이다. 전쟁 뒤 맺은 조약으로 별 사이 교역을 홀로 맡아, 교역을 끊는 것만으로도 정거장을 멈춰 세울 힘을 갖는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck"
+      ],
+      "ko_check": "원자료"
+    },
+    {
+      "id": "mazianni",
+      "ko": "마지아니",
+      "orig": "Mazianni",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구에 등을 돌리고 해적이 된 옛 컴퍼니 함대",
+      "note": "함대 사령관 마지안을 따라 평화를 거부한 배와 승무원들이다. 지구·유니언·동맹 모두에게 쫓기며 상선을 덮쳐 물자와 사람을 빼앗고, 몰래 이들과 거래하는 머천터도 있다.",
+      "spoiler": true,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Rimrunners",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "merchanter",
+      "ko": "머천터",
+      "orig": "merchanter",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 정식판 책 소개는 이들의 배를 '상선들'이라고만 풀어 쓴다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "flotilla",
+        "spacers"
+      ],
+      "one": "가문 단위로 배를 몰며 정거장 사이를 오가는 상인",
+      "note": "한 집안이 대를 이어 한 배에 살며 일하고, 집안이 커지면 배를 하나 더 사서 갈라진다. 점프 때 시간이 어긋나 정거장 사람과 늙는 속도가 달라지니, 땅에 내려앉느니 굶겠다는 이가 많을 만큼 배에 묶여 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Finity%27s_End",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "stationer",
+      "ko": "스테이셔너",
+      "orig": "stationer",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 정식판 책 소개는 '스테이션 거주민들'로 풀어 쓴다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "spacers"
+      ],
+      "one": "정거장에서 나고 자란 사람들",
+      "note": "작은 변화 하나가 정거장 전체의 목숨을 앗을 수 있어 몸가짐도 살림도 조심스럽다. 지구에서 태어난 사람이 하나도 없는데, 지구 쪽은 그것이 무슨 뜻인지 모른다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848"
+      ]
+    },
+    {
+      "id": "sleepover",
+      "ko": "슬립오버",
+      "orig": "sleepover",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "항구에 닿은 머천터가 다른 배 사람과 하룻밤을 보내는 풍습",
+      "note": "배 하나에 한 집안만 살다 보니 핏줄이 좁아지는 것을 막으려고, 정거장에 들렀을 때 다른 배 사람의 아이를 갖는 일이 흔하다. 이야기의 사건이 이 풍습에서 비롯되기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "station",
+      "ko": "스테이션",
+      "orig": "station",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 우주로 나가며 지어진 '스테이션들'로 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "별마다 하나씩 지은 우주 정거장",
+      "note": "살 만한 행성이 없는 별에 정거장을 짓고, 다음 정거장은 앞 정거장이 지었다. 사람은 이 정거장들에서 나고 자라며, 정거장 사이를 머천터의 배가 잇는다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "hinder_stars",
+      "ko": "하인더 스타스",
+      "orig": "Hinder Stars",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구 가까이 처음 지은 아홉 정거장의 별들",
+      "note": "빛보다 빠른 길이 없던 시절 오랜 세월을 들여 지은 첫 정거장들이다. 점프가 생기고 더 먼 정거장들이 앞서 나가면서 뒤처진 곳이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance_Rising",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "alpha_station",
+      "ko": "알파 스테이션",
+      "orig": "Alpha Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "바너드별에 지은 첫 번째 정거장",
+      "note": "지구에서 여섯 광년쯤 떨어진 바너드별에 있다. 지구와 이 정거장 사이에는 점프할 자리가 오래 찾아지지 않아, 지구의 손길이 미치기 어려웠다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance_Rising"
+      ]
+    },
+    {
+      "id": "sol_station",
+      "ko": "솔 스테이션",
+      "orig": "Sol Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "태양계에 있는 지구 컴퍼니의 정거장",
+      "note": "지구가 있는 태양계의 정거장이다. 전쟁 뒤 펠과 지구 사이의 뱃길이 다시 열릴지가 머천터들의 관심거리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Devil_to_the_Belt",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "pell",
+      "ko": "펠",
+      "orig": "Pell's World",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 작물 재배가 가능한 '펠'이라는 새로운 행성으로 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "사람이 키운 작물이 자라는, 원주민 히사가 사는 행성",
+      "note": "숨 쉬려면 마스크가 있어야 하지만 작물을 기를 수 있어, 지구에 기대지 않고도 정거장들이 살아갈 길을 열었다. 이것이 지구와 우주의 균형을 깨뜨렸다. 정거장 사람들은 행성을 '다운빌로'라는 별명으로 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station"
+      ]
+    },
+    {
+      "id": "downbelow_station",
+      "ko": "다운빌로 스테이션",
+      "orig": "Downbelow Station",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 펠에 건설된 우주 정거장 '다운빌로 스테이션'으로 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "habitat"
+      ],
+      "one": "펠 행성 궤도의 정거장, 동맹의 근거지",
+      "note": "정식 이름은 펠 스테이션이다. 지구 쪽과 유니언 쪽 사이를 오가는 배가 거쳐 가는 길목이라, 전쟁 막바지에 피란민과 함대가 몰려든다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "cyteen",
+      "ko": "사이틴",
+      "orig": "Cyteen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "열린책들 『다운빌로 스테이션』 1·2(2018, 최용준 옮김) 알라딘 상품 쪽의 책 소개·줄거리(출판사 제공)에 저 너머에 '사이틴'이라는 세계가 발견되었다고 나온다 (2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "terraforming"
+      ],
+      "one": "유니언의 수도가 된 행성",
+      "note": "공기와 토착 생물이 사람에게 독이라 사람들은 반쯤 막힌 도시에 산다. 일부 땅을 테라포밍했고, 이 행성의 생물에서 수명을 늘리는 약이 나왔다. 궤도에 정거장 둘이 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=152190848",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen"
+      ]
+    },
+    {
+      "id": "viking",
+      "ko": "바이킹 스테이션",
+      "orig": "Viking Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "유니언 쪽에 넘어간 정거장, 결전의 무대",
+      "note": "전쟁 막바지 컴퍼니 함대는 이곳을 쳐서 지구와 유니언 사이에 완충 지대를 만들려 했다. 전쟁 뒤에도 머천터들이 드나드는 항구로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "mariner",
+      "ko": "매리너 스테이션",
+      "orig": "Mariner Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "전쟁 막바지에 사람들이 피란을 떠난 정거장",
+      "note": "러셀스와 함께 그곳 사람들이 배에 실려 펠로 몰려온다. 이 피란민이 펠 정거장의 살림을 흔든다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "russells",
+      "ko": "러셀스 스테이션",
+      "orig": "Russell's Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "피란 선단이 빠져나온 지구 쪽 정거장",
+      "note": "이곳에서 빠져나온 피란 선단이 군함의 호위를 받아 펠로 온다. 이야기의 첫머리가 여기서 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Downbelow_Station"
+      ]
+    },
+    {
+      "id": "thule",
+      "ko": "툴레 스테이션",
+      "orig": "Thule Station",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. '스테이션'은 정식판 책 소개의 표기를 따랐다. Thule 은 신화 속 섬 이름으로는 '툴레'가 굳은 표기다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "배도 일자리도 끊겨 시들어 가는 변두리 정거장",
+      "note": "찾아오는 배가 드물어, 일자리를 찾는 떠돌이 승무원이 굶주린다. 연료 펌프 하나뿐인 이곳을 두고 해적선과 싸움이 벌어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Rimrunners"
+      ]
+    },
+    {
+      "id": "tripoint",
+      "ko": "트라이포인트",
+      "orig": "Tripoint",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "펠로 가는 배들이 거쳐 가는 점프 지점",
+      "note": "배들이 점프를 이어 가려고 들르는 자리다. 오가는 눈이 적어, 남의 눈을 피한 짐 부리기가 이루어지기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "quarantine_zone",
+      "ko": "쿼런틴 존",
+      "orig": "Quarantine Zone",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "펠 정거장이 피란민을 몰아넣은 격리 구역",
+      "note": "유니언 첩자와 파괴 공작을 두려워해 밀려든 피란민을 모두 한 구역에 가두었다. 자리도 일자리도 모자라 정거장 안의 큰 갈등이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "jump",
+      "ko": "점프",
+      "orig": "jump",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "hyperspace"
+      ],
+      "one": "보통 공간과 나란한 공간을 거쳐 별 사이를 건너는 항행",
+      "note": "2230년대 사이틴의 연구에서 나왔다. 배는 정해진 점프 지점에서 다른 공간으로 넘어갔다가 다음 지점에서 나온다. 사람에게는 몹시 고되고, 안팎의 시간이 어긋나 승무원이 바깥 사람보다 덜 늙는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Finity%27s_End",
+        "https://en.wikipedia.org/wiki/The_Chanur_novels"
+      ]
+    },
+    {
+      "id": "jump_point",
+      "ko": "점프 포인트",
+      "orig": "jump point",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "점프로 드나들 수 있는 정해진 자리",
+      "note": "갈색 왜성이나 떠도는 행성처럼 별이 되지 못한 큰 질량이 있는 곳이다. 이 자리를 아는 것이 곧 길을 아는 것이라, 새 지점의 좌표가 큰 비밀이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Alliance_Rising",
+        "https://en.wikipedia.org/wiki/Tripoint_(novel)"
+      ]
+    },
+    {
+      "id": "sublighter",
+      "ko": "서브라이터",
+      "orig": "sublighter",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "sublight"
+      ],
+      "one": "점프 이전에 별 사이를 다닌 빛보다 느린 배",
+      "note": "첫 아홉 정거장 시절 몇 해씩 걸려 별 사이를 오간 옛 배들이다. 처음에 아홉 척이 있었다고 전한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Rimrunners",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "superfreighter",
+      "ko": "슈퍼프레이터",
+      "orig": "superfreighter",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "큰 머천터 가문이 모는 거대한 화물선",
+      "note": "한 집안의 여러 세대가 함께 사는 큰 배로, 무장을 갖춘 것도 있다. 이런 배를 가진 집안은 교역에서 힘이 세다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Finity%27s_End",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "finitys_end",
+      "ko": "피니티스 엔드",
+      "orig": "Finity's End",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "가장 오래된 머천터 가문 나이하트의 무장 화물선",
+      "note": "머천터 가운데 손꼽히게 존경받는 배다. 전쟁 뒤에는 동맹의 군사력 노릇을 하며 해적선을 쫓았고, 동맹을 대표해 협상에도 나선다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Finity%27s_End",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Alliance_Rising"
+      ]
+    },
+    {
+      "id": "norway",
+      "ko": "노르웨이",
+      "orig": "Norway",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(나라 이름 Norway 의 굳은 표기)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "컴퍼니 함대의 군함, 뒷날 동맹의 군함",
+      "note": "함대에서 손꼽히는 선장이 이끄는 군함이다. 사령관이 지구를 치려 하자 함대를 떠나 동맹 편에 서고, 동맹 군사력의 중심이 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Merchanter%27s_Luck",
+        "https://en.wikipedia.org/wiki/Rimrunners"
+      ]
+    },
+    {
+      "id": "adjustment",
+      "ko": "어저스트먼트",
+      "orig": "Adjustment",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "memory_edit"
+      ],
+      "one": "기억의 많은 부분을 지워 사람을 새로 시작하게 하는 처치",
+      "note": "포로나 죄수가 갇혀 지내는 대신 이것을 받고 풀려나기도 한다. 비슷한 기술로 머리를 아예 백지로 만드는 '마인드와이프(mindwipe)'가 있어, 범죄자나 깊이 숨어드는 첩자에게 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "astex",
+      "ko": "애스텍스",
+      "orig": "ASTEX",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "소행성대에서 광물을 캐는 컴퍼니의 한 부서",
+      "note": "지구의 경제와 전쟁 준비를 떠받치는 광물을 캔다. 채굴권 다툼과 회사의 부패, 개인 채굴꾼을 쥐어짜는 일이 이야기의 배경이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Devil_to_the_Belt"
+      ]
+    },
+    {
+      "id": "freerunner",
+      "ko": "프리러너",
+      "orig": "freerunner",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "작은 배로 소행성대를 돌며 광맥을 찾는 개인 채굴꾼",
+      "note": "값진 소행성을 찾아 표시해 두면 회사가 값을 쳐 준다. 회사의 큰 채굴선과 규칙 앞에서 늘 약자라, 사고 하나에 배와 면허를 다 잃기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Devil_to_the_Belt"
+      ]
+    },
+    {
+      "id": "azi",
+      "ko": "아지",
+      "orig": "azi",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "clone",
+        "genetic_eng"
+      ],
+      "one": "유전자를 설계하고 테이프로 길러 낸 복제 사람",
+      "note": "유니언이 모자란 인구와 병력을 메우려고 만든다. 태어날 때부터 테이프로 지식과 성격을 새겨 일과 싸움에 맞추었고, 시민권이 없으나 나중에 얻을 수 있다. 지구는 이들을 끔찍하게 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Azi_(clone)",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Downbelow_Station"
+      ]
+    },
+    {
+      "id": "tape",
+      "ko": "테이프",
+      "orig": "tape",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "잠재의식에 지식과 마음가짐을 새겨 넣는 학습 기술",
+      "note": "기계가 조절하는 조건 반사 훈련과 생체 되먹임을 묶은 것이다. 아지는 태어나면서부터 이것으로 자라고, 보통 사람도 여섯 살쯤 뒤부터 덜한 정도로 쓴다. 테이프를 잘못 짜면 마음이 불안정해진다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Azi_(clone)",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "ko": "슈퍼바이저",
+      "orig": "Supervisor",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "아지가 지시와 보살핌을 기대는 맡은 사람",
+      "note": "아지는 저마다 슈퍼바이저를 두고 그에게서 지시와 안정을 얻는다. 낯설고 새로운 일을 혼자 감당하기 어렵게 길러졌기 때문이다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Azi_(clone)"
+      ]
+    },
+    {
+      "id": "cit",
+      "ko": "시트",
+      "orig": "CIT",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "아지가 아닌, 설계되지 않은 유니언 시민",
+      "note": "'본맨(born-man)'이라고도 한다. 시트는 아지를 노예처럼도, 동료처럼도 대한다. 시민권을 얻은 아지의 아이는 시트로 태어나 부모의 가치관을 물려받는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Azi_(clone)"
+      ]
+    },
+    {
+      "id": "reseune",
+      "ko": "리슌",
+      "orig": "Reseune",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "사이틴에 있는 복제·아지 연구의 본거지",
+      "note": "아지에 관한 모든 연구와 테이프 설계를 독차지하고, 유니언의 모든 아지를 법으로 보호한다. 따로 다스리는 행정 구역이라 유니언 정치에도 큰 힘을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)",
+        "https://en.wikipedia.org/wiki/Azi_(clone)",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "rejuv",
+      "ko": "리주브",
+      "orig": "rejuv",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "사이틴의 생물에서 얻은 수명 늘리는 약",
+      "note": "2220년대에 나왔다. 늙는 것을 늦추어 백 살이 넘어도 일선에 머물게 해 준다. 그 덕에 같은 사람들이 오래 권력을 쥐는 일이 생긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen"
+      ]
+    },
+    {
+      "id": "specials",
+      "ko": "스페셜",
+      "orig": "Specials",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "유니언이 나라의 보물로 공인한 천재들",
+      "note": "몇 명 되지 않는 이들은 법적 면책을 누려, 죄를 지어도 쫓겨나는 데 그치기도 한다. 그 재능을 복제로 다시 살릴 수 있는가가 실험 대상이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen"
+      ]
+    },
+    {
+      "id": "council_of_nine",
+      "ko": "카운슬 오브 나인",
+      "orig": "Council of Nine",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "선거로 뽑는 유니언의 최고 집행 기구",
+      "note": "과학·국방·정보 같은 분야마다 의원을 두는 아홉 자리 평의회다. 리슌의 수장이 과학 의원 자리를 오래 쥐었다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)"
+      ]
+    },
+    {
+      "id": "expansionists",
+      "ko": "익스팬셔니스트",
+      "orig": "Expansionists",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "탐사와 새 정거장, 복제로 유니언을 넓히자는 당파",
+      "note": "유니언이 생긴 뒤 줄곧 권력을 쥐어 온 쪽이다. 수명 늘리는 약 덕에 같은 지도자들이 오래 자리를 지켰다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)"
+      ]
+    },
+    {
+      "id": "centrists",
+      "ko": "센트리스트",
+      "orig": "Centrists",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "있는 정거장과 행성부터 다지자는 유니언의 당파",
+      "note": "확장파에 맞서는 쪽이다. 권력을 잡으려고 지난날의 추문을 들추어 상대를 흔든다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)"
+      ]
+    },
+    {
+      "id": "psychogenesis",
+      "ko": "사이코제네시스",
+      "orig": "psychogenesis",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "clone"
+      ],
+      "one": "복제한 몸에 원래 사람의 삶을 그대로 겪게 해 재능을 되살리는 실험",
+      "note": "유전자만 같아서는 같은 사람이 되지 않는다는 데서 출발해, 자라는 환경과 겪는 일까지 원본을 따라 짜 맞춘다. 이렇게 되살린 사람을 'PR(개인 복제)'라고 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Cyteen",
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)"
+      ]
+    },
+    {
+      "id": "nanistics",
+      "ko": "나니스틱스",
+      "orig": "nanistics",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "nanotech"
+      ],
+      "one": "생물로 만든 작은 기계를 다루는 학문",
+      "note": "주로 테라포밍에 쓴다. 새 행성의 환경을 바꾸는 큰 사업이 이 기술에 기댄다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Regenesis_(novel)"
+      ]
+    },
+    {
+      "id": "gehenna",
+      "ko": "게헨나",
+      "orig": "Gehenna",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "유니언이 몰래 사람을 내려놓고 버린 행성",
+      "note": "살 수 있는 드문 행성이지만 동맹 쪽 영역에 있다. 유니언은 사만 명 남짓한 사람과 아지를 보내 기지를 세우게 한 뒤 보급을 끊어, 동맹이 떠안을 골칫거리로 만들었다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Forty_Thousand_in_Gehenna",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Cyteen"
+      ]
+    },
+    {
+      "id": "calibans",
+      "ko": "캘리번",
+      "orig": "calibans",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(셰익스피어 『템페스트』의 Caliban 을 옮길 때 굳은 표기)",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "게헨나에 사는, 땅을 파 무늬를 만드는 도마뱀 닮은 생물",
+      "note": "처음엔 성가신 짐승으로 보였으나 크기와 빛깔에 따라 위아래가 있고, 기호로 뜻을 나누며 사람과 짝을 맺기도 한다. 얼마나 지성이 있는지는 끝내 분명하지 않다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Forty_Thousand_in_Gehenna",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "hisa",
+      "ko": "히사",
+      "orig": "Hisa",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "펠 행성에 사는 순하고 털이 갈색인 원주민",
+      "note": "두 발로 걷는 포유류로 기술은 거의 쓰지 않는다. 정거장 사람들은 이들을 '다우너(Downers)'라고 부르며 일손으로 쓰기도 한다. 이들의 발견이 지구에 큰 논쟁을 일으켰다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe",
+        "https://en.wikipedia.org/wiki/Downbelow_Station",
+        "https://en.wikipedia.org/wiki/Finity%27s_End"
+      ]
+    },
+    {
+      "id": "mri",
+      "ko": "므리",
+      "orig": "mri",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "이천 년 넘게 남의 전쟁을 대신 치러 온 전사 종족",
+      "note": "사람 닮은 모습에 세 계급으로 나뉜 사회를 이룬다. 레굴에게 고용되어 인류와 싸웠고, 전쟁 끝에 거의 다 사라질 처지에 놓인다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "regul",
+      "ko": "레굴",
+      "orig": "regul",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "직접 싸우지 않고 므리를 고용해 싸우게 한 종족",
+      "note": "남을 꺼리고, 어린 몸과 어른 몸이 크게 다르며, 본 것을 하나도 잊지 않는다. 폭력을 손수 쓰기를 꺼려 다른 종족을 대신 내세운다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "mri_wars",
+      "ko": "므리 전쟁",
+      "orig": "Mri Wars",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "레굴과 그 용병 므리가 인류와 벌인 사십 년 전쟁",
+      "note": "전쟁이 끝나며 레굴은 사막 행성 케스리스를 인류에게 넘기는데, 그곳에 사는 므리에게는 알리지 않는다. 연작은 이 뒤의 일을 다룬다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "kesrith",
+      "ko": "케스리스",
+      "orig": "Kesrith",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "레굴이 인류에게 넘긴 사막 행성",
+      "note": "온통 메마른 땅으로, 므리가 머물던 곳이다. 넘기고 받는 쪽 모두 그 땅의 주민을 셈에 넣지 않은 것이 이야기의 실마리가 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy"
+      ]
+    },
+    {
+      "id": "kutath",
+      "ko": "쿠타스",
+      "orig": "Kutath",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "므리가 떠나온 옛 고향 행성",
+      "note": "전설 속 길잡이를 따라 여러 번 점프해야 닿는 먼 곳이다. 므리와 함께 엘리라는 또 다른 옛 종족이 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "kel",
+      "ko": "켈",
+      "orig": "Kel",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "므리의 전사 계급",
+      "note": "엄한 규율을 따르는 싸움꾼들이다. 므리가 아닌 이가 므리 사이에 들려면 이 계급의 법도를 몸에 익혀야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy"
+      ]
+    },
+    {
+      "id": "sen",
+      "ko": "센",
+      "orig": "Sen",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "므리의 사제 계급",
+      "note": "지식과 의례를 지키는 계급이다. 전쟁 끝에 남은 이 계급의 마지막 사람이 므리가 갈 길을 정한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Faded_Sun_Trilogy"
+      ]
+    },
+    {
+      "id": "majat",
+      "ko": "마자트",
+      "orig": "Majat",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "넷뿐인 군체 의식으로 사는 곤충 닮은 종족",
+      "note": "종족 전체가 파랑·초록·빨강·금색으로 사람이 이름 붙인 네 군체로만 이루어지고, 군체마다 여왕 하나를 일꾼·병정·수컷이 받든다. 첫 만남에서 사람 사절단을 먹어 버렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Serpent%27s_Reach",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "kontrin",
+      "ko": "콘트린",
+      "orig": "Kontrin",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "longevity"
+      ],
+      "one": "마자트와 손잡고 히드리 리치를 다스리는 불사의 귀족",
+      "note": "스물일곱 가문으로 나뉜 지배층이다. 죽음을 이해하지 못한 마자트가 준 선물로 늙어 죽지 않지만, 죽임을 당할 수는 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Serpent%27s_Reach"
+      ]
+    },
+    {
+      "id": "betas",
+      "ko": "베타",
+      "orig": "Betas",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "콘트린이 만들어 충성을 새긴 뒤 스스로 퍼지게 한 사람들",
+      "note": "사람의 난자에서 만들어 콘트린에 충성하도록 길렀고, 그 뒤로는 저희끼리 아이를 낳았다. 콘트린 아래, 아지 위의 가운데 계층이다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Serpent%27s_Reach"
+      ]
+    },
+    {
+      "id": "hydri_reach",
+      "ko": "히드리 리치",
+      "orig": "Hydri Reach",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "마자트의 고향 별들, 바깥과 막힌 격리 구역",
+      "note": "'서펀츠 리치'라고도 한다. 사람과 마자트가 섞여 사는 위험 때문에 동맹이 통째로 격리했고, 바깥과는 정거장 하나로만 이어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Serpent%27s_Reach"
+      ]
+    },
+    {
+      "id": "compact",
+      "ko": "콤팩트",
+      "orig": "Compact",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "여러 외계 종족을 교역 조약으로만 묶은 느슨한 모임",
+      "note": "정부가 없는 교역의 틀이라, 다툼은 종족끼리 알아서 푼다. 인류의 동맹·유니언 쪽 우주와는 지구를 두고 반대 방향에 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "hani",
+      "ko": "하니",
+      "orig": "hani",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "사자를 닮은 고양잇과 종족, 암컷만 우주로 나간다",
+      "note": "씨족마다 암컷들과 영주인 수컷 하나가 산다. 수컷은 사납고 불안정하다는 생각 때문에 오랫동안 우주에 나가지 못했다. 마헨도삿의 도움으로 우주에 나와 기술도 그쪽에서 받았다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "mahendosat",
+      "ko": "마헨도삿",
+      "orig": "mahendo'sat",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "정치를 즐기며 콤팩트의 균형을 지키려는 영장류 닮은 종족",
+      "note": "따르는 이가 많을수록 힘이 커지는 인물 중심의 정치를 한다. 어느 한 종족이 판을 쥐지 못하게 늘 새 세력을 찾으며, 하니를 우주로 이끌었다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "kif",
+      "ko": "키프",
+      "orig": "kif",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "산 먹이만 먹는 쥐 닮은 사냥꾼 종족",
+      "note": "콤팩트에서 키가 가장 크고 빠르다. 힘센 쪽으로 쉽게 편을 바꾸며 해적질을 일삼아 다른 종족들이 꺼린다. 점프하는 동안에도 깨어 움직일 수 있다는 것을 숨긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "sfik",
+      "ko": "스픽",
+      "orig": "sfik",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "키프 사회를 움직이는 체면과 위세",
+      "note": "싸움에서 이기거나 값진 것을 쥐거나 남의 존경을 받으면 쌓인다. 이것을 잃은 우두머리는 따르던 무리에게 버림받거나 죽는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels"
+      ]
+    },
+    {
+      "id": "hakkikt",
+      "ko": "하킥트",
+      "orig": "hakkikt",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "위세를 크게 쌓은 키프 우두머리의 칭호",
+      "note": "다른 종족들은 이 자리에 오른 키프를 판을 흔드는 위험으로 본다. 모든 키프를 거느리는 더 높은 자리를 노리는 이들이 나타나며 큰 소동이 인다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels"
+      ]
+    },
+    {
+      "id": "stsho",
+      "ko": "스초",
+      "orig": "stsho",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "연약하고 남을 꺼리는 새 닮은 초식 종족",
+      "note": "부와 교역, 동맹으로 자리를 지키며 경비는 남을 고용한다. 큰 충격을 받으면 정체가 바뀌는 '페이즈'를 겪어 성별과 이름까지 달라진다. 점프를 견디려면 약으로 잠들어야 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "tca",
+      "ko": "트카",
+      "orig": "tc'a",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "메탄을 마시는 뱀 닮은 종족, 머리가 여럿으로 나뉜다",
+      "note": "눈이 다섯이고 뇌가 여러 부분으로 나뉘어, 말이 여러 뜻이 겹친 짜임으로 나온다. 기술이 매우 앞섰고 대부분 정거장의 메탄 쪽을 맡는다. 치와 알 수 없는 사이로 얽혀 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "chi",
+      "ko": "치",
+      "orig": "chi",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "트카와 얽혀 사는 노란 마디발 닮은 메탄 종족",
+      "note": "산소를 마시는 종족들은 트카와 치가 어떤 사이인지 모른다. 서로 기대 사는 것으로 짐작할 뿐이다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "knnn",
+      "ko": "크은",
+      "orig": "knnn",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "콤팩트에서 기술이 가장 앞선, 말이 통하지 않는 메탄 종족",
+      "note": "철사 같은 털이 얽힌 다리 많은 몸이다. 초공간 안에서도 배를 몰고 남의 배를 끌고 다닐 수 있다. 원하는 것을 가져가고 알아서 값을 두고 가는 식으로 거래해, 모두 건드리기를 꺼린다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/The_Chanur_novels",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "iduve",
+      "ko": "이두베",
+      "orig": "iduve",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "거대한 배를 홀로 몰며 다른 종족을 겁주는 포식자 종족",
+      "note": "알려진 어느 문명보다 기술이 앞섰고, 그 뜻을 헤아리기 어려운 행동으로 두려움을 산다. 사람을 비롯한 여러 종족을 붙잡아 부리며, 붙잡은 이들의 마음을 서로 잇기도 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Hunter_of_Worlds",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    },
+    {
+      "id": "nemet",
+      "ko": "네메트",
+      "orig": "Nemet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "명예를 엄하게 따지는 사람 닮은 종족",
+      "note": "인류의 한 갈래가 일으킨 하난 반란 시대, 배를 잃고 떨어진 사람이 이들의 행성에서 그들 사이의 다툼에 휘말린다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Brothers_of_Earth",
+        "https://en.wikipedia.org/wiki/Alliance%E2%80%93Union_universe"
+      ]
+    }
+  ]
+}
