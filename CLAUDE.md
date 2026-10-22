@@ -3,6 +3,7 @@
 소설·영화·드라마·애니메이션·게임의 SF 세계관을 **작품을 가로지르는 개념**으로 묶어 보는 웹 앱.
 레포 `Jin02/sf-lexicon` — 2026-10-21 새벽 **공개로 돌림**(진님 요청, 그 전 기록은 커밋 하나로 합침: `docs/go_public.md`). 2026-10-19 시작.
 ★**커밋은 밤 0시~9시 전, 또는 주말·공휴일에만**(진님: "커밋은 12시 넘어서 해라", "아님 휴일에") — `scripts/commit_window.py` 가 판정, 낮에 끝낸 일은 `scripts/ready.py add` 로 적어 두고 예약 작업 `sf-lexicon-night-commit`(0시 20분)이 커밋·푸시한다. 커밋 날짜를 바꾸는 꾀는 쓰지 않는다.
+공개 화면: https://jin02.github.io/sf-lexicon/ — GitHub Pages(2026-10-22 진님 "github.io에서 볼 수 있는 방법은 없을려나"). main 에 푸시될 때마다 `.github/workflows/pages.yml` 이 `build.py` 를 돌려 `dist/site` 만 올린다 — 따로 할 일 없음.
 화면: https://claude.ai/artifact/VJKi9nQhEiwiTV3wDPMNKj (비공개) — `python scripts/build.py` 뒤 `dist/index.html` 을 같은 주소로 다시 올린다. 이 컴퓨터에서는 `.claude/launch.json` 의 `sf-lexicon`(포트 8340)으로 `dist/local.html`.
 
 ## ★★이 세션의 할 일 (진님 2026-10-20)

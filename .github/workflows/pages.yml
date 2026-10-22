@@ -1,0 +1,44 @@
+# 화면을 GitHub Pages 로 올린다 — https://jin02.github.io/sf-lexicon/
+# 진님(2026-10-22): "github.io에서 볼 수 있는 방법은 없을려나". main 에 푸시될 때마다
+# scripts/build.py 로 dist/site/index.html 을 새로 만들어 그 폴더만 올린다(레포의 다른 파일은 내보내지 않는다).
+name: 화면 올리기
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 화면 만들기
+        run: python scripts/build.py
+        env:
+          PYTHONUTF8: "1"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
