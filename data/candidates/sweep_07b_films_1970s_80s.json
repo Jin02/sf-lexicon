@@ -22,9 +22,9 @@
       "lore_size": "작음",
       "notability": "영어 위키백과 SF 영화 목록 1970년대",
       "korean": {
-        "status": "확인 못 함",
-        "detail": "",
-        "src": ""
+        "status": "없음",
+        "detail": "국립중앙도서관 소장자료(원제·한글)·예스24·교보문고에서 한국어 번역본 못 찾음, KOBIS 에 1970년 카렐 제만 영화 없음 (2026-10-22 다시 봄)",
+        "src": "https://www.nl.go.kr/NL/contents/search.do?srchTarget=total&kwd=Hector+Servadac"
       },
       "borderline": false
     },

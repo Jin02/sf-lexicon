@@ -19,63 +19,63 @@
 
 | 한국어 정식판 | 수 |
 |---|---|
-| 있음 | 1784 |
+| 있음 | 1795 |
 | 한국 원작 | 931 |
 | 일부 | 262 |
-| 없음 | 975 |
-| 확인 못 함 | 5657 |
+| 없음 | 1004 |
+| 확인 못 함 | 5617 |
 
 ## 소설에서 시작한 세계 (2702)
 
 | 해 | 제목 | 원제 | 만든 이 | 매체 | 한국어 | 세계관 |
 |---|---|---|---|---|---|---|
-| 1516 | De optimo rei publicae statu deque nova insula Utopia (경계) | De optimo rei publicae statu deque nova insula Utopia | Thomas More | 소설 | 확인 못 함 | 먼 바다의 섬나라 '유토피아' — 재산을 함께 가진 이상 사회를 그린 풍자. |
-| 1623 | La città del sole (경계) | La città del sole | Tommaso Campanella | 소설 | 확인 못 함 | 기사단장과 제노바 선장의 대화로 그리는, 재산을 함께 가진 신정 이상 도시. |
-| 1626 | New Atlantis (경계) | New Atlantis | Francis Bacon | 소설 | 확인 못 함 | 페루 서쪽 태평양에서 길 잃은 배가 지식과 발견을 받드는 섬 벤살렘에 닿는다. |
-| 1634 | Somnium, seu opus posthumum De astronomia lunari | Somnium, seu opus posthumum De astronomia lunari | Johannes Kepler | 소설 | 확인 못 함 | 아이슬란드 소년과 마녀 어머니가 정령에게서 달 '레바니아'를 듣는다 — 달에서 본 지구의 천문학. |
-| 1638 | The Man in the Moone | The Man in the Moone | Francis Godwin (Domingo Gonsales) | 소설 | 확인 못 함 | 에스파냐 사내 도밍고 곤살레스가 달까지 가서 본 이상향을 들려준다 — 새 천문학을 담은 이야기. |
-| 1657 | L'Autre monde ou les états et empires de la Lune | L'Autre monde ou les états et empires de la Lune | Cyrano de Bergerac | 소설 | 확인 못 함 | 시라노가 이슬 병을 몸에 매고 하늘로 올라, 지구를 제 달로 여기는 달 문명을 찾아간다. |
-| 1666 | The Description of a New World, Called The Blazing-World (경계) | The Description of a New World, Called The Blazing-World | Margaret Cavendish | 소설 | 확인 못 함 | 북극을 지나면 닿는, 별자리가 다른 또 하나의 세계 — 그곳 이상 왕국의 풍자. |
-| 1705 | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon (경계) | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon | Daniel Defoe | 소설 | 확인 못 함 | 깃 달린 두 생물이 끄는 수레 '컨솔리데이터'를 타고 달 세계에 간다(정치 풍자). |
-| 1726 | Gulliver's Travels (경계) | Gulliver's Travels | Jonathan Swift | 소설 | 확인 못 함 | 외과의 걸리버가 소인국·거인국·학자들의 섬 라퓨타·말의 나라를 차례로 떠돈다. |
-| 1733 | Memoirs of the Twentieth Century | Memoirs of the Twentieth Century | Samuel Madden | 소설 | 확인 못 함 | 1997~1998년에 쓴 외교 서한 꼴로 앞날의 유럽 정치를 비꼰다. |
-| 1741 | Nicolai Klimii Iter Subterraneum (경계) | Nicolai Klimii Iter Subterraneum | Ludvig Holberg | 소설 | 확인 못 함 | 베르겐 동굴로 떨어진 청년이 땅속 해를 도는 행성 나자르에서 걷고 말하는 나무들의 나라를 본다. |
-| 1752 | Micromégas | Micromégas | Voltaire | 소설 | 확인 못 함 | 시리우스 행성에 사는 키 12만 피트의 거인 미크로메가스가 우주를 떠돌다 지구에 들른다. |
-| 1765 | The Voyages of Lord Seaton to the Seven Planets (경계) | The Voyages of Lord Seaton to the Seven Planets | Marie-Anne de Roumier-Robert | 소설 | 확인 못 함 | 정령의 안내를 받은 젊은 여주인공이 태양계 일곱 행성을 돌며 왕이 될 공부를 한다. |
-| 1771 | L'An 2440, rêve s'il en fut jamais | L'An 2440, rêve s'il en fut jamais | Louis-Sébastien Mercier | 소설 | 확인 못 함 | 파리의 부조리를 두고 다툰 사내가 잠들었다 깨어 보니 몇 세기 뒤의 파리다. |
-| 1805 | Le Dernier Homme (경계) | Le Dernier Homme | Jean-Baptiste Cousin de Grainville | 소설 | 확인 못 함 | 땅이 메말라 아이가 나지 않는 먼 미래, 유럽 왕의 아들 오메가루스가 마지막 인간이 된다. |
+| 1516 | 유토피아 (경계) | De optimo rei publicae statu deque nova insula Utopia | Thomas More | 소설 | 있음 | 먼 바다의 섬나라 '유토피아' — 재산을 함께 가진 이상 사회를 그린 풍자. |
+| 1623 | 태양의 나라 (경계) | La città del sole | Tommaso Campanella | 소설 | 있음 | 기사단장과 제노바 선장의 대화로 그리는, 재산을 함께 가진 신정 이상 도시. |
+| 1626 | 새로운 아틀란티스 (경계) | New Atlantis | Francis Bacon | 소설 | 있음 | 페루 서쪽 태평양에서 길 잃은 배가 지식과 발견을 받드는 섬 벤살렘에 닿는다. |
+| 1634 | 솜니움 | Somnium, seu opus posthumum De astronomia lunari | Johannes Kepler | 소설 | 있음 | 아이슬란드 소년과 마녀 어머니가 정령에게서 달 '레바니아'를 듣는다 — 달에서 본 지구의 천문학. |
+| 1638 | The Man in the Moone | The Man in the Moone | Francis Godwin (Domingo Gonsales) | 소설 | 없음 | 에스파냐 사내 도밍고 곤살레스가 달까지 가서 본 이상향을 들려준다 — 새 천문학을 담은 이야기. |
+| 1657 | 다른 세상 | L'Autre monde ou les états et empires de la Lune | Cyrano de Bergerac | 소설 | 있음 | 시라노가 이슬 병을 몸에 매고 하늘로 올라, 지구를 제 달로 여기는 달 문명을 찾아간다. |
+| 1666 | 불타는 세계 (경계) | The Description of a New World, Called The Blazing-World | Margaret Cavendish | 소설 | 있음 | 북극을 지나면 닿는, 별자리가 다른 또 하나의 세계 — 그곳 이상 왕국의 풍자. |
+| 1705 | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon (경계) | The Consolidator; or, Memoirs of Sundry Transactions from the World in the Moon | Daniel Defoe | 소설 | 없음 | 깃 달린 두 생물이 끄는 수레 '컨솔리데이터'를 타고 달 세계에 간다(정치 풍자). |
+| 1726 | 걸리버 여행기 (경계) | Gulliver's Travels | Jonathan Swift | 소설 | 있음 | 외과의 걸리버가 소인국·거인국·학자들의 섬 라퓨타·말의 나라를 차례로 떠돈다. |
+| 1733 | Memoirs of the Twentieth Century | Memoirs of the Twentieth Century | Samuel Madden | 소설 | 없음 | 1997~1998년에 쓴 외교 서한 꼴로 앞날의 유럽 정치를 비꼰다. |
+| 1741 | Nicolai Klimii Iter Subterraneum (경계) | Nicolai Klimii Iter Subterraneum | Ludvig Holberg | 소설 | 없음 | 베르겐 동굴로 떨어진 청년이 땅속 해를 도는 행성 나자르에서 걷고 말하는 나무들의 나라를 본다. |
+| 1752 | 미크로메가스 | Micromégas | Voltaire | 소설 | 있음 | 시리우스 행성에 사는 키 12만 피트의 거인 미크로메가스가 우주를 떠돌다 지구에 들른다. |
+| 1765 | The Voyages of Lord Seaton to the Seven Planets (경계) | The Voyages of Lord Seaton to the Seven Planets | Marie-Anne de Roumier-Robert | 소설 | 없음 | 정령의 안내를 받은 젊은 여주인공이 태양계 일곱 행성을 돌며 왕이 될 공부를 한다. |
+| 1771 | L'An 2440, rêve s'il en fut jamais | L'An 2440, rêve s'il en fut jamais | Louis-Sébastien Mercier | 소설 | 없음 | 파리의 부조리를 두고 다툰 사내가 잠들었다 깨어 보니 몇 세기 뒤의 파리다. |
+| 1805 | 최후의 인간 (경계) | Le Dernier Homme | Jean-Baptiste Cousin de Grainville | 소설 | 있음 | 땅이 메말라 아이가 나지 않는 먼 미래, 유럽 왕의 아들 오메가루스가 마지막 인간이 된다. |
 | 1818 | 프랑켄슈타인 | Frankenstein; or, The Modern Prometheus | Mary Shelley | 소설·영화 | 있음 | 젊은 과학자가 죽은 몸 조각으로 생명을 만들고, 버림받은 피조물이 그를 쫓는다. |
-| 1824 | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Faddei Bulgarin | 소설 | 확인 못 함 | 1824년 배에서 떨어져 정신을 잃은 사내가 깨어나 29세기를 돌아본다 — 러시아 첫 시간 여행 이야기. |
-| 1825 | Невероятные небылицы, или Путешествие к средоточию Земли (경계) | Невероятные небылицы, или Путешествие к средоточию Земли | Faddei Bulgarin | 소설 | 확인 못 함 | 노바야제믈랴의 구멍에 빠진 사내가 땅속 세 나라를 돌아보는 풍자 우화. |
+| 1824 | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Правдоподобные небылицы, или Странствование по свету в двадцать девятом веке | Faddei Bulgarin | 소설 | 없음 | 1824년 배에서 떨어져 정신을 잃은 사내가 깨어나 29세기를 돌아본다 — 러시아 첫 시간 여행 이야기. |
+| 1825 | Невероятные небылицы, или Путешествие к средоточию Земли (경계) | Невероятные небылицы, или Путешествие к средоточию Земли | Faddei Bulgarin | 소설 | 없음 | 노바야제믈랴의 구멍에 빠진 사내가 땅속 세 나라를 돌아보는 풍자 우화. |
 | 1826 | 최후의 인간 | The Last Man | Mary Shelley | 소설 | 있음 | 21세기 말 역병이 온 세상에 퍼져 사람이 하나둘 죽고 마지막 한 사람만 남는다. |
-| 1827 | A Voyage to the Moon | A Voyage to the Moon | George Tucker (Joseph Atterley) | 소설 | 확인 못 함 | 반중력 물질을 써서 달에 간 사내가 달 사람들의 나라 모로소피아의 풍습과 학문을 본다. |
-| 1827 | The Mummy! A Tale of the Twenty-Second Century | The Mummy! A Tale of the Twenty-Second Century | Jane Webb (Jane C. Loudon) | 소설 | 확인 못 함 | 2126년, 첨단 기술이 넘치는 미래 영국에서 이집트 쿠푸왕의 미라가 되살아난다. |
-| 1835 | 4338-й год: Петербургские письма | 4338-й год: Петербургские письма | Vladimir Odoyevsky | 소설 | 확인 못 함 | 먼 미래 중국인 학생의 몸에 정신이 옮겨 간 화자가 4338년 페테르부르크에서 편지를 쓴다. |
-| 1835 | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- (경계) | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- | Jerome B. Holgate (Oliver Bolokitten) | 소설 | 확인 못 함 | 19--년의 미래 도시 '어맬거메이션'을 그려 노예제 폐지론자를 비난하는 디스토피아. |
-| 1836 | Three Hundred Years Hence | Three Hundred Years Hence | Mary Griffith | 소설 | 확인 못 함 | 깊은 잠에서 깬 사내가 이상향이 된 펜실베이니아·뉴저지·뉴욕을 본다 — 미국 첫 유토피아 소설. |
-| 1838 | The Narrative of Arthur Gordon Pym of Nantucket (경계) | The Narrative of Arthur Gordon Pym of Nantucket | Edgar Allan Poe | 소설 | 확인 못 함 | 남극으로 간 아서 고든 핌의 항해 — 쥘 베른과 찰스 데이크가 뒷이야기를 이어 썼다. |
-| 1840 | Voyage en Icarie (경계) | Voyage en Icarie | Étienne Cabet | 소설 | 확인 못 함 | 재산을 함께 가진 공산주의 이상향 이카리아 — 지은이는 실제 공동체까지 세웠다. |
-| 1843 | Lima a Hundred Years from Now | Lima a Hundred Years from Now | Julián Manuel del Portillo | 소설 | 확인 못 함 | 정령에게 한 세기를 빼앗긴 두 친구가 1943년 비행선이 오가고 높은 피라미드가 선 페루에서 깨어난다. |
-| 1859 | Blake; or The Huts of America (경계) | Blake; or The Huts of America | Martin Delany | 소설 | 확인 못 함 | 노예였던 헨리 블레이크가 미국 남부와 쿠바를 돌며 노예 반란을 꾸민다(대체 역사). |
-| 1863 | Cinq semaines en ballon (경계) | Cinq semaines en ballon | Jules Verne | 소설 | 확인 못 함 | 퍼거슨 박사 일행이 기구를 타고 아직 다 밝혀지지 않은 아프리카를 가로지른다. |
+| 1827 | A Voyage to the Moon | A Voyage to the Moon | George Tucker (Joseph Atterley) | 소설 | 없음 | 반중력 물질을 써서 달에 간 사내가 달 사람들의 나라 모로소피아의 풍습과 학문을 본다. |
+| 1827 | The Mummy! A Tale of the Twenty-Second Century | The Mummy! A Tale of the Twenty-Second Century | Jane Webb (Jane C. Loudon) | 소설 | 없음 | 2126년, 첨단 기술이 넘치는 미래 영국에서 이집트 쿠푸왕의 미라가 되살아난다. |
+| 1835 | 4338-й год: Петербургские письма | 4338-й год: Петербургские письма | Vladimir Odoyevsky | 소설 | 없음 | 먼 미래 중국인 학생의 몸에 정신이 옮겨 간 화자가 4338년 페테르부르크에서 편지를 쓴다. |
+| 1835 | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- (경계) | A Sojourn in the City of Amalgamation, in the Year of Our Lord, 19-- | Jerome B. Holgate (Oliver Bolokitten) | 소설 | 없음 | 19--년의 미래 도시 '어맬거메이션'을 그려 노예제 폐지론자를 비난하는 디스토피아. |
+| 1836 | Three Hundred Years Hence | Three Hundred Years Hence | Mary Griffith | 소설 | 없음 | 깊은 잠에서 깬 사내가 이상향이 된 펜실베이니아·뉴저지·뉴욕을 본다 — 미국 첫 유토피아 소설. |
+| 1838 | 낸터킷의 아서 고든 핌 이야기 (경계) | The Narrative of Arthur Gordon Pym of Nantucket | Edgar Allan Poe | 소설 | 있음 | 남극으로 간 아서 고든 핌의 항해 — 쥘 베른과 찰스 데이크가 뒷이야기를 이어 썼다. |
+| 1840 | Voyage en Icarie (경계) | Voyage en Icarie | Étienne Cabet | 소설 | 없음 | 재산을 함께 가진 공산주의 이상향 이카리아 — 지은이는 실제 공동체까지 세웠다. |
+| 1843 | Lima a Hundred Years from Now | Lima a Hundred Years from Now | Julián Manuel del Portillo | 소설 | 없음 | 정령에게 한 세기를 빼앗긴 두 친구가 1943년 비행선이 오가고 높은 피라미드가 선 페루에서 깨어난다. |
+| 1859 | Blake; or The Huts of America (경계) | Blake; or The Huts of America | Martin Delany | 소설 | 없음 | 노예였던 헨리 블레이크가 미국 남부와 쿠바를 돌며 노예 반란을 꾸민다(대체 역사). |
+| 1863 | 기구를 타고 5주간 (경계) | Cinq semaines en ballon | Jules Verne | 소설 | 있음 | 퍼거슨 박사 일행이 기구를 타고 아직 다 밝혀지지 않은 아프리카를 가로지른다. |
 | 1864 | 지구 속 여행 (경계) | Voyage au centre de la Terre | Jules Verne | 소설·영화 | 있음 | 학자 일행이 화산 구멍으로 내려가 땅속의 바다와 옛 생물을 만난다. |
-| 1864 | Voyages et aventures du capitaine Hatteras (경계) | Voyages et aventures du capitaine Hatteras | Jules Verne | 소설 | 확인 못 함 | 1861년, 북극점 둘레 바다는 얼지 않았다고 믿는 해터러스 선장이 북극점을 향해 간다. |
+| 1864 | Voyages et aventures du capitaine Hatteras (경계) | Voyages et aventures du capitaine Hatteras | Jules Verne | 소설 | 없음 | 1861년, 북극점 둘레 바다는 얼지 않았다고 믿는 해터러스 선장이 북극점을 향해 간다. |
 | 1865 | 지구에서 달까지 | De la Terre à la Lune | Jules Verne | 소설 | 있음 | 전쟁이 끝나 할 일이 없어진 대포 클럽이 거대한 대포로 사람을 달에 쏘아 보낸다. |
-| 1868 | The Steam Man of the Prairies | The Steam Man of the Prairies | Edward S. Ellis | 소설 | 확인 못 함 | 십대 발명가 조니 브레이너드가 만든 증기 인간이 미국 대평원을 누빈다. |
-| 1870 | Man's Rights; Or, How Would You Like It? | Man's Rights; Or, How Would You Like It? | Annie Denton Cridge | 소설 | 확인 못 함 | 꿈속에 펼쳐지는, 남녀 역할이 뒤바뀌어 여자가 다스리는 이상향. |
+| 1868 | The Steam Man of the Prairies | The Steam Man of the Prairies | Edward S. Ellis | 소설 | 없음 | 십대 발명가 조니 브레이너드가 만든 증기 인간이 미국 대평원을 누빈다. |
+| 1870 | Man's Rights; Or, How Would You Like It? | Man's Rights; Or, How Would You Like It? | Annie Denton Cridge | 소설 | 없음 | 꿈속에 펼쳐지는, 남녀 역할이 뒤바뀌어 여자가 다스리는 이상향. |
 | 1870 | 해저 2만 리 | Vingt mille lieues sous les mers | Jules Verne | 소설·영화 | 있음 | 네모 선장의 잠수함 노틸러스호가 육지와 등진 채 바다 밑을 누빈다. |
-| 1871 | The Battle of Dorking: Reminiscences of a Volunteer (경계) | The Battle of Dorking: Reminiscences of a Volunteer | George Tomkyns Chesney | 소설 | 확인 못 함 | 독일어를 쓰는 나라가 영국에 쳐들어온 날을, 50년 뒤 노병이 손주들에게 들려준다. |
-| 1871 | The Coming Race | The Coming Race | Edward Bulwer-Lytton | 소설 | 확인 못 함 | 광산 밑 땅속 세계에서 '브릴'이라는 힘을 다루는 뛰어난 종족 브릴야를 만난다. |
+| 1871 | The Battle of Dorking: Reminiscences of a Volunteer (경계) | The Battle of Dorking: Reminiscences of a Volunteer | George Tomkyns Chesney | 소설 | 없음 | 독일어를 쓰는 나라가 영국에 쳐들어온 날을, 50년 뒤 노병이 손주들에게 들려준다. |
+| 1871 | The Coming Race | The Coming Race | Edward Bulwer-Lytton | 소설 | 없음 | 광산 밑 땅속 세계에서 '브릴'이라는 힘을 다루는 뛰어난 종족 브릴야를 만난다. |
 | 1872 | 에레혼 | Erewhon | Samuel Butler | 소설 | 있음 | 기계가 스스로 진화해 사람을 앞지를까 두려워 모든 기계를 부순 산속 나라. |
-| 1872 | The Social War of the Year 1900; Or, Conspirators and Lovers! (경계) | The Social War of the Year 1900; Or, Conspirators and Lovers! | Simon Mohler Landis | 소설 | 확인 못 함 | 1900년, 약 대신 동물 자기로 병을 고치는 비밀 결사 '자연주의자'가 의사와 교회에 맞선다. |
-| 1873 | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | 필명 Paul Aermont | 소설 | 확인 못 함 | 기구를 타고 태양계 곳곳을 돌아다닌 '폴 에어몽'의 여행기. |
-| 1874 | Annals of the Twenty-Ninth Century | Annals of the Twenty-Ninth Century | Andrew Blair | 소설 | 확인 못 함 | 세계 공화국 제10대 대통령의 자서전 꼴로 그리는 29세기. |
-| 1876 | Frank Reade | Frank Reade | Harry Enton · Luis Senarens | 소설 | 확인 못 함 | 발명가 프랭크 리드가 증기 인간 같은 발명품으로 모험하는 소년용 다임 노블 연작. |
-| 1877 | Hector Servadac | Hector Servadac | Jules Verne(원작) · Karel Zeman(1970 감독) | 소설·영화 | 확인 못 함 | 지구를 스친 혜성이 북아프리카 땅 한 조각을 떼어 가고, 그 위의 군인들은 여전히 서로 싸운다. |
+| 1872 | The Social War of the Year 1900; Or, Conspirators and Lovers! (경계) | The Social War of the Year 1900; Or, Conspirators and Lovers! | Simon Mohler Landis | 소설 | 없음 | 1900년, 약 대신 동물 자기로 병을 고치는 비밀 결사 '자연주의자'가 의사와 교회에 맞선다. |
+| 1873 | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | A Narrative of the Travels and Adventures of Paul Aermont among the Planets | 필명 Paul Aermont | 소설 | 없음 | 기구를 타고 태양계 곳곳을 돌아다닌 '폴 에어몽'의 여행기. |
+| 1874 | Annals of the Twenty-Ninth Century | Annals of the Twenty-Ninth Century | Andrew Blair | 소설 | 없음 | 세계 공화국 제10대 대통령의 자서전 꼴로 그리는 29세기. |
+| 1876 | Frank Reade | Frank Reade | Harry Enton · Luis Senarens | 소설 | 없음 | 발명가 프랭크 리드가 증기 인간 같은 발명품으로 모험하는 소년용 다임 노블 연작. |
+| 1877 | Hector Servadac | Hector Servadac | Jules Verne(원작) · Karel Zeman(1970 감독) | 소설·영화 | 없음 | 지구를 스친 혜성이 북아프리카 땅 한 조각을 떼어 가고, 그 위의 군인들은 여전히 서로 싸운다. |
 | 1879 | 인도 왕비의 유산 | Les Cinq Cents Millions de la Bégum | Jules Verne | 소설 | 있음 | 큰 유산을 나눈 두 사람이 이상 도시와 대포 도시를 지어 맞서고, 궤도까지 날아가는 포탄이 나온다. |
-| 1879 | Voyages très extraordinaires de Saturnin Farandoul (경계) | Voyages très extraordinaires de Saturnin Farandoul | Albert Robida(원작) · Marcel Fabre(1913 감독 | 소설·영화 | 확인 못 함 | 원숭이 섬에서 자란 사내가 선장이 되어 고래에 삼켜진 아내를 찾아 세계를 누비는 베른 흉내 모험. |
-| 1880 | Across the Zodiac: The Story of a Wrecked Record | Across the Zodiac: The Story of a Wrecked Record | Percy Greg | 소설 | 확인 못 함 | 반중력 에너지 '어퍼지'로 화성에 간 사내가 작은 화성인들의 사회를 본다. |
-| 1880 | La Maison à vapeur (경계) | La Maison à vapeur | Jules Verne | 소설 | 확인 못 함 | 증기 기계 코끼리가 끄는 바퀴 달린 집을 타고 영국 식민자들이 인도를 돈다. |
+| 1879 | Voyages très extraordinaires de Saturnin Farandoul (경계) | Voyages très extraordinaires de Saturnin Farandoul | Albert Robida(원작) · Marcel Fabre(1913 감독 | 소설·영화 | 없음 | 원숭이 섬에서 자란 사내가 선장이 되어 고래에 삼켜진 아내를 찾아 세계를 누비는 베른 흉내 모험. |
+| 1880 | Across the Zodiac: The Story of a Wrecked Record | Across the Zodiac: The Story of a Wrecked Record | Percy Greg | 소설 | 없음 | 반중력 에너지 '어퍼지'로 화성에 간 사내가 작은 화성인들의 사회를 본다. |
+| 1880 | La Maison à vapeur (경계) | La Maison à vapeur | Jules Verne | 소설 | 없음 | 증기 기계 코끼리가 끄는 바퀴 달린 집을 타고 영국 식민자들이 인도를 돈다. |
 | 1880 | Mizora | Mizora | Mary E. Bradley Lane | 소설 | 확인 못 함 | 땅속에 숨은, 여자들만 사는 기술 이상향 미조라 — 우생학을 따르는 사회. |
 | 1881 | The Fixed Period | The Fixed Period | Anthony Trollope | 소설 | 확인 못 함 | 1980년 뉴질랜드 곁 공화국 브리태뉼라, 67세가 되면 죽음을 준비해야 하는 법을 두고 흔들린다. |
 | 1881 | The Great Romance | The Great Romance | 익명 (The Inhabitant) | 소설 | 확인 못 함 | 새 동력원을 만든 20세기 중반 과학자가 193년 잠에서 깨어 하늘과 우주를 나는 앞날을 본다. |
