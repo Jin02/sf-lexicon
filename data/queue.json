@@ -1,38 +1,7 @@
 {
- "left": 2831,
- "done": 25,
+ "left": 2829,
+ "done": 27,
  "queue": [
-  {
-   "id": "noon_universe",
-   "ko": null,
-   "orig": "Мир Полудня",
-   "year": 1962,
-   "media": [
-    "소설",
-    "영화"
-   ],
-   "first_medium": "소설",
-   "lore_size": "큼",
-   "korean": "일부",
-   "borderline": false,
-   "fame": 2,
-   "score": 6.2
-  },
-  {
-   "id": "alliance_union",
-   "ko": "유니언-동맹",
-   "orig": "Alliance–Union",
-   "year": 1976,
-   "media": [
-    "소설"
-   ],
-   "first_medium": "소설",
-   "lore_size": "큼",
-   "korean": "일부",
-   "borderline": false,
-   "fame": 2,
-   "score": 6.2
-  },
   {
    "id": "uplift",
    "ko": "스타타이드 라이징",
@@ -8585,6 +8554,51 @@
    "score": 4.5
   },
   {
+   "id": "somnium_kepler",
+   "ko": "솜니움",
+   "orig": "Somnium, seu opus posthumum De astronomia lunari",
+   "year": 1634,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "cyrano_other_world",
+   "ko": "다른 세상",
+   "orig": "L'Autre monde ou les états et empires de la Lune",
+   "year": 1657,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
+   "id": "micromegas",
+   "ko": "미크로메가스",
+   "orig": "Micromégas",
+   "year": 1752,
+   "media": [
+    "소설"
+   ],
+   "first_medium": "소설",
+   "lore_size": "작음",
+   "korean": "있음",
+   "borderline": false,
+   "fame": 2,
+   "score": 4.4
+  },
+  {
    "id": "red_star_bogdanov",
    "ko": "붉은 별",
    "orig": "Красная звезда",
@@ -11428,21 +11442,6 @@
    "score": 4.2
   },
   {
-   "id": "somnium_kepler",
-   "ko": null,
-   "orig": "Somnium, seu opus posthumum De astronomia lunari",
-   "year": 1634,
-   "media": [
-    "소설"
-   ],
-   "first_medium": "소설",
-   "lore_size": "작음",
-   "korean": "확인 못 함",
-   "borderline": false,
-   "fame": 2,
-   "score": 4.0
-  },
-  {
    "id": "man_in_the_moone",
    "ko": null,
    "orig": "The Man in the Moone",
@@ -11452,37 +11451,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
-   "borderline": false,
-   "fame": 2,
-   "score": 4.0
-  },
-  {
-   "id": "cyrano_other_world",
-   "ko": null,
-   "orig": "L'Autre monde ou les états et empires de la Lune",
-   "year": 1657,
-   "media": [
-    "소설"
-   ],
-   "first_medium": "소설",
-   "lore_size": "작음",
-   "korean": "확인 못 함",
-   "borderline": false,
-   "fame": 2,
-   "score": 4.0
-  },
-  {
-   "id": "micromegas",
-   "ko": null,
-   "orig": "Micromégas",
-   "year": 1752,
-   "media": [
-    "소설"
-   ],
-   "first_medium": "소설",
-   "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": false,
    "fame": 2,
    "score": 4.0
@@ -11498,7 +11467,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": false,
    "fame": 2,
    "score": 4.0
@@ -11513,7 +11482,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": false,
    "fame": 2,
    "score": 4.0
@@ -23951,7 +23920,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": false,
    "fame": 1,
    "score": 2.5
@@ -23966,7 +23935,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": false,
    "fame": 1,
    "score": 2.5
@@ -41485,7 +41454,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": true,
    "fame": 1,
    "score": -0.5
@@ -41500,7 +41469,7 @@
    ],
    "first_medium": "소설",
    "lore_size": "작음",
-   "korean": "확인 못 함",
+   "korean": "없음",
    "borderline": true,
    "fame": 1,
    "score": -0.5
@@ -43005,7 +42974,7 @@
  "border": [
   {
    "id": "the_blazing_world",
-   "ko": null,
+   "ko": "불타는 세계",
    "orig": "The Description of a New World, Called The Blazing-World",
    "year": 1666,
    "space": "경계"
@@ -43571,6 +43540,13 @@
    "space": "경계"
   },
   {
+   "id": "uchuusen_silica",
+   "ko": null,
+   "orig": "宇宙船シリカ",
+   "year": 1960,
+   "space": "판정 없음"
+  },
+  {
    "id": "a_for_andromeda",
    "ko": null,
    "orig": "A for Andromeda",
@@ -43618,6 +43594,13 @@
    "orig": "The Jetsons",
    "year": 1962,
    "space": "경계"
+  },
+  {
+   "id": "oki_ni_mesu_mama_1962",
+   "ko": null,
+   "orig": "お気に召すまま",
+   "year": 1962,
+   "space": "판정 없음"
   },
   {
    "id": "beautiful_star",
@@ -43681,6 +43664,13 @@
    "orig": "The Stranger",
    "year": 1964,
    "space": "경계"
+  },
+  {
+   "id": "konbanwa_21seiki",
+   "ko": null,
+   "orig": "こんばんは21世紀",
+   "year": 1964,
+   "space": "판정 없음"
   },
   {
    "id": "cyborg_009",
@@ -44432,6 +44422,13 @@
    "space": "경계"
   },
   {
+   "id": "akage_no_anko",
+   "ko": null,
+   "orig": "赤毛のアン子",
+   "year": 1974,
+   "space": "판정 없음"
+  },
+  {
    "id": "sky_htv_1975",
    "ko": null,
    "orig": "Sky",
@@ -44530,6 +44527,13 @@
    "space": "경계"
   },
   {
+   "id": "asu_e_no_tsuiseki",
+   "ko": null,
+   "orig": "明日への追跡",
+   "year": 1976,
+   "space": "판정 없음"
+  },
+  {
    "id": "combattler_v",
    "ko": null,
    "orig": "超電磁ロボ コン・バトラーV",
@@ -44621,6 +44625,20 @@
    "space": "경계"
   },
   {
+   "id": "ganbaron_1977",
+   "ko": null,
+   "orig": "小さなスーパーマン ガンバロン",
+   "year": 1977,
+   "space": "판정 없음"
+  },
+  {
+   "id": "bakumatsu_miraijin",
+   "ko": null,
+   "orig": "幕末未来人",
+   "year": 1977,
+   "space": "판정 없음"
+  },
+  {
    "id": "gaislugger",
    "ko": "빙하전사 가이스러거",
    "orig": "氷河戦士ガイスラッガー",
@@ -44691,6 +44709,13 @@
    "space": "경계"
   },
   {
+   "id": "ufo_seven_daibouken",
+   "ko": null,
+   "orig": "UFOセブン大冒険",
+   "year": 1978,
+   "space": "판정 없음"
+  },
+  {
    "id": "ufo_daisensou_red_tiger",
    "ko": null,
    "orig": "UFO大戦争 戦え! レッドタイガー",
@@ -44717,6 +44742,13 @@
    "orig": "うる星やつら",
    "year": 1978,
    "space": "경계"
+  },
+  {
+   "id": "sono_machi_wo_kese",
+   "ko": null,
+   "orig": "その町を消せ!",
+   "year": 1978,
+   "space": "판정 없음"
   },
   {
    "id": "toei_spiderman",
@@ -44831,6 +44863,13 @@
    "space": "경계"
   },
   {
+   "id": "aitsu_no_time_machine",
+   "ko": null,
+   "orig": "あいつのタイムマシン",
+   "year": 1979,
+   "space": "판정 없음"
+  },
+  {
    "id": "guin_saga",
    "ko": null,
    "orig": "グイン・サーガ",
@@ -44922,6 +44961,13 @@
    "space": "경계"
   },
   {
+   "id": "tokyo_daijishin_m81",
+   "ko": null,
+   "orig": "東京大地震マグニチュード8.1",
+   "year": 1980,
+   "space": "판정 없음"
+  },
+  {
    "id": "zetsumetsu_no_shima",
    "ko": null,
    "orig": "絶滅の島",
@@ -44983,6 +45029,13 @@
    "orig": "原振俠系列",
    "year": 1981,
    "space": "경계"
+  },
+  {
+   "id": "owari_ni_mita_machi",
+   "ko": null,
+   "orig": "終りに見た街",
+   "year": 1981,
+   "space": "판정 없음"
   },
   {
    "id": "nayuta_sasaki",
@@ -45074,6 +45127,13 @@
    "orig": "バッテンロボ丸",
    "year": 1982,
    "space": "경계"
+  },
+  {
+   "id": "pinky_punch_daigyakuten",
+   "ko": null,
+   "orig": "ピンキーパンチ大逆転",
+   "year": 1982,
+   "space": "판정 없음"
   },
   {
    "id": "vampire_war_kasai",
@@ -45293,6 +45353,13 @@
    "space": "경계"
   },
   {
+   "id": "morumo_1_10",
+   "ko": null,
+   "orig": "MORUMO 1/10",
+   "year": 1985,
+   "space": "판정 없음"
+  },
+  {
    "id": "the_galactic_garden",
    "ko": null,
    "orig": "The Galactic Garden",
@@ -45319,6 +45386,13 @@
    "orig": "ThunderCats",
    "year": 1985,
    "space": "경계"
+  },
+  {
+   "id": "oasis_wo_motomete",
+   "ko": null,
+   "orig": "オアシスを求めて",
+   "year": 1985,
+   "space": "판정 없음"
   },
   {
    "id": "super_mario",
@@ -45629,6 +45703,13 @@
    "space": "경계"
   },
   {
+   "id": "manatsu_shoujo",
+   "ko": null,
+   "orig": "魔夏少女",
+   "year": 1987,
+   "space": "판정 없음"
+  },
+  {
    "id": "dr_xargle",
    "ko": null,
    "orig": "Dr. Xargle",
@@ -45648,6 +45729,13 @@
    "orig": "Something Is Out There",
    "year": 1988,
    "space": "경계"
+  },
+  {
+   "id": "the_winds_of_god",
+   "ko": null,
+   "orig": "THE WINDS OF GOD",
+   "year": 1988,
+   "space": "판정 없음"
   },
   {
    "id": "zak_mckracken",
@@ -45825,6 +45913,13 @@
    "space": "경계"
   },
   {
+   "id": "yo_nimo_kimyou_na_monogatari",
+   "ko": null,
+   "orig": "世にも奇妙な物語",
+   "year": 1990,
+   "space": "판정 없음"
+  },
+  {
    "id": "exkaiser",
    "ko": "용자 엑스카이저",
    "orig": "勇者エクスカイザー",
@@ -45909,6 +46004,13 @@
    "space": "경계"
   },
   {
+   "id": "nasa_mirai_kara",
+   "ko": null,
+   "orig": "NASA〜未来から落ちてきた男〜",
+   "year": 1991,
+   "space": "판정 없음"
+  },
+  {
    "id": "sd_keiji_blader",
    "ko": null,
    "orig": "SD刑事ブレイダー",
@@ -45956,6 +46058,13 @@
    "orig": "デトネイター・オーガン",
    "year": 1991,
    "space": "경계"
+  },
+  {
+   "id": "mizu_no_kioku_fujiwara",
+   "ko": null,
+   "orig": "水の記憶",
+   "year": 1991,
+   "space": "판정 없음"
   },
   {
    "id": "raijinoh",
@@ -46021,6 +46130,13 @@
    "space": "경계"
   },
   {
+   "id": "watanabe_kubonouchi",
+   "ko": null,
+   "orig": "ワタナベ",
+   "year": 1992,
+   "space": "판정 없음"
+  },
+  {
    "id": "dagarn",
    "ko": "전설의 용자 다간",
    "orig": "伝説の勇者ダ・ガーン",
@@ -46063,6 +46179,13 @@
    "space": "경계"
   },
   {
+   "id": "if_moshimo_fuji",
+   "ko": null,
+   "orig": "If もしも",
+   "year": 1993,
+   "space": "판정 없음"
+  },
+  {
    "id": "the_journeyman_project",
    "ko": null,
    "orig": "The Journeyman Project",
@@ -46084,6 +46207,13 @@
    "space": "경계"
   },
   {
+   "id": "bunshin_higashino",
+   "ko": null,
+   "orig": "分身",
+   "year": 1993,
+   "space": "판정 없음"
+  },
+  {
    "id": "gakusaver",
    "ko": null,
    "orig": "流星機ガクセイバー",
@@ -46096,6 +46226,13 @@
    "orig": "熱血最強ゴウザウラー",
    "year": 1993,
    "space": "경계"
+  },
+  {
+   "id": "chiu_nang_gon_taam_supercop",
+   "ko": null,
+   "orig": "超能幹探SuperCop",
+   "year": 1993,
+   "space": "판정 없음"
   },
   {
    "id": "space_turtle_ship",
@@ -46145,6 +46282,13 @@
    "orig": "Little Big Adventure",
    "year": 1994,
    "space": "경계"
+  },
+  {
+   "id": "maya_mayonaka_no_shoujo",
+   "ko": null,
+   "orig": "MAYA 真夜中の少女",
+   "year": 1994,
+   "space": "판정 없음"
   },
   {
    "id": "mother_of_storms",
@@ -46217,6 +46361,13 @@
    "space": "경계"
   },
   {
+   "id": "chikatetsu_ni_notte",
+   "ko": null,
+   "orig": "地下鉄に乗って",
+   "year": 1994,
+   "space": "판정 없음"
+  },
+  {
    "id": "hyper_doll",
    "ko": null,
    "orig": "楽勝!ハイパードール",
@@ -46231,11 +46382,25 @@
    "space": "경계"
   },
   {
+   "id": "superpower_kimchiman",
+   "ko": "수퍼파워 김치맨",
+   "orig": "수퍼파워 김치맨",
+   "year": 1994,
+   "space": "판정 없음"
+  },
+  {
    "id": "amanda_and_the_alien",
    "ko": null,
    "orig": "Amanda and the Alien",
    "year": 1995,
    "space": "경계"
+  },
+  {
+   "id": "black_out_1995",
+   "ko": null,
+   "orig": "BLACK OUT",
+   "year": 1995,
+   "space": "판정 없음"
   },
   {
    "id": "chaga_mcdonald",
@@ -46287,6 +46452,13 @@
    "space": "경계"
   },
   {
+   "id": "skip_kitamura",
+   "ko": null,
+   "orig": "スキップ",
+   "year": 1995,
+   "space": "판정 없음"
+  },
+  {
    "id": "level_e",
    "ko": "레벨E",
    "orig": "レベルE",
@@ -46294,11 +46466,25 @@
    "space": "경계"
   },
   {
+   "id": "kimi_wa_toki_no_kanata_e",
+   "ko": null,
+   "orig": "君は時のかなたへ",
+   "year": 1995,
+   "space": "판정 없음"
+  },
+  {
    "id": "ixelion",
    "ko": null,
    "orig": "戦ー少女イクセリオン",
    "year": 1995,
    "space": "경계"
+  },
+  {
+   "id": "mokuyou_no_kaidan",
+   "ko": null,
+   "orig": "木曜の怪談",
+   "year": 1995,
+   "space": "판정 없음"
   },
   {
    "id": "virtual_on",
@@ -46385,11 +46571,25 @@
    "space": "경계"
   },
   {
+   "id": "yasha_yoshida",
+   "ko": null,
+   "orig": "YASHA-夜叉-",
+   "year": 1996,
+   "space": "판정 없음"
+  },
+  {
    "id": "dagwon",
    "ko": "용자지령 다그온",
    "orig": "勇者指令ダグオン",
    "year": 1996,
    "space": "경계"
+  },
+  {
+   "id": "appare_yajuurou",
+   "ko": null,
+   "orig": "天晴れ夜十郎",
+   "year": 1996,
+   "space": "판정 없음"
   },
   {
    "id": "houshin_engi_fujisaki",
@@ -46509,6 +46709,13 @@
    "orig": "勇者王ガオガイガー",
    "year": 1997,
    "space": "경계"
+  },
+  {
+   "id": "hime_wa_sailor_fuku",
+   "ko": null,
+   "orig": "姫はセーラー服がお好き",
+   "year": 1997,
+   "space": "판정 없음"
   },
   {
    "id": "exaxxion",
@@ -46833,6 +47040,13 @@
    "space": "경계"
   },
   {
+   "id": "kimi_to_ita_mirai_no_tame_ni",
+   "ko": null,
+   "orig": "君といた未来のために 〜I'll be back〜",
+   "year": 1999,
+   "space": "판정 없음"
+  },
+  {
    "id": "tengoku_to_chikoku",
    "ko": "천옥과 지국",
    "orig": "天獄と地国",
@@ -46945,6 +47159,13 @@
    "space": "경계"
   },
   {
+   "id": "space_angel_2001en",
+   "ko": null,
+   "orig": "SPACE ANGEL 2001円宇宙の旅",
+   "year": 2000,
+   "space": "판정 없음"
+  },
+  {
    "id": "the_bridge_young",
    "ko": null,
    "orig": "The Bridge",
@@ -46978,6 +47199,13 @@
    "orig": "Vampires, Pirates & Aliens",
    "year": 2000,
    "space": "경계"
+  },
+  {
+   "id": "bouken_mekarappa_gou",
+   "ko": null,
+   "orig": "ぼうけん!メカラッパ号",
+   "year": 2000,
+   "space": "판정 없음"
   },
   {
    "id": "argento_soma",
@@ -47015,6 +47243,13 @@
    "space": "경계"
   },
   {
+   "id": "mi_li_tao_sheng",
+   "ko": null,
+   "orig": "蜜里逃生",
+   "year": 2000,
+   "space": "판정 없음"
+  },
+  {
    "id": "ousatsu_no_hukkebein",
    "ko": null,
    "orig": "鏖殺の凶鳥",
@@ -47027,6 +47262,20 @@
    "orig": "가이스터즈",
    "year": 2000,
    "space": "경계"
+  },
+  {
+   "id": "doraon_greenman",
+   "ko": "돌아온 그린맨",
+   "orig": "돌아온 그린맨",
+   "year": 2000,
+   "space": "판정 없음"
+  },
+  {
+   "id": "yojeong_commi",
+   "ko": "요정 컴미",
+   "orig": "요정 컴미",
+   "year": 2000,
+   "space": "판정 없음"
   },
   {
    "id": "atlantis_high",
@@ -47211,6 +47460,20 @@
    "space": "경계"
   },
   {
+   "id": "jikuu_keisatsu_ntv",
+   "ko": null,
+   "orig": "時空警察",
+   "year": 2001,
+   "space": "판정 없음"
+  },
+  {
+   "id": "ryusei_wagon",
+   "ko": null,
+   "orig": "流星ワゴン",
+   "year": 2001,
+   "space": "판정 없음"
+  },
+  {
    "id": "empire_of_bones",
    "ko": null,
    "orig": "Empire of Bones",
@@ -47279,6 +47542,13 @@
    "orig": "おねがい☆ティーチャー",
    "year": 2002,
    "space": "경계"
+  },
+  {
+   "id": "boku_ga_chikyuu_wo_sukuu",
+   "ko": null,
+   "orig": "ぼくが地球を救う",
+   "year": 2002,
+   "space": "판정 없음"
   },
   {
    "id": "dears",
@@ -47463,6 +47733,13 @@
    "space": "경계"
   },
   {
+   "id": "hwangyeong_zentaforce",
+   "ko": "환경전사 젠타포스",
+   "orig": "환경전사 젠타포스",
+   "year": 2003,
+   "space": "판정 없음"
+  },
+  {
    "id": "edge_of_tomorrow",
    "ko": "엣지 오브 투모로우",
    "orig": "All You Need Is Kill",
@@ -47540,11 +47817,46 @@
    "space": "경계"
   },
   {
+   "id": "repeat_inui",
+   "ko": null,
+   "orig": "リピート",
+   "year": 2004,
+   "space": "판정 없음"
+  },
+  {
+   "id": "jinrui_metsubou_13",
+   "ko": null,
+   "orig": "人類滅亡と13人のコント集",
+   "year": 2004,
+   "space": "판정 없음"
+  },
+  {
+   "id": "bokutachi_no_sensou",
+   "ko": null,
+   "orig": "僕たちの戦争",
+   "year": 2004,
+   "space": "판정 없음"
+  },
+  {
    "id": "remina",
    "ko": "지옥별 레미나",
    "orig": "地獄星レミナ",
    "year": 2004,
    "space": "경계"
+  },
+  {
+   "id": "zi_si_gu_jan_loi",
+   "ko": null,
+   "orig": "子是故人來",
+   "year": 2004,
+   "space": "판정 없음"
+  },
+  {
+   "id": "kami_wa_saikoro_wo_furanai",
+   "ko": null,
+   "orig": "神はサイコロを振らない",
+   "year": 2004,
+   "space": "판정 없음"
   },
   {
    "id": "fafner",
@@ -47566,6 +47878,13 @@
    "orig": "빙옥검후",
    "year": 2004,
    "space": "경계"
+  },
+  {
+   "id": "suhojeonsa_maxman",
+   "ko": "수호전사 맥스맨",
+   "orig": "수호전사 맥스맨",
+   "year": 2004,
+   "space": "판정 없음"
   },
   {
    "id": "ullabulla_bluejjang",
@@ -47678,6 +47997,13 @@
    "orig": "散歩する侵略者",
    "year": 2005,
    "space": "경계"
+  },
+  {
+   "id": "sakura_nigou",
+   "ko": null,
+   "orig": "桜2号",
+   "year": 2005,
+   "space": "판정 없음"
   },
   {
    "id": "yuri_seijin_naoko",
@@ -47806,6 +48132,13 @@
    "space": "경계"
   },
   {
+   "id": "gakincho_return_kids",
+   "ko": null,
+   "orig": "がきんちょ〜リターン・キッズ〜",
+   "year": 2006,
+   "space": "판정 없음"
+  },
+  {
    "id": "exa_pico",
    "ko": null,
    "orig": "アルトネリコ / サージュ・コンチェルト",
@@ -47853,6 +48186,13 @@
    "orig": "대리전",
    "year": 2006,
    "space": "경계"
+  },
+  {
+   "id": "erexion_kr",
+   "ko": "이레자이온",
+   "orig": "이레자이온",
+   "year": 2006,
+   "space": "판정 없음"
   },
   {
    "id": "zolaman_robot_daejeon",
@@ -47974,6 +48314,20 @@
    "space": "경계"
   },
   {
+   "id": "mop_girl",
+   "ko": null,
+   "orig": "モップガール",
+   "year": 2007,
+   "space": "판정 없음"
+  },
+  {
+   "id": "wu_long_qi_jian_shi",
+   "ko": null,
+   "orig": "五龙奇剑士",
+   "year": 2007,
+   "space": "판정 없음"
+  },
+  {
    "id": "getsumento_heiki_mina",
    "ko": null,
    "orig": "月面兎兵器ミーナ",
@@ -48051,6 +48405,13 @@
    "space": "경계"
   },
   {
+   "id": "pandora_wowow",
+   "ko": null,
+   "orig": "パンドラ",
+   "year": 2008,
+   "space": "판정 없음"
+  },
+  {
    "id": "robodz",
    "ko": null,
    "orig": "ロボディーズ -RoboDz- 風雲篇",
@@ -48079,6 +48440,27 @@
    "space": "경계"
   },
   {
+   "id": "mirai_seiki_shakespeare",
+   "ko": null,
+   "orig": "未来世紀シェイクスピア",
+   "year": 2008,
+   "space": "판정 없음"
+  },
+  {
+   "id": "mirai_koushi_meguru",
+   "ko": null,
+   "orig": "未来講師めぐる",
+   "year": 2008,
+   "space": "판정 없음"
+  },
+  {
+   "id": "zettai_kareshi",
+   "ko": null,
+   "orig": "絶対彼氏",
+   "year": 2008,
+   "space": "판정 없음"
+  },
+  {
    "id": "hazakura_ga_kita_natsu",
    "ko": null,
    "orig": "葉桜が来た夏",
@@ -48098,6 +48480,13 @@
    "orig": "은하연인전",
    "year": 2008,
    "space": "경계"
+  },
+  {
+   "id": "hwangyeong_wildforce",
+   "ko": "환경수비대 와일드포스",
+   "orig": "환경수비대 와일드포스",
+   "year": 2008,
+   "space": "판정 없음"
   },
   {
    "id": "clang_invasion",
@@ -48191,6 +48580,13 @@
    "space": "경계"
   },
   {
+   "id": "chichi_yo_anata_wa_erakatta",
+   "ko": null,
+   "orig": "父よ、あなたはえらかった〜1969年のオヤジと僕",
+   "year": 2009,
+   "space": "판정 없음"
+  },
+  {
    "id": "haiyore_nyaruko_san",
    "ko": null,
    "orig": "這いよれ! ニャル子さん",
@@ -48217,6 +48613,13 @@
    "orig": "트레스패서",
    "year": 2009,
    "space": "경계"
+  },
+  {
+   "id": "juunen_saki_mo",
+   "ko": null,
+   "orig": "10年先も君に恋して",
+   "year": 2010,
+   "space": "판정 없음"
   },
   {
    "id": "adventure_time",
@@ -48296,6 +48699,13 @@
    "space": "경계"
   },
   {
+   "id": "double_tone_kajio",
+   "ko": null,
+   "orig": "ダブルトーン",
+   "year": 2010,
+   "space": "판정 없음"
+  },
+  {
    "id": "planzet",
    "ko": null,
    "orig": "プランゼット",
@@ -48308,6 +48718,13 @@
    "orig": "世紀末オカルト学院",
    "year": 2010,
    "space": "경계"
+  },
+  {
+   "id": "hanbun_esper",
+   "ko": null,
+   "orig": "半分エスパー",
+   "year": 2010,
+   "space": "판정 없음"
   },
   {
    "id": "meng_xueyuan",
@@ -48329,6 +48746,13 @@
    "orig": "대한제국 연대기",
    "year": 2010,
    "space": "경계"
+  },
+  {
+   "id": "joseon_x_files",
+   "ko": "조선X파일 기찰비록",
+   "orig": "조선X파일 기찰비록",
+   "year": 2010,
+   "space": "판정 없음"
   },
   {
    "id": "anno_2070",
@@ -48443,6 +48867,20 @@
    "space": "경계"
   },
   {
+   "id": "again_kubo",
+   "ko": null,
+   "orig": "アゲイン!!",
+   "year": 2011,
+   "space": "판정 없음"
+  },
+  {
+   "id": "ashi_girl",
+   "ko": null,
+   "orig": "アシガール",
+   "year": 2011,
+   "space": "판정 없음"
+  },
+  {
    "id": "devil_survivor_2",
    "ko": "데빌 서바이버 2",
    "orig": "デビルサバイバー2",
@@ -48462,6 +48900,13 @@
    "orig": "方舟奇航",
    "year": 2011,
    "space": "경계"
+  },
+  {
+   "id": "saigo_no_restaurant",
+   "ko": null,
+   "orig": "最後のレストラン",
+   "year": 2011,
+   "space": "판정 없음"
   },
   {
    "id": "jijia_yingxiong",
@@ -48499,6 +48944,13 @@
    "space": "경계"
   },
   {
+   "id": "13sai_no_hello_work",
+   "ko": null,
+   "orig": "13歳のハローワーク",
+   "year": 2012,
+   "space": "판정 없음"
+  },
+  {
    "id": "lightning_point",
    "ko": null,
    "orig": "Lightning Point",
@@ -48534,6 +48986,13 @@
    "space": "경계"
   },
   {
+   "id": "vision_koroshi_ga_mieru",
+   "ko": null,
+   "orig": "VISION-殺しが見える女-",
+   "year": 2012,
+   "space": "판정 없음"
+  },
+  {
    "id": "wizards_vs_aliens",
    "ko": null,
    "orig": "Wizards vs Aliens",
@@ -48555,6 +49014,13 @@
    "space": "경계"
   },
   {
+   "id": "boku_no_natsuyasumi_2012",
+   "ko": null,
+   "orig": "ぼくの夏休み",
+   "year": 2012,
+   "space": "판정 없음"
+  },
+  {
    "id": "hundred_minosaki",
    "ko": null,
    "orig": "ハンドレッド",
@@ -48562,11 +49028,32 @@
    "space": "경계"
   },
   {
+   "id": "usotoki_rhetoric",
+   "ko": null,
+   "orig": "嘘解きレトリック",
+   "year": 2012,
+   "space": "판정 없음"
+  },
+  {
+   "id": "koshoku_robot",
+   "ko": null,
+   "orig": "孤食ロボット",
+   "year": 2012,
+   "space": "판정 없음"
+  },
+  {
    "id": "land_of_the_lustrous",
    "ko": "보석의 나라",
    "orig": "宝石の国",
    "year": 2012,
    "space": "경계"
+  },
+  {
+   "id": "kuai_le_ku_bao",
+   "ko": null,
+   "orig": "快乐酷宝",
+   "year": 2012,
+   "space": "판정 없음"
   },
   {
    "id": "symphogear",
@@ -48653,6 +49140,13 @@
    "space": "경계"
   },
   {
+   "id": "mission_english_bsfuji",
+   "ko": null,
+   "orig": "MISSION ENGLISH",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
    "id": "max_steel",
    "ko": "맥스 스틸",
    "orig": "Max Steel",
@@ -48709,11 +49203,32 @@
    "space": "경계"
   },
   {
+   "id": "samurai_sensei",
+   "ko": null,
+   "orig": "サムライせんせい",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
    "id": "samurai_flamenco",
    "ko": "사무라이 플라멩코",
    "orig": "サムライフラメンコ",
    "year": 2013,
    "space": "경계"
+  },
+  {
+   "id": "share_house_no_koibito",
+   "ko": null,
+   "orig": "シェアハウスの恋人",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
+   "id": "starman_kono_hoshi_no_koi",
+   "ko": null,
+   "orig": "スターマン・この星の恋",
+   "year": 2013,
+   "space": "판정 없음"
   },
   {
    "id": "train_hero",
@@ -48723,6 +49238,13 @@
    "space": "경계"
   },
   {
+   "id": "mierino_kashiwagi",
+   "ko": null,
+   "orig": "ミエリーノ柏木",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
    "id": "world_trigger",
    "ko": "월드 트리거",
    "orig": "ワールドトリガー",
@@ -48730,11 +49252,53 @@
    "space": "경계"
   },
   {
+   "id": "masuyama_chounouryokushi",
+   "ko": null,
+   "orig": "増山超能力師事務所",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
+   "id": "ando_lloyd",
+   "ko": null,
+   "orig": "安堂ロイド〜A.I. knows LOVE?〜",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
    "id": "shijian_zhi_xu",
    "ko": null,
    "orig": "时间之墟",
    "year": 2013,
    "space": "경계"
+  },
+  {
+   "id": "kamisama_no_beret",
+   "ko": null,
+   "orig": "神様のベレー帽〜手塚治虫のブラック・ジャック創作秘話〜",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
+   "id": "chouzetsu_zekkyou_land",
+   "ko": null,
+   "orig": "超絶☆絶叫ランド",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
+   "id": "ginga_sentou_panta_kun",
+   "ko": null,
+   "orig": "銀河銭湯パンタくん",
+   "year": 2013,
+   "space": "판정 없음"
+  },
+  {
+   "id": "neoui_moksoriga_deullyeo",
+   "ko": "너의 목소리가 들려",
+   "orig": "너의 목소리가 들려",
+   "year": 2013,
+   "space": "판정 없음"
   },
   {
    "id": "my_love_from_the_star",
@@ -48870,6 +49434,27 @@
    "space": "경계"
   },
   {
+   "id": "higanbana_sousa_nanaka",
+   "ko": null,
+   "orig": "ヒガンバナ〜警視庁捜査七課〜",
+   "year": 2014,
+   "space": "판정 없음"
+  },
+  {
+   "id": "bu_yi_yang_de_mei_nan_zi",
+   "ko": null,
+   "orig": "不一樣的美男子",
+   "year": 2014,
+   "space": "판정 없음"
+  },
+  {
+   "id": "tenchuu_yami_no_shiokinin",
+   "ko": null,
+   "orig": "天誅〜闇の仕置人〜",
+   "year": 2014,
+   "space": "판정 없음"
+  },
+  {
    "id": "yichang_shengwu_jianwenlu",
    "ko": null,
    "orig": "异常生物见闻录",
@@ -48882,6 +49467,13 @@
    "orig": "甲殻不動戦記 ロボサン",
    "year": 2014,
    "space": "경계"
+  },
+  {
+   "id": "suteki_na_sen_taxi",
+   "ko": null,
+   "orig": "素敵な選TAXI",
+   "year": 2014,
+   "space": "판정 없음"
   },
   {
    "id": "nami_hexin",
@@ -48917,6 +49509,13 @@
    "orig": "바이클론즈",
    "year": 2014,
    "space": "경계"
+  },
+  {
+   "id": "sweden_setakso",
+   "ko": "스웨덴 세탁소",
+   "orig": "스웨덴 세탁소",
+   "year": 2014,
+   "space": "판정 없음"
   },
   {
    "id": "space_jungle_2014",
@@ -49038,6 +49637,13 @@
    "space": "경계"
   },
   {
+   "id": "iine_hikaru_genji_kun",
+   "ko": null,
+   "orig": "いいね!光源氏くん",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
    "id": "eirun_last_code",
    "ko": null,
    "orig": "エイルン・ラストコード 〜架空世界より戦場へ〜",
@@ -49057,6 +49663,20 @@
    "orig": "コンクリート・レボルティオ〜超人幻想〜",
    "year": 2015,
    "space": "경계"
+  },
+  {
+   "id": "tokyo_alien_brothers",
+   "ko": null,
+   "orig": "トーキョーエイリアンブラザーズ",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
+   "id": "doctor_white_kibayashi",
+   "ko": null,
+   "orig": "ドクター・ホワイト",
+   "year": 2015,
+   "space": "판정 없음"
   },
   {
    "id": "punchline_anime",
@@ -49080,6 +49700,27 @@
    "space": "경계"
   },
   {
+   "id": "ooedo_kagaku_sousa_oyuu",
+   "ko": null,
+   "orig": "大江戸科学捜査 八丁堀のおゆう",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
+   "id": "nenriki_kazoku",
+   "ko": null,
+   "orig": "念力家族",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
+   "id": "haretara_iine_fujioka",
+   "ko": null,
+   "orig": "晴れたらいいね",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
    "id": "binan_koukou",
    "ko": null,
    "orig": "美男高校地球防衛部LOVE!",
@@ -49087,11 +49728,32 @@
    "space": "경계"
   },
   {
+   "id": "naeireul_hyanghae_ttwieora",
+   "ko": "내일을 향해 뛰어라",
+   "orig": "내일을 향해 뛰어라",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
    "id": "robotex",
    "ko": "로보텍스",
    "orig": "로보텍스",
    "year": 2015,
    "space": "경계"
+  },
+  {
+   "id": "chuldong_kcop",
+   "ko": "출동 케이캅",
+   "orig": "출동 케이캅",
+   "year": 2015,
+   "space": "판정 없음"
+  },
+  {
+   "id": "to_be_continued_kr",
+   "ko": "투 비 컨티뉴드",
+   "orig": "투 비 컨티뉴드",
+   "year": 2015,
+   "space": "판정 없음"
   },
   {
    "id": "alien_hunter_strieber",
@@ -49227,6 +49889,13 @@
    "space": "경계"
   },
   {
+   "id": "time_patrol_no_ol",
+   "ko": null,
+   "orig": "タイムパトロールのOL",
+   "year": 2016,
+   "space": "판정 없음"
+  },
+  {
    "id": "power_catch_wanda",
    "ko": "파워캐치완다",
    "orig": "パワーキャッチワンダ",
@@ -49234,11 +49903,32 @@
    "space": "경계"
   },
   {
+   "id": "love_love_alien",
+   "ko": null,
+   "orig": "ラブラブエイリアン",
+   "year": 2016,
+   "space": "판정 없음"
+  },
+  {
    "id": "my_lover_planet_meow",
    "ko": null,
    "orig": "來自喵喵星的妳",
    "year": 2016,
    "space": "경계"
+  },
+  {
+   "id": "shinryaku_garupanda_z",
+   "ko": null,
+   "orig": "侵略!ガルパンダZ",
+   "year": 2016,
+   "space": "판정 없음"
+  },
+  {
+   "id": "qi_miao_de_shi_guang_zhi_lv",
+   "ko": null,
+   "orig": "奇妙的时光之旅",
+   "year": 2016,
+   "space": "판정 없음"
   },
   {
    "id": "honkai_impact_3rd",
@@ -49262,6 +49952,20 @@
    "space": "경계"
   },
   {
+   "id": "tto_ohaeyoung",
+   "ko": "또! 오해영",
+   "orig": "또! 오해영",
+   "year": 2016,
+   "space": "판정 없음"
+  },
+  {
+   "id": "spark_web_kr",
+   "ko": "스파크",
+   "orig": "스파크",
+   "year": 2016,
+   "space": "판정 없음"
+  },
+  {
    "id": "jigu_saenghwal_baekseo",
    "ko": "지구생활백서",
    "orig": "지구생활백서",
@@ -49281,6 +49985,13 @@
    "orig": "17776",
    "year": 2017,
    "space": "경계"
+  },
+  {
+   "id": "robo_daikigyou",
+   "ko": null,
+   "orig": "77部署合体ロボダイキギョー ドラマ・伝え方が9割",
+   "year": 2017,
+   "space": "판정 없음"
   },
   {
    "id": "dimension_404",
@@ -49374,6 +50085,20 @@
    "space": "경계"
   },
   {
+   "id": "code_name_mirage",
+   "ko": null,
+   "orig": "コードネームミラージュ",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
+   "id": "theseus_no_fune",
+   "ko": null,
+   "orig": "テセウスの船",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
    "id": "dokyu_hentai_xeros",
    "ko": "초급편대 에그제로스",
    "orig": "ド級編隊エグゼロス",
@@ -49381,11 +50106,25 @@
    "space": "경계"
   },
   {
+   "id": "high_position_kira",
+   "ko": null,
+   "orig": "ハイポジ",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
    "id": "aposimz",
    "ko": "인형의 나라",
    "orig": "人形の国",
    "year": 2017,
    "space": "경계"
+  },
+  {
+   "id": "wei_bi_si_da_lai_ang",
+   "ko": null,
+   "orig": "威比斯达莱昂",
+   "year": 2017,
+   "space": "판정 없음"
   },
   {
    "id": "kyoei_toshi",
@@ -49409,11 +50148,39 @@
    "space": "경계"
   },
   {
+   "id": "nou_ni_sumaho",
+   "ko": null,
+   "orig": "脳にスマホが埋められた!",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
    "id": "chandou_ba_abu",
    "ko": null,
    "orig": "颤抖吧，阿部！",
    "year": 2017,
    "space": "경계"
+  },
+  {
+   "id": "gobaek_bubu",
+   "ko": "고백부부",
+   "orig": "고백부부",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
+   "id": "dasi_mannan_segye",
+   "ko": "다시 만난 세계",
+   "orig": "다시 만난 세계",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
+   "id": "duel_ocn_2017",
+   "ko": "듀얼",
+   "orig": "듀얼",
+   "year": 2017,
+   "space": "판정 없음"
   },
   {
    "id": "lost_heaven_webnovel",
@@ -49423,11 +50190,32 @@
    "space": "경계"
   },
   {
+   "id": "my_only_love_song_kr",
+   "ko": "마이 온리 러브송",
+   "orig": "마이 온리 러브송",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
+   "id": "manhole_kbs",
+   "ko": "맨홀: 이상한 나라의 필",
+   "orig": "맨홀: 이상한 나라의 필",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
    "id": "uglyhood",
    "ko": "어글리후드",
    "orig": "어글리후드",
    "year": 2017,
    "space": "경계"
+  },
+  {
+   "id": "eojjeoda_18",
+   "ko": "어쩌다 18",
+   "orig": "어쩌다 18",
+   "year": 2017,
+   "space": "판정 없음"
   },
   {
    "id": "alien_idol_webtoon",
@@ -49444,11 +50232,25 @@
    "space": "경계"
   },
   {
+   "id": "choegoui_hanbang",
+   "ko": "최고의 한방",
+   "orig": "최고의 한방",
+   "year": 2017,
+   "space": "판정 없음"
+  },
+  {
    "id": "taoreujima_buster",
    "ko": "타오르지마 버스터",
    "orig": "타오르지마 버스터",
    "year": 2017,
    "space": "경계"
+  },
+  {
+   "id": "himssen_yeoja_dobongsun",
+   "ko": "힘쎈여자 도봉순",
+   "orig": "힘쎈여자 도봉순",
+   "year": 2017,
+   "space": "판정 없음"
   },
   {
    "id": "aliens_ate_my_homework",
@@ -49486,11 +50288,32 @@
    "space": "경계"
   },
   {
+   "id": "pipuru_harada",
+   "ko": null,
+   "orig": "ぴぷる",
+   "year": 2018,
+   "space": "판정 없음"
+  },
+  {
    "id": "darling_in_the_franxx",
    "ko": "달링 인 더 프랑키스",
    "orig": "ダーリン・イン・ザ・フランキス",
    "year": 2018,
    "space": "경계"
+  },
+  {
+   "id": "todome_no_kiss",
+   "ko": null,
+   "orig": "トドメの接吻",
+   "year": 2018,
+   "space": "판정 없음"
+  },
+  {
+   "id": "mirai_san_line",
+   "ko": null,
+   "orig": "ミライさん",
+   "year": 2018,
+   "space": "판정 없음"
   },
   {
    "id": "kyujitsu_no_warumono_san",
@@ -49500,11 +50323,39 @@
    "space": "경계"
   },
   {
+   "id": "ni_de_hai_zi_bu_shi",
+   "ko": null,
+   "orig": "你的孩子不是你的孩子",
+   "year": 2018,
+   "space": "판정 없음"
+  },
+  {
+   "id": "boku_wa_doko_kara",
+   "ko": null,
+   "orig": "僕はどこから",
+   "year": 2018,
+   "space": "판정 없음"
+  },
+  {
+   "id": "oh_wo_de_huangdi_bixia",
+   "ko": null,
+   "orig": "哦！我的皇帝陛下",
+   "year": 2018,
+   "space": "판정 없음"
+  },
+  {
    "id": "shinkalion",
    "ko": "신칸센변형로보 신카리온",
    "orig": "新幹線変形ロボ シンカリオン",
    "year": 2018,
    "space": "경계"
+  },
+  {
+   "id": "huo_wang_manhua",
+   "ko": null,
+   "orig": "火王",
+   "year": 2018,
+   "space": "판정 없음"
   },
   {
    "id": "arma_webtoon",
@@ -49556,6 +50407,13 @@
    "space": "경계"
   },
   {
+   "id": "jk_kara_yarinaosu_silver_plan",
+   "ko": null,
+   "orig": "JKからやり直すシルバープラン",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
    "id": "love_death_robots",
    "ko": "러브, 데스 + 로봇",
    "orig": "Love, Death & Robots",
@@ -49591,6 +50449,13 @@
    "space": "경계"
   },
   {
+   "id": "scis_kagaku_hanzai",
+   "ko": null,
+   "orig": "SCIS 科学犯罪捜査班",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
    "id": "the_light_brigade",
    "ko": null,
    "orig": "The Light Brigade",
@@ -49610,6 +50475,13 @@
    "orig": "カワイスギクライシス",
    "year": 2019,
    "space": "경계"
+  },
+  {
+   "id": "paripi_koumei",
+   "ko": null,
+   "orig": "パリピ孔明",
+   "year": 2019,
+   "space": "판정 없음"
   },
   {
    "id": "promare",
@@ -49647,6 +50519,13 @@
    "space": "경계"
   },
   {
+   "id": "qing_yu_nian",
+   "ko": null,
+   "orig": "庆余年",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
    "id": "tanmoshi",
    "ko": "탐정은 이미 죽었다",
    "orig": "探偵はもう、死んでいる。",
@@ -49666,6 +50545,34 @@
    "orig": "星屑テレパス",
    "year": 2019,
    "space": "경계"
+  },
+  {
+   "id": "bushi_stunt_aisaka_kun",
+   "ko": null,
+   "orig": "武士スタント逢坂くん!",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "yakusoku_no_stage",
+   "ko": null,
+   "orig": "約束のステージ 〜時を駆けるふたりの歌〜",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "seishun_cinderella",
+   "ko": null,
+   "orig": "青春シンデレラ",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "nuni_busige",
+   "ko": "눈이 부시게",
+   "orig": "눈이 부시게",
+   "year": 2019,
+   "space": "판정 없음"
   },
   {
    "id": "muneojin_dari",
@@ -49689,11 +50596,46 @@
    "space": "경계"
   },
   {
+   "id": "welcome_2_life",
+   "ko": "웰컴2라이프",
+   "orig": "웰컴2라이프",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "chosinseong_xgarion",
+   "ko": "초신성 특공대 엑스가리온",
+   "orig": "초신성 특공대 엑스가리온",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "kiss_six_sense",
+   "ko": "키스 식스 센스",
+   "orig": "키스 식스 센스",
+   "year": 2019,
+   "space": "판정 없음"
+  },
+  {
+   "id": "yonjuu_man_km_kanata",
+   "ko": null,
+   "orig": "40万キロかなたの恋",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
    "id": "yonin_wa_sorezore_uso",
    "ko": "4명은 각자 거짓말을 한다",
    "orig": "4人はそれぞれウソをつく",
    "year": 2020,
    "space": "경계"
+  },
+  {
+   "id": "gojuuroku_nenme_no_shitsuren",
+   "ko": null,
+   "orig": "56年目の失恋",
+   "year": 2020,
+   "space": "판정 없음"
   },
   {
    "id": "dorg_van_dango",
@@ -49738,6 +50680,13 @@
    "space": "경계"
   },
   {
+   "id": "sedai_wars",
+   "ko": null,
+   "orig": "SEDAI WARS",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
    "id": "solar_opposites",
    "ko": "솔라 오포짓",
    "orig": "Solar Opposites",
@@ -49759,11 +50708,25 @@
    "space": "경계"
   },
   {
+   "id": "kanakana_nishimori",
+   "ko": null,
+   "orig": "カナカナ",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
    "id": "tomica_earth_granner",
    "ko": "토미카 유대합체 어스그랜너",
    "orig": "トミカ絆合体 アースグランナー",
    "year": 2020,
    "space": "경계"
+  },
+  {
+   "id": "ooedo_steampunk",
+   "ko": null,
+   "orig": "大江戸スチームパンク",
+   "year": 2020,
+   "space": "판정 없음"
   },
   {
    "id": "uchuujin_muumuu",
@@ -49785,6 +50748,34 @@
    "orig": "東京エイリアンズ",
    "year": 2020,
    "space": "경계"
+  },
+  {
+   "id": "rekishi_meikyuu_dasshutsu",
+   "ko": null,
+   "orig": "歴史迷宮からの脱出〜リアル脱出ゲーム×テレビ東京〜",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "manatsu_no_shounen_19452020",
+   "ko": null,
+   "orig": "真夏の少年〜19452020",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "inseki_kazoku",
+   "ko": null,
+   "orig": "隕石家族",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "the_game_0si",
+   "ko": "더 게임: 0시를 향하여",
+   "orig": "더 게임: 0시를 향하여",
+   "year": 2020,
+   "space": "판정 없음"
   },
   {
    "id": "metal_unit",
@@ -49820,6 +50811,34 @@
    "orig": "스포",
    "year": 2020,
    "space": "경계"
+  },
+  {
+   "id": "jebal_geu_namja",
+   "ko": "제발 그 남자 만나지 마요",
+   "orig": "제발 그 남자 만나지 마요",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "zombie_detective_kbs",
+   "ko": "좀비탐정",
+   "orig": "좀비탐정",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "train_ocn",
+   "ko": "트레인",
+   "orig": "트레인",
+   "year": 2020,
+   "space": "판정 없음"
+  },
+  {
+   "id": "hashtag_cold_game",
+   "ko": null,
+   "orig": "#コールドゲーム",
+   "year": 2021,
+   "space": "판정 없음"
   },
   {
    "id": "debris_2021",
@@ -49885,11 +50904,25 @@
    "space": "경계"
   },
   {
+   "id": "meguru_mirai",
+   "ko": null,
+   "orig": "めぐる未来",
+   "year": 2021,
+   "space": "판정 없음"
+  },
+  {
    "id": "watashi_no_okaasan",
    "ko": "나의 엄마",
    "orig": "わたしのお母さん",
    "year": 2021,
    "space": "경계"
+  },
+  {
+   "id": "gifted_amagi",
+   "ko": null,
+   "orig": "ギフテッド",
+   "year": 2021,
+   "space": "판정 없음"
   },
   {
    "id": "takopi",
@@ -49920,6 +50953,13 @@
    "space": "경계"
   },
   {
+   "id": "kimi_ga_kemono_ni_naru_mae_ni",
+   "ko": null,
+   "orig": "君が獣になる前に",
+   "year": 2021,
+   "space": "판정 없음"
+  },
+  {
    "id": "huisu_yicun",
    "ko": null,
    "orig": "回溯依存",
@@ -49934,6 +50974,13 @@
    "space": "경계"
   },
   {
+   "id": "hyouchakusha",
+   "ko": null,
+   "orig": "漂着者",
+   "year": 2021,
+   "space": "판정 없음"
+  },
+  {
    "id": "chousoku_para_hero_gandeen",
    "ko": null,
    "orig": "超速パラヒーロー ガンディーン",
@@ -49946,6 +50993,13 @@
    "orig": "너의 유토피아",
    "year": 2021,
    "space": "경계"
+  },
+  {
+   "id": "dark_hole_ocn",
+   "ko": "다크홀",
+   "orig": "다크홀",
+   "year": 2021,
+   "space": "판정 없음"
   },
   {
    "id": "mirae_jeonsa_kim_hocheol",
@@ -49967,6 +51021,20 @@
    "orig": "우주에서 온 독재자",
    "year": 2021,
    "space": "경계"
+  },
+  {
+   "id": "happiness_tvn",
+   "ko": "해피니스",
+   "orig": "해피니스",
+   "year": 2021,
+   "space": "판정 없음"
+  },
+  {
+   "id": "juunanasai_no_teikoku",
+   "ko": null,
+   "orig": "17才の帝国",
+   "year": 2022,
+   "space": "판정 없음"
   },
   {
    "id": "netflix_1899",
@@ -50011,6 +51079,27 @@
    "space": "경계"
   },
   {
+   "id": "mattari_akadou_suzunosuke",
+   "ko": null,
+   "orig": "まったり!赤胴鈴之助",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "octo_kanjou_sousakan",
+   "ko": null,
+   "orig": "オクトー〜感情捜査官 心野朱梨〜",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "non_rem_no_mado",
+   "ko": null,
+   "orig": "ノンレムの窓",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
    "id": "brs_dawn_fall",
    "ko": "블랙 록 슈터 던 폴",
    "orig": "ブラック★★ロックシューター DAWN FALL",
@@ -50025,11 +51114,60 @@
    "space": "경계"
   },
   {
+   "id": "ni_de_hun_yin_bu_shi",
+   "ko": null,
+   "orig": "你的婚姻不是你的婚姻",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "kaden_samurai",
+   "ko": null,
+   "orig": "家電侍",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "shuukatsu_time_capsule",
+   "ko": null,
+   "orig": "就活タイムカプセル",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "mirai_no_musuko",
+   "ko": null,
+   "orig": "未来のムスコ",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "bushi_ga_mac_de_tenin",
+   "ko": null,
+   "orig": "武士が、マックで店員になった件。",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
    "id": "bei_xuanshang_de_haizimen",
    "ko": null,
    "orig": "被選上的孩子們",
    "year": 2022,
    "space": "경계"
+  },
+  {
+   "id": "choutokkyuu_chikyuu_wo_sukue",
+   "ko": null,
+   "orig": "超特急、地球を救え。",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "good_job_ena",
+   "ko": "굿잡",
+   "orig": "굿잡",
+   "year": 2022,
+   "space": "판정 없음"
   },
   {
    "id": "glitch_drama_2022",
@@ -50053,6 +51191,20 @@
    "space": "경계"
   },
   {
+   "id": "again_my_life_kr",
+   "ko": "어게인 마이 라이프",
+   "orig": "어게인 마이 라이프",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
+   "id": "jaebeoljip_magnaeadeul",
+   "ko": "재벌집 막내아들",
+   "orig": "재벌집 막내아들",
+   "year": 2022,
+   "space": "판정 없음"
+  },
+  {
    "id": "jaetbit_oreum",
    "ko": "잿빛오름",
    "orig": "잿빛오름",
@@ -50065,6 +51217,13 @@
    "orig": "파견체",
    "year": 2022,
    "space": "경계"
+  },
+  {
+   "id": "city_lives_fuji",
+   "ko": null,
+   "orig": "City Lives",
+   "year": 2023,
+   "space": "판정 없음"
   },
   {
    "id": "hello_tomorrow",
@@ -50109,6 +51268,20 @@
    "space": "경계"
   },
   {
+   "id": "brush_up_life",
+   "ko": null,
+   "orig": "ブラッシュアップライフ",
+   "year": 2023,
+   "space": "판정 없음"
+  },
+  {
+   "id": "pending_train",
+   "ko": null,
+   "orig": "ペンディングトレイン-8時23分、明日 君と",
+   "year": 2023,
+   "space": "판정 없음"
+  },
+  {
    "id": "zhongguo_qitan",
    "ko": null,
    "orig": "中国奇谭",
@@ -50137,11 +51310,25 @@
    "space": "경계"
   },
   {
+   "id": "saikou_no_kyoushi",
+   "ko": null,
+   "orig": "最高の教師 1年後、私は生徒に■された",
+   "year": 2023,
+   "space": "판정 없음"
+  },
+  {
    "id": "rairairai",
    "ko": "라이라이라이",
    "orig": "雷雷雷",
    "year": 2023,
    "space": "경계"
+  },
+  {
+   "id": "nanojeonsa_rokapa",
+   "ko": "나노전사 로카파",
+   "orig": "나노전사 로카파",
+   "year": 2023,
+   "space": "판정 없음"
   },
   {
    "id": "riseman",
@@ -50179,11 +51366,32 @@
    "space": "경계"
   },
   {
+   "id": "eojjeoda_majuchin_geudae",
+   "ko": "어쩌다 마주친, 그대",
+   "orig": "어쩌다 마주친, 그대",
+   "year": 2023,
+   "space": "판정 없음"
+  },
+  {
+   "id": "wanbyeokhan_gyeolhonui_jeongseok",
+   "ko": "완벽한 결혼의 정석",
+   "orig": "완벽한 결혼의 정석",
+   "year": 2023,
+   "space": "판정 없음"
+  },
+  {
    "id": "1000xresist",
    "ko": null,
    "orig": "1000xRESIST",
    "year": 2024,
    "space": "경계"
+  },
+  {
+   "id": "eye_love_you_tbs",
+   "ko": null,
+   "orig": "Eye Love You",
+   "year": 2024,
+   "space": "판정 없음"
   },
   {
    "id": "iron_meat",
@@ -50270,6 +51478,27 @@
    "space": "경계"
   },
   {
+   "id": "mirai_no_watashi_ni",
+   "ko": null,
+   "orig": "未来の私にブッかまされる!?",
+   "year": 2024,
+   "space": "판정 없음"
+  },
+  {
+   "id": "messou_mo_nai",
+   "ko": null,
+   "orig": "滅相も無い",
+   "year": 2024,
+   "space": "판정 없음"
+  },
+  {
+   "id": "nae_nampyeongwa_gyeolhonhaejwo",
+   "ko": "내 남편과 결혼해줘",
+   "orig": "내 남편과 결혼해줘",
+   "year": 2024,
+   "space": "판정 없음"
+  },
+  {
    "id": "banjiseong_mawang",
    "ko": "반지성주의 마왕의 세계침략",
    "orig": "반지성주의 마왕의 세계침략",
@@ -50282,6 +51511,13 @@
    "orig": "아포칼립스의 물리(?)치료사가 되었다",
    "year": 2024,
    "space": "경계"
+  },
+  {
+   "id": "hero_neun_animnida_man",
+   "ko": "히어로는 아닙니다만",
+   "orig": "히어로는 아닙니다만",
+   "year": 2024,
+   "space": "판정 없음"
   },
   {
    "id": "arc_raiders",
@@ -50347,6 +51583,20 @@
    "space": "경계"
   },
   {
+   "id": "ichijigen_no_sashiki",
+   "ko": null,
+   "orig": "一次元の挿し木",
+   "year": 2025,
+   "space": "판정 없음"
+  },
+  {
+   "id": "saam_ming",
+   "ko": null,
+   "orig": "三命",
+   "year": 2025,
+   "space": "판정 없음"
+  },
+  {
    "id": "escape_from_duckov",
    "ko": null,
    "orig": "逃离鸭科夫",
@@ -50368,6 +51618,34 @@
    "space": "경계"
   },
   {
+   "id": "heo_sikdang",
+   "ko": "허식당",
+   "orig": "허식당",
+   "year": 2025,
+   "space": "판정 없음"
+  },
+  {
+   "id": "iroha_no_koi",
+   "ko": null,
+   "orig": "いろはの恋は時代をかける",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "time_travel_daddy",
+   "ko": null,
+   "orig": "タイムトラベルダディ",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "terminator_to_koi",
+   "ko": null,
+   "orig": "ターミネーターと恋しちゃったら",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
    "id": "mebius_dust",
    "ko": "뫼비우스 더스트",
    "orig": "メビウス・ダスト",
@@ -50375,11 +51653,81 @@
    "space": "경계"
   },
   {
+   "id": "reborn_saigo_no_hero",
+   "ko": null,
+   "orig": "リボーン ～最後のヒーロー～",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "kimi_ga_shikei_ni_naru_mae_ni",
+   "ko": null,
+   "orig": "君が死刑になる前に",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "otto_wo_koroshita_hazu",
+   "ko": null,
+   "orig": "夫を殺したはずなのに",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "fu_qi_de_bo_yi",
+   "ko": null,
+   "orig": "夫妻的博弈",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "xiao_shi_de_lie_hen",
+   "ko": null,
+   "orig": "消失的裂痕",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "chi_re_xi_yin",
+   "ko": null,
+   "orig": "炽热吸引",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
    "id": "chou_kaguya_hime",
    "ko": null,
    "orig": "超かぐや姫!",
    "year": 2026,
    "space": "경계"
+  },
+  {
+   "id": "nareul_chungjeonhaejwo",
+   "ko": "나를 충전해줘",
+   "orig": "나를 충전해줘",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "doctor_shin_tvchosun",
+   "ko": "닥터신",
+   "orig": "닥터신",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "love_phobia_kr",
+   "ko": "러브 포비아",
+   "orig": "러브 포비아",
+   "year": 2026,
+   "space": "판정 없음"
+  },
+  {
+   "id": "meotjin_sinsegye_sbs",
+   "ko": "멋진 신세계",
+   "orig": "멋진 신세계",
+   "year": 2026,
+   "space": "판정 없음"
   }
  ]
 }
