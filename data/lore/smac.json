@@ -21,6 +21,14 @@
       "spoiler": false,
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "첫 인용과 기술 인용 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -51,6 +59,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리",
         "https://namu.wiki/w/유니티"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=035cpHEowS4",
+          "what": "게임 첫 영상(유니티호의 최후)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -170,6 +186,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -193,6 +223,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/HIVE.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -214,6 +258,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/UNIV.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -237,6 +295,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/MORGAN.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -258,6 +330,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/SPARTANS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -279,6 +365,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/BELIEVE.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -300,6 +400,20 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/PEACE.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ZxKDaOBMKc",
+          "what": "첫 화면과 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jIUb66Q6abQ",
+          "what": "처음 일곱 세력 소개 모음(이 조각이 들어 있음)",
+          "by": "pinkgothic",
+          "official": false
+        }
       ]
     },
     {
@@ -323,6 +437,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/cyborg.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -344,6 +466,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/pirates.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -367,6 +497,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/drone.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -388,6 +526,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -411,6 +557,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/fungboy.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -434,6 +588,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -457,6 +619,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/usurper.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ftefXCqil_U",
+          "what": "확장 새 세력 소개 낭독 모음(이 조각이 들어 있음)",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -481,6 +651,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -503,6 +681,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -527,6 +713,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -550,6 +744,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -572,6 +774,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -594,6 +804,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -619,6 +837,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -640,6 +866,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -662,6 +896,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -684,6 +926,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -706,6 +956,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -727,6 +985,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -748,6 +1014,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -769,6 +1043,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -790,6 +1072,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -811,6 +1101,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -832,6 +1130,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -853,6 +1159,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -874,6 +1188,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -893,6 +1215,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -915,6 +1245,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -936,6 +1274,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -957,6 +1303,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -980,6 +1334,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=24OXzIRIiMQ",
+          "what": "기술 인용 0~24번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -999,6 +1361,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1018,6 +1388,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1040,6 +1418,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1061,6 +1447,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1082,6 +1476,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1104,6 +1506,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1124,6 +1534,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1146,6 +1564,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1171,6 +1597,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1193,6 +1627,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1215,6 +1657,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1237,6 +1687,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1259,6 +1717,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1282,6 +1748,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1303,6 +1777,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1324,6 +1806,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1348,6 +1838,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1369,6 +1867,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1391,6 +1897,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1410,6 +1924,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1432,6 +1954,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1456,6 +1986,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1483,6 +2021,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1502,6 +2048,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1525,6 +2079,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7S1N8_Lkeps",
+          "what": "기술 인용 25~49번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -1833,6 +2395,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=heULZtAwuhE",
+          "what": "기술 인용 50~64번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        }
       ]
     },
     {
@@ -2108,6 +2678,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JJSxe7ytfgY",
+          "what": "모든 영상·낭독 모음(이 조각이 들어 있음)",
+          "by": "DOWL",
+          "official": false
+        }
       ]
     },
     {
@@ -2320,6 +2898,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=q7thxlDAj2I",
+          "what": "차 던 인용 낭독 모음(이 조각이 들어 있음)",
+          "by": "Wolffe",
+          "official": false
+        }
       ]
     },
     {
@@ -2393,6 +2979,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/TECHLONGS.TXT",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JJSxe7ytfgY",
+          "what": "모든 영상·낭독 모음(이 조각이 들어 있음)",
+          "by": "DOWL",
+          "official": false
+        }
       ]
     },
     {
@@ -2418,6 +3012,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=MlfxwgNOHb8",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2443,6 +3045,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-UvnGFEE7Qw",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2472,6 +3082,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=RPvK2p28Pho",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2497,6 +3115,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ez7AFPX9RYE",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2525,6 +3151,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=dGJ90h6wGpU",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2553,6 +3187,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=2L5JgTkxAkg",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2580,6 +3222,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sJlPr2KHSFo",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2605,6 +3255,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=eutDVI_egGM",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2635,6 +3293,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=mQ-OoNp3LwQ",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2664,6 +3330,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EghMCc6ftoA",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2690,6 +3364,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YnY81Bg4G3c",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2717,6 +3399,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iY57ErBkFFE",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2741,6 +3431,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=e7t7CWZcZuc",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2768,6 +3466,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YO_xh7xIabk",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2797,6 +3503,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jdCB9yE9Hcc",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2821,6 +3535,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=BmRpLLs7SNE",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2850,6 +3572,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=o9NDLNmTbjU",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2877,6 +3607,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Wmjn_vrShmU",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2902,6 +3640,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=lAGSeSTvwlc",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2931,6 +3677,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Lva8L-J8x04",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2958,6 +3712,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=8gOXj_UsSDg",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -2986,6 +3748,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=yMIxYbhWQMI",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3013,6 +3783,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=aKcEwUcVBHs",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3039,6 +3817,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=bX4ybrp9WRw",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3069,6 +3855,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rGCaACqy1Ro",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3098,6 +3892,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iwqN3Ur-wP0",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3125,6 +3927,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=GBVCi0PmW24",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3153,6 +3963,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Zws0V6Kre5I",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3178,6 +3996,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vB46XpnwhrA",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3205,6 +4031,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wh-ZcdO5fe8",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3232,6 +4066,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pL-sYwiioeY",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3262,6 +4104,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=CDgXQPxzY8E",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3292,6 +4142,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=evs0nFCufNM",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3320,6 +4178,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=CSDrsd0j1jY",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3346,6 +4212,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=uBrJxSAL8n4",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3371,6 +4245,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OhwqRnXC4hc",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3397,6 +4279,14 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/movlist.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=koGXyu04QYE",
+          "what": "비밀 프로젝트 완성 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -3972,6 +4862,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=bKdkafwii_w",
+          "what": "거주 돔 인용 낭독",
+          "by": "Pike",
+          "official": false
+        }
       ]
     },
     {
@@ -4059,6 +4957,20 @@
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/blurbsx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/비밀%20프로젝트"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QlIqQM9Q--M",
+          "what": "시설 인용 23~38번 낭독 모음(이 조각이 들어 있음)",
+          "by": "uvwar",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=JJSxe7ytfgY",
+          "what": "모든 영상·낭독 모음(이 조각이 들어 있음)",
+          "by": "DOWL",
+          "official": false
+        }
       ]
     },
     {
@@ -4676,6 +5588,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/interludex.txt"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=evs0nFCufNM",
+          "what": "이 맺음말 앞에 나오는 초월 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -4702,6 +5622,14 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/Interlude.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/interludex.txt"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ZvNTFWyP3Us",
+          "what": "다른 세력이 초월할 때 나오는 영상",
+          "by": "matsku84",
+          "official": false
+        }
       ]
     },
     {
@@ -5751,6 +6679,38 @@
       ]
     },
     {
+      "id": "story_progenitor_planetfall",
+      "ko": "선지자의 플래닛폴",
+      "orig": "Planetfall! (Progenitor factions)",
+      "ko_status": "우리 표기",
+      "ko_src": "플래닛폴은 용어 사전 표기(원어를 소리 나는 대로) · 정식 한국어판 없음",
+      "kind": "사건",
+      "where": "확장 「Alien Crossfire」 — 선지자 세력으로 시작하면 뜨는 글",
+      "speaker": "",
+      "summary": "선지자 세력으로 게임을 시작하면 사람 세력과 다른 시작 글이 뜬다. 행성 하늘 위의 처참한 우주 전투가 끝났고, 부서진 기함의 남은 조각들이 땅에 내릴 채비를 한다는 것이다. 수호자로 시작하면 찬탈자의 배도, 찬탈자로 시작하면 수호자의 배도 함께 부서졌다는 것이 유일한 위안이며, 그 숙적을 이 넓은 행성 어딘가에서 다시 만나게 되리라고 한다. 두 선지자 갈래가 행성에 오기 전부터 우주에서 싸우다 함께 추락했다는 것이 드러난다.",
+      "reveals": "두 선지자 갈래는 행성 하늘의 전투 끝에 함께 추락했다",
+      "terms": [
+        "progenitors",
+        "manifold_caretakers",
+        "manifold_usurpers",
+        "planetfall",
+        "planet"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alienIscript.txt"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=292SlZiJnwE",
+          "what": "확장 「Alien Crossfire」 첫 영상",
+          "by": "Retro Archives",
+          "official": false
+        }
+      ]
+    },
+    {
       "id": "record_planet_data",
       "ko": "알파 센타우리 A의 행성들",
       "orig": "Planets of Alpha Centauri A",
@@ -5976,6 +6936,1480 @@
       "refs": [
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/helpx.txt",
         "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_first_meeting",
+      "ko": "지도자들의 첫 인사",
+      "orig": "Diplomatic introductions",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 다른 지도자와 처음 만나거나 다시 만날 때 상대가 건네는 인사",
+      "speaker": "",
+      "summary": "처음 만난 지도자들은 서로를 정중히 부르고, 행성에 와서 새로 지은 칭호와 세력 이름으로 자신을 소개한 뒤 자기 사명을 밝히며 간섭하지 말라고 선을 긋는다. 사이가 좋으면 다시 만날 때 서로의 솜씨를 치켜세우고, 원수 사이면 첫마디부터 상대의 방식과 계획을 규탄한다. 유니티호의 동료들이 행성에서 저마다 새 칭호를 지어 남의 나라 지도자가 되었다는 것이 드러난다.",
+      "reveals": "유니티호의 동료들이 저마다 새 칭호를 지어 남남이 되었다",
+      "terms": [
+        "unity",
+        "planetfall"
+      ],
+      "concepts": [
+        "ideology_split"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_gaians_greeting",
+      "ko": "디드리 스카이의 인사와 사명",
+      "orig": "Introduction and mission — Gaia's Stepdaughters",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "디드리 스카이",
+      "summary": "디드리는 인사에서 늘 행성의 토착 생명을 지키고 이해하는 일을 자기 세력이 있는 까닭으로 내세우고, 세금과 치안대와 법에까지 생태의 이름을 붙인다. 가까운 지도자들은 그를 생태를 아는 지도자로 대하지만, 그를 싫어하는 이들은 그 생태 사랑을 광기로 몰고 그가 사람의 발전을 가로막으려 한다고 의심한다. 행성의 생명을 지키려는 뜻이 다른 세력들에게는 개척을 막는 위협으로 읽힌다는 것이 드러난다.",
+      "reveals": "생명을 지키려는 가이아의 뜻이 남들에겐 개척을 막는 위협이다",
+      "terms": [
+        "gaias_stepdaughters"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_gaians_truce",
+      "ko": "디드리 스카이의 휴전 제안",
+      "orig": "Blood Truce — Gaia's Stepdaughters",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "디드리 스카이",
+      "summary": "디드리는 싸움을 멈추자고 할 때 사람의 피해보다 행성의 생태가 입는 상처를 먼저 걱정한다. 상대가 선지자여도 같은 걱정으로 휴전을 청하는데, 행성을 귀하게 여기는 선지자와는 그 걱정이 통하기도 한다. 디드리에게 전쟁의 값은 사람보다 행성이 먼저 치른다는 것이 드러난다.",
+      "reveals": "디드리에게 전쟁의 값은 행성이 먼저 치른다",
+      "terms": [
+        "gaias_stepdaughters",
+        "planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_gaians_treaty",
+      "ko": "디드리 스카이의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Gaia's Stepdaughters",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "디드리 스카이",
+      "summary": "디드리는 행성을 아끼는 상대를 벗으로 여기고 함께 나란히 살자고 조약을 청한다. 상대가 선지자이면 태도가 낮아져, 행성을 사람보다 깊이 아는 그들에게 배우고 싶어 한다. 디드리가 선지자를 행성의 스승으로 우러러본다는 점이 다른 지도자들과 다르다.",
+      "reveals": "디드리는 선지자를 행성을 더 잘 아는 스승으로 본다",
+      "terms": [
+        "gaias_stepdaughters",
+        "planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/GAIANS.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_hive_greeting",
+      "ko": "양성지의 인사와 사명",
+      "orig": "Introduction and mission — Human Hive",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "양성지",
+      "summary": "양성지는 인사에서 백성을 빈틈없이 다스려 안전과 통제 위에 사회를 세우겠다는 뜻을 거리낌 없이 밝힌다. 그를 따르는 이들은 묻지 않고 따르는 사람들로 그려지고, 그를 싫어하는 지도자들은 그를 사람의 정을 잃은 독재자로, 그의 사회를 생각 없는 일꾼들의 감옥으로 본다. 통제를 미덕으로 내세우는 지도자가 다른 이들에게는 행성 전체를 노예로 만들 위협이라는 것이 드러난다.",
+      "reveals": "양성지의 통제는 다른 이들에게 행성 전체를 노예로 만들 위협이다",
+      "terms": [
+        "human_hive"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/HIVE.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_hive_truce",
+      "ko": "양성지의 휴전 제안",
+      "orig": "Blood Truce — Human Hive",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "양성지",
+      "summary": "양성지는 휴전을 청할 때 감정을 섞지 않고, 이 싸움이 더는 쓸모없다는 계산만 내놓는다. 상대가 선지자여도 똑같이 건조하게 말하며, 선지자는 그 계산이 자기들에게도 맞는지를 따진다. 양성지가 전쟁과 평화를 오직 쓸모로 잰다는 것이 드러난다.",
+      "reveals": "양성지는 전쟁도 평화도 감정 없이 쓸모로 잰다",
+      "terms": [
+        "human_hive",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/HIVE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_hive_treaty",
+      "ko": "양성지의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Human Hive",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "양성지",
+      "summary": "양성지는 상대를 뜻은 있지만 어설픈 세력으로 낮춰 보면서, 군집에 위협이 되지 않으니 손잡아도 좋다는 식으로 조약을 청한다. 선지자에게는 남의 일에 끼어들지 않는 자기 방침을 들어, 사람 세력 가운데 자기가 가장 믿을 만한 상대라고 내세운다. 양성지가 남을 오직 위협이 되느냐로 잰다는 것이 드러난다.",
+      "reveals": "양성지는 남을 오직 위협이 되느냐로 재어 손을 잡는다",
+      "terms": [
+        "human_hive",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/HIVE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_university_greeting",
+      "ko": "프로호르 자하로프의 인사와 사명",
+      "orig": "Introduction and mission — University of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "프로호르 자하로프",
+      "summary": "자하로프는 인사에서 누구의 간섭도 받지 않는 연구를 자기 세력의 사명으로 내세운다. 가까운 지도자들은 그를 재능 있는 학자로 대하지만, 그를 싫어하는 이들은 그의 연구가 윤리를 버렸고 끝내 인류를 해칠 무기로 이어지리라 의심하며 그를 위험한 미치광이로 본다. 지식을 향한 순수한 열정이 다른 세력에게는 가장 두려운 힘으로 비친다는 것이 드러난다.",
+      "reveals": "대학의 순수한 연구는 남들에게 가장 두려운 힘으로 비친다",
+      "terms": [
+        "university_of_planet"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/UNIV.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_university_truce",
+      "ko": "프로호르 자하로프의 휴전 제안",
+      "orig": "Blood Truce — University of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "프로호르 자하로프",
+      "summary": "자하로프는 휴전을 청할 때 평화 그 자체보다 연구를 방해받지 않는 것을 바란다. 선지자에게도 같은 조건을 내걸지만, 선지자에게 그의 연구는 여전히 경계할 일이다. 자하로프에게 싸움은 연구를 늦추는 방해일 뿐이라는 것이 드러난다.",
+      "reveals": "자하로프에게 싸움은 연구를 늦추는 방해일 뿐이다",
+      "terms": [
+        "university_of_planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/UNIV.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_university_treaty",
+      "ko": "프로호르 자하로프의 우호 조약 제안",
+      "orig": "Treaty of Friendship — University of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "프로호르 자하로프",
+      "summary": "자하로프가 조약으로 얻으려는 것은 동맹의 힘이 아니라 연구할 수 있는 조용한 시간이다. 선지자에게는 그들도 연구를 중히 여긴다는 점에 기대어 같은 것을 청한다. 대학의 연구가 손을 내밀 때조차 의심의 눈길을 받는다는 것이 드러난다.",
+      "reveals": "대학의 연구는 손을 내밀 때조차 의심을 산다",
+      "terms": [
+        "university_of_planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/UNIV.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_morgan_greeting",
+      "ko": "느와부디케 모건의 인사와 사명",
+      "orig": "Introduction and mission — Morgan Industries",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "느와부디케 모건",
+      "summary": "모건은 인사에서 행성의 경제를 손에 쥐고 투자한 만큼 거두는 것을 당연한 권리로 내세운다. 가까운 지도자들은 그를 수완 좋은 부자로 대하지만, 그를 싫어하는 이들은 그가 행성의 모든 자원을 독차지하려는 탐욕스러운 독점가라고 본다. 행성의 부를 개발하는 일이 남들에게는 행성을 사유물로 삼으려는 시도로 보인다는 것이 드러난다.",
+      "reveals": "모건의 개발은 남들에게 행성을 사유물로 삼으려는 시도다",
+      "terms": [
+        "morgan_industries"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/MORGAN.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_morgan_truce",
+      "ko": "느와부디케 모건의 휴전 제안",
+      "orig": "Blood Truce — Morgan Industries",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "느와부디케 모건",
+      "summary": "모건은 휴전을 청할 때 전쟁이 손해라는 장사꾼의 셈을 앞세우고, 하루빨리 거래로 돌아가고 싶어 한다. 선지자에게도 같은 셈을 내밀지만, 돈을 중히 여기지 않는 선지자에게는 그 말이 잘 먹히지 않는다. 모건이 전쟁과 평화를 모두 장부 위에서 따진다는 것이 드러난다.",
+      "reveals": "모건은 전쟁과 평화를 모두 장부 위에서 따진다",
+      "terms": [
+        "morgan_industries",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/MORGAN.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_morgan_treaty",
+      "ko": "느와부디케 모건의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Morgan Industries",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "느와부디케 모건",
+      "summary": "모건은 우호 조약을 이익이 오가는 사업 관계로 그리며, 교역으로 서로 이득을 보자고 청한다. 선지자에게는 그들이 사람의 장사에 끼어들 생각이 없으니 부딪칠 일도 없다는 점을 내세운다. 모건에게 우정은 거래의 다른 이름이라는 것이 드러난다.",
+      "reveals": "모건에게 우정은 거래의 다른 이름이다",
+      "terms": [
+        "morgan_industries",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/MORGAN.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_spartans_greeting",
+      "ko": "코라손 산티아고의 인사와 사명",
+      "orig": "Introduction and mission — Spartan Federation",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "코라손 산티아고",
+      "summary": "산티아고는 인사에서 누구나 무기를 지닐 권리를 자기 세력의 사명으로 내세우고, 스스로를 평화를 지키는 쪽이라 여긴다. 가까운 지도자들은 그를 늘 대비하는 지도자로 보지만, 그를 싫어하는 이들은 그가 개인 군대를 길러 행성을 장악하려 한다고 의심하며 그를 피해망상에 빠진 극단주의자로 본다. 생존을 위한 무장이 남들 눈에는 장악을 위한 준비로 비친다는 것이 드러난다.",
+      "reveals": "스파르타의 생존 무장은 남들 눈에 장악을 위한 준비다",
+      "terms": [
+        "spartan_federation"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/SPARTANS.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_spartans_truce",
+      "ko": "코라손 산티아고의 휴전 제안",
+      "orig": "Blood Truce — Spartan Federation",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "코라손 산티아고",
+      "summary": "산티아고는 휴전을 청할 때도 물러서는 모습을 보이지 않고, 상대에게 굴복을 요구하듯 말한다. 선지자에게도 같은 태도를 보이는데, 선지자는 그 센 말 뒤에 숨은 약점을 읽어 내기도 한다. 스파르타가 힘을 내보이지 않고는 평화를 말하지 못한다는 것이 드러난다.",
+      "reveals": "스파르타는 힘을 내보이지 않고는 평화를 말하지 못한다",
+      "terms": [
+        "spartan_federation",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/SPARTANS.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_spartans_treaty",
+      "ko": "코라손 산티아고의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Spartan Federation",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "코라손 산티아고",
+      "summary": "산티아고는 조약을 서로 간섭하지 않기로 하는 무장한 평화로 여기며, 각자의 땅을 지키자고 청한다. 선지자에게는 거친 세계에서 살아남으려는 목표가 같다는 것과, 조약이 다른 세력의 표적이 되는 것을 막아 준다는 계산을 내세운다. 스파르타의 평화가 무장한 채 지키는 평화라는 것이 드러난다.",
+      "reveals": "스파르타의 평화는 무장한 채 지키는 평화다",
+      "terms": [
+        "spartan_federation",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/SPARTANS.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_believers_greeting",
+      "ko": "미리암 갓윈슨의 인사와 사명",
+      "orig": "Introduction and mission — The Lord's Believers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "미리암 갓윈슨",
+      "summary": "미리암은 인사에서 경전의 진리를 받아들이는 것을 자기 세력의 사명으로 내세우고, 스스로를 도덕의 수호자로 여긴다. 가까운 지도자들은 그를 경건한 이로 대하지만, 그를 싫어하는 이들은 그가 자기 도덕을 모두에게 강요하려는 광신자라고 본다. 신앙으로 행성의 질서를 세우려는 뜻이 다른 이들에게는 강요로 받아들여진다는 것이 드러난다.",
+      "reveals": "신앙으로 질서를 세우려는 미리암의 뜻은 남들에게 강요다",
+      "terms": [
+        "lords_believers"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/BELIEVE.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_believers_truce",
+      "ko": "미리암 갓윈슨의 휴전 제안",
+      "orig": "Blood Truce — The Lord's Believers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "미리암 갓윈슨",
+      "summary": "미리암은 휴전을 신의 뜻으로 내세우고, 싸움을 멈추는 대가로 상대의 구원을 빌어 주겠다고 한다. 상대가 선지자여도 그들의 영혼을 위해 기도하겠다고 하지만, 선지자에게 그 신앙은 낯설거나 거슬리는 것이다. 미리암이 외계 종족마저 구원할 영혼으로 본다는 것이 드러난다.",
+      "reveals": "미리암은 외계 종족마저 구원할 영혼으로 본다",
+      "terms": [
+        "lords_believers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/BELIEVE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_believers_treaty",
+      "ko": "미리암 갓윈슨의 우호 조약 제안",
+      "orig": "Treaty of Friendship — The Lord's Believers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "미리암 갓윈슨",
+      "summary": "미리암은 우호 조약을 신앙 안에서 형제자매로 함께 사는 일로 여기며 청한다. 선지자에게도 같은 마음으로 청하는데, 선지자는 다른 종족의 신 앞에 고개 숙이기를 꺼리기도 한다. 미리암에게 조약은 함께 드리는 예배라는 것이 드러난다.",
+      "reveals": "미리암에게 조약은 함께 드리는 예배다",
+      "terms": [
+        "lords_believers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/BELIEVE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_peacekeepers_greeting",
+      "ko": "프라빈 랄의 인사와 사명",
+      "orig": "Introduction and mission — Peacekeeping Forces",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "프라빈 랄",
+      "summary": "랄은 인사에서 유니티 임무의 UN 헌장과 그 인도주의 원칙을 지키는 것을 사명으로 내세우고, 행성에 정당한 정부를 세우려 한다. 가까운 지도자들은 그를 인정 많은 이로 대하지만, 그를 싫어하는 이들은 그가 헌장을 앞세워 혼자 정당한 권위인 양 군다며 나약하고 독선적인 사람으로 본다. 옛 임무의 질서를 지키려는 사람이 갈라선 세력들 사이에서는 낡은 권위를 내세우는 이로 보인다는 것이 드러난다.",
+      "reveals": "옛 헌장을 지키려는 랄이 남들에겐 낡은 권위를 내세우는 이다",
+      "terms": [
+        "peacekeeping_forces"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/PEACE.TXT",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_peacekeepers_truce",
+      "ko": "프라빈 랄의 휴전 제안",
+      "orig": "Blood Truce — Peacekeeping Forces",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "프라빈 랄",
+      "summary": "랄은 휴전을 청할 때 갈라진 세력들이 처음 임무의 목표로 돌아가기를 바란다. 선지자에게는 임무 대신 함께 살아남는 일을 내세우지만, 선지자는 그가 말하는 공동체에 자기들이 들지 않는다는 것을 짚기도 한다. 랄이 지금도 모든 세력을 한 임무의 동료로 본다는 것이 드러난다.",
+      "reveals": "랄은 갈라선 세력들을 여전히 한 임무의 동료로 본다",
+      "terms": [
+        "peacekeeping_forces",
+        "unity",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/PEACE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_peacekeepers_treaty",
+      "ko": "프라빈 랄의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Peacekeeping Forces",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답(선지자에게 하는 말은 확장 「Alien Crossfire」)",
+      "speaker": "프라빈 랄",
+      "summary": "랄은 임무가 갈라진 것을 재앙으로 여기고, 우호 조약을 다시 하나로 모이는 첫걸음으로 삼으려 한다. 선지자에게는 사람 세력이 여럿으로 갈라져 그들에게도 번거롭다는 점을 들어, 하나의 사람 나라를 세우는 데 힘을 보태 달라고 한다. 랄의 꿈이 갈라진 인류를 다시 묶는 것이라는 것이 드러난다.",
+      "reveals": "랄의 꿈은 갈라진 인류를 다시 하나로 묶는 것이다",
+      "terms": [
+        "peacekeeping_forces",
+        "unity",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/PEACE.TXT",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cyborgs_greeting",
+      "ko": "아키 제타-5의 인사와 사명",
+      "orig": "Introduction and mission — The Cybernetic Consciousness",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "아키 제타-5",
+      "summary": "아키 제타-5는 인사에서 혼란스러운 행성에 이성과 질서를 심는 것을 사명으로 내세운다. 가까운 지도자들은 그를 분석에 밝은 지도자로 대하지만, 그를 싫어하는 이들은 그가 몸과 마음을 기계로 바꿔 사람다움을 지우려 한다고 두려워하며 그를 영혼 없는 기계로 본다. 기계와 하나가 되려는 길이 다른 이들에게는 사람다움을 잃는 길로 보인다는 것이 드러난다.",
+      "reveals": "기계와 하나가 되는 길이 남들에겐 사람다움을 잃는 길이다",
+      "terms": [
+        "cybernetic_consciousness"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/cyborg.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cyborgs_truce",
+      "ko": "아키 제타-5의 휴전 제안",
+      "orig": "Blood Truce — The Cybernetic Consciousness",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "아키 제타-5",
+      "summary": "아키는 휴전을 청할 때 감정 대신 모의 계산의 결론을 내밀며, 끝이 나지 않을 싸움은 멈추는 것이 합리적이라고 본다. 선지자를 상대로도 같은 논리를 쓰고, 선지자는 그 계산을 믿을지 말지를 따진다. 의식화된 가상 두뇌가 전쟁과 평화를 확률로 판단한다는 것이 드러난다.",
+      "reveals": "가상 두뇌는 전쟁과 평화를 확률로 판단한다",
+      "terms": [
+        "cybernetic_consciousness",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/cyborg.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cyborgs_treaty",
+      "ko": "아키 제타-5의 우호 조약 제안",
+      "orig": "Treaty of Friendship — The Cybernetic Consciousness",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "아키 제타-5",
+      "summary": "아키는 조약을 서로의 능력을 키우는 합리적인 결합으로 보고, 상대의 지적 수준을 근거로 손을 내민다. 선지자에게는 그들의 높은 지성과 연구열을 들어 알맞은 동반자라고 본다. 의식화된 가상 두뇌가 동맹 상대를 지성으로 잰다는 것이 드러난다.",
+      "reveals": "가상 두뇌는 동맹 상대를 지성으로 잰다",
+      "terms": [
+        "cybernetic_consciousness",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/cyborg.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_pirates_greeting",
+      "ko": "울리크 스벤스가드의 인사와 사명",
+      "orig": "Introduction and mission — Nautilus Pirates",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "울리크 스벤스가드",
+      "summary": "스벤스가드는 인사에서 바다의 부와 가능성을 차지하는 것을 사명으로 내세우고, 남의 배를 지켜 준다고 자처한다. 가까운 지도자들은 그를 대담한 모험가로 대하지만, 그를 싫어하는 이들은 그가 바닷길을 막고 교역을 빼앗는 시대착오적인 무법자라고 본다. 행성의 바다가 또 하나의 다툼터이고 그 주인을 자처하는 무리가 따로 있다는 것이 드러난다.",
+      "reveals": "행성의 바다는 또 하나의 다툼터이고 해적단이 그 주인을 자처한다",
+      "terms": [
+        "nautilus_pirates"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/pirates.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_pirates_truce",
+      "ko": "울리크 스벤스가드의 휴전 제안",
+      "orig": "Blood Truce — Nautilus Pirates",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "울리크 스벤스가드",
+      "summary": "스벤스가드는 휴전을 청할 때 싸움을 시간 낭비로 여기고, 행성을 누비는 탐험으로 돌아가고 싶어 한다. 선지자에게도 같은 말을 건네며, 선지자는 행성을 탐사하는 일이 더 중하다는 데 공감하기도 한다. 해적에게 싸움과 평화가 모두 모험의 일부라는 것이 드러난다.",
+      "reveals": "해적에게는 싸움도 평화도 모험의 일부다",
+      "terms": [
+        "nautilus_pirates",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/pirates.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_pirates_treaty",
+      "ko": "울리크 스벤스가드의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Nautilus Pirates",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "울리크 스벤스가드",
+      "summary": "스벤스가드는 서로의 세력권이 겹치지 않는다는 점을 들어 조약을 청한다. 선지자에게는 그들이 바다에 관심이 적으니 땅과 바다를 나눠 가지면 부딪칠 일이 없다고 내세운다. 해적이 세상을 땅과 바다의 세력권으로 나눠 본다는 것이 드러난다.",
+      "reveals": "해적은 세상을 땅과 바다의 세력권으로 나눠 본다",
+      "terms": [
+        "nautilus_pirates",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/pirates.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_drones_greeting",
+      "ko": "포맨 도마이의 인사와 사명",
+      "orig": "Introduction and mission — The Free Drones",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "포맨 도마이",
+      "summary": "도마이는 인사에서 억눌린 노동자를 풀어 주고 보통 시민의 삶을 낫게 하는 것을 사명으로 내세운다. 가까운 지도자들은 그를 성실한 일꾼들의 대표로 대하지만, 그를 싫어하는 이들은 그가 일꾼들을 부추겨 사회의 바탕을 흔들고 공업을 독차지하려는 선동가라고 본다. 행성의 사회에도 다스리는 이와 일하는 이의 갈등이 그대로 옮겨 왔다는 것이 드러난다.",
+      "reveals": "행성의 사회에도 다스리는 이와 일하는 이의 갈등이 옮겨 왔다",
+      "terms": [
+        "free_drones"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/drone.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_drones_truce",
+      "ko": "포맨 도마이의 휴전 제안",
+      "orig": "Blood Truce — The Free Drones",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "포맨 도마이",
+      "summary": "도마이는 휴전을 청할 때 지도자들의 자존심 싸움에 보통 사람들이 희생된다는 점을 내세운다. 선지자에게도 일꾼의 처지는 어디나 같다며 백성을 위해 싸움을 멈추자고 하고, 선지자는 그 말을 자기 백성에 견주어 따진다. 도마이가 지도자가 아니라 일꾼의 눈으로 전쟁을 본다는 것이 드러난다.",
+      "reveals": "도마이는 지도자가 아니라 일꾼의 눈으로 전쟁을 본다",
+      "terms": [
+        "free_drones",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/drone.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_drones_treaty",
+      "ko": "포맨 도마이의 우호 조약 제안",
+      "orig": "Treaty of Friendship — The Free Drones",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "포맨 도마이",
+      "summary": "도마이는 백성의 복지를 아끼는 지도자끼리 개인의 야심을 내려놓고 손잡자고 청한다. 선지자에게는 남들이 그들을 믿지 않아도 그들의 과학과 자기들의 공업이 잘 어울린다며 손을 내민다. 공업의 힘을 내세우는 자유 드론의 자부심이 드러난다.",
+      "reveals": "자유 드론은 공업의 힘을 내세워 손을 내민다",
+      "terms": [
+        "free_drones",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/drone.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_angels_greeting",
+      "ko": "신더 로즈의 인사와 사명",
+      "orig": "Introduction and mission — The Data Angels",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "신더 로즈",
+      "summary": "신더 로즈는 인사에서 모든 정보를 누구에게나 열어 두는 것을 사명으로 내세운다. 가까운 지도자들은 그를 멋을 아는 자유로운 사람으로 대하지만, 그를 싫어하는 이들은 그가 남의 망에 숨어들어 자료를 훔치고 망을 무너뜨리는 해커라고 본다. 정보의 자유를 외치는 이가 다른 세력에게는 가장 성가신 도둑이라는 것이 드러난다.",
+      "reveals": "정보의 자유를 외치는 이가 남들에겐 가장 성가신 도둑이다",
+      "terms": [
+        "data_angels"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_angels_truce",
+      "ko": "신더 로즈의 휴전 제안",
+      "orig": "Blood Truce — The Data Angels",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "신더 로즈",
+      "summary": "신더 로즈는 휴전을 청할 때 전쟁이 정보를 자유롭게 하려는 자기들의 싸움에 방해가 된다고 본다. 선지자에게는 자기들이 군사에 별 뜻이 없다는 것을 앞세워 짧게 평화를 청하지만, 선지자는 싸울 힘이 약하다는 그 고백을 오히려 약점으로 보기도 한다. 정보 천사에게 전쟁조차 정보의 흐름을 막는 일이라는 것이 드러난다.",
+      "reveals": "정보 천사에게는 전쟁도 정보 흐름을 막는 방해다",
+      "terms": [
+        "data_angels",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_angels_treaty",
+      "ko": "신더 로즈의 우호 조약 제안",
+      "orig": "Treaty of Friendship — The Data Angels",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "신더 로즈",
+      "summary": "신더 로즈는 조약을 감각이 통하는 이들의 어울림처럼 가볍게 청한다. 선지자에게는 둘 다 행성에서 따돌림받는 처지라는 동질감을 내세우며 다가간다. 정보 천사가 스스로를 선지자처럼 행성의 외톨이로 여긴다는 것이 드러난다.",
+      "reveals": "정보 천사는 스스로를 선지자처럼 따돌림받는 외톨이로 여긴다",
+      "terms": [
+        "data_angels",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/angels.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cult_greeting",
+      "ko": "차 던의 인사와 사명",
+      "orig": "Introduction and mission — The Cult of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "차 던",
+      "summary": "차 던은 인사에서 행성의 뜻을 이루는 것을 사명으로 내세우고, 남들을 행성의 노여움에서 지켜 준다고 자처한다. 가까운 지도자들은 그를 사람을 끄는 예언자로 대하지만, 그를 싫어하는 이들은 그가 토착 생물을 앞세워 사람을 쓸어 내려는 위험한 선동가라고 본다. 행성을 섬기는 신앙이 사람들 사이에서는 인류를 등진 광신으로 비친다는 것이 드러난다.",
+      "reveals": "행성을 섬기는 신앙이 사람들에겐 인류를 등진 광신으로 비친다",
+      "terms": [
+        "cult_of_planet"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/fungboy.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cult_truce",
+      "ko": "차 던의 휴전 제안",
+      "orig": "Blood Truce — The Cult of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 지도자가 휴전을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "차 던",
+      "summary": "차 던은 휴전을 청할 때 자기 뜻이 아니라 행성의 뜻이라며 행성을 대변하는 자리에 선다. 같은 말을 선지자에게 하면, 행성을 신성하게 여기는 선지자는 사람이 행성의 뜻을 안다고 나서는 것 자체를 불경으로 받아들이기도 한다. 행성의 대변자를 자처하는 차 던이 선지자에게는 이단으로 비친다는 것이 드러난다.",
+      "reveals": "행성의 대변자를 자처하는 차 던은 선지자에게 이단이다",
+      "terms": [
+        "cult_of_planet",
+        "planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/fungboy.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_cult_treaty",
+      "ko": "차 던의 우호 조약 제안",
+      "orig": "Treaty of Friendship — The Cult of Planet",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 지도자가 우호 조약을 청할 때의 말과 받는 쪽이 고르는 대답",
+      "speaker": "차 던",
+      "summary": "차 던은 행성이 두 백성의 유대를 바란다며 행성의 뜻을 빌려 조약을 청한다. 선지자에게는 생김새가 달라도 같은 행성에 이어진 친족이라고 내세운다. 차 던이 사람과 선지자를 모두 행성의 친족으로 본다는 것이 드러난다.",
+      "reveals": "차 던은 사람과 선지자를 모두 행성의 친족으로 본다",
+      "terms": [
+        "cult_of_planet",
+        "planet",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/fungboy.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_caretakers_greeting",
+      "ko": "루라르 흠미니의 인사와 사명",
+      "orig": "Introduction and mission — Manifold Caretakers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "루라르 흠미니",
+      "summary": "흠미니는 인사에서 다양체를 본래대로 지키고 찬탈자가 행성을 더럽히지 못하게 막는 것을 사명으로 내세운다. 그를 싫어하는 사람 지도자들은 그가 행성을 토착 생물의 보호 구역으로 되돌리려 사람을 몰아내려 한다고 보고, 그를 사람에게 가장 위험한 존재로 여긴다. 다양체를 지키는 일과 사람이 행성에 사는 일이 처음부터 부딪친다는 것이 드러난다.",
+      "reveals": "다양체를 지키는 일과 사람이 행성에 사는 일은 처음부터 부딪친다",
+      "terms": [
+        "manifold_caretakers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alienuscript.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_caretakers_truce",
+      "ko": "루라르 흠미니의 휴전 제안",
+      "orig": "Blood Truce — Manifold Caretakers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 선지자 지도자가 휴전을 청할 때의 말과 사람 쪽이 고르는 대답",
+      "speaker": "루라르 흠미니",
+      "summary": "흠미니는 사람과의 싸움을 찬탈자라는 진짜 적에게서 힘을 빼앗는 일로 보고, 청하기보다 요구하듯 휴전을 내민다. 선지자 특유의 끊어 말하는 말투로 전하는 그 요구에는 사람을 동등한 상대로 여기는 기색이 없다. 수호자에게 사람과의 전쟁은 찬탈자와의 싸움에 딸린 곁가지라는 것이 드러난다.",
+      "reveals": "수호자에게 사람과의 전쟁은 찬탈자와의 싸움의 곁가지다",
+      "terms": [
+        "manifold_caretakers",
+        "manifold_usurpers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_caretakers_treaty",
+      "ko": "루라르 흠미니의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Manifold Caretakers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 선지자 지도자가 우호 조약을 청할 때의 말과 사람 쪽이 고르는 대답",
+      "speaker": "루라르 흠미니",
+      "summary": "흠미니는 행성을 본디 모습으로 되돌리는 것이 끝내 바라는 일이라고 감추지 않으면서도, 그때까지는 사람과 함께할 수 있다며 조약을 청한다. 그 손은 잠시 동안만 내민 것이라는 것을 양쪽이 다 안다. 수호자가 그리는 행성의 앞날에 사람의 자리가 없다는 것이 드러난다.",
+      "reveals": "수호자가 그리는 행성의 앞날에는 사람의 자리가 없다",
+      "terms": [
+        "manifold_caretakers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/caretake.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_usurpers_greeting",
+      "ko": "유다 마의 인사와 사명",
+      "orig": "Introduction and mission — Manifold Usurpers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면의 인사와 말 — 대본의 틀에 세력 파일의 칭호·사명·별명·세금 이름을 채워 넣은 말(처음 만날 때의 인사, 다른 지도자들이 이 세력을 깎아내리는 말, 공물을 요구할 때의 말)",
+      "speaker": "유다 마",
+      "summary": "유다 마는 인사에서 다양체의 숨은 힘을 손에 넣어 수호자를 꺾는 것을 사명으로 내세우고, 사람에게는 행성에 남아 살도록 봐주는 쪽이라고 군다. 그를 싫어하는 사람 지도자들은 그가 행성의 모든 세력을 없애고 은하까지 지배하려는 잔혹한 폭군이라고 본다. 찬탈자의 야심이 행성을 넘어 은하를 향한다는 것이 드러난다.",
+      "reveals": "찬탈자의 야심은 행성을 넘어 은하를 향한다",
+      "terms": [
+        "manifold_usurpers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/usurper.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alienuscript.txt",
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_usurpers_truce",
+      "ko": "유다 마의 휴전 제안",
+      "orig": "Blood Truce — Manifold Usurpers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름, 휴전은 나무위키 「시드 마이어의 알파 센타우리/당파」 본문 표기",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 원한 전쟁 중인 이 선지자 지도자가 휴전을 청할 때의 말과 사람 쪽이 고르는 대답",
+      "speaker": "유다 마",
+      "summary": "유다 마는 사람과의 전쟁이 다양체와 하나가 되려는 자기들의 길에서 자원을 빼앗는다고 보고, 명령하듯 휴전을 요구한다. 그는 사람을 맞수로 여기지 않고 큰 계획을 늦추는 걸림돌 정도로 대한다. 찬탈자에게 사람과의 전쟁은 다양체로 가는 길의 방해라는 것이 드러난다.",
+      "reveals": "찬탈자에게 사람과의 전쟁은 다양체로 가는 길의 방해다",
+      "terms": [
+        "manifold_usurpers",
+        "manifolds",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/usurper.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_usurpers_treaty",
+      "ko": "유다 마의 우호 조약 제안",
+      "orig": "Treaty of Friendship — Manifold Usurpers",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 지도자 이름은 나무위키 분류 「시드 마이어의 알파 센타우리」의 인물 문서 이름",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 세력 파일의 외교 대사 — 이 선지자 지도자가 우호 조약을 청할 때의 말과 사람 쪽이 고르는 대답",
+      "speaker": "유다 마",
+      "summary": "유다 마는 신과 같은 존재가 되는 것을 찬탈자의 목표로 밝히고, 사람도 그 덕을 볼 수 있다며 조약을 맺자고 꾄다. 그가 세우려는 새 질서에 사람의 자리가 정말 있는지는 알 수 없다. 찬탈자가 다양체의 힘을 신이 되는 길로 본다는 것이 드러난다.",
+      "reveals": "찬탈자는 다양체의 힘을 신이 되는 길로 본다",
+      "terms": [
+        "manifold_usurpers",
+        "progenitors"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/usurper.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/당파"
+      ]
+    },
+    {
+      "id": "dialogue_vendetta",
+      "ko": "원한 전쟁 선포",
+      "orig": "Vendetta declarations",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 상대 지도자가 원한 전쟁을 선포할 때의 말",
+      "speaker": "",
+      "summary": "원한 전쟁을 선포하는 지도자들의 태도는 여러 가지다. 상대를 깔보며 위협하는 이, 둘이 함께 살 수 없다며 차갑게 선을 긋는 이, 약해진 상대의 땅을 노리는 욕심을 숨기지 않는 이가 있고, 상대가 잔악행위를 저질렀거나 요구를 거절했거나 자기를 배신했을 때는 응징을 내세운다. 사람 세력들의 다툼이 원한과 응징의 말로 이어진다는 것이 드러난다.",
+      "reveals": "사람 세력들의 다툼은 원한과 응징의 말로 이어진다",
+      "terms": [],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_atrocity_warning",
+      "ko": "잔악행위를 둔 경고와 규탄",
+      "orig": "Atrocity warnings",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 누군가 잔악행위를 저질렀을 때 다른 지도자들이 하는 말과 그때 뜨는 알림",
+      "speaker": "",
+      "summary": "누군가 화학·생물·핵 무기나 집단 학살 같은 잔악행위를 저지르면, 다른 지도자들은 먼저 엄하게 경고하고 그래도 그치지 않으면 원한 전쟁으로 응징한다. 중대한 잔악행위가 일어나면 여러 세력이 함께 등을 돌리고, 시민에게 신경 고문을 할지 묻는 창부터 그것이 잔악행위임을 분명히 한다. 갈라선 세력들도 UN 헌장의 금기를 서로를 단죄하는 잣대로 쓴다는 것이 드러난다.",
+      "reveals": "갈라선 세력들도 UN 헌장의 금기로 서로를 단죄한다",
+      "terms": [
+        "un_charter",
+        "nerve_stapling"
+      ],
+      "concepts": [
+        "forbidden_weapon"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_planet_buster",
+      "ko": "행성 파괴 무기를 둔 경고",
+      "orig": "Planet Buster warnings",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 행성 파괴 무기를 가진 지도자들이 주고받는 말과 그때 뜨는 알림",
+      "speaker": "",
+      "summary": "행성 파괴 무기를 가진 지도자는 그것을 숨기지 않고 알려 상대를 견제한다. 약한 지도자는 다른 세력들이 함께 벌해 줄 것에 기대어 버티고, 같은 무기를 가진 지도자는 똑같이 되갚겠다며 맞서며, 실제로 쓰이면 궤도 방어 포드를 희생해 막거나 탐사대로 발사 전에 부수는 길도 있다. 행성 파괴 무기가 지도자들 사이 공포의 균형이 되어 있다는 것이 드러난다.",
+      "reveals": "행성 파괴 무기가 지도자들 사이 공포의 균형이 되었다",
+      "terms": [
+        "planet_buster"
+      ],
+      "concepts": [
+        "deterrence"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_territory",
+      "ko": "영토를 둔 말다툼",
+      "orig": "Territorial disputes",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 국경을 넘거나 남이 주장하는 땅에 기지를 세우려 할 때의 말",
+      "speaker": "",
+      "summary": "지도자들은 자기 땅과 바다의 경계를 날카롭게 지키며, 우호 조약을 맺은 사이라도 부대가 넘어오면 조약을 들어 물러나라고 요구한다. 조약이 없는 사이에는 군대가 모이는 것만으로도 경고가 오고, 자기 땅이라 여기는 곳에 남이 기지를 세우려 하면 바로 막아선다. 개척이 나아갈수록 행성의 빈 땅이 국경과 영해로 갈려 나간다는 것이 드러난다.",
+      "reveals": "개척이 나아갈수록 행성은 국경과 영해로 갈린다",
+      "terms": [],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_betrayal",
+      "ko": "뒷거래와 배신",
+      "orig": "Secret deals and betrayal",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 다른 지도자를 함께 치자고 꾀하거나 배신을 경고할 때의 말",
+      "speaker": "",
+      "summary": "지도자들은 은밀히 연락해 다른 지도자를 함께 치자고 꾀하고, 겉으로 친한 척하면서 뒤로 기습을 준비하거나 남의 동맹 사이를 갈라놓으려 한다. 누군가를 배신한 지도자는 다른 이들의 경계를 사고, 원수를 돕거나 원수에게 가는 길을 막는 세력에게는 원한이 번진다. 유니티호의 옛 동료들이 서로 등 뒤에서 칼을 겨눈다는 것이 드러난다.",
+      "reveals": "유니티호의 옛 동료들이 서로 등 뒤에서 칼을 겨눈다",
+      "terms": [
+        "unity"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_pact",
+      "ko": "혈맹을 맺는 말",
+      "orig": "Pact of Brotherhood",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음) · 혈맹은 나무위키 「시드 마이어의 알파 센타우리」 본문 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 혈맹을 청하고 맺고 지킬 때의 말",
+      "speaker": "",
+      "summary": "혈맹은 우호 조약보다 깊은, 함께 싸우기로 하는 맹세다. 지도자들은 뜻과 이익이 맞는 상대에게 혈맹을 청하고, 몰린 지도자는 도움을 얻으려 대가를 얹어 매달리며, 맺은 뒤에는 서로를 형제자매로 부르고 혈맹을 깨려면 얼굴을 맞댄 협상을 거쳐야 한다. 갈라진 세력들이 형제자매라는 말로 다시 묶인다는 것이 드러난다.",
+      "reveals": "갈라진 세력들이 형제자매라는 말로 다시 묶인다",
+      "terms": [],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리"
+      ]
+    },
+    {
+      "id": "dialogue_tribute",
+      "ko": "공물을 뜯는 말",
+      "orig": "Tribute demands",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 힘센 지도자가 에너지나 기술을 내놓으라고 할 때의 말",
+      "speaker": "",
+      "summary": "힘센 지도자는 약한 세력에게 에너지나 기술을 내놓으라고 요구하며, 그것을 보호의 대가나 세금처럼 꾸민다. 세력마다 그 돈에 붙이는 이름이 달라 가이아는 생태를, 신봉자는 신앙을, 찬탈자는 보호를 내세우고, 요구 뒤에는 넌지시 위협이 따른다. 지도자들 사이에 보호비를 뜯는 깡패의 질서가 자리 잡았다는 것이 드러난다.",
+      "reveals": "지도자들 사이에 보호비를 뜯는 깡패의 질서가 있다",
+      "terms": [],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_surrender",
+      "ko": "패배와 항복의 말",
+      "orig": "Truce pleas and surrender",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 원한 전쟁에서 밀리는 지도자가 휴전과 자비를 청할 때의 말",
+      "speaker": "",
+      "summary": "원한 전쟁에서 밀리는 지도자는 처음에는 서로의 손해를 들어 휴전을 청하다가, 더 몰리면 패배를 인정하고 끝내는 가진 것을 모두 내놓으며 목숨을 빈다. 이긴 쪽은 상대를 자기를 섬기는 혈맹으로 받아들이거나 끝장낼 수 있고, 빼앗고 빼앗긴 기지를 두고 흥정이 오가기도 한다. 행성의 전쟁이 끝내 한 지도자의 굴복과 섬김으로 마무리된다는 것이 드러난다.",
+      "reveals": "행성의 전쟁은 한 지도자의 굴복과 섬김으로 끝난다",
+      "terms": [],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_council_votes",
+      "ko": "위원회 표를 사고파는 말",
+      "orig": "Council vote buying",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "외교 화면 — 행성 위원회의 선거와 표결을 앞두고 오가는 말",
+      "speaker": "",
+      "summary": "행성 위원회의 선거와 표결을 앞두고 지도자들은 에너지와 기술을 미끼로 표를 사고, 거꾸로 자기 표를 값을 받고 팔기도 한다. 대놓고 뇌물이라 하지 않고 친구 사이의 호의처럼 넌지시 건넨다. 인류를 다시 묶으려는 행성 위원회가 실제로는 표를 사고파는 시장이라는 것이 드러난다.",
+      "reveals": "인류를 묶으려는 행성 위원회는 표를 사고파는 시장이다",
+      "terms": [
+        "planetary_council"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_progenitor_rumors",
+      "ko": "선지자를 두고 오가는 사람들의 말",
+      "orig": "Talk of the Progenitors",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면 — 사람 지도자들이 선지자 이야기를 꺼낼 때의 말과 그 앞의 알림",
+      "speaker": "",
+      "summary": "확장에서는 지구에서 온 것이 아닌 배가 궤도에서 떨어졌다는 보고 뒤로, 사람 지도자들이 선지자 소식을 서로 전한다. 그들은 선지자를 경계하면서도 그와 닿는 길을 기술이나 에너지와 바꾸려 하고, 호기심에 만나 보고 싶어 하거나, 선지자와 다툰 뒤에는 같은 인류라는 이름으로 도움을 청한다. 외계인의 출현마저 사람 지도자들에게는 거래와 동맹의 거리가 된다는 것이 드러난다.",
+      "reveals": "외계인의 출현마저 사람들에게는 거래와 동맹의 거리다",
+      "terms": [
+        "progenitors",
+        "alpha_centauri"
+      ],
+      "concepts": [
+        "first_contact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_progenitor_speech",
+      "ko": "선지자 지도자의 외교 말투",
+      "orig": "Progenitor diplomatic speech",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 원어 뜻을 우리 말로 옮김(정식 한국어판 없음)",
+      "kind": "대사",
+      "where": "확장 「Alien Crossfire」 외교 화면 — 선지자 지도자가 건네는 인사와 선언(선지자용 대본)",
+      "speaker": "",
+      "summary": "선지자 지도자의 외교에는 사람 지도자의 말을 선지자식으로 고쳐 쓴 대본이 따로 있다. 선지자는 낱말을 끊어 이어 붙이는 딱딱한 말투로 인사하고 위협하고 항복하며, 행성을 자기들의 이름으로 부르고 공물마저 자기들의 관습이라고 내세운다. 감정까지 낱말 하나로 이름 붙여 말하는 이 말투가 사람과 다른 생각의 결을 보여 준다.",
+      "reveals": "선지자는 감정까지 낱말로 붙여 말하는 다른 생각의 결을 지녔다",
+      "terms": [
+        "progenitors",
+        "manifolds",
+        "planet"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/alienuscript.txt"
+      ]
+    },
+    {
+      "id": "dialogue_se_police_state",
+      "ko": "경찰국가를 두고 오가는 말",
+      "orig": "Social engineering reactions: Police State",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "경찰국가를 아끼는 지도자는 보통 사람을 믿을 수 없으니 엄히 다스리는 것이 옳다며 반긴다. 민주주의를 아끼는 지도자는 그것을 처음 임무의 정신을 저버린 독재로 보고, 근본주의 지도자는 신이 없는 체제로 보며, 둘 다 경고가 통하지 않으면 원한 전쟁이나 혈맹 파기로 맞선다. 사회 체제 하나를 고르는 일이 곧 다른 지도자들의 이념과 부딪치는 선언이라는 것이 드러난다.",
+      "reveals": "체제를 고르는 일이 곧 다른 지도자들의 이념과 부딪치는 선언이다",
+      "terms": [
+        "social_engineering",
+        "police_state",
+        "democratic",
+        "fundamentalist"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_democratic",
+      "ko": "민주주의를 두고 오가는 말",
+      "orig": "Social engineering reactions: Democratic",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "민주주의를 아끼는 지도자는 어려운 때에도 자유를 지킨 결단이라며 높이 산다. 경찰국가를 아끼는 지도자는 시민의 목소리가 지배자의 자리를 흔든다며 경계하고, 근본주의 지도자는 신앙 없는 자유가 타락을 낳는다고 보아, 둘 다 끝내 원한 전쟁이나 혈맹 파기로 맞선다. 자유를 두고 지도자들의 믿음이 정반대로 갈린다는 것이 드러난다.",
+      "reveals": "자유를 두고 지도자들의 믿음이 정반대로 갈린다",
+      "terms": [
+        "social_engineering",
+        "democratic",
+        "police_state",
+        "fundamentalist"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_fundamentalist",
+      "ko": "근본주의를 두고 오가는 말",
+      "orig": "Social engineering reactions: Fundamentalist",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "근본주의를 아끼는 지도자는 같은 믿음을 가진 동료를 만났다며 반긴다. 경찰국가를 아끼는 지도자와 민주주의를 아끼는 지도자는 둘 다 신앙을 이성과 진보를 가로막는 지난 시대의 짐으로 여겨, 비웃거나 타이르다가 원한 전쟁이나 혈맹 파기로 돌아선다. 먼 미래의 인류 안에서도 신앙과 이성이 날카롭게 맞선다는 것이 드러난다.",
+      "reveals": "먼 미래의 인류 안에서도 신앙과 이성이 날카롭게 맞선다",
+      "terms": [
+        "social_engineering",
+        "fundamentalist",
+        "police_state",
+        "democratic"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_free_market",
+      "ko": "자유시장을 두고 오가는 말",
+      "orig": "Social engineering reactions: Free Market",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "자유시장을 아끼는 지도자는 그 경제의 활력을 반긴다. 계획경제를 아끼는 지도자는 지구의 불평등을 새 세계에 되풀이한다고 보고, 녹색경제를 아끼는 지도자는 행성의 연약한 환경을 착취한다고 보아, 둘 다 끝내 원한 전쟁이나 혈맹 파기로 맞서며 녹색 쪽은 행성을 지킨다는 명분을 내건다. 지구에서 가져온 이념 다툼과 행성의 생태 문제가 겹쳐 부딪친다는 것이 드러난다.",
+      "reveals": "지구에서 가져온 이념 다툼과 행성의 생태 문제가 겹쳐 부딪친다",
+      "terms": [
+        "social_engineering",
+        "free_market",
+        "planned",
+        "green"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_planned",
+      "ko": "계획경제를 두고 오가는 말",
+      "orig": "Social engineering reactions: Planned",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "계획경제를 아끼는 지도자는 번영을 고루 나누는 본보기라며 반긴다. 자유시장을 아끼는 지도자는 자본의 흐름을 막는 옛 공산주의의 되풀이로 보고, 녹색경제를 아끼는 지도자는 불어나는 인구와 공업이 행성을 더럽힌다고 보아, 둘 다 끝내 원한 전쟁이나 혈맹 파기로 맞선다. 평등을 위한 계획도 행성의 눈으로는 오염이 된다는 것이 드러난다.",
+      "reveals": "평등을 위한 계획도 행성의 눈으로는 오염이 된다",
+      "terms": [
+        "social_engineering",
+        "planned",
+        "free_market",
+        "green"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_green",
+      "ko": "녹색경제를 두고 오가는 말",
+      "orig": "Social engineering reactions: Green",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "녹색경제를 아끼는 지도자는 행성의 생태를 존중한다며 반긴다. 자유시장을 아끼는 지도자는 그것을 사업을 망치는 비현실적 이상으로 보고, 계획경제를 아끼는 지도자는 인류가 살아남으려면 인구와 공업의 성장이 먼저라고 보아, 둘 다 끝내 무력으로 맞선다. 인류의 생존과 행성의 보존 가운데 무엇이 먼저인가가 이 세계의 큰 다툼이라는 것이 드러난다.",
+      "reveals": "인류의 생존과 행성의 보존 가운데 무엇이 먼저인가가 큰 다툼이다",
+      "terms": [
+        "social_engineering",
+        "green",
+        "free_market",
+        "planned"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_power",
+      "ko": "힘을 두고 오가는 말",
+      "orig": "Social engineering reactions: Power",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "힘을 아끼는 지도자는 거친 행성에서는 강해야 살아남는다며 반긴다. 다른 가치를 아끼는 지도자들은 그것을 시민을 무장시켜 행성을 장악하려는 속셈으로 의심하며, 경고하다가 그것을 막겠다고 원한 전쟁을 선포하거나 혈맹을 깬다. 무장한 시민이 곧 사병이 된다는 두려움이 지도자들 사이에 깊다는 것이 드러난다.",
+      "reveals": "무장한 시민이 곧 사병이 된다는 두려움이 깊다",
+      "terms": [
+        "social_engineering",
+        "power",
+        "knowledge",
+        "wealth"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_knowledge",
+      "ko": "지식을 두고 오가는 말",
+      "orig": "Social engineering reactions: Knowledge",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "지식을 아끼는 지도자는 연구에 쏟는 노력을 높이 산다. 힘을 아끼는 지도자는 그 연구가 결국 감춰진 무기 개발이라고 의심하며 기술을 빼앗아 다른 손에 넘기겠다고 나서고, 부를 아끼는 지도자는 순수한 연구보다 공업과 번영이 급하다고 보아 등을 돌린다. 이 세계에서 연구가 늘 무기 개발로 의심받는다는 것이 드러난다.",
+      "reveals": "이 세계에서 연구는 늘 무기 개발로 의심받는다",
+      "terms": [
+        "social_engineering",
+        "knowledge",
+        "power",
+        "wealth"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_wealth",
+      "ko": "부를 두고 오가는 말",
+      "orig": "Social engineering reactions: Wealth",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "부를 아끼는 지도자는 공업의 힘과 부를 칭찬한다. 힘을 아끼는 지도자는 부유해진 세력이 나약해진다고 보고, 지식을 아끼는 지도자는 드러내 놓고 부를 좇는 것을 천박하게 여겨, 둘 다 끝내 원한 전쟁으로 맞선다. 부유한 세력이 다른 지도자들 눈에는 노릴 만한 먹잇감이라는 것이 드러난다.",
+      "reveals": "부유한 세력은 다른 지도자들 눈에 노릴 만한 먹잇감이다",
+      "terms": [
+        "social_engineering",
+        "wealth",
+        "power",
+        "knowledge"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_cybernetic",
+      "ko": "사이버네틱 사회를 두고 오가는 말",
+      "orig": "Social engineering reactions: Cybernetic",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "사이버네틱을 아끼는 지도자는 사람과 기계의 결합만이 생명을 더 높이 끌어올린다며 반긴다. 진정한 행복을 아끼는 지도자는 사람이 생물다움을 잃고 기계가 되어 간다고 두려워하고, 사상통제를 아끼는 지도자는 강해진 백성을 단단히 쥐지 않으면 언젠가 모두를 무너뜨리리라 두려워해, 둘 다 원한 전쟁이나 혈맹 파기로 맞선다. 기술로 바뀐 사람을 두고 생명을 잃을 두려움과 통제를 잃을 두려움이 맞선다는 것이 드러난다.",
+      "reveals": "기술로 바뀐 사람을 두고 생명과 통제의 두려움이 맞선다",
+      "terms": [
+        "social_engineering",
+        "cybernetic",
+        "eudaimonic",
+        "thought_control"
+      ],
+      "concepts": [
+        "cyborg"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_eudaimonic",
+      "ko": "진정한 행복을 두고 오가는 말",
+      "orig": "Social engineering reactions: Eudaimonic",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "진정한 행복을 아끼는 지도자는 백성에게 온전한 자유를 준 결단을 우러른다. 사이버네틱을 아끼는 지도자는 생물의 한계를 넘지 않고는 이상 사회가 불가능하다고 보고, 사상통제를 아끼는 지도자는 백성에게는 현명한 지배자의 지시가 필요하며 그 자유의 바람이 자기 백성까지 들뜨게 한다고 보아, 둘 다 끝내 원한 전쟁이나 혈맹 파기로 맞선다. 사람의 행복을 두고 자유와 기계와 지배가 서로 다른 답을 낸다는 것이 드러난다.",
+      "reveals": "사람의 행복을 두고 자유와 기계와 지배가 다른 답을 낸다",
+      "terms": [
+        "social_engineering",
+        "eudaimonic",
+        "cybernetic",
+        "thought_control"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
+      ]
+    },
+    {
+      "id": "dialogue_se_thought_control",
+      "ko": "사상통제를 두고 오가는 말",
+      "orig": "Social engineering reactions: Thought Control",
+      "ko_status": "우리 표기",
+      "ko_src": "사회 체제 이름은 용어 사전 표기(나무위키 「시드 마이어의 알파 센타우리/사회 체제」) · 정식 한국어판이 없어 우리 표기",
+      "kind": "대사",
+      "where": "외교 화면 — 당신이 고른 사회 체제를 두고 다른 지도자들이 하는 말(칭찬·비난·원한 전쟁·혈맹 파기)",
+      "speaker": "",
+      "summary": "사상통제를 아끼는 지도자는 뛰어난 한 사람이 사회를 이끄는 효율을 높이 산다. 사이버네틱을 아끼는 지도자는 한 사람의 생물다운 판단에 사회를 맡기는 것을 비효율로 보고, 진정한 행복을 아끼는 지도자는 모든 창의를 누르는 낭비이자 폭정으로 보아, 둘 다 끝내 원한 전쟁이나 혈맹 파기로 맞선다. 사람의 정신을 다스리는 일이 이 세계 마지막 이념 다툼의 한복판이라는 것이 드러난다.",
+      "reveals": "사람의 정신을 다스리는 일이 마지막 이념 다툼의 한복판이다",
+      "terms": [
+        "social_engineering",
+        "thought_control",
+        "cybernetic",
+        "eudaimonic"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://github.com/theeddieh/alpha-centauri/blob/48fbdb288e8fa7e84d907e60fecf9eaacef534d7/text/xscript.txt",
+        "https://namu.wiki/w/시드%20마이어의%20알파%20센타우리/사회%20체제"
       ]
     }
   ]
