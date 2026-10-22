@@ -129,11 +129,14 @@ main.wrap { padding-block: 1.75rem 4rem; }
 .t-one.hide:hover, .t-note.hide:hover, .t-ko.hide:hover, .t-orig.hide:hover { filter: blur(4px); }
 .spoil-tag { font-size: 0.72rem; color: var(--warn); }
 .alt { font-size: var(--step--1); color: var(--ink-3); margin: 0.3rem 0 0; }
-.chips { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem; align-items: flex-start; }
 .chip { font-size: 0.75rem; border: 1px solid var(--rule); border-radius: 999px; padding: 0.05rem 0.55rem; color: var(--ink-2); background: var(--paper); }
 .chip:hover { text-decoration: none; border-color: var(--accent); color: var(--accent); }
 .chip.via { border-style: dashed; }
 .chip.vid { border-color: var(--accent); color: var(--accent); }
+.art-thumb { display: inline-grid; gap: 0.2rem; max-width: 10rem; font-size: 0.7rem; color: var(--ink-3); vertical-align: top; }
+.art-thumb img { width: 10rem; height: 6.5rem; object-fit: cover; border-radius: 6px; border: 1px solid var(--rule); background: var(--mute-soft); }
+.art-thumb:hover { text-decoration: none; }
 .facts dd.chips { margin: 0; }
 
 /* 작품 목록 */
@@ -335,6 +338,18 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
       return '<a class="chip vid" href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer" title="' + esc((v.by || "") + (v.official ? " · 공식" : "")) + '">▶ ' + esc(v.what || "영상") + "</a>";
     }).join("");
   }
+  // 일러스트 고리 — 2026-10-23 진님: "일러스트도 있다면 같이 넣어줘"
+  // 공식 그림은 그 그림이 있는 쪽으로 가는 고리만 건다(남의 그림을 이 사이트가 다시 내보이지 않는다).
+  // 자유 이용 허락이 붙은 위키미디어 공용 그림(free + img)만 작은 그림으로 보이고 허락 표시를 단다.
+  function arts(list, hidden) {
+    if (!list || !list.length || hidden) return "";
+    return list.map(function (a) {
+      if (a.free && a.img) {
+        return '<a class="art-thumb" href="' + esc(a.page) + '" target="_blank" rel="noopener noreferrer" title="' + esc(a.what) + '"><img src="' + esc(a.img) + '" alt="' + esc(a.what) + '" loading="lazy"><span>' + esc(a.what) + " · " + esc(a.by) + " · " + esc(a.license) + "</span></a>";
+      }
+      return '<a class="chip vid" href="' + esc(a.page) + '" target="_blank" rel="noopener noreferrer" title="' + esc(a.by || "") + '">🖼 ' + esc(a.what || "그림") + "</a>";
+    }).join("");
+  }
   function termCard(t, opts) {
     opts = opts || {};
     var h = '<article class="term" id="t-' + esc(t.work + "-" + t.id) + '">';
@@ -358,7 +373,7 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
       var nm = x.spoiler && !spoil ? "로어 조각(누설)" : x.ko;
       chips.push('<a class="chip via" href="#l-' + esc(x.work) + "/" + esc(x.id) + '" title="이 용어가 나오는 로어 조각">로어 · ' + esc(nm) + "</a>");
     });
-    var tv = vids(t.videos, t.spoiler && !spoil);
+    var tv = vids(t.videos, t.spoiler && !spoil) + arts(t.art, t.spoiler && !spoil);
     if (tv) chips.push(tv);
     if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
     return h + "</article>";
@@ -380,7 +395,7 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     (x.terms || []).forEach(function (tid) { var t = tmap.get(tid); if (t) chips.push('<a class="chip" href="#w-' + esc(x.work) + '" title="이 작품 용어">' + esc(t.ko) + "</a>"); });
     (x.concepts || []).forEach(function (cid) { if (C.get(cid)) chips.push('<a class="chip via" href="#c-' + esc(cid) + '" title="개념">' + esc(C.get(cid).ko) + "</a>"); });
     if (opts.showWork && W.get(x.work)) chips.unshift('<a class="chip" href="#l-' + esc(x.work) + '">' + esc(W.get(x.work).ko) + " 로어</a>");
-    var lv = vids(x.videos, x.spoiler && !spoil);
+    var lv = vids(x.videos, x.spoiler && !spoil) + arts(x.art, x.spoiler && !spoil);
     if (lv) chips.push(lv);
     if (chips.length) h += '<div class="chips">' + chips.join("") + "</div>";
     return h + "</article>";
@@ -504,6 +519,7 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     ts.forEach(function (t) { if (t.ko_status === "공식" && t.ko_check === "원자료") n.src++; else if (t.ko_status === "공식") n.snd++; else n.ours++; });
     if (ts.length) h += "<dt>표기 확인</dt><dd>공식(정식판에서 직접) " + n.src + " · 공식(2차 자료) " + n.snd + " · 우리 표기 " + n.ours + "</dd>";
     if (w.videos && w.videos.length) h += '<dt>영상</dt><dd class="chips">' + vids(w.videos) + "</dd>";
+    if (w.art && w.art.length) h += '<dt>그림</dt><dd class="chips">' + arts(w.art) + "</dd>";
     h += "</dl>";
     if (!ts.length) return h + '<p class="empty-note">이 작품은 아직 조사 중입니다.</p>';
     var nl = (LBYW.get(id) || []).length;
@@ -586,7 +602,7 @@ footer .wrap { padding-block: 1.25rem 2rem; display: grid; gap: 0.35rem; }
     if (c.r) t += '<a class="kb k-yes" href="#w-' + esc(c.id) + '" title="용어를 조사한 작품 — 눌러서 작품 쪽으로">용어 조사함</a>';
     if (c.b) t += '<span class="kind" title="판타지·공포·슈퍼히어로가 바탕이거나 SF 비중이 작음">경계</span>';
     t += "</div><p>" + esc(c.s) + (c.by ? ' <span class="kind">· ' + esc(c.by) + "</span>" : "") + "</p>";
-    if (c.v && c.v.length) t += '<div class="chips">' + vids(c.v) + "</div>";
+    if ((c.v && c.v.length) || (c.a && c.a.length)) t += '<div class="chips">' + vids(c.v) + arts(c.a) + "</div>";
     t += "</div></li>";
     return t;
   }

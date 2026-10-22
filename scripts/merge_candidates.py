@@ -193,6 +193,12 @@ def main():
                 vids.setdefault(v.get("url"), v)
         if vids:
             base["videos"] = list(vids.values())  # 유튜브 영상 고리 — 갈래마다 찾은 것을 모은다
+        arts = {}
+        for mm in members:
+            for a in mm.get("art") or []:
+                arts.setdefault(a.get("page"), a)
+        if arts:
+            base["art"] = list(arts.values())  # 일러스트 고리 — 갈래마다 찾은 것을 모은다
         base["year"] = min((m.get("year") or 9999) for m in members)
         if not base.get("ko"):
             for m in members:

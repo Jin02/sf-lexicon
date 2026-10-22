@@ -62,6 +62,8 @@ def main():
             })
             if c.get("videos"):
                 cands[-1]["v"] = c["videos"]  # 유튜브 영상 고리(2026-10-22) — 있을 때만 싣는다
+            if c.get("art"):
+                cands[-1]["a"] = c["art"]  # 일러스트 고리(2026-10-23) — 있을 때만
     bundle = {
         "categories": concepts["categories"],
         "concepts": concepts["concepts"],

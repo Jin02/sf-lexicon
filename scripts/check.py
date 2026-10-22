@@ -250,12 +250,37 @@ def check_videos(where, vids):
     return len(vids)
 
 
+def check_art(where, arts):
+    """일러스트 고리(2026-10-23 진님) — [{page, what, by, free, img?, license?}].
+    공식 그림은 page 고리만, 자유 이용 허락(위키미디어 공용)일 때만 img 와 license 를 둔다."""
+    if arts is None:
+        return 0
+    if not isinstance(arts, list):
+        bad(where, "art 는 목록이어야 한다")
+        return 0
+    for a in arts:
+        a = a or {}
+        if not str(a.get("page", "")).startswith("https://"):
+            bad(where, f"그림 page 가 https 주소가 아니다: {a.get('page')}")
+        if not a.get("what") or len(a["what"]) > 40:
+            bad(where, "그림 what 이 비었거나 40자를 넘는다")
+        if not a.get("by"):
+            bad(where, "그림 by(출처)가 비었다")
+        if not isinstance(a.get("free"), bool):
+            bad(where, "그림 free 는 참·거짓")
+        if a.get("img"):
+            if not a.get("free") or not str(a["img"]).startswith("https://upload.wikimedia.org/") or not a.get("license"):
+                bad(where, "img(바로 보이는 그림)는 자유 이용 허락이 붙은 위키미디어 공용 그림(free·license)만")
+    return len(arts)
+
+
 def check_all_videos():
     n = 0
     wp = DATA / "works.json"
     if wp.exists():
         for w in load(wp)["works"]:
             n += check_videos(f"작품 {w.get('id')}", w.get("videos"))
+            n += check_art(f"작품 {w.get('id')}", w.get("art"))
     for sub, key in (("terms", "terms"), ("lore", "lore")):
         d = DATA / sub
         if not d.exists():
@@ -264,6 +289,7 @@ def check_all_videos():
             data = load(path)
             for x in (data.get(key, []) if isinstance(data, dict) else data):
                 n += check_videos(f"{sub}/{path.stem}/{x.get('id')}", x.get("videos"))
+                n += check_art(f"{sub}/{path.stem}/{x.get('id')}", x.get("art"))
     return n
 
 
@@ -276,7 +302,7 @@ def main():
         print(f"로어 조각 {n_lore}")
     n_vid = check_all_videos()
     if n_vid:
-        print(f"영상 고리 {n_vid}")
+        print(f"영상·그림 고리 {n_vid}")
     n_terms = sum(len(v) for v in used.values())
     print(f"개념 {len(concepts)} · 작품 {len(works)} · 개념에 걸린 용어 자리 {n_terms}")
     empty = [c for c in concepts if c not in used]
