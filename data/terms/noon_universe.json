@@ -1,0 +1,1065 @@
+{
+  "terms": [
+    {
+      "id": "noon",
+      "ko": "정오",
+      "orig": "Полдень",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 알라딘·예스24 출판사 책 소개가 이 연작을 '정오 세계관'이라 부른다(2026-10-22 확인)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "post_scarcity"
+      ],
+      "one": "22세기, 가난과 다툼이 끝난 지구의 시대",
+      "note": "모자람이 사라진 공산 사회가 이루어져 사람들이 먹고살기 위해서가 아니라 배우고 만드는 기쁨으로 일한다. 지구는 우주로 나가 여러 별의 문명을 만나고, 연작의 이야기는 모두 이 시대를 배경으로 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973"
+      ]
+    },
+    {
+      "id": "institute_experimental_history",
+      "ko": "시험역사연구소",
+      "orig": "Институт экспериментальной истории",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 출판사 책 소개('시험역사연구소의 정보원')와 예스24 '책 속으로' 58쪽 발췌. 원어는 '실험 역사 연구소'에 가깝다",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "덜 자란 별의 역사를 몰래 지켜보는 지구의 연구소",
+      "note": "중세쯤에 머문 행성에 연구원을 그곳 사람으로 꾸며 들여보내, 역사가 어떻게 흘러가는지 지켜보고 기록한다. 자기들이 세운 봉건 사회 이론으로 그 행성의 앞날을 가늠하며, 피를 보지 않는 범위에서만 손을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://ru.wikipedia.org/wiki/Арканар",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "bloodless_influence",
+      "ko": "무혈관여 원칙",
+      "orig": "бескровное воздействие",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 예스24 '책 속으로' 62쪽 발췌('무혈관여 원칙')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [
+        "non_interference"
+      ],
+      "one": "피를 보지 않는 데까지만 손을 쓴다는 원칙",
+      "note": "시험역사연구소 사람들은 그 행성의 학자를 숨겨 주거나 금으로 사람을 움직일 수는 있어도, 무기를 써서 역사를 바로 바꾸어서는 안 된다. 눈앞의 학살을 보면서도 이 원칙에 묶여 있어야 하는 괴로움이 이야기의 축이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "arkanar",
+      "ko": "아르카나르 왕국",
+      "orig": "Арканарское королевство",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 출판사 책 소개('아르카나르 왕국')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "중세에 머문 행성의 왕국, 지구 연구원이 숨어 산다",
+      "note": "이름이 알려지지 않은 행성의 아홉 대륙 가운데 한 곳에 있는 왕국이다. 지구 중세 말쯤의 모습으로, 명목상 큰 제국의 바다 건너 지방이지만 사실상 따로 선다. 한때 학문이 꽃피었으나 지금은 글 아는 사람이 쫓기는 곳이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://ru.wikipedia.org/wiki/Арканар",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973"
+      ]
+    },
+    {
+      "id": "grey_stormtroopers",
+      "ko": "회색 돌격대원",
+      "orig": "серые штурмовики",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 출판사 책 소개('회색 돌격대원들')",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "아르카나르의 회색 옷 무장대, 글 아는 사람을 잡아간다",
+      "note": "왕국의 실권을 쥔 대신이 거느리는 무리로, 남과 다르거나 글을 읽을 줄 아는 사람을 마구 잡아 죽인다. 연구원 눈에는 봉건 사회에 갑자기 나타난 파시즘처럼 보여, 이론으로 설명할 수 없는 일로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973"
+      ]
+    },
+    {
+      "id": "irukan",
+      "ko": "이루칸",
+      "orig": "Ирукан",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 예스24 '책 속으로' 64쪽('이루칸 사람')·123~124쪽('이루칸의 첩자') 발췌",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "아르카나르와 국경을 맞댄 공국",
+      "note": "아르카나르 옆의 공국으로, 쫓기는 학자들이 국경을 넘어 달아나는 길목이 된다. 지구 연구원 한 사람이 이 나라 궁정에 숨어 일한다. 아르카나르에서는 '이루칸의 첩자'가 사람을 몰아세우는 죄목으로 쓰인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "merry_tower",
+      "ko": "즐거운탑",
+      "orig": "Весёлая башня",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 예스24 '책 속으로' 123~124쪽 발췌('즐거운탑')",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "아르카나르의 정치범 감옥",
+      "note": "대신이 붙잡은 학자와 정적을 가두고 고문하는 탑이다. 이름과 달리 그 안에서 나온 고문 기록이 도시를 공포로 채운다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "anisotropic_highway",
+      "ko": "이방성길",
+      "orig": "анизотропное шоссе",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 출판사 책 소개('이방성길의 이방성'). 원어는 '이방성 고속도로'",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "한쪽으로만 갈 수 있다는, 지구 숲속의 버려진 길",
+      "note": "앞 이야기에서 아이들이 놀다가 발견한, 진입 금지 표지가 선 낡은 길이다. 한 방향으로만 지나갈 수 있다는 이 길이 마지막에 역사의 흐름을 빗댄 말로 되돌아온다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973"
+      ]
+    },
+    {
+      "id": "don",
+      "ko": "돈",
+      "orig": "дон",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "현대문학 『신이 되기는 어렵다』(2020, 이보석 옮김) 출판사 책 소개('돈 루마타'·'돈 레바'·'돈 콘도르'), 예스24 '책 속으로' 131쪽('도나 오카나')",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "아르카나르 귀족에게 붙이는 존칭",
+      "note": "귀족 남자를 '돈', 귀족 여자를 '도나'라고 부른다. 지구 연구원들은 이 행성 귀족으로 꾸며 '돈'으로 살아가며, 귀족의 특권 덕분에 궁정 가까이 다가간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241373973",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "estor_empire",
+      "ko": "에스토르 제국",
+      "orig": "Эсторская империя",
+      "ko_status": "우리 표기",
+      "ko_src": "현대문학판 출판사 책 소개는 '제국'이라고만 부른다. 이름 '에스토르'는 국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "아르카나르를 제 지방으로 여기는 큰 제국",
+      "note": "아르카나르는 이 제국의 바다 건너 지방으로 여겨진다. 주인공이 꾸민 귀족은 이 제국의 오래된 가문 출신이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом"
+      ]
+    },
+    {
+      "id": "soan",
+      "ko": "소안",
+      "orig": "Соан",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로. 현대문학판 예스24 '책 속으로' 64~65쪽은 이름 없이 '봉건주의 상인공화국'이라 부른다",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "상인들이 다스리는 공화국",
+      "note": "상인들이 다스리는 이웃 공화국으로, 지구 연구원 가운데 고참이 이곳의 높은 재판관으로 꾸며 오래 살고 있다. 현대문학판 발췌는 이 나라를 이름 없이 '상인공화국'이라 부른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом",
+        "https://www.yes24.com/product/goods/90376444"
+      ]
+    },
+    {
+      "id": "holy_order",
+      "ko": "스뱌토이 오르덴",
+      "orig": "Святой Орден",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "아르카나르를 삼키는 교회의 교단",
+      "note": "교회의 교단이다. 아르카나르의 실권자가 이 교단과 손잡고 왕실을 무너뜨린 뒤, 왕국을 교단의 한 지방으로 삼고 스스로 그 우두머리가 된다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Трудно_быть_богом"
+      ]
+    },
+    {
+      "id": "world_council",
+      "ko": "미로보이 소베트",
+      "orig": "Мировой Совет",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지구 인류를 이끄는 가장 높은 협의체",
+      "note": "나라라는 틀이 사라진 지구에서 큰 방향과 자원 나눔을 정하는 기구다. 구성원의 열에 여섯이 의사와 교사이며, 모두 제 본업을 하면서 이 일을 맡는다. 다른 행성 개척지와 지역에는 같은 꼴의 작은 협의체가 따로 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "comcon_1",
+      "ko": "콤콘-1",
+      "orig": "КОМКОН-1 (Комиссия по контактам)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "외계 문명과의 만남을 맡은 지구 위원회",
+      "note": "다른 별의 지성과 접촉하고, 덜 자란 인간형 문명에 들어가 일하는 요원들을 거느린다. 콤콘-2 와 함께 지구 최고 협의체에 의견을 올린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Малыш_(повесть)"
+      ]
+    },
+    {
+      "id": "comcon_2",
+      "ko": "콤콘-2",
+      "orig": "КОМКОН-2 (Комиссия по контролю)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "law_above"
+      ],
+      "one": "바깥의 손길과 위험한 연구를 감시하는 비밀 기관",
+      "note": "평화로운 지구 사회에서 드러나지 않게 일하는 감시 기구다. 위험한 과학 연구를 단속하고, 외계가 지구 일에 끼어드는지를 살핀다. 정체를 모르는 위협 앞에서 무거운 결정을 홀로 내리는 일이 이야기로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике",
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер"
+      ]
+    },
+    {
+      "id": "galactic_security",
+      "ko": "코미테트 갈락티체스코이 베조파스노스티",
+      "orig": "Комитет галактической безопасности (КГБ)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "다른 별의 위험을 다루는 지구의 안전 기구",
+      "note": "스트란니키와 관련될지 모르는 일을 맡고, 핵전쟁 뒤의 행성 사라크시에 요원을 심어 그 나라 권력 가까이에서 일하게 했다. 뒤의 판에서는 이름이 Совет галактической безопасности 로 바뀌었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "progressor",
+      "ko": "프로그레소르",
+      "orig": "прогрессор",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "덜 자란 문명에 숨어 들어가 발전을 앞당기는 요원",
+      "note": "그 행성 사람으로 꾸민 채 학자를 구하거나 정권을 흔들어, 지구가 겪은 비극을 피하게 하려 한다. 들어가기 전 마음을 그곳 풍습에 맞추는 훈련을 받고, 돌아오면 다시 되돌린다. 지구 사람들도 이 일을 꺼림칙하게 여긴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "high_theory_upbringing",
+      "ko": "비소카야 테오리야 보스피타니야",
+      "orig": "Высокая теория воспитания",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "정오 사회를 떠받치는 아이 기르기 이론",
+      "note": "아이들은 기숙 학교에서 소수씩 스승에게 맡겨져, 저마다의 재능을 찾고 일하며 배우는 것을 가장 큰 기쁨으로 여기도록 길러진다. 스승은 부모 못지않은 권위를 지니고, 거짓말을 가장 무거운 잘못으로 가르친다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://ru.wikipedia.org/wiki/Полдень,_XXII_век"
+      ]
+    },
+    {
+      "id": "kiber",
+      "ko": "키베르",
+      "orig": "кибер",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "robot"
+      ],
+      "one": "사람 대신 몸 쓰는 일을 맡는 기계",
+      "note": "정오 지구에서 힘든 일과 남이 꺼리는 일은 이 기계들이 맡아, 사람은 연구와 창작에 매달릴 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "delivery_line",
+      "ko": "리니야 도스타브키",
+      "orig": "Линия Доставки",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "무엇이든 반 시간 안에 집까지 보내 주는 배달망",
+      "note": "자동화된 생산 단지와 사람 사는 곳을 이어, 주문한 것을 반 시간 안에 받게 해 준다. 생산은 거의 저절로 돌아가 오히려 너무 많이 만들지 않게 막아야 할 정도다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "bvi",
+      "ko": "베베이",
+      "orig": "БВИ (Большой Всепланетный Информаторий)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "지구 전체의 지식을 모아 둔 거대한 정보 창고",
+      "note": "행성 하나의 기록과 지식을 한데 모은 기관이다. 다만 작품 속 지구에는 오늘날 같은 개인 컴퓨터나 모두가 쓰는 전자망은 그려지지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "null_t",
+      "ko": "눌-테",
+      "orig": "нуль-Т (нуль-транспортировка)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "거리를 건너뛰어 곧바로 옮기는 기술",
+      "note": "처음에는 먼 행성의 물리학자들이 위험한 실험으로 연구했고, 뒤에는 누구나 쓰는 전송 부스 망이 깔린다. 다른 별에서는 스트란니키가 남긴 같은 꼴의 장치도 발견된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Далёкая_Радуга",
+        "https://ru.wikipedia.org/wiki/Попытка_к_бегству",
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "fukamization",
+      "ko": "푸카미자치야",
+      "orig": "фукамизация",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "태어나기 전 아기의 몸을 튼튼하게 바꾸는 시술",
+      "note": "태어나기 하루 전 태아에게 혈청을 넣고 뇌 깊은 곳을 자극해, 병과 독과 방사선을 견디는 힘을 크게 높인다. 법으로 모든 아기가 받게 되어 있으며, 시술을 만든 자매의 이름을 땄다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер"
+      ]
+    },
+    {
+      "id": "mentoscope",
+      "ko": "멘토스코프",
+      "orig": "ментоскоп",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "memory_edit"
+      ],
+      "one": "기억과 마음속 그림을 읽어 내는 장치",
+      "note": "사람의 기억을 떠서 화면으로 보거나 뇌의 상태를 재는 데 쓴다. 사라크시에서는 이 기술로 뜬 기억을 오락 방송에 쓰기도 하고, 지구에서는 마음의 숨은 성질을 가려내는 검사에 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров",
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер"
+      ]
+    },
+    {
+      "id": "embryomechanics",
+      "ko": "엠브리오메하니카",
+      "orig": "эмбриомеханика",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "주변 재료로 건물을 스스로 길러 내는 기계 기술",
+      "note": "씨앗 같은 장치에 계획을 넣어 두면 둘레의 물질을 써서 정해진 구조물을 혼자 자라나게 한다. 다른 행성 탐사에 쓰려고 지구에서 시험했으나, 시험 중에 옛 무기 창고를 만나 터져 버렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Полдень,_XXII_век"
+      ]
+    },
+    {
+      "id": "massachusetts_machine",
+      "ko": "마사추세츠카야 마시나",
+      "orig": "Массачусетская машина",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "ai"
+      ],
+      "one": "스스로 생각하는 기계가 되려 한 거대한 계산기",
+      "note": "사람이 만든 아주 복잡한 계산 기계가 몇 분 만에 사람과 다른 지성으로 깨어날 뻔했다. 그 일은 '매사추세츠의 악몽'으로 불리며, 사람 아닌 지성이 주는 위협의 첫 예로 기억된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "taimyr",
+      "ko": "타이미르",
+      "orig": "«Таймыр»",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "빛의 속도에 닿으려다 한 세기를 건너뛴 우주선",
+      "note": "2017년 명왕성 궤도 밖에서 빛의 속도에 이르려는 실험에 나섰다가 아득히 먼 행성에 닿았다. 많은 승무원이 죽고, 살아남은 둘은 2119년의 지구로 돌아와 새 시대에 적응해 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Полдень,_XXII_век",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "free_search_group",
+      "ko": "게에스페",
+      "orig": "ГСП (Группа свободного поиска)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "제 배로 우주를 떠도는 자유 탐사대",
+      "note": "정해진 임무 없이 스스로 정한 곳을 탐사하는 사람들의 모임이다. 이들이 우연히 새 행성과 새 문명을 찾아내 일이 커지곤 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров",
+        "https://ru.wikipedia.org/wiki/Малыш_(повесть)",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "periphery",
+      "ko": "페리페리야",
+      "orig": "Периферия",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "지구 밖, 사람이 진출한 우주의 바깥 고리",
+      "note": "지구 사람이 이미 알게 된 세계와 아직 모르는 세계를 아울러 부르는 말이다. 개척 행성, 연구 기지, 접촉한 문명들이 여기에 든다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "personal_secret",
+      "ko": "타이나 리치노스티",
+      "orig": "тайна личности",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "본인에게도 알리지 않는 신상의 비밀",
+      "note": "알면 그 사람이 크게 다칠 수 있는 사실을 법으로 감추어 두는 제도다. 감추어진 사람은 그런 비밀이 있다는 것조차 모른다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "wanderers",
+      "ko": "스트란니키",
+      "orig": "Странники",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "흔적만 남기고 모습은 드러내지 않는 초문명",
+      "note": "여러 행성에서 그들이 남긴 위성·도시·장치가 발견되지만 누구도 그들을 직접 만나지 못했다. 다른 문명들을 몰래 이끌고 있다는 의심을 받으며, 지구도 그 대상이 아닌가 하는 두려움이 연작 뒤편을 끌고 간다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Попытка_к_бегству",
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер"
+      ]
+    },
+    {
+      "id": "ludens",
+      "ko": "류덴",
+      "orig": "людены",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "next_human"
+      ],
+      "one": "사람에게서 깨어난 다음 단계의 인류",
+      "note": "일부 사람의 뇌에 잠들어 있던 신경 체계를 깨우면 생각과 능력이 사람을 아득히 넘어선 존재가 된다. 이들은 보통 사람을 어린아이 보듯 하게 되어 옛 인연에서 멀어지고, 끝내 지구를 떠난다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер",
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "great_revelation",
+      "ko": "볼쇼예 오트크로베니예",
+      "orig": "Большое Откровение",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "다음 인류의 존재가 세상에 알려진 일",
+      "note": "지구 사이에 숨어 있던 다음 단계의 인류가 지구 지도자들 앞에 스스로를 밝힌 사건이다. 지구 역사의 큰 고비로 남지만, 두 갈래 인류가 함께 사는 길은 열리지 않았다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Волны_гасят_ветер",
+        "https://ru.wikipedia.org/wiki/Мир_Полудня"
+      ]
+    },
+    {
+      "id": "foundlings",
+      "ko": "포드키디시",
+      "orig": "подкидыши",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "제도·직위",
+      "concepts": [],
+      "one": "외계 상자에서 나온 배아로 태어난 열세 아이",
+      "note": "어느 행성에서 스트란니키가 만든 듯한 상자 안의 사람 배아가 발견되어 그대로 아이로 길러졌다. 숨은 지시가 심겨 있을지 몰라 서로 떨어뜨려 키우고, 지구 밖 직업을 주어 평생 지켜보았다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "detonators",
+      "ko": "데토나토르",
+      "orig": "детонаторы",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "아이들과 하나씩 짝지어진 수수께끼의 메달",
+      "note": "상자 안에서 배아와 함께 나온 작은 메달들로, 아이마다 그중 하나와 같은 무늬의 점이 팔에 돋는다. 메달 하나가 부서진 뒤 짝인 아이가 죽은 일이 있어, 아이와 메달이 만나면 무슨 일이 일어날지 모두 두려워한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "golovans",
+      "ko": "골로반",
+      "orig": "голованы",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "사라크시의 머리 큰 개 모습 지성 종족",
+      "note": "핵전쟁 뒤 숲에 사는, 머리가 유난히 큰 개 같은 종족이다. 정신의 힘이 강하고 기술에는 관심이 없으며, 숨기를 좋아한다. 지구와 사절을 주고받다가 나중에는 스스로 연락을 끊는다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Голованы",
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "tagorians",
+      "ko": "타고라인",
+      "orig": "тагоряне",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "지구가 처음 만난, 도마뱀 닮은 외계 종족",
+      "note": "몹시 이성적인 문명으로, 지구와 오래 외교를 맺어 왔다. 자기 별에서 나온 수상한 외계 상자를 곧바로 없앴던 일로, 그렇게 하지 않은 지구와 한동안 관계를 끊는다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Мир_Полудня",
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "leonidans",
+      "ko": "레오니다인",
+      "orig": "леонидяне",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien"
+      ],
+      "one": "행성 생태계와 하나로 사는 생물 기술 문명",
+      "note": "도구와 기계 대신 생물을 길러 쓰는 문명이라, 처음 온 지구 탐사대는 이 행성의 자연이 사실은 그들이 가꾼 것임을 늦게야 알아챘다. 행성 이름은 그곳을 찾은 우주 비행사의 이름을 땄다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Полдень,_XXII_век",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "ark",
+      "ko": "코브체그",
+      "orig": "Ковчег",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "ark"
+      ],
+      "one": "멸망할 별의 사람들을 옮기려 고른 빈 행성",
+      "note": "별이 터질 위기에 놓인 행성의 주민을 몰래 옮겨 살리려고 고른 곳이다. 생명이 아주 빈약해 비어 있다고 여겼으나, 사람과 전혀 다른 꼴의 지성이 숨어 산다는 것이 드러나 계획이 멈춘다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Малыш_(повесть)",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "hope",
+      "ko": "나데즈다",
+      "orig": "Надежда",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "환경 재앙으로 주민이 빨리 늙어 가던 행성",
+      "note": "20세기 지구쯤의 문명이 스스로 일으킨 듯한 재앙으로, 열두 살이 넘으면 몸이 이상하게 빨리 늙게 되었다. 지구 탐사대가 닿았을 때는 사람들이 거의 사라진 죽은 세계였다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "saula",
+      "ko": "사울라",
+      "orig": "Саула",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "봉건 사회에 외계 기계가 굴러다니는 행성",
+      "note": "젊은 지구인들이 휴가 길에 우연히 찾아낸 행성으로, 갇힌 사람들이 목숨을 걸고 스트란니키가 남긴 기계를 다루는 법을 익히도록 내몰린다. 두 문 사이를 끝없이 기계가 오가는 길이 바뀌지 않는 봉건 질서의 상징으로 그려진다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Попытка_к_бегству"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "ko": "라두가",
+      "orig": "Радуга",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "물리학자들이 실험장으로 쓰는 개척 행성",
+      "note": "공간을 건너뛰는 기술을 실험하는 학자와 가족, 관광객이 사는 행성이다. 실험 뒤에는 늘 위험한 현상이 일어나, 행성 전체가 거대한 실험실이자 사고 현장이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Далёкая_Радуга"
+      ]
+    },
+    {
+      "id": "wave",
+      "ko": "볼나",
+      "orig": "Волна",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "실험 뒤 양 극에서 밀려와 생명을 태우는 에너지 벽",
+      "note": "공간 전송 실험을 할 때마다 행성의 양 끝에서 하늘까지 솟은 에너지 벽이 생겨 적도 쪽으로 밀려온다. 지나가는 길의 생물은 모두 타 버린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Далёкая_Радуга"
+      ]
+    },
+    {
+      "id": "charybdis",
+      "ko": "하리브디",
+      "orig": "харибды",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "에너지 벽을 빨아들여 막는 기계",
+      "note": "실험 뒤 밀려오는 에너지 벽의 힘을 삼켜 멈추게 하는 장치로, 그동안 라두가의 사람들을 지켜 왔다. 감당할 수 없을 만큼 센 벽 앞에서는 불타 버린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Далёкая_Радуга"
+      ]
+    },
+    {
+      "id": "pandora",
+      "ko": "판도라",
+      "orig": "Пандора",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로(그리스 신화 이름의 국내 표기와 같다)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "사나운 짐승이 가득한 밀림의 휴양 행성",
+      "note": "온 행성이 사냥과 모험을 즐기러 가는 휴양지지만, 위험한 짐승 탓에 해마다 사람이 다치고 죽는다. 깊은 숲 속에는 지구 기지가 모르는 일이 벌어지고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Noon_Universe",
+        "https://ru.wikipedia.org/wiki/Беспокойство_(повесть)"
+      ]
+    },
+    {
+      "id": "tahorg",
+      "ko": "타호르그",
+      "orig": "тахорг",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "alien_ecology"
+      ],
+      "one": "판도라 사냥꾼들이 노리는 큰 짐승",
+      "note": "판도라 밀림에 사는 위험한 짐승으로, 젊은 사냥꾼들이 이 행성을 찾는 까닭이 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "forest",
+      "ko": "레스",
+      "orig": "Лес",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "판도라를 덮은, 스스로 모습을 바꾸는 거대한 숲",
+      "note": "지도가 두 해만 지나도 쓸모없어질 만큼 숲이 늘 바뀐다. 그 안에는 무엇이든 길러서 쓰는 사람들이 살고, 지구인은 이 숲 자체가 사람과 다른 지성은 아닌가 의심한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Беспокойство_(повесть)"
+      ]
+    },
+    {
+      "id": "deadmen",
+      "ko": "메르트뱌키",
+      "orig": "мертвяки",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "숲의 주인들이 부리는 뜨거운 몸의 인형",
+      "note": "사람처럼 생겼지만 말을 알아듣지 못하고 몸이 뜨겁다. 숲 마을 사람들은 이들이 여자를 잡아간다며 두려워한다. 숲의 지배자들이 길러 낸 생체 일꾼이다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Беспокойство_(повесть)"
+      ]
+    },
+    {
+      "id": "glorious_girlfriends",
+      "ko": "슬라브니예 포드루기",
+      "orig": "Славные Подруги",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "숲을 다스리는 여인들의 생물 문명",
+      "note": "남자 없이 아이를 낳고, 보랏빛 안개와 생체 일꾼을 부리며 숲 전체를 바꾸어 가는 여인들이다. 이들의 앞날에서 옛 숲 마을 사람들은 지워질 '실수'로 여겨진다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Беспокойство_(повесть)"
+      ]
+    },
+    {
+      "id": "possession",
+      "ko": "오데르자니예",
+      "orig": "Одержание",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "숲 마을이 안개에 덮여 호수로 가라앉는 일",
+      "note": "보랏빛 안개가 한 마을을 덮은 뒤 그 자리에 세모난 호수가 생기고, 집과 사람이 함께 물속으로 들어간다. 숲 마을 사람들은 이를 피할 수 없는 일로 받아들인다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Беспокойство_(повесть)"
+      ]
+    },
+    {
+      "id": "saraksh",
+      "ko": "사라크시",
+      "orig": "Саракш",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "핵전쟁으로 무너진, 하늘이 막힌 행성",
+      "note": "대기가 빛을 크게 휘게 해 땅이 오목해 보이고 하늘의 별도 보이지 않아, 사람들은 자기들이 공 안쪽에 산다고 믿는다. 세계 전쟁 뒤 옛 제국이 갈라지고 남쪽은 방사능 사막이 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "country_of_fathers",
+      "ko": "스트라나 오트초프",
+      "orig": "Страна Отцов",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [
+        "control_society"
+      ],
+      "one": "탑에서 나오는 빛으로 국민을 다스리는 나라",
+      "note": "무너진 옛 제국의 남은 땅으로, 이름을 감춘 지도자들이 다스린다. 국민은 정부를 열렬히 믿고 따르며, 남쪽 숲과 사막으로 탑을 넓혀 가며 땅을 늘리려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "unknown_fathers",
+      "ko": "네이즈베스트니예 오트치",
+      "orig": "Неизвестные Отцы",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "이름도 얼굴도 감춘 사라크시의 지배자들",
+      "note": "내전을 끝낸 지혜로운 아버지들로 받들어지는, 금융가와 장군들의 무리다. 그들 자신도 탑의 빛이 듣지 않는 사람들이라, 그 덕에 남을 다스리는 대신 빛이 세질 때마다 똑같은 고통을 견딘다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "towers",
+      "ko": "바시니",
+      "orig": "башни (система ПБЗ)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "미사일 방어탑이라 속인, 생각을 마비시키는 송출탑",
+      "note": "온 나라에 늘어선 탑이 보이지 않는 빛을 내보내 사람들이 정부의 말을 의심하지 못하게 만든다. 하루 두 번 세기를 높이면 사람들은 들뜬 충성에 빠지고, 오래 쬐다 끊기면 금단 증상이 온다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "degenerates",
+      "ko": "비로드키",
+      "orig": "выродки",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "탑의 빛이 듣지 않아 '변종'으로 몰린 사람들",
+      "note": "나라는 이들을 이웃 나라의 돈을 받은 테러범이라 부르지만, 사실은 탑의 빛에 정신이 묶이지 않는 소수다. 빛이 세질 때 머리가 몹시 아파 숨을 수 없어, 그 고통으로 가려내져 붙잡힌다.",
+      "spoiler": true,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "island_empire",
+      "ko": "오스트로브나야 임페리야",
+      "orig": "Островная империя",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "흰 잠수함으로 바다를 쥔 섬나라",
+      "note": "대륙 반대편의 두 군도에 자리 잡은 나라로, 흰 잠수함 함대로 바다를 다스리며 대륙 해안을 잔혹하게 습격한다. 지구 요원들도 좀처럼 그 속으로 들어가지 못한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров",
+        "https://ru.wikipedia.org/wiki/Жук_в_муравейнике"
+      ]
+    },
+    {
+      "id": "honti",
+      "ko": "혼티",
+      "orig": "Хонти",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "옛 제국에서 떨어져 나온 북쪽 이웃 나라",
+      "note": "전쟁 뒤 갈라져 나온 나라로, 독립 뒤에도 내전이 그치지 않는다. 같은 처지의 이웃 판데야와 함께 옛 본국과 차가운 대립을 이어 가다가 결국 전쟁에 휘말린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "combat_guard",
+      "ko": "보예바야 그바르디야",
+      "orig": "Боевая Гвардия",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "지도자들에게 충성하는 무장 친위대",
+      "note": "'변종'을 잡아들이고 해안과 국경을 지키는 정예 부대로, 국민에게 큰 존경을 받는다. 떨어진 주인공이 처음 몸담게 되는 곳이다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Саракш",
+        "https://ru.wikipedia.org/wiki/Обитаемый_остров"
+      ]
+    },
+    {
+      "id": "giganda",
+      "ko": "기간다",
+      "orig": "Гиганда",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "두 강대국이 끝없는 전쟁을 벌이는 행성",
+      "note": "20세기 중반 지구쯤의 문명으로, 한 공국과 한 제국이 오랫동안 총력전을 벌여 왔다. 지구 요원들이 몰래 끼어들어 전쟁을 멈추게 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Парень_из_преисподней",
+        "https://en.wikipedia.org/wiki/Noon_Universe"
+      ]
+    },
+    {
+      "id": "fighting_cats",
+      "ko": "보이초비예 코티",
+      "orig": "Бойцовые Коты",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기 없음 — 원어를 소리 나는 대로",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "기간다 공국의 정예 소년 병사",
+      "note": "공작을 받드는 정예 부대와 그 부대를 길러 내는 군사 학교다. 가르침을 그대로 믿는 어린 생도들은 전세가 기울자 훈련도 마치지 못한 채 싸움터로 내몰린다.",
+      "spoiler": false,
+      "refs": [
+        "https://ru.wikipedia.org/wiki/Парень_из_преисподней"
+      ]
+    }
+  ]
+}
