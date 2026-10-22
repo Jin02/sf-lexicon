@@ -38424,6 +38424,1740 @@
   "nihao_1983": {
    "space": "아니오",
    "why": "1983년으로 다시 태어남"
+  },
+  "mechanical_man_1932": {
+   "space": "아니오",
+   "why": "실험실 로봇 희극, 우주 없음"
+  },
+  "boskos_mechanical_man": {
+   "space": "아니오",
+   "why": "집에서 만든 로봇 소동만"
+  },
+  "mickeys_mechanical_man": {
+   "space": "아니오",
+   "why": "기계 인간 권투 시합, 지구 위"
+  },
+  "sky_larks_1934": {
+   "space": "예",
+   "why": "기구가 은하수 지나 화성에 감"
+  },
+  "plane_dippy_1936": {
+   "space": "아니오",
+   "why": "로봇 비행기 시험 소동만"
+  },
+  "modern_inventions_1937": {
+   "space": "아니오",
+   "why": "미래 발명품 박물관 소동"
+  },
+  "peace_on_earth_1939": {
+   "space": "아니오",
+   "why": "전쟁 뒤 지구에 동물만 남음"
+  },
+  "super_rabbit_1943": {
+   "space": "아니오",
+   "why": "초인 패러디, 지구 위"
+  },
+  "popeye_ace_of_space": {
+   "space": "예",
+   "why": "외계선에 납치돼 화성에 감"
+  },
+  "robot_rabbit_1953": {
+   "space": "아니오",
+   "why": "해충 방제 로봇 소동만"
+  },
+  "farm_of_tomorrow": {
+   "space": "아니오",
+   "why": "미래 농장 잡종 가축 개그"
+  },
+  "turok": {
+   "space": "경계",
+   "why": "원작은 지구 공룡 계곡, 일부 게임만 외계 행성"
+  },
+  "jumpin_jupiter_1955": {
+   "space": "예",
+   "why": "목성 외계인에게 끌려 우주로"
+  },
+  "rocket_bye_baby": {
+   "space": "경계",
+   "why": "화성 아기가 지구에 옴"
+  },
+  "lighter_than_hare_1960": {
+   "space": "경계",
+   "why": "외계인이 지구로 로봇을 보냄"
+  },
+  "murzilka_na_sputnike": {
+   "space": "예",
+   "why": "우주를 나는 특파원 이야기"
+  },
+  "uchuusen_silica": {
+   "space": "예",
+   "why": "우주선으로 여러 별을 돎"
+  },
+  "ott_kosmoses": {
+   "space": "예",
+   "why": "로켓으로 여러 행성을 떠돎"
+  },
+  "martian_through_georgia": {
+   "space": "경계",
+   "why": "화성인이 지구 도시에 옴"
+  },
+  "mouse_into_space": {
+   "space": "예",
+   "why": "제리가 로켓 타고 우주로"
+  },
+  "oki_ni_mesu_mama_1962": {
+   "space": "아니오",
+   "why": "로봇 문명 풍자, 지구 위"
+  },
+  "nuts_and_volts_1964": {
+   "space": "아니오",
+   "why": "보안 장치·로봇 소동만"
+  },
+  "neznayka_na_lune": {
+   "space": "예",
+   "why": "로켓으로 달 사회에 감"
+  },
+  "konbanwa_21seiki": {
+   "space": "아니오",
+   "why": "컴퓨터 법정, 지구 위"
+  },
+  "pinocchio_in_outer_space": {
+   "space": "예",
+   "why": "로켓 타고 우주 모험"
+  },
+  "willy_mcbean": {
+   "space": "아니오",
+   "why": "시간 기계로 과거 여행만"
+  },
+  "frankenstein_jr_impossibles": {
+   "space": "경계",
+   "why": "지구 위 영웅물, 외계 악당 꼭지"
+  },
+  "solid_tin_coyote": {
+   "space": "아니오",
+   "why": "거대 로봇 코요테 소동만"
+  },
+  "moby_dick_mighty_mightor": {
+   "space": "아니오",
+   "why": "우주 없이 선사 행성만"
+  },
+  "mashinka_vremeni": {
+   "space": "아니오",
+   "why": "시간 장치로 옛 시대 여행만"
+  },
+  "see_ya_later_gladiator": {
+   "space": "아니오",
+   "why": "시간 기계로 옛 로마에 감"
+  },
+  "mampato": {
+   "space": "아니오",
+   "why": "시공간 허리띠 시대 모험"
+  },
+  "chudo_sef": {
+   "space": "아니오",
+   "why": "미래 도시 아이들 나들이"
+  },
+  "akage_no_anko": {
+   "space": "아니오",
+   "why": "마녀의 힘이 깨는 초능력물"
+  },
+  "asu_e_no_tsuiseki": {
+   "space": "아니오",
+   "why": "텔레파시 전학생, 지구 위"
+  },
+  "vampiry_geony": {
+   "space": "예",
+   "why": "남의 행성 개척 정착지"
+  },
+  "ganbaron_1977": {
+   "space": "아니오",
+   "why": "지구 위 변신 영웅 활극"
+  },
+  "bakumatsu_miraijin": {
+   "space": "아니오",
+   "why": "막부 말기로 시간 이동만"
+  },
+  "ufo_seven_daibouken": {
+   "space": "아니오",
+   "why": "타임머신 고장 소동, 지구 위"
+  },
+  "wattoo_wattoo": {
+   "space": "예",
+   "why": "다른 행성에서 날아온 새"
+  },
+  "sono_machi_wo_kese": {
+   "space": "아니오",
+   "why": "평행 세계 비밀, 지구 위"
+  },
+  "romie0_julie8": {
+   "space": "아니오",
+   "why": "로봇 연인 도주극, 지구 위"
+  },
+  "aitsu_no_time_machine": {
+   "space": "아니오",
+   "why": "타임머신 개발 이야기"
+  },
+  "lux_a_delux": {
+   "space": "경계",
+   "why": "외계 우주비행사가 지구를 봄"
+  },
+  "tokyo_daijishin_m81": {
+   "space": "아니오",
+   "why": "도쿄 대지진 재난극"
+  },
+  "blackstar_filmation": {
+   "space": "예",
+   "why": "우주비행사가 외계 행성에 떨어짐"
+  },
+  "minoie": {
+   "space": "아니오",
+   "why": "감시하는 섬 왕국 우화"
+  },
+  "owari_ni_mita_machi": {
+   "space": "아니오",
+   "why": "1944년으로 시간 이동만"
+  },
+  "planetata_na_sakrovishtata": {
+   "space": "예",
+   "why": "우주 해적과 별 지도 모험"
+  },
+  "staraya_plastinka": {
+   "space": "경계",
+   "why": "비행접시가 지구에 내림"
+  },
+  "pinky_punch_daigyakuten": {
+   "space": "경계",
+   "why": "외계 소녀가 지구 악당과 싸움"
+  },
+  "mr_black_green_star": {
+   "space": "아니오",
+   "why": "숲속 경찰 활극, 지구 위"
+  },
+  "super_samchongsa": {
+   "space": "아니오",
+   "why": "합체 로봇물, 우주 대목 안 보임"
+  },
+  "le_secret_des_selenites": {
+   "space": "예",
+   "why": "풍선 배로 달에 감"
+  },
+  "skywhales": {
+   "space": "아니오",
+   "why": "우주 없이 가스 행성 하늘섬만"
+  },
+  "raccoons_lost_star": {
+   "space": "예",
+   "why": "비행기에 실려 정글 행성에 감"
+  },
+  "posledniy_boy_kravchenko": {
+   "space": "아니오",
+   "why": "곤충 원격 장치 소동만"
+  },
+  "fantadroms": {
+   "space": "예",
+   "why": "로봇이 우주를 날며 구조"
+  },
+  "turma_da_monica_sf": {
+   "space": "경계",
+   "why": "일부 극장판만 행성 모험"
+  },
+  "kkureogi_balmyeongwang": {
+   "space": "아니오",
+   "why": "발명 교육 만화, 지구 위"
+  },
+  "galtar_golden_lance": {
+   "space": "아니오",
+   "why": "우주 없이 낯선 행성 검 모험"
+  },
+  "morumo_1_10": {
+   "space": "경계",
+   "why": "외계 존재 등장, 지구 위"
+  },
+  "dva_bileta_v_indiyu": {
+   "space": "경계",
+   "why": "외계 우주인이 지구에 떨어짐"
+  },
+  "oasis_wo_motomete": {
+   "space": "예",
+   "why": "우주 식민지가 무대"
+  },
+  "macskafogo": {
+   "space": "아니오",
+   "why": "우주 없이 다른 행성 도시만"
+  },
+  "the_cosmic_eye": {
+   "space": "예",
+   "why": "우주 악사들이 은하를 돎"
+  },
+  "nekhochukha": {
+   "space": "아니오",
+   "why": "로봇 놀이공원 나라"
+  },
+  "chudesa_tekhniki": {
+   "space": "아니오",
+   "why": "살림 기계 세상, 지구 위"
+  },
+  "le_big_bang_picha": {
+   "space": "아니오",
+   "why": "3차 대전 뒤 지구 풍자"
+  },
+  "oilspot_and_lipstick": {
+   "space": "아니오",
+   "why": "고물 로봇 개 도주극"
+  },
+  "tigersharks": {
+   "space": "예",
+   "why": "우주선으로 온 물의 행성 무대"
+  },
+  "manatsu_shoujo": {
+   "space": "아니오",
+   "why": "초능력 소녀 심리극"
+  },
+  "eunha_byeolttong_wangja": {
+   "space": "경계",
+   "why": "외계 왕자와 우주 악당, 지구 위"
+  },
+  "barbie_rockers_space": {
+   "space": "예",
+   "why": "우주 공연 뒤 시간 틈에 빠짐"
+  },
+  "bobobobs": {
+   "space": "예",
+   "why": "우주선 타고 떠도는 외계 종족"
+  },
+  "the_winds_of_god": {
+   "space": "아니오",
+   "why": "특공대 기지로 시간 이동만"
+  },
+  "technological_threat": {
+   "space": "아니오",
+   "why": "자동화 풍자 단편"
+  },
+  "brave_little_toaster": {
+   "space": "경계",
+   "why": "속편에서만 화성에 감"
+  },
+  "yogi_space_bears": {
+   "space": "예",
+   "why": "외계 행성 닥슨에 끌려감"
+  },
+  "felix_the_cat_movie": {
+   "space": "아니오",
+   "why": "다른 차원 왕국 모험"
+  },
+  "here_there_be_tygers": {
+   "space": "예",
+   "why": "먼 행성에 간 탐사대"
+  },
+  "bolshoy_ukh": {
+   "space": "경계",
+   "why": "떨어진 별의 외계인, 지구 숲"
+  },
+  "wake_rattle_and_roll": {
+   "space": "아니오",
+   "why": "시간 기계로 역사 인물 소환"
+  },
+  "yo_nimo_kimyou_na_monogatari": {
+   "space": "아니오",
+   "why": "기묘한 이야기 선집, 초자연 위주"
+  },
+  "beertje_sebastiaan": {
+   "space": "아니오",
+   "why": "별자리 곰 우화, 우주 여행 없음"
+  },
+  "nasa_mirai_kara": {
+   "space": "경계",
+   "why": "우주 비행사가 과거로, 우주는 배경"
+  },
+  "mizu_no_kioku_fujiwara": {
+   "space": "아니오",
+   "why": "예지 환영 이야기"
+  },
+  "byeonsin_jeonsa_trans_todi": {
+   "space": "경계",
+   "why": "고대 외계인의 지구 정복"
+  },
+  "watanabe_kubonouchi": {
+   "space": "경계",
+   "why": "외계인이 지구 가정에 얹혀 삶"
+  },
+  "ggangdagu_fighter": {
+   "space": "아니오",
+   "why": "개조 수술 로봇 전사, 지구 위"
+  },
+  "ujugyeongchal_humanpower": {
+   "space": "경계",
+   "why": "우주에서 온 전사, 지구 위"
+  },
+  "pengking_raiking": {
+   "space": "경계",
+   "why": "외계 펭귄이 지구에 떨어짐"
+  },
+  "hellboy": {
+   "space": "아니오",
+   "why": "초자연 괴물 사냥 위주"
+  },
+  "if_moshimo_fuji": {
+   "space": "아니오",
+   "why": "갈림길 두 결말 선집"
+  },
+  "bots_master": {
+   "space": "아니오",
+   "why": "로봇 회사 다툼, 지구 위"
+  },
+  "bunshin_higashino": {
+   "space": "아니오",
+   "why": "복제 인간 출생 비밀"
+  },
+  "chiu_nang_gon_taam_supercop": {
+   "space": "아니오",
+   "why": "초능력 경찰 활극"
+  },
+  "kkumdori": {
+   "space": "경계",
+   "why": "외계인 마스코트가 지구에 옴"
+  },
+  "dot_in_space": {
+   "space": "예",
+   "why": "로켓 타고 낯선 행성에 감"
+  },
+  "maya_mayonaka_no_shoujo": {
+   "space": "아니오",
+   "why": "죽음을 예지하는 초능력 소녀"
+  },
+  "chikatetsu_ni_notte": {
+   "space": "아니오",
+   "why": "지하철로 30년 전에 감, 시간 이동만"
+  },
+  "super_child_1994": {
+   "space": "경계",
+   "why": "우주 아이들이 지구를 지킴"
+  },
+  "superpower_kimchiman": {
+   "space": "경계",
+   "why": "외계 침략자와 지구에서 싸움"
+  },
+  "younggu_bulgoeri": {
+   "space": "경계",
+   "why": "안드로메다인이 지구를 노림"
+  },
+  "black_out_1995": {
+   "space": "아니오",
+   "why": "첨단 기술 괴사건 수사극"
+  },
+  "skip_kitamura": {
+   "space": "아니오",
+   "why": "스물다섯 해를 건너뜀, 지구 위"
+  },
+  "kimi_wa_toki_no_kanata_e": {
+   "space": "아니오",
+   "why": "옛 무사가 현대로 옴, 시간 이동만"
+  },
+  "mokuyou_no_kaidan": {
+   "space": "아니오",
+   "why": "괴담 위주 선집"
+  },
+  "power_king_1995": {
+   "space": "경계",
+   "why": "안드로메다 공주가 지구로 옴"
+  },
+  "cassiopeia_1996": {
+   "space": "예",
+   "why": "다른 별 행성을 구하러 옴"
+  },
+  "prometheus_and_bob": {
+   "space": "경계",
+   "why": "외계인이 원시 지구에 옴"
+  },
+  "space_jam": {
+   "space": "경계",
+   "why": "우주 놀이공원 외계인이 지구로 옴"
+  },
+  "yasha_yoshida": {
+   "space": "아니오",
+   "why": "유전자 천재와 바이러스 음모"
+  },
+  "appare_yajuurou": {
+   "space": "아니오",
+   "why": "에도 시대로 시간 이동만"
+  },
+  "dragon_tucca": {
+   "space": "경계",
+   "why": "외계인이 조선 마을에 옴"
+  },
+  "flatworld_greaves": {
+   "space": "아니오",
+   "why": "만화 세계와 현실이 뒤바뀜"
+  },
+  "hime_wa_sailor_fuku": {
+   "space": "아니오",
+   "why": "옛 공주가 현대로 옴, 시간 이동만"
+  },
+  "jjangi_kkaemo": {
+   "space": "경계",
+   "why": "외계인이 지구 아이와 지냄"
+  },
+  "alien_adventure_1999": {
+   "space": "경계",
+   "why": "외계 정찰병이 지구에 옴"
+  },
+  "chuck_e_cheese_galaxy_5000": {
+   "space": "예",
+   "why": "다른 행성 은하 경주에 나감"
+  },
+  "kimi_to_ita_mirai_no_tame_ni": {
+   "space": "아니오",
+   "why": "시간 되돌이 반복, 지구 위"
+  },
+  "condor_crux": {
+   "space": "아니오",
+   "why": "돔에 갇힌 미래 도시 다툼"
+  },
+  "space_angel_2001en": {
+   "space": "예",
+   "why": "외계 우주선에 아이들이 탐"
+  },
+  "scooby_doo_alien_invaders": {
+   "space": "경계",
+   "why": "외계인 소동, 일부만 우주 여행"
+  },
+  "bouken_mekarappa_gou": {
+   "space": "예",
+   "why": "다른 별을 구하러 우주를 누빔"
+  },
+  "mi_li_tao_sheng": {
+   "space": "아니오",
+   "why": "꿀벌이 된 아이의 곤충 세계"
+  },
+  "galaxy_crisis_huretsya": {
+   "space": "경계",
+   "why": "외계인이 지구에 쳐들어옴"
+  },
+  "doraon_greenman": {
+   "space": "경계",
+   "why": "안드로메다 외계인과 지구에서 싸움"
+  },
+  "yojeong_commi": {
+   "space": "아니오",
+   "why": "컴퓨터 나라 공주가 집에 얹혀 삶"
+  },
+  "abrafaxe_black_flag": {
+   "space": "아니오",
+   "why": "과거 해적 시대로 시간 이동만"
+  },
+  "mutant_aliens": {
+   "space": "예",
+   "why": "우주에 버려졌던 비행사의 복수"
+  },
+  "wombat_city": {
+   "space": "아니오",
+   "why": "나는 차가 다니는 미래 도시"
+  },
+  "jikuu_keisatsu_ntv": {
+   "space": "아니오",
+   "why": "역사 추리 특집, 우주 없음"
+  },
+  "ryusei_wagon": {
+   "space": "아니오",
+   "why": "인생 갈림길로 되돌아감"
+  },
+  "groove_squad": {
+   "space": "아니오",
+   "why": "초능력 치어리더 영웅물"
+  },
+  "katedra_baginski": {
+   "space": "예",
+   "why": "외계 위성의 대성당을 거님"
+  },
+  "strange_invaders_barker": {
+   "space": "경계",
+   "why": "외계 아이가 지구 가정에 떨어짐"
+  },
+  "boku_ga_chikyuu_wo_sukuu": {
+   "space": "아니오",
+   "why": "남의 속마음이 들리는 능력"
+  },
+  "ark_2003": {
+   "space": "경계",
+   "why": "외계 행성 하나, 탈출 로봇이 축"
+  },
+  "cosmic_cowboys": {
+   "space": "예",
+   "why": "외계 현상금 사냥꾼 우주 추격"
+  },
+  "druckbolzen": {
+   "space": "아니오",
+   "why": "황무지 공장 면접 우화"
+  },
+  "kaena": {
+   "space": "예",
+   "why": "우주까지 닿은 나무와 외계선"
+  },
+  "little_robots": {
+   "space": "아니오",
+   "why": "작은 로봇들의 유아물"
+  },
+  "save_ums": {
+   "space": "아니오",
+   "why": "외계인 구조대, 우주 여행 없음"
+  },
+  "suho_yojeong_michel": {
+   "space": "경계",
+   "why": "어린왕자 착상, 별 대목은 배경"
+  },
+  "hwangyeong_zentaforce": {
+   "space": "경계",
+   "why": "외계 침략자를 지구에서 막음"
+  },
+  "pinocchio_3000": {
+   "space": "아니오",
+   "why": "로봇 피노키오와 기술 도시"
+  },
+  "santo_vs_clones": {
+   "space": "아니오",
+   "why": "복제 박사와 레슬러 활극"
+  },
+  "the_incredibles": {
+   "space": "아니오",
+   "why": "지구 위 초능력 가족 영웅물"
+  },
+  "repeat_inui": {
+   "space": "아니오",
+   "why": "1년 전으로 되돌아감"
+  },
+  "jinrui_metsubou_13": {
+   "space": "아니오",
+   "why": "인류 멸망 뒤 콩트"
+  },
+  "bokutachi_no_sensou": {
+   "space": "아니오",
+   "why": "1944년과 뒤바뀌는 시간 이동"
+  },
+  "zi_si_gu_jan_loi": {
+   "space": "아니오",
+   "why": "과거 사내가 현대로 옴"
+  },
+  "kami_wa_saikoro_wo_furanai": {
+   "space": "아니오",
+   "why": "10년 뒤 내려앉은 여객기"
+  },
+  "suhojeonsa_maxman": {
+   "space": "경계",
+   "why": "다른 별 공주가 지구로 달아남"
+  },
+  "american_dad": {
+   "space": "경계",
+   "why": "외계인이 지구 가족과 삶"
+  },
+  "pixcodelics": {
+   "space": "아니오",
+   "why": "인터넷 지키는 아이들 활극"
+  },
+  "stewie_griffin_untold_story": {
+   "space": "아니오",
+   "why": "미래의 자기와 만남, 시간 이동"
+  },
+  "the_golden_blaze": {
+   "space": "아니오",
+   "why": "초능력 아버지들 영웅물"
+  },
+  "tom_jerry_blast_off_to_mars": {
+   "space": "예",
+   "why": "로켓에 실려 화성에 감"
+  },
+  "xuxinha_guto": {
+   "space": "경계",
+   "why": "외계인이 지구 도시를 침공"
+  },
+  "pokhititeli_yolok": {
+   "space": "경계",
+   "why": "외계 우주선이 지구를 돎"
+  },
+  "tianyan_2005": {
+   "space": "경계",
+   "why": "외계인이 지구 소녀를 도움"
+  },
+  "sakura_nigou": {
+   "space": "아니오",
+   "why": "연인 닮은 로봇을 만듦"
+  },
+  "thru_the_moebius_strip": {
+   "space": "예",
+   "why": "먼 행성의 외계 왕국으로 감"
+  },
+  "four_eyes_2006": {
+   "space": "경계",
+   "why": "외계 소녀가 지구 학교에 옴"
+  },
+  "ice_age_collision_course": {
+   "space": "경계",
+   "why": "다람쥐 대목만 우주, 본줄기 지구"
+  },
+  "urbo_pax_afrika": {
+   "space": "아니오",
+   "why": "지구 마지막 미래 도시"
+  },
+  "gakincho_return_kids": {
+   "space": "아니오",
+   "why": "어린 시절로 돌아감"
+  },
+  "erexion_kr": {
+   "space": "예",
+   "why": "먼 행성과 우주 균형이 무대"
+  },
+  "billy_mandy_boogey": {
+   "space": "아니오",
+   "why": "미래 복제가 과거로 옴"
+  },
+  "garoto_cosmico": {
+   "space": "예",
+   "why": "어린이 행성 밖 우주로 나섬"
+  },
+  "minushi": {
+   "space": "경계",
+   "why": "거대 기계가 지구에 내려앉음"
+  },
+  "mosaic_stan_lee": {
+   "space": "아니오",
+   "why": "변신 종족의 힘을 얻은 영웅물"
+  },
+  "papelucho_marciano": {
+   "space": "경계",
+   "why": "화성인 아이가 지구에 옴"
+  },
+  "race_2007": {
+   "space": "예",
+   "why": "행성 연합의 우주 경주"
+  },
+  "team_fortress_2": {
+   "space": "경계",
+   "why": "지구 위 용병전, 일부 만화만 우주"
+  },
+  "mop_girl": {
+   "space": "아니오",
+   "why": "과거로 돌아가 사건 해결"
+  },
+  "wu_long_qi_jian_shi": {
+   "space": "경계",
+   "why": "괴수와 침략자가 지구에 옴"
+  },
+  "cheonnyeon_yeou_yeoubi": {
+   "space": "경계",
+   "why": "산에 내린 외계인, 지구 위"
+  },
+  "chilly_beach_hot_enough": {
+   "space": "아니오",
+   "why": "시간을 거슬러 지구를 되돌림"
+  },
+  "eta_2008": {
+   "space": "예",
+   "why": "고장 난 우주선이 무대"
+  },
+  "fly_me_to_the_moon_2008": {
+   "space": "예",
+   "why": "아폴로 11호로 달에 감"
+  },
+  "igor_2008": {
+   "space": "아니오",
+   "why": "미친 과학자 나라 희극"
+  },
+  "rejsen_til_saturn": {
+   "space": "예",
+   "why": "로켓으로 토성에 감"
+  },
+  "space_chimps": {
+   "space": "예",
+   "why": "침팬지 우주비행사가 외계 행성에"
+  },
+  "pro_druzhbu_sharika": {
+   "space": "경계",
+   "why": "우주 구조대가 지구에 옴"
+  },
+  "pandora_wowow": {
+   "space": "아니오",
+   "why": "만능 암 치료약 파장극"
+  },
+  "mirai_seiki_shakespeare": {
+   "space": "아니오",
+   "why": "극 속 인물이 현대로 옴"
+  },
+  "mirai_koushi_meguru": {
+   "space": "아니오",
+   "why": "20년 뒤를 보는 강사 희극"
+  },
+  "zettai_kareshi": {
+   "space": "아니오",
+   "why": "연인 로봇과 함께 삶"
+  },
+  "hwangyeong_wildforce": {
+   "space": "아니오",
+   "why": "지하 세계 변종과 싸움"
+  },
+  "garfields_pet_force": {
+   "space": "경계",
+   "why": "외계 행성 악당이 지구에 옴"
+  },
+  "wotwots": {
+   "space": "경계",
+   "why": "외계인 쌍둥이가 지구에 내림"
+  },
+  "chichi_yo_anata_wa_erakatta": {
+   "space": "아니오",
+   "why": "1969년으로 시간 이동만"
+  },
+  "rolling_stars_kr": {
+   "space": "예",
+   "why": "외계 팀과 우주 야구 리그"
+  },
+  "juunen_saki_mo": {
+   "space": "아니오",
+   "why": "미래의 남편이 옴, 시간 이동만"
+  },
+  "nilba_desastronautas": {
+   "space": "예",
+   "why": "우주선 몰다 낯선 위성에 갇힘"
+  },
+  "quantum_quest": {
+   "space": "예",
+   "why": "토성 탐사선 여정"
+  },
+  "rpg_metanoia": {
+   "space": "아니오",
+   "why": "온라인 게임 속 세계 모험"
+  },
+  "belka_strelka": {
+   "space": "예",
+   "why": "우주견이 궤도 비행에 나섬"
+  },
+  "double_tone_kajio": {
+   "space": "아니오",
+   "why": "두 사람 기억이 엇갈림"
+  },
+  "hanbun_esper": {
+   "space": "아니오",
+   "why": "초능력자 연구소 탈출극"
+  },
+  "shenshou_jingang": {
+   "space": "아니오",
+   "why": "합체 로봇과 기계 악당, 지구 위"
+  },
+  "joseon_x_files": {
+   "space": "경계",
+   "why": "실록의 괴이한 하늘 사건, 지구 위"
+  },
+  "az_ember_tragediaja": {
+   "space": "경계",
+   "why": "인류사 여정 중 한 장면만 우주"
+  },
+  "jack_tvo_2011": {
+   "space": "경계",
+   "why": "외계 탐험가가 지구에 옴"
+  },
+  "jelly_jamm": {
+   "space": "아니오",
+   "why": "우주 여행 없이 음악 행성만"
+  },
+  "jez_jerzy": {
+   "space": "아니오",
+   "why": "복제 고슴도치 소동극"
+  },
+  "phineas_ferb_movie_universe": {
+   "space": "경계",
+   "why": "극장판 일부만 외계 행성에 감"
+  },
+  "un_monstre_a_paris": {
+   "space": "아니오",
+   "why": "약물 사고 괴물, 옛 파리"
+  },
+  "novatory": {
+   "space": "경계",
+   "why": "떨어진 외계인과 시간 여행"
+  },
+  "again_kubo": {
+   "space": "아니오",
+   "why": "입학식 날로 되돌아감"
+  },
+  "ashi_girl": {
+   "space": "아니오",
+   "why": "전국 시대로 시간 이동만"
+  },
+  "moon_castle_pleasant_goat": {
+   "space": "예",
+   "why": "양들이 달을 지키러 감"
+  },
+  "saigo_no_restaurant": {
+   "space": "아니오",
+   "why": "역사 인물이 손님으로 옴"
+  },
+  "13sai_no_hello_work": {
+   "space": "아니오",
+   "why": "1990년으로 시간 이동만"
+  },
+  "get_jiro": {
+   "space": "아니오",
+   "why": "폐허 도시 요리사 복수극"
+  },
+  "i_pet_goat_ii": {
+   "space": "아니오",
+   "why": "정치 풍자 상징 단편"
+  },
+  "los_ilusionautas": {
+   "space": "아니오",
+   "why": "시간 건너 명작을 되살림"
+  },
+  "the_amazing_bulk": {
+   "space": "아니오",
+   "why": "혈청 실험 패러디, 지구 위"
+  },
+  "vision_koroshi_ga_mieru": {
+   "space": "아니오",
+   "why": "살인 환영을 보는 스릴러"
+  },
+  "yak_giant_king": {
+   "space": "아니오",
+   "why": "전쟁 뒤 황무지 로봇 여정"
+  },
+  "boku_no_natsuyasumi_2012": {
+   "space": "아니오",
+   "why": "1944년으로 시간 이동만"
+  },
+  "usotoki_rhetoric": {
+   "space": "아니오",
+   "why": "거짓말이 들리는 탐정 조수"
+  },
+  "koshoku_robot": {
+   "space": "아니오",
+   "why": "식사 챙기는 작은 로봇"
+  },
+  "kuai_le_ku_bao": {
+   "space": "아니오",
+   "why": "다른 세계 로봇 돕기, 지구 위"
+  },
+  "boonie_bears": {
+   "space": "경계",
+   "why": "일부 극장판만 외계 대목"
+  },
+  "dragon_force_bluearc": {
+   "space": "경계",
+   "why": "외계 침입을 지구에서 막음"
+  },
+  "rabbids": {
+   "space": "경계",
+   "why": "외계 토끼 소동, 일부만 우주"
+  },
+  "mission_english_bsfuji": {
+   "space": "경계",
+   "why": "먼 별 왕국 이야기, 무대는 지구"
+  },
+  "mr_hublot": {
+   "space": "아니오",
+   "why": "증기 기계 도시 로봇 강아지"
+  },
+  "ritter_rost": {
+   "space": "아니오",
+   "why": "로봇 기사와 용, 지구 위"
+  },
+  "sid_science_kid_movie": {
+   "space": "아니오",
+   "why": "과학관 안내 로봇 소동"
+  },
+  "rio_2096": {
+   "space": "아니오",
+   "why": "브라질 역사와 물 전쟁 미래"
+  },
+  "samurai_sensei": {
+   "space": "아니오",
+   "why": "막부 무사가 현대로 옴"
+  },
+  "share_house_no_koibito": {
+   "space": "경계",
+   "why": "외계인이 얽힌 연애극, 지구 위"
+  },
+  "starman_kono_hoshi_no_koi": {
+   "space": "경계",
+   "why": "외계 청년이 지구 집에 옴"
+  },
+  "mierino_kashiwagi": {
+   "space": "아니오",
+   "why": "앞날이 보이는 카페 직원"
+  },
+  "masuyama_chounouryokushi": {
+   "space": "아니오",
+   "why": "초능력사 사무소 의뢰극"
+  },
+  "ando_lloyd": {
+   "space": "아니오",
+   "why": "미래 안드로이드가 지킴, 지구 위"
+  },
+  "shenqi_ayou": {
+   "space": "경계",
+   "why": "우주에서 온 식구, 지구 위"
+  },
+  "kamisama_no_beret": {
+   "space": "아니오",
+   "why": "1973년 편집부로 시간 이동"
+  },
+  "chouzetsu_zekkyou_land": {
+   "space": "경계",
+   "why": "운석 외계 생물이 사람에 깃듦"
+  },
+  "ginga_sentou_panta_kun": {
+   "space": "경계",
+   "why": "외계인과 함께 사는 지구 동네"
+  },
+  "train_heroes": {
+   "space": "아니오",
+   "why": "구조 영웅 기차들, 지구 위"
+  },
+  "great_huretsya": {
+   "space": "아니오",
+   "why": "거대 로봇과 거북 괴수 희극"
+  },
+  "neoui_moksoriga_deullyeo": {
+   "space": "아니오",
+   "why": "남의 속마음이 들리는 능력"
+  },
+  "mask_masters": {
+   "space": "아니오",
+   "why": "가면 정령 능력 활극"
+  },
+  "postman_pat_movie": {
+   "space": "아니오",
+   "why": "일꾼을 기계로 바꾸는 소동"
+  },
+  "clockwork_girl": {
+   "space": "아니오",
+   "why": "태엽 소녀와 두 발명가 편"
+  },
+  "wanda_and_the_alien": {
+   "space": "경계",
+   "why": "로켓 타고 온 외계인 친구"
+  },
+  "nano_invaders": {
+   "space": "경계",
+   "why": "외계 침략을 지구에서 막음"
+  },
+  "higanbana_sousa_nanaka": {
+   "space": "아니오",
+   "why": "마음의 소리를 듣는 형사"
+  },
+  "bu_yi_yang_de_mei_nan_zi": {
+   "space": "아니오",
+   "why": "초능력 얻은 친구들 청춘극"
+  },
+  "tenchuu_yami_no_shiokinin": {
+   "space": "아니오",
+   "why": "옛 닌자가 현대로 옴"
+  },
+  "zhengyi_hongshi": {
+   "space": "경계",
+   "why": "외계 위협에서 고향을 지킴"
+  },
+  "suteki_na_sen_taxi": {
+   "space": "아니오",
+   "why": "과거로 데려가는 택시"
+  },
+  "sweden_setakso": {
+   "space": "아니오",
+   "why": "남의 고민이 보이는 희극"
+  },
+  "atrapa_la_bandera": {
+   "space": "예",
+   "why": "소년과 할아버지가 달로 감"
+  },
+  "el_chapulin_colorado": {
+   "space": "아니오",
+   "why": "엉성한 영웅 패러디 희극"
+  },
+  "nimona": {
+   "space": "아니오",
+   "why": "중세와 미래가 섞인 왕국"
+  },
+  "world_of_tomorrow_hertzfeldt": {
+   "space": "경계",
+   "why": "미래 여정 중 우주 대목 조금"
+  },
+  "iine_hikaru_genji_kun": {
+   "space": "아니오",
+   "why": "옛 귀족이 현대 방에 나타남"
+  },
+  "tokyo_alien_brothers": {
+   "space": "경계",
+   "why": "외계인 형제가 도쿄에 숨어 삶"
+  },
+  "doctor_white_kibayashi": {
+   "space": "아니오",
+   "why": "의학 지식 소녀 진단극"
+  },
+  "ooedo_kagaku_sousa_oyuu": {
+   "space": "아니오",
+   "why": "에도 시대를 오가는 수사"
+  },
+  "nenriki_kazoku": {
+   "space": "아니오",
+   "why": "초능력 가족 일상극"
+  },
+  "haretara_iine_fujioka": {
+   "space": "아니오",
+   "why": "전쟁 중 필리핀으로 시간 이동"
+  },
+  "rabbit_hero_2015": {
+   "space": "예",
+   "why": "달에 남겨진 실험 토끼들"
+  },
+  "naeireul_hyanghae_ttwieora": {
+   "space": "아니오",
+   "why": "그림책과 이어진 시간 여행"
+  },
+  "chuldong_kcop": {
+   "space": "경계",
+   "why": "우주 악당이 지구에서 날뜀"
+  },
+  "turning_mecard": {
+   "space": "아니오",
+   "why": "변신 장난감 활극, 지구 위"
+  },
+  "to_be_continued_kr": {
+   "space": "아니오",
+   "why": "아이돌이 과거로 떨어짐"
+  },
+  "ask_the_storybots": {
+   "space": "아니오",
+   "why": "작은 로봇들의 교육물"
+  },
+  "astra_force": {
+   "space": "경계",
+   "why": "외계인과 지구에서 싸움"
+  },
+  "barbie_star_light": {
+   "space": "예",
+   "why": "은하의 별을 되살리는 행성 모험"
+  },
+  "ejen_ali": {
+   "space": "아니오",
+   "why": "미래 도시 소년 첩보원"
+  },
+  "spark_space_tail": {
+   "space": "예",
+   "why": "빼앗긴 행성을 되찾는 우주 모험"
+  },
+  "zig_and_zag_2016": {
+   "space": "경계",
+   "why": "외계인 형제가 지구에 떨어짐"
+  },
+  "time_patrol_no_ol": {
+   "space": "아니오",
+   "why": "시간 순찰대 사무직 희극"
+  },
+  "love_love_alien": {
+   "space": "경계",
+   "why": "외계인이 지구 아파트에 굴러듦"
+  },
+  "shinryaku_garupanda_z": {
+   "space": "경계",
+   "why": "외계 여자들이 지구에 숨어듦"
+  },
+  "qi_miao_de_shi_guang_zhi_lv": {
+   "space": "아니오",
+   "why": "사진기로 과거를 오감"
+  },
+  "mcdull_rice_cooker": {
+   "space": "경계",
+   "why": "외계 괴수를 밥솥 로봇이 막음"
+  },
+  "tto_ohaeyoung": {
+   "space": "아니오",
+   "why": "앞날이 보이는 남자 연애극"
+  },
+  "spark_web_kr": {
+   "space": "아니오",
+   "why": "몸에 전기가 흐르는 연애극"
+  },
+  "robo_daikigyou": {
+   "space": "아니오",
+   "why": "부서 합체 로봇 회사극"
+  },
+  "bugigangue_no_espaco": {
+   "space": "예",
+   "why": "행성 연합 악당과 우주에서 싸움"
+  },
+  "children_of_ether": {
+   "space": "아니오",
+   "why": "문명 붕괴 뒤 폐허 도주"
+  },
+  "deep_2017": {
+   "space": "아니오",
+   "why": "물에 잠긴 지구 바다 모험"
+  },
+  "kuso_2017": {
+   "space": "아니오",
+   "why": "대지진 뒤 돌연변이 이야기"
+  },
+  "lajka_2017": {
+   "space": "예",
+   "why": "우주견이 낯선 행성에 감"
+  },
+  "mutafukaz": {
+   "space": "경계",
+   "why": "숨은 외계인에게 쫓김, 지구 위"
+  },
+  "krutiksy": {
+   "space": "예",
+   "why": "우주 사관학교 생도 팀"
+  },
+  "code_name_mirage": {
+   "space": "아니오",
+   "why": "인공지능 특수 부대 활극"
+  },
+  "theseus_no_fune": {
+   "space": "아니오",
+   "why": "1989년 마을로 시간 이동"
+  },
+  "high_position_kira": {
+   "space": "아니오",
+   "why": "1986년 고교 시절로 회귀"
+  },
+  "wei_bi_si_da_lai_ang": {
+   "space": "경계",
+   "why": "외계에서 온 넷과 지구에서 싸움"
+  },
+  "nou_ni_sumaho": {
+   "space": "아니오",
+   "why": "뇌에 심긴 휴대폰 소동극"
+  },
+  "gobaek_bubu": {
+   "space": "아니오",
+   "why": "스무 살 시절로 회귀, 지구 위"
+  },
+  "dasi_mannan_segye": {
+   "space": "아니오",
+   "why": "죽은 청년이 그대로 돌아옴"
+  },
+  "duel_ocn_2017": {
+   "space": "아니오",
+   "why": "복제 인간 추적극"
+  },
+  "my_only_love_song_kr": {
+   "space": "아니오",
+   "why": "고구려로 시간 이동만"
+  },
+  "manhole_kbs": {
+   "space": "아니오",
+   "why": "맨홀로 과거를 오감"
+  },
+  "eojjeoda_18": {
+   "space": "아니오",
+   "why": "열여덟 살로 회귀"
+  },
+  "choegoui_hanbang": {
+   "space": "아니오",
+   "why": "1993년 가수가 현재로 옴"
+  },
+  "toycop": {
+   "space": "아니오",
+   "why": "변신 경찰 로봇, 장난감 마을"
+  },
+  "himssen_yeoja_dobongsun": {
+   "space": "아니오",
+   "why": "괴력 여자 희극, 지구 위"
+  },
+  "daisy_belle_2018": {
+   "space": "아니오",
+   "why": "주인 돌보는 집안일 로봇"
+  },
+  "luis_and_the_aliens": {
+   "space": "경계",
+   "why": "외계인이 소년 집 근처에 떨어짐"
+  },
+  "marcianos_vs_mexicanos": {
+   "space": "경계",
+   "why": "화성인이 지구를 침공"
+  },
+  "dva_khvosta": {
+   "space": "경계",
+   "why": "추락한 외계선을 숲에서 도움"
+  },
+  "pipuru_harada": {
+   "space": "아니오",
+   "why": "인공지능과 결혼하는 미래"
+  },
+  "todome_no_kiss": {
+   "space": "아니오",
+   "why": "입맞춤으로 7일 전 회귀"
+  },
+  "mirai_san_line": {
+   "space": "아니오",
+   "why": "발명품 소동 희극"
+  },
+  "ni_de_hai_zi_bu_shi": {
+   "space": "아니오",
+   "why": "교육 압박 가정의 기이한 선집"
+  },
+  "boku_wa_doko_kara": {
+   "space": "아니오",
+   "why": "베껴 쓰면 생각이 옮는 능력"
+  },
+  "oh_wo_de_huangdi_bixia": {
+   "space": "아니오",
+   "why": "가상 옛 나라로 시간 이동"
+  },
+  "huo_wang_manhua": {
+   "space": "아니오",
+   "why": "원소 신들이 사람으로 환생"
+  },
+  "kkoma_hero_super_jack": {
+   "space": "아니오",
+   "why": "장비 쓰는 꼬마 영웅물"
+  },
+  "shaun_farmageddon": {
+   "space": "경계",
+   "why": "외계인이 농장에 내려옴"
+  },
+  "agent_binky": {
+   "space": "경계",
+   "why": "별 너머 위협을 집에서 막음"
+  },
+  "homeless_chile": {
+   "space": "아니오",
+   "why": "금융 위기 뒤 독재 사회"
+  },
+  "jk_kara_yarinaosu_silver_plan": {
+   "space": "아니오",
+   "why": "여고생 시절로 회귀"
+  },
+  "pets_united": {
+   "space": "아니오",
+   "why": "로봇 도시 떠돌이 개"
+  },
+  "scis_kagaku_hanzai": {
+   "space": "아니오",
+   "why": "과학 범죄 수사극"
+  },
+  "smash_and_grab_2019": {
+   "space": "경계",
+   "why": "다른 행성 같은 무대, 우주 대목 없음"
+  },
+  "spies_in_disguise": {
+   "space": "아니오",
+   "why": "비둘기가 된 첩보원 활극"
+  },
+  "the_exigency": {
+   "space": "경계",
+   "why": "외계 우주선이 지구를 공격"
+  },
+  "lego_movie_2": {
+   "space": "예",
+   "why": "외계인의 별을 찾아 우주로 감"
+  },
+  "paripi_koumei": {
+   "space": "아니오",
+   "why": "제갈량이 현대에 환생"
+  },
+  "qing_yu_nian": {
+   "space": "아니오",
+   "why": "가상 역사 무협, 우주 없음"
+  },
+  "dege_yu_pipi": {
+   "space": "아니오",
+   "why": "과학 사고로 고양이 사람이 됨"
+  },
+  "bushi_stunt_aisaka_kun": {
+   "space": "아니오",
+   "why": "에도 무사가 현대로 옴"
+  },
+  "yakusoku_no_stage": {
+   "space": "아니오",
+   "why": "1975년으로 시간 이동"
+  },
+  "seishun_cinderella": {
+   "space": "아니오",
+   "why": "열일곱 살로 회귀"
+  },
+  "nuni_busige": {
+   "space": "아니오",
+   "why": "시간을 되돌린 대가로 늙음"
+  },
+  "welcome_2_life": {
+   "space": "아니오",
+   "why": "평행 세계 검사로 삶"
+  },
+  "chosinseong_xgarion": {
+   "space": "경계",
+   "why": "악의 군단이 지구를 습격"
+  },
+  "kiss_six_sense": {
+   "space": "아니오",
+   "why": "앞날이 보이는 연애극"
+  },
+  "yonjuu_man_km_kanata": {
+   "space": "예",
+   "why": "달 궤도 우주선이 무대"
+  },
+  "gojuuroku_nenme_no_shitsuren": {
+   "space": "아니오",
+   "why": "1964년으로 시간 이동"
+  },
+  "doug_unplugs": {
+   "space": "아니오",
+   "why": "로봇 소년의 배움"
+  },
+  "jungle_beat_movie": {
+   "space": "경계",
+   "why": "외계인이 정글에 옴"
+  },
+  "sedai_wars": {
+   "space": "아니오",
+   "why": "세대 갈등 근미래 일본"
+  },
+  "starbeam": {
+   "space": "아니오",
+   "why": "초능력 소녀 영웅물"
+  },
+  "lyosacks_movie": {
+   "space": "경계",
+   "why": "외계인이 지구에 쳐들어옴"
+  },
+  "trump_vs_illuminati": {
+   "space": "예",
+   "why": "마지막 우주선에 숨어 탐"
+  },
+  "wade_2020": {
+   "space": "아니오",
+   "why": "바다에 잠긴 근미래 도시"
+  },
+  "masameer_movie": {
+   "space": "아니오",
+   "why": "엉터리 영웅단과 로봇"
+  },
+  "kanakana_nishimori": {
+   "space": "아니오",
+   "why": "속마음이 들리는 소녀"
+  },
+  "ooedo_steampunk": {
+   "space": "아니오",
+   "why": "가상 에도의 강화복 영웅"
+  },
+  "rekishi_meikyuu_dasshutsu": {
+   "space": "아니오",
+   "why": "고친 역사를 되돌리는 시간 여행"
+  },
+  "manatsu_no_shounen_19452020": {
+   "space": "아니오",
+   "why": "1945년 군인이 현대로 옴"
+  },
+  "inseki_kazoku": {
+   "space": "아니오",
+   "why": "운석 충돌 앞둔 가족 희극"
+  },
+  "the_game_0si": {
+   "space": "아니오",
+   "why": "죽는 순간이 보이는 남자"
+  },
+  "jebal_geu_namja": {
+   "space": "아니오",
+   "why": "인공지능 냉장고 개발자 연애극"
+  },
+  "zombie_detective_kbs": {
+   "space": "아니오",
+   "why": "좀비 탐정 희극"
+  },
+  "train_ocn": {
+   "space": "아니오",
+   "why": "두 평행 세계를 오감"
+  },
+  "hashtag_cold_game": {
+   "space": "아니오",
+   "why": "빙하기 지구 피난소"
+  },
+  "ekans_snakes_awake": {
+   "space": "아니오",
+   "why": "뱀의 힘 소년 영웅물"
+  },
+  "extinct_2021": {
+   "space": "아니오",
+   "why": "시간 건너는 꽃으로 현대에 옴"
+  },
+  "heneral_tuna": {
+   "space": "경계",
+   "why": "외계 고양이 장군이 지구에 떨어짐"
+  },
+  "meguru_mirai": {
+   "space": "아니오",
+   "why": "과거로 날아가는 병"
+  },
+  "gifted_amagi": {
+   "space": "아니오",
+   "why": "살인자가 보이는 고교생"
+  },
+  "kimi_ga_kemono_ni_naru_mae_ni": {
+   "space": "아니오",
+   "why": "시간을 거슬러 테러를 막음"
+  },
+  "weilai_zhaijibian": {
+   "space": "아니오",
+   "why": "사이버펑크 미래 도시, 지구 위",
+   "cyberpunk": true
+  },
+  "hyouchakusha": {
+   "space": "아니오",
+   "why": "떠밀려 온 남자의 초능력"
+  },
+  "dark_hole_ocn": {
+   "space": "아니오",
+   "why": "검은 연기 변종과 버팀"
+  },
+  "happiness_tvn": {
+   "space": "아니오",
+   "why": "감염병 봉쇄 아파트"
+  },
+  "juunanasai_no_teikoku": {
+   "space": "아니오",
+   "why": "인공지능이 돕는 실험 도시"
+  },
+  "fifty_fifty_heroes": {
+   "space": "아니오",
+   "why": "초능력 형제 일상극"
+  },
+  "beavis_butthead_universe": {
+   "space": "예",
+   "why": "우주 왕복선 타고 블랙홀에 빠짐"
+  },
+  "la_otra_forma": {
+   "space": "예",
+   "why": "달 표면 낙원이 무대"
+  },
+  "super_giant_robot_brothers": {
+   "space": "경계",
+   "why": "은하 제국이 지구에 괴수를 보냄"
+  },
+  "mattari_akadou_suzunosuke": {
+   "space": "아니오",
+   "why": "옛 검사가 현대로 옴"
+  },
+  "octo_kanjou_sousakan": {
+   "space": "아니오",
+   "why": "감정이 색으로 보이는 형사"
+  },
+  "non_rem_no_mado": {
+   "space": "아니오",
+   "why": "기묘한 짧은 이야기 선집"
+  },
+  "ni_de_hun_yin_bu_shi": {
+   "space": "아니오",
+   "why": "발명품이 낀 부부 단원극"
+  },
+  "kaden_samurai": {
+   "space": "아니오",
+   "why": "미래 가전을 주운 낭인"
+  },
+  "shuukatsu_time_capsule": {
+   "space": "아니오",
+   "why": "10년 뒤와 편지를 주고받음"
+  },
+  "mirai_no_musuko": {
+   "space": "아니오",
+   "why": "미래에서 온 아들"
+  },
+  "bushi_ga_mac_de_tenin": {
+   "space": "아니오",
+   "why": "무사가 현대 점원이 됨"
+  },
+  "choutokkyuu_chikyuu_wo_sukue": {
+   "space": "아니오",
+   "why": "2088년으로 불려 감"
+  },
+  "good_job_ena": {
+   "space": "아니오",
+   "why": "남다른 눈의 연애 수사극"
+  },
+  "again_my_life_kr": {
+   "space": "아니오",
+   "why": "살해당한 검사가 회귀"
+  },
+  "jaebeoljip_magnaeadeul": {
+   "space": "아니오",
+   "why": "재벌가 막내로 회귀"
+  },
+  "carrie_sf": {
+   "space": "경계",
+   "why": "쫓기던 외계인이 인형에 깃듦"
+  },
+  "abhimanyu_alien_family": {
+   "space": "경계",
+   "why": "외계인 소년이 지구에 숨어 삶"
+  },
+  "city_lives_fuji": {
+   "space": "아니오",
+   "why": "도시 모양 거대 생물 가짜 기록물"
+  },
+  "headspace_2023": {
+   "space": "경계",
+   "why": "우주 방위대가 소년 머릿속에서 싸움"
+  },
+  "brush_up_life": {
+   "space": "아니오",
+   "why": "기억 지닌 채 인생 반복"
+  },
+  "pending_train": {
+   "space": "아니오",
+   "why": "열차가 먼 미래로 건너감"
+  },
+  "ringing_fate": {
+   "space": "아니오",
+   "why": "사이버펑크풍 저승의 로봇 싸움",
+   "cyberpunk": true
+  },
+  "saikou_no_kyoushi": {
+   "space": "아니오",
+   "why": "1년 전으로 회귀한 교사"
+  },
+  "nanojeonsa_rokapa": {
+   "space": "아니오",
+   "why": "몸속 바이러스와 싸우는 특촬"
+  },
+  "doti_eternal_tower": {
+   "space": "아니오",
+   "why": "게임 대결과 인공지능"
+  },
+  "eojjeoda_majuchin_geudae": {
+   "space": "아니오",
+   "why": "1987년에 갇힘"
+  },
+  "wanbyeokhan_gyeolhonui_jeongseok": {
+   "space": "아니오",
+   "why": "시간을 거슬러 복수"
+  },
+  "kabion": {
+   "space": "아니오",
+   "why": "카드 몬스터와 사는 세상"
+  },
+  "animalia_paradoxa": {
+   "space": "아니오",
+   "why": "물이 마른 세상의 생물"
+  },
+  "eye_love_you_tbs": {
+   "space": "아니오",
+   "why": "속마음이 들리는 연애극"
+  },
+  "familia_del_barrio_movie": {
+   "space": "아니오",
+   "why": "과거로 가서 실수를 바로잡음"
+  },
+  "mars_2024_whitest_kids": {
+   "space": "예",
+   "why": "화성 탐사에 나섬"
+  },
+  "mechwest": {
+   "space": "아니오",
+   "why": "증기 기관 서부와 로봇"
+  },
+  "straume_flow": {
+   "space": "아니오",
+   "why": "큰물 찬 세상의 고양이 표류"
+  },
+  "john_vardar_vs_the_galaxy": {
+   "space": "예",
+   "why": "외계선 동물원에 갇힘"
+  },
+  "mirai_no_watashi_ni": {
+   "space": "아니오",
+   "why": "30년 뒤의 내가 나타남"
+  },
+  "messou_mo_nai": {
+   "space": "아니오",
+   "why": "도심의 수수께끼 구멍"
+  },
+  "nae_nampyeongwa_gyeolhonhaejwo": {
+   "space": "아니오",
+   "why": "배신당한 여자가 회귀"
+  },
+  "moyangsae_friends": {
+   "space": "경계",
+   "why": "외계 우주선이 지구에 떨어짐"
+  },
+  "hero_neun_animnida_man": {
+   "space": "아니오",
+   "why": "능력 잃은 초능력자 가족"
+  },
+  "posledniy_knizhny_magazin": {
+   "space": "아니오",
+   "why": "책 안 읽는 미래 모스크바"
+  },
+  "ichijigen_no_sashiki": {
+   "space": "아니오",
+   "why": "사라진 여동생과 유전 비밀"
+  },
+  "saam_ming": {
+   "space": "아니오",
+   "why": "세 갈래 삶 평행 세계"
+  },
+  "heo_sikdang": {
+   "space": "아니오",
+   "why": "허균이 400년 뒤로 옴"
+  },
+  "moonfish_2026": {
+   "space": "예",
+   "why": "깊은 우주 채굴 임무"
+  },
+  "crystal_planet_2026": {
+   "space": "예",
+   "why": "새로 개척한 행성이 무대"
+  },
+  "zsazsa_zaturnnah": {
+   "space": "경계",
+   "why": "우주 운석과 외계 전사, 지구 위"
+  },
+  "iroha_no_koi": {
+   "space": "아니오",
+   "why": "옛 혼이 현대 몸에 깃듦"
+  },
+  "time_travel_daddy": {
+   "space": "아니오",
+   "why": "타임머신으로 같은 날 반복"
+  },
+  "terminator_to_koi": {
+   "space": "아니오",
+   "why": "미래 안드로이드가 지킴"
+  },
+  "reborn_saigo_no_hero": {
+   "space": "아니오",
+   "why": "다른 사람으로 다시 태어남"
+  },
+  "kimi_ga_shikei_ni_naru_mae_ni": {
+   "space": "아니오",
+   "why": "7년 전으로 돌아가 진실 추적"
+  },
+  "otto_wo_koroshita_hazu": {
+   "space": "아니오",
+   "why": "과거로 되감기는 죽음의 고리"
+  },
+  "fu_qi_de_bo_yi": {
+   "space": "아니오",
+   "why": "5년 전으로 회귀해 다시 삶"
+  },
+  "xiao_shi_de_lie_hen": {
+   "space": "아니오",
+   "why": "거울 금 너머 낯선 세계"
+  },
+  "chi_re_xi_yin": {
+   "space": "아니오",
+   "why": "친화 바이러스 퍼진 세상"
+  },
+  "nareul_chungjeonhaejwo": {
+   "space": "아니오",
+   "why": "인공 심장 배터리 연애극"
+  },
+  "doctor_shin_tvchosun": {
+   "space": "아니오",
+   "why": "기묘한 의학 스릴러"
+  },
+  "love_phobia_kr": {
+   "space": "아니오",
+   "why": "인공지능 연애 앱 대표 연애극"
+  },
+  "meotjin_sinsegye_sbs": {
+   "space": "아니오",
+   "why": "조선 요부가 현대 몸에 깃듦"
   }
  }
 }

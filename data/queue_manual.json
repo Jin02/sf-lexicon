@@ -21,7 +21,8 @@
   "johnny_cypher",
   "kinnikuman",
   "sailor_moon",
-  "hero_factory"
+  "hero_factory",
+  "erexion_kr"
  ],
  "last": [],
  "_설명": "진님이 손으로 정한 조사 차례. first=앞당김, skip=조사하지 않음, last=맨 뒤로. 값은 찾은 세계 id.",
@@ -46,6 +47,7 @@
   "johnny_cypher": "초능력 영웅 만화영화 — 진님 \"슈퍼히어로 계열은 빼\"",
   "kinnikuman": "초인 영웅물(레슬링 개그) — 진님 \"슈퍼히어로 계열은 빼\"",
   "sailor_moon": "변신 전사물 — 진님 \"슈퍼히어로 계열은 빼\"(변신·강화 히어로물)",
-  "hero_factory": "로봇 영웅 팀 만화영화 — 진님 \"슈퍼히어로 계열은 빼\"(히어로 만화영화)"
+  "hero_factory": "로봇 영웅 팀 만화영화 — 진님 \"슈퍼히어로 계열은 빼\"(히어로 만화영화)",
+  "erexion_kr": "변신 전사 특촬 — 진님 \"슈퍼히어로 계열은 빼\""
  }
 }
