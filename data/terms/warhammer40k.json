@@ -1920,6 +1920,195 @@
       "refs": [
         "https://store.steampowered.com/app/4199910/?l=koreana"
       ]
+    },
+    {
+      "id": "great_crusade",
+      "ko": "대성전",
+      "orig": "Great Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '대성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "황제가 흩어진 인류 세계를 다시 거둔 정복 전쟁",
+      "note": "30번째 천년기 끝에서 이백 년 남짓 이어진 원정으로, 프라이마크와 스페이스 마린 군단이 앞장섰다. 지금 제국 영토의 뼈대가 이때 정해졌고, 워마스터의 반역으로 끝났다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "eye_of_terror",
+      "ko": "아이 오브 테러",
+      "orig": "Eye of Terror",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '아이 오브 테러' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [
+        "forbidden_zone"
+      ],
+      "one": "엘다리 제국이 무너진 자리에 생긴 거대한 워프 소용돌이",
+      "note": "현실과 워프가 뒤섞여 시간과 법칙이 뒤틀리는 곳으로, 악마의 행성과 옛 엘다리 행성이 떠돈다. 반역 이후 반역파 군단 대부분이 이곳에 숨어 만 년 동안 침공을 꾸며 왔다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%20%EC%98%A4%EB%B8%8C%20%ED%85%8C%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "great_rift",
+      "ko": "대균열",
+      "orig": "Great Rift (Cicatrix Maledictum)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '대균열' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "카디아 함락 뒤 은하를 가로질러 찢어진 워프 상처",
+      "note": "41번째 천년기 끝에 열려 테라의 정신 등대가 은하 절반에 닿지 않게 만들었다. 제국은 빛이 닿는 쪽과 어둠에 빠진 쪽으로 갈렸고, 인도미투스 시대가 시작되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EA%B7%A0%EC%97%B4"
+      ]
+    },
+    {
+      "id": "black_crusade",
+      "ko": "블랙 크루세이드",
+      "orig": "Black Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙 크루세이드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "사건·시대",
+      "concepts": [],
+      "one": "아바돈이 아이 오브 테러에서 이끌고 나온 대침공",
+      "note": "반역 이후 만 년 동안 열세 번 일어났다. 매번 겉보기엔 물러났지만 유물이나 요새 같은 목표를 챙겼고, 열세 번째에 카디아를 무너뜨렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%ED%81%AC%EB%A3%A8%EC%84%B8%EC%9D%B4%EB%93%9C"
+      ]
+    },
+    {
+      "id": "blackstone_fortress",
+      "ko": "블랙스톤 포트리스",
+      "orig": "Blackstone Fortress",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙스톤 포트리스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "옛 종족이 별의 신들과 싸우려 만든 검은 요새",
+      "note": "별 하나를 꺼뜨릴 힘을 지닌 거대한 요새로, 엘다리 신화에서는 대장장이 신의 부적이라 부른다. 고딕 전쟁에서 아바돈이 여럿을 빼앗았고, 그 하나로 카디아를 무너뜨렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%8A%A4%ED%86%A4%20%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "cadia",
+      "ko": "카디아",
+      "orig": "Cadia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Darktide - Imperial Edition Upgrade』(앱 1981790) 문장에 쓰인 표기",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "아이 오브 테러의 출구를 지키던 요새 행성",
+      "note": "주민 모두가 병사로 자라 만 년 동안 열두 번의 대침공을 막았다. 열세 번째 침공에 무너졌고, 그와 함께 은하를 가르는 균열이 열렸다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ]
+    },
+    {
+      "id": "leagues_of_votann",
+      "ko": "보탄 연맹",
+      "orig": "Leagues of Votann (Kin)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '보탄 연맹' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "세력",
+      "concepts": [],
+      "one": "옛 기술을 지킨 채 은하 중심부에 사는 인류의 먼 친척",
+      "note": "아득한 옛날 세대 우주선으로 은하 중심부에 옮겨 간 인간의 후손으로, 복제로 대를 잇고 옛 기술을 거의 온전히 지켰다. 생각하는 기계의 핵을 조상으로 받들어 제국과는 불편한 사이다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B3%B4%ED%83%84%20%EC%97%B0%EB%A7%B9"
+      ]
+    },
+    {
+      "id": "ynnead",
+      "ko": "이니아드",
+      "orig": "Ynnead",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이니아드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "죽은 엘다리의 영혼이 모여 깨어나는 죽음의 신",
+      "note": "세계선의 영혼 망에 모인 영혼이 충분해지면 깨어나 쾌락의 신을 물리친다고 엘다리가 믿어 온 신이다. 대균열 무렵 반쯤 깨어나 따르는 무리가 생겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%88%EC%95%84%EB%93%9C"
+      ]
+    },
+    {
+      "id": "cegorach",
+      "ko": "케고라크",
+      "orig": "Cegorach (the Laughing God)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '케고라크' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "몰락에서 살아남은 엘다리의 꾀와 웃음의 신",
+      "note": "엘다리 신들이 먹힐 때 웹웨이로 달아나 온전한 모습으로 살아남았다. 광대 전사들이 그를 섬기며, 웹웨이 속 금지된 도서관을 지킨다고 전한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BC%80%EA%B3%A0%EB%9D%BC%ED%81%AC"
+      ]
+    },
+    {
+      "id": "gork_and_mork",
+      "ko": "고크와 모크",
+      "orig": "Gork and Mork",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '고크와 모크' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "오크의 흥분과 믿음이 워프에 모여 생긴 두 신",
+      "note": "하나는 사납게 영리하고 하나는 영리하게 사납다고 한다. 오크가 싸울수록 강해지며, 위대한 오크 우두머리는 두 신의 계시를 받았다고 내세운다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B3%A0%ED%81%AC%EC%99%80%20%EB%AA%A8%ED%81%AC"
+      ]
+    },
+    {
+      "id": "commorragh",
+      "ko": "코모라",
+      "orig": "Commorragh",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '코모라' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "alt_ko": [],
+      "kind": "장소",
+      "concepts": [],
+      "one": "웹웨이 속에 숨은 드루카리의 거대한 도시",
+      "note": "몰락 이전 엘다리의 항구가 끝없이 불어난 곳으로, 붙잡아 온 노예의 고통이 도시를 먹여 살린다. 여러 귀족 무리가 음모를 꾸미며 나눠 쥐고 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AA%A8%EB%9D%BC"
+      ]
     }
   ]
 }

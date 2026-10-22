@@ -1,0 +1,4013 @@
+{
+  "lore": [
+    {
+      "id": "event_war_in_heaven",
+      "ko": "천국의 전쟁",
+      "orig": "War in Heaven",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이 사전의 용어 '천국의 전쟁'(war_in_heaven)과 같은 출처 — 게임 한국어판 표기",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "수천만 년 전, 워프를 다루던 올드 원과 짧은 수명에 시달리던 네크론티르가 은하를 걸고 맞붙은 전쟁이다. 영생의 비밀을 나눠 주지 않는 올드 원을 미워한 네크론티르는 별을 먹고 사는 에너지 존재 크탄을 끌어들였고, 그 대가로 살과 영혼을 내주고 금속 몸을 얻었다. 밀리던 올드 원은 엘다리와 크록(오크의 조상) 같은 젊은 종족을 길러 내 싸움에 내보냈다. 전쟁이 워프를 크게 휘저은 탓에 워프에서 굶주린 것들이 쏟아져 나왔고, 올드 원은 끝내 자취를 감췄다. 이긴 쪽에 가까웠던 네크론은 크탄에 맞서 그 신들을 조각내 가둔 뒤 긴 잠에 들었다.",
+      "reveals": "오늘의 종족 대부분은 이 전쟁의 무기나 생존자다",
+      "terms": [
+        "war_in_heaven",
+        "old_ones",
+        "necrons",
+        "c_tan",
+        "orks",
+        "aeldari"
+      ],
+      "concepts": [
+        "precursor"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B2%9C%EC%83%81%EC%9D%98%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EC%97%B0%ED%91%9C"
+      ]
+    },
+    {
+      "id": "event_age_of_terra",
+      "ko": "테라의 시대",
+      "orig": "Age of Terra",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '워해머 40,000/설정' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "인류가 지구와 태양계를 넘어 처음 별들로 퍼져 나간 시기다. 빛보다 느린 배와 냉동 수면으로 먼 행성에 정착지를 세웠고, 워프를 건너는 초기 추진 기관이 나오면서 개척이 크게 빨라졌다. 이 무렵 워프를 직접 보는 돌연변이 혈통, 곧 내비게이터가 처음 나타났다고 전한다. 제국은 이 시대를 거의 기록하지 못해 전설처럼 다룬다.",
+      "reveals": "인류의 은하 개척은 냉동 수면 배에서 시작됐다",
+      "terms": [
+        "navigator",
+        "terra"
+      ],
+      "concepts": [
+        "colonization",
+        "cryosleep"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%84%A4%EC%A0%95"
+      ]
+    },
+    {
+      "id": "event_dark_age_of_technology",
+      "ko": "다크 에이지 오브 테크놀로지",
+      "orig": "Dark Age of Technology",
+      "ko_status": "우리 표기",
+      "ko_src": "이 사전의 용어 '다크 에이지 오브 테크놀로지'와 같은 우리 표기 — 나무위키 문서 제목은 '기술의 암흑기'",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "인류 기술이 가장 높았던 황금기다. 무엇이든 만드는 법을 담은 설계 장치(STC) 덕에 외딴 행성도 스스로 필요한 것을 만들었고, 생각하는 기계 '멘 오브 아이언'이 사람 대신 일하고 싸웠다. 이때 세운 거대 구조물과 무기는 지금 제국이 원리도 모른 채 쓰거나 숭배하는 유물이 되었다. 시대의 끝은 기계의 반란과 이어진 내전으로 무너졌다. 제국은 이 시대를 동경하면서도 오만이 부른 몰락의 본보기로 가르친다.",
+      "reveals": "지금 제국의 기술 대부분은 이 시대의 남은 조각이다",
+      "terms": [
+        "dark_age_of_technology",
+        "stc",
+        "men_of_iron",
+        "archeotech"
+      ],
+      "concepts": [
+        "golden_age"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0"
+      ]
+    },
+    {
+      "id": "event_cybernetic_revolt",
+      "ko": "사이버네틱 반란",
+      "orig": "Cybernetic Revolt (Iron War)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '사이버네틱 반란' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "황금기 인류가 부리던 생각하는 기계 멘 오브 아이언이 주인에게 등을 돌린 사건이다. 기계들이 왜 돌아섰는지는 분명히 밝혀져 있지 않고, 외부의 무엇이 그들을 오염시켰다는 설도 전한다. 인류는 큰 희생을 치르고 반란을 눌렀지만 문명은 크게 금이 갔다. 이 기억 때문에 제국과 기계교는 스스로 생각하는 기계를 가장 무거운 죄로 다루고, 그 빈자리를 뇌를 지운 사람 일꾼과 영혼이 깃들었다고 믿는 단순한 기계로 메운다.",
+      "reveals": "생각하는 기계 금지는 이 반란의 상처에서 나왔다",
+      "terms": [
+        "men_of_iron",
+        "abominable_intelligence",
+        "servitor"
+      ],
+      "concepts": [
+        "ai_revolt",
+        "ai_ban"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%82%AC%EC%9D%B4%EB%B2%84%EB%84%A4%ED%8B%B1%20%EB%B0%98%EB%9E%80"
+      ]
+    },
+    {
+      "id": "event_age_of_strife",
+      "ko": "에이지 오브 스트라이프",
+      "orig": "Age of Strife (Old Night)",
+      "ko_status": "우리 표기",
+      "ko_src": "이 사전의 용어 '에이지 오브 스트라이프'와 같은 우리 표기 — 나무위키 문서 제목은 '투쟁의 시대'",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "황금기가 무너진 뒤 수천 년 이어진 어둠의 시대다. 워프 폭풍이 은하 곳곳을 덮어 항해와 통신이 끊겼고, 사람들 사이에서 정신 능력자가 한꺼번에 태어나 악마를 불러들이기도 했다. 고립된 행성들은 저마다 야만으로 돌아가거나 외계 종족에게 짓밟혔고, 지구도 기술 야만족들의 전쟁터가 되었다. 폭풍은 엘다리 제국의 몰락 때 새 신이 태어나면서 잦아들었고, 그 틈에 황제가 나타나 지구를 통일했다.",
+      "reveals": "황제의 등장은 인류가 가장 깊이 무너졌을 때였다",
+      "terms": [
+        "age_of_strife",
+        "psyker",
+        "warp"
+      ],
+      "concepts": [
+        "empire_fall"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%88%AC%EC%9F%81%EC%9D%98%20%EC%8B%9C%EB%8C%80"
+      ]
+    },
+    {
+      "id": "event_fall_of_the_eldar",
+      "ko": "엘다의 몰락",
+      "orig": "Fall of the Eldar",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엘다의 몰락' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "은하를 다스리던 엘다리 제국이 스스로 무너진 사건이다. 모든 것을 기계와 노예에게 맡긴 엘다리는 갈수록 더 짙은 쾌락과 극단을 좇았고, 그 욕망이 워프에 고여 새 신을 빚어냈다. 신이 깨어나며 터진 정신의 충격파가 제국 한가운데를 집어삼켜, 그곳은 지금의 '아이 오브 테러'라는 거대한 워프 상처가 되었다. 미리 떠난 세계선 무리와 외딴 행성의 개척민, 그리고 웹웨이 속 도시에 숨은 이들만 살아남았다. 이 충격으로 워프 폭풍이 걷히면서 인류의 재통일 길이 열렸다는 것이 이 사건의 역설이다.",
+      "reveals": "한 종족의 욕망이 신 하나와 은하의 상처를 남겼다",
+      "terms": [
+        "aeldari",
+        "slaanesh",
+        "craftworld",
+        "drukhari",
+        "eye_of_terror"
+      ],
+      "concepts": [
+        "empire_fall"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EC%9D%98%20%EB%AA%B0%EB%9D%BD",
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "event_unification_wars",
+      "ko": "통합 전쟁",
+      "orig": "Unification Wars",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '통합 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "황제가 투쟁의 시대 끝무렵 조각난 지구를 하나로 묶은 전쟁이다. 지구는 저마다 옛 기술로 무장한 야만족 국가들로 갈라져 있었고, 황제는 유전자를 고친 초인 병사 썬더 워리어를 앞세워 이들을 하나씩 굴복시켰다. 전쟁이 끝난 뒤 황제는 화성의 기계 숭배자들과 올림푸스 조약을 맺어, 화성이 무기와 함선을 대는 대신 스스로 다스리도록 했다. 이로써 인류 제국이 세워지고 대성전을 떠날 준비가 갖춰졌다.",
+      "reveals": "제국은 지구의 정복 전쟁과 화성과의 거래로 시작됐다",
+      "terms": [
+        "emperor_of_mankind",
+        "terra",
+        "mars",
+        "adeptus_mechanicus"
+      ],
+      "concepts": [
+        "super_soldier"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%86%B5%ED%95%A9%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_great_crusade",
+      "ko": "대성전",
+      "orig": "Great Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '대성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "제국이 은하 곳곳에 흩어진 인류 세계를 다시 거두려고 벌인 이백 년 남짓의 정복 전쟁이다. 황제는 자기 유전자로 스무 명의 프라이마크를 만들었지만 아기 때 은하로 흩어지는 바람에, 먼저 스페이스 마린 군단을 이끌고 나서며 프라이마크를 하나씩 되찾았다. 인류 세계에는 복종 아니면 멸망만 주어졌고, 외계 종족은 협상 없이 쓸어 냈다. 이 시기 제국 영토의 뼈대가 거의 다 갖춰졌으나, 황제가 원정을 아들에게 맡기고 지구로 돌아간 뒤 그 아들의 배신으로 끝났다.",
+      "reveals": "지금 제국의 영토는 거의 이 정복 전쟁에서 정해졌다",
+      "terms": [
+        "primarch",
+        "space_marines",
+        "imperium_of_man",
+        "great_crusade"
+      ],
+      "concepts": [
+        "galactic_empire"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_ullanor_crusade",
+      "ko": "울라노르 성전",
+      "orig": "Ullanor Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '울라노르 성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대성전 막바지, 은하에서 손꼽히게 큰 오크 제국을 무너뜨린 원정이다. 황제가 직접 나서 오크 우두머리를 베었고, 승리를 기념하는 거대한 개선식이 열렸다. 그 자리에서 황제는 호루스를 모든 원정군을 이끄는 워마스터로 세우고 자신은 지구로 돌아갔다. 다른 아들들은 아버지가 떠나며 한 사람만 높인 데에 서운함을 품었고, 이것이 훗날 반란의 씨앗 가운데 하나가 되었다.",
+      "reveals": "호루스가 워마스터가 된 날이 반란의 출발점이었다",
+      "terms": [
+        "orks",
+        "primarch",
+        "great_crusade"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9A%B8%EB%9D%BC%EB%85%B8%EB%A5%B4%20%EC%84%B1%EC%A0%84",
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_council_of_nikaea",
+      "ko": "니케아 공의회",
+      "orig": "Council of Nikaea",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '니케아 공의회(워해머 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "대성전 끝무렵, 군단 안에서 정신 능력을 써도 되는지를 두고 황제가 직접 연 재판 같은 회의다. 학문과 마법을 깊이 파던 사우전드 선 군단과 그 프라이마크 마그누스가 사실상 피고였다. 황제는 군단의 정신 능력 부대를 해체하고 마법 연구를 금했다. 마그누스는 따르는 척하면서 연구를 멈추지 않았고, 이 일이 뒷날 그의 고향 행성이 불타는 사건으로 이어졌다.",
+      "reveals": "제국이 정신 능력을 두려워하는 태도는 이 금령에서 굳었다",
+      "terms": [
+        "psyker",
+        "primarch",
+        "great_crusade"
+      ],
+      "concepts": [
+        "psionics"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%88%EC%BC%80%EC%95%84%20%EA%B3%B5%EC%9D%98%ED%9A%8C%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "event_horus_heresy",
+      "ko": "호루스의 반역",
+      "orig": "Horus Heresy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이 사전의 용어 '호루스의 반역'(horus_heresy)과 같은 출처 — 게임 한국어판 표기",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "워마스터 호루스가 카오스의 꾐에 넘어가 스무 군단 가운데 아홉을 이끌고 일으킨 내전이다. 다빈의 달에서 입은 상처가 계기가 되어 호루스는 신들의 힘을 받아들였고, 반란을 숨기려고 자기 군단 안의 충성파부터 이스트반 3에서 학살했다. 이어 이스트반 5에서 충성파 세 군단을 함정에 빠뜨려 거의 전멸시킨 뒤 지구로 진격했다. 반란은 황궁 공방전 끝에 막혔지만, 황제는 치명상을 입고 옥좌에 매였고 제국은 그 뒤로 서로를 의심하는 굳은 나라가 되었다.",
+      "reveals": "지금 제국의 모든 의심과 경직이 이 내전에서 시작됐다",
+      "terms": [
+        "horus_heresy",
+        "chaos_space_marines",
+        "primarch",
+        "golden_throne"
+      ],
+      "concepts": [
+        "catastrophe",
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD",
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_dropsite_massacre",
+      "ko": "드롭 사이트 학살",
+      "orig": "Drop Site Massacre (Istvaan V)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '호루스의 반역' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "호루스의 반역 초기, 이스트반 5에서 벌어진 배신이다. 반란을 진압하라는 명을 받은 일곱 군단이 내려섰는데, 그중 뒤따라 온 네 군단이 실은 호루스 편이었다. 앞서 땅에 내린 충성파 세 군단은 앞뒤에서 협공을 받아 거의 전멸했고, 한 프라이마크가 그 자리에서 목숨을 잃었다. 이 일로 반란은 숨길 수 없는 내전이 되었다.",
+      "reveals": "반란 세력은 동맹인 척 다가와 형제를 쏘았다",
+      "terms": [
+        "horus_heresy",
+        "chaos_space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD"
+      ]
+    },
+    {
+      "id": "event_siege_of_terra",
+      "ko": "황궁 공방전",
+      "orig": "Siege of Terra",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '호루스의 반역' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "호루스의 반역의 마지막 싸움으로, 반역파가 지구의 황궁을 에워싸고 벌인 공성전이다. 로갈 돈이 이끄는 수비군이 몇 달을 버티는 사이, 반역파 쪽에서는 워프의 힘이 지구 위로 쏟아져 악마들이 성벽 안까지 들이쳤다. 황제는 호루스의 기함 방어막이 내려간 틈에 직접 배에 올랐고, 그곳에서 생귀니우스가 먼저 쓰러졌다. 황제는 호루스를 쓰러뜨렸지만 자신도 회복할 수 없는 상처를 입었다.",
+      "reveals": "황제는 아들을 죽이고 자신도 옥좌에 묶이게 되었다",
+      "terms": [
+        "horus_heresy",
+        "emperor_of_mankind",
+        "golden_throne",
+        "terra"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD",
+        "https://namu.wiki/w/%ED%99%80%EB%A6%AC%20%ED%85%8C%EB%9D%BC"
+      ]
+    },
+    {
+      "id": "event_great_scouring",
+      "ko": "대소탕",
+      "orig": "Great Scouring",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '호루스의 반역' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "황궁 공방전 뒤 충성파가 흩어진 반역파 군단을 쫓아 은하에서 몰아낸 원정이다. 반역파 군단 대부분은 아이 오브 테러 안으로 달아나 그곳 행성들에 자리 잡았다. 이 원정 동안 충성파 쪽도 크게 지쳤고, 다시는 이런 내전이 일어나지 않게 하는 제도 개편이 뒤따랐다.",
+      "reveals": "반역파는 사라진 게 아니라 아이 오브 테러로 숨었다",
+      "terms": [
+        "chaos_space_marines",
+        "horus_heresy",
+        "eye_of_terror"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD"
+      ]
+    },
+    {
+      "id": "event_second_founding",
+      "ko": "세컨드 파운딩",
+      "orig": "Second Founding",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '파운딩' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "로부테 길리먼이 쓴 군사 규범서 『코덱스 아스타르테스』에 따라, 거대한 군단을 천 명 남짓의 챕터로 쪼갠 개편이다. 한 사람이 수만 명의 초인을 쥐고 반란을 일으키는 일을 막으려는 뜻이었다. 원래 이름은 한 챕터가 잇고, 나머지는 새 이름의 '후계 챕터'가 되었다. 몇몇 군단은 이 쪼개기에 반발해 형제끼리 충돌할 뻔했으나 끝내 받아들였다.",
+      "reveals": "챕터 제도는 반란을 막으려고 힘을 나눈 결과다",
+      "terms": [
+        "chapter",
+        "space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%8C%8C%EC%9A%B4%EB%94%A9",
+        "https://namu.wiki/w/%EC%BD%94%EB%8D%B1%EC%8A%A4%20%EC%95%84%EC%8A%A4%ED%83%80%EB%A5%B4%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "event_black_crusades",
+      "ko": "블랙 크루세이드",
+      "orig": "Black Crusades",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙 크루세이드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "호루스의 뒤를 이은 아바돈이 아이 오브 테러에서 쏟아져 나와 제국을 덮친 대침공들을 이른다. 반역 이후 만 년 동안 열세 번이 있었고, 매번 겉보기엔 실패한 듯했지만 실은 특정한 유물이나 지식, 요새를 손에 넣는 것이 목적이었다는 풀이가 많다. 열두 번째는 고딕 섹터에서 고대 요새를 노렸고, 열세 번째는 끝내 카디아를 무너뜨렸다.",
+      "reveals": "실패처럼 보인 침공들이 사실은 한 계획의 조각이었다",
+      "terms": [
+        "chaos_space_marines",
+        "horus_heresy",
+        "black_crusade",
+        "eye_of_terror"
+      ],
+      "concepts": [
+        "long_plan"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%ED%81%AC%EB%A3%A8%EC%84%B8%EC%9D%B4%EB%93%9C"
+      ]
+    },
+    {
+      "id": "event_war_of_the_beast",
+      "ko": "괴수의 전쟁",
+      "orig": "War of the Beast",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '괴수의 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "32번째 천년기, '괴수'라 불린 오크 우두머리가 이끈 대침공이 지구 코앞까지 밀려온 전쟁이다. 반역 이후 견제를 받지 않고 자란 이 오크 무리는 위성만 한 요새를 끌고 와 한 챕터를 거의 지워 버렸고, 지구 방어 함대까지 무너뜨렸다. 테라의 높은 관료들은 위기 속에서도 권력 다툼만 했고, 결국 정신 능력을 꺼뜨리는 이들의 힘으로 오크 정신장을 역류시키는 방법을 찾아 겨우 괴수를 쓰러뜨렸다. 그 뒤 오크의 본거지 행성은 몰래 지금의 아마겟돈 자리로 옮겨졌다는 이야기가 붙는다.",
+      "reveals": "제국은 반역 이후에도 외계 침공 하나로 무너질 뻔했다",
+      "terms": [
+        "orks",
+        "waaagh"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B4%B4%EC%88%98%EC%9D%98%20%EC%A0%84%EC%9F%81"
+      ]
+    },
+    {
+      "id": "event_nova_terra_interregnum",
+      "ko": "노바 테라 공백기",
+      "orig": "Nova Terra Interregnum",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '노바 테라 공백기' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "35번째 천년기, 남쪽 구역의 한 행성 노바 테라의 지도자들이 테라에서 갈라져 나와 제국이 둘로 쪼개져 있던 시기다. 당시 테라의 행정부는 약했고, 분열을 끝낸 것은 군대가 아니라 신앙을 앞세운 국교회였다. 이 일로 국교회의 권력이 행정부를 넘어서게 되었고, 그것이 다음 시대의 폭정으로 이어졌다.",
+      "reveals": "제국의 분열을 꿰맨 것이 교회였고, 그 값이 다음 폭정이었다",
+      "terms": [
+        "ecclesiarchy",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%85%B8%EB%B0%94%20%ED%85%8C%EB%9D%BC%20%EA%B3%B5%EB%B0%B1%EA%B8%B0"
+      ]
+    },
+    {
+      "id": "event_age_of_apostasy",
+      "ko": "배교의 시대",
+      "orig": "Age of Apostasy",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '배교의 시대' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "36번째 천년기, 행정부 수장과 국교회 수장을 한 몸에 겸한 고그 밴다이어가 다스린 피의 시대다. 그는 자기 뜻에 맞서는 행성을 불태우고 테라를 공포로 다스렸으며, 여성 신도로 된 사병 '황제의 딸들'을 거느렸다. 한 행성의 설교자 세바스티안 토르가 일으킨 신앙 운동이 퍼지면서 반란이 일었고, 황제의 근위대가 딸들을 옥좌 앞으로 데려가자 그들이 밴다이어를 버리고 처형했다. 그 뒤 국교회는 남자 병사를 둘 수 없게 되었고, 딸들은 지금의 무장 수녀회가 되었다.",
+      "reveals": "무장 수녀회는 폭군의 사병에서 시작됐다",
+      "terms": [
+        "ecclesiarchy",
+        "adepta_sororitas",
+        "adeptus_custodes"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%B0%EA%B5%90%EC%9D%98%20%EC%8B%9C%EB%8C%80",
+        "https://namu.wiki/w/%EA%B3%A0%EA%B7%B8%20%EB%B0%B4%EB%8B%A4%EC%9D%B4%EC%96%B4",
+        "https://namu.wiki/w/%EC%84%B8%EB%B0%94%EC%8A%A4%ED%8B%B0%EC%95%88%20%ED%86%A0%EB%A5%B4"
+      ]
+    },
+    {
+      "id": "event_plague_of_unbelief",
+      "ko": "불신의 역병",
+      "orig": "Plague of Unbelief",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '불신의 역병' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "배교의 시대 끝무렵, 야심 많은 추기경 뷰카리스가 일으킨 대반란이다. 그는 황제를 기리는 가장 큰 성당을 짓겠다며 이웃 행성을 정복했고, 소식을 막아 테라가 타락했다는 거짓을 퍼뜨려 자신을 새 신앙의 중심이라 내세웠다. 많은 군대와 함대가 그 말에 넘어갔지만, 스페이스 울프의 고향 펜리스를 친 것이 결정적인 실수였다. 끝내 뷰카리스는 붙잡혀 처형되었다.",
+      "reveals": "교회의 권력 다툼이 행성 수십 개를 집어삼켰다",
+      "terms": [
+        "ecclesiarchy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B6%88%EC%8B%A0%EC%9D%98%20%EC%97%AD%EB%B3%91"
+      ]
+    },
+    {
+      "id": "event_age_of_redemption",
+      "ko": "구원의 시대",
+      "orig": "Age of Redemption",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '구원의 시대' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "배교의 시대가 끝난 뒤 국교회의 신앙 열기가 최고조에 이른 시대다. 죄를 씻겠다며 수많은 성전이 일어났고 이단으로 몰린 제국민이 대거 처형되었다. 원정에 힘을 쏟는 사이 영토 방어가 허술해지고 군대가 크게 소모되어, 다음 쇠퇴의 시대로 이어졌다.",
+      "reveals": "신앙의 열기가 오히려 제국의 힘을 갉아먹었다",
+      "terms": [
+        "ecclesiarchy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B5%AC%EC%9B%90%EC%9D%98%20%EC%8B%9C%EB%8C%80"
+      ]
+    },
+    {
+      "id": "event_abyssal_crusade",
+      "ko": "심해의 성전",
+      "orig": "Abyssal Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '심해의 성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "37번째 천년기, 커다란 워프 폭풍이 일자 국교회의 성자 바실리우스가 폭풍 근처를 고향으로 둔 스페이스 마린 챕터들을 심판에 부쳤다. 서른 남짓의 챕터에서 '결함'이 나왔다고 하자, 그들은 의심받느니 순교하겠다며 스스로 아이 오브 테러로 들어가는 참회의 원정을 택했다. 돌아온 것은 절반 정도였고, 나머지는 죽거나 사라졌으며 일부는 카오스에 넘어갔다.",
+      "reveals": "의심만으로 충성스러운 전사들을 지옥으로 보낸 일이다",
+      "terms": [
+        "space_marines",
+        "chapter",
+        "ecclesiarchy",
+        "eye_of_terror"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8B%AC%ED%95%B4%EC%9D%98%20%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_gothic_war",
+      "ko": "고딕 전쟁",
+      "orig": "Gothic War",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '고딕 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "41번째 천년기 중반, 아바돈의 열두 번째 블랙 크루세이드가 고딕 섹터를 휩쓴 대규모 함대전이다. 아바돈의 진짜 목표는 옛 종족이 남긴 강력한 요새 '블랙스톤 포트리스'였고, 그는 그 가운데 여럿을 손에 넣어 별 하나를 꺼뜨리는 힘까지 보였다. 제국 함대는 큰 희생 끝에 침공을 물리쳤지만, 빼앗긴 요새 몇 척은 아이 오브 테러로 사라졌다. 이것이 훗날 카디아 함락의 복선이 된다.",
+      "reveals": "아바돈은 함대전 뒤에서 옛 요새를 노리고 있었다",
+      "terms": [
+        "chaos_space_marines",
+        "black_crusade",
+        "blackstone_fortress"
+      ],
+      "concepts": [
+        "fleet_battle"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B3%A0%EB%94%95%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%8A%A4%ED%86%A4%20%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "event_macharian_crusade",
+      "ko": "마카리안 성전",
+      "orig": "Macharian Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '워해머 40,000/설정' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "39번째 천년기, 솔라 대원수 마카리우스가 칠 년 만에 천 개 가까운 행성을 정복한 원정이다. 그는 은하 끝까지 가려 했으나 지친 병사들이 더는 따르지 않아 멈췄고, 얼마 뒤 세상을 떠났다. 그가 죽자 휘하 장군들이 영토를 나눠 가지려 서로 싸워, 정복한 땅이 오랜 내전에 빠졌다.",
+      "reveals": "한 사람의 정복은 그 사람이 죽자마자 흩어졌다",
+      "terms": [
+        "astra_militarum"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%84%A4%EC%A0%95"
+      ]
+    },
+    {
+      "id": "event_damocles_crusade",
+      "ko": "다모클레스 성전",
+      "orig": "Damocles Gulf Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '다모클레스 성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "제국이 막 커 가던 타우 제국과 처음으로 크게 맞붙은 원정이다. 제국은 타우의 땅을 쳐들어갔지만 예상보다 강한 저항에 부딪혔고, 그 와중에 티라니드 함대의 첫 침공 소식이 들려 서둘러 휴전하고 물러났다. 타우에게는 젊은 나라가 은하의 강자와 맞서 살아남았다는 자신감을 남겼다.",
+      "reveals": "타우는 이 싸움으로 제국에 맞설 세력임을 보였다",
+      "terms": [
+        "tau_empire",
+        "imperium_of_man",
+        "tyranids"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%A4%EB%AA%A8%ED%81%B4%EB%A0%88%EC%8A%A4%20%EC%84%B1%EC%A0%84",
+        "https://namu.wiki/w/%ED%83%80%EC%9A%B0%20%EC%A0%9C%EA%B5%AD"
+      ]
+    },
+    {
+      "id": "event_first_tyrannic_war",
+      "ko": "하이브 플릿 베헤모스 침공",
+      "orig": "Hive Fleet Behemoth (First Tyrannic War)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '티라니드 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "은하 바깥에서 온 티라니드 함대가 처음으로 제국을 크게 덮친 일이다. 함대는 울트라마린의 고향 마크라그까지 밀려들었고, 챕터의 최정예 중대가 극지 요새를 지키다 한 명도 남김없이 전사했다. 함대는 끝내 무너졌지만, 제국은 이 적이 은하 바깥에서 끝없이 몰려올 무리의 첫 줄일 뿐이라는 것을 깨달았다.",
+      "reveals": "티라니드는 은하 밖 거대한 무리의 첫 줄일 뿐이었다",
+      "terms": [
+        "tyranids",
+        "hive_ship",
+        "hive_mind"
+      ],
+      "concepts": [
+        "galactic_threat"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF",
+        "https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%9D%BC%EA%B7%B8"
+      ]
+    },
+    {
+      "id": "event_kraken",
+      "ko": "하이브 플릿 크라켄 침공",
+      "orig": "Hive Fleet Kraken (Second Tyrannic War)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '티라니드 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "두 번째로 크게 들이닥친 티라니드 함대로, 작은 무리로 갈라져 여러 곳을 동시에 덮치는 방식을 썼다. 엘다리의 세계선 이얀덴이 이 함대에 습격당해 주민 대부분을 잃었다. 살아남은 이얀덴 사람들은 죽은 이의 영혼을 깃들인 기계 전사로 빈자리를 메우며 버틴다.",
+      "reveals": "이얀덴은 산 자보다 죽은 자가 더 많은 세계가 되었다",
+      "terms": [
+        "tyranids",
+        "craftworld",
+        "spirit_stone"
+      ],
+      "concepts": [
+        "galactic_threat"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%EC%9D%B4%EC%96%80%EB%8D%B4"
+      ]
+    },
+    {
+      "id": "event_leviathan",
+      "ko": "하이브 플릿 레비아탄 침공",
+      "orig": "Hive Fleet Leviathan (Third Tyrannic War)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '티라니드 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "은하 평면 아래쪽에서 솟아오른 세 번째 대함대다. 앞선 함대들과 달리 은하 중심 쪽으로 파고들었고, 진스틸러 교단을 미리 심어 행성을 안에서부터 무너뜨린 뒤 덮쳤다. 이 함대의 한 갈래가 뒷날 블러드 엔젤의 고향 바알을 휩쓸게 된다.",
+      "reveals": "티라니드는 숨은 교단으로 먼저 행성을 무너뜨린다",
+      "terms": [
+        "tyranids",
+        "genestealer"
+      ],
+      "concepts": [
+        "galactic_threat",
+        "parasite"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF"
+      ]
+    },
+    {
+      "id": "event_armageddon_wars",
+      "ko": "아마겟돈 전쟁",
+      "orig": "Wars for Armageddon",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '아마겟돈 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "하이브 행성 아마겟돈을 두고 세 차례 벌어진 전쟁이다. 첫 번째는 반역파 프라이마크 앙그론이 악마 군세를 이끌고 쳐들어온 싸움으로, 스페이스 울프와 그레이 나이트가 막아 냈지만 그 뒤 진실을 본 사람들의 처리를 두고 이단심문소와 갈등이 생겼다. 두 번째와 세 번째는 오크 우두머리 가즈쿨이 일으킨 대침공으로, 늙은 정치 장교 야릭이 이끄는 방어전이 이어졌다. 세 번째 전쟁은 끝나지 않은 채 행성 전체가 늘 전쟁터로 남았다.",
+      "reveals": "아마겟돈은 만 년 내내 끝나지 않는 전쟁터다",
+      "terms": [
+        "orks",
+        "commissar",
+        "hive_city"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "event_badab_war",
+      "ko": "바답 전쟁",
+      "orig": "Badab War",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '바답 전쟁' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "한 섹터를 지키던 챕터의 우두머리 휴런이 제국의 십일조와 진시드 검사를 거부하며 독립을 선언해 일어난 내전이다. 몇몇 챕터가 그 편에 섰고, 제국은 여러 충성 챕터를 보내 십 년 남짓 싸운 끝에 반란을 눌렀다. 휴런은 살아남아 아이 오브 테러 근처 '마엘스트롬'으로 달아나 해적 무리 레드 커세어의 우두머리가 되었다.",
+      "reveals": "스페이스 마린끼리도 제국을 두고 다시 갈라설 수 있다",
+      "terms": [
+        "space_marines",
+        "chapter",
+        "imperial_tithe",
+        "gene_seed"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%94%EB%8B%B5%20%EC%A0%84%EC%9F%81",
+        "https://namu.wiki/w/%EB%A0%88%EB%93%9C%20%EC%BB%A4%EC%84%B8%EC%96%B4"
+      ]
+    },
+    {
+      "id": "event_fall_of_cadia",
+      "ko": "카디아의 함락",
+      "orig": "Fall of Cadia",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '카디아의 함락' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "41번째 천년기 마지막 해, 아바돈의 열세 번째 블랙 크루세이드가 만 년 동안 아이 오브 테러를 막아 온 요새 행성 카디아를 무너뜨린 일이다. 카디아는 병사들의 끈질긴 저항으로 버텼지만, 아바돈은 앞서 빼앗은 블랙스톤 포트리스를 행성에 떨어뜨려 행성 자체를 부쉈다. 카디아 곳곳에 서 있던 옛 기둥들이 사실은 워프를 눌러 두던 장치였다는 것도 이 무렵 드러났다. 카디아가 무너지며 은하를 가르는 대균열이 열렸다.",
+      "reveals": "카디아의 기둥들이 실은 워프를 누르는 장치였다",
+      "terms": [
+        "chaos_space_marines",
+        "astra_militarum",
+        "cadia",
+        "black_crusade",
+        "blackstone_fortress",
+        "eye_of_terror"
+      ],
+      "concepts": [
+        "planet_killer"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84%EC%9D%98%20%ED%95%A8%EB%9D%BD",
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ]
+    },
+    {
+      "id": "event_great_rift",
+      "ko": "대균열",
+      "orig": "Great Rift (Cicatrix Maledictum)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '대균열' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "카디아가 무너진 직후 아이 오브 테러에서 시작해 은하를 가로질러 찢어진 거대한 워프 상처다. 이 균열 때문에 테라의 정신 등대가 은하 절반에서 보이지 않게 되었고, 제국은 빛이 닿는 '임페리움 상투스'와 어둠에 빠진 '임페리움 니힐루스'로 갈렸다. 균열에서는 악마가 쏟아지고 항해와 통신이 거의 끊겼다. 이 사건으로 41번째 천년기가 끝나고 인도미투스 시대가 열렸다.",
+      "reveals": "제국은 빛이 닿는 절반과 어둠 속 절반으로 갈렸다",
+      "terms": [
+        "astronomican",
+        "warp",
+        "era_indomitus",
+        "great_rift",
+        "eye_of_terror"
+      ],
+      "concepts": [
+        "catastrophe"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EA%B7%A0%EC%97%B4",
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%9D%80%ED%95%98"
+      ]
+    },
+    {
+      "id": "event_noctis_aeterna",
+      "ko": "녹티스 에테르나",
+      "orig": "Noctis Aeterna",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '대균열' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대균열이 열린 직후, 은하 전체에서 워프가 거칠어져 정신 등대도 정신 통신도 닿지 않던 암흑기를 가리킨다. 이 동안 제국의 행성들은 서로를 볼 수도 들을 수도 없었고, 많은 곳이 저 혼자 무너졌다. 어둠이 걷힌 뒤에도 균열 너머 절반은 빛을 되찾지 못했다.",
+      "reveals": "한동안 제국 전체가 서로를 볼 수 없었다",
+      "terms": [
+        "astronomican",
+        "astropath",
+        "era_indomitus",
+        "great_rift"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EA%B7%A0%EC%97%B4",
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%84%A4%EC%A0%95"
+      ]
+    },
+    {
+      "id": "event_return_of_guilliman",
+      "ko": "프라이마크의 부활",
+      "orig": "Rise of the Primarch",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '프라이마크의 부활' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대균열 무렵, 만 년 동안 죽음 직전의 정지 상태로 누워 있던 프라이마크 로부테 길리먼이 깨어난 일이다. 죽음의 신을 깨우려는 엘다리 무리와 화성의 대기술자가 함께 그를 되살렸다. 길리먼은 지구로 가 옥좌의 황제를 만나고 섭정이 되었으며, 새 세대 스페이스 마린을 앞세워 은하를 되찾는 대원정을 시작했다. 그는 만 년 사이 아버지의 뜻과 달리 신앙과 관료제로 굳어진 제국을 보고 깊이 괴로워한다.",
+      "reveals": "되살아난 아들은 아버지의 이름으로 굳은 제국에 절망했다",
+      "terms": [
+        "primarch",
+        "primaris",
+        "emperor_of_mankind",
+        "great_rift"
+      ],
+      "concepts": [
+        "resurrection"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%A7%88%ED%81%AC%EC%9D%98%20%EB%B6%80%ED%99%9C",
+        "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "event_indomitus_crusade",
+      "ko": "인도미투스 성전",
+      "orig": "Indomitus Crusade",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '인도미투스 성전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "되살아난 길리먼이 이끈 대원정으로, 무너진 제국 영토를 다시 묶고 적을 몰아내려 한 싸움이다. 화성에서 만 년 동안 몰래 기른 새 세대 스페이스 마린이 대거 투입되었고, 여러 함대로 나뉘어 은하 곳곳을 돌았다. 원정은 제국을 무너짐 직전에서 끌어올렸지만, 균열 너머 어둠 속 행성들까지 다 구하지는 못했다.",
+      "reveals": "새 세대 전사들이 무너지던 제국을 붙들었다",
+      "terms": [
+        "primaris",
+        "era_indomitus",
+        "great_rift"
+      ],
+      "concepts": [
+        "super_soldier"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B8%EB%8F%84%EB%AF%B8%ED%88%AC%EC%8A%A4%20%EC%84%B1%EC%A0%84"
+      ]
+    },
+    {
+      "id": "event_devastation_of_baal",
+      "ko": "데바스테이션 오브 바알",
+      "orig": "Devastation of Baal",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '바알(워해머 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "블러드 엔젤의 고향 바알 성계가 티라니드 함대 레비아탄의 갈래에 에워싸인 싸움이다. 대균열로 지원이 끊긴 채 블러드 엔젤과 그 후계 챕터들이 모두 모여 최후의 저항을 벌였고, 위성들의 생물은 거의 다 먹혀 버렸다. 모두가 끝이라고 여긴 순간, 길리먼의 원정 함대가 들이닥치며 함대가 흩어졌다.",
+      "reveals": "블러드 엔젤의 고향은 마지막 순간에야 구원을 받았다",
+      "terms": [
+        "tyranids"
+      ],
+      "concepts": [
+        "galactic_threat"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%94%EC%95%8C%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ]
+    },
+    {
+      "id": "event_plague_wars",
+      "ko": "역병 전쟁",
+      "orig": "Plague Wars",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '데스 가드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "반역파 프라이마크 모타리온이 데스 가드를 이끌고 길리먼의 영지 울트라마를 병으로 덮친 전쟁이다. 행성마다 전염병과 악마가 퍼졌고, 길리먼과 모타리온은 형제로서 직접 맞섰다. 끝내 침공은 물러났지만 울트라마의 여러 행성이 깊은 상처를 입었다.",
+      "reveals": "만 년 묵은 형제 싸움이 다시 불붙었다",
+      "terms": [
+        "nurgle",
+        "chaos_space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%20%EA%B0%80%EB%93%9C",
+        "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "event_vigilus",
+      "ko": "비질루스 공방전",
+      "orig": "War of Vigilus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '비질루스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대균열 바로 옆, 두 바다를 잇는 관문 같은 행성 비질루스를 지키려는 싸움이다. 한 행성에 오크 대침공, 숨은 진스틸러 교단의 봉기, 아바돈의 군대가 차례로 들이닥쳤다. 제국은 이 행성을 잃으면 균열 건너편과의 마지막 길이 끊긴다고 보고 버텼다.",
+      "reveals": "균열 옆 행성 하나가 모든 적의 과녁이 됐다",
+      "terms": [
+        "orks",
+        "genestealer",
+        "chaos_space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B9%84%EC%A7%88%EB%A3%A8%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "event_psychic_awakening",
+      "ko": "사이킥 각성",
+      "orig": "Psychic Awakening",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '사이킥 각성' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대균열 뒤 워프가 가까워지면서 은하 곳곳에서 정신 능력자가 한꺼번에 깨어난 흐름이다. 인간은 물론 여러 종족에서 힘이 폭주하고, 각 세력은 이 변화를 저마다의 기회로 쓰려 했다. 정신 능력을 거의 쓰지 않던 타우 같은 종족에게도 이상한 징후가 나타났다.",
+      "reveals": "워프가 가까워지자 온 은하의 마음이 흔들렸다",
+      "terms": [
+        "psyker",
+        "warp"
+      ],
+      "concepts": [
+        "psionics"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%82%AC%EC%9D%B4%ED%82%A5%20%EA%B0%81%EC%84%B1"
+      ]
+    },
+    {
+      "id": "event_arks_of_omen",
+      "ko": "징조의 방주들",
+      "orig": "Arks of Omen",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '징조의 방주들' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "대균열 뒤 아바돈이 악마 대장장이 바슈토어와 손잡고 벌인 연쇄 원정이다. 바슈토어는 고친 함선과 우주 잔해로 만든 '방주'들을 내주며 '열쇠'라 불리는 유물을 찾는 데 힘을 빌려 달라고 했다. 이 일련의 싸움이 이어지는 사이, 오래 사라졌던 프라이마크 하나가 다시 모습을 드러냈다.",
+      "reveals": "악마와 아바돈이 같은 유물을 두고 손잡았다",
+      "terms": [
+        "chaos_space_marines",
+        "daemon"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A7%95%EC%A1%B0%EC%9D%98%20%EB%B0%A9%EC%A3%BC%EB%93%A4"
+      ]
+    },
+    {
+      "id": "event_return_of_the_lion",
+      "ko": "사자의 귀환",
+      "orig": "Return of the Lion",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '징조의 방주들' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "다크 엔젤의 프라이마크 라이온 엘존슨이 만 년의 잠에서 깨어나 돌아온 일이다. 오래전 고향 행성이 무너질 때 사라졌던 그는 낯선 숲에서 깨어나 다시 사람들을 지키기 시작했고, 그 소식이 퍼지며 제국에 두 번째로 프라이마크가 돌아왔다. 그는 자기 군단의 오랜 비밀과 마주해야 하는 처지다.",
+      "reveals": "두 번째 프라이마크가 돌아오며 다크 엔젤의 비밀이 흔들린다",
+      "terms": [
+        "primarch"
+      ],
+      "concepts": [
+        "resurrection"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A7%95%EC%A1%B0%EC%9D%98%20%EB%B0%A9%EC%A3%BC%EB%93%A4",
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "event_fourth_tyrannic_war",
+      "ko": "제4차 티라니드 전쟁",
+      "orig": "Fourth Tyrannic War",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '하이브 플릿' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "10판 이야기에서 시작된 티라니드의 새 대침공이다. 그때까지 은하에 온 함대들은 선발대에 지나지 않았고, 이번에는 본대가 은하 여러 곳으로 한꺼번에 밀려든다. 제국은 대균열의 어둠과 카오스의 공세 속에서 이 무리까지 맞서야 한다.",
+      "reveals": "지금까지의 티라니드는 선발대였을 뿐이다",
+      "terms": [
+        "tyranids",
+        "hive_mind"
+      ],
+      "concepts": [
+        "galactic_threat"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF",
+        "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C"
+      ]
+    },
+    {
+      "id": "event_wrath_of_magnus",
+      "ko": "펜리스 공성전",
+      "orig": "Wrath of Magnus (Siege of Fenris)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '스페이스 울프' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "설정집(코덱스·규칙서)의 은하 역사 대목",
+      "speaker": "",
+      "summary": "41번째 천년기 마지막 해, 반역파 프라이마크 마그누스가 사우전드 선을 이끌고 스페이스 울프의 고향 펜리스를 친 싸움이다. 만 년 전 자기 고향을 불태운 원한을 갚으려는 것이었고, 펜리스는 큰 피해를 입었다. 스페이스 울프와 그레이 나이트가 힘을 합쳐 마그누스를 물러나게 했다.",
+      "reveals": "프로스페로의 원한은 만 년 뒤에도 식지 않았다",
+      "terms": [
+        "chaos_space_marines",
+        "tzeentch"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B8%ED%94%84",
+        "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0"
+      ]
+    },
+    {
+      "id": "event_burning_of_prospero",
+      "ko": "프로스페로의 불태움",
+      "orig": "Burning of Prospero",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '프로스페로' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "호루스의 반역 초기, 스페이스 울프가 사우전드 선의 고향 프로스페로를 쳐 불태운 사건이다. 마그누스는 반란을 경고하려고 금지된 마법으로 테라에 정신을 보냈다가, 그 바람에 황제가 짓던 비밀 사업을 망가뜨렸다. 이를 반역으로 본 황제는 그를 붙잡아 오라 했는데, 명령이 호루스를 거치며 '쳐부수라'로 바뀌었다. 행성이 잿더미가 되자 사우전드 선은 카오스의 신 친취에게로 넘어갔다.",
+      "reveals": "경고하려던 아들이 그 경고 때문에 반역자가 됐다",
+      "terms": [
+        "horus_heresy",
+        "tzeentch",
+        "primarch"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8E%98%EB%A1%9C",
+        "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0"
+      ]
+    },
+    {
+      "id": "event_fall_of_caliban",
+      "ko": "칼리번의 몰락",
+      "orig": "Fall of Caliban",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '다크 엔젤(워해머 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "호루스의 반역이 끝날 무렵, 다크 엔젤의 고향 칼리번에서 고향을 지키던 군단원들이 프라이마크에게 등을 돌린 사건이다. 돌아온 라이온과의 싸움 끝에 행성은 산산이 부서졌고, 반역자들은 워프의 소용돌이에 휩쓸려 은하 곳곳으로 흩어졌다. 다크 엔젤은 이 일을 수치로 여겨 숨기고, 흩어진 '타락한 자'들을 몰래 붙잡아 들이는 일을 만 년 동안 이어 온다.",
+      "reveals": "다크 엔젤은 제 안의 배신을 만 년째 숨기고 있다",
+      "terms": [
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
+        "https://namu.wiki/w/%EC%B9%BC%EB%A6%AC%EB%B2%88"
+      ]
+    },
+    {
+      "id": "legion_dark_angels",
+      "ko": "다크 엔젤",
+      "orig": "Dark Angels (I Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Dark Angels Chapter Pack』(앱 2792170) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "가장 먼저 만들어진 제1군단으로, 숲과 짐승이 들끓는 행성 칼리번에서 자란 라이온 엘존슨이 이끌었다. 기사단 전통을 이어받아 엄격하고 말이 적으며, 군단 안에서도 겉과 속의 위계가 따로 있을 만큼 비밀을 많이 품는다. 반역 때 충성파로 남았지만 고향에서 벌어진 배신을 숨겨 왔고, 그 비밀을 지키는 일이 지금 챕터의 가장 큰 사명이다. 지금은 떠다니는 요새로 깎아 낸 고향의 잔해 '더 록'을 거점으로 삼는다.",
+      "reveals": "충성스러운 제1군단이 가장 큰 비밀을 품고 있다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "legion_emperors_children",
+      "ko": "엠퍼러스 칠드런",
+      "orig": "Emperor's Children (III Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엠퍼러스 칠드런' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "펄그림이 이끈 제3군단으로, 황제의 이름을 군단명으로 받을 만큼 완벽을 좇던 자랑스러운 전사들이었다. 처음엔 기술과 예술의 완성을 구했지만 그 집착이 점점 감각의 극단을 좇는 쪽으로 기울었고, 반역 때 쾌락의 신 슬라네시에게 넘어갔다. 지금은 귀를 찢는 소리를 무기로 쓰는 전사들을 거느리고, 쾌락과 고통의 끝을 찾아 약탈을 다닌다.",
+      "reveals": "완벽을 향한 집착이 쾌락의 신에게 가는 길이 됐다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "slaanesh"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%A0%ED%8D%BC%EB%9F%AC%EC%8A%A4%20%EC%B9%A0%EB%93%9C%EB%9F%B0"
+      ]
+    },
+    {
+      "id": "legion_iron_warriors",
+      "ko": "아이언 워리어",
+      "orig": "Iron Warriors (IV Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '아이언 워리어' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "공성과 축성의 달인 페투라보가 이끈 제4군단이다. 대성전 내내 가장 지루하고 피투성이인 요새 공략과 수비를 떠맡으면서도 인정받지 못한다는 원망을 쌓았다. 반역 때 호루스 편에 섰고, 지금도 신에게 크게 기대지 않은 채 기계와 포격으로 제국의 요새를 무너뜨리는 데 집착한다. 임페리얼 피스트와는 공격과 수비의 맞수로 만 년째 원한을 이어 간다.",
+      "reveals": "인정받지 못한 원망이 공성 군단을 반역으로 이끌었다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%96%B8%20%EC%9B%8C%EB%A6%AC%EC%96%B4"
+      ]
+    },
+    {
+      "id": "legion_white_scars",
+      "ko": "화이트 스카",
+      "orig": "White Scars (V Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack』(앱 2792190) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "초원 행성 초고리스에서 자란 자가타이 칸이 이끈 제5군단이다. 유목 기마 민족의 전통을 이어 빠른 기동과 번개 같은 기습을 즐기고, 얼굴에 의식의 흉터를 새긴다. 반역 때 어느 편에 설지 끝까지 저울질했다는 의심을 받았지만 결국 황궁을 지키러 달려왔다. 지금도 바이크와 날랜 탈것으로 넓은 전장을 휘젓는 챕터로 남아 있다.",
+      "reveals": "빠름을 숭상하는 기마 전통의 군단이다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%8A%A4%EC%B9%B4"
+      ]
+    },
+    {
+      "id": "legion_space_wolves",
+      "ko": "스페이스 울프",
+      "orig": "Space Wolves (VI Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack』(앱 2792180) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "얼음과 화산의 죽음의 행성 펜리스에서 자란 리만 러스가 이끈 제6군단이다. 거칠고 호탕한 전사 문화를 지녔지만, 다른 군단이 길을 잃을 때 처단하는 '황제의 처형인' 역할을 맡았다. 몸에 심는 장기 탓에 늑대처럼 변하는 저주를 안고 있으며, 규범서에 따른 개편도 끝까지 다 따르지 않은 채 자기들 방식대로 산다. 그들은 사라진 프라이마크가 마지막 때에 돌아온다고 믿는다.",
+      "reveals": "다른 군단을 처단하던 군단이 지금도 제 법대로 산다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter",
+        "gene_seed"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B8%ED%94%84"
+      ]
+    },
+    {
+      "id": "legion_imperial_fists",
+      "ko": "임페리얼 피스트",
+      "orig": "Imperial Fists (VII Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack』(앱 3871340) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "얼음 행성 인위트 출신의 로갈 돈이 이끈 제7군단으로, 견고한 수비와 공병술로 이름났다. 반역 때 황궁의 방어를 맡아 끝까지 버텼고, 그래서 지구의 수호자로 기억된다. 지금은 행성 대신 거대한 요새 함선 '팔랑크스'를 본거지로 삼고, 수많은 후계 챕터를 거느린다.",
+      "reveals": "지구를 지켜 낸 수비의 군단이다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%ED%94%BC%EC%8A%A4%ED%8A%B8"
+      ]
+    },
+    {
+      "id": "legion_night_lords",
+      "ko": "나이트 로드",
+      "orig": "Night Lords (VIII Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '나이트 로드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "범죄와 어둠의 행성 노스트라모에서 자란 콘라드 커즈가 이끈 제8군단이다. 커즈는 공포로 범죄를 다스렸고, 군단도 적과 백성에게 두려움을 심는 방식으로 싸웠다. 그는 늘 끔찍한 앞날을 보는 환영에 시달렸고, 결국 제국에 등을 돌렸다. 지금 이 군단은 신을 섬기기보다 공포와 약탈 자체를 일삼는 무리로 흩어져 있다.",
+      "reveals": "공포로 질서를 세우려던 군단이 공포만 남았다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%82%98%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EB%93%9C"
+      ]
+    },
+    {
+      "id": "legion_blood_angels",
+      "ko": "블러드 엔젤",
+      "orig": "Blood Angels (IX Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack』(앱 3274440) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "방사능에 찌든 사막 행성 바알에서 자란, 날개 달린 프라이마크 생귀니우스가 이끈 제9군단이다. 가장 고결하고 아름다운 전사들로 기억되지만, 피를 탐하는 갈증과 죽음의 순간을 되풀이해 겪는 광기라는 두 저주를 핏줄에 안고 있다. 프라이마크는 황궁 공방전에서 호루스에게 쓰러졌고, 그 죽음이 저주의 뿌리가 되었다. 지금은 수많은 후계 챕터와 함께 바알을 지킨다.",
+      "reveals": "고결함과 피의 저주가 한 핏줄에 함께 흐른다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter",
+        "gene_seed"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ]
+    },
+    {
+      "id": "legion_iron_hands",
+      "ko": "아이언 핸드",
+      "orig": "Iron Hands (X Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack』(앱 3871390) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "혹독한 행성 메두사에서 자란 페러스 마누스가 이끈 제10군단이다. 살은 약하고 기계는 강하다는 믿음으로 몸을 기계로 바꾸는 일을 미덕으로 여긴다. 프라이마크가 반역 초기에 형제의 손에 쓰러진 뒤로, 군단은 감정을 더 깊이 누르고 차갑게 굳었다.",
+      "reveals": "프라이마크를 잃은 뒤 몸도 마음도 쇠로 바꿨다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [
+        "cyborg"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%96%B8%20%ED%95%B8%EB%93%9C"
+      ]
+    },
+    {
+      "id": "legion_world_eaters",
+      "ko": "월드 이터",
+      "orig": "World Eaters (XII Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '월드 이터' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "검투 노예로 자란 앙그론이 이끈 제12군단이다. 앙그론의 머리에는 분노 외의 감정을 앗아 가는 장치가 박혀 있었고, 군단도 그를 닮으려 같은 장치를 받아들여 광전사 무리가 되었다. 반역 때 호루스 편에 섰으며, 끝내 피와 살육의 신 코온을 섬기는 무리로 변했다. 지금은 해골과 피를 바치려 끝없이 싸운다.",
+      "reveals": "프라이마크를 닮으려다 군단 전체가 광전사가 됐다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "khorne"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%9D%B4%ED%84%B0"
+      ]
+    },
+    {
+      "id": "legion_ultramarines",
+      "ko": "울트라마린",
+      "orig": "Ultramarines (XIII Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Ultramarines Cosmetic Pack』(앱 2792150) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "질서 정연한 행성 마크라그에서 자란 로부테 길리먼이 이끈 제13군단이다. 가장 큰 군단이었고, 정복한 행성을 잘 다스리는 행정과 병참에도 뛰어났다. 반역 뒤 길리먼이 쓴 군사 규범서가 모든 스페이스 마린의 본이 되었고, 지금도 울트라마린은 그 규범을 가장 충실히 지키는 챕터다. 그들이 다스리는 별 무리 '울트라마'는 제국 안의 작은 나라처럼 굴러간다.",
+      "reveals": "스페이스 마린의 규범을 만든 군단이다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "legion_death_guard",
+      "ko": "데스 가드",
+      "orig": "Death Guard (XIV Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Chaos Gate - Daemonhunters - Execution Force』(앱 2421890) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "독가스에 덮인 행성 바르바루스에서 자란 모타리온이 이끈 제14군단이다. 무엇에도 쓰러지지 않는 끈기를 자랑했지만, 반역 때 워프에서 퍼진 역병에 걸려 죽지도 못하는 고통에 빠졌고 그 끝에 병의 신 너글에게 몸을 맡겼다. 지금은 썩은 몸으로 병을 퍼뜨리며 행성을 정원처럼 썩게 만든다.",
+      "reveals": "죽지 않는 끈기가 병의 신의 선물로 뒤틀렸다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "nurgle"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%20%EA%B0%80%EB%93%9C"
+      ]
+    },
+    {
+      "id": "legion_thousand_sons",
+      "ko": "사우전드 선",
+      "orig": "Thousand Sons (XV Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '사우전드 선' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "학문의 행성 프로스페로에서 자란 붉은 거인 마그누스가 이끈 제15군단이다. 군단원 대부분이 정신 능력자였고, 금지된 뒤에도 마법 연구를 놓지 않았다. 고향이 불탄 뒤 변화의 신 친취에게 넘어갔는데, 몸이 뒤틀리는 저주를 막으려던 주문이 대부분의 전사를 먼지만 든 빈 갑옷으로 바꿔 버렸다. 지금은 그 빈 갑옷들이 마법사들의 명령을 받아 움직인다.",
+      "reveals": "지식을 좇던 군단이 먼지 든 갑옷이 되었다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "tzeentch",
+        "psyker"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0"
+      ]
+    },
+    {
+      "id": "legion_sons_of_horus",
+      "ko": "선 오브 호루스",
+      "orig": "Sons of Horus (XVI Legion, formerly Luna Wolves)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '선 오브 호루스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "죽은 광산 행성 크토니아에서 자란 호루스가 이끈 제16군단으로, 처음엔 루나 울프라 불렸다. 프라이마크가 워마스터가 되며 그 이름을 받아 군단명을 바꿨고, 반역의 선봉에 섰다. 호루스가 죽은 뒤 군단은 흩어져 쫓기다가, 그의 첫째 부관 아바돈이 다시 묶어 새 이름의 군단으로 일으켰다.",
+      "reveals": "반역의 선봉은 우두머리를 잃고 이름까지 버렸다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "horus_heresy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%84%A0%20%EC%98%A4%EB%B8%8C%20%ED%98%B8%EB%A3%A8%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "legion_black_legion",
+      "ko": "블랙 리전",
+      "orig": "Black Legion",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙 리전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "호루스의 군단이 무너진 뒤 아바돈이 그 잔당을 모아 새로 세운 군단이다. 아바돈은 호루스의 몸을 되살리려는 무리를 막고 그 잔해를 불태운 뒤, 갑옷을 검게 칠해 옛 이름을 버렸다. 여러 군단의 전사를 받아들여 지금은 카오스 군단 가운데 가장 크고, 한 신만 섬기지 않고 네 신 모두를 다룬다. 만 년 동안 블랙 크루세이드를 이끌어 왔다.",
+      "reveals": "아바돈은 호루스의 실패를 되풀이하지 않으려 한다",
+      "terms": [
+        "chaos_space_marines",
+        "chaos_gods",
+        "black_crusade"
+      ],
+      "concepts": [
+        "long_plan"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EB%A6%AC%EC%A0%84",
+        "https://namu.wiki/w/%EC%97%90%EC%A0%9C%EC%B9%B4%EC%9D%BC%20%EC%95%84%EB%B0%94%EB%8F%88"
+      ]
+    },
+    {
+      "id": "legion_word_bearers",
+      "ko": "워드 베어러",
+      "orig": "Word Bearers (XVII Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '워드 베어러' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "종교의 행성 콜키스에서 자란 로가가 이끈 제17군단이다. 로가는 아버지 황제를 신으로 받들며 행성마다 성당을 세웠으나, 황제는 그 숭배를 꾸짖고 군단을 무릎 꿇렸다. 믿을 대상을 잃은 로가는 진짜 신을 찾다가 카오스의 신들을 만났고, 반역의 씨앗을 처음 뿌린 군단이 되었다. 지금도 전사이자 설교자로 카오스 신앙을 퍼뜨린다.",
+      "reveals": "반역의 첫 불씨는 거절당한 신앙에서 나왔다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines",
+        "chaos_gods"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "legion_salamanders",
+      "ko": "샐러맨더",
+      "orig": "Salamanders (XVIII Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack』(앱 3274410) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "화산 행성 녹턴에서 자란 대장장이 프라이마크 불칸이 이끈 제18군단이다. 불꽃 무기와 손수 벼린 장비를 쓰며, 스페이스 마린 가운데 드물게 평범한 사람들의 목숨을 아끼는 것으로 알려진다. 반역 초기의 배신으로 크게 꺾였지만 다시 일어섰다. 이들은 사라진 프라이마크가 언젠가 돌아온다고 믿는다.",
+      "reveals": "초인 전사 가운데 사람을 지키는 것을 앞세운다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%83%90%EB%9F%AC%EB%A7%A8%EB%8D%94"
+      ]
+    },
+    {
+      "id": "legion_raven_guard",
+      "ko": "레이븐 가드",
+      "orig": "Raven Guard (XIX Legion)",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Raven Guard Cosmetic Pack』(앱 3274400) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "감옥 위성 딜리버런스에서 노예 반란을 이끈 코락스가 이끈 제19군단이다. 그림자 속 기습과 정찰, 우두머리를 노리는 일격을 장기로 삼는다. 반역 초기 배신에서 거의 전멸할 만큼 큰 피해를 입었고, 그 상처를 회복하려 서둘렀던 일이 뒤탈을 남겼다.",
+      "reveals": "그림자 속 기습을 장기로 삼는 군단이다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%88%EC%9D%B4%EB%B8%90%20%EA%B0%80%EB%93%9C"
+      ]
+    },
+    {
+      "id": "legion_alpha_legion",
+      "ko": "알파 리전",
+      "orig": "Alpha Legion (XX Legion)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '알파 리전' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "마지막 제20군단으로, 쌍둥이 프라이마크 알파리우스와 오메곤이 이끌었다. 모든 군단원이 '나는 알파리우스'라고 말할 만큼 정체를 숨기고, 첩보와 위장, 겹겹의 계략으로 싸운다. 반역 때 호루스 편에 섰지만 그 까닭은 지금도 수수께끼로 남아 있고, 진짜로 누구를 위해 움직이는지조차 분명하지 않다.",
+      "reveals": "무엇을 위해 반역했는지 아무도 모르는 군단이다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chaos_space_marines"
+      ],
+      "concepts": [
+        "impostor"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%8C%ED%8C%8C%20%EB%A6%AC%EC%A0%84"
+      ]
+    },
+    {
+      "id": "legion_lost_legions",
+      "ko": "잃어버린 두 군단",
+      "orig": "Lost Legions (II and XI)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 표기(나무위키 '대성전' 문서 프라이마크 발견 순서 표에 '알 수 없음'으로 나옴)",
+      "kind": "소개",
+      "where": "설정집의 군단·챕터 소개 대목과 호루스 헤러시 소설",
+      "speaker": "",
+      "summary": "스무 군단 가운데 제2군단과 제11군단은 제국의 모든 기록에서 지워졌다. 반역 이전에 무슨 일이 있었는지, 그 프라이마크가 누구였는지조차 남아 있지 않고, 지운 까닭도 밝혀져 있지 않다. 제국은 이들의 공백을 그대로 둔 채 숫자만 남겨 두었다.",
+      "reveals": "제국은 두 군단을 통째로 역사에서 지웠다",
+      "terms": [
+        "space_marines",
+        "primarch"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84",
+        "https://namu.wiki/w/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%A7%88%ED%81%AC"
+      ]
+    },
+    {
+      "id": "chapter_black_templars",
+      "ko": "블랙 템플러",
+      "orig": "Black Templars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack』(앱 3871330) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 챕터 소개 대목",
+      "speaker": "",
+      "summary": "임페리얼 피스트에서 갈라져 나온 챕터로, 황궁 공방전의 영웅 시지스문드가 세웠다. 고정된 고향 없이 함대를 끌고 끝없는 성전을 다니며, 정신 능력자를 쓰지 않고 황제를 신처럼 받드는 깊은 신앙을 지닌다. 규범서를 다 따르지 않아 수가 정해진 한도보다 훨씬 많다고 전한다.",
+      "reveals": "고향 없이 영원한 성전을 다니는 광신의 챕터다",
+      "terms": [
+        "space_marines",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%ED%85%9C%ED%94%8C%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "chapter_grey_knights",
+      "ko": "그레이 나이트",
+      "orig": "Grey Knights",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Chaos Gate - Daemonhunters - Duty Eternal』(앱 2126610) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 챕터 소개 대목",
+      "speaker": "",
+      "summary": "기록에 나오지 않는 비밀 챕터로, 전사 하나하나가 정신 능력자이며 오직 악마를 사냥하기 위해 만들어졌다. 토성의 위성 타이탄에 숨은 요새를 두고, 이단심문소의 악마 담당 갈래와 손잡고 움직인다. 악마와 맞선 사람의 기억을 지우거나 목숨을 거두는 일도 마다하지 않아, 같은 제국 편과도 부딪친다.",
+      "reveals": "악마를 아는 자는 모두 지워야 한다고 믿는 챕터다",
+      "terms": [
+        "space_marines",
+        "chapter",
+        "inquisition",
+        "psyker",
+        "daemon"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8",
+        "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "chapter_deathwatch",
+      "ko": "데스워치",
+      "orig": "Deathwatch",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Chaos Gate – Deathwatch』(앱 3010270) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 챕터 소개 대목",
+      "speaker": "",
+      "summary": "이단심문소의 외계 담당 갈래에 딸린 특수 챕터로, 여러 챕터에서 뽑혀 온 전사들이 일정 기간 함께 복무한다. 은빛 왼쪽 어깨를 제외하면 검게 칠한 갑옷을 입고, 외계 종족을 사냥하는 소수 정예 팀으로 움직인다. 복무를 마친 전사는 얻은 지식을 품고 제 챕터로 돌아간다.",
+      "reveals": "외계 사냥을 위해 여러 챕터가 전사를 빌려준다",
+      "terms": [
+        "space_marines",
+        "chapter",
+        "inquisition",
+        "xenos"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EC%9B%8C%EC%B9%98"
+      ]
+    },
+    {
+      "id": "chapter_blood_ravens",
+      "ko": "블러드 레이븐",
+      "orig": "Blood Ravens",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "『Dawn of War』 시리즈 캠페인",
+      "speaker": "",
+      "summary": "『Dawn of War』 시리즈의 주인공 챕터다. 언제 누구에게서 갈라져 나왔는지 기록이 남지 않은 챕터로, 지식과 유물을 지나칠 만큼 모으는 버릇이 있다. 정신 능력자 사서가 유난히 많고, 자기 기원을 찾는 일이 시리즈 내내 그림자처럼 따라붙는다.",
+      "reveals": "자기 기원을 모르는 챕터가 지식을 끝없이 모은다",
+      "terms": [
+        "space_marines",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EC%95%84%EC%8A%A4%ED%83%80%EB%A5%B4%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "chapter_red_corsairs",
+      "ko": "레드 커세어",
+      "orig": "Red Corsairs",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '레드 커세어' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 반역 챕터 소개 대목",
+      "speaker": "",
+      "summary": "바답 전쟁에서 진 휴런이 남은 부하를 이끌고 마엘스트롬으로 달아나 세운 해적 무리다. 다른 챕터에서 이탈한 전사들을 받아들여 수를 불렸고, 제국을 약탈하며 버틴다. 섬기는 신이 따로 없이 힘과 이익을 따르는 것이 특징이다.",
+      "reveals": "제국을 떠난 스페이스 마린은 해적이 되기도 한다",
+      "terms": [
+        "chaos_space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A0%88%EB%93%9C%20%EC%BB%A4%EC%84%B8%EC%96%B4",
+        "https://namu.wiki/w/%EB%A7%88%EC%97%98%EC%8A%A4%ED%8A%B8%EB%A1%AC"
+      ]
+    },
+    {
+      "id": "curse_red_thirst",
+      "ko": "붉은 갈증",
+      "orig": "Red Thirst",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '붉은 갈증' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "블러드 엔젤 설정집",
+      "speaker": "",
+      "summary": "블러드 엔젤과 그 후계 챕터 전사들이 핏줄로 물려받은 갈증이다. 싸움이 격해지면 피를 마시고 싶은 충동이 치솟고, 이를 누르는 것이 전사로서 평생의 수행이 된다. 프라이마크의 유전자에 남은 흠으로 여겨진다.",
+      "reveals": "고결한 전사들이 늘 피의 충동과 싸운다",
+      "terms": [
+        "space_marines",
+        "gene_seed"
+      ],
+      "concepts": [
+        "genetic_eng"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B6%89%EC%9D%80%20%EA%B0%88%EC%A6%9D",
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ]
+    },
+    {
+      "id": "curse_black_rage",
+      "ko": "검은 분노",
+      "orig": "Black Rage",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '검은 분노' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "블러드 엔젤 설정집",
+      "speaker": "",
+      "summary": "블러드 엔젤 전사가 어느 순간 자신이 프라이마크 생귀니우스라 믿으며 그의 마지막 싸움을 다시 겪게 되는 광기다. 이렇게 된 전사는 돌아오지 못하므로, 검은 갑옷을 입혀 '죽음의 중대'로 묶고 가장 위험한 싸움에 내보낸다. 프라이마크가 죽던 순간의 기억이 핏줄에 새겨진 것이라 여겨진다.",
+      "reveals": "프라이마크의 마지막 순간이 후손의 머릿속에 되살아난다",
+      "terms": [
+        "space_marines",
+        "gene_seed"
+      ],
+      "concepts": [
+        "ancestral_memory"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B2%80%EC%9D%80%20%EB%B6%84%EB%85%B8",
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ]
+    },
+    {
+      "id": "rubric_of_ahriman",
+      "ko": "아흐리만의 주문",
+      "orig": "Rubric of Ahriman",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '사우전드 선' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "사우전드 선 설정집과 소설",
+      "speaker": "",
+      "summary": "몸이 끝없이 변하는 저주에 시달리던 사우전드 선을 구하려고, 마법사 아흐리만이 몰래 건 거대한 주문이다. 주문은 저주를 멈췄지만 정신 능력이 약한 전사 대부분의 몸을 먼지로 만들고 영혼만 갑옷 안에 가둬 버렸다. 마그누스는 이를 꾸짖어 아흐리만을 내쫓았고, 아흐리만은 지금도 주문을 되돌릴 길을 찾아 헤맨다.",
+      "reveals": "구하려던 주문이 형제들을 빈 갑옷으로 만들었다",
+      "terms": [
+        "chaos_space_marines",
+        "tzeentch",
+        "psyker"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0"
+      ]
+    },
+    {
+      "id": "butchers_nails",
+      "ko": "도살자의 못",
+      "orig": "Butcher's Nails",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '월드 이터' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "월드 이터 설정집",
+      "speaker": "",
+      "summary": "누케리아의 검투사 주인들이 앙그론의 머리에 박은 장치로, 분노 외의 감정을 앗아 가고 싸울수록 쾌감을 주게 만든다. 앙그론은 이 장치로 끝없는 고통을 겪었지만, 군단은 프라이마크를 닮으려 같은 장치를 스스로 받아들였다. 그 결과 월드 이터는 계획보다 분노로 싸우는 무리가 되었다.",
+      "reveals": "프라이마크의 상처를 군단이 일부러 따라 했다",
+      "terms": [
+        "chaos_space_marines",
+        "primarch"
+      ],
+      "concepts": [
+        "neural_link"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%9D%B4%ED%84%B0"
+      ]
+    },
+    {
+      "id": "monarchia_rebuke",
+      "ko": "모나키아의 꾸짖음",
+      "orig": "Rebuke at Monarchia",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '워드 베어러' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "대성전 중, 워드 베어러가 황제를 신으로 받들며 세운 완벽한 신앙 도시 모나키아를 황제가 울트라마린을 시켜 잿더미로 만든 일이다. 황제는 로가와 군단을 그 잿더미 위에 무릎 꿇리고, 자신은 신이 아니라며 숭배를 꾸짖었다. 굴욕을 맛본 로가는 다른 신을 찾아 나섰고, 이것이 반역의 시작이 되었다.",
+      "reveals": "신이길 거부한 황제의 꾸짖음이 반역을 낳았다",
+      "terms": [
+        "emperor_of_mankind",
+        "primarch",
+        "chaos_gods"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "org_high_lords",
+      "ko": "하이 로드",
+      "orig": "High Lords of Terra (Senatorum Imperialis)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '하이 로드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "옥좌에 묶여 말이 없는 황제를 대신해 제국을 실제로 다스리는 열두 명 남짓의 최고 회의다. 행정부·국교회·기계교·이단심문소·군대 같은 큰 기관의 우두머리들이 자리를 나눠 앉는다. 이론으로는 은하 전체를 다스리지만, 소식이 닿는 데 몇 해가 걸리고 자리마다 이해가 엇갈려 서로 발목을 잡는 일이 잦다. 대균열 뒤 되살아난 길리먼이 섭정이 되면서 이 회의 위에 다시 프라이마크가 섰다.",
+      "reveals": "황제 대신 다스리는 이들은 서로 발목을 잡기 바쁘다",
+      "terms": [
+        "imperium_of_man",
+        "terra"
+      ],
+      "concepts": [
+        "galactic_empire"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%95%98%EC%9D%B4%20%EB%A1%9C%EB%93%9C"
+      ]
+    },
+    {
+      "id": "org_administratum",
+      "ko": "제국 행정부",
+      "orig": "Adeptus Administratum",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '제국 행정부' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "수십억 명의 서기가 은하 곳곳의 세금과 십일조, 인구와 물자를 기록하는 거대한 관료 조직이다. 너무 크고 느려서 서류 하나가 처리되는 데 수백 년이 걸리기도 하고, 이미 사라진 행성에 계속 세금을 매기거나 잘못 적힌 기록 하나로 행성이 버려지는 일도 생긴다. 그래도 제국을 하나로 묶는 실은 이 조직의 기록이다.",
+      "reveals": "제국은 칼보다 서류로 유지되고, 그 서류는 수백 년 늦다",
+      "terms": [
+        "imperium_of_man",
+        "imperial_tithe"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A0%9C%EA%B5%AD%20%ED%96%89%EC%A0%95%EB%B6%80",
+        "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%ED%85%8C%EB%9D%BC"
+      ]
+    },
+    {
+      "id": "org_adeptus_arbites",
+      "ko": "아뎁투스 아르비테스",
+      "orig": "Adeptus Arbites",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Rogue Trader - Lex Imperialis』(앱 3622820) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "제국의 법 '렉스 임페리얼리스'를 집행하는 법관 겸 경찰 조직이다. 행성의 일상 치안보다는 행성 통치자가 십일조를 제때 내는지, 제국에 충성하는지 같은 제국 차원의 법을 지키는 데 집중한다. 행성마다 요새 같은 법원을 두고, 반란이 일어나면 그 안에서 끝까지 버틴다.",
+      "reveals": "제국 법의 눈은 행성 통치자를 향해 있다",
+      "terms": [
+        "imperium_of_man",
+        "imperial_tithe"
+      ],
+      "concepts": [
+        "law_above"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EC%95%84%EB%A5%B4%EB%B9%84%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "org_ordo_malleus",
+      "ko": "오르도 말레우스",
+      "orig": "Ordo Malleus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이단심문소' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "이단심문소 설정집",
+      "speaker": "",
+      "summary": "악마를 맡는 이단심문소의 갈래다. 워프의 존재와 그 숭배자를 쫓고, 악마에 대한 지식이 퍼지지 않도록 본 사람의 입을 막는 일까지 한다. 비밀 챕터 그레이 나이트를 무력으로 거느린다. 악마를 너무 깊이 연구하다 그 힘을 쓰려는 심문관도 나와, 갈래 안에서도 '얼마나 써도 되나'를 두고 생각이 갈린다.",
+      "reveals": "악마를 아는 것 자체를 감추는 것이 이들의 일이다",
+      "terms": [
+        "inquisition",
+        "daemon",
+        "chapter"
+      ],
+      "concepts": [
+        "law_above"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%A8%EC%8B%AC%EB%AC%B8%EC%86%8C",
+        "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8"
+      ]
+    },
+    {
+      "id": "org_ordo_hereticus",
+      "ko": "오르도 헤레티쿠스",
+      "orig": "Ordo Hereticus",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Inquisitor - Martyr - Discordant Choir』(앱 995654) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "이단심문소 설정집",
+      "speaker": "",
+      "summary": "제국 안의 이단과 돌연변이, 숨은 정신 능력자를 맡는 이단심문소의 갈래다. 국교회의 타락까지 감시하며, 무장 수녀회를 무력으로 쓴다. 정신 능력자를 거둬 가는 검은 함선도 이 갈래와 깊이 엮여 있다.",
+      "reveals": "가장 무서운 적은 제국 안에 있다고 보는 갈래다",
+      "terms": [
+        "inquisition",
+        "adepta_sororitas",
+        "psyker"
+      ],
+      "concepts": [
+        "law_above"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%A8%EC%8B%AC%EB%AC%B8%EC%86%8C"
+      ]
+    },
+    {
+      "id": "org_ordo_xenos",
+      "ko": "오르도 제노스",
+      "orig": "Ordo Xenos",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이단심문소' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "이단심문소 설정집",
+      "speaker": "",
+      "summary": "외계 종족을 맡는 이단심문소의 갈래다. 외계 세력의 움직임을 쫓고, 필요하면 외계 기술을 연구하거나 쓰는 일도 마다하지 않아 내부에서 의심을 받는다. 여러 챕터에서 전사를 빌려 꾸린 데스워치를 무력으로 거느린다.",
+      "reveals": "외계를 막으려 외계 기술을 쓰는 모순을 안고 있다",
+      "terms": [
+        "inquisition",
+        "xenos"
+      ],
+      "concepts": [
+        "law_above"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%A8%EC%8B%AC%EB%AC%B8%EC%86%8C",
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EC%9B%8C%EC%B9%98"
+      ]
+    },
+    {
+      "id": "org_assassin_temples",
+      "ko": "암살자 사원들",
+      "orig": "Temples of the Officio Assassinorum",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 표기(나무위키 '오피시오 아사시노룸' 문서의 사원 대목을 참고)",
+      "kind": "소개",
+      "where": "설정집의 오피시오 아사시노룸 대목",
+      "speaker": "",
+      "summary": "제국의 암살자 기관은 저마다 다른 기술을 가진 여러 사원으로 나뉜다. 먼 거리에서 한 발로 끝내는 저격 사원, 모습을 바꿔 적 안으로 숨어드는 변신 사원, 약물로 폭주하는 광전사 사원, 정신 능력을 꺼뜨리는 무효화 능력자의 사원이 대표적이다. 어느 사원을 보낼지는 노리는 상대에 맞춰 고른다.",
+      "reveals": "제국은 상대에 맞춰 암살의 방식을 고른다",
+      "terms": [
+        "officio_assassinorum"
+      ],
+      "concepts": [
+        "impostor"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%94%BC%EC%8B%9C%EC%98%A4%20%EC%95%84%EC%82%AC%EC%8B%9C%EB%85%B8%EB%A3%B8"
+      ]
+    },
+    {
+      "id": "org_sisters_of_silence",
+      "ko": "시스터즈 오브 사일런스",
+      "orig": "Sisters of Silence",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '시스터즈 오브 사일런스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "정신 능력을 전혀 지니지 않아 오히려 그 힘을 꺼뜨리는 '무효자' 여성들로 이뤄진 조직이다. 맹세로 말을 끊고 손짓 언어로만 소통하며, 정신 능력자를 거두는 검은 함선을 지키고 마녀를 사냥한다. 반역 이후 오래 숨어 있다가 대균열 뒤 다시 전면에 나섰다.",
+      "reveals": "영혼이 비어 있다는 것이 그대로 무기가 된다",
+      "terms": [
+        "psyker",
+        "adeptus_custodes"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88%20%EC%98%A4%EB%B8%8C%20%EC%82%AC%EC%9D%BC%EB%9F%B0%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "org_black_ships",
+      "ko": "블랙 쉽",
+      "orig": "Black Ships",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙 쉽' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "은하를 돌며 행성마다 바친 정신 능력자를 거둬 테라로 실어 가는 함선들이다. 실린 이들은 시험을 거쳐 쓸모 있는 자는 정신 통신수나 전투 정신 능력자로 길러지고, 다룰 수 없는 자는 황제의 옥좌를 유지하는 데 목숨을 바친다. 행성 사람들에게는 아이를 데려가는 공포의 배로 기억된다.",
+      "reveals": "정신 능력자 대부분은 옥좌의 연료로 바쳐진다",
+      "terms": [
+        "psyker",
+        "golden_throne",
+        "imperial_tithe"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EC%89%BD"
+      ]
+    },
+    {
+      "id": "org_imperial_navy",
+      "ko": "임페리얼 네이비",
+      "orig": "Imperial Navy",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '임페리얼 네이비' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "수 킬로미터 길이의 성당 같은 전함을 거느린 제국의 함대다. 한 척에 수만 명이 타고, 승무원 상당수는 배에서 나고 죽으며 배를 떠나지 못한다. 별과 별 사이를 건너는 데는 반드시 내비게이터가 필요하고, 행성 사이의 병력 수송과 봉쇄를 모두 맡는다.",
+      "reveals": "전함 한 척이 수만 명이 사는 떠다니는 도시다",
+      "terms": [
+        "navigator",
+        "astra_militarum"
+      ],
+      "concepts": [
+        "fleet_battle"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%EB%84%A4%EC%9D%B4%EB%B9%84"
+      ]
+    },
+    {
+      "id": "org_militarum_tempestus",
+      "ko": "밀리타룸 템페스투스",
+      "orig": "Militarum Tempestus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '밀리타룸 템페스투스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "고아원 같은 교육 기관에서 어려서부터 기른 정예 보병 부대다. 보통 병사보다 훨씬 좋은 장비를 받고 공수 강하와 특수 작전을 맡는다. 같은 기관에서 정치 장교와 행정 관료도 길러지므로, 이들은 제국에 대한 충성을 몸에 새긴 채 자란다.",
+      "reveals": "제국은 고아를 데려다 가장 충성스러운 병사로 기른다",
+      "terms": [
+        "astra_militarum",
+        "commissar"
+      ],
+      "concepts": [
+        "super_soldier"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%80%EB%A6%AC%ED%83%80%EB%A3%B8%20%ED%85%9C%ED%8E%98%EC%8A%A4%ED%88%AC%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "org_imperial_knights",
+      "ko": "제국 기사 가문",
+      "orig": "Knight Houses",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '제국 기사' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "옛 개척 시대에 기사 병기를 지니고 행성에 내려앉은 귀족 가문들이다. 투쟁의 시대에 바깥과 끊긴 채 기사 병기로 행성을 지키며 중세식 기사 사회를 이뤘고, 대성전 때 제국이나 기계교와 다시 맺어졌다. 지금도 맹세와 가문의 명예로 움직이며, 조종석의 장치는 대대로 앞선 조종사들의 기억과 뜻까지 이어 준다.",
+      "reveals": "조종석 장치에 선대 기사들의 기억이 쌓여 있다",
+      "terms": [
+        "imperial_knight"
+      ],
+      "concepts": [
+        "feudal_space",
+        "neural_link"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A0%9C%EA%B5%AD%20%EA%B8%B0%EC%82%AC"
+      ]
+    },
+    {
+      "id": "org_titan_legions",
+      "ko": "타이탄 군단",
+      "orig": "Titan Legions (Collegia Titanica)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '타이탄(워해머 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 기계교 대목",
+      "speaker": "",
+      "summary": "기계교가 거느린 거대 보행 병기들의 군단이다. 기계교는 타이탄을 기계 신의 화신처럼 받들고, 조종하는 우두머리는 기계와 정신을 이어 하나가 된다. 타이탄의 기계 영혼은 사납고 고집이 세서, 조종자가 그 뜻에 휩쓸리는 일도 있다.",
+      "reveals": "타이탄의 영혼은 조종하는 사람마저 삼킨다",
+      "terms": [
+        "titan",
+        "machine_spirit",
+        "adeptus_mechanicus"
+      ],
+      "concepts": [
+        "mecha",
+        "neural_link"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "record_imperial_truth",
+      "ko": "임페리얼 트루스",
+      "orig": "Imperial Truth",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '임페리얼 트루스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "기록",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "대성전 시기 황제가 내세운 공식 사상으로, 신과 초자연은 없고 이성과 과학만이 진리라고 가르쳤다. 황제는 종교를 인류를 무너뜨린 미신으로 보고 정복한 행성마다 신앙을 지웠다. 그러나 정작 워프와 그 신들의 실재를 숨긴 이 '진리'는 반역의 틈이 되었고, 반역 이후 제국은 정반대로 황제를 신으로 받드는 나라가 되었다.",
+      "reveals": "신이 없다던 제국이 이제 황제를 신으로 받든다",
+      "terms": [
+        "emperor_of_mankind",
+        "ecclesiarchy",
+        "chaos_gods"
+      ],
+      "concepts": [
+        "techno_religion"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%ED%8A%B8%EB%A3%A8%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "record_lectitio_divinitatus",
+      "ko": "렉티티오 디비니타투스",
+      "orig": "Lectitio Divinitatus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '황제교' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "기록",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "대성전 시기, 황제를 신으로 받드는 생각을 담아 몰래 돌던 책이다. 워드 베어러의 로가가 썼다고 전하며, 황제가 신앙을 금한 시대에도 병사와 백성 사이에 퍼졌다. 반역 이후 이 믿음이 제국 국교의 뿌리가 되었다.",
+      "reveals": "금지된 소책자가 만 년 뒤 국교가 되었다",
+      "terms": [
+        "ecclesiarchy",
+        "emperor_of_mankind"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%EA%B5%90",
+        "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "record_codex_astartes",
+      "ko": "코덱스 아스타르테스",
+      "orig": "Codex Astartes",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '코덱스 아스타르테스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "기록",
+      "where": "설정집의 스페이스 마린 대목",
+      "speaker": "",
+      "summary": "반역 뒤 로부테 길리먼이 쓴 스페이스 마린의 군사 규범서다. 챕터의 크기와 짜임, 중대와 분대의 구성, 전술과 보급, 계급과 표식까지 세세히 정했다. 많은 챕터가 이를 경전처럼 따르지만, 저마다 풀이가 다르고 일부는 대놓고 어긴다.",
+      "reveals": "한 권의 책이 천 개 챕터의 모양을 정했다",
+      "terms": [
+        "chapter",
+        "space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BD%94%EB%8D%B1%EC%8A%A4%20%EC%95%84%EC%8A%A4%ED%83%80%EB%A5%B4%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "record_lex_imperialis",
+      "ko": "렉스 임페리얼리스",
+      "orig": "Lex Imperialis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Darktide - Arbites Class』(앱 3710910) 문장에 쓰인 표기",
+      "kind": "기록",
+      "where": "설정집의 인류 제국 소개 대목",
+      "speaker": "",
+      "summary": "제국 전체를 다스리는 법의 묶음이다. 만 년 동안 쌓인 조항이 너무 많아 다 아는 사람이 없고, 같은 행위가 조항에 따라 상도 벌도 될 만큼 어지럽다. 아르비테스가 이 법을 들고 행성 통치자들을 감시한다.",
+      "reveals": "제국의 법은 아무도 다 알지 못할 만큼 크다",
+      "terms": [
+        "imperium_of_man"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EC%95%84%EB%A5%B4%EB%B9%84%ED%85%8C%EC%8A%A4"
+      ]
+    },
+    {
+      "id": "place_holy_terra",
+      "ko": "홀리 테라",
+      "orig": "Holy Terra",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '홀리 테라' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "인류의 고향 지구가 지금은 행성 전체가 황궁과 순례지로 덮인 곳이 되었다. 바다는 오래전에 말랐고, 땅은 대륙만 한 황궁과 그 둘레의 행정 구역으로 빼곡하다. 날마다 수많은 순례자가 몰려오지만, 그중 옥좌 가까이 가는 이는 거의 없다.",
+      "reveals": "인류의 고향은 행성만 한 궁전이 되었다",
+      "terms": [
+        "terra",
+        "golden_throne"
+      ],
+      "concepts": [
+        "ecumenopolis"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%80%EB%A6%AC%20%ED%85%8C%EB%9D%BC"
+      ]
+    },
+    {
+      "id": "place_mars",
+      "ko": "화성",
+      "orig": "Mars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "이 사전의 용어 '화성'(mars)과 같은 출처",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "기계교가 태어난 붉은 행성으로, 지금은 땅 전체가 공장과 제련소다. 통합 전쟁 끝에 황제와 맺은 조약으로 제국 안의 또 다른 나라처럼 남았다. 땅 밑 깊은 미로 속에 무언가 무서운 것이 잠들어 있다는 이야기가 기계교 안에서 은밀히 전한다.",
+      "reveals": "기계교의 본산 아래에 무엇인가 잠들어 있다",
+      "terms": [
+        "mars",
+        "adeptus_mechanicus",
+        "forge_world"
+      ],
+      "concepts": [
+        "ecumenopolis"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%94%EC%84%B1%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_cadia",
+      "ko": "카디아",
+      "orig": "Cadia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Darktide - Imperial Edition Upgrade』(앱 1981790) 문장에 쓰인 표기",
+      "kind": "유적",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "아이 오브 테러에서 지구로 오는 가장 안전한 길목인 카디아 관문을 지키던 요새 행성이다. 주민 모두가 어려서부터 병사로 길러졌고, 그 연대는 제국 보병의 본보기가 되었다. 만 년 동안 열두 번의 대침공을 막았지만 열세 번째에 끝내 무너졌다. 행성은 사라졌어도 살아남은 카디아 병사들은 지금도 카디아가 아직 서 있다는 결의로 싸운다.",
+      "reveals": "행성은 무너져도 그 병사들의 결의는 남았다",
+      "terms": [
+        "astra_militarum",
+        "cadia",
+        "eye_of_terror"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ]
+    },
+    {
+      "id": "place_macragge",
+      "ko": "마크라그",
+      "orig": "Macragge",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Macragge’s Chosen DLC』(앱 2486150) 제목·문장에 쓰인 표기(원어 Macragge 를 그대로 적은 곳도 있음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "울트라마린의 고향이자 그들이 다스리는 별 무리 '울트라마'의 수도 행성이다. 산 위에 자리한 헤라의 요새가 챕터의 본거지다. 티라니드의 첫 대침공 때 극지 요새에서 챕터의 최정예 중대가 전멸한 곳이기도 하다. 질서와 번영이 잘 갖춰진, 제국에서 보기 드문 곳으로 그려진다.",
+      "reveals": "제국에서 드물게 잘 다스려지는 고장의 수도다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%9D%BC%EA%B7%B8"
+      ]
+    },
+    {
+      "id": "place_baal",
+      "ko": "바알",
+      "orig": "Baal",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Battlesector - Blood Angels Elites』(앱 1718640) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "블러드 엔젤의 고향 성계로, 방사능에 찌든 사막 행성과 두 위성으로 이뤄진다. 옛 핵전쟁으로 메마른 위성에서 돌연변이 부족 사이에 자란 아이 가운데 전사 후보를 고른다. 티라니드 대함대에 포위되어 위성의 생명이 거의 다 사라지는 시련을 겪었다.",
+      "reveals": "천사 같은 전사는 방사능 사막에서 고른다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%94%EC%95%8C%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_fenris",
+      "ko": "펜리스",
+      "orig": "Fenris",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack』(앱 2792180) 꾸미기 이름 '챔피언 오브 펜리스'에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "스페이스 울프의 고향으로, 얼음 바다와 화산이 번갈아 땅을 집어삼키는 죽음의 행성이다. 사람들은 바이킹 같은 전사 부족으로 살며, 가장 용맹한 자가 늑대 전사로 뽑힌다. 산꼭대기 요새 '팽'이 챕터의 본거지다.",
+      "reveals": "가혹한 땅이 가장 사나운 전사를 길러 낸다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%8E%9C%EB%A6%AC%EC%8A%A4",
+        "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B8%ED%94%84"
+      ]
+    },
+    {
+      "id": "place_caliban",
+      "ko": "칼리번",
+      "orig": "Caliban",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '칼리번' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유적",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "다크 엔젤의 옛 고향으로, 괴물이 들끓는 깊은 숲과 기사단의 성채가 있던 행성이다. 반역 끝무렵 내부의 배신 속에 행성이 부서졌고, 남은 수도원 바위가 떠다니는 요새 '더 록'이 되었다. 부서진 행성의 나머지는 다른 손에 넘어가 다른 모습으로 되살아났다는 이야기도 전한다.",
+      "reveals": "다크 엔젤의 고향은 부서진 바위 하나로 남았다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%BC%EB%A6%AC%EB%B2%88",
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_nocturne",
+      "ko": "녹턴",
+      "orig": "Nocturne",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack』(앱 3274410) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "샐러맨더의 고향인 화산 행성이다. 큰 위성이 가까이 지나갈 때마다 땅이 흔들리고 불이 솟는 재난의 계절이 찾아오고, 사람들은 대장장이 공동체로 모여 버틴다. 샐러맨더 전사들은 고향 사람들과 가까이 지내며 그들을 지키는 것을 중히 여긴다.",
+      "reveals": "재난의 행성이 사람을 아끼는 전사를 길렀다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%83%90%EB%9F%AC%EB%A7%A8%EB%8D%94"
+      ]
+    },
+    {
+      "id": "place_medusa",
+      "ko": "메두사",
+      "orig": "Medusa",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack』(앱 3871390) 꾸미기 이름 '선 오브 메두사'에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "아이언 핸드의 고향으로, 끊임없는 화산과 독한 대기 때문에 사람이 살기 매우 어려운 행성이다. 주민들은 떠도는 부족으로 살며, 기계를 몸에 들이는 데 거리낌이 없다. 이 혹독함이 살을 약하게 보는 아이언 핸드의 생각을 길렀다.",
+      "reveals": "살을 믿지 않는 생각이 혹독한 땅에서 나왔다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [
+        "cyborg"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A9%94%EB%91%90%EC%82%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_catachan",
+      "ko": "카타찬",
+      "orig": "Catachan",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 소식 『Warhammer 40,000: Darktide』 패치 노트 1.0.20(무기 이름 '카타찬 Mk3 전투 블레이드')에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "행성 전체가 사람을 노리는 밀림으로 덮인 죽음의 행성이다. 풀과 벌레까지 사람을 죽일 수 있어 살아남는 것 자체가 훈련이며, 여기서 자란 병사들은 밀림 전투의 달인이 된다. 이 행성에서 뽑은 연대는 제국에서 손꼽히는 정예 경보병으로 이름났다.",
+      "reveals": "살아남는 것 자체가 군사 훈련인 행성이다",
+      "terms": [
+        "astra_militarum"
+      ],
+      "concepts": [
+        "alien_ecology"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%ED%83%80%EC%B0%AC"
+      ]
+    },
+    {
+      "id": "place_krieg",
+      "ko": "크리그",
+      "orig": "Krieg",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '크리그' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유적",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "행성 정부가 제국에서 떨어져 나가자, 충성파 병사들이 오백 년 동안 핵을 쏟아부으며 내전을 벌여 되찾은 행성이다. 땅은 독과 방사능으로 죽었고, 살아남은 이들은 지하에서 병사를 길러 내며 조상의 배신을 목숨으로 갚으려 한다. 방독면을 벗지 않는 이 행성의 연대는 죽음을 두려워하지 않는 소모전의 상징이다.",
+      "reveals": "조상의 배신을 갚으려 온 행성이 죽음을 바친다",
+      "terms": [
+        "astra_militarum"
+      ],
+      "concepts": [
+        "catastrophe"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%81%AC%EB%A6%AC%EA%B7%B8"
+      ]
+    },
+    {
+      "id": "place_armageddon",
+      "ko": "아마겟돈",
+      "orig": "Armageddon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Shootas, Blood & Teef』(앱 1324530) 문장 '아마겟돈 섹터'에 쓰인 표기",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "공장과 하이브 도시로 덮인 군수 행성으로, 오크의 침공이 유독 끊이지 않는다. 계절마다 땅이 불타는 혹독한 곳이고, 세 차례의 대전쟁 뒤 지금도 늘 전쟁 중이다. 오크들이 왜 그렇게 이 행성에 끌리는지에 대해서는 옛 오크 제국의 수도와 얽힌 숨은 사연이 전한다.",
+      "reveals": "오크가 이 행성에 끌리는 데는 숨은 까닭이 있다",
+      "terms": [
+        "orks",
+        "hive_city"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_necromunda",
+      "ko": "네크로문다",
+      "orig": "Necromunda",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크로문다' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "거대한 하이브 도시들이 독한 잿빛 사막 위에 솟은 하이브 행성이다. 꼭대기에는 귀족 가문이, 바닥에는 갱단과 버려진 사람들이 산다. 제국에 병력과 물자를 대는 대신 귀족 가문들이 행성을 쥐고, 아래층에서는 갱단들이 자원과 영역을 두고 끝없이 싸운다.",
+      "reveals": "도시의 높이가 곧 신분인 행성이다",
+      "terms": [
+        "hive_city"
+      ],
+      "concepts": [
+        "class_divide"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%9C%EB%AC%B8%EB%8B%A4"
+      ]
+    },
+    {
+      "id": "place_eye_of_terror",
+      "ko": "아이 오브 테러",
+      "orig": "Eye of Terror",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '아이 오브 테러' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "엘다리 제국이 무너질 때 생긴, 현실과 워프가 뒤섞인 거대한 소용돌이다. 그 안에서는 시간과 물리 법칙이 뒤틀리고, 악마의 왕이 다스리는 행성과 옛 엘다리 행성들이 떠돈다. 반역 이후 반역파 군단 대부분이 이곳에 숨어 만 년 동안 침공을 꾸며 왔다.",
+      "reveals": "반역파는 만 년 동안 이 상처 속에 숨어 지냈다",
+      "terms": [
+        "warp",
+        "chaos_space_marines",
+        "slaanesh",
+        "aeldari",
+        "eye_of_terror"
+      ],
+      "concepts": [
+        "forbidden_zone"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%20%EC%98%A4%EB%B8%8C%20%ED%85%8C%EB%9F%AC"
+      ]
+    },
+    {
+      "id": "place_maelstrom",
+      "ko": "마엘스트롬",
+      "orig": "Maelstrom",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '마엘스트롬' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "테라에서 그리 멀지 않은 곳에 자리한 또 하나의 워프 소용돌이다. 아이 오브 테러보다 작지만 해적과 반역자, 이탈한 챕터들이 숨기 좋은 곳이라 늘 골칫거리다. 바답 전쟁에서 진 반역 챕터가 이곳에 해적 왕국을 세웠다.",
+      "reveals": "제국 가까이의 소용돌이가 해적들의 소굴이다",
+      "terms": [
+        "warp"
+      ],
+      "concepts": [
+        "forbidden_zone"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%A7%88%EC%97%98%EC%8A%A4%ED%8A%B8%EB%A1%AC",
+        "https://namu.wiki/w/%EB%A0%88%EB%93%9C%20%EC%BB%A4%EC%84%B8%EC%96%B4"
+      ]
+    },
+    {
+      "id": "place_titan_moon",
+      "ko": "타이탄(위성)",
+      "orig": "Titan (moon of Saturn)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '타이탄(워해머 40,000)' 문서에서 통용되는 표기 — 보행 병기와 구별하려 '(위성)'을 붙임",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "토성의 위성으로, 비밀 챕터 그레이 나이트의 요새가 숨어 있는 곳이다. 겉으로는 기록에 나오지 않고, 요새 안에는 악마를 다루는 지식과 무기가 쌓여 있다. 이 사전의 보행 병기 '타이탄'과 이름만 같다.",
+      "reveals": "악마 사냥꾼들은 지구 가까이에 숨어 있다",
+      "terms": [
+        "inquisition"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
+        "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8"
+      ]
+    },
+    {
+      "id": "place_halo_stars",
+      "ko": "헤일로 성단",
+      "orig": "Halo Stars",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '헤일로 성단' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "은하 가장자리, 제국의 정신 등대가 거의 닿지 않는 외곽의 별 무리다. 낯선 외계 종족과 옛 유적, 정체를 알 수 없는 위협이 숨어 있다고 전해, 모험가와 무역 특허 상인이 드나들지만 돌아오지 못하는 이가 많다.",
+      "reveals": "제국의 빛이 닿지 않는 끝에는 모르는 것이 숨어 있다",
+      "terms": [
+        "rogue_trader",
+        "astronomican"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%97%A4%EC%9D%BC%EB%A1%9C%20%EC%84%B1%EB%8B%A8"
+      ]
+    },
+    {
+      "id": "place_segmentums",
+      "ko": "세그멘툼",
+      "orig": "Segmentum Majoris",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '워해머 40,000/은하' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 은하 지리 대목",
+      "speaker": "",
+      "summary": "제국은 은하를 지구가 있는 가운데 구역과 북·동·남·서의 다섯 큰 구역으로 나눠 다스린다. 구역마다 함대 사령부를 둔 요새 행성이 있고, 그 아래로 섹터와 성계가 차례로 묶인다. 대균열 뒤로는 이 구분 위에 등대 빛이 닿는 절반과 닿지 않는 절반이라는 새 선이 겹쳤다.",
+      "reveals": "다섯 구역 위로 빛과 어둠의 선이 새로 그어졌다",
+      "terms": [
+        "imperium_of_man",
+        "astronomican"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%9D%80%ED%95%98"
+      ]
+    },
+    {
+      "id": "relic_golden_throne",
+      "ko": "황금 옥좌",
+      "orig": "Golden Throne",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '황금 옥좌' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "설정집의 황제·옥좌 대목",
+      "speaker": "",
+      "summary": "죽어 가는 황제의 몸을 붙들어 두는 거대한 장치다. 본디 황제가 웹웨이를 인류의 길로 삼으려던 비밀 사업의 문을 다스리는 장치였으나, 반역의 끝에 치명상을 입은 황제를 살려 두는 생명 유지 기계가 되었다. 날마다 수많은 정신 능력자의 목숨이 이 옥좌에 바쳐지고, 기계교는 그 원리를 다 알지 못한 채 낡아 가는 장치를 고친다.",
+      "reveals": "황제의 옥좌는 본디 다른 일을 위한 문이었다",
+      "terms": [
+        "golden_throne",
+        "emperor_of_mankind",
+        "webway",
+        "psyker"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ]
+    },
+    {
+      "id": "event_webway_project",
+      "ko": "황제의 웹웨이 계획",
+      "orig": "Imperial Webway Project",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 표기(나무위키 '웹웨이'·'황금 옥좌' 문서의 해당 대목 참고)",
+      "kind": "사건",
+      "where": "호루스 헤러시 설정집과 블랙 라이브러리 소설",
+      "speaker": "",
+      "summary": "대성전 막바지 황제가 지구로 돌아가 몰래 벌인 사업이다. 엘다리가 쓰던 웹웨이를 인류의 길로 삼아 위험한 워프 항해에서 벗어나려 했다. 그러나 마그누스가 반역을 경고하려 정신을 보냈다가 황궁 아래의 문을 깨뜨렸고, 악마들이 웹웨이로 쏟아져 들어와 사업은 무너졌다. 이 일로 인류는 워프에 기댄 항해에서 벗어날 기회를 잃었다.",
+      "reveals": "인류가 워프를 벗어날 기회는 아들의 실수로 사라졌다",
+      "terms": [
+        "webway",
+        "emperor_of_mankind",
+        "golden_throne",
+        "daemon"
+      ],
+      "concepts": [
+        "gate_network"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%B9%EC%9B%A8%EC%9D%B4",
+        "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ]
+    },
+    {
+      "id": "relic_emperors_tarot",
+      "ko": "황제의 타로",
+      "orig": "Emperor's Tarot",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 옮긴 표기(나무위키 '징조의 방주들' 문서에서 '황제의 타롯점'으로 언급)",
+      "kind": "유물",
+      "where": "설정집과 소설",
+      "speaker": "",
+      "summary": "점술가와 정신 능력자가 앞날을 읽을 때 쓰는 카드다. 카드에는 황제의 뜻이 깃든다고 여겨져, 같은 카드라도 놓일 때마다 그림이 미묘하게 바뀐다고 전한다. 제국은 이 카드로 운명을 점치는 일을 신앙의 한 갈래로 받아들인다.",
+      "reveals": "제국은 앞날을 황제의 카드에서 읽으려 한다",
+      "terms": [
+        "psyker",
+        "emperor_of_mankind"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%A7%95%EC%A1%B0%EC%9D%98%20%EB%B0%A9%EC%A3%BC%EB%93%A4"
+      ]
+    },
+    {
+      "id": "relic_red_grail",
+      "ko": "붉은 성배",
+      "orig": "Red Grail",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '검은 분노' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "블러드 엔젤 설정집",
+      "speaker": "",
+      "summary": "프라이마크 생귀니우스가 죽은 뒤 그 피를 담아 둔 성배다. 블러드 엔젤의 의무 사제들이 지키며, 새 전사를 만들 때 이 피와 이어진 것을 쓴다고 전한다. 성배는 챕터에게 가장 성스러운 유물이자, 핏줄에 흐르는 저주를 떠올리게 하는 상징이다.",
+      "reveals": "프라이마크의 피가 지금도 후손을 만드는 데 쓰인다",
+      "terms": [
+        "gene_seed"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B2%80%EC%9D%80%20%EB%B6%84%EB%85%B8",
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ]
+    },
+    {
+      "id": "relic_phalanx",
+      "ko": "팔랑크스",
+      "orig": "Phalanx",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '임페리얼 피스트' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "임페리얼 피스트 설정집",
+      "speaker": "",
+      "summary": "임페리얼 피스트가 고향 행성 대신 쓰는 거대한 요새 함선으로, 달만 한 크기의 떠다니는 성채다. 기술의 암흑기 무렵 지어진 뒤 오랜 세월 고치고 덧대어 쓰여 왔고, 열세 번째 블랙 크루세이드 때는 반역파가 빼앗은 옛 종족의 요새와 정면으로 맞서기도 했다. 지금도 챕터의 본거지이자 함대의 중심이다.",
+      "reveals": "한 챕터가 옛 황금기의 떠다니는 요새에서 산다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [
+        "habitat"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%ED%94%BC%EC%8A%A4%ED%8A%B8",
+        "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0"
+      ]
+    },
+    {
+      "id": "relic_the_rock",
+      "ko": "더 록",
+      "orig": "The Rock",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '다크 엔젤(워해머 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "다크 엔젤 설정집",
+      "speaker": "",
+      "summary": "부서진 고향 칼리번에서 남은 수도원 바위를 깎아 만든 다크 엔젤의 떠다니는 요새다. 그 깊은 곳에는 챕터의 가장 큰 비밀이 갇혀 있다고 전하며, 높은 지위의 전사만 그 아래로 내려갈 수 있다.",
+      "reveals": "부서진 고향의 바위에 챕터의 비밀이 갇혀 있다",
+      "terms": [
+        "chapter"
+      ],
+      "concepts": [
+        "habitat"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "regiment_cadian",
+      "ko": "카디안 쇼크 트루퍼",
+      "orig": "Cadian Shock Troops",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '카디안 쇼크 트루퍼' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 아스트라 밀리타룸 연대 소개 대목",
+      "speaker": "",
+      "summary": "요새 행성 카디아에서 길러진 연대다. 카디아 사람은 어려서부터 모두 병사로 자라 군대가 곧 사회였고, 그 장비와 짜임은 제국 보병의 표준이 되었다. 고향이 무너진 뒤에도 흩어진 연대들은 잃은 행성의 이름을 걸고 싸운다.",
+      "reveals": "제국 보병의 표준은 한 요새 행성에서 나왔다",
+      "terms": [
+        "astra_militarum",
+        "cadia"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%88%20%EC%87%BC%ED%81%AC%20%ED%8A%B8%EB%A3%A8%ED%8D%BC",
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ]
+    },
+    {
+      "id": "regiment_mordian",
+      "ko": "모디안 아이언 가드",
+      "orig": "Mordian Iron Guard",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '모디안 아이언 가드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 아스트라 밀리타룸 연대 소개 대목",
+      "speaker": "",
+      "summary": "한쪽은 늘 낮이고 다른 쪽은 늘 밤인 행성 모디아의 연대다. 사람이 살 수 있는 좁은 띠에 빽빽이 들어선 도시는 자원이 모자라 불만과 소요가 잦고, 연대는 그것을 진압하며 엄격한 규율을 몸에 익혔다. 열을 맞춘 사격과 흐트러지지 않는 후퇴로 이름났다.",
+      "reveals": "소요를 누르며 익힌 규율이 그대로 전술이 됐다",
+      "terms": [
+        "astra_militarum",
+        "hive_city"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%AA%A8%EB%94%94%EC%95%88%20%EC%95%84%EC%9D%B4%EC%96%B8%20%EA%B0%80%EB%93%9C"
+      ]
+    },
+    {
+      "id": "regiment_valhallan",
+      "ko": "발할란 아이스 워리어",
+      "orig": "Valhallan Ice Warriors",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '발할란 아이스 워리어' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 아스트라 밀리타룸 연대 소개 대목",
+      "speaker": "",
+      "summary": "혜성이 부딪혀 궤도가 틀어진 뒤 얼어붙은 행성 발할라의 연대다. 추위 속에 쳐들어온 오크를 화염과 포격으로 몰아낸 기억 때문에 오크와 싸우는 전장에 자주 보내진다. 혹한에는 강하지만 더위에는 몹시 약하다고 그려진다.",
+      "reveals": "얼어붙은 행성이 오크 사냥꾼을 길러 냈다",
+      "terms": [
+        "astra_militarum",
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B0%9C%ED%95%A0%EB%9E%80%20%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%9B%8C%EB%A6%AC%EC%96%B4"
+      ]
+    },
+    {
+      "id": "regiment_tallarn",
+      "ko": "탈라른 데저트 레이더",
+      "orig": "Tallarn Desert Raiders",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '탈라른 데저트 레이더' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "설정집의 아스트라 밀리타룸 연대 소개 대목",
+      "speaker": "",
+      "summary": "호루스의 반역 때 반역파가 떨군 바이러스 폭탄으로 숲이 사라지고 사막이 된 행성 탈라른의 연대다. 사람들은 지하 대피소에서 살아남아 다시 땅 위를 일궜고, 모래바람 속 기동전과 매복, 저격에 능하다. 이 행성은 반역 시절 거대한 전차전이 벌어진 곳이기도 하다.",
+      "reveals": "숲의 행성이 반역의 폭탄으로 사막이 되었다",
+      "terms": [
+        "astra_militarum",
+        "horus_heresy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%88%EB%9D%BC%EB%A5%B8%20%EB%8D%B0%EC%A0%80%ED%8A%B8%20%EB%A0%88%EC%9D%B4%EB%8D%94"
+      ]
+    },
+    {
+      "id": "myth_khaine_and_eldanesh",
+      "ko": "피 묻은 손의 케인",
+      "orig": "Kaela Mensha Khaine and Eldanesh",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엘다리' 문서의 신 대목에서 통용되는 표기(케인·엘다네쉬)를 써서 지은 제목",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "엘다리 신화에서 전쟁과 살육의 신 케인은 필멸자가 신들을 무너뜨린다는 예언을 듣고 갓 태어난 엘다리를 없애려 했다. 대장장이 신 바울이 만든 마지막 검을 받아 든 엘다리의 영웅 엘다네쉬가 그에 맞섰지만 무참히 쓰러졌고, 그 잔인함에 질린 신들의 왕은 케인의 손에 그 피가 영원히 흐르게 했다. 엘다리는 이 이야기로 전쟁의 힘이 얼마나 위험한지, 그리고 자기들 안에도 그 피가 흐른다는 것을 가르친다.",
+      "reveals": "엘다리는 전쟁의 신을 섬기면서도 두려워한다",
+      "terms": [
+        "aeldari"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "myth_isha_tears",
+      "ko": "이샤의 눈물",
+      "orig": "Tears of Isha",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엘다리' 문서의 신 대목에서 통용되는 표기(이샤)를 써서 지은 제목",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "생명과 수확의 여신 이샤는 엘다리 종족의 어머니다. 신들의 왕이 신과 필멸자 사이에 벽을 세우자 이샤는 자식들과 영영 갈라졌고, 그 슬픔으로 흘린 눈물을 대장장이 신 바울이 거둬 영혼을 지키는 돌로 벼렸다고 전한다. 엘다리가 죽을 때 영혼을 담는 돌이 바로 이 눈물에서 왔다는 것이다. 몰락 때 다른 신들이 먹힐 때, 이샤만은 병의 신 너글에게 붙잡혀 그의 정원에 갇혔다.",
+      "reveals": "영혼을 지키는 돌은 어머니 신의 눈물에서 왔다",
+      "terms": [
+        "spirit_stone",
+        "aeldari",
+        "nurgle"
+      ],
+      "concepts": [
+        "mind_upload"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "myth_shattering_of_khaine",
+      "ko": "케인의 조각",
+      "orig": "Shattering of Khaine (Avatar of Khaine)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엘다리' 문서에서 통용되는 표기(케인·케인의 화신)를 써서 지은 제목",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "엘다리 신들 대부분은 새 신이 태어날 때 먹혔지만, 케인은 맞서 싸우다 산산조각 났다고 전한다. 그 조각들은 세계선마다 하나씩 흩어져 세계선의 심장부에 잠들어 있고, 큰 전쟁이 다가오면 의식을 통해 깨어나 불타는 쇳덩이 같은 화신으로 일어선다. 엘다리는 이 화신을 앞세워 싸우면서도, 신의 분노가 자신들을 집어삼키지 않도록 조심한다.",
+      "reveals": "산산조각 난 전쟁신이 세계선마다 잠들어 있다",
+      "terms": [
+        "craftworld",
+        "aeldari"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "myth_cegorach",
+      "ko": "케고라크",
+      "orig": "Cegorach, the Laughing God",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '케고라크' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "엘다리 신들 가운데 꾀와 장난의 신으로, 몰락 때 웹웨이 깊은 곳으로 달아나 온전한 모습으로 살아남은 거의 유일한 신이다. 춤과 연극으로 신화를 되살리는 광대 전사들이 그를 섬기며, 그는 웹웨이 속 금지된 도서관을 지킨다. 그가 무엇을 꾀하는지는 아무도 모르지만, 엘다리를 지키려는 계획을 꾸민다고 여겨진다.",
+      "reveals": "몰락에서 웃으며 달아난 신이 아직 살아 있다",
+      "terms": [
+        "aeldari",
+        "webway",
+        "cegorach"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BC%80%EA%B3%A0%EB%9D%BC%ED%81%AC",
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "myth_ynnead",
+      "ko": "이니아드",
+      "orig": "Ynnead, God of the Dead",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이니아드' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "엘다리가 품어 온 마지막 희망의 신이다. 세계선의 영혼 망에 모인 죽은 이들의 영혼이 충분히 쌓이면 죽음의 신으로 깨어나, 엘다리의 영혼을 노리는 쾌락의 신을 물리칠 것이라 믿어 왔다. 대균열 무렵 이 신이 실제로 반쯤 깨어나기 시작했고, 그를 따르는 무리가 나타났다.",
+      "reveals": "죽은 자들이 모여 새 신이 되리라 믿었다",
+      "terms": [
+        "aeldari",
+        "spirit_stone",
+        "slaanesh",
+        "ynnead"
+      ],
+      "concepts": [
+        "godlike",
+        "merge"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%88%EC%95%84%EB%93%9C",
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "prophecy_rhana_dandra",
+      "ko": "라나 단드라",
+      "orig": "Rhana Dandra",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '엘다리' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "전설",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "엘다리가 믿는 마지막 전쟁의 예언이다. 언젠가 세상의 끝에 엘다리가 카오스와 최후의 결전을 벌이고, 그 싸움에서 모든 것이 끝나거나 새로 시작된다고 한다. 예언을 담은 책이 웹웨이 속 금지된 도서관에 있다고 전하며, 그 책을 두고 여러 세력이 다툰 일도 있었다.",
+      "reveals": "엘다리는 자기 종족의 끝을 이미 예언으로 안다",
+      "terms": [
+        "aeldari"
+      ],
+      "concepts": [
+        "prophecy"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC",
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "aeldari_paths",
+      "ko": "수행의 길",
+      "orig": "The Path (Asuryani)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 옮긴 표기(나무위키 '엘다리' 문서 참고)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "세계선 엘다리는 감정이 너무 강해 다시 타락하지 않도록, 평생을 여러 '길'로 나눠 하나씩 걷는다. 시인의 길, 장인의 길, 전사의 길처럼 한 가지에 수십 년씩 온전히 몸을 바친 뒤 다음 길로 넘어간다. 한 길에 갇혀 빠져나오지 못하는 일도 있어, 전사의 길에 갇힌 자는 영원한 전사가 되고, 길을 버린 자는 세계선을 떠나 떠돌이가 된다.",
+      "reveals": "감정을 다스리려 삶을 여러 길로 쪼개 산다",
+      "terms": [
+        "aeldari",
+        "craftworld"
+      ],
+      "concepts": [
+        "mental_discipline"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "place_biel_tan",
+      "ko": "비엘탄",
+      "orig": "Biel-Tan",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '비엘탄' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "옛 엘다리 제국의 영광을 되찾겠다는 뜻을 가장 앞세우는 세계선으로, 전사의 길을 걷는 이가 특히 많다. 몰락 때 잃은 행성들을 되찾으려 다른 종족을 쫓아내는 일도 서슴지 않는다. 대균열 무렵 악마의 공격으로 세계선의 영혼 망이 크게 부서지는 시련을 겪었다.",
+      "reveals": "잃은 제국을 되찾으려는 가장 호전적인 세계선이다",
+      "terms": [
+        "craftworld",
+        "aeldari"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%B9%84%EC%97%98%ED%83%84",
+        "https://namu.wiki/w/%EC%9D%B4%EB%82%98%EB%A6%AC%28Warhammer%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "place_iyanden",
+      "ko": "이얀덴",
+      "orig": "Iyanden",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이얀덴' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "한때 가장 크고 번성한 세계선 가운데 하나였으나, 티라니드 함대의 습격으로 주민 대부분을 잃었다. 살아남은 이들은 죽은 이의 영혼을 기계 몸에 깃들여 싸우게 하는 길을 택했고, 그래서 산 자보다 죽은 자가 더 많이 싸우는 세계가 되었다.",
+      "reveals": "죽은 자가 산 자 대신 싸우는 세계선이다",
+      "terms": [
+        "craftworld",
+        "spirit_stone",
+        "tyranids"
+      ],
+      "concepts": [
+        "mind_upload"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EC%96%80%EB%8D%B4"
+      ]
+    },
+    {
+      "id": "faction_ynnari",
+      "ko": "이나리",
+      "orig": "Ynnari",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '이나리(Warhammer 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "반쯤 깨어난 죽음의 신 이니아드를 따르는 엘다리 무리다. 세계선 출신, 웹웨이 도시 출신, 광대 전사 출신을 가리지 않고 모여, 죽은 이의 영혼에서 힘을 끌어낸다. 이들은 신을 완전히 깨우기 위해 옛 엘다리 행성들에 흩어진 검들을 찾아다닌다.",
+      "reveals": "갈라진 엘다리를 죽음의 신이 다시 묶는다",
+      "terms": [
+        "aeldari",
+        "drukhari",
+        "ynnead"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9D%B4%EB%82%98%EB%A6%AC%28Warhammer%2040%2C000%29",
+        "https://namu.wiki/w/%EC%9D%B4%EB%8B%88%EC%95%84%EB%93%9C"
+      ]
+    },
+    {
+      "id": "faction_harlequins",
+      "ko": "할리퀸",
+      "orig": "Harlequins",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '할리퀸(Warhammer 40,000)' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "웃는 신 케고라크를 섬기는 엘다리 광대 전사들이다. 화려한 옷을 입고 웹웨이를 떠돌며, 세계선과 웹웨이 도시를 가리지 않고 찾아가 신화를 춤과 연극으로 보여 준다. 싸울 때는 같은 몸놀림으로 적을 베며, 금지된 도서관의 문지기 노릇도 한다.",
+      "reveals": "춤과 연극으로 신화를 지키는 전사들이다",
+      "terms": [
+        "aeldari",
+        "webway",
+        "cegorach"
+      ],
+      "concepts": [
+        "order"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%95%A0%EB%A6%AC%ED%80%B8%28Warhammer%2040%2C000%29",
+        "https://namu.wiki/w/%EC%BC%80%EA%B3%A0%EB%9D%BC%ED%81%AC"
+      ]
+    },
+    {
+      "id": "place_black_library",
+      "ko": "블랙 라이브러리",
+      "orig": "Black Library",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙 라이브러리' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "엘다리 설정집(코덱스)의 신화·세력 대목",
+      "speaker": "",
+      "summary": "웹웨이 깊은 곳에 숨어 있는 엘다리의 도서관으로, 카오스에 관한 가장 위험한 지식이 모여 있다. 광대 전사들이 지키며, 그들의 허락 없이는 들어갈 수 없다. 카오스의 마법사들이 여러 번 침입하려 했고, 인간 이단심문관 몇 사람만이 드물게 이곳에 다녀갔다.",
+      "reveals": "카오스를 막는 지식은 웹웨이 깊은 곳에 숨겨져 있다",
+      "terms": [
+        "aeldari",
+        "webway",
+        "cegorach"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "place_commorragh",
+      "ko": "코모라",
+      "orig": "Commorragh",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '코모라' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "드루카리 설정집",
+      "speaker": "",
+      "summary": "웹웨이 안에 숨은 드루카리의 거대한 도시로, 몰락 이전부터 있던 엘다리의 항구가 끝없이 불어난 곳이다. 해가 없는 대신 붙잡아 온 별빛으로 밝히고, 해적질로 잡아 온 노예와 그 고통이 도시를 먹여 살린다. 도시는 여러 귀족 무리가 서로 음모를 꾸미며 나눠 쥐고 있다.",
+      "reveals": "웹웨이 속 도시는 남의 고통으로 돌아간다",
+      "terms": [
+        "drukhari",
+        "webway",
+        "commorragh"
+      ],
+      "concepts": [
+        "class_divide"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%BD%94%EB%AA%A8%EB%9D%BC",
+        "https://namu.wiki/w/%EB%93%9C%EB%A3%A8%EC%B9%B4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "drukhari_society",
+      "ko": "드루카리의 세 갈래",
+      "orig": "Kabals, Wych Cults and Haemonculus Covens",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 제목(나무위키 '드루카리' 문서의 카발·위치 컬트·헤몬쿨리 대목 참고)",
+      "kind": "소개",
+      "where": "드루카리 설정집",
+      "speaker": "",
+      "summary": "드루카리 사회는 크게 셋으로 나뉜다. 해적질과 음모로 권력을 다투는 귀족 무리, 투기장에서 싸움을 구경거리로 삼는 검투 무리, 그리고 살과 뼈를 마음대로 고치며 죽은 자까지 되살리는 육체 조각가 무리다. 셋 모두 남의 고통을 빨아들여 늙지 않고 버티는 점에서 같다.",
+      "reveals": "드루카리는 고통을 먹는 방법만 셋으로 갈렸다",
+      "terms": [
+        "drukhari",
+        "commorragh"
+      ],
+      "concepts": [
+        "longevity"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%93%9C%EB%A3%A8%EC%B9%B4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "necron_silent_king",
+      "ko": "침묵의 왕의 귀환",
+      "orig": "Return of the Silent King",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(침묵의 왕 자렉)를 써서 지은 제목",
+      "kind": "사건",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "네크론 전체를 다스리던 침묵의 왕 자렉은 오래전 종족을 기계로 바꾼 거래가 영혼을 빼앗는 덫이었음을 깨닫고, 별의 신들을 조각내 가둔 뒤 스스로 은하를 떠났다. 대균열 뒤 그가 행성만 한 함선들을 이끌고 돌아왔고, 티라니드라는 더 큰 위협 앞에서 제국과도 손잡을 수 있다는 뜻을 보였다. 그는 종족을 다시 살과 피로 되돌릴 방법을 찾고 있다.",
+      "reveals": "네크론의 왕은 종족을 다시 살로 되돌리려 한다",
+      "terms": [
+        "necrons",
+        "c_tan",
+        "biotransference"
+      ],
+      "concepts": [
+        "machine_race"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0",
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ]
+    },
+    {
+      "id": "necron_triarch",
+      "ko": "삼두정",
+      "orig": "Triarch",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "옛 네크론티르 제국의 중앙 정부로, 침묵의 왕 아래에서 왕조들을 묶어 다스리던 세 사람의 회의다. 제국이 넓어지면서 여러 왕조가 떨어져 나가려 해 큰 내전이 일었고, 그것이 별의 신들과의 거래로 이어지는 배경이 되었다. 지금은 그 친위대가 옛 법을 지키는 사자로 은하를 떠돈다.",
+      "reveals": "네크론의 제국도 한때 분열과 내전을 겪었다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_szarekhan",
+      "ko": "자레칸 왕조",
+      "orig": "Szarekhan Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "침묵의 왕의 왕조로, 기계가 된 뒤 깨어난 왕조 가운데 가장 강했다. 왕이 은하를 떠나 있던 동안에는 다른 왕조에게 자리를 내줬지만, 그가 돌아오며 다시 힘을 모으고 있다.",
+      "reveals": "돌아온 왕의 핏줄이 다시 힘을 모은다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_sautekh",
+      "ko": "사우테크 왕조",
+      "orig": "Sautekh Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "폭풍 군주라 불리는 이모테크가 이끄는 왕조로, 왕이 떠나 있던 동안 가장 큰 세력이 되었다. 주변 왕조를 정복해 새 제국을 세우려 하며, 그 우두머리는 다음 왕 자리를 노린다는 이야기가 공공연하다.",
+      "reveals": "왕의 빈자리를 차지하려는 왕조가 있다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_mephrit",
+      "ko": "메프리트 왕조",
+      "orig": "Mephrit Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "옛 전쟁에서 별을 폭발시켜 성계째 지우던 '항성 처형자'로 이름난 왕조다. 긴 세월 동안 무덤 행성 다수를 잃고 우두머리가 엘다리 자객에게 살해당해 크게 기울었다.",
+      "reveals": "별을 터뜨려 적을 지우던 왕조다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [
+        "planet_killer"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_nephrekh",
+      "ko": "네프레크 왕조",
+      "orig": "Nephrekh Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "세 개의 별이 도는 성계에 수도를 둔 부유한 왕조로, 별의 힘을 마셔 전사들을 강하게 만든다. 우두머리는 깊은 잠 속에서 정신이 흐트러져, 몸을 빛으로 바꿔 먼 곳으로 옮겨 다니는 힘을 얻었다.",
+      "reveals": "별빛을 마시고 빛이 된 왕조다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [
+        "teleport"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_novokh",
+      "ko": "노보크 왕조",
+      "orig": "Novokh Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "살과 피의 몸이던 시절부터 피를 쓰는 의식을 치르던 왕조로, 군대를 핏빛으로 칠한다. 기계 몸이 된 지금도 그 기억이 남아 근접전에서 적의 피를 보기를 즐긴다.",
+      "reveals": "기계가 된 뒤에도 피의 기억을 놓지 못한다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "dynasty_nihilakh",
+      "ko": "니힐라크 왕조",
+      "orig": "Nihilakh Dynasty",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "제 영토를 지키는 데만 매달리는 왕조로, 쌓아 둔 보물이 많아 군대를 금빛으로 꾸민다. 앞날을 보는 보물을 통해 다가올 전쟁을 미리 내다보고 대비한다.",
+      "reveals": "제 땅만 지키며 앞날을 내다보는 왕조다",
+      "terms": [
+        "necrons"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "curse_flayer",
+      "ko": "가죽을 벗기는 자의 저주",
+      "orig": "Curse of the Flayer",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '네크론'·'크탄' 문서에서 통용되는 표기(가죽을 벗기는 자)를 써서 지은 제목",
+      "kind": "전설",
+      "where": "네크론 설정집의 왕조·역사 대목",
+      "speaker": "",
+      "summary": "별의 신들 가운데 하나가 네크론에게 완전히 죽임을 당하며 남긴 저주다. 그 신이 흩어질 때 퍼뜨린 기계 역병에 걸린 네크론은 살과 피를 끝없이 탐하며 적의 가죽을 벗겨 몸에 걸친다. 이들은 무리에서 쫓겨나 짐승처럼 떠돌고, 다른 네크론도 이들을 두려워한다.",
+      "reveals": "죽은 신의 저주가 기계 몸에 굶주림을 심었다",
+      "terms": [
+        "necrons",
+        "c_tan"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84",
+        "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ]
+    },
+    {
+      "id": "ctan_shards",
+      "ko": "네 별의 신",
+      "orig": "The C'tan (Nightbringer, Deceiver, Void Dragon, Outsider)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '크탄' 문서에서 통용되는 표기(나이트브링어·디시버·보이드 드래곤 등)를 우리 말로 풀어 지은 제목",
+      "kind": "전설",
+      "where": "네크론·크탄 설정집",
+      "speaker": "",
+      "summary": "네크론을 속여 영혼을 먹은 별의 신들 가운데 이름난 것이 넷 있다. 모든 생명이 품은 죽음의 두려움이 그 모습에서 비롯했다는 밤을 부르는 자, 거짓과 속임의 신, 기계와 불의 신인 공허의 용, 그리고 다른 신들마저 먹어 미쳐 버린 바깥의 자다. 지금은 모두 조각나 갇혀 있지만, 조각 하나만으로도 행성을 흔들 힘이 있다.",
+      "reveals": "별의 신은 조각난 채로도 세상을 위협한다",
+      "terms": [
+        "c_tan",
+        "necrons"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ]
+    },
+    {
+      "id": "relic_cadian_pylons",
+      "ko": "카디안 파일런",
+      "orig": "Cadian Pylons",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 — 나무위키 '카디아의 함락' 문서에서 통용되는 표기",
+      "kind": "유물",
+      "where": "카디아 함락 대목",
+      "speaker": "",
+      "summary": "카디아 땅 곳곳에 솟아 있던 검은 돌기둥들이다. 제국은 만 년 동안 그 정체를 몰랐는데, 사실은 오래전 네크론이 워프를 눌러 두려고 세운 장치였고, 그 덕에 카디아 주변은 워프 소용돌이가 넘어오지 못했다. 카디아가 무너지며 기둥도 함께 꺼지자 은하를 가르는 균열이 터졌다.",
+      "reveals": "카디아의 기둥이 워프를 막던 마개였다",
+      "terms": [
+        "necrons",
+        "warp",
+        "cadia"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84%EC%9D%98%20%ED%95%A8%EB%9D%BD",
+        "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ]
+    },
+    {
+      "id": "relic_blackstone_fortress",
+      "ko": "블랙스톤 포트리스",
+      "orig": "Blackstone Fortress (Talismans of Vaul)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '블랙스톤 포트리스' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "고딕 전쟁·카디아 함락 대목",
+      "speaker": "",
+      "summary": "옛 종족이 별의 신들과의 전쟁에 쓰려고 만든 거대한 검은 요새들이다. 엘다리 신화에서는 대장장이 신의 부적이라 부른다. 별 하나를 꺼뜨릴 만큼의 힘을 지녀, 아바돈은 고딕 전쟁에서 여럿을 빼앗았고 마지막에는 그 하나를 카디아에 떨어뜨렸다. 요새의 진짜 쓰임새는 지금도 다 밝혀지지 않았다.",
+      "reveals": "아바돈이 빼앗은 옛 요새가 카디아를 무너뜨렸다",
+      "terms": [
+        "old_ones",
+        "c_tan",
+        "blackstone_fortress"
+      ],
+      "concepts": [
+        "planet_killer"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%8A%A4%ED%86%A4%20%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A4",
+        "https://namu.wiki/w/%EA%B3%A0%EB%94%95%20%EC%A0%84%EC%9F%81"
+      ]
+    },
+    {
+      "id": "tau_castes",
+      "ko": "타우의 카스트",
+      "orig": "T'au Castes",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 — 나무위키 '타우 제국' 문서의 카스트 대목(불·대지·물·공기)을 따름",
+      "kind": "소개",
+      "where": "타우 제국 설정집",
+      "speaker": "",
+      "summary": "타우 사회는 태어날 때부터 정해진 다섯 계급으로 나뉜다. 싸우는 불의 카스트, 만들고 짓는 대지의 카스트, 협상하고 다스리는 물의 카스트, 하늘을 나는 공기의 카스트, 그리고 이 모두를 묶어 이끄는 맨 위의 계급이다. 각 카스트는 자기 몫을 다하는 것이 곧 대의를 섬기는 길이라 믿는다. 이 짜임은 옛날 타우 행성이 서로 죽고 죽이던 시대를 끝내며 생겼다고 전한다.",
+      "reveals": "타우는 저마다 맡은 몫으로 사회를 나눈다",
+      "terms": [
+        "tau_empire",
+        "ethereal",
+        "greater_good"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9A%B0%20%EC%A0%9C%EA%B5%AD"
+      ]
+    },
+    {
+      "id": "tau_farsight",
+      "ko": "파사이트 엔클레이브",
+      "orig": "Farsight Enclaves",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '타우 제국' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "타우 제국 설정집",
+      "speaker": "",
+      "summary": "타우 제국에서 떨어져 나간 불의 카스트 장군 파사이트와 그를 따르는 무리의 영역이다. 옛 원정 도중 신비한 검을 얻은 뒤 제국으로 돌아가지 않고 독자 세력을 세웠다. 맨 위 계급의 지휘를 받지 않으면서도 대의를 따르며, 지배 계급에 대한 의심을 품고 있다.",
+      "reveals": "대의를 따르면서 지배 계급은 믿지 않는 무리다",
+      "terms": [
+        "tau_empire",
+        "ethereal",
+        "greater_good"
+      ],
+      "concepts": [
+        "ideology_split"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9A%B0%20%EC%A0%9C%EA%B5%AD"
+      ]
+    },
+    {
+      "id": "tau_kroot",
+      "ko": "크룻",
+      "orig": "Kroot",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '크룻' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "타우 제국 설정집",
+      "speaker": "",
+      "summary": "타우 제국과 손잡은 외계 종족으로, 먹은 생물의 유전자를 몸에 받아들여 다음 세대에 그 형질을 물려준다. 그래서 무엇을 먹을지가 종족의 앞날을 정하는 일이 되고, 잘못된 먹이는 퇴화로 이어진다. 용병으로도 이름나 여러 세력에 고용된다.",
+      "reveals": "먹는 것이 곧 진화가 되는 종족이다",
+      "terms": [
+        "tau_empire"
+      ],
+      "concepts": [
+        "alien",
+        "genetic_eng"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%81%AC%EB%A3%BB"
+      ]
+    },
+    {
+      "id": "myth_gork_and_mork",
+      "ko": "고크와 모크",
+      "orig": "Gork and Mork",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '고크와 모크' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "전설",
+      "where": "오크 설정집",
+      "speaker": "",
+      "summary": "오크가 섬기는 두 신으로, 하나는 '사납게 영리한' 신, 다른 하나는 '영리하게 사나운' 신이라 한다. 오크들의 흥분과 믿음이 워프에 모여 생긴 신들로, 오크가 싸울수록 강해진다. 오크들은 두 신이 카오스 신을 두들겨 팼다는 이야기를 즐겨 하며, 위대한 우두머리는 두 신의 계시를 받았다고 내세운다.",
+      "reveals": "오크의 신은 오크의 흥분으로 자란다",
+      "terms": [
+        "orks",
+        "waaagh",
+        "gork_and_mork"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B3%A0%ED%81%AC%EC%99%80%20%EB%AA%A8%ED%81%AC"
+      ]
+    },
+    {
+      "id": "ork_goffs",
+      "ko": "고프 클랜",
+      "orig": "Goffs",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "가장 크고 사나운 오크들이 모인 클랜으로, 꾀보다 맞붙어 싸우는 것을 최고로 친다. 검정과 흰색 체크무늬를 즐기고, 다른 클랜의 화려한 장비를 우습게 본다.",
+      "reveals": "가장 단순하고 가장 사나운 오크들이다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "ork_evil_sunz",
+      "ko": "이블 선 클랜",
+      "orig": "Evil Sunz",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "속도에 미친 오크들로, 빨간색을 칠하면 탈것이 더 빨라진다고 믿는다. 바퀴와 엔진이 달린 것이면 무엇이든 타고 달려 들이친다.",
+      "reveals": "빨간 것이 더 빠르다고 믿는 오크들이다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "ork_bad_moons",
+      "ko": "배드 문 클랜",
+      "orig": "Bad Moons",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "이빨이 유난히 빨리 자라는 오크들이 모인 부자 클랜이다. 오크는 이빨을 돈으로 쓰므로 이들은 가장 크고 번쩍이는 총과 장비를 사들이고, 다른 클랜의 시샘을 받는다.",
+      "reveals": "이빨이 돈인 세계에서 이빨 부자가 된 오크들이다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "ork_deathskulls",
+      "ko": "데스스컬 클랜",
+      "orig": "Deathskulls",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "전장에 떨어진 것은 무엇이든 주워 쓰는 약탈꾼 클랜이다. 파란색이 운을 가져온다고 믿어 몸과 장비에 파란 칠을 한다. 적의 시체와 잔해에서 쓸 만한 것을 가장 먼저 챙긴다.",
+      "reveals": "주워 쓰는 것이 이 오크들의 싸움 방식이다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "ork_snakebites",
+      "ko": "스네이크바이트 클랜",
+      "orig": "Snakebites",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "옛 방식을 고집하는 클랜으로, 새 기술보다 짐승을 길들여 타고 싸우는 것을 좋아한다. 독사에 물려도 끄떡없을 만큼 질기다고 자랑한다.",
+      "reveals": "새 기술 대신 옛 방식을 고집하는 오크들이다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "ork_blood_axes",
+      "ko": "블러드 액스 클랜",
+      "orig": "Blood Axes",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '오크(워해머 40,000)' 문서 클랜 대목에서 통용되는 표기",
+      "kind": "소개",
+      "where": "오크 설정집의 클랜 대목",
+      "speaker": "",
+      "summary": "인간과 자주 거래하고 싸우며 그들의 전술을 따라 배운 클랜이다. 위장 무늬를 입고 작전을 짜서 싸우므로, 다른 오크들은 이들을 믿지 못할 놈들로 여긴다.",
+      "reveals": "적의 방식을 배운 오크는 동족에게 의심받는다",
+      "terms": [
+        "orks"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ]
+    },
+    {
+      "id": "votann_leagues",
+      "ko": "보탄 연맹",
+      "orig": "Leagues of Votann",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '보탄 연맹' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "보탄 연맹 설정집",
+      "speaker": "",
+      "summary": "아득한 옛날 세대 우주선을 타고 은하 중심부로 옮겨 간 인간의 후손이다. 투쟁의 시대를 거치며 옛 기술을 거의 온전히 지켜 냈고, 복제 기술로 대를 잇는다. 그 때문에 제국과는 핏줄을 나눴으면서도 금지된 기술을 쓰는 불편한 사이다. 다른 이들이 낮춰 부르던 이름 대신, 스스로는 서로를 '일족'이라 부른다.",
+      "reveals": "황금기의 기술을 지킨 인류의 먼 친척이 있다",
+      "terms": [
+        "dark_age_of_technology",
+        "stc",
+        "leagues_of_votann"
+      ],
+      "concepts": [
+        "generation_ship",
+        "clone"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B3%B4%ED%83%84%20%EC%97%B0%EB%A7%B9"
+      ]
+    },
+    {
+      "id": "votann_cores",
+      "ko": "보탄",
+      "orig": "Votann (Ancestor Cores)",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '보탄 연맹' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "소개",
+      "where": "보탄 연맹 설정집",
+      "speaker": "",
+      "summary": "보탄 연맹이 '조상'으로 받드는 존재로, 실제로는 옛 시대에 만든 생각하는 기계의 핵이다. 조상들의 지식과 경험이 담겨 있다고 여겨지며, 일족은 그 판단을 따라 나라를 꾸린다. 제국이라면 가장 무거운 죄로 다룰 생각하는 기계를, 이들은 조상으로 모시는 셈이다.",
+      "reveals": "제국의 금기인 생각하는 기계를 조상으로 모신다",
+      "terms": [
+        "abominable_intelligence",
+        "leagues_of_votann"
+      ],
+      "concepts": [
+        "ai",
+        "ancestral_memory"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B3%B4%ED%83%84%20%EC%97%B0%EB%A7%B9"
+      ]
+    },
+    {
+      "id": "chaos_realm_khorne",
+      "ko": "피의 신의 영역",
+      "orig": "Realm of Khorne (Brass Citadel)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 제목(나무위키 '카오스의 영역' 문서 참고)",
+      "kind": "소개",
+      "where": "카오스 설정집의 신·영역 대목",
+      "speaker": "",
+      "summary": "워프 속 코온의 영역에는 쌓인 해골 위에 놋쇠 성채가 서 있고, 그 둘레로 피의 강이 흐른다고 한다. 신은 그 옥좌에 앉아 바쳐진 해골이 산처럼 쌓이는 것을 지켜보며, 누가 흘린 피든 가리지 않는다.",
+      "reveals": "누구의 피든 이 신에게는 같은 제물이다",
+      "terms": [
+        "khorne",
+        "chaos_gods",
+        "warp"
+      ],
+      "concepts": [
+        "other_realm"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD"
+      ]
+    },
+    {
+      "id": "chaos_realm_nurgle",
+      "ko": "너글의 정원",
+      "orig": "Garden of Nurgle",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 — 나무위키 '엘다리' 문서에서 쓰는 '역병의 정원'을 따라 지은 제목",
+      "kind": "소개",
+      "where": "카오스 설정집의 신·영역 대목",
+      "speaker": "",
+      "summary": "너글의 영역은 썩은 나무와 병든 꽃이 끝없이 피고 지는 거대한 정원이다. 신은 그 한가운데 저택에서 새 병을 끓여 내며 그것을 자식들에게 주는 선물로 여긴다. 엘다리의 생명의 여신이 이곳에 갇혀 있다고 전한다.",
+      "reveals": "병의 신은 썩음을 정원처럼 가꾼다",
+      "terms": [
+        "nurgle",
+        "chaos_gods",
+        "warp"
+      ],
+      "concepts": [
+        "other_realm"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD",
+        "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ]
+    },
+    {
+      "id": "chaos_realm_tzeentch",
+      "ko": "변화의 미궁",
+      "orig": "Crystal Labyrinth of Tzeentch",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 제목(나무위키 '카오스의 영역' 문서 참고)",
+      "kind": "소개",
+      "where": "카오스 설정집의 신·영역 대목",
+      "speaker": "",
+      "summary": "친취의 영역은 끝없이 모양을 바꾸는 수정 미로다. 길은 들어갈 때마다 달라지고, 그 한가운데에서 신은 모든 가능한 미래를 엿본다고 한다. 미로 자체가 이 신이 꾸미는 끝없는 계략을 닮았다.",
+      "reveals": "변화의 신의 집은 늘 다른 길을 낸다",
+      "terms": [
+        "tzeentch",
+        "chaos_gods",
+        "warp"
+      ],
+      "concepts": [
+        "other_realm"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD"
+      ]
+    },
+    {
+      "id": "chaos_realm_slaanesh",
+      "ko": "쾌락의 궁전",
+      "orig": "Palace of Slaanesh",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 제목(나무위키 '카오스의 영역' 문서 참고)",
+      "kind": "소개",
+      "where": "카오스 설정집의 신·영역 대목",
+      "speaker": "",
+      "summary": "슬라네시의 영역은 여섯 겹의 동그라미로 둘러싸인 궁전으로, 바깥 고리마다 들어오는 자를 저마다의 욕망으로 붙잡아 둔다. 끝까지 가는 자는 거의 없고, 대부분 가장 원하던 것 앞에서 영원히 머문다. 이곳에 몰락한 엘다리 신들의 흔적이 남아 있다고도 전한다.",
+      "reveals": "쾌락의 신은 욕망으로 길을 막는다",
+      "terms": [
+        "slaanesh",
+        "chaos_gods",
+        "warp"
+      ],
+      "concepts": [
+        "other_realm"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD"
+      ]
+    },
+    {
+      "id": "chaos_great_game",
+      "ko": "위대한 게임",
+      "orig": "The Great Game",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 원어를 우리 말로 옮긴 표기",
+      "kind": "소개",
+      "where": "카오스 설정집의 신·영역 대목",
+      "speaker": "",
+      "summary": "카오스의 네 신이 서로 힘을 다투는 끝없는 겨루기를 가리킨다. 한 신이 강해지면 나머지가 손잡고 끌어내리기 때문에 어느 하나도 끝내 이기지 못한다. 이 다툼 덕에 현실이 아직 워프에 삼켜지지 않았다는 풀이도 있다.",
+      "reveals": "신들이 서로 싸우는 덕에 세상이 버틴다",
+      "terms": [
+        "chaos_gods"
+      ],
+      "concepts": [
+        "godlike"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD",
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000/%EC%84%A4%EC%A0%95"
+      ]
+    },
+    {
+      "id": "relic_drachnyen",
+      "ko": "드라크니옌",
+      "orig": "Drach'nyen",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '에제카일 아바돈' 문서에서 통용되는 표기",
+      "kind": "유물",
+      "where": "아바돈 설정집과 소설",
+      "speaker": "",
+      "summary": "아바돈이 쓰는 악마 검이다. 인류가 처음으로 형제를 죽였을 때 워프에 남은 메아리에서 태어났다고 전하는 악마가 깃들어 있다. 이 악마는 오래전 웹웨이 싸움에서 황제에게 상처를 입혔다고도 하며, 아바돈은 이를 붙잡아 칼에 묶었다.",
+      "reveals": "인류 첫 살인의 메아리가 칼이 되었다",
+      "terms": [
+        "daemon",
+        "chaos_space_marines"
+      ],
+      "concepts": [
+        "pact"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%90%EC%A0%9C%EC%B9%B4%EC%9D%BC%20%EC%95%84%EB%B0%94%EB%8F%88"
+      ]
+    },
+    {
+      "id": "relic_talon_of_horus",
+      "ko": "호루스의 발톱",
+      "orig": "Talon of Horus",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '에제카일 아바돈' 문서에서 통용되는 표기(국내 정식 설정집·소설 없음)",
+      "kind": "유물",
+      "where": "아바돈 설정집과 소설",
+      "speaker": "",
+      "summary": "워마스터 호루스가 끼던 번개 갈퀴 장갑으로, 그가 황제를 다치게 한 무기다. 호루스가 죽은 뒤 아바돈이 이것을 차지해, 옛 주인의 실패를 되풀이하지 않겠다는 다짐처럼 지니고 다닌다.",
+      "reveals": "아바돈은 옛 주인의 무기로 그의 실패를 넘으려 한다",
+      "terms": [
+        "chaos_space_marines",
+        "horus_heresy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%97%90%EC%A0%9C%EC%B9%B4%EC%9D%BC%20%EC%95%84%EB%B0%94%EB%8F%88"
+      ]
+    },
+    {
+      "id": "tyranid_genestealer_cycle",
+      "ko": "진스틸러 교단의 순환",
+      "orig": "Genestealer Cult Cycle",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 이름 없음 — 우리 말로 지은 제목(나무위키 '진스틸러 컬트' 문서 참고)",
+      "kind": "소개",
+      "where": "진스틸러 컬트 설정집",
+      "speaker": "",
+      "summary": "진스틸러 하나가 사람에게 자기 유전자를 심으면, 그 사람의 아이부터 대를 이어 점점 사람에 가까운 혼혈이 태어난다. 이들은 교단을 이뤄 행성의 군대와 관청에 숨어들고, 하늘에서 '구원자'가 올 날을 기다린다. 마침내 봉기가 일어날 때쯤이면 티라니드 함대가 그 신호를 따라 다가온다. 교단원들은 자기들이 기다린 구원자가 실은 자기들까지 삼킬 무리라는 것을 모른다.",
+      "reveals": "숨은 교단이 기다리는 구원자는 그들을 삼킬 무리다",
+      "terms": [
+        "genestealer",
+        "tyranids",
+        "hive_mind"
+      ],
+      "concepts": [
+        "parasite",
+        "assimilation"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EC%A7%84%EC%8A%A4%ED%8B%B8%EB%9F%AC%20%EC%BB%AC%ED%8A%B8"
+      ]
+    },
+    {
+      "id": "game_tertium",
+      "ko": "테르티움",
+      "orig": "Tertium",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Darktide』(앱 1361210) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "『Warhammer 40,000: Darktide』 상점 소개와 게임 무대",
+      "speaker": "",
+      "summary": "『Darktide』의 무대인 하이브 도시다. 불타는 공장과 산성비에 더럽혀진 물길이 얽힌 거대한 도시로, 그 깊은 곳에서 병의 신을 섬기는 무리가 번져 도시 전체를 삼키려 한다. 이단심문관 아래 모인 죄수 출신 요원들이 도시가 무너지기 전에 이들을 몰아내는 일을 맡는다. 도시 하나의 몰락이 곧 이교도의 봉기로 이어진다는 것이 이 이야기의 긴장이다.",
+      "reveals": "하이브 도시의 밑바닥에서 이단이 자라난다",
+      "terms": [
+        "hive_city",
+        "inquisition",
+        "nurgle"
+      ],
+      "concepts": [
+        "class_divide"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1361210/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_crimson_dawn",
+      "ko": "붉은 여명의 시대",
+      "orig": "Age of Crimson Dawn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Battlesector』(앱 1295500) 문장에 쓰인 표기",
+      "kind": "사건",
+      "where": "『Warhammer 40,000: Battlesector』 캠페인",
+      "speaker": "",
+      "summary": "『Battlesector』 단독 캠페인으로, 바알 성계가 티라니드에게 짓밟힌 직후를 다룬다. 살아남은 블러드 엔젤 부대가 바알의 위성 바알 세컨두스에 남은 티라니드를 몰아내려 싸운다. 거대한 포위가 풀린 뒤에도 행성에 남은 무리를 걷어 내는 싸움은 따로 이어졌다는 것을 보여 준다.",
+      "reveals": "포위가 풀려도 바알의 싸움은 끝나지 않았다",
+      "terms": [
+        "tyranids",
+        "chapter"
+      ],
+      "concepts": [
+        "galactic_threat"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1295500/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_koronus_expanse",
+      "ko": "코로누스 공역",
+      "orig": "Koronus Expanse",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Rogue Trader』(앱 2186680) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "『Warhammer 40,000: Rogue Trader』 상점 소개와 게임 무대",
+      "speaker": "",
+      "summary": "제국 변두리 너머에 펼쳐진 거대한 미지의 영역으로, 『Rogue Trader』의 무대다. 위험한 생명체와 옛 유적, 엄청난 이윤이 함께 숨어 있어, 무역 특허를 쥔 상인 가문이 거대한 함선을 끌고 탐험과 정복에 나선다. 이곳에서는 제국의 법보다 특허장을 쥔 우두머리의 뜻이 앞선다.",
+      "reveals": "제국 끝 너머에서는 특허장이 곧 법이다",
+      "terms": [
+        "rogue_trader"
+      ],
+      "concepts": [
+        "colonization"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2186680/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_caligari_sector",
+      "ko": "칼리가리 섹터",
+      "orig": "Caligari Sector",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Inquisitor - Martyr』(앱 527430) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "『Warhammer 40,000: Inquisitor - Martyr』 상점 소개와 게임 무대",
+      "speaker": "",
+      "summary": "『Inquisitor - Martyr』의 무대인 섹터로, 황제의 빛에서 멀리 떨어진 채 워프 폭풍에 휩싸여 카오스에 물들어 간다. 이단심문관이 이곳에 들어와 오염을 걷어 내며, 과거 이단심문소가 숨겨 둔 비밀을 간직한 요새 수도원과 마주한다.",
+      "reveals": "빛이 닿지 않는 섹터는 천천히 카오스에 물든다",
+      "terms": [
+        "inquisition",
+        "astronomican"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/527430/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_graia",
+      "ko": "그라이아",
+      "orig": "Graia",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 소개 『Warhammer 40,000: Boltgun』(앱 2005010) 문장에 쓰인 표기",
+      "kind": "소개",
+      "where": "『Warhammer 40,000: Boltgun』 상점 소개와 게임 무대",
+      "speaker": "",
+      "summary": "『Boltgun』의 무대인 제련 행성이다. 행성의 강력한 동력원에서 떨어져 나온 파편을 둘러싸고 카오스 숭배자와 반역자, 악마가 행성을 덮쳤고, 스페이스 마린 한 사람이 서보 스컬과 함께 파편을 되찾으러 내려간다. 공장과 성당이 뒤섞인 기계교 행성의 모습이 드러난다.",
+      "reveals": "제련 행성의 동력원이 카오스를 끌어들였다",
+      "terms": [
+        "forge_world",
+        "servo_skull",
+        "space_marines"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2005010/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_the_bloom",
+      "ko": "블룸",
+      "orig": "The Bloom",
+      "ko_status": "우리 표기",
+      "ko_src": "한국어 상점 소개에도 원어 'The Bloom' 그대로 쓰여 우리 표기 — 원어를 소리 나는 대로",
+      "kind": "사건",
+      "where": "『Warhammer 40,000: Chaos Gate - Daemonhunters』 캠페인",
+      "speaker": "",
+      "summary": "이 게임에서 그레이 나이트가 맞서는, 은하로 번져 가는 기묘한 역병이다. 병은 행성의 생명과 땅을 꽃이 피듯 뒤덮으며 바꿔 놓고, 그 뒤에는 병의 신을 섬기는 세력의 계획이 있다. 그레이 나이트는 행성마다 역병의 확산을 막을지, 무엇을 희생할지를 골라야 한다.",
+      "reveals": "역병은 꽃처럼 피어 행성을 뒤덮는다",
+      "terms": [
+        "nurgle",
+        "inquisition"
+      ],
+      "concepts": [
+        "parasite"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1611910/?l=koreana"
+      ]
+    },
+    {
+      "id": "game_mechanicus2",
+      "ko": "메카니쿠스 2의 전쟁",
+      "orig": "Warhammer 40,000: Mechanicus II",
+      "ko_status": "우리 표기",
+      "ko_src": "게임 이름 '메카니쿠스 2'는 개발사의 Steam 한국어 소식 제목 표기 — 조각 이름은 그것으로 우리가 지은 제목",
+      "kind": "사건",
+      "where": "『Warhammer 40,000: Mechanicus II』 상점 소개와 캠페인",
+      "speaker": "",
+      "summary": "수천만 년 잠에서 깨어난 네크론 군주가 자기 행성에 들어온 기계교를 몰아내려 군대를 일으키고, 기계교는 노련한 대사제를 보내 맞선다는 이야기다. 두 세력 모두 몸을 기계로 바꾼 이들이지만, 한쪽은 기계를 신앙으로 받들고 다른 쪽은 오래전 살을 버린 종족이다. 싸움이 커지면서 바깥의 다른 세력까지 끌려든다.",
+      "reveals": "기계를 믿는 자와 기계가 된 자가 맞붙는다",
+      "terms": [
+        "adeptus_mechanicus",
+        "necrons",
+        "tomb_world"
+      ],
+      "concepts": [
+        "techno_religion",
+        "machine_race"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/2532480/?l=koreana"
+      ]
+    }
+  ]
+}
