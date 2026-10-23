@@ -27,6 +27,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%B2%9C%EC%83%81%EC%9D%98%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/Warhammer%2040%2C000/%EC%97%B0%ED%91%9C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=03SiVbAU3RA",
+          "what": "네크론의 탄생과 천상의 전쟁 한국어 설명",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -76,6 +84,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9D%98%20%EC%95%94%ED%9D%91%EA%B8%B0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L00UvBjKTjw",
+          "what": "옛 역사 한국어 설명 모음(이 조각이 들어 있음)",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -152,6 +168,20 @@
       "refs": [
         "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EC%9D%98%20%EB%AA%B0%EB%9D%BD",
         "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ya660UG4i9o",
+          "what": "엘다 제국의 흥망을 다룬 설명 영상",
+          "by": "Luetin09",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=E5x5cKAT7hs",
+          "what": "아엘다리 역사를 푼 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -278,6 +308,20 @@
       "refs": [
         "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD",
         "https://namu.wiki/w/%EB%8C%80%EC%84%B1%EC%A0%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OhzsFXwPh6o",
+          "what": "호루스 헤러시 공식 시네마틱 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=D72vhvT0MFc",
+          "what": "호루스 헤러시 새 판본 공식 시네마틱(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -323,6 +367,14 @@
       "refs": [
         "https://namu.wiki/w/%ED%98%B8%EB%A3%A8%EC%8A%A4%EC%9D%98%20%EB%B0%98%EC%97%AD",
         "https://namu.wiki/w/%ED%99%80%EB%A6%AC%20%ED%85%8C%EB%9D%BC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OhILM0T_cWc",
+          "what": "워해머+ 「킬 루퍼칼」 공식 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -546,6 +598,14 @@
       "refs": [
         "https://namu.wiki/w/%EA%B3%A0%EB%94%95%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%EB%B8%94%EB%9E%99%EC%8A%A4%ED%86%A4%20%ED%8F%AC%ED%8A%B8%EB%A6%AC%EC%8A%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=M3w3XeHpsis",
+          "what": "고딕 전쟁이 무대인 『Battlefleet Gothic』 예고편",
+          "by": "Focus Entertainment",
+          "official": true
+        }
       ]
     },
     {
@@ -615,6 +675,20 @@
         "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF",
         "https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%9D%BC%EA%B7%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ia2_G1Uwrkc",
+          "what": "티라니드 전쟁들의 역사를 짚은 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dH3yo3zhn50",
+          "what": "1차 티라니드 전쟁 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -640,6 +714,20 @@
       "refs": [
         "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%EC%9D%B4%EC%96%80%EB%8D%B4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ia2_G1Uwrkc",
+          "what": "티라니드 전쟁들의 역사를 짚은 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=U4SIsaovpXk",
+          "what": "2차 티라니드 전쟁 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -665,6 +753,14 @@
       "refs": [
         "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ia2_G1Uwrkc",
+          "what": "티라니드 전쟁들의 역사를 짚은 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -688,6 +784,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=8LWemFziMxA",
+          "what": "아마겟돈을 다룬 새 판본 공식 시네마틱(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -712,6 +816,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%B0%94%EB%8B%B5%20%EC%A0%84%EC%9F%81",
         "https://namu.wiki/w/%EB%A0%88%EB%93%9C%20%EC%BB%A4%EC%84%B8%EC%96%B4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Tk4iYS00OfE",
+          "what": "바답 전쟁 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -740,6 +852,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84%EC%9D%98%20%ED%95%A8%EB%9D%BD",
         "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=B7Fwk1LT6_U",
+          "what": "『Battlefleet Gothic 2』 카디아 함락 캠페인 장면",
+          "by": "Harbinger",
+          "official": false
+        }
       ]
     },
     {
@@ -817,6 +937,14 @@
       "refs": [
         "https://namu.wiki/w/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%A7%88%ED%81%AC%EC%9D%98%20%EB%B6%80%ED%99%9C",
         "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1_wXCBDiLEA",
+          "what": "8판 공식 영상 「다크 임페리움의 새 영웅들」",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -841,6 +969,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9D%B8%EB%8F%84%EB%AF%B8%ED%88%AC%EC%8A%A4%20%EC%84%B1%EC%A0%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=NfdLS4IYz2c",
+          "what": "9판 공식 시네마틱 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=28rYo3EuYG8",
+          "what": "프라이머리스 스페이스 마린 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -864,6 +1006,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%B0%94%EC%95%8C%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
         "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ItdJJoHfpP4",
+          "what": "『사이킥 각성』 바알 편 공식 애니메이션 예고편",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -931,6 +1081,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%82%AC%EC%9D%B4%ED%82%A5%20%EA%B0%81%EC%84%B1"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=U8EmyuupCbs",
+          "what": "『사이킥 각성』 공식 애니메이션 예고편",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -954,6 +1112,14 @@
       "spoiler": true,
       "refs": [
         "https://namu.wiki/w/%EC%A7%95%EC%A1%B0%EC%9D%98%20%EB%B0%A9%EC%A3%BC%EB%93%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=CmtHrsFbzks",
+          "what": "『징조의 방주』 이야기를 타로로 보인 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -977,6 +1143,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%A7%95%EC%A1%B0%EC%9D%98%20%EB%B0%A9%EC%A3%BC%EB%93%A4",
         "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Vrut-ZHoY3I",
+          "what": "돌아온 라이온 모형을 만든 과정 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -1001,6 +1175,20 @@
       "refs": [
         "https://namu.wiki/w/%ED%95%98%EC%9D%B4%EB%B8%8C%20%ED%94%8C%EB%A6%BF",
         "https://namu.wiki/w/%ED%8B%B0%EB%9D%BC%EB%8B%88%EB%93%9C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=46I-D4XPbAU",
+          "what": "10판 공식 시네마틱 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=A7p00PLUTqw",
+          "what": "티라니드 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -1046,6 +1234,20 @@
       "refs": [
         "https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8E%98%EB%A1%9C",
         "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=nvu8xa0Z7AQ&t=5364s",
+          "what": "사우전드 선 한국어 설명(호루스 헤러시 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=72y5j39a_eA&t=5730s",
+          "what": "스페이스 울프 한국어 설명(사우전드 선과 악연 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1091,6 +1293,20 @@
       "spoiler": true,
       "refs": [
         "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-NOsX8hibKE",
+          "what": "『사이킥 각성』 다크 엔젤 라자루스 공개 영상",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sZ_PG1UL97Y",
+          "what": "대성전 군단 이야기 한국어 모음(1군단 포함)",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -1232,6 +1448,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%82%98%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EB%93%9C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=0Yb-TdO7_iE&t=3067s",
+          "what": "나이트 로드 한국어 설명 영상(군단 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1256,6 +1480,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=cBX2xRmVkOM",
+          "what": "블러드 엔젤 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=aFiek1v2Ll4",
+          "what": "블러드 엔젤 애니메이션 「Angels of Death」 예고편",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -1306,6 +1544,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%9D%B4%ED%84%B0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QzK2QbXqdWg",
+          "what": "「해머 앤 볼터: 도살자의 못」 공식 예고편",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9dl75myY8jI",
+          "what": "월드 이터 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1329,6 +1581,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=TgxVQRTXtz0",
+          "what": "울트라마린이 주인공인 『Space Marine 2』 공개 영상",
+          "by": "Focus Entertainment",
+          "official": true
+        }
       ]
     },
     {
@@ -1355,6 +1615,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%20%EA%B0%80%EB%93%9C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IuhG_HvYJko&t=4490s",
+          "what": "데스 가드 한국어 설명 영상(군단 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cxlIKxOjMlo",
+          "what": "모타리온과 데스 가드의 기원 한국어 설명",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -1404,6 +1678,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%84%A0%20%EC%98%A4%EB%B8%8C%20%ED%98%B8%EB%A3%A8%EC%8A%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OhzsFXwPh6o",
+          "what": "호루스 헤러시 공식 시네마틱 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7SondGK_gZU",
+          "what": "선 오브 호루스 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1429,6 +1717,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EB%A6%AC%EC%A0%84",
         "https://namu.wiki/w/%EC%97%90%EC%A0%9C%EC%B9%B4%EC%9D%BC%20%EC%95%84%EB%B0%94%EB%8F%88"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=p-FJbADHxV0",
+          "what": "카오스 스페이스 마린 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -1454,6 +1750,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PuhSyr0AYXg",
+          "what": "워드 베어러 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1477,6 +1781,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%83%90%EB%9F%AC%EB%A7%A8%EB%8D%94"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sZ_PG1UL97Y",
+          "what": "대성전 군단 이야기 한국어 모음(샐러맨더 포함)",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -1524,6 +1836,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%95%8C%ED%8C%8C%20%EB%A6%AC%EC%A0%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=HNflyfZix1Y",
+          "what": "알파 리전 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1568,6 +1888,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%ED%85%9C%ED%94%8C%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=2jkbhGnwnzQ",
+          "what": "블랙 템플러의 성전을 다룬 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=p4U5xDG3eSg",
+          "what": "블랙 템플러 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1594,6 +1928,14 @@
       "refs": [
         "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8",
         "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=5T6pZVFOPNw",
+          "what": "그레이 나이트가 나오는 『Chaos Gate』 시네마틱",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -1618,6 +1960,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EC%9B%8C%EC%B9%98"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N3wzMCg1N-E",
+          "what": "데스워치 단편 애니메이션 공식 예고편",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=TcNmzvYavLA",
+          "what": "데스워치 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1640,6 +1996,28 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EC%95%84%EC%8A%A4%ED%83%80%EB%A5%B4%ED%85%8C%EC%8A%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_oqr06cHAGw",
+          "what": "블러드 레이븐이 나오는 『던 오브 워』 첫 영상",
+          "by": "Blur Studio",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=bt22mCkqlmo",
+          "what": "『던 오브 워 IV』 스페이스 마린 예고편(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/3556750/?l=koreana",
+          "what": "『던 오브 워』 결정판 상점 쪽의 공식 그림과 장면",
+          "by": "Relic Entertainment",
+          "free": false
+        }
       ]
     },
     {
@@ -1661,6 +2039,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%A0%88%EB%93%9C%20%EC%BB%A4%EC%84%B8%EC%96%B4",
         "https://namu.wiki/w/%EB%A7%88%EC%97%98%EC%8A%A4%ED%8A%B8%EB%A1%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Tk4iYS00OfE",
+          "what": "레드 커세어가 생긴 바답 전쟁 한국어 설명",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1754,6 +2140,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%9D%B4%ED%84%B0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=QzK2QbXqdWg",
+          "what": "「해머 앤 볼터: 도살자의 못」 공식 예고편",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9dl75myY8jI",
+          "what": "월드 이터 한국어 설명 영상(앙그론 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1776,6 +2176,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PuhSyr0AYXg&t=1409s",
+          "what": "워드 베어러 한국어 설명(대성전의 로가 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1823,6 +2231,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%A0%9C%EA%B5%AD%20%ED%96%89%EC%A0%95%EB%B6%80",
         "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%ED%85%8C%EB%9D%BC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kQLjy-AGOU4",
+          "what": "인류 제국의 행정과 문화 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -1847,6 +2263,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EC%95%84%EB%A5%B4%EB%B9%84%ED%85%8C%EC%8A%A4"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rZ176VVTJZo",
+          "what": "『Darktide』 아르비테스 공식 시네마틱",
+          "by": "Fatshark",
+          "official": true
+        }
       ]
     },
     {
@@ -1872,6 +2296,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%9D%B4%EB%8B%A8%EC%8B%AC%EB%AC%B8%EC%86%8C",
         "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ME1pOdcDPqc",
+          "what": "오르도 말레우스의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -1897,6 +2329,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9D%B4%EB%8B%A8%EC%8B%AC%EB%AC%B8%EC%86%8C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9gGG4fpGB_w",
+          "what": "이단심문소의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -1943,6 +2383,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%98%A4%ED%94%BC%EC%8B%9C%EC%98%A4%20%EC%95%84%EC%82%AC%EC%8B%9C%EB%85%B8%EB%A3%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pyxg493UHiw",
+          "what": "암살 작전대가 나오는 『Chaos Gate』 추가판 예고편",
+          "by": "GameTrailers",
+          "official": false
+        }
       ]
     },
     {
@@ -2009,6 +2457,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%EB%84%A4%EC%9D%B4%EB%B9%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=62iyosUL4pQ",
+          "what": "『Battlefleet Gothic 2』 인류 제국 캠페인 첫 영상",
+          "by": "Harbinger",
+          "official": false
+        }
       ]
     },
     {
@@ -2126,6 +2582,14 @@
       "refs": [
         "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%EA%B5%90",
         "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PuhSyr0AYXg&t=1409s",
+          "what": "워드 베어러 한국어 설명(대성전의 로가 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -2218,6 +2682,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%ED%99%94%EC%84%B1%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=dkY7fJ42Hlw",
+          "what": "화성의 기계교 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -2347,6 +2819,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%83%90%EB%9F%AC%EB%A7%A8%EB%8D%94"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=sZ_PG1UL97Y",
+          "what": "대성전 군단 이야기 한국어 모음(샐러맨더 탄생)",
+          "by": "오픈헤드미니어처",
+          "official": false
+        }
       ]
     },
     {
@@ -2437,6 +2917,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B2%9F%EB%8F%88%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=D6HX8iNeUno",
+          "what": "아마겟돈이 무대인 공식 애니메이션(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -2485,6 +2973,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%95%84%EC%9D%B4%20%EC%98%A4%EB%B8%8C%20%ED%85%8C%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ya660UG4i9o",
+          "what": "엘다의 몰락(아이 오브 테러가 생긴 일) 설명",
+          "by": "Luetin09",
+          "official": false
+        }
       ]
     },
     {
@@ -2594,6 +3090,14 @@
       "spoiler": true,
       "refs": [
         "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=4PDEQGBrsFQ&t=3759s",
+          "what": "황제와 말카도르 한국어 설명(헤러시 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -2620,6 +3124,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%9B%B9%EC%9B%A8%EC%9D%B4",
         "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EC%98%A5%EC%A2%8C"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YVZdX5UvxVM",
+          "what": "『Master of Mankind』 웹웨이 전쟁 한국어 설명",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -2731,6 +3243,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%88%20%EC%87%BC%ED%81%AC%20%ED%8A%B8%EB%A3%A8%ED%8D%BC",
         "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=YKCmaGHVrAY",
+          "what": "아스트라 밀리타룸 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -2886,6 +3406,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%BC%80%EA%B3%A0%EB%9D%BC%ED%81%AC",
         "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=uW1rr3BJiLY",
+          "what": "웃는 신과 할리퀸의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -2959,6 +3487,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=v3bBWv_ZKww",
+          "what": "입문자를 위한 엘다리 한국어 설명 영상",
+          "by": "엑따's Journey",
+          "official": false
+        }
       ]
     },
     {
@@ -2981,6 +3517,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%B9%84%EC%97%98%ED%83%84",
         "https://namu.wiki/w/%EC%9D%B4%EB%82%98%EB%A6%AC%28Warhammer%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=K6Ehs-t6VfY",
+          "what": "『사이킥 각성』 불사조 편 공식 영상",
+          "by": "Warhammer",
+          "official": true
+        }
       ]
     },
     {
@@ -3055,6 +3599,14 @@
       "refs": [
         "https://namu.wiki/w/%ED%95%A0%EB%A6%AC%ED%80%B8%28Warhammer%2040%2C000%29",
         "https://namu.wiki/w/%EC%BC%80%EA%B3%A0%EB%9D%BC%ED%81%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=uW1rr3BJiLY",
+          "what": "웃는 신과 할리퀸의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -3102,6 +3654,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%BD%94%EB%AA%A8%EB%9D%BC",
         "https://namu.wiki/w/%EB%93%9C%EB%A3%A8%EC%B9%B4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=fWbtIsgAbkA",
+          "what": "코모라와 드루카리의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -3125,6 +3685,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%93%9C%EB%A3%A8%EC%B9%B4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DshD-Nuktmw",
+          "what": "드루카리 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -3150,6 +3718,14 @@
       "refs": [
         "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0",
         "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=4XCU5Ab3Jbk",
+          "what": "침묵의 왕 자렉을 다룬 한국어 설명 영상",
+          "by": "스틸리젼의 워해머 채널",
+          "official": false
+        }
       ]
     },
     {
@@ -3170,6 +3746,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%84%A4%ED%81%AC%EB%A1%A0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=8MOjPH4f62s",
+          "what": "네크론 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -3341,6 +3925,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%ED%81%AC%ED%83%84"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=fwSK0XddJJY",
+          "what": "밤을 부르는 자의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
       ]
     },
     {
@@ -3413,6 +4005,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%ED%83%80%EC%9A%B0%20%EC%A0%9C%EA%B5%AD"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=MFBg2tU4kC0",
+          "what": "타우 제국 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -3629,6 +4229,20 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EB%B3%B4%ED%83%84%20%EC%97%B0%EB%A7%B9"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9x-iR9CTzRI",
+          "what": "보탄 연맹 공식 시네마틱 예고편",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=x_aV4FFTJ6U",
+          "what": "보탄 연맹 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -3702,6 +4316,14 @@
       "refs": [
         "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD",
         "https://namu.wiki/w/%EC%97%98%EB%8B%A4%EB%A6%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KZDnXFfbYgs",
+          "what": "너글과 슬라네시의 영역 한국어 설명 영상",
+          "by": "스틸리젼의 워해머 채널",
+          "official": false
+        }
       ]
     },
     {
@@ -3726,6 +4348,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=iIKVtmcKuys",
+          "what": "친취의 악마들 한국어 설명 영상",
+          "by": "스틸리젼의 워해머 채널",
+          "official": false
+        }
       ]
     },
     {
@@ -3750,6 +4380,14 @@
       "spoiler": false,
       "refs": [
         "https://namu.wiki/w/%EC%B9%B4%EC%98%A4%EC%8A%A4%EC%9D%98%20%EC%98%81%EC%97%AD"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KZDnXFfbYgs",
+          "what": "너글과 슬라네시의 영역 한국어 설명 영상",
+          "by": "스틸리젼의 워해머 채널",
+          "official": false
+        }
       ]
     },
     {
@@ -3842,6 +4480,20 @@
       "spoiler": true,
       "refs": [
         "https://namu.wiki/w/%EC%A7%84%EC%8A%A4%ED%8B%B8%EB%9F%AC%20%EC%BB%AC%ED%8A%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=s8klnCoAEi0",
+          "what": "진스틸러 컬트 공식 시네마틱 예고편",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0iND7npOOPc",
+          "what": "진스틸러 컬트 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     },
     {
@@ -3867,6 +4519,28 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/1361210/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=D0Z53bk4lvc",
+          "what": "『Darktide』 세계 소개 공식 예고편",
+          "by": "Fatshark",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4b4MOrrqdkA",
+          "what": "『Darktide』 공식 소개 영상",
+          "by": "Fatshark",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/1361210/?l=koreana",
+          "what": "『Darktide』 상점 쪽의 공식 그림과 장면",
+          "by": "Fatshark",
+          "free": false
+        }
       ]
     },
     {
@@ -3891,6 +4565,22 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/1295500/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=nVsCATpZloc",
+          "what": "『Battlesector』 공식 출시 예고편",
+          "by": "SlitherineGames",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/1295500/?l=koreana",
+          "what": "『Battlesector』 상점 쪽의 공식 그림과 장면",
+          "by": "Slitherine Ltd.",
+          "free": false
+        }
       ]
     },
     {
@@ -3914,6 +4604,22 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/2186680/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=I4VUmndj9rw",
+          "what": "『Rogue Trader』 공식 첫 예고편",
+          "by": "Owlcat Games",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/2186680/?l=koreana",
+          "what": "『Rogue Trader』 상점 쪽의 공식 그림과 장면",
+          "by": "Owlcat Games",
+          "free": false
+        }
       ]
     },
     {
@@ -3936,6 +4642,22 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/527430/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=fjcq31SZPfg",
+          "what": "『Inquisitor - Martyr』 공식 출시 예고편",
+          "by": "Bigben Games IT",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/527430/?l=koreana",
+          "what": "『Inquisitor - Martyr』 상점 쪽의 공식 그림과 장면",
+          "by": "NeocoreGames",
+          "free": false
+        }
       ]
     },
     {
@@ -3959,6 +4681,22 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/2005010/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DJzGLICnZrg",
+          "what": "『Boltgun』 공식 예고편",
+          "by": "Warhammer",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/2005010/?l=koreana",
+          "what": "『Boltgun』 상점 쪽의 공식 그림과 장면",
+          "by": "Auroch Digital",
+          "free": false
+        }
       ]
     },
     {
@@ -3982,6 +4720,22 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/1611910/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=eYskrucZd4M",
+          "what": "『Chaos Gate - Daemonhunters』 출시 예고편",
+          "by": "IGN",
+          "official": false
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/1611910/?l=koreana",
+          "what": "『Chaos Gate』 상점 쪽의 공식 그림과 장면",
+          "by": "Complex Games",
+          "free": false
+        }
       ]
     },
     {
@@ -4007,6 +4761,1003 @@
       "spoiler": false,
       "refs": [
         "https://store.steampowered.com/app/2532480/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vOnBsxypST0",
+          "what": "『Mechanicus II』 공식 발표 예고편",
+          "by": "Kasedo Games",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/2532480/?l=koreana",
+          "what": "『Mechanicus II』 상점 쪽의 공식 그림과 장면",
+          "by": "Bulwark Studios",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "quote_grim_darkness",
+      "ko": "먼 미래의 암울한 어둠",
+      "orig": "In the grim darkness of the far future, there is only war",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(The Grim Darkness Of The Far Future). 같은 표어의 뒤 대목은 같은 화면의 ‘오직 전쟁만이 있을 뿐’(There Is Only War)",
+      "kind": "인용",
+      "where": "작품을 소개하는 자리마다 앞세우는 표어",
+      "speaker": "",
+      "summary": "워해머 40,000을 한 줄로 줄인 표어로, 이 세계가 끝나지 않는 전쟁의 세계라는 것을 처음부터 못 박는다. 평화도 진보도 기다리지 말라는 선언이어서, 이야기마다 영웅이 이겨도 세상이 나아지지 않는 까닭을 미리 알려 준다. 이 표어가 그린 어둡고 잔혹한 분위기에서 ‘그림다크’라는 장르 이름이 나왔다. 정식 한국어판 『던 오브 워』는 표어의 앞 대목과 뒤 대목을 각각 도전 과제 이름으로 옮겼다.",
+      "reveals": "이 세계에는 처음부터 평화가 없다고 못 박는다",
+      "terms": [
+        "forty_first_millennium",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikipedia.org/wiki/Warhammer_40,000",
+        "https://en.wikiquote.org/wiki/Warhammer_40,000",
+        "https://namu.wiki/w/%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DdmISUUt-UQ",
+          "what": "머리글 한 대목을 제목으로 단 공식 시네마틱",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "thought_doubt",
+      "ko": "오늘의 생각 — 의심을 죄로 보는 격언",
+      "orig": "Thought for the Day (doubt and the closed mind)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "제국의 격언 가운데 가장 큰 무리는 생각하는 일 자체를 경계한다. 좁고 단순한 마음을 칭찬하고, 묻는 것과 넓게 배우는 것을 적에게 문을 열어 주는 일로 친다. 믿음 없이 가르치거나 무언가를 고치려 드는 것도 반역으로 가는 첫걸음으로 본다. 카오스를 아는 것만으로도 물들 수 있는 세계라서, 모르는 것이 곧 방패라는 생각이 깔려 있다. 정식 한국어판 『던 오브 워』는 이 무리의 두 줄을 도전 과제 이름으로 옮겼다.",
+      "reveals": "제국에서 의심과 배움은 이단으로 가는 첫걸음이다",
+      "terms": [
+        "imperium_of_man",
+        "chaos"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "thought_guilt",
+      "ko": "오늘의 생각 — 결백을 믿지 않는 격언",
+      "orig": "Thought for the Day (innocence and guilt)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "또 한 무리의 격언은 누구에게도 결백을 인정하지 않는다. 이웃을 믿지 않는 태도를 건강하다고 치켜세우고, 입을 다무는 것까지 죄를 받아들인 것으로 친다. 게으름과 무지가 이단을 키운다는 말, 돌연변이는 알아보는 대로 없애라는 말도 이 무리에 든다. 이단심문소의 법정에서 피고의 결백 주장이 통하지 않는 까닭이 여기서 드러난다.",
+      "reveals": "제국은 모든 백성을 처음부터 죄인으로 본다",
+      "terms": [
+        "inquisition",
+        "imperium_of_man"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ]
+    },
+    {
+      "id": "thought_duty_death",
+      "ko": "오늘의 생각 — 목숨을 바치라는 격언",
+      "orig": "Thought for the Day (duty and death)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "이 무리의 격언은 사람의 목숨을 황제에게 갚아야 할 빚처럼 다룬다. 의무에는 끝이 없고 죽음만이 그것을 풀어 주며, 제 몸을 위한 삶보다 황제를 위한 죽음을 더 높이 친다. 가진 것 없는 백성까지 이 셈에서 빼 주지 않고, 순교자의 죽음을 제국이 자라는 밑거름으로 기린다. 정식 한국어판 『던 오브 워』는 이 무리의 한 줄을 임페리얼 가드의 도전 과제 이름으로 옮겼다.",
+      "reveals": "제국에서 백성의 목숨은 황제를 위해 쓰이려고 있다",
+      "terms": [
+        "imperium_of_man",
+        "emperor_of_mankind",
+        "astra_militarum"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OCuUrVLSBfA",
+          "what": "제국의 숱한 죽음을 다룬 공식 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "thought_weakness",
+      "ko": "오늘의 생각 — 자비와 행복을 깎아내리는 격언",
+      "orig": "Thought for the Day (mercy, happiness and toil)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "또 다른 무리는 따뜻한 마음을 하나하나 약점으로 꼽는다. 용서와 너그러움, 동정과 관용을 모두 나약함의 표시로 부르고, 행복과 희망조차 믿을 것이 못 된다고 가르친다. 그 빈자리를 채우는 것은 의무에서 오는 만족과 쉬지 않는 노동, 묵묵한 인내이며, 일하는 것이 곧 기도라는 말까지 나온다. 제국이 백성에게 바라는 것은 행복이 아니라 쓸모라는 것이 드러난다.",
+      "reveals": "제국은 백성에게 행복 대신 의무와 노동을 준다",
+      "terms": [
+        "imperium_of_man"
+      ],
+      "concepts": [
+        "control_society"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ]
+    },
+    {
+      "id": "thought_faith",
+      "ko": "오늘의 생각 — 황제만을 믿으라는 격언",
+      "orig": "Thought for the Day (faith in the Emperor)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "신앙의 격언은 황제 한 분 말고는 아무것도 없다는 데서 출발한다. 황제가 백성을 지켜보고 지켜 준다는 믿음, 그분의 뜻에 따르는 것이 곧 섬김이라는 가르침, 행동이 따르지 않는 믿음은 쓸모없다는 다짐이 이어진다. 기도와 고행을 한데 묶어 몸의 고통까지 믿음의 일로 삼는 줄도 많다. 정식 한국어판 『던 오브 워』에서 황제가 지켜 준다는 말은 임페리얼 가드 캠페인을 마치면 받는 도전 과제 이름이다.",
+      "reveals": "제국 백성에게 황제는 지키는 신이자 모든 것의 까닭이다",
+      "terms": [
+        "emperor_of_mankind",
+        "ecclesiarchy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=XBu5DlbuCiQ",
+          "what": "인류 제국 찬송가 공식 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "thought_hatred",
+      "ko": "오늘의 생각 — 미워하고 없애라는 격언",
+      "orig": "Thought for the Day (hatred and purging)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "미움을 가르치는 격언은 따로 한 무리를 이룬다. 증오를 미덕으로 높이고, 이단자와 돌연변이, 외계인, 등록되지 않은 정신 능력자를 살려 두지 말라는 말이 짧은 명령처럼 되풀이된다. 잊지도 말고 용서하지도 말라는 다짐과, 무자비함이 오히려 지혜라는 말도 이 무리다. 정식 한국어판 『던 오브 워』는 외계인을 살려 두지 말라는 줄을 스페이스 마린 도전 과제 이름으로 옮겼다.",
+      "reveals": "제국은 다른 것을 미워하는 마음으로 하나로 묶인다",
+      "terms": [
+        "xenos",
+        "psyker",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "thought_victory",
+      "ko": "오늘의 생각 — 패배를 용서하지 않는 격언",
+      "orig": "Thought for the Day (victory and defeat)",
+      "ko_status": "우리 표기",
+      "ko_src": "‘오늘의 생각’은 원어(Thought for the Day)의 뜻을 우리 말로 옮긴 것이고 '— ' 뒤는 내용을 따 붙인 우리 말 — 국내 통용 표기를 찾지 못함(국내 정식 설정집 없음)",
+      "kind": "인용",
+      "where": "설정집 쪽 아래와 『던 오브 워』 첫 화면에 한 줄씩 뜨는 제국의 격언(‘오늘의 생각’)",
+      "speaker": "",
+      "summary": "전쟁터의 격언은 패배를 인정하는 것조차 황제를 모독하는 일로 본다. 이 무리는 결과만으로 사람을 재서, 진 쪽의 사정은 하나도 들어 주지 않고 이긴 쪽이 치른 값은 따지지 않는다. 명령하는 쪽에도 따르는 쪽에도 망설임이 끼어들 틈을 주지 않으며, 성공을 피로 잰다는 말까지 나온다. 정식 한국어판 『던 오브 워』는 이 무리의 한 줄을 스페이스 마린 도전 과제 이름으로 옮겼다.",
+      "reveals": "제국 군대에서 패배는 신앙을 어기는 죄다",
+      "terms": [
+        "astra_militarum",
+        "commissar",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ]
+    },
+    {
+      "id": "emperor_on_space_marines",
+      "ko": "황제가 스페이스 마린을 두고 한 말",
+      "orig": "The Emperor's words on the Space Marines",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "스페이스 마린을 다루는 설정집에 황제의 말로 실리는 글",
+      "speaker": "황제",
+      "summary": "황제가 자기 손으로 만들 전사들을 미리 그려 보이는 말이다. 그는 이 전사들을 몸과 마음을 모두 새로 지은 군대로 길러, 병에도 두려움에도 꺾이지 않고 어떤 적과 싸워도 지지 않게 하겠다고 다짐한다. 그에게 스페이스 마린은 인류를 노리는 공포에 맞설 마지막 군대이며, 이 말의 끝맺음은 뒷날 스페이스 마린을 가리키는 표어가 되었다.",
+      "reveals": "스페이스 마린은 처음부터 두려움을 모르게 설계된 군대다",
+      "terms": [
+        "space_marines",
+        "emperor_of_mankind"
+      ],
+      "concepts": [
+        "super_soldier"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=0et1YYESQio",
+          "what": "스페이스 마린 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "emperor_on_primarchs",
+      "ko": "황제가 프라이마크를 두고 한 말",
+      "orig": "The Emperor's words on the Primarchs",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "설정집에 황제의 말로 실리는 글",
+      "speaker": "황제",
+      "summary": "황제가 프라이마크들을 자기 아들이라 부르며 그들에게 건 기대를 밝힌 말이다. 그는 아들들이 이기기 쉬운 싸움뿐 아니라 가망이 없어 보이는 때에도 버텨 내어, 하나로 묶인 인류의 희망이 되리라 믿는다. 스무 아들 가운데 아홉이 끝내 그를 배신한다는 것을 아는 사람에게 이 믿음은 쓰라리게 읽힌다.",
+      "reveals": "프라이마크는 하나 된 인류의 희망으로 만들어졌다",
+      "terms": [
+        "primarch",
+        "emperor_of_mankind",
+        "horus_heresy"
+      ],
+      "concepts": [
+        "genetic_eng"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000"
+      ]
+    },
+    {
+      "id": "emperor_custodes_decree",
+      "ko": "쿠스토데스를 두고 내린 황제의 칙령",
+      "orig": "The Emperor's decree on the Adeptus Custodes",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "설정집에 황제의 말로 실리는 칙령",
+      "speaker": "황제",
+      "summary": "황제가 자기 곁을 지킬 전사들을 두고 내린 명령이다. 그는 이 전사들의 목숨을 오직 자기 몸을 지키는 일에 묶고, 그들을 부리고 심판할 권한을 누구에게도 나누어 주지 않는다. 그래서 쿠스토데스는 만 년이 지난 지금도 제국의 어떤 기관에도 매이지 않고 옥좌 곁을 지킨다.",
+      "reveals": "쿠스토데스는 황제 말고 누구의 명령도 받지 않는다",
+      "terms": [
+        "adeptus_custodes",
+        "emperor_of_mankind",
+        "golden_throne"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000"
+      ]
+    },
+    {
+      "id": "lorgar_on_divinity",
+      "ko": "로가가 황제의 신성을 묻는 말",
+      "orig": "Lorgar on the Emperor's divinity (The First Heretic)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "호루스 헤러시 소설 『The First Heretic』에서 로가가 하는 말(설정집과 위키에 자주 인용됨)",
+      "speaker": "로가 아우렐리안",
+      "summary": "워드 베어러의 프라이마크 로가가 아버지를 신으로 섬기는 까닭을 밝히는 말이다. 그는 황제가 이룬 일의 크기를 하나하나 짚은 뒤, 그런 존재를 신이라 부르지 않을 까닭이 무엇이냐고 되묻는다. 신은 없다던 황제의 가르침과 그 아들의 믿음이 정면으로 부딪치며, 이 믿음이 꾸지람을 받은 뒤 다른 신들에게로 향한다.",
+      "reveals": "황제를 신으로 섬기는 믿음은 그의 아들에게서 시작했다",
+      "terms": [
+        "emperor_of_mankind",
+        "primarch",
+        "ecclesiarchy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PuhSyr0AYXg&t=1409s",
+          "what": "워드 베어러 한국어 설명(대성전의 로가 대목)",
+          "by": "엑따's Journey",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "hereticus_exterminatus_doctrine",
+      "ko": "행성 말살을 정당화하는 이단심문소의 글",
+      "orig": "Liber Doctrina Ordo Hereticus, \"Exterminatus\"",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "설정집에 인용된 이단심문소 교리서의 ‘엑스테르미나투스’ 장과, 행성 말살을 다룬 글귀(『Battlefleet Gothic: Armada』에도 쓰임)",
+      "speaker": "",
+      "summary": "이단심문소의 교리서가 행성 하나를 통째로 없애는 결정을 어떻게 정당화하는지 보여 주는 글이다. 망설임과 동정이 설 자리는 없고 어떤 희생도 지나치지 않다는 원칙 위에서, 수십억의 목숨을 거두는 일이 마땅한 의무로 그려진다. 그 결정에 이의를 다는 사람에게 이 글은 거꾸로 살려 두는 쪽의 책임을 묻는다. 엑스테르미나투스가 분풀이가 아니라 제국 전체를 지키려는 계산으로 내려진다는 것이 드러난다.",
+      "reveals": "행성 말살은 제국 전체를 위한 계산으로 정당화된다",
+      "terms": [
+        "exterminatus",
+        "inquisition"
+      ],
+      "concepts": [
+        "planet_killer"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ]
+    },
+    {
+      "id": "assassinorum_mottos",
+      "ko": "암살청의 모토와 사원의 격언",
+      "orig": "Mottos of the Officio Assassinorum",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "『Codex: Assassins』·『Dataslate: Officio Assassinorum』에 실린 암살청의 모토와 사원마다의 격언",
+      "speaker": "",
+      "summary": "제국의 암살 기관은 반역자를 심판할 수 있는 것은 황제뿐이고 그 심판은 죽음으로만 내려진다는 생각을 모토로 내건다. 사원마다 따로 붙은 격언은 저마다의 길을 드러내, 적의 모습을 빌려 안으로 파고드는 사원과 보이지 않는 공포를 무기로 삼는 사원, 저격의 비결을 우스개처럼 줄인 사원이 있다. 결과가 수단을 정당화한다는 원칙도 이들의 말에 들어 있다. 암살 역시 제국에서는 황제의 법을 집행하는 일로 여겨진다는 것이 드러난다.",
+      "reveals": "암살도 제국에서는 황제의 심판을 집행하는 일이다",
+      "terms": [
+        "officio_assassinorum"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://namu.wiki/w/%EC%98%A4%ED%94%BC%EC%8B%9C%EC%98%A4%20%EC%95%84%EC%82%AC%EC%8B%9C%EB%85%B8%EB%A3%B8"
+      ]
+    },
+    {
+      "id": "mechanicus_credo",
+      "ko": "기계교의 신조와 기도",
+      "orig": "Credo of the Machine Cult",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "인용",
+      "where": "『Warhammer 40,000: Mechanicus』 첫 영상의 독백과 기계교 설정의 신조(옴니시아의 신조)",
+      "speaker": "",
+      "summary": "기계교의 신조는 사람의 몸을 약하고 덧없는 것으로 깎아내리고, 기계를 그 반대편의 순수하고 죽지 않는 것으로 높인다. 그래서 몸을 하나씩 기계로 바꾸어 가는 것을 구원으로 여기고, 몸을 붙들고 사는 다른 인류를 딱하게 내려다본다. 『Mechanicus』의 첫 영상은 한 기술 사제가 이 믿음을 혼잣말로 들려주며 시작한다. 정식 한국어판 게임들은 기계 영혼에게 비는 말과 기계 신을 받드는 말, 지식이 곧 힘이라는 말을 도전 과제 이름으로 옮겼다.",
+      "reveals": "기계교에게 구원이란 몸을 버리고 기계가 되는 것이다",
+      "terms": [
+        "adeptus_mechanicus",
+        "omnissiah",
+        "machine_spirit",
+        "tech_priest"
+      ],
+      "concepts": [
+        "cyborg"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%95%84%EB%8E%81%ED%88%AC%EC%8A%A4%20%EB%A9%94%EC%B9%B4%EB%8B%88%EC%BF%A0%EC%8A%A4",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://steamcommunity.com/stats/2532480/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9gIMZ0WyY88",
+          "what": "『Mechanicus』 공식 첫 예고편",
+          "by": "Kasedo Games",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dkY7fJ42Hlw",
+          "what": "아뎁투스 메카니쿠스 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "sisters_litany",
+      "ko": "황제여, 우리를 구하소서",
+      "orig": "Fede Imperialis (Battle-prayer of the Adepta Sororitas) — Our Emperor, deliver us",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(Our Emperor, Deliver Us — 『소울스톰』 자매회 캠페인)",
+      "kind": "인용",
+      "where": "아뎁타 소로리타스가 싸우기 전에 외는 기도문(제국의 신념)과 『던 오브 워 – 소울스톰』의 자매회",
+      "speaker": "아뎁타 소로리타스",
+      "summary": "무장 수녀회가 싸움에 앞서 외는 기도문으로, 같은 후렴을 되풀이하며 온갖 재앙에서 건져 달라고 황제에게 빈다. 구절마다 자연의 재앙과 역병, 외계 함대의 침략, 타락처럼 제국 백성이 두려워하는 것이 하나씩 놓인다. 정식 한국어판 『던 오브 워』는 그 후렴을 자매회 캠페인을 마치면 받는 도전 과제 이름으로 옮겼다.",
+      "reveals": "제국의 군대는 무기보다 기도를 먼저 든다",
+      "terms": [
+        "adepta_sororitas",
+        "ecclesiarchy",
+        "emperor_of_mankind"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%EA%B5%90",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=mq9m0l_AoK4",
+          "what": "아뎁타 소로리타스 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "cry_for_the_emperor",
+      "ko": "황제를 위하여!",
+      "orig": "For the Emperor!",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(For the Emperor! — 스페이스 마린으로 이겼을 때)",
+      "kind": "대사",
+      "where": "『던 오브 워』 스페이스 마린의 함성과 도전 과제 이름 — 제국 군대가 두루 쓰는 전투 구호",
+      "speaker": "스페이스 마린",
+      "summary": "제국의 병사와 스페이스 마린이 돌격할 때 가장 흔히 외치는 구호로, 누구를 위해 싸우는지를 짧게 못 박는다. 군단마다 따로 있는 구호보다 앞서 쓰이고, 『던 오브 워』의 스페이스 마린 대사도 정화와 믿음, 형제애를 이 이름 아래 앞세운다. 반역 군단 가운데 엠퍼러스 칠드런은 이 구호를 비웃듯 외치고 알파 리전은 정체를 숨기려고 외친다는 설정도 있다.",
+      "reveals": "제국의 모든 싸움은 황제 한 사람의 이름으로 치러진다",
+      "terms": [
+        "space_marines",
+        "emperor_of_mankind",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%95%8C%ED%8C%8C%20%EB%A6%AC%EC%A0%84",
+        "https://namu.wiki/w/%EC%97%A0%ED%8D%BC%EB%9F%AC%EC%8A%A4%20%EC%B9%A0%EB%93%9C%EB%9F%B0"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=RFFinkjq4dY",
+          "what": "『던 오브 워』 결정판 공식 발표 예고편",
+          "by": "Warhammer",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Qgs29veFrdE&t=57s",
+          "what": "『던 오브 워』 가브리엘 안젤로스 대사 모음",
+          "by": "SNAKE",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "cries_loyal_legions",
+      "ko": "충성파 군단의 전투 구호",
+      "orig": "Battle cries of the loyalist Legions",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "충성파 군단·챕터 설정에 적힌 전투 구호(나무위키 각 군단 문서의 정보 칸에 모인 것)",
+      "speaker": "충성파 스페이스 마린 군단",
+      "summary": "충성파 군단의 구호는 저마다 무엇을 앞세우는지가 다르다. 울트라마린은 기사다운 덕목과 고향을 외치고, 화이트 스카와 블러드 엔젤, 임페리얼 피스트는 자기 프라이마크와 황제를 나란히 부르며, 스페이스 울프는 황제를 고향 펜리스식 이름으로 부른다. 다크 엔젤은 회개를 앞세우고, 아이언 핸드는 몸의 약함을 꾸짖으며, 레이븐 가드는 옛말로 물러섬 없는 각오를 밝힌다. 같은 황제를 섬기면서도 군단마다 아버지와 고향과 신념이 먼저 나온다는 것이 드러난다.",
+      "reveals": "충성파 군단도 저마다 아버지와 고향을 먼저 부른다",
+      "terms": [
+        "space_marines",
+        "primarch",
+        "chapter"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%A7%88%EB%A6%B0%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
+        "https://namu.wiki/w/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%8A%A4%EC%B9%B4",
+        "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EC%97%94%EC%A0%A4",
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%ED%94%BC%EC%8A%A4%ED%8A%B8",
+        "https://namu.wiki/w/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B8%ED%94%84",
+        "https://namu.wiki/w/%EB%8B%A4%ED%81%AC%20%EC%97%94%EC%A0%A4%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29",
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%96%B8%20%ED%95%B8%EB%93%9C",
+        "https://namu.wiki/w/%EB%A0%88%EC%9D%B4%EB%B8%90%20%EA%B0%80%EB%93%9C"
+      ]
+    },
+    {
+      "id": "cries_special_chapters",
+      "ko": "특수 임무 챕터의 구호",
+      "orig": "Battle cries of the Grey Knights, Deathwatch and Black Templars",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "그레이 나이트·데스워치·블랙 템플러 설정의 전투 구호와 『던 오브 워 II』의 대사",
+      "speaker": "그레이 나이트·데스워치·블랙 템플러",
+      "summary": "특별한 적을 맡은 챕터의 구호에는 그 임무가 그대로 드러난다. 악마를 사냥하는 그레이 나이트는 자신을 황제가 휘두르는 무기이자 적의 끝으로 내세우고, 외계인을 사냥하는 데스워치는 외계 종족을 살려 둘 까닭이 없다는 제국의 격언을 그대로 구호로 쓴다. 끝없는 성전을 치르는 블랙 템플러는 마음을 흔들 감정을 모두 끊어 낸 맹세를 외친다. 정식 한국어판 『던 오브 워』는 외계인을 살려 두지 말라는 줄을 도전 과제 이름으로 옮겼다.",
+      "reveals": "특수 챕터는 구호부터 맡은 적을 겨눈다",
+      "terms": [
+        "space_marines",
+        "chapter",
+        "daemon",
+        "xenos"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%20%EB%82%98%EC%9D%B4%ED%8A%B8",
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EC%9B%8C%EC%B9%98",
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%ED%85%9C%ED%94%8C%EB%9F%AC",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ilSDgI1JONw",
+          "what": "『던 오브 워』 그레이 나이트 대사 모음",
+          "by": "SNAKE",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "cries_traitor_legions",
+      "ko": "반역 군단의 전투 구호",
+      "orig": "Battle cries of the traitor Legions",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "반역 군단 설정의 전투 구호 — 반역 전과 뒤(나무위키 각 군단 문서의 정보 칸에 모인 것)",
+      "speaker": "반역 군단",
+      "summary": "반역 군단의 구호를 반역 전과 뒤로 나란히 놓으면 무엇이 바뀌었는지 보인다. 월드 이터는 프라이마크에게 바치던 피와 해골을 이제 피의 신에게 바치고, 선 오브 호루스는 워마스터 한 사람을 부르며, 블랙 리전은 돌아왔다는 선언과 함께 황제를 거짓이라 부른다. 나이트 로드는 프라이마크가 고향의 범죄자를 심판하던 말을 구호로 삼고, 워드 베어러는 로가가 쓴 경전의 구절을 외며, 아이언 워리어는 반역 뒤에도 안팎으로 굳센 자신을 내세운다. 데스 가드는 아예 구호를 버려 죽음이 소리 없이 온다는 것을 보여 주고, 사우전드 선의 껍데기 전사들은 같은 말을 나지막이 웅얼거릴 뿐이다.",
+      "reveals": "반역 군단의 구호에는 무엇을 섬기게 되었는지가 드러난다",
+      "terms": [
+        "chaos_space_marines",
+        "horus_heresy",
+        "khorne",
+        "chaos_gods"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%9B%94%EB%93%9C%20%EC%9D%B4%ED%84%B0",
+        "https://namu.wiki/w/%EC%84%A0%20%EC%98%A4%EB%B8%8C%20%ED%98%B8%EB%A3%A8%EC%8A%A4",
+        "https://namu.wiki/w/%EB%B8%94%EB%9E%99%20%EB%A6%AC%EC%A0%84",
+        "https://namu.wiki/w/%EB%82%98%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EB%93%9C",
+        "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%96%B8%20%EC%9B%8C%EB%A6%AC%EC%96%B4",
+        "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%20%EA%B0%80%EB%93%9C",
+        "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EC%A0%84%EB%93%9C%20%EC%84%A0",
+        "https://namu.wiki/w/%EC%9B%8C%EB%93%9C%20%EB%B2%A0%EC%96%B4%EB%9F%AC"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9-gSJW3sHXE",
+          "what": "코온 숭배자의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=d2UwPF3ezEs",
+          "what": "반역 군단들을 소개한 한국어 설명 영상",
+          "by": "스틸리젼의 워해머 채널",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "cry_cadia_stands",
+      "ko": "카디아는 굳건하다!",
+      "orig": "Cadia Stands!",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 ‘카디안 쇼크 트루퍼’ 문서 첫머리에서 통용되는 표기(국내 정식 설정집 없음)",
+      "kind": "대사",
+      "where": "카디아 연대의 구호(같은 이름의 블랙 라이브러리 소설도 있음)",
+      "speaker": "카디안 쇼크 트루퍼",
+      "summary": "아이 오브 테러의 길목을 지켜 온 카디아 사람들의 구호다. 수천 년 동안 카오스의 대침공을 거듭 막아 낸 행성의 자부심과, 무슨 일이 있어도 물러서지 않겠다는 다짐이 한 마디에 담겨 있다. 다른 연대가 황제를 부를 때 카디아 병사들은 자기 행성의 이름을 부른다는 점에서, 이 행성이 제국에서 차지하는 자리가 드러난다.",
+      "reveals": "카디아는 카오스를 막는 최전선의 상징이다",
+      "terms": [
+        "cadia",
+        "astra_militarum",
+        "eye_of_terror",
+        "black_crusade"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EC%B9%B4%EB%94%94%EC%95%88%20%EC%87%BC%ED%81%AC%20%ED%8A%B8%EB%A3%A8%ED%8D%BC",
+        "https://namu.wiki/w/%EC%9E%84%ED%8E%98%EB%A6%AC%EC%96%BC%20%EB%84%A4%EC%9D%B4%EB%B9%84"
+      ]
+    },
+    {
+      "id": "dow_imperial_guard",
+      "ko": "첫 번째로 목숨을 바치는 영광을!",
+      "orig": "Glory for the first man to die!",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(Glory For The First Man To Die! — 임페리얼 가드로 이겼을 때)",
+      "kind": "대사",
+      "where": "『던 오브 워』 임페리얼 가드의 도전 과제 이름과 아스트라 밀리타룸 설정의 커미사르 훈시",
+      "speaker": "임페리얼 가드(아스트라 밀리타룸)",
+      "summary": "『던 오브 워』가 임페리얼 가드에게 붙인 말들은 개개인의 목숨보다 숫자와 거대한 전차를 믿는 군대의 말투다. 병사들은 먼저 쓰러지는 것을 명예로 치켜세우고, 거대한 전차에 큰 기대를 건다. 설정 속 커미사르는 장교의 명령을 따르는 일을 신앙의 의무로 가르치며 의심할 틈을 주지 않는다. 셀 수 없이 많은 평범한 사람을 쏟아붓는 군대가 죽음을 명예로 바꿔 부르며 버틴다는 것이 드러난다.",
+      "reveals": "임페리얼 가드는 죽음을 명예로 바꿔 부르며 버틴다",
+      "terms": [
+        "astra_militarum",
+        "commissar",
+        "imperium_of_man"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/%EC%95%84%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EB%B0%80%EB%A6%AC%ED%83%80%EB%A3%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=HSR9W8g6ak8",
+          "what": "임페리얼 가드의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "orks_cries",
+      "ko": "오크의 함성과 허풍",
+      "orig": "Ork battle cries",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "『던 오브 워』 오크의 도전 과제 이름과 오크 설정의 말투",
+      "speaker": "오크",
+      "summary": "오크의 말은 싸움 그 자체를 즐기는 종족의 것이다. 자기들이 가장 크고 세다는 허풍, 이기든 지든 싸우다 끝나면 그만이라는 태평함, 무리를 몰고 쳐들어가자는 들뜬 외침, 초록이 최고라는 믿음이 이어지고, 모든 것은 와아아아아 함성으로 모인다. 정식 한국어판 『던 오브 워』는 이 말투를 일부러 틀린 맞춤법과 거친 사투리로 옮겼다. 오크가 겁도 셈도 없이 싸움만 바라는 무리라는 것이 드러난다.",
+      "reveals": "오크는 이기는 것보다 싸우는 것을 바란다",
+      "terms": [
+        "orks",
+        "waaagh",
+        "gork_and_mork"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://namu.wiki/w/%EC%98%A4%ED%81%AC%28%EC%9B%8C%ED%95%B4%EB%A8%B8%2040%2C000%29"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VKIJvXrwBMc",
+          "what": "오크 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "tau_cries",
+      "ko": "대의를 위하여",
+      "orig": "For the Greater Good",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(For The Greater Good — 타우 제국으로 이겼을 때)",
+      "kind": "대사",
+      "where": "타우 제국의 대표 구호, 『던 오브 워』 타우의 도전 과제 이름",
+      "speaker": "타우 제국",
+      "summary": "타우 제국 사람들이 싸움에 나설 때나 서로를 다잡을 때 늘 외치는 구호다. 저 하나나 제 종족의 이익을 넘어 모두에게 좋은 질서를 위해 산다는 믿음을 한 마디에 담고, 그 질서에 들어오지 않는 이는 깨우쳐 주거나 꺾어야 할 상대로 본다. 『던 오브 워』 정식 한국어판은 이 구호와 함께 단결이 승리를 부른다는 말, 참을성 있게 기다려 사냥한다는 말을 타우의 도전 과제 이름으로 옮겼다. 다른 세력이 신이나 피를 부를 때 타우만은 하나의 사상을 부른다는 점이 드러난다.",
+      "reveals": "타우는 신 대신 하나의 사상을 위해 싸운다",
+      "terms": [
+        "tau_empire",
+        "greater_good"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%83%80%EC%9A%B0%20%EC%A0%9C%EA%B5%AD",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=MFBg2tU4kC0",
+          "what": "타우 제국 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=n2nk7NH_m6k",
+          "what": "『사이킥 각성』 대의 편 공식 예고편",
+          "by": "Warhammer",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "aeldari_words",
+      "ko": "엘다리가 인간을 대하는 말",
+      "orig": "Aeldari sayings (Dawn of War, Eldrad Ulthran, Farseer Taldeer)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "『던 오브 워』 엘다의 도전 과제 이름, 엘드라드 울쓰란의 말, 『던 오브 워 – 다크 크루세이드』 파시어 탈디르의 말",
+      "speaker": "엘다리(엘드라드 울쓰란, 파시어 탈디르)",
+      "summary": "엘다리의 말에는 오래된 종족의 자부심과 슬픔이 함께 있다. 인간을 ‘몬케이’라는 낮춤말로 부르며 동정할 것 없다고 여기고, 앞일을 내다보는 파시어는 승리를 이미 정해진 일처럼 대한다. 엘드라드는 인간이 짐작도 못 할 만큼 오래된 자기 종족의 고통을 내세우고, 탈디르는 이기든 지든 자기 몫의 운명을 받아들이는 담담함을 보인다. 미래를 보는 힘과 몰락의 기억이 엘다리의 오만과 쓸쓸함을 함께 만든다는 것이 드러난다.",
+      "reveals": "엘다리는 앞을 보는 눈과 몰락의 기억으로 인간을 내려다본다",
+      "terms": [
+        "aeldari",
+        "farseer"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KKqalUJRUGA",
+          "what": "『다크 크루세이드』 엘다 캠페인 첫 영상",
+          "by": "RedAlert2Havoc",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XwODnnfra3A",
+          "what": "엘다리의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "drukhari_words",
+      "ko": "고통의 힘",
+      "orig": "Power From Pain",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 도전 과제 한국어 화면 『Warhammer 40,000: Dawn of War - Definitive Edition』(앱 3556750)의 도전 과제 이름(Power From Pain — 다크 엘다로 이겼을 때)",
+      "kind": "대사",
+      "where": "『던 오브 워 – 소울스톰』 다크 엘다의 도전 과제 이름과 우리엔 라카스의 말",
+      "speaker": "드루카리(다크 엘다), 우리엔 라카스",
+      "summary": "드루카리의 말은 남의 고통을 먹고 사는 종족의 것이다. 자기들을 절망을 다스리는 주인으로 내세우고, 두려움을 퍼뜨리는 것을 자랑으로 삼으며, 고통에서 힘을 얻는다는 것을 숨기지 않는다. 가장 오래된 살 조각가 우리엔 라카스는 고통을 세상의 이치로 받아들인다. 남을 괴롭히는 일이 이들에게는 즐거움이자 살아남는 방법이라는 것이 드러난다.",
+      "reveals": "드루카리에게 남의 고통은 살아남는 힘이다",
+      "terms": [
+        "drukhari",
+        "commorragh",
+        "slaanesh"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=fWbtIsgAbkA",
+          "what": "코모라와 드루카리의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "necron_words",
+      "ko": "깨어난 네크론의 말",
+      "orig": "Necron sayings (Dawn of War achievements)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "『던 오브 워』 네크론으로 이기면 받는 도전 과제 이름",
+      "speaker": "네크론",
+      "summary": "『던 오브 워』가 네크론에게 붙인 말들은 모두 오랜 잠에서 깨어난 지배자의 목소리다. 다시 깨어남과 돌아옴을 알리고, 은하의 옛 주인이자 끝없는 군대로서 자신을 내세우는 말이 대부분이다. 수천만 년 전 은하를 다스리던 종족이 지금의 주인들을 자기 땅에 들어온 침입자로 본다는 것이 드러난다.",
+      "reveals": "네크론은 은하를 되찾으러 돌아온 옛 주인으로 자신을 본다",
+      "terms": [
+        "necrons",
+        "great_sleep",
+        "tomb_world"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=HiqyrLDL9wU",
+          "what": "『던 오브 워 IV』 네크론 공식 시네마틱(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "chaos_words",
+      "ko": "카오스 스페이스 마린의 말",
+      "orig": "Chaos Space Marine sayings (Dawn of War)",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "『던 오브 워』 카오스의 대사와 도전 과제 이름",
+      "speaker": "카오스 스페이스 마린",
+      "summary": "『던 오브 워』의 카오스 전사들은 머릿속에 울리는 목소리를 들으며 미쳐 가는 자들로 그려진다. 그들은 어둠의 신들의 이름으로 싸우며 황제를 거짓되고 죽은 신으로 깎아내리고, 제정신을 버린 것을 오히려 자랑한다. 코온의 광전사들은 피와 살육을 신에게 바치는 짧은 외침을 되풀이하며, 정식 한국어판은 그 외침을 블러드써스터를 불러내는 도전 과제 이름으로 옮겼다. 반역자들에게 황제는 썩어 가는 시체일 뿐이라는 것이 드러난다.",
+      "reveals": "반역자들에게 황제는 썩어 가는 시체일 뿐이다",
+      "terms": [
+        "chaos_space_marines",
+        "chaos_gods",
+        "khorne",
+        "emperor_of_mankind"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Warhammer_40,000:_Dawn_of_War",
+        "https://steamcommunity.com/stats/3556750/achievements?l=koreana",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Zj0XOxBW9mA",
+          "what": "『다크 크루세이드』 카오스 캠페인 첫 영상",
+          "by": "RedAlert2Havoc",
+          "official": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gw1tqnnzorI",
+          "what": "행성을 정복한 카오스의 말을 모은 영상",
+          "by": "Imperātōris Dominium",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "abaddon_declarations",
+      "ko": "아바돈의 선언",
+      "orig": "Abaddon's declarations",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "설정집에 인용되는 아바돈의 말",
+      "speaker": "에제카일 아바돈",
+      "summary": "블랙 리전의 우두머리 아바돈은 옛 주인 호루스를 깎아내리는 말로 자기 길을 밝힌다. 그에게 호루스는 은하를 손에 쥐고도 놓친 어리석은 자이고, 자기는 그 실패를 되풀이하지 않고 거짓 황제를 끝내 무너뜨릴 자다. 스스로 붙인 무시무시한 칭호까지 내세우는 이 말은, 그가 신들의 종이 아니라 자기 뜻으로 반역을 이어 가려 한다는 것을 보여 준다.",
+      "reveals": "아바돈은 호루스가 놓친 승리를 제 손으로 끝내려 한다",
+      "terms": [
+        "chaos_space_marines",
+        "black_crusade",
+        "horus_heresy",
+        "emperor_of_mankind"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://namu.wiki/w/%EC%97%90%EC%A0%9C%EC%B9%B4%EC%9D%BC%20%EC%95%84%EB%B0%94%EB%8F%88"
+      ]
+    },
+    {
+      "id": "guilliman_awakening",
+      "ko": "깨어난 길리먼의 탄식과 테라 연설",
+      "orig": "Roboute Guilliman's lament and first address on Terra",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "설정집 『Rise of the Primarch』(프라이마크의 부활) 속 길리먼의 속엣말과, 테라에서 한 첫 연설",
+      "speaker": "로부테 길리먼",
+      "summary": "만 년 만에 깨어난 울트라마린의 프라이마크 길리먼은 아버지에게 묻듯 자기가 왜 아직 살아 있어야 하느냐고 속으로 괴로워한다. 그는 지금의 제국이 자기와 아버지가 꿈꾼 것과 정반대로, 이성 대신 두려움과 무지로 움직인다고 보며 차라리 반역 때 다 같이 사라졌어야 했다고까지 여기지만, 곧 한 줌 희망이 남은 것을 보고 마음을 추스른다. 테라에서 스페이스 마린 앞에 선 첫 연설에서는 어려운 시대일수록 스페이스 마린이 버텨야 하며 어떤 값을 치르더라도 이겨야 한다고 다그친다. 혼자서는 무너지면서도 남 앞에서는 버팀목이 되어야 하는 섭정의 자리가 드러난다.",
+      "reveals": "되살아난 길리먼은 제국을 꿈의 반대로 보면서도 버틴다",
+      "terms": [
+        "primarch",
+        "space_marines",
+        "emperor_of_mankind",
+        "era_indomitus"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://namu.wiki/w/%EB%A1%9C%EB%B6%80%ED%85%8C%20%EA%B8%B8%EB%A6%AC%EB%A8%BC",
+        "https://en.wikiquote.org/wiki/Warhammer_40,000",
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1_wXCBDiLEA",
+          "what": "8판 공식 영상 「다크 임페리움의 새 영웅들」",
+          "by": "Warhammer",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "dominica_sentence",
+      "ko": "알리시아 도미니카의 선고",
+      "orig": "Alicia Dominica's sentence upon Goge Vandire",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "『Codex: Witch Hunters』(3판) 4쪽 — 배교의 시대 끝, 고그 밴다이어를 처형하기 직전의 말",
+      "speaker": "알리시아 도미니카",
+      "summary": "밴다이어의 사병을 이끌던 도미니카가 옥좌 앞에서 진실을 듣고 돌아와 그 앞에 선다. 그녀는 섬기던 주인을 더는 따르지 않겠다고 밝히고, 황제의 이름을 팔아 제국을 망친 죄를 물어 그를 처형한다. 자비를 베풀지 않는 까닭을 밴다이어가 스스로 내린 칙령에서 찾는 것이 이 선고의 날카로운 점이다.",
+      "reveals": "제국에서는 가장 높은 자도 황제의 이름으로 심판받는다",
+      "terms": [
+        "adepta_sororitas",
+        "ecclesiarchy"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Warhammer%2040%2C000/%EB%AA%85%EC%96%B8",
+        "https://namu.wiki/w/%EA%B3%A0%EA%B7%B8%20%EB%B0%B4%EB%8B%A4%EC%9D%B4%EC%96%B4"
+      ]
+    },
+    {
+      "id": "emperor_last_church",
+      "ko": "『마지막 교회』에서 황제가 한 말",
+      "orig": "The Last Church",
+      "ko_status": "우리 표기",
+      "ko_src": "국내 통용 표기를 찾지 못해 내용을 따 붙인 우리 말 이름(국내 정식 설정집·소설 없음)",
+      "kind": "대사",
+      "where": "호루스 헤러시 단편 『The Last Church』 — 통일 전쟁 끝무렵 지구의 마지막 교회를 지키던 사제와 황제의 문답",
+      "speaker": "황제",
+      "summary": "정체를 숨긴 황제가 지구에 남은 마지막 교회를 찾아가 그곳을 지키던 늙은 사제와 밤새 문답을 나눈다. 황제는 종교가 낳은 피와 폐해를 들어 신앙을 지우려 하고, 사제가 그 확신을 폭군의 것이라고 꼬집어도 인류가 살아남을 길은 하나뿐이며 자기 판단이 옳다는 믿음을 꺾지 않는다. 불타는 교회를 바라보며 사제는, 사람에게서 무언가를 억지로 빼앗으면 오히려 더 갈망하게 된다고 경고한다. 신을 지우려던 황제가 바로 그 갈망의 과녁이 되리라는 것을 이 문답이 미리 보여 준다.",
+      "reveals": "황제는 신앙을 지우려 했고, 그 신앙이 지금 그를 섬긴다",
+      "terms": [
+        "emperor_of_mankind",
+        "ecclesiarchy",
+        "terra"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%ED%99%A9%EC%A0%9C%EA%B5%90"
+      ]
+    },
+    {
+      "id": "votann_ancestors_watching",
+      "ko": "선조들께서 지켜보신다",
+      "orig": "Ancestors are watching",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 ‘보탄 연맹’ 문서 첫머리에서 통용되는 표기(국내 정식 설정집 없음)",
+      "kind": "대사",
+      "where": "보탄 연맹의 격언이자 전투 구호",
+      "speaker": "보탄 연맹",
+      "summary": "보탄 연맹의 일족이 서로를 다잡거나 싸움에 나설 때 쓰는 말이다. 일족이 받드는 조상이 언제나 자기들을 지켜보고 있다는 믿음이 깔려 있어, 조상 앞에서 부끄럽지 않게 싸우라는 다짐이 된다. 다른 세력의 구호가 신이나 사상을 부르는 것과 달리, 이 일족은 늘 곁에 있는 조상의 눈을 부른다.",
+      "reveals": "보탄의 일족은 조상의 눈 아래서 싸운다",
+      "terms": [
+        "leagues_of_votann"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/%EB%B3%B4%ED%83%84%20%EC%97%B0%EB%A7%B9"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=x_aV4FFTJ6U",
+          "what": "보탄 연맹 공식 소개 영상(한국어판)",
+          "by": "Warhammer KR",
+          "official": true
+        }
       ]
     }
   ]
