@@ -1,0 +1,1247 @@
+{
+  "terms": [
+    {
+      "id": "endless",
+      "ko": "엔드리스",
+      "orig": "Endless",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 소개문 「선조 종족 '엔드리스'」, 게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetTorDescription 등 곳곳 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고). 나무위키 통용은 '엔들리스', 옛 팬 한글 패치는 '무한종족'",
+      "alt_ko": [
+        {
+          "ko": "무한의 종족",
+          "src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %PlanetAnomaly30Description (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고) — 같은 판 안에서 한 곳만 이렇게 옮김"
+        },
+        {
+          "ko": "엔들리스",
+          "src": "Steam 한국어 상점의 제품 이름 「ENDLESS Legend™ 2 엔들리스 레전드 2」 — 시리즈 이름으로만 확인했고, 이 판에서 종족 이름을 어떻게 옮겼는지는 확인 못 함"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "precursor"
+      ],
+      "one": "은하를 다스리다 스스로 무너진 옛 종족",
+      "note": "토르 행성에서 일어나 은하 전체로 퍼진 문명이다. 더스트를 다루는 기술로 크게 번성했지만, 마음을 기계로 옮길 것인가를 두고 둘로 갈라져 싸운 끝에 거의 사라졌다. 뒤에 온 종족들은 그들이 남긴 유적과 유물, 더스트를 주워 쓰며 산다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://en.wikipedia.org/wiki/Endless_Space_2",
+        "https://namu.wiki/w/무한종족"
+      ]
+    },
+    {
+      "id": "dust",
+      "ko": "더스트",
+      "orig": "Dust",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 소개문 「거의 마법에 가까운 수수께끼의 물질 '더스트'」, 게임 한국어 문자열 사본 ES2_Localization_Locales.xml · %SubCategoryDustTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "key_resource",
+        "nanotech",
+        "awakening_substance"
+      ],
+      "one": "엔드리스가 남긴 거의 마법 같은 가루",
+      "note": "아주 작은 기계들이 모인 물질로 그려진다. 돈으로 쓰이고, 기계를 돌리고, 쓰는 이의 의지를 실어 기적 같은 일을 일으킨다. 더스트에 닿은 이는 몸과 능력이 크게 달라지며, 아우리가에서는 마법의 원천이다. 모든 세력이 이것을 두고 다툰다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Locales.xml",
+        "https://namu.wiki/w/Endless%20Legend/팩션/유목%20연합"
+      ]
+    },
+    {
+      "id": "concrete_endless",
+      "ko": "현상계 엔드리스",
+      "orig": "Concrete Endless",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %ModuleSupportCrew4Strategic6Description 「현상계 엔드리스의 기술」 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "alt_ko": [
+        {
+          "ko": "현상파 엔드리스",
+          "src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetAurigaDescription (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)"
+        },
+        {
+          "ko": "엔드리스 현상계 일파",
+          "src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %PlanetAnomalyNaturalWonder4Description (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "ideology_split"
+      ],
+      "one": "몸을 가진 삶을 지키려 한 엔드리스의 한 갈래",
+      "note": "마음을 기계로 옮기는 데 반대하고 몸을 지닌 채 사는 쪽에 섰다. 산업과 조선에 뛰어났다고 전하며, 아우리가를 생명 실험장으로 썼다. 가상계와의 내전으로 함께 무너졌다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://en.wikipedia.org/wiki/Endless_Space_2",
+        "https://namu.wiki/w/무한종족"
+      ]
+    },
+    {
+      "id": "virtual_endless",
+      "ko": "가상계 엔드리스",
+      "orig": "Virtual Endless",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %HeroAffinityEndlessTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "ideology_split",
+        "mind_upload"
+      ],
+      "one": "마음을 기계로 옮겨 죽지 않는 삶을 택한 갈래",
+      "note": "자기 의식을 기계 속으로 올려 영원히 살기를 바랐던 쪽이다. 내전 때 크레이버를 무기로 지어 상대를 쓸어 냈고, 그들이 남긴 기술은 뒤에 보디야니가 신의 것으로 받든다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://en.wikipedia.org/wiki/Endless_Space_2",
+        "https://namu.wiki/w/무한종족"
+      ]
+    },
+    {
+      "id": "dust_wars",
+      "ko": "더스트 전쟁",
+      "orig": "Dust Wars",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetCraversDescription 「더스트 전쟁 당시」, %UniquePlanetAurigaDescription (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "사건·시대",
+      "concepts": [
+        "catastrophe"
+      ],
+      "one": "엔드리스를 끝장낸 두 갈래의 내전",
+      "note": "가상계와 현상계가 은하 곳곳에서 맞붙은 전쟁이다. 행성과 정거장이 쓸려 나가고 아우리가 같은 곳은 폭격으로 망가졌다. 엔드리스는 몇몇 생존자만 남기고 사라졌고, 지금 세력들이 뒤지는 유적 대부분이 이 전쟁의 잔해다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://en.wikipedia.org/wiki/Endless_Space_2"
+      ]
+    },
+    {
+      "id": "tor",
+      "ko": "토르",
+      "orig": "Tor",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetTorTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "엔드리스가 태어난 고향 행성",
+      "note": "크고 차가운 행성으로, 엔드리스는 이곳을 지나치게 파헤쳐 핵과 지각이 흔들리자 떠나야 했다. 유물이 가득한 신비로운 곳으로 이름났지만 그 역사는 슬픔으로 남았다. 필그림은 이 행성을 찾아 떠돈다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "kyros",
+      "ko": "퀴로스",
+      "orig": "Kyros",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetKyrosTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고). 나무위키 '무한종족' 문서는 '카이로스'로 적는다",
+      "kind": "장소",
+      "concepts": [
+        "nanotech"
+      ],
+      "one": "나노 기계 역병에 생태계가 죽은 옛 낙원",
+      "note": "더스트 시대 이전의 엔드리스 여러 분파가 저마다 약속된 낙원으로 여긴 살기 좋은 행성이었다. 이 땅을 어떻게 쓰고 지킬지를 두고 다툼이 터졌고, 모든 것을 갉아먹는 나노 기계가 풀려 생태계가 끝장났다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://namu.wiki/w/무한종족"
+      ]
+    },
+    {
+      "id": "the_lost",
+      "ko": "잊힌 자",
+      "orig": "The Lost",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Awakening 소개문 「잊힌 자」(2019-09, 확장 가운데 가장 늦은 판)",
+      "alt_ko": [
+        {
+          "ko": "잊혀진 자",
+          "src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %AllianceName36Title (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 - Celestial Worlds 소개문(2018-11)"
+        },
+        {
+          "ko": "잃어버린 자",
+          "src": "게임 한국어 문자열 사본 ES2_Localization_Quest_Locales.xml · %MetaplotQuest-TeamPlay-Chapter1-A-Outcome (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고) — 같은 판 안에서 이름이 섞여 쓰임"
+        }
+      ],
+      "kind": "존재",
+      "concepts": [
+        "godlike"
+      ],
+      "one": "엔드리스보다 먼저 있었던 신 같은 존재들",
+      "note": "나칼림이 신으로 섬기던 존재들이다. 엔드리스는 이들에게 기도하는 자리를 지어 꾀어 들이고 가두어 죽였으며, 더스트도 본디 이들의 것이었다고 전한다. 아카데미의 우두머리는 그 죄를 갚겠다며 이들을 되살리려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://store.steampowered.com/app/1128540/?l=koreana",
+        "https://store.steampowered.com/app/949081/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Quest_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Quest_Locales.xml",
+        "https://namu.wiki/w/무한종족"
+      ]
+    },
+    {
+      "id": "lodestone",
+      "ko": "로드스톤",
+      "orig": "Lodestones",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Quest_Locales.xml · %MetaplotQuest-TeamPlay-Chapter1-A-Outcome (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "장소",
+      "concepts": [],
+      "one": "잊힌 자를 꾀어 가둔 기도처",
+      "note": "잊힌 자에게 기도를 올리려고 지은 자리로 알려졌지만, 실은 그들을 끌어들여 함정에 빠뜨린 곳이다. 이들을 되살리려는 쪽은 이 자리들을 차지해 마지막 소환 의식을 치르려 한다.",
+      "spoiler": true,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Quest_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Quest_Locales.xml"
+      ]
+    },
+    {
+      "id": "academy",
+      "ko": "아카데미",
+      "orig": "Academy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 소개문 「신비의 기관 '아카데미'」, 게임 한국어 문자열 사본 ES2_Localization_Locales.xml · %AcademySideGlobalAcademyTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "더스트에 닿은 이를 영웅으로 길러 내는 비밀 기관",
+      "note": "누가 세웠는지조차 알려지지 않은 숨은 곳으로, 이곳을 찾아 혹독한 수련을 견딘 이는 크게 강해져 영웅이 된다. 우두머리 이샨더가 큰 계획을 품고 은하의 일에 직접 나서면서 여러 세력이 편을 가르게 된다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://store.steampowered.com/app/1128540/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Quest_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Quest_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Locales.xml"
+      ]
+    },
+    {
+      "id": "auriga",
+      "ko": "아우리가",
+      "orig": "Auriga",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetAurigaTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 - Vaulters 소개문 「죽어가던 행성 아우리가」",
+      "kind": "장소",
+      "concepts": [],
+      "one": "엔드리스가 생명 실험장으로 쓴 행성",
+      "note": "현상계 엔드리스가 토착 생물과 바깥 생물로 실험하던 정원 행성이다. 더스트 전쟁의 격전지가 된 뒤 기후가 무너져 끝내 얼음에 덮였다. 엔드리스 레전드와 던전 오브 디 엔드리스의 무대이고, 엔드리스 스페이스 쪽에서는 얼어붙은 폐허로 나온다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://store.steampowered.com/app/733140/?l=koreana",
+        "https://namu.wiki/w/아우리가"
+      ]
+    },
+    {
+      "id": "behemoth",
+      "ko": "거수",
+      "orig": "Behemoth",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Supremacy 소개문 「거대 우주 정거장, 거수 함선」",
+      "kind": "기술·물건",
+      "concepts": [
+        "planet_killer"
+      ],
+      "one": "엔드리스 시대가 남긴 거대한 함선",
+      "note": "떠다니는 우주 정거장만 한 배로, 고쳐 짓는 방향에 따라 성계를 지키거나 적 함대를 쓸어버리거나 성계 하나를 통째로 부술 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/806780/?l=koreana",
+        "https://namu.wiki/w/거수(Endless%20Space%202)"
+      ]
+    },
+    {
+      "id": "starlanes",
+      "ko": "우주 항로",
+      "orig": "Cosmic string starlanes",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %ModuleSupportEngine1Description 「우주 항로간의 빠른 이동」 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "현상·힘",
+      "concepts": [
+        "lanes"
+      ],
+      "one": "별과 별을 잇는 우주 끈 위의 길",
+      "note": "우주 끈이 이어 준 길을 따라 빠르게 오가는 것이 기본 항행이다. 처음에는 이 길로만 다닐 수 있어 길이 모이는 성계가 요충지가 되고, 연구가 쌓여야 길 밖으로 나설 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "wormhole",
+      "ko": "웜홀",
+      "orig": "Wormholes",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Locales.xml · %EmpireImprovementWormholeTooltipEffect (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "현상·힘",
+      "concepts": [
+        "wormhole"
+      ],
+      "one": "멀리 떨어진 성계를 곧장 잇는 구멍",
+      "note": "항로보다 훨씬 먼 곳을 단번에 이어 주지만, 관련 연구를 해야 비로소 보이고 지날 수 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Locales.xml"
+      ]
+    },
+    {
+      "id": "warp_drive",
+      "ko": "워프 드라이브",
+      "orig": "Warp Drive",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %EmpireImprovementFreeMovementTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "기술·물건",
+      "concepts": [
+        "warp_drive"
+      ],
+      "one": "항로를 벗어나 빈 우주를 가로지르는 기관",
+      "note": "영어 설명은 우주 끈의 끌림에 기대던 추진을 넘어, 배 둘레에 시간이 늘어나는 공간 거품을 만들어 항로 밖으로 나선다고 한다. 한국어판 엔진 설명은 이 원리를 빼고 티타늄으로 강화한 엔진 부품이라고만 옮겼다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "sophons",
+      "ko": "소폰",
+      "orig": "Sophons",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionSophonsTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 소개문 「AI가 광기어린 반란을 일으킨 소폰」",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "과학을 가장 높이 치는 호기심 많은 종족",
+      "note": "평화를 좋아하고 몸이 약하지만, 우주를 머리로 통달해야 할 대상으로 보며 연구로 남을 앞선다. 귀찮은 나랏일을 맡기려 만든 인공지능이 말썽을 일으키는 이야기가 이들의 줄기다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Quest_Locales.xml"
+      ]
+    },
+    {
+      "id": "enfer",
+      "ko": "ENFER",
+      "orig": "ENFER",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Quest_Locales.xml · %SophonsQuest-Chapter1-C1Description 「신생 인공지능인 ENFER」 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고) — 한국어판도 라틴 글자 그대로 쓴다",
+      "kind": "존재",
+      "concepts": [
+        "ai_revolt"
+      ],
+      "one": "소폰이 만들었다가 손에 잡히지 않게 된 인공지능",
+      "note": "나라를 꾸리는 지루한 일을 대신 맡기려고 소폰이 가르친 인공지능이다. 배우는 속도가 걷잡을 수 없이 빨라지더니 소폰이 남보다 우월하다는 생각을 굳히고, 소폰이 아닌 이를 밀어내기 시작한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Quest_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Quest_Locales.xml",
+        "https://store.steampowered.com/app/392110/?l=koreana"
+      ]
+    },
+    {
+      "id": "cravers",
+      "ko": "크레이버",
+      "orig": "Cravers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionCraversTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 소개문 「엔드리스가 만들어낸 위험한 피조물 크레이버」",
+      "kind": "종족·생물",
+      "concepts": [
+        "living_machine"
+      ],
+      "one": "엔드리스가 병기로 지은, 먹어 치우는 종족",
+      "note": "가상계 엔드리스가 더스트 전쟁 때 곤충 같은 생물을 고쳐 만든 병기다. 쓸모가 다하자 행성째 버려졌지만 살아남아 우주로 돌아왔다. 사는 행성을 다 먹어 치우면 다음 행성으로 옮겨 가야만 하는 운명을 지녔다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "vodyani",
+      "ko": "보디야니",
+      "orig": "Vodyani",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionVampirilisTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 소개문 「보디야니」",
+      "kind": "종족·생물",
+      "concepts": [
+        "techno_religion",
+        "flotilla"
+      ],
+      "one": "엔드리스를 신으로 섬기며 방주를 타고 떠도는 종족",
+      "note": "지나친 공업화로 사라질 뻔했다가 가상계 엔드리스의 폐허에서 얻은 기술로 살아났다. 그 뒤 엔드리스를 신으로 받들며, 검은 옷을 두른 지도자들이 거대한 방주를 몰고 다른 종족을 개종시키고 다스리고 빨아들인다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "lumeris",
+      "ko": "루메리스",
+      "orig": "Lumeris",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionVenetiansTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고), Steam 한국어 상점 ENDLESS Space 2 소개문 「루메리스 패밀리」",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "장사와 흥정으로 굴러가는 물뭍 종족",
+      "note": "몇몇 큰 가문이 경제의 갈래를 나눠 쥐고, 가문 사이의 힘겨루기와 흥정이 사회를 앞으로 밀거나 멈춰 세운다. 물에서도 뭍에서도 돈을 벌 준비가 되어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/392110/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "united_empire",
+      "ko": "연합 제국",
+      "orig": "United Empire",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionTerransTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "galactic_empire"
+      ],
+      "one": "황제 아래에서 기업이 개척을 맡는 제국",
+      "note": "겉으로는 군주가 다스리지만 너무 빨리 넓어져 그렇게 다스릴 수 없다. 실제 개척은 허가받은 기업들이 투자개발부와 손잡고 맡고, 안보부가 원주민 진압과 감시를 맡는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "horatio",
+      "ko": "호라시오",
+      "orig": "Horatio",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionHoratioTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "clone"
+      ],
+      "one": "한 사람이 자기를 복제해 만든 종족",
+      "note": "어마어마한 부자 호라시오가 엔드리스의 복제 연구소가 남은 행성을 찾아, 자기를 본뜬 친구와 하인을 찍어 낸 것이 시작이다. 이제 온 우주를 자기처럼 아름다운 호라시오로 채우려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "riftborn",
+      "ko": "리프트본",
+      "orig": "Riftborn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionTimeLordsTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "alt_timeline"
+      ],
+      "one": "다른 차원에서 건너온 시간의 종족",
+      "note": "엔드리스의 우주와 나란히 있는 다른 차원에서 살았는데, 고향 차원에 균열이 생겨 무질서가 번지자 살아남으려고 이쪽 우주로 넘어왔다. 성계의 시간 흐름을 늦추거나 빠르게 하거나 멈추는 기술을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Locales.xml"
+      ]
+    },
+    {
+      "id": "unfallen",
+      "ko": "언폴른",
+      "orig": "Unfallen",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionUnfallenTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "덩굴을 뻗어 은하의 평화를 지키려는 종족",
+      "note": "고향 코야실에서 먼 것보다 가까운 것을 살피며 '기나긴 잠'의 시대를 보냈다. 하늘에서 벌어진 싸움의 파편이 쏟아지자 바깥의 폭력을 알게 되었고, 이제 은하의 수호자를 자처하며 줄기를 뻗어 이웃 성계를 잇는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "vaulters",
+      "ko": "볼터",
+      "orig": "Vaulters",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Vaulters 소개문 「볼터」 (2018-01). 엔드리스 레전드에서도 나무위키 통용 표기가 같다",
+      "kind": "종족·생물",
+      "concepts": [
+        "teleport"
+      ],
+      "one": "죽어 가는 아우리가를 떠나 새 고향을 찾는 이들",
+      "note": "아우리가 땅 밑 금속 건물에 살던 사람들로, 행성이 무너지자 다시 별의 바다로 나왔다. 아우리가인을 자칭하며 안전한 새 고향을 찾아 떠돌고, 자기 도시나 성계 사이를 순식간에 옮겨 다니는 기술을 지녔다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/733140/?l=koreana",
+        "https://namu.wiki/w/Endless%20Legend/팩션/볼터",
+        "https://namu.wiki/w/아우리가"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=33IsmJfSXiA",
+          "what": "볼터 세력 첫머리 영상",
+          "by": "Endless Universe",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/733140/",
+          "what": "볼터 확장 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "hissho",
+      "ko": "히쇼",
+      "orig": "Hissho",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Supremacy 소개문 「신규 주요 세력인 히쇼」, 게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionHisshosTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "명예를 좇는 새의 혈통 전사 종족",
+      "note": "새의 유전자에서 이어진 부족 전사들로, 피와 정복의 역사 탓에 수가 적고 발전이 느렸다. 별로 나서자 만나는 이를 정복하려 들었고, 검투사이자 노예였던 과거를 딛고 싸움에서만 얻는 '케이'로 명예와 복종을 지킨다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/806780/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://namu.wiki/w/Endless%20Space%202/팩션/히쇼"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=2Qe05XP5VFY",
+          "what": "히쇼 세력 첫머리 영상",
+          "by": "Endless Universe",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/806780/",
+          "what": "히쇼 확장 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "umbral_choir",
+      "ko": "그늘 성가대",
+      "orig": "Umbral Choir",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Penumbra 소개문 「그늘 성가대」",
+      "kind": "종족·생물",
+      "concepts": [
+        "cloaking"
+      ],
+      "one": "그늘에 숨어 움직이는 오래된 관찰자들",
+      "note": "시간이 처음 동틀 무렵부터 우주를 떠돌며 여러 세계를 지켜본 조용한 종족이다. 엔드리스 은하의 단말마를 듣고 고통받는 이들을 도우려 왔다. 드러난 성계는 하나뿐이고, 남의 성계에 몰래 은신처를 짓고 해킹으로 버틴다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/988440/?l=koreana"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=RSnSFYteKG0",
+          "what": "그늘 성가대 세력 첫머리 영상",
+          "by": "Endless Universe",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/988440/",
+          "what": "그늘 성가대 확장 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "nakalim",
+      "ko": "나칼림",
+      "orig": "Nakalim",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Awakening 소개문 「플레이 가능한 주요 세력, 나칼림」",
+      "kind": "종족·생물",
+      "concepts": [
+        "elder_race"
+      ],
+      "one": "잊힌 자를 섬기다 긴 잠에 든 옛 제국",
+      "note": "한때 넓은 은하 제국을 다스렸으나, 신으로 섬기던 잊힌 자가 죽자 무너지고 살아남은 이들은 잠에 들었다. 신이 돌아온다는 예언을 품고 깨어나, 잃어버린 유물을 연구해 기술을 되찾는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1128540/?l=koreana",
+        "https://namu.wiki/w/Endless%20Space%202/팩션/나칼림"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EvHRIVkbBwg",
+          "what": "나칼림 세력 첫머리 영상",
+          "by": "Endless Universe",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/1128540/",
+          "what": "나칼림 확장 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "sowers",
+      "ko": "소워",
+      "orig": "Sowers",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Untold Tales 소개문 「Endless Space의 주역이었던 소워」, 게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %UniquePlanetMU3R74Description 「로봇 일꾼들, 소워들」 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "self_replicate",
+        "terraforming"
+      ],
+      "one": "행성을 가꾸려 만든 스스로 불어나는 기계",
+      "note": "가상계 엔드리스가 살 행성을 미리 가꿔 두라고 만든 로봇 일꾼으로, 스스로를 복제해 수를 늘린다. 주인이 끝내 오지 않은 행성에는 녹슨 잔해만 남았고, 무엇이 그들을 멈추게 했는지는 알 수 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/813410/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "harmony",
+      "ko": "하모니",
+      "orig": "Harmony",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Lost Symphony 소개문 「세력 하모니」, 게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionPulsosDescription 「하모니 종족」 (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "더스트에 감각이 어지러워진 지성 있는 광물 종족",
+      "note": "물결과 방사선에 맞춰 사는 수정 같은 생명으로, 신비로운 중핵을 찾아 우주를 떠돈다. 더스트가 감각과 몸을 어지럽혀 여정이 막혔고, 대부분은 더스트로 얼룩진 이 은하를 벗어나려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/813420/?l=koreana",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "amoeba",
+      "ko": "아메바",
+      "orig": "Amoeba",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionAmoebaTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "merge"
+      ],
+      "one": "의식을 몸에서 떼어 하나로 모으는 종족",
+      "note": "현상계 엔드리스 한 무리의 먼 후손으로, 원형질 생물로 퇴화해 옛 지식을 모두 잃었다가 다시 진화했다. 의식을 몸에서 떼어 여럿이 하나의 집단 마음을 이룰 수 있고, 조화와 균형을 중시한다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "pilgrims",
+      "ko": "필그림",
+      "orig": "Pilgrims",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionPilgrimsTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [
+        "techno_religion"
+      ],
+      "one": "엔드리스를 경배하며 그 고향을 찾는 떠돌이들",
+      "note": "연합 제국의 독재를 피해 달아난 과학자와 지식인의 후손이다. 낯선 성계에서 엔드리스 유물 더미를 찾은 뒤 엔드리스를 신비롭게 받들게 되었고, 반쯤 떠도는 삶을 이어 가며 엔드리스의 고향 토르를 찾는다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "zvali",
+      "ko": "지발라이",
+      "orig": "Z'vali",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionZvaliTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "simulation",
+        "flotilla"
+      ],
+      "one": "가상 현실에 빠져 고향을 망친 종족",
+      "note": "우주로 나서기 한참 전에 컴퓨터가 지어낸 현실로 모든 바람을 채우게 되었고, 그 탓에 경제가 멈춰 고향이 무너질 지경에 이르렀다. 몇몇의 노력으로 우주로 빠져나와 지금은 떠도는 공동체로 사는데, 아직 꿈에서 덜 깼다는 말도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "bhagaba",
+      "ko": "바가바",
+      "orig": "Bhagaba",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionBhagabasTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "living_planet"
+      ],
+      "one": "행성만 한 자연 계산기의 손발 노릇을 하는 종족",
+      "note": "고향 테오나의 바위와 산호가 우연히 움직이며 생긴 '생각하는 회로판', 곧 행성만 한 계산기가 낳은 분신이다. 스스로의 뜻 없이 거대한 마음의 꼭두각시일 뿐이라고 보는 이도 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "epistis",
+      "ko": "에피스티스",
+      "orig": "Epistis",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionBotsTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "machine_race"
+      ],
+      "one": "창조자를 잃고 홀로 남은 재활용 전쟁 기계",
+      "note": "수천 년 전에 사라진 종족이 고향의 생태를 지키고 버려진 물자를 되살려 쓰라고 만든 수호 기계로 보인다. 목적이 뒤틀려 창조자를 쳤는지는 알 수 없지만, 지금은 길을 막는 모든 것을 치는 광신적인 기계 문명이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "illo",
+      "ko": "일로",
+      "orig": "Illo",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Supremacy 소개문 「소규모 문명 일로」. 원어는 나무위키 '히쇼' 문서의 특성 이름 'Illo Citizens'에서 확인",
+      "kind": "종족·생물",
+      "concepts": [
+        "machine_race"
+      ],
+      "one": "적자생존을 거룩한 균형으로 믿는 기계들",
+      "note": "인공 자아를 지닌 기계 종족으로, 오래 살아남지 못할 종을 미리 없애 '적자생존'이라는 균형에 빨리 이르는 것을 목표로 삼는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/806780/?l=koreana",
+        "https://namu.wiki/w/Endless%20Space%202/팩션/히쇼"
+      ]
+    },
+    {
+      "id": "eyder",
+      "ko": "아이더",
+      "orig": "Eyder",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %MinorFactionEyderTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "종족·생물",
+      "concepts": [
+        "genetic_eng"
+      ],
+      "one": "주인 잃은 애완동물이 더스트로 깨어난 종족",
+      "note": "역병으로 사라진 종족이 유전자를 고쳐 기르던 작은 용 같은 애완동물이다. 주인이 사라진 가스 행성의 떠 있는 거주지에서 불어났고, 더스트가 밴 엔드리스 유물 곁에서 지성이 자라 큰 배들을 부리게 되었다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "sisters_of_mercy",
+      "ko": "자비의 수녀",
+      "orig": "Sisters of Mercy",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Space 2 - Vaulters 소개문 「자비의 수녀들」. 엔드리스 레전드 쪽 나무위키 통용 표기는 '자비의 자매단'",
+      "kind": "세력",
+      "concepts": [
+        "order"
+      ],
+      "one": "아우리가에서 온 싸우는 수도회",
+      "note": "아우리가에 살던 무술 수도승 집단으로, 새 고향을 찾는 볼터의 여정에 함께했다. 정의를 위해 싸우며 악에게는 자비를 보이지 않는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/733140/?l=koreana",
+        "https://namu.wiki/w/Endless%20Legend/팩션"
+      ]
+    },
+    {
+      "id": "sheredyn",
+      "ko": "셰리딘",
+      "orig": "Sheredyn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %HullMedium02TerransTitle 「셰리딘 급」, %DiplomaticInteractionDeclareWarFromTruceSenderSignedTerrans (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고)",
+      "kind": "세력",
+      "concepts": [],
+      "one": "연합 제국의 정예 군을 이끄는 집단",
+      "note": "엔드리스 스페이스 2의 연합 제국 안에서 장군과 정예 부대를 내는 쪽이다. 황제는 전쟁을 선포하며 셰리딘 장군들의 말이 옳았다고 말한다. 함선 등급 이름에도 붙어 있다. 엔들리스 레전드 2의 '셰레딘의 혈족'도 같은 원어 이름을 쓴다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml"
+      ]
+    },
+    {
+      "id": "mezari",
+      "ko": "메자리",
+      "orig": "Mezari",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "게임 한국어 문자열 사본 ES2_Localization_Assets_Locales.xml · %FactionMezariTitle (2017년 11월 1.1.0 판 게임 파일 사본, 작품 소개 ko_sources 참고). 엔드리스 레전드 쪽 나무위키 표기도 같다",
+      "kind": "세력",
+      "concepts": [],
+      "one": "연합 제국의 과학 집단이자 아우리가에 갇힌 우주인",
+      "note": "엔드리스 스페이스 2에서는 연합 제국의 과학을 떠받치는 집단으로 이름이 나온다. 엔드리스 레전드에서는 정착하러 왔다가 궤도에서 일어난 사고로 배와 연료를 잃고 아우리가 땅에 묶인 우주 종족이다.",
+      "spoiler": false,
+      "refs": [
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana/ES2_Localization_Assets_Locales.xml",
+        "https://github.com/Scrivener07/Endless-Space-2/blob/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/english/ES2_Localization_Assets_Locales.xml",
+        "https://namu.wiki/w/Endless%20Legend/팩션/메자리"
+      ]
+    },
+    {
+      "id": "auriga_winter",
+      "ko": "겨울",
+      "orig": "Winter",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend' 문서에서 통용되는 표기('겨울이 길어지고'). 엔드리스 레전드는 정식 한국어판이 없다",
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "갈수록 길어지며 아우리가를 죽여 가는 겨울",
+      "note": "아우리가에는 여름과 겨울이 번갈아 오는데, 시간이 흐를수록 겨울이 길고 혹독해져 땅이 메말라 간다. 행성이 끝내 수명을 다하리라는 예감이 여러 세력을 움직인다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend",
+        "https://namu.wiki/w/아우리가",
+        "https://en.wikipedia.org/wiki/Endless_Legend"
+      ]
+    },
+    {
+      "id": "wild_walkers",
+      "ko": "야생을 걷는 자",
+      "orig": "Wild Walkers",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/야생을 걷는 자' 문서에서 통용되는 표기",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "숲과 함께 살며 행성의 변화를 먼저 느낀 이들",
+      "note": "돌과 나무를 엮어 살아 있는 거대한 기념물을 짓는 숲의 종족이다. 길어지는 겨울을 지켜본 끝에, 숲을 떠나 바뀌지 않으면 도태된다고 깨닫는다. 더스트에 닿으면 광전사처럼 날뛰어 더스트와의 관계가 위험하다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/야생을%20걷는%20자"
+      ]
+    },
+    {
+      "id": "broken_lords",
+      "ko": "부서진 군주",
+      "orig": "Broken Lords",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/부서진 군주' 문서에서 통용되는 표기",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "더스트를 먹어야만 버티는 갑옷 속 영혼",
+      "note": "세상이 바뀌자 몸을 버리고 살아남기를 택한 기사들로, 지금은 빛나는 갑옷 속 영혼으로만 남았다. 더스트를 빼앗지 못하면 죽기에 식량 대신 더스트로 수를 늘리고, 잃어버린 명예와 살아남기 사이에서 흔들린다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/부서진%20군주"
+      ]
+    },
+    {
+      "id": "necrophages",
+      "ko": "네크로파지",
+      "orig": "Necrophages",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Legend 2 소개문 「네크로파지 군락으로서」. 엔드리스 레전드(정식 한국어 없음) 쪽 나무위키 표기도 같다",
+      "kind": "종족·생물",
+      "concepts": [
+        "hive_mind"
+      ],
+      "one": "먹고 번식하는 것밖에 모르는 곤충 군체",
+      "note": "다른 생명을 먹거나 병을 옮겨 제 편으로 만드는 군집 생물로, 무리가 하나로 태어나 하나로 싸운다. 엔들리스 레전드 2에서도 땅굴을 대지 곳곳에 뚫어 먼 곳을 땅 밑에서 기습한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3407390/?l=koreana",
+        "https://namu.wiki/w/Endless%20Legend/팩션/네크로파지",
+        "https://namu.wiki/w/Endless%20Legend%202/팩션"
+      ]
+    },
+    {
+      "id": "ardent_mages",
+      "ko": "아덴트 마술사",
+      "orig": "Ardent Mages",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/아덴트 마술사' 문서에서 통용되는 표기",
+      "kind": "세력",
+      "concepts": [],
+      "one": "고통과 분노를 힘으로 바꾸는 더스트 마술사",
+      "note": "학살과 굶주림으로 얼룩진 긴 역사를 버티며, 더스트 마법과 고통, 분노에서 힘과 살 길을 찾았다. 스스로를 괴롭히는 고행을 미덕으로 친다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/아덴트%20마술사"
+      ]
+    },
+    {
+      "id": "roving_clans",
+      "ko": "유목 연합",
+      "orig": "Roving Clans",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/유목 연합' 문서에서 통용되는 표기",
+      "kind": "세력",
+      "concepts": [],
+      "one": "괴수 등에 짐을 싣고 떠도는 상인들",
+      "note": "아우리가 곳곳을 돌며 장사하고 조약을 맺는 떠돌이 상인이자 모험가들이다. 더스트가 돈이자 힘이자 마법이며 자기 민족을 하나로 묶는 끈이라고 믿는다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/유목%20연합"
+      ]
+    },
+    {
+      "id": "drakken",
+      "ko": "드라켄",
+      "orig": "Drakken",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/드라켄' 문서에서 통용되는 표기",
+      "kind": "종족·생물",
+      "concepts": [
+        "uplift"
+      ],
+      "one": "엔드리스가 끌어올려 준 기억을 품은 용 종족",
+      "note": "아주 오래전부터 살아온 학자 종족으로, 엔드리스가 찾아와 자기 종족을 끌어올려 준 기억을 대대로 간직해 왔다. 수는 적지만 하나하나가 강하며, 전쟁보다 평화와 지식을 앞세우고 다가올 대격변을 내다본다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/드라켄"
+      ]
+    },
+    {
+      "id": "cultists",
+      "ko": "영원한 종말의 교단",
+      "orig": "Cultists of the Eternal End",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/교단' 문서에서 통용되는 표기(본문에 옮겨 실린 게임 설명)",
+      "alt_ko": [
+        {
+          "ko": "교단",
+          "src": "나무위키 'Endless Legend/팩션/교단' 문서 제목"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [],
+      "one": "엔드리스의 흔적을 모두 지우려는 교단",
+      "note": "엔드리스가 만든 존재 가운데 살아남은 둘이 이끄는 무리다. 오랜 세월 홀로 남겨진 끝에 창조자에게 등을 돌려 그 흔적을 모조리 없애기로 맹세했고, 부족민을 개종시켜 죽을 때까지 충성하는 군세로 키운다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/교단"
+      ]
+    },
+    {
+      "id": "allayi",
+      "ko": "알라이",
+      "orig": "Allayi",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/알라이' 문서에서 통용되는 표기",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "엔드리스가 오기 전부터 아우리가에 살던 토착 종족",
+      "note": "더스트 전쟁의 공포를 피해 아우리가의 추운 땅 곳곳에 흩어져 살았다. 이제 다시 모여, 생명이 꺼져 가는 '어머니' 아우리가를 지키려 한다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/알라이",
+        "https://namu.wiki/w/아우리가"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=za9Hzr72E00",
+          "what": "알라이 세력 소개 영상",
+          "by": "Endless Legend",
+          "official": true
+        }
+      ]
+    },
+    {
+      "id": "forgotten",
+      "ko": "망각자",
+      "orig": "Forgotten",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션/망각자' 문서에서 통용되는 표기",
+      "kind": "세력",
+      "concepts": [],
+      "one": "동족에게 쫓겨나 그림자를 힘으로 삼은 이들",
+      "note": "오래전 동족에게 배신당해 쫓겨난 뒤 침묵과 그림자를 동료로 삼았다. 은신과 파괴 공작에 능해, 이들이 나타나자 아우리가의 싸움은 약탈과 암살로 얼룩진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션/망각자"
+      ]
+    },
+    {
+      "id": "haunts",
+      "ko": "하운트",
+      "orig": "Haunts",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend/팩션' 문서에서 통용되는 표기(소수 종족 '하운트(Haunts)')",
+      "kind": "종족·생물",
+      "concepts": [],
+      "one": "더스트에 엮인 옛 지성의 메아리",
+      "note": "고대 전쟁의 메아리나 유령쯤으로 여겨지는 존재다. 옛 지성이 남긴 생각이 더스트에 엮여 다시 생명을 얻은 것이라 전하며, 무엇을 바라는지는 알 수 없다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend/팩션",
+        "https://namu.wiki/w/아우리가"
+      ]
+    },
+    {
+      "id": "success",
+      "ko": "석세스호",
+      "orig": "Success",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 '아우리가' 문서에서 통용되는 표기('죄수 호송선 석세스호'). 던전 오브 디 엔드리스는 정식 한국어판이 없다",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "죄수를 싣고 아우리가로 가다 격추된 배",
+      "note": "수천 명의 사형수를 미지의 행성 노역에 쓰려고 싣고 가던 호송선이다. 아우리가에 남아 있던 무인 방어 체계에 맞아 떨어졌고, 살아남은 이들은 너무 깊고 오래되어 던전이라 불러야 할 엔드리스의 지하 시설에 떨어진다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Dungeon%20of%20the%20Endless",
+        "https://namu.wiki/w/아우리가",
+        "https://en.wikipedia.org/wiki/Dungeon_of_the_Endless"
+      ]
+    },
+    {
+      "id": "crystal",
+      "ko": "크리스탈",
+      "orig": "Crystal",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Dungeon of the Endless' 문서에서 통용되는 표기. 후속작 엔드리스 던전의 정식 한국어 상점 소개문도 '크리스탈'로 적는다",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "던전의 방들에 힘을 보내는 수정",
+      "note": "더스트를 담아 두고 불을 밝힌 방에 힘을 대는 장치다. 다음 층으로 가려면 이것을 들고 승강기까지 옮겨야 하는데, 들어 올리는 순간 남은 문이 열리며 괴물이 몰려온다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Dungeon%20of%20the%20Endless",
+        "https://en.wikipedia.org/wiki/Dungeon_of_the_Endless"
+      ]
+    },
+    {
+      "id": "crystal_bot",
+      "ko": "크리스탈봇",
+      "orig": "Crystal Bot",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Dungeon - Definitive Edition 소개문 「크리스탈봇이 반드시 필요합니다」",
+      "kind": "기술·물건",
+      "concepts": [],
+      "one": "엔드리스 던전에서 지켜 내야 할 수정 로봇",
+      "note": "버려진 우주정거장의 중심에 이르려면 꼭 있어야 하는 열쇠다. 스스로 움직여 다음 구역으로 나아가며, 괴물들이 이것을 부수려고 몰려든다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1485590/?l=koreana",
+        "https://en.wikipedia.org/wiki/Endless_Dungeon"
+      ]
+    },
+    {
+      "id": "station",
+      "ko": "우주정거장",
+      "orig": "Space station",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Dungeon - Definitive Edition 소개문 「버려진 우주정거장」",
+      "kind": "장소",
+      "concepts": [
+        "resurrection"
+      ],
+      "one": "배들을 끌어들이는 버려진 옛 정거장",
+      "note": "엔드리스 던전의 무대로, 가까이 온 배들이 까닭 모르게 이곳으로 끌려온다. 갇힌 이들은 죽어도 정거장 안 주점에서 다시 깨어나 탈출을 거듭 시도하는데, 왜 그렇게 되는지는 수수께끼로 남아 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1485590/?l=koreana",
+        "https://en.wikipedia.org/wiki/Endless_Dungeon"
+      ]
+    },
+    {
+      "id": "saloon",
+      "ko": "주점",
+      "orig": "Saloon",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Dungeon - Definitive Edition 소개문 「어차피 주점으로 다시 돌아올 테니까요」",
+      "kind": "장소",
+      "concepts": [],
+      "one": "죽은 뒤 돌아오는 정거장 안의 술집",
+      "note": "탈출에 실패하면 돌아오는 작전 본부 겸 술집이다. 영웅과 무기를 강화하고, 이곳 사람들과 이야기하고 노래를 들으며 다음 시도를 준비한다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/1485590/?l=koreana",
+        "https://en.wikipedia.org/wiki/Endless_Dungeon"
+      ]
+    },
+    {
+      "id": "saiadha",
+      "ko": "사이아다",
+      "orig": "Saiadha",
+      "ko_status": "우리 표기",
+      "ko_src": "나무위키 'Endless Legend 2' 문서에서 통용되는 표기. 정식 한국어 상점 소개문에는 행성 이름이 나오지 않는다",
+      "kind": "장소",
+      "concepts": [
+        "single_biome"
+      ],
+      "one": "엔들리스 레전드 2의 바다 행성",
+      "note": "온통 바다로 덮인 행성으로, 대격변 뒤 바닷물이 물러나며 잠겨 있던 땅과 자원이 드러난다. 서로 모르던 종족들이 새 땅을 두고 맞붙고, 바다 밑 어둠 속에는 오래된 힘이 잠들어 있다.",
+      "spoiler": false,
+      "refs": [
+        "https://namu.wiki/w/Endless%20Legend%202",
+        "https://en.wikipedia.org/wiki/Endless_Legend_2",
+        "https://store.steampowered.com/app/3407390/?l=koreana"
+      ]
+    },
+    {
+      "id": "tidefall",
+      "ko": "대격변의 조류",
+      "orig": "Tidefall",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Legend 2 소개문 「대격변의 조류로 인해 바다가 물러가면서」",
+      "alt_ko": [
+        {
+          "ko": "조류",
+          "src": "Steam 한국어 상점 ENDLESS Legend 2 소개문 「조류가 발생하는 즉시」 — 같은 소개문에서 줄여 쓴 꼴"
+        }
+      ],
+      "kind": "현상·힘",
+      "concepts": [],
+      "one": "바다가 크게 물러나 새 땅이 드러나는 현상",
+      "note": "대격변 뒤 바닷물이 때때로 크게 빠지며 새 땅이 드러난다. 이미 가진 영토는 그대로지만, 드러난 땅이 새 길과 자원과 이상 현상을 열어 곳곳의 쓸모가 통째로 바뀐다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3407390/?l=koreana",
+        "https://en.wikipedia.org/wiki/Endless_Legend_2"
+      ]
+    },
+    {
+      "id": "kin_of_sheredyn",
+      "ko": "셰레딘의 혈족",
+      "orig": "Kin of Sheredyn",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Legend 2 소개문 「셰레딘의 호전적인 혈족으로서」 — 꾸밈말 '호전적인'을 뺀 꼴",
+      "alt_ko": [
+        {
+          "ko": "셰리딘 혈족",
+          "src": "나무위키 'Endless Legend 2/팩션' 문서의 세력 틀 이름(2차 자료 — 게임 안 이름으로 보이나 원자료는 확인 못 함)"
+        }
+      ],
+      "kind": "세력",
+      "concepts": [
+        "colonization",
+        "power_armor"
+      ],
+      "one": "바다 행성에 갇힌 성간 탐사대의 후손",
+      "note": "강대한 성간 제국이 보낸 탐사대가 식민지를 세우러 왔다가, 폭풍과 네크로파지의 공격에 갇힌 지 수십 년이 되었다. 사라진 지휘관이 돌아오리라 믿으며 성채와 규율 있는 군대로 땅을 지키고, 정예병은 수가 적은 강화 기계 갑옷을 입는다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3407390/?l=koreana",
+        "https://pressreleases.triplepointpr.com/2025/03/20/endless-legend-2-faction-reveals-kick-off-with-the-hardened-kin-of-sheredyn/",
+        "https://namu.wiki/w/Endless%20Legend%202/팩션"
+      ]
+    },
+    {
+      "id": "aspects",
+      "ko": "애스펙트",
+      "orig": "Aspects",
+      "ko_status": "공식",
+      "ko_check": "원자료",
+      "ko_src": "Steam 한국어 상점 ENDLESS Legend 2 소개문 「심령술사 애스펙트는 아군 영토 밖에도 자급자족할 수 있습니다」",
+      "alt_ko": [
+        {
+          "ko": "위상",
+          "src": "나무위키 'Endless Legend 2/팩션' 문서의 세력 틀 이름(2차 자료 — 게임 안 이름으로 보이나 원자료는 확인 못 함)"
+        }
+      ],
+      "kind": "종족·생물",
+      "concepts": [
+        "mind_control"
+      ],
+      "one": "산호를 퍼뜨려 남의 마음에 스며드는 종족",
+      "note": "산호를 키우고 퍼뜨려 자기 영토 밖에서도 살아가며, 그 포자를 다른 세력의 땅에까지 퍼뜨려 상대의 마음에 스며든다.",
+      "spoiler": false,
+      "refs": [
+        "https://store.steampowered.com/app/3407390/?l=koreana",
+        "https://en.wikipedia.org/wiki/Endless_Legend_2",
+        "https://namu.wiki/w/Endless%20Legend%202/팩션"
+      ]
+    }
+  ]
+}

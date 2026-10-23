@@ -1104,6 +1104,76 @@
       ]
     },
     {
+      "id": "endless",
+      "ko": "엔들리스",
+      "ko_status": "공식",
+      "ko_src": "Steam 한국어 상점 제품 이름 「ENDLESS Legend™ 2 엔들리스 레전드 2」(2026, 가장 늦게 나온 정식 한국어판)의 시리즈 이름 부분. 엔드리스 스페이스 2 한국어판은 옛 종족을 '엔드리스'로 적어 표기가 갈린다(용어 endless 참고). 나머지 정식판 상점은 제목을 영어 그대로 쓴다",
+      "short": "엔들리스",
+      "orig": "ENDLESS",
+      "orig_en": "",
+      "media": [
+        "게임"
+      ],
+      "year": 2012,
+      "by": "Amplitude Studios 개발(엔드리스 스페이스 2·엔드리스 던전은 세가, 엔들리스 레전드 2는 Hooded Horse 배급)",
+      "scope": "한 세계를 나누는 게임 여섯 편: 엔드리스 스페이스(2012), 엔드리스 레전드(2014), 던전 오브 디 엔드리스(2014), 엔드리스 스페이스 2(2017, 확장 포함), 엔드리스 던전(2023), 엔들리스 레전드 2(2025 앞서 해보기, 2026-09 정식). 정식 한국어판은 엔드리스 스페이스 2·엔드리스 던전·엔들리스 레전드 2 셋뿐이다. 표기는 엔드리스 스페이스 2 게임 한국어 문자열 사본(2017년 11월 1.1.0 판)과 Steam 한국어 상점 소개문(본편·확장·엔드리스 던전·엔들리스 레전드 2)에서 꺼냈다. 한국어판이 없는 엔드리스 레전드·던전 오브 디 엔드리스에만 나오는 것과, 엔들리스 레전드 2에서 정식 이름을 못 본 것은 나무위키 통용 표기를 따른 우리 표기다. 세계관 용어를 골랐고 인물과 게임 규칙 용어는 넣지 않았다.",
+      "one": "옛 종족 엔드리스가 내전으로 스스로 무너진 뒤, 그들이 남긴 신비한 가루 더스트와 유적을 두고 뒤에 온 종족들이 별과 행성에서 다투는 세계. 우주 전략, 행성 위 판타지 전략, 던전 탈출 게임이 한 역사를 나눈다.",
+      "ko_sources": [
+        {
+          "what": "정식 한국어 지원 여부 — Steam 상점 지원 언어 표(2026-10-23 확인): 한국어 있음(화면 글·자막, 음성 없음) = ENDLESS Space 2(앱 392110), ENDLESS Dungeon - Definitive Edition(1485590), ENDLESS Legend 2(3407390). 한국어 없음 = ENDLESS Space - Definitive Edition(208140), ENDLESS Legend(289130), Dungeon of the ENDLESS(249050).",
+          "url": "https://store.steampowered.com/app/392110/"
+        },
+        {
+          "what": "원자료 1 — 엔드리스 스페이스 2 게임 한국어 문자열 사본: 게임 폴더 Public 을 통째로 올린 GitHub 사본(VERSION 1.1.0, 빌드 2290135, 2017-11-26 올림)의 Localization/koreana 다섯 파일. 영어 파일과 키로 짝지어 1만 8천여 쌍을 만들어 표기를 꺼냈다. 손대지 않은 정식 문자열인지는 Steam 한국어 상점 소개문과 견주어 확인했다 — 엔드리스·더스트·아카데미·소폰·루메리스·크레이버·보디야니가 같다(같은 회사의 서로 다른 두 통로). 이 사본은 확장 「Vaulters」(2018-01) 전 판이라 그 뒤 확장의 이름은 상점 소개문에서만 꺼냈다. 같은 판 안에서도 이름이 섞인 곳(잊혀진 자·잃어버린 자, 현상계·현상파, 엔드리스·무한의 종족)은 alt_ko 에 두었다.",
+          "url": "https://github.com/Scrivener07/Endless-Space-2/tree/31effa743923ca79c54fd70d7d1ed001fa273e58/Public/Localization/koreana"
+        },
+        {
+          "what": "원자료 2 — Steam 한국어 상점 소개문: 엔드리스 스페이스 2 본편과 확장 「Vaulters」(볼터·자비의 수녀·아우리가·메자리 함선·옵봇 DV8), 「Supremacy」(히쇼·케이·거수·일로), 「Awakening」(나칼림·아카데미·이샨더·잊힌 자·크섬살라), 「Penumbra」(그늘 성가대), 「Untold Tales」(소워), 「Lost Symphony」(하모니), 「Celestial Worlds」(잊혀진 자).",
+          "url": "https://store.steampowered.com/app/1128540/?l=koreana"
+        },
+        {
+          "what": "원자료 3 — Steam 한국어 상점 소개문: 엔들리스 레전드 2(셰레딘의 혈족·애스펙트·네크로파지·대격변·조류)와 엔드리스 던전(크리스탈봇·우주정거장·주점). 두 게임의 한국어 문자열 사본은 찾지 못했고, Steam 도전 과제 한국어 화면은 글자를 스크립트로 그려 읽지 못했다.",
+          "url": "https://store.steampowered.com/app/3407390/?l=koreana"
+        },
+        {
+          "what": "우리 표기의 근거 — 나무위키 엔드리스 레전드 팩션 문서들(야생을 걷는 자·부서진 군주·아덴트 마술사·유목 연합·드라켄·교단·알라이·망각자 등), 「무한종족」, 「아우리가」, 「Endless Legend 2」. 나무위키 「무한종족」 문서는 엔드리스 레전드 등에 팬 한글 패치가 있었다고 전하지만, 팩션 이름이 거기서 왔는지는 확인 못 했다. 엔들리스 레전드 2 세력 이름 가운데 상점 소개문과 다른 것(위상·셰리딘 혈족)은 2차 자료로 alt_ko 에 두었다.",
+          "url": "https://namu.wiki/w/무한종족"
+        },
+        {
+          "what": "설정 이해에 쓴 곳 — 영어 위키백과 각 게임 문서, 게임 영어 문자열(같은 사본), 엔들리스 레전드 2 공식 보도 자료(셰레딘의 혈족). 영어 팬덤 위키는 봇 확인 화면이 떠서 쓰지 않았다.",
+          "url": "https://pressreleases.triplepointpr.com/2025/03/20/endless-legend-2-faction-reveals-kick-off-with-the-hardened-kin-of-sheredyn/"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=x5rvxUoYFDY",
+          "what": "엔들리스 레전드 2 공개 예고편",
+          "by": "Endless Universe",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=MlQApTnDdLU",
+          "what": "엔드리스 던전 출시 예고편",
+          "by": "Endless Universe",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://store.steampowered.com/app/392110/",
+          "what": "엔드리스 스페이스 2 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        },
+        {
+          "page": "https://store.steampowered.com/app/3407390/",
+          "what": "엔들리스 레전드 2 상점 쪽의 공식 그림",
+          "by": "Amplitude Studios",
+          "free": false
+        }
+      ]
+    },
+    {
       "id": "civbe",
       "ko": "시드 마이어의 문명: 비욘드 어스",
       "ko_status": "공식",
