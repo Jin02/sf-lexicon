@@ -40158,6 +40158,3912 @@
   "meotjin_sinsegye_sbs": {
    "space": "아니오",
    "why": "조선 요부가 현대 몸에 깃듦"
+  },
+  "povestea_dragostei": {
+   "space": "아니오",
+   "why": "지구 위 옛이야기를 다시 그림"
+  },
+  "she_haggard": {
+   "space": "아니오",
+   "why": "종말 뒤 지구 위 구출 여정"
+  },
+  "sziriusz_herczeg": {
+   "space": "아니오",
+   "why": "지구 위 연애극만"
+  },
+  "coppelia_melies": {
+   "space": "아니오",
+   "why": "자동인형 소동만"
+  },
+  "lomnibus_des_toques": {
+   "space": "아니오",
+   "why": "지구 위 기계 마차 희극만"
+  },
+  "the_questionmark_motorist": {
+   "space": "예",
+   "why": "차가 하늘로 올라 달·토성까지 감"
+  },
+  "voyage_autour_dune_etoile": {
+   "space": "예",
+   "why": "거대 비눗방울을 타고 별로 오름"
+  },
+  "le_tunnel_sous_la_manche_melies": {
+   "space": "아니오",
+   "why": "해저 터널 꿈만"
+  },
+  "la_photographie_electrique": {
+   "space": "아니오",
+   "why": "발명가 작업실 희극만"
+  },
+  "la_colonia_lunare": {
+   "space": "예",
+   "why": "화성과의 행성 사이 연애가 축"
+  },
+  "la_police_en_lan_2000": {
+   "space": "아니오",
+   "why": "비행선 경찰, 지구 도시만"
+  },
+  "puteshestvie_na_lunu_1912": {
+   "space": "예",
+   "why": "장군들이 우주선으로 달에 감"
+  },
+  "der_herr_der_welt_1913": {
+   "space": "아니오",
+   "why": "인공 금 발명, 지구만"
+  },
+  "die_eisbraut_ewers": {
+   "space": "아니오",
+   "why": "얼음 속 존재 발굴, 지구만"
+  },
+  "das_geheimnis_der_m_strahlen": {
+   "space": "아니오",
+   "why": "치료 광선 연구, 지구만"
+  },
+  "filibus": {
+   "space": "아니오",
+   "why": "비행선 도둑 활극, 지구만"
+  },
+  "il_sottomarino_n_27": {
+   "space": "아니오",
+   "why": "잠수함 희극, 우주 근거 없음"
+  },
+  "das_lebende_raetsel": {
+   "space": "아니오",
+   "why": "백 년 잠과 광선 살인, 지구만"
+  },
+  "die_entdeckung_deutschlands": {
+   "space": "경계",
+   "why": "화성인이 지구 전보를 엿들음"
+  },
+  "die_grosse_wette": {
+   "space": "아니오",
+   "why": "로봇 내기, 지구만"
+  },
+  "titanenkampf_1916": {
+   "space": "아니오",
+   "why": "식량 알약 발명, 지구만"
+  },
+  "laltro_io_bonnard": {
+   "space": "아니오",
+   "why": "갈라진 의식 공포극, 지구만"
+  },
+  "bolotny_tsvetok": {
+   "space": "아니오",
+   "why": "신비극, 우주 근거 없음"
+  },
+  "das_andere_ich_1918": {
+   "space": "아니오",
+   "why": "땅속 묘지 소동, 지구만"
+  },
+  "der_weltspiegel": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "der_wuerger_der_welt": {
+   "space": "아니오",
+   "why": "치명적 세균 도난, 지구만"
+  },
+  "lilith_und_ly": {
+   "space": "아니오",
+   "why": "흡혈귀 공포극, 지구만"
+  },
+  "das_haus_zum_mond": {
+   "space": "아니오",
+   "why": "달은 집 이름인 듯, 줄거리 미상"
+  },
+  "ein_tag_auf_dem_mars": {
+   "space": "경계",
+   "why": "제목은 화성, 줄거리 미상"
+  },
+  "un_viaggio_nella_luna_1921": {
+   "space": "예",
+   "why": "장난감이 꿈속에서 행성 사이 여행"
+  },
+  "zwischen_flammen_und_fluten": {
+   "space": "아니오",
+   "why": "바닷속 썰매 발명, 지구만"
+  },
+  "die_stadt_ohne_juden": {
+   "space": "아니오",
+   "why": "빈의 유대인 추방극, 지구만"
+  },
+  "dr_mabuse": {
+   "space": "아니오",
+   "why": "베를린 범죄극, 우주 없음"
+  },
+  "la_cite_foudroyee": {
+   "space": "아니오",
+   "why": "벼락 무기 협박, 지구만"
+  },
+  "la_bambola_vivente": {
+   "space": "아니오",
+   "why": "인형 희극, 우주 근거 없음"
+  },
+  "madrid_en_el_ano_2000": {
+   "space": "아니오",
+   "why": "앞날의 마드리드, 지구만"
+  },
+  "the_hidden_fire_atkey": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "aero_nt_54": {
+   "space": "아니오",
+   "why": "항공 엔진 설계도 다툼, 지구만"
+  },
+  "kommunit_1925": {
+   "space": "아니오",
+   "why": "마비 가스 발명, 지구만"
+  },
+  "napoleon_gaz": {
+   "space": "아니오",
+   "why": "독가스 무기 음모, 지구만"
+  },
+  "mess_mend": {
+   "space": "아니오",
+   "why": "암살 음모 활극, 지구만"
+  },
+  "die_welt_ohne_waffen": {
+   "space": "아니오",
+   "why": "무기 기술 평화극, 지구만"
+  },
+  "fundvogel_ewers": {
+   "space": "아니오",
+   "why": "성 안의 과학자 얽힘, 지구만"
+  },
+  "giftgas_1929": {
+   "space": "아니오",
+   "why": "독가스 물질 다툼, 지구만"
+  },
+  "castle_sinister": {
+   "space": "아니오",
+   "why": "회춘 실험, 지구만"
+  },
+  "die_vom_17er_haus": {
+   "space": "아니오",
+   "why": "앞날의 빈 회고, 지구만"
+  },
+  "lenfant_du_miracle": {
+   "space": "아니오",
+   "why": "희곡 각색 연애극, 지구만"
+  },
+  "lhomme_a_loreille_cassee": {
+   "space": "아니오",
+   "why": "백 년 잠 뒤 깨어남, 지구만"
+  },
+  "the_unholy_quest": {
+   "space": "아니오",
+   "why": "되살리기 실험, 지구만"
+  },
+  "glubokiy_reyd": {
+   "space": "아니오",
+   "why": "폭격기 전쟁, 우주 없음"
+  },
+  "chinatown_nights_1938": {
+   "space": "아니오",
+   "why": "최면 납치극, 지구만"
+  },
+  "panenka_1938": {
+   "space": "아니오",
+   "why": "기계 인형 대역극, 지구만"
+  },
+  "novaya_moskva": {
+   "space": "아니오",
+   "why": "앞날 수도 모형, 지구만"
+  },
+  "le_monde_tremblera": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "mille_chilometri_al_minuto": {
+   "space": "예",
+   "why": "화성 가는 첫 비행에 휘말림"
+  },
+  "a_taste_for_honey": {
+   "space": "아니오",
+   "why": "살인 벌 품종, 지구만"
+  },
+  "croisieres_siderales": {
+   "space": "예",
+   "why": "별 사이 여행의 시간 늘어남이 축"
+  },
+  "le_petit_prince": {
+   "space": "예",
+   "why": "작은 별에서 온 왕자의 별 여행"
+  },
+  "les_passagers_de_la_grande_ourse": {
+   "space": "경계",
+   "why": "떠오른 탈것, 우주 여부 불명"
+  },
+  "macario_contro_zagomar": {
+   "space": "아니오",
+   "why": "시간 기계 쟁탈, 지구만"
+  },
+  "la_casa_senza_tempo": {
+   "space": "아니오",
+   "why": "비행기 설계도 첩보, 지구만"
+  },
+  "la_television_oeil_de_demain": {
+   "space": "아니오",
+   "why": "주머니 텔레비전 앞날, 지구만"
+  },
+  "vesna_1947": {
+   "space": "아니오",
+   "why": "태양 연구소 음악 희극, 지구만"
+  },
+  "berliner_ballade": {
+   "space": "아니오",
+   "why": "전후 베를린 풍자, 지구만"
+  },
+  "der_herr_vom_andern_stern": {
+   "space": "경계",
+   "why": "다른 별 신사가 지구에 내림"
+  },
+  "la_bisarca": {
+   "space": "아니오",
+   "why": "이발사의 꿈, 지구만"
+  },
+  "hilfe_ich_bin_unsichtbar": {
+   "space": "아니오",
+   "why": "투명 장치 희극, 지구만"
+  },
+  "mr_drakes_duck": {
+   "space": "아니오",
+   "why": "방사능 알 소동, 지구만"
+  },
+  "ok_nerone": {
+   "space": "아니오",
+   "why": "꿈속 시간 넘기, 지구만"
+  },
+  "stasera_sciopero": {
+   "space": "아니오",
+   "why": "뇌 이식 희극, 지구만"
+  },
+  "e_lamor_che_mi_rovina": {
+   "space": "아니오",
+   "why": "폭약 첩보 희극, 지구만"
+  },
+  "noi_due_soli": {
+   "space": "아니오",
+   "why": "꿈속 종말 뒤 앞날, 지구만"
+  },
+  "nine_billion_names_of_god": {
+   "space": "아니오",
+   "why": "티베트 수도원의 이름 셈만"
+  },
+  "serebristaya_pyl": {
+   "space": "아니오",
+   "why": "정치 추리극, 지구만"
+  },
+  "baracca_e_burattini": {
+   "space": "경계",
+   "why": "달 사람이 지구에 떨어짐"
+  },
+  "childs_play_1954": {
+   "space": "아니오",
+   "why": "원자 팝콘 소동, 지구만"
+  },
+  "un_marziano_a_roma": {
+   "space": "경계",
+   "why": "화성인이 로마에 내려옴"
+  },
+  "io_piaccio": {
+   "space": "아니오",
+   "why": "용기 약 실험, 지구만"
+  },
+  "la_otra_vida_del_capitan_contreras": {
+   "space": "아니오",
+   "why": "사백 년 잠 뒤 깨어남, 지구만"
+  },
+  "the_tunnel_under_the_world": {
+   "space": "아니오",
+   "why": "되풀이되는 하루, 지구만"
+  },
+  "tayna_vechnoy_nochi": {
+   "space": "아니오",
+   "why": "잠수정 심해 탐사, 지구만"
+  },
+  "i_vampiri_freda": {
+   "space": "아니오",
+   "why": "흡혈 살인 공포극, 지구만"
+  },
+  "kdyby_tisic_klarinetu": {
+   "space": "아니오",
+   "why": "무기가 악기로 바뀜, 지구만"
+  },
+  "toto_nella_luna": {
+   "space": "경계",
+   "why": "미국 달 계획에 휘말리는 희극"
+  },
+  "tayna_odnoy_kreposti": {
+   "space": "아니오",
+   "why": "아동 모험극, 우주 근거 없음"
+  },
+  "les_astronautes_borowczyk": {
+   "space": "예",
+   "why": "손수 만든 우주선으로 떠남"
+  },
+  "zuruck_aus_dem_weltall": {
+   "space": "경계",
+   "why": "우주 다녀온 개를 지구에서 쫓음"
+  },
+  "ya_byl_sputnikom_solntsa": {
+   "space": "예",
+   "why": "태양을 향한 우주 비행이 축"
+  },
+  "ein_toter_hing_im_netz": {
+   "space": "아니오",
+   "why": "섬의 거미 괴물, 지구만"
+  },
+  "homo_sapiens_gopo": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "i_baccanali_di_tiberio": {
+   "space": "아니오",
+   "why": "로마 제국으로 시간 넘기, 지구만"
+  },
+  "les_yeux_sans_visage": {
+   "space": "아니오",
+   "why": "얼굴 이식 공포극, 지구만"
+  },
+  "der_orchideenkafig": {
+   "space": "예",
+   "why": "외계 행성 탐사가 무대"
+  },
+  "il_gigante_di_metropolis": {
+   "space": "아니오",
+   "why": "아틀란티스 초과학, 지구만"
+  },
+  "maciste_contro_ercole": {
+   "space": "아니오",
+   "why": "시간 기계로 옛 궁정, 지구만"
+  },
+  "un_martien_a_paris": {
+   "space": "경계",
+   "why": "화성인이 파리에 옴"
+  },
+  "barier_neizvestnosti": {
+   "space": "경계",
+   "why": "우주 가장자리 비행 시험"
+  },
+  "sud_sumasshedshikh": {
+   "space": "아니오",
+   "why": "생명 광선 발명, 지구만"
+  },
+  "chelovek_niotkuda": {
+   "space": "아니오",
+   "why": "파미르 고원 탐사 희극, 지구만"
+  },
+  "baron_prasil": {
+   "space": "예",
+   "why": "허풍 남작이 달나라까지 누빔"
+  },
+  "la_poupee_baratier": {
+   "space": "아니오",
+   "why": "독재자 아내가 로봇, 지구만"
+  },
+  "masters_of_venus": {
+   "space": "예",
+   "why": "로켓으로 금성 문명에 감"
+  },
+  "operazione_vega": {
+   "space": "예",
+   "why": "금성 유형지와 태양계 다툼"
+  },
+  "grand_fenwick_wibberley": {
+   "space": "예",
+   "why": "작은 공국의 달 경주"
+  },
+  "upir_ltd": {
+   "space": "아니오",
+   "why": "피 빠는 자동차, 지구만"
+  },
+  "wielka_wieksza_najwieksza": {
+   "space": "아니오",
+   "why": "말하는 자동차 모험, 지구만"
+  },
+  "der_unsichtbare_1963": {
+   "space": "아니오",
+   "why": "투명 약 범죄, 지구만"
+  },
+  "die_wand_haushofer": {
+   "space": "아니오",
+   "why": "알프스 오두막 고립, 지구만"
+  },
+  "omicron_gregoretti": {
+   "space": "경계",
+   "why": "외계인이 노동자 몸을 차지"
+  },
+  "rogopag": {
+   "space": "아니오",
+   "why": "종말 뒤 새 세계 단편, 지구만"
+  },
+  "unternehmen_proxima_centauri": {
+   "space": "예",
+   "why": "우주선으로 프록시마 센타우리행"
+  },
+  "mechte_navstrechu": {
+   "space": "예",
+   "why": "화성 불시착 외계인 구조 비행"
+  },
+  "polyot_k_tysyacham_solnts": {
+   "space": "예",
+   "why": "꿈속 우주선 선장 모험"
+  },
+  "il_disco_volante": {
+   "space": "경계",
+   "why": "마을에 비행접시가 왔다는 소문"
+  },
+  "llegaron_los_marcianos": {
+   "space": "경계",
+   "why": "외계인이 로마에 와 눌러앉음"
+  },
+  "maciste_e_la_regina_di_samar": {
+   "space": "경계",
+   "why": "달에서 온 존재가 지구 왕국에"
+  },
+  "un_mostro_e_mezzo": {
+   "space": "아니오",
+   "why": "얼굴 성형 희극, 지구만"
+  },
+  "kosmicheskiy_splav": {
+   "space": "경계",
+   "why": "우주선 합금을 지구에서 만듦"
+  },
+  "operazione_luna_002": {
+   "space": "예",
+   "why": "좀도둑이 비행사로 로켓에 탐"
+  },
+  "ad3_operazione_squalo_bianco": {
+   "space": "아니오",
+   "why": "해저 기지 첩보, 지구만"
+  },
+  "agente_s03_operazione_atlantide": {
+   "space": "아니오",
+   "why": "아틀란티스 범죄 조직, 지구만"
+  },
+  "la_brulure_de_mille_soleils": {
+   "space": "경계",
+   "why": "줄거리 미상, 제목은 우주풍"
+  },
+  "la_fantarca_berto": {
+   "space": "경계",
+   "why": "우주 방주 이야기인 듯, 자료 짧음"
+  },
+  "le_ciel_sur_la_tete": {
+   "space": "경계",
+   "why": "하늘의 미지 물체에 지상 대응"
+  },
+  "marie_chantal_contre_dr_kha": {
+   "space": "아니오",
+   "why": "바이러스 보석 첩보, 지구만"
+  },
+  "pierwszy_pawilon": {
+   "space": "아니오",
+   "why": "사람 축소 연구, 지구만"
+  },
+  "luna_klushantsev": {
+   "space": "예",
+   "why": "달 탐사와 달의 앞날"
+  },
+  "cartas_boca_arriba": {
+   "space": "아니오",
+   "why": "조종된 암살자 첩보, 지구만"
+  },
+  "der_mondmann_ungerer": {
+   "space": "예",
+   "why": "달사람이 지구로 왔다 돌아감"
+  },
+  "fu_manchu_rohmer": {
+   "space": "아니오",
+   "why": "지상 악당의 세계 정복극"
+  },
+  "faust_xx": {
+   "space": "아니오",
+   "why": "뇌 맞바꾸기 희극, 지구만"
+  },
+  "il_vostro_superagente_flit": {
+   "space": "경계",
+   "why": "외계 존재가 지구 회담을 최면"
+  },
+  "le_spie_amano_i_fiori": {
+   "space": "아니오",
+   "why": "무기 발명 첩보, 지구만"
+  },
+  "miss_muerte_franco": {
+   "space": "아니오",
+   "why": "뇌 조종 실험, 지구만"
+  },
+  "operazione_goldman": {
+   "space": "경계",
+   "why": "달 기지 발사 방해, 지상 첩보"
+  },
+  "rembrandt_7_antwortet_nicht": {
+   "space": "경계",
+   "why": "햇빛 광선 장치, 궤도 여부 불명"
+  },
+  "kiss_the_girls_and_make_them_die": {
+   "space": "경계",
+   "why": "위성 무기 음모, 지상 첩보"
+  },
+  "superargo": {
+   "space": "아니오",
+   "why": "가면 초인과 로봇, 지구만"
+  },
+  "un_perro_en_orbita": {
+   "space": "경계",
+   "why": "제목은 궤도, 지상 반중력 소동"
+  },
+  "glavny_zvyozdny": {
+   "space": "경계",
+   "why": "우주 개척 앞날과 천문사 여행"
+  },
+  "seraya_bolezn": {
+   "space": "아니오",
+   "why": "무관심 세균, 지구만"
+  },
+  "formula_radugi": {
+   "space": "아니오",
+   "why": "분신 만들기 희극, 지구만"
+  },
+  "bang_bang_kid": {
+   "space": "아니오",
+   "why": "서부 로봇 총잡이, 지구만"
+  },
+  "argoman": {
+   "space": "아니오",
+   "why": "초인 다이아몬드 활극, 지구만"
+  },
+  "das_geheimnis_der_todesinsel": {
+   "space": "아니오",
+   "why": "섬의 피 먹는 나무, 지구만"
+  },
+  "devilman_story": {
+   "space": "아니오",
+   "why": "뇌 전문가 추적, 지구만"
+  },
+  "flashman_1967": {
+   "space": "아니오",
+   "why": "투명 혈청 범죄, 지구만"
+  },
+  "hypnos_follia_di_massacro": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "i_fantastici_tre_supermen": {
+   "space": "아니오",
+   "why": "복제 기계 쟁탈, 지구만"
+  },
+  "il_raggio_infernale": {
+   "space": "아니오",
+   "why": "죽음 광선 첩보, 지구만"
+  },
+  "linconnu_de_shandigor": {
+   "space": "아니오",
+   "why": "핵 무력화 장치 첩보, 지구만"
+  },
+  "fantabulous_spina": {
+   "space": "아니오",
+   "why": "전자 두뇌 초인 희극, 지구만"
+  },
+  "lucky_el_intrepido": {
+   "space": "아니오",
+   "why": "첩보 희극, 우주 근거 없음"
+  },
+  "matchless_1967": {
+   "space": "아니오",
+   "why": "첩보 풍자 희극, 우주 근거 없음"
+  },
+  "torture_garden_1967": {
+   "space": "아니오",
+   "why": "공포 옴니버스, 지구만"
+  },
+  "ukradena_vzducholod": {
+   "space": "아니오",
+   "why": "증기 비행선 모험, 지구만"
+  },
+  "ego_zvali_robert": {
+   "space": "경계",
+   "why": "우주 개척용 인조인간을 지구서 시험"
+  },
+  "razbudite_mukhina": {
+   "space": "아니오",
+   "why": "꿈속 역사 끼어들기, 지구만"
+  },
+  "tainstvennaya_stena": {
+   "space": "아니오",
+   "why": "타이가 안개 벽 연구, 지구만"
+  },
+  "czy_pan_istnieje_mr_johns": {
+   "space": "아니오",
+   "why": "장기 이식 경주 선수, 지구만"
+  },
+  "eat_it_casaretti": {
+   "space": "아니오",
+   "why": "통조림 광고 풍자, 지구만"
+  },
+  "eva_la_venere_selvaggia": {
+   "space": "아니오",
+   "why": "뇌 무전기 조종, 지구만"
+  },
+  "goldface_albertini": {
+   "space": "아니오",
+   "why": "가면 초인 활극, 지구만"
+  },
+  "ja_spravedlnost": {
+   "space": "아니오",
+   "why": "숨은 히틀러 치료극, 지구만"
+  },
+  "les_sextuples_de_locmaria": {
+   "space": "경계",
+   "why": "섬마을의 화성인 소동"
+  },
+  "nothing_but_the_night": {
+   "space": "아니오",
+   "why": "섬 고아 학교 의문사, 지구만"
+  },
+  "satanik_magnus_bunker": {
+   "space": "아니오",
+   "why": "회춘 혈청 범죄, 지구만"
+  },
+  "swiss_made_2069": {
+   "space": "경계",
+   "why": "외계인이 감시 사회를 기록"
+  },
+  "the_blood_beast_terror": {
+   "space": "아니오",
+   "why": "흡혈 괴물 사건, 지구만"
+  },
+  "mars_klushantsev": {
+   "space": "예",
+   "why": "화성 환경과 앞날의 탐사"
+  },
+  "colpo_di_stato_salce": {
+   "space": "아니오",
+   "why": "선거 계산기 소동, 지구만"
+  },
+  "das_raetsel_von_piskov": {
+   "space": "아니오",
+   "why": "멈춘 시계와 해, 지구만"
+  },
+  "ecce_homo_i_sopravvissuti": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 바닷가 생존, 지구만"
+  },
+  "goto_lile_damour": {
+   "space": "아니오",
+   "why": "세상과 끊긴 섬 통치, 지구만"
+  },
+  "h2s_faenza": {
+   "space": "아니오",
+   "why": "복종 강요하는 공장 사회, 지구만"
+  },
+  "il_seme_delluomo": {
+   "space": "아니오",
+   "why": "역병 뒤 부부 다툼, 지구만"
+  },
+  "le_joueur_de_quilles": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "paris_nexiste_pas": {
+   "space": "아니오",
+   "why": "환각 속 시간 투시, 지구만"
+  },
+  "sumuru_rohmer": {
+   "space": "아니오",
+   "why": "범죄 두목 첩보극, 지구만"
+  },
+  "willi_tobler": {
+   "space": "예",
+   "why": "은하 패권을 둔 함대 내전"
+  },
+  "der_teufel_kam_aus_akasava": {
+   "space": "아니오",
+   "why": "방사능 돌 쟁탈, 지구만"
+  },
+  "die_delegation": {
+   "space": "경계",
+   "why": "외계 방문 취재를 가짜 기록으로"
+  },
+  "ein_grosser_graublauer_vogel": {
+   "space": "아니오",
+   "why": "시공 지배 기계, 지구만"
+  },
+  "hydrozagadka": {
+   "space": "아니오",
+   "why": "물 도둑 쫓는 초인 희극, 지구만"
+  },
+  "i_cannibali_cavani": {
+   "space": "아니오",
+   "why": "전체주의 도시, 지구만"
+  },
+  "ils_simon_1970": {
+   "space": "아니오",
+   "why": "꿈 기계 실험, 지구만"
+  },
+  "mr_superinvisible": {
+   "space": "아니오",
+   "why": "투명 약 과학자 희극, 지구만"
+  },
+  "la_ragazza_di_latta": {
+   "space": "아니오",
+   "why": "거대 기업 획일 사회, 지구만"
+  },
+  "le_dernier_homme_bitsch": {
+   "space": "아니오",
+   "why": "화학전 뒤 마지막 생존, 지구만"
+  },
+  "le_pain_quotidien_1970": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "le_temps_de_mourir": {
+   "space": "아니오",
+   "why": "앞날 기억 필름, 지구만"
+  },
+  "satiricosissimo": {
+   "space": "아니오",
+   "why": "옛 로마로 시간 넘기, 지구만"
+  },
+  "transplante_de_un_cerebro": {
+   "space": "아니오",
+   "why": "뇌 이식 범죄극, 지구만"
+  },
+  "asteroidul_1971": {
+   "space": "경계",
+   "why": "제목은 소행성, 줄거리 미상"
+  },
+  "der_grosse_verhau": {
+   "space": "예",
+   "why": "우주로 뻗은 자본주의와 은하 운송"
+  },
+  "dreht_euch_nicht_um_der_golem": {
+   "space": "아니오",
+   "why": "덮인 홀 속 미래 도시, 지구만"
+  },
+  "haytabo_lommel": {
+   "space": "경계",
+   "why": "외계인 제안으로 시간 여행"
+  },
+  "la_sostituzione": {
+   "space": "경계",
+   "why": "보이지 않는 이방인이 지구 차지"
+  },
+  "np_il_segreto": {
+   "space": "아니오",
+   "why": "자동화 기업가 납치, 지구만"
+  },
+  "supergirl_thome": {
+   "space": "경계",
+   "why": "별에서 왔다는 여자가 지구에"
+  },
+  "goluboy_meteorit": {
+   "space": "경계",
+   "why": "푸른 운석이 타이가에 떨어짐"
+  },
+  "akce_bororo": {
+   "space": "경계",
+   "why": "외계인 둘이 프라하에 옴"
+  },
+  "galaxie_1972": {
+   "space": "경계",
+   "why": "제목은 은하, 줄거리 미상"
+  },
+  "la_cabina": {
+   "space": "아니오",
+   "why": "공중전화 칸에 갇힘, 지구만"
+  },
+  "les_soleils_de_lile_de_paques": {
+   "space": "경계",
+   "why": "우주 존재가 이스터섬에 나타남"
+  },
+  "richtung_2000": {
+   "space": "아니오",
+   "why": "인공 심장 앞날 기록, 지구만"
+  },
+  "the_stone_tape": {
+   "space": "아니오",
+   "why": "건물 속 기록된 유령, 지구만"
+  },
+  "sanatorium_pod_klepsydra": {
+   "space": "아니오",
+   "why": "꿈같은 요양원, 지구만"
+  },
+  "smog_1973": {
+   "space": "아니오",
+   "why": "스모그 재앙, 지구만"
+  },
+  "traumstadt_kubin": {
+   "space": "아니오",
+   "why": "아시아의 꿈 나라, 지구만"
+  },
+  "france_societe_anonyme": {
+   "space": "아니오",
+   "why": "냉동에서 깬 마약상, 지구만"
+  },
+  "rassimov_garrone": {
+   "space": "아니오",
+   "why": "지하 생명 실험 공포, 지구만"
+  },
+  "les_chinois_a_paris": {
+   "space": "아니오",
+   "why": "중국 점령 파리 풍자, 지구만"
+  },
+  "les_hommes_proteges": {
+   "space": "아니오",
+   "why": "여성당 정치극, 지구만"
+  },
+  "los_pajaritos": {
+   "space": "아니오",
+   "why": "더러운 공기와 새, 지구만"
+  },
+  "nuits_rouges_franju": {
+   "space": "아니오",
+   "why": "기사단 보물 쟁탈, 지구만"
+  },
+  "skaduwees_oor_brugplaas": {
+   "space": "아니오",
+   "why": "농장 집안 공포극, 지구만"
+  },
+  "molchanie_doktora_ivensa": {
+   "space": "경계",
+   "why": "외계인이 지구 승객을 구함"
+  },
+  "die_halde": {
+   "space": "아니오",
+   "why": "텃밭 마을 통제 사회, 지구만"
+  },
+  "die_insel_der_krebse": {
+   "space": "아니오",
+   "why": "외딴섬 자가 번식 로봇, 지구만"
+  },
+  "hyperion_veroiu": {
+   "space": "아니오",
+   "why": "핵폭발로 사라진 연인, 지구만"
+  },
+  "le_futur_aux_trousses": {
+   "space": "아니오",
+   "why": "둘째 신분 상품 통제, 지구만"
+  },
+  "low_flying_aircraft_ballard": {
+   "space": "아니오",
+   "why": "단편 각색, 우주 근거 없음"
+  },
+  "professor_poppers_problem": {
+   "space": "아니오",
+   "why": "몸이 작아지는 희극, 지구만"
+  },
+  "krepostta_na_bezsmartnite": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "demain_les_momes": {
+   "space": "아니오",
+   "why": "종말 뒤 시골집 생존, 지구만"
+  },
+  "v_odin_prekrasny_den_1976": {
+   "space": "경계",
+   "why": "과학자가 지나는 우주선을 봄"
+  },
+  "il_signor_rossi_cerca_la_felicita": {
+   "space": "아니오",
+   "why": "시간 넘나드는 행복 찾기, 지구만"
+  },
+  "la_casa_fons": {
+   "space": "아니오",
+   "why": "핵 대피소, 지구만"
+  },
+  "le_graphique_de_boscop": {
+   "space": "아니오",
+   "why": "노래 짓는 컴퓨터, 지구만"
+  },
+  "odysseus_a_hvezdy": {
+   "space": "경계",
+   "why": "외계 구슬이 아이들을 살핌"
+  },
+  "ultimo_deseo_klimovsky": {
+   "space": "아니오",
+   "why": "낙진 피한 저택 습격, 지구만"
+  },
+  "adela_jeste_nevecerela": {
+   "space": "아니오",
+   "why": "사람 잡아먹는 식물 탐정극, 지구만"
+  },
+  "biohazard_fialkowski": {
+   "space": "아니오",
+   "why": "비밀 수술 실험, 지구만"
+  },
+  "holocaust_2000": {
+   "space": "아니오",
+   "why": "원자력 발전소 종말 공포, 지구만"
+  },
+  "luomo_della_guerra_possibile": {
+   "space": "아니오",
+   "why": "해독제 시험 음모, 지구만"
+  },
+  "la_gioconda_esta_triste": {
+   "space": "아니오",
+   "why": "모나리자의 미소 실종, 지구만"
+  },
+  "le_couple_temoin": {
+   "space": "아니오",
+   "why": "본보기 부부 실험, 지구만"
+  },
+  "operation_ganymed": {
+   "space": "예",
+   "why": "목성 위성 탐사에서 돌아옴"
+  },
+  "talire_nad_velkym_malikovem": {
+   "space": "경계",
+   "why": "제목은 마을 위 비행접시"
+  },
+  "unsichtbare_gegner": {
+   "space": "경계",
+   "why": "외계 존재가 빈 사람 마음 차지"
+  },
+  "za_pyat_sekund_do_katastrofy": {
+   "space": "아니오",
+   "why": "고분자 실험 재앙, 지구만"
+  },
+  "bermude_la_fossa_maledetta": {
+   "space": "아니오",
+   "why": "버뮤다 실종 잠수부, 지구만"
+  },
+  "cosmo_2000_brescia": {
+   "space": "예",
+   "why": "외계 함대와 지구의 우주 전투"
+  },
+  "la_guerra_dei_robot": {
+   "space": "예",
+   "why": "지구 우주 사령부의 추격전"
+  },
+  "les_raisins_de_la_mort": {
+   "space": "아니오",
+   "why": "포도밭 마을 좀비, 지구만"
+  },
+  "missile_x_neutronenbombe": {
+   "space": "아니오",
+   "why": "원자 무기 도난 첩보, 지구만"
+  },
+  "occhi_dalle_stelle": {
+   "space": "경계",
+   "why": "외계인 다룸, 줄거리 미상"
+  },
+  "per_vivere_meglio": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "plutonium_erler": {
+   "space": "아니오",
+   "why": "플루토늄 실종 취재, 지구만"
+  },
+  "the_cold_room_caine": {
+   "space": "아니오",
+   "why": "동베를린 여관 환영, 지구만"
+  },
+  "anti_clock": {
+   "space": "아니오",
+   "why": "꿈 같은 과거 거스르기, 지구만"
+  },
+  "fleisch_erler": {
+   "space": "아니오",
+   "why": "장기 밀매 조직, 지구만"
+  },
+  "hobby_doktora_travena": {
+   "space": "아니오",
+   "why": "사원 보물 저주, 지구만"
+  },
+  "ihmemies": {
+   "space": "아니오",
+   "why": "오른쪽 뇌 천재 희극, 지구만"
+  },
+  "ils_sont_grands_ces_petits": {
+   "space": "아니오",
+   "why": "소꿉친구 발명 희극, 지구만"
+  },
+  "incontri_con_gli_umanoidi": {
+   "space": "경계",
+   "why": "바닷속 외계인 공동체 발견"
+  },
+  "le_gendarme_et_les_extraterrestres": {
+   "space": "경계",
+   "why": "외계인이 생트로페에 옴"
+  },
+  "libidine_rainer": {
+   "space": "아니오",
+   "why": "뱀 신진대사 실험, 지구만"
+  },
+  "org_birri": {
+   "space": "아니오",
+   "why": "핵 뒤 삼각 사랑, 지구만"
+  },
+  "sette_uomini_doro_nello_spazio": {
+   "space": "예",
+   "why": "우주 폭군에 팔린 지구의 싸움"
+  },
+  "superandy": {
+   "space": "경계",
+   "why": "다른 행성 아이가 지구 가족에"
+  },
+  "sheriff_and_the_satellite_kid": {
+   "space": "경계",
+   "why": "외계 소년이 지구 소도시에"
+  },
+  "mozhno_poprosit_ninu": {
+   "space": "아니오",
+   "why": "전화로 이어진 1942년, 지구만"
+  },
+  "alien_2_sulla_terra": {
+   "space": "경계",
+   "why": "귀환 우주인과 함께 온 괴물"
+  },
+  "apocalypse_domani": {
+   "space": "아니오",
+   "why": "식인 증세 공포, 지구만"
+  },
+  "ciao_marziano": {
+   "space": "경계",
+   "why": "초록 외계인이 로마에 옴"
+  },
+  "czule_miejsca": {
+   "space": "아니오",
+   "why": "생태 재앙 뒤 지구 위만"
+  },
+  "io_e_caterina": {
+   "space": "아니오",
+   "why": "가사 로봇 희극, 지구만"
+  },
+  "jan_vom_goldenen_stern": {
+   "space": "경계",
+   "why": "우주 정거장서 떨어진 소년, 지구 위"
+  },
+  "kremmen_the_movie": {
+   "space": "예",
+   "why": "우주 영웅의 활극"
+  },
+  "luomo_puma": {
+   "space": "경계",
+   "why": "옛 외계 신의 후손이 지구에"
+  },
+  "la_bestia_nello_spazio": {
+   "space": "예",
+   "why": "먼 행성 로리곤 탐사"
+  },
+  "la_nuit_des_traquees": {
+   "space": "아니오",
+   "why": "쫓기는 여자 공포극, 지구만"
+  },
+  "pulmapilt": {
+   "space": "경계",
+   "why": "우주복 입은 미래인이 옴"
+  },
+  "super_fuzz_corbucci": {
+   "space": "아니오",
+   "why": "원자 폭발로 초능력 경찰, 지구만"
+  },
+  "the_apple_golan": {
+   "space": "아니오",
+   "why": "음반 기업의 대중 조종, 지구만"
+  },
+  "the_falls_greenaway": {
+   "space": "아니오",
+   "why": "미지 사건 피해자 기록, 지구만"
+  },
+  "warum_die_ufos_unseren_salat_klauen": {
+   "space": "경계",
+   "why": "궤도의 외계 우주선이 지구를 봄"
+  },
+  "babel_tornya_1981": {
+   "space": "아니오",
+   "why": "떠오른 궁전과 탑, 지구만"
+  },
+  "die_fliegende_windmuehle": {
+   "space": "경계",
+   "why": "날아가는 풍차, 행선지 미상"
+  },
+  "kam_zmizel_kuryr": {
+   "space": "경계",
+   "why": "운석 추락과 비행접시 소동"
+  },
+  "lavant_dernier_besson": {
+   "space": "아니오",
+   "why": "재앙 뒤 생존 싸움, 지구만"
+  },
+  "le_bunker_de_la_derniere_rafale": {
+   "space": "아니오",
+   "why": "벙커 군인들의 광기, 지구만"
+  },
+  "rosso_sangue_1981": {
+   "space": "아니오",
+   "why": "실험으로 미친 사내, 지구만"
+  },
+  "veliky_guslyar": {
+   "space": "경계",
+   "why": "외계인 약 먹은 사내, 소도시 위"
+  },
+  "atlantisz_1982": {
+   "space": "경계",
+   "why": "우주에서 온 빛의 존재가 지구에"
+  },
+  "domani_si_balla": {
+   "space": "경계",
+   "why": "외계인의 최면 신호"
+  },
+  "paradis_pour_tous": {
+   "space": "아니오",
+   "why": "감정 신경 끊기 요법, 지구만"
+  },
+  "piranha_ii": {
+   "space": "아니오",
+   "why": "유전자 바뀐 피라냐, 지구만"
+  },
+  "srdecny_pozdrav_ze_zemekoule": {
+   "space": "경계",
+   "why": "외계인이 지구를 살피는 희극"
+  },
+  "prishelets_shatko": {
+   "space": "경계",
+   "why": "륨 행성 과학자가 지구에 옴"
+  },
+  "bakterion": {
+   "space": "아니오",
+   "why": "병원균 괴물, 지구만"
+  },
+  "de_lift": {
+   "space": "아니오",
+   "why": "살인 승강기, 지구만"
+  },
+  "im_zeichen_des_kreuzes": {
+   "space": "아니오",
+   "why": "방사능 사고 정치극, 지구만"
+  },
+  "ogroff_moutier": {
+   "space": "아니오",
+   "why": "숲속 살인마, 지구만"
+  },
+  "rush_ricci": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 물 다툼, 지구만"
+  },
+  "star_suburb": {
+   "space": "예",
+   "why": "우주의 서민 아파트가 무대"
+  },
+  "snyus_zhitinsky": {
+   "space": "아니오",
+   "why": "함께 꾸는 꿈, 지구만"
+  },
+  "sredstvo_makropulosa": {
+   "space": "아니오",
+   "why": "불로 비약 가수, 지구만"
+  },
+  "das_schoene_ende_dieser_welt": {
+   "space": "아니오",
+   "why": "금지 화학 공장, 지구만"
+  },
+  "galax_gopo": {
+   "space": "아니오",
+   "why": "인공지능 로봇 사랑, 지구만"
+  },
+  "lautuomo_masi": {
+   "space": "아니오",
+   "why": "여자 꼴 인조인간, 지구만"
+  },
+  "lultimo_guerriero_1984": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 사람 사냥, 지구만"
+  },
+  "les_maitres_du_soleil": {
+   "space": "경계",
+   "why": "제목만 우주풍, 줄거리 미상"
+  },
+  "non_ci_resta_che_piangere": {
+   "space": "아니오",
+   "why": "다른 시대로 떨어진 희극, 지구만"
+  },
+  "rats_notte_di_terrore": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 쥐 떼, 지구만"
+  },
+  "shark_rosso_nelloceano": {
+   "space": "아니오",
+   "why": "바다 괴물 습격만"
+  },
+  "starship_christian": {
+   "space": "예",
+   "why": "먼 광산 행성이 무대"
+  },
+  "synteza_wojtyszko": {
+   "space": "아니오",
+   "why": "냉동에서 깬 소년, 지구만"
+  },
+  "the_branch_resnick": {
+   "space": "아니오",
+   "why": "신의 아들 소동, 지구만"
+  },
+  "viva_la_vie_lelouch": {
+   "space": "경계",
+   "why": "외계 납치를 암시하는 실종"
+  },
+  "what_waits_below": {
+   "space": "아니오",
+   "why": "깊은 동굴 탐사, 지구만"
+  },
+  "wild_beasts_prosperi": {
+   "space": "아니오",
+   "why": "미친 동물원 짐승, 지구만"
+  },
+  "blistayushchiy_mir": {
+   "space": "아니오",
+   "why": "하늘 나는 사나이, 지구만"
+  },
+  "inoplanetyanka_segel": {
+   "space": "경계",
+   "why": "외계 여인이 지구에 옴"
+  },
+  "sem_stikhiy_shcherbakov": {
+   "space": "예",
+   "why": "켄타우루스 행성 생명 발견"
+  },
+  "alpha_city_schmidt": {
+   "space": "아니오",
+   "why": "타락한 미래 도시, 지구만"
+  },
+  "colpi_di_luce": {
+   "space": "아니오",
+   "why": "빛 대포 범죄, 지구만"
+  },
+  "die_einsteiger": {
+   "space": "아니오",
+   "why": "영화 속에 들어가는 장치, 지구만"
+  },
+  "diesel_kramer": {
+   "space": "아니오",
+   "why": "종말 뒤 땅속 도시, 지구만"
+  },
+  "el_caballero_del_dragon": {
+   "space": "경계",
+   "why": "외계 우주선이 중세에 내림"
+  },
+  "joan_lui": {
+   "space": "아니오",
+   "why": "다른 세계 구세주 우화, 지구만"
+  },
+  "laffaire_des_divisions_morituri": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "miami_golem": {
+   "space": "경계",
+   "why": "운석 속 외계 배아 복제"
+  },
+  "pan_kleks": {
+   "space": "경계",
+   "why": "시리즈 일부만 먼 행성·우주"
+  },
+  "prima_del_futuro": {
+   "space": "아니오",
+   "why": "통신망에 갇힌 옛 인물 옴니버스"
+  },
+  "tranches_de_vie": {
+   "space": "아니오",
+   "why": "만화 각색 희극, 지구만"
+  },
+  "xaver_und_sein_ausserirdischer_freund": {
+   "space": "경계",
+   "why": "고장 난 외계 우주선이 숲에"
+  },
+  "zaku_kasiku_nezen_se": {
+   "space": "아니오",
+   "why": "젊어지는 약 희극, 지구만"
+  },
+  "den_gneva_gansovsky": {
+   "space": "아니오",
+   "why": "지능 오른 짐승, 지구만"
+  },
+  "big_bang_1986": {
+   "space": "경계",
+   "why": "비행접시가 시골 마을에 내림"
+  },
+  "el_vivo_retrato": {
+   "space": "아니오",
+   "why": "나치 복제 기술 희극, 지구만"
+  },
+  "lunique_diamant_berger": {
+   "space": "아니오",
+   "why": "입체 영상 대역, 지구만"
+  },
+  "le_boulot_du_diable": {
+   "space": "아니오",
+   "why": "줄거리 미상, 우주 근거 없음"
+  },
+  "kak_stat_schastlivym": {
+   "space": "아니오",
+   "why": "재능 알아내는 기계, 지구만"
+  },
+  "interzone_1987": {
+   "space": "아니오",
+   "why": "종말 뒤 기름진 땅 지키기, 지구만"
+  },
+  "kam_doskace_ranni_ptace": {
+   "space": "아니오",
+   "why": "겉모습 본뜨는 물질, 지구만"
+  },
+  "les_aventures_deddie_turley": {
+   "space": "경계",
+   "why": "은하 첩보원이 로봇 도시를 캠"
+  },
+  "peng_du_bist_tot": {
+   "space": "아니오",
+   "why": "컴퓨터 칩 소동, 지구만"
+  },
+  "pratele_bermudskeho_trojuhelniku": {
+   "space": "아니오",
+   "why": "시공간 이상 풍자극, 지구 위"
+  },
+  "skin_henderickx": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "venivano_dalle_stelle": {
+   "space": "경계",
+   "why": "별에서 온 외계 존재 스릴러"
+  },
+  "vlci_bouda": {
+   "space": "경계",
+   "why": "외계인이 산장에 숨어듦"
+  },
+  "were_back_talbott": {
+   "space": "경계",
+   "why": "우주선이 공룡을 현대 뉴욕으로"
+  },
+  "veld_1987": {
+   "space": "아니오",
+   "why": "집 안 그림 방 이야기만"
+  },
+  "zerkalo_dlya_geroya": {
+   "space": "아니오",
+   "why": "지난 시대로 빠지는 환상 우화"
+  },
+  "otstupnik_bagryak": {
+   "space": "아니오",
+   "why": "사람 복제 장치 다툼, 지구 위"
+  },
+  "die_bombe_molin": {
+   "space": "아니오",
+   "why": "지구 위 테러 스릴러"
+  },
+  "computron_22": {
+   "space": "아니오",
+   "why": "노트북 컴퓨터와 소년의 길"
+  },
+  "fratello_dello_spazio": {
+   "space": "경계",
+   "why": "외계 생존자가 지구에 떨어짐"
+  },
+  "hell_hunters": {
+   "space": "아니오",
+   "why": "나치 혈청 공포, 지구 위"
+  },
+  "la_septieme_dimension": {
+   "space": "아니오",
+   "why": "시간 여행 연애만"
+  },
+  "mia_moglie_e_una_bestia": {
+   "space": "아니오",
+   "why": "얼음 속 선사 여인 희극"
+  },
+  "primal_rage_rambaldi": {
+   "space": "아니오",
+   "why": "실험실 광기 전염, 지구 위"
+  },
+  "ratman_carnimeo": {
+   "space": "아니오",
+   "why": "돌연변이 괴물 공포, 섬 위"
+  },
+  "ten_zan": {
+   "space": "아니오",
+   "why": "유전자 실험 활극, 지구 위"
+  },
+  "top_line_rossati": {
+   "space": "경계",
+   "why": "비행접시·외계인과 맞닥뜨림"
+  },
+  "zombi_3": {
+   "space": "아니오",
+   "why": "생물 무기 산 송장, 지구 위"
+  },
+  "zaertliche_chaoten_ii": {
+   "space": "아니오",
+   "why": "시간 기계 희극만"
+  },
+  "gorod_zero": {
+   "space": "아니오",
+   "why": "지방 도시 부조리극, 우주 없음"
+  },
+  "alien_degli_abissi": {
+   "space": "경계",
+   "why": "외계 괴물이 섬에 나타남"
+  },
+  "bodo_behrens": {
+   "space": "아니오",
+   "why": "천재 소년 청소년 희극"
+  },
+  "cyborg_il_guerriero_dacciaio": {
+   "space": "아니오",
+   "why": "사이보그 도주극, 지구 위"
+  },
+  "die_senkrechtstarter": {
+   "space": "아니오",
+   "why": "현금 없는 사회 희극, 지구"
+  },
+  "il_giustiziere_del_bronx": {
+   "space": "아니오",
+   "why": "종말 뒤 브롱크스 패권 다툼"
+  },
+  "maria_mirabela_tranzistoria": {
+   "space": "아니오",
+   "why": "전자 부품 나라 모험, 우주 없음"
+  },
+  "masseba": {
+   "space": "아니오",
+   "why": "핵 재앙 뒤 잿빛 도시"
+  },
+  "rottweiler_2004": {
+   "space": "아니오",
+   "why": "기계 몸 개의 추격, 지구 위"
+  },
+  "secretul_armei_secrete": {
+   "space": "아니오",
+   "why": "옛이야기 풍자, 우주 없음"
+  },
+  "shocking_dark": {
+   "space": "아니오",
+   "why": "에일리언 흉내, 지구 위 무대"
+  },
+  "via_lattea_la_prima_a_destra": {
+   "space": "경계",
+   "why": "외계 소년이 지구에 유배됨"
+  },
+  "zucker_erler": {
+   "space": "아니오",
+   "why": "유전자 바꾼 미생물, 지구 위"
+  },
+  "neveroyatny_sluchay": {
+   "space": "경계",
+   "why": "외계인 셋이 시골에 옴"
+  },
+  "pokhishchenie_charodeya": {
+   "space": "아니오",
+   "why": "낯선 방문객 이야기, 우주 없음"
+  },
+  "psy_1989": {
+   "space": "아니오",
+   "why": "버려진 도시의 개 떼, 지구 위"
+  },
+  "dna_formula_letale": {
+   "space": "아니오",
+   "why": "불로 혈청 실험, 지구 위"
+  },
+  "fuga_dal_paradiso": {
+   "space": "아니오",
+   "why": "종말 뒤 지구 이야기"
+  },
+  "la_machine_belletto": {
+   "space": "아니오",
+   "why": "마음 읽는 기계, 지구 위"
+  },
+  "le_tresor_des_iles_chiennes": {
+   "space": "아니오",
+   "why": "섬 탐사 이야기, 우주 없음"
+  },
+  "peraustrinia_2004": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "piggate": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "superwizja": {
+   "space": "아니오",
+   "why": "텔레비전 마약 사회, 지구 위"
+  },
+  "tom_et_lola": {
+   "space": "아니오",
+   "why": "병원 거품 방 아이들, 지구"
+  },
+  "dominus_1990": {
+   "space": "아니오",
+   "why": "목숨 거두는 낫 이야기"
+  },
+  "dukhov_den": {
+   "space": "아니오",
+   "why": "물건 터뜨리는 힘, 지구 위"
+  },
+  "pyat_lozhek_eliksira": {
+   "space": "아니오",
+   "why": "불사 영약 비밀, 지구 위"
+  },
+  "blue_tornado_bido": {
+   "space": "경계",
+   "why": "정찰 중 정체 모를 빛과 조우"
+  },
+  "contamination_7": {
+   "space": "아니오",
+   "why": "돌연변이 나무뿌리, 지구 위"
+  },
+  "coping_with_cupid": {
+   "space": "경계",
+   "why": "외계인 셋이 런던을 돌아다님"
+  },
+  "simple_mortel": {
+   "space": "아니오",
+   "why": "기기에서 낯선 말 들림, 지구"
+  },
+  "svemirci_su_krivi_za_sve": {
+   "space": "경계",
+   "why": "우주 손님이 소도시에 옴"
+  },
+  "the_stranger_bbv": {
+   "space": "경계",
+   "why": "정체 모를 나그네, 우주 단서 적음"
+  },
+  "amba_tishchenko": {
+   "space": "예",
+   "why": "우주선 감독관과 생체 행성"
+  },
+  "abdullajon": {
+   "space": "경계",
+   "why": "외계 소년이 콜호스에 불시착"
+  },
+  "deystvuy_manya": {
+   "space": "아니오",
+   "why": "생체 로봇 초인 희극, 지구"
+  },
+  "poltergeist_90": {
+   "space": "아니오",
+   "why": "조종 광선 지하 연구소, 지구"
+  },
+  "tretya_planeta_rogozhkin": {
+   "space": "아니오",
+   "why": "반유토피아극, 우주 단서 없음"
+  },
+  "diciassette_rudy_caino": {
+   "space": "아니오",
+   "why": "화학 무기 뒤 나폴리, 지구 위"
+  },
+  "enak_1992": {
+   "space": "예",
+   "why": "우주 비행사가 귀환을 거부"
+  },
+  "flaming_ears": {
+   "space": "경계",
+   "why": "외계인이 불탄 도시에 섞여 삶"
+  },
+  "jackpot_orfini": {
+   "space": "아니오",
+   "why": "노인 젊게 하는 인공물, 지구"
+  },
+  "moebius_geschonneck": {
+   "space": "아니오",
+   "why": "사라진 지하철 열차, 지구 위"
+  },
+  "supernova_1992": {
+   "space": "경계",
+   "why": "은하계 가수 설정, 무대 불분명"
+  },
+  "vremya_iks": {
+   "space": "경계",
+   "why": "어린 외계인이 지구에 내려옴"
+  },
+  "ekstrasens_glagolev": {
+   "space": "아니오",
+   "why": "평행 세계 오가는 환상, 지구"
+  },
+  "dinosaur_from_the_deep": {
+   "space": "아니오",
+   "why": "흉악범 시간 여행, 지구 위"
+  },
+  "groundhog_day": {
+   "space": "아니오",
+   "why": "같은 하루 되풀이 희극만"
+  },
+  "klon_del_fra": {
+   "space": "아니오",
+   "why": "연구소 사람 복제, 지구 위"
+  },
+  "navigatori_dello_spazio": {
+   "space": "예",
+   "why": "외계 로봇과 소년의 우주 여행"
+  },
+  "nexus_2431": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "the_airzone_solution": {
+   "space": "아니오",
+   "why": "지구 위 환경 음모 스릴러"
+  },
+  "the_last_border": {
+   "space": "아니오",
+   "why": "사막 된 지구의 툰드라"
+  },
+  "ufo_chubby_brown": {
+   "space": "예",
+   "why": "외계 우주선에 끌려가 재판받음"
+  },
+  "dikiy_vostok": {
+   "space": "아니오",
+   "why": "종말 뒤 공동체 습격, 지구"
+  },
+  "konstruktor_krasnogo_tsveta": {
+   "space": "아니오",
+   "why": "소련 인조인간 착상, 지구 위"
+  },
+  "monstry_kuchkov": {
+   "space": "아니오",
+   "why": "발전소 둘레 거대 짐승, 지구"
+  },
+  "sny_shakhnazarov": {
+   "space": "아니오",
+   "why": "시대를 건너는 꿈, 우주 없음"
+  },
+  "chelovek_v_vozdukhe": {
+   "space": "아니오",
+   "why": "옛 중국 날틀 이야기, 우주 없음"
+  },
+  "akumulator_1": {
+   "space": "아니오",
+   "why": "기운 빨아들이는 텔레비전"
+  },
+  "chicken_park": {
+   "space": "아니오",
+   "why": "유전자 바꾼 닭 공원, 지구"
+  },
+  "crash_2030_faulstich": {
+   "space": "아니오",
+   "why": "기후 붕괴 유럽 법정극"
+  },
+  "dark_future_clark": {
+   "space": "아니오",
+   "why": "역병 뒤 지하철 사이보그 지배"
+  },
+  "fresh_kill_1994": {
+   "space": "아니오",
+   "why": "오염된 뉴욕 기업 음모, 지구",
+   "cyberpunk": true
+  },
+  "plankton_passeri": {
+   "space": "아니오",
+   "why": "배 위 오염 괴물, 지구 위"
+  },
+  "russkaya_simfoniya": {
+   "space": "아니오",
+   "why": "최후의 심판 환상, 지구 위"
+  },
+  "s_uma_soyti": {
+   "space": "경계",
+   "why": "외계 여인이 지구에 내림"
+  },
+  "die_sturzflieger": {
+   "space": "예",
+   "why": "셔틀 조종사의 우주 구조"
+  },
+  "lipton_cockton": {
+   "space": "아니오",
+   "why": "2037년 유럽 연방 누아르, 지구"
+  },
+  "a_spasso_nel_tempo": {
+   "space": "아니오",
+   "why": "여러 시대 떠도는 시간 여행"
+  },
+  "kondom_des_grauens": {
+   "space": "아니오",
+   "why": "뒷골목 괴생물 공포, 지구"
+  },
+  "la_belle_verte": {
+   "space": "예",
+   "why": "초록 행성에서 지구로 건너옴"
+  },
+  "nach_uns_die_sintflut_1996": {
+   "space": "아니오",
+   "why": "북극 재앙 조짐, 지구 위"
+  },
+  "raumschiff_highlander": {
+   "space": "예",
+   "why": "우주선과 함대가 주 무대"
+  },
+  "time_demon_thomson": {
+   "space": "아니오",
+   "why": "시간 기계 나치 소동, 지구"
+  },
+  "nauchnaya_sektsiya_pilotov": {
+   "space": "아니오",
+   "why": "지하철 터널 연쇄 죽음"
+  },
+  "conceiving_ada": {
+   "space": "아니오",
+   "why": "컴퓨터 과학자 이야기, 지구 위"
+  },
+  "flying_saucer_rocknroll": {
+   "space": "경계",
+   "why": "외계인 납치 계획을 막음"
+  },
+  "froken_smillas": {
+   "space": "아니오",
+   "why": "그린란드 운석 둘레 스릴러"
+  },
+  "harald_chaot": {
+   "space": "경계",
+   "why": "외계인이 휴가차 지구에 옴"
+  },
+  "potenza_virtuale": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "spacejacked": {
+   "space": "예",
+   "why": "달 가는 유람 우주선 장악"
+  },
+  "captain_cosmotic": {
+   "space": "예",
+   "why": "행성 사이 지배 다툼 비꼼"
+  },
+  "der_dritte_weltkrieg_1998": {
+   "space": "아니오",
+   "why": "3차 대전 다른 역사, 지구"
+  },
+  "el_milagro_de_p_tinto": {
+   "space": "경계",
+   "why": "화성인이 찾아오는 초현실 희극"
+  },
+  "last_night_mckellar": {
+   "space": "아니오",
+   "why": "세상 끝 마지막 밤, 지구"
+  },
+  "le_clone_conversi": {
+   "space": "아니오",
+   "why": "가상 분신이 몸에 옮겨 탐"
+  },
+  "rewind_gobbi": {
+   "space": "아니오",
+   "why": "기억 영상 실험, 지구 위"
+  },
+  "jurassic_trash": {
+   "space": "아니오",
+   "why": "공룡 알과 혼합 실험 소동"
+  },
+  "the_secret_kingdom_1998": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "the_shrunken_city": {
+   "space": "경계",
+   "why": "외계 사냥꾼이 작은 도시 노림"
+  },
+  "tigerstreifenbaby_wartet_auf_tarzan": {
+   "space": "아니오",
+   "why": "먼 앞날 시간 여행자 방문"
+  },
+  "un_dia_perfecto_rispa": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "woundings_noon": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "a_ton_image_lambrichs": {
+   "space": "아니오",
+   "why": "불법 복제 임신, 지구 위"
+  },
+  "zbogum_na_dvaesettiot_vek": {
+   "space": "아니오",
+   "why": "종말 폐허의 불사 사내"
+  },
+  "serebryanye_golovy": {
+   "space": "아니오",
+   "why": "나무 인간 실험, 지구 위"
+  },
+  "play_it_again_tutti": {
+   "space": "아니오",
+   "why": "1953년으로 시간 여행만"
+  },
+  "aliens_in_the_wild_wild_west": {
+   "space": "경계",
+   "why": "서부 마을에 외계인이 옴"
+  },
+  "blackadder_back_and_forth": {
+   "space": "아니오",
+   "why": "시간 기계 희극, 지구 위"
+  },
+  "apparatspott": {
+   "space": "예",
+   "why": "우주선이 주 무대인 비꼼"
+  },
+  "dvojrole_1999": {
+   "space": "아니오",
+   "why": "뇌 옮겨 심기, 지구 위"
+  },
+  "fantozzi_2000_la_clonazione": {
+   "space": "아니오",
+   "why": "회사원 복제 희극, 지구"
+  },
+  "generation_p_pelevin": {
+   "space": "아니오",
+   "why": "정치 가상 세계 풍자, 지구"
+  },
+  "goomer": {
+   "space": "예",
+   "why": "우주 운송사의 행성 찾기"
+  },
+  "la_mujer_mas_fea_del_mundo": {
+   "space": "아니오",
+   "why": "다른 역사 마드리드 복수극"
+  },
+  "operacja_koza": {
+   "space": "아니오",
+   "why": "인격 바꾸는 약 첩보극"
+  },
+  "amazone_de_broca": {
+   "space": "경계",
+   "why": "우주선이 소녀를 숲에 두고 감"
+  },
+  "blood_cantor": {
+   "space": "아니오",
+   "why": "피에 마약 흐르는 피조물"
+  },
+  "der_runner_rowitz": {
+   "space": "아니오",
+   "why": "기업이 다스리는 베를린",
+   "cyberpunk": true
+  },
+  "lextraterrestre_bourdon": {
+   "space": "경계",
+   "why": "외계 정찰병이 지구에 내림"
+  },
+  "thomas_est_amoureux": {
+   "space": "아니오",
+   "why": "화상 전화로만 사는 앞날"
+  },
+  "szesc_dni_strusia": {
+   "space": "아니오",
+   "why": "실험으로 농구 스타 된 희극"
+  },
+  "ice_planet_2001": {
+   "space": "예",
+   "why": "우주 식민지가 외계 습격받음"
+  },
+  "inferno_kousoulides": {
+   "space": "아니오",
+   "why": "총격 게임 속 이야기만"
+  },
+  "ratten_luehdorff": {
+   "space": "아니오",
+   "why": "쥐 떼 역병, 지구 위"
+  },
+  "stranded_naufragos": {
+   "space": "예",
+   "why": "화성 탐사선 추락, 화성 고립"
+  },
+  "the_breed_2001": {
+   "space": "아니오",
+   "why": "흡혈귀 공존 도시, 우주 없음"
+  },
+  "the_emperors_new_clothes_2001": {
+   "space": "아니오",
+   "why": "나폴레옹 다른 역사, 지구"
+  },
+  "tete_de_chou": {
+   "space": "아니오",
+   "why": "양배추 머리 부조리극"
+  },
+  "vortex_pohl": {
+   "space": "아니오",
+   "why": "죄 되풀이 감옥, 지구 위"
+  },
+  "arche_czyste_zlo": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "arret_d_urgence": {
+   "space": "아니오",
+   "why": "낯선 땅 위 거대 로봇 기계"
+  },
+  "el_rey_de_la_granja": {
+   "space": "예",
+   "why": "소행성 폭군과 우주선 탈출"
+  },
+  "fascisti_su_marte": {
+   "space": "예",
+   "why": "파시스트 대원의 화성 정복"
+  },
+  "revengers_tragedy_cox": {
+   "space": "아니오",
+   "why": "재해 뒤 리버풀 복수극"
+  },
+  "svart_krabba": {
+   "space": "아니오",
+   "why": "전쟁 난 스웨덴, 지구 위"
+  },
+  "terminal_error": {
+   "space": "아니오",
+   "why": "컴퓨터 바이러스 공격, 지구"
+  },
+  "thunderpants": {
+   "space": "경계",
+   "why": "우주 비행사 꿈 소년, 끝에 우주"
+  },
+  "yyyreek_kosmiczna_nominacja": {
+   "space": "경계",
+   "why": "외계인이 폴란드 남자를 고름"
+  },
+  "paseka_nom": {
+   "space": "아니오",
+   "why": "마을 악마 소동 희극"
+  },
+  "ubitye_molniey": {
+   "space": "아니오",
+   "why": "선사 환영과 기원설, 지구"
+  },
+  "anatomie_ruzowitzky": {
+   "space": "아니오",
+   "why": "의대 비밀 결사 스릴러"
+  },
+  "blueprint_kerner": {
+   "space": "아니오",
+   "why": "피아니스트 복제, 지구 위"
+  },
+  "il_ronzio_delle_mosche": {
+   "space": "아니오",
+   "why": "광기 떼어 내는 실험, 지구"
+  },
+  "kohtalon_kirja": {
+   "space": "경계",
+   "why": "별 너머 문명이 운명의 책 차지"
+  },
+  "le_temps_du_loup": {
+   "space": "아니오",
+   "why": "재앙 뒤 시골 피란, 지구"
+  },
+  "momentum_2003": {
+   "space": "아니오",
+   "why": "염력 교수와 국방부, 지구"
+  },
+  "platillos_volantes": {
+   "space": "아니오",
+   "why": "외계 믿음 사건, 우주 안 나감"
+  },
+  "the_snell_show": {
+   "space": "아니오",
+   "why": "가족 모임 핵폭발 단편"
+  },
+  "trinity_2003": {
+   "space": "아니오",
+   "why": "북극 기지 번식 실험, 지구"
+  },
+  "xero_2003": {
+   "space": "아니오",
+   "why": "복제 인간 남녀의 밤"
+  },
+  "traumschiff_surprise": {
+   "space": "예",
+   "why": "우주선 활극 비꼼 희극"
+  },
+  "atomik_circus": {
+   "space": "경계",
+   "why": "외계인이 마을 잔치를 깸"
+  },
+  "dracula_3000": {
+   "space": "예",
+   "why": "우주 구난선이 주 무대"
+  },
+  "gargoyle_wings_of_darkness": {
+   "space": "아니오",
+   "why": "풀려난 괴물 활극, 지구"
+  },
+  "how_i_live_now": {
+   "space": "아니오",
+   "why": "앞날 영국의 전쟁, 지구 위"
+  },
+  "invaxon": {
+   "space": "경계",
+   "why": "외계인이 제노바를 침공"
+  },
+  "irkutz_88": {
+   "space": "아니오",
+   "why": "굴라그 유전자 실험, 지구"
+  },
+  "lauras_stern": {
+   "space": "경계",
+   "why": "하늘에서 떨어진 별과 아이"
+  },
+  "retrograde_2004": {
+   "space": "아니오",
+   "why": "과거로 가 세균 막기, 지구"
+  },
+  "the_purifiers": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "ainoa_kalantari": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 로봇 소녀, 지구"
+  },
+  "alone_in_the_dark_infogrames": {
+   "space": "아니오",
+   "why": "초자연 공포 조사, 우주 없음"
+  },
+  "yo_rhad": {
+   "space": "경계",
+   "why": "우주에서 온 친구 이야기"
+  },
+  "animal_bosch": {
+   "space": "아니오",
+   "why": "공격성 유전자 실험, 지구"
+  },
+  "delivery_nowak": {
+   "space": "아니오",
+   "why": "잿빛 세상 바꾸는 상자, 지구"
+  },
+  "disparait_v": {
+   "space": "아니오",
+   "why": "도시 가로지르는 여정, 지구"
+  },
+  "kampfansage_der_letzte_schueler": {
+   "space": "아니오",
+   "why": "내전 유럽 무술 활극"
+  },
+  "kuolleiden_talvi": {
+   "space": "아니오",
+   "why": "핵겨울 핀란드, 지구 위"
+  },
+  "la_possibilite_dune_ile": {
+   "space": "아니오",
+   "why": "영생·복제 이야기, 지구 위"
+  },
+  "mort_a_lecran": {
+   "space": "아니오",
+   "why": "사형 투표 방송, 지구 위"
+  },
+  "seuls_bd": {
+   "space": "아니오",
+   "why": "사람 사라진 동네, 우주 없음"
+  },
+  "star_wreck": {
+   "space": "예",
+   "why": "함대가 먼 우주로 가는 비꼼"
+  },
+  "vzlyotnaya_polosa_2005": {
+   "space": "아니오",
+   "why": "전쟁터로 시간 여행만"
+  },
+  "pervye_na_lune": {
+   "space": "예",
+   "why": "1938년 소련 달 비행 위작"
+  },
+  "pyl_2005": {
+   "space": "아니오",
+   "why": "옛 군수 공장 청년, 지구"
+  },
+  "chernovik_lukyanenko": {
+   "space": "아니오",
+   "why": "평행 세계 세관, 우주 없음"
+  },
+  "film_977": {
+   "space": "아니오",
+   "why": "비밀 연구소 측정 기계"
+  },
+  "ad_project_puglielli": {
+   "space": "아니오",
+   "why": "초자연 예지 공포, 지구"
+  },
+  "africa_paradis": {
+   "space": "아니오",
+   "why": "앞날 아프리카·유럽, 지구"
+  },
+  "demain_la_veille": {
+   "space": "아니오",
+   "why": "거꾸로 사는 세상 우화"
+  },
+  "den_brysomme_mannen": {
+   "space": "아니오",
+   "why": "낯선 도시 우화, 우주 없음"
+  },
+  "frostbiten": {
+   "space": "아니오",
+   "why": "라플란드 흡혈귀, 지구 위"
+  },
+  "la_grande_croisade_sombogaart": {
+   "space": "아니오",
+   "why": "1212년으로 시간 여행"
+  },
+  "manna_gotkowski": {
+   "space": "아니오",
+   "why": "숲속 소원 쪽지 우화"
+  },
+  "nos_amis_les_humains": {
+   "space": "경계",
+   "why": "외계인 눈으로 사람을 봄"
+  },
+  "si_nightmare_fior": {
+   "space": "아니오",
+   "why": "기생체 퍼진 지구, 우주 안 나감"
+  },
+  "tkkg_mind_machine": {
+   "space": "아니오",
+   "why": "세뇌 장치 소동, 지구 위"
+  },
+  "the_black_hole_2006": {
+   "space": "경계",
+   "why": "블랙홀에서 우주 괴물이 나옴"
+  },
+  "un_ticket_pour_lespace": {
+   "space": "예",
+   "why": "추첨으로 우주에 가는 희극"
+  },
+  "yellow_blomkamp": {
+   "space": "아니오",
+   "why": "달아난 안드로이드, 지구 위"
+  },
+  "ecoute_le_temps": {
+   "space": "아니오",
+   "why": "지난날 소리 들림, 지구 위"
+  },
+  "mechenosets": {
+   "space": "아니오",
+   "why": "칼날 팔 사내 도주극"
+  },
+  "ostrov_rus": {
+   "space": "아니오",
+   "why": "옛 물체 찾는 형제, 우주 없음"
+  },
+  "anno_eccezionale_2061": {
+   "space": "아니오",
+   "why": "석유 뒤 새 중세, 지구 위"
+  },
+  "apollo_54": {
+   "space": "예",
+   "why": "엉성한 우주선으로 우주에 감"
+  },
+  "auf_nummer_sicher": {
+   "space": "아니오",
+   "why": "전자 태그 앞날, 지구 위"
+  },
+  "die_ueberfluessigen": {
+   "space": "아니오",
+   "why": "남는 사람 선언 사회, 지구"
+  },
+  "dreamscape_fox": {
+   "space": "아니오",
+   "why": "뇌에 환상 넣는 회사, 지구"
+  },
+  "egon_es_donci": {
+   "space": "예",
+   "why": "작은 행성 탐험가의 우주선"
+  },
+  "faceless_luksch": {
+   "space": "아니오",
+   "why": "감시 기계 사회, 지구 위",
+   "cyberpunk": true
+  },
+  "flood_doyle": {
+   "space": "아니오",
+   "why": "해일이 런던 덮침, 지구"
+  },
+  "kingz_2007": {
+   "space": "아니오",
+   "why": "지하 클럽 기현상, 지구"
+  },
+  "proxima_atanes": {
+   "space": "예",
+   "why": "프록시마 행성으로 떠남"
+  },
+  "steak_dupieux": {
+   "space": "아니오",
+   "why": "성형 의례 앞날, 지구 위"
+  },
+  "super_comet_after_the_impact": {
+   "space": "아니오",
+   "why": "혜성 충돌 뒤 지구만"
+  },
+  "trust_wohltat": {
+   "space": "아니오",
+   "why": "유전 맞춤 아기 사업"
+  },
+  "the_counting_house": {
+   "space": "아니오",
+   "why": "섬 유전 실험 괴물"
+  },
+  "tres_dias_2007": {
+   "space": "아니오",
+   "why": "운석 충돌 앞둔 마을"
+  },
+  "un_amore_su_misura": {
+   "space": "아니오",
+   "why": "맞춤 여인 인조인간 희극"
+  },
+  "vikaren": {
+   "space": "경계",
+   "why": "외계인이 대리 교사로 옴"
+  },
+  "skalolazka_sinitsyn": {
+   "space": "아니오",
+   "why": "옛 문명 요람 찾기, 지구"
+  },
+  "alien_love_triangle": {
+   "space": "경계",
+   "why": "아내가 우주에서 왔다고 고백"
+  },
+  "capitan_basilico": {
+   "space": "아니오",
+   "why": "동네 초인 희극, 지구 위"
+  },
+  "chemical_wedding": {
+   "space": "아니오",
+   "why": "마술 의식 부활 공포"
+  },
+  "die_schneider_krankheit": {
+   "space": "경계",
+   "why": "떨어진 우주 캡슐 뒤 지구 이야기"
+  },
+  "dying_god": {
+   "space": "아니오",
+   "why": "부족 신 괴물 공포, 지구"
+  },
+  "ex_et": {
+   "space": "아니오",
+   "why": "외계 행성 하나 위 이야기만"
+  },
+  "impact_2009": {
+   "space": "예",
+   "why": "대원들이 달로 가는 대목"
+  },
+  "lost_city_raiders": {
+   "space": "아니오",
+   "why": "물에 잠긴 지구 인양"
+  },
+  "summer_of_the_flying_saucer": {
+   "space": "경계",
+   "why": "시골에 비행접시가 옴"
+  },
+  "indigo_prygunov": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "my_iz_budushchego": {
+   "space": "아니오",
+   "why": "독소 전쟁으로 시간 여행"
+  },
+  "novaya_zemlya_2008": {
+   "space": "아니오",
+   "why": "섬 종신수 실험, 지구"
+  },
+  "ulybka_boga": {
+   "space": "아니오",
+   "why": "1954년으로 시간 여행"
+  },
+  "film_1_sparrow": {
+   "space": "아니오",
+   "why": "세상 일 분 통계 책 우화"
+  },
+  "cold_souls_barthes": {
+   "space": "아니오",
+   "why": "영혼 떼는 수술, 지구 위"
+  },
+  "die_tuer_saul": {
+   "space": "아니오",
+   "why": "지난날로 잇는 문, 지구"
+  },
+  "faktor_8": {
+   "space": "아니오",
+   "why": "여객기 역병, 지구 위"
+  },
+  "ghost_machine_2009": {
+   "space": "아니오",
+   "why": "가상 전투 시험, 지구"
+  },
+  "it_was_on_earth_that_i_knew_joy": {
+   "space": "아니오",
+   "why": "역병 뒤 두 기계 대화"
+  },
+  "lenfance_dicare": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "le_visiteur_du_futur": {
+   "space": "아니오",
+   "why": "시간 여행자 활극, 지구"
+  },
+  "les_derniers_jours_du_monde": {
+   "space": "아니오",
+   "why": "세상 끝 떠도는 사내"
+  },
+  "mutants_morlet": {
+   "space": "아니오",
+   "why": "바이러스 괴물 피란, 지구"
+  },
+  "one_hundred_mornings": {
+   "space": "아니오",
+   "why": "붕괴 뒤 호숫가 오두막"
+  },
+  "pathos_2009": {
+   "space": "아니오",
+   "why": "죽은 지구의 감각 기계"
+  },
+  "sanctuary_ledwidge": {
+   "space": "아니오",
+   "why": "가상 세계 초인, 우주 없음"
+  },
+  "the_fourth_kind": {
+   "space": "경계",
+   "why": "외계인 납치 기억 캐기"
+  },
+  "villemolle_81": {
+   "space": "경계",
+   "why": "운석이 산 송장 병을 퍼뜨림"
+  },
+  "vulkan_2009": {
+   "space": "아니오",
+   "why": "화산 가스 재난, 지구 위"
+  },
+  "zapping_alien_mozart_balls": {
+   "space": "경계",
+   "why": "게임 속 외계인 이야기"
+  },
+  "ottorzhenie_salomatov": {
+   "space": "아니오",
+   "why": "빈 도시와 초록 하늘"
+  },
+  "smersh_golovachev": {
+   "space": "아니오",
+   "why": "정신 조종 무기 첩보극"
+  },
+  "chyornaya_molniya": {
+   "space": "아니오",
+   "why": "나는 자동차 초인, 지구 위"
+  },
+  "attack_of_the_tromaggot": {
+   "space": "아니오",
+   "why": "돌연변이 구더기, 지구"
+  },
+  "die_grenze_richter": {
+   "space": "아니오",
+   "why": "경제 붕괴 내전, 지구"
+  },
+  "eject_vincent": {
+   "space": "아니오",
+   "why": "괴이한 병 봉쇄, 지구"
+  },
+  "glenn_flying_robot": {
+   "space": "아니오",
+   "why": "나는 로봇 이야기, 지구 위"
+  },
+  "maximum_shame": {
+   "space": "아니오",
+   "why": "다른 차원 체스판 세계"
+  },
+  "nessuno_mi_fara_del_male": {
+   "space": "경계",
+   "why": "외계인이 오는 드라마"
+  },
+  "project_genesis_crossclub": {
+   "space": "아니오",
+   "why": "줄거리 짧음, 우주 단서 없음"
+  },
+  "sektor_236": {
+   "space": "아니오",
+   "why": "군사 구역 보이지 않는 힘"
+  },
+  "snowblind_2010": {
+   "space": "아니오",
+   "why": "빙하기 뒤 총잡이, 지구"
+  },
+  "space_tours_mission_eva": {
+   "space": "예",
+   "why": "우주선이 행성들을 돎"
+  },
+  "sturmaz_acto_y_tempestad": {
+   "space": "아니오",
+   "why": "거대 기업 맞선 혁명, 지구"
+  },
+  "the_dead_2010": {
+   "space": "아니오",
+   "why": "산 송장 아프리카, 지구"
+  },
+  "the_last_seven": {
+   "space": "아니오",
+   "why": "텅 빈 런던 생존자"
+  },
+  "the_lost_future": {
+   "space": "아니오",
+   "why": "종말 뒤 부족 이야기"
+  },
+  "the_show_must_go_on_2010": {
+   "space": "아니오",
+   "why": "갇힌 생활 중계 출연자, 지구"
+  },
+  "transfer_lukacevic": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "legenda_ostrova_dvid": {
+   "space": "아니오",
+   "why": "다른 세상 기사 모험"
+  },
+  "nazad_v_sssr_2010": {
+   "space": "아니오",
+   "why": "소련 시절로 시간 여행"
+  },
+  "tuman_2010": {
+   "space": "아니오",
+   "why": "1941년으로 시간 여행"
+  },
+  "four_forty_four_last_day": {
+   "space": "아니오",
+   "why": "오존층 붕괴 마지막 밤"
+  },
+  "sei_giorni_sulla_terra": {
+   "space": "경계",
+   "why": "외계인 납치 현상 연구"
+  },
+  "bermuda_dreieck_nordsee": {
+   "space": "아니오",
+   "why": "북해 실종 재난, 지구"
+  },
+  "blinky_tm": {
+   "space": "아니오",
+   "why": "집안 로봇 살인 단편"
+  },
+  "decapoda_shock": {
+   "space": "예",
+   "why": "외계 행성에서 감염된 비행사"
+  },
+  "dimensions_2011": {
+   "space": "아니오",
+   "why": "차원 이론 드라마, 지구"
+  },
+  "larrivo_di_wang": {
+   "space": "경계",
+   "why": "외계인 심문 드라마"
+  },
+  "nydenion": {
+   "space": "예",
+   "why": "별 사이 제국과 연합 전쟁"
+  },
+  "perfect_sense": {
+   "space": "아니오",
+   "why": "감각 잃는 전염병, 지구"
+  },
+  "restrisiko_2011": {
+   "space": "아니오",
+   "why": "원전 사고 뒤 함부르크"
+  },
+  "thelomeris": {
+   "space": "아니오",
+   "why": "톱니바퀴 도시, 우주 없음"
+  },
+  "mishen_zeldovich": {
+   "space": "아니오",
+   "why": "알타이 시설 불로, 지구"
+  },
+  "spory_dyachuk": {
+   "space": "경계",
+   "why": "운석이 실어 온 외계 포자"
+  },
+  "decay_thompson": {
+   "space": "아니오",
+   "why": "가속기 산 송장, 지구"
+  },
+  "der_gruender_hordes": {
+   "space": "경계",
+   "why": "외계인 장치 빼앗은 사내"
+  },
+  "errors_of_the_human_body": {
+   "space": "아니오",
+   "why": "유전자 연구 스릴러"
+  },
+  "kleine_morde_koese": {
+   "space": "아니오",
+   "why": "앞날 독일 심리 스릴러"
+  },
+  "lautre_sang": {
+   "space": "아니오",
+   "why": "작은 분신 이야기, 지구"
+  },
+  "la_cinquieme_saison": {
+   "space": "아니오",
+   "why": "자연과의 다툼 재난극"
+  },
+  "mich_gibts_nur_zweimal": {
+   "space": "아니오",
+   "why": "집안일 안드로이드 희극"
+  },
+  "night_is_day": {
+   "space": "아니오",
+   "why": "예지·번개 자경단, 지구"
+  },
+  "pandemia_fiorentino": {
+   "space": "아니오",
+   "why": "빗물 역병, 지구 위"
+  },
+  "probudim_se_vcera": {
+   "space": "아니오",
+   "why": "1989년으로 시간 여행"
+  },
+  "tears_of_steel": {
+   "space": "아니오",
+   "why": "로봇과 싸우는 도시, 지구"
+  },
+  "the_dinosaur_project": {
+   "space": "아니오",
+   "why": "콩고 밀림 공룡 탐험"
+  },
+  "third_contact": {
+   "space": "아니오",
+   "why": "양자 자살 사고 실험극"
+  },
+  "ufo_2012_burns": {
+   "space": "경계",
+   "why": "외계 침공, 사람은 안 나감"
+  },
+  "un_mondo_meglio_che_niente": {
+   "space": "예",
+   "why": "먼 행성에 내린 탐험가"
+  },
+  "vanishing_waves": {
+   "space": "아니오",
+   "why": "혼수 환자 뇌와 이어짐"
+  },
+  "avgust_vosmogo": {
+   "space": "아니오",
+   "why": "전쟁과 아이의 상상, 지구"
+  },
+  "zvyozdny_vors": {
+   "space": "예",
+   "why": "굴을 파 다른 행성에 가려 함"
+  },
+  "tankist_belyy_tigr": {
+   "space": "아니오",
+   "why": "2차 대전 유령 전차"
+  },
+  "about_time_curtis": {
+   "space": "아니오",
+   "why": "지난날로 돌아가는 연애극"
+  },
+  "app_2013": {
+   "space": "아니오",
+   "why": "휴대 전화 속 수상한 프로그램"
+  },
+  "art_girls_bramkamp": {
+   "space": "아니오",
+   "why": "생명 공학 기업 음모, 지구"
+  },
+  "blutgletscher": {
+   "space": "아니오",
+   "why": "알프스 관측소 괴물, 지구"
+  },
+  "devils_pass": {
+   "space": "아니오",
+   "why": "디아틀로프 고개 공포"
+  },
+  "endzeit_fritzsch": {
+   "space": "아니오",
+   "why": "혜성 충돌 뒤 숲 소녀"
+  },
+  "gmaz_reptiloid": {
+   "space": "아니오",
+   "why": "숲속 살인 수사, 우주 없음"
+  },
+  "helden_wenn_dein_land_dich_braucht": {
+   "space": "아니오",
+   "why": "위성 추락·가속기 재난"
+  },
+  "lfo_tublen": {
+   "space": "아니오",
+   "why": "소리 최면 실험, 지구"
+  },
+  "outpost_film_series": {
+   "space": "아니오",
+   "why": "나치 실험 전쟁 공포"
+  },
+  "quiqueck_und_haemat": {
+   "space": "예",
+   "why": "지구 궤도 외계인 감시 임무"
+  },
+  "real_playing_game": {
+   "space": "아니오",
+   "why": "젊어지게 하는 회사, 지구"
+  },
+  "report_51": {
+   "space": "경계",
+   "why": "외계 침공 공포, 지구 위"
+  },
+  "stranded_2013": {
+   "space": "예",
+   "why": "달 채굴 기지가 주 무대"
+  },
+  "the_presidents_staff": {
+   "space": "경계",
+   "why": "외계 특공대 자칭 인질극"
+  },
+  "wasteland_wadlow": {
+   "space": "아니오",
+   "why": "산 송장 세상, 지구 위"
+  },
+  "dodici_dodici_dodici": {
+   "space": "경계",
+   "why": "외계인이 주민과 바꿔치기"
+  },
+  "sights_of_death_2047": {
+   "space": "아니오",
+   "why": "연합 정부와 반군, 지구"
+  },
+  "fifty_one_degrees_north": {
+   "space": "아니오",
+   "why": "소행성 충돌 앞둔 런던"
+  },
+  "adech_cecchini": {
+   "space": "아니오",
+   "why": "영혼 옮기는 다른 차원"
+  },
+  "arachnicide": {
+   "space": "아니오",
+   "why": "배양기 범죄 활극"
+  },
+  "dead_house_amerigo": {
+   "space": "아니오",
+   "why": "산 송장 공포, 지구 위"
+  },
+  "die_gstettensaga": {
+   "space": "아니오",
+   "why": "기업 전쟁 뒤 잿더미 도시"
+  },
+  "entity_desmond": {
+   "space": "예",
+   "why": "깊은 우주에 튕겨 나간 비행사"
+  },
+  "il_ragazzo_invisibile": {
+   "space": "아니오",
+   "why": "초능력 소년, 지구 위"
+  },
+  "index_zero_sportiello": {
+   "space": "아니오",
+   "why": "지수 매기는 유럽, 지구"
+  },
+  "laltro_adamo": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 단서 없음"
+  },
+  "labyrinthus_boswell": {
+   "space": "아니오",
+   "why": "게임 속 분신, 지구 위"
+  },
+  "planet_sigma_seto": {
+   "space": "아니오",
+   "why": "우주 개념 없이 낯선 행성만"
+  },
+  "reality_plus_fargeat": {
+   "space": "아니오",
+   "why": "뇌 장치로 몸매 바꿔 봄"
+  },
+  "robot_overlords": {
+   "space": "경계",
+   "why": "외계 로봇이 지구 점령"
+  },
+  "suenan_los_androides": {
+   "space": "아니오",
+   "why": "버려진 도시 인조인간"
+  },
+  "the_hybrid_scintilla": {
+   "space": "아니오",
+   "why": "옛 소련 실험실 탈환"
+  },
+  "the_nostalgist_wilson": {
+   "space": "아니오",
+   "why": "가상 현실 장치 이야기, 우주 없음"
+  },
+  "the_rendlesham_ufo_incident": {
+   "space": "경계",
+   "why": "비행접시 흔적, 사람은 못 나감"
+  },
+  "yo_soy_pedro": {
+   "space": "경계",
+   "why": "외계인이 지구에 떨어짐"
+  },
+  "lyogok_na_pomine": {
+   "space": "아니오",
+   "why": "지구 위 순간 이동 희극만"
+  },
+  "american_hero_2015": {
+   "space": "아니오",
+   "why": "지구 위 초능력 희극만"
+  },
+  "andron_black_labyrinth": {
+   "space": "아니오",
+   "why": "지구 위 미로 생존 승부만"
+  },
+  "anhedonia_zimmer": {
+   "space": "아니오",
+   "why": "지구 위 소비 사회 풍자"
+  },
+  "bis_torno_indietro": {
+   "space": "아니오",
+   "why": "시간 여행 희극, 우주 없음"
+  },
+  "boy_7_mous": {
+   "space": "아니오",
+   "why": "미래 경찰 국가, 지구 위만"
+  },
+  "brand_new_u": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "bunny_the_killer_thing": {
+   "space": "아니오",
+   "why": "시골 별장 괴물 소동만"
+  },
+  "bolgen_2015": {
+   "space": "아니오",
+   "why": "지구 위 해일 재난만"
+  },
+  "cosmodrama_fernandez": {
+   "space": "예",
+   "why": "우주선 탐사대가 주 무대"
+  },
+  "creative_control": {
+   "space": "아니오",
+   "why": "가까운 앞날 현실 기술, 지구 위"
+  },
+  "dissonance_nowak": {
+   "space": "아니오",
+   "why": "환상 세계 단편, 우주 없음"
+  },
+  "dolcezza_extrema": {
+   "space": "예",
+   "why": "우주 선장들의 우주 배달"
+  },
+  "end_the_movie": {
+   "space": "아니오",
+   "why": "지구 위 역병 좀비물"
+  },
+  "faeryland_ettori": {
+   "space": "아니오",
+   "why": "지구 위 역병과 신화"
+  },
+  "game_therapy": {
+   "space": "아니오",
+   "why": "가상 세계 모험, 우주 없음"
+  },
+  "hitman_game": {
+   "space": "아니오",
+   "why": "지구 위 복제 암살자 이야기"
+  },
+  "le_grand_tout": {
+   "space": "예",
+   "why": "블랙홀 탐사 우주 여행"
+  },
+  "mecanoscrit_del_segon_origen": {
+   "space": "경계",
+   "why": "외계 침공이 지구를 폐허로"
+  },
+  "monitor_lauria": {
+   "space": "아니오",
+   "why": "지구 위 기업 디스토피아"
+  },
+  "montedoro_faretta": {
+   "space": "아니오",
+   "why": "텅 빈 산마을, 우주 없음"
+  },
+  "moriran_en_el_espacio": {
+   "space": "예",
+   "why": "우주선 기술자 이야기"
+  },
+  "nameo_et_le_messager": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "narcopolis": {
+   "space": "아니오",
+   "why": "마약 합법 도시 누아르, 지구 위",
+   "cyberpunk": true
+  },
+  "nenasytna_tiffany": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "roboshark": {
+   "space": "경계",
+   "why": "외계 탐사기가 지구 바다에 옴"
+  },
+  "set_the_thames_on_fire": {
+   "space": "아니오",
+   "why": "지구 위 환상 희극만"
+  },
+  "stung_2015": {
+   "space": "아니오",
+   "why": "시골 저택 괴물 벌 소동"
+  },
+  "the_carrier_2015": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "the_survivalist_2015": {
+   "space": "아니오",
+   "why": "문명 붕괴 뒤 숲속 생존"
+  },
+  "y_pese_a_todo": {
+   "space": "아니오",
+   "why": "지구 위 감염자 생존물"
+  },
+  "z_for_zachariah": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 지구 생존자들"
+  },
+  "polnoe_prevrashchenie": {
+   "space": "아니오",
+   "why": "지구 위 변신 장치 희극"
+  },
+  "eliksir_zinchenko": {
+   "space": "아니오",
+   "why": "지구 위 부활 영약 희극"
+  },
+  "a_cure_for_wellness": {
+   "space": "아니오",
+   "why": "알프스 요양원, 우주 없음"
+  },
+  "a_feher_kiraly": {
+   "space": "아니오",
+   "why": "지구 위 독재 체제 이야기"
+  },
+  "alien_grounds": {
+   "space": "예",
+   "why": "복고풍 우주 이야기 단편"
+  },
+  "ares_benes": {
+   "space": "아니오",
+   "why": "기업이 쥔 프랑스, 지구 위",
+   "cyberpunk": true
+  },
+  "en_tu_cabeza": {
+   "space": "아니오",
+   "why": "시간 여행과 마음 개입, 지구 위"
+  },
+  "fuga_da_reuma_park": {
+   "space": "아니오",
+   "why": "미래 요양원 희극, 우주 없음"
+  },
+  "hurok_2016": {
+   "space": "아니오",
+   "why": "시간 고리 범죄극, 우주 없음"
+  },
+  "kill_command": {
+   "space": "아니오",
+   "why": "훈련 섬의 전투 기계, 지구 위"
+  },
+  "monolith_silvestrini": {
+   "space": "아니오",
+   "why": "사막 길 위 똑똑한 차 이야기"
+  },
+  "native_2016": {
+   "space": "예",
+   "why": "다른 행성 남매의 우주선 임무"
+  },
+  "realive": {
+   "space": "아니오",
+   "why": "냉동인 부활, 지구 위"
+  },
+  "rewinder_julien": {
+   "space": "아니오",
+   "why": "물 바닥난 지구 시간 여행"
+  },
+  "scarecrowd_nevada": {
+   "space": "경계",
+   "why": "운석에서 온 것이 농부를 바꿈"
+  },
+  "sculpt_greaud": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "stille_reserven": {
+   "space": "아니오",
+   "why": "빚진 시민 착취 도시, 지구 위",
+   "cyberpunk": true
+  },
+  "sunspring": {
+   "space": "아니오",
+   "why": "앞날 세계 단편, 우주 근거 없음"
+  },
+  "the_call_up": {
+   "space": "아니오",
+   "why": "가상 현실 놀이, 우주 없음"
+  },
+  "the_creature_below": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "tunnelen_ovredal": {
+   "space": "아니오",
+   "why": "고속도로 자율 주행차, 지구 위"
+  },
+  "virtual_revolution": {
+   "space": "아니오",
+   "why": "가상 세계 거대 도시, 지구 위",
+   "cyberpunk": true
+  },
+  "volt_ehlail": {
+   "space": "아니오",
+   "why": "닫힌 국경 빈민가, 지구 위"
+  },
+  "wir_sind_die_flut": {
+   "space": "아니오",
+   "why": "사라진 바다 수수께끼, 지구 위"
+  },
+  "vzlomat_blogerov": {
+   "space": "아니오",
+   "why": "컴퓨터 속 소동 희극"
+  },
+  "den_do": {
+   "space": "아니오",
+   "why": "혜성 종말 앞 하루, 지구 위"
+  },
+  "superbobrovy": {
+   "space": "아니오",
+   "why": "운석 초능력 희극, 지구 위"
+  },
+  "addio_fottuti_musi_verdi": {
+   "space": "예",
+   "why": "외계인 우주선에 일하러 감"
+  },
+  "antimarteria": {
+   "space": "아니오",
+   "why": "마약 쟁탈 소동, 우주 없음"
+  },
+  "bugday_grain": {
+   "space": "아니오",
+   "why": "장벽 도시 유전자 위기, 지구 위"
+  },
+  "fluido_cheang": {
+   "space": "아니오",
+   "why": "체액 마약 쟁탈, 지구 위"
+  },
+  "gatta_cenerentola": {
+   "space": "아니오",
+   "why": "나폴리 항구 배 위 이야기"
+  },
+  "hostile_turi": {
+   "space": "아니오",
+   "why": "재앙 뒤 폐허, 지구 위"
+  },
+  "im_infinita_come_lo_spazio": {
+   "space": "아니오",
+   "why": "다른 차원 감각, 우주 없음"
+  },
+  "il_demone_di_laplace": {
+   "space": "아니오",
+   "why": "결정론 공포극, 우주 없음"
+  },
+  "jugend_ohne_gott": {
+   "space": "아니오",
+   "why": "엘리트 심사 캠프, 지구 위"
+  },
+  "les_garcons_sauvages": {
+   "space": "아니오",
+   "why": "배와 섬의 환상극, 우주 없음"
+  },
+  "life_guidance": {
+   "space": "아니오",
+   "why": "지구 위 관리 사회"
+  },
+  "molly_meuwese": {
+   "space": "아니오",
+   "why": "종말 뒤 지구 떠돌이"
+  },
+  "problemos_judor": {
+   "space": "아니오",
+   "why": "역병 뒤 공동체 희극, 지구 위"
+  },
+  "rendel": {
+   "space": "아니오",
+   "why": "지구 위 복면 자경단 활극"
+  },
+  "rewind_die_zweite_chance": {
+   "space": "아니오",
+   "why": "시간 넘은 살인 수사, 지구 위"
+  },
+  "alien_invasion_sum1": {
+   "space": "경계",
+   "why": "외계 침공 뒤 지구 요새 초소"
+  },
+  "salient_minus_ten": {
+   "space": "아니오",
+   "why": "생사 놀이 단편, 우주 없음"
+  },
+  "sign_gene": {
+   "space": "아니오",
+   "why": "유전자 초능력자, 지구 위"
+  },
+  "the_broken_key_nero": {
+   "space": "아니오",
+   "why": "정보 독점 기업 사회, 지구 위"
+  },
+  "the_cured_freyne": {
+   "space": "아니오",
+   "why": "좀비 역병 뒤 사회, 지구 위"
+  },
+  "the_discovery_2017": {
+   "space": "아니오",
+   "why": "사후 세계 증명, 우주 없음"
+  },
+  "tantsy_nasmert": {
+   "space": "아니오",
+   "why": "핵전쟁 뒤 지구 춤 대회"
+  },
+  "tsenzor_shelepov": {
+   "space": "아니오",
+   "why": "가상 현실 단속 경찰, 지구 위"
+  },
+  "beyond_white_space": {
+   "space": "예",
+   "why": "우주 끝 상선이 주 무대"
+  },
+  "black_site_2018": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "commando_ninja": {
+   "space": "아니오",
+   "why": "활극 희극, 우주 없음"
+  },
+  "diamantino": {
+   "space": "아니오",
+   "why": "축구 스타 희극, 지구 위"
+  },
+  "durante_la_tormenta": {
+   "space": "아니오",
+   "why": "엇갈린 시간대, 우주 없음"
+  },
+  "doverny_nepriatel": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "endzeit_vieweg": {
+   "space": "아니오",
+   "why": "좀비 뒤 두 도시, 지구 위"
+  },
+  "in_my_room_koehler": {
+   "space": "아니오",
+   "why": "사람이 사라진 지구 홀로"
+  },
+  "jessica_forever": {
+   "space": "아니오",
+   "why": "소년 무리 떠돌이, 우주 없음"
+  },
+  "la_nuit_a_devore_le_monde": {
+   "space": "아니오",
+   "why": "좀비 파리 생존, 지구 위"
+  },
+  "mars_2018_tucek": {
+   "space": "예",
+   "why": "화성 기지가 주 무대"
+  },
+  "neuf_doigts_ossang": {
+   "space": "아니오",
+   "why": "바다 위 화물선 누아르"
+  },
+  "patient_zero_2018": {
+   "space": "아니오",
+   "why": "광견병 역병 뒤, 지구 위"
+  },
+  "redcon_1": {
+   "space": "아니오",
+   "why": "좀비 봉쇄 구역, 지구 위"
+  },
+  "souls_of_totality": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "tito_e_gli_alieni": {
+   "space": "경계",
+   "why": "우주 소리 듣기, 사람은 지구에"
+  },
+  "unterwerfung_houellebecq": {
+   "space": "아니오",
+   "why": "정치 앞날 소설, 우주 없음"
+  },
+  "white_chamber_2018": {
+   "space": "아니오",
+   "why": "고문실 스릴러, 지구 위"
+  },
+  "tolko_ne_oni": {
+   "space": "아니오",
+   "why": "종말 시작 희극, 지구 위"
+  },
+  "a_living_dog": {
+   "space": "아니오",
+   "why": "무인기 전쟁, 지구 위"
+  },
+  "ang_hupa_diaz": {
+   "space": "아니오",
+   "why": "화산 재앙 뒤 필리핀"
+  },
+  "appena_un_minuto": {
+   "space": "아니오",
+   "why": "일 분 되돌리기 희극"
+  },
+  "bacurau": {
+   "space": "아니오",
+   "why": "오지 마을 무인기, 외계 없음"
+  },
+  "benny_loves_you": {
+   "space": "아니오",
+   "why": "살인 인형 공포 희극"
+  },
+  "blood_machines": {
+   "space": "예",
+   "why": "우주선 인공지능 추격"
+  },
+  "bullets_of_justice": {
+   "space": "아니오",
+   "why": "돼지 초병사, 지구 위"
+  },
+  "creators_the_past": {
+   "space": "예",
+   "why": "은하 평의회가 큰 축"
+  },
+  "das_letzte_land": {
+   "space": "예",
+   "why": "사막 행성 우주선 탈출"
+  },
+  "die_letzten_fuenf_minuten": {
+   "space": "아니오",
+   "why": "세상 끝 몇 분, 지구 위"
+  },
+  "egy_masik_eletben": {
+   "space": "아니오",
+   "why": "환생 시험 회사, 우주 없음"
+  },
+  "el_hoyo": {
+   "space": "아니오",
+   "why": "수직 감옥 하나, 우주 없음"
+  },
+  "el_increible_finde_menguante": {
+   "space": "아니오",
+   "why": "주말 되풀이, 우주 없음"
+  },
+  "f_for_freaks": {
+   "space": "아니오",
+   "why": "장기 사냥 디스토피아"
+  },
+  "il_primo_natale": {
+   "space": "아니오",
+   "why": "성탄 시간 여행 희극"
+  },
+  "non_ci_resta_che_il_crimine": {
+   "space": "아니오",
+   "why": "시간 문 범죄 희극"
+  },
+  "paradise_hills": {
+   "space": "아니오",
+   "why": "외딴섬 교정 시설"
+  },
+  "pisica_verde": {
+   "space": "아니오",
+   "why": "다른 현실 도시 탐정극"
+  },
+  "sea_fever": {
+   "space": "아니오",
+   "why": "바다 위 고깃배 기생 생물"
+  },
+  "space_ninjas": {
+   "space": "경계",
+   "why": "우주 닌자가 학교를 침공"
+  },
+  "spycies": {
+   "space": "아니오",
+   "why": "미래 도시 첩보 활극"
+  },
+  "the_room_volckman": {
+   "space": "아니오",
+   "why": "소원 이뤄 주는 방, 지구 위"
+  },
+  "the_silence_leonetti": {
+   "space": "아니오",
+   "why": "동굴 괴물 습격, 지구 위"
+  },
+  "one_man_dies_a_million_times": {
+   "space": "아니오",
+   "why": "굶주림 앞날 종자 은행"
+  },
+  "robo_andreasyan": {
+   "space": "아니오",
+   "why": "지구 위 로봇 친구 이야기"
+  },
+  "abigail_2019": {
+   "space": "아니오",
+   "why": "봉쇄 도시 비밀, 지구 위"
+  },
+  "alpha_code_2020": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "apart_galle": {
+   "space": "아니오",
+   "why": "종말 뒤 지구 추격"
+  },
+  "dune_drifter": {
+   "space": "예",
+   "why": "외계 종족과 우주 전쟁"
+  },
+  "estate_mieville": {
+   "space": "아니오",
+   "why": "이웃 단지 이야기, 우주 없음"
+  },
+  "exit_2020_marka": {
+   "space": "아니오",
+   "why": "인공지능 매각 다툼, 지구 위"
+  },
+  "in_vacanza_su_marte": {
+   "space": "예",
+   "why": "화성 가서 혼례 올림"
+  },
+  "lx_2048": {
+   "space": "아니오",
+   "why": "가상 현실 디스토피아, 지구 위"
+  },
+  "last_words_nossiter": {
+   "space": "아니오",
+   "why": "사막이 된 지구 생존자"
+  },
+  "le_dernier_voyage_2020": {
+   "space": "경계",
+   "why": "하늘의 새 행성, 무대는 지구"
+  },
+  "live_friederich": {
+   "space": "아니오",
+   "why": "가상 공간 봉쇄 사회"
+  },
+  "meandre_turi": {
+   "space": "아니오",
+   "why": "쇠 관 속 탈출극, 우주 없음"
+  },
+  "omega_rose": {
+   "space": "아니오",
+   "why": "종말 뒤 지구 떠돌이"
+  },
+  "poissonsexe": {
+   "space": "아니오",
+   "why": "바다 생물 멸종기, 지구 위"
+  },
+  "quimporte_si_les_betes_meurent": {
+   "space": "경계",
+   "why": "외계 존재가 온 듯한 이변"
+  },
+  "sky_sharks": {
+   "space": "아니오",
+   "why": "남극 나치 상어 희극"
+  },
+  "solitary_2020": {
+   "space": "예",
+   "why": "새 행성 가는 우주선 감방"
+  },
+  "max_cloud": {
+   "space": "예",
+   "why": "은하 감옥 행성 활극"
+  },
+  "the_trouble_with_being_born": {
+   "space": "아니오",
+   "why": "안드로이드 소녀, 지구 위"
+  },
+  "vera_de_verdad": {
+   "space": "아니오",
+   "why": "기억이 바뀐 소녀, 우주 근거 없음"
+  },
+  "zapada_ceai_si_dragoste": {
+   "space": "아니오",
+   "why": "물약 범죄 희극, 지구 위"
+  },
+  "oekozid_veiel": {
+   "space": "아니오",
+   "why": "기후 재판, 지구 위"
+  },
+  "gusar_2020": {
+   "space": "아니오",
+   "why": "시간 기계 희극, 지구 위"
+  },
+  "kolskaya_sverkhglubokaya": {
+   "space": "아니오",
+   "why": "땅속 시추공 공포"
+  },
+  "koma_2020": {
+   "space": "아니오",
+   "why": "혼수 속 조각 세계"
+  },
+  "realnye_patsany_protiv_zombi": {
+   "space": "아니오",
+   "why": "좀비 희극, 지구 위"
+  },
+  "after_blue": {
+   "space": "예",
+   "why": "여자만 사는 다른 행성"
+  },
+  "an_zero_luxembourg": {
+   "space": "아니오",
+   "why": "원전 사고 가상 기록"
+  },
+  "blood_red_sky": {
+   "space": "아니오",
+   "why": "비행기 안 흡혈 공포"
+  },
+  "das_haus_kurbjuweit": {
+   "space": "아니오",
+   "why": "인공지능 별장, 지구 위"
+  },
+  "dzien_w_ktorym_znalazlem": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "e_noi_come_stronzi": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "espiritu_sagrado": {
+   "space": "경계",
+   "why": "비행접시 믿는 모임, 지구 위"
+  },
+  "in_the_earth": {
+   "space": "아니오",
+   "why": "숲속 연구 기지 공포"
+  },
+  "infinitum_subject_unknown": {
+   "space": "아니오",
+   "why": "평행 세계 실험, 지구 위"
+  },
+  "la_pasajera_2021": {
+   "space": "경계",
+   "why": "외계 기생체가 길손에 깃듦"
+  },
+  "la_terra_dei_figli_gipi": {
+   "space": "아니오",
+   "why": "재앙 뒤 물가 부자, 지구 위"
+  },
+  "land_of_dreams_neshat": {
+   "space": "아니오",
+   "why": "꿈 기록하는 미국, 지구 위"
+  },
+  "mondocane": {
+   "space": "아니오",
+   "why": "종말 뒤 바닷가 빈민가"
+  },
+  "nr_10_warmerdam": {
+   "space": "경계",
+   "why": "외계 출신이 드러나는 이야기"
+  },
+  "sans_soleil_akseki": {
+   "space": "아니오",
+   "why": "디스토피아 드라마, 우주 없음"
+  },
+  "sideral_segundo": {
+   "space": "경계",
+   "why": "로켓 발사 곁 가족, 지구 위"
+  },
+  "the_seed_walker": {
+   "space": "경계",
+   "why": "운석 생물이 지구에 옴"
+  },
+  "tiempos_futuros": {
+   "space": "아니오",
+   "why": "비 없는 도시, 지구 위"
+  },
+  "untitled_earth_sim_64": {
+   "space": "아니오",
+   "why": "모의 현실 깨달음, 우주 없음"
+  },
+  "visitant_evangelio": {
+   "space": "아니오",
+   "why": "지하실 차원의 문, 지구 위"
+  },
+  "zero_elsberg": {
+   "space": "아니오",
+   "why": "감시 사회 스릴러, 지구 위"
+  },
+  "t_e_x2_simon": {
+   "space": "아니오",
+   "why": "3분 시간 고리, 지구 위"
+  },
+  "urpiknik": {
+   "space": "경계",
+   "why": "외계인이 부다페스트에 옴"
+  },
+  "zvyozdny_razum": {
+   "space": "예",
+   "why": "새 행성 가꾸러 우주선 떠남"
+  },
+  "major_grom_bubble": {
+   "space": "아니오",
+   "why": "도시 범죄 초인 탐정물"
+  },
+  "para_iz_budushchego": {
+   "space": "아니오",
+   "why": "시간 여행 부부 희극"
+  },
+  "aus_meiner_haut": {
+   "space": "아니오",
+   "why": "몸 바꾸기 드라마, 지구 위"
+  },
+  "blank_2022": {
+   "space": "아니오",
+   "why": "인공지능 휴양지, 지구 위"
+  },
+  "brian_and_charles": {
+   "space": "아니오",
+   "why": "시골 발명가 로봇 벗"
+  },
+  "bezna_selhani": {
+   "space": "아니오",
+   "why": "세 여자의 하루, 우주 없음"
+  },
+  "chien_51": {
+   "space": "아니오",
+   "why": "계급 나뉜 파리 감시 경찰",
+   "cyberpunk": true
+  },
+  "deus_the_dark_sphere": {
+   "space": "예",
+   "why": "화성 궤도 검은 구 탐사"
+  },
+  "era_ora_aronadio": {
+   "space": "아니오",
+   "why": "생일 시간 도약 희극"
+  },
+  "harmony_gailleurd": {
+   "space": "아니오",
+   "why": "숲속 안드로이드, 지구 위"
+  },
+  "ipersonnia": {
+   "space": "아니오",
+   "why": "과수면 교도소, 지구 위"
+  },
+  "lhomme_parfait_2022": {
+   "space": "아니오",
+   "why": "집안일 안드로이드 희극"
+  },
+  "la_paradoja_de_antares": {
+   "space": "경계",
+   "why": "외계 지성 신호, 사람은 지구에"
+  },
+  "manana_es_hoy": {
+   "space": "아니오",
+   "why": "가족 휴가 희극, 우주 없음"
+  },
+  "me_contro_te_persi_nel_tempo": {
+   "space": "아니오",
+   "why": "마법 모래시계 시간 여행"
+  },
+  "rubikon_lauritsch": {
+   "space": "예",
+   "why": "우주 정거장이 주 무대"
+  },
+  "siccita_virzi": {
+   "space": "아니오",
+   "why": "가뭄 디스토피아 로마"
+  },
+  "the_devil_conspiracy": {
+   "space": "아니오",
+   "why": "천사와 악마 음모, 우주 없음"
+  },
+  "the_ordinaries": {
+   "space": "아니오",
+   "why": "배역 계급 사회, 우주 없음"
+  },
+  "war_la_guerra_desiderata": {
+   "space": "아니오",
+   "why": "두 나라 전쟁 풍자, 지구 위"
+  },
+  "zanox": {
+   "space": "아니오",
+   "why": "기분 개선제 희극, 우주 없음"
+  },
+  "egbolt_skyquake": {
+   "space": "아니오",
+   "why": "하늘 소리 수수께끼, 지구 위"
+  },
+  "botan_i_superbaba": {
+   "space": "아니오",
+   "why": "전투 인조인간 희극, 지구 위"
+  },
+  "grozny_papa": {
+   "space": "아니오",
+   "why": "마법 시간 이동 희극"
+  },
+  "mira_2022": {
+   "space": "예",
+   "why": "우주 정거장 아버지가 한 축"
+  },
+  "nochnoy_rezhim": {
+   "space": "아니오",
+   "why": "꿈속 스승 스릴러, 우주 없음"
+  },
+  "phi_1618": {
+   "space": "예",
+   "why": "지구 떠나 은하 개척"
+  },
+  "a_mirror_of_the_cosmos": {
+   "space": "아니오",
+   "why": "죽어 가는 석호, 지구 위"
+  },
+  "anatar_zanoni": {
+   "space": "예",
+   "why": "외계 종족의 행성 약탈"
+  },
+  "animalia_alaoui": {
+   "space": "경계",
+   "why": "외계 존재가 온 듯한 비상"
+  },
+  "awareness_benmayor": {
+   "space": "아니오",
+   "why": "환영 비추는 초능력, 지구 위"
+  },
+  "boy_kills_world": {
+   "space": "아니오",
+   "why": "디스토피아 도시 활극"
+  },
+  "franta_mimozemstan": {
+   "space": "경계",
+   "why": "닮은 외계인이 지구에 옴"
+  },
+  "gamodi": {
+   "space": "아니오",
+   "why": "대유행 시기 이야기, 우주 없음"
+  },
+  "ik_ben_geen_robot": {
+   "space": "아니오",
+   "why": "사람 확인 시험, 우주 없음"
+  },
+  "il_migliore_dei_mondi": {
+   "space": "아니오",
+   "why": "평행 세계 90년대, 지구 위"
+  },
+  "jupiter_pfohl": {
+   "space": "아니오",
+   "why": "혜성 맞는 교단, 지구 위"
+  },
+  "lordine_del_tempo": {
+   "space": "아니오",
+   "why": "소행성 충돌 앞 잔치"
+  },
+  "la_bete_bonello": {
+   "space": "아니오",
+   "why": "인공지능 맞춤 파리, 지구 위"
+  },
+  "la_guerra_del_tiburtino_iii": {
+   "space": "경계",
+   "why": "운석 속 외계 벌레가 사람에"
+  },
+  "last_sentinel": {
+   "space": "아니오",
+   "why": "물 찬 지구 바다 초소"
+  },
+  "morin_getto": {
+   "space": "경계",
+   "why": "화성 이주는 배경, 무대는 지구"
+  },
+  "muanyag_egbolt": {
+   "space": "아니오",
+   "why": "돔 아래 부다페스트"
+  },
+  "paradise_kunz": {
+   "space": "아니오",
+   "why": "수명 거래 기업, 지구 위"
+  },
+  "sky_peals": {
+   "space": "경계",
+   "why": "아버지가 외계인일지 모름"
+  },
+  "the_end_we_start_from": {
+   "space": "아니오",
+   "why": "물에 잠긴 영국 피란길"
+  },
+  "woken_2023": {
+   "space": "아니오",
+   "why": "역병 속 외딴섬, 지구 위"
+  },
+  "salta_2023": {
+   "space": "아니오",
+   "why": "웜홀 시간 이동, 지구 위"
+  },
+  "kiberderevnya": {
+   "space": "예",
+   "why": "화성 농장과 기업 희극",
+   "cyberpunk": true
+  },
+  "svobodnoe_padenie_2023": {
+   "space": "예",
+   "why": "우주 조난 귀환이 주 무대"
+  },
+  "chuvstva_anny": {
+   "space": "경계",
+   "why": "외계 목소리 받아 적기"
+  },
+  "aire_just_breathe": {
+   "space": "아니오",
+   "why": "화학 전쟁 뒤 지구"
+  },
+  "apocalipsis_z_loureiro": {
+   "space": "아니오",
+   "why": "지구 위 감염자 역병"
+  },
+  "arena_wars_2024": {
+   "space": "아니오",
+   "why": "죄수 살인 경기, 지구 위"
+  },
+  "cest_le_monde_a_lenvers": {
+   "space": "아니오",
+   "why": "기후 붕괴 피란 희극"
+  },
+  "cuckoo_singer": {
+   "space": "아니오",
+   "why": "알프스 기이한 종, 우주 없음"
+  },
+  "der_pfad_mueller": {
+   "space": "경계",
+   "why": "이 세상 밖 존재가 쫓음"
+  },
+  "electric_child": {
+   "space": "아니오",
+   "why": "인공지능 거래, 지구 위"
+  },
+  "human_within": {
+   "space": "아니오",
+   "why": "의식 옮기기, 지구 위"
+  },
+  "irah_2024": {
+   "space": "아니오",
+   "why": "인공지능 기록 장치, 지구 위"
+  },
+  "igavene_suvi": {
+   "space": "아니오",
+   "why": "만남 앱 새 현실, 지구 위"
+  },
+  "invasion_clua": {
+   "space": "경계",
+   "why": "외계 침공 배경, 지구 위 이야기"
+  },
+  "justicia_artificial": {
+   "space": "아니오",
+   "why": "인공지능 판사, 지구 위"
+  },
+  "milchzaehne_bukowski": {
+   "space": "아니오",
+   "why": "고립 마을, 지구 위"
+  },
+  "on_i_ona": {
+   "space": "아니오",
+   "why": "집 인공지능 연애, 지구 위"
+  },
+  "planete_b": {
+   "space": "아니오",
+   "why": "낯선 세계는 가상 감옥, 지구 위"
+  },
+  "psychonaut_meuwese": {
+   "space": "아니오",
+   "why": "기억 속 치료 기계, 지구 위"
+  },
+  "the_assessment": {
+   "space": "아니오",
+   "why": "부모 심사 사회, 지구 위"
+  },
+  "the_end_oppenheimer": {
+   "space": "아니오",
+   "why": "땅속 벙커 음악극"
+  },
+  "timestalker_2024": {
+   "space": "아니오",
+   "why": "시대 넘는 사랑 희극"
+  },
+  "touchdown_2024": {
+   "space": "경계",
+   "why": "낯선 생물이 지구에 내림"
+  },
+  "she_loved_blossoms_more": {
+   "space": "아니오",
+   "why": "어머니 되살릴 기계, 지구 위"
+  },
+  "kazachok_serial": {
+   "space": "아니오",
+   "why": "17세기 시간 여행 희극"
+  },
+  "mame_snova_17": {
+   "space": "아니오",
+   "why": "몸 바뀐 시간 희극"
+  },
+  "piraty_galaktiki_barrakuda": {
+   "space": "경계",
+   "why": "외계인이 지구에 숨음"
+  },
+  "ty_kosmos": {
+   "space": "예",
+   "why": "토성 곁 우주 비행이 주 무대"
+  },
+  "unichtozhanna": {
+   "space": "아니오",
+   "why": "생각 읽는 주부 희극"
+  },
+  "ne_iskusstvenny_intellekt": {
+   "space": "아니오",
+   "why": "로봇 시험판 희극, 지구 위"
+  },
+  "atoman": {
+   "space": "아니오",
+   "why": "초인 해커 활극, 지구 위"
+  },
+  "brick_koch": {
+   "space": "아니오",
+   "why": "벽에 갇힌 건물, 우주 없음"
+  },
+  "bulk_2025": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "cyberpunk_romance": {
+   "space": "아니오",
+   "why": "뇌 잇는 앞날, 지구 위",
+   "cyberpunk": true
+  },
+  "dont_let_the_sun": {
+   "space": "아니오",
+   "why": "밤에만 사는 더운 지구"
+  },
+  "dracula_jude_2025": {
+   "space": "아니오",
+   "why": "관광지 극장 풍자, 우주 없음"
+  },
+  "egghead_republic": {
+   "space": "아니오",
+   "why": "줄거리 없음, 우주 근거 없음"
+  },
+  "kyma_londe_mysterieuse": {
+   "space": "경계",
+   "why": "외계 생물이 지구에 옴"
+  },
+  "le_grand_deplacement": {
+   "space": "예",
+   "why": "첫 우주선 외계 행성행"
+  },
+  "make_me_feel_2025": {
+   "space": "아니오",
+   "why": "무의식 속 치료, 지구 위"
+  },
+  "memory_of_princess_mumbi": {
+   "space": "아니오",
+   "why": "기술 금한 나라, 지구 위"
+  },
+  "milarepa_nero": {
+   "space": "아니오",
+   "why": "종말 뒤 수행자 이야기"
+  },
+  "o_ultimo_azul": {
+   "space": "아니오",
+   "why": "노인 보내는 나라, 지구 위"
+  },
+  "rose_of_nevada": {
+   "space": "아니오",
+   "why": "돌아온 어선 시간 넘기"
+  },
+  "singular_gastesi": {
+   "space": "아니오",
+   "why": "호숫가 수수께끼, 우주 없음"
+  },
+  "sirens_call_2025": {
+   "space": "아니오",
+   "why": "기록과 공상 섞은 길 영화"
+  },
+  "the_great_reset_2025": {
+   "space": "아니오",
+   "why": "의식 조각 인공지능, 지구 위"
+  },
+  "un_monde_merveilleux": {
+   "space": "아니오",
+   "why": "로봇 넘친 앞날, 지구 위"
+  },
+  "plemya_padshikh": {
+   "space": "아니오",
+   "why": "종말 뒤 무당 이야기"
+  },
+  "artek_skvoz_stoletiya": {
+   "space": "아니오",
+   "why": "1925년 시간 여행"
+  },
+  "zhdun_2025": {
+   "space": "경계",
+   "why": "우주선 부서져 외계인 옴"
+  },
+  "kraken_2025": {
+   "space": "아니오",
+   "why": "바다 밑 잠수함 수색"
+  },
+  "back_to_the_90s": {
+   "space": "아니오",
+   "why": "1995년 시간 여행 희극"
+  },
+  "cold_storage_koepp": {
+   "space": "경계",
+   "why": "우주에서 온 곰팡이가 지구에"
+  },
+  "corpus_delicti_zeh": {
+   "space": "아니오",
+   "why": "건강 체제 사회, 지구 위"
+  },
+  "el_rastre_del_llop": {
+   "space": "아니오",
+   "why": "파시스트 앞날, 지구 위"
+  },
+  "helen_die_entscheidung": {
+   "space": "아니오",
+   "why": "기후 디스토피아, 지구 위"
+  },
+  "her_private_hell": {
+   "space": "아니오",
+   "why": "안개 도시 이야기, 우주 없음"
+  },
+  "linconnue_harari": {
+   "space": "아니오",
+   "why": "몸 바뀌기 이야기, 우주 없음"
+  },
+  "my_notes_on_mars": {
+   "space": "아니오",
+   "why": "실종자 귀환, 무대는 지구"
+  },
+  "next_life_doremus": {
+   "space": "아니오",
+   "why": "평행 세계 사랑, 지구 위"
+  },
+  "orava_2026": {
+   "space": "아니오",
+   "why": "동물 사라진 지구 로봇"
+  },
+  "out_there_2026": {
+   "space": "경계",
+   "why": "외계인 납치를 믿는 소녀"
+  },
+  "quasi_vera_brizzi": {
+   "space": "아니오",
+   "why": "가상 유명인 만들기, 지구 위"
+  },
+  "the_end_of_it": {
+   "space": "아니오",
+   "why": "늙음 없는 앞날, 지구 위"
+  },
+  "dopolnitelnoe_vremya": {
+   "space": "아니오",
+   "why": "1999년 시간 여행"
+  },
+  "levsha_2026": {
+   "space": "아니오",
+   "why": "제국 첩보 활극, 우주 없음"
   }
  }
 }
