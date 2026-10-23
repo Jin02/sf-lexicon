@@ -22,6 +22,30 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=8g18jFHCLXk",
+          "what": "아라키스로 가는 폴의 이야기를 담은 영화 공식 예고편",
+          "by": "Warner Bros.",
+          "official": true
+        }
+      ],
+      "art": [
+        {
+          "page": "https://commons.wikimedia.org/wiki/File:Dune_by_Frank_Herbert_first_edition_cover.jpg",
+          "what": "『듄』 첫 판(1965) 표지 그림",
+          "by": "John Schoenherr",
+          "free": true,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Dune_by_Frank_Herbert_first_edition_cover.jpg/330px-Dune_by_Frank_Herbert_first_edition_cover.jpg",
+          "license": "퍼블릭 도메인(저작권 표시 없이 나온 미국 책 표지)"
+        },
+        {
+          "page": "https://ridibooks.com/books/682001434",
+          "what": "정식 한국어판 신장판 1권 『듄』 표지",
+          "by": "황금가지",
+          "free": false
+        }
       ]
     },
     {
@@ -47,6 +71,20 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wkDiyC82boU",
+          "what": "영화 속 귀족 가문들을 소개하는 공식 영상",
+          "by": "Warner Bros. Entertainment",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LwDtJyKME4c",
+          "what": "영화판 하코넨 남작 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -94,6 +132,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wkDiyC82boU",
+          "what": "영화 속 귀족 가문들을 소개하는 공식 영상",
+          "by": "Warner Bros. Entertainment",
+          "official": true
+        }
       ]
     },
     {
@@ -114,6 +160,14 @@
       "spoiler": true,
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=h7evAuT6Ifk",
+          "what": "영화판 유에 박사 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -136,6 +190,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JHwI1q4eEJg",
+          "what": "영화판 레토 공작 소개 영상",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -181,6 +243,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=h7evAuT6Ifk",
+          "what": "영화판 유에 박사 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -226,6 +296,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=E_R7UivB5kA",
+          "what": "영화판 레이디 제시카 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -249,6 +327,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JHwI1q4eEJg",
+          "what": "영화판 레토 공작 소개 영상",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -341,6 +427,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://www.google.com/search?tbm=bks&q=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%22%EB%AC%B4%EC%95%97%EB%94%A5%EC%9D%98+%EC%A7%80%ED%98%9C%22+OR+%22%EB%82%B4+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+%EC%A7%91%EC%97%90%EC%84%9C%22",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EfLtStz19r0",
+          "what": "영화 2편의 이룰란 공주를 소개하는 공식 영상",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -439,8 +533,8 @@
       "kind": "인용",
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
-      "summary": "무앗딥의 어록 가운데 아라키스가 사람에게 가르치는 단호함을 다룬 구절이다. 덜 끝난 것에 매달리지 않고 끊어 내는 태도를 사막에서 배운다는 생각이다. 사막의 삶이 미련을 버리는 결단을 요구한다는 것이 드러난다.",
-      "reveals": "사막은 미련 없이 잘라 내는 결단을 가르친다",
+      "summary": "무앗딥의 어록 가운데 아라키스가 사람에게 가르치는 단호함을 다룬 구절이다. 마무리되지 않은 일에 미련을 두지 않고 그 자리에서 끝을 받아들이는 태도를 사막에서 배운다는 생각이다. 사막의 삶이 미련을 버리는 결단을 요구한다는 것이 드러난다.",
+      "reveals": "사막의 삶은 미련을 버리는 결단을 요구한다",
       "terms": [
         "arrakis"
       ],
@@ -520,6 +614,20 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://www.google.com/search?tbm=bks&q=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%22%EB%AC%B4%EC%95%97%EB%94%A5%EC%9D%98+%EC%A7%80%ED%98%9C%22+OR+%22%EB%82%B4+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+%EC%A7%91%EC%97%90%EC%84%9C%22",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EfLtStz19r0",
+          "what": "영화 2편의 이룰란 공주를 소개하는 공식 영상",
+          "by": "Warner Bros.",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_YUzQa_1RCE",
+          "what": "황제와 사다우카가 나오는 영화 2편 공식 예고편",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -551,7 +659,7 @@
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
       "summary": "공주가 무앗딥의 예지에 한계가 있었다고 설명한다. 그는 늘 원하는 만큼 내다볼 수 없었고, 사소한 결정 하나가 미래 전체를 바꿀 수 있었으며, 안전해 보이는 길이 정체로 이어질까 늘 경계했다는 것이다. 이 세계의 예지가 전지가 아니라 제약 많은 힘이라는 것이 드러난다.",
-      "reveals": "예지는 시야가 막힌 골짜기처럼 한계가 있다",
+      "reveals": "예지는 원하는 만큼 다 보이지 않는 제약 많은 힘이다",
       "terms": [
         "prescience"
       ],
@@ -605,6 +713,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=5Sh1R0Eh4hc",
+          "what": "영화판 폴 아트레이데스 소개 영상",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -616,8 +732,8 @@
       "kind": "인용",
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
-      "summary": "무앗딥이 고향 칼라단을 돌아보며, 너무 편안한 곳에서 살아 아트레이데스 사람들이 날을 잃었다고 평가한다. 편안함에는 대가가 따른다는 생각이다. 칼라단과 아라키스가 편안함과 혹독함으로 맞서 있다는 것이 드러난다.",
-      "reveals": "편안한 칼라단은 사람을 물렁하게 만들었다",
+      "summary": "무앗딥이 고향 칼라단을 돌아보며, 너무 편안한 곳에서 살아 아트레이데스 사람들이 강인함을 잃었다고 평가한다. 편안함에는 대가가 따른다는 생각이다. 칼라단과 아라키스가 편안함과 혹독함으로 맞서 있다는 것이 드러난다.",
+      "reveals": "편안한 칼라단은 사람을 나약하게 만들었다",
       "terms": [
         "caladan"
       ],
@@ -650,6 +766,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://www.google.com/search?tbm=bks&q=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%22%EB%AC%B4%EC%95%97%EB%94%A5%EC%9D%98+%EC%A7%80%ED%98%9C%22+OR+%22%EB%82%B4+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+%EC%A7%91%EC%97%90%EC%84%9C%22",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EfLtStz19r0",
+          "what": "영화 2편의 이룰란 공주를 소개하는 공식 영상",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -746,6 +870,20 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://www.google.com/search?tbm=bks&q=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%22%EB%AC%B4%EC%95%97%EB%94%A5%EC%9D%98+%EC%A7%80%ED%98%9C%22+OR+%22%EB%82%B4+%EC%95%84%EB%B2%84%EC%A7%80%EC%9D%98+%EC%A7%91%EC%97%90%EC%84%9C%22",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_YUzQa_1RCE",
+          "what": "황제와 사다우카가 나오는 영화 2편 공식 예고편",
+          "by": "Warner Bros.",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EfLtStz19r0",
+          "what": "영화 2편의 이룰란 공주를 소개하는 공식 영상",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -779,7 +917,7 @@
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
       "summary": "무앗딥의 어록 가운데 진보라는 생각을 심리의 눈으로 본 짧은 구절이다. 진보에 대한 믿음조차 미래의 두려움을 달래는 위안일 수 있다는 냉정한 시각이 드러난다.",
-      "reveals": "진보는 미래의 두려움을 가리는 방패다",
+      "reveals": "진보에 대한 믿음은 미래의 두려움을 달래는 위안이다",
       "terms": [],
       "concepts": [],
       "spoiler": false,
@@ -809,6 +947,20 @@
       "spoiler": true,
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ztkXw5meZbM",
+          "what": "게임 속 아라키스 사막에서 살아남기 영상",
+          "by": "Funcom",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cua8lkfodmg",
+          "what": "영화판 스틸가 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -820,7 +972,7 @@
       "kind": "인용",
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
-      "summary": "공주의 책에 실린 짧은 시로, 쉼 없이 생각을 쏟아 내며 홀로 선 한 인물을 묘사한다. 공주의 책이 산문만이 아니라 시로도 인물을 그린다는 것이 드러난다.",
+      "summary": "공주의 책에 실린 짧은 시로, 말이 많고 생각이 빠르면서도 남과 섞이지 않는 한 인물을 그린다. 공주의 책이 산문만이 아니라 시로도 인물을 그린다는 것이 드러난다.",
       "reveals": "공주의 책은 시로도 인물을 그린다",
       "terms": [],
       "concepts": [],
@@ -863,7 +1015,7 @@
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
       "summary": "공주가 전하는 무앗딥의 말 가운데 논리와 우주의 관계를 다룬 짧은 구절이다. 이 세계가 논리로 다 풀리지 않는 곳이라는 생각이 드러난다.",
-      "reveals": "우주는 늘 논리보다 한 걸음 앞서 있다",
+      "reveals": "이 세계는 논리만으로 다 풀리지 않는다",
       "terms": [],
       "concepts": [],
       "spoiler": false,
@@ -1009,7 +1161,7 @@
       "kind": "인용",
       "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "이룰란 공주",
-      "summary": "공주가 결전의 날을 앞둔 아라키스를 우주의 중심으로 그린다. 우주의 운명이 한 사막 행성에 걸렸다는 것이 드러난다.",
+      "summary": "공주가 결전의 날 아침, 우주의 앞날이 아라키스 한 곳에 걸려 있었다고 적는다. 우주의 운명이 한 사막 행성에 걸렸다는 것이 드러난다.",
       "reveals": "우주의 운명이 한 사막 행성에 걸린다",
       "terms": [
         "arrakis"
@@ -1020,6 +1172,14 @@
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune",
         "https://www.google.com/search?tbm=bks&q=%EB%93%84+%ED%94%84%EB%9E%AD%ED%81%AC+%ED%97%88%EB%B2%84%ED%8A%B8+%22%EC%95%84%EB%9D%BC%ED%82%A4%EC%8A%A4%EC%9D%98+%EA%B0%81%EC%84%B1%22",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=U2Qp5pL3ovA",
+          "what": "결전으로 치닫는 영화 2편 공식 예고편",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -1068,6 +1228,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune-messiah",
         "https://ridibooks.com/books/682001433/preview"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "what": "『듄의 메시아』를 옮긴 영화 3편 공식 티저",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -1168,8 +1336,8 @@
       "kind": "인용",
       "where": "『듄의 메시아』(2권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "무앗딥",
-      "summary": "무앗딥이 제위에 오르는 순간 남긴 짧은 말이다. 황제가 되는 일조차 되풀이되는 역사의 한 막으로 보는 그의 시선이 드러난다.",
-      "reveals": "무앗딥은 제위를 되풀이되는 연극으로 본다",
+      "summary": "무앗딥이 제위에 오르는 순간 남긴 짧은 말이다. 황제가 되는 일조차 전에도 있었던 일이 다시 시작될 뿐이라고 보는 그의 담담한 시선이 드러난다.",
+      "reveals": "무앗딥은 제위에 오르는 일을 되풀이되는 역사로 본다",
       "terms": [
         "padishah_emperor"
       ],
@@ -1177,6 +1345,14 @@
       "spoiler": true,
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune-messiah"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "what": "『듄의 메시아』를 옮긴 영화 3편 공식 티저",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -1253,8 +1429,8 @@
       "kind": "인용",
       "where": "『듄의 메시아』(2권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "틀레이랙스의 짧은 경구로, 우상을 높이 세우는 일이 곧 그를 무너뜨리는 일이라고 비꼰다. 틀레이랙스가 신격화를 무기로 계산한다는 것이 드러난다.",
-      "reveals": "떠받들수록 추락도 크다는 틀레이랙스의 계산",
+      "summary": "틀레이랙스의 짧은 경구로, 사람을 신으로 받드는 일이 곧 그의 몰락을 준비하는 일이라고 비꼰다. 틀레이랙스가 신격화를 무기로 계산한다는 것이 드러난다.",
+      "reveals": "틀레이랙스는 신격화를 몰락의 덫으로 쓴다",
       "terms": [
         "bene_tleilax"
       ],
@@ -1327,6 +1503,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune-messiah",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "what": "『듄의 메시아』를 옮긴 영화 3편 공식 티저",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -1425,7 +1609,7 @@
       "where": "『듄의 메시아』(2권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "무앗딥",
       "summary": "칙령의 덧붙임에서 무앗딥이 법률의 복잡한 말이 서로에 대한 폭력을 감추려고 생겼다고 본다. 남에게 힘을 쓰는 모든 일은 그 사람의 힘을 빼앗는 일이라는 것이다. 권력 자체를 폭력으로 보는 그의 시각이 드러난다.",
-      "reveals": "모든 권력은 남의 힘을 먹고 산다",
+      "reveals": "남에게 힘을 쓰는 모든 일은 폭력이라는 시각",
       "terms": [],
       "concepts": [],
       "spoiler": true,
@@ -1443,7 +1627,7 @@
       "where": "『듄의 메시아』(2권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
       "summary": "무앗딥을 기리는 노래로, 그를 거룩한 순교자로 높인다. 무앗딥이 순교자로 신격화되어 노래된다는 것이 드러난다.",
-      "reveals": "무앗딥은 눈 없이 보는 순교자로 노래된다",
+      "reveals": "무앗딥은 거룩한 순교자로 신격화되어 노래된다",
       "terms": [
         "prescience"
       ],
@@ -1565,7 +1749,7 @@
       "kind": "인용",
       "where": "『듄의 메시아』(2권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "골라의 찬가로, 무앗딥을 장례도 없이 영원히 머무는 성자로 기린다. 무앗딥이 죽음 너머의 존재로 기려진다는 것이 드러난다.",
+      "summary": "골라가 무앗딥을 기리는 찬가로, 그를 죽음으로 끝나지 않는 신비로운 성자로 높인다. 무앗딥이 죽음 너머의 존재로 기려진다는 것이 드러난다.",
       "reveals": "무앗딥은 죽음 너머의 성자로 기려진다",
       "terms": [
         "deathstill",
@@ -1596,6 +1780,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/children-of-dune",
         "https://ridibooks.com/books/682001432/preview"
+      ],
+      "art": [
+        {
+          "page": "https://ridibooks.com/books/682001432",
+          "what": "정식 한국어판 신장판 3권 『듄의 아이들』 표지",
+          "by": "황금가지",
+          "free": false
+        }
       ]
     },
     {
@@ -2318,7 +2510,7 @@
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "팔림바샤",
       "summary": "시에치 타브르의 강연이 무앗딥의 미래 보기를 수학으로 설명하려 한다. 결론은 무앗딥이 여러 시간의 틀 가운데 하나로 자기 우주를 고정해 버렸다는 것이다. 예지가 우주를 한 가지 미래로 묶는 일이라는 해석이 드러난다.",
-      "reveals": "무앗딥의 예지는 우주를 한 시간 틀로 얼렸다",
+      "reveals": "무앗딥의 예지는 우주를 한 가지 미래에 묶어 버렸다",
       "terms": [
         "prescience",
         "sietch"
@@ -2394,6 +2586,14 @@
       "spoiler": false,
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/children-of-dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IIogIHCZBeE",
+          "what": "영화판 리에트 카인즈 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -2429,7 +2629,7 @@
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
       "summary": "무앗딥을 마디로 부르며 그를 자연의 힘을 부리는 존재로 노래한 짧은 찬가다. 무앗딥이 신처럼 노래된다는 것이 드러난다.",
-      "reveals": "무앗딥은 숨결로 폭풍을 부른 신으로 노래된다",
+      "reveals": "무앗딥은 자연을 부리는 신으로 노래된다",
       "terms": [
         "mahdi"
       ],
@@ -2499,8 +2699,8 @@
       "kind": "인용",
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "무앗딥 외전의 한 구절이 인류의 역사가 주기적으로 빨라지며 활력과 퇴폐가 다툰다고 본다. 역사가 되풀이되는 맥박으로 움직인다는 생각이 드러난다.",
-      "reveals": "역사는 가속과 퇴폐가 경주하는 맥박이다",
+      "summary": "무앗딥 외전의 한 구절이 인류의 역사가 주기적으로 빨라지며 활력과 퇴폐가 다툰다고 본다. 역사가 주기적으로 되풀이된다는 생각이 드러난다.",
+      "reveals": "인류의 역사는 활력과 퇴폐가 다투며 주기적으로 빨라진다",
       "terms": [],
       "concepts": [
         "cycle"
@@ -2563,8 +2763,8 @@
       "kind": "인용",
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "무앗딥",
-      "summary": "하르크 알 아다가 되살린 무앗딥의 말로, 평화를 위한 해법은 늘 진행 중이어야 하며 굳어 버린 해법은 죽은 것이라고 본다. 평화가 오히려 혁신을 억누를 수 있다는 무앗딥의 경계가 드러난다.",
-      "reveals": "고정된 해법은 죽은 해법이다",
+      "summary": "하르크 알 아다가 되살린 무앗딥의 말로, 평화를 위한 해법은 늘 고쳐 가며 다가가는 것이지 한 번에 정해지는 것이 아니라고 본다. 평화가 오히려 혁신을 억누를 수 있다는 무앗딥의 경계가 드러난다.",
+      "reveals": "평화를 위한 해법은 한 번에 정해지지 않는다",
       "terms": [],
       "concepts": [],
       "spoiler": false,
@@ -2799,7 +2999,7 @@
       "kind": "인용",
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "조합 안내서가 앞날의 가능성을 좁히는 길은 치명적인 덫이 될 수 있으며, 유성 생식이 낳는 다양성이 종을 지킨다고 말한다. 예지에 기대는 조합조차 미래가 한 길로 좁아지는 것을 두려워한다는 것이 드러난다.",
+      "summary": "조합 안내서가 앞날의 가능성을 좁히는 길은 종 전체를 위태롭게 할 수 있으며, 유성 생식이 낳는 다양성이 종을 지킨다고 말한다. 예지에 기대는 조합조차 미래가 한 길로 좁아지는 것을 두려워한다는 것이 드러난다.",
       "reveals": "조합은 미래가 한 길로 좁아지는 것을 두려워한다",
       "terms": [
         "spacing_guild",
@@ -2884,8 +3084,8 @@
       "kind": "인용",
       "where": "『듄의 아이들』(3권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "하르크 알 아다",
-      "summary": "하르크 알 아다가 예지가 예언자 자신에게 덫이 될 수 있다고 말한다. 자기 진실에 빠지면 반대편 없이는 아무것도 없다는 것을 잊는다는 것이다. 예지가 예언자를 가두는 덫이라는 것이 드러난다.",
-      "reveals": "예지는 예언자 자신을 가두는 덫이 된다",
+      "summary": "하르크 알 아다가 예지는 예언자 자신의 판단도 흐리게 할 수 있다고 말한다. 자기가 본 진실에 빠지면 모든 것에 반대편이 있다는 것을 잊는다는 것이다. 예지가 예언자에게도 위험한 힘이라는 것이 드러난다.",
+      "reveals": "예지는 예언자 자신도 위태롭게 한다",
       "terms": [
         "prescience"
       ],
@@ -2900,7 +3100,7 @@
     },
     {
       "id": "children_ep62",
-      "ko": "하르크 알 아다의 책 — 아버지의 굴레를 벗는 아이",
+      "ko": "하르크 알 아다의 책 — 아버지와 다른 길을 고르는 아이",
       "orig": "Harq al-Ada (The Harq al-Ada Biography)",
       "ko_status": "우리 표기",
       "ko_src": "작중 책 이름 하르크 알 아다의 책은(는) 황금가지 신장판(2021, 김승욱 옮김) 지은이 이름 '하르크 알 아다'는 3권 머리글 출처 표기(리디북스 미리보기)에서 확인했고, '— ' 뒤는 내용을 따 붙인 우리 말",
@@ -3509,8 +3709,8 @@
       "kind": "인용",
       "where": "『듄의 신황제』(4권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "무앗딥",
-      "summary": "구전 역사에 남은 무앗딥의 짧은 말로, 지도자의 문제를 신의 자리를 누가 맡느냐로 요약한다. 아버지 대부터 이어진 신격 통치의 고민이 드러난다.",
-      "reveals": "지도자의 문제는 누가 신이 되느냐다",
+      "summary": "구전 역사에 남은 무앗딥의 짧은 말로, 지도자를 세우는 일이 결국 누구에게 신과 같은 권한을 맡기느냐의 문제라고 본다. 아버지 대부터 이어진 신격 통치의 고민이 드러난다.",
+      "reveals": "지도자 문제는 누구에게 신 같은 권한을 맡기느냐다",
       "terms": [],
       "concepts": [
         "godlike"
@@ -3530,8 +3730,8 @@
       "kind": "인용",
       "where": "『듄의 신황제』(4권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "레토 2세",
-      "summary": "레토 2세가 자신을 백성의 부모이자 우주를 꿈꾸는 존재로 묘사한다. 신황제의 자기 신격화가 드러난다.",
-      "reveals": "신황제는 우주가 자신의 꿈이라 말한다",
+      "summary": "레토 2세가 자신을 백성의 부모이자, 사람들이 보는 우주를 지어내는 창조주로 내세운다. 신황제의 자기 신격화가 드러난다.",
+      "reveals": "신황제는 자신을 백성을 낳는 창조주로 내세운다",
       "terms": [
         "god_emperor"
       ],
@@ -3873,8 +4073,8 @@
       "kind": "인용",
       "where": "『듄의 신황제』(4권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "레토 2세",
-      "summary": "레토 2세가 낱말은 말하는 순간 뜻이 바뀌고 어떤 생각은 그 언어로만 표현된다며, 자신이 쓰는 공용어조차 하나의 굴레라고 말한다. 신황제가 언어와 번역의 한계를 깊이 의식한다는 것이 드러난다.",
-      "reveals": "제국의 공용어도 하나의 굴레다",
+      "summary": "레토 2세가 낱말은 말하는 순간 뜻이 바뀌고 어떤 생각은 그 언어로만 표현된다며, 자신이 쓰는 공용어로도 옛 생각을 온전히 옮길 수 없다고 말한다. 신황제가 언어와 번역의 한계를 깊이 의식한다는 것이 드러난다.",
+      "reveals": "제국의 공용어로는 옛 생각을 다 옮길 수 없다",
       "terms": [
         "god_emperor",
         "ghola"
@@ -3897,7 +4097,7 @@
       "where": "『듄의 신황제』(4권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "레토 2세",
       "summary": "레토 2세가 오랜 세월 서로를 바꾸는 생물들의 관계를 종교에 빗댄다. 종교도 사람을 바꾸고 사람에게 바뀌는 힘이라는 생각이 드러난다.",
-      "reveals": "종교는 포식자처럼 사람을 바꾸고 바뀐다",
+      "reveals": "종교와 사람은 오랜 세월 서로를 바꾼다",
       "terms": [],
       "concepts": [],
       "spoiler": true,
@@ -4107,6 +4307,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/heretics-of-dune",
         "https://ridibooks.com/books/682001430/preview"
+      ],
+      "art": [
+        {
+          "page": "https://ridibooks.com/books/682001430",
+          "what": "정식 한국어판 신장판 5권 『듄의 이단자들』 표지",
+          "by": "황금가지",
+          "free": false
+        }
       ]
     },
     {
@@ -4405,8 +4613,8 @@
       "kind": "인용",
       "where": "『듄의 이단자들』(5권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "체노에",
-      "summary": "체노에가 레토 2세와의 대화를 기록한 책의 한 구절로, 삶의 의미를 누가 만드는지에 대해 말한다. 삶의 가치는 저마다 스스로 불어넣어야 한다는 생각이 드러난다.",
-      "reveals": "삶의 의미는 스스로 불어넣는 것이다",
+      "summary": "체노에가 레토 2세와의 대화를 기록한 책의 한 구절로, 삶의 의미를 누가 만드는지에 대해 말한다. 삶의 가치는 저마다 스스로 마음먹고 만들어야 한다는 생각이 드러난다.",
+      "reveals": "삶의 의미는 저마다 스스로 만들어야 한다",
       "terms": [],
       "concepts": [],
       "spoiler": false,
@@ -4754,6 +4962,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/heretics-of-dune",
         "https://ridibooks.com/books/682001431/preview"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=uznEUUTXWMU",
+          "what": "영화판 거니 할렉 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -4962,6 +5178,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/heretics-of-dune",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=E_R7UivB5kA",
+          "what": "영화판 레이디 제시카 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
       ]
     },
     {
@@ -5056,7 +5280,7 @@
       "kind": "인용",
       "where": "『듄의 이단자들』(5권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "레토 1세",
-      "summary": "교단 기록에 남은 레토 공작의 말로, 정의를 남에게 바라지 않고 싸워서 얻는다는 태도를 보인다. 아라키스를 이기거나 죽는 땅으로 본 공작의 각오가 드러난다.",
+      "summary": "교단 기록에 남은 레토 공작의 말로, 정의를 남에게 바라지 않고 싸워서 얻는다는 태도를 보인다. 아라키스에서 살아남으려면 스스로 힘을 써야 한다는 공작의 각오가 드러난다.",
       "reveals": "레토 공작은 정의를 스스로 만드는 것으로 보았다",
       "terms": [
         "house_atreides",
@@ -5066,6 +5290,14 @@
       "spoiler": false,
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/heretics-of-dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=JHwI1q4eEJg",
+          "what": "영화판 레토 공작 소개 영상",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -5110,6 +5342,14 @@
       "refs": [
         "https://github.com/agoodno/fortune-dune/blob/HEAD/chapterhouse-dune",
         "https://ridibooks.com/books/682001429/preview"
+      ],
+      "art": [
+        {
+          "page": "https://ridibooks.com/books/682001429",
+          "what": "정식 한국어판 신장판 6권 『듄의 신전』 표지",
+          "by": "황금가지",
+          "free": false
+        }
       ]
     },
     {
@@ -5164,8 +5404,8 @@
       "kind": "인용",
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "베네 게세리트 코다가 규칙이 작은 권력의 성채가 되는 위험을 경고한다. 교단이 관료적 규칙을 위기의 적으로 본다는 것이 드러난다.",
-      "reveals": "교단은 규칙이 관료의 성채가 된다고 경계한다",
+      "summary": "베네 게세리트 코다가 규칙이 쌓이면 속 좁은 관리들이 그것을 핑계로 제 영역을 지키게 되는 위험을 경고한다. 교단이 관료적 규칙을 위기의 적으로 본다는 것이 드러난다.",
+      "reveals": "교단은 규칙이 관료의 텃세를 키운다고 경계한다",
       "terms": [
         "bene_gesserit"
       ],
@@ -5227,7 +5467,7 @@
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
       "summary": "젠수니 채찍의 경구로, 사람을 움직이려면 한 가지 수단으로는 부족하다는 생각을 담는다. 교단과 젠수니 전통이 사람을 다루는 법을 공유한다는 것이 드러난다.",
-      "reveals": "사람을 움직이려면 여러 줄이 필요하다",
+      "reveals": "사람을 다루려면 여러 수단을 함께 써야 한다",
       "terms": [
         "zensunni"
       ],
@@ -5560,8 +5800,8 @@
       "kind": "인용",
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "레토 2세",
-      "summary": "폭군 레토 2세의 짧은 말로, 시간이 직선이 아니라는 생각을 담는다. 그가 시간을 되도는 것으로 보았다는 것이 드러난다.",
-      "reveals": "폭군은 시간을 둥근 것으로 본다",
+      "summary": "폭군 레토 2세의 짧은 말로, 시간을 처음과 끝이 있는 한 방향의 흐름으로 보는 생각을 물리친다. 그가 시간을 되도는 것으로 보았다는 것이 드러난다.",
+      "reveals": "폭군은 시간이 앞으로만 흐르지 않는다고 본다",
       "terms": [
         "god_emperor"
       ],
@@ -5626,7 +5866,7 @@
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
       "summary": "멘타트 젠수피의 짧은 말로, 물음을 파고들수록 더 많은 물음이 나온다고 말한다. 멘타트와 젠수니 수행이 섞인 전통이 있다는 것이 드러난다.",
-      "reveals": "물음은 또 다른 물음을 매달고 있다",
+      "reveals": "물음을 파고들면 더 많은 물음이 나온다",
       "terms": [
         "mentat"
       ],
@@ -5686,7 +5926,7 @@
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
       "summary": "베네 게세리트 코다가 불쾌한 진실을 꾸미지 말고 거부할 것은 거부하라고 말한다. 교단이 본능적인 판단도 존중한다는 것이 드러난다.",
-      "reveals": "교단은 쓴 진실을 꾸미지 않는다",
+      "reveals": "교단은 불쾌한 진실을 꾸미지 않고 물리친다",
       "terms": [
         "bene_gesserit"
       ],
@@ -5960,7 +6200,7 @@
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "바샤르 테그",
       "summary": "바샤르 테그가 전투의 숨은 동기를 짧게 짚는다. 싸움 뒤에는 늘 공간을 바라는 욕망이 있다는 노장의 시각이 드러난다.",
-      "reveals": "모든 전투 뒤에는 숨 쉴 자리에 대한 욕망이 있다",
+      "reveals": "모든 전투 뒤에는 더 넓은 터전을 바라는 욕망이 있다",
       "terms": [
         "bashar"
       ],
@@ -5999,8 +6239,8 @@
       "kind": "인용",
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "가무에 전하는 이야기로, 본래 예측할 수 없는 우주를 무앗딥과 그 아들의 예지가 가둬 버렸다고 해석한다. 두 예지자가 우주의 우연을 막았다는 뒷시대의 시각이 드러난다.",
-      "reveals": "무앗딥 부자의 예지가 우주의 우연을 가뒀다",
+      "summary": "가무에 전하는 이야기로, 본래 예측할 수 없는 우주를 무앗딥과 그 아들의 예지가 예측할 수 있는 것으로 묶어 버렸다고 해석한다. 두 예지자가 우주의 우연을 막았다는 뒷시대의 시각이 드러난다.",
+      "reveals": "무앗딥 부자의 예지가 우주의 우연을 막았다",
       "terms": [
         "prescience",
         "god_emperor"
@@ -6073,15 +6313,15 @@
     },
     {
       "id": "chapterhouse_ep48",
-      "ko": "『젠수니 채찍』 — 이분법이라는 굴레",
+      "ko": "『젠수니 채찍』 — 이분법의 한계",
       "orig": "The Zensunni Whip",
       "ko_status": "우리 표기",
       "ko_src": "작중 책 이름의 정식판 표기를 확인하지 못해 원어(The Zensunni Whip) 뜻을 우리 말로 옮기고, '— ' 뒤는 내용을 따 붙임",
       "kind": "인용",
       "where": "『듄의 신전』(6권) 장 머리글로 붙은 작중 문서 인용",
       "speaker": "",
-      "summary": "젠수니 채찍의 경구로, 맞선 두 가지가 사람의 바람을 묶어 가둔다는 생각을 담는다. 이분법 자체를 굴레로 보는 젠수니 사고가 드러난다.",
-      "reveals": "반대쌍이 사람의 갈망을 가둔다",
+      "summary": "젠수니 채찍의 경구로, 세상을 맞선 두 쪽으로 나누어 보면 사람의 바람도 그 틀 안에서만 움직인다고 말한다. 이분법 자체를 벗어나야 할 한계로 보는 젠수니 사고가 드러난다.",
+      "reveals": "이분법이 사람의 바람을 좁힌다",
       "terms": [
         "zensunni"
       ],
@@ -6207,6 +6447,14 @@
       "spoiler": true,
       "refs": [
         "https://ridibooks.com/books/682001434/preview"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wkDiyC82boU",
+          "what": "영화 속 귀족 가문들을 소개하는 공식 영상",
+          "by": "Warner Bros. Entertainment",
+          "official": true
+        }
       ]
     },
     {
@@ -6230,6 +6478,16 @@
       "spoiler": false,
       "refs": [
         "https://ridibooks.com/books/682001434/preview"
+      ],
+      "art": [
+        {
+          "page": "https://commons.wikimedia.org/wiki/File:Map_of_Arrakis_from_Dune_first_edition_dust_jacket.jpg",
+          "what": "『듄』 첫 판(1965) 덧싸개의 아라키스 지도",
+          "by": "Dorothy de Fontaine",
+          "free": true,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Map_of_Arrakis_from_Dune_first_edition_dust_jacket.jpg/330px-Map_of_Arrakis_from_Dune_first_edition_dust_jacket.jpg",
+          "license": "퍼블릭 도메인(저작권 표시 없이 나온 미국 책 표지)"
+        }
       ]
     },
     {
@@ -6280,6 +6538,14 @@
       "refs": [
         "https://ridibooks.com/books/682001434/preview",
         "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OVboe-maygo",
+          "what": "영화판 곰 자바 장면을 감독이 풀어 주는 영상",
+          "by": "IGN",
+          "official": false
+        }
       ]
     },
     {
@@ -6330,6 +6596,14 @@
       "spoiler": true,
       "refs": [
         "https://ridibooks.com/books/682001433/preview"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "what": "『듄의 메시아』를 옮긴 영화 3편 공식 티저",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     },
     {
@@ -6356,6 +6630,169 @@
       "refs": [
         "https://ridibooks.com/books/682001433/preview",
         "https://github.com/agoodno/fortune-dune/blob/HEAD/dune-messiah"
+      ],
+      "art": [
+        {
+          "page": "https://commons.wikimedia.org/wiki/File:Dune_Messiah_(1969)_cover.jpg",
+          "what": "『듄의 메시아』 북클럽판(1969) 표지 그림",
+          "by": "Jack Gaughan",
+          "free": true,
+          "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dune_Messiah_%281969%29_cover.jpg/330px-Dune_Messiah_%281969%29_cover.jpg",
+          "license": "퍼블릭 도메인(저작권 표시 없이 나온 미국 책 표지)"
+        },
+        {
+          "page": "https://ridibooks.com/books/682001433",
+          "what": "정식 한국어판 신장판 2권 『듄의 메시아』 표지",
+          "by": "황금가지",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "dune_ep_warrior_mystic",
+      "ko": "『아라키스의 각성』 — 보통 잣대로 잴 수 없는 사람",
+      "orig": "Arrakis Awakening",
+      "ko_status": "우리 표기",
+      "ko_src": "작중 책 이름 『아라키스의 각성』은(는) 황금가지 신장판(2021, 김승욱 옮김) 1권 머리글 출처 표기(구글 북스 본문 검색 조각)에서 확인했고, '— ' 뒤는 내용을 따 붙인 우리 말",
+      "kind": "인용",
+      "where": "『듄』(1권) 장 머리글로 붙은 작중 문서 인용(3부 뒤쪽)",
+      "speaker": "이룰란 공주",
+      "summary": "3부의 한 머리글에서 공주는 무앗딥을 기리면서도 그를 깨끗한 영웅으로 다듬지 않는다. 그녀는 그의 너그러움과 잔혹함을 한자리에 놓고, 제 앞에 놓인 파멸을 알고도 나아간 그의 선택을 사람의 셈으로는 다 풀 수 없다고 본다. 무앗딥을 기리는 책조차 그를 성인으로만 그리지 않는다는 것이 드러난다.",
+      "reveals": "무앗딥은 승리의 순간 다가올 배신을 알고도 받아들였다",
+      "terms": [
+        "kwisatz_haderach",
+        "prescience"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune",
+        "https://www.litcharts.com/lit/dune/summary",
+        "https://www.gradesaver.com/dune/study-guide/summary-book-3-the-prophet-chapters-9-11"
+      ]
+    },
+    {
+      "id": "ocb_thinking_machines",
+      "ko": "『오렌지 가톨릭 성경』 — 생각하는 기계를 금하는 계명",
+      "orig": "Orange Catholic Bible (commandment against thinking machines)",
+      "ko_status": "우리 표기",
+      "ko_src": "경전 이름 『오렌지 가톨릭 성경』과 '버틀레리안 지하드'는 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, '— ' 뒤는 내용을 따 붙인 우리 말",
+      "kind": "인용",
+      "where": "『듄』(1권) 첫 장, 곰 자바 시험 뒤 대모와 폴이 나누는 대화",
+      "speaker": "가이우스 헬렌 모히암",
+      "summary": "시험을 마친 대모가 사람들이 옛날 생각하는 일을 기계에 맡겼다가 그 기계를 가진 다른 사람들의 노예가 되었다고 들려준다. 폴이 그 일을 금한 경전의 계명을 떠올리자, 대모는 버틀레리안 지하드와 오렌지 가톨릭 성경에 적힌 바른 문구로 고쳐 준다. 이 우주에 생각하는 기계가 없고 멘타트 같은 사람이 그 자리를 채우는 까닭이 이 계명에 있다는 것이 드러난다.",
+      "reveals": "생각하는 기계는 경전의 계명으로 금지되어 있다",
+      "terms": [
+        "orange_catholic_bible",
+        "butlerian_jihad",
+        "mentat",
+        "reverend_mother"
+      ],
+      "concepts": [
+        "ai_ban"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://en.wikiquote.org/wiki/Dune"
+      ]
+    },
+    {
+      "id": "mentat_first_law",
+      "ko": "멘타트의 첫째 법칙",
+      "orig": "The First Law of Mentat",
+      "ko_status": "우리 표기",
+      "ko_src": "정식판 표기를 확인하지 못해 원어(The First Law of Mentat) 뜻을 우리 말로 옮김. '멘타트'는 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인",
+      "kind": "인용",
+      "where": "『듄』(1권) 폴이 대모 앞에서 외는 멘타트 훈련의 첫 법칙",
+      "speaker": "폴",
+      "summary": "멘타트가 맨 먼저 익히는 생각의 법칙으로, 끊임없이 바뀌는 일을 어떤 자세로 이해해야 하는지를 다룬다. 폴은 대모 앞에서 이 법칙을 외어 자신이 멘타트 훈련도 받고 있음을 내보인다. 사람의 머리를 계산기처럼 기르는 멘타트 교육이 고정된 답보다 변화를 함께 좇는 생각을 앞세운다는 것이 드러난다.",
+      "reveals": "멘타트는 변화를 멈춰 보지 않고 함께 좇으며 이해하도록 배운다",
+      "terms": [
+        "mentat",
+        "reverend_mother"
+      ],
+      "concepts": [
+        "mental_discipline"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ]
+    },
+    {
+      "id": "bg_proverb_religion_politics",
+      "ko": "베네 게세리트의 격언 — 종교와 정치가 손잡을 때",
+      "orig": "Bene Gesserit proverb (religion and politics)",
+      "ko_status": "우리 표기",
+      "ko_src": "'베네 게세리트'는 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, '— ' 뒤는 내용을 따 붙인 우리 말",
+      "kind": "인용",
+      "where": "『듄』(1권) 3부, 제시카가 떠올리는 교단의 격언",
+      "speaker": "제시카",
+      "summary": "제시카가 교단에서 배운 오래된 격언을 떠올린다. 격언은 신앙과 권력이 하나가 된 무리는 스스로를 막을 것이 없다고 여겨, 앞에 놓인 위험을 끝내 깨닫지 못하게 된다고 경고한다. 교단이 종교를 다루면서도 그 힘이 걷잡을 수 없게 되는 순간을 늘 두려워해 왔다는 것이 드러난다.",
+      "reveals": "교단은 신앙과 권력이 한데 묶인 무리를 두려워한다",
+      "terms": [
+        "bene_gesserit",
+        "fremen"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ]
+    },
+    {
+      "id": "fremen_water_blessing",
+      "ko": "프레멘의 축복 말 — 창조주와 그의 물",
+      "orig": "Fremen saying (Bless the Maker and His Water)",
+      "ko_status": "우리 표기",
+      "ko_src": "'프레멘'은 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "인용",
+      "where": "『듄』(1권) 리에트 카인즈가 폴 앞에서 외는 프레멘의 축복 말",
+      "speaker": "리에트 카인즈",
+      "summary": "제국의 행성학자인 카인즈가 폴이 지켜보는 앞에서 저도 모르게 프레멘의 축복 말을 왼다. 축복은 모래벌레와 사막의 물을 함께 받들며, 그 벌레가 세상과 프레멘을 지켜 주는 존재라고 믿는 마음을 담는다. 사막의 벌레가 프레멘에게는 두려운 짐승이자 받드는 존재이며, 제국의 관리인 카인즈가 실은 프레멘의 신앙을 함께 지닌 사람이라는 것이 드러난다.",
+      "reveals": "프레멘은 모래벌레를 세상을 지키는 창조주로 받든다",
+      "terms": [
+        "fremen",
+        "sandworm",
+        "shai_hulud"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IIogIHCZBeE",
+          "what": "영화판 리에트 카인즈 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "arrakis_sayings",
+      "ko": "아라키스 사람들의 속담과 저주",
+      "orig": "Arrakeen and Fremen sayings",
+      "ko_status": "우리 표기",
+      "ko_src": "작품 안에 따로 붙은 이름이 없어 내용을 따 붙인 우리 말",
+      "kind": "인용",
+      "where": "『듄』(1권) 본문 여러 곳 — 아라킨 사람들과 프레멘이 입에 올리는 속담·저주",
+      "speaker": "",
+      "summary": "아라킨 마을 사람들은 도시의 세련됨보다 사막에서 얻는 지혜를 더 높이 친다. 프레멘은 낯선 것을 만나면 먼저 그 쓸모를 헤아리라고 가르치고, 원수에게는 싸움에서 무기를 잃기를 비는 저주를 퍼붓는다. 결투를 앞둔 프레멘 전사가 폴에게 바로 이 저주를 던진다. 칼과 사막이 삶의 중심인 사람들의 생각이 말버릇에 그대로 배어 있다는 것이 드러난다.",
+      "reveals": "아라키스 사람들은 사막을 지혜의 근원으로 여긴다",
+      "terms": [
+        "fremen",
+        "crysknife",
+        "arrakis"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
       ]
     },
     {
@@ -6381,6 +6818,251 @@
       "spoiler": true,
       "refs": [
         "https://ridibooks.com/books/682001431/preview"
+      ],
+      "art": [
+        {
+          "page": "https://ridibooks.com/books/682001431",
+          "what": "정식 한국어판 신장판 4권 『듄의 신황제』 표지",
+          "by": "황금가지",
+          "free": false
+        }
+      ]
+    },
+    {
+      "id": "line_gom_jabbar_test",
+      "ko": "곰 자바 시험에서 대모가 하는 말",
+      "orig": "Reverend Mother Mohiam's words at the gom jabbar test",
+      "ko_status": "우리 표기",
+      "ko_src": "'곰 자바'·'대모'·'가이우스 헬렌 모히암'은 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 첫 장, 칼라단 성에서 대모가 폴에게 곰 자바 시험을 치르는 장면",
+      "speaker": "가이우스 헬렌 모히암",
+      "summary": "대모는 공작의 아들인 폴을 낮추어 부르며, 상자 속 고통을 견디지 못하고 손을 빼면 독침으로 죽이겠다고 차갑게 못 박는다. 그녀에게 이 시험은 아픔 앞에서 본능을 누르고 버틸 수 있는지, 곧 사람인지 짐승인지를 가리는 일이다. 시험을 통과한 뒤에야 대모는 폴을 상대할 만한 사람으로 대하고, 교단이 찾는 존재와 그 까닭을 조금씩 들려준다. 베네 게세리트가 귀족 가문의 후계자까지 제 기준으로 시험해 가려 왔다는 것이 드러난다.",
+      "reveals": "교단은 고통을 견디는지로 사람과 짐승을 가른다",
+      "terms": [
+        "gom_jabbar",
+        "reverend_mother",
+        "bene_gesserit",
+        "kwisatz_haderach"
+      ],
+      "concepts": [
+        "humanity_test"
+      ],
+      "spoiler": false,
+      "refs": [
+        "https://ridibooks.com/books/682001434/preview",
+        "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OVboe-maygo",
+          "what": "영화판 곰 자바 장면을 감독이 풀어 주는 영상",
+          "by": "IGN",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "line_pardot_kynes_voice",
+      "ko": "죽어 가는 카인즈가 듣는 아버지의 목소리",
+      "orig": "Pardot Kynes's voice in Liet-Kynes's dying hallucination",
+      "ko_status": "우리 표기",
+      "ko_src": "'카인즈'는 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 2부, 사막에 버려진 리에트 카인즈가 환각 속에서 아버지의 목소리를 듣는 장면",
+      "speaker": "리에트 카인즈의 아버지",
+      "summary": "사막에 버려져 죽어 가던 카인즈의 귀에, 행성을 바꾸는 계획을 처음 세운 행성학자 아버지의 목소리가 되살아난다. 아버지는 행성을 다루는 학문의 목적과, 물과 땅과 사람이 한데 얽힌 체계를 다시 일깨우고, 사람들이 영웅을 떠받들게 되는 것을 가장 큰 재앙으로 꼽는다. 카인즈는 마지막 순간, 우주를 움직이는 것이 계획이 아니라 우연과 실수일지 모른다고 생각한다. 녹화 사업이 대를 이은 꿈이었고, 그 설계자가 구원자 신앙을 가장 경계했다는 것이 드러난다.",
+      "reveals": "녹화 사업의 설계자는 영웅 숭배를 가장 큰 재앙으로 보았다",
+      "terms": [
+        "ecological_transformation",
+        "fremen",
+        "arrakis"
+      ],
+      "concepts": [
+        "terraforming"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune",
+        "https://www.gradesaver.com/dune/study-guide/summary-book-2-muaddib-chapters-1-10"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IIogIHCZBeE",
+          "what": "영화판 리에트 카인즈 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "line_funeral_water",
+      "ko": "프레멘 장례에서 벗들이 하는 말",
+      "orig": "Fremen funeral ceremony",
+      "ko_status": "우리 표기",
+      "ko_src": "'프레멘'·'시에치'는 황금가지 신장판 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 2부, 결투에서 죽은 전사의 물을 거두는 시에치 장례",
+      "speaker": "",
+      "summary": "결투에서 죽은 전사를 보내는 자리에서, 그의 벗들이 한 사람씩 나와 자기가 그의 벗이었다고 밝히고 그와 함께한 일을 짧게 이야기한다. 그를 쓰러뜨린 폴은 그의 물과 짐을 이어받고, 죽은 이를 위해 눈물을 흘린다. 물을 무엇보다 아끼는 프레멘은 죽은 이에게 물을 바치는 그 눈물을 놀라운 일로 받아들인다. 프레멘의 장례가 죽은 이의 물과 짐을 공동체가 나누어 잇는 의식이라는 것이 드러난다.",
+      "reveals": "프레멘 장례는 죽은 이의 물과 짐을 공동체가 잇는 의식이다",
+      "terms": [
+        "fremen",
+        "sietch",
+        "deathstill"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune",
+        "https://www.gradesaver.com/dune/study-guide/summary-book-2-muaddib-chapters-11-15"
+      ]
+    },
+    {
+      "id": "line_paul_naming",
+      "ko": "폴이 프레멘 이름을 받는 장면",
+      "orig": "Paul takes the names Usul and Muad'Dib",
+      "ko_status": "우리 표기",
+      "ko_src": "'무앗딥'은 황금가지 신장판 1권 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 2부, 시에치 무리에 받아들여진 폴이 이름을 고르는 장면",
+      "speaker": "스틸가",
+      "summary": "무리의 우두머리 스틸가는 폴을 받아들이며 시에치 안에서만 부를 이름을 지어 주고, 바깥에서 쓸 이름은 폴이 스스로 고르게 한다. 폴은 프레멘이 사막의 지혜를 지닌 생물로 여기는 작은 쥐의 이름을 고르고, 프레멘은 그 선택을 반긴다. 프레멘이 이름을 안과 밖으로 나누어 쓰고, 무앗딥이라는 이름이 사막의 작은 생물에서 왔다는 것이 드러난다.",
+      "reveals": "무앗딥이라는 이름은 사막에서 살아남는 작은 쥐에서 왔다",
+      "terms": [
+        "fremen",
+        "sietch"
+      ],
+      "concepts": [],
+      "spoiler": false,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=FQRrmk_49Mo",
+          "what": "사막 쥐 무앗딥과 두 번째 달을 보여 주는 게임 영상",
+          "by": "Funcom",
+          "official": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cua8lkfodmg",
+          "what": "영화판 스틸가 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "line_paul_tent_vision",
+      "ko": "증류 텐트 속 폴의 각성",
+      "orig": "Paul's awakening in the stilltent",
+      "ko_status": "우리 표기",
+      "ko_src": "작품 안에 따로 붙은 이름이 없어 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 1부 끝, 사막으로 달아난 폴과 제시카가 작은 텐트에서 밤을 보내는 장면",
+      "speaker": "폴",
+      "summary": "아버지를 잃고 사막으로 달아난 밤, 스파이스가 짙게 밴 공기 속에서 폴의 예지가 한꺼번에 깨어난다. 폴은 슬픔조차 느끼지 못하는 차가운 정신으로 어머니에게 그녀의 숨은 핏줄을 밝히고, 자신이 교단의 계획이 기다린 것보다 이르게 온 존재라고 말한다. 그는 자신의 이름 아래 우주를 휩쓸 성전의 환영을 보고, 그 길을 피할 수 있을지 괴로워한다. 폴의 예지가 처음부터 피하고 싶은 미래와의 싸움으로 시작되었다는 것이 드러난다.",
+      "reveals": "폴의 예지는 피하고 싶은 성전의 환영으로 시작된다",
+      "terms": [
+        "prescience",
+        "kwisatz_haderach",
+        "spice_melange",
+        "jihad_of_muaddib"
+      ],
+      "concepts": [
+        "precognition"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune",
+        "https://www.gradesaver.com/dune/study-guide/summary-book-1-dune-chapters-13-22"
+      ]
+    },
+    {
+      "id": "line_paul_guild_ultimatum",
+      "ko": "폴이 황제와 조합에 내미는 조건",
+      "orig": "Paul's ultimatum to the Emperor and the Guild",
+      "ko_status": "우리 표기",
+      "ko_src": "'우주 조합'·'조합 항법사'·'패디샤 황제'는 황금가지 신장판 본문(리디북스 미리보기)에서 확인, 조각 이름은 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 3부 마지막 장, 아라킨에서 황제와 조합 항법사들 앞에 선 폴",
+      "speaker": "폴",
+      "summary": "싸움에서 이긴 폴은 황제와 조합 항법사들 앞에서, 자신이 아라키스의 스파이스를 영영 끊어 버릴 수단을 쥐고 있다고 밝힌다. 스파이스 없이는 조합의 배가 한 척도 뜰 수 없으니, 조합은 그의 뜻을 따를 수밖에 없다. 폴은 안전한 길만 고르는 조합의 예지를 비웃고, 황제에게 제위를 내놓고 황녀를 아내로 넘기라고 요구한다. 우주의 질서가 한 행성의 스파이스에 매달려 있고, 그것을 끊을 수 있는 자가 우주를 쥔다는 것이 드러난다.",
+      "reveals": "스파이스를 끊을 수 있는 자가 조합과 황제를 굴복시킨다",
+      "terms": [
+        "spacing_guild",
+        "guild_navigator",
+        "padishah_emperor",
+        "spice_melange"
+      ],
+      "concepts": [
+        "key_resource"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune",
+        "https://www.gradesaver.com/dune/study-guide/summary-book-3-the-prophet-chapters-9-11"
+      ]
+    },
+    {
+      "id": "line_jessica_last_words",
+      "ko": "마지막 장 제시카의 위로",
+      "orig": "Jessica's closing words",
+      "ko_status": "우리 표기",
+      "ko_src": "작품 안에 따로 붙은 이름이 없어 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄』(1권) 맨 끝, 폴의 혼인 약속을 지켜보는 제시카",
+      "speaker": "제시카",
+      "summary": "폴이 정치 때문에 황녀와 혼인하기로 하자, 제시카는 폴이 사랑하는 프레멘 여인을 위로한다. 황녀는 이름뿐인 아내로 남고 폴의 곁을 지키는 것은 그녀일 것이며, 역사가 기억할 쪽도 그녀라는 것이다. 제시카 자신도 공작의 정식 아내가 아니었기에 이 위로에는 자기 삶이 겹친다. 귀족의 혼인은 정치의 수단이고 사랑은 그 바깥에 남는다는 것이 드러난다.",
+      "reveals": "귀족의 혼인은 정치이고 사랑은 그 바깥에 남는다",
+      "terms": [
+        "padishah_emperor",
+        "fremen"
+      ],
+      "concepts": [
+        "feudal_space"
+      ],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=E_R7UivB5kA",
+          "what": "영화판 레이디 제시카 소개 영상",
+          "by": "IGN Movie Trailers",
+          "official": false
+        }
+      ]
+    },
+    {
+      "id": "line_paul_stilgar_statistics",
+      "ko": "폴이 스틸가에게 들려주는 옛 정복자들의 기록",
+      "orig": "Paul and Stilgar on the conquerors of old",
+      "ko_status": "우리 표기",
+      "ko_src": "작품 안에 따로 붙은 이름이 없어 내용을 따 붙인 우리 말",
+      "kind": "대사",
+      "where": "『듄의 메시아』(2권) 앞쪽, 폴이 스틸가와 옛 기록을 살피는 장면",
+      "speaker": "폴",
+      "summary": "폴은 스틸가에게 옛 지구의 이름난 정복자들이 군대를 보내 얼마나 많은 사람을 죽였는지 들려준다. 스틸가가 그 수가 대단치 않다고 여기자, 폴은 자기 이름으로 벌어진 성전이 죽이고 불모로 만든 사람과 행성의 수를 차갑게 늘어놓는다. 폴은 자신이 그 누구보다 큰 학살을 불렀다는 사실을 피하지 않고 마주하려 한다. 무앗딥의 성전이 옛 역사의 어떤 전쟁보다 큰 죽음을 낳았고, 그 무게를 아는 이가 황제 자신뿐이라는 것이 드러난다.",
+      "reveals": "무앗딥의 성전은 옛 정복자들보다 훨씬 큰 죽음을 낳았다",
+      "terms": [
+        "jihad_of_muaddib",
+        "fremen"
+      ],
+      "concepts": [],
+      "spoiler": true,
+      "refs": [
+        "https://en.wikiquote.org/wiki/Dune"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "what": "『듄의 메시아』를 옮긴 영화 3편 공식 티저",
+          "by": "Warner Bros.",
+          "official": true
+        }
       ]
     }
   ]
